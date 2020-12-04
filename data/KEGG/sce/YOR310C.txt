@@ -1,0 +1,65 @@
+ENTRY       YOR310C           CDS       T00005
+NAME        NOP58, NOP5
+DEFINITION  (RefSeq) RNA-processing protein NOP58
+ORTHOLOGY   K14565  nucleolar protein 58
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03008 Ribosome biogenesis in eukaryotes
+                YOR310C (NOP58)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YOR310C (NOP58)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Sno RNPs
+               Box C/D snoRNPs
+                YOR310C (NOP58)
+POSITION    XV:complement(896825..898360)
+MOTIF       Pfam: Nop NOP5NT DUF4604
+DBLINKS     NCBI-GeneID: 854487
+            NCBI-ProteinID: NP_014955
+            SGD: S000005837
+            UniProt: Q12499
+STRUCTURE   PDB: 6ND4
+AASEQ       511
+            MAYVLTETSAGYALLKASDKKIYKSSSLIQDLDSSDKVLKEFKIAAFSKFNSAANALEEA
+            NSIIEGKVSSQLEKLLEEIKKDKKSTLIVSETKLANAINKLGLNFNVVSDAVTLDIYRAI
+            KEYLPELLPGMSDNDLSKMSLGLAHSIGRHKLKFSADKVDVMIIQAIALLDDLDKELNTY
+            AMRCKEWYGWHFPELAKIVTDSVAYARIILTMGIRSKASETDLSEILPEEIEERVKTAAE
+            VSMGTEITQTDLDNINALAEQIVEFAAYREQLSNYLSARMKAIAPNLTQLVGELVGARLI
+            AHSGSLISLAKSPASTIQILGAEKALFRALKTKHDTPKYGLLYHASLVGQATGKNKGKIA
+            RVLAAKAAVSLRYDALAEDRDDSGDIGLESRAKVENRLSQLEGRDLRTTPKVVREAKKVE
+            MTEARAYNADADTAKAASDSESDSDDEEEEKKEKKEKKRKRDDDEDSKDSKKAKKEKKDK
+            KEKKEKKEKKEKKEKKEKKEKKSKKEKKEKK
+NTSEQ       1536
+            atggcttacgttttaactgaaacttcagctggttatgctcttttaaaagcttccgataag
+            aaaatctacaaatcttcaagcttaattcaagacttggatagctctgacaaagtcttgaag
+            gaattcaagatcgccgccttttccaagttcaactctgcagctaacgctttagaggaagcc
+            aactccattattgaaggtaaagtttcttcccaattagaaaaacttctggaagaaattaaa
+            aaggacaagaagtcgaccttgattgttagtgaaactaaactggcaaacgctattaataag
+            ttgggattgaacttcaatgttgtttccgatgctgtaaccttagatatctatagagctatc
+            aaagaatatttgccagaattgctgccaggtatgtctgataatgatctaagcaagatgtct
+            ttgggtttagctcattccatcggtcgtcacaaattaaaattttctgctgacaaagttgat
+            gttatgattattcaagcaattgctttattggatgatttagataaagaattaaacacatat
+            gccatgagatgtaaagaatggtacgggtggcactttcctgagttagctaagattgttact
+            gattccgtcgcttatgcgagaattattctaacaatgggtatcagatccaaggcttctgaa
+            acagatttgagtgaaatcttaccagaagagattgaagaacgtgtcaaaaccgctgctgaa
+            gtgtctatgggtactgaaatcactcaaaccgatctagacaacattaatgctttagctgaa
+            caaatagtcgaatttgccgcttacagagaacagttgtccaattacttgtctgcaagaatg
+            aaggctattgctccaaacttgactcagttggttggtgaattagttggtgctagacttatc
+            gctcattcaggttccttaatttccttggccaaatcaccagcttctaccatccaaatatta
+            ggtgccgaaaaggctttattcagagctttaaagaccaagcatgatacaccaaagtatggt
+            ttgctatatcatgcctctcttgttggtcaagctactggtaagaacaaaggtaagattgca
+            agagttctggctgctaaggccgctgtctcattgcgttatgatgctttagctgaagataga
+            gacgattcaggtgacattggtctagaatcaagagccaaagtagaaaatagattatcccaa
+            ttagaaggtagagatttaagaactactccaaaggttgttcgtgaggctaagaaggtggaa
+            atgactgaagctagggcctacaatgcagatgctgataccgcaaaggctgcttctgattct
+            gaatccgattctgatgatgaagaggaagaaaagaaagaaaagaaagaaaagaagagaaag
+            agagacgatgatgaagattccaaggattctaaaaaagctaagaaggaaaagaaggacaag
+            aaggaaaagaaggaaaagaaggaaaagaaggagaagaaagagaagaaagagaagaaggaa
+            aagaagtccaagaaagagaagaaagagaagaaataa
+///

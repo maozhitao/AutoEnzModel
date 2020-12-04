@@ -1,0 +1,57 @@
+ENTRY       YBL078C           CDS       T00005
+NAME        ATG8, APG8, AUT7, CVT5
+DEFINITION  (RefSeq) ubiquitin-like protein ATG8
+ORTHOLOGY   K08341  GABA(A) receptor-associated protein
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04136  Autophagy - other
+            sce04138  Autophagy - yeast
+            sce04139  Mitophagy - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04138 Autophagy - yeast
+                YBL078C (ATG8)
+               04136 Autophagy - other
+                YBL078C (ATG8)
+               04139 Mitophagy - yeast
+                YBL078C (ATG8)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YBL078C (ATG8)
+               04121 Ubiquitin system [BR:sce04121]
+                YBL078C (ATG8)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YBL078C (ATG8)
+            Membrane trafficking [BR:sce04131]
+             Autophagy
+              Autophagosome formation proteins
+               Atg8 conjugation proteins
+                YBL078C (ATG8)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitins and ubiquitin-like proteins
+              Ubiquitin-like proteins (UBLs)
+               YBL078C (ATG8)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial quality control factors
+              Mitophagy factors
+               Autophagy-related proteins
+                YBL078C (ATG8)
+POSITION    II:complement(80378..80731)
+MOTIF       Pfam: Atg8 APG12
+DBLINKS     NCBI-GeneID: 852200
+            NCBI-ProteinID: NP_009475
+            SGD: S000000174
+            UniProt: P38182
+STRUCTURE   PDB: 3RUI 3VH3 5YEC 3VH4 2ZPN 3VXW 2LI5 2KWC 2KQ7
+AASEQ       117
+            MKSTFKSEYPFEKRKAESERIADRFKNRIPVICEKAEKSDIPEIDKRKYLVPADLTVGQF
+            VYVIRKRIMLPPEKAIFIFVNDTLPPTAALMSAIYQEHKDKDGFLYVTYSGENTFGR
+NTSEQ       354
+            atgaagtctacatttaagtctgaatatccatttgaaaaaaggaaggcggagtcggagagg
+            attgctgacaggttcaagaataggatacctgtgatttgcgaaaaagctgaaaagtcagat
+            attccagagattgataagcgtaaatatctagttcctgctgaccttaccgtagggcaattt
+            gtttatgttataagaaagagaattatgctaccccctgagaaggccatcttcatttttgtc
+            aatgatactttgccacctactgcggcgttgatgtctgccatatatcaagaacacaaggat
+            aaggacgggtttttgtatgtcacttactcaggagaaaatacatttggcaggtag
+///

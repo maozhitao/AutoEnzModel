@@ -1,0 +1,56 @@
+ENTRY       YLR105C           CDS       T00005
+NAME        SEN2
+DEFINITION  (RefSeq) tRNA splicing endonuclease subunit SEN2
+ORTHOLOGY   K15322  tRNA-splicing endonuclease subunit Sen2 [EC:4.6.1.16]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YLR105C (SEN2)
+            Enzymes [BR:sce01000]
+             4. Lyases
+              4.6  Phosphorus-oxygen lyases
+               4.6.1  Phosphorus-oxygen lyases (only sub-subclass identified to date)
+                4.6.1.16  tRNA-intron lyase
+                 YLR105C (SEN2)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              tRNA spricing factors
+               tRNA splicing endonucleases
+                YLR105C (SEN2)
+POSITION    XII:complement(347047..348180)
+MOTIF       Pfam: tRNA_int_endo
+DBLINKS     NCBI-GeneID: 850795
+            NCBI-ProteinID: NP_013206
+            SGD: S000004095
+            UniProt: P16658
+AASEQ       377
+            MSKGRVNQKRYKYPLPIHPVDDLPELILHNPLSWLYWAYRYYKSTNALNDKVHVDFIGDT
+            TLHITVQDDKQMLYLWNNGFFGTGQFSRSEPTWKARTEARLGLNDTPLHNRGGTKSNTET
+            EMTLEKVTQQRRLQRLEFKKERAKLERELLELRKKGGHIDEENILLEKQRESLRKFKLKQ
+            TEDVGIVAQQQDISESNLRDEDNNLLDENGDLLPLESLELMPVEAMFLTFALPVLDISPA
+            CLAGKLFQFDAKYKDIHSFVRSYVIYHHYRSHGWCVRSGIKFGCDYLLYKRGPPFQHAEF
+            CVMGLDHDVSKDYTWYSSIARVVGGAKKTFVLCYVERLISEQEAIALWKSNNFTKLFNSF
+            QVGEVLYKRWVPGRNRD
+NTSEQ       1134
+            atgtctaaagggagggtcaatcagaagcgttacaagtatcctcttccaattcaccccgta
+            gatgaccttccagagttaatccttcataatccgttatcttggctatattgggcataccgc
+            tattacaagagtacgaacgcactgaacgataaagtacatgtagattttataggagatacc
+            actcttcacatcacggttcaagatgacaagcaaatgctatatctttggaataatggattt
+            tttggcactggtcaatttagcaggagtgagcctacatggaaagctagaacagaggccaga
+            ctgggtctcaatgatactcccctccacaatcggggaggaacaaagagtaatactgaaacg
+            gagatgactttagagaaggtcacacaacagaggagattacaaagattagagttcaagaaa
+            gaacgtgcgaagttagaaagagaattactagaattaagaaaaaaaggtggtcatatcgat
+            gaggaaaacatcctccttgagaaacaacgagaatcattaagaaaatttaaactaaaacaa
+            acagaagacgtgggcatcgttgcacaacagcaagacatttccgaatcaaatttaagagat
+            gaagacaacaatcttcttgatgagaacggtgatcttttgccactagagtcactagaacta
+            atgccagtggaagctatgtttttaacttttgcacttcctgttcttgacatatctcccgcg
+            tgcctggcagggaaactgtttcaattcgatgccaaatataaagatattcactcctttgtc
+            agatcatacgttatataccatcactacagatcacacggttggtgcgtaagatctggtata
+            aaattcggctgcgattatttattatataagagagggccaccatttcaacacgctgaattt
+            tgtgttatgggtcttgaccacgacgtctctaaagattatacgtggtattctagcatagcc
+            cgtgttgtgggcggcgcaaagaagacgtttgtgttatgctacgtggagagactaatctcg
+            gaacaggaggcgatagcactatggaaatcaaacaactttactaaattgttcaatagtttt
+            caagttggtgaagtattgtataagagatgggttcccggaagaaatagagactag
+///

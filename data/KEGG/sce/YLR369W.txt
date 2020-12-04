@@ -1,0 +1,105 @@
+ENTRY       YLR369W           CDS       T00005
+NAME        SSQ1, SSC2, SSH1
+DEFINITION  (RefSeq) Hsp70 family ATPase SSQ1
+ORTHOLOGY   K04043  molecular chaperone DnaK
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03018  RNA degradation
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03018 RNA degradation
+                YLR369W (SSQ1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YLR369W (SSQ1)
+               03110 Chaperones and folding catalysts [BR:sce03110]
+                YLR369W (SSQ1)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YLR369W (SSQ1)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YLR369W (SSQ1)
+            Messenger RNA biogenesis [BR:sce03019]
+             Prokaryotic type
+              Bacterial mRNA degradation factors
+               Other RNA degradation factors
+                Chaperones
+                 YLR369W (SSQ1)
+            Chaperones and folding catalysts [BR:sce03110]
+             Heat shock proteins
+              HSP70 / DNAK
+               YLR369W (SSQ1)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Inner mambrane
+               MINOS/MitOS complex
+                YLR369W (SSQ1)
+              Matrix
+               MMC/PAM proteins
+                YLR369W (SSQ1)
+             Mitochondrial quality control factors
+              Regulator of mitochondrial biogenesis
+               Proteins involved in Fe-S cluster biogenesis
+                YLR369W (SSQ1)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YLR369W (SSQ1)
+              Exosomal proteins of breast cancer cells
+               YLR369W (SSQ1)
+              Exosomal proteins of colorectal cancer cells
+               YLR369W (SSQ1)
+POSITION    XII:859552..861525
+MOTIF       Pfam: HSP70 MreB_Mbl FGGY_C TACC_C PHM7_cyt DUF87
+DBLINKS     NCBI-GeneID: 851084
+            NCBI-ProteinID: NP_013473
+            SGD: S000004361
+            UniProt: Q05931
+AASEQ       657
+            MLKSGRLNFLKLNINSRLLYSTNPQLTKKVIGIDLGTTNSAVAYIRDSNDKKSATIIEND
+            EGQRTTPSIVAFDVKSSPQNKDQMKTLVGMAAKRQNAINSENTFFATKRLIGRAFNDKEV
+            QRDMAVMPYKIVKCESNGQAYLSTSNGLIQSPSQIASILLKYLKQTSEEYLGEKVNLAVI
+            TVPAYFNDSQRQATKDAGKLAGLNVLRVINEPTAAALSFGIDDKRNNGLIAVYDLGGGTF
+            DISILDIEDGVFEVRATNGDTHLGGEDFDNVIVNYIIDTFIHENPEITREEITKNRETMQ
+            RLKDVSERAKIDLSHVKKTFIELPFVYKSKHLRVPMTEEELDNMTLSLINRTIPPVKQAL
+            KDADIEPEDIDEVILVGGMTRMPKIRSVVKDLFGKSPNSSVNPDETVALGAAIQGGILSG
+            EIKNVLLLDVTPLTLGIETFGGAFSPLIPRNTTVPVKKTEIFSTGVDGQAGVDIKVFQGE
+            RGLVRNNKLIGDLKLTGITPLPKGIPQIYVTFDIDADGIINVSAAEKSSGKQQSITVIPN
+            SGLSEEEIAKLIEEANANRAQDNLIRQRLELISKADIMISDTENLFKRYEKLISSEKEYS
+            NIVEDIKALRQAIKNFKANENDMSIDVNGIKKATDALQGRALKLFQSATKNQQNQGK
+NTSEQ       1974
+            atgcttaaatctggtagactcaactttctcaagttgaatatcaattcacgattactatac
+            tcaacgaaccctcaactgactaagaaggtcattggtatcgacctgggtaccacgaatagt
+            gctgttgcatatatccgtgattctaacgacaaaaaatcagctacaatcatagaaaatgat
+            gaaggacaacgaaccacaccatctatagttgcctttgatgtcaaaagctcgccacagaat
+            aaagatcaaatgaaaactcttgtagggatggcagctaaaaggcaaaatgctattaattct
+            gaaaacactttctttgctacaaagagacttattggccgtgcattcaacgacaaggaagtt
+            cagcgagatatggctgttatgccatataagattgtcaaatgtgagtcaaatgggcaagcc
+            tatctcagcacgtctaatggtctcattcaatcaccaagccagatagcatctatattactg
+            aaatacctgaaacaaacttcagaagaatacttaggcgaaaaggttaatttggcagttatt
+            acagttccagcatattttaatgattctcaaaggcaagccacaaaagatgccggcaagtta
+            gctggcctaaatgttttgagagttattaacgaaccaactgcggccgccttaagctttgga
+            attgatgataagaggaataatggattaattgcagtttacgatttgggtggtggtacattt
+            gacatatccatcttggacattgaagatggcgtgtttgaggttcgtgctactaatggtgac
+            acgcatttaggtggagaagattttgacaacgtcattgtaaactatattatagataccttc
+            attcatgaaaaccctgaaattacacgggaagaaattacgaagaacagggagacaatgcaa
+            aggttaaaagatgtttctgaaagagctaagatagatttatcccatgtgaagaaaactttt
+            atcgaacttccatttgtatacaaaagcaaacatctacgagtgccaatgacagaggaagag
+            ctggataatatgactttgtcattaatcaacaggactatcccacctgtgaagcaagcattg
+            aaagatgccgatatcgaaccggaggatatagatgaagtaatccttgttggtggtatgacc
+            cgtatgccaaagattagatctgttgtaaaagatctttttggtaagtctccaaattctagt
+            gttaacccagatgaaacagttgctttaggagcagctattcaaggtggtattctatccggt
+            gaaataaagaatgtcttacttttggatgtgacaccattgacattagggattgaaacattt
+            ggaggagcgttctcacccttgatacctagaaatacgacagttccagtaaaaaaaacagag
+            atatttagtactggtgttgatgggcaagcgggtgttgatatcaaagtttttcagggtgaa
+            agagggttagtgcgtaacaacaagttgattggtgatttgaaacttacaggaatcacccct
+            ttgcctaaaggcattccccaaatatatgttacttttgatatcgatgcggatggtatcatc
+            aacgtatctgccgctgagaaaagtagtgggaaacaacaatccattactgtaataccaaat
+            tctgggttaagcgaagaggaaattgcaaaacttattgaagaagcaaatgcaaatagggca
+            caagataacttgatcaggcaaaggttagagcttatctctaaggctgacattatgataagt
+            gatactgagaatttatttaaaagatatgaaaaactgatttctagcgaaaaagagtattct
+            aatatcgtagaggacatcaaagctctgagacaagctataaagaattttaaggctaacgaa
+            aatgacatgtcaattgatgtaaacggaataaaaaaagctacggatgcgctacagggtagg
+            gcattaaaattattccaaagcgcaacaaaaaaccagcagaatcaaggtaaataa
+///

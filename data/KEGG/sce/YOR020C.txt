@@ -1,0 +1,38 @@
+ENTRY       YOR020C           CDS       T00005
+NAME        HSP10, CPN10
+DEFINITION  (RefSeq) Hsp10p
+ORTHOLOGY   K04078  chaperonin GroES
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:sce03110]
+                YOR020C (HSP10)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YOR020C (HSP10)
+            Chaperones and folding catalysts [BR:sce03110]
+             Heat shock proteins
+              HSP10
+               YOR020C (HSP10)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Matrix
+               Other matrix factors
+                YOR020C (HSP10)
+POSITION    XV:complement(370524..370844)
+MOTIF       Pfam: Cpn10
+DBLINKS     NCBI-GeneID: 854185
+            NCBI-ProteinID: NP_014663
+            SGD: S000005546
+            UniProt: P38910
+AASEQ       106
+            MSTLLKSAKSIVPLMDRVLVQRIKAQAKTASGLYLPEKNVEKLNQAEVVAVGPGFTDANG
+            NKVVPQVKVGDQVLIPQFGGSTIKLGNDDEVILFRDAEILAKIAKD
+NTSEQ       321
+            atgtccacccttttgaagtctgctaaatctatcgttccattgatggaccgtgtccttgtc
+            caaagaatcaaggcacaagcaaagacagcatccgggttgtatttacctgaaaagaacgtg
+            gagaagttaaaccaagctgaagttgttgccgtaggcccgggctttactgatgctaatggt
+            aataaggttgttcctcaagttaaagttggtgaccaagttttgattccacagtttggtggt
+            tctaccattaaattgggtaacgacgatgaagttattcttttcagggacgctgaaatcctg
+            gctaagattgccaaggactaa
+///

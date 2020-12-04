@@ -1,0 +1,79 @@
+ENTRY       YIL046W           CDS       T00005
+NAME        MET30, ZRG11
+DEFINITION  (RefSeq) ubiquitin-binding SDF ubiquitin ligase complex subunit MET30
+ORTHOLOGY   K10259  F-box and WD-40 domain protein MET30
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04111  Cell cycle - yeast
+            sce04120  Ubiquitin mediated proteolysis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                YIL046W (MET30)
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YIL046W (MET30)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YIL046W (MET30)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               SCF complex
+                Target recognizing subunit (F-box)
+                 YIL046W (MET30)
+POSITION    IX:268651..270573
+MOTIF       Pfam: WD40 F-box-like Nup160 F-box WD40_like
+DBLINKS     NCBI-GeneID: 854765
+            NCBI-ProteinID: NP_012218
+            SGD: S000001308
+            UniProt: P39014
+AASEQ       640
+            MRRERQRMMSFEDKDKDDLDNSNSNNSSEMTDTAMMPPLKRLLITGSSDDLAQGSSGKKK
+            MTMATRSPSSSPDLATNDSGTRVQPLPEYNFTKFCYRHNPDIQFSPTHTACYKQDLKRTQ
+            EINANIAKLPLQEQSDIHHIISKYSNSNDKIRKLILDGILSTSCFPQLSYISSLVTHMIK
+            IDFISILPQELSLKILSYLDCQSLCNATRVCRKWQKLADDDRVWYHMCEQHIDRKCPNCG
+            WGLPLLHMKRARIQQNSTGSSSNADIQTQTTRPWKVIYRERFKVESNWRKGHCRIQEFKG
+            HMDGVLTLQFNYRLLFTGSYDSTIGIWDLFTGKLIRRLSGHSDGVKTLYFDDRKLITGSL
+            DKTIRVWNYITGECISTYRGHSDSVLSVDSYQKVIVSGSADKTVKVWHVESRTCYTLRGH
+            TEWVNCVKLHPKSFSCFSCSDDTTIRMWDIRTNSCLKVFRGHVGQVQKIIPLTIKDVENL
+            ATDNTSDGSSPQDDPTMTDGADESDTPSNEQETVLDENIPYPTHLLSCGLDNTIKLWDVK
+            TGKCIRTQFGHVEGVWDIAADNFRIISGSHDGSIKVWDLQSGKCMHTFNGRRLQRETQHT
+            QTQSLGDKVAPIACVCIGDSECFSGDEFGCVKMYKFDLND
+NTSEQ       1923
+            atgaggagagagaggcaaaggatgatgagtttcgaggacaaggacaaggacgaccttgac
+            aatagtaatagtaataacagcagtgaaatgacagatacggcgatgatgccaccattaaag
+            agattgcttattacgggcagtagcgatgatttggcacaaggatcatcgggtaagaagaag
+            atgacgatggcgacgaggtcgccatcgtcatcacccgatttggcgacaaacgacagcggc
+            actagggtacagccattgccagaatataacttcaccaagttctgctatcggcataacccg
+            gacattcagttctcaccaactcatacagcgtgctacaagcaggatttgaaacgaacgcaa
+            gagattaatgctaatatcgcgaagctacccctgcaggagcaatccgacatccaccacatt
+            atctcgaagtacagcaattccaatgacaagatacggaagctgattctggatgggatccta
+            tcgacgagttgcttcccacagctttcctacatttcgtcactcgttacacacatgatcaag
+            atcgacttcatcagcattctgccgcaggagctgtcgctgaagatcttgagttatctggat
+            tgccaatctctttgcaacgccacgagagtgtgccgcaagtggcagaagctcgcggatgac
+            gacagggtatggtaccacatgtgcgagcagcacatagacaggaaatgtcccaactgtggc
+            tgggggctgcctcttttgcacatgaaacgtgcgcggatacaacagaatagtacaggatct
+            agcagcaacgcagatatccagacgcaaactacgcgaccttggaaagtcatctacagagaa
+            cggttcaaagtggagtcaaactggagaaagggccactgcaggattcaggaattcaagggc
+            cacatggatggtgtgttaacgctccagtttaactacaggcttttgttcacaggctcgtac
+            gactccaccataggtatatgggacttattcacggggaagctaatacgaaggctcagcggc
+            cattcggacggcgtcaagacattatattttgacgatagaaagctgattacgggctcgctc
+            gacaagacgatccgtgtttggaactacataaccggtgaatgcatttccacgtatcgaggc
+            cactcggatagcgttctgagcgtagattcataccagaaggttatcgtttccggcagtgct
+            gacaagacggtcaaggtatggcacgtggagtccaggacatgctacaccttgagaggccac
+            acggaatgggttaattgcgtcaaattgcatccgaaaagcttttcatgttttagttgcagt
+            gacgataccacaatccgaatgtgggatatcaggaccaattcatgcctaaaagtgttcagg
+            ggtcatgtagggcaggtgcaaaagatcataccgcttaccattaaggatgtagagaatcta
+            gccaccgacaacacttctgatggcagctctccgcaggatgacccaacaatgactgatggt
+            gcagacgaatcagacacaccgtcgaacgagcaagaaactgtcttagatgaaaacatacct
+            tatccaacacatctactatcttgcggactggataacacaatcaaactatgggacgtcaaa
+            accggtaaatgcataagaacacagtttgggcacgtggaaggtgtttgggacatcgccgct
+            gacaacttcagaattataagtggttctcacgacggaagcattaaggtctgggacttgcaa
+            agcgggaagtgtatgcacacgttcaacggtcgaagactacaaagagaaactcagcacaca
+            caaacacaatccttgggtgataaagtcgcccctatcgcttgtgtttgtattggagattca
+            gaatgctttagtggtgatgaatttgggtgcgtaaaaatgtacaaattcgatctcaatgat
+            tag
+///

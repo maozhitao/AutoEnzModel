@@ -1,0 +1,61 @@
+ENTRY       YPR173C           CDS       T00005
+NAME        VPS4, CSC1, DID6, END13, GRD13, VPL4, VPT10
+DEFINITION  (RefSeq) AAA family ATPase VPS4
+ORTHOLOGY   K12196  vacuolar protein-sorting-associated protein 4
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04144  Endocytosis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04144 Endocytosis
+                YPR173C (VPS4)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YPR173C (VPS4)
+            Membrane trafficking [BR:sce04131]
+             Endosome - Lysosome transport
+              Endosomal sorting complexes required for transport (ESCRT)
+               ESCRT-III complex
+                YPR173C (VPS4)
+POSITION    XVI:complement(886524..887837)
+MOTIF       Pfam: AAA Vps4_C MIT AAA_lid_3 AAA_16 RuvB_N AAA_5 AAA_22 IstB_IS21 TIP49 AAA_14 DUF815 RNA_helicase AAA_2 AAA_18 AAA_33 AAA_24 AAA_17 AAA_25 AAA_7 Torsin Mg_chelatase Sigma54_activat PhoH Parvo_NS1 NACHT Zeta_toxin Use1
+DBLINKS     NCBI-GeneID: 856303
+            NCBI-ProteinID: NP_015499
+            SGD: S000006377
+            UniProt: P52917
+STRUCTURE   PDB: 5FVK 5FVL 2V6X 4NIQ 3EIE 2QP9 3MHV 6BMF 2QPA 3EIH 2RKO
+                 6NDY 5XMI 5XMK 6OO2 5UIE
+AASEQ       437
+            MSTGDFLTKGIELVQKAIDLDTATQYEEAYTAYYNGLDYLMLALKYEKNPKSKDLIRAKF
+            TEYLNRAEQLKKHLESEEANAAKKSPSAGSGSNGGNKKISQEEGEDNGGEDNKKLRGALS
+            SAILSEKPNVKWEDVAGLEGAKEALKEAVILPVKFPHLFKGNRKPTSGILLYGPPGTGKS
+            YLAKAVATEANSTFFSVSSSDLVSKWMGESEKLVKQLFAMARENKPSIIFIDEVDALTGT
+            RGEGESEASRRIKTELLVQMNGVGNDSQGVLVLGATNIPWQLDSAIRRRFERRIYIPLPD
+            LAARTTMFEINVGDTPCVLTKEDYRTLGAMTEGYSGSDIAVVVKDALMQPIRKIQSATHF
+            KDVSTEDDETRKLTPCSPGDDGAIEMSWTDIEADELKEPDLTIKDFLKAIKSTRPTVNED
+            DLLKQEQFTRDFGQEGN
+NTSEQ       1314
+            atgagcacgggagattttttaactaagggaatagaactggttcaaaaggccattgacctg
+            gacacagccacgcagtatgaggaggcgtatacagcatactataacggattagattatttg
+            atgttggctttgaaatacgagaaaaaccctaagtcgaaggatttgataagagcgaagttt
+            acagagtatctaaaccgtgcagagcagttgaaaaagcacttggaaagtgaagaggcaaac
+            gcggcaaagaaatctcctagcgctggtagtggttccaacggtggtaataagaaaatctct
+            caggaagagggtgaggataatggtggagaagacaacaaaaagctaagaggtgccttatcg
+            agtgctattttgtctgagaagcccaatgttaagtgggaagacgtggctggactggaagga
+            gccaaagaggcccttaaagaagccgttattttacctgtcaagttcccacatttgttcaaa
+            ggtaaccgtaagcccacttcgggaatcttattgtacggaccaccaggtacaggtaaatca
+            tatttggcaaaagcagtggccaccgaggccaattctacctttttcagtgttagttccagt
+            gatttggtttctaagtggatgggtgaatctgaaaaacttgtcaaacagttatttgcgatg
+            gcaagagaaaataaaccttctattatttttatagatgaagtggatgcgctaacaggtacc
+            agaggagaaggagagagcgaagcaagtagaagaattaaaacagaattattggtacaaatg
+            aatggtgttgggaatgactcccaaggtgttttggtccttggcgcaacaaatatcccatgg
+            caactggacagtgccatcaggagaagatttgaaagaagaatatatataccattaccagat
+            ttggcggcaagaaccaccatgttcgagattaacgtcggcgacactccatgcgtattgacc
+            aaggaagattatagaactttaggtgcaatgactgaaggttattccgggagtgatattgct
+            gtagtggtgaaagatgcgctaatgcaaccgataagaaaaattcaaagcgcgacacatttc
+            aaagatgtctctacggaggacgacgaaacaagaaaactaacaccatgctctccaggtgat
+            gatggcgccatcgagatgagttggacggatattgaagctgatgaattaaaagaaccagat
+            ctcaccataaaggatttcttaaaggctatcaaatcgacgagacctaccgtgaatgaggat
+            gacttgctgaagcaagaacagttcactagagattttggtcaagaaggtaactag
+///

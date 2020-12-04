@@ -1,0 +1,53 @@
+ENTRY       YKR087C           CDS       T00005
+NAME        OMA1
+DEFINITION  (RefSeq) metalloendopeptidase
+ORTHOLOGY   K23010  metalloendopeptidase OMA1, mitochondrial [EC:3.4.24.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YKR087C (OMA1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.-  
+                 YKR087C (OMA1)
+            Peptidases and inhibitors [BR:sce01002]
+             Metallo peptidases
+              Family M48: Ste24 endopeptidase family
+               YKR087C (OMA1)
+POSITION    XI:complement(603195..604232)
+MOTIF       Pfam: Peptidase_M48
+DBLINKS     NCBI-GeneID: 853962
+            NCBI-ProteinID: NP_013013
+            SGD: S000001795
+            UniProt: P36163
+AASEQ       345
+            MLRNIIRFKGFGKGTSGGFLKPVSFRVQLTRCYRYDNGPSYRRFNNGEYSQKSSFKSILL
+            DKSSRKYLALLFGGCSLFYYTHLDKAPVSDRSRFIWVSRPLELTIGNYTYKSIWRQTQQE
+            ILPPQHPLSIKIENIFMKIVEAAYKDPSVDNSLLDGIKWEIHVVNDPTASPNAFVLPGGK
+            VFIFSSILPICANDDGIATVLAHEFAHQLARHTAENLSKAPIYSLLGLVLYTVTGAHAIN
+            NILLDGFLRMPASRQMETEADYIGLMIMSRACFQPQESIKVWERMANFEKQMNRGGVVNM
+            EFLSTHPASTRRIENMSKWLPKANEIYEQSDCSSMGNYYKSFFSM
+NTSEQ       1038
+            atgttacgcaacatcatcaggttcaaaggatttggaaaagggaccagtggaggattttta
+            aaacctgtatcatttcgtgttcagttaacgcgatgttaccgctatgacaatggtccttca
+            tatcgtcgatttaataatggagagtattcccaaaaatcatcgtttaaaagcattcttctc
+            gataagtcatcaagaaaatacttagctttattatttggtggatgctctctcttttattat
+            acacatttggataaagcaccggtaagcgataggtccaggttcatctgggtatcgcgtcca
+            ttagagttaactatcggaaattacacatacaaatcaatttggagacaaacgcagcaggaa
+            atattacctccacagcatccgctgtccatcaaaattgagaatattttcatgaaaattgtc
+            gaagctgcttataaggaccctagtgtagacaactcactactggacggaatcaagtgggaa
+            attcatgtggtcaatgatccaactgcttcaccaaatgcattcgttttaccagggggtaag
+            gtctttatattcagctctattttacctatttgtgctaatgatgatgggattgccactgtt
+            ttagcacacgaatttgctcatcagctagcaagacacacagccgaaaatttgtcgaaggct
+            cctatatattctcttttgggtttggtgttatatactgttactggagctcatgctatcaac
+            aatatactattggatgggtttttgcgaatgccagcatcaagacagatggaaaccgaagct
+            gattacattggcctgatgataatgtcaagggcatgttttcaaccacaggagtcaataaaa
+            gtgtgggaaagaatggcaaattttgaaaagcaaatgaatagagggggtgttgtgaatatg
+            gagtttctaagtacacatccagcaagcactcgtagaatagagaatatgtcgaaatggttg
+            ccaaaagctaatgaaatttatgaacaatctgattgtagcagtatgggtaactattataaa
+            agttttttctcaatgtaa
+///

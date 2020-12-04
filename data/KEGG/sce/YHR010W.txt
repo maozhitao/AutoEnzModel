@@ -1,0 +1,40 @@
+ENTRY       YHR010W           CDS       T00005
+NAME        RPL27A, RPL27
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L27A
+ORTHOLOGY   K02901  large subunit ribosomal protein L27e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YHR010W (RPL27A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YHR010W (RPL27A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YHR010W (RPL27A)
+POSITION    VIII:join(126521..126551,127113..127492)
+MOTIF       Pfam: Ribosomal_L27e KOW
+DBLINKS     NCBI-GeneID: 856401
+            NCBI-ProteinID: NP_011874
+            SGD: S000001052
+            UniProt: P0C2H6
+STRUCTURE   PDB: 6EM5 6CB1
+AASEQ       136
+            MAKFLKAGKVAVVVRGRYAGKKVVIVKPHDEGSKSHPFGHALVAGIERYPLKVTKKHGAK
+            KVAKRTKIKPFIKVVNYNHLLPTRYTLDVEAFKSVVSTETFEQPSQREEAKKVVKKAFEE
+            RHQAGKNQWFFSKLRF
+NTSEQ       411
+            atggctaagttcttgaaagctggtaaagttgctgtcgttgtccgtggtcgttacgccggt
+            aagaaggttgttatcgttaaaccacatgatgaaggttccaagtctcacccatttggtcac
+            gctttggttgccggtattgaaagatacccattgaaggtcaccaagaagcacggtgccaag
+            aaggttgctaagagaaccaagatcaagcctttcatcaaggtcgtcaactacaaccattta
+            ttgccaaccagatacactttagatgttgaagctttcaaatccgttgtttctactgaaact
+            ttcgaacaaccttcccaacgtgaagaagctaagaaagtcgtcaagaaggctttcgaagaa
+            agacaccaagctggtaagaaccaatggttcttctctaagttgagattttaa
+///

@@ -1,0 +1,50 @@
+ENTRY       Q0250             CDS       T00005
+NAME        COX2, OXI1, OXII
+DEFINITION  (RefSeq) cytochrome c oxidase subunit 2
+ORTHOLOGY   K02261  cytochrome c oxidase subunit 2
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00190  Oxidative phosphorylation
+            sce01100  Metabolic pathways
+MODULE      sce_M00154  Cytochrome c oxidase
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                Q0250 (COX2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                Q0250 (COX2)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial DNA-encoded proteins
+               Cytochrome c oxidase
+                Q0250 (COX2)
+POSITION    MT:73758..74513
+MOTIF       Pfam: COX2 COX2_TM ASC
+DBLINKS     NCBI-GeneID: 854622
+            NCBI-ProteinID: NP_009326
+            SGD: S000007281
+            UniProt: P00410
+STRUCTURE   PDB: 6GIQ 6HU9
+AASEQ       251
+            MLDLLRLQLTTFIMNDVPTPYACYFQDSATPNQEGILELHDNIMFYLLVILGLVSWMLYT
+            IVMTYSKNPIAYKYIKHGQTIEVIWTIFPAVILLIIAFPSFILLYLCDEVISPAMTIKAI
+            GYQWYWKYEYSDFINDSGETVEFESYVIPDELLEEGQLRLLDTDTSMVVPVDTHIRFVVT
+            AADVIHDFAIPSLGIKVDATPGRLNQVSALIQREGVFYGACSELCGTGHANMPIKIEAVS
+            LPKFLEWLNEQ
+NTSEQ       756
+            atgttagatttattaagattacaattaacaacattcattatgaatgatgtaccaacacct
+            tatgcatgttattttcaggattcagcaacaccaaatcaagaaggtattttagaattacat
+            gataatattatgttttatttattagttattttaggtttagtatcttgaatgttatataca
+            attgttataacatattcaaaaaatcctattgcatataaatatattaaacatggacaaact
+            attgaagttatttgaacaatttttccagctgtaattttattaattattgcttttccttca
+            tttattttattatatttatgtgatgaagttatttcaccagctataactattaaagctatt
+            ggatatcaatgatattgaaaatatgaatattcagattttattaatgatagtggtgaaact
+            gttgaatttgaatcatatgttattcctgatgaattattagaagaaggtcaattaagatta
+            ttagatactgatacttctatagttgtacctgtagatacacatattagattcgttgtaaca
+            gctgctgatgttattcatgattttgctattccaagtttaggtattaaagttgatgctact
+            cctggtagattaaatcaagtttctgctttaattcaaagagaaggtgtcttctatggagca
+            tgttctgagttgtgtgggacaggtcatgcaaatatgccaattaagatcgaagcagtatca
+            ttacctaaatttttggaatgattaaatgaacaataa
+///

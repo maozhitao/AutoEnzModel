@@ -1,0 +1,83 @@
+ENTRY       YER168C           CDS       T00005
+NAME        CCA1, TNT1
+DEFINITION  (RefSeq) tRNA adenylyltransferase
+ORTHOLOGY   K00974  tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72 3.1.3.- 3.1.4.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03013  RNA transport
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03013 RNA transport
+                YER168C (CCA1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YER168C (CCA1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.72  CCA tRNA nucleotidyltransferase
+                 YER168C (CCA1)
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.-  
+                 YER168C (CCA1)
+               3.1.4  Phosphoric-diester hydrolases
+                3.1.4.-  
+                 YER168C (CCA1)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              3'processing and CCA adding factors
+               CCA adding factors
+                YER168C (CCA1)
+             Prokaryotic type
+                YER168C (CCA1)
+POSITION    V:complement(521029..522669)
+MOTIF       Pfam: PolyA_pol PolyA_pol_RNAbd tRNA_NucTran2_2 Ldi
+DBLINKS     NCBI-GeneID: 856915
+            NCBI-ProteinID: NP_011095
+            SGD: S000000970
+            UniProt: P21269
+AASEQ       546
+            MLRSTISLLMNSAAQKTMTNSNFVLNAPKITLTKVEQNICNLLNDYTDLYNQKYHNKPEP
+            LTLRITGGWVRDKLLGQGSHDLDIAINVMSGEQFATGLNEYLQQHYAKYGAKPHNIHKID
+            KNPEKSKHLETATTKLFGVEVDFVNLRSEKYTELSRIPKVCFGTPEEDALRRDATLNALF
+            YNIHKGEVEDFTKRGLQDLKDGVLRTPLPAKQTFLDDPLRVLRLIRFASRFNFTIDPEVM
+            AEMGDPQINVAFNSKISRERVGVEMEKILVGPTPLLALQLIQRAHLENVIFFWHNDSSVV
+            KFNEENCQDMDKINHVYNDNILNSHLKSFIELYPMFLEKLPILREKIGRSPGFQQNFILS
+            AILSPMANLQIIGNPKKKINNLVSVTESIVKEGLKLSKNDAAVIAKTVDSICSYEEILAK
+            FADRSQLKKSEIGIFLRNFNGEWETAHFASLSDAFLKIPKLETKKIELLFQNYNEFYSYI
+            FDNNLNNCHELKPIVDGKQMAKLLQMKPGPWLGKINNEAIRWQFDNPTGTDQELITHLKA
+            ILPKYL
+NTSEQ       1641
+            atgctacggtctactatatctctactgatgaatagtgctgctcagaaaacgatgacgaat
+            tctaattttgttctaaatgcacccaaaatcaccttaaccaaagtggaacagaacatctgt
+            aacttgctgaacgattatacagacttgtacaatcaaaagtaccacaataagcctgagcca
+            ttgactcttcggatcacgggcggatgggtgcgtgacaagcttctgggacaaggttctcac
+            gacttggatattgccatcaatgtgatgtcaggtgagcaatttgctactggtttgaacgag
+            tatttgcaacaacattacgccaaatatggagccaagcctcataatatccacaagattgac
+            aagaatcccgagaaatccaagcatctggaaactgccactactaagctctttggcgttgaa
+            gtggattttgtcaatttaagatctgaaaagtatactgaactttccaggatacctaaagtg
+            tgctttggcacacccgaggaagacgctttaagaagggatgctacattgaacgctcttttc
+            tataacattcataaaggtgaagtggaagatttcaccaagagaggtctgcaagatctaaaa
+            gatggcgttctccgtactccgcttcctgcaaaacaaacatttttggatgatcccttgagg
+            gttttgaggttgatccgttttgcttctagattcaactttaccatagatccggaagtgatg
+            gctgaaatgggcgatcctcagattaatgttgcattcaattcaaaaatttctagagagcga
+            gttggtgtggagatggagaaaatattagtaggaccaacccctttattggctttgcagctg
+            attcaaagggctcatcttgaaaatgttatctttttttggcataatgatagctccgtcgta
+            aaattcaacgaagagaattgtcaagatatggacaaaattaatcatgtatacaatgataac
+            atactaaactcacacttgaaaagttttattgaattatatccaatgtttttagagaagctt
+            cctatcttaagggaaaaaattggtcgttcgccaggatttcagcaaaattttatattgagt
+            gcgatcctgtcccccatggctaatttacaaataatcgggaacccaaagaagaaaattaac
+            aacctggtttcggtgacagaaagcattgtgaaggaaggattgaagctgagtaaaaatgat
+            gcagcagttattgccaagaccgtagattcaatatgttcatatgaggaaatacttgctaag
+            tttgcagatcgttcccagctaaaaaaatccgaaatcggtatatttctacggaactttaat
+            ggcgaatgggaaacagcacattttgcatctctatcagatgcatttttaaagattcccaag
+            cttgaaactaaaaaaattgaattacttttccaaaattacaatgaattttattcttacata
+            tttgacaataatttgaataattgtcatgaactaaaaccaatagtggacggaaaacaaatg
+            gcaaaactacttcaaatgaagccaggtccatggctgggtaaaattaataacgaagcgatt
+            aggtggcagtttgataatcctacagggactgatcaagaattaataactcatttaaaagcc
+            atactaccaaaatacctgtag
+///

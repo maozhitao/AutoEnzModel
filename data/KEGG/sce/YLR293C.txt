@@ -1,0 +1,89 @@
+ENTRY       YLR293C           CDS       T00005
+NAME        GSP1, CNR1, CST17
+DEFINITION  (RefSeq) Ran GTPase GSP1
+ORTHOLOGY   K07936  GTP-binding nuclear protein Ran
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+            sce03013  RNA transport
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03013 RNA transport
+                YLR293C (GSP1)
+               03008 Ribosome biogenesis in eukaryotes
+                YLR293C (GSP1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YLR293C (GSP1)
+               03009 Ribosome biogenesis [BR:sce03009]
+                YLR293C (GSP1)
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YLR293C (GSP1)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YLR293C (GSP1)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YLR293C (GSP1)
+               04031 GTP-binding proteins [BR:sce04031]
+                YLR293C (GSP1)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               Transport factors
+                Ran-mediated transport factors
+                 YLR293C (GSP1)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Pre-40S particles
+               Export and cytoplasmic maturation factors
+                YLR293C (GSP1)
+              Pre-60S particles
+                YLR293C (GSP1)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              tRNA transport factors
+               tRNA export factors
+                YLR293C (GSP1)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Centrosome formation and ciliogenesis proteins
+               Centrosome duplication proteins
+                Regulators of centriole replication
+                 YLR293C (GSP1)
+               Spindle formation proteins
+                YLR293C (GSP1)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YLR293C (GSP1)
+            GTP-binding proteins [BR:sce04031]
+             Small (monomeric) G-proteins
+              Ran Family
+               Ran
+                YLR293C (GSP1)
+POSITION    XII:complement(720771..721430)
+MOTIF       Pfam: Ras Roc Arf RNA_helicase MMR_HSR1 GTP_EFTU Gtr1_RagA SRPRB ATPase Pox_A32 ArgoMid AAA_7 AAA_24 TsaE AAA_33 AAA_16 Septin
+DBLINKS     NCBI-GeneID: 851000
+            NCBI-ProteinID: NP_013396
+            SGD: S000004284
+            UniProt: P32835
+STRUCTURE   PDB: 3M1I 3WYG 5XOJ 3WYF 2X19 3ICQ
+AASEQ       219
+            MSAPAANGEVPTFKLVLVGDGGTGKTTFVKRHLTGEFEKKYIATIGVEVHPLSFYTNFGE
+            IKFDVWDTAGQEKFGGLRDGYYINAQCAIIMFDVTSRITYKNVPNWHRDLVRVCENIPIV
+            LCGNKVDVKERKVKAKTITFHRKKNLQYYDISAKSNYNFEKPFLWLARKLAGNPQLEFVA
+            SPALAPPEVQVDEQLMQQYQQEMEQATALPLPDEDDADL
+NTSEQ       660
+            atgtctgccccagctgctaacggtgaagttccaacattcaaactagttcttgtcggtgat
+            ggtggtactggtaagaccacttttgtcaagagacatttgaccggtgaattcgaaaagaag
+            tacatcgccaccattggtgtcgaagtgcatcctttatccttttacaccaacttcggtgaa
+            attaaatttgatgtctgggatactgccggccaagaaaaattcggtggtttaagagacggt
+            tactacattaacgcccaatgtgccatcatcatgttcgatgttacttccagaattacttac
+            aagaacgttccaaactggcacagggatttagtccgtgtttgtgaaaacatcccaattgtc
+            ttgtgtggtaacaaggtcgatgtcaaagaaagaaaggtcaaggccaagactatcactttc
+            cacagaaagaaaaacttgcaatactacgatatttctgccaagtccaactacaactttgaa
+            aagcctttcttatggttggccagaaaattggctggtaacccacaattagaatttgttgct
+            tctccagctttagccccaccagaagtccaagtcgatgaacaattgatgcaacaataccaa
+            caagaaatggaacaagctactgctttgccattgcctgatgaagatgatgctgatttataa
+///

@@ -1,0 +1,62 @@
+ENTRY       YML019W           CDS       T00005
+NAME        OST6
+DEFINITION  (RefSeq) dolichyl-diphosphooligosaccharide--protein glycotransferase
+ORTHOLOGY   K12669  oligosaccharyltransferase complex subunit gamma
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00510  N-Glycan biosynthesis
+            sce00513  Various types of N-glycan biosynthesis
+            sce01100  Metabolic pathways
+            sce04141  Protein processing in endoplasmic reticulum
+MODULE      sce_M00072  N-glycosylation by oligosaccharyltransferase
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09107 Glycan biosynthesis and metabolism
+               00510 N-Glycan biosynthesis
+                YML019W (OST6)
+               00513 Various types of N-glycan biosynthesis
+                YML019W (OST6)
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YML019W (OST6)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YML019W (OST6)
+            Transporters [BR:sce02000]
+             Solute carrier family (SLC)
+              SLC58: MagT-like magnesium transporter
+               YML019W (OST6)
+POSITION    XIII:233457..234455
+MOTIF       Pfam: OST3_OST6 Tra_M Thioredoxin PMT_2
+DBLINKS     NCBI-GeneID: 854989
+            NCBI-ProteinID: NP_013693
+            SGD: S000004481
+            UniProt: Q03723
+STRUCTURE   PDB: 3GA4 3G9B 3G7Y
+AASEQ       332
+            MKWCSTYIIIWLAIIFHKFQKSTATASHNIDDILQLKDDTGVITVTADNYPLLSRGVPGY
+            FNILYITMRGTNSNGMSCQLCHDFEKTYHAVADVIRSQAPQSLNLFFTVDVNEVPQLVKD
+            LKLQNVPHLVVYPPAESNKQSQFEWKTSPFYQYSLVPENAENTLQFGDFLAKILNISITV
+            PQAFNVQEFVYYFVACMVVFIFIKKVILPKVTNKWKLFSMILSLGILLPSITGYKFVEMN
+            AIPFIARDAKNRIMYFSGGSGWQFGIEIFSVSLMYIVMSALSVLLIYVPKISCVSEKMRG
+            LLSSFLACVLFYFFSYFISCYLIKNPGYPIVF
+NTSEQ       999
+            atgaagtggtgtagcacatacattattatatggctcgccattatattccataagtttcag
+            aagtccacagccactgcatcccataatatagatgatattctacagttgaaagatgacacc
+            ggtgtgataacagtgaccgctgacaactacccactgttaagccgtggtgtcccaggttac
+            ttcaatatcttgtacatcacaatgaggggtacaaacagtaacggcatgagttgccaacta
+            tgccatgattttgaaaaaacctatcacgcagtggccgatgtaattcgctcgcaggcccca
+            caatcactaaatttgttttttacagtggatgtcaacgaagtaccacaattggtcaaggat
+            ttaaagttgcaaaacgtacctcatcttgtggtatatccgccagcagaaagtaacaagcaa
+            tctcagttcgaatggaaaacatcacctttttatcagtactctttggtacctgaaaatgcg
+            gaaaacactttacaatttggcgattttctggctaaaatactcaatatttcgataacggtt
+            cctcaagccttcaacgttcaggaatttgtttattattttgttgcgtgtatggtagttttc
+            atctttattaagaaagtaattctaccgaaggtaactaataaatggaagcttttctccatg
+            atattgtcattaggcatacttctaccaagtattactggttacaagtttgtggaaatgaat
+            gctatccctttcattgcacgtgatgctaagaatcgtataatgtattttagcggtggttca
+            ggatggcagttcggtatagagattttttctgtatcattgatgtacattgtgatgtccgca
+            ctgtctgtgcttttaatttatgtgcccaaaatctcgtgtgtaagtgaaaaaatgagagga
+            ctattgtcgtcatttttggcatgtgttctattctacttcttttcttatttcattagttgt
+            tatttgataaagaatccagggtacccaattgttttttaa
+///

@@ -1,0 +1,87 @@
+ENTRY       YMR239C           CDS       T00005
+NAME        RNT1
+DEFINITION  (RefSeq) ribonuclease III
+ORTHOLOGY   K03685  ribonuclease III [EC:3.1.26.3]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03008 Ribosome biogenesis in eukaryotes
+                YMR239C (RNT1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YMR239C (RNT1)
+               03009 Ribosome biogenesis [BR:sce03009]
+                YMR239C (RNT1)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YMR239C (RNT1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.26  Endoribonucleases producing 5'-phosphomonoesters
+                3.1.26.3  ribonuclease III
+                 YMR239C (RNT1)
+            Messenger RNA biogenesis [BR:sce03019]
+             Prokaryotic type
+              Bacterial mRNA degradation factors
+               RNA degradosome components
+                Ribonucreases
+                 YMR239C (RNT1)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              90S particles
+               RNase
+                YMR239C (RNT1)
+             Prokaryotic type
+              rRNA processing factors
+               YMR239C (RNT1)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Gene silencing
+               microRNA pathway
+                Microprocessor complex
+                 YMR239C (RNT1)
+POSITION    XIII:complement(748262..749677)
+MOTIF       Pfam: RNase_3_N Ribonuclease_3 Ribonucleas_3_3 dsrm
+DBLINKS     NCBI-GeneID: 855280
+            NCBI-ProteinID: NP_013966
+            SGD: S000004852
+            UniProt: Q02555
+STRUCTURE   PDB: 4OOG 1T4O 5T16 2LUP 2LUQ 2LBS 1T4N 1T4L
+AASEQ       471
+            MGSKVAGKKKTQNDNKLDNENGSQQRENINTKTLLKGNLKISNYKYLEVIQLEHAVTKLV
+            ESYNKIIELSPNLVAYNEAVNNQDRVPVQILPSLSRYQLKLAAELKTLHDLKKDAILTEI
+            TDYENEFDTEQKQPILQEISKADMEKLEKLEQVKREKREKIDVNVYENLNEKEDEEEDEG
+            EDSYDPTKAGDIVKATKWPPKLPEIQDLAIRARVFIHKSTIKDKVYLSGSEMINAHNERL
+            EFLGDSILNSVMTLIIYNKFPDYSEGQLSTLRMNLVSNEQIKQWSIMYNFHEKLKTNFDL
+            KDENSNFQNGKLKLYADVFEAYIGGLMEDDPRNNLPKIRKWLRKLAKPVIEEATRNQVAL
+            EKTDKLDMNAKRQLYSLIGYASLRLHYVTVKKPTAVDPNSIVECRVGDGTVLGTGVGRNI
+            KIAGIRAAENALRDKKMLDFYAKQRAAIPRSESVLKDPSQKNKKRKFSDTS
+NTSEQ       1416
+            atgggctcaaaagtagcaggtaaaaagaaaacccagaatgataataaactagataacgaa
+            aatggttcacagcagcgcgaaaatatcaataccaagacgcttttgaaaggcaaccttaag
+            atatcaaattacaaatatcttgaggtgattcaactagaacatgctgtgacaaaattggtg
+            gagtcttacaataaaataattgaactttcaccaaatttggtagcttacaatgaagccgtt
+            aacaatcaagatagagtgcctgttcagatacttccttctctatcacgttatcaattaaaa
+            ctggcagctgaattaaaaaccttacatgatcttaaaaaagacgcaattttgacagaaatt
+            actgattatgaaaatgaatttgatactgaacaaaagcaacctatattgcaagaaatcagt
+            aaagctgatatggaaaagttagagaagctagaacaagttaaaagggaaaagcgagagaaa
+            atagatgtaaatgtgtacgaaaatttaaatgaaaaggaagatgaagaagaagacgaagga
+            gaagatagctatgacccaacaaaggctggtgatatcgtcaaggcaacaaaatggcctcca
+            aaattaccagagattcaagatttagcgattagggccagggtatttattcacaaatccaca
+            ataaaggataaagtttacttgtctggatcagaaatgatcaacgcacataatgaaagacta
+            gaattcctaggcgattcgatcttaaattctgttatgacattaattatttataacaagttt
+            cccgattacagcgagggtcagttatcaacattaaggatgaatttggtaagcaacgaacag
+            atcaaacaatggtcaataatgtacaatttccatgagaaacttaagacaaattttgacttg
+            aaggatgaaaattccaattttcaaaacggcaaactaaaactgtatgcagatgtgttcgaa
+            gcttacattggcggcttgatggaagatgatccaaggaataatttgcccaaaataagaaaa
+            tggttaagaaagcttgccaaacctgtcattgaggaggctacccgtaatcaagttgccttg
+            gagaagacggataaacttgatatgaatgctaaaaggcagctttactctttgattggctat
+            gcttcattacgtctacattatgttaccgtaaaaaaacccactgcagttgatcctaattcc
+            atagttgagtgcagagtaggtgatggaacagttttagggaccggtgtgggcagaaatatc
+            aaaattgcgggtattagggctgcagaaaatgctcttcgtgacaaaaaaatgttagatttt
+            tacgccaaacaaagagctgccattcctaggagtgaatctgtgttaaaagatccctcacaa
+            aagaataagaaaagaaaattctcagatacaagctga
+///

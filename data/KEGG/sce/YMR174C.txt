@@ -1,0 +1,30 @@
+ENTRY       YMR174C           CDS       T00005
+NAME        PAI3
+DEFINITION  (RefSeq) Pai3p
+ORTHOLOGY   K23592  protease A inhibitor 3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YMR174C (PAI3)
+            Peptidases and inhibitors [BR:sce01002]
+             Peptidase inhibitors
+              Family I34: IA3 family
+               YMR174C (PAI3)
+POSITION    XIII:complement(610159..610365)
+MOTIF       Pfam: Inhibitor_I34 FokI_N
+DBLINKS     NCBI-GeneID: 855212
+            NCBI-ProteinID: NP_013899
+            SGD: S000004786
+            UniProt: P01094
+STRUCTURE   PDB: 1DPJ 1DP5
+AASEQ       68
+            MNTDQQKVSEIFQSSKEKLQGDAKVVSDAFKKMASQDKDGKTTDADESEKHNYQEQYNKL
+            KGAGHKKE
+NTSEQ       207
+            atgaatacagaccaacaaaaagtgagcgaaatatttcagagctcaaaggaaaaattgcag
+            ggcgatgcaaaggtagtgagtgacgcttttaagaaaatggctagtcaagacaaggacggc
+            aagactaccgatgctgatgaaagtgaaaaacacaactatcaagagcaatacaacaagctc
+            aaaggggcggggcataagaaggagtag
+///

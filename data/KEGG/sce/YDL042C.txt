@@ -1,0 +1,89 @@
+ENTRY       YDL042C           CDS       T00005
+NAME        SIR2, MAR1
+DEFINITION  (RefSeq) NAD-dependent histone deacetylase SIR2
+ORTHOLOGY   K11121  NAD+-dependent protein deacetylase SIR2 [EC:2.3.1.286]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00760  Nicotinate and nicotinamide metabolism
+            sce01100  Metabolic pathways
+            sce04213  Longevity regulating pathway - multiple species
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00760 Nicotinate and nicotinamide metabolism
+                YDL042C (SIR2)
+             09150 Organismal Systems
+              09149 Aging
+               04213 Longevity regulating pathway - multiple species
+                YDL042C (SIR2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YDL042C (SIR2)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YDL042C (SIR2)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.286  protein acetyllysine N-acetyltransferase
+                 YDL042C (SIR2)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Termination Factors
+               Telomere proteins
+                SIR proteins
+                 YDL042C (SIR2)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Histone modification proteins
+               Sir proteins
+                YDL042C (SIR2)
+POSITION    IV:complement(376757..378445)
+MOTIF       Pfam: SIR2 DUF592 TPP_enzyme_M
+DBLINKS     NCBI-GeneID: 851520
+            NCBI-ProteinID: NP_010242
+            SGD: S000002200
+            UniProt: P06700
+STRUCTURE   PDB: 2HJH 4IAO
+AASEQ       562
+            MTIPHMKYAVSKTSENKVSNTVSPTQDKDAIRKQPDDIINNDEPSHKKIKVAQPDSLRET
+            NTTDPLGHTKAALGEVASMELKPTNDMDPLAVSAASVVSMSNDVLKPETPKGPIIISKNP
+            SNGIFYGPSFTKRESLNARMFLKYYGAHKFLDTYLPEDLNSLYIYYLIKLLGFEVKDQAL
+            IGTINSIVHINSQERVQDLGSAISVTNVEDPLAKKQTVRLIKDLQRAINKVLCTRLRLSN
+            FFTIDHFIQKLHTARKILVLTGAGVSTSLGIPDFRSSEGFYSKIKHLGLDDPQDVFNYNI
+            FMHDPSVFYNIANMVLPPEKIYSPLHSFIKMLQMKGKLLRNYTQNIDNLESYAGISTDKL
+            VQCHGSFATATCVTCHWNLPGERIFNKIRNLELPLCPYCYKKRREYFPEGYNNKVGVAAS
+            QGSMSERPPYILNSYGVLKPDITFFGEALPNKFHKSIREDILECDLLICIGTSLKVAPVS
+            EIVNMVPSHVPQVLINRDPVKHAEFDLSLLGYCDDIAAMVAQKCGWTIPHKKWNDLKNKN
+            FKCQEKDKGVYVVTSDEHPKTL
+NTSEQ       1689
+            atgaccatcccacatatgaaatacgccgtatcaaagactagcgaaaataaggtttcaaat
+            acagtaagccccacacaagataaagacgcgatcagaaaacaacccgatgacattataaat
+            aatgatgaaccttcacataagaagataaaagtagcacagccggattccttgagggaaacc
+            aacacaacagatccacttgggcacactaaagctgcgctcggagaagtggcatcgatggag
+            ctcaaaccaactaatgacatggatcccttggcagtgtcagcagcttcagtagtgtcaatg
+            tccaatgacgttttgaaaccagagacgcccaaggggccaatcataatcagtaaaaaccca
+            tcaaatggtattttctatggtccctccttcactaaacgagagtctctcaatgctcgaatg
+            tttctgaaatactatggtgcacacaaatttttagacacttacctccccgaggatttgaac
+            tcgttatacatttactatcttatcaagttgctaggctttgaagttaaagatcaagcgctt
+            atcggcaccatcaacagtattgtccatatcaactcgcaagagcgtgttcaagatttggga
+            agtgcaatatctgtcacaaatgttgaagacccattggcaaaaaagcaaacagttcgtcta
+            atcaaagatttgcaaagagcaattaacaaagttctatgtacaagattaagattatccaat
+            tttttcactattgatcattttattcaaaaattacataccgctagaaaaattttggtcctg
+            actggtgcaggtgtttcaacttcattagggatcccggacttcagatcttctgaggggttc
+            tattcaaagatcaaacatttggggctcgatgatccccaagacgttttcaattacaatata
+            tttatgcacgacccctctgttttctataatattgccaatatggttttacctccagaaaaa
+            atttattctccattgcatagtttcattaagatgctacaaatgaaagggaaattattgaga
+            aattatactcaaaacattgataatttggaatcttatgcgggaataagcacagataaactg
+            gtgcagtgccatggctcttttgctactgccacctgcgttacctgccattggaacctaccc
+            ggtgagaggatatttaataaaattagaaacctcgaacttccactatgcccgtactgttac
+            aaaaaaagaagagaatatttcccagagggatataataataaagtaggtgttgctgcatca
+            cagggttcaatgtcggaaaggcctccatatatccttaactcatatggcgttctcaaacca
+            gatatcacattctttggcgaagcactgccaaataaatttcataagagcattcgcgaagat
+            atcttagaatgtgatttgttgatttgcattgggacaagtttaaaagtagcgccagtgtct
+            gaaatcgtaaacatggttccttcccacgttccccaagtcctgattaatcgtgatcccgtc
+            aagcacgcagaatttgatttatctcttttggggtactgtgatgacattgcagctatggta
+            gcccaaaaatgtggctggacgattccgcataagaaatggaacgatttgaagaacaagaac
+            tttaaatgccaagagaaggataagggcgtgtatgtcgttacatcagatgaacatcccaaa
+            accctctaa
+///

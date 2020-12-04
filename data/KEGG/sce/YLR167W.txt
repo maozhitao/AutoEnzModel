@@ -1,0 +1,63 @@
+ENTRY       YLR167W           CDS       T00005
+NAME        RPS31, RPS37, UBI3
+DEFINITION  (RefSeq) ubiquitin-ribosomal 40S subunit protein S31 fusion protein
+ORTHOLOGY   K02977  ubiquitin-small subunit ribosomal protein S27Ae
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+            sce04120  Ubiquitin mediated proteolysis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YLR167W (RPS31)
+              09123 Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                YLR167W (RPS31)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YLR167W (RPS31)
+               04121 Ubiquitin system [BR:sce04121]
+                YLR167W (RPS31)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YLR167W (RPS31)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YLR167W (RPS31)
+              Archaea
+                YLR167W (RPS31)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitins and ubiquitin-like proteins
+              Ubiquitins
+               YLR167W (RPS31)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YLR167W (RPS31)
+              Exosomal proteins of colorectal cancer cells
+               YLR167W (RPS31)
+POSITION    XII:498947..499405
+MOTIF       Pfam: ubiquitin Ribosomal_S27 Rad60-SLD Ubiquitin_2 Rad60-SLD_2 TBK1_ULD Ubiquitin_5 DUF2407 IBR Fer2_3
+DBLINKS     NCBI-GeneID: 850864
+            NCBI-ProteinID: NP_013268
+            SGD: S000004157
+            UniProt: P05759
+STRUCTURE   PDB: 4Q5E 4Q5H 5L6H 4NNJ 5U4P 3OLM 4HCN 5L6J 3CMM 5L6I 6EML
+                 6RBE 6OA9 6OAA 2L00 2KDI 2JWZ 2JT4 2G3Q 1WR1 1Q0W 1OTR
+AASEQ       152
+            MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYN
+            IQKESTLHLVLRLRGGGKKRKKKVYTTPKKIKHKHKKVKLAVLSYYKVDAEGKVTKLRRE
+            CSNPTCGAGVFLANHKDRLYCGKCHSVYKVNA
+NTSEQ       459
+            atgcaaattttcgtcaagactttaaccggtaagactattaccctggaagttgaatcttct
+            gacactattgacaatgtcaagtccaagatccaagacaaggaaggtattccacctgaccaa
+            caaagattgatctttgctggtaagcaattggaagatggtagaactttgtccgactacaac
+            atccaaaaggaatctactctacacttggtcttgagattgagaggtggtggtaagaagaga
+            aagaagaaggtctacaccaccccaaagaagatcaagcacaagcacaagaaggtcaagttg
+            gctgtcttgtcctactacaaggtcgatgctgaaggtaaggttaccaaattgagaagagaa
+            tgtagcaacccaacttgtggtgctggtgttttcttggctaaccacaaggacagattgtac
+            tgtggtaagtgtcattccgtctacaaggttaacgcttaa
+///

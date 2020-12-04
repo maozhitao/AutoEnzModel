@@ -1,0 +1,82 @@
+ENTRY       YNL290W           CDS       T00005
+NAME        RFC3
+DEFINITION  (RefSeq) replication factor C subunit 3
+ORTHOLOGY   K10756  replication factor C subunit 3/5
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03030  DNA replication
+            sce03420  Nucleotide excision repair
+            sce03430  Mismatch repair
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                YNL290W (RFC3)
+               03420 Nucleotide excision repair
+                YNL290W (RFC3)
+               03430 Mismatch repair
+                YNL290W (RFC3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YNL290W (RFC3)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YNL290W (RFC3)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YNL290W (RFC3)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Elongation Factors
+               RFC (replication factor C)
+                YNL290W (RFC3)
+              DNA Replication Termination Factors
+               Other telomere regulation proteins
+                ELG1-RFC complex
+                 YNL290W (RFC3)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Sister chromatid cohesion proteins
+               CTF18-RFC complex
+                YNL290W (RFC3)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                RFC (replication factor C)
+                 YNL290W (RFC3)
+              Check point factors
+               HRAD17(Rad24)-RFC complex
+                YNL290W (RFC3)
+POSITION    XIV:86218..87240
+MOTIF       Pfam: AAA DNA_pol3_delta2 Rep_fac_C Rad17 DNA_pol3_delta AAA_assoc_2 AAA_16 RuvB_N AAA_14 AAA_22 AAA_11 DUF815 ResIII AAA_7 AAA_24 AAA_5 AAA_30 DEAD AAA_18 AAA_19 Viral_helicase1 IstB_IS21 AAA_3 AAA_25 Mg_chelatase TIP49 RNA_helicase AAA_28 DUF2075 SNF2_N Methyltransf_31 BET
+DBLINKS     NCBI-GeneID: 855426
+            NCBI-ProteinID: NP_014109
+            SGD: S000005234
+            UniProt: P38629
+STRUCTURE   PDB: 1SXJ
+AASEQ       340
+            MSTSTEKRSKENLPWVEKYRPETLDEVYGQNEVITTVRKFVDEGKLPHLLFYGPPGTGKT
+            STIVALAREIYGKNYSNMVLELNASDDRGIDVVRNQIKDFASTRQIFSKGFKLIILDEAD
+            AMTNAAQNALRRVIERYTKNTRFCVLANYAHKLTPALLSRCTRFRFQPLPQEAIERRIAN
+            VLVHEKLKLSPNAEKALIELSNGDMRRVLNVLQSCKATLDNPDEDEISDDVIYECCGAPR
+            PSDLKAVLKSILEDDWGTAHYTLNKVRSAKGLALIDLIEGIVKILEDYELQNEETRVHLL
+            TKLADIEYSISKGGNDQIQGSAVIGAIKASFENETVKANV
+NTSEQ       1023
+            atgtcgacaagtacagagaagaggagcaaagaaaaccttccatgggttgaaaaatacaga
+            cccgaaacgttggacgaagtgtacggacaaaatgaggtgatcaccacagttcgtaaattt
+            gtagatgaaggtaaattgccacatcttctattctatgggcctccaggtaccggtaaaact
+            tctacaattgttgctttggcacgtgagatatatggtaagaattactcgaacatggttttg
+            gagctgaatgcatccgatgacagaggtattgatgtggtgaggaatcaaattaaagacttt
+            gcctctacaagacaaatcttctctaaagggttcaagttaattatactggatgaagcagat
+            gccatgaccaatgccgcacaaaatgcgttgagaagagttatagaacggtacaccaagaat
+            acgcggttctgtgtattggccaattatgcgcataaacttacacctgcgttattgagtagg
+            tgcacgagattcagatttcagcccttgccccaagaggccattgagcgtcggatagccaac
+            gtcttggtgcatgagaagctgaagttgtctcctaatgcggagaaggccttaatagaactt
+            tctaatggggatatgagacgtgtgttaaacgttttgcagtcttgcaaagctactttagac
+            aatcccgacgaggatgagatcagtgacgacgttatctatgaatgctgtggggcacccaga
+            ccaagtgacttaaaggcagtattgaagtcgatactggaggacgattggggtaccgcccac
+            tacacacttaataaggtacgcagtgccaagggtctcgcgttgatcgacctaatcgagggc
+            atagtgaagatactggaagactacgaacttcaaaatgaggaaacaagagtgcatttgctt
+            accaaactggccgatatagagtactcgatatccaagggtggcaacgaccagattcagggc
+            agcgcggtcattggcgccatcaaggccagcttcgagaacgaaactgttaaagccaacgta
+            taa
+///

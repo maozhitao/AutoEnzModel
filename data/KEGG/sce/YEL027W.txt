@@ -1,0 +1,40 @@
+ENTRY       YEL027W           CDS       T00005
+NAME        VMA3, CLS7, CUP5, GEF2
+DEFINITION  (RefSeq) H(+)-transporting V0 sector ATPase subunit C
+ORTHOLOGY   K02155  V-type H+-transporting ATPase 16kDa proteolipid subunit
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00190  Oxidative phosphorylation
+            sce01100  Metabolic pathways
+            sce04145  Phagosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                YEL027W (VMA3)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04145 Phagosome
+                YEL027W (VMA3)
+POSITION    V:100769..101251
+MOTIF       Pfam: ATP-synt_C
+DBLINKS     NCBI-GeneID: 856686
+            NCBI-ProteinID: NP_010887
+            SGD: S000000753
+            UniProt: P25515
+STRUCTURE   PDB: 6O7U 6O7T 6C6L 5TJ5 6O7V 5VOX 3J9T 6O7W 5VOZ 3J9U 5VOY
+                 3J9V 6O7X
+AASEQ       160
+            MTELCPVYAPFFGAIGCASAIIFTSLGAAYGTAKSGVGICATCVLRPDLLFKNIVPVIMA
+            GIIAIYGLVVSVLVCYSLGQKQALYTGFIQLGAGLSVGLSGLAAGFAIGIVGDAGVRGSS
+            QQPRLFVGMILILIFAEVLGLYGLIVALLLNSRATQDVVC
+NTSEQ       483
+            atgactgaattgtgtcctgtctacgcccctttctttggtgccattggttgtgcctctgca
+            attatcttcacctcattaggtgctgcttacggtactgctaagtctggtgttggtatctgt
+            gccacttgtgtgttgagaccagacctattattcaagaacattgttcctgttattatggct
+            ggtatcattgccatttacggtttagttgtttccgttttggtttgttattcgttgggtcaa
+            aagcaagctttgtacaccggtttcatccaattgggtgccggtctatcagtcggtttgagt
+            ggtctagctgctggtttcgctattggtattgtcggtgatgcaggtgttagaggttcctct
+            caacaaccaagattattcgtcggtatgattttgattttgatttttgctgaagttttgggt
+            ctatacggtttgattgttgctttgttgttgaactccagggctactcaagatgttgtctgt
+            taa
+///

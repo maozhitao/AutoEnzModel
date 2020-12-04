@@ -1,0 +1,40 @@
+ENTRY       YGR181W           CDS       T00005
+NAME        TIM13
+DEFINITION  (RefSeq) protein translocase subunit TIM13
+ORTHOLOGY   K17781  mitochondrial import inner membrane translocase subunit TIM13
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YGR181W (TIM13)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YGR181W (TIM13)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Inter membrane space
+               TIM8/13 complex
+                YGR181W (TIM13)
+            Transporters [BR:sce02000]
+             Other transporters
+              Primary active transporters [TC:3]
+               YGR181W (TIM13)
+POSITION    VII:858287..858604
+MOTIF       Pfam: zf-Tim10_DDP
+DBLINKS     NCBI-GeneID: 853093
+            NCBI-ProteinID: NP_011697
+            SGD: S000003413
+            UniProt: P53299
+STRUCTURE   PDB: 3CJH
+AASEQ       105
+            MGLSSIFGGGAPSQQKEAATTAKTTPNPIAKELKNQIAQELAVANATELVNKISENCFEK
+            CLTSPYATRNDACIDQCLAKYMRSWNVISKAYISRIQNASASGEI
+NTSEQ       318
+            atgggtctatcatctatctttggcggcggtgcaccatcacaacaaaaggaagcagccact
+            actgcaaagacaaccccaaaccctatagccaaggagctgaaaaaccaaattgctcaagaa
+            ctggctgtggctaatgcgactgaattagtgaacaaaatttctgagaactgctttgaaaaa
+            tgcttaacttcgccatacgctaccagaaacgatgcgtgcattgaccagtgtttggctaaa
+            tatatgagaagttggaatgtcatatcaaaggcttacatctccagaatccagaacgcctcc
+            gcttctggcgaaatctaa
+///

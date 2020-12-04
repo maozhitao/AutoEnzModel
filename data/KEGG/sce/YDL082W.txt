@@ -1,0 +1,46 @@
+ENTRY       YDL082W           CDS       T00005
+NAME        RPL13A
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L13A
+ORTHOLOGY   K02873  large subunit ribosomal protein L13e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YDL082W (RPL13A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YDL082W (RPL13A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YDL082W (RPL13A)
+              Archaea
+                YDL082W (RPL13A)
+POSITION    IV:join(308424..308427,308793..309388)
+MOTIF       Pfam: Ribosomal_L13e
+DBLINKS     NCBI-GeneID: 851477
+            NCBI-ProteinID: NP_010201
+            SGD: S000002240
+            UniProt: Q12690
+STRUCTURE   PDB: 6EM3 5Z3G 6C0F 6EM4 6EM5 6CB1
+AASEQ       199
+            MAISKNLPILKNHFRKHWQERVKVHFDQAGKKVSRRNARATRAAKIAPRPLDLLRPVVRA
+            PTVKYNRKVRAGRGFTLAEVKAAGLTAAYARTIGIAVDHRRQNRNQEIFDANVQRLKEYQ
+            SKIIVFPRNGKAPEAEQVLSAAATFPIAQPATDVEARAVQDNGESAFRTLRLARSEKKFR
+            GIREKRAREKAEAEAEKKK
+NTSEQ       600
+            atggccatttccaagaatttaccaatcttaaagaatcatttcagaaagcactggcaagaa
+            cgtgttaaagtgcacttcgaccaagctggtaagaaggtttctagacgtaatgctagagct
+            accagagccgctaagattgctccaagacctctagatctcttgagacctgttgttagagcc
+            ccaactgttaagtataacagaaaggtcagagctggcagaggtttcaccttggctgaagtt
+            aaggccgctggtttgactgctgcttatgccagaactatcggtatcgccgttgaccacaga
+            cgtcaaaacagaaaccaagaaatctttgatgctaacgttcaaagattaaaggaataccaa
+            tctaagattattgttttcccaagaaatggtaaggccccagaagctgaacaagttttgtct
+            gctgctgctactttcccaattgctcaaccagctaccgatgttgaagctagagctgtccaa
+            gacaatggtgaatctgctttcagaaccttgagattagccagatctgagaagaaattcaga
+            ggtatcagagaaaagagagctagagaaaaggctgaagctgaagctgaaaagaagaaatag
+///

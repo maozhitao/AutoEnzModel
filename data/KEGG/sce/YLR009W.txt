@@ -1,0 +1,46 @@
+ENTRY       YLR009W           CDS       T00005
+NAME        RLP24
+DEFINITION  (RefSeq) ATPase-activating ribosome biosynthesis protein
+ORTHOLOGY   K02896  large subunit ribosomal protein L24e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YLR009W (RLP24)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YLR009W (RLP24)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YLR009W (RLP24)
+              Archaea
+                YLR009W (RLP24)
+POSITION    XII:166537..167136
+MOTIF       Pfam: Ribosomal_L24e TFIIF_alpha RNA_pol_3_Rpc31
+DBLINKS     NCBI-GeneID: 850695
+            NCBI-ProteinID: NP_013109
+            SGD: S000003999
+            UniProt: Q07915
+STRUCTURE   PDB: 6C0F 6EM4 6EM5
+AASEQ       199
+            MRIYQCHFCSSPCYPGHGIMFVRNDAKEFRFCRSKCHKAFKQRRNPRKLKWTKAFRKAAG
+            KELAVDSTLTFAQRRNVPVRYNRELVATTLKAMARIEEIRQKRERAFYKNRMRGNKEKDF
+            LRDKKLVESNPELLRIREVEIARKLAKEQERAESVSEQEESEEEEEDMEIDSDEEEEEQL
+            EKQKILLKNRRRNTKKIAF
+NTSEQ       600
+            atgagaatttatcaatgccatttttgctcatccccatgttatccaggtcatgggatcatg
+            tttgtgcgtaacgatgctaaagagtttaggttctgccgttctaagtgtcacaaggcattc
+            aagcaacgtcgtaacccaagaaaactaaaatggaccaaagctttcagaaaggctgccgga
+            aaagaattggctgtggattctaccttgacttttgcccaaagaagaaatgtccctgttaga
+            tacaatagagagttagttgccacaactttgaaggctatggctagaatcgaagaaattaga
+            caaaaacgtgaaagagccttctacaagaatagaatgagaggtaacaaagaaaaggacttc
+            ttaagagataagaaattggtcgaatctaacccagaattattgagaatcagagaagttgaa
+            attgccagaaagttggctaaagaacaagaaagagctgaatcagtatccgaacaagaggaa
+            tctgaagaagaagaggaggatatggaaatcgacagtgacgaggaagaggaagaacaattg
+            gaaaagcaaaagattctgctaaagaacagaagaagaaatacaaagaaaattgctttttag
+///

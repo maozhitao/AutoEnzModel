@@ -1,0 +1,78 @@
+ENTRY       YCR024C           CDS       T00005
+NAME        SLM5
+DEFINITION  (RefSeq) asparagine--tRNA ligase SLM5
+ORTHOLOGY   K01893  asparaginyl-tRNA synthetase [EC:6.1.1.22]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                YCR024C (SLM5)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:sce01007]
+                YCR024C (SLM5)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YCR024C (SLM5)
+            Enzymes [BR:sce01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.22  asparagine---tRNA ligase
+                 YCR024C (SLM5)
+            Amino acid related enzymes [BR:sce01007]
+             Aminoacyl-tRNA synthetase
+              Class II (A)
+               YCR024C (SLM5)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                YCR024C (SLM5)
+             Prokaryotic type
+                YCR024C (SLM5)
+POSITION    III:complement(160744..162222)
+MOTIF       Pfam: tRNA-synt_2 tRNA_anti-codon Tox-MPTase4
+DBLINKS     NCBI-GeneID: 850388
+            NCBI-ProteinID: NP_009953
+            SGD: S000000618
+            UniProt: P25345
+AASEQ       492
+            MFHAFTFLKGGRFYSSLTVKSLYEQVHHTSHDPISINGWIKSIRLLKRIAFLDLQDGTSV
+            NPLRIVIPLTNTDEVQFLKILKTGQTLSISNATWQSTPNRKQPFELQIKNPVKSIKLVGP
+            VSENYPLQKKYQTLRYLRSLPTLKYRTAYLSAILRLRSFVEFQFMLYFQKNHFTKVSPPI
+            LTSNDCEGAGELFQVSTNTSPTASSYFGKPTYLTVSTQLHLEILALSLSRCWTLSPCFRA
+            EKSDTPRHLSEFWMLEVEMCFVNSVNELTSFVETTIKHIIKACIDNQQELLPKQFISSQE
+            NNASSELSINQETQQIKTRWEDLINEKWHNITYTNAIEILKKRHNEVSHFKYEPKWGQPL
+            QTEHEKFLAGEYFKSPVFVTDYPRLCKPFYMKQNSTPDDTVGCFDLLVPGMGEIIGGSLR
+            EDDYDKLCREMKARGMNRSGELDWYVSLRKEGSAPHGGFGLGFERFISYLYGNHNIKDAI
+            PFYRTSAESIDF
+NTSEQ       1479
+            atgtttcatgctttcaccttccttaaaggtggtagattttactcttcactaacagttaaa
+            tcattgtacgagcaggtacaccatactagccatgatcccatttcaattaatggatggatc
+            aaatccataagactattaaaacgtatagcgtttttggatttacaagatgggacttctgtg
+            aacccattaagaatagttattccactcacaaatactgatgaagtacagttcctaaaaatt
+            ctgaaaactggtcaaactttatctatatctaatgctacctggcaaagcacccctaataga
+            aaacaaccttttgaattgcaaatcaaaaatcctgtcaagtcaattaaacttgtgggtccc
+            gtttcagaaaactatccattacaaaagaaatatcaaaccttacgttatttaaggtcctta
+            cctacactaaaatacagaaccgcttacttaagtgcaattttacggttaagatcctttgta
+            gaattccagttcatgctatatttccagaaaaaccacttcaccaaagtttcaccaccaata
+            ttaacttcaaacgattgtgaaggtgccggcgagttgtttcaagtctccaccaatacgtcg
+            ccaactgcatcctcgtactttgggaagccgacttatttgactgtgtccactcaattgcac
+            ttggaaattttagcgttatcactgtcaaggtgttggacgttatctccttgctttagagcc
+            gaaaagagtgatactccaagacacctttcggagttttggatgcttgaagtggaaatgtgc
+            tttgttaatagcgtcaacgagctaacatcgtttgttgagactacaataaaacacataatt
+            aaagcttgtatagataaccaacaagaactcttgccgaagcaatttatctcttcacaagaa
+            aataatgcatcgtcagagctatcaataaatcaagagacacaacaaattaaaacacgatgg
+            gaagatttaataaatgaaaaatggcacaatataacgtataccaatgcaatagaaattctc
+            aagaaacgccacaatgaagtttcacactttaagtatgaacctaaatggggacagcctttg
+            caaactgaacatgaaaaatttttagccggagagtattttaagtccccagttttcgttacc
+            gactatccacgtctttgtaaaccattctacatgaaacaaaattccactcctgacgatact
+            gttggatgctttgatctactggttcctggaatgggtgaaataattggtgggagtttaagg
+            gaagatgactatgacaagttatgtagagaaatgaaagcacgcgggatgaatagatctgga
+            gaattggactggtatgtttctctgagaaaagaaggaagtgcaccacacggaggctttggt
+            ctagggtttgagagatttatctcatacttatatggcaaccataatataaaggatgccata
+            cccttttatagaacatctgcagaatccatcgatttttga
+///

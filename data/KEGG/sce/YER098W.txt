@@ -1,0 +1,88 @@
+ENTRY       YER098W           CDS       T00005
+NAME        UBP9
+DEFINITION  (RefSeq) putative ubiquitin-specific protease UBP9
+ORTHOLOGY   K11872  ubiquitin carboxyl-terminal hydrolase 9/13 [EC:3.4.19.12]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YER098W (UBP9)
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YER098W (UBP9)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.19  Omega peptidases
+                3.4.19.12  ubiquitinyl hydrolase 1
+                 YER098W (UBP9)
+            Peptidases and inhibitors [BR:sce01002]
+             Cysteine peptidases
+              Family C19: ubiquitin-specific protease family
+               YER098W (UBP9)
+            Ubiquitin system [BR:sce04121]
+             Deubiquitinating enzyme (DUB)
+              Ubiquitin-specific proteases (UBPs)
+               UBP/USP
+                YER098W (UBP9)
+POSITION    V:355466..357730
+MOTIF       Pfam: UCH UCH_1
+DBLINKS     NCBI-GeneID: 856835
+            NCBI-ProteinID: NP_011024
+            SGD: S000000900
+            UniProt: P39967
+AASEQ       754
+            MIKRWLSVNRKKSHPEKNTQGNDEINRKATSLKKTKGSGDPSIAKSPSAKSSTSSIPSNL
+            ASHERRSKFSSQTDNLAGNKHYHEHYHNMASTSDEREYDSSTTYEDRAFDTESSILFTTI
+            TDLMPYGDGSNKVFGYENFGNTCYCNSVLQCLYNIPEFRCNVLRYPERVAAVNRIRKSDL
+            KGSKIRVFTNESFETSTNSGNSNTGYQSNDNEDAHNHHHLQQSDQDNSSSSTQEKQNNFE
+            RKRNSFMGFGKDKSNYKDSAKKDDNNEMERPQPVHTVVMASDTLTEKLHEGCKKIIVGRP
+            LLKQSDSLSKASTTDCQANSHCQCDSQGSRITSVDDDVLVNPESCNDAVNNSNNNKENTF
+            PTSEQRKKAALIRGPVLNVDHLLYPTEEATLYNGLKDIFESITENLSLTGIVSPTEFVKI
+            LKKENVLFNTMMQQDAHEFLNFLLNDFSEYIQRNNPRMRFGPQKTDNSNDNFITDLFKGT
+            LTNRIKCLTCDNITSRDEPFLDFPIEVQGDEETDIQKMLKSYHQREMLNGVNKFYCNKCY
+            GLQEAERMVGLKQLPHILSLHLKRFKYSEEQKSNIKLFNKILYPLTLDVSSTFNTSVYKK
+            YELSGVVIHMGSGPQHGHYVCICRNEKFGWLLYDDETVESIKEETVLQFTGHPGDQTTAY
+            VLFYKETQADKTENQNENIDTSSQDQMQTDNNIEQLIKCDDWLRDRKLRAAANIERKKTL
+            GNIPEVKTAETKTPLNDKKRNKQKRKSRILSFIK
+NTSEQ       2265
+            atgataaaaagatggttatctgtgaataggaaaaagtcacacccggagaagaacactcaa
+            ggtaatgacgaaattaatcggaaagcaactagcctgaagaaaacgaaaggttctggagat
+            ccctccatagcgaaatcaccaagtgctaagagtagtacatcaagcataccttctaatctt
+            gcgagccatgaaagaagaagcaagtttagtagtcaaacggataaccttgcaggaaataaa
+            cattaccatgagcattaccataatatggcaagtacttcagatgaaagagagtacgattcc
+            tcgactacatatgaagatcgtgcgttcgatacagagtcctccatactatttactactatt
+            acagatttaatgccatatggggatggttccaataaagtgtttggttatgaaaattttggg
+            aatacttgctactgcaactccgttctacaatgcctttataatatccccgaatttaggtgt
+            aatgtgctgcgatatcctgaaagagtagccgcagtaaacagaatacgcaaaagtgatttg
+            aagggttcaaaaataagggtattcactaatgaaagttttgaaacatctactaatagcgga
+            aattctaatacggggtaccaaagcaatgataatgaagatgcacataaccaccaccacctt
+            cagcagagtgatcaagataactcctcttcttctactcaagaaaaacagaataattttgaa
+            agaaaaaggaactcgtttatgggttttggaaaagataaatcgaactataaagattctgca
+            aagaaagatgataacaatgagatggaacggcctcagcctgttcacacagttgtaatggcc
+            tctgatacattaacagagaagcttcacgaaggctgtaaaaaaattattgtgggaagaccg
+            cttttaaagcaaagcgattccttatcaaaagcttcaactacagattgtcaagcaaattcg
+            cattgccagtgtgattcacaaggcagtaggattacatcagtggatgatgatgtccttgtt
+            aaccctgagagctgtaacgatgctgtcaacaattctaataataataaagagaatacgttt
+            ccaacaagtgaacaaagaaaaaaagccgctttaattagaggccccgttcttaacgtagat
+            catttactttatccaaccgaggaagctacactttacaatggactaaaagatatatttgag
+            tctattactgaaaacttgtcgctaaccggtatcgtttcacctacagagtttgtcaaaatt
+            ttaaaaaaagaaaacgtcttgttcaacactatgatgcaacaagatgcccatgaattttta
+            aactttttattaaatgatttcagtgaatatattcaacgcaataatcccagaatgagattc
+            ggaccacaaaagacagacaacagcaacgacaactttataacggatttattcaaaggtaca
+            ctgacgaataggatcaaatgtttaacttgtgacaatatcacctcaagggacgaaccattt
+            ttagactttccaatagaagtacagggtgatgaagagactgatatccagaagatgttaaaa
+            agctatcatcagcgtgagatgttgaacggggttaacaaattttattgtaacaaatgttat
+            ggtttacaagaagcagaacgtatggtcggactgaagcaactgccccatattctgtcattg
+            cacctaaaaagattcaagtattcagaggagcaaaagtcaaacatcaaactttttaacaaa
+            atactctatccactaactttggatgtttcttccacttttaatacatcagtatataaaaaa
+            tatgaactaagcggcgtcgtcatccatatggggagcggtccacagcatggtcattacgta
+            tgcatttgcaggaacgaaaagtttgggtggcttttgtatgatgacgaaacggtggaatcc
+            ataaaagaagaaactgtgttacaattcacaggtcatccaggtgatcaaactacagcctac
+            gttttattctataaagaaacacaggctgataagaccgaaaatcaaaatgaaaatatagac
+            acttctagtcaagatcaaatgcagactgacaataacattgaacagttaataaaatgcgat
+            gattggttaagggatcgtaaattgagggcagctgcaaatattgaacgcaaaaagaccttg
+            gggaatatacctgaagttaagactgcagaaaccaagacgccattaaatgataaaaaacgc
+            aataagcaaaaaagaaaatcgagaatattgagcttcatcaaataa
+///

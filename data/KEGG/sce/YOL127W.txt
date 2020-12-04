@@ -1,0 +1,41 @@
+ENTRY       YOL127W           CDS       T00005
+NAME        RPL25
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L25
+ORTHOLOGY   K02893  large subunit ribosomal protein L23Ae
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YOL127W (RPL25)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YOL127W (RPL25)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YOL127W (RPL25)
+POSITION    XV:join(80348..80360,80775..81190)
+MOTIF       Pfam: Ribosomal_L23eN Ribosomal_L23
+DBLINKS     NCBI-GeneID: 853993
+            NCBI-ProteinID: NP_014514
+            SGD: S000005487
+            UniProt: P04456
+STRUCTURE   PDB: 6EM5 6CB1 2WW9 2WWA
+AASEQ       142
+            MAPSAKATAAKKAVVKGTNGKKALKVRTSATFRLPKTLKLARAPKYASKAVPHYNRLDSY
+            KVIEQPITSETAMKKVEDGNILVFQVSMKANKYQIKKAVKELYEVDVLKVNTLVRPNGTK
+            KAYVRLTADYDALDIANRIGYI
+NTSEQ       429
+            atggctccatctgctaaggctactgccgctaagaaagctgtcgttaagggtactaatggt
+            aagaaggctttgaaggtcagaacttctgctaccttcagactaccaaagaccttgaagttg
+            gctagagctccaaaatatgcttccaaggctgttccacattacaacagattggactcatac
+            aaggtcattgagcaaccaatcacttctgaaaccgctatgaagaaggttgaagatggtaac
+            attttggttttccaagtttccatgaaagctaacaaataccaaatcaagaaggccgtcaag
+            gaattatacgaagttgacgtattgaaggttaacactttggttagaccaaacggtaccaag
+            aaggcttacgttagattgactgctgactacgatgctttggacattgctaacagaatcggt
+            tacatttaa
+///

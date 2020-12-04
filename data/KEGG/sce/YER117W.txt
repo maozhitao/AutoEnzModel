@@ -1,0 +1,40 @@
+ENTRY       YER117W           CDS       T00005
+NAME        RPL23B
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L23B
+ORTHOLOGY   K02894  large subunit ribosomal protein L23e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YER117W (RPL23B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YER117W (RPL23B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YER117W (RPL23B)
+POSITION    V:join(396769..396810,397282..397653)
+MOTIF       Pfam: Ribosomal_L14
+DBLINKS     NCBI-GeneID: 856853
+            NCBI-ProteinID: NP_011042
+            SGD: S000000919
+            UniProt: P0CX41 P0CX42
+STRUCTURE   PDB: 6C0F 6EM4 6EM5 3J16 2X7N
+AASEQ       137
+            MSGNGAQGTKFRISLGLPVGAIMNCADNSGARNLYIIAVKGSGSRLNRLPAASLGDMVMA
+            TVKKGKPELRKKVMPAIVVRQAKSWRRRDGVFLYFEDNAGVIANPKGEMKGSAITGPVGK
+            ECADLWPRVASNSGVVV
+NTSEQ       414
+            atgtcaggtaacggtgctcaaggtacaaaattcagaatttctttaggtttaccagttggt
+            gctatcatgaactgtgctgacaacagtggtgccagaaacttgtacatcattgccgtcaaa
+            ggttctggttctagattgaacagattaccagccgcctctttaggtgacatggttatggcc
+            actgttaaaaagggtaagccagaattgagaaagaaggttatgccagctattgttgtccgt
+            caagctaagtcttggagaagaagagacggtgtctttttgtacttcgaggacaatgctggt
+            gtcatcgctaatcctaagggtgaaatgaagggttctgccattactggtccagtcggtaag
+            gaatgtgccgacttatggccaagagttgcttccaactctggtgttgttgtttaa
+///

@@ -1,0 +1,69 @@
+ENTRY       YOR212W           CDS       T00005
+NAME        STE4, HMD2
+DEFINITION  (RefSeq) G protein subunit beta
+ORTHOLOGY   K04536  guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04011  MAPK signaling pathway - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               04011 MAPK signaling pathway - yeast
+                YOR212W (STE4)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YOR212W (STE4)
+               04031 GTP-binding proteins [BR:sce04031]
+                YOR212W (STE4)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YOR212W (STE4)
+              Exosomal proteins of colorectal cancer cells
+               YOR212W (STE4)
+              Exosomal proteins of melanoma cells
+               YOR212W (STE4)
+            GTP-binding proteins [BR:sce04031]
+             Heterotrimeric G-proteins
+              Beta Subunits
+               Beta [OT]
+                YOR212W (STE4)
+POSITION    XV:742910..744181
+MOTIF       Pfam: WD40 ANAPC4_WD40 Peptidase_C39_2 VIT_2
+DBLINKS     NCBI-GeneID: 854387
+            NCBI-ProteinID: NP_014855
+            SGD: S000005738
+            UniProt: P18851
+AASEQ       423
+            MAAHQMDSITYSNNVTQQYIQPQSLQDISAVEDEIQNKIEAARQESKQLHAQINKAKHKI
+            QDASLFQMANKVTSLTKNKINLKPNIVLKGHNNKISDFRWSRDSKRILSASQDGFMLIWD
+            SASGLKQNAIPLDSQWVLSCAISPSSTLVASAGLNNNCTIYRVSKENRVAQNVASIFKGH
+            TCYISDIEFTDNAHILTASGDMTCALWDIPKAKRVREYSDHLGDVLALAIPEEPNSENSS
+            NTFASCGSDGYTYIWDSRSPSAVQSFYVNDSDINALRFFKDGMSIVAGSDNGAINMYDLR
+            SDCSIATFSLFRGYEERTPTPTYMAANMEYNTAQSPQTLKSTSSSYLDNQGVVSLDFSAS
+            GRLMYSCYTDIGCVVWDVLKGEIVGKLEGHGGRVTGVRSSPDGLAVCTGSWDSTMKIWSP
+            GYQ
+NTSEQ       1272
+            atggcagcacatcagatggactcgataacgtattctaataatgtcacccaacagtatata
+            caaccacaaagtctacaggatatctctgcagtggaggatgaaattcaaaataaaatagag
+            gccgccagacaagagagtaaacagcttcatgctcaaataaataaagcaaaacacaagata
+            caagatgcaagcttattccagatggccaacaaagttacttcgttgaccaaaaataagatc
+            aacttaaagccaaatatcgtgttgaaaggccataataataaaatctcagattttcggtgg
+            agtcgagattcaaaacgtattttgagtgcaagtcaagatggctttatgcttatatgggac
+            agtgcttcaggtttaaaacagaacgctattccattagattctcaatgggttctttcctgc
+            gctatttcgccatcgagtactttggtagcaagcgcaggattaaacaataactgtaccatt
+            tatagagtttcgaaagaaaacagagtagcgcaaaacgttgcgtcaattttcaaaggacat
+            acttgctatatttctgacattgaatttacagataacgcacatatattgacagcaagtggg
+            gatatgacatgtgccttgtgggatataccgaaagcaaagagggtgagagaatattctgac
+            catttaggtgatgttttggcattagctattcctgaagagccaaactcagaaaattcttcg
+            aacacattcgctagctgtggatcagacgggtatacttacatatgggatagcagatctccg
+            tccgctgtacaaagcttttacgttaacgatagtgatattaatgcacttcgttttttcaaa
+            gacgggatgtcgattgttgcaggaagtgacaatggtgcgataaatatgtatgatttaagg
+            tcggactgttctattgctactttttctctttttcgaggttatgaagaacgtacccctacc
+            cctacttatatggcagctaacatggagtacaataccgcgcaatcgccacaaactttaaaa
+            tcaacaagctcaagctatctagacaaccaaggcgttgtttctttagattttagtgcatct
+            ggaagattgatgtactcatgctatacagacattggttgtgttgtgtgggatgtattaaaa
+            ggagagattgttggaaaattagaaggtcatggtggcagagtcactggtgtgcgctcgagt
+            ccagatgggttagctgtatgtacaggttcatgggactcaaccatgaaaatatggtctcca
+            ggttatcaatag
+///

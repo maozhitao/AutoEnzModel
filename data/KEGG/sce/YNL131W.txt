@@ -1,0 +1,43 @@
+ENTRY       YNL131W           CDS       T00005
+NAME        TOM22, MAS17, MAS22, MOM22
+DEFINITION  (RefSeq) Tom22p
+ORTHOLOGY   K17769  mitochondrial import receptor subunit TOM22
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YNL131W (TOM22)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YNL131W (TOM22)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Outer membrane
+               Transporter outer membrane (TOM) complex
+                YNL131W (TOM22)
+            Transporters [BR:sce02000]
+             Other transporters
+              Primary active transporters [TC:3]
+               YNL131W (TOM22)
+POSITION    XIV:378767..379225
+MOTIF       Pfam: Tom22
+DBLINKS     NCBI-GeneID: 855592
+            NCBI-ProteinID: NP_014268
+            SGD: S000005075
+            UniProt: P49334
+STRUCTURE   PDB: 6UCU 6JNF 6UCV
+AASEQ       152
+            MVELTEIKDDVVQLDEPQFSRNQAIVEEKASATNNDVVDDEDDSDSDFEDEFDENETLLD
+            RIVALKDIVPPGKRQTISNFFGFTSSFVRNAFTKSGNLAWTLTTTALLLGVPLSLSILAE
+            QQLIEMEKTFDLQSDANNILAQGEKDAAATAN
+NTSEQ       459
+            atggtcgaattaactgaaattaaagacgatgtcgttcaattagacgaaccacaattttcc
+            agaaatcaggccatcgtggaagaaaaggcttctgcaacaaacaacgacgttgtcgatgat
+            gaagatgactctgatagtgattttgaagatgaatttgatgaaaatgaaacattgttggac
+            agaatcgttgctttaaaagacattgtccccccaggtaagagacaaacaatttctaatttt
+            tttggttttactagctcttttgtgagaaatgctttcacaaaatccggaaaccttgcttgg
+            actttgaccaccactgctttgttactcggtgtgccactatccttatctatacttgccgaa
+            caacagctaatcgaaatggaaaagacatttgatttacaaagtgatgctaataacatattg
+            gcccaaggtgaaaaagatgctgcagcaacagccaattaa
+///

@@ -1,0 +1,52 @@
+ENTRY       YPL213W           CDS       T00005
+NAME        LEA1
+DEFINITION  (RefSeq) U2 snRNP complex subunit LEA1
+ORTHOLOGY   K11092  U2 small nuclear ribonucleoprotein A'
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YPL213W (LEA1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YPL213W (LEA1)
+            Spliceosome [BR:sce03041]
+             Complex A
+              U2 snRNP components
+               U2 snRNP specific factors
+                YPL213W (LEA1)
+             Complex B
+                YPL213W (LEA1)
+             Complex C
+               U2 SnRNP specific factors
+                YPL213W (LEA1)
+POSITION    XVI:150614..151330
+MOTIF       Pfam: LRR_9 LRR_4 LRR_8
+DBLINKS     NCBI-GeneID: 855888
+            NCBI-ProteinID: NP_015111
+            SGD: S000006134
+            UniProt: Q08963
+STRUCTURE   PDB: 6J6G 6BK8 5GMK 6J6H 5YLZ 6J6Q 6EXN 5Y88 5LJ3 5LJ5 6J6N
+                 5ZWO 6G90 5WSG 5MQ0
+AASEQ       238
+            MKFTPSIVIDAPQYYVDHFNGKYNVDKCVILRDLQLETDSESMPSSLKHLTKPTHILDLT
+            NNDLIMIPDLSRRDDIHTLLLGRNNIVEVDGRLLPMNVQNLTLSNNSIRRFEDLQRLRRA
+            PRTLKNLTLIGNQVCHLANYREHVLRLVPHLETLDFQNVTAEERKSAMSFPRQADGDTLG
+            PVNTAIRDNGSRDKTMEIMNLVVSKMTVERRNELKKQLAEATSLEEIARLEKLLSGGV
+NTSEQ       717
+            atgaagttcacccctagcatagttattgatgctccgcaatattatgttgatcattttaat
+            ggcaagtataacgtggataaatgtgttattttaagagacctgcagctagaaacggattca
+            gaatccatgccatccagcttaaagcatttgaccaaacctacgcacatcttggatttgaca
+            aacaatgaccttatcatgattccagatctatcaagaagagacgatatacatacattactg
+            ttgggccgaaacaatatcgttgaagtagacggtcgcctattgcctatgaatgtacagaac
+            cttacattatcgaataacagcataagaaggtttgaagatcttcaaaggttgcgtagagcg
+            cccaggacgttgaagaatctaactttaatagggaatcaagtatgtcatttagccaattat
+            agagaacatgtacttcgattagtaccgcatttagagactttagactttcaaaacgtaaca
+            gctgaggaaagaaagagcgcaatgagctttccaaggcaggcggacggcgatacgttgggc
+            ccagtaaatactgcaataagagataatggatccagagataaaacgatggagatcatgaat
+            ttggtggtgagtaagatgacagtagagagaagaaatgaattgaaaaagcagttagcagaa
+            gctacttctttagaagagattgccaggctggaaaaactactctctggtggtgtttaa
+///

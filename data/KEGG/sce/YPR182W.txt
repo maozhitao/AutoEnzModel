@@ -1,0 +1,57 @@
+ENTRY       YPR182W           CDS       T00005
+NAME        SMX3
+DEFINITION  (RefSeq) mRNA splicing protein SMX3
+ORTHOLOGY   K11098  small nuclear ribonucleoprotein F
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YPR182W (SMX3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YPR182W (SMX3)
+               03032 DNA replication proteins [BR:sce03032]
+                YPR182W (SMX3)
+            Spliceosome [BR:sce03041]
+             Complex A
+              U1 snRNP components
+               Sm proteins
+                YPR182W (SMX3)
+              U2 snRNP components
+                YPR182W (SMX3)
+             Complex B
+              U1 snRNP components
+                YPR182W (SMX3)
+              U4/U6.U5 tri-snRNP components
+                YPR182W (SMX3)
+             Complex C
+              U2 snRNP components
+                YPR182W (SMX3)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Termination Factors
+               Telomerase complex (fungi)
+                Sm core complex
+                 YPR182W (SMX3)
+POSITION    XVI:900194..900454
+MOTIF       Pfam: LSM DUF2871
+DBLINKS     NCBI-GeneID: 856312
+            NCBI-ProteinID: NP_015508
+            SGD: S000006386
+            UniProt: P54999
+STRUCTURE   PDB: 1N9R 6J6G 6N7R 5ZWN 6BK8 5GMK 1N9S 6J6H 6N7X 6N7P 5YLZ
+                 5GAN 5GAO 6J6Q 6EXN 5Y88 5GAM 5LJ3 5LJ5 3JCM 5MPS 6J6N
+                 5ZWO 6G90 5WSG 5MQ0 5LQW
+AASEQ       86
+            MSESSDISAMQPVNPKPFLKGLVNHRVGVKLKFNSTEYRGTLVSTDNYFNLQLNEAEEFV
+            AGVSHGTLGEIFIRCNNVLYIRELPN
+NTSEQ       261
+            atgagcgagagcagtgatatcagcgcgatgcagccggtgaacccgaagccgttcctcaaa
+            ggcctggtcaaccatcgtgtaggcgtcaagcttaagttcaacagcaccgaatatagaggt
+            acgctcgtgtccacggacaactactttaacctgcagctgaacgaagcagaagagtttgtt
+            gcgggtgtctcgcacggcaccctgggcgagatattcatccgctgcaataacgtgctgtac
+            atcagggagctgccgaactaa
+///

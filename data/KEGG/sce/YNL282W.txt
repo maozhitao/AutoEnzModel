@@ -1,0 +1,68 @@
+ENTRY       YNL282W           CDS       T00005
+NAME        POP3
+DEFINITION  (RefSeq) Pop3p
+ORTHOLOGY   K14522  ribonuclease P/MRP protein subunit POP3 [EC:3.1.26.5]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+            sce03013  RNA transport
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03013 RNA transport
+                YNL282W (POP3)
+               03008 Ribosome biogenesis in eukaryotes
+                YNL282W (POP3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YNL282W (POP3)
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YNL282W (POP3)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YNL282W (POP3)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.26  Endoribonucleases producing 5'-phosphomonoesters
+                3.1.26.5  ribonuclease P
+                 YNL282W (POP3)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Pre-60S particles
+               RNases
+                RNase MRP
+                 YNL282W (POP3)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              5'processing factors
+               Ribonucrease P
+                YNL282W (POP3)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               RNase MRP
+                YNL282W (POP3)
+POSITION    XIV:107687..108274
+MOTIF       Pfam: RNase_P_pop3
+DBLINKS     NCBI-GeneID: 855439
+            NCBI-ProteinID: NP_014117
+            SGD: S000005226
+            UniProt: P53833
+STRUCTURE   PDB: 6AH3 6AGB
+AASEQ       195
+            MSGSLKSLDKKIAKRRQVYKPVLDNPFTNEAHMWPRVHDQPLIWQLLQSSIINKLIHIQS
+            KENYPWELYTDFNEIVQYLSGAHGNSDPVCLFVCNKDPDVPLVLLQQIPLLCYMAPMTVK
+            LVQLPKSAMDTFKSVSKYGMLLLRCDDRVDKKFVSQIQKNVDLLQFPWLNAIKYRPTSVK
+            LLKTTVPIVSKKRQK
+NTSEQ       588
+            atgtccgggtcgttaaaatctctagacaagaaaatagctaaaagaaggcaggtgtataag
+            cccgtgctagacaatccgttcacaaacgaagcacatatgtggccgcgcgtgcatgatcag
+            ccattgatttggcagctgctgcaatcctctatcataaataagttgattcacattcaatcg
+            aaggagaactacccttgggagctgtatacagatttcaatgaaattgtgcagtatttgagc
+            ggcgctcacggaaacagcgacccagtatgtctatttgtgtgcaataaggaccctgatgta
+            ccgcttgtgctcttgcagcaaatcccgctattatgctatatggcgcccatgacggttaaa
+            ctggtgcagttgcccaagagtgccatggataccttcaagtcggtttctaaatatggaatg
+            ctgctgctgcggtgcgacgatagggtcgacaagaaattcgtatcgcagatccagaagaac
+            gttgatctgcttcagtttccctggttaaatgctatcaagtatcggcccacatctgtcaag
+            ctgttgaaaactacagtgccaattgtctcgaagaagaggcaaaagtag
+///

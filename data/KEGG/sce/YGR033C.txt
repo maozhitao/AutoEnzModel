@@ -1,0 +1,48 @@
+ENTRY       YGR033C           CDS       T00005
+NAME        TIM21
+DEFINITION  (RefSeq) Tim21p
+ORTHOLOGY   K17796  mitochondrial import inner membrane translocase subunit TIM21
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YGR033C (TIM21)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YGR033C (TIM21)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Inner mambrane
+               TIM23 complex
+                YGR033C (TIM21)
+            Transporters [BR:sce02000]
+             Other transporters
+              Primary active transporters [TC:3]
+               YGR033C (TIM21)
+POSITION    VII:complement(554248..554967)
+MOTIF       Pfam: TIM21 GxGYxYP_C
+DBLINKS     NCBI-GeneID: 852921
+            NCBI-ProteinID: NP_011547
+            SGD: S000003265
+            UniProt: P53220
+STRUCTURE   PDB: 6K8Q 2MF7 2CIU
+AASEQ       239
+            MSSSLPRSLLRLGHRKPLFPRYNTFVNSSVITHTSLLRTRLYSNGTGATSGKKDDKTRNK
+            PKPLWPQVKSASTFTFSGILVIGAVGISAIVIYLILSELFSPSGDTQLFNRAVSMVEKNK
+            DIRSLLQCDDGITGKERLKAYGELITNDKWTRNRPIVSTKKLDKEGRTHHYMRFHVESKK
+            KIALVHLEAKESKQNYQPDFINMYVDVPGEKRYYLIKPKLHPVSNSKGFLGIRWGPRKD
+NTSEQ       720
+            atgagctcaagtttgcctaggtctttactccgtttaggacatagaaagcctttgtttcca
+            cgatataatactttcgtgaactcatcggtaataactcatacgtcactgcttagaacaaga
+            ttatatagtaatggcaccggcgcaacatcaggaaagaaggatgacaagactaggaataaa
+            cctaagccattatggcctcaagtaaaatccgcttctacgttcaccttttctggcatactt
+            gtgataggagctgttggtatatctgctattgttatttacctaattctttcagaactattt
+            tcgccttcaggtgatacacagcttttcaacagagcagtttctatggtagagaaaaacaaa
+            gatataagaagtttgttacagtgcgacgatggcattacgggaaaagaaagattgaaagcg
+            tacggtgagcttataacgaatgacaaatggacaagaaacaggcctatagtatctaccaaa
+            aaattagataaagaaggtaggacacatcactatatgagattccacgttgaatccaaaaag
+            aaaatagcgttggttcacttagaggctaaagaatccaaacagaattatcaacctgacttt
+            atcaacatgtacgttgatgttcccggagagaagcgttactatttgatcaagccaaaattg
+            catccggtttctaattcgaagggctttctgggaattagatggggccccagaaaagattaa
+///

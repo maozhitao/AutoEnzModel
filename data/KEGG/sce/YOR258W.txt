@@ -1,0 +1,54 @@
+ENTRY       YOR258W           CDS       T00005
+NAME        HNT3
+DEFINITION  (RefSeq) DNA 5'-adenosine monophosphate hydrolase
+ORTHOLOGY   K10863  aprataxin [EC:3.6.1.70 3.6.1.71 3.6.1.72]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YOR258W (HNT3)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.1  In phosphorus-containing anhydrides
+                3.6.1.70  guanosine-5'-diphospho-5'-[DNA] diphosphatase
+                 YOR258W (HNT3)
+                3.6.1.71  adenosine-5'-diphospho-5'-[DNA] diphosphatase
+                 YOR258W (HNT3)
+                3.6.1.72  DNA-3'-diphospho-5'-guanosine diphosphatase
+                 YOR258W (HNT3)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                Other BER factors
+                 YOR258W (HNT3)
+              DSBR (double strand breaks repair)
+               NHEJ (non-homologous end-joining)
+                Other NHEJ factors
+                 YOR258W (HNT3)
+POSITION    XV:811671..812324
+MOTIF       Pfam: HIT DcpS_C zf-C2HE zf-C2H2_4
+DBLINKS     NCBI-GeneID: 854432
+            NCBI-ProteinID: NP_014901
+            SGD: S000005784
+            UniProt: Q08702
+AASEQ       217
+            MSWRYALKNYVTSPETVNDDTVTYFDDKVSIIRDSFPKSECHLLILPRTMQLSRSHPTKV
+            IDAKFKNEFESYVNSAIDHIFRHFQEKFRIKKSDDDKDPCWDDILKDKNKFVRNFVQVGI
+            HSVPSMANLHIHVISKDFHSVRLKNKKHYNSFNTGFFISWDDLPLNGKNLGTDKEIETTY
+            LKEHDLLCCYCQRNFSNKFSLLKKHLELEFNSHFELK
+NTSEQ       654
+            atgtcatggaggtatgcgttaaaaaactacgttaccagcccagaaacggtaaacgatgat
+            acagtcacatactttgatgataaagtgtccataattagagactcgtttcctaaatcagag
+            tgccatttattgattctaccacgaactatgcagctgagtagaagtcatcctactaaagtg
+            attgatgctaagtttaagaatgagtttgaatcatacgttaattctgcgattgaccacatc
+            tttaggcattttcaagaaaagttccgaataaagaagagtgatgatgacaaagacccctgc
+            tgggatgacatattaaaagacaaaaacaagtttgtaagaaattttgtacaagttgggata
+            cacagcgtgccttcgatggccaacttacatatacacgtcatatccaaagatttccattcg
+            gtaagattgaagaacaaaaaacattataattcatttaatactggattcttcattagttgg
+            gacgatttaccattgaacggaaaaaatttgggcactgacaaggaaattgaaactacgtac
+            ctgaaagaacacgatttactttgctgctattgtcagcgaaattttagtaataaatttagc
+            ttattgaaaaagcatttagaactagagttcaatagccatttcgagcttaaataa
+///

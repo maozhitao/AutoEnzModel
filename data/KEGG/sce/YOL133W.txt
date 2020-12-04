@@ -1,0 +1,82 @@
+ENTRY       YOL133W           CDS       T00005
+NAME        HRT1, HRT2, RBX1, ROC1
+DEFINITION  (RefSeq) SCF ubiquitin ligase complex subunit HRT1
+ORTHOLOGY   K03868  RING-box protein 1 [EC:2.3.2.32]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03420  Nucleotide excision repair
+            sce04111  Cell cycle - yeast
+            sce04120  Ubiquitin mediated proteolysis
+            sce04141  Protein processing in endoplasmic reticulum
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YOL133W (HRT1)
+               04120 Ubiquitin mediated proteolysis
+                YOL133W (HRT1)
+              09124 Replication and repair
+               03420 Nucleotide excision repair
+                YOL133W (HRT1)
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YOL133W (HRT1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YOL133W (HRT1)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YOL133W (HRT1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.32  cullin-RING-type E3 NEDD8 transferase
+                 YOL133W (HRT1)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              UBL E3 ligases
+               YOL133W (HRT1)
+              Multi subunit Ring-finger type E3
+               SCF complex
+                Ring finger protein
+                 YOL133W (HRT1)
+               ECV complex
+                 YOL133W (HRT1)
+               Cul3 complex
+                 YOL133W (HRT1)
+               Cul4 complex
+                 YOL133W (HRT1)
+               Cul7 complex
+                 YOL133W (HRT1)
+               Cul9 complex
+                 YOL133W (HRT1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                GGR (global genome repair) factors
+                 Cul4-DDB2 complex
+                  YOL133W (HRT1)
+                TCR (transcription coupled repair) factors
+                 Cul4-CSA complex
+                  YOL133W (HRT1)
+POSITION    XV:70325..70690
+MOTIF       Pfam: zf-rbx1 zf-ANAPC11 zf-RING_2 zf-C3HC4_2 zf-C3HC4 zf-RING_11 zf-C3HC4_4
+DBLINKS     NCBI-GeneID: 853986
+            NCBI-ProteinID: NP_014508
+            SGD: S000005493
+            UniProt: Q08273
+AASEQ       121
+            MSNEVDRMDVDEDESQNIAQSSNQSAPVETKKKRFEIKKWTAVAFWSWDIAVDNCAICRN
+            HIMEPCIECQPKAMTDTDNECVAAWGVCNHAFHLHCINKWIKTRDACPLDNQPWQLARCG
+            R
+NTSEQ       366
+            atgagcaacgaagttgacaggatggatgttgatgaagatgaatcgcaaaatattgcgcaa
+            agctcaaaccaaagtgcgccagtggaaaccaaaaagaagagatttgaaattaagaaatgg
+            accgcagtggcgttttggtcatgggatatagctgttgacaactgtgctatttgcaggaac
+            catataatggaaccatgcattgaatgccagccaaaggccatgacggacactgataatgaa
+            tgtgtagcagcctggggtgtctgtaatcacgctttccatttgcactgtattaataaatgg
+            atcaagacaagagacgcatgcccattagataaccaaccttggcagttagcaagatgcggt
+            aggtga
+///

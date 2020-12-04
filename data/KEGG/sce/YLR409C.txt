@@ -1,0 +1,93 @@
+ENTRY       YLR409C           CDS       T00005
+NAME        UTP21
+DEFINITION  (RefSeq) rRNA-processing protein UTP21
+ORTHOLOGY   K14554  U3 small nucleolar RNA-associated protein 21
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03008 Ribosome biogenesis in eukaryotes
+                YLR409C (UTP21)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YLR409C (UTP21)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              90S particles
+               U3 small nucleolar RNA-associated proteins
+                YLR409C (UTP21)
+POSITION    XII:complement(934414..937233)
+MOTIF       Pfam: Utp21 ANAPC4_WD40 WD40 eIF2A PQQ_2 Cytochrom_D1
+DBLINKS     NCBI-GeneID: 851125
+            NCBI-ProteinID: NP_013513
+            SGD: S000004401
+            UniProt: Q06078
+STRUCTURE   PDB: 4NSX 6ND4 5TZS 5JPQ
+AASEQ       939
+            MSIDLKKRKVEEDVRSRGKNSKIFSPFRIIGNVSNGVPFATGTLGSTFYIVTCVGKTFQI
+            YDANTLHLLFVSEKETPSSIVALSAHFHYVYAAYENKVGIYKRGIEEHLLELETDANVEH
+            LCIFGDYLCASTDDNSIFIYKKSDPQDKYPSEFYTKLTVTEIQGGEIVSLQHLATYLNKL
+            TVVTKSNVLLFNVRTGKLVFTSNEFPDQITTAEPAPVLDIIALGTVTGEVIMFNMRKGKR
+            IRTIKIPQSRISSLSFRTDGSSHLSVGTSSGDLIFYDLDRRSRIHVLKNIHRESYGGVTQ
+            ATFLNGQPIIVTSGGDNSLKEYVFDPSLSQGSGDVVVQPPRYLRSRGGHSQPPSYIAFAD
+            SQSHFMLSASKDRSLWSFSLRKDAQSQEMSQRLHKKQDGGRVGGSTIKSKFPEIVALAIE
+            NARIGEWENIITAHKDEKFARTWDMRNKRVGRWTFDTTDDGFVKSVAMSQCGNFGFIGSS
+            NGSITIYNMQSGILRKKYKLHKRAVTGISLDGMNRKMVSCGLDGIVGFYDFNKSTLLGKL
+            KLDAPITAMVYHRSSDLFALALDDLSIVVIDAVTQRVVRQLWGHSNRITAFDFSPEGRWI
+            VSASLDSTIRTWDLPTGGCIDGIIVDNVATNVKFSPNGDLLATTHVTGNGICIWTNRAQF
+            KTVSTRTIDESEFARMALPSTSVRGNDSMLSGALESNGGEDLNDIDFNTYTSLEQIDKEL
+            LTLSIGPRSKMNTLLHLDVIRKRSKPKEAPKKSEKLPFFLQLSGEKVGDEASVREGIAHE
+            TPEEIHRRDQEAQKKLDAEEQMNKFKVTGRLGFESHFTKQLREGSQSKDYSSLLATLINF
+            SPAAVDLEIRSLNSFEPFDEIVWFIDALTQGLKSNKNFELYETFMSLLFKAHGDVIHANN
+            KNQDIASALQNWEDVHKKEDRLDDLVKFCMGVAAFVTTA
+NTSEQ       2820
+            atgtctatcgacttgaaaaaaagaaaagtcgaagaagacgtaagaagtagagggaaaaat
+            tctaagatattttcccctttccggattattggtaatgttagcaatggtgttccttttgct
+            actggtacattgggatctaccttttacattgtaacgtgtgttggtaaaacatttcagata
+            tatgatgcgaataccttacatttactttttgtttccgagaaagaaacaccatcctcaatt
+            gtagcattatcagcacactttcactacgtctacgcagcatatgaaaacaaggttggtatt
+            tacaagaggggtattgaggaacatttgcttgagctagaaactgatgcaaatgtcgaacat
+            ttgtgcatattcggagattatctttgcgcttccaccgacgacaattccatctttatatac
+            aagaagtccgatccgcaagataaatatccatcagaattctacactaaacttaccgttact
+            gaaattcaaggtggcgaaattgtgtctttacaacatttggcaacttatttgaataaatta
+            actgtcgttaccaaatctaacgttttactttttaacgtcagaaccgggaagcttgtattc
+            acatcaaacgaatttccagaccaaatcacaactgctgaacccgctccagtcctggatatt
+            attgctctaggtaccgtgaccggtgaggttattatgtttaatatgagaaaaggtaaaagg
+            atccgcacaattaagattccgcaatcaagaatctcctcattgagtttcagaaccgacggt
+            tcttctcatttgagtgtgggaacgagcagtggtgatctaatattttatgatttagatcgc
+            cgttcaagaatacacgttttgaagaacattcatagagaatcgtacggtggtgtcactcag
+            gctacttttttaaatggtcaacccattattgttacatcaggtggtgacaattccctgaag
+            gagtacgttttcgatccgtcattatctcaaggaagcggtgatgtagttgttcaaccgcca
+            agatatctacgttccagagggggtcattctcaaccaccttcatacattgcgtttgctgat
+            tcgcaatcacacttcatgctatcagcatccaaagatagatcattatggagcttttctctg
+            cgtaaagatgcacagtcgcaagaaatgtcacaaaggttacacaagaaacaagatggcggc
+            agggtaggtggtagtacaattaagtctaaatttcctgaaatagtggctcttgcaattgaa
+            aatgccagaataggtgaatgggaaaacattatcactgcacataaagatgaaaagtttgca
+            agaacctgggatatgcgaaataaaagagttggcaggtggacttttgatactactgatgat
+            ggatttgttaaatctgtggccatgtcgcaatgtggtaattttggattcatcggttcttct
+            aacggctctatcaccatctataatatgcaaagtggtatactccgtaaaaaatacaaattg
+            cacaaaagagcagtcaccggtatatccttagatggtatgaatcgtaaaatggtttcttgt
+            ggactagacggtattgttggtttttatgactttaacaagtcaaccttgttgggaaaattg
+            aaattggatgcacctattaccgcaatggtttatcatcgttcttccgatctatttgcattg
+            gctttagacgacttatcaattgttgttattgacgcagttactcaaagagttgttcgtcaa
+            ttatggggtcatagtaatagaataactgcatttgatttctcacctgagggccgttggatt
+            gtttccgcttctctagattccaccattagaacgtgggatcttccaaccggaggatgtatc
+            gatggtatcatagtagataatgtcgctacgaatgtaaagttttctccgaatggtgacttg
+            cttgccactacccatgttactggtaatggtatatgcatctggacgaacagagcacaattt
+            aagacagtatcgacaagaaccatcgatgagtctgaatttgcaagaatggcgttacctagc
+            acatctgttcgagggaacgactcgatgttatcaggggctttagaaagcaatggaggagaa
+            gacctaaatgatattgatttcaacacttatacatcattggaacagattgataaggagctg
+            ttgactttatcaataggacctagaagtaaaatgaacacattgcttcatttagatgttatc
+            agaaaacgttctaagccaaaggaagctccaaagaaatcagaaaagcttccatttttcttg
+            caactatctggggaaaaggttggggatgaagcctctgtcagagaaggcatagcacatgaa
+            acaccagaagaaatccatcgcagagatcaagaagcacaaaagaagttagatgcagaagag
+            caaatgaataaattcaaagttacaggaagattagggtttgaatcacatttcacaaagcaa
+            ttacgagagggctcacaatccaaggactattcatcattgctggccactctaataaatttc
+            tcacctgctgcagtggatttggagataagatcattgaattcctttgagccatttgatgaa
+            attgtgtggtttatcgacgcgttaacacaggggttgaagagcaataaaaatttcgaactt
+            tatgaaacgtttatgagcttactgtttaaggcacacggtgatgttattcatgctaacaac
+            aagaatcaagatattgcctctgctcttcaaaattgggaggatgtacataagaaggaagac
+            agattagatgatcttgtgaagttttgcatgggagtggcagcttttgtgaccaccgcgtga
+///

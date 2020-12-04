@@ -1,0 +1,39 @@
+ENTRY       YEL020W-A         CDS       T00005
+NAME        TIM9
+DEFINITION  (RefSeq) protein transporter TIM9
+ORTHOLOGY   K17777  mitochondrial import inner membrane translocase subunit TIM9
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YEL020W-A (TIM9)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YEL020W-A (TIM9)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Inter membrane space
+               Transporter inner membrane (TIM) 9/10 complex
+                YEL020W-A (TIM9)
+            Transporters [BR:sce02000]
+             Other transporters
+              Primary active transporters [TC:3]
+               YEL020W-A (TIM9)
+POSITION    V:117211..117474
+MOTIF       Pfam: zf-Tim10_DDP Phasin_2 Tam41_Mmp37 Importin_rep_6
+DBLINKS     NCBI-GeneID: 856693
+            NCBI-ProteinID: NP_010894
+            SGD: S000007256
+            UniProt: O74700
+STRUCTURE   PDB: 3DXR
+AASEQ       87
+            MDALNSKEQQEFQKVVEQKQMKDFMRLYSNLVERCFTDCVNDFTTSKLTNKEQTCIMKCS
+            EKFLKHSERVGQRFQEQNAALGQGLGR
+NTSEQ       264
+            atggacgcattgaactccaaagaacaacaagagttccaaaaagtagtggaacaaaagcaa
+            atgaaggatttcatgcgtttgtactctaatctggtagaaagatgtttcacagactgtgtc
+            aatgacttcacaacatcaaagctaaccaataaggaacaaacatgcatcatgaagtgctca
+            gaaaagttcttgaagcatagcgaacgtgtagggcagcgtttccaagaacaaaacgctgcc
+            ttgggacaaggcttgggccgataa
+///

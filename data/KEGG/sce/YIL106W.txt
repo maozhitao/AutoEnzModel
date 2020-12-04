@@ -1,0 +1,48 @@
+ENTRY       YIL106W           CDS       T00005
+NAME        MOB1
+DEFINITION  (RefSeq) Mob1p
+ORTHOLOGY   K06685  MOB kinase activator 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04111  Cell cycle - yeast
+            sce04392  Hippo signaling pathway - multiple species
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               04392 Hippo signaling pathway - multiple species
+                YIL106W (MOB1)
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YIL106W (MOB1)
+POSITION    IX:join(166415..166434,166520..167444)
+MOTIF       Pfam: Mob1_phocein
+DBLINKS     NCBI-GeneID: 854700
+            NCBI-ProteinID: NP_012160
+            SGD: S000001368
+            UniProt: P40484
+STRUCTURE   PDB: 2HJN 5NCN
+AASEQ       314
+            MSFLQNFHISPGQTIRSTRGFKWNTANAANNAGSVSPTKATPHNNTINGNNNNANTINNR
+            ADFTNNPVNGYNESDHGRMSPVLTTPKRHAPPPEQLQNVTDFNYTPSHQKPFLQPQAGTT
+            VTTHQDIKQIVEMTLGSEGVLNQAVKLPRGEDENEWLAVHCVDFYNQINMLYGSITEFCS
+            PQTCPRMIATNEYEYLWAFQKGQPPVSVSAPKYVECLMRWCQDQFDDESLFPSKVTGTFP
+            EGFIQRVIQPILRRLFRVYAHIYCHHFNEILELNLQTVLNTSFRHFCLFAQEFELLRPAD
+            FGPLLELVMELRDR
+NTSEQ       945
+            atgtcttttctacaaaattttcatataagtcccggccaaacaataagatctactagaggt
+            ttcaagtggaatactgccaatgcagctaataatgcaggctctgtatcgcctactaaggca
+            actccccataacaatactattaacggcaataataataatgccaatactattaacaataga
+            gcagattttacaaacaatccagtaaacggatataatgaaagcgaccatggaaggatgtct
+            cccgtcctcactacgccaaagaggcacgcccctccgcctgaacaattacaaaatgtaacg
+            gactttaactatacaccatcgcatcagaagccgtttctacaaccgcaagcaggtacgaca
+            gttacaacacatcaagacatcaagcaaattgtggagatgacactggggtctgagggagtc
+            cttaaccaagctgtgaagttaccgcgtggtgaggatgagaatgaatggctagcggttcat
+            tgcgtggatttttacaatcagattaatatgttatacgggtccatcacagaattttgctcc
+            ccacaaacatgcccgaggatgatagcgacgaacgaatatgaatatctttgggcatttcaa
+            aagggtcagccccccgtttcggtaagtgcccctaagtatgtggaatgtttgatgaggtgg
+            tgtcaagaccaatttgatgacgaatctctttttccttccaaagtcaccggtaccttcccg
+            gagggattcatccaacgagtaattcaaccaattctaaggcgattattcagagtttatgcg
+            catatttactgtcatcattttaatgaaattcttgaactaaatttacaaaccgtactaaac
+            acaagttttagacatttttgtctttttgcacaagagttcgaactactaagaccggctgat
+            tttggtccgctgttagaattagtgatggagttgagggataggtag
+///

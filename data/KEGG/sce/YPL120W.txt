@@ -1,0 +1,78 @@
+ENTRY       YPL120W           CDS       T00005
+NAME        VPS30, APG6, ATG6, VPT30
+DEFINITION  (RefSeq) beclin 1
+ORTHOLOGY   K08334  beclin
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04136  Autophagy - other
+            sce04138  Autophagy - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04138 Autophagy - yeast
+                YPL120W (VPS30)
+               04136 Autophagy - other
+                YPL120W (VPS30)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YPL120W (VPS30)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YPL120W (VPS30)
+            Membrane trafficking [BR:sce04131]
+             Autophagy
+              Autophagosome formation proteins
+               PI3K complex
+                YPL120W (VPS30)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial quality control factors
+              Mitophagy factors
+               Autophagy-related proteins
+                YPL120W (VPS30)
+POSITION    XVI:322071..323744
+MOTIF       Pfam: APG6 APG6_N NAD_Gly3P_dh_C
+DBLINKS     NCBI-GeneID: 855983
+            NCBI-ProteinID: NP_015205
+            SGD: S000006041
+            UniProt: Q02948
+STRUCTURE   PDB: 3VP7 5DFZ
+AASEQ       557
+            MKCQTCHLPLQLDPSLEGLSLTQRNLLLSNNSIITATNENVISNKGIEAADNCGPQIPKE
+            RLRRLGEIQNIKDLNLKDDKLITDSFVFLNHDDDDNANITSNSREDQRYGNANGNDNKKA
+            NSDTSDGTSTFRDHDEEEQEATDEDENQQIQLNSKTLSTQVNAMTNVFNILSSQTNIDFP
+            ICQDCCNILINRLKSEYDDAIKERDTYAQFLSKLESQNKEISESNKEKQYSHNLSEKENL
+            KKEEERLLDQLLRLEMTDDDLDGELVRLQEKKVQLENEKLQKLSDQNLMDLNNIQFNKNL
+            QSLKLQYELSLNQLDKLRKINIFNATFKISHSGPFATINGLRLGSIPESVVPWKEINAAL
+            GQLILLLATINKNLKINLVDYELQPMGSFSKIKKRMVNSVEYNNSTTNAPGDWLILPVYY
+            DENFNLGRIFRKETKFDKSLETTLEIISEITRQLSTIASSYSSQTLTTSQDESSMNNAND
+            VENSTSILELPYIMNKDKINGLSVKLHGSSPNLEWTTAMKFLLTNVKWLLAFSSNLLSKS
+            ITLSPTVNYNDKTISGN
+NTSEQ       1674
+            atgaagtgccaaacatgtcacttacccctgcaactagacccatctttagaaggtcttagt
+            ttaacccaaagaaatttgctactttcaaataattcaattatcactgcaacgaatgaaaat
+            gtcatcagcaacaagggcatcgaagccgcagataattgtgggcctcaaataccgaaggag
+            aggctgaggcgattaggggagattcagaacataaaagacttgaatttaaaagatgataaa
+            ttaatcactgattcgtttgtttttcttaatcacgatgatgatgataatgctaatattacg
+            agtaatagcagagaggaccagcgttatggaaatgccaacggaaatgataataaaaaagct
+            aatagtgatacttccgatggaaccagtacctttcgagatcatgacgaagaggaacaagaa
+            gctacggatgaggacgaaaaccaacaaatacaattgaattccaagactttgtccacacaa
+            gtcaacgcaatgactaatgtatttaacattctatcttctcaaacaaacatagactttcct
+            atctgtcaggactgctgtaacatcttgataaacagactaaaaagtgagtatgatgatgca
+            ataaaagagagagatacttacgctcaatttttatcgaagttagagagtcaaaacaaagaa
+            atatcagaaagcaataaagaaaagcagtattcccataatctttcggaaaaagaaaatttg
+            aaaaaggaagaggaaagactcttggatcaattattacgtttggaaatgacagatgatgac
+            ttagatggagaactagttcgtttacaagaaaagaaagttcaactggaaaatgagaaactc
+            caaaaactgagtgatcagaatttaatggatttaaataacattcaattcaacaaaaattta
+            cagtcattaaaactgcaatacgaattatccttgaatcaattagataagttgaggaaaatc
+            aatattttcaatgctacattcaaaatctcacatagcggcccctttgccactataaatgga
+            ttgagattaggcagtataccagaatcagtggtaccttggaaggaaatcaatgcagcactg
+            ggccaattgattcttttactggctaccataaacaaaaacctgaagataaatttagtagac
+            tacgaattacaaccgatgggttcattttccaaaatcaagaaaagaatggttaacagtgtc
+            gaatataataattccactacgaacgctcccggtgattggttgattctgcctgtctactat
+            gatgagaatttcaatttggggagaatcttccgcaaggaaacgaagtttgataaatcatta
+            gaaacaacattagaaataataagcgaaatcactcggcagctttctacgatagcgtcatca
+            tattcatctcaaacactcacaacaagccaagatgaatcttcaatgaataacgcaaatgac
+            gttgaaaatagtacttccattctcgagctaccctatatcatgaataaggacaagattaat
+            ggattatccgtcaaattgcatggtagcagtcccaaccttgaatggacaacggctatgaaa
+            tttttattaaccaatgtaaagtggttgttagcgttttcttccaatttactatccaagtca
+            attaccttaagccctacagtgaattacaatgataagaccatcagcggaaactaa
+///

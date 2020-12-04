@@ -1,0 +1,40 @@
+ENTRY       YML077W           CDS       T00005
+NAME        BET5
+DEFINITION  (RefSeq) TRAPP subunit BET5
+ORTHOLOGY   K20300  trafficking protein particle complex subunit 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YML077W (BET5)
+            Membrane trafficking [BR:sce04131]
+             Endosome - Golgi transport
+              Tethering complex
+               TRAPP complex II
+                YML077W (BET5)
+             Endoplasmic reticulum (ER) - Golgi transport
+              Forward pathways
+               TRAPP complex I
+                YML077W (BET5)
+POSITION    XIII:111865..112344
+MOTIF       Pfam: Sybindin LptD Intu_longin_1 Sedlin_N
+DBLINKS     NCBI-GeneID: 854898
+            NCBI-ProteinID: NP_013634
+            SGD: S000004542
+            UniProt: Q03630
+STRUCTURE   PDB: 3CUE
+AASEQ       159
+            MGIYSFWIFDRHCNCIFDREWTLASNSASGTINSKQNEEDAKLLYGMIFSLRSITQKLSK
+            GSVKNDIRSISTGKYRVHTYCTASGLWFVLLSDFKQQSYTQVLQYIYSHIYVKYVSNNLL
+            SPYDFAENENEMRGQGTRKITNRNFISVLESFLAPMVNQ
+NTSEQ       480
+            atggggatatattcattttggatctttgataggcattgtaactgtatatttgatagagaa
+            tggacattggcgtccaatagcgcaagtggtacaataaactccaaacagaatgaagaagat
+            gcaaaacttctgtatggtatgatattttcgttacgctccattacacaaaagctctccaaa
+            gggtctgttaaaaatgacatacggagtatatctacaggaaagtatagagtccacacatac
+            tgtacagcttcagggctatggtttgttctattgtccgactttaaacagcagtcttacact
+            caggttttacagtatatttacagccatatttatgtcaaatacgtgagcaacaacttatta
+            tcaccgtacgatttcgctgaaaacgaaaatgaaatgagaggtcaagggacaagaaagatc
+            accaatagaaactttatatccgttctcgagtcatttctagcaccaatggttaatcagtga
+///

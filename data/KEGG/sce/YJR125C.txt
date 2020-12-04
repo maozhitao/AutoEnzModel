@@ -1,0 +1,58 @@
+ENTRY       YJR125C           CDS       T00005
+NAME        ENT3
+DEFINITION  (RefSeq) Ent3p
+ORTHOLOGY   K12471  epsin
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04144  Endocytosis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04144 Endocytosis
+                YJR125C (ENT3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YJR125C (ENT3)
+            Membrane trafficking [BR:sce04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Other core components
+                YJR125C (ENT3)
+POSITION    X:complement(654737..655963)
+MOTIF       Pfam: ENTH VHS ANTH
+DBLINKS     NCBI-GeneID: 853589
+            NCBI-ProteinID: NP_012659
+            SGD: S000003886
+            UniProt: P47160
+STRUCTURE   PDB: 3ONK 3ONL
+AASEQ       408
+            MSLEDTLANMSLYDAKKYFRKAQNVVFNYTEMEGKVREATNNEPWGASSTLMDQISQGTY
+            NFREREEILSMIFRRFTEKAGSEWRQIYKALQLLDYLIKHGSERFIDDTRNSINLIRILE
+            TFHYIDSQGRDQGINVRTRVKALIELLSDDNKIRAERKKARETAKKYKGVAGGSASADGS
+            LNSKAGFTSTKVHGISVSADFDSDNEDNEDGSFSQNGYNDNASRATSTPGQGKQEPEDFV
+            DFFSSESSKPSKELIQEDEKKADEEEDDDDEFSEFQSAVPVTNPANSFNLLNTSPIEGMP
+            ATTSSMPFYNSSTTDQGKITPAIAEPKKVDPFSSLFSTAKASAEAPSAPKASQAKAAASN
+            PVSNSTTALSTDQDDDDEFGEMHGGAVQQEQNTNNNHTSSKEIDLLSF
+NTSEQ       1227
+            atgagtttagaggatacattagccaacatgtcattatatgacgccaagaaatattttcgt
+            aaagctcaaaatgttgttttcaattatactgagatggaggggaaagttcgtgaagcgaca
+            aacaacgagccttggggtgcctcatccactttaatggaccagatttctcaaggaacttac
+            aatttcagggaaagagaagaaattttgtccatgatattcagaaggttcactgaaaaggca
+            ggtagtgagtggaggcaaatttataaagccttgcaattgctcgattaccttatcaaacac
+            ggttctgaaaggtttatcgatgatacaaggaatagcattaacttaattaggattttagaa
+            acttttcactatattgattcccagggaagagatcaaggaattaatgtcagaactagggtc
+            aaagctttgattgaattattgagcgacgataataagatacgcgcagaaagaaaaaaggca
+            agagaaacggcaaagaagtacaagggcgttgctggaggatctgcctctgctgatggcagt
+            ttgaattcgaaggcaggtttcacgtcaacgaaagtgcacggcattagcgtgagtgctgat
+            ttcgatagtgacaatgaagataacgaagatggttcttttagtcaaaatggatataacgat
+            aatgcctcgagagccacatctactcctgggcaaggaaaacaagaaccagaggactttgtt
+            gactttttttctagtgagtcttcaaaaccatctaaagaactcatacaagaagatgaaaag
+            aaggcggacgaagaagaggacgatgatgacgagttttcagaatttcaaagcgccgtccct
+            gttaccaaccctgctaattcgtttaacttgctaaacacgagcccaattgagggtatgccc
+            gccaccacgagttcaatgcctttttataacagctccactaccgaccaaggcaagattacc
+            ccagctattgcggaacctaaaaaagtagatccttttagctctctcttttcaactgcaaag
+            gcatctgcagaagcacctagtgctcctaaagcatcccaagcgaaagccgctgcctctaat
+            cctgtatctaatagcacaactgcactaagtacagatcaagatgatgatgacgaatttggt
+            gaaatgcatggtggagctgttcaacaagaacagaataccaataataaccatacatcatcc
+            aaagaaatcgatttactttccttttga
+///

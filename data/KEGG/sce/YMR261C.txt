@@ -1,0 +1,93 @@
+ENTRY       YMR261C           CDS       T00005
+NAME        TPS3
+DEFINITION  (RefSeq) trehalose 6-phosphate synthase/phosphatase complex subunit
+ORTHOLOGY   K22337  trehalose 6-phosphate synthase complex regulatory subunit
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00500  Starch and sucrose metabolism
+            sce01100  Metabolic pathways
+            sce01110  Biosynthesis of secondary metabolites
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00500 Starch and sucrose metabolism
+                YMR261C (TPS3)
+POSITION    XIII:complement(790205..793369)
+MOTIF       Pfam: Glyco_transf_20 Trehalose_PPase
+DBLINKS     NCBI-GeneID: 855303
+            NCBI-ProteinID: NP_013988
+            SGD: S000004874
+            UniProt: P38426
+AASEQ       1054
+            MTIIVASLFLPYTPQFEADVTNSDTAKLVESSMIKVDCNNQELSNNKQERSSSVTSASSH
+            YIGLPQEAQINGEPLQRANVGSPATGVNYHNEMEMLSSEQFLEELTANATHAANSGIPPA
+            NNPVSSGSTAQRPSVEEFFSAPSARVCSPSQEASASSISASRSSAHHNDLSSSLMKNPNL
+            SFDSHPPRVRSSSKSAVITPVSKSVPDVDPAVVDVAKVREEFQQQASLPSMKRVSGSTAG
+            DSSIASSSSNLRYSQQFQDNFIEDTDSEDDIDSDLETDATKKYNVPKFGGYSNNAKLRAS
+            LMRNSYELFKHLPWTIVDSDKGNGSLKNAVNIAVAEKTVKEPVSWVGTMGIPTDELPHEV
+            CHKISKKLEQDFSSFPVVTDDITFKGAYKNYAKQILWPTLHYQIPDNPNSKAFEDHSWDY
+            YQKVNQKFSDRIVSVYKPGDTIWIHDYHLMLVPQMVREKLPKAKIGFFLHVSFPSSEVFR
+            CLANRERILEGIIGANFVGFQTKEYKRHFLQTCNRLLAADVSNDEVKYHCNIVSVMYAPI
+            GIDYYHLTSQLRNGSVLEWRQLIKERWRNKKLIVCRDQFDRIRGLQKKMLAYERFLIENP
+            EYIEKVVLIQICIGKSSDPEYERQIMVVVDRINSLSSNISISQPVVFLHQDLDFAQYLAL
+            NCEADVFLVDALREGMNLTCHEFIVSSFEKNAPLLLSEFTGSSSVLKEGAILINPWDINH
+            VAQSIKRSLEMSPEEKRRRWKKLFKSVIEHDSDNWITKCFEYINNAWESNQETSTVFNLA
+            PEKFCADYKASKKHLFIFKISEPPTSRMLSLLSELSSNNIVYVLSSFTKNTFESLYNGVL
+            NIGLIAENGAYVRVNGSWYNIVEELDWMKEVAKIFDEKVERLPGSYYKIADSMIRFHTEN
+            ADDQDRVPTVIGEAITHINTLFDDRDIHAYVHKDIVFVQQTGLALAAAEFLMKFYNSGVS
+            PTDNSRISLSRTSSSMSVGNNKKHFQNQVDFVCVSGSTSPIIEPLFKLVKQEVEKNNLKF
+            GYTILYGSSRSTYAKEHINGVNELFTILHDLTAA
+NTSEQ       3165
+            atgactattatcgtcgcttctttattcttaccatatacccctcaattcgaggctgatgtc
+            accaactcggatactgctaagctggttgaatcaagtatgatcaaggtagactgcaacaac
+            caggaattgagcaacaacaagcaagaaagaagcagttctgtaacttcggcaagctctcat
+            tatattggcttacctcaggaggcgcaaattaacggtgaacccttacaaagggccaatgtg
+            ggctctcctgctacgggagttaactatcataatgagatggaaatgctttcctcagagcaa
+            ttcctggaagagctgactgccaatgccactcatgcagcaaactctggtattccgccagct
+            aataacccagtttcttctggctcaactgcccagcggccttcagtcgaggaattcttttct
+            gctccgtctgctagagtctgttctccctcccaggaagcttctgcttcgtctatttctgct
+            agtcgttcatcggctcaccacaacgatttgagctccagccttatgaaaaatcccaatttg
+            tcatttgattcacatccacccagggtcagaagctcatccaagagtgctgtaatcactccc
+            gtctctaaaagcgttccagatgtcgatcctgctgttgtagatgtcgcaaaagttagagaa
+            gagtttcaacagcaagcctccttgccttccatgaaaagagtttccggaagcaccgctgga
+            gactcttccattgcttcttcgagttctaatctcaggtactcacagcaatttcaggataac
+            tttatcgaagacactgatagtgaggatgacattgattctgatttggagaccgatgctact
+            aagaaatacaacgtcccaaaatttggtggctattccaataacgcaaagttaagagcatct
+            ctaatgagaaactcgtatgagctattcaaacatttgccatggacaatagtcgacagtgac
+            aaagggaacggatccttgaaaaatgcagttaatattgcagttgctgaaaagacagtgaaa
+            gaacctgtttcctgggtaggtacaatgggaatccctactgacgaacttcctcacgaagtt
+            tgccataagatttcaaagaaattagaacaggatttttcttcttttccagtggtcacggac
+            gatattacttttaagggtgcttataagaactacgccaaacagattttatggcccactcta
+            cattatcaaattccagataatccaaattcaaaggcttttgaagaccattcttgggactac
+            tatcaaaaagtgaatcaaaagttttctgataggatagtttccgtttacaaacctggcgac
+            acaatttggatccatgattatcatttgatgcttgtcccacaaatggtgagagagaaactg
+            cctaaagctaagattggatttttcttacacgtatcatttccaagtagtgaggtcttcaga
+            tgccttgctaacagagaaaggattcttgaaggtattattggtgcaaactttgttgggttt
+            caaactaaagaatacaaaagacatttcctacaaacttgtaacagattgcttgctgcggat
+            gtctctaatgatgaagtcaaataccattgcaatattgtttccgtgatgtatgcgccaatt
+            ggtattgattattaccatttgacatcgcagttgagaaatggttctgtacttgaatggcgc
+            caattaattaaagaaagatggcgtaataaaaaactgattgtttgtcgcgatcaatttgac
+            agaattagaggtcttcagaaaaaaatgttagcctacgagaggtttttgatagaaaaccct
+            gaatacatcgaaaaagttgttttgatccaaatctgcatcggtaagagttccgatcctgag
+            tacgaacgtcaaattatggttgtcgttgatagaatcaattctttgtcttcgaacatcagt
+            atctctcaaccagtggtctttttgcatcaagatttagattttgctcaatatttggcattg
+            aattgtgaagctgacgttttccttgtggatgcgctgagagaaggtatgaatttaacatgt
+            catgagttcattgtcagttcattcgaaaaaaatgcgcctctattattatctgaattcact
+            ggtagttcttctgtcctaaaggaaggtgccatcttaataaacccatgggatataaatcat
+            gtagcacaaagtatcaagagaagtttagaaatgtctccagaagaaaaaaggcgtaggtgg
+            aaaaaattattcaaatctgttattgaacatgattcggataattggattacaaagtgcttc
+            gaatacataaataatgcttgggagtccaaccaagaaacgtctactgttttcaatttggct
+            ccagaaaaattctgtgctgattacaaagcctccaaaaagcatttatttatcttcaagatt
+            tcagaacctccaacgtccagaatgctatccttgctaagtgaattgagttcaaataatata
+            gtttacgttttgagttcatttacaaagaatacattcgaaagcttatacaatggtgttcta
+            aacatcggattgatagcggagaatggtgcctacgtaagagttaatgggtcgtggtacaac
+            atcgtggaagagcttgattggatgaaagaggtggcaaagatctttgacgagaaagtcgag
+            aggttacctggttcatactacaaaatcgctgattctatgatcagattccatacagaaaac
+            gctgatgatcaagatcgagtcccaactgttattggggaagccattacgcacataaacacc
+            ttatttgatgacagggatattcacgcttatgtgcataaggatattgtcttcgttcaacaa
+            acggggctagccttagccgccgctgagtttttgatgaaattttacaacagtggcgtcagt
+            cctactgacaatagcagaatatctctatcaagaacatcctcttcgatgtccgtcggtaat
+            aataagaagcatttccaaaaccaggtagatttcgtttgcgtttccggttcgacatcacct
+            attattgaaccattatttaaattagtgaagcaagaggttgaaaagaacaatctaaaattt
+            ggttacaccattctttacggtagctcaagatccacttatgccaaggaacatatcaatggt
+            gtcaatgaactttttaccatccttcatgacttgacagccgcctaa
+///

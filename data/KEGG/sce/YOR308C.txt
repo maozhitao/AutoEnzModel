@@ -1,0 +1,80 @@
+ENTRY       YOR308C           CDS       T00005
+NAME        SNU66
+DEFINITION  (RefSeq) U4/U6-U5 snRNP complex subunit SNU66
+ORTHOLOGY   K11984  U4/U6.U5 tri-snRNP-associated protein 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YOR308C (SNU66)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YOR308C (SNU66)
+               04121 Ubiquitin system [BR:sce04121]
+                YOR308C (SNU66)
+            Spliceosome [BR:sce03041]
+             Complex B
+              U4/U6.U5 tri-snRNP components
+               U4/U6.U5 tri-snRNP specific factors
+                YOR308C (SNU66)
+             Complex C
+               U4/U6.U5 tri-SnRNP specific factors
+                YOR308C (SNU66)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              Single Ring-finger type E3
+               Other single Ring-finger type E3
+                YOR308C (SNU66)
+POSITION    XV:complement(894624..896387)
+MOTIF       Pfam: SART-1
+DBLINKS     NCBI-GeneID: 854485
+            NCBI-ProteinID: NP_014953
+            SGD: S000005835
+            UniProt: Q12420
+STRUCTURE   PDB: 3PLV 5GAN 5GAO 5ZWO
+AASEQ       587
+            MNKTENLSIEETNEIREKLGMKPIPVFQEKNTDHKESLSIEETNELRASLGLKLIPPQQN
+            FNSSPPNVHNTSKIDELREKITKFQKKANAPLRMAHLLEETNVNDDSSWLENMDAIPSSH
+            ESKRSSTLPRKGATKEDENIDLHNVQVSYNIEALSPKKDTILTLKESSIFDDTDSTEVLE
+            NVKAAEENADREKLRLRQMNKDRRQKKKILNVSSLDIEEEEEGEKHSITTTHLIIGAEQG
+            VMKAPNTISAKPPTGKVKVNFDSANNMSDEDGGDFKPLKIKKRKIKDPRSTKARKSKITD
+            KMEIVKLVDEDESLSWMEEEQPVTIINPRTSSNNELKGPEDLAREIEKARDEEKRRTESI
+            LKMREISNSIVVDEKVTFLNTLDTSLSERSATENKVKVHGEGEKNIGDVTNGHTKEGSGN
+            NTLTEAVNNEPNYEGDAENAPNFFSGLASTLGYLRKKSVFTTGDVDLKPGKDVNNSESLR
+            RDVRNKEHTGTGTYTKDKLHGLEQFTSSDSSNANTHSKRQDHYDPDIKLVYRDEKGNRLT
+            TKEAYKKLSQKFHGTKSNKKKRAKMKSRIEARKNTPENGSLFEFDDN
+NTSEQ       1764
+            atgaacaaaacggaaaacctttctattgaggagacaaatgaaataagggaaaagctgggt
+            atgaaacctattccagtttttcaagaaaagaatacagaccataaagagtctttgtcaatc
+            gaagagacgaatgagttgagggcgtcccttggcctaaaacttatcccaccccaacaaaat
+            ttcaattcttctccccctaatgtacataacacatccaaaatcgatgaacttcgagagaag
+            ataacaaagtttcaaaaaaaggcgaacgctcctttacgaatggcgcaccttctcgaagaa
+            actaatgtaaatgacgacagttcatggctagaaaacatggatgcaattccttcctcacat
+            gaatccaaacgttccagcacattgccaagaaaaggcgccacgaaggaagacgaaaatatt
+            gatctgcataatgttcaagtatcatataatatcgaggcgcttagcccaaagaaagatacg
+            attctaactttgaaagagagcagtatttttgatgatactgattctaccgaagtgttagag
+            aatgtgaaagctgccgaggaaaacgctgatagagagaaactacgattacgacaaatgaat
+            aaagatagaagacaaaaaaaaaaaattttaaatgtatctagcttagatattgaagaagaa
+            gaagaaggagagaaacactcaattacaactacacatctaatcatcggagcagaacagggt
+            gttatgaaggcaccgaatactatatcagcaaaaccaccaacgggaaaagttaaagtgaat
+            ttcgatagcgcaaataatatgtcagatgaagatggtggagactttaaacctttaaaaatt
+            aaaaaacgtaagatcaaggacccaagatctactaaagctaggaagtcaaaaattactgat
+            aagatggaaattgttaagttagtagatgaagatgaaagtttatcctggatggaagaagaa
+            cagccagtcaccataataaatcccagaacaagctcaaacaatgaattgaaagggccagag
+            gacctcgctagagaaattgaaaaggcaagagacgaagagaagcgacgcactgaaagcatt
+            ttgaaaatgcgtgaaatttccaacagtattgtcgtcgacgaaaaggtaacttttttaaat
+            actttggataccagtctctccgaacgaagtgctactgagaataaagtgaaagtgcatggt
+            gaaggagagaaaaatatcggagatgttaccaatggacatactaaggaagggagtggaaac
+            aatacactgactgaagcagttaataatgaaccaaactacgagggagatgctgaaaatgca
+            ccgaactttttttctggtcttgcatcaacactaggatatcttcggaaaaagagtgttttc
+            accacaggagacgtcgatttgaaaccaggaaaggatgttaataatagtgaatcacttcga
+            agggatgtccgaaataaagagcatacgggcactggcacttatacaaaagataagctacac
+            ggactggaacaattcacatctagtgactcttccaatgcaaatactcattcaaaaagacaa
+            gatcattatgatcctgacataaaactggtttacagagacgaaaagggaaatcgactgact
+            actaaggaggcatataaaaaactgtcacagaaatttcatggtacaaaaagcaacaagaaa
+            aagagagcaaaaatgaaatccagaattgaagcaaggaaaaatacccctgaaaatggtagt
+            ttgtttgaatttgatgacaattaa
+///

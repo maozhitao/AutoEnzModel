@@ -1,0 +1,62 @@
+ENTRY       YJL065C           CDS       T00005
+NAME        DLS1
+DEFINITION  (RefSeq) Dls1p
+ORTHOLOGY   K03506  DNA polymerase epsilon subunit 4 [EC:2.7.7.7]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03030  DNA replication
+            sce03410  Base excision repair
+            sce03420  Nucleotide excision repair
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                YJL065C (DLS1)
+               03410 Base excision repair
+                YJL065C (DLS1)
+               03420 Nucleotide excision repair
+                YJL065C (DLS1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YJL065C (DLS1)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YJL065C (DLS1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 YJL065C (DLS1)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Elongation Factors
+               DNA polymerase epsilon complex
+                YJL065C (DLS1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                Long Patch-BER factors
+                 DNA polymerase epsilon complex
+                  YJL065C (DLS1)
+POSITION    X:complement(315054..315557)
+MOTIF       Pfam: CBFD_NFYB_HMF DUF4411
+DBLINKS     NCBI-GeneID: 853381
+            NCBI-ProteinID: NP_012470
+            SGD: S000003601
+            UniProt: P40366
+AASEQ       167
+            MNNETSGKETASAPLCSPKLPVEKVQRIAKNDPEYMDTSDDAFVATAFATEFFVQVLTHE
+            SLHRQQQQQQQQVPPLPDELTLSYDDISAAIVHSSDGHLQFLNDVIPTTKNLRLLVEENR
+            VRYTTSVMPPNEVYSAYVVNDTAPKPNIVEIDLDNDEDDDEDVTDQE
+NTSEQ       504
+            atgaacaacgagactagtggtaaagaaacggcgtctgcacctctgtgttcgcccaagtta
+            cctgtagaaaaagtgcagagaatagccaagaatgatccagaatatatggacacttcggat
+            gacgcattcgtagccacagcgtttgctacagaattcttcgtccaggtgctgacacatgag
+            tccctacataggcaacagcagcagcaacaacaacaggtaccgccgctcccagatgaactc
+            acgctgtcgtacgatgacatctctgccgcaattgtgcactcttctgacggccatctgcag
+            tttttgaatgatgtgataccaacaacaaagaatttgaggcttctagtggaagaaaaccga
+            gttagatatactacaagtgtcatgccccctaatgaagtttactccgcctatgtggtgaac
+            gatacggctccgaagcccaacattgtcgagattgatcttgataatgacgaagacgacgac
+            gaagacgttactgatcaagaataa
+///

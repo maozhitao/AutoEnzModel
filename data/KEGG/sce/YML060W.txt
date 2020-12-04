@@ -1,0 +1,67 @@
+ENTRY       YML060W           CDS       T00005
+NAME        OGG1
+DEFINITION  (RefSeq) 8-oxoguanine glycosylase OGG1
+ORTHOLOGY   K03660  N-glycosylase/DNA lyase [EC:3.2.2.- 4.2.99.18]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03410  Base excision repair
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03410 Base excision repair
+                YML060W (OGG1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YML060W (OGG1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.2  Hydrolysing N-glycosyl compounds
+                3.2.2.-  
+                 YML060W (OGG1)
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.99  Other carbon-oxygen lyases
+                4.2.99.18  DNA-(apurinic or apyrimidinic site) lyase
+                 YML060W (OGG1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                DNA glycosylases
+                 YML060W (OGG1)
+POSITION    XIII:151871..153001
+MOTIF       Pfam: HhH-GPD OGG_N
+DBLINKS     NCBI-GeneID: 854942
+            NCBI-ProteinID: NP_013651
+            SGD: S000004525
+            UniProt: P53397
+AASEQ       376
+            MSYKFGKLAINKSELCLANVLQAGQSFRWIWDEKLNQYSTTMKIGQQEKYSVVILRQDEE
+            NEILEFVAVGDCGNQDALKTHLMKYFRLDVSLKHLFDNVWIPSDKAFAKLSPQGIRILAQ
+            EPWETLISFICSSNNNISRITRMCNSLCSNFGNLITTIDGVAYHSFPTSEELTSRATEAK
+            LRELGFGYRAKYIIETARKLVNDKAEANITSDTTYLQSICKDAQYEDVREHLMSYNGVGP
+            KVADCVCLMGLHMDGIVPVDVHVSRIAKRDYQISANKNHLKELRTKYNALPISRKKINLE
+            LDHIRLMLFKKWGSYAGWAQGVLFSKEIGGTSGSTTTGTIKKRKWDMIKETEAIVTKQMK
+            LKVELSDLHIKEAKID
+NTSEQ       1131
+            atgtcttataaattcggcaaacttgccattaataaaagtgagctatgtctagcaaatgtg
+            ctacaggctggccaatcctttcgatggatttgggatgaaaagttaaaccagtacagcact
+            acaatgaagataggccagcaagaaaagtattcagtagtgattttgaggcaagatgaagag
+            aatgagatcctggaatttgttgctgtcggcgactgtggcaatcaggacgccttaaaaact
+            catctaatgaaatattttagattggacgtgtcactgaagcacttattcgataatgtttgg
+            attccaagcgataaagcatttgcgaaactttctccacaaggcatccgtatcttggcccag
+            gaaccatgggagacattgatttcctttatttgctcgagtaataataacatttcaagaatt
+            acgagaatgtgcaatagcctttgctctaatttcgggaacttaatcacaacaatagatggg
+            gtcgcctaccattcgtttcctacaagtgaggagctaacttctcgagccactgaagccaag
+            ttgcgtgagctgggctttggatatagagctaagtatattatcgaaaccgcgagaaaactg
+            gtgaatgataaagctgaagctaatattacttctgacaccacataccttcaaagtatctgt
+            aaagatgctcaatatgaagacgttagagagcacctcatgtcctacaatggtgtaggcccc
+            aaagttgctgattgcgtttgtctaatgggacttcacatggatggcatcgtccccgtagat
+            gtccatgttagtagaattgcgaagagggactaccaaatatctgcgaacaagaaccatctc
+            aaagaattgaggacaaaatacaacgccttacctatctcaagaaaaaaaatcaacctagag
+            ctcgaccatattagattaatgctttttaaaaaatggggatcatacgctggttgggcccaa
+            ggtgtcctattctctaaagaaatcggagggactagtggtagcactacaactggtactata
+            aagaagagaaaatgggatatgataaaggaaacggaagcaattgttacgaaacaaatgaaa
+            ctgaaagttgaattgtctgatcttcacatcaaagaagcaaaaatagattag
+///

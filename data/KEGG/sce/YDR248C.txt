@@ -1,0 +1,42 @@
+ENTRY       YDR248C           CDS       T00005
+DEFINITION  (RefSeq) gluconokinase
+ORTHOLOGY   K00851  gluconokinase [EC:2.7.1.12]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00030  Pentose phosphate pathway
+            sce01100  Metabolic pathways
+            sce01110  Biosynthesis of secondary metabolites
+            sce01200  Carbon metabolism
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00030 Pentose phosphate pathway
+                YDR248C
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.12  gluconokinase
+                 YDR248C
+POSITION    IV:complement(957758..958339)
+MOTIF       Pfam: APS_kinase AAA_18 SKI AAA_33 NB-ARC AAA_16 Zeta_toxin NACHT AAA_17 RsgA_GTPase RNA_helicase ABC_tran DUF2075 AAA_22 MeaB AAA_24 AAA_30 Guanylate_kin AAA AAA_28
+DBLINKS     NCBI-GeneID: 851835
+            NCBI-ProteinID: NP_010534
+            SGD: S000002656
+            UniProt: Q03786
+AASEQ       193
+            MTEKHKTMGKFKVIVLAGTAGTGKSTIAGELIHEFKDIYPDLKFIEGDDLHPPANVEKMT
+            RGIPLNDDDRWDWLKKVAVESTKAAASTKEHLSIVACSSLKKKYRDLIRHTCPESEFHFI
+            FLYASKIEVLKRLKTRKGHFMKADMMESQFRDLELPDINDETDCDIVPLDFKTFYQIEKD
+            VIQVVKSKVLNIE
+NTSEQ       582
+            atgacagagaaacacaaaactatggggaaatttaaggttattgtattggcaggtactgca
+            ggtacaggaaaatcaaccattgcaggtgaactaatccatgaatttaaagatatatacccg
+            gatttgaaattcatcgaaggtgatgatttacacccgcctgccaacgtagaaaagatgaca
+            agagggattccattaaatgacgacgaccgttgggactggttgaaaaaagttgccgtagaa
+            tctacaaaagctgcagcaagcactaaggagcatttgtcaattgttgcttgctcgagcttg
+            aagaagaaatacagagatttgattaggcacacatgccctgaatcggagttccattttatc
+            tttttgtatgcaagtaaaatagaagttctgaaaaggctcaaaacaaggaagggtcatttc
+            atgaaagctgatatgatggagtctcaattcagggatctggagttaccagacatcaacgac
+            gaaactgactgtgacattgttcccttagatttcaaaacgttttatcaaattgaaaaagat
+            gttatacaggtggtaaaaagtaaagttttgaatattgagtaa
+///

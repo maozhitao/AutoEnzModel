@@ -1,0 +1,46 @@
+ENTRY       YGL200C           CDS       T00005
+NAME        EMP24, BST2
+DEFINITION  (RefSeq) Emp24p
+ORTHOLOGY   K20347  p24 family protein beta-1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YGL200C (EMP24)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YGL200C (EMP24)
+            Membrane trafficking [BR:sce04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Forward pathways
+               p24 family proteins
+                YGL200C (EMP24)
+            Transporters [BR:sce02000]
+             Other transporters
+              Others
+               YGL200C (EMP24)
+POSITION    VII:complement(122694..123305)
+MOTIF       Pfam: EMP24_GP25L Lsr2
+DBLINKS     NCBI-GeneID: 852675
+            NCBI-ProteinID: NP_011315
+            SGD: S000003168
+            UniProt: P32803
+AASEQ       203
+            MASFATKFVIACFLFFSASAHNVLLPAYGRRCFFEDLSKGDELSISFQFGDRNPQSSSQL
+            TGDFIIYGPERHEVLKTVRDTSHGEITLSAPYKGHFQYCFLNENTGIETKDVTFNIHGVV
+            YVDLDDPNTNTLDSAVRKLSKLTREVKDEQSYIVIRERTHRNTAESTNDRVKWWSIFQLG
+            VVIANSLFQIYYLRRFFEVTSLV
+NTSEQ       612
+            atggcctcatttgctactaagtttgtcattgcttgcttcctgttcttctcggcgtccgcc
+            cataatgtccttcttccagcttatggccgtagatgcttcttcgaagacttgagtaagggt
+            gacgagctctccatttcgttccagttcggtgatagaaaccctcaatccagtagccagctg
+            actggtgactttatcatctacgggccggaaagacatgaagttttgaaaacggttagggac
+            acgtcgcacggtgaaatcacattgtctgctccatacaagggacatttccaatactgtttc
+            ttgaacgagaacaccggtatcgagacaaaagacgtgactttcaacattcatggggtggta
+            tatgtggatttggacgacccaaacaccaatacattggatagtgctgtcagaaagttgtcc
+            aaattaaccagggaagtcaaggacgaacaaagttatattgttattagagaaaggacgcat
+            agaaatactgcagagtcgaccaacgatcgtgttaaatggtggtccatcttccaattgggc
+            gtcgttattgcaaactctcttttccagatatactacttgagaagattctttgaggtcaca
+            tctctagtctaa
+///

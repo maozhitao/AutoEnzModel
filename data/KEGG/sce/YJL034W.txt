@@ -1,0 +1,103 @@
+ENTRY       YJL034W           CDS       T00005
+NAME        KAR2, GRP78
+DEFINITION  (RefSeq) Hsp70 family ATPase KAR2
+ORTHOLOGY   K09490  endoplasmic reticulum chaperone BiP [EC:3.6.4.10]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03060  Protein export
+            sce04141  Protein processing in endoplasmic reticulum
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                YJL034W (KAR2)
+               04141 Protein processing in endoplasmic reticulum
+                YJL034W (KAR2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:sce03110]
+                YJL034W (KAR2)
+               04131 Membrane trafficking [BR:sce04131]
+                YJL034W (KAR2)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YJL034W (KAR2)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.10  non-chaperonin molecular chaperone ATPase
+                 YJL034W (KAR2)
+            Chaperones and folding catalysts [BR:sce03110]
+             Heat shock proteins
+              HSP70 / DNAK
+               YJL034W (KAR2)
+            Membrane trafficking [BR:sce04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Forward pathways
+               ER-Golgi intermediate compartment (ERGIC) proteins
+                YJL034W (KAR2)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YJL034W (KAR2)
+              Exosomal proteins of other body fluids (saliva and urine)
+               YJL034W (KAR2)
+              Exosomal proteins of colorectal cancer cells
+               YJL034W (KAR2)
+POSITION    X:381327..383375
+MOTIF       Pfam: HSP70 MreB_Mbl Radial_spoke_3 BcrAD_BadFG Hydantoinase_A Spore_GerAC
+DBLINKS     NCBI-GeneID: 853418
+            NCBI-ProteinID: NP_012500
+            SGD: S000003571
+            UniProt: P16474
+STRUCTURE   PDB: 3QFU 3H0X 3QFP 3QML
+AASEQ       682
+            MFFNRLSAGKLLVPLSVVLYALFVVILPLQNSFHSSNVLVRGADDVENYGTVIGIDLGTT
+            YSCVAVMKNGKTEILANEQGNRITPSYVAFTDDERLIGDAAKNQVAANPQNTIFDIKRLI
+            GLKYNDRSVQKDIKHLPFNVVNKDGKPAVEVSVKGEKKVFTPEEISGMILGKMKQIAEDY
+            LGTKVTHAVVTVPAYFNDAQRQATKDAGTIAGLNVLRIVNEPTAAAIAYGLDKSDKEHQI
+            IVYDLGGGTFDVSLLSIENGVFEVQATSGDTHLGGEDFDYKIVRQLIKAFKKKHGIDVSD
+            NNKALAKLKREAEKAKRALSSQMSTRIEIDSFVDGIDLSETLTRAKFEELNLDLFKKTLK
+            PVEKVLQDSGLEKKDVDDIVLVGGSTRIPKVQQLLESYFDGKKASKGINPDEAVAYGAAV
+            QAGVLSGEEGVEDIVLLDVNALTLGIETTGGVMTPLIKRNTAIPTKKSQIFSTAVDNQPT
+            VMIKVYEGERAMSKDNNLLGKFELTGIPPAPRGVPQIEVTFALDANGILKVSATDKGTGK
+            SESITITNDKGRLTQEEIDRMVEEAEKFASEDASIKAKVESRNKLENYAHSLKNQVNGDL
+            GEKLEEEDKETLLDAANDVLEWLDDNFETAIAEDFDEKFESLSKVAYPITSKLYGGADGS
+            GAADYDDEDEDDDGDYFEHDEL
+NTSEQ       2049
+            atgtttttcaacagactaagcgctggcaagctgctggtaccactctccgtggtcctgtac
+            gcccttttcgtggtaatattacctttacagaattctttccactcctccaatgttttagtt
+            agaggtgccgatgatgtagaaaactacggaactgttatcggtattgacttaggtactact
+            tattcctgtgttgctgtgatgaaaaatggtaagactgaaattcttgctaatgagcaaggt
+            aacagaatcaccccatcttacgtggcattcaccgatgatgaaagattgattggtgatgct
+            gcaaagaaccaagttgctgccaatcctcaaaacaccatcttcgacattaagagattgatc
+            ggtttgaaatataacgacagatctgttcagaaggatatcaagcacttgccatttaatgtg
+            gttaataaagatgggaagcccgctgtagaagtaagtgtcaaaggagaaaagaaggttttt
+            actccagaagaaatttctggtatgatcttgggtaagatgaaacaaattgccgaagattat
+            ttaggcactaaggttacccatgctgtcgttactgttcctgcttatttcaatgacgcgcaa
+            agacaagccaccaaggatgctggtaccatcgctggtttgaacgttttgagaattgttaat
+            gaaccaaccgcagccgccattgcctacggtttggataaatctgataaggaacatcaaatt
+            attgtttatgatttgggtggtggtactttcgatgtctctctattgtctattgaaaacggt
+            gttttcgaagtccaagccacttctggtgatactcatttaggtggtgaagattttgactat
+            aagatcgttcgtcaattgataaaagctttcaagaagaagcatggtattgatgtgtctgac
+            aacaacaaggccctagctaaattgaagagagaagctgaaaaggctaaacgtgccttgtcc
+            agccaaatgtccacccgtattgaaattgactccttcgttgatggtatcgacttaagtgaa
+            accttgaccagagctaagtttgaggaattaaacctagatctattcaagaagaccttgaag
+            cctgtcgagaaggttttgcaagattctggtttggaaaagaaggatgttgatgatatcgtt
+            ttggttggtggttctactagaattccaaaggtccaacaattgttagaatcatactttgat
+            ggtaagaaggcctccaagggtattaacccagatgaagctgttgcatacggtgcagccgtt
+            caagctggtgtcttatccggtgaagaaggtgtcgaagatattgttttattggatgtcaac
+            gctttgactcttggtattgaaaccactggtggtgtcatgactccattaattaagagaaat
+            actgctattcctacaaagaaatcccaaattttctctactgccgttgacaaccaaccaacc
+            gttatgatcaaggtatacgagggtgaaagagccatgtctaaggacaacaatctattaggt
+            aagtttgaattaaccggcattccaccagcaccaagaggtgtacctcaaattgaagtcaca
+            tttgcacttgacgctaatggtattctgaaggtgtctgccacagataagggaactggtaaa
+            tccgaatctatcaccatcactaacgataaaggtagattaacccaagaagagattgataga
+            atggttgaagaggctgaaaaattcgcttctgaagacgcttctatcaaggccaaggttgaa
+            tctagaaacaaattagaaaactacgctcactctttgaaaaaccaagttaatggtgaccta
+            ggtgaaaaattggaagaagaagacaaggaaaccttattagatgctgctaacgatgtttta
+            gaatggttagatgataactttgaaaccgccattgctgaagactttgatgaaaagttcgaa
+            tctttgtccaaggtcgcttatccaattacttctaagttgtacggaggtgctgatggttct
+            ggtgccgctgattatgacgacgaagatgaagatgacgatggtgattatttcgaacacgac
+            gaattgtag
+///

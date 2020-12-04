@@ -1,0 +1,45 @@
+ENTRY       YOR125C           CDS       T00005
+NAME        CAT5, COQ7
+DEFINITION  (RefSeq) putative monooxygenase CAT5
+ORTHOLOGY   K06134  3-demethoxyubiquinol 3-hydroxylase [EC:1.14.99.60]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00130  Ubiquinone and other terpenoid-quinone biosynthesis
+            sce01100  Metabolic pathways
+            sce01110  Biosynthesis of secondary metabolites
+MODULE      sce_M00128  Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate => ubiquinone
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00130 Ubiquinone and other terpenoid-quinone biosynthesis
+                YOR125C (CAT5)
+            Enzymes [BR:sce01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.99  Miscellaneous
+                1.14.99.60  3-demethoxyubiquinol 3-hydroxylase
+                 YOR125C (CAT5)
+POSITION    XV:complement(559030..559731)
+MOTIF       Pfam: COQ7
+DBLINKS     NCBI-GeneID: 854292
+            NCBI-ProteinID: NP_014768
+            SGD: S000005651
+            UniProt: P41735
+AASEQ       233
+            MLSRVSVFKPASRGFSVLSSLKITEHTSAKHTEKPEHAPKCQNLSDAQAAFLDRVIRVDQ
+            AGELGADYIYAGQYFVLAHRYPHLKPVLKHIWDQEIHHHNTFNNLQLKRRVRPSLLTPLW
+            KAGAFAMGAGTALISPEAAMACTEAVETVIGGHYNGQLRNLANQFNLERTDGTKGPSEEI
+            KSLTSTIQQFRDDELEHLDTAIKHDSYMAVPYTVITEGIKTICRVAIWSAERI
+NTSEQ       702
+            atgttatcccgtgtttcagttttcaaacctgccagcagaggcttttccgtcttatcatct
+            ttaaagataacagaacatacatcagcaaaacacaccgaaaaacctgagcatgctcccaag
+            tgtcagaatttatcagatgctcaggctgcatttttggaccgtgttattcgtgtagatcaa
+            gctggcgaattaggtgcagactacatctacgctggccagtacttcgtgttggctcatagg
+            taccctcacttgaaacctgtgctaaagcacatatgggaccaggagatacatcatcataat
+            acttttaacaatttgcaattgaaaaggagagtcaggccttccttattaacgcctttgtgg
+            aaggcaggagcctttgcaatgggggctggtaccgcattgatttctccagaagcagctatg
+            gcttgtactgaagctgtcgagacagtaatcggagggcactacaatggccaattgcgaaac
+            ttggccaatcaattcaatttagaaagaacagatggaacaaagggtccaagtgaggaaatc
+            aaatccttaacttctactatccaacagttcagggatgacgagctagagcatctagacacc
+            gctatcaagcatgattcgtatatggcagttccatatacagttatcactgaaggtattaaa
+            acgatttgcagagtagctatatggagtgccgaaagaatttaa
+///

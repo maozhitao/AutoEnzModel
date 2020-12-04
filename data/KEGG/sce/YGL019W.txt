@@ -1,0 +1,61 @@
+ENTRY       YGL019W           CDS       T00005
+NAME        CKB1
+DEFINITION  (RefSeq) casein kinase 2 regulatory subunit CKB1
+ORTHOLOGY   K03115  casein kinase II subunit beta
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+            sce04139  Mitophagy - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03008 Ribosome biogenesis in eukaryotes
+                YGL019W (CKB1)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04139 Mitophagy - yeast
+                YGL019W (CKB1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YGL019W (CKB1)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YGL019W (CKB1)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              90S particles
+               Kinase
+                YGL019W (CKB1)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Histone modification proteins
+               Polycomb group proteins
+                AUTS2-polycomb complex
+                 YGL019W (CKB1)
+POSITION    VII:458156..458992
+MOTIF       Pfam: CK_II_beta
+DBLINKS     NCBI-GeneID: 852865
+            NCBI-ProteinID: NP_011496
+            SGD: S000002987
+            UniProt: P43639
+AASEQ       278
+            MSQEFVEDYSRTGSSDDEDSGAYDEWIPSFCSRFGHEYFCQVPTEFIEDDFNMTSLSQEV
+            PHYRKALDLILDLEAMSDEEEDEDDVVEEDEVDQEMQSNDGHDEGKRRNKSPVVNKSIIE
+            HAAEQLYGLIHARFILTKPGLQAMAEKFDHKEFGTCPRYYCNGMQLLPCGLSDTVGKHTV
+            RLYCPSCQDLYLPQSSRFLCLEGAFWGTSFPGVFLKHFKELEEYVERKSKESYELKVFGF
+            RINDEAVSGPRMKWLRQYPSTEEDWEEFAKCEFETPAV
+NTSEQ       837
+            atgtcgcaagagtttgtggaagactattcacgtacagggtcctcagacgacgaggatagt
+            ggagcttatgacgagtggattccatcgttctgttccagatttggtcacgagtacttctgc
+            caagtcccgacagagtttatcgaggatgatttcaatatgacctcgttatcccaagaggta
+            ccccactaccggaaagctctggatttgatattggatttggaggctatgagtgatgaagaa
+            gaggacgaagacgacgtggtggaagaagacgaagtggatcaagagatgcagagtaatgac
+            ggtcatgatgaaggcaaaaggagaaacaagtcgccagtggtgaacaagagtattatcgag
+            cacgcagcagaacagttatacggattgatacatgcaagatttattctgaccaagccaggc
+            ctgcaagcaatggctgaaaaattcgaccacaaggaatttggaacgtgcccccgttactat
+            tgtaatggcatgcagttgctgccttgtgggttgagcgatacagttgggaaacacaccgta
+            aggttgtactgtcccagttgtcaggacttgtatcttccccaatcatctagattcctgtgc
+            ttagaaggtgcattttgggggacaagcttccctggtgtgttcttgaaacatttcaaagaa
+            ttggaagagtatgtggaaaggaaaagtaaagagtcctacgagttgaaagtttttgggttc
+            aggataaatgatgaggcagtatctggtcctagaatgaagtggttgagacaatatccatcc
+            acggaggaggactgggaagaatttgccaaatgcgagttcgagacaccggcggtttaa
+///

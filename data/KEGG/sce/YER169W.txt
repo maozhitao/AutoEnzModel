@@ -1,0 +1,92 @@
+ENTRY       YER169W           CDS       T00005
+NAME        RPH1, KDM4
+DEFINITION  (RefSeq) Rph1p
+ORTHOLOGY   K19799  DNA damage-responsive transcriptional repressor / [histone H3]-trimethyl-L-lysine36 demethylase [EC:1.14.11.69]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:sce03000]
+                YER169W (RPH1)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YER169W (RPH1)
+            Enzymes [BR:sce01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.11  With 2-oxoglutarate as one donor, and incorporation of one atom of oxygen into each donor
+                1.14.11.69  [histone H3]-trimethyl-L-lysine36 demethylase
+                 YER169W (RPH1)
+            Transcription factors [BR:sce03000]
+             Eukaryotic type
+              Zinc finger
+               Cys2His2 metabolic regulators in fungi
+                YER169W (RPH1)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Histone modification proteins
+               Histone demethylases
+                YER169W (RPH1)
+POSITION    V:523369..525759
+MOTIF       Pfam: JmjC JmjN zf-H2C2_2 zf-C2H2 zf-C2H2_4 zf-C2H2_6 Zn-ribbon_8 zf-MYST DZR MEF2_binding
+DBLINKS     NCBI-GeneID: 856916
+            NCBI-ProteinID: NP_011096
+            SGD: S000000971
+            UniProt: P39956
+STRUCTURE   PDB: 3OPT 3OPW
+AASEQ       796
+            MTKLIAPSEIVGGVPVFKPTYEQFEDFYAYCKAINKYGMKSGVVKVIPPKEWKDKLDLPY
+            SAETLQKIKIKSPIQQHISGNKGLFMVQNVEKNKTYNIIQWKDLSKDYVPPEDPKARRNS
+            RKGSVSKSTKLKLKNFESSFNIDDFEQFRTEYTIDLSDFQNTERLKFLEEYYWKTLNFTT
+            PMYGADTPGSIFPEGLNVWNVAKLPNILDHMETKVPGVNDSYLYAGLWKASFSWHLEDQD
+            LYSINYIHFGAPKQWYSIPQEDRFKFYKFMQEQFPEEAKNCPEFLRHKMFLASPKLLQEN
+            GIRCNEIVHHEGEFMITYPYGYHAGFNYGYNLAESVNFALEEWLPIGKKAGKCHCISDSV
+            EIDVKKLAKSWRDNNKESKGTPPLNQLPNPAMPLLHRPTLKEMESSSLRSTSPDVGHFSN
+            FKSKSSGVSSPLLSRMKDYSNIVEPTLEDPTLKLKRISSFQEQPLNKLLKRETSQTAMLT
+            DHEDNIVAMSLTSMANSAASSPRLPLSRLNSSNELSNAQPLLDMTNNTLAFPRPNGPSGL
+            NPLLYISNKNISGISHSAPHSPVNPNISLIKRVKSPNIVTLNISRESSRSPIALNYEARQ
+            QHSQQHSFSTPSTVSNLSTSVLGPLSDTNDIKTPHPERPNHKTANRILKKESPVETSKSN
+            LILSKVASTRQEDSFTSRNDDLDKEQGSSPLNSKFAPEEIVLSGKNKIYICKECQRKFSS
+            GHHLTRHKKSVHSGEKPHSCPKCGKRFKRRDHVLQHLNKKIPCISNETTVDAPIMNPTVQ
+            PQDGKAAINQQSTPLN
+NTSEQ       2391
+            atgacgaaactaatcgctccttcagaaatcgtgggcggagtgcccgtcttcaaacccaca
+            tacgagcaattcgaagatttctatgcatactgcaaggccataaacaaatatggcatgaaa
+            agtggtgttgtgaaagtaatcccacctaaagaatggaaagacaaattagatctgccttat
+            tctgcggaaacgctccaaaagatcaagattaaatcacctattcagcagcatatttctggt
+            aataaaggtctttttatggtgcagaacgtggagaaaaacaagacctataacattatacag
+            tggaaagatctttctaaggactatgtgcctccggaggatcctaaagcaagacgtaattct
+            aggaaaggctccgtttccaaatccacgaagttgaaactgaaaaattttgaatcgtctttt
+            aatattgatgattttgaacagttcaggacggagtatacaatagatttatctgacttccaa
+            aatacggagagattaaagttcttggaagagtattattggaaaacgctaaattttactacg
+            cctatgtacggcgcagatacaccaggatcaatctttcctgaagggctgaacgtttggaat
+            gttgccaaactaccgaacatcttggaccatatggaaacaaaggttcctggggtgaatgac
+            tcctatctatacgctggtctatggaaggcttctttttcttggcacttggaagatcaggac
+            ctgtattccataaattatattcatttcggtgccccaaaacagtggtattcgataccgcaa
+            gaggataggttcaaattctacaaattcatgcaggagcaatttcccgaagaagccaaaaat
+            tgtcctgaatttttaagacataaaatgtttttggcttcgcccaaactgctgcaggaaaat
+            ggcatacgatgcaatgaaattgtccaccatgaaggcgaattcatgatcacttatccctat
+            ggttaccatgcagggttcaattatggatataacttggcagaatccgtcaactttgctttg
+            gaggagtggctaccgattgggaagaaagctggaaaatgccactgcatttcagactcagtg
+            gaaatagatgttaagaaactcgctaaatcttggagggacaataataaagagtcgaaagga
+            acgccacccctcaatcaattacccaatcctgccatgcccttacttcacaggccaacttta
+            aaagaaatggaaagcagctcgcttagatctacaagcccagatgtgggtcatttttcaaac
+            tttaaatccaagagctctggtgtttcttctcccttattatcacgtatgaaagattattcc
+            aacattgtcgagcccacactagaagatccaactttgaaattaaaaagaatctcttctttt
+            caagaacagcccttaaacaaacttttgaaaagagaaacttcgcaaacggcgatgctcaca
+            gatcacgaagacaacatagtggccatgagccttacttcaatggcaaacagtgcggcgtct
+            tctccgaggttgccactgtcaagattgaattcatctaatgaactctcaaatgcccaacca
+            ttgcttgacatgacaaacaatactcttgccttcccgcgacctaatggaccatctggattg
+            aaccctttattatatatctctaacaagaatattagcgggatatctcactcggctccacat
+            tctccagtgaatccaaatatatcgctgataaaacgagttaagtctcccaacattgtaaca
+            ttaaatatatccagggaatcgtcaagaagccctatagctctgaattacgaggcaagacaa
+            caacattcgcaacaacattcattctccacaccatcaaccgtgtcaaatctctctacttct
+            gtgctcgggccactgagtgacacaaacgacataaaaacaccgcaccctgaaagaccaaat
+            cacaagacagcaaatagaatactcaaaaaggaatctcctgtcgagacatcaaaatcaaat
+            cttatactttcaaaggttgcatccactcgccaagaggattcttttacaagccgaaatgac
+            gatctggacaaagaacaaggctcttctccattaaactctaagtttgcgcccgaagaaatc
+            gtgttatcaggtaagaacaagatttatatttgtaaggaatgccaaagaaagttctcttct
+            ggtcaccatcttacaagacacaaaaaatccgtccactctggtgagaaacctcattcttgt
+            cccaaatgtggcaaaagatttaaaaggagagatcacgttctgcagcacttgaataagaaa
+            ataccgtgtatttcaaacgaaacaacagtagatgctccaataatgaaccctacagtgcaa
+            ccgcaggacgggaaagcggccattaatcaacagagtacacctttaaactga
+///

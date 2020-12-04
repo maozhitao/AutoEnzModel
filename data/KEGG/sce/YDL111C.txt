@@ -1,0 +1,55 @@
+ENTRY       YDL111C           CDS       T00005
+NAME        RRP42
+DEFINITION  (RefSeq) exosome non-catalytic core subunit RRP42
+ORTHOLOGY   K12589  exosome complex component RRP42
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03018  RNA degradation
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03018 RNA degradation
+                YDL111C (RRP42)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YDL111C (RRP42)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA degradation factors
+               3'-5' decay
+                Core exosome factors
+                 YDL111C (RRP42)
+             Prokaryotic type
+              Archeal mRNA degradation factors
+               Exosome components
+                Cofactors
+                 YDL111C (RRP42)
+POSITION    IV:complement(263313..264110)
+MOTIF       Pfam: RNase_PH
+DBLINKS     NCBI-GeneID: 851447
+            NCBI-ProteinID: NP_010172
+            SGD: S000002269
+            UniProt: Q12277
+STRUCTURE   PDB: 5JEA 4IFD 5K36 5OKZ 5VZJ 4OO1 5C0X 5G06 5C0W
+AASEQ       265
+            MSLSVAEKSYLYDSLASTPSIRPDGRLPHQFRPIEIFTDFLPSSNGSSRIIASDGSECIV
+            SIKSKVVDHHVENELLQVDVDIAGQRDDALVVETITSLLNKVLKSGSGVDSSKLQLTKKY
+            SFKIFVDVLVISSHSHPVSLISFAIYSALNSTYLPKLISAFDDLEVEELPTFHDYDMVKL
+            DINPPLVFILAVVGNNMLLDPAANESEVANNGLIISWSNGKITSPIRSVALNDSNVKSFK
+            PHLLKQGLAMVEKYAPDVVRSLENL
+NTSEQ       798
+            atgtctctttcggtcgccgaaaagtcgtacctatacgattcactagcaagcacgccttca
+            attaggcccgatggaagactacctcatcaattcagacctatagaaatatttactgacttc
+            ctaccaagttccaatggatcgtccagaattatagctagtgatggaagtgaatgtatcgtg
+            agcattaagtccaaagttgtggatcatcatgtggagaatgaactacttcaggtcgatgta
+            gatatcgcaggccaaagagatgacgcgctggtagtagagacaatcacttctttactgaac
+            aaggttttgaagtctggtagcggagtagattcctcaaagttgcaattgacaaaaaagtac
+            agcttcaaaatatttgtcgatgttctggtcatttcatcacattcacacccagtttcttta
+            atatcctttgctatttattcagcgttgaactccacatacctaccgaaacttatttcagct
+            tttgacgacttagaggtggaagaacttcctacgtttcatgattacgacatggttaagctt
+            gacattaatccgcctttagtgtttatattggccgttgtaggcaacaatatgctattggac
+            cctgcagccaacgaaagcgaagtggccaataatggcctaatcatttcctggtctaatggt
+            aagattacatcacctatcagatcagtagcattgaatgattcaaacgttaaaagctttaaa
+            cctcatttgttgaagcaaggtcttgcaatggtggagaaatacgcccccgacgtagtacga
+            tcactggagaatttataa
+///

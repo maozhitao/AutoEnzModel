@@ -1,0 +1,49 @@
+ENTRY       YER037W           CDS       T00005
+NAME        PHM8
+DEFINITION  (RefSeq) bifunctional nucleotidase/lysophosphatidic acid phosphatase
+ORTHOLOGY   K23736  2-lysophosphatidate phosphatase [EC:3.1.3.106]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00561  Glycerolipid metabolism
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09103 Lipid metabolism
+               00561 Glycerolipid metabolism
+                YER037W (PHM8)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.106  2-lysophosphatidate phosphatase
+                 YER037W (PHM8)
+POSITION    V:225889..226854
+MOTIF       Pfam: HAD_2 Hydrolase
+DBLINKS     NCBI-GeneID: 856759
+            NCBI-ProteinID: NP_010954
+            SGD: S000000839
+            UniProt: P40025
+AASEQ       321
+            MTIAKDYRTIYRNQIKKQIRLNQEHLQSLTHLGSQINFEVDPPKLPDPDPARKVFFFDID
+            NTLYRKSTKVQLLMQQSLSNFFKYELGFDDDEAERLIESYYQEYGLSVKGLIKNKQIDDV
+            LQYNTFIDDSLPLQDYLKPDWKLRELLINLKKKKLGKFDKLWLFTNSYKNHAIRCVKILG
+            IADLFDGITYCHYDRPIEEEFICKPDPKFFETAKLQSGLSSFANAWFIDDNESNVRSALS
+            MGMGHVIHLIEDYQYESENIVTKDHKNKQQFSILKDILEIPLIMDVEVYRPSSIAIKEME
+            ELEEEGEAVNWSNQQINVQSS
+NTSEQ       966
+            atgactatcgctaaagattacagaacaatttatagaaaccaaatcaaaaagcagatacga
+            ctaaatcaggagcatttgcaaagcttgacacatctaggctcacaaatcaatttcgaggtg
+            gatcctcccaaattaccggatccggatcctgctcgaaaagtatttttctttgatatcgat
+            aacactttgtacagaaaatctacgaaggtacaattgctcatgcaacaatcattatcaaat
+            ttctttaaatacgaattggggtttgacgacgatgaggcagaacgcctaatcgaatcgtat
+            tatcaagaatatggattatccgtgaaaggtttaataaagaataaacaaattgatgacgtc
+            ctacaatataatacattcatcgatgattccttacctttgcaagactatttaaagcctgat
+            tggaagttaagggagctgctgatcaatttaaagaaaaagaagctcggcaaatttgacaaa
+            ctatggctgtttacaaactcgtacaaaaatcatgccatcagatgtgttaaaatattaggt
+            attgctgatctatttgacggcataacctattgccactacgacagacccatcgaggaagaa
+            ttcatttgcaagccagatccaaaattcttcgaaacagctaaattgcaaagtgggttgtcg
+            agctttgcaaatgcctggtttattgatgacaacgaaagcaatgtgcggagcgcgttgagc
+            atggggatgggccatgttatccatttgatagaggattaccaatatgagtcagaaaatatt
+            gttactaaggaccacaaaaataagcaacaattttccatattgaaagatatccttgagatt
+            ccattgataatggacgttgaagtttaccgtccatcctctattgccataaaggaaatggaa
+            gagttggaagaggaaggggaagcagtcaactggtcaaatcaacagatcaatgttcagtca
+            tcatga
+///

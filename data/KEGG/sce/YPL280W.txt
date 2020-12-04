@@ -1,0 +1,43 @@
+ENTRY       YPL280W           CDS       T00005
+NAME        HSP32
+DEFINITION  (RefSeq) glutathione-independent methylglyoxalase family protein
+ORTHOLOGY   K22211  D-lactate dehydratase [EC:4.2.1.130]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00620  Pyruvate metabolism
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00620 Pyruvate metabolism
+                YPL280W (HSP32)
+            Enzymes [BR:sce01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.130  D-lactate dehydratase
+                 YPL280W (HSP32)
+POSITION    XVI:11887..12600
+MOTIF       Pfam: DJ-1_PfpI ThiJ_like
+DBLINKS     NCBI-GeneID: 855849
+            NCBI-ProteinID: NP_015043
+            SGD: S000006201
+            UniProt: Q08992
+AASEQ       237
+            MTPKRALISLTSYHGPFYKDGAKTGVFVVEILRSFDTFEKHGFEVDFVSETGGFGWDEHY
+            LPKSFIGGEDKMNFETKNSAFNKALARIKTANEVNASDYKIFFASAGHGALFDYPKAKNL
+            QDIASKIYANGGVIAAICHGPLLFDGLIDIKTTRPLIEGKAITGFPLEGEIALGVDDILR
+            SRKLTTVERVANKNGAKYLAPIHPWDDYSITDGKLVTGVNANSSYSTTIRAINALYS
+NTSEQ       714
+            atgactccaaaaagagcgctaatatctcttacttcataccacggtcccttctataaagat
+            ggtgcgaaaacaggcgtttttgtagttgagattttgcggtcgttcgatactttcgaaaag
+            catggtttcgaagtggacttcgtttctgagactggtggatttggctgggatgaacattac
+            ttgccaaagagctttattggtggcgaagataagatgaactttgaaacgaaaaattccgcc
+            ttcaataaggcgttagcgaggatcaagaccgcaaatgaagtcaacgccagcgactataaa
+            atattctttgcatctgctggacatggtgctctatttgactatcccaaagctaaaaatctg
+            caagatattgcatccaagatatatgccaatgggggtgtgatcgctgccatctgtcatgga
+            ccgctccttttcgatggattaatagatatcaaaacaacaagaccattaatcgaaggcaaa
+            gctataacaggtttcccactcgagggtgaaatcgccctgggagttgacgacatcttgagg
+            agcagaaaattgacaacggttgaacgcgttgcaaacaagaatggagccaagtacttggcg
+            ccaatccatccctgggatgactactctattacagatggaaagctagttacgggtgttaac
+            gcaaattcttcctattcgaccacaattagagctataaacgcattatatagctga
+///

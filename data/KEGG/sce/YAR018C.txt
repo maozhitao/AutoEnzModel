@@ -1,0 +1,76 @@
+ENTRY       YAR018C           CDS       T00005
+NAME        KIN3, FUN52, NPK1
+DEFINITION  (RefSeq) serine/threonine protein kinase KIN3
+ORTHOLOGY   K20872  NIMA (never in mitosis gene a)-related kinase 2 [EC:2.7.11.1]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:sce01001]
+                YAR018C (KIN3)
+               01009 Protein phosphatases and associated proteins [BR:sce01009]
+                YAR018C (KIN3)
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YAR018C (KIN3)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 YAR018C (KIN3)
+            Protein kinases [BR:sce01001]
+             Serine/threonine kinases: Other
+              NEK family
+               YAR018C (KIN3)
+            Protein phosphatases and associated proteins [BR:sce01009]
+             Protein serine/threonine phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 YAR018C (KIN3)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Centromeric chromatin formation proteins
+               SAC (spindle assembly checkpoint) factors
+                Protein kinases
+                 YAR018C (KIN3)
+POSITION    I:complement(170396..171703)
+MOTIF       Pfam: Pkinase PK_Tyr_Ser-Thr PPP5 HHA T3RM_EcoP15I_C Mfa1
+DBLINKS     NCBI-GeneID: 851273
+            NCBI-ProteinID: NP_009410
+            SGD: S000000071
+            UniProt: P22209
+AASEQ       435
+            MHRRQFFQEYRSPQQQQGHPPRSEYQVLEEIGRGSFGSVRKVIHIPTKKLLVRKDIKYGH
+            MNSKERQQLIAECSILSQLKHENIVEFYNWDFDEQKEVLYLYMEYCSRGDLSQMIKHYKQ
+            EHKYIPEKIVWGILAQLLTALYKCHYGVELPTLTTIYDRMKPPVKGKNIVIHRDLKPGNI
+            FLSYDDSDYNINEQVDGHEEVNSNYYRDHRVNSGKRGSPMDYSQVVVKLGDFGLAKSLET
+            SIQFATTYVGTPYYMSPEVLMDQPYSPLSDIWSLGCVIFEMCSLHPPFQAKNYLELQTKI
+            KNGKCDTVPEYYSRGLNAIIHSMIDVNLRTRPSTFELLQDIQIRTARKSLQLERFERKLL
+            DYENELTNIEKILEKQAIEYERELSQLKEQFTQAVEERAREVISGKKVGKVPESINGYYG
+            KKFAKPAYHWQTRYR
+NTSEQ       1308
+            atgcatagacgacagtttttccaagaataccgtagtcctcagcagcagcagggacaccca
+            ccaaggtcagaataccaagttctcgaagaaattgggagaggttcatttgggtctgtacga
+            aaagtcatccatatacctaccaagaaacttttggttagaaaggatatcaaatatggccat
+            atgaatagcaaagagagacaacagctgatcgctgaatgtagcattctatcgcagttgaag
+            catgaaaatattgtagaattttataactgggacttcgatgaacaaaaagaagtgttatac
+            ctttatatggaatattgttccaggggtgatttatcccagatgattaagcactacaaacag
+            gagcataaatatataccagaaaaaattgtgtggggtatcctggcccaattattgactgcg
+            ctctataaatgtcattatggtgttgaattgccaactttgaccacaatatatgaccggatg
+            aaaccaccggtaaaaggcaaaaacatcgttatccatcgtgatctgaaaccaggaaatata
+            ttcttaagctatgatgatagcgattacaatattaatgaacaagtagacggtcacgaggaa
+            gtgaatagtaattattacagagaccatagagtgaattcagggaaaagggggagccctatg
+            gactatagtcaagttgtggtaaagttaggtgattttgggttagccaaatctctggaaact
+            agtattcaatttgccacaacatacgtcggtacaccatattacatgtcgcctgaagtgttg
+            atggaccaaccatactccccactatccgacatctggtcactaggttgtgttatttttgag
+            atgtgttcgttgcaccccccatttcaggcaaaaaattatctcgagctacaaactaagatt
+            aaaaacgggaaatgtgacaccgtccctgagtattactctagagggcttaatgccataata
+            cattcaatgatagatgtgaacttaagaaccaggccttccacttttgaattactgcaagat
+            attcagatacgaactgcaagaaagtcgttgcaattagagagatttgaaaggaagttactg
+            gactatgaaaatgagctgacaaacattgaaaaaatcctcgagaagcaagctattgaatac
+            gaaagagaactgagtcagttgaaggaacaatttacccaggcagtggaggagcgagccagg
+            gaagtaattagcggtaagaaagttggtaaggttccagaatctataaacggatattatggt
+            aaaaaatttgccaaacctgcataccactggcaaacaagatatcgataa
+///

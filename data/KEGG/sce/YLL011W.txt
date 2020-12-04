@@ -1,0 +1,67 @@
+ENTRY       YLL011W           CDS       T00005
+NAME        SOF1
+DEFINITION  (RefSeq) rRNA-processing protein SOF1
+ORTHOLOGY   K11806  DDB1- and CUL4-associated factor 13
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YLL011W (SOF1)
+               04121 Ubiquitin system [BR:sce04121]
+                YLL011W (SOF1)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              90S particles
+               Other 90S particles
+                YLL011W (SOF1)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               Cul4 complex
+                Target recognizing subunit (DCAF)
+                 YLL011W (SOF1)
+POSITION    XII:127523..128992
+MOTIF       Pfam: Sof1 WD40 ANAPC4_WD40 Ge1_WD40 BBS2_Mid
+DBLINKS     NCBI-GeneID: 850649
+            NCBI-ProteinID: NP_013090
+            SGD: S000003934
+            UniProt: P33750
+STRUCTURE   PDB: 6ND4
+AASEQ       489
+            MKIKTIKRSADDYVPVKSTQESQMPRNLNPELHPFERAREYTKALNATKLERMFAKPFVG
+            QLGYGHRDGVYAIAKNYGSLNKLATGSADGVIKYWNMSTREEFVSFKAHYGLVTGLCVTQ
+            PRFHDKKPDLKSQNFMLSCSDDKTVKLWSINVDDYSNKNSSDNDSVTNEEGLIRTFDGES
+            AFQGIDSHRENSTFATGGAKIHLWDVNRLKPVSDLSWGADNITSLKFNQNETDILASTGS
+            DNSIVLYDLRTNSPTQKIVQTMRTNAICWNPMEAFNFVTANEDHNAYYYDMRNLSRSLNV
+            FKDHVSAVMDVDFSPTGDEIVTGSYDKSIRIYKTNHGHSREIYHTKRMQHVFQVKYSMDS
+            KYIISGSDDGNVRLWRSKAWERSNVKTTREKNKLEYDEKLKERFRHMPEIKRISRHRHVP
+            QVIKKAQEIKNIELSSIKRREANERRTRKDMPYISERKKQIVGTVHKYEDSGRDRKRRKE
+            DDKRDTQEK
+NTSEQ       1470
+            atgaagattaagaccattaaaagaagtgctgatgactatgtccctgttaaaagtacgcag
+            gaatctcaaatgcccaggaatttgaaccctgaattgcatccttttgaaagggcacgtgaa
+            tatactaaagctttgaatgccaccaaattggaaagaatgtttgctaaaccctttgtgggt
+            cagttaggatacggtcatagagatggtgtttatgctattgccaaaaattatggtagtctg
+            aataaattggctactggttctgcagatggtgtgattaaatactggaacatgtctactaga
+            gaagaatttgtttcctttaaggcgcattatggactcgttactggtctttgtgtgacacag
+            cctcgttttcatgacaagaagccagatttgaagagccaaaattttatgttatcttgcagt
+            gatgacaaaactgtcaagctatggtcaataaatgttgatgattactccaataaaaactcc
+            agtgataacgactccgttactaacgaggaaggtttgattcgtacttttgacggtgaatct
+            gcatttcaaggtatcgattcgcacagagaaaactccacgtttgccacaggtggggccaag
+            atccatctttgggacgttaacagattgaagccagtttccgatctatcatggggagcagac
+            aacattactagtttaaaattcaatcaaaatgaaacagatatcttggccagtactggtagt
+            gataattctattgttctttacgacttgagaaccaactcccccacacaaaagattgttcaa
+            acaatgaggacgaatgctatttgctggaatccaatggaggccttcaactttgtaactgcc
+            aatgaagatcataacgcctactattatgatatgaggaatttatcacgttcattgaatgta
+            ttcaaagatcacgtcagcgcagtaatggatgttgacttttctcctacgggggatgagatt
+            gttactggttcgtacgataagagtatcagaatatataagacgaatcacggacattcgaga
+            gaaatttatcatacgaagagaatgcagcatgttttccaggttaaatattccatggattct
+            aaatatattatcagtggatctgatgatgggaatgttaggctatggagaagtaaagcttgg
+            gagaggtctaatgtcaaaactactcgtgaaaagaataaattagaatatgacgaaaaatta
+            aaagaaagatttagacatatgccggagatcaaaagaatcagtagacatagacacgtgcca
+            caagtcatcaaaaaggctcaggaaattaagaacattgagttgagttctattaagagaaga
+            gaagctaatgaaaggcgtactagaaaggatatgccatacatttccgaaaggaagaaacaa
+            atcgttggtaccgtgcacaaatatgaagattcaggaagagataggaaaagaagaaaggaa
+            gatgacaaacgtgatactcaagaaaagtag
+///

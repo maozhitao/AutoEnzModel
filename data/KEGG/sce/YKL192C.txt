@@ -1,0 +1,35 @@
+ENTRY       YKL192C           CDS       T00005
+NAME        ACP1
+DEFINITION  (RefSeq) acyl carrier protein
+ORTHOLOGY   K03955  NADH dehydrogenase (ubiquinone) 1 alpha/beta subcomplex 1, acyl-carrier protein
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00190  Oxidative phosphorylation
+            sce01100  Metabolic pathways
+MODULE      sce_M00874  Fatty acid biosynthesis in mitochondria, fungi
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                YKL192C (ACP1)
+              09103 Lipid metabolism
+               00061 Fatty acid biosynthesis
+                YKL192C (ACP1)
+POSITION    XI:complement(80160..80537)
+MOTIF       Pfam: PP-binding PP-binding_2 DUF1493
+DBLINKS     NCBI-GeneID: 853642
+            NCBI-ProteinID: NP_012729
+            SGD: S000001675
+            UniProt: P32463
+AASEQ       125
+            MFRSVCRISSRVAPSAYRTIMGRSVMSNTILAQRFYSANLSKDQVSQRVIDVIKAFDKNS
+            PNIANKQISSDTQFHKDLGLDSLDTVELLVAIEEEFDIEIPDKVADELRSVGETVDYIAS
+            NPDAN
+NTSEQ       378
+            atgtttagatccgtttgccgcatttcttcccgcgtggcaccttctgcgtaccgcactata
+            atgggccgttccgttatgtccaacaccatactcgcacaaagattttattctgcaaacttg
+            agcaaagatcaggtttctcaaagggtcattgatgttatcaaggcgtttgataagaactct
+            cccaacattgccaacaagcaaatctccagcgatacccaatttcacaaggatttggggttg
+            gactccttggacactgtcgagctgctcgtagctattgaagaagaatttgatattgaaatc
+            cctgacaaagtggctgatgagttgagaagtgttggtgaaacggtcgattatatcgcttcc
+            aatcccgacgcaaactaa
+///

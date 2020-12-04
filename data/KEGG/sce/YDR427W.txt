@@ -1,0 +1,58 @@
+ENTRY       YDR427W           CDS       T00005
+NAME        RPN9, NAS7
+DEFINITION  (RefSeq) proteasome regulatory particle lid subunit RPN9
+ORTHOLOGY   K03039  26S proteasome regulatory subunit N9
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03050  Proteasome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03050 Proteasome
+                YDR427W (RPN9)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03051 Proteasome [BR:sce03051]
+                YDR427W (RPN9)
+            Proteasome [BR:sce03051]
+             Eukaryotic proteasome
+              Regulatory particles
+               PA700 (19S proteasome)
+                non-ATPase subunits
+                 YDR427W (RPN9)
+POSITION    IV:1322205..1323386
+MOTIF       Pfam: Rpn9_C PCI DUF4080 DUF4041 MRP-L46
+DBLINKS     NCBI-GeneID: 852037
+            NCBI-ProteinID: NP_010715
+            SGD: S000002835
+            UniProt: Q04062
+STRUCTURE   PDB: 3JCK 5MPD 5MPE 3J47 4CR2 4CR4 4CR3 5A5B 2MRI 2MQW 2MR3
+AASEQ       393
+            MFNNHEIDTILSTLRMEADPSLHPLFEQFEKFYEEKLWFQLSESLTKFFDDAKSTPLRLR
+            LYDNFVSKFYDKINQLSVVKYLLASLKDSKDFDESLKYLDDLKAQFQELDSKKQRNNGSK
+            DHGDGILLIDSEIARTYLLKNDLVKARDLLDDLEKTLDKKDSIPLRITNSFYSTNSQYFK
+            FKNDFNSFYYTSLLYLSTLEPSTSITLAERQQLAYDLSISALLGDKIYNFGELLHHPIME
+            TIVNDSNYDWLFQLLNALTVGDFDKFDSLIKVQISKIPILAQHESFLRQKICLMTLIETV
+            FVKNIRMLSFEDISKATHLPKDNVEHLVMRAISLGLLKGSIDQVNELVTISWVQPRIISG
+            DQITKMKDRLVEWNDQVEKLGKKMEARGQSIWV
+NTSEQ       1182
+            atgtttaataatcatgaaattgacaccatattaagcactctccgcatggaggcagatccc
+            tctttgcatcctttattcgaacaatttgagaaattttatgaagagaaattgtggttccaa
+            ttgtccgaatccttgactaaattttttgatgatgctaaatctacaccattgaggctcaga
+            ttatatgataacttcgtttctaaattttatgataaaatcaaccaattgtcagtagtaaag
+            tatctacttgcctctttgaaggattctaaggatttcgatgagtctttaaaatatttggat
+            gatttgaaggctcaatttcaagaattggactctaaaaaacaaagaaataatggatcaaaa
+            gaccatggtgatggtattttgttgatagatagcgaaattgctagaacttacctgttaaag
+            aacgacctcgttaaggcaagagatttattagatgatttggaaaagacattggataaaaag
+            gattccattccattaaggataacaaacagcttctattctacaaattcccagtattttaaa
+            tttaaaaatgatttcaattctttctactacacaagtctattatacctttctaccttagaa
+            ccatctacaagcattactttagccgaacgtcaacaattggcctatgatttgagtatctca
+            gcattgttaggtgacaaaatctataattttggcgaactattacaccatccaataatggaa
+            actatagtcaacgattccaattacgattggcttttccaattattaaatgctctaaccgtt
+            ggtgattttgataaattcgactcattgataaaagttcaaatatcaaagattcctatattg
+            gctcaacatgaatcatttttacgacaaaaaatttgcctaatgacattaattgaaacagtt
+            tttgtcaaaaatattaggatgctttcatttgaagatatttcaaaggctacacacctacca
+            aaggataatgtcgaacacctggtcatgagagccataagtttgggtctattaaagggttct
+            attgaccaagtaaatgaactcgttaccatctcctgggtccaaccaagaatcataagtggt
+            gaccaaattacaaagatgaaggacagactggttgaatggaacgatcaagtagaaaaactg
+            ggcaaaaaaatggaagctcgtggccaatccatctgggtttag
+///

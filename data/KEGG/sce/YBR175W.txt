@@ -1,0 +1,57 @@
+ENTRY       YBR175W           CDS       T00005
+NAME        SWD3, CPS30, SAF35
+DEFINITION  (RefSeq) Swd3p
+ORTHOLOGY   K14963  COMPASS component SWD3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YBR175W (SWD3)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Histone modification proteins
+               HAT complexes
+                NSL complex
+                 YBR175W (SWD3)
+               HMT complexes
+                COMPASS/SET1 complex
+                 YBR175W (SWD3)
+                COMPASS/SET1 complex (yeast)
+                 YBR175W (SWD3)
+                MLL-HCF complex
+                 YBR175W (SWD3)
+                MLL3/MLL4 complex
+                 YBR175W (SWD3)
+POSITION    II:582408..583355
+MOTIF       Pfam: WD40 ANAPC4_WD40 Nup160 Cytochrom_D1 DPPIV_N
+DBLINKS     NCBI-GeneID: 852472
+            NCBI-ProteinID: NP_009734
+            SGD: S000000379
+            UniProt: P38123
+STRUCTURE   PDB: 6BX3
+AASEQ       315
+            MFQFVTPVGTQNGLKATCAKISPDGQFLAITQGLNILIYDINRRTVSQTLVTSHARPFSE
+            LCWSPDGQCIATASDDFSVEIIHLSYGLLHTFIGHTAPVISLTFNRKGNLLFTSSMDESI
+            KIWDTLNGSLMKTISAHSEAVVSVDVPMNDSSILSSGSYDGLIRIFDAETGHCLKTLTYD
+            KDWKRENGVVPISQVKFSENARYLLVKSLDGVVKIWDCIGGCVVRTFQVQPLEKGVLHHS
+            CGMDFLNPEDGSTPLVISGYENGDIYCWNSDTKSLLQLLDGSLYHHSSPVMSIHCFGNIM
+            CSLALNGDCCLWRWV
+NTSEQ       948
+            atgttccagtttgttactcctgtgggaacacagaatggattgaaagctacttgtgcgaaa
+            atatctcctgatgggcagtttcttgctataacacaaggacttaacatcctgatatacgac
+            attaacagacgaactgtatcacaaacactagtcacatcacatgccaggcctttctcagag
+            ttatgctggtctccagatggacagtgcatagctactgcatcggatgatttttctgtggaa
+            atcattcatttatcttatgggctgctgcacacttttatcggccatacagcgccagtgata
+            tctctgacattcaatagaaaggggaacttgctgtttacatcctcaatggacgaaagtatc
+            aaaatatgggacacactgaacgggtctttgatgaaaacaatatctgcacactcagaagca
+            gttgtgtcggtggacgtacccatgaatgattcatccattctgagttcaggttcatatgac
+            gggctcatacggatctttgatgcagagacgggccattgtttgaagacattgacctatgac
+            aaggattggaaaagagaaaatggtgtggtacccatctcccaagttaagttttctgagaat
+            gcaagatatctcctggtgaaatcgctggacggtgtagtgaaaatatgggattgcatcggg
+            ggttgtgtagttcgtactttccaggttcagcctcttgaaaagggcgtactgcatcattcc
+            tgcggtatggacttcttaaatcctgaagatggatccactcctttggtgatcagcggttat
+            gaaaatggcgatatatattgttggaattctgatacaaaaagcctcttacagttgctcgat
+            ggttctttatatcaccacagcagccctgtaatgagcatacattgcttcggtaatataatg
+            tgttcccttgcattgaatggagattgctgtttatggagatgggtttaa
+///

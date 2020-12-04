@@ -1,0 +1,39 @@
+ENTRY       YBL040C           CDS       T00005
+NAME        ERD2
+DEFINITION  (RefSeq) Erd2p
+ORTHOLOGY   K10949  ER lumen protein retaining receptor
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YBL040C (ERD2)
+            Membrane trafficking [BR:sce04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Retrieval pathways
+               Rab associated proteins
+                YBL040C (ERD2)
+POSITION    II:complement(join(142112..142749,142847..142868))
+MOTIF       Pfam: ER_lumen_recept
+DBLINKS     NCBI-GeneID: 852240
+            NCBI-ProteinID: NP_009513
+            SGD: S000000136
+            UniProt: P18414
+AASEQ       219
+            MNPFRILGDLSHLTSILILIHNIKTTRYIEGISFKTQTLYALVFITRYLDLLTFHWVSLY
+            NALMKIFFIVSTAYIVVLLQGSKRTNTIAYNEMLMHDTFKIQHLLIGSALMSVFFHHKFT
+            FLELAWSFSVWLESVAILPQLYMLSKGGKTRSLTVHYIFAMGLYRALYIPNWIWRYSTED
+            KKLDKIAFFAGLLQTLLYSDFFYIYYTKVIRGKGFKLPK
+NTSEQ       660
+            atgaatccgtttagaatcttaggtgatttatcacatctaaccagtatactgatcctgatt
+            cataatatcaagaccacaaggtacattgaaggtatttctttcaagacccaaacgttgtac
+            gctttggttttcataacacgatacttggatctcttgacttttcactgggtatccctatac
+            aatgctctaatgaaaatatttttcattgtatctaccgcttacattgtagtgctattacaa
+            gggtctaaaagaaccaacaccattgcgtataatgaaatgcttatgcatgatacctttaag
+            atccagcatttactaattgggagtgctctaatgagtgtttttttccatcacaagttcact
+            tttcttgaattagcatggagtttttctgtatggttggagagtgtggctattctacctcaa
+            ttgtacatgctatctaagggtgggaagactagaagtctaactgttcattatatttttgcc
+            atgggattatacagagcattgtatattcctaactggatttggaggtacagcacggaagat
+            aaaaaattggacaagattgccttcttcgcgggacttttgcaaactctgttgtactctgat
+            ttcttttacatttactacactaaagtcatcagaggaaagggtttcaaactgccaaaataa
+///

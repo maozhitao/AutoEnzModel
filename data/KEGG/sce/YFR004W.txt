@@ -1,0 +1,68 @@
+ENTRY       YFR004W           CDS       T00005
+NAME        RPN11, MPR1
+DEFINITION  (RefSeq) proteasome regulatory particle lid subunit RPN11
+ORTHOLOGY   K03030  26S proteasome regulatory subunit N11
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03050  Proteasome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03050 Proteasome
+                YFR004W (RPN11)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YFR004W (RPN11)
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YFR004W (RPN11)
+               03051 Proteasome [BR:sce03051]
+                YFR004W (RPN11)
+            Peptidases and inhibitors [BR:sce01002]
+             Metallo peptidases
+              Family M67
+               YFR004W (RPN11)
+            Ubiquitin system [BR:sce04121]
+             Deubiquitinating enzyme (DUB)
+              Ubiquitin-specific proteases (UBPs)
+               JAMM
+                YFR004W (RPN11)
+            Proteasome [BR:sce03051]
+             Eukaryotic proteasome
+              Regulatory particles
+               PA700 (19S proteasome)
+                non-ATPase subunits
+                 YFR004W (RPN11)
+POSITION    VI:153393..154313
+MOTIF       Pfam: JAB MitMem_reg Prok-JAB F_bP_aldolase
+DBLINKS     NCBI-GeneID: 850554
+            NCBI-ProteinID: NP_116659
+            SGD: S000001900
+            UniProt: P43588
+STRUCTURE   PDB: 5W83 4O8Y 4OCM 4O8X 4OCN 4OWP 4OCL 5U4P 3JCK 5MPD 6EF3
+                 5MPE 3J47 4CR2 4CR4 4CR3 5A5B
+AASEQ       306
+            MERLQRLMMNSKVGSADTGRDDTKETVYISSIALLKMLKHGRAGVPMEVMGLMLGEFVDD
+            YTVNVVDVFAMPQSGTGVSVEAVDDVFQAKMMDMLKQTGRDQMVVGWYHSHPGFGCWLSS
+            VDVNTQKSFEQLNSRAVAVVVDPIQSVKGKVVIDAFRLIDTGALINNLEPRQTTSNTGLL
+            NKANIQALIHGLNRHYYSLNIDYHKTAKETKMLMNLHKEQWQSGLKMYDYEEKEESNLAA
+            TKSMVKIAEQYSKRIEEEKELTEEELKTRYVGRQDPKKHLSETADETLENNIVSVLTAGV
+            NSVAIK
+NTSEQ       921
+            atggaacgactacagagattgatgatgaatagtaaggtggggtccgcggacaccggccgt
+            gacgatacgaaagaaactgtttatatttcttcgattgcgcttttaaagatgctaaagcat
+            ggtagagctggtgttcccatggaagtcatggggttgatgttaggtgagtttgtcgatgat
+            tatacggttaacgttgtggacgtgtttgcgatgcctcaatcgggtaccggagtttctgtt
+            gaggctgtcgatgatgttttccaagcgaagatgatggacatgttaaaacaaacgggcaga
+            gaccaaatggtcgttggctggtaccactctcatccagggtttggctgttggctatcttct
+            gttgatgttaatactcaaaaatcttttgaacaactaaacagcagagctgttgctgtcgtt
+            gttgaccctattcaatccgttaagggaaaagttgtcatcgatgcttttagattgattgac
+            acgggcgcattgataaataacttagagcctagacaaacaacctccaacacaggcttattg
+            aacaaggccaacattcaagccttaattcacggtctgaataggcattactattctttaaat
+            attgattatcataaaaccgcgaaggaaaccaagatgttaatgaacttacataaagaacag
+            tggcaatcaggtcttaagatgtacgattatgaagaaaaagaagaatcaaatttggctgct
+            acaaagagtatggttaagatagccgaacagtactctaagagaatagaagaggaaaaggaa
+            ttaaccgaagaagaacttaagacaagatacgttggtaggcaagatccaaagaagcacctt
+            tccgaaacagcagatgagacactagagaacaatattgtttctgtgctgacggcgggtgtt
+            aattcagtggcaattaaataa
+///

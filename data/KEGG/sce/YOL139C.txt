@@ -1,0 +1,56 @@
+ENTRY       YOL139C           CDS       T00005
+NAME        CDC33, TIF45
+DEFINITION  (RefSeq) translation initiation factor eIF4E
+ORTHOLOGY   K03259  translation initiation factor 4E
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03013  RNA transport
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03013 RNA transport
+                YOL139C (CDC33)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YOL139C (CDC33)
+               03012 Translation factors [BR:sce03012]
+                YOL139C (CDC33)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               Transport factors
+                eIF4F and regulatory proteins
+                 YOL139C (CDC33)
+               mRNA cycle factors
+                Common to processing body (P body) and stress granule
+                 YOL139C (CDC33)
+            Translation factors [BR:sce03012]
+             Eukaryotic type
+              Initiation factors
+               eIF-4
+                YOL139C (CDC33)
+POSITION    XV:complement(60383..61024)
+MOTIF       Pfam: IF4E
+DBLINKS     NCBI-GeneID: 854026
+            NCBI-ProteinID: NP_014502
+            SGD: S000005499
+            UniProt: P07260
+STRUCTURE   PDB: 6FC1 6FC3 6FC2 1RF8 1AP8
+AASEQ       213
+            MSVEEVSKKFEENVSVDDTTATPKTVLSDSAHFDVKHPLNTKWTLWYTKPAVDKSESWSD
+            LLRPVTSFQTVEEFWAIIQNIPEPHELPLKSDYHVFRNDVRPEWEDEANAKGGKWSFQLR
+            GKGADIDELWLRTLLAVIGETIDEDDSQINGVVLSIRKGGNKFALWTKSEDKEPLLRIGG
+            KFKQVLKLTDDGHLEFFPHSSANGRHPQPSITL
+NTSEQ       642
+            atgtccgttgaagaagttagcaagaagtttgaagaaaacgtttcagtcgatgataccaca
+            gctactccaaagactgttttaagtgacagtgctcacttcgatgtcaagcacccattgaac
+            accaaatggactttatggtacacaaagccagccgtcgataaatctgagtcgtggtctgat
+            ctattacgtcccgtcacttcattccaaactgttgaagaattttgggctatcattcaaaat
+            attcctgagccacacgaactaccattgaaatcagattaccacgtcttccgtaatgacgtt
+            agacctgaatgggaagatgaagccaatgctaaaggtggtaaatggtctttccaacttaga
+            ggaaaaggtgctgatattgatgaattatggctaagaactttactagcagttattggtgaa
+            acaattgatgaagacgactcccaaattaacggtgtcgttttaagcattagaaaaggtggt
+            aacaagtttgccttatggactaaatctgaagacaaagaaccactattgagaattggtggt
+            aaattcaagcaagttttaaaattaaccgatgacgggcatttggaattctttccacattcc
+            agtgccaatggtagacaccctcaaccatcaatcaccttgtaa
+///

@@ -1,0 +1,42 @@
+ENTRY       YLR421C           CDS       T00005
+NAME        RPN13
+DEFINITION  (RefSeq) proteasome regulatory particle lid subunit RPN13
+ORTHOLOGY   K06691  26S proteasome regulatory subunit N13
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03050  Proteasome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03050 Proteasome
+                YLR421C (RPN13)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03051 Proteasome [BR:sce03051]
+                YLR421C (RPN13)
+            Proteasome [BR:sce03051]
+             Eukaryotic proteasome
+              Regulatory particles
+               PA700 (19S proteasome)
+                non-ATPase subunits
+                 YLR421C (RPN13)
+POSITION    XII:complement(965090..965560)
+MOTIF       Pfam: Proteasom_Rpn13
+DBLINKS     NCBI-GeneID: 851140
+            NCBI-ProteinID: NP_013525
+            SGD: S000004413
+            UniProt: O13563
+STRUCTURE   PDB: 5MPD 5MPE 4CR2 4CR4 4CR3 5A5B 2Z4D
+AASEQ       156
+            MSMSSTVIKFRAGVCEYNEDSRLCTPIPVQGEIEIKPNEEEELGFWDFEWRPTEKPVGRE
+            LDPISLILIPGETMWVPIKSSKSGRIFALVFSSNERYFFWLQEKNSGNLPLNELSAKDKE
+            IYNKMIGVLNNSSESDEEESNDEKQKAQDVDVSMQD
+NTSEQ       471
+            atgagtatgagttcaactgtaattaaattcagggctggtgtttgtgaatacaacgaagat
+            tcacgtctatgtacgccaattccagttcagggtgaaatcgagatcaaaccaaatgaagag
+            gaagaattgggattttgggatttcgagtggcgtccaacggaaaagccggtcgggagggaa
+            cttgatcctatttctttgattttaattcctggagagaccatgtgggttccaataaaatcc
+            agtaaaagtggcagaatatttgctttagttttttcatccaacgaaaggtacttcttttgg
+            ctgcaagagaagaactcaggtaatttgcccttaaatgaattgagtgcgaaagataaagaa
+            atttacaataagatgattggagtgctgaataatagtagtgaaagtgatgaggaagaaagc
+            aatgacgaaaagcaaaaagctcaagatgtggatgttagtatgcaagattaa
+///

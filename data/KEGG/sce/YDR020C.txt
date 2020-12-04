@@ -1,0 +1,43 @@
+ENTRY       YDR020C           CDS       T00005
+NAME        DAS2, RRT3
+DEFINITION  (RefSeq) putative uridine kinase DAS2
+ORTHOLOGY   K00876  uridine kinase [EC:2.7.1.48]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00240  Pyrimidine metabolism
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09104 Nucleotide metabolism
+               00240 Pyrimidine metabolism
+                YDR020C (DAS2)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.48  uridine/cytidine kinase
+                 YDR020C (DAS2)
+POSITION    IV:complement(485746..486444)
+MOTIF       Pfam: PRK
+DBLINKS     NCBI-GeneID: 851583
+            NCBI-ProteinID: NP_010303
+            SGD: S000002427
+            UniProt: Q12084
+AASEQ       232
+            MDRKAVEEKRIVISIGGGHATGVGAIALDLQNTFKSLYNSINIRVINLDNMIEGNIKSYN
+            NNDYDFDNILNLVYEKHAVTSQNDMIQHDYEDPIDLIIVCGCYALYDKRINEISQLKVFL
+            DSDADKRLISLIKKKNVGSNEQLAQLITEYMDHLRPEMQQYIEPTRTFADLIIPSTNENL
+            GRAVLVDGIVKAIEDTKSQIEGNNTNNKIRPRLWDFEAETMDLEKDRYYDLS
+NTSEQ       699
+            atggacagaaaagctgtcgaagaaaaaagaattgttatttctatcggtggagggcatgct
+            actggtgttggagcaattgcactggatttacaaaatactttcaaaagcctatataactct
+            atcaatataagggtaataaacctagataatatgatagaagggaacatcaagagctacaat
+            aataacgactatgattttgataatatccttaatttggtatatgaaaagcacgctgtaact
+            tctcaaaatgacatgattcaacatgattacgaggacccgatagatttgataatagtatgt
+            ggctgttatgcgctatacgataaacgcatcaacgaaatatctcaattaaaagtattcttg
+            gatagtgatgcagataaaagattaattagtctaatcaagaagaagaacgtagggagcaat
+            gaacaactagcccagttgatcactgagtatatggaccatctgcgcccggagatgcaacaa
+            tatatagagcccactagaacttttgcagatttgatcattccttctacaaatgaaaatcta
+            gggcgcgcagtcctcgtggacggtatagttaaagcaatcgaagataccaaaagccaaata
+            gaaggcaacaatacgaacaacaaaatacgcccacgtttatgggatttcgaagctgaaaca
+            atggacttggagaaagatagatattacgatctgtcatga
+///

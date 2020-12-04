@@ -1,0 +1,39 @@
+ENTRY       YOR234C           CDS       T00005
+NAME        RPL33B, RPL37B
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L33B
+ORTHOLOGY   K02917  large subunit ribosomal protein L35Ae
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YOR234C (RPL33B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YOR234C (RPL33B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YOR234C (RPL33B)
+              Archaea
+                YOR234C (RPL33B)
+POSITION    XV:complement(join(778555..778859,779387..779405))
+MOTIF       Pfam: Ribosomal_L35Ae
+DBLINKS     NCBI-GeneID: 854409
+            NCBI-ProteinID: NP_014877
+            SGD: S000005760
+            UniProt: P41056
+AASEQ       107
+            MAESHRLYVKGKHLSYQRSKRVNNPNVSLIKIEGVATPQEAQFYLGKRIAYVYRASKEVR
+            GSKIRVMWGKVTRTHGNSGVVRATFRNNLPAKTFGASVRIFLYPSNI
+NTSEQ       324
+            atggctgaatcccatagactatacgttaaaggtaagcacttatcctaccaaagatctaag
+            agagttaacaacccaaatgtctctttgattaagattgaaggtgttgccactccacaagaa
+            gctcaattctatttgggtaagcgtatcgcctacgtttacagagcttccaaggaagtcaga
+            ggttccaagattagagttatgtggggcaaagtcaccagaactcacggtaactctggtgtc
+            gttagagctacctttagaaacaacttgccagccaagactttcggtgcctctgtcagaatt
+            ttcttgtacccatctaacatttaa
+///

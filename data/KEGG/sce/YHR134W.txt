@@ -1,0 +1,58 @@
+ENTRY       YHR134W           CDS       T00005
+NAME        WSS1
+DEFINITION  (RefSeq) metalloendopeptidase WSS1
+ORTHOLOGY   K22685  DNA-dependent metalloprotease WSS1 [EC:3.4.24.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YHR134W (WSS1)
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YHR134W (WSS1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.-  
+                 YHR134W (WSS1)
+            Peptidases and inhibitors [BR:sce01002]
+             Metallo peptidases
+              Family M80
+               YHR134W (WSS1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                Other HR factors
+                 YHR134W (WSS1)
+POSITION    VIII:371749..372558
+MOTIF       Pfam: WLM DUF45
+DBLINKS     NCBI-GeneID: 856536
+            NCBI-ProteinID: NP_012002
+            SGD: S000001176
+            UniProt: P38838
+STRUCTURE   PDB: 5XBN 5XBV
+AASEQ       269
+            MKTEGIKSPSAKYHDMAGSQRIPHKNPHIQKVAVLQSKPNKEDALNLIKEIAHKVSYLMK
+            ENHFKVTNLVEFYPRDQRLLGMNVNHGSKIMLRLRCSTDEFQFLPMECIMGTMLHELTHN
+            LFGPHDKKFYNKLDELIGRQWVIEQRGLYDTFLGNGQRLGGRANLRSNRYPMTGISTNTG
+            IVRKRGKGVKLGSLHPEGISSIDRGNSPRELAAFAAERRYRDDRWCGETKNNKDQIISDN
+            ISSSLEVVILDDDDEVLPGDTLIEVIDLT
+NTSEQ       810
+            atgaagacagaaggaataaaaagcccatcggcaaaataccatgatatggcgggctcccag
+            agaatccctcacaagaacccgcacattcaaaaagtggctgttttgcaaagtaagcccaat
+            aaggaagatgcgctaaatttaataaaggaaatcgcacataaagtttcctatctaatgaag
+            gaaaatcacttcaaagtgaccaacttggtggagttttacccacgtgatcaaagactcctg
+            ggaatgaacgtcaaccatggatctaagataatgttacggttaagatgctccacggatgag
+            ttccaatttttacccatggagtgtataatgggcaccatgctgcacgaattaactcacaat
+            ttattcggtccacacgacaaaaagttctacaataagctagatgagttgattggaaggcaa
+            tgggttattgaacaaagaggtttgtacgacacatttttggggaacggtcaacgtctcggt
+            ggaagagcaaacttacgttcaaatagatatcctatgacaggaataagtactaacacaggg
+            atagtgagaaaaaggggcaaaggtgtgaagttagggagtttgcatccagagggtatatca
+            tctatagatagaggtaattccccgagagagttggcggcttttgcagccgaaaggagatat
+            agagatgatcgctggtgcggagagacgaagaataacaaagatcaaataataagtgataat
+            attagcagctccttagaagttgtaatccttgatgatgatgacgaggtactcccgggagat
+            actcttatcgaagttattgatctcacttaa
+///

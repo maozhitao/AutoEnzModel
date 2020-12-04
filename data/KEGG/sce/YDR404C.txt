@@ -1,0 +1,66 @@
+ENTRY       YDR404C           CDS       T00005
+NAME        RPB7
+DEFINITION  (RefSeq) DNA-directed RNA polymerase II subunit RPB7
+ORTHOLOGY   K03015  DNA-directed RNA polymerase II subunit RPB7
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03020  RNA polymerase
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03020 RNA polymerase
+                YDR404C (RPB7)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:sce03021]
+                YDR404C (RPB7)
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YDR404C (RPB7)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YDR404C (RPB7)
+            Transcription machinery [BR:sce03021]
+             Eukaryotic type
+              RNA polymerase II system
+               RNA polymerase II
+                Pol II specific subunits
+                 YDR404C (RPB7)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               mRNA cycle factors
+                P-body specific factors
+                 YDR404C (RPB7)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                TCR (transcription coupled repair) factors
+                 DNA-directed RNA polymerase II complex
+                  YDR404C (RPB7)
+POSITION    IV:complement(1276654..1277169)
+MOTIF       Pfam: S1 SHS2_Rpb7-N RNA_pol_Rbc25
+DBLINKS     NCBI-GeneID: 852013
+            NCBI-ProteinID: NP_010692
+            SGD: S000002812
+            UniProt: P34087
+STRUCTURE   PDB: 1Y14 4BY7 5OT2 3HOU 4BXX 3PO2 3PO3 4BBR 4A93 4A3D 4A3E
+                 3HOY 2VUM 4A3B 4A3C 4A3F 4A3G 4A3K 4A3L 3HOV 5IP7 4BY1
+                 4BBS 3HOW 3HOX 3HOZ 5C3E 4A3J 3I4M 5U5Q 4A3I 2R92 2R7Z
+                 2JA5 2B63 1Y1V 1WCM 1PQV 3FKI 5IP9 4A3M 3I4N 5C44 5C4X
+                 3H3V 2R93 2JA6 1Y1W 1Y1Y 2B8K 5C4A 1NT9 3QT1 3K1F 5FYW
+                 6I84 1Y77 5OQJ 6GYL 4BXZ 6GYK 5OQM 5VVR 5FMF 5VVS 6GYM
+                 4V1N 5FZ5 4V1O 5SVA 3J1N 2JA7 2JA8
+AASEQ       171
+            MFFIKDLSLNITLHPSFFGPRMKQYLKTKLLEEVEGSCTGKFGYILCVLDYDNIDIQRGR
+            ILPTDGSAEFNVKYRAVVFKPFKGEVVDGTVVSCSQHGFEVQVGPMKVFVTKHLMPQDLT
+            FNAGSNPPSYQSSEDVITIKSRIRVKIEGCISQVSSIHAIGSIKEDYLGAI
+NTSEQ       516
+            atgttttttattaaagacctttcgcttaatattacccttcatccgtcctttttcggtcct
+            cgaatgaagcaatatctaaagacaaaactattggaagaggttgaaggttcgtgtacgggt
+            aaattcggatatattctttgtgtcctagactatgataatatagatattcaacgtgggaga
+            atattgcccacagatgggtccgccgagttcaacgtgaaatatagagctgtagttttcaaa
+            ccatttaaaggggaagtagtggacggcacagtcgtttcatgttctcagcacgggttcgaa
+            gtgcaagtaggtccaatgaaagtatttgtgacaaagcatctgatgcctcaagatttaacc
+            tttaatgcgggttcaaacccaccatcataccaaagttccgaggatgtcatcaccataaaa
+            agtagaattagagttaaaattgaaggttgtatcagtcaagtgagttctattcacgcaatc
+            ggtagtatcaaagaagattatttgggtgctatttaa
+///

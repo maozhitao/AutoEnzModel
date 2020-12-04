@@ -1,0 +1,41 @@
+ENTRY       YOL040C           CDS       T00005
+NAME        RPS15, RPS21
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S15
+ORTHOLOGY   K02958  small subunit ribosomal protein S15e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YOL040C (RPS15)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YOL040C (RPS15)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YOL040C (RPS15)
+POSITION    XV:complement(253149..253577)
+MOTIF       Pfam: Ribosomal_S19
+DBLINKS     NCBI-GeneID: 854117
+            NCBI-ProteinID: NP_014602
+            SGD: S000005400
+            UniProt: Q01855
+STRUCTURE   PDB: 6FAI 6RBD 6EML 6RBE
+AASEQ       142
+            MSQAVNAKKRVFKTHSYRGVDLEKLLEMSTEDFVKLAPARVRRRFARGMTSKPAGFMKKL
+            RAAKLAAPENEKPAPVRTHMRNMIIVPEMIGSVVGIYNGKAFNQVEIRPEMLGHYLGEFS
+            ITYTPVRHGRAGATTSRFIPLK
+NTSEQ       429
+            atgtctcaagctgttaatgccaagaagagagtttttaagacccactcttacagaggtgtc
+            gatttggaaaaattgttggaaatgtccactgaagatttcgtcaagttggccccagctaga
+            gttagaagaagatttgcccgtggtatgacttccaagccagccggtttcatgaagaagttg
+            agagctgccaagttggctgccccagaaaatgaaaagccagctccagtcagaacccacatg
+            agaaacatgatcattgttccagaaatgatcggttccgtcgtcggtatctacaacggtaag
+            gctttcaaccaagttgaaatcagaccagaaatgttgggtcactatttgggtgaattctcc
+            attacttacaccccagtcagacatggtagagccggtgctactacttcccgtttcatccca
+            ttgaaataa
+///

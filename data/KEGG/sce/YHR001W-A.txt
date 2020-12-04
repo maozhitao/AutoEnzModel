@@ -1,0 +1,29 @@
+ENTRY       YHR001W-A         CDS       T00005
+NAME        QCR10
+DEFINITION  (RefSeq) ubiquinol--cytochrome-c reductase subunit 10
+ORTHOLOGY   K00420  ubiquinol-cytochrome c reductase subunit 10
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00190  Oxidative phosphorylation
+            sce01100  Metabolic pathways
+MODULE      sce_M00152  Cytochrome bc1 complex
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                YHR001W-A (QCR10)
+POSITION    VIII:join(107826..107831,107895..108122)
+MOTIF       Pfam: QCR10 UCR_6-4kD
+DBLINKS     NCBI-GeneID: 856390
+            NCBI-ProteinID: NP_011864
+            SGD: S000003529
+            UniProt: P37299
+STRUCTURE   PDB: 6GIQ 6HU9
+AASEQ       77
+            MAYTSHLSSKTGLHFGRLSLRSLTAYAPNLMLWGGASMLGLFVFTEGWPKFQDTLYKKIP
+            LLGPTLEDHTPPEDKPN
+NTSEQ       234
+            atggcgtacacttctcatctgtcttcaaaaactggtctacatttcggtagactttcttta
+            agaagtttaacagcttatgctccgaatttaatgttatggggtggtgctagcatgcttggg
+            ctatttgtattcacagaaggatggcctaagtttcaagatacgctatacaaaaagattccg
+            ttgttaggacctacattggaagatcatactccaccagaagataaacctaattga
+///

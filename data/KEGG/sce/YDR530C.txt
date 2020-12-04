@@ -1,0 +1,57 @@
+ENTRY       YDR530C           CDS       T00005
+NAME        APA2
+DEFINITION  (RefSeq) bifunctional AP-4-A phosphorylase/ADP sulfurylase
+ORTHOLOGY   K00988  sulfate adenylyltransferase (ADP) / ATP adenylyltransferase [EC:2.7.7.5 2.7.7.53]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00230  Purine metabolism
+            sce00920  Sulfur metabolism
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00920 Sulfur metabolism
+                YDR530C (APA2)
+              09104 Nucleotide metabolism
+               00230 Purine metabolism
+                YDR530C (APA2)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.5  sulfate adenylyltransferase (ADP)
+                 YDR530C (APA2)
+                2.7.7.53  ATP adenylyltransferase
+                 YDR530C (APA2)
+POSITION    IV:complement(1496791..1497768)
+MOTIF       Pfam: ATP_transf DUF4931 HIT DUF4922
+DBLINKS     NCBI-GeneID: 852143
+            NCBI-ProteinID: NP_010819
+            SGD: S000002938
+            UniProt: P22108
+STRUCTURE   PDB: 4I5T 4I5V 4I5W
+AASEQ       325
+            MIEENLKQKIHDKFVAAKKNGHLKVTHAESKKLKDPQTTTQYWVTFAPSLALKPDANKNS
+            DSKAEDPFANPDEELVVTEDLNGDGEYKLLLNKFPVVPEHSLLVTSEFKDQRSALTPSDL
+            MTAYNVLCSLQGDKDDDVTCERYLVFYNCGPHSGSSQDHKHLQIMQMPEKFIPFQDVLCN
+            GKDHFLPTFNAEPLQDDKVSFAHFVLPLPESSDQVDEDLLAMCYVSLMQRALTFFQDWTN
+            ESPELTKSYNVLLTKKWICVVPRSHAKSGPPLMLNINSTGYCGMILVKDREKLENLTEDP
+            HLVDKSLLQCGFPNTAGQKPTEYHY
+NTSEQ       978
+            atgattgaagagaatttgaaacagaaaatccacgataagttcgttgcagccaaaaagaat
+            gggcatctgaaagtaacgcatgcagaatccaagaagttgaaagatcctcaaacgacgaca
+            caatattgggtgacatttgctccatctttggcacttaagccagacgctaacaagaatagc
+            gattcaaaggcggaggacccgttcgccaatcccgacgaagaactagtggtgactgaagat
+            ctaaatggtgacggagaatataagctgctactcaacaaatttcctgtggtccctgaacat
+            agtctcctagtgacaagcgagtttaaagaccagagatctgctttgacgccaagtgacttg
+            atgactgcttataatgtgctctgttctctccaaggagacaaggacgatgatgtcacttgt
+            gaaaggtatctggtcttttataattgtggacctcatagcggttcctcacaagatcacaaa
+            cacttgcagatcatgcaaatgcctgaaaaatttataccttttcaggacgtattgtgcaac
+            ggaaaggatcatttcttgcccaccttcaacgcagagccattacaagatgataaggtttcc
+            tttgctcatttcgtcttgccgctgccggaatcgtctgatcaagtggacgaagatcttctt
+            gctatgtgttacgtatctttgatgcagagagcacttacatttttccaagattggaccaat
+            gagtctccggagttgaccaagtcatacaatgtgctactgaccaagaaatggatctgtgta
+            gttccaagatcgcatgccaagagtggaccgccattgatgttaaacattaactccacgggg
+            tactgtggtatgatcctcgttaaagacagagaaaaactagagaacctcactgaagatcct
+            catcttgtggacaagtcgttactgcaatgcggtttccccaacacagcaggccaaaaacca
+            acagagtatcactattaa
+///

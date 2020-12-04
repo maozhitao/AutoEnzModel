@@ -1,0 +1,64 @@
+ENTRY       YLR102C           CDS       T00005
+NAME        APC9
+DEFINITION  (RefSeq) anaphase promoting complex subunit 9
+ORTHOLOGY   K03356  anaphase-promoting complex subunit 9
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04111  Cell cycle - yeast
+            sce04113  Meiosis - yeast
+            sce04120  Ubiquitin mediated proteolysis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                YLR102C (APC9)
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YLR102C (APC9)
+               04113 Meiosis - yeast
+                YLR102C (APC9)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YLR102C (APC9)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YLR102C (APC9)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               APC/C
+                Other subunits
+                 YLR102C (APC9)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Sister chromatid separation proteins
+               APC/C complex
+                YLR102C (APC9)
+POSITION    XII:complement(342970..343767)
+MOTIF       Pfam: ANAPC9
+DBLINKS     NCBI-GeneID: 850792
+            NCBI-ProteinID: NP_013203
+            SGD: S000004092
+            UniProt: Q12107
+AASEQ       265
+            MNQNGDKNEGKLFQLPSLPPWKTPRFNKANFNNFTTPLRKRSTRVINDDSMPITGEVLEE
+            RTADDLYGINMDVDEVDYLNTLSHIEEEKQYDYSPFCERNTLRESRIDSFLKAERAAHCL
+            VFHKVGHLDGIDSYRPDIDIMCGEEANKYDSANPEGNGSMLLESVPGCNKEDLERLSRRE
+            FVTNSKPNMRRLDDIINHETNALKSFWNDSGLVNSLQSHHLHEEYLLLQEELKNVYKIKC
+            HDRVPIESLRDKCRRHYSNEDSSFL
+NTSEQ       798
+            atgaaccaaaatggtgataagaacgaaggcaagttgtttcaactaccgtcattgccgccc
+            tggaaaacaccaaggttcaacaaagccaactttaacaattttaccacaccgctacggaaa
+            aggtcgacaagggtaataaatgatgattcgatgcccataacaggcgaagtactagaggag
+            aggactgcagatgatctctatgggataaatatggacgtagacgaagtcgactatctgaat
+            actttgagccacatcgaggaagaaaagcaatacgattattcaccgttttgtgagcgcaat
+            acgctaagggaaagtagaattgacagttttttgaaagccgaaagggcagcacattgtctt
+            gtgtttcataaggtgggccatctagacggcatagacagctatcgacccgatattgacatc
+            atgtgcggcgaagaggctaataaatatgacagtgcgaatccggagggcaatggttcaatg
+            ttgttagagagtgtacctggatgcaacaaagaagacctggagaggttatcaaggcgagaa
+            tttgtaacaaattcgaaacctaatatgagacggttggatgacataataaatcatgaaacg
+            aacgccttaaaaagtttctggaacgactcaggattagtcaattcactccaaagtcatcat
+            ttgcatgaagagtaccttcttttgcaagaagaattaaagaatgtgtacaagattaaatgc
+            catgacagagtgccaatagaaagtctacgcgataagtgcagaagacactatagcaacgag
+            gatagttcgtttctctga
+///

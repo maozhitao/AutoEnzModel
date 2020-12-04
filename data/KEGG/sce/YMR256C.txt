@@ -1,0 +1,27 @@
+ENTRY       YMR256C           CDS       T00005
+NAME        COX7
+DEFINITION  (RefSeq) cytochrome c oxidase subunit VII
+ORTHOLOGY   K02269  cytochrome c oxidase subunit 7
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00190  Oxidative phosphorylation
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                YMR256C (COX7)
+POSITION    XIII:complement(778945..779127)
+MOTIF       Pfam: COX7a
+DBLINKS     NCBI-GeneID: 855298
+            NCBI-ProteinID: NP_013983
+            SGD: S000004869
+            UniProt: P10174
+STRUCTURE   PDB: 6GIQ 6HU9
+AASEQ       60
+            MANKVIQLQKIFQSSTKPLWWRHPRSALYLYPFYAIFAVAVVTPLLYIPNAIRGIKAKKA
+NTSEQ       183
+            atggctaataaagttattcaactacagaaaatcttccaatcttccactaaacctctatgg
+            tggagacatccaaggtcagctttatacctgtatccattttatgctatttttgcggtagcc
+            gtcgttacaccacttctatacattccaaatgctattagaggtatcaaagccaagaaggca
+            tag
+///

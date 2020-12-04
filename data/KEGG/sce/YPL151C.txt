@@ -1,0 +1,72 @@
+ENTRY       YPL151C           CDS       T00005
+NAME        PRP46, NTC50
+DEFINITION  (RefSeq) mRNA splicing protein PRP46
+ORTHOLOGY   K12862  pleiotropic regulator 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YPL151C (PRP46)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YPL151C (PRP46)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YPL151C (PRP46)
+            Spliceosome [BR:sce03041]
+             Complex B
+              Other components
+               Prp19 complex
+                YPL151C (PRP46)
+             Complex C
+               Prp19-CDC5 complex
+                YPL151C (PRP46)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              Other factors with a suspected DNA repair function
+               PSO4 complex
+                YPL151C (PRP46)
+POSITION    XVI:complement(266180..267535)
+MOTIF       Pfam: WD40 ANAPC4_WD40 Nup160 SH3_11 UBM
+DBLINKS     NCBI-GeneID: 855952
+            NCBI-ProteinID: NP_015174
+            SGD: S000006072
+            UniProt: Q12417
+STRUCTURE   PDB: 6J6G 6BK8 5GMK 6J6H 5YLZ 6J6Q 6EXN 5Y88 5LJ3 5LJ5 5MPS
+                 6J6N 5WSG 5MQ0 5LQW
+AASEQ       451
+            MDGNDHKVENLGDVDKFYSRIRWNNQFSYMATLPPHLQSEMEGQKSLLMRYDTYRKESSS
+            FSGEGKKVTLQHVPTDFSEASQAVISKKDHDTHASAFVNKIFQPEVAEELIVNRYEKLLS
+            QRPEWHAPWKLSRVINGHLGWVRCVAIDPVDNEWFITGSNDTTMKVWDLATGKLKTTLAG
+            HVMTVRDVAVSDRHPYLFSVSEDKTVKCWDLEKNQIIRDYYGHLSGVRTVSIHPTLDLIA
+            TAGRDSVIKLWDMRTRIPVITLVGHKGPINQVQCTPVDPQVVSSSTDATVRLWDVVAGKT
+            MKVLTHHKRSVRATALHPKEFSVASACTDDIRSWGLAEGSLLTNFESEKTGIINTLSINQ
+            DDVLFAGGDNGVLSFYDYKSGHKYQSLATREMVGSLEGERSVLCSTFDKTGLRLITGEAD
+            KSIKIWKQDETATKESEPGLAWNPNLSAKRF
+NTSEQ       1356
+            atggacggaaatgatcacaaagtcgaaaatttaggagatgtagacaaattttattccaga
+            atacgctggaataaccaattttcatatatggccactctgccgccccacctacaaagcgaa
+            atggaaggtcagaaatcattgctaatgcgatatgatacttataggaaggaaagttcttct
+            tttagtggtgaaggcaagaaagttactctgcagcatgttcctacagatttttcagaagca
+            tcacaagcagtgattagcaagaaagatcacgatacgcatgcatctgcttttgtgaataaa
+            attttccaaccagaggttgctgaagaacttatagttaatcgatacgaaaaacttctgtca
+            caaaggccggaatggcatgcaccctggaaactttcacgcgttatcaatggccatcttgga
+            tgggtacgatgcgttgcaatcgatcctgttgacaacgaatggttcatcaccggaagtaat
+            gatacgacaatgaaagtttgggatcttgcaacaggaaaattaaaaactaccttagcaggg
+            catgtaatgacagtgagagacgttgctgtgtcagatcgacatccttatttattttctgtt
+            agtgaagataagacggtcaaatgctgggacctagagaaaaaccaaattattagagattac
+            tatggacatttatcgggggttcgtacggtgagcatacatccaacgctggatctcatagct
+            accgcaggccgagatagcgttatcaaactctgggatatgagaaccagaatacctgttatt
+            acactagttgggcataagggtccaatcaatcaagtacagtgtactccagtagaccctcaa
+            gtggtgagttcatcgactgatgctacggtaaggttatgggatgtagttgctgggaaaaca
+            atgaaagttctaacacatcataagaggtctgtgagagctacagcgttgcatcctaaggag
+            ttttcggtggcttctgcgtgtactgatgacatcagatcatggggattagcagaggggtct
+            ttactcaccaattttgagtctgaaaagacaggcataatcaatactttaagcattaatcaa
+            gatgatgtattattcgctggcggtgacaatggtgtgctttccttttatgattataagtct
+            ggtcacaaataccaatcgttggccacgagagaaatggtaggctctctggaaggtgaacgg
+            agtgttctttgtagcactttcgataaaacaggtttaagattaatcactggagaagcagac
+            aaaagcataaagatttggaaacaggatgagacggctacaaaagagtcagaaccggggcta
+            gcgtggaaccccaacttaagcgccaaaagattttag
+///

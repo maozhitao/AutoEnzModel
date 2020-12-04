@@ -1,0 +1,41 @@
+ENTRY       YDL213C           CDS       T00005
+NAME        NOP6
+DEFINITION  (RefSeq) Nop6p
+ORTHOLOGY   K14789  nucleolar protein 6
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YDL213C (NOP6)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              90S particles
+               Other 90S particles
+                YDL213C (NOP6)
+POSITION    IV:complement(77289..77966)
+MOTIF       Pfam: RRM_1 RRM_7
+DBLINKS     NCBI-GeneID: 851313
+            NCBI-ProteinID: NP_010068
+            SGD: S000002372
+            UniProt: Q07623
+STRUCTURE   PDB: 2MZJ
+AASEQ       225
+            MGSEEDKKLTKKQLKAQQFRKSKEEKDQEKDVKKEQAPEGKRPNSAAGNDGEEPVKKKRK
+            TRRGRGGKGKNGKKGNRFIVFVGSLPRDITAVELQNHFKNSSPDQIRLRADKGIAFLEFD
+            ADKDRTGIQRRMDIALLQHGTLLKEKKINVELTVGGGGNSQERLEKLKNKNIKLDEERKE
+            RLTKMINDGNQKKIAKTTATAAQTSGTDNKPVPAGIHPDRAKLLK
+NTSEQ       678
+            atggggtccgaggaagataaaaagttgaccaagaagcagctcaaagctcagcagtttaga
+            aaaagtaaggaggaaaaagatcaagagaaagacgtaaaaaaagagcaagcaccagaagga
+            aaaagacccaacagtgcagccggaaatgatggtgaagaacccgtgaagaaaaaaagaaaa
+            acacgtagaggccgtggtggtaagggcaaaaatggtaaaaagggcaacagatttattgtc
+            tttgtcggtagcttacctagagacatcactgctgttgaattgcaaaaccattttaaaaat
+            agttcacccgaccagatccgcctcagagctgacaaaggtattgcatttttggaattcgat
+            gctgacaaagatcgcaccggcattcaaagacgtatggacattgccttattacaacatggg
+            accttactgaaagagaagaagatcaatgtcgagctaactgttggcggaggtggtaacagt
+            caagagcgtctagaaaaattgaaaaacaaaaacatcaagttggatgaagaacgtaaagag
+            aggttgacaaagatgattaacgacggcaaccaaaagaaaatcgccaaaactaccgccact
+            gcagctcaaacctctggaacagacaacaagcctgttcctgcaggaattcatcctgataga
+            gccaaactacttaaatga
+///

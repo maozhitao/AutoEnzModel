@@ -1,0 +1,51 @@
+ENTRY       YJR145C           CDS       T00005
+NAME        RPS4A
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S4A
+ORTHOLOGY   K02987  small subunit ribosomal protein S4e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YJR145C (RPS4A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YJR145C (RPS4A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YJR145C (RPS4A)
+              Archaea
+                YJR145C (RPS4A)
+POSITION    X:complement(join(702027..702798,703055..703068))
+MOTIF       Pfam: Ribosomal_S4e 40S_S4_C RS4NT S4 KOW dCache_2
+DBLINKS     NCBI-GeneID: 853610
+            NCBI-ProteinID: NP_012679
+            SGD: S000003906
+            UniProt: P0CX35 P0CX36
+STRUCTURE   PDB: 6FAI 6RBD 6EML 6RBE 5LL6 5TZS
+AASEQ       261
+            MARGPKKHLKRLAAPHHWLLDKLSGCYAPRPSAGPHKLRESLPLIVFLRNRLKYALNGRE
+            VKAILMQRHVKVDGKVRTDTTYPAGFMDVITLDATNENFRLVYDVKGRFAVHRITDEEAS
+            YKLGKVKKVQLGKKGVPYVVTHDGRTIRYPDPNIKVNDTVKIDLASGKITDFIKFDAGKL
+            VYVTGGRNLGRIGTIVHKERHDGGFDLVHIKDSLDNTFVTRLNNVFVIGEQGKPYISLPK
+            GKGIKLSIAEERDRRRAQQGL
+NTSEQ       786
+            atggctagaggaccaaagaagcatctaaaaagattagcagctccacaccactggttattg
+            gacaagttgtccggttgttacgccccaagaccatctgctggtccacacaaattgcgtgaa
+            tccttgccattgattgtctttctaagaaacagattaaagtatgctttgaacggccgtgaa
+            gtcaaggctatcttgatgcaacgtcacgttaaagtggacggtaaggttagaaccgacact
+            acctacccagctggtttcatggatgtcatcactctagatgccaccaatgaaaacttcaga
+            ttggtctacgatgtcaagggtagattcgctgtccaccgtatcaccgatgaagaagcttct
+            tacaagttgggtaaggtcaagaaggttcaattaggtaagaagggtgttccatacgttgtt
+            acccacgatggtagaactatcagatacccagacccaaacatcaaggtcaatgacactgtt
+            aagatcgacttggcctctggtaagattactgatttcatcaagttcgatgccggtaagttg
+            gtttacgttactggtggtcgtaacttgggtcgtatcggtactatcgttcacaaggaaaga
+            cacgatggtggtttcgatttagttcacatcaaggactccttggacaacactttcgtcact
+            agattgaacaatgtcttcgtcatcggtgaacaaggtaagccttacatttctttgccaaag
+            ggtaagggtatcaagttgtctattgctgaagaacgtgacagaagaagagctcaacaaggt
+            ttataa
+///

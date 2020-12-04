@@ -1,0 +1,46 @@
+ENTRY       YEL051W           CDS       T00005
+NAME        VMA8
+DEFINITION  (RefSeq) H(+)-transporting V1 sector ATPase subunit D
+ORTHOLOGY   K02149  V-type H+-transporting ATPase subunit D
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00190  Oxidative phosphorylation
+            sce01100  Metabolic pathways
+            sce04145  Phagosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                YEL051W (VMA8)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04145 Phagosome
+                YEL051W (VMA8)
+POSITION    V:58378..59148
+MOTIF       Pfam: ATP-synt_D RICH
+DBLINKS     NCBI-GeneID: 856659
+            NCBI-ProteinID: NP_010863
+            SGD: S000000777
+            UniProt: P32610
+STRUCTURE   PDB: 4RND 5D80 6O7V 5VOX 3J9T 6O7W 5BW9 5VOZ 3J9U 5VOY 3J9V
+                 6O7X
+AASEQ       256
+            MSGNREQVFPTRMTLGLMKTKLKGANQGYSLLKRKSEALTKRFRDITKRIDDAKQKMGRV
+            MQTAAFSLAEVSYATGENIGYQVQESVSTARFKVRARQENVSGVYLSQFESYIDPEINDF
+            RLTGLGRGGQQVQRAKEIYSRAVETLVELASLQTAFIILDEVIKVTNRRVNAIEHVIIPR
+            TENTIAYINSELDELDREEFYRLKKVQEKKQNETAKLDAEMKLKRDRAEQDASEVAADEE
+            PQGETLVADQEDDVIF
+NTSEQ       771
+            atgtctggtaatagagagcaagtctttcctacgcgtatgacgctgggtttgatgaagacc
+            aagttaaaaggtgccaaccaaggttattctttactaaagcgtaagtctgaagccctaaca
+            aagagattcagagatattaccaaaagaattgatgatgctaagcaaaagatggggagagtt
+            atgcaaactgctgccttttccttggccgaagtttcctatgcaacaggtgaaaacattggc
+            tatcaagtgcaagaaagtgtctctactgcaagattcaaagtgagagcacgtcaagaaaac
+            gttagtggtgtgtatttgtctcaatttgagtcctacatcgaccctgaaattaatgatttc
+            agattaactggtttaggtagaggtggtcaacaggttcaacgagccaaggaaatctattca
+            agagccgttgaaactttagttgaattagcctctttacagactgcatttattattttggat
+            gaagtgattaaagtgacgaacagaagggttaatgctatcgaacacgttattatcccaaga
+            actgaaaacacaattgcttacattaacagtgagttggatgagttggacagagaagaattt
+            tatagattgaaaaaggtccaagaaaagaagcaaaatgagactgcaaaattggatgctgag
+            atgaaattgaagagagatagagcagaacaagatgcttcagaagtagctgctgatgaggaa
+            cctcaaggtgaaacattggttgctgatcaagaagacgatgttatattctga
+///

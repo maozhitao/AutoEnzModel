@@ -1,0 +1,41 @@
+ENTRY       YOL086W-A         CDS       T00005
+NAME        MHF1
+DEFINITION  (RefSeq) Mhf1p
+ORTHOLOGY   K11511  centromere protein S
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YOL086W-A (MHF1)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YOL086W-A (MHF1)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Centromeric chromatin formation proteins
+               Kinetochore proteins
+                Centromere proteins
+                 YOL086W-A (MHF1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              DSBR (double strand breaks repair)
+               FA (Fanconi anemia) pathway
+                FA core complex binding factors
+                 YOL086W-A (MHF1)
+POSITION    XV:159173..159445
+MOTIF       Pfam: CENP-S CENP-T_C TFIID-31kDa Bromo_TP
+DBLINKS     NCBI-GeneID: 854067
+            NCBI-ProteinID: NP_076910
+            SGD: S000007626
+            UniProt: Q3E835
+STRUCTURE   PDB: 3V9R
+AASEQ       90
+            MNDDEDRAQLKARLWIRVEERLQQVLSSEDIKYTPRFINSLLELAYLQLGEMGSDLQAFA
+            RHAGRGVVNKSDLMLYLRKQPDLQERVTQE
+NTSEQ       273
+            atgaatgacgatgaagatagagcccaactgaaggctaggctgtggatccgtgtggaagaa
+            cgattacaacaggtgttgtcctctgaggacataaaatacacaccgagattcatcaactca
+            ttgctggagttagcatatctacaattgggtgaaatggggagcgatttgcaggcatttgct
+            cggcatgccggtagaggtgtggtcaataagagcgacctcatgctatacctgagaaagcaa
+            cctgacctacaggaaagagttactcaagaataa
+///

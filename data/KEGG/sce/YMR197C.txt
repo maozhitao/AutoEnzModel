@@ -1,0 +1,50 @@
+ENTRY       YMR197C           CDS       T00005
+NAME        VTI1
+DEFINITION  (RefSeq) v-SNARE protein VTI1
+ORTHOLOGY   K08493  vesicle transport through interaction with t-SNAREs 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04130  SNARE interactions in vesicular transport
+            sce04138  Autophagy - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04130 SNARE interactions in vesicular transport
+                YMR197C (VTI1)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04138 Autophagy - yeast
+                YMR197C (VTI1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YMR197C (VTI1)
+            Membrane trafficking [BR:sce04131]
+             SNARE
+              SNAP-25[N] (Qb)
+               Vti1
+                YMR197C (VTI1)
+POSITION    XIII:complement(658545..659198)
+MOTIF       Pfam: V-SNARE_C V-SNARE Sec20 Nsp1_C Fusion_gly Use1 Endonuc_Holl YqjK
+DBLINKS     NCBI-GeneID: 855237
+            NCBI-ProteinID: NP_013924
+            SGD: S000004810
+            UniProt: Q04338
+STRUCTURE   PDB: 3ONJ 3ONL
+AASEQ       217
+            MSSLLISYESDFKTTLEQAKASLAEAPSQPLSQRNTTLKHVEQQQDELFDLLDQMDVEVN
+            NSIGDASERATYKAKLREWKKTIQSDIKRPLQSLVDSGDRDRLFGDLNASNIDDDQRQQL
+            LSNHAILQKSGDRLKDASRIANETEGIGSQIMMDLRSQRETLENARQTLFQADSYVDKSI
+            KTLKTMTRRLVANKFISYAIIAVLILLILLVLFSKFK
+NTSEQ       654
+            atgagttccctattaatatcatacgaatctgacttcaaaacaaccttagaacaagccaaa
+            gcgagcttagcagaggccccctcacaaccgttatcacagagaaatactacactgaagcac
+            gtagaacagcaacaagatgagttgtttgacctgctagatcagatggatgtagaagttaat
+            aacagcataggcgatgcctcagaacgtgctacgtacaaggcgaagttaagagaatggaag
+            aagactatacagagcgatatcaaacgaccactgcaatccttagtagactcaggcgatcgt
+            gatagactttttggagatcttaacgcatctaatattgacgatgaccaaaggcaacagttg
+            ttgagcaaccatgcaatcttacagaaatcgggagatagactaaaagatgccagtagaata
+            gcaaatgaaactgaaggaatagggtcacaaataatgatggatttaaggtcacagagagaa
+            actttggaaaatgcaagacagaccttgtttcaagcggattcatatgtggataaaagtata
+            aagacactaaaaacaatgactagaaggctagttgctaataaattcataagctatgccatt
+            atcgcagtccttatattattgattttgctagttttgttctcaaagtttaaataa
+///

@@ -1,0 +1,60 @@
+ENTRY       YBL058W           CDS       T00005
+NAME        SHP1, UBX1
+DEFINITION  (RefSeq) protein phosphatase regulator SHP1
+ORTHOLOGY   K14012  UBX domain-containing protein 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04141  Protein processing in endoplasmic reticulum
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YBL058W (SHP1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YBL058W (SHP1)
+            Membrane trafficking [BR:sce04131]
+             SNARE
+              SNARE associated proteins
+               Others
+                YBL058W (SHP1)
+POSITION    II:111437..112708
+MOTIF       Pfam: SEP UBX UBA_4 CAMSAP_CC1 FbpA
+DBLINKS     NCBI-GeneID: 852222
+            NCBI-ProteinID: NP_009495
+            SGD: S000000154
+            UniProt: P34223
+STRUCTURE   PDB: 6OPC
+AASEQ       423
+            MAEIPDETIQQFMALTNVSHNIAVQYLSEFGDLNEALNSYYASQTDDQKDRREEAHWNRQ
+            QEKALKQEAFSTNSSNKAINTEHVGGLCPKPGSSQGSNEYLKRKGSTSPEPTKGSSRSGS
+            GNNSRFMSFSDMVRGQADDDDEDQPRNTFAGGETSGLEVTDPSDPNSLLKDLLEKARRGG
+            QMGAENGFRDDEDHEMGANRFTGRGFRLGSTIDAADEVVEDNTSQSQRRPEKVTREITFW
+            KEGFQVADGPLYRYDDPANSFYLSELNQGRAPLKLLDVQFGQEVEVNVYKKLDESYKAPT
+            RKLGGFSGQGQRLGSPIPGESSPAEVPKNETPAAQEQPMPDNEPKQGDTSIQIRYANGKR
+            EVLHCNSTDTVKFLYEHVTSNANTDPSRNFTLNYAFPIKPISNDETTLKDADLLNSVVVQ
+            RWA
+NTSEQ       1272
+            atggcggaaatacctgatgaaaccatccagcagttcatggcattgaccaatgtgtcgcat
+            aacatagccgttcaatatctctctgaatttggagatttaaatgaagcactaaattcctat
+            tatgcttctcaaacggatgaccaaaaggatagaagagaggaagcacattggaacagacag
+            caggagaaggccctcaagcaagaagccttctccaccaactcttcgaataaagccataaat
+            acggagcacgttggtgggttatgtccaaaaccaggatcctcacaaggtagcaacgagtac
+            ttgaaaaggaaaggttctacctctcctgaaccaaccaagggtagtagccgctctggaagt
+            ggtaacaactccaggtttatgagcttttcggatatggtaagaggtcaagctgatgatgac
+            gatgaagatcaaccgagaaatacttttgctggtggtgaaacatccggcttagaggttaca
+            gatccttcagatcctaattcattactgaaggatttgctggaaaaagcgagaaggggtggt
+            caaatgggcgctgaaaacggattccgtgatgacgaagaccatgaaatgggtgccaatagg
+            tttactggaagaggttttagattagggtcaaccatcgacgcagcagatgaagtcgtagaa
+            gacaacacttcacaatcacaacgtagaccagaaaaagtcacaagagaaattacattttgg
+            aaggaaggttttcaagtggccgatggtccgctttatcgctatgatgatcctgcgaacagt
+            ttctatttgagcgagttaaatcaagggagggctccattaaagctcttagatgtgcaattt
+            ggacaagaagttgaagttaatgtatataaaaaattagatgagtcttataaagctccgacg
+            agaaaactgggcggtttttcaggccagggccaaagactaggatctcctatcccgggtgaa
+            tcgtcacctgcggaggttccaaagaatgagacacccgctgctcaggaacaacccatgccg
+            gacaatgagccaaaacaaggcgacacctccatccaaattagatacgcaaatggcaaaaga
+            gaagttttgcactgcaattccacagatacagtaaagtttttgtatgagcatgtgacatca
+            aatgcgaacactgacccatcgaggaatttcaccttgaattatgcctttcctatcaaacca
+            ataagcaacgatgagacaacattgaaggacgctgatctgctgaactccgttgtcgtgcaa
+            agatgggcatga
+///

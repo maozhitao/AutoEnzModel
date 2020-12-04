@@ -1,0 +1,47 @@
+ENTRY       YIL007C           CDS       T00005
+NAME        NAS2
+DEFINITION  (RefSeq) Nas2p
+ORTHOLOGY   K06693  26S proteasome regulatory subunit N4
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03050  Proteasome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03050 Proteasome
+                YIL007C (NAS2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03051 Proteasome [BR:sce03051]
+                YIL007C (NAS2)
+            Proteasome [BR:sce03051]
+             Eukaryotic proteasome
+              Regulatory particles
+               PA700 (19S proteasome)
+                non-ATPase subunits
+                 YIL007C (NAS2)
+POSITION    IX:complement(342994..343656)
+MOTIF       Pfam: Nas2_N PDZ PDZ_6 GRASP55_65 PDZ_2
+DBLINKS     NCBI-GeneID: 854810
+            NCBI-ProteinID: NP_012259
+            SGD: S000001269
+            UniProt: P40555
+STRUCTURE   PDB: 4O06 3WHJ 3WHL
+AASEQ       220
+            MEEEELSKLLANVKIDPSLTSRISQIDSFKLSELMVLKTDIETQLEAYFSVLEQQGIGMD
+            SALVTPDGYPRSDVDVLQVTMIRKNVNMLKNDLNHLLQRSHVLLNQHFDNMNVKSNQDAR
+            RNNDDQAIQYTIPFAFISEVVPGSPSDKADIKVDDKLISIGNVHAANHSKLQNIQMVVMK
+            NEDRPLPVLLLREGQILKTSLTPSRNWNGRGLLGCRIQEL
+NTSEQ       663
+            atggaggaagaagaattaagtaaattgttggccaatgttaagatagatccgagcctaaca
+            tcaagaattagtcaaatagacagcttcaaactgtcggaattgatggttctaaagacagat
+            attgagacacaactagaggcgtatttcagtgtgcttgagcagcaaggcatcggcatggac
+            tctgcgttggtgacgccagacgggtatcctcgttcggatgtcgatgtattgcaagtcact
+            atgatcagaaagaatgttaatatgctgaagaatgatttaaatcaccttttgcaaagatca
+            cacgtcttactaaaccagcactttgataatatgaacgttaagtcaaaccaagatgcaaga
+            aggaataacgacgatcaagctattcagtataccatcccttttgcatttatcagtgaggta
+            gtacccggtagcccttcagataaagcagacataaaggttgatgataagctgatttctatt
+            ggtaatgtgcatgcggcaaaccactctaaacttcaaaacattcagatggttgtaatgaaa
+            aatgaagacaggccacttcccgtccttctcttgagagaagggcaaatcctaaagacatcg
+            ctaacaccttcgagaaactggaatggtagaggtcttttgggttgtaggatacaagagcta
+            taa
+///

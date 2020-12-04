@@ -1,0 +1,109 @@
+ENTRY       YBR133C           CDS       T00005
+NAME        HSL7
+DEFINITION  (RefSeq) protein arginine N-methyltransferase
+ORTHOLOGY   K02516  type II protein arginine methyltransferase [EC:2.1.1.320]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03013  RNA transport
+            sce04011  MAPK signaling pathway - yeast
+            sce04111  Cell cycle - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03013 RNA transport
+                YBR133C (HSL7)
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               04011 MAPK signaling pathway - yeast
+                YBR133C (HSL7)
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YBR133C (HSL7)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YBR133C (HSL7)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YBR133C (HSL7)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.320  type II protein arginine methyltransferase
+                 YBR133C (HSL7)
+            Spliceosome [BR:sce03041]
+             Other splicing related proteins
+              Spliceosome associated proteins (SAPs)
+               Other SAPs
+                YBR133C (HSL7)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Histone modification proteins
+               HMTs (histone methyltransferases)
+                PRMTs (protein arginine metyltransferases)
+                 YBR133C (HSL7)
+POSITION    II:complement(501804..504287)
+MOTIF       Pfam: PRMT5_TIM PRMT5_C PRMT5
+DBLINKS     NCBI-GeneID: 852431
+            NCBI-ProteinID: NP_009691
+            SGD: S000000337
+            UniProt: P38274
+AASEQ       827
+            MHSNVFVGVKPGFNHKQHSKKSRFLENVSSHSPELPSNYDYVLLPITTPRYKEIVGQVFK
+            DFQRQSIQNWKPLQIPEPQLQDICIPPFNVKKLDNDDTPSYIGLLSSWLELESRDPNVRD
+            LGLKVLLNECKYARFVGINKLILAPPRDLSNLQLYGQMIYRLLQNRIVFAAPALTISISL
+            PLYEDSDPLATWELWNTVRKQCEYHPSLTISLALPRTRTPSYVLNRWLAEPVSCLLVSSS
+            IFASNQYDYPVLHKFNQNLILKFQKVNGDSQILGNELCVILHGMEKYANNVKGGESAYLE
+            YINYLLKKGDKVLNSNSNHQFLLQEDSRIMPPLKPHSDNLLNSTYLTFEKDLVKYDLYES
+            AILEALQDLAPRASAKRPLVILVAGAGRGPLVDRTFKIISMLFMDSKVSIIAIEKNPQAY
+            LYLQKRNFDCWDNRVKLIKEDMTKWQINEPSEKRIQIDLCISELLGSFGCNELSPECLWS
+            IEKYHSHNDTIFIPRSYSSYIAPISSPLFYQKLSQTNRSLEAPWIVHRVPYCILSSRVNE
+            VWRFEHPMAQKDTVQDEDDFTVEFSQSSLNEFKIKHRGEIHGFIGFFSANLYNNIFLSTL
+            PNDSTVRLKFSEETLMNTRREENLIKKCDHTPNMTSWSPIIFPLKQPISFIDDSELSVLM
+            SRIHSDTEQKVWYEWSLESFIYLMLSNYTSAVTAASMTIPRSIVTDDTKTLAHNRHYSAT
+            TNQKLDNQIDLDQDIENEEEQGFLSNLETGWQSVQDIHGLSETAKPDHLDSINKPMFDLK
+            STKALEPSNELPRHEDLEEDVPEVHVRVKTSVSTLHNVCGRAFSLPL
+NTSEQ       2484
+            atgcatagcaacgtatttgttggtgtcaaaccaggctttaatcataaacagcacagcaaa
+            aagtcacgtttcctagaaaatgtctctagtcattcaccagaactgcctagtaactatgat
+            tacgttttgcttcctataacaacgccaagatataaggaaatagttgggcaagttttcaaa
+            gatttccaaagacaatccatacagaactggaaaccgcttcaaattcctgaaccgcagttg
+            caggatatctgtatacccccgttcaacgtcaagaagctagacaatgacgatacgccgtct
+            tacatagggctgttatcctcttggctggagctggagagtcgcgatccaaatgtaagagat
+            cttggcttaaaggtccttctaaacgaatgtaagtacgcgaggtttgttggaatcaataag
+            ctaatattggcgcctccacgggacctgtccaacctgcaattgtatggacagatgatttac
+            aggctcctgcaaaatcgcatcgtctttgctgcgcctgcgttaaccatatccatttctctg
+            ccactttacgaagacagcgatccattggccacttgggaactgtggaataccgtgcggaaa
+            caatgcgaatatcatccctctttgactatctctttggctttgccaagaaccaggactcct
+            tcgtatgtgctgaatagatggttagccgaacccgtctcgtgtcttttggtatcttcatcc
+            atctttgccagtaatcagtacgattatcccgttttacacaagtttaaccagaatttgatt
+            ttaaagttccaaaaggttaatggagattcacaaattttgggtaatgaattatgcgtgata
+            ttgcatgggatggagaaatatgccaataatgttaagggcggagaatctgcctatttggaa
+            tatataaactacttattgaaaaagggcgacaaagtattaaattccaatagtaatcaccaa
+            tttttgctccaagaggactctcggataatgccgcctctgaaacctcattcagataattta
+            ttaaattccacatatttgacttttgaaaaagatttggtgaagtacgatctttacgaatct
+            gccatattagaggcgcttcaagatcttgctcctcgagcgagtgccaagagaccgttggtg
+            atcctagtagccggtgcgggaagaggacctttagtggatcgaacttttaagataatatca
+            atgttgtttatggatagtaaggtttctataattgccattgaaaaaaatccacaggcatat
+            ctgtacttgcaaaaaagaaatttcgactgttgggataatagagtgaaattaatcaaggag
+            gatatgaccaaatggcaaatcaacgagccgtcggaaaagcgtattcagatagatctgtgc
+            ataagtgaactgctgggttcgttcggttgcaatgaattatcaccagaatgtctctggtct
+            attgaaaaatatcattcccacaatgacacaattttcataccgaggtcatactcttcatac
+            atagcacccatttcgtcaccattattctaccaaaaactctcacaaacaaatcgctctttg
+            gaggcgccctggatagtccatagagtgccatactgtatattatcctcaagggtaaatgaa
+            gtgtggcggttcgagcatcccatggcccaaaaagatactgtccaagacgaagatgatttt
+            acagttgaattttctcaaagttcattaaatgagttcaagataaagcaccgcggcgaaatc
+            catggctttatcggattcttctcggcaaacttatataacaatatattcttgtcaactttg
+            cccaatgacagcacagtccgtttaaaatttagcgaagaaacgttgatgaataccagacga
+            gaagaaaatctaatcaagaaatgtgaccatacaccaaatatgacctcgtggtctccaatt
+            atctttcctttgaagcaaccaatatcctttatagatgactccgaactttctgtgctgatg
+            tctcggatacactccgatacagaacaaaaagtttggtatgaatggtctttggagagtttc
+            atataccttatgttgtcaaattacacttcggcggtaactgctgcaagcatgactattccg
+            aggtctatagttacagatgacactaaaactttagcccataatcgacattattcagcgact
+            accaatcaaaagctagataatcaaattgatcttgaccaagacattgaaaacgaagaagaa
+            cagggattcctatccaatctagaaactggttggcaaagcgtacaagatattcacggactc
+            agcgaaaccgccaaaccggaccatttagattctatcaataagcctatgtttgatctcaaa
+            tctactaaagcgcttgaaccctctaacgaattgccaaggcacgaagacctcgaggaagat
+            gttccagaagttcatgtcagagtcaagactagtgtttccacgctacataatgtctgtggc
+            agagccttttccctgcctctgtga
+///

@@ -1,0 +1,46 @@
+ENTRY       YNL301C           CDS       T00005
+NAME        RPL18B, RP28B
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L18B
+ORTHOLOGY   K02883  large subunit ribosomal protein L18e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YNL301C (RPL18B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YNL301C (RPL18B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YNL301C (RPL18B)
+              Archaea
+                YNL301C (RPL18B)
+POSITION    XIV:complement(join(63570..64018,64451..64562))
+MOTIF       Pfam: Ribosomal_L18 Ribosomal_L27A Nudc_N
+DBLINKS     NCBI-GeneID: 855415
+            NCBI-ProteinID: NP_014098
+            SGD: S000005245
+            UniProt: P0CX49 P0CX50
+STRUCTURE   PDB: 6EM3 5Z3G 6C0F 6EM4 6EM5 6CB1
+AASEQ       186
+            MGIDHTSKQHKRSGHRTAPKSDNVYLKLLVKLYTFLARRTDAPFNKVVLKALFLSKINRP
+            PVSVSRIARALKQEGAANKTVVVVGTVTDDARIFEFPKTTVAALRFTAGARAKIVKAGGE
+            CITLDQLAVRAPKGQNTLILRGPRNSREAVRHFGMGPHKGKAPRILSTGRKFERARGRRR
+            SKGFKV
+NTSEQ       561
+            atgggtattgatcacacttccaagcaacacaaaagatccggtcatagaaccgctccaaaa
+            tccgataacgtctatttgaaattattggtcaaactatacactttcctagctcgtcgtact
+            gatgctccattcaacaaggttgttttgaaggctttgttcttgtctaagatcaacagacca
+            cctgtttcagtctccagaattgctagagctttgaagcaagaaggtgctgccaacaagact
+            gttgtcgttgttggtaccgttactgacgatgccaggatcttcgaattcccaaagaccact
+            gttgctgctttgagattcactgctggtgccagagccaagatcgttaaggctggcggtgaa
+            tgtatcactttagatcaattagctgtcagagctcctaagggtcaaaacactttgatcttg
+            agaggtccaagaaactccagagaagcggtcagacacttcggtatgggtccacacaagggt
+            aaggctccaagaatcttgtccaccggtagaaagttcgaaagagctagaggtagaagaaga
+            tctaagggtttcaaggtgtaa
+///

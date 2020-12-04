@@ -1,0 +1,95 @@
+ENTRY       YHR205W           CDS       T00005
+NAME        SCH9, HRM2, KOM1
+DEFINITION  (RefSeq) serine/threonine protein kinase SCH9
+ORTHOLOGY   K19800  serine/threonine protein kinase SCH9 [EC:2.7.11.1]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04138  Autophagy - yeast
+            sce04213  Longevity regulating pathway - multiple species
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04138 Autophagy - yeast
+                YHR205W (SCH9)
+             09150 Organismal Systems
+              09149 Aging
+               04213 Longevity regulating pathway - multiple species
+                YHR205W (SCH9)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:sce01001]
+                YHR205W (SCH9)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 YHR205W (SCH9)
+            Protein kinases [BR:sce01001]
+             Serine/threonine kinases: AGC group
+              AKT/PKB family
+               YHR205W (SCH9)
+POSITION    VIII:509363..511837
+MOTIF       Pfam: Pkinase PK_Tyr_Ser-Thr Pkinase_C C2 Kinase-like FTA2 Adeno_E3_15_3 YrbL-PhoP_reg
+DBLINKS     NCBI-GeneID: 856612
+            NCBI-ProteinID: NP_012075
+            SGD: S000001248
+            UniProt: P11792
+AASEQ       824
+            MMNFFTSKSSNQDTGFSSQHQHPNGQNNGNNNSSTAGNDNGYPCKLVSSGPCASSNNGAL
+            FTNFTLQTATPTTAISQDLYAMGTTGITSENALFQMKSMNNGISSVNNNNSNTPTIITTS
+            QEETNAGNVHGDTGGNSLQNSEDDNFSSSSTTKCLLSSTSSLSINQREAAAAAYGPDTDI
+            PRGKLEVTIIEARDLVTRSKDSQPYVVCTFESSEFISNGPESLGAINNNNNNNNNNQHNQ
+            NQHINNNNENTNPDAASQHHNNNSGWNGSQLPSIKEHLKKKPLYTHRSSSQLDQLNSCSS
+            VTDPSKRSSNSSSGSSNGPKNDSSHPIWHHKTTFDVLGSHSELDISVYDAAHDHMFLGQV
+            RLYPMIHNLAHASQHQWHSLKPRVIDEVVSGDILIKWTYKQTKKRHYGPQDFEVLRLLGK
+            GTFGQVYQVKKKDTQRIYAMKVLSKKVIVKKNEIAHTIGERNILVTTASKSSPFIVGLKF
+            SFQTPTDLYLVTDYMSGGELFWHLQKEGRFSEDRAKFYIAELVLALEHLHDNDIVYRDLK
+            PENILLDANGNIALCDFGLSKADLKDRTNTFCGTTEYLAPELLLDETGYTKMVDFWSLGV
+            LIFEMCCGWSPFFAENNQKMYQKIAFGKVKFPRDVLSQEGRSFVKGLLNRNPKHRLGAID
+            DGRELRAHPFFADIDWEALKQKKIPPPFKPHLVSETDTSNFDPEFTTASTSYMNKHQPMM
+            TATPLSPAMQAKFAGFTFVDESAIDEHVNNNRKFLQNSYFMEPGSFIPGNPNLPPDEDVI
+            DDDGDEDINDGFNQEKNMNNSHSQMDFDGDQHMDDEFVSGRFEI
+NTSEQ       2475
+            atgatgaatttttttacatcaaaatcgtcgaatcaggatactggatttagctctcaacac
+            caacatccaaatggacagaacaatggaaacaataatagcagcaccgctggcaacgacaac
+            ggatacccatgtaaactggtgtccagtgggccctgcgcttcatcaaataatggtgccctt
+            tttacgaattttactttacaaactgcaacgccgaccaccgctattagtcaggacttatat
+            gcaatgggcacaacaggaataacatcagaaaatgccctttttcaaatgaagtcaatgaat
+            aatggaatatcatcagttaataataacaacagcaacacccctacgattattaccacgtca
+            caggaagaaactaatgctggaaatgtacatggcgataccggtggcaattctttgcaaaat
+            tctgaagatgacaacttttcttccagttctaccaccaaatgcttactctcttccacttct
+            tcgctatcaataaatcaacgagaagcagcagcagctgcttatggtccagataccgatatt
+            cctaggggtaaactagaagttacaataatagaagcacgtgacctagtcactagatcaaag
+            gattcacagccttatgttgtttgtacttttgagagttcagagttcatttctaatggtcct
+            gagtcactaggcgccattaataataacaacaataacaacaacaataatcagcataatcaa
+            aaccagcatattaacaacaacaacgaaaataccaaccctgacgctgctagccagcatcat
+            aataataacagtggttggaacggttctcagttaccatcgataaaagagcacttgaagaaa
+            aaacccctttatacacacagatcatcttcccaattagatcagctaaactcttgctcttca
+            gtaaccgatccgagcaaacgttcttctaattcttcgtcgggttcttcaaatggtccaaag
+            aatgatagttcacatccaatatggcatcacaagacaacgtttgatgttttgggatctcac
+            tcggaattagatatttctgtttatgatgctgcccacgaccatatgttcttaggccaagtt
+            agactgtatccaatgattcataatttagcacatgcttcccaacaccaatggcacagtttg
+            aaacctcgcgttattgatgaagttgtgtccggtgatattttaatcaaatggacttacaaa
+            cagacaaagaaaagacattatggcccacaagattttgaagttcttcgattattgggtaag
+            ggtacttttggccaagtctaccaagttaagaagaaagacactcaaagaatttatgcaatg
+            aaagttctctccaagaaagttattgtcaagaaaaatgagatcgcccacacaattggcgaa
+            agaaatatcctagtcacgacagcgtccaaatcgtccccattcattgtcggattgaagttt
+            tcctttcaaacaccaacagatctgtatttggtcactgattatatgagtggtggagaatta
+            ttctggcatttacaaaaggagggccgtttttcggaagacagagcgaaattctatatcgct
+            gagttagtcctagcgttagaacatttacacgataacgatatcgtttacagggacctaaag
+            cctgaaaacattctactcgatgccaacggtaacatcgctctttgcgattttggtctttct
+            aaagctgacttgaaggatagaacaaacacattttgcggcaccacggaatacctggcacca
+            gaattgttactggacgaaaccggctacaccaaaatggtcgatttctggtctctaggtgtt
+            ttgatatttgaaatgtgttgtggttggtcccctttctttgcggaaaataatcaaaaaatg
+            taccaaaaaattgcctttggtaaagtcaaattccccagagacgtactgtcacaagagggg
+            aggtcttttgtaaagggtttactaaacagaaaccccaaacatagactcggtgccattgat
+            gatggaagagaactacgagctcatccatttttcgcagatatcgactgggaggccttgaag
+            cagaaaaaaattccaccacctttcaaacctcacctagtctcggagacggatacctcgaat
+            tttgacccagagttcacaacagcttcaacttcatacatgaacaagcaccagccgatgatg
+            actgctaccccgctatctccagccatgcaagcaaagtttgctggtttcacctttgttgat
+            gagtccgccatcgatgaacacgttaataacaacagaaaattcctacaaaactcgtacttt
+            atggaacctggttcctttatcccgggaaatccaaacttacctccagacgaagatgtcatc
+            gatgatgacggggacgaggacatcaatgatggattcaaccaagagaaaaatatgaacaac
+            agccattcgcagatggacttcgacggcgaccaacacatggatgacgaatttgtcagtgga
+            agattcgaaatatga
+///

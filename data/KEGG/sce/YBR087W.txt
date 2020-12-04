@@ -1,0 +1,82 @@
+ENTRY       YBR087W           CDS       T00005
+NAME        RFC5
+DEFINITION  (RefSeq) replication factor C subunit 5
+ORTHOLOGY   K10756  replication factor C subunit 3/5
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03030  DNA replication
+            sce03420  Nucleotide excision repair
+            sce03430  Mismatch repair
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                YBR087W (RFC5)
+               03420 Nucleotide excision repair
+                YBR087W (RFC5)
+               03430 Mismatch repair
+                YBR087W (RFC5)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YBR087W (RFC5)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YBR087W (RFC5)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YBR087W (RFC5)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Elongation Factors
+               RFC (replication factor C)
+                YBR087W (RFC5)
+              DNA Replication Termination Factors
+               Other telomere regulation proteins
+                ELG1-RFC complex
+                 YBR087W (RFC5)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Sister chromatid cohesion proteins
+               CTF18-RFC complex
+                YBR087W (RFC5)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                RFC (replication factor C)
+                 YBR087W (RFC5)
+              Check point factors
+               HRAD17(Rad24)-RFC complex
+                YBR087W (RFC5)
+POSITION    II:423765..424829
+MOTIF       Pfam: DNA_pol3_delta2 AAA DNA_pol3_delta AAA_assoc_2 Rep_fac_C Rad17 AAA_16 AAA_22 RuvB_N AAA_5
+DBLINKS     NCBI-GeneID: 852383
+            NCBI-ProteinID: NP_009644
+            SGD: S000000291
+            UniProt: P38251
+STRUCTURE   PDB: 1SXJ
+AASEQ       354
+            MSLWVDKYRPKSLNALSHNEELTNFLKSLSDQPRDLPHLLLYGPNGTGKKTRCMALLESI
+            FGPGVYRLKIDVRQFVTASNRKLELNVVSSPYHLEITPSDMGNNDRIVIQELLKEVAQME
+            QVDFQDSKDGLAHRYKCVIINEANSLTKDAQAALRRTMEKYSKNIRLIMVCDSMSPIIAP
+            IKSRCLLIRCPAPSDSEISTILSDVVTNERIQLETKDILKRIAQASNGNLRVSLLMLESM
+            ALNNELALKSSSPIIKPDWIIVIHKLTRKIVKERSVNSLIECRAVLYDLLAHCIPANIIL
+            KELTFSLLDVETLNTTNKSSIIEYSSVFDERLSLGNKAIFHLEGFIAKVMCCLD
+NTSEQ       1065
+            atgtcattgtgggtagataaatacagacctaagtccttgaatgctctttcacataatgaa
+            gagttgacaaattttctaaaatcgttatctgatcagcctcgtgatttacctcatctttta
+            ctgtatggaccaaatggtacaggtaagaaaacgcgttgtatggcattattggagtccata
+            tttggacctggagtctatagattgaaaattgatgtcagacaatttgtcactgcttcgaac
+            agaaaactagaactgaatgtggtcagctcgccataccatttagagatcacgccaagtgat
+            atgggtaacaatgatagaattgtcatccaagaactattgaaagaagtggctcaaatggaa
+            caagtggactttcaagattctaaggatggacttgcccatagatataagtgtgttattatc
+            aacgaggcgaactcgttaacaaaagatgctcaagctgctttaagacgtaccatggaaaaa
+            tactccaaaaacattaggttgataatggtctgcgattcgatgtcgcctataattgctcct
+            atcaaatcccgttgtctgttgattcgttgtcctgcaccaagcgatagcgaaatttcaact
+            atcttgtctgatgtggtgacaaatgaaagaatacaactagaaacaaaggatattttaaaa
+            agaattgctcaggcatcgaatggaaacttgcgagtctccctattaatgcttgaatctatg
+            gcactgaacaacgaattagcattgaaaagcagtagccctataataaaaccagattggatt
+            atagtgatccataaattaacgaggaaaatcgttaaagagagatctgtcaattctttaatc
+            gaatgcagagctgtcctatacgatttactagctcattgtatacctgccaatatcatctta
+            aaggaactaacgttttctttgttggatgtggaaaccctgaataccacgaataaatcgtcc
+            ataattgaatactcaagtgtttttgacgaaagattatcacttggaaacaaagcaatattc
+            catttggaagggttcatagcaaaagttatgtgctgtctagattaa
+///

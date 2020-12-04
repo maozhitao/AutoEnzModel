@@ -1,0 +1,88 @@
+ENTRY       YJR006W           CDS       T00005
+NAME        POL31, HUS2, HYS2, SDP5
+DEFINITION  (RefSeq) DNA-directed DNA polymerase delta subunit POL31
+ORTHOLOGY   K02328  DNA polymerase delta subunit 2
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03030  DNA replication
+            sce03410  Base excision repair
+            sce03420  Nucleotide excision repair
+            sce03430  Mismatch repair
+            sce03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                YJR006W (POL31)
+               03410 Base excision repair
+                YJR006W (POL31)
+               03420 Nucleotide excision repair
+                YJR006W (POL31)
+               03430 Mismatch repair
+                YJR006W (POL31)
+               03440 Homologous recombination
+                YJR006W (POL31)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YJR006W (POL31)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YJR006W (POL31)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Elongation Factors
+               DNA polymerase delta complex
+                YJR006W (POL31)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                Long Patch-BER factors
+                 DNA polymerase delta complex
+                  YJR006W (POL31)
+               MMR (mismatch excision repair)
+                DNA polymerase delta complex
+                 YJR006W (POL31)
+POSITION    X:449202..450665
+MOTIF       Pfam: DNA_pol_E_B DNA_pol_D_N
+DBLINKS     NCBI-GeneID: 853462
+            NCBI-ProteinID: NP_012539
+            SGD: S000003766
+            UniProt: P46957
+STRUCTURE   PDB: 6P1H
+AASEQ       487
+            MDALLTKFNEDRSLQDENLSQPRTRVRIVDDNLYNKSNPFQLCYKKRDYGSQYYHIYQYR
+            LKTFRERVLKECDKRWDAGFTLNGQLVLKKDKVLDIQGNQPCWCVGSIYCEMKYKPNVLD
+            EVINDTYGAPDLTKSYTDKEGGSDEIMLEDESGRVLLVGDFIRSTPFITGVVVGILGMEA
+            EAGTFQVLDICYPTPLPQNPFPAPIATCPTRGKIALVSGLNLNNTSPDRLLRLEILREFL
+            MGRINNKIDDISLIGRLLICGNSVDFDIKSVNKDELMISLTEFSKFLHNILPSISVDIMP
+            GTNDPSDKSLPQQPFHKSLFDKSLESYFNGSNKEILNLVTNPYEFSYNGVDVLAVSGKNI
+            NDICKYVIPSNDNGESENKVEEGESNDFKDDIEHRLDLMECTMKWQNIAPTAPDTLWCYP
+            YTDKDPFVLDKWPHVYIVANQPYFGTRVVEIGGKNIKIISVPEFSSTGMIILLDLETLEA
+            ETVKIDI
+NTSEQ       1464
+            atggacgcattgttaacaaagttcaacgaggatagaagtctccaagatgaaaacttgtcc
+            caaccacgaacgagagtaagaattgttgacgacaatctttacaacaaatcgaatccattc
+            caactatgctataaaaaacgtgactacggttctcagtactaccacatttatcaataccgt
+            ctaaagactttcagagaacgcgtcttaaaagaatgtgacaagagatgggatgcgggcttt
+            accttgaatggccaattagttctaaaaaaggacaaagtgttagatattcagggaaaccaa
+            ccatgttggtgcgtaggatccatatattgcgagatgaaatataaaccaaacgtactggac
+            gaagtgatcaatgatacatatggtgcaccagatttaactaaaagttatactgataaagag
+            ggtggttctgatgaaattatgctcgaagatgaaagtgggagagtgcttctagtgggagat
+            tttattcggtctacacccttcatcacgggtgttgttgtaggtatactgggtatggaagct
+            gaagccgggacatttcaagttttagacatatgctaccccactcctttaccacaaaatcct
+            ttccctgcaccaattgctacctgccccaccaggggaaaaattgctcttgtttctgggtta
+            aacctcaataatacatcacctgataggctattgagattggagattttgagagaatttttg
+            atggggagaatcaataacaaaattgacgacatttctctaattggtagattactgatatgc
+            ggcaactctgttgacttcgacattaaaagcgtgaacaaagacgaattgatgatttctcta
+            actgagttcagtaaatttctacacaacattttgccatctatatctgttgatattatgccc
+            ggaaccaatgatccaagtgacaaatctctaccgcaacagcctttccacaaatcattgttt
+            gataagtccctagaatcatacttcaacggttctaacaaagaaattttgaatttagtgacc
+            aacccatatgagtttagctataatggcgtagacgttctagccgtttcaggcaaaaatatc
+            aatgatatttgtaaatacgtaataccatcaaatgataacggagaaagtgaaaacaaggtc
+            gaggagggcgagagtaatgatttcaaagacgatatagagcatcgcctggaccttatggaa
+            tgtacaatgaaatggcaaaacatcgcgcccaccgcacctgataccttatggtgttatccg
+            tacactgataaggatccatttgtattggataagtggccccacgtttacattgtggcaaac
+            cagccatattttggaacaagagtagtggaaataggtggtaagaacataaagataatatct
+            gtccctgaattcagttctactgggatgataatattactggatttggaaacgttagaagca
+            gagacggtcaagattgacatttaa
+///

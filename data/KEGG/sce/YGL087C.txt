@@ -1,0 +1,35 @@
+ENTRY       YGL087C           CDS       T00005
+NAME        MMS2
+DEFINITION  (RefSeq) E2 ubiquitin-conjugating protein MMS2
+ORTHOLOGY   K10704  ubiquitin-conjugating enzyme E2 variant
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YGL087C (MMS2)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              TLS (translesion DNA synthesis) factors
+               Rad6 epistasis group
+                YGL087C (MMS2)
+POSITION    VII:complement(join(346406..346808,346894..346904))
+MOTIF       Pfam: UQ_con RWD
+DBLINKS     NCBI-GeneID: 852793
+            NCBI-ProteinID: NP_011428
+            SGD: S000003055
+            UniProt: P53152
+STRUCTURE   PDB: 1JAT 5OJW 2GMI
+AASEQ       137
+            MSKVPRNFRLLEELEKGEKGFGPESCSYGLADSDDITMTKWNGTILGPPHSNHENRIYSL
+            SIDCGPNYPDSPPKVTFISKINLPCVNPTTGEVQTDFHTLRDWKRAYTMETLLLDLRKEM
+            ATPANKKLRQPKEGETF
+NTSEQ       414
+            atgtcaaaagtaccaagaaattttaggttgttagaagaattagaaaagggtgaaaaaggg
+            tttggtccagaatcatgtagttatggtttagctgatagcgacgatattaccatgaccaaa
+            tggaacggcactattttagggccccctcatagtaatcatgaaaacagaatctattccctt
+            tctatagattgtggcccaaactatccagattctcccccaaaggtcactttcatttccaag
+            ataaatctaccatgcgtcaatccaactacgggggaggtccaaactgacttccacacctta
+            cgtgactggaaaagagcctacaccatggaaactttattacttgatcttagaaaggaaatg
+            gcaaccccagcgaacaagaaattgcgtcaaccgaaggaaggagaaaccttttag
+///

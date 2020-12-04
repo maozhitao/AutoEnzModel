@@ -1,0 +1,67 @@
+ENTRY       YPL175W           CDS       T00005
+NAME        SPT14, CWH6, GPI3
+DEFINITION  (RefSeq) phosphatidylinositol N-acetylglucosaminyltransferase SPT14
+ORTHOLOGY   K03857  phosphatidylinositol N-acetylglucosaminyltransferase subunit A [EC:2.4.1.198]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00563  Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+            sce01100  Metabolic pathways
+MODULE      sce_M00065  GPI-anchor biosynthesis, core oligosaccharide
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09107 Glycan biosynthesis and metabolism
+               00563 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+                YPL175W (SPT14)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01003 Glycosyltransferases [BR:sce01003]
+                YPL175W (SPT14)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.198  phosphatidylinositol N-acetylglucosaminyltransferase
+                 YPL175W (SPT14)
+            Glycosyltransferases [BR:sce01003]
+             GPI-anchor biosynthesis
+              Core oligosaccharide
+               YPL175W (SPT14)
+POSITION    XVI:join(218630..218646,218747..220088)
+MOTIF       Pfam: PIGA Glyco_transf_4 Glycos_transf_1 Glyco_trans_1_4 Glyco_trans_4_4 Glyco_trans_4_2 Glyco_transf_5 Glyco_trans_1_2
+DBLINKS     NCBI-GeneID: 855928
+            NCBI-ProteinID: NP_015150
+            SGD: S000006096
+            UniProt: P32363
+AASEQ       452
+            MGFNIAMLCDFFYPQLGGVEFHIYHLSQKLIDLGHSVVIITHAYKDRVGVRHLTNGLKVY
+            HVPFFVIFRETTFPTVFSTFPIIRNILLREQIQIVHSHGSASTFAHEGILHANTMGLRTV
+            FTDHSLYGFNNLTSIWVNKLLTFTLTNIDRVICVSNTCKENMIVRTELSPDIISVIPNAV
+            VSEDFKPRDPTGGTKRKQSRDKIVIVVIGRLFPNKGSDLLTRIIPKVCSSHEDVEFIVAG
+            DGPKFIDFQQMIESHRLQKRVQLLGSVPHEKVRDVLCQGDIYLHASLTEAFGTILVEAAS
+            CNLLIVTTQVGGIPEVLPNEMTVYAEQTSVSDLVQATNKAINIIRSKALDTSSFHDSVSK
+            MYDWMDVAKRTVEIYTNISSTSSADDKDWMKMVANLYKRDGIWAKHLYLLCGIVEYMLFF
+            LLEWLYPRDEIDLAPKWPKKTVSNETKEARET
+NTSEQ       1359
+            atgggcttcaatatagcgatgctgtgcgactttttttatccacagttaggtggagtcgaa
+            ttccatatatatcatttatcgcagaaactaatcgatttgggccattctgtcgtcattata
+            actcacgcttacaaagatcgagtcggcgtacgacatcttaccaacggtctaaaggtctat
+            cacgtaccattttttgtgattttcagagaaaccactttccccactgttttttcaacattt
+            ccaataataaggaatattcttctcagagagcagatccaaattgttcattctcatggtagc
+            gcttccacgttcgctcacgagggaattcttcatgctaatactatgggattgagaactgtg
+            ttcacggaccattcactctacggttttaataacttaacgtcgatttgggtgaataagttg
+            ctaacatttaccttgacaaacatagatcgggttatatgtgtttctaatacatgcaaagaa
+            aatatgattgttagaacagaattaagtcctgatataatctcagtaattcccaacgcagtg
+            gtgagcgaagatttcaaaccaagggatcctactggtggcaccaagagaaaacaaagtagg
+            gataagatagtgatcgtggtcatcggaaggctctttccaaacaaagggtccgatttactt
+            actcgcataattccgaaagtttgttcctcacatgaagatgtcgaatttatagtagcgggc
+            gatggtccaaagttcatagattttcaacaaatgattgaaagtcatagactacaaaaacgt
+            gtgcaactcttaggctctgttccacatgagaaagtcagggatgtattatgtcaaggtgac
+            atatatttacacgctagtttaacagaagcatttggtacaattctagttgaggccgcatct
+            tgtaatttgctaattgtaacgacacaagtcggaggaattcccgaagtgttaccaaatgag
+            atgactgtttatgcagaacagacatccgtttctgaccttgttcaagcaacaaataaagct
+            atcaatatcataagaagtaaagctttggacacttcctcttttcatgatagcgtgtctaaa
+            atgtacgactggatggacgtagccaaaaggacagtagagatatatactaatatatcttct
+            acttcttccgctgatgataaagattggatgaaaatggtagcaaatctttacaaaagagat
+            ggaatctgggctaaacatctttatctgttatgtggaattgtagagtacatgctttttttc
+            ctcttagagtggctataccccagggatgaaatcgatctagctccaaaatggcccaagaaa
+            acagtgtctaacgagacgaaggaagcaagagaaacttaa
+///

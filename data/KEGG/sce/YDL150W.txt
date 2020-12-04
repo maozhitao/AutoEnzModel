@@ -1,0 +1,62 @@
+ENTRY       YDL150W           CDS       T00005
+NAME        RPC53, RPC4
+DEFINITION  (RefSeq) DNA-directed RNA polymerase III subunit C53
+ORTHOLOGY   K03026  DNA-directed RNA polymerase III subunit RPC4
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03020  RNA polymerase
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03020 RNA polymerase
+                YDL150W (RPC53)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:sce03021]
+                YDL150W (RPC53)
+            Transcription machinery [BR:sce03021]
+             Eukaryotic type
+              RNA polymerase III system
+               RNA polymerase III
+                Pol III specific subunits
+                 YDL150W (RPC53)
+POSITION    IV:183343..184611
+MOTIF       Pfam: RNA_pol_Rpc4
+DBLINKS     NCBI-GeneID: 851404
+            NCBI-ProteinID: NP_010131
+            SGD: S000002309
+            UniProt: P25441
+STRUCTURE   PDB: 6EU3 6EU1 6EU2 6F40 5FJ8 6EU0 6CNB 6CNC 6F44 6F41 6CNF
+                 5FJ9 5FJA 6CND 6F42
+AASEQ       422
+            MSSNKGNGRLPSLKDSSSNGGGSAKPSLKFKPKAVARKSKEEREAAASKVKLEEESKRGN
+            DKKHFNNKNKRVTGAGGQQRRMAKYLNNTHVISSGPLAAGNFVSEKGDLRRGFIKSEGSG
+            SSLVQKGLETIDNGAESSENEAEDDDNEGVASKSKKKFNMGKEFEARNLIEDEDDGESEK
+            SSDVDMDDEEWRSKRIEQLFPVRPVRVRHEDVETVKREIQEALSEKPTREPTPSVKTEPV
+            GTGLQSYLEERERQVNEKLADLGLEKEFQSVDGKEAAAELELLNADHQHILRKLKKMNNK
+            PERFMVFQLPTRLPAFERPAVKEEKEDMETQASDPSKKKKNIKKKDTKDALSTRELAGKV
+            GSIRVHKSGKLSVKIGNVVMDIGKGAETTFLQDVIALSIADDASSAELLGRVDGKIVVTP
+            QI
+NTSEQ       1269
+            atgagcagtaataaaggaaatgggcgcttgccatcattaaaagattcctcctccaatgga
+            ggaggatctgccaagccctcattaaagtttaaaccaaaagcagttgcaagaaagtccaag
+            gaagaaagagaagcagctgcgtccaaagtaaagctagaggaggaatctaagagaggtaat
+            gacaagaaacatttcaataacaagaataaaagagtaaccggcgctggcggccagcaaagg
+            cgaatggccaaatacttaaataacacacacgttatctctagcggtccattggcggctggg
+            aactttgtaagtgagaagggtgatttgagaagaggattcatcaaatcagaaggaagcggg
+            tcatctcttgtgcaaaagggcctggaaactattgacaatggtgctgagagctctgagaat
+            gaggcagaagacgatgataatgaaggtgtagcgtccaaatctaagaagaagttcaatatg
+            ggaaaagaattcgaggcacgcaatctcatagaggacgaagatgacggcgaaagtgaaaag
+            agcagtgacgtcgacatggatgacgaagaatggagatctaaacggattgaacagttattc
+            cctgtgagacctgtccgcgtaagacacgaagacgttgaaactgtcaaaagagaaatacaa
+            gaagctctttcagaaaagccaactcgtgaaccaacccccagtgtgaagacagagcctgtc
+            ggaaccggattacaatcttatttggaagaaagagaaaggcaagtcaatgagaaactggca
+            gatcttggacttgaaaaggagtttcaatcggttgatgggaaagaagcggccgctgagttg
+            gaattattaaatgcagatcatcagcatatattacgaaaactaaagaaaatgaataataaa
+            ccagaaagattcatggtattccagttacctactaggttaccagcttttgaaagacccgct
+            gtgaaagaagaaaaagaagacatggaaacccaggctagcgacccttcaaagaagaagaag
+            aatattaaaaagaaggacacgaaggatgctttgtctactagagaacttgccggcaaggtt
+            gggtctatacgggttcacaaatctggaaaactttccgtgaaaattggaaatgtggtgatg
+            gatattggcaaaggtgccgaaaccacatttttacaagatgttatagcattaagtatcgct
+            gatgatgcatcctcagcggaacttctaggccgtgtggacggtaaaatagtagtcacacct
+            caaatctaa
+///

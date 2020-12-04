@@ -1,0 +1,65 @@
+ENTRY       YGL017W           CDS       T00005
+NAME        ATE1
+DEFINITION  (RefSeq) arginyltransferase
+ORTHOLOGY   K00685  arginyl-tRNA---protein transferase [EC:2.3.2.8]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YGL017W (ATE1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.8  arginyltransferase
+                 YGL017W (ATE1)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              tRNA modification factors
+               Other tRNA modification factors
+                YGL017W (ATE1)
+POSITION    VII:459854..461365
+MOTIF       Pfam: ATE_C ATE_N
+DBLINKS     NCBI-GeneID: 852867
+            NCBI-ProteinID: NP_011498
+            SGD: S000002985
+            UniProt: P16639
+AASEQ       503
+            MSDRFVIWAPSMHNEPAAKCGYCHGNKGGNMDQLFALDSWAHRYMNKMDVVKIENCTIGS
+            FVEHMDVATYDRMCNMGFRRSGKFLYKVDPLRNCCRLYTIRTAPQELNMTKELKKCISRF
+            ATRITSEDYCPAAVASSDFVGKIVNAEMNSKTFYTRFEPALYSEEKYHLFVKYQEKVHQD
+            YNNSPKSFKRFLCDTPFGPEAVLGTQESWEQLNNWQRMKPGEKLKHMGPVHECYYYEGKL
+            IAITVSDILPSGISSVYFIWDPDYSKWSLGKLSALRDLAIIQRTNLQYYYLGYYIEDCPK
+            MNYKANYGAEVLDVCHSKYIPLKPIQDMISRGKLFVIGEEETKVTKELYLVDSETGRGEG
+            FPTDNVVKYKNIAEEIYGVGGCAFKSANESALELKELYGIPYEEEDLDTIYHLKEHNGHA
+            PNGIPNVVPGLLPLWELLDIMQSGKITDLEGRLFLFEIETEGIRPLINFYSEPPNVKKRI
+            CDVIRLFGFETCMKAVILYSEQM
+NTSEQ       1512
+            atgtccgatagattcgttatttgggctccctcgatgcacaatgaacctgccgcaaagtgt
+            gggtattgtcacggtaataaggggggcaacatggatcagttgttcgcattggattcgtgg
+            gctcatcgttatatgaacaaaatggacgttgtaaagattgaaaactgcacaattggctct
+            ttcgtggaacatatggatgtagccacgtatgatcgcatgtgtaatatgggatttagaagg
+            tctggtaagtttctttataaagtggacccgttgaggaattgttgtaggttatacaccatt
+            cgaactgcccctcaagaattgaatatgacaaaggaattgaaaaaatgcatcagccgcttt
+            gctactagaataacaagtgaggactactgcccagccgctgttgcaagcagtgattttgtg
+            ggcaaaattgttaatgcagagatgaattctaaaacattctatacccgatttgagcctgca
+            ctttatagtgaagaaaagtatcacttatttgtcaaatatcaggaaaaagtgcatcaagac
+            tacaataattcgccgaagtcctttaagcgattcctatgtgatacgccctttggccctgaa
+            gcggtgttggggacacaagaatcatgggagcagttaaacaattggcagcgaatgaagcca
+            ggcgagaaactgaagcatatgggtcctgtgcacgaatgctactactatgagggtaaatta
+            attgccatcactgtgtcagatatcttgcccagtggtatatcttcggtatattttatttgg
+            gatccagactacagtaaatggtccctagggaagctcagtgctttgcgcgatcttgccatc
+            attcaaaggacaaatctgcaatactattacctggggtactatattgaggactgtccgaag
+            atgaattataaagcaaactatggtgcggaagtactggatgtgtgtcacagtaaatatatc
+            ccattgaaacccattcaggatatgatttctaggggcaaactctttgtcataggtgaagaa
+            gagacgaaagttactaaggagctctacctcgttgactctgaaaccggaagaggggaggga
+            tttcccactgataatgttgtcaagtacaagaatattgctgaggaaatatacggtgtggga
+            gggtgtgcgtttaaatctgcaaatgaatctgcattggaattgaaagaactttacggtata
+            ccgtacgaagaggaagatttagataccatctaccatttgaaagaacacaatggccatgct
+            ccaaatggtattcctaatgtggtgccgggattactcccgctatgggaattgctggacatt
+            atgcaatctggcaagatcactgacctggagggaagactatttctcttcgaaatcgaaacg
+            gaggggattcgaccattaattaacttttatagcgaacctccgaatgtcaagaaacgtatt
+            tgtgacgtgatacggttatttggcttcgaaacttgtatgaaagccgtcattttatatagt
+            gagcaaatgtga
+///

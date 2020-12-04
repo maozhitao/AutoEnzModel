@@ -1,0 +1,92 @@
+ENTRY       YLL026W           CDS       T00005
+NAME        HSP104
+DEFINITION  (RefSeq) chaperone ATPase HSP104
+ORTHOLOGY   K03695  ATP-dependent Clp protease ATP-binding subunit ClpB
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04213  Longevity regulating pathway - multiple species
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09150 Organismal Systems
+              09149 Aging
+               04213 Longevity regulating pathway - multiple species
+                YLL026W (HSP104)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:sce03110]
+                YLL026W (HSP104)
+            Chaperones and folding catalysts [BR:sce03110]
+             Heat shock proteins
+              HSP100
+               YLL026W (HSP104)
+POSITION    XII:88623..91349
+MOTIF       Pfam: AAA_2 AAA_lid_9 AAA ClpB_D2-small Clp_N AAA_5 Sigma54_activat AAA_16 AAA_22 TniB AAA_24 TIP49 AAA_7 AAA_33 AAA_3 Torsin Zeta_toxin AAA_19 PEPCK_ATP
+DBLINKS     NCBI-GeneID: 850633
+            NCBI-ProteinID: NP_013074
+            SGD: S000003949
+            UniProt: P31539
+STRUCTURE   PDB: 5U2U 5WBW 6AMN 5VYA 5VJH 5VY8 6N8V 5KNE 5VY9 6AHF 6N8T
+                 6N8Z
+AASEQ       908
+            MNDQTQFTERALTILTLAQKLASDHQHPQLQPIHILAAFIETPEDGSVPYLQNLIEKGRY
+            DYDLFKKVVNRNLVRIPQQQPAPAEITPSYALGKVLQDAAKIQKQQKDSFIAQDHILFAL
+            FNDSSIQQIFKEAQVDIEAIKQQALELRGNTRIDSRGADTNTPLEYLSKYAIDMTEQARQ
+            GKLDPVIGREEEIRSTIRVLARRIKSNPCLIGEPGIGKTAIIEGVAQRIIDDDVPTILQG
+            AKLFSLDLAALTAGAKYKGDFEERFKGVLKEIEESKTLIVLFIDEIHMLMGNGKDDAANI
+            LKPALSRGQLKVIGATTNNEYRSIVEKDGAFERRFQKIEVAEPSVRQTVAILRGLQPKYE
+            IHHGVRILDSALVTAAQLAKRYLPYRRLPDSALDLVDISCAGVAVARDSKPEELDSKERQ
+            LQLIQVEIKALERDEDADSTTKDRLKLARQKEASLQEELEPLRQRYNEEKHGHEELTQAK
+            KKLDELENKALDAERRYDTATAADLRYFAIPDIKKQIEKLEDQVAEEERRAGANSMIQNV
+            VDSDTISETAARLTGIPVKKLSESENEKLIHMERDLSSEVVGQMDAIKAVSNAVRLSRSG
+            LANPRQPASFLFLGLSGSGKTELAKKVAGFLFNDEDMMIRVDCSELSEKYAVSKLLGTTA
+            GYVGYDEGGFLTNQLQYKPYSVLLFDEVEKAHPDVLTVMLQMLDDGRITSGQGKTIDCSN
+            CIVIMTSNLGAEFINSQQGSKIQESTKNLVMGAVRQHFRPEFLNRISSIVIFNKLSRKAI
+            HKIVDIRLKEIEERFEQNDKHYKLNLTQEAKDFLAKYGYSDDMGARPLNRLIQNEILNKL
+            ALRILKNEIKDKETVNVVLKKGKSRDENVPEEAEECLEVLPNHEATIGADTLGDDDNEDS
+            MEIDDDLD
+NTSEQ       2727
+            atgaacgaccaaacgcaatttacagaaagggctctaacgattttgacgttggctcaaaaa
+            ttggcttcggatcatcaacatccacaattacaacctatacatattctagctgccttcatt
+            gaaacgccagaagatggatcagtcccttacctacagaatctaattgagaagggccgttac
+            gactatgatcttttcaagaaagtggttaatagaaatctagtaagaattcctcaacagcaa
+            cctgcacctgcggagataactccaagttatgctttggggaaagtccttcaagacgctgct
+            aagattcaaaaacaacagaaggactcatttatagcgcaagaccatatattgtttgctcta
+            ttcaatgattcgtctattcagcaaatatttaaggaagctcaagtagatattgaggccatc
+            aagcaacaagctcttgaacttcgtggtaacactagaattgactctcgtggcgctgatacg
+            aacacacctttggaatatttatcaaagtacgccattgatatgactgagcaggctcgtcaa
+            ggtaaacttgaccctgtcatcggccgtgaagaagaaataagaagcactattagagtttta
+            gcaagaagaattaagtccaacccatgtttaattggtgagccaggtatcggtaagaccgct
+            attattgaaggtgttgctcaaagaatcattgacgatgacgttcccactatcttacaaggc
+            gctaaattgttcagtctagatttggccgcattaaccgcaggtgctaaatacaaaggtgat
+            ttcgaagaaagattcaaaggtgttttgaaggaaatcgaagaatcaaagactctaattgtg
+            ttattcattgatgaaattcacatgttaatgggtaatggtaaggacgacgctgctaacatc
+            ttgaagccagctttgtccagaggccaattgaaggtcatcggtgccaccaccaataacgaa
+            tatagatctattgtggaaaaggatggtgcctttgaaagaagattccagaaaattgaagtc
+            gctgaaccaagtgtgagacaaacagtggccatattgagaggtctgcaaccaaagtatgaa
+            atacatcatggtgtaaggattctggatagcgccttagtcactgctgctcaattagccaag
+            cgttacttgccatatagaagattgccagattctgctttggatttagttgatatttcttgt
+            gctggtgtcgccgtcgcaagagattctaagccagaagaattggattccaaggaacgtcaa
+            ttgcaattgattcaagtagagataaaagctctagagagagatgaagatgccgactccacc
+            actaaagatagattaaagttagctaggcagaaggaagcttcattgcaagaagaattggaa
+            cctctaagacaacgttacaatgaagaaaagcatggccatgaagaattgacacaagctaaa
+            aagaaattggatgaactggaaaacaaggcccttgatgctgaacgtagatatgatactgct
+            accgccgctgatttaaggtacttcgccatcccagatatcaaaaagcaaatcgaaaagctt
+            gaagatcaggttgctgaggaagagagacgtgctggtgccaactccatgatccaaaatgtg
+            gtcgattcagacaccatttctgaaacagctgcaagattgactggtatccctgttaagaag
+            ttgtcagaatctgaaaatgaaaaattgattcatatggaacgtgacttatcatctgaagtc
+            gtgggccaaatggatgccattaaagctgtttccaatgccgttagattgtctagatcaggt
+            ttagctaatccaaggcaaccagcatccttcttatttttaggtttgtccggttccggtaaa
+            actgaattggctaaaaaagttgctggatttttgtttaatgatgaggacatgatgatcagg
+            gtcgattgttctgaattaagcgagaagtatgcggtctctaagttgttgggtaccacggca
+            ggttatgtcgggtacgatgaaggtggctttttaactaaccaactgcaatacaaaccatac
+            tccgttttgttattcgatgaagtagaaaaggcacatcctgatgttttgactgtcatgcta
+            caaatgttggatgacggtagaattacttctggtcaaggtaagacgatcgactgttccaat
+            tgtattgtcatcatgacttccaatctaggtgctgaatttatcaattctcaacaaggatca
+            aagatccaagaatctaccaagaatttggtcatgggtgctgttaggcaacatttcagacca
+            gaatttttgaacagaatttctagtatagtcattttcaacaagctatctagaaaagctatt
+            cataagatcgtggatattcgtttgaaggaaattgaagagagattcgagcaaaatgataaa
+            cattacaagttgaatttaactcaagaggccaaggacttcttggccaaatatggttattcc
+            gatgatatgggtgcacgtccactgaacaggttaattcaaaacgaaattttgaacaaactg
+            gcactaaggatcttaaagaatgaaatcaaggataaggaaactgtcaatgtcgtcttgaag
+            aagggtaaatctcgtgatgaaaatgttcctgaggaagctgaagaatgtctggaagttcta
+            ccaaatcacgaagctactataggggctgacacgttaggtgatgacgataatgaggacagt
+            atggaaattgatgatgacctagattaa
+///

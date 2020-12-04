@@ -1,0 +1,60 @@
+ENTRY       YGR156W           CDS       T00005
+NAME        PTI1
+DEFINITION  (RefSeq) cleavage polyadenylation factor subunit PTI1
+ORTHOLOGY   K14407  cleavage stimulation factor subunit 2
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03015  mRNA surveillance pathway
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03015 mRNA surveillance pathway
+                YGR156W (PTI1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YGR156W (PTI1)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA processing factors
+               3' end processing
+                Cleavage stimulation factor (CSTF) complex
+                 YGR156W (PTI1)
+POSITION    VII:800546..801823
+MOTIF       Pfam: CSTF2_hinge CSTF_C RRM_1 MarR
+DBLINKS     NCBI-GeneID: 853060
+            NCBI-ProteinID: NP_011672
+            SGD: S000003388
+            UniProt: P39927
+AASEQ       425
+            MTDPRRRTGRHFLTPENLSSTLQITNLPPEWNQDIITSVVAGSGPVIDIKAKNDPRTGKL
+            TGVLFDYLTSKDCKRAWEILNRIENFPVKIEQIIPPNYKDHLRETANKNSQKQVLQLNRD
+            SYPFEAGLELPFEMVTEVPIPRRPPPPQAANNTNSVSNNTNIQFPDILSKASKHLPSFQD
+            GSIIAPDKISQNLSKIPPLQLIEIISNLKILSNQENIQKSQLESFLDTNSDITISVTQAL
+            LEMGFIDYSVVTKVLKSQVGEAPSLLSSNNTSNSNTPVSVIRNNTPLHVPSNEVSNNPNN
+            MPLNVAMPMPMSTPPFIPLPLQQQPFGFAPPGPFMPPAQGPSMGQPVLANQLGQVQQQNI
+            SSTEGPSNANKANDSGTINMAKLQLLPENQQDMIKQVLTLTPAQIQSLPSDQQLMVENFR
+            KEYII
+NTSEQ       1278
+            atgacagatcccagaagaagaacaggccgtcatttcttgacaccggagaatttatcctct
+            acattacaaatcacaaacttacctccagaatggaaccaagatataattacttcggtcgtg
+            gccggttctggtccagttatagatataaaagctaagaatgacccgagaactggtaaacta
+            accggtgtactgttcgattatttgactagtaaagattgtaaacgcgcttgggaaatttta
+            aatagaattgaaaactttcccgtaaagatagagcaaataatcccaccaaattataaggac
+            catcttagagaaacagcaaataaaaattctcaaaagcaggtattacaacttaatagagat
+            tcgtaccccttcgaggcgggtttggagctacctttcgaaatggtgacagaagtccccatt
+            cctaggcgaccaccgccaccacaggctgcaaataacacaaactctgtatcaaataacaca
+            aacattcaattccccgacatactaagtaaagcatctaaacacttgccaagtttccaagat
+            ggctcgattattgcaccagacaaaatttcacaaaatttaagtaaaattccgccgttgcaa
+            cttattgaaattatatcaaatttgaaaatattatcaaaccaagaaaacatccaaaaatcg
+            caattagaatctttcttagatactaacagtgatatcacaatatcagtgacccaagcccta
+            ctagaaatgggatttatagactacagcgtggtgactaaagtgttgaaatcccaagttggc
+            gaggccccatctttgctttcgagtaataacacaagtaattcgaacacccccgtaagcgta
+            attagaaataacactccgttgcatgtaccttctaatgaagtcagcaacaatcctaacaat
+            atgccactgaacgtagctatgccaatgcctatgtcgacaccaccatttatccctttacct
+            ctgcaacaacaaccgttcggttttgcgccaccgggccctttcatgcctccagctcaaggc
+            ccctccatgggacagcctgtgttggcaaatcaactcggccaggtccagcaacaaaatata
+            agttctacagaaggaccctctaacgcgaataaagcgaatgacagcggcaccattaatatg
+            gcgaaactgcaattactacctgaaaaccaacaagatatgatcaaacaagttcttactttg
+            acacctgcccagatccaaagtttaccaagtgaccagcaacttatggtggaaaactttaga
+            aaagaatatataatctaa
+///

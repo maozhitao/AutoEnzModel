@@ -1,0 +1,76 @@
+ENTRY       YDR023W           CDS       T00005
+NAME        SES1
+DEFINITION  (RefSeq) serine--tRNA ligase SES1
+ORTHOLOGY   K01875  seryl-tRNA synthetase [EC:6.1.1.11]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                YDR023W (SES1)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:sce01007]
+                YDR023W (SES1)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YDR023W (SES1)
+            Enzymes [BR:sce01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.11  serine---tRNA ligase
+                 YDR023W (SES1)
+            Amino acid related enzymes [BR:sce01007]
+             Aminoacyl-tRNA synthetase
+              Class II (C/G)
+               YDR023W (SES1)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                YDR023W (SES1)
+             Prokaryotic type
+                YDR023W (SES1)
+POSITION    IV:489508..490896
+MOTIF       Pfam: tRNA-synt_2b Seryl_tRNA_N MAP7 FapA
+DBLINKS     NCBI-GeneID: 851587
+            NCBI-ProteinID: NP_010306
+            SGD: S000002430
+            UniProt: P07284
+AASEQ       462
+            MLDINQFIEDKGGNPELIRQSQKARNASVEIVDEIISDYKDWVKTRFELDELNKKFNKLQ
+            KDIGLKFKNKEDASGLLAEKEKLTQQKKELTEKEQQEDKDLKKKVFQVGNIVHPSVVVSN
+            DEENNELVRTWKPEDLEAVGPIASVTGKPASLSHHEILLRLDGYDPDRGVKICGHRGYFF
+            RNYGVFLNQALINYGLQFLAAKGYIPLQAPVMMNKELMSKTAQLSEFDEELYKVIDGEDE
+            KYLIATSEQPISAYHSGEWFEKPQEQLPIHYVGYSSCFRREAGSHGKDAWGVFRVHAFEK
+            IEQFVITEPEKSWEEFEKMISYSEEFYKSLKLPYRIVGIVSGELNNAAAKKYDLEAWFPY
+            QKEYKELVSCSNCTDYQSRNLEIRCGIKKMGDREKKYVHCLNSTLAATQRALCCILENYQ
+            TEDGLVVPEVLRKYIPGEPEFLPFVNELPKNSTSSKDKKKKN
+NTSEQ       1389
+            atgttggacatcaaccaatttatcgaagataagggtggtaacccagagctaatcagacaa
+            tctcagaaagcaagaaatgccagtgttgaaatcgtcgatgaaattatttccgactacaaa
+            gattgggtcaaaacaagattcgaattagatgaattgaacaagaaattcaacaagcttcaa
+            aaggatattggtttgaagtttaaaaacaaggaagacgcttccggattattagccgaaaaa
+            gagaagttaacccaacaaaagaaggaattgactgaaaaggagcaacaggaagataaggac
+            ttgaagaaaaaagtttttcaagtaggaaatatcgttcatccatctgttgttgtttccaac
+            gatgaagaaaacaatgaattggtccgtacttggaaaccagaggatttagaagcggttggc
+            cccattgcttctgtgactggtaaaccagctagtttatcccatcatgaaatcttgctaaga
+            ttagatggatatgatccagaccgtggtgtaaagatttgtggtcatagaggttatttcttc
+            agaaattatggtgttttcttgaaccaagctttgattaactatggtttacagttcttagct
+            gccaagggttatattcctttacaagctccagtcatgatgaataaagaacttatgtcaaaa
+            actgctcaactatctgaattcgatgaagagttatacaaagttatcgatggtgaagatgaa
+            aaatacctaattgctacctcagaacaacctatctccgcttaccacagcggtgaatggttt
+            gaaaagccacaagagcaattgccaattcactatgtcggttactcctcttgtttccgtaga
+            gaagccggttctcacggtaaggatgcttggggtgtcttcagagttcatgctttcgaaaaa
+            attgaacaattcgtcatcactgaacctgaaaaatcttgggaggagtttgaaaagatgatc
+            tcttactctgaggaattttataagtctttgaaattaccataccgtatcgttggtatcgtt
+            tccggtgaattaaacaatgctgccgctaaaaagtacgatttagaagcctggttcccatac
+            caaaaggagtacaaagaactcgtctcttgctccaattgtactgattatcagtcaagaaac
+            ttagaaattagatgcggtataaagaaaatgggcgacagagaaaagaaatacgtacactgt
+            ttgaattccactttggctgctacccaaagagctttgtgctgtatcttggagaactaccaa
+            acggaagatggtttggttgtaccagaagttttgaggaaatacattccaggtgaaccagaa
+            tttttaccattcgttaatgaattaccaaagaattccacctctagtaaagacaagaaaaag
+            aagaattaa
+///

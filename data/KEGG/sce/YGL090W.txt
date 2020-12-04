@@ -1,0 +1,61 @@
+ENTRY       YGL090W           CDS       T00005
+NAME        LIF1
+DEFINITION  (RefSeq) Lif1p
+ORTHOLOGY   K10982  ligase-interacting factor 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03450  Non-homologous end-joining
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03450 Non-homologous end-joining
+                YGL090W (LIF1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YGL090W (LIF1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              DSBR (double strand breaks repair)
+               NHEJ (non-homologous end-joining)
+                DNA Ligase 4 complex
+                 YGL090W (LIF1)
+POSITION    VII:343319..344584
+MOTIF       Pfam: XLF TT1725 DUF3042
+DBLINKS     NCBI-GeneID: 852790
+            NCBI-ProteinID: NP_011425
+            SGD: S000003058
+            UniProt: P53150
+STRUCTURE   PDB: 1Z56
+AASEQ       421
+            MSQLTEFISCIPVVNEEQNEEDERGLCKIQIEDGAMLETLDENSLSGLRIEKMLVSEGTG
+            IFSKSSFGINDLRIFTGENIDEESKKYVWYELLKMLTGHKVYIASLDEKVVFTKWTCRMQ
+            DDEVWKVVMELESSAIIRKIAELTLHPVKKGEIDLFEMADKLYKDICCVNDSYRNIKESD
+            SSNRNRVEQLARERELLDKLLETRDERTRAMMVTLLNEKKKKIRELHEILRQNNIKLSDD
+            DVLDSALINTEVQKPISELNSPGKRMKRRKTVVEPQNLQKKLKDTSRRRANRKISNQSVI
+            KMEDDDFDDFQFFGLSKRPIITAKDKLSEKYDDITSFGDDTQSISFESDSSSDVQKHLVS
+            LEDNGIQISAGRSDEDYGDISGSESETDASAGEKKSSNHSEQSGNDREPCLQTESETDIE
+            T
+NTSEQ       1266
+            atgtcccagctgacggagttcattagctgtatccctgtggttaatgaagaacaaaatgaa
+            gaagatgagcgtggcctctgtaagattcagattgaagatggcgctatgttggaaacatta
+            gatgagaacagtctttcagggcttagaatagagaaaatgttggtaagtgaaggtacagga
+            attttttccaaaagcagttttggaatcaatgatttgcgaatctttacgggagaaaatatc
+            gatgaagagtctaagaaatatgtgtggtatgaactactcaaaatgttaactggtcacaaa
+            gtgtacattgcatcgttagacgaaaaagtcgtattcacaaaatggacgtgcagaatgcaa
+            gatgatgaggtatggaaagtagttatggagttggagtcatcggcgatcataagaaaaatc
+            gctgaacttaccttgcatccagtcaaaaagggagagattgatttatttgaaatggcagat
+            aaactctataaagatatctgttgtgttaacgattcttaccggaatataaaggagagcgat
+            tctagcaatagaaatcgagttgaacagctggctcgggaaagggagctattggataagctt
+            ttagaaacacgtgatgaaagaaccagagcaatgatggtaaccttgttgaatgagaagaag
+            aagaaaataagagagcttcatgagattctgcgacaaaataatatcaaattgtctgacgat
+            gatgttttagattctgcgcttattaatacggaagtgcaaaagccaatttctgagttaaac
+            tctccaggaaaaagaatgaaacgaagaaagacggtagtagagcctcaaaatttacaaaag
+            aagttgaaagacacaagtcggaggagagctaatagaaaaatatctaatcaatccgtgatc
+            aaaatggaagacgacgattttgatgactttcaatttttcggactttctaaaaggccaatt
+            attactgctaaagataaactcagtgaaaagtacgatgatattacctcttttggagatgac
+            acacaatcaataagttttgaatctgatagtagcagtgatgttcaaaaacatttagtgtct
+            ttagaagacaatggtattcaaatatcagcaggaagatcggatgaagattacggagacatt
+            tctggttctgaatctgagactgatgcaagtgcaggggaaaagaagagctccaaccatagt
+            gaacaatccggtaatgatagggaaccttgcttgcagacagaatcggaaacggatatagaa
+            acatag
+///

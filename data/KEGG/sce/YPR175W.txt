@@ -1,0 +1,98 @@
+ENTRY       YPR175W           CDS       T00005
+NAME        DPB2
+DEFINITION  (RefSeq) DNA polymerase epsilon noncatalytic subunit
+ORTHOLOGY   K02325  DNA polymerase epsilon subunit 2 [EC:2.7.7.7]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03030  DNA replication
+            sce03410  Base excision repair
+            sce03420  Nucleotide excision repair
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                YPR175W (DPB2)
+               03410 Base excision repair
+                YPR175W (DPB2)
+               03420 Nucleotide excision repair
+                YPR175W (DPB2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YPR175W (DPB2)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YPR175W (DPB2)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 YPR175W (DPB2)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Elongation Factors
+               DNA polymerase epsilon complex
+                YPR175W (DPB2)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                Long Patch-BER factors
+                 DNA polymerase epsilon complex
+                  YPR175W (DPB2)
+POSITION    XVI:888974..891043
+MOTIF       Pfam: DNA_pol_E_B DUF3206
+DBLINKS     NCBI-GeneID: 856305
+            NCBI-ProteinID: NP_015501
+            SGD: S000006379
+            UniProt: P24482
+STRUCTURE   PDB: 6HV8 6HV9
+AASEQ       689
+            MFGSGNVLPVKIQPPLLRPLAYRVLSRKYGLSIKSDGLSALAEFVGTNIGANWRQGPATI
+            KFLEQFAAVWKQQERGLFIDQSGVKEVIQEMKEREKVEWSHEHPIQHEENILGRTDDDEN
+            NSDDEMPIAADSSLQNVSLSSPMRQPTERDEYKQPFKPESSKALDWRDYFKVINASQQQR
+            FSYNPHKMQFIFVPNKKQNGLGGIAGFLPDIEDKVQMFLTRYYLTNDRVMRNENFQNSDM
+            FNPLSSMVSLQNELSNTNRQQQSSSMSITPIKNLLGRDAQNFLLLGLLNKNFKGNWSLED
+            PSGSVEIDISQTIPTQGHYYVPGCMVLVEGIYYSVGNKFHVTSMTLPPGERREITLETIG
+            NLDLLGIHGISNNNFIARLDKDLKIRLHLLEKELTDHKFVILGANLFLDDLKIMTALSKI
+            LQKLNDDPPTLLIWQGSFTSVPVFASMSSRNISSSTQFKNNFDALATLLSRFDNLTENTT
+            MIFIPGPNDLWGSMVSLGASGTLPQDPIPSAFTKKINKVCKNVVWSSNPTRIAYLSQEIV
+            IFRDDLSGRFKRHRLEFPFNESEDVYTENDNMMSKDTDIVPIDELVKEPDQLPQKVQETR
+            KLVKTILDQGHLSPFLDSLRPISWDLDHTLTLCPIPSTMVLCDTTSAQFDLTYNGCKVIN
+            PGSFIHNRRARYMEYVPSSKKTIQEEIYI
+NTSEQ       2070
+            atgtttggctctgggaatgttctgcctgttaaaattcagcctccgctgcttaggccactg
+            gcgtatagagttttatcaagaaaatatggtttatcaattaaatctgatggactgtctgct
+            cttgcagaattcgttggcactaatataggtgctaactggagacaagggcctgctacaata
+            aaatttctcgagcaatttgctgcagtatggaaacaacaagaaagaggccttttcatcgac
+            cagagcggggttaaagaagttatacaggagatgaaagaacgtgagaaagtcgaatggagt
+            catgaacaccctattcaacatgaggagaatatcttgggacggacagatgacgatgagaac
+            aacagtgacgatgaaatgccgatcgctgctgattcatccttacaaaatgtttcattatct
+            tcacccatgcgacagcccaccgaaagagatgaatataaacagcctttcaagccagaaagc
+            tccaaggcgttggactggagggactacttcaaagttatcaatgcttctcagcaacaaaga
+            ttctcatacaatccgcacaaaatgcaatttattttcgtccccaataaaaagcagaatggg
+            ctaggaggcattgcgggttttctaccagatatagaggacaaagttcaaatgttcttgaca
+            agatattacctcacgaacgacagagtcatgagaaatgaaaacttccaaaacagtgacatg
+            tttaatccattatcatctatggtgtctttacaaaatgaactgtccaatactaaccgacag
+            cagcaatccagcagtatgagtatcaccccaataaaaaacctactaggtagggatgctcaa
+            aactttctactattggggctcttaaataagaactttaagggcaattggtcactggaagat
+            ccgtctggatctgtcgaaattgacatttcccaaactatccctacacaaggccattactac
+            gtgccaggttgcatggttcttgtggaaggaatatactattctgtaggaaataaattccat
+            gttacctccatgactttaccccctggtgagagaagagaaattacattagaaacgataggt
+            aatctcgatctcttaggaatacatggcatttctaataacaatttcattgctcgtttggat
+            aaagatttgaagattagattacaccttttggagaaagaattaacagatcataaatttgta
+            attctcggcgcaaatttgttcctagatgatttgaaaattatgactgcactcagcaaaatt
+            ttgcaaaaattaaatgatgacccaccgaccctattaatttggcaaggttctttcacttca
+            gttcccgttttcgcatcaatgagtagccggaatataagtagttccactcaatttaagaat
+            aatttcgatgccttggcgacgcttctgtcaagatttgacaatttgaccgaaaataccaca
+            atgatatttattccaggtcctaacgatttatgggggtcgatggtgtcattgggggcaagt
+            gggacattaccgcaagatccaattcctagtgcgtttaccaaaaaaatcaacaaggtctgt
+            aaaaacgttgtatggagctcaaatccaactagaatagcatacttatcccaagaaatagtc
+            attttcagggacgatttatccggaagattcaaaagacaccgtttggaattcccattcaac
+            gagagcgaagatgtttatactgaaaacgataacatgatgtctaaagacaccgatattgta
+            ccaatcgatgaattagttaaagaaccagaccagttaccacaaaaggttcaagaaacaaga
+            aaactcgttaaaacaatactagaccagggtcatttatcgccatttcttgattccttgcgc
+            ccaatttcatgggatttggaccacactttgacactttgcccaataccatcgacaatggtt
+            ctttgcgacactacttctgcacaatttgatttgacatacaacggttgtaaagtaattaac
+            cctggaagtttcattcataatagacgtgctaggtatatggagtacgttccatcctcaaag
+            aaaactatacaagaagagatatatatctaa
+///

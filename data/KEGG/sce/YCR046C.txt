@@ -1,0 +1,43 @@
+ENTRY       YCR046C           CDS       T00005
+NAME        IMG1, bL19m
+DEFINITION  (RefSeq) mitochondrial 54S ribosomal protein IMG1
+ORTHOLOGY   K02884  large subunit ribosomal protein L19
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YCR046C (IMG1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YCR046C (IMG1)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                YCR046C (IMG1)
+              Bacteria
+                YCR046C (IMG1)
+POSITION    III:complement(209914..210423)
+MOTIF       Pfam: Ribosomal_L19 RNA_pol_Rpb5_C
+DBLINKS     NCBI-GeneID: 850413
+            NCBI-ProteinID: NP_009975
+            SGD: S000000642
+            UniProt: P25626
+AASEQ       169
+            MWSRNVRLLGSWTRSYMVPATKRKTIPVYPPVQRIASSQIMKQVALSEIESLDPGAVKRK
+            LISKKNKDRLKAGDVVRIVYDSSKCSYDTFVGYILSIDRKQLVQDASLLLRNQIAKTAVE
+            IRVPLFSPLIERIDLLTPHVSSRQRNKHYYIRGTRLDVGDLEAGLRRKK
+NTSEQ       510
+            atgtggagcaggaacgtcagattgcttggatcatggacaaggtcctacatggtccccgcc
+            accaagagaaaaaccatccccgtgtacccacctgtgcagcgcatagcttcgtcgcagatt
+            atgaagcaggtggccctctcagaaatagagtctctggatcccggggccgttaagaggaag
+            ctcatcagtaaaaagaacaaggaccgcttgaaggcaggcgacgtggtccggattgtgtac
+            gactcgtccaagtgctcgtacgacacctttgttggctacatcctttccatagaccgcaaa
+            caactggtgcaagacgcctcgttgctgttgcggaaccagatagccaagacggccgtcgag
+            attagagtgccattgttttcgccgctgatcgagagaatcgacttgctaaccccccacgtc
+            tcgagcagacaaagaaacaaacactactacatcagaggtacaaggttggatgtcggcgac
+            ctcgaggcaggtctaagaagaaagaaatag
+///

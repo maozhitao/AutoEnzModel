@@ -1,0 +1,64 @@
+ENTRY       YGL240W           CDS       T00005
+NAME        DOC1, APC10
+DEFINITION  (RefSeq) anaphase promoting complex subunit DOC1
+ORTHOLOGY   K03357  anaphase-promoting complex subunit 10
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04111  Cell cycle - yeast
+            sce04113  Meiosis - yeast
+            sce04120  Ubiquitin mediated proteolysis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                YGL240W (DOC1)
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YGL240W (DOC1)
+               04113 Meiosis - yeast
+                YGL240W (DOC1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YGL240W (DOC1)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YGL240W (DOC1)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               APC/C
+                Other subunits
+                 YGL240W (DOC1)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Sister chromatid separation proteins
+               APC/C complex
+                YGL240W (DOC1)
+POSITION    VII:48613..49365
+MOTIF       Pfam: ANAPC10 F5_F8_type_C
+DBLINKS     NCBI-GeneID: 852611
+            NCBI-ProteinID: NP_011274
+            SGD: S000003209
+            UniProt: P53068
+STRUCTURE   PDB: 1GQP
+AASEQ       250
+            MDPIGINKVLDHLAPSELIKPVKSCHNKPSVLVLDDRIVDAATKDLYVNGFQEEIQYQNP
+            TPENLQHMFHQGIEILDSARMINVTHLALWKPSSFKLGNPVDFALDDNYDTFWQSDGGQP
+            HQLDIMFSKRMDICVMAIFFSMIADESYAPSLVKVYAGHSPSDARFYKMLEVRNVNGWVA
+            LRFLDNREDDQLLKCQFIRLLFPVNHENGKDTHLRGIRLYVPSNEPHQDTHEWAQTLPET
+            NNVFQDAILR
+NTSEQ       753
+            atggacccgattggaataaacaaagtcttggaccatttagcaccctcagagcttatcaaa
+            cctgttaagagttgccataataaaccttcagtgttggtgttggatgacaggattgtggat
+            gcggcaaccaaagatctctacgtgaatgggttccaagaagagattcagtatcagaatcct
+            acaccggagaacttgcaacatatgttccaccaaggtattgaaatattggattcggcaagg
+            atgatcaacgtgacacatttagcgctttggaagccttcttcttttaagttggggaatcct
+            gtggactttgctctagatgataactacgatacgttttggcagagcgatggagggcaacca
+            caccaattggacattatgtttagtaagagaatggacatctgtgtcatggcaatattcttt
+            tcgatgattgcggacgagtcctatgctccaagcttagtgaaagtttacgcggggcatagt
+            ccttctgatgcgaggttttataagatgcttgaagtgagaaatgtgaatggctgggtggca
+            ctaaggtttctagataatagggaggacgaccagctgctgaaatgtcaattcatcaggctt
+            ttgtttccagtcaaccatgaaaacggaaaagatacacatctgagaggcataaggctatat
+            gttccatctaatgagccacatcaagatacccatgagtgggcacagaccctcccagaaact
+            aacaatgtcttccaggatgctatattacgttaa
+///

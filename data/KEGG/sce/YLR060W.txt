@@ -1,0 +1,84 @@
+ENTRY       YLR060W           CDS       T00005
+NAME        FRS1
+DEFINITION  (RefSeq) phenylalanine--tRNA ligase subunit beta
+ORTHOLOGY   K01890  phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                YLR060W (FRS1)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:sce01007]
+                YLR060W (FRS1)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YLR060W (FRS1)
+            Enzymes [BR:sce01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.20  phenylalanine---tRNA ligase
+                 YLR060W (FRS1)
+            Amino acid related enzymes [BR:sce01007]
+             Aminoacyl-tRNA synthetase
+              Class II (U)
+               YLR060W (FRS1)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                YLR060W (FRS1)
+             Prokaryotic type
+                YLR060W (FRS1)
+POSITION    XII:260979..262766
+MOTIF       Pfam: tRNA_synthFbeta PhetRS_B1 B3_4 B5
+DBLINKS     NCBI-GeneID: 850749
+            NCBI-ProteinID: NP_013161
+            SGD: S000004050
+            UniProt: P15624
+AASEQ       595
+            MPTVSVNKQQLFDLLGKNYTSQEFDELCFEFGMEMDEDTTEEALKTGEEPELKLDISANR
+            YDLLCIEGISQSLNEYLERKERPDYKLSKPTTKLIIDKSTEQIRPFATAAVLRNIKLNEK
+            SYASFIALQDKLHANLCRNRSLVAMGTHDLDSIEGPFHYRALPPKDIKFVPLNQTQEFTG
+            DKLIEFYKSPEQKNNIGRYVHIIEDSPVFPVIMDSKDRVCSLPPLINSEHSKISVNTRNI
+            LIDITATDKTKAEIVLNILTTMFSRYCDEPFTVEPVEIVSEHNGQSRLAPNFNDRIMDVS
+            IKYINSCLGLDQSADEIAHCLKKMSLHAVQSKEDKDILHVDIPVTRPDILHACDIMEDAA
+            VGYGFNNLPKGEKLSNANFIAKPLPINKVSDIFRVASSQATWVEVLPLTLCSHDENFKFL
+            RQSDNGDLAVKLANPKTLEYQVVRTTLLPGILKTVKENRKHSLPIKVFETGDVVFKDDKL
+            ERKAYNERHWAAIYVGKNSGFEIIQGLLGKIMQTFRTEWIADYGAAASGRGYWIEEDDSV
+            KTYFPGRGAKVMFRSKEGAEPKQIGHLGVLHPEVMMNFDVPFAASFVEVNAEVFL
+NTSEQ       1788
+            atgcctaccgtctccgtgaacaagcagcaattatttgatcttctaggcaaaaactacact
+            tcccaagagttcgatgaattatgttttgaattcggtatggaaatggacgaagacaccaca
+            gaggaggccttgaaaaccggggaggagccggaattgaagcttgatatcagtgccaatcgt
+            tacgatttgctttgtatcgaaggtatttcacagtcgctgaacgaatacttggaacgtaaa
+            gaaagacctgactataaattaagcaagccaaccactaagttgatcatcgacaaatcaacg
+            gagcaaattagaccttttgctaccgctgctgtattgagaaatatcaagcttaacgaaaaa
+            tcttacgcttcttttattgccttgcaagataaattacatgccaatctatgtagaaacaga
+            agcttggttgccatgggtactcacgatttagattcaattgaaggtccattccattacaga
+            gctctaccaccaaaggacatcaagttcgtaccattgaatcaaacccaagagtttactggt
+            gacaaattgatcgagttttataaatctccagaacagaaaaacaacatagggagatacgtt
+            cacattattgaggattctccagtcttcccagttattatggacagcaaagatcgtgtttgc
+            tccctgccaccattaatcaatagtgaacattcgaagatctctgtgaacacccgtaacatt
+            ttgattgatataaccgccaccgataagaccaaagccgagatcgttttgaacatattaact
+            acaatgttctcacgttattgtgacgaaccattcacggttgagcctgtagaaattgtctct
+            gaacacaatggccaatcccgtttggcgccaaacttcaacgatagaattatggatgtctcc
+            attaagtacatcaactcctgtcttggcctagatcaatccgctgatgaaattgctcattgt
+            ctaaagaagatgtcgttgcatgccgttcaatcaaaggaagacaaggacatcttgcacgtt
+            gacattccggtaactagacctgatattttgcacgcttgtgatataatggaagatgccgct
+            gtcggttatggtttcaataatttgccaaagggtgagaaattatccaatgccaacttcatt
+            gccaaaccattaccaatcaacaaggtttctgatattttcagagttgcatcctctcaagcc
+            acgtgggttgaggttttaccattgaccttatgttcgcacgatgaaaactttaaatttcta
+            agacaatccgacaatggtgatttagctgtcaaattggccaacccaaagactttggaatac
+            caagttgttagaaccactttattgcctggtatcttaaagacagtcaaggaaaacagaaaa
+            cattccttgccaatcaaagtctttgaaaccggtgacgttgtatttaaagacgacaaacta
+            gaaaggaaggcgtacaatgaacgtcactgggctgccatctacgtgggtaagaattctggg
+            tttgaaatcattcaagggttattgggtaaaatcatgcaaacttttagaacagagtggatt
+            gcagactacggtgctgctgcttctggcagaggttactggattgaagaagacgattctgtg
+            aaaacctacttcccaggtagaggtgccaaggtcatgttcagatccaaagaaggcgctgag
+            ccaaagcaaatcggccacttgggtgtcttgcatcctgaagtcatgatgaatttcgacgtt
+            ccattcgctgcatcctttgtagaggttaatgccgaagtcttcctataa
+///

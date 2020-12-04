@@ -1,0 +1,41 @@
+ENTRY       YOR369C           CDS       T00005
+NAME        RPS12
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S12
+ORTHOLOGY   K02951  small subunit ribosomal protein S12e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YOR369C (RPS12)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YOR369C (RPS12)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YOR369C (RPS12)
+POSITION    XV:complement(1028194..1028625)
+MOTIF       Pfam: Ribosomal_L7Ae
+DBLINKS     NCBI-GeneID: 854551
+            NCBI-ProteinID: NP_015014
+            SGD: S000005896
+            UniProt: P48589
+STRUCTURE   PDB: 6FAI 6RBD 6EML 6RBE
+AASEQ       143
+            MSDVEEVVEVQEETVVEQTAEVTIEDALKVVLRTALVHDGLARGLRESTKALTRGEALLV
+            VLVSSVTEANIIKLVEGLANDPENKVPLIKVADAKQLGEWAGLGKIDREGNARKVVGASV
+            VVVKNWGAETDELSMIMEHFSQQ
+NTSEQ       432
+            atgtctgacgttgaagaagtcgttgaagttcaagaagaaactgttgttgaacaaactgcc
+            gaagttactatcgaagatgctttgaaggttgttttgagaaccgctttggttcacgatggt
+            ctagctagaggtttgagagaatctaccaaggctttaaccagaggtgaagctttattggtt
+            gttttggtcagctctgttactgaagctaacattatcaagttggttgaaggtttggctaac
+            gacccagaaaacaaggttccattgatcaaggttgctgatgctaagcaattaggtgaatgg
+            gctggtttgggtaagatcgaccgtgaaggtaacgccagaaaggttgtcggtgcctccgtt
+            gttgttgtcaagaactggggtgctgaaactgatgaattgtccatgatcatggaacacttc
+            tcccaacaataa
+///

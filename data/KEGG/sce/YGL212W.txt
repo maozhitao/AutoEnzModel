@@ -1,0 +1,57 @@
+ENTRY       YGL212W           CDS       T00005
+NAME        VAM7, VPL24, VPS43
+DEFINITION  (RefSeq) Vam7p
+ORTHOLOGY   K08502  regulator of vacuolar morphogenesis
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04130  SNARE interactions in vesicular transport
+            sce04138  Autophagy - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04130 SNARE interactions in vesicular transport
+                YGL212W (VAM7)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04138 Autophagy - yeast
+                YGL212W (VAM7)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YGL212W (VAM7)
+            Membrane trafficking [BR:sce04131]
+             SNARE
+              SNAP-25[C] (Qc)
+               STX8
+                YGL212W (VAM7)
+POSITION    VII:91432..92382
+MOTIF       Pfam: PX
+DBLINKS     NCBI-GeneID: 852660
+            NCBI-ProteinID: NP_011303
+            SGD: S000003180
+            UniProt: P32912
+STRUCTURE   PDB: 1KMD
+AASEQ       316
+            MAANSVGKMSEKLRIKVDDVKINPKYVLYGVSTPNKRLYKRYSEFWKLKTRLERDVGSTI
+            PYDFPEKPGVLDRRWQRRYDDPEMIDERRIGLERFLNELYNDRFDSRWRDTKIAQDFLQL
+            SKPNVSQEKSQQHLETADEVGWDEMIRDIKLDLDKESDGTPSVRGALRARTKLHKLRERL
+            EQDVQKKSLPSTEVTRRAALLRSLLKECDDIGTANIAQDRGRLLGVATSDNSSTTEVQGR
+            TNNDLQQGQMQMVRDQEQELVALHRIIQAQRGLALEMNEELQTQNELLTALEDDVDNTGR
+            RLQIANKKARHFNNSA
+NTSEQ       951
+            atggcagctaattctgtagggaaaatgagtgaaaagttaagaatcaaggtggacgatgtt
+            aaaatcaaccccaagtatgttttatacggtgttagtacaccaaacaagcgcctttacaaa
+            aggtattccgagttttggaaactgaagacacgattggagagagatgtaggaagcaccatc
+            ccatatgacttccctgaaaagcccggtgtattggacaggaggtggcaaagaagatatgat
+            gatccggaaatgatcgatgaaagacggatcggactagagaggttcctcaatgaattgtat
+            aacgatcgttttgattctcgatggagagacacaaaaatagcgcaagacttcctgcagttg
+            tcaaagccaaatgtttctcaagaaaagtcacagcagcatctagaaactgctgacgaagtg
+            ggatgggatgagatgataagagatattaaattggatttagataaggagagtgatggcaca
+            cccagcgtgcgtggagcactaagggcacgtacgaagctccacaagttacgagagcgacta
+            gaacaggatgtgcaaaagaagtctcttccaagcacggaagtgactcgtcgcgccgctcta
+            ttgaggtccttgctcaaggaatgcgatgacattggtacagcaaacatagctcaggaccgt
+            ggacgacttctgggggttgccaccagtgacaactcttcaaccacggaagttcaaggaaga
+            acgaataacgatttgcaacaggggcagatgcaaatggtgcgcgatcaagaacaagagttg
+            gttgcactgcaccgaattatccaggcacaacgtggattggccttagagatgaacgaggag
+            ctgcaaacacagaatgagctacttacagcacttgaagatgacgtcgataacactggtagg
+            aggttacagatagccaacaagaaggctagacattttaacaacagtgcttga
+///

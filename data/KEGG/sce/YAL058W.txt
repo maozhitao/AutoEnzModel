@@ -1,0 +1,81 @@
+ENTRY       YAL058W           CDS       T00005
+NAME        CNE1, FUN48
+DEFINITION  (RefSeq) calnexin
+ORTHOLOGY   K08054  calnexin
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04141  Protein processing in endoplasmic reticulum
+            sce04145  Phagosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YAL058W (CNE1)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04145 Phagosome
+                YAL058W (CNE1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:sce03110]
+                YAL058W (CNE1)
+               04131 Membrane trafficking [BR:sce04131]
+                YAL058W (CNE1)
+              09183 Protein families: signaling and cellular processes
+               04091 Lectins [BR:sce04091]
+                YAL058W (CNE1)
+            Chaperones and folding catalysts [BR:sce03110]
+             Other chaperones and cochaperones
+              Calnexin / calreticulin
+               YAL058W (CNE1)
+            Membrane trafficking [BR:sce04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Others
+                YAL058W (CNE1)
+            Lectins [BR:sce04091]
+             Calnexin / calreticulin
+              YAL058W (CNE1)
+POSITION    I:37464..38972
+MOTIF       Pfam: Calreticulin
+DBLINKS     NCBI-GeneID: 851241
+            NCBI-ProteinID: NP_009343
+            SGD: S000000054
+            UniProt: P27825
+AASEQ       502
+            MKFSAYLWWLFLNLALVKGTSLLSNVTLAEDSFWEHFQAYTNTKHLNQEWITSEAVNNEG
+            SKIYGAQWRLSQGRLQGSAWDKGIAVRTGNAAAMIGHLLETPINVSETDTLVVQYEIKLD
+            NSLTCGGAFIKLMSGFMNVEALKHYAPDTEGVELVFGPDYCAPEINGVQFAINKVDKITH
+            ESKLRYLQEMPLSKLTDTSQSHLYTLIIDESAQSFQILIDGKTVMVREHIEDKKKVNFEP
+            PITPPLMIPDVSVAKPHDWDDRIRIPDPEAVKLSDRDERDPLMIPHPDGTEPPEWNSSIP
+            EYILDPNAQKPSWWKELEHGEWIPPMIKNPLCTAERGCGQQIPGLINNAKYKGPGELNEI
+            INPNYMGEWHPPEIENPLYYEEQHPLRIENVISGVILEFWSGSPNMLISNIYVGKNVTEA
+            QIIGNKTWLMRDRAFRGSDGPTERKFMNSRLGNLQTTFHNERESPNPFDRIIDRILEQPL
+            KFVLTAAVVLLTTSVLCCVVFT
+NTSEQ       1509
+            atgaaattttctgcgtatttatggtggctgtttttgaatctagcgttggtgaaaggcact
+            tcattgctatccaacgttacattagcggaagattctttctgggagcattttcaggcttac
+            actaatacaaagcatttaaaccaagagtggatcacaagtgaagccgtcaacaatgaaggc
+            tctaaaatatatggtgcacaatggcgactatcacagggtcgattgcaaggatccgcatgg
+            gataaaggaatcgcagttcgaacaggcaatgccgcagctatgataggacatctcttggag
+            acacctattaatgtttcagaaacggataccttggttgtccagtacgaaattaagttggac
+            aattctttgacgtgcggcggtgcgtttattaagttaatgtctggtttcatgaatgttgaa
+            gcattaaaacactatgcacccgatacagagggtgtcgagttagtttttggtccggattat
+            tgtgctcctgaaataaatggcgtgcaatttgccatcaataaggttgacaagatcacacat
+            gaatctaaactaagatatttgcaagagatgcccctgtcaaaattaactgatacctcgcaa
+            tctcatctgtatacgctcataatagatgaatcagcgcagtcttttcaaattcttatagac
+            ggtaagacggttatggtaagagaacatatcgaagacaagaaaaaggtcaattttgagcca
+            cccattacaccgcctttaatgattcctgatgtttcagtagcgaaaccgcatgattgggat
+            gatcgcatccgaatcccagatcctgaggcggtgaagctcagtgatcgggatgaacgagac
+            ccattgatgattccacatccagatggcactgaaccaccagaatggaacagctccatcccc
+            gaatacattcttgacccaaatgctcaaaagccctcgtggtggaaggaacttgagcacggg
+            gaatggataccgcccatgattaaaaatcctctttgcactgcagaacgtggttgtggccag
+            cagataccagggctgataaataatgccaagtacaaaggtccaggcgaactcaatgaaatc
+            ataaatcccaattacatgggggaatggcatccaccggaaattgaaaacccgctatactac
+            gaagagcagcacccattgcgcatcgaaaacgttatcagtggtgtgatcctcgagttttgg
+            agtggatctccaaacatgttgataagcaacatttatgttggtaaaaatgtaacagaggcg
+            caaattattgggaataagacttggctgatgagagaccgcgcgtttagaggctccgatggc
+            cccacagaacgcaaattcatgaatagcagactaggaaatctacaaacaactttccataac
+            gaaagagaatcccctaatccatttgaccgcattatagatcgcatattagagcaacctctg
+            aaatttgtgcttactgcggccgtcgtgctcttgacgacgtcggttctttgttgtgtagta
+            tttacatag
+///

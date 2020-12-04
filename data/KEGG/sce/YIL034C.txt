@@ -1,0 +1,64 @@
+ENTRY       YIL034C           CDS       T00005
+NAME        CAP2
+DEFINITION  (RefSeq) F-actin-capping protein subunit beta
+ORTHOLOGY   K10365  capping protein (actin filament) muscle Z-line, beta
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04144  Endocytosis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04144 Endocytosis
+                YIL034C (CAP2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YIL034C (CAP2)
+              09183 Protein families: signaling and cellular processes
+               04812 Cytoskeleton proteins [BR:sce04812]
+                YIL034C (CAP2)
+               04147 Exosome [BR:sce04147]
+                YIL034C (CAP2)
+            Membrane trafficking [BR:sce04131]
+             Protein recycling
+              Others
+               WASH complex
+                YIL034C (CAP2)
+            Cytoskeleton proteins [BR:sce04812]
+             Eukaryotic cytoskeleton proteins
+              Actin filaments / Microfilaments
+               Actin-binding proteins
+                Capping proteins
+                 YIL034C (CAP2)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YIL034C (CAP2)
+POSITION    IX:complement(289226..290089)
+MOTIF       Pfam: F_actin_cap_B
+DBLINKS     NCBI-GeneID: 854777
+            NCBI-ProteinID: NP_012230
+            SGD: S000001296
+            UniProt: P13517
+AASEQ       287
+            MSDAQFDAALDLLRRLNPTTLQENLNNLIELQPNLAQDLLSSVDVPLSTQKDSADSNREY
+            LCCDYNRDIDSFRSPWSNTYYPELSPKDLQDSPFPSAPLRKLEILANDSFDVYRDLYYEG
+            GISSVYLWDLNEEDFNGHDFAGVVLFKKNQSDHSNWDSIHVFEVTTSPSSPDSFNYRVTT
+            TIILHLDKTKTDQNSHMMLSGNLTRQTEKDIAIDMSRPLDVIFTSHVANLGSLIEDIESQ
+            MRNLLETVYFEKTRDIFHQTKNAAIASSAEEANKDAQAEVIRGLQSL
+NTSEQ       864
+            atgtctgatgctcaattcgatgctgctttagatcttcttaggaggctaaatcctaccacg
+            ttacaggagaatctaaacaacttgatcgaattacaaccaaatttggcacaagatttacta
+            tcttcagtagacgttcccctatccacacagaaagattccgccgattcaaaccgggagtac
+            ttatgctgcgactataatcgtgatattgattcgttcagatcgccttggtcgaacacttat
+            tacccagaactatccccaaaggatctacaagacagcccctttccctcagcccctttaaga
+            aaattggagatcttagccaatgactctttcgacgtttacagagatctctattatgaaggc
+            ggtatctccagcgtgtacctctgggacctcaatgaagaagatttcaatgggcacgatttt
+            gcaggggtagtgcttttcaaaaaaaaccaatcagatcacagtaattgggacagtatccat
+            gtttttgaagttacaacatctccttcttctcccgacagtttcaactatagagtcaccact
+            acaatcattctgcacttggacaaaacaaaaactgaccagaattctcatatgatgttatcc
+            gggaacctgacaagacagaccgaaaaggacatcgctattgatatgtcccgtccattagat
+            gttattttcacatcacatgtcgctaatttgggttccttaattgaggacattgagtctcag
+            atgagaaatctattggaaactgtttatttcgaaaagacaagagatatcttccaccaaaca
+            aagaacgcagccattgcttcctctgctgaggaagcgaataaagacgcacaggcagaggta
+            atcagaggtttacagtctttatag
+///

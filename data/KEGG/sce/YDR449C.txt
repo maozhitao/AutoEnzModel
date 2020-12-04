@@ -1,0 +1,61 @@
+ENTRY       YDR449C           CDS       T00005
+NAME        UTP6
+DEFINITION  (RefSeq) snoRNA-binding rRNA-processing protein UTP6
+ORTHOLOGY   K14557  U3 small nucleolar RNA-associated protein 6
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03008 Ribosome biogenesis in eukaryotes
+                YDR449C (UTP6)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YDR449C (UTP6)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              90S particles
+               U3 small nucleolar RNA-associated proteins
+                YDR449C (UTP6)
+POSITION    IV:complement(1357580..1358902)
+MOTIF       Pfam: U3_assoc_6 TPR_14 NRDE-2 DUF2250 HAT
+DBLINKS     NCBI-GeneID: 852060
+            NCBI-ProteinID: NP_010737
+            SGD: S000002857
+            UniProt: Q02354
+STRUCTURE   PDB: 6ND4
+AASEQ       440
+            MSKTRYYLEQCIPEMDDLVEKGLFTKNEVSLIMKKRTDFEHRLNSRGSSINDYIKYINYE
+            SNVNKLRAKRCKRILQVKKTNSLSDWSIQQRIGFIYQRGTNKFPQDLKFWAMYLNYMKAR
+            GNQTSYKKIHNIYNQLLKLHPTNVDIWISCAKYEYEVHANFKSCRNIFQNGLRFNPDVPK
+            LWYEYVKFELNFITKLINRRKVMGLINEREQELDMQNEQKNNQAPDEEKSHLQVPSTGDS
+            MKDKLNELPEADISVLGNAETNPALRGDIALTIFDVCMKTLGKHYINKHKGYYAISDSKM
+            NIELNKETLNYLFSESLRYIKLFDEFLDLERDYLINHVLQFWKNDMYDLSLRKDLPELYL
+            KTVMIDITLNIRYMPVEKLDIDQLQLSVKKYFAYISKLDSASVKSLKNEYRSYLQDNYLK
+            KMNAEDDPRYKILDLIISKL
+NTSEQ       1323
+            atgtcgaagacaagatactatttggaacaatgtattcctgaaatggatgacttggtggag
+            aaaggactattcactaaaaatgaagtttcattaattatgaagaaaagaactgattttgag
+            catagattaaattccagagggtctagcataaatgactatataaaatacattaactatgaa
+            agtaacgtcaataaattacgtgccaagcggtgtaagagaatcttacaggttaaaaagacg
+            aacagtctatctgattggtctattcaacaaagaataggttttatttatcaaagaggaacg
+            aacaaatttccacaagatttaaagttttgggcaatgtatttgaactacatgaaagcgaga
+            ggtaaccaaacatcatacaaaaaaattcacaacatttataatcagcttctaaagttgcac
+            ccaacgaatgtggacatttggattagttgtgcgaaatacgaatatgaagttcatgctaac
+            ttcaagagttgtagaaatatttttcagaatgggttgaggtttaaccctgatgtgcctaag
+            ctatggtatgaatatgtaaaattcgagctgaatttcatcactaagttgattaacagaaga
+            aaagtgatgggtttaatcaatgaaagagagcaggagctcgacatgcaaaatgaacaaaag
+            aataaccaagcccccgacgaagaaaaatctcatttacaagttccatccactggtgattca
+            atgaaagataaattaaacgagttaccagaggcagacatcagcgtactaggtaatgcagag
+            accaacccagcattacgcggtgacattgcattaactattttcgatgtgtgtatgaagact
+            ttgggcaagcattatattaataagcataagggttactatgccatctcagattccaaaatg
+            aatattgaactaaataaggagaccttgaattacctattcagtgagtcactaaggtatatt
+            aaactatttgatgaatttttagacttggaaagagactatcttatcaatcacgtgttgcag
+            ttttggaaaaatgacatgtatgacctttcgctccgtaaggatctaccagaattgtatttg
+            aaaacagtaatgattgacatcactctaaatatcagatatatgccagttgagaaactcgat
+            attgatcaattacaattgtctgttaagaagtattttgcatatatatcgaaattggatagc
+            gcatcggtgaagtcattgaaaaatgagtatcgttcatatttacaagacaattatttgaaa
+            aagatgaatgcagaagatgatcctaggtataaaattctagatttaattatcagcaaactt
+            taa
+///

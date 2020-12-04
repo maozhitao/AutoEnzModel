@@ -1,0 +1,65 @@
+ENTRY       YER078C           CDS       T00005
+NAME        ICP55
+DEFINITION  (RefSeq) aminopeptidase
+ORTHOLOGY   K18573  intermediate cleaving peptidase 55 [EC:3.4.11.26]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YER078C (ICP55)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.11  Aminopeptidases
+                3.4.11.26  intermediate cleaving peptidase 55
+                 YER078C (ICP55)
+            Peptidases and inhibitors [BR:sce01002]
+             Metallo peptidases
+              Family M24
+               YER078C (ICP55)
+POSITION    V:complement(316807..318342)
+MOTIF       Pfam: Peptidase_M24 AMP_N
+DBLINKS     NCBI-GeneID: 856811
+            NCBI-ProteinID: NP_011001
+            SGD: S000000880
+            UniProt: P40051
+STRUCTURE   PDB: 6A9T 6A9U 6A9V
+AASEQ       511
+            MLHRINPVRFSMQSCQRYFSKLVSPLEQHKSNTFTNRVRIPIEAGQPLHETRPFLIKSGE
+            LTPGISALEYYERRIRLAETLPPKSCVILAGNDIQFASGAVFYPFQQENDLFYLSGWNEP
+            NSVMILEKPTDSLSDTIFHMLVPPKDAFAEKWEGFRSGVYGVQEIFNADESASINDLSKY
+            LPKIINRNDFIYFDMLSTSNPSSSNFKHIKSLLDGSGNSNRSLNSIANKTIKPISKRIAE
+            FRKIKSPQELRIMRRAGQISGRSFNQAFAKRFRNERTLDSFLHYKFISGGCDKDAYIPVV
+            ATGSNSLCIHYTRNDDVMFDDEMVLVDAAGSLGGYCADISRTWPNSGKFTDAQRDLYEAV
+            LNVQRDCIKLCKASNNYSLHDIHEKSITLMKQELKNLGIDKVSGWNVEKLYPHYIGHNLG
+            LDVHDVPKVSRYEPLKVGQVITIEPGLYIPNEESFPSYFRNVGIRIEDDIAIGEDTYTNL
+            TVEAVKEIDDLENVMQNGLSTKFEEDQVAPL
+NTSEQ       1536
+            atgttacataggataaacccagtacggttttctatgcaatcttgccaaagatacttctcg
+            aagttggtatcgccattggaacagcataaaagtaatacttttactaatagagtcagaatc
+            cccattgaggcaggccaaccactgcatgagacaaggccgttccttataaagtcgggcgag
+            ttgacaccaggcatttcagccttggaatactatgaaagaagaattaggttggcggaaaca
+            ttgcctcccaaaagttgtgtgattttagctggtaacgatatccaatttgcatctggagca
+            gtattttatccgttccaacaggaaaatgacctgttttatcttagtggttggaatgaacct
+            aattcggtcatgattttagaaaagccaacggatagtttaagtgatacaattttccacatg
+            ctggttccgccaaaggatgcgtttgctgaaaagtgggaaggatttaggtctggggtttat
+            ggtgttcaagaaattttcaatgccgatgaatctgcttccattaacgatttgtctaaatat
+            ttgcccaaaataattaacaggaatgatttcatctattttgatatgctatcaacttctaat
+            cccagttcgtccaattttaaacacatcaagagcctgttagatggcagtgggaatagcaat
+            cgatcattgaattccattgcgaataagaccatcaaacccatcagtaaaagaattgcagag
+            ttccgtaagatcaagtcccctcaagagttgagaattatgaggagagctggccaaatatca
+            ggaagatcgttcaatcaagcctttgctaaaagatttaggaatgagagaactttagattcc
+            tttcttcattacaagtttatatccggtggttgcgataaggacgcatatatccccgtggtc
+            gctactggttcgaattctttgtgtatccattacacaagaaacgatgatgtgatgtttgac
+            gacgaaatggttcttgtagacgctgctggctccttgggtggttattgtgctgatatttcg
+            agaacgtggcccaatagtgggaaattcactgatgcacaaagagatctctacgaagctgta
+            ttaaatgttcagcgtgattgcattaagttatgtaaagctagcaataactattccctccac
+            gacatccatgaaaagagtatcacactcatgaaacaggaattgaaaaacttgggcatagat
+            aaagtctccggttggaatgttgaaaaattgtatccgcactatattggacacaatttaggt
+            ctagatgttcacgatgtgcctaaagtttccaggtacgaaccattaaaggttggacaagtt
+            attactattgaaccgggtttatatattcctaacgaggaatcatttccatcttactttaga
+            aacgtcggaataagaattgaagatgacatagccattggtgaagatacttacactaattta
+            actgttgaagcagtgaaagaaattgacgatttagaaaatgtcatgcaaaatggcttatct
+            acaaaattcgaggaggaccaagtggcaccactgtaa
+///

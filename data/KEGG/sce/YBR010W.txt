@@ -1,0 +1,42 @@
+ENTRY       YBR010W           CDS       T00005
+NAME        HHT1, BUR5, SIN2
+DEFINITION  (RefSeq) histone H3
+ORTHOLOGY   K11253  histone H3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YBR010W (HHT1)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YBR010W (HHT1)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Nucleosome assembly factors
+               Histones
+                YBR010W (HHT1)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YBR010W (HHT1)
+POSITION    II:256331..256741
+MOTIF       Pfam: Histone CENP-S CENP-T_C PAF CBFD_NFYB_HMF
+DBLINKS     NCBI-GeneID: 852295
+            NCBI-ProteinID: NP_009564
+            SGD: S000000214
+            UniProt: P61830
+STRUCTURE   PDB: 4JJN 1ID3 4KUD 5ZBA 6GEN 6GEJ 5ZBB
+AASEQ       136
+            MARTKQTARKSTGGKAPRKQLASKAARKSAPSTGGVKKPHRYKPGTVALREIRRFQKSTE
+            LLIRKLPFQRLVREIAQDFKTDLRFQSSAIGALQESVEAYLVSLFEDTNLAAIHAKRVTI
+            QKKDIKLARRLRGERS
+NTSEQ       411
+            atggccagaacaaagcaaacagcaagaaagtccactggtggtaaggccccaagaaagcaa
+            ttagcttctaaggctgccagaaaatccgccccatctaccggtggtgttaagaagcctcac
+            agatataagccaggtactgttgctttgagagaaatcagaagattccaaaaatctactgaa
+            ctgttgatcagaaagttgcctttccaaagattggtcagagaaatcgctcaagatttcaag
+            accgacttgagatttcaatcttctgccatcggtgccttgcaagaatctgtcgaagcctac
+            ttagtctctttatttgaagataccaacttggctgccattcacgccaagcgtgtcactatc
+            caaaagaaggatatcaagttggctagaagattaagaggtgaaagatcatag
+///

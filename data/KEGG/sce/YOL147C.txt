@@ -1,0 +1,44 @@
+ENTRY       YOL147C           CDS       T00005
+NAME        PEX11, PMP24, PMP27
+DEFINITION  (RefSeq) Pex11p
+ORTHOLOGY   K13352  peroxin-11B
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04146  Peroxisome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04146 Peroxisome
+                YOL147C (PEX11)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YOL147C (PEX11)
+            Transporters [BR:sce02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               YOL147C (PEX11)
+POSITION    XV:complement(47933..48643)
+MOTIF       Pfam: PEX11 SIP1
+DBLINKS     NCBI-GeneID: 854018
+            NCBI-ProteinID: NP_014494
+            SGD: S000005507
+            UniProt: Q12462
+AASEQ       236
+            MVCDTLVYHPSVTRFVKFLDGSAGREKVLRLLQYLARFLAVQNSSLLARQLQAQFTTVRK
+            FLRFLKPLNHLQAAAKFYDNKLASDNVVRVCNVLKNIFFAAYLSLDQVNLLRILKVIPVT
+            VLTGKKIPRWSNWCWLFGLLSGLAMDLRKIQTSHAQIAAFVKAKSQSQGDEHEDHKKVLG
+            KAYQDRYTALRRLFWDAADSFIVLNNLGYLSSNEEYVALSGVVTSILGMQDMWKAT
+NTSEQ       711
+            atggtctgtgatacactggtatatcatccctccgtgacgagattcgtcaaatttctagat
+            ggctcagctggcagagaaaaggttctcagattactgcagtatttagcaagatttttagca
+            gtacagaactcatctctcttggccaggcaattacaagctcaatttaccacagtcagaaaa
+            tttctgaggtttctgaagcctttaaaccacttgcaggcagctgctaaattctacgataac
+            aagttggccagcgacaacgtcgttagagtctgcaatgttttgaaaaacatcttctttgct
+            gcatatttgtcgttagatcaagtcaatcttttgagaattttgaaagtgattcctgtaacc
+            gttcttaccggtaagaaaatacctcgctggtccaattggtgttggctgttcggcctccta
+            agtggtctggctatggatcttcgtaagatccaaacatctcatgcccagattgctgcgttt
+            gtcaaggcaaaatcacaaagccaaggcgatgagcatgaggatcacaagaaggtactaggg
+            aaggcataccaagacaggtacaccgcgttaagaagactattctgggatgctgcagattcg
+            ttcatcgtcctcaacaacctagggtacttgtctagcaacgaagagtatgttgcgctatcc
+            ggtgttgtcacatctatccttggtatgcaagacatgtggaaagctacatag
+///

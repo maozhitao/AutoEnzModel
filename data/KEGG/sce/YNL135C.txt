@@ -1,0 +1,39 @@
+ENTRY       YNL135C           CDS       T00005
+NAME        FPR1, FKB1, RBP1
+DEFINITION  (RefSeq) peptidylprolyl isomerase FPR1
+ORTHOLOGY   K09568  FK506-binding protein 1 [EC:5.2.1.8]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:sce03110]
+                YNL135C (FPR1)
+            Enzymes [BR:sce01000]
+             5. Isomerases
+              5.2  cis-trans-Isomerases
+               5.2.1  cis-trans Isomerases (only sub-subclass identified to date)
+                5.2.1.8  peptidylprolyl isomerase
+                 YNL135C (FPR1)
+            Chaperones and folding catalysts [BR:sce03110]
+             Protein folding catalysts
+              Peptidyl prolyl isomerase
+               FKBP
+                YNL135C (FPR1)
+POSITION    XIV:complement(371882..372226)
+MOTIF       Pfam: FKBP_C
+DBLINKS     NCBI-GeneID: 855587
+            NCBI-ProteinID: NP_014264
+            SGD: S000005079
+            UniProt: P20081
+STRUCTURE   PDB: 1YAT
+AASEQ       114
+            MSEVIEGNVKIDRISPGDGATFPKTGDLVTIHYTGTLENGQKFDSSVDRGSPFQCNIGVG
+            QVIKGWDVGIPKLSVGEKARLTIPGPYAYGPRGFPGLIPPNSTLVFDVELLKVN
+NTSEQ       345
+            atgtctgaagtaattgaaggtaacgtcaaaattgacagaatttccccaggtgatggtgcc
+            accttcccaaagacaggtgacttggttaccattcattacaccggtaccttggagaacggc
+            caaaaattcgattcctccgttgacaggggctctccattccaatgtaacatcggtgtcggc
+            caagtcatcaagggttgggatgttggtattccaaagttgtctgttggtgaaaaagctagg
+            ttaaccatccctggcccatatgcttatggcccacgtggtttcccaggtttgattccacca
+            aacagtactttggttttcgacgtcgaattgttgaaggtcaactaa
+///

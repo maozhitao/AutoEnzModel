@@ -1,0 +1,43 @@
+ENTRY       YBR189W           CDS       T00005
+NAME        RPS9B, RPS13A, SUP46
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S9B
+ORTHOLOGY   K02997  small subunit ribosomal protein S9e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YBR189W (RPS9B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YBR189W (RPS9B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YBR189W (RPS9B)
+POSITION    II:join(604508..604514,604928..605508)
+MOTIF       Pfam: S4
+DBLINKS     NCBI-GeneID: 852487
+            NCBI-ProteinID: NP_009748
+            SGD: S000000393
+            UniProt: P05755
+AASEQ       195
+            MPRAPRTYSKTYSTPKRPYESSRLDAELKLAGEFGLKNKREIYRISFQLSKIRRAARDLL
+            TRDEKDPKRLFEGNALIRRLVRVGVLSEDKKKLDYVLALKVEDFLERRLQTQVYKLGLAK
+            SVHHARVLITQRHIAVGKQIVNIPSFMVRLDSEKHIDFAPTSPFGGARPGRVARRNAARK
+            AEASGEAAEEAEDEE
+NTSEQ       588
+            atgccaagagctccaagaacttactctaagacttactctacaccaaagagaccttacgaa
+            tcttctcgtttggacgcagaattgaagttggccggtgaattcggtttgaagaacaagaga
+            gaaatttacagaatttctttccaattgtctaaaattcgtcgtgctgccagagacttgtta
+            actagagacgaaaaggacccaaagagattgttcgaaggtaatgccttgatcagaagattg
+            gttagagttggtgtcttgtccgaagacaagaagaagttggattatgttttggctttgaag
+            gttgaagatttcttggaaagaagattgcaaactcaagtctacaagttgggtttggccaag
+            tctgtccaccacgccagagttttaatcactcaaagacacattgctgttggtaagcaaatc
+            gtcaacatcccatctttcatggtcagattggactctgaaaagcacattgacttcgctcca
+            acttctccattcggtggtgctagaccaggtagagttgctagaagaaacgctgctagaaag
+            gctgaagcttccggtgaagctgctgaagaagccgaagacgaagaataa
+///

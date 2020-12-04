@@ -1,0 +1,70 @@
+ENTRY       YLR163C           CDS       T00005
+NAME        MAS1, MIF1
+DEFINITION  (RefSeq) mitochondrial processing peptidase
+ORTHOLOGY   K17732  mitochondrial-processing peptidase subunit beta [EC:3.4.24.64]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YLR163C (MAS1)
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YLR163C (MAS1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.64  mitochondrial processing peptidase
+                 YLR163C (MAS1)
+            Peptidases and inhibitors [BR:sce01002]
+             Metallo peptidases
+              Family M16: pitrilysin family
+               YLR163C (MAS1)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Matrix
+               Other matrix factors
+                YLR163C (MAS1)
+POSITION    XII:complement(491866..493254)
+MOTIF       Pfam: Peptidase_M16 Peptidase_M16_C M16C_assoc
+DBLINKS     NCBI-GeneID: 850860
+            NCBI-ProteinID: NP_013264
+            SGD: S000004153
+            UniProt: P10507
+STRUCTURE   PDB: 1HR6 1HR7 1HR8 1HR9
+AASEQ       462
+            MFSRTASKFRNTRRLLSTISSQIPGTRTSKLPNGLTIATEYIPNTSSATVGIFVDAGSRA
+            ENVKNNGTAHFLEHLAFKGTQNRSQQGIELEIENIGSHLNAYTSRENTVYYAKSLQEDIP
+            KAVDILSDILTKSVLDNSAIERERDVIIRESEEVDKMYDEVVFDHLHEITYKDQPLGRTI
+            LGPIKNIKSITRTDLKDYITKNYKGDRMVLAGAGAVDHEKLVQYAQKYFGHVPKSESPVP
+            LGSPRGPLPVFCRGERFIKENTLPTTHIAIALEGVSWSAPDYFVALATQAIVGNWDRAIG
+            TGTNSPSPLAVAASQNGSLANSYMSFSTSYADSGLWGMYIVTDSNEHNVQLIVNEILKEW
+            KRIKSGKISDAEVNRAKAQLKAALLLSLDGSTAIVEDIGRQVVTTGKRLSPEEVFEQVDK
+            ITKDDIIMWANYRLQNKPVSMVALGNTSTVPNVSYIEEKLNQ
+NTSEQ       1389
+            atgttttcaagaacagcatccaagttccgtaatacacggaggcttttaagtacaatttcc
+            tcacaaattccaggaaccagaacctctaaacttcctaatgggttgacaattgccacagag
+            tacatccccaacacatcttcggctactgttggaatatttgtcgatgctggttctagggca
+            gaaaacgtaaaaaacaatggtacagcgcattttctagaacacttggctttcaagggtact
+            cagaataggtcacaacaaggaattgaattggaaattgaaaatatcggatctcatttgaat
+            gcatatacatcaagagaaaacacagtttattatgctaagtccctacaagaagatatccca
+            aaggctgttgatattctaagtgatattttgactaagtcagttttagataatagtgctatt
+            gagagagaaagggatgtcatcatcagagaaagtgaagaggtggacaagatgtatgatgaa
+            gttgtttttgaccatcttcatgagattacgtataaggaccaacctttaggaagaaccatt
+            ctgggtcctataaaaaacataaaatcaataacaagaactgatttgaaagactatataacc
+            aagaactataaaggcgacagaatggtattggcaggtgcgggcgctgttgatcatgaaaaa
+            ttggtacagtatgctcaaaaatactttggccatgtgcccaaatctgaatcgcctgtcccg
+            ttgggatcaccaaggggcccattaccagttttttgtagaggtgaaaggtttatcaaagaa
+            aacacgttacctacaacacatattgctatcgcattagaaggcgtgtcatggtctgcacct
+            gattattttgtagctctggcaacacaagcgattgttggtaactgggacagagccattggc
+            acaggtacaaactccccctctccattagctgttgcagcaagtcaaaatggttctttggct
+            aattcttatatgtcattttccacctcttacgctgattcaggtctgtggggaatgtacata
+            gtaactgattctaatgagcataacgtgcagttaattgttaatgagatcctgaaagagtgg
+            aagagaataaaatctggcaaaatatcggatgcagaggtgaatagggcaaaagctcagcta
+            aaggcagctctgttgctatcgttggatggatcgacagccattgtagaagatataggcaga
+            caagtggtgaccacaggtaaaagattatcaccagaagaagttttcgagcaggttgataaa
+            atcactaaggatgatattattatgtgggcaaattacagattacaaaacaaaccagtttca
+            atggttgccctaggaaatacatccactgtccctaatgtatcctatatcgaagaaaaactg
+            aaccaatga
+///

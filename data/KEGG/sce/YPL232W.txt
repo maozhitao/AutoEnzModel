@@ -1,0 +1,59 @@
+ENTRY       YPL232W           CDS       T00005
+NAME        SSO1
+DEFINITION  (RefSeq) syntaxin
+ORTHOLOGY   K08486  syntaxin 1B/2/3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04130  SNARE interactions in vesicular transport
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04130 SNARE interactions in vesicular transport
+                YPL232W (SSO1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YPL232W (SSO1)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YPL232W (SSO1)
+            Membrane trafficking [BR:sce04131]
+             SNARE
+              Syntaxin (Qa)
+               Stx-PM
+                YPL232W (SSO1)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of epithelial cells
+               YPL232W (SSO1)
+              Exosomal proteins of other body fluids (saliva and urine)
+               YPL232W (SSO1)
+POSITION    XVI:107275..108147
+MOTIF       Pfam: Syntaxin SNARE Synaptobrevin SLATT_5 AATase DUF2207 Pox_EPC_I2-L1 Allexi_40kDa
+DBLINKS     NCBI-GeneID: 855844
+            NCBI-ProteinID: NP_015092
+            SGD: S000006153
+            UniProt: P32867
+STRUCTURE   PDB: 3B5N 1FIO
+AASEQ       290
+            MSYNNPYQLETPFEESYELDEGSSAIGAEGHDFVGFMNKISQINRDLDKYDHTINQVDSL
+            HKRLLTEVNEEQASHLRHSLDNFVAQATDLQFKLKNEIKSAQRDGIHDTNKQAQAENSRQ
+            RFLKLIQDYRIVDSNYKEENKEQAKRQYMIIQPEATEDEVEAAISDVGGQQIFSQALLNA
+            NRRGEAKTALAEVQARHQELLKLEKSMAELTQLFNDMEELVIEQQENVDVIDKNVEDAQL
+            DVEQGVGHTDKAVKSARKARKNKIRCWLIVFAIIVVVVVVVVVPAVVKTR
+NTSEQ       873
+            atgagttataataatccgtaccagttggaaaccccttttgaagagtcatacgagttggac
+            gaaggttcgagcgctatcggtgctgaaggccacgatttcgtgggcttcatgaataagatc
+            agtcaaatcaatcgcgatctcgataagtacgaccataccatcaaccaggtcgattctttg
+            cataagaggctactgaccgaagttaatgaggagcaagcaagtcacttaaggcactccctg
+            gacaacttcgtcgcacaagccacggacttgcagttcaaactgaaaaatgagattaaaagt
+            gcccaaagggatgggatacatgacaccaacaagcaagctcaggcggaaaactccagacaa
+            agatttttgaagcttatccaggactacagaattgtggattccaactacaaggaggagaat
+            aaagagcaagccaagaggcagtatatgatcattcaaccagaggccaccgaagatgaagtt
+            gaagcagccataagcgatgtagggggccagcagatcttctcacaagcattgttgaatgct
+            aacagacgtggggaagccaagactgctcttgcggaagtccaggcaaggcaccaagagtta
+            ttgaaactagaaaaatccatggcagaacttactcaattgtttaatgacatggaagaactg
+            gtaatagaacaacaagaaaacgtagacgtcatcgacaagaacgttgaagacgctcaactc
+            gacgtagaacagggtgtcggtcataccgataaagccgtcaagagtgccagaaaagcaaga
+            aagaacaagattagatgttggttgattgtattcgccatcattgtagtcgttgttgttgtc
+            gttgttgtcccagccgttgtcaaaacgcgttaa
+///

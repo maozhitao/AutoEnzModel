@@ -1,0 +1,65 @@
+ENTRY       YPL129W           CDS       T00005
+NAME        TAF14, ANC1, SWP29, TAF30, TFG3
+DEFINITION  (RefSeq) TATA-binding protein-associated factor TAF14
+ORTHOLOGY   K03140  transcription initiation factor TFIID/TFIIF subunit
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03022  Basal transcription factors
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03022 Basal transcription factors
+                YPL129W (TAF14)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:sce03021]
+                YPL129W (TAF14)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YPL129W (TAF14)
+            Transcription machinery [BR:sce03021]
+             Eukaryotic type
+              RNA polymerase II system
+               Basal transcription factors
+                TFIID
+                 YPL129W (TAF14)
+               Coactivators
+                SWI/SNF complex
+                 YPL129W (TAF14)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Histone modification proteins
+               HAT complexes
+                NuA3 complex
+                 YPL129W (TAF14)
+              Chromatin remodeling factors
+               INO80 complex (yeast)
+                YPL129W (TAF14)
+               SWI/SNF complex
+                YPL129W (TAF14)
+POSITION    XVI:join(305298..305306,305412..306137)
+MOTIF       Pfam: YEATS BET
+DBLINKS     NCBI-GeneID: 855974
+            NCBI-ProteinID: NP_015196
+            SGD: S000006050
+            UniProt: P35189
+STRUCTURE   PDB: 3QRL 6MIQ 6MIO 6MIN 5D7E 6MIP 5IOK 5SVA 2L7E
+AASEQ       244
+            MVATVKRTIRIKTQQHILPEVPPVENFPVRQWSIEIVLLDDEGKEIPATIFDKVIYHLHP
+            TFANPNRTFTDPPFRIEEQGWGGFPLDISVFLLEKAGERKIPHDLNFLQESYEVEHVIQI
+            PLNKPLLTEELAKSGSTEETTANTGTIGKRRTTTNTTAEPKAKRAKTGSASTVKGSVDLE
+            KLAFGLTKLNEDDLVGVVQMVTDNKTPEMNVTNNVEEGEFIIDLYSLPEGLLKSLWDYVK
+            KNTE
+NTSEQ       735
+            atggtagctacagtaaaaagaaccatccgtataaaaacccaacaacacattctgccagaa
+            gtgccaccagtagagaattttcctgttcgtcaatggagtatagaaattgtattattggat
+            gatgaaggaaaagaaattcccgctacaatttttgacaaagttatttaccacttgcaccca
+            actttcgccaatcctaacaggacatttactgacccaccatttagaattgaggaacaaggt
+            tggggtggatttcctttagatataagcgttttcttgttggaaaaagcaggtgagcggaaa
+            ataccacacgatttgaactttctacaagagagttatgaagtggagcacgttatccagatt
+            cctctcaataaaccacttttaacagaagaacttgcgaaaagtggatctactgaagaaacg
+            acggccaatacaggcaccattgggaaaagaaggactaccacgaacacaactgcagaacca
+            aaggcgaagagagctaagacgggcagtgcatctaccgtgaaagggagcgtggacctagaa
+            aaattagcgttcggattgactaaactaaatgaagatgacctggttggtgttgttcaaatg
+            gttaccgacaataaaacaccagaaatgaacgtgacgaataatgttgaagagggtgaattt
+            ataattgacttgtatagtttacctgagggattattgaaaagtctatgggactacgttaag
+            aaaaataccgagtaa
+///

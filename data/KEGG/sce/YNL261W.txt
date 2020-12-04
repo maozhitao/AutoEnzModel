@@ -1,0 +1,74 @@
+ENTRY       YNL261W           CDS       T00005
+NAME        ORC5
+DEFINITION  (RefSeq) origin recognition complex subunit 5
+ORTHOLOGY   K02607  origin recognition complex subunit 5
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04111  Cell cycle - yeast
+            sce04113  Meiosis - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YNL261W (ORC5)
+               04113 Meiosis - yeast
+                YNL261W (ORC5)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01009 Protein phosphatases and associated proteins [BR:sce01009]
+                YNL261W (ORC5)
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YNL261W (ORC5)
+            Protein phosphatases and associated proteins [BR:sce01009]
+             Protein serine/threonine phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 YNL261W (ORC5)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Initiation Factors
+               pre-RC (pre-replication complex)
+                YNL261W (ORC5)
+POSITION    XIV:155100..156539
+MOTIF       Pfam: ORC5_C AAA_22 AAA_16 AAA_19
+DBLINKS     NCBI-GeneID: 855460
+            NCBI-ProteinID: NP_014138
+            SGD: S000005205
+            UniProt: P50874
+STRUCTURE   PDB: 5ZR1 5V8F
+AASEQ       479
+            MNVTTPEVAFREYQTNCLASYISADPDITPSNLILQGYSGTGKTYTLKKYFNANPNLHAV
+            WLEPVELVSWKPLLQAIARTVQYKLKTLYPNIPTTDYDPLQVEEPFLLVKTLHNIFVQYE
+            SLQEKTCLFLILDGFDSLQDLDAALFNKYIKLNELLPKDSKINIKFIYTMLETSFLQRYS
+            THCIPTVMFPRYNVDEVSTILVMSRCGELMEDSCLRKRIIEEQITDCTDDQFQNVAANFI
+            HLIVQAFHSYTGNDIFALNDLIDFKWPKYVSRITKENIFEPLALYKSAIKLFLSTDDNLS
+            ENGQGESAITTNRDDLENSQTYDLSIISKYLLIASYICSYLEPRYDASIFSRKTRIIQGR
+            AAYGRRKKKEVNPRYLQPSLFAIERLLAIFQAIFPIQGKAESGSLSALREESLMKANIEV
+            FQNLSELHTLKLIATTMNKNIDYLSPKVRWKVNVPWEIIKEISESVHFNISDYFSDIHE
+NTSEQ       1440
+            atgaatgtgaccactccggaagttgcttttagggaatatcaaaccaactgtctcgcatcg
+            tatatttctgctgatccagacataactccttcaaatttaatcttgcaaggttatagtgga
+            acaggaaaaacctacactttgaagaagtattttaatgcgaatccaaatttgcatgcagta
+            tggctggaacctgttgagttggtttcttggaagcccttactgcaggcgatagcacgtact
+            gtacaatataaattgaaaaccctatatccaaacattcccaccacagattacgatccttta
+            caggttgaagagccatttcttttggtaaagacgttgcacaatatttttgtccaatatgaa
+            tctttgcaagaaaagacttgcttgttcttgatattggatggtttcgatagtttacaagat
+            ttagacgccgcactgtttaacaaatatatcaaactaaatgaattacttccaaaagattct
+            aaaattaatataaaattcatttacacgatgttagagacatcatttttgcaaagatattct
+            acacattgcattccaactgttatgtttccgaggtataatgtggacgaagtttctactata
+            ttagtgatgtctagatgtggcgaactcatggaagattcttgtctacgtaagcgtatcatt
+            gaagagcagataacggactgtacagacgatcaatttcaaaatgtagctgcgaacttcatt
+            cacttaattgtgcaggcttttcattcttatactggaaacgacatattcgcattgaatgac
+            ttgatagacttcaaatggcccaagtatgtatctcgcattactaaggaaaacatatttgaa
+            ccactggctctttacaaaagtgccatcaaactatttttaagcacagatgataatttaagt
+            gaaaatggacaaggtgaaagcgcgataaccacaaatcgtgatgaccttgagaacagtcaa
+            acttacgacttatcaataatttcgaagtatctgctcatagcctcatatatttgttcatat
+            ctggaacctagatacgatgcgagtattttctctaggaaaacacgtatcatacaaggtaga
+            gctgcttatggacgaagaaagaagaaagaagttaaccctagatatttacagccttcttta
+            tttgctattgaaagacttttggctattttccaagctatattccctattcaaggtaaggcg
+            gagagtggttccctatctgcacttcgtgaggaatccttaatgaaagcgaatatcgaggtt
+            tttcaaaatttatccgaattgcatacattgaaattaatagctacaaccatgaacaagaat
+            atcgactatttgagtcctaaagtcaggtggaaagtaaacgttccctgggaaattattaaa
+            gaaatatcagaatctgttcatttcaatatcagcgattacttcagcgatattcacgaatga
+///

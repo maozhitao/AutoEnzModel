@@ -1,0 +1,56 @@
+ENTRY       YIL042C           CDS       T00005
+NAME        PKP1
+DEFINITION  (RefSeq) protein kinase PKP1
+ORTHOLOGY   K12077  pyruvate dehydrogenase kinase isoform 1 [EC:2.7.11.2]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:sce01001]
+                YIL042C (PKP1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.2  [pyruvate dehydrogenase (acetyl-transferring)] kinase
+                 YIL042C (PKP1)
+            Protein kinases [BR:sce01001]
+             Serine/threonine kinases: Other
+              PDHK family [OT]
+               YIL042C (PKP1)
+POSITION    IX:complement(275108..276292)
+MOTIF       Pfam: BCDHK_Adom3 HATPase_c HATPase_c_3
+DBLINKS     NCBI-GeneID: 854769
+            NCBI-ProteinID: NP_012222
+            SGD: S000001304
+            UniProt: P40530
+AASEQ       394
+            MWKIMRSWKCGGMRWAHRQRPSHELLSQLSFDQHYKIRSNIELLIQDYASKPIAPLNYEY
+            FLQYRPPLTKKEEYMLTIKTINLLLSLTCKRLNAIQRLPYNAVINPHIERTNSLYLKSLQ
+            TLLSIAYPYELHNPPKIQAKFTELLDDHEDAIVVLAKGLQEIQSCYPKFQISQFLNFHLK
+            ERITMKLLVTHYLSLMAQNKGDTNKRMIGILHRDLPIAQLIKHVSDYVNDICFVKFNTQR
+            TPVLIHPPSQDITFTCIPPILEYIMTEVFKNAFEAQIALGKEHMPIEINLLKPDDDELYL
+            RIRDHGGGITPEVEALMFNYSYSTHTQQSADSESTDLPGEQINNVSGMGFGLPMCKTYLE
+            LFGGKIDVQSLLGWGTDVYIKLKGPSKTALLSKK
+NTSEQ       1185
+            atgtggaagattatgcgttcatggaaatgtgggggaatgcgctgggcacatcgccagcga
+            ccctcacacgagctgctgtcgcaactgtcgttcgaccagcattacaagattaggtcgaac
+            attgagctgctgatacaggactacgctagtaaaccaattgcgcccctaaactacgagtat
+            ttcctgcaatacaggccgccgctgaccaagaaggaggagtacatgctgacgatcaagaca
+            atcaacctgttgctttcattgacgtgtaaacggcttaatgccattcagaggctaccgtat
+            aatgcggtaatcaaccctcatattgagagaaccaactctttgtatttgaaaagcttgcaa
+            acgttgctatcaatcgcatacccgtacgagttgcacaatcctcccaagatacaggccaag
+            ttcacagaactgctggacgaccacgaggacgccattgtggtattggcaaaaggtcttcag
+            gaaatccaatcgtgttacccaaagtttcaaatttcgcagttcttgaacttccacctgaag
+            gagagaatcacgatgaagctgcttgtgacgcactatttgtcgttgatggcacagaacaaa
+            ggtgacacgaacaaaaggatgattggaatcttgcaccgggacctccccatagcacaattg
+            atcaagcacgtttctgattatgtcaatgatatatgctttgtgaagttcaacactcagcgg
+            accccggtcctaattcacccgccatcacaagacatcacattcacgtgcattccgcccatt
+            ctggagtatattatgacagaggtattcaagaacgcttttgaagctcagatagctcttgga
+            aaggaacatatgcccatagagatcaatcttttaaagccagacgatgacgagctgtactta
+            cggatacgggaccatggtggtgggatcacgcccgaggtagaggccctcatgttcaactac
+            tcttactctacacatacccaacaatcagctgactctgagtctacagatctgcccggcgag
+            caaatcaacaacgtctccggcatgggctttggtctaccaatgtgcaagacgtacctagaa
+            ctgtttgggggcaagattgacgttcaaagtttacttggctggggcacggacgtgtacatc
+            aagctcaaaggcccttctaagactgcactactctccaaaaagtaa
+///

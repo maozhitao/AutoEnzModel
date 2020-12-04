@@ -1,0 +1,111 @@
+ENTRY       YLR382C           CDS       T00005
+NAME        NAM2, MSL1
+DEFINITION  (RefSeq) leucine--tRNA ligase NAM2
+ORTHOLOGY   K01869  leucyl-tRNA synthetase [EC:6.1.1.4]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                YLR382C (NAM2)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:sce01007]
+                YLR382C (NAM2)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YLR382C (NAM2)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YLR382C (NAM2)
+            Enzymes [BR:sce01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.4  leucine---tRNA ligase
+                 YLR382C (NAM2)
+            Amino acid related enzymes [BR:sce01007]
+             Aminoacyl-tRNA synthetase
+              Class I (U)
+               YLR382C (NAM2)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Multi-aminoacyl-tRNA synthetase complex (MSC)
+                YLR382C (NAM2)
+             Prokaryotic type
+                YLR382C (NAM2)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Other mitochondrial DNA transcription and translation factors
+                YLR382C (NAM2)
+POSITION    XII:complement(882067..884751)
+MOTIF       Pfam: tRNA-synt_1 tRNA-synt_1_2 tRNA-synt_1g Anticodon_1 tRNA-synt_1e tRNA-synt_1d DNA_ligase_ZBD Phage_int_SAM_5
+DBLINKS     NCBI-GeneID: 851098
+            NCBI-ProteinID: NP_013486
+            SGD: S000004374
+            UniProt: P11325
+AASEQ       894
+            MLSRPSSRFLSTKRGPGPAVKKLIAIGEKWKQKTTRGLPKQDTLNSGSKYILCQFPYPSG
+            ALHIGHLRVYVISDSLNRFYKQKGYNVIHPMGWDAFGLPAENAAIERSINPAIWTRDNIA
+            KMKQQMQSMLANFDWDREITTCDPEYYKFTQWIFLKLFENGLAYRKEAEINWDPVDMTVL
+            ANEQVDAQGRSWRSGAIVEKKQLKQWFLGITKFAPKLKKHLNQLKDWPSNVKQMQKNWIG
+            ESVGAELVFKVADPKFENLIVFTTRPETLFAVQYVALALDHPIVQKYCEEMPDLKEFIQK
+            SDQLPNDTKEGFQLPNIKAVNPLTKEEVPIFAAPYVVSSYGSAPSAVMGCPGHDNRDFEF
+            WQTNCPGEHIKTCIAPFFDDASKVTEQERQRIIDTVPFTSTDGVLTKECGEHSGVLTVVA
+            RKSIMGMLNSEGLSKSVVRYKIRDWLISRQRYWGTPIPIIHCDNCGPVPVPESDLPVKLP
+            ELEGLDTKGNPLSTIDEFVNVACPSCGSPAKRETDTMDTFIDSSWYYFRFLDPKNTSKPF
+            DREIASKNMPVDIYIGGVEHAILHLLYSRFIAKFLGSINAWSDPAGIFEPFKKLVTQGMV
+            QGKTYVDPDSGKFLKPDELTFVNDSPDGNTVIIKSNGKVPVVSYEKMSKSKYNGADPNEC
+            ILRHGPDATRAHILFQSPIADALNWDESKIVGIERWLQKVLHLTKNILSLEKDLAISKDY
+            KTPTDLNDAEVKFHNDFQRFLKSITESFEVNLSLNTVISDYMKLTNILESALKKGEVRNE
+            MIVQNLQKLVTVIYPAVPSISEEAAEMINSQMEWNQYRWPEVERTTESKFKKFQIVVNGR
+            VKFMYTADKNFLKLGRDAVIETLMNLPEGRMYLMNKKIKKFVMKFNVISFLFHK
+NTSEQ       2685
+            atgctgtctcgaccttcaagccgattcctatccactaaaaggggccctggacctgcagtg
+            aaaaaattaattgcaattggggagaaatggaaacagaagacaacccgtggcttgcctaag
+            caggatactctgaatagcgggtcgaaatatattctgtgccagtttccatatccttctggg
+            gcgcttcacataggacatctccgagtttatgtcattagcgactctttgaatagattttac
+            aaacaaaaagggtacaacgtgatacatccgatgggatgggatgcttttgggttacctgcc
+            gagaacgctgctatagaaagaagcattaatccggccatatggactagggacaatattgca
+            aaaatgaaacaacaaatgcaaagtatgctggcaaattttgattgggacagagaaataact
+            acatgtgatcccgaatactataaattcacccaatggattttcttaaaactttttgaaaat
+            ggcttagcttatcgtaaagaagcagaaattaattgggatcccgttgatatgacagttttg
+            gctaatgaacaagtggatgcccagggccgttcttggagatcaggggctattgtggaaaag
+            aagcagctaaaacagtggtttttgggaataacgaaattcgctcctaaattgaaaaagcac
+            ttgaaccaactgaaggactggccttccaacgtgaagcaaatgcaaaaaaattggataggc
+            gaatctgtgggtgcagaattagtgttcaaagttgcggaccccaaatttgaaaacttgatt
+            gtctttacaacaagaccggaaactctttttgctgtacagtatgttgctctcgcattagac
+            cacccaattgtacaaaaatactgcgaggaaatgccggatttaaaagagtttatacagaaa
+            agtgatcaattaccaaacgatacgaaggaaggatttcagttacctaacataaaggccgta
+            aatcccttaactaaagaggaagtccccatatttgcagctccatatgtggtcagcagctat
+            ggttcagcacctagtgcagtaatgggttgtccaggacacgataaccgagattttgagttt
+            tggcaaacaaattgtcctggtgaacatatcaagacgtgcatagcacctttttttgacgat
+            gcttcaaaagtaactgaacaggaaagacaaagaataattgatactgtcccgttcacatct
+            actgacggtgtcctaaccaaagaatgcggagaacactcaggagttctcactgtagtggca
+            aggaaatcgataatggggatgttgaatagcgaaggactgtctaagagcgtcgttagatac
+            aaaattagagattggctgataagtagacaaagatactggggtactccaatacccatcatt
+            cactgcgacaactgtggacctgtccccgttccagaaagtgatctacctgtcaagctacca
+            gaacttgaaggcttggatacaaaagggaatccgctgtccacaatcgatgaatttgtaaat
+            gtcgcctgtccttcatgcgggagccctgcgaaaagagaaactgacaccatggatactttt
+            atcgatagttcttggtattatttcagattcttggatcccaaaaacacttcaaaaccattt
+            gatcgtgaaattgcaagtaaaaatatgccggttgatatttatattggtggagtagaacat
+            gctatcttacacttgttatactcaaggtttattgctaaatttctcggatctatcaatgca
+            tggagcgaccctgctggcatcttcgaaccattcaaaaaactggtgacacaaggaatggtt
+            caagggaaaacctatgttgaccccgattctggtaaatttttgaagcctgacgagttaacc
+            tttgtaaatgactctccagatggcaacacagtgattattaaatcaaatggcaaggttccg
+            gtagtctcttatgaaaaaatgtcgaaatctaaatacaatggtgcagatccaaatgaatgt
+            attttaagacatggacctgatgctacgagagcacatatcctcttccaaagtccaattgca
+            gatgccctgaattgggatgaatccaagattgttggtatagaacgttggttgcagaaggtt
+            cttcatttgaccaaaaatattctcagtctcgagaaggatttggcaataagtaaagactac
+            aagaccccgaccgacttaaatgatgcagaagtgaaatttcacaacgatttccaacgcttc
+            ttgaaatcaattacggaatcatttgaagttaatctatcgttaaacactgtaatatctgat
+            tatatgaagctaaccaatattttagaaagtgcattgaaaaaaggtgaagtaaggaatgaa
+            atgatagtacagaatttacaaaagttggtaaccgttatatatcctgctgtcccgtcaatt
+            tcagaagaagctgcagagatgatcaactcccaaatggaatggaaccaataccgctggcca
+            gaagttgagcgcactactgagtccaaattcaaaaagtttcaaattgtggtaaatggcaga
+            gtcaaattcatgtacacggctgacaaaaactttttgaaattaggtagggatgctgttatt
+            gaaactttgatgaacttaccggaagggagaatgtatttgatgaataaaaaaatcaaaaaa
+            tttgtcatgaaattcaatgtgattagtttcttattccacaagtaa
+///

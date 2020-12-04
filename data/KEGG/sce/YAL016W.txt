@@ -1,0 +1,98 @@
+ENTRY       YAL016W           CDS       T00005
+NAME        TPD3, FUN32
+DEFINITION  (RefSeq) protein phosphatase 2A structural subunit TPD3
+ORTHOLOGY   K03456  serine/threonine-protein phosphatase 2A regulatory subunit A
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03015  mRNA surveillance pathway
+            sce04111  Cell cycle - yeast
+            sce04113  Meiosis - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03015 mRNA surveillance pathway
+                YAL016W (TPD3)
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YAL016W (TPD3)
+               04113 Meiosis - yeast
+                YAL016W (TPD3)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01009 Protein phosphatases and associated proteins [BR:sce01009]
+                YAL016W (TPD3)
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YAL016W (TPD3)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YAL016W (TPD3)
+            Protein phosphatases and associated proteins [BR:sce01009]
+             Protein serine/threonine phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-2 (PP2A)
+                Regulatory subunits
+                 YAL016W (TPD3)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               Surveillance factors
+                Protein phosphatase 2A
+                 YAL016W (TPD3)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Centromeric chromatin formation proteins
+               Other centromeric chromatin formation proteins
+                PP2A (protein phosphatase 2A)
+                 YAL016W (TPD3)
+POSITION    I:124879..126786
+MOTIF       Pfam: HEAT HEAT_2 Vac14_Fab1_bd Ecm29 Cnd1
+DBLINKS     NCBI-GeneID: 851217
+            NCBI-ProteinID: NP_009386
+            SGD: S000000014
+            UniProt: P31383
+AASEQ       635
+            MSGARSTTAGAVPSAATTSTTSTTSNSKDSDSNESLYPLALLMDELKHDDIANRVEAMKK
+            LDTIALALGPERTRNELIPFLTEVAQDDEDEVFAVLAEQLGKFVPYIGGPQYATILLPVL
+            EILASAEETLVREKAVDSLNNVAQELSQEQLFSDFVPLIEHLATADWFSSKVSACGLFKS
+            VIVRIKDDSLRKNILALYLQLAQDDTPMVKRAVGKNLPILIDLLTQNLGLSTDEDWDYIS
+            NIFQKIINDNQDSVKFLAVDCLISILKFFNAKGDESHTQDLLNSAVKLIGDEAWRVRYMA
+            ADRFSDLASQFSSNQAYIDELVQPFLNLCEDNEGDVREAVAKQVSGFAKFLNDPSIILNK
+            ILPAVQNLSMDESETVRSALASKITNIVLLLNKDQVINNFLPILLNMLRDEFPDVRLNII
+            ASLKVVNDVIGIELLSDSLLPAITELAKDVNWRVRMAIIEYIPILAEQLGMQFFDQQLSD
+            LCLSWLWDTVYSIREAAVNNLKRLTEIFGSDWCRDEIISRLLKFDLQLLENFVSRFTILS
+            ALTTLVPVVSLDVVTEQLLPFISHLADDGVPNIRFNVAKSYAVIVKVLIKDEAKYDALIK
+            NTILPSLQTLCQDEDVDVKYFAKKSLAECQELLKN
+NTSEQ       1908
+            atgtctggagcaagatcaacaacggcaggtgccgtgccctcggcagcaacaacatcaaca
+            acatcaacaacgtcaaactctaaggactcagactctaacgagtcattatatcccttggct
+            ctgcttatggatgagttaaaacatgatgatattgctaatagggtagaagccatgaaaaaa
+            ctagataccatcgcgttggcactcggtcccgaaagaacaagaaacgagttgattcccttt
+            ttaacggaagttgcacaagatgatgaagatgaggtgtttgccgttttagccgaacagtta
+            ggaaaatttgtcccctacattggcggtcctcaatacgccacaatcctattaccagttttg
+            gaaattttggcatctgcagaagaaactttggttagagaaaaggccgtagattctctgaat
+            aacgtggcccaagaactttctcaagaacaattatttagtgacttcgtccctttaattgaa
+            catttagctactgcagattggttttcttcaaaagtttctgcttgtggtcttttcaagtct
+            gttattgttagaatcaaagatgattcattgagaaagaatatcctggctttatacttacaa
+            ctcgctcaagatgatactccaatggtgaaaagggccgtcggtaaaaacctgcccatcttg
+            atcgatctgttgactcaaaatttgggattatctacagacgaagattgggattacatttct
+            aacattttccagaaaatcattaacgataatcaagattctgtcaagtttctggcagttgat
+            tgtttaatttccatcttgaaattttttaacgctaaaggtgatgagtctcacactcaagat
+            ttattgaactctgctgtcaaattaattggtgacgaagcgtggagggtacgttacatggct
+            gccgatagattttcagatttagcctcgcaattcagttccaaccaagcatatatcgatgaa
+            ttagtacaaccatttttgaacctttgtgaggacaacgagggagatgttagggaagctgtg
+            gctaaacaagtttctgggtttgccaagttcctaaatgatccttcaattatattgaataag
+            atcttacctgctgtgcagaatttgagtatggacgaaagtgaaacagtgagatctgctttg
+            gcttctaagattacaaatattgtattactgttgaataaagatcaagtcattaacaatttt
+            cttccgattttactgaatatgctaagagatgagttccctgacgttcgtttaaatatcatt
+            gccagcttgaaggttgtcaatgacgtaataggaattgagctgctatcagactctttgtta
+            cctgccataacagaattagccaaggacgtgaattggagagttagaatggctataattgag
+            tacatacctatcttggcagaacaattaggtatgcaattttttgaccaacagttaagcgat
+            ttatgtctttcatggttgtgggatactgtttattctatcagagaagccgcagtgaataat
+            ttaaaaaggttaacggaaatatttggctctgattggtgtcgtgatgaaattatttcaaga
+            ctgctcaaatttgatctacaattactggaaaattttgtctcgaggttcacaatactctct
+            gctctaaccactttggtgcccgtggtatcgttagatgtcgttactgagcaactattacca
+            ttcatttctcacttggctgatgacggtgttccaaatattaggtttaatgtggccaaatcc
+            tacgctgtgatagtgaaggttttaattaaggacgaggccaaatatgatgcattaattaag
+            aacacaattttaccctcattgcaaacgctgtgtcaagacgaagatgttgatgtaaaatac
+            ttcgctaagaaaagtttggcagaatgtcaagaacttttaaaaaattga
+///

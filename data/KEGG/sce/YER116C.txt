@@ -1,0 +1,49 @@
+ENTRY       YER116C           CDS       T00005
+NAME        SLX8
+DEFINITION  (RefSeq) SUMO-targeted ubiquitin ligase complex subunit SLX8
+ORTHOLOGY   K22646  E3 ubiquitin-protein ligase complex SLX5-SLX8 subunit SLX8 [EC:2.3.2.27]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YER116C (SLX8)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.27  RING-type E3 ubiquitin transferase
+                 YER116C (SLX8)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               SLX5-SLX8 complex
+                YER116C (SLX8)
+POSITION    V:complement(395348..396172)
+MOTIF       Pfam: zf-C3HC4 zf-C3HC4_3 zf-C3HC4_2 zf-RING_2 zf-RING_UBOX zf-RING_5
+DBLINKS     NCBI-GeneID: 856852
+            NCBI-ProteinID: NP_011041
+            SGD: S000000918
+            UniProt: P40072
+AASEQ       274
+            MARRPDNQNPEGENLRIKRVRLESVRQNDEEEENEVSRTQNIVTDNRHDSPEAVVEIIGE
+            RALENTSEEDGDDDLSLFRALEEDPGSDHNTSNNDSGNHDRETMHTEEPEASSGNNITLT
+            NNVEELHTMDVLSQTANTPSASPMLDAAPPTTKPGTNSKEQTVDLTADAIDLDAEEQQVL
+            QISDDDFQEETKEAPKEYGAAKDYRCPICFEPPETALMTLCGHVFCCPCLFQMVNSSRTC
+            RQFGHCALCRSKVYLKDVRLIILRKKQVKKKVKS
+NTSEQ       825
+            atggcaagaagacctgataaccaaaatccagaaggtgaaaatctacgaatcaaaagggta
+            agactagagtcggtcaggcagaacgatgaggaggaagaaaatgaagtatcgagaacacaa
+            aatatcgtcacagataaccgccatgacagcccagaggccgtagtcgaaatcattggagag
+            cgagctcttgagaatacttctgaggaagatggtgatgatgatttatctctctttagagca
+            cttgaagaagatccaggtagcgaccataacaccagtaacaacgattctgggaatcatgac
+            agggaaacaatgcataccgaagagccagaagcaagttctggtaacaatatcacattaacg
+            aataatgttgaagaattgcacacaatggacgttctttcacaaacagcaaacactccgagt
+            gcttccccgatgcttgacgcagcaccgccgacaacgaaacctggaacaaatagtaaggaa
+            caaactgttgatttaactgcagatgccatagacttagacgctgaagagcaacaagtgttg
+            caaatatcagatgacgactttcaggaggaaaccaaagaagcacccaaagagtatggtgca
+            gccaaggactatcgctgcccgatttgttttgaacctccagagacagccctcatgacgtta
+            tgtgggcacgtcttttgttgtccatgcttatttcaaatggttaatagctcaagaacatgt
+            agacagttcggccattgcgctctttgtagaagtaaagtgtacttaaaggatgtgaggtta
+            attattctaaggaaaaagcaagtcaagaagaaggtaaaaagctag
+///

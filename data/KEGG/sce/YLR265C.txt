@@ -1,0 +1,54 @@
+ENTRY       YLR265C           CDS       T00005
+NAME        NEJ1, LIF2
+DEFINITION  (RefSeq) Nej1p
+ORTHOLOGY   K10983  non-homologous end-joining protein 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03450  Non-homologous end-joining
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03450 Non-homologous end-joining
+                YLR265C (NEJ1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YLR265C (NEJ1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              DSBR (double strand breaks repair)
+               NHEJ (non-homologous end-joining)
+                DNA Ligase 4 complex
+                 YLR265C (NEJ1)
+POSITION    XII:complement(674427..675455)
+MOTIF       Pfam: XLF
+DBLINKS     NCBI-GeneID: 850970
+            NCBI-ProteinID: NP_013367
+            SGD: S000004255
+            UniProt: Q06148
+AASEQ       342
+            MDSELKGQQLSDAEWCVKKINGEGNCLLLFLPMSSPTTIVMIVLVSLERLVPYVFKLSQT
+            QLSQQCQSQGFTDSISLNLIKLKLMDILQAPQEINQIGLVDSNLVFSFDVSADITVSINS
+            VPSHVTKDMFYMILQSLCMLLLKLVNLSTQYHYVQRDILNEKQKCLDFLLISLRDLDGGS
+            KVISQWAPENSKNYESLQQCTDDDIIKKLLHKGKFQHQEFLADSLKTLLSLRNKFQDVSR
+            FEESGELNKKERVRFPAVNHFYNDDFELQADPTNEARPNSRGKIKPKTDFKPKSRESSTS
+            SQLRLENFSESEATPEKTKSSSSLVEEYPQKKRKFGKVRIKN
+NTSEQ       1029
+            atggattctgagttgaaagggcagcagctaagtgatgcagaatggtgtgttaaaaaaatt
+            aatggtgagggaaattgtctcctattatttctaccgatgtcatctccaaccacaattgta
+            atgattgttttagtttccttggagcgcttagttccctacgttttcaaactttcacaaact
+            caattatcacagcaatgccagagccaaggttttacggatagtatatcattaaatctaatt
+            aaactaaaactaatggacattctacaagctcctcaagaaattaaccaaattggattggta
+            gattcaaatttggtttttagtttcgatgtatctgcggatattacagtttccataaatagc
+            gtaccttcacatgttactaaggatatgttctatatgattttgcaaagtttatgcatgctt
+            ttattaaaattggtaaacctttccacccaataccactatgtacaacgggatattttgaat
+            gaaaagcaaaaatgcttagattttcttttaatttctcttcgtgatttagacggtgggagt
+            aaagttatcagtcaatgggctcctgaaaattctaagaattatgaatctctgcagcaatgc
+            acagacgatgacataatcaaaaaattactacataaaggaaaattccagcatcaagaattt
+            ctggcggactcattaaaaacattattatctttaagaaacaaatttcaagatgtgtcgcgg
+            tttgaagaatctggagaacttaacaaaaaagagcgcgtcagatttcctgcggtgaatcat
+            ttttataatgatgattttgaattgcaagcagaccctacaaatgaggctcgaccaaatagc
+            cgcggtaaaattaaaccaaagacagatttcaagccaaaatctagagaaagtagtaccagt
+            tcgcaacttcgcctggagaatttttctgaatctgaggctacaccagaaaaaacaaaatca
+            agttcttctttggtcgaagaatacccacagaaaaaaagaaaatttggaaaggtgagaata
+            aaaaactaa
+///

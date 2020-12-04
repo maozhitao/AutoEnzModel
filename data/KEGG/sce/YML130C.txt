@@ -1,0 +1,66 @@
+ENTRY       YML130C           CDS       T00005
+NAME        ERO1
+DEFINITION  (RefSeq) ER oxidoreductin
+ORTHOLOGY   K10976  ERO1-like protein beta [EC:1.8.4.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04141  Protein processing in endoplasmic reticulum
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YML130C (ERO1)
+            Enzymes [BR:sce01000]
+             1. Oxidoreductases
+              1.8  Acting on a sulfur group of donors
+               1.8.4  With a disulfide as acceptor
+                1.8.4.-  
+                 YML130C (ERO1)
+POSITION    XIII:complement(11483..13174)
+MOTIF       Pfam: ERO1
+DBLINKS     NCBI-GeneID: 854909
+            NCBI-ProteinID: NP_013576
+            SGD: S000004599
+            UniProt: Q03103
+STRUCTURE   PDB: 3M31 1RP4 1RQ1 3NVJ
+AASEQ       563
+            MRLRTAIATLCLTAFTSATSNNSYIATDQTQNAFNDTHFCKVDRNDHVSPSCNVTFNELN
+            AINENIRDDLSALLKSDFFKYFRLDLYKQCSFWDANDGLCLNRACSVDVVEDWDTLPEYW
+            QPEILGSFNNDTMKEADDSDDECKFLDQLCQTSKKPVDIEDTINYCDVNDFNGKNAVLID
+            LTANPERFTGYGGKQAGQIWSTIYQDNCFTIGETGESLAKDAFYRLVSGFHASIGTHLSK
+            EYLNTKTGKWEPNLDLFMARIGNFPDRVTNMYFNYAVVAKALWKIQPYLPEFSFCDLVNK
+            EIKNKMDNVISQLDTKIFNEDLVFANDLSLTLKDEFRSRFKNVTKIMDCVQCDRCRLWGK
+            IQTTGYATALKILFEINDADEFTKQHIVGKLTKYELIALLQTFGRLSESIESVNMFEKMY
+            GKRLNGSENRLSSFFQNNFFNILKEAGKSIRYTIENINSTKEGKKKTNNSQSHVFDDLKM
+            PKAEIVPRPSNGTVNKWKKAWNTEVNNVLEAFRFIYRSYLDLPRNIWELSLMKVYKFWNK
+            FIGVADYVSEETREPISYKLDIQ
+NTSEQ       1692
+            atgagattaagaaccgccattgccacactgtgcctcacggcttttacatctgcaacttca
+            aacaatagctacatcgccaccgaccaaacacaaaatgcctttaatgacactcacttttgt
+            aaggtcgacaggaatgatcacgttagtcccagttgtaacgtaacattcaatgaattaaat
+            gccataaatgaaaacattagagatgatctttcggcgttattaaaatctgatttcttcaaa
+            tactttcggctggatttatacaagcaatgttcattttgggacgccaacgatggtctgtgc
+            ttaaaccgcgcttgctctgttgatgtcgtagaggactgggatacactgcctgagtactgg
+            cagcctgagatcttgggtagtttcaataatgatacaatgaaggaagcggatgatagcgat
+            gacgaatgtaagttcttagatcaactatgtcaaaccagtaaaaaacctgtagatatcgaa
+            gacaccatcaactactgtgatgtaaatgactttaacggtaaaaacgccgttctgattgat
+            ttaacagcaaatccggaacgatttacaggttatggtggtaagcaagctggtcaaatttgg
+            tctactatctaccaagacaactgttttacaattggcgaaactggtgaatcattggccaaa
+            gatgcattttatagacttgtatccggtttccatgcctctatcggtactcacttatcaaag
+            gaatatttgaacacgaaaactggtaaatgggagcccaatctggatttgtttatggcaaga
+            atcgggaactttcctgatagagtgacaaacatgtatttcaattatgctgttgtagctaag
+            gctctctggaaaattcaaccatatttaccagaattttcattctgtgatctagtcaataaa
+            gaaatcaaaaacaaaatggataacgttatttcccagctggacacaaaaatttttaacgaa
+            gacttagtttttgccaacgacctaagtttgactttgaaggacgaattcagatctcgcttc
+            aagaatgtcacgaagattatggattgtgtgcaatgtgatagatgtagattgtggggcaaa
+            attcaaactaccggttacgcaactgccttgaaaattttgtttgaaatcaacgacgctgat
+            gaattcaccaaacaacatattgttggtaagttaaccaaatatgagttgattgcactatta
+            cagactttcggtagattatctgaatctattgaatctgttaacatgttcgaaaaaatgtac
+            gggaaaaggttaaacggttctgaaaacaggttaagctcattcttccaaaataacttcttc
+            aacattttgaaggaggcaggcaaatcgattcgttacaccatagagaacatcaattccact
+            aaagaaggaaagaaaaagactaacaattctcaatcacatgtatttgatgatttaaaaatg
+            cccaaagcagaaatagttccaaggccctctaacggtacagtaaataaatggaagaaagct
+            tggaatactgaagttaacaacgttttagaagcattcagatttatttatagaagctatttg
+            gatttacccaggaacatctgggaattatctttgatgaaggtatacaaattttggaataaa
+            ttcatcggtgttgctgattacgttagtgaggagacacgagagcctatttcctataagcta
+            gatatacaataa
+///

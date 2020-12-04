@@ -1,0 +1,47 @@
+ENTRY       YGR024C           CDS       T00005
+NAME        THG1
+DEFINITION  (RefSeq) tRNA guanylyltransferase
+ORTHOLOGY   K10761  tRNA(His) guanylyltransferase [EC:2.7.7.79]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YGR024C (THG1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.79  tRNAHis guanylyltransferase
+                 YGR024C (THG1)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              tRNA modification factors
+               Other tRNA modification factors
+                YGR024C (THG1)
+POSITION    VII:complement(531883..532596)
+MOTIF       Pfam: Thg1 Thg1C TOM13
+DBLINKS     NCBI-GeneID: 852908
+            NCBI-ProteinID: NP_011538
+            SGD: S000003256
+            UniProt: P53215
+STRUCTURE   PDB: 5XOX
+AASEQ       237
+            MANSKFGYVRQFETHDVILPQCYIVVRIDGKKFHEFSKFYEFAKPNDENALKLMNACAKN
+            LVLKYKNDIILAFGESDEYSFILKSSTTLFNRRKDKLATLFGSFFTSNYVALWAKFFPEK
+            PLNIKHLPYFDSRCVAYPNLQTIKDYLSWRYVDTHINNLYNTTFWQLIIKCGLTPQESEK
+            KLCGTFSNEKQEILFSECGINYNNEPEMFKKGSLVTRKGEILHINVIAQIDELFEGY
+NTSEQ       714
+            atggcaaactctaaatttggatacgtaaggcaatttgaaacacacgatgttattttgcct
+            cagtgttatattgtggtaagaatagacggcaagaagtttcatgaattttccaagttctac
+            gagtttgccaagccaaacgatgaaaatgctttgaagttaatgaatgcatgtgctaagaac
+            cttgtcctcaagtacaaaaatgatattatattggcgttcggggagagtgacgaatactca
+            tttattttgaagtcaagtacaactttatttaacagaaggaaagacaagcttgcgacttta
+            tttggttcttttttcacgtccaattacgtcgcattatgggccaagtttttcccagaaaag
+            ccgttgaatatcaagcatttgccatatttcgattcaaggtgtgtagcataccctaattta
+            caaacgataaaagattatttatcctggagatatgtcgatacacatataaacaatctttat
+            aatacgacgttttggcagttaataataaagtgtggcttaactccccaggaatccgagaag
+            aaactatgtggaacatttagtaatgagaaacaggaaatactattttctgaatgtgggata
+            aactacaataatgaacctgaaatgtttaaaaagggttcactagtaacaagaaaaggagaa
+            atacttcatattaacgtcatcgcacagatagatgagttgttcgaaggctattaa
+///

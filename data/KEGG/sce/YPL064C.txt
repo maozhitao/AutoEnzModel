@@ -1,0 +1,59 @@
+ENTRY       YPL064C           CDS       T00005
+NAME        CWC27
+DEFINITION  (RefSeq) putative peptidylprolyl isomerase CWC27
+ORTHOLOGY   K12737  peptidyl-prolyl cis-trans isomerase SDCCAG10 [EC:5.2.1.8]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YPL064C (CWC27)
+               03110 Chaperones and folding catalysts [BR:sce03110]
+                YPL064C (CWC27)
+            Enzymes [BR:sce01000]
+             5. Isomerases
+              5.2  cis-trans-Isomerases
+               5.2.1  cis-trans Isomerases (only sub-subclass identified to date)
+                5.2.1.8  peptidylprolyl isomerase
+                 YPL064C (CWC27)
+            Spliceosome [BR:sce03041]
+             Complex C
+              Other components
+               PPlases
+                YPL064C (CWC27)
+            Chaperones and folding catalysts [BR:sce03110]
+             Protein folding catalysts
+              Peptidyl prolyl isomerase
+               Cyclophilin
+                YPL064C (CWC27)
+POSITION    XVI:complement(428711..429616)
+MOTIF       Pfam: Pro_isomerase
+DBLINKS     NCBI-GeneID: 856041
+            NCBI-ProteinID: NP_015261
+            SGD: S000005985
+            UniProt: Q02770
+AASEQ       301
+            MSSNIEPQTTAKCILYTTKGNIAIELWAKECPETCKRFLSMLSDGTFTNGEFKELKPTQW
+            LMFNANSTGEYRTVAEEKNPRIRFNRDGLLGWDRRRNTWFITVLADSKHVLNDCNVFGKI
+            VGKSIYIFREILGGEIEASSRDNDVKRFMYPAVLKDVEITIPFFEDIFGSKRRLEDNEKK
+            EQEPAKKLVKSAKVKMVYEDEQEDDDGDVQKLKPRKRMILPAWIKDDSRSEGIKLDASLD
+            QPQEALIREKTELHDNVDEATTKETESQENIKEEPMDKRERETLAMLSKFQERIKNKNIL
+            K
+NTSEQ       906
+            atgtccagtaatatagaacctcagacaacagctaaatgtatactgtatacaacaaagggg
+            aacattgccattgaattatgggctaaagaatgccctgagacatgtaagaggttcttatct
+            atgctctcagatggcacattcaccaatggagaatttaaagagttaaagccaacacagtgg
+            ctaatgtttaatgcaaatagtactggtgagtaccgtacagttgctgaggaaaaaaatcct
+            cgtatacgcttcaatagagatggactcttgggatgggatagacgaaggaacacatggttt
+            ataactgtgctggcggattctaagcacgtactgaacgattgtaatgtatttggcaaaatt
+            gttgggaaatctatttacatctttagagagatcttgggcggcgaaattgaagcttcctcc
+            cgtgacaatgatgtcaaacgattcatgtatcctgcagttttgaaggatgttgagattacc
+            ataccattctttgaggacatctttggatcaaaaagaagactggaagataatgaaaaaaaa
+            gaacaagagccggcaaagaaacttgtgaaatcagcaaaagtaaagatggtttatgaagat
+            gagcaagaggatgatgatggtgatgttcaaaagcttaagccaagaaagagaatgattctc
+            ccagcatggatcaaagatgatagtcgcagtgaaggaattaaactagacgcatccttagat
+            cagccacaagaggcactaattagggaaaagacggagttgcatgataatgttgatgaggca
+            accactaaagaaacggaaagtcaagaaaacatcaaggaagaaccaatggataaaagagag
+            cgggaaactttggcaatgttgtcaaaatttcaagaacgaataaaaaacaagaatattcta
+            aagtga
+///

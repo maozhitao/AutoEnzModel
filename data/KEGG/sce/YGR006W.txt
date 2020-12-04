@@ -1,0 +1,48 @@
+ENTRY       YGR006W           CDS       T00005
+NAME        PRP18
+DEFINITION  (RefSeq) mRNA splicing protein PRP18
+ORTHOLOGY   K12817  pre-mRNA-splicing factor 18
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YGR006W (PRP18)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YGR006W (PRP18)
+            Spliceosome [BR:sce03041]
+             Complex C
+              Other components
+               Step II factors
+                YGR006W (PRP18)
+POSITION    VII:506070..506825
+MOTIF       Pfam: Prp18
+DBLINKS     NCBI-GeneID: 852889
+            NCBI-ProteinID: NP_011520
+            SGD: S000003238
+            UniProt: P33411
+STRUCTURE   PDB: 1DVK 6BK8 5YLZ 6EXN 5MPS 5WSG 5MQ0
+AASEQ       251
+            MDLDLASILKGEISKKKKELANSKGVQPPCTEKFQPHESANIDETPRQVEQESTDEENLS
+            DNQSDDIRTTISKLENRPERIQEAIAQDKTISVIIDPSQIGSTEGKPLLSMKCNLYIHEI
+            LSRWKASLEAYHPELFLDTKKALFPLLLQLRRNQLAPDLLISLATVLYHLQQPKEINLAV
+            QSYMKLSIGNVAWPIGVTSVGIHARSAHSKIQGGRNAANIMIDERTRLWITSIKRLITFE
+            EWYTSNHDSLA
+NTSEQ       756
+            atggacctagatctagccagtatcttaaaaggtgaaatttctaagaagaagaaagagctg
+            gccaactctaaaggtgttcagccaccatgcactgagaaattccagccacatgaatccgca
+            aacatagacgaaacaccgcgacaggtagaacaagaaagtacagatgaagaaaacctgtca
+            gacaatcagagtgacgatattaggaccaccattagcaaattagaaaatcggccagaaagg
+            atacaagaagcgatagctcaagacaaaaccatctctgtaatcattgatccatcacaaatt
+            ggttctactgaaggaaaacctcttttgtcaatgaaatgtaatttatatattcacgaaata
+            ttatctcgttggaaggcgtctttggaagcttatcatccggagctgttcttagacactaaa
+            aaagcactctttccactcctactgcaactacgaaggaaccagcttgccccggatttactt
+            atttcccttgcgaccgttctctatcatttacaacaacctaaagaaataaatttagccgtt
+            cagtcctatatgaaactcagtatcggcaatgtggcctggcctattggtgttactagcgta
+            ggcattcatgctcgtagtgcacattcgaaaattcaaggaggccggaatgctgctaacata
+            atgattgatgaaagaacgcgattatggattaccagtattaaaagattaataacttttgaa
+            gaatggtataccagcaaccacgatagcttagcctaa
+///

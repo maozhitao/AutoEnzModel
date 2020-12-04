@@ -1,0 +1,64 @@
+ENTRY       YER031C           CDS       T00005
+NAME        YPT31, YPT8
+DEFINITION  (RefSeq) Rab family GTPase YPT31
+ORTHOLOGY   K07905  Ras-related protein Rab-11B
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04144  Endocytosis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04144 Endocytosis
+                YER031C (YPT31)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YER031C (YPT31)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YER031C (YPT31)
+               04031 GTP-binding proteins [BR:sce04031]
+                YER031C (YPT31)
+            Membrane trafficking [BR:sce04131]
+             Protein recycling
+              Rab GTPases and associated proteins
+               Rab GTPases
+                YER031C (YPT31)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YER031C (YPT31)
+              Exosomal proteins of other body fluids (saliva and urine)
+               YER031C (YPT31)
+              Exosomal proteins of colorectal cancer cells
+               YER031C (YPT31)
+            GTP-binding proteins [BR:sce04031]
+             Small (monomeric) G-proteins
+              Rab Family
+               Rab11/25 [OT]
+                YER031C (YPT31)
+POSITION    V:complement(214076..214747)
+MOTIF       Pfam: Ras Roc Arf MMR_HSR1 KAP_NTPase GTP_EFTU RsgA_GTPase Gtr1_RagA PduV-EutP AAA_22 AAA_16 SRPRB ABC_tran AAA_24 Septin FeoB_N TniB NTPase_1 MCM
+DBLINKS     NCBI-GeneID: 856753
+            NCBI-ProteinID: NP_010948
+            SGD: S000000833
+            UniProt: P38555
+STRUCTURE   PDB: 3CPJ
+AASEQ       223
+            MSSEDYGYDYDLLFKIVLIGDSGVGKSNLLSRFTKNEFNMDSKSTIGVEFATRTLEIDGK
+            RIKAQIWDTAGQERYRAITSAYYRGAVGALIVYDISKSSSYENCNHWLSELRENADDNVA
+            VGLIGNKSDLAHLRAVPTEESKTFAQENQLLFTETSALNSENVDKAFEELINTIYQKVSK
+            HQMDLGDSSANGNANGASAPNGPTISLTPTPNENKKANGNNCC
+NTSEQ       672
+            atgagcagcgaggactacgggtatgattacgacctactatttaaaattgtactgatcggt
+            gattccggggtagggaaatccaatctattgtcaagatttacgaagaacgaattcaatatg
+            gattcaaagtctacaattggggttgagtttgccaccagaactttggaaattgatggcaag
+            aggatcaaggcgcagatttgggatactgcgggccaggaacgttacagagccattacttct
+            gcttattatagaggagctgtaggtgccttgatcgtttacgatatcagtaaatcaagctca
+            tatgaaaattgtaatcattggttatcagaattaagagaaaatgcagatgacaacgtcgca
+            gtggggcttatcggtaacaagtctgatttggcccatttacgtgctgtacctacggaggag
+            tccaagacttttgcacaggaaaatcagttattattcacagaaacaagtgctttgaacagt
+            gaaaacgtggataaggcttttgaagagttaatcaataccatctatcaaaaggtcagcaag
+            catcaaatggaccttggtgactccagtgccaacgggaatgccaatggtgcgtccgctcct
+            aatggaccaacgattagtctgacaccaacaccaaacgaaaacaaaaaggcaaatggaaat
+            aactgttgttaa
+///

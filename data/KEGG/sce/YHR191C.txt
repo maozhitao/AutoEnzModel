@@ -1,0 +1,35 @@
+ENTRY       YHR191C           CDS       T00005
+NAME        CTF8
+DEFINITION  (RefSeq) Ctf8p
+ORTHOLOGY   K11270  chromosome transmission fidelity protein 8
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YHR191C (CTF8)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Sister chromatid cohesion proteins
+               CTF18-RFC complex
+                YHR191C (CTF8)
+POSITION    VIII:complement(486230..486631)
+MOTIF       Pfam: Ctf8 DUF5432
+DBLINKS     NCBI-GeneID: 856598
+            NCBI-ProteinID: NP_012061
+            SGD: S000001234
+            UniProt: P38877
+STRUCTURE   PDB: 5MSM 5OKC 5OKI
+AASEQ       133
+            MPSVDIDASQWQKLTQSREKQTTVITPLGMMMLEIQGELELPKDFASLARRDSPNEGRFS
+            EQDGETLIRFGSLQIDGERATLFVGKKQRLLGKVTKLDVPMGIMHFNSKDNKVELVDVMK
+            YKVIFKDRPLPIM
+NTSEQ       402
+            atgcctagtgtagatatagatgctagtcaatggcagaagttgacacagtcaagagaaaag
+            cagaccacggtgataacaccgcttgggatgatgatgctggagattcaaggtgaactagag
+            ttgcctaaggactttgcgtcgctggcgaggagagattctccaaatgagggaaggttcagt
+            gaacaggacggcgaaactttaatacgatttgggtcgttacagattgacggagagagggcc
+            acattgtttgtcggcaagaaacagcgtttactggggaaggtgacaaagctagacgtaccg
+            atgggtataatgcatttcaattcgaaagataataaggtcgaattagttgatgtaatgaaa
+            tataaggttatctttaaggataggcctctacctattatgtaa
+///

@@ -1,0 +1,75 @@
+ENTRY       YDR221W           CDS       T00005
+NAME        GTB1
+DEFINITION  (RefSeq) Gtb1p
+ORTHOLOGY   K08288  protein kinase C substrate 80K-H
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04141  Protein processing in endoplasmic reticulum
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YDR221W (GTB1)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               04091 Lectins [BR:sce04091]
+                YDR221W (GTB1)
+            Lectins [BR:sce04091]
+             P-type lectins
+              YDR221W (GTB1)
+POSITION    IV:907330..909438
+MOTIF       Pfam: PRKCSH-like PRKCSH_1 PRKCSH T4SS Cas9_PI IFT20 Fez1
+DBLINKS     NCBI-GeneID: 851807
+            NCBI-ProteinID: NP_010507
+            SGD: S000002629
+            UniProt: Q04924
+AASEQ       702
+            MVSMFSLFLLLIEQSPLVASLQQSQRHIVGVPWEKQHLYDSNEPDLTKWHCLNHEDIVLD
+            ISQINDGVCDCPDGSDEPGSAACVEDIFKSVAEGGGKVNKYFYCDNKGFIPRYIRKSEVA
+            DGICDCCDCSDELLSGYELFDAGSNCSQLKNEFDIMASKELSSYREGKEALEELERKYGT
+            KEEAITRGNCLEEDKEKASAEIKVLSNRLSENRAKLEQLRGEYFNQLSHDPILYQFEQLN
+            STRLGSDILTSFTMVSRVSKGYQDIFKILSDLSEAYTPSLNDKVVNDNIKKFRKVRRRAE
+            KAKINADSKIDDEQADNLYLYFTEEVPQIFLKRESENTLRYVIGKSNFVQALVEGKINYT
+            NDILEYIREFRLIMDDISQNYNVNFQDAGVKSAVDSYKNYLGEYGELAELEPAHPSESLL
+            RSLSEVTSFVNENAPKVLPPDAVESEQDTNSDHIGTSGDLRNKLKEILSKLNIFSSRKDL
+            VSLEKRFRSCESQVSLLENELKQKMDYKKLLDETEDEGTNSTAGNLTELLELMGSQSYCL
+            DDILDNYVYTICFQRPMTEGVIYQAEDKVDGKKVLIGRFKTSGFNVDLNMEKYAEHLKAT
+            YDEKSDLISNLAAIQDDDGNMQHYVFGNLNELNNGLVLEYENGDQCWNGPRRSATVFVRC
+            SDKFKIRSVHEATKCNYIFDVVGPLGCNKTFEYEPPKFNLSE
+NTSEQ       2109
+            atggtgagcatgttctcattatttctgctattaattgagcaatcgccgcttgtagcgtca
+            ttgcaacaaagtcaacggcatatagtgggtgttccctgggaaaagcagcacttgtatgac
+            tcgaatgaaccagatttgactaaatggcactgtttgaaccacgaagatatcgtattggat
+            ataagccagattaatgatggggtttgtgattgtcctgatggttcagatgagcccggcagc
+            gccgcctgcgtggaagatatattcaaaagcgttgcagagggaggtggtaaagtgaataag
+            tatttttattgtgataacaaggggtttattccaagatatatacgaaaatcggaagtcgca
+            gatggtatttgtgactgctgtgactgttctgacgagctactttctggatatgagctcttt
+            gatgctggatctaattgttctcagttaaaaaacgaatttgacattatggcctctaaagag
+            ttatcaagttaccgggaaggtaaagaggccctagaagaactggaaagaaaatacggtaca
+            aaggaagaggctatcacccgtggtaattgcttagaagaagataaggaaaaagcttctgcc
+            gagataaaagtactctccaacaggctctcagaaaatcgagccaaattagagcagttgaga
+            ggcgagtactttaaccaattaagccatgatcccattttgtatcaatttgaacaattaaac
+            agtactcgtttgggatcggacatccttacatcgttcactatggtttcaagagtaagtaaa
+            ggttaccaggacatattcaagattttaagtgatttatcagaggcctatactccctcgcta
+            aatgataaagttgtcaatgataatattaaaaaattcagaaaagttagaagacgggctgaa
+            aaggctaaaattaatgcagatagcaaaattgatgatgagcaggcagataatctttacttg
+            tactttacagaagaagtacctcaaatttttttgaaaagagaatctgagaacacgttgagg
+            tacgtcataggaaaatccaattttgttcaagcgctagtggagggtaaaattaactatacc
+            aacgatatcttggagtatatcagagaattccgtttgattatggatgatatttctcagaat
+            tacaatgttaactttcaagatgcaggggtcaaaagtgctgtcgattcgtataaaaactac
+            ctaggtgaatacggcgaactggctgaattagaaccagctcacccgtcagagagccttttg
+            agatcgttgagcgaagtaacatcatttgtgaacgagaatgcaccaaaggtattgccacca
+            gacgctgttgagtcagaacaagatacgaacagcgatcatatcggtacttctggagatttg
+            cgcaataaactcaaagagattctatctaagctgaatattttttcatctagaaaagatttg
+            gtctcattagagaagagattccgctcttgtgaaagtcaagtcagtctcctggagaatgaa
+            ttaaagcaaaaaatggactataagaaattattagatgaaactgaagatgaaggaactaat
+            tctactgcaggaaatctgactgagcttttagaactaatgggatcacaatcctattgtctt
+            gacgacatactggacaactatgtgtacactatatgctttcaacgtccaatgaccgaaggt
+            gtcatatatcaagctgaggataaggttgacggtaaaaaagttttgatcggtcgttttaag
+            acatcaggttttaatgttgacttaaacatggaaaaatacgcagaacatttaaaggccaca
+            tatgatgagaagagtgatttgatttcaaacttagcagctatacaggacgatgacggtaac
+            atgcaacattacgtattcgggaacttaaacgaactgaataatggtctggtactagaatac
+            gaaaatggagaccagtgctggaatggtccgcgcagatcggctactgtatttgttcggtgc
+            agcgacaaattcaagattcggagtgtacatgaagcgactaagtgcaactacatcttcgat
+            gtcgttggtcctctaggctgcaacaagactttcgaatacgagccccctaagttcaattta
+            agtgaatga
+///

@@ -1,0 +1,79 @@
+ENTRY       YGL099W           CDS       T00005
+NAME        LSG1, KRE35
+DEFINITION  (RefSeq) putative GTPase LSG1
+ORTHOLOGY   K14539  large subunit GTPase 1 [EC:3.6.1.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03008 Ribosome biogenesis in eukaryotes
+                YGL099W (LSG1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YGL099W (LSG1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.1  In phosphorus-containing anhydrides
+                3.6.1.-  
+                 YGL099W (LSG1)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Pre-60S particles
+               GTPases
+                YGL099W (LSG1)
+POSITION    VII:314631..316553
+MOTIF       Pfam: MMR_HSR1 FeoB_N RsgA_GTPase AIG1 Dynamin_N cobW
+DBLINKS     NCBI-GeneID: 852779
+            NCBI-ProteinID: NP_011416
+            SGD: S000003067
+            UniProt: P53145
+AASEQ       640
+            MPPKEAPKKWKAPKGPKPTHRKNKNKLELGRAIKYARQKENAIEYLPDGEMRFTTDKHEA
+            NWVKLRSVTQESALDEFLSTAALADKDFTADRHSNVKIIRMDSGNDSATSQGFSMTNEQR
+            GNLNAKQRALAKDLIVPRRPEWNEGMSKFQLDRQEKEAFLEWRRKLAHLQESNEDLLLTP
+            FERNIEVWKQLWRVVERSDLVVQIVDARNPLLFRSVDLERYVKESDDRKANLLLVNKADL
+            LTKKQRIAWAKYFISKNISFTFYSALRANQLLEKQKEMGEDYREQDFEEADKEGFDADEK
+            VMEKVKILSIDQLEELFLSKAPNEPLLPPLPGQPPLINIGLVGYPNVGKSSTINSLVGAK
+            KVSVSSTPGKTKHFQTIKLSDSVMLCDCPGLVFPNFAYNKGELVCNGVLPIDQLRDYIGP
+            AGLVAERIPKYYIEAIYGIHIQTKSRDEGGNGDIPTAQELLVAYARARGYMTQGYGSADE
+            PRASRYILKDYVNGKLLYVNPPPHLEDDTPYTREECEEFNKDLYVFDRLPDTRKEQVQNA
+            AKAKGIDIVDLARDLNQLTFSAHTGGDTQKEAKSVTHGGKQAALYNAAEDLDRDFFKMNN
+            VEGRLSTPFHKVQNSSAGKRHNKKNKSKNAKSKVFSIENN
+NTSEQ       1923
+            atgccaccaaaagaagctcccaagaaatggaaggcgccaaaagggccaaaacctacccac
+            cgtaaaaataaaaataagcttgaattaggcagagctattaaatatgcacgtcaaaaagaa
+            aatgccatcgagtatttacctgatggtgaaatgaggttcactaccgataagcatgaggcc
+            aactgggttaaattaagatctgtaactcaagaatcagctttagatgaattcttgagtaca
+            gctgcactggcagacaaagatttcacggccgatagacattcaaatgttaaaattattaga
+            atggatagcggtaatgattctgcgacatctcaagggttttctatgactaatgagcagcgt
+            ggaaatcttaatgcgaagcaaagagcgcttgctaaggatttgattgttccaaggaggcct
+            gaatggaacgagggcatgtccaagtttcagcttgataggcaagaaaaggaagcgttttta
+            gaatggagaagaaaattggcacatttacaagaaagcaatgaagacttgttgttaacaccg
+            tttgaaagaaatatcgaagtttggaaacagttatggagagttgttgaaagatcagattta
+            gttgttcaaattgtagatgcgaggaatccgttgctgtttagatctgtcgatttagaaaga
+            tatgtaaaagagtcagatgacagaaaagcaaacttactgctagttaataaagcagattta
+            ttgaccaaaaagcaacgtatcgcttgggcaaagtactttatctccaagaatatttcgttc
+            acgttttactctgcattgagagctaatcaattattggagaaacaaaaggaaatgggggaa
+            gattatagagaacaagatttcgaggaagctgataaagaagggttcgatgctgatgaaaaa
+            gttatggaaaaagttaaaattctgtccattgaccaactggaagaattgtttttatcaaaa
+            gctccaaacgagcctttattgccacctctgcccggtcaacctccactgattaatattggt
+            ttggttggttatccaaatgtaggtaaatcctccactattaattcgctcgtgggtgccaag
+            aaagtttctgtttcatccacgcctggtaaaacaaaacacttccaaactattaagttatct
+            gattctgtcatgctttgtgactgtcccggtcttgtcttcccaaactttgcatataacaag
+            ggtgagctcgtgtgtaatggtgttttacctattgatcaattacgtgattatattggtcca
+            gcaggtttagtagcagaaagaataccaaagtattacattgaagcgatttatggtatccat
+            attcaaaccaaatcaagggatgaaggtgggaatggggatataccaactgctcaagaattg
+            ttagtcgcatacgccagagctcgtggttatatgactcaaggttacggttctgctgatgaa
+            ccaagagcaagtcgttatatattgaaagattacgtcaatgggaaattactgtatgtcaac
+            cctccgccccatctagaggatgatacaccttacactagagaagagtgtgaagaatttaac
+            aaagatttatatgtgttcgacagattaccggacaccagaaaggagcaagtgcaaaatgct
+            gctaaggctaaaggcattgatatcgtggatttagctcgtgatttgaatcagctaacgttt
+            tcagctcacactggtggtgacacacaaaaagaagccaaatctgttacgcacggtggtaaa
+            caagctgcattgtacaatgccgctgaggacttggatagagacttcttcaagatgaacaac
+            gtcgaaggtagattaagtacaccattccacaaagttcaaaatagttcagctggtaagaga
+            cataacaaaaaaaacaaaagtaaaaatgcgaaaagcaaagtttttagcattgaaaataat
+            tag
+///

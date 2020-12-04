@@ -1,0 +1,41 @@
+ENTRY       YBR261C           CDS       T00005
+NAME        TAE1, NTM1
+DEFINITION  (RefSeq) N-terminal protein methyltransferase
+ORTHOLOGY   K16219  protein N-terminal methyltransferase [EC:2.1.1.244]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                YBR261C (TAE1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.244  protein N-terminal methyltransferase
+                 YBR261C (TAE1)
+POSITION    II:complement(734832..735530)
+MOTIF       Pfam: Methyltransf_PK Methyltransf_23 Methyltransf_25 Methyltransf_11 Methyltransf_2 Methyltransf_12 MTS Secretin_N_2
+DBLINKS     NCBI-GeneID: 852564
+            NCBI-ProteinID: NP_009820
+            SGD: S000000465
+            UniProt: P38340
+AASEQ       232
+            MDVPADSHIKYEDAIDYWTDVDATVDGVLGGYGEGTVVPTMDVLGSNNFLRKLKSRMLPQ
+            ENNVKYAVDIGAGIGRVSKTMLHKHAAKIDLVEPVKPFIEQMHVELAELKDKGQIGQIYE
+            VGMQDWTPDAGKYWLIWCQWCVGHLPDAELVAFLKRCIVGLQPNGTIVVKENNTPTDTDD
+            FDETDSSVTRSDAKFRQIFEEAGLKLIASERQRGLPRELYPVRMYALKPMPN
+NTSEQ       699
+            atggacgtgcctgcagattcccatatcaaatacgaagatgccatcgactattggacggat
+            gtggacgccactgtggatggtgttctaggtggatacggagaaggtacagtagtacccaca
+            atggatgtcctgggatccaataacttcctgcgtaaactgaagtcgaggatgctgcctcag
+            gagaacaacgtgaagtacgctgtagacattggtgcggggattggacgtgtaagcaagacc
+            atgcttcacaagcacgccgctaagatagaccttgtagaaccggtaaagccttttatcgag
+            caaatgcacgttgaattggctgagctgaaagacaaaggccaaattggacaaatatatgaa
+            gtagggatgcaggactggacccccgatgccggcaagtactggctgatctggtgccaatgg
+            tgcgtgggacacctgccagatgcagaactcgtcgcattcctgaaaagatgtattgttggt
+            ttgcaacctaatgggacaatcgtggtcaaagaaaataacacacctacagataccgatgat
+            ttcgacgaaacggattcttcggtcacaaggtcagatgctaagttcaggcaaatcttcgaa
+            gaagctggcctaaagctcatcgccagtgaaagacaacgtggcttaccaagagaattgtac
+            ccagtgaggatgtacgcactcaagcccatgccaaactag
+///

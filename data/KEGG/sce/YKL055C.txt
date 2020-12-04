@@ -1,0 +1,66 @@
+ENTRY       YKL055C           CDS       T00005
+NAME        OAR1
+DEFINITION  (RefSeq) 3-oxoacyl-[acyl-carrier-protein] reductase (NADPH)
+ORTHOLOGY   K00059  3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00061  Fatty acid biosynthesis
+            sce00780  Biotin metabolism
+            sce01100  Metabolic pathways
+            sce01110  Biosynthesis of secondary metabolites
+            sce01212  Fatty acid metabolism
+MODULE      sce_M00083  Fatty acid biosynthesis, elongation
+            sce_M00874  Fatty acid biosynthesis in mitochondria, fungi
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09103 Lipid metabolism
+               00061 Fatty acid biosynthesis
+                YKL055C (OAR1)
+              09108 Metabolism of cofactors and vitamins
+               00780 Biotin metabolism
+                YKL055C (OAR1)
+              09110 Biosynthesis of other secondary metabolites
+               00333 Prodigiosin biosynthesis
+                YKL055C (OAR1)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01004 Lipid biosynthesis proteins [BR:sce01004]
+                YKL055C (OAR1)
+            Enzymes [BR:sce01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.100  3-oxoacyl-[acyl-carrier-protein] reductase
+                 YKL055C (OAR1)
+            Lipid biosynthesis proteins [BR:sce01004]
+             Fatty acid synthase
+              Component type
+               YKL055C (OAR1)
+POSITION    XI:complement(335321..336157)
+MOTIF       Pfam: adh_short adh_short_C2 Epimerase KR DUF1776 Polysacc_synt_2
+DBLINKS     NCBI-GeneID: 853810
+            NCBI-ProteinID: NP_012868
+            SGD: S000001538
+            UniProt: P35731
+STRUCTURE   PDB: 4FDA 4HBG 4FD3
+AASEQ       278
+            MHYLPVAIVTGATRGIGKAICQKLFQKGLSCIILGSTKESIERTAIDRGQLQSGLSYQRQ
+            CAIAIDFKKWPHWLDYESYDGIEYFKDRPPLKQKYSTLFDPCNKWSNNERRYYVNLLINC
+            AGLTQESLSVRTTASQIQDIMNVNFMSPVTMTNICIKYMMKSQRRWPELSGQSARPTIVN
+            ISSILHSGKMKVPGTSVYSASKAALSRFTEVLAAEMEPRNIRCFTISPGLVKGTDMIQNL
+            PVEAKEMLERTIGASGTSAPAEIAEEVWSLYSRTALET
+NTSEQ       837
+            atgcattatttgcctgttgcgatagtaacaggtgccactaggggtataggcaaggcaata
+            tgtcaaaagttatttcaaaagggtttaagttgcattatacttgggtctactaaagaaagt
+            atagagcgcaccgcgatagatagaggccaattacaatcgggattatcatatcagcggcaa
+            tgtgctatagcaattgattttaagaaatggcctcactggcttgactatgagtcatatgac
+            ggtatcgaatatttcaaagatagaccgcccttgaaacagaaatattccacattgttcgac
+            ccatgtaacaaatggtcaaataatgaacgccgctactacgtaaacttattgattaactgc
+            gcaggcttgactcaagaatcattaagtgtaagaaccactgcatctcaaattcaggacata
+            atgaatgttaactttatgagccctgtgacgatgacaaacatctgtattaagtatatgatg
+            aagtcgcaaaggagatggccggaactcagtggtcaatctgctcgacccaccatcgtaaat
+            atttcctccattctacactccggaaaaatgaaggttccaggtacatctgtttactccgcc
+            tctaaagccgcactgtccagatttacagaagttttagctgcagaaatggaaccaagaaac
+            attaggtgttttacgatatctccaggtttagtcaaagggaccgatatgatccaaaatttg
+            ccagtggaggctaaagaaatgctggagagaaccattggggcaagcggtacaagcgcaccc
+            gctgaaatagcggaagaagtctggtctctatacagtagaactgctttggagacgtaa
+///

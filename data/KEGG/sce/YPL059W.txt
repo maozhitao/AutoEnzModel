@@ -1,0 +1,42 @@
+ENTRY       YPL059W           CDS       T00005
+NAME        GRX5
+DEFINITION  (RefSeq) monothiol glutaredoxin GRX5
+ORTHOLOGY   K07390  monothiol glutaredoxin
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:sce03110]
+                YPL059W (GRX5)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YPL059W (GRX5)
+            Chaperones and folding catalysts [BR:sce03110]
+             Protein folding catalysts
+              Protein disulfide isomerase
+               YPL059W (GRX5)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial quality control factors
+              Regulator of mitochondrial biogenesis
+               Proteins involved in Fe-S cluster biogenesis
+                YPL059W (GRX5)
+POSITION    XVI:444579..445031
+MOTIF       Pfam: Glutaredoxin
+DBLINKS     NCBI-GeneID: 856048
+            NCBI-ProteinID: NP_015266
+            SGD: S000005980
+            UniProt: Q02784
+STRUCTURE   PDB: 3GX8
+AASEQ       150
+            MFLPKFNPIRSFSPILRAKTLLRYQNRMYLSTEIRKAIEDAIESAPVVLFMKGTPEFPKC
+            GFSRATIGLLGNQGVDPAKFAAYNVLEDPELREGIKEFSEWPTIPQLYVNKEFIGGCDVI
+            TSMARSGELADLLEEAQALVPEEEEETKDR
+NTSEQ       453
+            atgtttctcccaaaattcaatcccataaggtcattttcccccatcctccgggctaagact
+            cttcttcgttaccaaaatcggatgtatttgagcacagagataagaaaagctattgaagat
+            gccatcgaatcggctccagtggttcttttcatgaaaggtactcctgaatttcccaagtgt
+            ggattttcaagagcaaccattggattattaggaaatcaaggcgttgacccggccaaattt
+            gcggcttataatgttttagaagacccagagctacgtgaaggtatcaaagagttttcagaa
+            tggccaactattccacagttatatgtaaacaaagaattcattggtggatgtgatgttatt
+            acaagtatggcacgctctggtgaattggccgatttgctagaagaggcacaggcattggta
+            cctgaagaagaagaagaaaccaaagatcgttga
+///

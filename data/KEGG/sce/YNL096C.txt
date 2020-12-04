@@ -1,0 +1,43 @@
+ENTRY       YNL096C           CDS       T00005
+NAME        RPS7B
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S7B
+ORTHOLOGY   K02993  small subunit ribosomal protein S7e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YNL096C (RPS7B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YNL096C (RPS7B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YNL096C (RPS7B)
+POSITION    XIV:complement(join(443398..443826,444172..444315))
+MOTIF       Pfam: Ribosomal_S7e FeS_assembly_P
+DBLINKS     NCBI-GeneID: 855628
+            NCBI-ProteinID: NP_014303
+            SGD: S000005040
+            UniProt: P48164
+AASEQ       190
+            MSSVQSKILSQAPSELELQVAKTFIDLESSSPELKADLRPLQIKSIREIDVTGGKKALVL
+            FVPVPALSAYHKVQTKLTRELEKKFPDRHVIFLAERRILPKPSRTSRQVQKRPRSRTLTA
+            VHDKVLEDMVFPTEIVGKRVRYLVGGNKIQKVLLDSKDVQQIDYKLESFQAVYNKLTGKQ
+            IVFEIPSQTN
+NTSEQ       573
+            atgtcctctgtccaatccaagatcttatcccaagctccaagtgagttggaattacaagtc
+            gccaagaccttcatcgatctagaaagctcctctccagaactaaaggctgacttgagacca
+            ttgcaaatcaaatctatcagagaaattgatgtcaccggtggtaagaaagcactagtcctt
+            tttgtcccagttccagctttgtctgcataccataaggtccaaaccaaattgacccgtgaa
+            ttggaaaagaaattccctgaccgtcatgttattttcttggctgaaagaagaatcttgcca
+            aaaccatctagaacatctagacaagtccaaaagagaccaagatccagaactttgactgct
+            gttcacgacaaggttttggaagacatggttttcccaactgaaattgtcggtaaaagagtt
+            agatatttggttggtggtaacaagatccaaaaggttttgttagactccaaggatgttcaa
+            caaatcgactacaagttggaatctttccaagctgtctacaacaagttgactggcaaacaa
+            attgtttttgaaattccaagccagaccaactaa
+///

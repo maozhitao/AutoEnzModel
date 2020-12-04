@@ -1,0 +1,67 @@
+ENTRY       YHR215W           CDS       T00005
+NAME        PHO12, PHO10
+DEFINITION  (RefSeq) acid phosphatase PHO12
+ORTHOLOGY   K23458  repressible acid phosphatase [EC:3.1.3.2]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00730  Thiamine metabolism
+            sce00740  Riboflavin metabolism
+            sce01100  Metabolic pathways
+            sce04111  Cell cycle - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00730 Thiamine metabolism
+                YHR215W (PHO12)
+               00740 Riboflavin metabolism
+                YHR215W (PHO12)
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YHR215W (PHO12)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.2  acid phosphatase
+                 YHR215W (PHO12)
+POSITION    VIII:552099..553502
+MOTIF       Pfam: His_Phos_2 DUF4918
+DBLINKS     NCBI-GeneID: 856625
+            NCBI-ProteinID: NP_012087
+            SGD: S000001258
+            UniProt: P38693
+AASEQ       467
+            MLKSAVYSILAASLVNAGTIPLGKLSDIDKIGTQTEIFPFLGGSGPYYSFPGDYGISRDL
+            PESCEMKQVQMVGRHGERYPTVSKAKSIMTTWYKLSNYTGQFSGALSFLNDDYEFFIRDT
+            KNLEMETTLANSVNVLNPYTGEMNAKRHARDFLAQYGYMVENQTSFAVFTSNSNRCHDTA
+            QYFIDGLGDKFNISLQTISEAESAGANTLSAHHSCPAWDDDVNDDILKKYDTKYLSGIAK
+            RLNKENKGLNLTSSDANTFFAWCAYEINARGYSDICNIFTKDELVRFSYGQDLETYYQTG
+            PGYDVVRSVGANLFNASVKLLKESEVQDQKVWLSFTHDTDILNYLTTIGIIDDQNNLTAE
+            HVPFMENTFHRSWYVPQGARVYTEKFQCSNDTYVRYVINDAVVPIETCSTGPGFSCEIND
+            FYGYAEKRVAGTDFLKVCNVSSVSNSTELTFFWDWNTKHYNDTLLKQ
+NTSEQ       1404
+            atgttgaagtcagccgtttattcaattttagccgcttctttggttaatgcaggtaccata
+            cccctcggaaagttatctgacattgacaaaatcggaactcaaacggaaattttcccattt
+            ttgggtggttctgggccatactactctttccctggtgattatggtatttctcgtgatttg
+            ccggaaagttgtgaaatgaagcaagtgcaaatggttggtagacacggtgaaagatacccc
+            actgtcagcaaagccaaaagtatcatgacaacgtggtacaaattgagtaactataccggt
+            caattcagcggagcattgtctttcttgaacgatgactacgaatttttcattcgtgacacc
+            aaaaacctagaaatggaaaccacacttgccaattcggtcaatgttttgaacccatatacc
+            ggtgagatgaatgctaagagacacgctcgtgatttcttggcgcaatatggctacatggtc
+            gaaaaccaaaccagttttgccgtttttacgtctaactcgaacagatgtcatgatactgcc
+            cagtatttcattgacggtttgggtgataaattcaacatatccttgcaaaccatcagtgaa
+            gccgagtctgctggtgccaatactctgagtgcccaccattcgtgtcctgcttgggacgat
+            gatgtcaacgatgacattttgaaaaaatatgataccaaatatttgagtggtattgccaag
+            agattaaacaaggaaaacaagggtttgaatctgacttcaagtgatgcaaacacttttttt
+            gcatggtgtgcatatgaaataaacgctagaggttacagtgacatctgtaacatcttcacc
+            aaagatgaattggtccgtttctcctacggccaagacttggaaacttattatcaaacggga
+            ccaggctatgacgtcgtcagatccgtcggtgccaacttgttcaacgcttcagtgaaacta
+            ctaaaggaaagtgaggtccaggaccaaaaggtttggttgagtttcacccacgataccgat
+            attctgaactatttgaccactatcggcataatcgatgaccaaaataacttgaccgccgaa
+            catgttccattcatggaaaacactttccacagatcctggtacgttccacaaggtgctcgt
+            gtttacactgaaaagttccagtgttccaatgacacctatgttagatacgtcatcaacgat
+            gctgtcgttccaattgaaacctgttctactggtccagggttctcttgtgaaataaatgac
+            ttctacggctatgctgaaaagagagtagccggtactgacttcctaaaggtctgtaacgtc
+            agcagcgtcagtaactctactgaattgacctttttctgggactggaataccaagcactac
+            aacgacactttattaaaacagtaa
+///

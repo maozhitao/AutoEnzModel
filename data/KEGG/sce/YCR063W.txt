@@ -1,0 +1,44 @@
+ENTRY       YCR063W           CDS       T00005
+NAME        BUD31, CWC14
+DEFINITION  (RefSeq) U2 snRNP complex subunit BUD31
+ORTHOLOGY   K12873  bud site selection protein 31
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YCR063W (BUD31)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YCR063W (BUD31)
+            Spliceosome [BR:sce03041]
+             Complex B
+              Other components
+               Prp19-related factors
+                YCR063W (BUD31)
+             Complex C
+                YCR063W (BUD31)
+POSITION    III:228318..228791
+MOTIF       Pfam: G10
+DBLINKS     NCBI-GeneID: 850427
+            NCBI-ProteinID: NP_009990
+            SGD: S000000659
+            UniProt: P25337
+STRUCTURE   PDB: 6J6G 6BK8 5GMK 6J6H 5YLZ 6J6Q 6EXN 5Y88 5LJ3 5LJ5 5MPS
+                 6J6N 5WSG 5MQ0 5LQW 2MY1
+AASEQ       157
+            MPRIKTRRSKPAPDGFEKIKPTLTDFEIQLRDAQKDKSSKLAAKSNEQLWEIMQLHHQRS
+            RYIYTLYYKRKAISKDLYDWLIKEKYADKLLIAKWRKTGYEKLCCLRCIQKNETNNGSTC
+            ICRVPRAQLEEEARKKGTQVSFHQCVHCGCRGCASTD
+NTSEQ       474
+            atgccgcgcataaagaccagaagatccaagcctgcacctgacgggttcgaaaaaatcaag
+            ccaaccctcacagatttcgaaatccaactcagagatgcccaaaaggacaagtcgtctaag
+            ctcgcagcaaagtccaatgagcagctctgggagataatgcaactccaccaccagcgctct
+            agatacatatatactctgtactacaagagaaaggccatctccaaagacctttacgattgg
+            ttgataaaggaaaagtatgctgataaattgctaattgccaaatggcgcaaaaccgggtat
+            gaaaaactgtgctgtctgcgctgcattcaaaagaacgaaactaacaacggtagcacttgc
+            atctgcagggtgcctcgtgcacagttagaggaagaagcacgcaaaaagggcacacaggtg
+            tccttccatcagtgcgtccactgcggctgccgtggatgtgcaagcacagactaa
+///

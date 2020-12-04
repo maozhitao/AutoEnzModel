@@ -1,0 +1,48 @@
+ENTRY       YPL046C           CDS       T00005
+NAME        ELC1
+DEFINITION  (RefSeq) elongin C
+ORTHOLOGY   K03872  elongin-C
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04120  Ubiquitin mediated proteolysis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                YPL046C (ELC1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YPL046C (ELC1)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YPL046C (ELC1)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               ECV complex
+                Adoptor protein
+                 YPL046C (ELC1)
+               ECS complex
+                 YPL046C (ELC1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                Other NER factors
+                 YPL046C (ELC1)
+POSITION    XVI:complement(466644..466943)
+MOTIF       Pfam: Skp1_POZ
+DBLINKS     NCBI-GeneID: 856061
+            NCBI-ProteinID: NP_015279
+            SGD: S000005967
+            UniProt: Q03071
+STRUCTURE   PDB: 5ZB2 1HV2
+AASEQ       99
+            MSQDFVTLVSKDDKEYEISRSAAMISPTLKAMIEGPFRESKGRIELKQFDSHILEKAVEY
+            LNYNLKYSGVSEDDDEIPEFEIPTEMSLELLLAADYLSI
+NTSEQ       300
+            atgtctcaagatttcgttacgttagtatcaaaagatgataaggaatatgagatatcacga
+            tctgctgcgatgatttcaccgacgttaaaagctatgattgagggacccttcagggaaagc
+            aaaggccgaatagagctcaagcagtttgactcgcatattctagaaaaggctgtggaatat
+            ttaaattataatttgaagtacagcggcgttagcgaggacgatgatgagattccagagttt
+            gaaataccgacagaaatgtcgttagagctgctacttgcggcggactatttgagtatatag
+///

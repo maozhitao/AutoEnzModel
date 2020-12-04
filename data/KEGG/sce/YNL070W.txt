@@ -1,0 +1,44 @@
+ENTRY       YNL070W           CDS       T00005
+NAME        TOM7, MOM7, YOK22
+DEFINITION  (RefSeq) Tom7p
+ORTHOLOGY   K17771  mitochondrial import receptor subunit TOM7
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YNL070W (TOM7)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YNL070W (TOM7)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YNL070W (TOM7)
+            Membrane trafficking [BR:sce04131]
+             Autophagy
+              Mitophagy
+               Other mitophagy associated  proteins
+                YNL070W (TOM7)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Outer membrane
+               Transporter outer membrane (TOM) complex
+                YNL070W (TOM7)
+            Transporters [BR:sce02000]
+             Other transporters
+              Primary active transporters [TC:3]
+               YNL070W (TOM7)
+POSITION    XIV:493366..493548
+MOTIF       Pfam: Tom7
+DBLINKS     NCBI-GeneID: 855654
+            NCBI-ProteinID: NP_014329
+            SGD: S000005014
+            UniProt: P53507
+STRUCTURE   PDB: 6UCU 6JNF 6UCV
+AASEQ       60
+            MSFLPSFILSDESKERISKILTLTHNVAHYGWIPFVLYLGWAHTSNRPNFLNLLSPLPSV
+NTSEQ       183
+            atgagtttcctaccatcttttatcttaagcgatgaatctaaagaacgtatttccaaaatt
+            ttaactttgactcataatgtagcacattatggctggatcccatttgttttgtatttgggc
+            tgggcacacacttctaatagaccaaactttttgaacttactgtctccgttaccaagtgtt
+            taa
+///

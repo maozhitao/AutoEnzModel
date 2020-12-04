@@ -1,0 +1,48 @@
+ENTRY       YNL113W           CDS       T00005
+NAME        RPC19
+DEFINITION  (RefSeq) DNA-directed RNA polymerase core subunit RPC19
+ORTHOLOGY   K03020  DNA-directed RNA polymerases I and III subunit RPAC2
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03020  RNA polymerase
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03020 RNA polymerase
+                YNL113W (RPC19)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:sce03021]
+                YNL113W (RPC19)
+            Transcription machinery [BR:sce03021]
+             Eukaryotic type
+              RNA polymerase III system
+               RNA polymerase III
+                Core subunits
+                 YNL113W (RPC19)
+              RNA polymerase I system
+               RNA polymerase I
+                 YNL113W (RPC19)
+POSITION    XIV:412771..413199
+MOTIF       Pfam: RNA_pol_L_2 RNA_pol_L
+DBLINKS     NCBI-GeneID: 855609
+            NCBI-ProteinID: NP_014286
+            SGD: S000005057
+            UniProt: P28000
+STRUCTURE   PDB: 4C2M 4C3I 6HLQ 6HLR 6HLS 4C3H 6EU3 4C3J 6EU1 6EU2 5N61
+                 6HKO 6H67 6F40 5W5Y 5M5W 5M3F 5W66 5FJ8 6EU0 5M5X 5M5Y
+                 5M3M 6CNB 6CNC 6F44 5W64 6F41 5W65 5OA1 6CNF 6H68 5M64
+                 5FJ9 5FJA 6CND 5G5L 5LMX 6F42 5N5Y 5N5Z 5N60
+AASEQ       142
+            MTEDIEQKKTATEVTPQEPKHIQEEEEQDVDMTGDEEQEEEPDREKIKLLTQATSEDGTS
+            ASFQIVEEDHTLGNALRYVIMKNPDVEFCGYSIPHPSENLLNIRIQTYGETTAVDALQKG
+            LKDLMDLCDVVESKFTEKIKSM
+NTSEQ       429
+            atgactgaagacatcgaacaaaaaaagaccgctacagaggtaacaccacaagaaccaaag
+            cacatccaagaagaagaagaacaggatgttgatatgactggcgatgaagaacaggaagag
+            gaaccagacagggaaaaaattaagcttctcacacaggcaacatctgaagatggaactagt
+            gcctcttttcaaattgtagaggaggatcacacgcttggaaatgcccttcgttacgttata
+            atgaaaaatccagacgtagaattttgtggttactcgatacctcatccttctgaaaaccta
+            ttaaatatcagaattcaaacctacggtgaaacgaccgcggtggatgctcttcaaaaaggg
+            ctaaaggacttgatggatttatgtgacgttgtagaatctaagtttactgaaaaaatcaag
+            agcatgtag
+///

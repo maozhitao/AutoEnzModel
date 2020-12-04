@@ -1,0 +1,79 @@
+ENTRY       YKR058W           CDS       T00005
+NAME        GLG1
+DEFINITION  (RefSeq) glycogenin glucosyltransferase GLG1
+ORTHOLOGY   K00750  glycogenin [EC:2.4.1.186]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00500  Starch and sucrose metabolism
+            sce01100  Metabolic pathways
+            sce01110  Biosynthesis of secondary metabolites
+MODULE      sce_M00854  Glycogen biosynthesis, glucose-1P => glycogen/starch
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00500 Starch and sucrose metabolism
+                YKR058W (GLG1)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01003 Glycosyltransferases [BR:sce01003]
+                YKR058W (GLG1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.186  glycogenin glucosyltransferase
+                 YKR058W (GLG1)
+            Glycosyltransferases [BR:sce01003]
+             Polysaccharide
+              Storage polysaccharide
+               YKR058W (GLG1)
+POSITION    XI:552770..554620
+MOTIF       Pfam: Glyco_transf_8
+DBLINKS     NCBI-GeneID: 853932
+            NCBI-ProteinID: NP_012984
+            SGD: S000001766
+            UniProt: P36143
+AASEQ       616
+            MYKKLAIATLLYSADYLPGVFALGHQVNKLLEEAGKKGDIETCLIVTTSLFNGTLSELAK
+            NILQSIYTKIVLVEPLNCQEESIQKNSENLALLERPELSFALIKARLWELTQFEQVLYLD
+            SDTLPLNKEFLKLFDIMSKQTTSQVGAIADIGWPDMFNSGVMMLIPDADTASVLQNYIFE
+            NTSIDGSDQGILNQFFNQNCCTDELVKDSFSREWVQLSFTYNVTIPNLGYQSSPAMNYFK
+            PSIKLIHFIGKHKPWSLWSQKNFIKNEYHDQWNEVYEEFKEEHQLNNEVSKPKISDSDKT
+            ETPETITPVDAPPSNEPTTNQEIDTISTVEENVDNQNAEPVPNSDHSPAPNPVPLDFTKW
+            LTTFINKDHLTNQPVNESREYSKENDNNIINSSSNRDQESPPNSTQELNSSYSVVSTQAD
+            SDEHQNAEEEDSTTDNASNSGEESHLDDISTAASSNNNVSNQPDGKNFSNSKENNISVES
+            SPSNPEQKRSTDNIQKPSVSTNDLPDDVEPHTSVDDNIQYLEKDKEGYEEFLPDVYESNA
+            IDNEEEFFDDDARDATEGETKTSAVADKQEDMKLTAEETNQPQQEMPNFKFDWEDSDYLS
+            KVERCFPDDIFEYAVE
+NTSEQ       1851
+            atgtataagaagctggctattgccacattgctctattccgcagattatttaccaggtgtg
+            tttgcccttggtcaccaagtgaataaattgttagaggaagcaggcaaaaaaggcgacatt
+            gaaacatgccttattgtgacgacctctctatttaatggcactttaagcgagctagccaag
+            aatattttacaatcaatatacaccaaaattgtgttggtagagcctttaaattgccaagaa
+            gaaagcatacagaagaatagtgagaatttagctcttttggaaagacctgaattatccttt
+            gccttaatcaaagcaagactatgggaattaactcagttcgaacaagttctttacttggat
+            tccgacactttacctctgaataaagaatttttaaagttgtttgacattatgtctaaacaa
+            accacgtcacaagtgggtgctattgctgatatcggctggcctgatatgttcaatagcggt
+            gtcatgatgctaataccggatgctgatactgcatccgttttacaaaattatatttttgaa
+            aacacttcaattgatggttctgaccagggcattttaaaccagttcttcaatcaaaattgt
+            tgcactgatgagctagttaaagacagtttctctcgagaatgggtacagttatcatttacg
+            tataacgtaactattcctaatttaggctaccaatcttcacctgctatgaattactttaaa
+            cctagcattaagttgattcatttcattgggaaacacaagccatggtcattgtggtcccaa
+            aagaatttcattaaaaacgagtatcatgatcaatggaatgaggtatacgaggaatttaag
+            gaagaacatcaattaaataacgaagtttcgaagccaaagattagtgattccgataaaact
+            gagactcctgaaacgataaccccagtggatgcccctccatcgaacgaacccactacgaat
+            caagagatcgacacaattagtacagtggaagaaaacgtggacaaccagaacgccgagcct
+            gttcctaactcggatcatagccctgctcctaaccctgtcccattggattttaccaagtgg
+            ttaacaacctttattaacaaagatcacttgactaatcagccagtaaatgaaagcagagaa
+            tattcgaaagagaatgataacaatataatcaatagcagttcaaaccgcgaccaagaaagt
+            cctccaaatagtactcaggaactaaacagctcttatagcgttgtgagtactcaagctgat
+            agcgatgagcaccaaaatgcagaagaggaggatagtacgacagataacgcttcaaattct
+            ggagaagaaagccacctcgatgatataagcacggccgcttcttccaataacaatgtaagt
+            aatcaaccagatggcaaaaattttagcaattctaaagaaaataatatcagtgtcgaatct
+            agcccttcaaatccagaacagaaaaggtcaactgacaatatacaaaaaccaagtgtttct
+            actaatgacttaccagacgacgtagaaccacatacctctgttgatgacaatatacagtac
+            ttagaaaaagacaaggaaggttatgaagaatttcttccggacgtgtacgagtcaaatgca
+            atcgataacgaagaagaattttttgatgacgatgcaagagatgctaccgaaggagaaacg
+            aagacgagtgcagttgcagataaacaggaggatatgaaacttacagcagaggaaaccaac
+            caaccgcaacaagaaatgcccaacttcaaatttgactgggaggactctgattatctatcc
+            aaagtagagaggtgtttccctgatgatatttttgagtatgcagtagagtaa
+///

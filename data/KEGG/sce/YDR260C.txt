@@ -1,0 +1,50 @@
+ENTRY       YDR260C           CDS       T00005
+NAME        SWM1, APC13
+DEFINITION  (RefSeq) Swm1p
+ORTHOLOGY   K12416  anaphase-promoting complex subunit SWM1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04111  Cell cycle - yeast
+            sce04113  Meiosis - yeast
+            sce04120  Ubiquitin mediated proteolysis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                YDR260C (SWM1)
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YDR260C (SWM1)
+               04113 Meiosis - yeast
+                YDR260C (SWM1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YDR260C (SWM1)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               APC/C
+                Other subunits
+                 YDR260C (SWM1)
+POSITION    IV:complement(976717..977229)
+MOTIF       Pfam: Apc13p
+DBLINKS     NCBI-GeneID: 851847
+            NCBI-ProteinID: NP_010546
+            SGD: S000002668
+            UniProt: Q12379
+AASEQ       170
+            MSSSSYRDSYFQYRHLPAPHHILYAEWNQDILALPDEVANITMAMKDNTRTDAEEGRAPQ
+            DGERNSNVRESAQGKALMTSEQNSNRYWNSFHDEDDWNLFNGMELESNGVVTFAGQAFDH
+            SLNGGTNSRNDGANEPRKETITGSIFDRRITQLAYARNNGWHELALPQSR
+NTSEQ       513
+            atgagttcaagttcttatagggattcatattttcaataccgccatttaccagcaccacat
+            cacatattatatgcggaatggaatcaagatatactggcgcttccggacgaagtggcaaat
+            attacaatggctatgaaagataatactcgcaccgacgcggaggagggaagagctccccaa
+            gatggggaaaggaattctaatgtacgcgagagcgctcaaggtaaggcattaatgacaagt
+            gaacaaaatagcaaccgctactggaactcttttcatgatgaagacgattggaatctattc
+            aatggcatggaactggagagtaatggagtagtgacgtttgctggacaggcgttcgatcat
+            tctttaaacgggggaaccaattccaggaacgacggtgccaatgagccaagaaaagaaacg
+            ataactggttctatttttgataggcgcatcacacaattggcgtacgcaagaaataacggt
+            tggcacgaactggctctcccacagtcacgatga
+///

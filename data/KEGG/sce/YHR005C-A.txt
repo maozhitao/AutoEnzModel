@@ -1,0 +1,39 @@
+ENTRY       YHR005C-A         CDS       T00005
+NAME        TIM10, MRS11
+DEFINITION  (RefSeq) protein transporter TIM10
+ORTHOLOGY   K17778  mitochondrial import inner membrane translocase subunit TIM10
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YHR005C-A (TIM10)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YHR005C-A (TIM10)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Inter membrane space
+               Transporter inner membrane (TIM) 9/10 complex
+                YHR005C-A (TIM10)
+            Transporters [BR:sce02000]
+             Other transporters
+              Primary active transporters [TC:3]
+               YHR005C-A (TIM10)
+POSITION    VIII:complement(115620..115901)
+MOTIF       Pfam: zf-Tim10_DDP
+DBLINKS     NCBI-GeneID: 856395
+            NCBI-ProteinID: NP_011869
+            SGD: S000003530
+            UniProt: P87108
+STRUCTURE   PDB: 3DXR
+AASEQ       93
+            MSFLGFGGGQPQLSSQQKIQAAEAELDLVTDMFNKLVNNCYKKCINTSYSEGELNKNESS
+            CLDRCVAKYFETNVQVGENMQKMGQSFNAAGKF
+NTSEQ       282
+            atgtctttcttaggtttcggtggtggtcagcctcaattatcatctcaacaaaagattcaa
+            gctgcggaagctgaactagatttggtcacagacatgttcaataaattggttaataactgt
+            tataaaaaatgtatcaatacttcttattccgagggtgagctgaataagaatgaatcttcg
+            tgcctagacagatgtgtggccaaatattttgagaccaatgttcaagtcggtgaaaacatg
+            cagaaaatgggccaatcatttaacgcagccggtaagttttag
+///

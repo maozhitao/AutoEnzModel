@@ -1,0 +1,58 @@
+ENTRY       YMR084W           CDS       T00005
+DEFINITION  (RefSeq) putative glutamine--fructose-6-phosphate transaminase
+ORTHOLOGY   K00820  glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00250  Alanine, aspartate and glutamate metabolism
+            sce00520  Amino sugar and nucleotide sugar metabolism
+            sce01100  Metabolic pathways
+MODULE      sce_M00892  UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00520 Amino sugar and nucleotide sugar metabolism
+                YMR084W
+              09105 Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                YMR084W
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YMR084W
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.6  Transferring nitrogenous groups
+               2.6.1  Transaminases
+                2.6.1.16  glutamine---fructose-6-phosphate transaminase (isomerizing)
+                 YMR084W
+            Peptidases and inhibitors [BR:sce01002]
+             Cysteine peptidases
+              Family C44
+               YMR084W
+POSITION    XIII:436628..437416
+MOTIF       Pfam: GATase_6 GATase_7 GATase_4
+DBLINKS     NCBI-GeneID: 855108
+            NCBI-ProteinID: NP_013801
+            SGD: S000004689
+            UniProt: A2P2R3
+AASEQ       262
+            MCGIFGYCNFLIEKTRGEIIDTLIEGLQALEYKEYDSSGISIQGDELESLNIYKQTGKIS
+            SLKEEIDLYNLNKNLPFISHCGIAHTRRATHGGLRRANCHPHNSDPSNEFVVVHNGVITN
+            FANLKALLMAKGYVFKSDTDTECIPKLYKHIYDTSIELGYNLDFHVLTNLVLKELEGSYG
+            LLCTSSHFPDEVVAARKGSPLVIGVKGKTDMDVNFVEVEYLDQEEDYLKLNTQTKSSGNV
+            LAAAPVKYNTCLRKSPPFVHNT
+NTSEQ       789
+            atgtgtggcatttttggctattgcaattttttaattgagaagacaagaggagaaatcatc
+            gacactttaatcgaagggttacaggcattggagtacaaggaatatgactccagtggaatt
+            tcgatccaaggtgatgagctggagtctctcaatatttataagcaaaccggtaaaataagc
+            agtttgaaggaagaaatcgacctttacaatcttaataagaacctgccctttatttcgcat
+            tgtggcattgcccatactaggcgggcaacacatggagggctaagacgtgcaaattgtcat
+            ccacataactcagatccatctaatgaatttgttgtggtacacaacggggttattaccaac
+            ttcgctaatttgaaagccttattgatggcaaagggctatgtgttcaaaagtgacactgat
+            accgaatgtattcctaaactgtacaaacacatttatgatacaagcattgaactcgggtac
+            aacctcgatttccatgtattaacaaatttagtacttaaagaattggaaggctcttatggt
+            ctgctatgcacttcttctcattttcccgatgaagtggttgccgcaagaaagggttccccg
+            ttagttattggtgttaaaggtaaaactgacatggacgtaaactttgtcgaggtggaatat
+            ttggatcaagaagaagactacttgaagcttaatactcaaaccaagagttctggtaatgtc
+            ttggctgccgcacctgtaaaatataacacttgtttaaggaagtcaccccccttcgttcac
+            aatacctga
+///

@@ -1,0 +1,44 @@
+ENTRY       YIR036C           CDS       T00005
+NAME        IRC24
+DEFINITION  (RefSeq) sepiapterin reductase family protein IRC24
+ORTHOLOGY   K16216  benzil reductase ((S)-benzoin forming) [EC:1.1.1.320]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                YIR036C (IRC24)
+            Enzymes [BR:sce01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.320  benzil reductase [(S)-benzoin forming]
+                 YIR036C (IRC24)
+POSITION    IX:complement(422074..422865)
+MOTIF       Pfam: adh_short adh_short_C2 KR Polysacc_synt_2 Epimerase GDP_Man_Dehyd
+DBLINKS     NCBI-GeneID: 854854
+            NCBI-ProteinID: NP_012302
+            SGD: S000001475
+            UniProt: P40580
+AASEQ       263
+            MGKVILITGASRGIGLQLVKTVIEEDDECIVYGVARTEAGLQSLQREYGADKFVYRVLDI
+            TDRSRMEALVEEIRQKHGKLDGIVANAGMLEPVKSISQSNSEHDIKQWERLFDVNFFSIV
+            SLVALCLPLLKSSPFVGNIVFVSSGASVKPYNGWSAYGCSKAALNHFAMDIASEEPSDKV
+            RAVCIAPGVVDTQMQKDIRETLGPQGMTPKALERFTQLYKTSSLLDPKVPAAVLAQLVLK
+            GIPDSLNGQYLRYNDERLGPVQG
+NTSEQ       792
+            atgggcaaggttattttgattacaggtgcctcccgtgggattggcctgcaattggtgaaa
+            actgttatcgaagaggacgatgaatgcatcgtctacggcgtagcaagaacggaagctggt
+            ctgcagtctttgcaaagagaatacggtgcagacaaatttgtctatcgtgtcctcgacatc
+            acggacaggtctcgaatggaagcgttggtggaggaaatccggcaaaagcatggaaaactg
+            gacggtattgtcgcaaatgcggggatgctagaaccggtgaagtccatctcccagtccaac
+            tccgaacacgacatcaagcagtgggaacggctgttcgatgtgaactttttcagcattgtc
+            tctttggtggcactgtgtttacccctcttgaagagctcgccatttgtaggcaacattgtc
+            ttcgtcagctctggagccagtgtgaaaccatataacggatggtcggcgtacggctgctcg
+            aaagccgcattaaaccactttgccatggacattgccagtgaagagcccagtgataaagtg
+            cgtgccgtgtgtattgcaccgggcgtcgttgacacgcagatgcagaaagatattagggaa
+            acattgggtcctcagggcatgacacccaaggctctcgagaggtttactcaattgtacaag
+            acttcgtcactgctggacccaaaggtgcctgcggcggtactagcgcaactcgtcctgaaa
+            ggtattcccgactctttgaacggtcaatatctccgctacaacgatgagcgactggggccg
+            gtgcagggctag
+///

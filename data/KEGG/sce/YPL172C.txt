@@ -1,0 +1,81 @@
+ENTRY       YPL172C           CDS       T00005
+NAME        COX10
+DEFINITION  (RefSeq) protoheme IX farnesyltransferase
+ORTHOLOGY   K02257  heme o synthase [EC:2.5.1.141]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00190  Oxidative phosphorylation
+            sce00860  Porphyrin and chlorophyll metabolism
+            sce01100  Metabolic pathways
+            sce01110  Biosynthesis of secondary metabolites
+MODULE      sce_M00154  Cytochrome c oxidase
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                YPL172C (COX10)
+              09108 Metabolism of cofactors and vitamins
+               00860 Porphyrin and chlorophyll metabolism
+                YPL172C (COX10)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01006 Prenyltransferases [BR:sce01006]
+                YPL172C (COX10)
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YPL172C (COX10)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.141  heme o synthase
+                 YPL172C (COX10)
+            Prenyltransferases [BR:sce01006]
+             Compound prenylation
+              Protoheme farnesyltransferase
+               YPL172C (COX10)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial quality control factors
+              Mitochondrial respiratory chain complex assembly factors
+               Complex-IV assembly factors
+                YPL172C (COX10)
+POSITION    XVI:complement(224353..225741)
+MOTIF       Pfam: UbiA
+DBLINKS     NCBI-GeneID: 855931
+            NCBI-ProteinID: NP_015153
+            SGD: S000006093
+            UniProt: P21592
+AASEQ       462
+            MSYFPRTYAHLMRNVLAHNKGNIYLQIGTQLHDTQIKIRFNGVRYISRNHGGKQQHINTA
+            PIEFTPNFGYGDRTSNCNKKVESTAMKTLRCTDDISTSSGSEATTDASTQLPFNVKLVDP
+            MVRKSKRPSHAISEGLNMKTLKKKVIMPYLQLTKPRLTILVMLSAICSYALSPYPASVNE
+            LLCLTVGTTLCSGSANAINMGREPEFDRQMVRTQARPVVRGDVTPTQAFEFAALIGTLGV
+            SILYFGVNPTVAILGASNIALYGWAYTSMKRKHIINTWLGALVGMVPPLMGWAAASPLSH
+            PGSWCLAGLLFAWQFPHFNTLSHNIRNEYKNAGYVMTAWKNPLLNARVSLRYSILMFPLC
+            FGLSYFNITDWYYQIDSGLINAWLTFWAFKFYWQQRINYSAKTLKDNVKFNKGLSVANIY
+            ARKTFMASVLHLPAILILAIIHKKGRWDWIYPGEAKRPQERF
+NTSEQ       1389
+            atgagttactttcctcgaacatatgctcacttgatgagaaatgttcttgctcataataaa
+            gggaatatatacttacaaattggtacacagctgcacgatactcaaataaaaattcgattt
+            aatggagttcgttatattagtcggaatcatggcgggaaacagcaacatataaacactgcg
+            ccgatagaatttactcccaattttggatatggtgatagaacctctaattgcaataaaaag
+            gttgaatcgactgccatgaaaacgctaagatgcacagatgatatatcaacttcaagtgga
+            agcgaagctactaccgatgcaagcacacaacttccatttaatgtcaaacttgtagacccg
+            atggtaagaaaatctaagagaccatctcacgcaatcagcgaagggctgaatatgaaaact
+            ttaaagaagaaggtaattatgccatatcttcagttgaccaagccccgactcaccattcta
+            gtgatgttaagtgccatttgttcgtatgctttatctccatatccagcctccgtcaatgaa
+            ttgttatgtttaacagtaggcactactttgtgttccggttctgcaaacgctataaatatg
+            ggcagagagccagaatttgatagacaaatggtgagaactcaggcgaggcccgttgttaga
+            ggtgatgttacacctacccaggcattcgagtttgccgcacttatcggaacattaggagta
+            tctatcttgtactttggtgttaatcctaccgttgctattcttggtgcttcaaatatcgcg
+            ttatatggctgggcctatacgtctatgaaaagaaagcatatcattaacacatggttaggt
+            gccctagtaggaatggtacctcctctaatgggatgggcagccgcaagtccgctttcacat
+            ccgggatcttggtgccttgctggtctattgtttgcttggcaattcccacactttaatacg
+            ttgagtcataacattagaaatgaatacaaaaatgccggatacgttatgactgcatggaaa
+            aatccgctcctaaacgcccgtgtgtcgttgagatactctatcctaatgttccctttatgt
+            ttcggattgtcttattttaatatcacagattggtactaccaaatagattccggacttata
+            aatgcctggctaacgttctgggctttcaaattctattggcaacaaagaatcaactattct
+            gcaaaaacattaaaagataacgtcaagtttaataaaggtctaagtgtagccaacatttat
+            gcaaggaaaacttttatggctagtgtattgcacctaccggcaattctaatcctagccatt
+            atacataaaaaaggccgctgggattggatatatcctggtgaagcaaagcgaccacaggaa
+            cgattttag
+///

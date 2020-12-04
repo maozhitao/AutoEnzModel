@@ -1,0 +1,40 @@
+ENTRY       YDL075W           CDS       T00005
+NAME        RPL31A, RPL34
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L31A
+ORTHOLOGY   K02910  large subunit ribosomal protein L31e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YDL075W (RPL31A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YDL075W (RPL31A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YDL075W (RPL31A)
+              Archaea
+                YDL075W (RPL31A)
+POSITION    IV:join(322226..322282,322704..322988)
+MOTIF       Pfam: Ribosomal_L31e
+DBLINKS     NCBI-GeneID: 851484
+            NCBI-ProteinID: NP_010208
+            SGD: S000002233
+            UniProt: P0C2H8
+STRUCTURE   PDB: 6EM5 2WW9 2WWA
+AASEQ       113
+            MAGLKDVVTREYTINLHKRLHGVSFKKRAPRAVKEIKKFAKLHMGTDDVRLAPELNQAIW
+            KRGVKGVEYRLRLRISRKRNEEEDAKNPLFSYVEPVLVASAKGLQTVVVEEDA
+NTSEQ       342
+            atggccggtttgaaagacgttgtcactcgtgaatacaccattaacttgcacaaaagattg
+            cacggtgtctccttcaagaagagagctccaagagctgtcaaggaaattaagaagttcgcc
+            aagttacacatgggtactgatgatgtccgtctagctccagaattgaaccaagctatctgg
+            aagagaggtgtcaagggtgttgaatacagattaagattgagaatttccagaaagagaaac
+            gaagaagaagacgccaagaacccattgttctcctacgttgaacctgtcttagttgcttct
+            gccaagggtctacaaactgttgttgtcgaagaagatgcttaa
+///

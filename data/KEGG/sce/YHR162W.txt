@@ -1,0 +1,41 @@
+ENTRY       YHR162W           CDS       T00005
+NAME        MPC2
+DEFINITION  (RefSeq) mitochondrial pyruvate carrier
+ORTHOLOGY   K22139  mitochondrial pyruvate carrier 2
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YHR162W (MPC2)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YHR162W (MPC2)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Inner mambrane
+               Other inner membrane factors
+                YHR162W (MPC2)
+            Transporters [BR:sce02000]
+             Solute carrier family (SLC)
+              SLC54: Mitochondrial pyruvate carrier
+               YHR162W (MPC2)
+POSITION    VIII:423072..423461
+MOTIF       Pfam: MPC MtN3_slv
+DBLINKS     NCBI-GeneID: 856567
+            NCBI-ProteinID: NP_012032
+            SGD: S000001205
+            UniProt: P38857
+AASEQ       129
+            MSTSSVRFAFRRFWQSETGPKTVHFWAPTLKWGLVFAGFSDMKRPVEKISGAQNLSLLST
+            ALIWTRWSFVIKPRNILLASVNSFLCLTAGYQLGRIANYRIRNGDSISQLCSYILSGADE
+            SKKEITTGR
+NTSEQ       390
+            atgtctacatcatccgtacgttttgcatttaggcggttctggcaaagtgagacaggcccc
+            aagacggtgcatttctgggctcctactttgaaatggggtctggttttcgctggattcagc
+            gatatgaagagaccggtggaaaaaatttctggtgctcaaaatttgtcgctgctatctact
+            gcgctgatttggactcgttggtcctttgtcatcaagccaagaaacatcttgttggcttct
+            gtcaactcgtttctttgtctgaccgctggctatcaattgggtagaattgccaactacagg
+            atacggaatggcgactctatatcgcaattgtgtagctatattctcagcggcgccgacgaa
+            agcaaaaaggaaattactacgggcagataa
+///

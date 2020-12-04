@@ -1,0 +1,44 @@
+ENTRY       YOR182C           CDS       T00005
+NAME        RPS30B
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S30B
+ORTHOLOGY   K02983  small subunit ribosomal protein S30e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YOR182C (RPS30B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YOR182C (RPS30B)
+               04121 Ubiquitin system [BR:sce04121]
+                YOR182C (RPS30B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YOR182C (RPS30B)
+              Archaea
+                YOR182C (RPS30B)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitins and ubiquitin-like proteins
+              Ubiquitin-like proteins (UBLs)
+               YOR182C (RPS30B)
+POSITION    XV:complement(join(678191..678379,678791..678793))
+MOTIF       Pfam: Ribosomal_S30
+DBLINKS     NCBI-GeneID: 854354
+            NCBI-ProteinID: NP_014825
+            SGD: S000005708
+            UniProt: P0CX33 P0CX34
+STRUCTURE   PDB: 6FAI 6RBD 6EML 6RBE 5LL6 3J16
+AASEQ       63
+            MAKVHGSLARAGKVKSQTPKVEKTEKPKKPKGRAYKRLLYTRRFVNVTLVNGKRRMNPGP
+            SVQ
+NTSEQ       192
+            atggctaaagttcacggttctctagctcgtgctggtaaagttaagtctcaaactccaaag
+            gttgaaaaaactgaaaagccaaagaaaccaaagggtcgtgcttacaagagattattgtac
+            accagaagattcgttaacgttaccttggttaacggtaagagaagaatgaacccaggtcca
+            tctgtccaatag
+///

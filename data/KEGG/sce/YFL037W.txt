@@ -1,0 +1,80 @@
+ENTRY       YFL037W           CDS       T00005
+NAME        TUB2, ARM10, SHE8
+DEFINITION  (RefSeq) beta-tubulin
+ORTHOLOGY   K07375  tubulin beta
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04145  Phagosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04145 Phagosome
+                YFL037W (TUB2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YFL037W (TUB2)
+              09183 Protein families: signaling and cellular processes
+               04812 Cytoskeleton proteins [BR:sce04812]
+                YFL037W (TUB2)
+               04147 Exosome [BR:sce04147]
+                YFL037W (TUB2)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Centrosome formation and ciliogenesis proteins
+               Microtubules and associated factors
+                Other tubulins
+                 YFL037W (TUB2)
+            Cytoskeleton proteins [BR:sce04812]
+             Eukaryotic cytoskeleton proteins
+              Microtubules
+               Tubulins
+                YFL037W (TUB2)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               YFL037W (TUB2)
+              Exosomal proteins of colorectal cancer cells
+               YFL037W (TUB2)
+              Exosomal proteins of bladder cancer cells
+               YFL037W (TUB2)
+POSITION    VI:56336..57709
+MOTIF       Pfam: Tubulin Tubulin_C Tubulin_3 Tubulin_2 Misat_Tub_SegII
+DBLINKS     NCBI-GeneID: 850506
+            NCBI-ProteinID: NP_116616
+            SGD: S000001857
+            UniProt: P02557
+STRUCTURE   PDB: 4U3J 4FFB 5W3F 5W3H 5W3J
+AASEQ       457
+            MREIIHISTGQCGNQIGAAFWETICGEHGLDFNGTYHGHDDIQKERLNVYFNEASSGKWV
+            PRSINVDLEPGTIDAVRNSAIGNLFRPDNYIFGQSSAGNVWAKGHYTEGAELVDSVMDVI
+            RREAEGCDSLQGFQITHSLGGGTGSGMGTLLISKIREEFPDRMMATFSVLPSPKTSDTVV
+            EPYNATLSVHQLVEHSDETFCIDNEALYDICQRTLKLNQPSYGDLNNLVSSVMSGVTTSL
+            RYPGQLNSDLRKLAVNLVPFPRLHFFMVGYAPLTAIGSQSFRSLTVPELTQQMFDAKNMM
+            AAADPRNGRYLTVAAFFRGKVSVKEVEDEMHKVQSKNSDYFVEWIPNNVQTAVCSVAPQG
+            LDMAATFIANSTSIQELFKRVGDQFSAMFKRKAFLHWYTSEGMDELEFSEAESNMNDLVS
+            EYQQYQEATVEDDEEVDENGDFGAPQNQDEPITENFE
+NTSEQ       1374
+            atgagagaaatcattcatatctcgacaggtcagtgtggtaaccaaattggtgctgcattc
+            tgggaaactatctgtggtgagcacggtttggatttcaatgggacatatcacggccatgac
+            gatatccagaaggagagactgaacgtgtacttcaacgaggcatcttctgggaagtgggtt
+            ccaagatctattaacgtcgatctagaacctgggacgattgacgcagtacgcaattctgcc
+            atcgggaatttgtttagacctgacaattatatctttgggcaaagttctgcgggcaacgtg
+            tgggccaagggtcactacacagaaggtgctgagcttgtagacagcgtcatggatgttatt
+            agacgagaggccgaaggatgcgactcccttcaaggtttccagatcacacattctcttggt
+            ggtggtaccggttccggtatgggtacgcttttgatctcgaagattagggaagagtttcct
+            gatcgtatgatggccaccttctccgtcttgccctctccgaagacttctgacaccgttgtc
+            gaaccatacaatgccacgttgtctgtgcaccaattggtagaacactctgatgaaacattc
+            tgtatcgataacgaagcactttatgacatctgtcaaaggaccttaaagttgaatcaacct
+            tcttatggagatttgaacaacttggtctcgagcgtcatgtctggtgtgacaacttcattg
+            cgttatcccggccaattgaactctgatttgagaaagttggctgttaatcttgtcccattc
+            ccacgtttacatttcttcatggtcggctacgctccattgacggcaattggctctcaatca
+            tttagatctttgactgtccctgaattaacacagcaaatgtttgatgccaagaacatgatg
+            gctgctgccgatccaagaaacggtagataccttaccgttgcagccttctttagaggtaaa
+            gtttccgttaaggaggtggaagatgaaatgcataaagtgcaatctaaaaactcagactat
+            ttcgtggaatggatccccaacaatgtgcaaactgctgtgtgttctgtcgctcctcaaggt
+            ttggacatggctgctactttcattgctaactccacatctattcaagagctattcaagaga
+            gttggtgaccaattttccgctatgttcaaaagaaaagctttcttgcactggtatactagt
+            gaaggtatggacgaattggaattctctgaggctgaatctaatatgaatgatctggttagc
+            gaataccaacaataccaagaggctactgtagaagatgatgaagaagtcgacgaaaatggc
+            gattttggtgctccacaaaaccaagatgaaccaatcactgagaattttgaataa
+///

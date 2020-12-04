@@ -1,0 +1,145 @@
+ENTRY       YAL005C           CDS       T00005
+NAME        SSA1, YG100
+DEFINITION  (RefSeq) Hsp70 family ATPase SSA1
+ORTHOLOGY   K03283  heat shock 70kDa protein 1/2/6/8
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+            sce04141  Protein processing in endoplasmic reticulum
+            sce04144  Endocytosis
+            sce04213  Longevity regulating pathway - multiple species
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YAL005C (SSA1)
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YAL005C (SSA1)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04144 Endocytosis
+                YAL005C (SSA1)
+             09150 Organismal Systems
+              09149 Aging
+               04213 Longevity regulating pathway - multiple species
+                YAL005C (SSA1)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01009 Protein phosphatases and associated proteins [BR:sce01009]
+                YAL005C (SSA1)
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YAL005C (SSA1)
+               03009 Ribosome biogenesis [BR:sce03009]
+                YAL005C (SSA1)
+               03110 Chaperones and folding catalysts [BR:sce03110]
+                YAL005C (SSA1)
+               04131 Membrane trafficking [BR:sce04131]
+                YAL005C (SSA1)
+               03051 Proteasome [BR:sce03051]
+                YAL005C (SSA1)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YAL005C (SSA1)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YAL005C (SSA1)
+            Protein phosphatases and associated proteins [BR:sce01009]
+             Protein serine/threonine phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-5
+                PP5-interacting proteins
+                 YAL005C (SSA1)
+            Spliceosome [BR:sce03041]
+             Complex B
+              Other components
+               Prp19 complex
+                YAL005C (SSA1)
+             Complex C
+               Prp19-CDC5 complex
+                YAL005C (SSA1)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Pre-60S particles
+               Export and cytoplasmic maturation factors
+                YAL005C (SSA1)
+            Chaperones and folding catalysts [BR:sce03110]
+             Heat shock proteins
+              HSP70 / DNAK
+               YAL005C (SSA1)
+            Membrane trafficking [BR:sce04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Other core components
+                YAL005C (SSA1)
+             Autophagy
+              Chaperone mediated autophagy (CMA)
+               Chaperones
+                YAL005C (SSA1)
+            Proteasome [BR:sce03051]
+             Eukaryotic proteasome
+              Assembling factors
+               Other assembling factors
+                YAL005C (SSA1)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Endoplasmic reticulum membrane and cytosol
+               Other ER-memrane and cytosol factors
+                YAL005C (SSA1)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               YAL005C (SSA1)
+POSITION    I:complement(139503..141431)
+MOTIF       Pfam: HSP70 MreB_Mbl FGGY_C DDR Hydantoinase_A DUF4795
+DBLINKS     NCBI-GeneID: 851259
+            NCBI-ProteinID: NP_009396
+            SGD: S000000004
+            UniProt: P10591
+STRUCTURE   PDB: 5Z8Q 5Z8I
+AASEQ       642
+            MSKAVGIDLGTTYSCVAHFANDRVDIIANDQGNRTTPSFVAFTDTERLIGDAAKNQAAMN
+            PSNTVFDAKRLIGRNFNDPEVQADMKHFPFKLIDVDGKPQIQVEFKGETKNFTPEQISSM
+            VLGKMKETAESYLGAKVNDAVVTVPAYFNDSQRQATKDAGTIAGLNVLRIINEPTAAAIA
+            YGLDKKGKEEHVLIFDLGGGTFDVSLLSIEDGIFEVKATAGDTHLGGEDFDNRLVNHFIQ
+            EFKRKNKKDLSTNQRALRRLRTACERAKRTLSSSAQTSVEIDSLFEGIDFYTSITRARFE
+            ELCADLFRSTLDPVEKVLRDAKLDKSQVDEIVLVGGSTRIPKVQKLVTDYFNGKEPNRSI
+            NPDEAVAYGAAVQAAILTGDESSKTQDLLLLDVAPLSLGIETAGGVMTKLIPRNSTIPTK
+            KSEIFSTYADNQPGVLIQVFEGERAKTKDNNLLGKFELSGIPPAPRGVPQIEVTFDVDSN
+            GILNVSAVEKGTGKSNKITITNDKGRLSKEDIEKMVAEAEKFKEEDEKESQRIASKNQLE
+            SIAYSLKNTISEAGDKLEQADKDTVTKKAEETISWLDSNTTASKEEFDDKLKELQDIANP
+            IMSKLYQAGGAPGGAAGGAPGGFPGGAPPAPEAEGPTVEEVD
+NTSEQ       1929
+            atgtcaaaagctgtcggtattgatttaggtacaacatactcgtgtgttgctcactttgct
+            aatgatcgtgtggacattattgccaacgatcaaggtaacagaaccactccatcttttgtc
+            gctttcactgacactgaaagattgattggtgatgctgctaagaatcaagctgctatgaat
+            ccttcgaataccgttttcgacgctaagcgtttgatcggtagaaacttcaacgacccagaa
+            gtgcaggctgacatgaagcacttcccattcaagttgatcgatgttgacggtaagcctcaa
+            attcaagttgaatttaagggtgaaaccaagaactttaccccagaacaaatctcctccatg
+            gtcttgggtaagatgaaggaaactgccgaatcttacttgggagccaaggtcaatgacgct
+            gtcgtcactgtcccagcttacttcaacgattctcaaagacaagctaccaaggatgctggt
+            accattgctggtttgaatgtcttgcgtattattaacgaacctaccgccgctgccattgct
+            tacggtttggacaagaagggtaaggaagaacacgtcttgattttcgacttgggtggtggt
+            actttcgatgtctctttgttgtccattgaagacggtatctttgaagttaaggccaccgct
+            ggtgacacccatttgggtggtgaagattttgacaacagattggtcaaccacttcatccaa
+            gaattcaagagaaagaacaagaaggacttgtctaccaaccaaagagctttgagaagatta
+            agaaccgcttgtgaaagagccaagagaactttgtcttcctccgctcaaacttccgttgaa
+            attgactctttgttcgaaggtatcgatttctacacttccatcaccagagccagattcgaa
+            gaattgtgtgctgacttgttcagatctactttggacccagttgaaaaggtcttgagagat
+            gctaaattggacaaatctcaagtcgatgaaattgtcttggtcggtggttctaccagaatt
+            ccaaaggtccaaaaattggtcactgactacttcaacggtaaggaaccaaacagatctatc
+            aacccagatgaagctgttgcttacggtgctgctgttcaagctgctattttgactggtgac
+            gaatcttccaagactcaagatctattgttgttggatgtcgctccattatccttgggtatt
+            gaaactgctggtggtgtcatgaccaagttgattccaagaaactctaccattccaacaaag
+            aagtccgagatcttttccacttatgctgataaccaaccaggtgtcttgattcaagtcttt
+            gaaggtgaaagagccaagactaaggacaacaacttgttgggtaagttcgaattgagtggt
+            attccaccagctccaagaggtgtcccacaaattgaagtcactttcgatgtcgactctaac
+            ggtattttgaatgtttccgccgtcgaaaagggtactggtaagtctaacaagatcactatt
+            accaacgacaagggtagattgtccaaggaagatatcgaaaagatggttgctgaagccgaa
+            aaattcaaggaagaagatgaaaaggaatctcaaagaattgcttccaagaaccaattggaa
+            tccattgcttactctttgaagaacaccatttctgaagctggtgacaaattggaacaagct
+            gacaaggacaccgtcaccaagaaggctgaagagactatttcttggttagacagcaacacc
+            actgccagcaaggaagaattcgatgacaagttgaaggagttgcaagacattgccaaccca
+            atcatgtctaagttgtaccaagctggtggtgctccaggtggcgctgcaggtggtgctcca
+            ggcggtttcccaggtggtgctcctccagctccagaggctgaaggtccaaccgttgaagaa
+            gttgattaa
+///

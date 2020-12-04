@@ -1,0 +1,36 @@
+ENTRY       YJL189W           CDS       T00005
+NAME        RPL39, RPL46, SPB2
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L39
+ORTHOLOGY   K02924  large subunit ribosomal protein L39e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YJL189W (RPL39)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YJL189W (RPL39)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YJL189W (RPL39)
+              Archaea
+                YJL189W (RPL39)
+POSITION    X:join(75933..75938,76325..76474)
+MOTIF       Pfam: Ribosomal_L39
+DBLINKS     NCBI-GeneID: 853250
+            NCBI-ProteinID: NP_012346
+            SGD: S000003725
+            UniProt: P04650
+STRUCTURE   PDB: 2WW9 2WWA
+AASEQ       51
+            MAAQKSFRIKQKMAKAKKQNRPLPQWIRLRTNNTIRYNAKRRNWRRTKMNI
+NTSEQ       156
+            atggctgctcaaaagtctttcagaatcaagcaaaaaatggctaaggctaagaagcaaaac
+            agaccattgccacaatggatcagattgagaaccaacaacactatccgttacaacgctaag
+            agaagaaactggagaagaaccaagatgaacatctaa
+///

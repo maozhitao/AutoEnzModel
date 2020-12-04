@@ -1,0 +1,40 @@
+ENTRY       YGR027C           CDS       T00005
+NAME        RPS25A, RPS31A
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S25A
+ORTHOLOGY   K02975  small subunit ribosomal protein S25e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YGR027C (RPS25A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YGR027C (RPS25A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YGR027C (RPS25A)
+              Archaea
+                YGR027C (RPS25A)
+POSITION    VII:complement(534132..534458)
+MOTIF       Pfam: Ribosomal_S25 FtsK_gamma EAP30 HTH_CodY
+DBLINKS     NCBI-GeneID: 852911
+            NCBI-ProteinID: NP_011541
+            SGD: S000003259
+            UniProt: Q3E792
+STRUCTURE   PDB: 6FAI 6RBD 6EML 6RBE
+AASEQ       108
+            MPPKQQLSKAAKAAAALAGGKKSKKKWSKKSMKDRAQHAVILDQEKYDRILKEVPTYRYV
+            SVSVLVDRLKIGGSLARIALRHLEKEGIIKPISKHSKQAIYTRATASE
+NTSEQ       327
+            atgcctccaaagcaacaattatctaaagctgccaaagccgctgctgcccttgctggtggt
+            aagaagtctaagaagaagtggtccaaaaagtccatgaaagacagagctcaacacgctgtc
+            attttagaccaagagaagtacgacagaatcttgaaggaagttccaacttacagatacgtt
+            tctgtctctgttttggtcgacagattaaagattggtggttctttagctagaattgctttg
+            agacacttggaaaaggaaggtatcatcaagccaatctccaagcactccaagcaagctatc
+            tacaccagagctactgcttctgaataa
+///

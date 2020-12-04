@@ -1,0 +1,42 @@
+ENTRY       YKL006W           CDS       T00005
+NAME        RPL14A
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L14A
+ORTHOLOGY   K02875  large subunit ribosomal protein L14e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YKL006W (RPL14A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YKL006W (RPL14A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YKL006W (RPL14A)
+              Archaea
+                YKL006W (RPL14A)
+POSITION    XI:join(431906..432034,432433..432720)
+MOTIF       Pfam: Ribosomal_L14e KOW
+DBLINKS     NCBI-GeneID: 853864
+            NCBI-ProteinID: NP_012920
+            SGD: S000001489
+            UniProt: P36105
+STRUCTURE   PDB: 6EM3 5Z3G 6C0F 6EM4 6EM5 6CB1
+AASEQ       138
+            MSTDSIVKASNWRLVEVGRVVLIKKGQSAGKLAAIVEIIDQKKVLIDGPKAGVPRQAINL
+            GQVVLTPLTFALPRGARTATVSKKWAAAAVCEKWAASSWAKKIAQRERRAALTDFERFQV
+            MVLRKQKRYTVKKALAKA
+NTSEQ       417
+            atgtccaccgattctattgtcaaggcttctaactggagattagtcgaagttggccgtgtg
+            gttttgatcaagaagggtcaatccgcaggtaaattggccgctatcgtcgaaattattgac
+            caaaagaaggttttgattgacggtccaaaagctggtgttccacgtcaagccatcaacttg
+            ggtcaagttgtcttaactccattgacctttgctctaccaagaggtgctagaactgctacc
+            gtttctaagaagtgggctgctgctgctgtctgcgaaaagtgggctgcttcatcttgggct
+            aagaagattgctcaacgtgaaagacgtgctgctttgactgactttgaaagattccaagtt
+            atggttttaagaaagcaaaagagatacactgtcaagaaggctttggctaaggcttaa
+///

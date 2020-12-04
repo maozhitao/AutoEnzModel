@@ -1,0 +1,53 @@
+ENTRY       YER179W           CDS       T00005
+NAME        DMC1, ISC2
+DEFINITION  (RefSeq) recombinase DMC1
+ORTHOLOGY   K10872  meiotic recombination protein DMC1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04113  Meiosis - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04113 Meiosis - yeast
+                YER179W (DMC1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YER179W (DMC1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecA family proteins
+                 YER179W (DMC1)
+POSITION    V:join(548421..548552,548645..549517)
+MOTIF       Pfam: Rad51 RecA AAA_25 ATPase HHH_5 RNA_pol_A_CTD PAXNEB
+DBLINKS     NCBI-GeneID: 856926
+            NCBI-ProteinID: NP_011106
+            SGD: S000000981
+            UniProt: P25453
+AASEQ       334
+            MSVTGTEIDSDTAKNILSVDELQNYGINASDLQKLKSGGIYTVNTVLSTTRRHLCKIKGL
+            SEVKVEKIKEAAGKIIQVGFIPATVQLDIRQRVYSLSTGSKQLDSILGGGIMTMSITEVF
+            GEFRCGKTQMSHTLCVTTQLPREMGGGEGKVAYIDTEGTFRPERIKQIAEGYELDPESCL
+            ANVSYARALNSEHQMELVEQLGEELSSGDYRLIVVDSIMANFRVDYCGRGELSERQQKLN
+            QHLFKLNRLAEEFNVAVFLTNQVQSDPGASALFASADGRKPIGGHVLAHASATRILLRKG
+            RGDERVAKLQDSPDMPEKECVYVIGEKGITDSSD
+NTSEQ       1005
+            atgtctgttacaggaactgagatcgatagtgatacagcaaaaaatattcttagtgtagat
+            gaattacagaactatggtattaatgcctcagatcttcaaaaattgaagtctggtgggata
+            tacacagtcaataccgttttgtcaacaacaagaagacatctatgtaaaattaaagggtta
+            agtgaggtgaaagtggaaaaaattaaagaagctgctggaaaaatcatacaggtgggattt
+            atccccgctactgtacaattagatataagacagcgtgtgtactccttatcaactggatct
+            aagcaactagattcaatcctaggtggtggaataatgacaatgagtatcactgaagtattt
+            ggtgaatttaggtgtggtaagacacagatgtctcatactttgtgtgttaccacgcagctt
+            ccgagggaaatgggtggtggtgaagggaaagtagcatatattgatacagaaggcactttc
+            aggcccgagaggattaagcaaattgcagaaggttatgaattggatcccgagtcatgtttg
+            gcaaacgtttcatatgctagagccttgaatagtgaacatcaaatggaacttgttgaacaa
+            ttgggtgaagaacttagttctggagattatcgccttatcgtggtagattctataatggca
+            aacttcagagtagactactgcggtagaggtgaactaagcgaaagacagcaaaagctaaat
+            caacatcttttcaaattgaatagattggcagaggaatttaatgttgcagtatttctgaca
+            aaccaagttcaatcagacccaggtgcttctgcattatttgcctcggcagatggtaggaaa
+            ccaattggagggcacgttctggcacatgcgtcagcaacaaggattttgttgagaaaaggg
+            cgtggtgacgaaagagttgccaagttacaagattccccagatatgcctgaaaaagaatgt
+            gtctacgtaattggtgaaaaaggtattaccgattcaagtgactag
+///

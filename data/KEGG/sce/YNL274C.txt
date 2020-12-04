@@ -1,0 +1,52 @@
+ENTRY       YNL274C           CDS       T00005
+NAME        GOR1
+DEFINITION  (RefSeq) glyoxylate reductase
+ORTHOLOGY   K00015  glyoxylate reductase [EC:1.1.1.26]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00630  Glyoxylate and dicarboxylate metabolism
+            sce01100  Metabolic pathways
+            sce01110  Biosynthesis of secondary metabolites
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00630 Glyoxylate and dicarboxylate metabolism
+                YNL274C (GOR1)
+            Enzymes [BR:sce01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.26  glyoxylate reductase
+                 YNL274C (GOR1)
+POSITION    XIV:complement(121118..122170)
+MOTIF       Pfam: 2-Hacid_dh_C 2-Hacid_dh IlvN NAD_binding_2 AlaDh_PNT_C F420_oxidored Gp_dh_N
+DBLINKS     NCBI-GeneID: 855447
+            NCBI-ProteinID: NP_014125
+            SGD: S000005218
+            UniProt: P53839
+AASEQ       350
+            MSKKPIVLKLGKDAFGDQAWGELEKIADVITIPESTTREQFLREVKDPQNKLSQVQVITR
+            TARSVKNTGRFDEELALALPSSVVAVCHTGAGYDQIDVEPFKKRHIQVANVPDLVSNATA
+            DTHVFLLLGALRNFGIGNRRLIEGNWPEAGPACGSPFGYDPEGKTVGILGLGRIGRCILE
+            RLKPFGFENFIYHNRHQLPSEEEHGCEYVGFEEFLKRSDIVSVNVPLNHNTHHLINAETI
+            EKMKDGVVIVNTARGAVIDEQAMTDALRSGKIRSAGLDVFEYEPKISKELLSMSQVLGLP
+            HMGTHSVETRKKMEELVVENAKNVILTGKVLTIVPELQNEDWPNESKPLV
+NTSEQ       1053
+            atgagtaagaaaccaattgttttgaaattaggaaaggatgcctttggtgaccaagcctgg
+            ggggaattggaaaagattgcggatgtaattaccatccctgaatccaccactagagaacag
+            tttttgcgggaggtaaaagacccacaaaataagctctcccaagtacaagtcattactaga
+            acagcaaggagtgtgaaaaacaccggtagatttgatgaagagcttgctcttgctttgccc
+            tcctccgtagtggctgtatgtcatactggtgctggttatgaccaaattgatgttgagcca
+            ttcaagaaaaggcacatccaggttgccaatgttcctgatttagttagcaatgctaccgct
+            gatacgcatgtatttttgctattgggtgccctaagaaacttcggtattggtaacagaagg
+            ttgatcgagggaaactggccggaggcaggacccgcatgtggttctccctttggatacgac
+            cctgaagggaaaacagttggtatactgggtctaggtaggattggtcgttgtattttagag
+            agattgaagccgtttgggttcgagaatttcatatatcataacagacaccagcttccttcc
+            gaagaagagcatggttgtgaatatgtaggattcgaggagtttttgaagcgttctgatata
+            gtatctgtaaacgtcccactgaaccacaatactcaccatctaatcaatgcagagactatt
+            gaaaaaatgaaagatggtgtagttattgttaacacagcgcgtggtgccgtgatagacgaa
+            caagccatgactgatgctttgcgttctggaaagattagaagtgctggtttggacgttttc
+            gaatatgagccaaaaatatccaaagagttattatcgatgtcccaagtcttaggactgcct
+            catatgggcacacatagtgtagaaacaagaaagaaaatggaagaactggtcgttgaaaat
+            gcaaagaatgtgatattgaccgggaaagtcttgactattgttccggaattacaaaatgaa
+            gactggcccaatgaatctaagccattagtttga
+///

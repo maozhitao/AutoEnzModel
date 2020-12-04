@@ -1,0 +1,51 @@
+ENTRY       YGR144W           CDS       T00005
+NAME        THI4, ESP35, MOL1
+DEFINITION  (RefSeq) thiamine thiazole synthase
+ORTHOLOGY   K03146  cysteine-dependent adenosine diphosphate thiazole synthase [EC:2.4.2.60]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00730  Thiamine metabolism
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00730 Thiamine metabolism
+                YGR144W (THI4)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.2  Pentosyltransferases
+                2.4.2.60  cysteine-dependent adenosine diphosphate thiazole synthase
+                 YGR144W (THI4)
+POSITION    VII:780399..781379
+MOTIF       Pfam: Thi4 DAO FAD_binding_2 NAD_binding_8 Lycopene_cycl FAD_oxidored NAD_binding_9 HI0933_like Pyr_redox_2 Pyr_redox_3 GIDA K_oxygenase Trp_halogenase FAD_binding_3
+DBLINKS     NCBI-GeneID: 853047
+            NCBI-ProteinID: NP_011660
+            SGD: S000003376
+            UniProt: P32318
+STRUCTURE   PDB: 3FPZ 4Y4L
+AASEQ       326
+            MSATSTATSTSASQLHLNSTPVTHCLSDIVKKEDWSDFKFAPIRESTVSRAMTSRYFKDL
+            DKFAVSDVIIVGAGSSGLSAAYVIAKNRPDLKVCIIESSVAPGGGSWLGGQLFSAMVMRK
+            PAHLFLQELEIPYEDEGDYVVVKHAALFISTVLSKVLQLPNVKLFNATCVEDLVTRPPTE
+            KGEVTVAGVVTNWTLVTQAHGTQCCMDPNVIELAGYKNDGTRDLSQKHGVILSTTGHDGP
+            FGAFCAKRIVDIDQNQKLGGMKGLDMNHAEHDVVIHSGAYAGVDNMYFAGMEVAELDGLN
+            RMGPTFGAMALSGVHAAEQILKHFAA
+NTSEQ       981
+            atgtctgctacctctactgctacttccacaagtgcctctcaattgcacttaaactctact
+            ccagttactcactgcttatctgacatcgttaagaaagaagattggtctgactttaaattt
+            gctcccatccgcgaatccactgtctctcgtgctatgacttctcgttatttcaaggatctt
+            gacaagtttgccgtttctgacgtgattattgtcggtgcgggctcttcaggtttatccgcc
+            gcttacgtcatcgccaagaacagaccagacttgaaggtttgtattatcgaaagttcagtt
+            gcaccaggtggtggtagttggttgggtggtcaattatttagtgccatggttatgagaaaa
+            ccagctcatttgttcttacaagagttggaaatcccttacgaagacgaaggtgactatgtt
+            gtcgttaagcatgccgctttgttcatctctactgtcctttcaaaggtcttgcaattacca
+            aatgttaaactgttcaatgctacctgtgttgaagatttggttaccagaccacctaccgaa
+            aagggcgaagtcaccgttgctggtgttgtcaccaactggacgttagttacccaagctcac
+            ggtactcaatgttgcatggaccctaacgtaattgaattggcaggttacaaaaatgacgga
+            actcgtgacttgagtcaaaagcatggtgtcattttatccactaccggtcatgatggtcca
+            tttggtgctttctgcgccaagagaatcgtcgacattgatcaaaaccaaaaattgggcggt
+            atgaagggtctggacatgaaccatgccgaacacgatgtcgttattcactctggtgcatac
+            gccggtgttgacaacatgtactttgctggtatggaagttgctgaactggatggattaaac
+            cgtatgggtccaacttttggagctatggctttgagtggtgttcatgctgctgagcaaatt
+            ttgaaacactttgctgcttag
+///

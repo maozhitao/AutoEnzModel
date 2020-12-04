@@ -1,0 +1,85 @@
+ENTRY       YNL258C           CDS       T00005
+NAME        DSL1, RNS1
+DEFINITION  (RefSeq) Dsl1p
+ORTHOLOGY   K11578  protein transport protein DSL1/ZW10
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YNL258C (DSL1)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YNL258C (DSL1)
+            Membrane trafficking [BR:sce04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Retrieval pathways
+               NRZ (DSL1) complex
+                YNL258C (DSL1)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Centromeric chromatin formation proteins
+               SAC (spindle assembly checkpoint) factors
+                Motor proteins
+                 RZZ complex
+                  YNL258C (DSL1)
+POSITION    XIV:complement(158109..160373)
+MOTIF       Pfam: Dsl1_N Dsl1_C COPI_C VPS13_C
+DBLINKS     NCBI-GeneID: 855463
+            NCBI-ProteinID: NP_014141
+            SGD: S000005202
+            UniProt: P53847
+STRUCTURE   PDB: 3ETV 3ETU
+AASEQ       754
+            MESLFPNKGEIIRELLKDPLILKNDSKRSNGSELELDSSDLLQREAILANELNILDNLKT
+            FLNLIKEVKTNLNILELENCYYSLQSLRKKMRNNAAYLKQSFNFQQSISTYVDTLHLELV
+            STLYKILTNGFWKITENSIQFTPTVEWGKDKVHIEYDTFMDFVAQQYFPKGSLDNQAWFI
+            LDMTSADSQEQVRAKLNTIMKEYMNLSRIVSMIKNSIFISGKEISYENEKNILVFSKSSS
+            HGQHCVSTVLTSFEAVCDFMLDGLAFRDRKTLSYELGPLFNTEFTKFVKNNASIILESLD
+            SPLKNLVSVINNKLTRLVAKSEVTNWTHSGKEIQDLLMNKQLYYNLLLDKVLESHISEIR
+            SIFEDPKKSWQNLEVVELTTSNTNTMSEKIGKNDSDVQNEKELHNAVSKDDDWNWEVEDD
+            DADAWGDEIDVNIDDEEEKTNQEKEKEPEEEENAWDEAWAIDENIDDASLENGKEHLKAH
+            DVGSLDKDHIEVTQLPKLFLAISQNFKSSFADSHVDEQYFAYKYNLLQTSYMAMCTANFS
+            HNWCQLYVDMRYLIERDEKLYRIKELTRNLLETKLNMKYRIVCQLIRHQLTEFRENERNP
+            SWDATIEKLLPYILKEIVRPLQKIRGEEGSRYLLSFLNFLYNDCVTKEILKWQIISEVNS
+            ENLGELVSLLVNNTDIQLLAKEPSYKKMREKFATMGKFLPLHLKEIMEMFYNGDFYLFAT
+            DELIQWIELLFADTPLRRNAIDDIYEIRGTALDD
+NTSEQ       2265
+            atggagtctctttttcctaacaaaggtgaaataatacgcgagttactgaaggatccttta
+            atattaaaaaatgacagcaaaaggtccaatggcagtgagttagaacttgattctagtgac
+            ctactacaacgcgaggcaattctagccaacgaactgaacatcctagataatttgaagacg
+            tttttaaatctcataaaagaagttaaaactaatttgaacatactagaactagaaaactgc
+            tactattcgttgcagtcattgcgaaaaaagatgcgtaataatgctgcttatcttaagcaa
+            agctttaatttccagcagtccatttctacctacgtcgacacactgcatttagaacttgtc
+            agcacgttgtataaaattcttactaatggattttggaagattaccgagaatagcatccaa
+            tttacgcccacagtggaatggggtaaagacaaggttcatattgagtatgatacatttatg
+            gattttgtggcccaacagtattttcctaagggtagtttggacaatcaagcttggttcatt
+            ttagatatgaccagtgccgactctcaagagcaggtaagagcaaaattgaatacaatcatg
+            aaggagtatatgaacctttccaggattgtaagcatgatcaaaaattctatttttatatct
+            ggtaaagaaatctcatatgaaaacgaaaaaaacatacttgtcttttctaaatcctcttcg
+            catggccaacattgtgtgtctactgtattaacaagttttgaagcagtatgcgatttcatg
+            ttagacggattagcctttagagacagaaagaccttaagttatgagctaggtcccttgttc
+            aatacggagtttaccaaatttgtgaaaaataatgcatcgataattttagaatcacttgat
+            tcaccgctaaaaaatctagtttctgtcataaataacaaactaactagactagttgccaaa
+            tcagaagttaccaattggacacattccggtaaagagattcaggatttgttaatgaacaaa
+            caattatactacaatttattactagataaagttcttgaatcgcatattagtgagataaga
+            agtatatttgaagatccaaaaaagagctggcaaaatttggaagtagttgagctcactact
+            agcaatactaatacgatgagcgaaaaaattggaaaaaatgattcagatgtacagaacgaa
+            aaagaactccataatgccgtatccaaagatgatgattggaattgggaagtagaggatgat
+            gatgccgatgcatggggtgatgaaattgatgtaaatattgacgacgaggaagaaaaaaca
+            aatcaagagaaggaaaaagaaccagaagaagaagaaaatgcctgggatgaagcctgggca
+            attgacgaaaatatagatgatgcttccctagaaaatggaaaggaacatttaaaagctcat
+            gatgtaggatcacttgataaagaccacattgaagttacacagttaccaaaattgttcttg
+            gcaatttcacagaatttcaagagtagctttgcagatagccatgttgatgagcaatacttt
+            gcgtacaaatacaaccttttgcagacatcgtatatggccatgtgcacagctaatttttct
+            cacaattggtgccaattatatgtggatatgagatatctaatagaacgagatgaaaagctg
+            tatagaataaaagaattaacaaggaacctgctggaaactaaactgaacatgaaatatcgt
+            attgtctgtcaactaatcaggcatcaattgaccgaatttcgtgagaacgagagaaatcca
+            tcgtgggacgccaccattgagaaactgctaccttatatcttgaaggaaattgttcgtcca
+            ctgcagaaaataagaggtgaagaaggttcccgttacttgttgtctttcttaaacttttta
+            tataacgattgcgtgacaaaggaaatattaaaatggcagattatctctgaggtcaattcc
+            gaaaatttgggtgagctcgtatctttattagtgaacaacaccgatatacaattattagcg
+            aaggaaccaagttacaaaaagatgagagaaaaattcgccactatgggcaagtttctacca
+            ttacatttaaaggagattatggagatgttttacaatggggatttttatctttttgcgaca
+            gacgaactaatccaatggatagagttattgtttgccgacactcccctgcgaaggaatgcc
+            attgatgatatttacgaaattagaggcactgctctagatgattaa
+///

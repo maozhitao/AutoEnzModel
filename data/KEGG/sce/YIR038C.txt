@@ -1,0 +1,51 @@
+ENTRY       YIR038C           CDS       T00005
+NAME        GTT1
+DEFINITION  (RefSeq) bifunctional glutathione transferase/peroxidase
+ORTHOLOGY   K00799  glutathione S-transferase [EC:2.5.1.18]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00480  Glutathione metabolism
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09106 Metabolism of other amino acids
+               00480 Glutathione metabolism
+                YIR038C (GTT1)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YIR038C (GTT1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.18  glutathione transferase
+                 YIR038C (GTT1)
+            Transporters [BR:sce02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               YIR038C (GTT1)
+POSITION    IX:complement(423809..424513)
+MOTIF       Pfam: GST_N GST_C GST_N_3 GST_N_2 GST_C_3
+DBLINKS     NCBI-GeneID: 854856
+            NCBI-ProteinID: NP_012304
+            SGD: S000001477
+            UniProt: P40582
+AASEQ       234
+            MSLPIIKVHWLDHSRAFRLLWLLDHLNLEYEIVPYKRDANFRAPPELKKIHPLGRSPLLE
+            VQDRETGKKKILAESGFIFQYVLQHFDHSHVLMSEDADIADQINYYLFYVEGSLQPPLMI
+            EFILSKVKDSGMPFPISYLARKVADKISQAYSSGEVKNQFDFVEGEISKNNGYLVDGKLS
+            GADILMSFPLQMAFERKFAAPEDYPAISKWLKTITSEESYAASKEKARALGSNF
+NTSEQ       705
+            atgtcgttgccaattatcaaagtccattggttggaccattccagagcgttcagacttttg
+            tggttattagaccatttgaaccttgaatatgaaattgtcccttataaaagagatgctaac
+            ttccgtgctccaccagaattaaagaaaattcacccattaggaagatctccattgttagaa
+            gttcaagacagagaaactggtaagaagaagatacttgccgagtccggtttcatcttccaa
+            tatgtcttgcagcattttgatcattcacacgttttaatgagcgaagatgctgatattgca
+            gaccagattaactattatctgttttatgtagaaggttccttgcaaccacctttaatgatt
+            gagttcattctttcaaaggtgaaggattctggtatgcccttccctatttcgtacttggca
+            agaaaagtggcagacaagatcagtcaggcatactctagtggtgaagttaagaaccagttc
+            gactttgtggagggtgaaatttccaaaaataacggctacctggttgatgggaagttgagc
+            ggtgccgatatcttgatgtctttccctttgcagatggcgtttgaaagaaagtttgccgca
+            ccagaggattatcctgccatttccaaatggttaaagaccataacctcagaggagtcgtat
+            gctgcttctaaggaaaaggcgcgtgctttaggtagcaatttctaa
+///

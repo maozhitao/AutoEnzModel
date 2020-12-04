@@ -1,0 +1,38 @@
+ENTRY       YOR045W           CDS       T00005
+NAME        TOM6, ISP6, MOM8B
+DEFINITION  (RefSeq) Tom6p
+ORTHOLOGY   K17772  mitochondrial import receptor subunit TOM6
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YOR045W (TOM6)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YOR045W (TOM6)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Outer membrane
+               Transporter outer membrane (TOM) complex
+                YOR045W (TOM6)
+            Transporters [BR:sce02000]
+             Other transporters
+              Primary active transporters [TC:3]
+               YOR045W (TOM6)
+POSITION    XV:413852..414037
+MOTIF       Pfam: Tom6
+DBLINKS     NCBI-GeneID: 854210
+            NCBI-ProteinID: NP_014688
+            SGD: S000005571
+            UniProt: P33448
+STRUCTURE   PDB: 6UCU 6JNF 6UCV
+AASEQ       61
+            MDGMFAMPGAAAGAASPQQPKSRFQAFKESPLYTIALNGAFFVAGVAFIQSPLMDMLAPQ
+            L
+NTSEQ       186
+            atggacggtatgtttgctatgccaggcgcagctgcaggtgcggcctccccacaacaacca
+            aaatcaagattccaagctttcaaggaatctccactatacacaattgcactaaacggtgcc
+            ttcttcgttgcaggtgttgcgtttattcaatctccactcatggacatgttggccccacaa
+            ttataa
+///

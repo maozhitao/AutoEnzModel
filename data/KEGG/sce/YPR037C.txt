@@ -1,0 +1,40 @@
+ENTRY       YPR037C           CDS       T00005
+NAME        ERV2
+DEFINITION  (RefSeq) flavin-linked sulfhydryl oxidase
+ORTHOLOGY   K17891  FAD-linked sulfhydryl oxidase [EC:1.8.3.2]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                YPR037C (ERV2)
+            Enzymes [BR:sce01000]
+             1. Oxidoreductases
+              1.8  Acting on a sulfur group of donors
+               1.8.3  With oxygen as acceptor
+                1.8.3.2  thiol oxidase
+                 YPR037C (ERV2)
+POSITION    XVI:complement(646448..647038)
+MOTIF       Pfam: Evr1_Alr
+DBLINKS     NCBI-GeneID: 856152
+            NCBI-ProteinID: NP_015362
+            SGD: S000006241
+            UniProt: Q12284
+STRUCTURE   PDB: 1JR8 1JRA
+AASEQ       196
+            MKQIVKRSHAIRIVAALGIIGLWMFFSSNELSIATPGLIKAKSGIDEVQGAAAEKNDARL
+            KEIEKQTIMPLMGDDKVKKEVGRASWKYFHTLLARFPDEPTPEEREKLHTFIGLYAELYP
+            CGECSYHFVKLIEKYPVQTSSRTAAAMWGCHIHNKVNEYLKKDIYDCATILEDYDCGCSD
+            SDGKRVSLEKEAKQHG
+NTSEQ       591
+            atgaaacagatagtcaaaagaagccatgccatcagaatagttgcagcattaggaatcata
+            ggcctgtggatgtttttctcgtctaatgaactatccatcgctacgccgggcctaatcaag
+            gcgaagtctggtatagatgaagtgcaaggggcggctgctgagaagaacgacgctcggttg
+            aaagagatcgagaagcaaaccattatgccattgatgggcgatgacaaggtgaagaaggaa
+            gtgggcagggcgtcgtggaagtacttccataccctgctggcccgttttccggacgagcct
+            actcctgaagaaagagagaaactgcacacgtttattgggttgtatgcagaactctatcca
+            tgcggggaatgttcatatcactttgtaaagttgattgagaagtatcccgtacagacatct
+            agcaggacggctgccgcaatgtggggatgccacattcacaacaaggtgaacgaataccta
+            aagaaagacatatatgactgtgctaccatcctggaggactacgattgtggatgtagtgac
+            agcgacggtaaacgcgtgtctctcgagaaggaggctaaacagcacggttga
+///

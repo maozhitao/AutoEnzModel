@@ -1,0 +1,45 @@
+ENTRY       YOR180C           CDS       T00005
+NAME        DCI1, ECI2
+DEFINITION  (RefSeq) putative dodecenoyl-CoA isomerase DCI1
+ORTHOLOGY   K22587  Delta3,5-Delta2,4-dienoyl-CoA isomerase [EC:5.3.3.21]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04146  Peroxisome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04146 Peroxisome
+                YOR180C (DCI1)
+            Enzymes [BR:sce01000]
+             5. Isomerases
+              5.3  Intramolecular oxidoreductases
+               5.3.3  Transposing C=C bonds
+                5.3.3.21  Delta3,5-Delta2,4-dienoyl-CoA isomerase
+                 YOR180C (DCI1)
+POSITION    XV:complement(674352..675167)
+MOTIF       Pfam: ECH_1 ECH_2 SPA Init_tRNA_PT
+DBLINKS     NCBI-GeneID: 854352
+            NCBI-ProteinID: NP_014823
+            SGD: S000005706
+            UniProt: Q08558
+AASEQ       271
+            MSSRVCYHINGPFFIIKLIDPKHLNSLTFEDFVYIALLLHKANDIDSVLFTVLQSSGKYF
+            SSGGKFSAVNKLNDGDVTSEVEKVSKLVSAISSPNIFVANAFAIHKKVLVCCLNGPAIGL
+            SASLVALCDIVYSQNDSVFLLFPFSNLGFVAEVGTSVTLTQKLGINSANEHMIFSTPVLF
+            KELIGTIITKNYQLTNTETFNEKVLQDIKQNLEGLYPKSVLGMKELLHSEMKQKLIKAQA
+            METNGTLPFWASGEPFKRFKQLQEGNRRHKL
+NTSEQ       816
+            atgagcagtcgtgtgtgctaccatattaatggtccctttttcataatcaaattaattgat
+            ccaaaacatttgaactctttaactttcgaggattttgtatacattgcactattactgcat
+            aaggcaaacgatattgattctgttttgtttactgttctacaaagctcaggcaagtatttc
+            tcctcgggaggtaagttttcagcagttaacaagctaaacgatggagacgttacaagcgaa
+            gtggagaaagtctcaaagctggtatctgctataagctctcctaacatatttgtggcgaac
+            gcatttgcaatccataaaaaggttctggtgtgctgtttgaatggaccggccatcggactt
+            agcgcatcgctagttgctctttgtgacattgtttactcgcaaaacgattcagtatttctt
+            ctttttcccttcagcaatctcggttttgtcgcagaagtgggaacttctgttaccttaact
+            caaaaactgggtataaattctgcaaacgaacatatgattttcagcacaccagttctattt
+            aaagaattgataggaactattattacaaaaaattatcaattgacaaatactgaaacattc
+            aatgaaaaagttcttcaggacataaagcagaatttagaagggctttatccgaaaagtgta
+            ctaggtatgaaagaattgttacacagtgaaatgaaacagaagcttatcaaagcacaagca
+            atggagactaacggaaccttgcctttttgggcaagcggcgagccattcaaaagatttaaa
+            cagcttcaagagggaaacaggcgccacaagttataa
+///

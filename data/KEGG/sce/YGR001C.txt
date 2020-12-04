@@ -1,0 +1,48 @@
+ENTRY       YGR001C           CDS       T00005
+NAME        EFM5, AML1
+DEFINITION  (RefSeq) protein-lysine N-methyltransferase
+ORTHOLOGY   K22855  EEF1A lysine methyltransferase 1 [EC:2.1.1.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:sce03012]
+                YGR001C (EFM5)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.-  
+                 YGR001C (EFM5)
+            Translation factors [BR:sce03012]
+             Eukaryotic type
+              Elongation factors
+               Elongation associated factors
+                YGR001C (EFM5)
+POSITION    VII:complement(join(497133..497365,497459..497937,498000..498034))
+MOTIF       Pfam: N6-adenineMlase IL28A DnaI_N Tubulin_2
+DBLINKS     NCBI-GeneID: 852884
+            NCBI-ProteinID: NP_011515
+            SGD: S000003233
+            UniProt: P53200
+AASEQ       248
+            MSDSDSDSDYELTLSANALAALEEFKREEQQHQEAFQKLYDETDEDFQKKKKEEGMKLFK
+            EDWQLSQFWYSDDTAAILADAILEGADENTVIAIVSAPSVYAAIQKKPTNEIPTEHIYLF
+            EFDKRFELLAGRDHFFFYDYNKPLDFSDEIKGKVDRLLIDPPFLNEDCQTKSSITAKCLL
+            APNDNSKTKKGVFKHRLISCTGERMSEVISKVYSDTRITTFLPEHSNGLSNEFRCYANFE
+            CSSWKFAS
+NTSEQ       747
+            atgtccgactccgactccgactccgattatgaattgacactttctgctaatgccctcgct
+            gcccttgaagaattcaaaagagaggaacaacaacatcaagaagcctttcaaaagctttac
+            gacgaaacggatgaagacttccaaaagaaaaaaaaagaagaagggatgaagcttttcaag
+            gaagattggcagctttcccagttttggtacagcgatgacacagccgcaattttagcagat
+            gccatattggaaggtgcggacgaaaacactgtaattgcaatagttagtgcgccatccgtc
+            tatgctgccattcaaaagaaacctactaatgaaattccaaccgaacatatctacttgttc
+            gaatttgataagagattcgagttgttagctggaagagatcatttctttttttatgattac
+            aataaaccactggacttcagtgatgaaattaaaggaaaagttgatagattgttaattgac
+            ccaccttttttaaatgaagattgtcaaacaaagtcctctatcactgcaaagtgtttatta
+            gcgccaaatgacaactctaaaactaagaaaggagtttttaagcaccgcctcataagttgt
+            actggtgaaagaatgtctgaagtcatatccaaagtttattctgacacaagaataacaact
+            tttcttcctgaacattctaatggtttgagtaacgaatttaggtgctacgcaaattttgaa
+            tgtagttcatggaaatttgcttcttga
+///

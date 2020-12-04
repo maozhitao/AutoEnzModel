@@ -1,0 +1,118 @@
+ENTRY       YEL032W           CDS       T00005
+NAME        MCM3
+DEFINITION  (RefSeq) MCM DNA helicase complex subunit MCM3
+ORTHOLOGY   K02541  DNA replication licensing factor MCM3 [EC:3.6.4.12]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03030  DNA replication
+            sce04111  Cell cycle - yeast
+            sce04113  Meiosis - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                YEL032W (MCM3)
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YEL032W (MCM3)
+               04113 Meiosis - yeast
+                YEL032W (MCM3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YEL032W (MCM3)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YEL032W (MCM3)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.12  DNA helicase
+                 YEL032W (MCM3)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Initiation Factors
+               pre-RC (pre-replication complex)
+                YEL032W (MCM3)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Centrosome formation and ciliogenesis proteins
+               Other centriole associated proteins
+                YEL032W (MCM3)
+POSITION    V:86937..89852
+MOTIF       Pfam: MCM MCM_OB MCM_lid Mg_chelatase MCM_N ORC6 AAA_3 Sigma54_activat Stm1_N AAA_5 Ndc1_Nup
+DBLINKS     NCBI-GeneID: 856680
+            NCBI-ProteinID: NP_010882
+            SGD: S000000758
+            UniProt: P24279
+STRUCTURE   PDB: 3JC6 6EYC 3JA8 5BK4 5V8F 3JC5 6F0L 3JC7 5U8T 6HV9 5U8S
+                 5XF8 5H7I
+AASEQ       971
+            MEGSTGFDGDATTFFAPDAVFGDRVRRFQEFLDTFTSYRDSVRSIQVYNSNNAANYNDDQ
+            DDADERDLLGDDDGDDLEKEKKAASSTSLNILPHRIIISLDDLREFDRSFWSGILVEPAY
+            FIPPAEKALTDLADSMDDVPHPNASAVSSRHPWKLSFKGSFGAHALSPRTLTAQHLNKLV
+            SVEGIVTKTSLVRPKLIRSVHYAAKTGRFHYRDYTDATTTLTTRIPTPAIYPTEDTEGNK
+            LTTEYGYSTFIDHQRITVQEMPEMAPAGQLPRSIDVILDDDLVDKTKPGDRVNVVGVFKS
+            LGAGGMNQSNSNTLIGFKTLILGNTVYPLHARSTGVAARQMLTDFDIRNINKLSKKKDIF
+            DILSQSLAPSIYGHDHIKKAILLMLMGGVEKNLENGSHLRGDINILMVGDPSTAKSQLLR
+            FVLNTASLAIATTGRGSSGVGLTAAVTTDRETGERRLEAGAMVLADRGVVCIDEFDKMTD
+            VDRVAIHEVMEQQTVTIAKAGIHTTLNARCSVIAAANPVFGQYDVNRDPHQNIALPDSLL
+            SRFDLLFVVTDDINEIRDRSISEHVLRTHRYLPPGYLEGEPVRERLNLSLAVGEDADINP
+            EEHSNSGAGVENEGEDDEDHVFEKFNPLLQAGAKLAKNKGNYNGTEIPKLVTIPFLRKYV
+            QYAKERVIPQLTQEAINVIVKNYTDLRNDDNTKKSPITARTLETLIRLATAHAKVRLSKT
+            VNKVDAKVAANLLRFALLGEDIGNDIDEEESEYEEALSKRSPQKSPKKRQRVRQPASNSG
+            SPIKSTPRRSTASSVNATPSSARRILRFQDDEQNAGEDDNDIMSPLPADEEAELQRRLQL
+            GLRVSPRRREHLHAPEEGSSGPLTEVGTPRLPNVSSAGQDDEQQQSVISFDNVEPGTIST
+            GRLSLISGIIARLMQTEIFEEESYPVASLFERINEELPEEEKFSAQEYLAGLKIMSDRNN
+            LMVADDKVWRV
+NTSEQ       2916
+            atggaaggctcaacgggatttgatggagacgctactacttttttcgctccagacgctgtg
+            tttggtgacagagtgcgcagatttcaagagtttttagatactttcacctcatacagagac
+            tctgtaaggtccatacaagtttacaacagcaataacgcggccaactacaacgatgatcaa
+            gatgacgcagacgaacgagatttgctaggtgatgacgacggtgatgatcttgaaaaggaa
+            aagaaagcagcatcgtccacctcattgaatatactccctcacaggattatcatctcgctt
+            gatgacttgagagaattcgacaggtcgttctggtcgggcattttagtcgaaccagcatac
+            ttcatcccgcctgccgaaaaggcgcttactgacctagcagattccatggacgatgttcca
+            catcccaatgcctctgcagtatcgtctcgccatccttggaagctttcgttcaaaggctca
+            tttggtgcacacgcattgtctcctcgtactctaacggcacaacatttaaacaaactggtc
+            tctgttgagggtatcgtaactaagacttcgttggtcaggccaaagcttatcagatctgtc
+            cactacgcggcaaagactggtagattccattacagagattatacagatgctactacaact
+            ctcaccacccgcatcccaacgcctgccatctatccaacggaggacactgaaggtaacaaa
+            ctaaccaccgaatatgggtatagtacgttcatagaccatcagcgtatcactgtgcaagaa
+            atgcccgaaatggcccccgctggccaacttcccaggtccattgacgtcattctcgatgac
+            gaccttgtggacaagaccaagccaggtgacagagttaacgttgtcggggtattcaagtcg
+            cttggtgctggtggcatgaaccagtccaactctaatacattgatcgggttcaaaactctg
+            atcctaggtaatacggtgtatcctctccacgccagatccacgggtgtcgctgcgagacaa
+            atgttgacagatttcgatataagaaatatcaataaactatccaaaaaaaaggacattttc
+            gatatcttgtctcaatctttagcgccttctatttatggacatgaccatataaagaaagcc
+            attttattgatgctcatgggaggtgtggagaaaaatttagaaaatggctcgcatttaaga
+            ggtgacatcaatatcctaatggtgggtgatccatccactgccaagtcccaattgctaagg
+            tttgtgttgaatacagcatcactggcaattgctactactggtagaggttcttccggtgtc
+            ggtttgaccgcagcggtcactactgatagggaaacaggtgaaagaagactagaggctggt
+            gccatggttcttgctgaccgcggggttgtatgtattgatgaatttgataagatgacagat
+            gtggatagagtcgccattcatgaagtaatggaacaacaaacggtgacgattgccaaagca
+            ggtattcacacaacattaaatgctcgttgtagtgttattgctgccgcaaatcccgttttt
+            gggcagtacgatgtcaatagagatccacaccaaaacattgccctaccggactcgctgttg
+            tctcgttttgatttactatttgttgtgacagacgatatcaatgaaatcagagatagatcc
+            attagtgagcatgtcttaagaacacacagatatttgcctccaggttatttagagggtgaa
+            cctgtgagagagcgtttgaatttatcattagccgttggggaggatgcagatataaatcct
+            gaagagcattccaactccggggctggtgtagaaaatgaaggagaagatgatgaagaccat
+            gtcttcgaaaagttcaaccccttattacaagcaggtgctaagttagcaaaaaacaaaggt
+            aactataacggtacagaaattccaaagctagtcaccatcccattcttaagaaagtacgtt
+            caatatgccaaggaaagggttattccacagttaacacaagaagccatcaatgttattgtg
+            aaaaattatactgatttaagaaacgatgataataccaaaaaatcgcccattactgcaaga
+            actttggagactttgatcagattagccacagctcacgccaaagtcaggttatccaaaaca
+            gtcaacaaggtggatgctaaagtggctgccaatctactaaggtttgcactattgggtgag
+            gatatcggcaatgatatcgatgaagaggaaagtgaatacgaagaagctttgtcgaagagg
+            tctccacagaaatcaccgaaaaaaagacaaagagtcagacaaccagcaagcaactctgga
+            tccccaatcaaatctactccaagaaggtcaacggcatcttccgttaatgccacgccatcg
+            tcagcacgcagaatattacgttttcaagatgacgaacagaacgctggtgaagacgataac
+            gatataatgtcaccgcttcctgcggatgaggaagctgaattacaaagaaggcttcaactg
+            gggttgagagtgtctccaagacgtagagaacatcttcacgcacctgaggaaggttcgtcg
+            ggacctcttaccgaggtcggtactccaagattacctaacgtatcttctgcaggtcaggat
+            gatgagcaacaacagtcagttatttcttttgacaatgtggagcctggtaccatttctact
+            ggtagattgtctttaatctcaggtattattgcgcgtctgatgcaaacagaaatatttgaa
+            gaagaatcctatcctgtggcctctttgttcgaaagaatcaacgaagaactaccggaggag
+            gaaaaattctccgctcaagaatatttagcaggtttgaagatcatgtcggacagaaataac
+            ttaatggttgctgacgataaagtttggagagtctga
+///

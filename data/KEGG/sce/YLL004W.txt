@@ -1,0 +1,83 @@
+ENTRY       YLL004W           CDS       T00005
+NAME        ORC3
+DEFINITION  (RefSeq) origin recognition complex subunit 3
+ORTHOLOGY   K02605  origin recognition complex subunit 3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04111  Cell cycle - yeast
+            sce04113  Meiosis - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YLL004W (ORC3)
+               04113 Meiosis - yeast
+                YLL004W (ORC3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YLL004W (ORC3)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YLL004W (ORC3)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Initiation Factors
+               pre-RC (pre-replication complex)
+                YLL004W (ORC3)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Centrosome formation and ciliogenesis proteins
+               Centrosome duplication proteins
+                Other centrosome duplication proteins
+                 YLL004W (ORC3)
+POSITION    XII:141073..142923
+MOTIF       Pfam: ORC_WH_C
+DBLINKS     NCBI-GeneID: 850656
+            NCBI-ProteinID: NP_013097
+            SGD: S000003927
+            UniProt: P54790
+STRUCTURE   PDB: 5ZR1 5V8F
+AASEQ       616
+            MSDLNQSKKMNVSEFADAQRSHYTVYPSLPQSNKNDKHIPFVKLLSGKESEVNVEKRWEL
+            YHQLHSHFHDQVDHIIDNIEADLKAEISDLLYSETTQKRRCFNTIFLLGSDSTTKIELKD
+            ESSRYNVLIELTPKESPNVRMMLRRSMYKLYSAADAEEHPTIKYEDINDEDGDFTEQNND
+            VSYDLSLVENFKRLFGKDLAMVFNFKDVDSINFNTLDNFIILLKSAFKYDHVKISLIFNI
+            NTNLSNIEKNLRQSTIRLLKRNYHKLDVSSNKGFKYGNQIFQSFLDTVDGKLNLSDRFVE
+            FILSKMANNTNHNLQLLTKMLDYSLMSYFFQNAFSVFIDPVNVDFLNDDYLKILSRCPTF
+            MFFVEGLIKQHAPADEILSLLTNKNRGLEEFFVEFLVRENPINGHAKFVARFLEEELNIT
+            NFNLIELYHNLLIGKLDSYLDRWSACKEYKDRLHFEPIDTIFQELFTLDNRSGLLTQSIF
+            PSYKSNIEDNLLSWEQVLPSLDKENYDTLSGDLDKIMAPVLGQLFKLYREANMTINIYDF
+            YIAFRETLPKEEILNFIRKDPSNTKLLELAETPDAFDKVALILFMQAIFAFENMGLIKFQ
+            STKSYDLVEKCVWRGI
+NTSEQ       1851
+            atgagcgaccttaaccaatccaaaaagatgaacgtcagcgagtttgctgacgcccaaagg
+            agccactatacagtataccccagtttgcctcaaagtaacaaaaatgataaacacattccc
+            tttgtcaaacttctatcaggcaaagaatcggaagtgaacgtggaaaaaagatgggaattg
+            tatcatcagttacattcccactttcatgatcaagtagatcatattatcgataatattgaa
+            gcagacttgaaagcagagatttcagaccttttatatagtgaaactactcagaaaaggcga
+            tgctttaacactattttcctattaggttcagatagtacgacaaaaattgaacttaaagac
+            gaatcttctcgctacaacgttttgattgaattgactccgaaagaatctccgaatgtaaga
+            atgatgcttcgtaggtctatgtacaaactttacagcgcagctgatgcagaagaacatcca
+            actatcaagtatgaagacattaacgatgaagatggcgattttaccgagcaaaacaatgat
+            gtatcatacgatctgtcacttgtggaaaacttcaaaaggctttttggaaaagacttagca
+            atggtatttaattttaaagatgtagattctattaacttcaacacattggataacttcata
+            attctattgaaaagtgccttcaagtatgaccatgttaaaataagtttaatctttaatatt
+            aatacaaacttgtcaaatattgagaaaaatttgagacaatcaaccatacgacttctgaag
+            agaaattatcataaactagacgtgtcgagtaataaaggatttaagtacggaaaccaaatc
+            tttcaaagctttttggatacggttgatggcaaactaaatctttcagatcgttttgtggaa
+            ttcattctcagcaagatggcaaataatactaatcacaacttacaattattgacgaagatg
+            ctggattattcgttgatgtcgtactttttccagaatgccttttcagtattcattgaccct
+            gtaaatgttgattttttgaacgacgactacttaaaaatactgagcagatgtcctacattc
+            atgttctttgtcgaaggtcttataaagcagcatgctcctgctgacgaaattctttcatta
+            ttgacaaacaaaaacagaggcctagaagagttttttgttgagtttttggtaagagagaac
+            ccgattaacgggcatgctaagtttgttgctcgattcctcgaagaagaattgaatataacc
+            aattttaatctgatagaattatatcataatttgcttattggcaaactagactcctatcta
+            gatcgttggtcagcatgtaaagagtataaggatcggcttcattttgaacccattgataca
+            atttttcaagagctatttactttggacaacagaagtggattacttacccagtcgattttc
+            ccttcttacaagtcaaatatcgaagataacttactaagttgggagcaggtgctgccttcg
+            cttgataaagaaaattatgatactctttctggagatttggataaaataatggctccggta
+            ctgggtcagctattcaagctttatcgtgaggcgaatatgactatcaacatttacgatttc
+            tacattgcgttcagagaaacattaccaaaagaggaaatattaaatttcataagaaaagat
+            ccctccaacaccaaactcttagaactagcagaaacaccggacgcatttgacaaagtagca
+            ctaattttattcatgcaagcaatcttcgcctttgaaaacatgggtctcattaagtttcaa
+            agcaccaagagttacgatctggtagaaaaatgtgtctggagaggaatttag
+///

@@ -1,0 +1,39 @@
+ENTRY       YAL003W           CDS       T00005
+NAME        EFB1, TEF5
+DEFINITION  (RefSeq) translation elongation factor 1 subunit beta
+ORTHOLOGY   K03232  elongation factor 1-beta
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:sce03012]
+                YAL003W (EFB1)
+            Translation factors [BR:sce03012]
+             Eukaryotic type
+              Elongation factors
+               YAL003W (EFB1)
+POSITION    I:join(142174..142253,142620..143160)
+MOTIF       Pfam: EF1_GNE EF-1_beta_acid GST_C_2 GST_C
+DBLINKS     NCBI-GeneID: 851260
+            NCBI-ProteinID: NP_009398
+            SGD: S000000003
+            UniProt: P32471
+STRUCTURE   PDB: 5O8W 1F60 2B7C 1G7C 1IJE 2B7B 1IJF
+AASEQ       206
+            MASTDFSKIETLKQLNASLADKSYIEGTAVSQADVTVFKAFQSAYPEFSRWFNHIASKAD
+            EFDSFPAASAAAAEEEEDDDVDLFGSDDEEADAEAEKLKAERIAAYNAKKAAKPAKPAAK
+            SIVTLDVKPWDDETNLEEMVANVKAIEMEGLTWGAHQFIPIGFGIKKLQINCVVEDDKVS
+            LDDLQQSIEEDEDHVQSTDIAAMQKL
+NTSEQ       621
+            atggcatccaccgatttctccaagattgaaactttgaaacaattaaacgcttctttggct
+            gacaagtcatacattgaaggtactgctgtttctcaagctgacgtcactgtcttcaaggct
+            ttccaatctgcttacccagaattctccagatggttcaaccacatcgcttccaaggccgat
+            gaattcgactctttcccagctgcctctgctgccgctgccgaagaagaagaagatgacgat
+            gtcgatttattcggttccgacgatgaagaagctgacgctgaagctgaaaagttgaaggct
+            gaaagaattgccgcatacaacgctaagaaggctgctaagccagctaagccagctgctaag
+            tccattgtcactctagatgtcaagccatgggatgatgaaaccaatttggaagaaatggtt
+            gctaacgtcaaggccatcgaaatggaaggtttgacctggggtgctcaccaatttatccca
+            attggtttcggtatcaagaagttgcaaattaactgtgttgtcgaagatgacaaggtttcc
+            ttggatgacttgcaacaaagcattgaagaagacgaagaccacgtccaatctaccgatatt
+            gctgctatgcaaaaattataa
+///

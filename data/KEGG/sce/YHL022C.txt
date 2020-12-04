@@ -1,0 +1,57 @@
+ENTRY       YHL022C           CDS       T00005
+NAME        SPO11
+DEFINITION  (RefSeq) DNA topoisomerase (ATP-hydrolyzing)
+ORTHOLOGY   K10878  meiotic recombination protein SPO11
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04113  Meiosis - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04113 Meiosis - yeast
+                YHL022C (SPO11)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YHL022C (SPO11)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                Other HR factors
+                 YHL022C (SPO11)
+POSITION    VIII:complement(62961..64157)
+MOTIF       Pfam: TP6A_N Hydant_A_N
+DBLINKS     NCBI-GeneID: 856364
+            NCBI-ProteinID: NP_011841
+            SGD: S000001014
+            UniProt: P23179
+AASEQ       398
+            MALEGLRKKYKTRQELVKALTPKRRSIHLNSNGHSNGTPCSNADVLAHIKHFLSLAANSL
+            EQHQQPISIVFQNKKKKGDTSSPDIHTTLDFPLNGPHLCTHQFKLKRCAILLNLLKVVME
+            KLPLGKNTTVRDIFYSNVELFQRQANVVQWLDVIRFNFKLSPRKSLNIIPAQKGLVYSPF
+            PIDIYDNILTCENEPKMQKQTIFPGKPCLIPFFQDDAVIKLGTTSMCNIVIVEKEAVFTK
+            LVNNYHKLSTNTMLITGKGFPDFLTRLFLKKLEQYCSKLISDCSIFTDADPYGISIALNY
+            THSNERNAYICTMANYKGIRITQVLAQNNEVHNKSIQLLSLNQRDYSLAKNLIASLTANS
+            WDIATSPLKNVIIECQREIFFQKKAEMNEIDARIFEYK
+NTSEQ       1197
+            atggctttggagggattgcggaaaaaatataaaacaaggcaggaattggtcaaagcactc
+            actcctaaaagacggtccattcacttgaactccaatggtcactccaacggaactccctgt
+            tcaaacgcagatgttttggctcatattaagcatttcctgtcattggcggctaattcatta
+            gagcaacatcaacagcctatttcaatcgtctttcaaaacaaaaaaaaaaaaggcgataca
+            agcagtcctgacattcacacaacattggacttccctttgaatggcccgcatctatgcact
+            catcagttcaagttgaaaagatgcgcaatccttttaaacttattgaaagtcgttatggaa
+            aaattaccgctaggtaaaaacactacagtgagagatatcttctactccaacgtggaattg
+            tttcaaagacaagcaaacgtagtccagtggctggacgttatacgctttaatttcaagctc
+            tctccaagaaaatccttaaacattataccagctcaaaagggtttagtttattcgcctttc
+            cccattgatatttatgacaatattctgacatgtgaaaatgaaccaaagatgcaaaagcaa
+            acaattttccctggtaagccctgtctaattccatttttccaagatgatgcggtcatcaag
+            ttagggacaacaagtatgtgtaatattgtaatagtggaaaaagaagctgtcttcaccaaa
+            ttagtaaataattatcacaagttgagtacaaataccatgctcattacaggtaagggattt
+            ccagatttcttgacaaggttattcctaaaaaaactagaacaatattgctccaaattgata
+            tcggactgttctatatttaccgatgcggacccctatgggattagcatagccctaaattat
+            actcactcgaatgaacgcaacgcttatatttgcacgatggcaaactataaaggaattcgt
+            attacgcaagttttggcacaaaataatgaagtgcataacaaatccattcaattattgagt
+            ttgaatcagcgcgactactccttagccaagaatttgatagcatctctgactgccaacagc
+            tgggatattgcaacttcaccattaaagaacgtcatcatagaatgtcagcgggaaattttt
+            ttccaaaagaaagctgaaatgaacgagattgatgccagaatttttgaatacaaatga
+///

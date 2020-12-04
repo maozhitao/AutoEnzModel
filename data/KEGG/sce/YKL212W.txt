@@ -1,0 +1,76 @@
+ENTRY       YKL212W           CDS       T00005
+NAME        SAC1, RSD1
+DEFINITION  (RefSeq) phosphatidylinositol-3-phosphatase SAC1
+ORTHOLOGY   K21797  phosphatidylinositol 4-phosphatase [EC:3.1.3.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00562  Inositol phosphate metabolism
+            sce01100  Metabolic pathways
+            sce04070  Phosphatidylinositol signaling system
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00562 Inositol phosphate metabolism
+                YKL212W (SAC1)
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               04070 Phosphatidylinositol signaling system
+                YKL212W (SAC1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.-  
+                 YKL212W (SAC1)
+POSITION    XI:34543..36414
+MOTIF       Pfam: Syja_N
+DBLINKS     NCBI-GeneID: 853668
+            NCBI-ProteinID: NP_012710
+            SGD: S000001695
+            UniProt: P32368
+STRUCTURE   PDB: 3LWT 4TU3
+AASEQ       623
+            MTGPIVYVQNADGIFFKLAEGKGTNDAVIHLANQDQGVRVLGAEEFPVQGEVVKIASLMG
+            FIKLKLNRYAIIANTVEETGRFNGHVFYRVLQHSIVSTKFNSRIDSEEAEYIKLLELHLK
+            NSTFYFSYTYDLTNSLQRNEKVGPAASWKTADERFFWNHYLTEDLRNFAHQDPRIDSFIQ
+            PVIYGYAKTVDAVLNATPIVLGLITRRSIFRAGTRYFRRGVDKDGNVGNFNETEQILLAE
+            NPESEKIHVFSFLQTRGSVPIYWAEINNLKYKPNLVLGENSLDATKKHFDQQKELYGDNY
+            LVNLVNQKGHELPVKEGYESVVHALNDPKIHYVYFDFHHECRKMQWHRVKLLIDHLEKLG
+            LSNEDFFHKVIDSNGNTVEIVNEQHSVVRTNCMDCLDRTNVVQSVLAQWVLQKEFESADV
+            VATGSTWEDNAPLLTSYQNLWADNADAVSVAYSGTGALKTDFTRTGKRTRLGAFNDFLNS
+            ASRYYQNNWTDGPRQDSYDLFLGGFRPHTASIKSPFPDRRPVYIQLIPMIICAALTVLGA
+            TIFFPKDRFTSSKNLLYFAGASIVLALSTKFMFKNGIQFVNWPKLVDVGFLVVHQTHDKE
+            QQFKGLKYAQSPKFSKPDPLKRD
+NTSEQ       1872
+            atgacaggtccaatagtgtacgttcaaaatgcggacggtatcttcttcaagcttgctgag
+            ggcaaaggaactaacgatgctgttattcacttggccaatcaagatcaaggtgttcgggtc
+            cttggagcagaggaatttcctgtgcaaggtgaagtagtaaagattgcgtccttgatgggg
+            ttcattaagctaaagttgaacaggtatgccattatcgcaaatactgtggaagagaccggt
+            agattcaatggccacgttttctatagagtgttgcaacattctatcgtatctaccaagttt
+            aactcgagaatcgattctgaagaagccgaatatatcaagctactggagttgcatttgaaa
+            aattccaccttttatttttcatacacatatgatttaacaaattccttacaaagaaatgaa
+            aaggttggtcctgcagcctcctggaaaaccgctgatgaacgattcttttggaaccattac
+            ttaactgaagatttgagaaactttgctcatcaagatcctagaattgactcctttatacaa
+            cctgttatctatgggtatgccaagacagtggacgccgttttgaatgccacccctatcgtt
+            cttggtttgattaccagacgtagtatatttagggcgggcacaagatacttccgtcgtggt
+            gttgacaaagacggtaacgttggcaatttcaatgaaactgagcaaattttactcgctgag
+            aatccagagagtgaaaaaatacacgttttctccttcttacagacaagaggatctgtgcca
+            atatactgggctgaaatcaacaacttgaagtacaagccaaatcttgttcttggagaaaac
+            tcattagatgcgacaaaaaagcattttgaccagcaaaaggagttatatggcgacaactac
+            ttggttaacctagtcaaccaaaagggccacgaactacccgtgaaagagggctatgaatca
+            gtcgtgcacgcgctaaacgatccgaagattcactacgtgtattttgacttccaccatgaa
+            tgtcgtaagatgcaatggcatagagtgaaattgttaattgatcacctggagaaattaggt
+            ttatctaacgaagatttcttccacaaggtcatagactctaatggtaacaccgttgaaatt
+            gttaatgagcaacattccgttgtaagaacaaactgtatggattgtttggacagaacaaat
+            gtcgttcaatctgttttagcccagtgggttttgcaaaaggagtttgaaagtgccgatgtc
+            gttgctactggaagcacttgggaagacaacgctccattgttaacttcttaccaaaactta
+            tgggctgataatgcagatgcagttagtgtggcatattcgggcactggagctttgaagacc
+            gatttcacaagaaccggtaagcgtacacgtctaggtgcattcaacgattttttgaattca
+            gcatcacgttattaccagaacaattggactgatggtccaagacaggattcatacgattta
+            ttccttggtggatttagaccacataccgcttctatcaagtcgccattccccgacagaaga
+            ccagtgtatattcagctgatcccaatgatcatttgcgcagccttgaccgttttaggtgct
+            acgatattttttcctaaagatagatttaccagcagtaagaatttgctgtattttgcaggt
+            gcgtcgattgtcttggcgctttcaaccaaattcatgtttaagaacggtattcagtttgtc
+            aactggcctaagttagtagacgttgggttcttggtcgttcatcaaacgcatgataaagaa
+            caacaattcaaaggtttgaaatatgcacagagtcctaaattttccaagccggatccttta
+            aaaagagattaa
+///

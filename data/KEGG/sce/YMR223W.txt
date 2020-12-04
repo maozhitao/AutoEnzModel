@@ -1,0 +1,88 @@
+ENTRY       YMR223W           CDS       T00005
+NAME        UBP8
+DEFINITION  (RefSeq) ubiquitin-specific protease UBP8
+ORTHOLOGY   K11366  ubiquitin carboxyl-terminal hydrolase 22/27/51 [EC:3.4.19.12]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YMR223W (UBP8)
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:sce03021]
+                YMR223W (UBP8)
+               04121 Ubiquitin system [BR:sce04121]
+                YMR223W (UBP8)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YMR223W (UBP8)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.19  Omega peptidases
+                3.4.19.12  ubiquitinyl hydrolase 1
+                 YMR223W (UBP8)
+            Peptidases and inhibitors [BR:sce01002]
+             Cysteine peptidases
+              Family C19: ubiquitin-specific protease family
+               YMR223W (UBP8)
+            Transcription machinery [BR:sce03021]
+             Eukaryotic type
+              RNA polymerase II system
+               Coactivators
+                SAGA/TFTC/STAGA complex
+                 YMR223W (UBP8)
+            Ubiquitin system [BR:sce04121]
+             Deubiquitinating enzyme (DUB)
+              Ubiquitin-specific proteases (UBPs)
+               UBP/USP
+                YMR223W (UBP8)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Histone modification proteins
+               HAT complexes
+                SAGA complex
+                 YMR223W (UBP8)
+                SLIK complex
+                 YMR223W (UBP8)
+POSITION    XIII:716715..718130
+MOTIF       Pfam: UCH UCH_1 zf-UBP DUF5816
+DBLINKS     NCBI-GeneID: 855263
+            NCBI-ProteinID: NP_013950
+            SGD: S000004836
+            UniProt: P50102
+STRUCTURE   PDB: 3MHS 4FK5 6AQR 4WA6 3MHH 4FIP 3M99 4W4U 4FJC 4ZUX
+AASEQ       471
+            MSICPHIQQVFQNEKSKDGVLKTCNAARYILNHSVPKEKFLNTMKCGTCHEINSGATFMC
+            LQCGFCGCWNHSHFLSHSKQIGHIFGINSNNGLLFCFKCEDYIGNIDLINDAILAKYWDD
+            VCTKTMVPSMERRDGLSGLINMGSTCFMSSILQCLIHNPYFIRHSMSQIHSNNCKVRSPD
+            KCFSCALDKIVHELYGALNTKQASSSSTSTNRQTGFIYLLTCAWKINQNLAGYSQQDAHE
+            FWQFIINQIHQSYVLDLPNAKEVSRANNKQCECIVHTVFEGSLESSIVCPGCQNNSKTTI
+            DPFLDLSLDIKDKKKLYECLDSFHKKEQLKDFNYHCGECNSTQDAIKQLGIHKLPSVLVL
+            QLKRFEHLLNGSNRKLDDFIEFPTYLNMKNYCSTKEKDKHSENGKVPDIIYELIGIVSHK
+            GTVNEGHYIAFCKISGGQWFKFNDSMVSSISQEEVLKEQAYLLFYTIRQVN
+NTSEQ       1416
+            atgagcatttgtccacatatacagcaagtatttcagaatgaaaagtctaaagatggggtt
+            ctaaaaacgtgcaatgctgccaggtatatattaaatcattccgtacccaaggaaaaattc
+            ttaaacaccatgaaatgtggtacatgccacgaaataaactctggtgcaactttcatgtgt
+            ctacaatgtggattttgtggatgttggaaccattcgcattttctctctcacagtaaacag
+            attggtcacatatttggtatcaactcaaataatggccttttattttgcttcaaatgtgag
+            gactatatagggaatatcgatctgattaacgatgctatcctagcgaagtattgggacgac
+            gtgtgcacaaagaccatggttcctagcatggaaagaagagatgggctttctggcctgatc
+            aacatgggatccacttgtttcatgagtagtattctccaatgtctaatccataacccttac
+            tttattaggcactcaatgagtcaaattcattctaataattgtaaagtgcgttctccagat
+            aaatgtttttcatgtgcactcgataaaattgttcatgaactttatggagcgctgaataca
+            aagcaagcttcttcgtcatctacatctactaatcggcaaaccggattcatatatctttta
+            acttgtgcctggaaaatcaatcaaaatctagcagggtattcacaacaagatgctcatgaa
+            ttttggcagtttataattaaccaaatccaccaaagctatgttcttgatttgccaaatgcc
+            aaggaagtcagcagagcaaataataagcagtgtgaatgcatagtgcatactgtgtttgag
+            ggctccttggaaagttctattgtgtgtccaggctgtcaaaataattcaaagacaaccatt
+            gatccattcttggatctttctctggatatcaaggataagaaaaaactttatgaatgtctt
+            gacagtttccataaaaaagaacagttgaaggatttcaactatcattgtggggagtgtaac
+            agcactcaagatgcaataaagcaactaggcatacacaaattaccatcggttttggttttg
+            caattgaaaagattcgaacacctacttaatggaagtaacagaaaactagacgattttatt
+            gaatttccaacttatttaaatatgaaaaattactgttcaacgaaggaaaaagataagcat
+            tctgaaaatggcaaggttccagacattatttacgaattaatcggtattgtttcccacaag
+            gggacggttaatgagggacattatattgcattttgtaaaatttctggagggcaatggttt
+            aaattcaatgattccatggtctcctctatatctcaagaagaggttttaaaggaacaggca
+            tatttattattctacaccattcgtcaagtaaattga
+///

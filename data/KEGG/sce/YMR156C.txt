@@ -1,0 +1,47 @@
+ENTRY       YMR156C           CDS       T00005
+NAME        TPP1
+DEFINITION  (RefSeq) polynucleotide 3'-phosphatase
+ORTHOLOGY   K08075  polynucleotide 3'-phosphatase [EC:3.1.3.32]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YMR156C (TPP1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.32  polynucleotide 3'-phosphatase
+                 YMR156C (TPP1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                Other BER factors
+                 YMR156C (TPP1)
+POSITION    XIII:complement(570300..571016)
+MOTIF       Pfam: PNK3P
+DBLINKS     NCBI-GeneID: 855188
+            NCBI-ProteinID: NP_013877
+            SGD: S000004765
+            UniProt: Q03796
+AASEQ       238
+            MSHKLTILPFLIKFTPKFPQSIDHDEHGLNVYAFDLDHTIIKPKSPNISFSRSASDWQFI
+            NFNSKKSTLDYLCNIIDNDPTAVIVIFSNQGGVITVPRTSKSCTKYTNKILLFLKAIKND
+            ERGETLSHRLWLYAAPKRPKTFAANHSKITFASLGESYNNDPNIFEKVRKPMTGMVEFFK
+            RDLESAYRVSEQISPIKLNWIYYCGDAAGRKKDFSDSDIKFAENLHVEFKYPEEIFHG
+NTSEQ       717
+            atgtcccacaaattaacaatcctgccatttctgattaagttcacgcccaagtttccacaa
+            tccattgatcacgacgagcatggtctaaacgtttatgcctttgatctggaccatacaatt
+            atcaaaccaaagtcccccaatataagttttagtagaagcgcaagtgattggcagtttatt
+            aattttaactccaagaaatccaccctggattacctgtgtaatatcattgataatgatccc
+            acggccgtcatagtcatattttctaaccaaggtggtgtcatcaccgtcccaagaacttct
+            aaaagttgcaccaagtacactaataaaattttgctatttttaaaggcaatcaaaaacgat
+            gagagaggagaaacgttatcacacaggttatggctatatgcagcacctaaaaggccgaaa
+            acttttgcagcaaatcatagtaagatcacattcgcaagcttaggtgaaagttataacaat
+            gatcctaacatattcgaaaaagttcgaaaaccaatgacaggaatggtagagttttttaaa
+            agggacctggaaagtgcatacagggtttcagaacaaatttctcccatcaagttgaattgg
+            atatattattgcggtgacgctgctgggaggaaaaaggacttcagtgattctgacataaag
+            tttgctgaaaacttgcacgttgaattcaagtaccctgaggaaatatttcacgggtag
+///

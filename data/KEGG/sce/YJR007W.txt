@@ -1,0 +1,62 @@
+ENTRY       YJR007W           CDS       T00005
+NAME        SUI2
+DEFINITION  (RefSeq) translation initiation factor eIF2 subunit alpha
+ORTHOLOGY   K03237  translation initiation factor 2 subunit 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03013  RNA transport
+            sce04138  Autophagy - yeast
+            sce04141  Protein processing in endoplasmic reticulum
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03013 RNA transport
+                YJR007W (SUI2)
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YJR007W (SUI2)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04138 Autophagy - yeast
+                YJR007W (SUI2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:sce03012]
+                YJR007W (SUI2)
+            Translation factors [BR:sce03012]
+             Eukaryotic type
+              Initiation factors
+               eIF-2
+                YJR007W (SUI2)
+POSITION    X:451020..451934
+MOTIF       Pfam: EIF_2_alpha S1 AAA_13 LZ3wCH EXOSC1
+DBLINKS     NCBI-GeneID: 853463
+            NCBI-ProteinID: NP_012540
+            SGD: S000003767
+            UniProt: P20459
+STRUCTURE   PDB: 2A19 2A1A 1Q46 6JLZ 6JLY 6I3M 3J81 6QG0 6QG1 6QG2 6I7T
+                 6QG6 3JAP 3JAQ 6QG3 6QG5
+AASEQ       304
+            MSTSHCRFYENKYPEIDDIVMVNVQQIAEMGAYVKLLEYDNIEGMILLSELSRRRIRSIQ
+            KLIRVGKNDVAVVLRVDKEKGYIDLSKRRVSSEDIIKCEEKYQKSKTVHSILRYCAEKFQ
+            IPLEELYKTIAWPLSRKFGHAYEAFKLSIIDETVWEGIEPPSKDVLDELKNYISKRLTPQ
+            AVKIRADVEVSCFSYEGIDAIKDALKSAEDMSTEQMQVKVKLVAAPLYVLTTQALDKQKG
+            IEQLESAIEKITEVITKYGGVCNITMPPKAVTATEDAELQALLESKELDNRSDSEDDEDE
+            SDDE
+NTSEQ       915
+            atgtccacttctcattgcagattttatgaaaacaaatacccagaaattgacgatatcgtc
+            atggttaacgtccagcagattgctgaaatgggtgcttatgttaaattgttagaatatgac
+            aacattgaaggtatgattctactaagtgaattgtcccgtagacgtattaggtcaatccaa
+            aaattaattcgtgttggtaaaaatgatgtcgccgttgttcttcgtgtcgacaaagaaaaa
+            ggttatattgatttgtccaaacgtcgtgtttcttctgaagatatcattaaatgtgaagaa
+            aaataccaaaaatctaagactgttcattccattttaagatactgtgccgaaaaattccaa
+            atccctttggaagaactatataagaccattgcttggccattaagtcgaaaatttggtcac
+            gcttacgaagctttcaaactatccatcattgacgaaactgtttgggaaggtattgaaccg
+            ccatcaaaagatgttttagatgaattaaagaactatatctccaagagattaacaccacaa
+            gctgtaaagattagagccgatgttgaagtgtcttgttttagttacgaaggtatcgatgcc
+            attaaagacgcattaaaatcagctgaagacatgtccacagaacaaatgcaagttaaagtt
+            aaattagtcgccgccccattatatgttttgaccacccaagccttggataagcaaaaaggt
+            attgaacaactggaaagcgctattgaaaaaattacagaggttattacaaaatacggcggt
+            gtttgcaacattaccatgccaccaaaggctgtcactgctactgaagacgctgagttacaa
+            gctctattagaaagcaaagaattagataatagatctgactctgaagacgatgaggatgag
+            tcagacgacgagtaa
+///

@@ -1,0 +1,63 @@
+ENTRY       YER107C           CDS       T00005
+NAME        GLE2, RAE1
+DEFINITION  (RefSeq) RNA export factor GLE2
+ORTHOLOGY   K14298  mRNA export factor
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03013  RNA transport
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03013 RNA transport
+                YER107C (GLE2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YER107C (GLE2)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YER107C (GLE2)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               Transport factors
+                Nuclear pore complex
+                 YER107C (GLE2)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Centrosome formation and ciliogenesis proteins
+               Spindle formation proteins
+                YER107C (GLE2)
+POSITION    V:complement(373448..374545)
+MOTIF       Pfam: WD40 ANAPC4_WD40 Frtz
+DBLINKS     NCBI-GeneID: 856844
+            NCBI-ProteinID: NP_011033
+            SGD: S000000909
+            UniProt: P40066
+AASEQ       365
+            MSFFNRSNTTSALGTSTAMANEKDLANDIVINSPAEDSISDIAFSPQQDFMFSASSWDGK
+            VRIWDVQNGVPQGRAQHESSSPVLCTRWSNDGTKVASGGCDNALKLYDIASGQTQQIGMH
+            SAPIKVLRFVQCGPSNTECIVTGSWDKTIKYWDMRQPQPVSTVMMPERVYSMDNKQSLLV
+            VATAERHIAIINLANPTTIFKATTSPLKWQTRCVACYNEADGYAIGSVEGRCSIRYIDDG
+            MQKKSGFSFKCHRQTNPNRAPGSNGQSLVYPVNSIAFHPLYGTFVTAGGDGTFNFWDKNQ
+            RHRLKGYPTLQASIPVCSFNRNGSVFAYALSYDWHQGHMGNRPDYPNVIRLHATTDEEVK
+            EKKKR
+NTSEQ       1098
+            atgtctttttttaatcgatcaaatacaacctcagctttgggaacgagtactgcaatggcg
+            aatgaaaaggatttggccaatgatattgtcattaatagcccagcagaggactcaatatcg
+            gatattgcgttttcaccgcaacaagatttcatgtttagtgccagttcctgggacggtaag
+            gtacgtatttgggatgtccaaaatggtgtacctcaaggtagagcgcagcatgaaagctcc
+            agccctgtattatgtaccagatggtcgaatgatggtacaaaagtagcctcaggcgggtgt
+            gataatgccctgaaattgtacgatattgccagtggtcaaacacagcaaattggaatgcat
+            tctgcgccaataaaagtattacgttttgtacaatgtggaccatcgaacacagagtgtata
+            gtaaccggatcctgggataaaaccataaaatattgggatatgagacaaccccagcccgta
+            tccaccgtaatgatgcctgaaagagtatattcgatggataataaacagtctctgttagta
+            gtggctactgccgaaagacatatcgctattatcaatctagcaaacccaacaacgattttt
+            aaggcaaccacgtcacctttaaaatggcaaactcgatgcgtggcatgttataatgaagcc
+            gatggatatgcgattggttcagtggaaggtagatgctccataaggtatatcgatgatggt
+            atgcagaaaaaatcaggcttttcatttaaatgccatcgtcaaaccaatcctaatagggca
+            cctggctccaatggtcaatctctagtgtatcctgtaaatagcattgcatttcatccatta
+            tatggtacttttgttacggctggtggtgatggtaccttcaatttttgggataagaatcaa
+            aggcatagattgaaaggctatcctactttgcaagcatctattcctgtatgcagcttcaat
+            aggaatggtagcgtatttgcgtacgctctaagttatgattggcatcaaggccatatgggc
+            aacagacccgactatccaaacgtcattaggctacatgccacaactgatgaagaggttaaa
+            gagaaaaagaaaaggtga
+///

@@ -1,0 +1,47 @@
+ENTRY       YOR257W           CDS       T00005
+NAME        CDC31, DSK1
+DEFINITION  (RefSeq) centrin
+ORTHOLOGY   K16466  centrin-3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YOR257W (CDC31)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YOR257W (CDC31)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               Transport factors
+                TREX-2 complex
+                 YOR257W (CDC31)
+                Nuclear pore complex
+                 YOR257W (CDC31)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Centrosome formation and ciliogenesis proteins
+               Centriole proteins
+                YOR257W (CDC31)
+POSITION    XV:811008..811493
+MOTIF       Pfam: EF-hand_7 EF-hand_1 EF-hand_6 EF-hand_8 EF-hand_5 EF-hand_9 EF-hand_4 SPARC_Ca_bdg PhetRS_B1 MgtE_N EF-hand_14 EF-hand_11
+DBLINKS     NCBI-GeneID: 854431
+            NCBI-ProteinID: NP_014900
+            SGD: S000005783
+            UniProt: P06704
+STRUCTURE   PDB: 3FWB 4MBE 3FWC 2DOQ 2GV5
+AASEQ       161
+            MSKNRSSLQSGPLNSELLEEQKQEIYEAFSLFDMNNDGFLDYHELKVAMKALGFELPKRE
+            ILDLIDEYDSEGRHLMKYDDFYIVMGEKILKRDPLDEIKRAFQLFDDDHTGKISIKNLRR
+            VAKELGETLTDEELRAMIEEFDLDGDGEINENEFIAICTDS
+NTSEQ       486
+            atgagtaagaacaggtcatcgctacagtctggtccacttaatagcgagttattggaggag
+            caaaagcaagaaatatatgaggcgttttcattgttcgatatgaacaatgatgggttcctc
+            gattaccacgagttgaaagtagcaatgaaggccctgggatttgagctacccaagagagaa
+            atacttgacttaatagatgaatatgatagtgaggggcggcatttgatgaagtatgatgat
+            ttttatattgtaatgggggaaaaaatattgaagagagatccgttagatgaaataaaaagg
+            gcattccaattatttgatgacgaccatactgggaaaataagtattaaaaacttgaggcgt
+            gtagctaaagaattaggagaaactttgacggatgaagagctgagagcgatgattgaagag
+            tttgatttggatggtgatggcgagattaatgaaaacgaatttatagctatttgcaccgat
+            agttaa
+///

@@ -1,0 +1,37 @@
+ENTRY       YPL252C           CDS       T00005
+NAME        YAH1
+DEFINITION  (RefSeq) adrenodoxin
+ORTHOLOGY   K22071  ferredoxin-2, mitochondrial
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YPL252C (YAH1)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial quality control factors
+              Regulator of mitochondrial biogenesis
+               Proteins involved in Fe-S cluster biogenesis
+                YPL252C (YAH1)
+POSITION    XVI:complement(73363..73881)
+MOTIF       Pfam: Fer2
+DBLINKS     NCBI-GeneID: 855824
+            NCBI-ProteinID: NP_015071
+            SGD: S000006173
+            UniProt: Q12184
+STRUCTURE   PDB: 2MJD 2MJE
+AASEQ       172
+            MLKIVTRAGHTARISNIAAHLLRTSPSLLTRTTTTTRFLPFSTSSFLNHGHLKKPKPGEE
+            LKITFILKDGSQKTYEVCEGETILDIAQGHNLDMEGACGGSCACSTCHVIVDPDYYDALP
+            EPEDDENDMLDLAYGLTETSRLGCQIKMSKDIDGIRVALPQMTRNVNNNDFS
+NTSEQ       519
+            atgctgaaaattgttactcgggctggacacacagctagaatatcgaacatcgcagcacat
+            cttttacgcacctctccatctctgctcacacgcaccaccacaaccacaagatttctgccc
+            ttctctacgtcttcgttcttaaaccatggccatttgaaaaaaccgaaaccaggcgaagaa
+            ctgaagataacttttattctgaaggatggctcccagaagacgtacgaagtctgtgagggc
+            gaaaccatcctggacatcgctcaaggtcacaacctggacatggagggcgcatgcggcggt
+            tcttgtgcctgctccacctgtcacgtcatcgttgatccagactactacgatgccctgccg
+            gaacctgaagatgatgaaaacgatatgctcgatcttgcttacgggctaacagagacaagc
+            aggcttgggtgccagattaagatgtcaaaagatatcgatgggattagagtcgctctgccc
+            cagatgacaagaaacgttaataacaacgattttagttaa
+///

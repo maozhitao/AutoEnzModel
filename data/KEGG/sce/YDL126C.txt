@@ -1,0 +1,105 @@
+ENTRY       YDL126C           CDS       T00005
+NAME        CDC48
+DEFINITION  (RefSeq) AAA family ATPase CDC48
+ORTHOLOGY   K13525  transitional endoplasmic reticulum ATPase
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04141  Protein processing in endoplasmic reticulum
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YDL126C (CDC48)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YDL126C (CDC48)
+               04131 Membrane trafficking [BR:sce04131]
+                YDL126C (CDC48)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YDL126C (CDC48)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               Transport factors
+                Ran-mediated transport factors
+                 YDL126C (CDC48)
+            Membrane trafficking [BR:sce04131]
+             SNARE
+              SNARE associated proteins
+               Others
+                YDL126C (CDC48)
+             Autophagy
+              Aggrephagy
+               Other aggrephagy associated proteins
+                YDL126C (CDC48)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YDL126C (CDC48)
+POSITION    IV:complement(236157..238664)
+MOTIF       Pfam: AAA AAA_lid_3 CDC48_N RuvB_N AAA_2 AAA_16 AAA_5 AAA_33 CDC48_2 TIP49 AAA_22 AAA_14 RNA_helicase Mg_chelatase Vps4_C ATPase IstB_IS21 AAA_18 AAA_7 ABC_tran AAA_24 AAA_25 Sigma54_activat AAA_17 Parvo_NS1 AAA_28 Bac_DnaA PhoH DUF815 AAA_3 ResIII TsaE UFD1 eIF-1a
+DBLINKS     NCBI-GeneID: 851431
+            NCBI-ProteinID: NP_010157
+            SGD: S000002284
+            UniProt: P25694
+STRUCTURE   PDB: 6OAB 6OPC 6OMB 6OA9 6OAA
+AASEQ       835
+            MGEEHKPLLDASGVDPREEDKTATAILRRKKKDNMLLVDDAINDDNSVIAINSNTMDKLE
+            LFRGDTVLVKGKKRKDTVLIVLIDDELEDGACRINRVVRNNLRIRLGDLVTIHPCPDIKY
+            ATRISVLPIADTIEGITGNLFDVFLKPYFVEAYRPVRKGDHFVVRGGMRQVEFKVVDVEP
+            EEYAVVAQDTIIHWEGEPINREDEENNMNEVGYDDIGGCRKQMAQIREMVELPLRHPQLF
+            KAIGIKPPRGVLMYGPPGTGKTLMARAVANETGAFFFLINGPEVMSKMAGESESNLRKAF
+            EEAEKNAPAIIFIDEIDSIAPKRDKTNGEVERRVVSQLLTLMDGMKARSNVVVIAATNRP
+            NSIDPALRRFGRFDREVDIGIPDATGRLEVLRIHTKNMKLADDVDLEALAAETHGYVGAD
+            IASLCSEAAMQQIREKMDLIDLDEDEIDAEVLDSLGVTMDNFRFALGNSNPSALRETVVE
+            SVNVTWDDVGGLDEIKEELKETVEYPVLHPDQYTKFGLSPSKGVLFYGPPGTGKTLLAKA
+            VATEVSANFISVKGPELLSMWYGESESNIRDIFDKARAAAPTVVFLDELDSIAKARGGSL
+            GDAGGASDRVVNQLLTEMDGMNAKKNVFVIGATNRPDQIDPAILRPGRLDQLIYVPLPDE
+            NARLSILNAQLRKTPLEPGLELTAIAKATQGFSGADLLYIVQRAAKYAIKDSIEAHRQHE
+            AEKEVKVEGEDVEMTDEGAKAEQEPEVDPVPYITKEHFAEAMKTAKRSVSDAELRRYEAY
+            SQQMKASRGQFSNFNFNDAPLGTTATDNANSNNSAPSGAGAAFGSNAEEDDDLYS
+NTSEQ       2508
+            atgggtgaagaacataaaccacttttggacgcctcgggtgtcgaccctcgtgaggaggat
+            aaaaccgccaccgccattttaagaagaaagaagaaggacaacatgcttttggtggacgat
+            gctatcaatgatgacaattctgtcattgctattaattctaacaccatggacaaattggaa
+            ttgttccgtggtgacaccgttctcgttaagggcaagaagagaaaagatactgtcttaatt
+            gtgttgatcgatgacgaattagaagacggagcatgcaggataaaccgtgtagttcgtaac
+            aatttacgtattaggctgggtgatttagttacaattcatccttgccccgatatcaaatac
+            gctactagaatttctgtgttaccaattgctgatacgatcgaaggtataactggtaatctt
+            ttcgatgtttttttgaagccttattttgtggaagcctacagaccagtgaggaaaggcgac
+            cattttgttgtcagaggcggtatgagacaagtcgaattcaaggttgtggatgtcgaacct
+            gaagaatatgccgtcgttgctcaggatactattattcactgggaaggtgagccaatcaac
+            agggaagatgaagaaaataatatgaatgaggtgggttacgatgatattggtggttgtcgt
+            aagcaaatggctcaaattagggaaatggttgaactaccattgagacatcctcagttgttc
+            aaggctatcggtatcaagccaccaagaggtgttttgatgtatggtccccctggtactggt
+            aaaaccttgatggcaagagctgttgctaatgagaccggtgccttttttttcttaattaat
+            ggtccagaagtcatgtcaaaaatggctggtgaatcagagtctaacttaagaaaggccttt
+            gaagaagccgaaaagaacgctccagccatcatttttatcgatgaaatcgattctatagct
+            ccaaagagagacaagactaatggtgaagttgagagaagagttgtctctcaattgttaact
+            ttaatggatggtatgaaggcaagatctaatgttgttgtcattgctgctaccaatagacca
+            aattcgattgatcccgctttaagaagatttggtagattcgatcgtgaagtcgacattggt
+            atcccagatgctacaggtagacttgaagttctacgtattcacaccaagaacatgaagttg
+            gctgatgatgttgatttggaagcattggctgctgaaacacacggttacgtgggtgctgat
+            attgcctctttgtgttctgaagctgccatgcaacagatccgtgaaaaaatggacttgata
+            gatttagatgaagatgaaattgatgcagaggtgctcgattctttaggagtcaccatggac
+            aacttcagattcgcattgggcaattcaaacccatctgcattgcgtgaaaccgttgttgaa
+            agtgtcaatgttacttgggatgacgttggtggcctagatgaaatcaaggaggaattgaag
+            gaaactgtagaatacccagtcttacatccagaccaatacacaaagtttgggttatcacca
+            tcaaagggtgtgttgttctacggtccaccaggtacaggtaaaactttgttagcaaaagct
+            gtagctactgaggtttctgccaactttatctcagtcaaaggtccagaattattgagtatg
+            tggtatggtgaatcggaatctaacatccgtgatatttttgataaggcaagagcagctgca
+            ccaaccgtcgtttttctagatgaattagactccattgccaaggcaagaggtggttccttg
+            ggtgatgctggtggtgcttcggatagagtcgtcaaccaactattaacagaaatggatggt
+            atgaatgctaagaaaaatgtgttcgtgattggtgccaccaataggccagatcaaattgat
+            cctgctattttaagacctggcagattggatcaattaatttatgttccattgccagatgaa
+            aacgctagattatctattctaaatgctcaattaaggaaaacaccactagaaccagggcta
+            gagttaactgcgattgccaaggccactcaaggtttctctggtgctgatttactctatatt
+            gtgcagagggctgctaaatacgctatcaaggattctatcgaagctcacagacaacacgaa
+            gctgaaaaggaagtgaaagtagaaggtgaagacgtggaaatgacagatgagggagcaaag
+            gctgaacaagaaccagaagtagatcctgttccatatattacaaaggagcatttcgcagaa
+            gctatgaagaccgctaaacgttctgtttcagatgctgaattgcgtcgttatgaagcatac
+            tcacagcaaatgaaagcatctagaggtcaattcagtaatttcaactttaatgacgctcca
+            ttaggtactacggctacggacaatgctaacagtaataatagtgctccaagtggagcaggt
+            gctgcatttggttctaatgcggaggaagatgatgatttgtatagttag
+///

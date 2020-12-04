@@ -1,0 +1,56 @@
+ENTRY       YMR150C           CDS       T00005
+NAME        IMP1
+DEFINITION  (RefSeq) endopeptidase catalytic subunit IMP1
+ORTHOLOGY   K09647  mitochondrial inner membrane protease subunit 1 [EC:3.4.21.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03060  Protein export
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                YMR150C (IMP1)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YMR150C (IMP1)
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YMR150C (IMP1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.-  
+                 YMR150C (IMP1)
+            Peptidases and inhibitors [BR:sce01002]
+             Serine peptidases
+              Family S26: signal peptidase I family
+               YMR150C (IMP1)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Inner mambrane
+               Other inner membrane factors
+                YMR150C (IMP1)
+POSITION    XIII:complement(561956..562528)
+MOTIF       Pfam: Peptidase_S26
+DBLINKS     NCBI-GeneID: 855182
+            NCBI-ProteinID: NP_013870
+            SGD: S000004758
+            UniProt: P28627
+AASEQ       190
+            MTVGTLPIWSKTFSYAIRSLCFLHIIHMYAYEFTETRGESMLPTLSATNDYVHVLKNFQN
+            GRGIKMGDCIVALKPTDPNHRICKRVTGMPGDLVLVDPSTIVNYVGDVLVDEERFGTYIK
+            VPEGHVWVTGDNLSHSLDSRTYNALPMGLIMGKIVAANNFDKPFWDGSIRNIWGFKWINN
+            TFLDVQAKSN
+NTSEQ       573
+            atgacggttggtacacttcccatctggtcaaaaaccttttcttatgcaattaggtcatta
+            tgcttcttgcatataatacatatgtatgcatacgaatttactgagacgaggggagaatca
+            atgttgccaacactgtcagcgaccaatgattatgtgcatgtcttgaaaaatttccaaaat
+            ggtagaggcataaaaatgggtgactgcatagtagcactgaaacctactgaccctaatcat
+            aggatttgcaaaagggttacgggtatgcctggtgatctcgtgctcgtggatcccagtacg
+            atagttaattatgtcggcgatgtgcttgttgatgaggagaggtttggtacctatattaaa
+            gtccctgaaggtcatgtttgggtaaccggagataatttgtcacattcattagattcaaga
+            acatacaatgcattacccatggggctgatcatgggcaagattgtagctgctaacaatttt
+            gacaagcccttctgggacggttcgatacgcaatatttggggtttcaaatggatcaataat
+            acatttctagatgtgcaggctaagagcaactga
+///

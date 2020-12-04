@@ -1,0 +1,112 @@
+ENTRY       YBR202W           CDS       T00005
+NAME        MCM7, CDC47
+DEFINITION  (RefSeq) mini-chromosome maintenance complex protein 7
+ORTHOLOGY   K02210  DNA replication licensing factor MCM7 [EC:3.6.4.12]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03030  DNA replication
+            sce04111  Cell cycle - yeast
+            sce04113  Meiosis - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                YBR202W (MCM7)
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YBR202W (MCM7)
+               04113 Meiosis - yeast
+                YBR202W (MCM7)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01009 Protein phosphatases and associated proteins [BR:sce01009]
+                YBR202W (MCM7)
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YBR202W (MCM7)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.12  DNA helicase
+                 YBR202W (MCM7)
+            Protein phosphatases and associated proteins [BR:sce01009]
+             Protein serine/threonine phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 YBR202W (MCM7)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Initiation Factors
+               pre-RC (pre-replication complex)
+                YBR202W (MCM7)
+POSITION    II:625772..628309
+MOTIF       Pfam: MCM MCM_OB MCM_lid MCM_N Mg_chelatase AAA_5 AAA_lid_2 Sigma54_activat AAA_3 IL3 Mg_chelatase_C DUF455 AAA
+DBLINKS     NCBI-GeneID: 852501
+            NCBI-ProteinID: NP_009761
+            SGD: S000000406
+            UniProt: P38132
+STRUCTURE   PDB: 3JC6 6EYC 3JA8 5BK4 5V8F 3JC5 6F0L 3JC7 5U8T 6HV9 5U8S
+                 5XF8 5H7I
+AASEQ       845
+            MSAALPSIQLPVDYNNLFNEITDFLVTFKQDTLSSDATRNENEDENLDAENIEQHLLEKG
+            PKYMAMLQKVANRELNSVIIDLDDILQYQNEKFLQGTQADDLVSAIQQNANHFTELFCRA
+            IDNNMPLPTKEIDYKDDVLDVILNQRRLRNERMLSDRTNEIRSENLMDTTMDPPSSMNDA
+            LREVVEDETELFPPNLTRRYFLYFKPLSQNCARRYRKKAISSKPLSVRQIKGDFLGQLIT
+            VRGIITRVSDVKPAVEVIAYTCDQCGYEVFQEVNSRTFTPLSECTSEECSQNQTKGQLFM
+            STRASKFSAFQECKIQELSQQVPVGHIPRSLNIHVNGTLVRSLSPGDIVDVTGIFLPAPY
+            TGFKALKAGLLTETYLEAQFVRQHKKKFASFSLTSDVEERVMELITSGDVYNRLAKSIAP
+            EIYGNLDVKKALLLLLVGGVDKRVGDGMKIRGDINVCLMGDPGVAKSQLLKAICKISPRG
+            VYTTGKGSSGVGLTAAVMKDPVTDEMILEGGALVLADNGICCIDEFDKMDESDRTAIHEV
+            MEQQTISISKAGINTTLNARTSILAAANPLYGRYNPRLSPLDNINLPAALLSRFDILFLM
+            LDIPSRDDDEKLAEHVTYVHMHNKQPDLDFTPVEPSKMREYIAYAKTKRPVMSEAVNDYV
+            VQAYIRLRQDSKREMDSKFSFGQATPRTLLGIIRLSQALAKLRLADMVDIDDVEEALRLV
+            RVSKESLYQETNKSKEDESPTTKIFTIIKKMLQETGKNTLSYENIVKTVRLRGFTMLQLS
+            NCIQEYSYLNVWHLINEGNTLKFVDDGTMDTDQEDSLVSTPKLAPQTTASANVSAQDSDI
+            DLQDA
+NTSEQ       2538
+            atgagtgcggcacttccatcaattcagcttcctgtcgactataataatctttttaatgaa
+            atcaccgattttttggtgactttcaagcaggatacgttgtcttctgatgcaacacgaaat
+            gagaacgaagatgaaaatttggatgctgagaatatcgaacaacatctattggaaaagggg
+            cccaagtacatggcgatgctacagaaagtggctaatagggaactgaattccgtgattatt
+            gatttagatgacattctacagtatcaaaacgaaaagtttctccagggcacacaggcagac
+            gaccttgtgtctgccattcaacaaaacgctaatcacttcactgaattattttgccgtgcc
+            attgacaacaacatgccgctaccaacaaaagaaattgactacaaggacgacgttcttgat
+            gttattttaaaccaaaggagactgaggaatgagagaatgctctcggacaggaccaatgag
+            atccgaagcgaaaacctcatggataccacgatggatccaccctcttccatgaatgatgcg
+            ttaagagaagttgtcgaggatgaaactgagttatttcctcctaatttaactagacgctat
+            ttcctttattttaagcctctatcgcaaaattgtgctcgtcgttacaggaagaaagcaatt
+            agttctaaaccattatctgttaggcagattaaaggtgacttcctaggccaattgattacc
+            gtcagaggtattatcaccagagtttctgatgtcaaaccagctgtggaagttatcgcatat
+            acctgcgatcaatgtgggtacgaagttttccaagaggtcaactctcgtacttttactccg
+            ttgtcagaatgtacttccgaagaatgttcccaaaatcaaacaaagggtcaattgtttatg
+            agtacacgagcttccaaatttagtgcctttcaggaatgtaaaattcaggagttatcacaa
+            caagtgccagtgggtcatattcctaggtcgctaaatatccacgttaacgggacgctggta
+            agatctttatcgcctggtgatatcgtcgatgtaactggtatattcttgccagcgccctac
+            accggtttcaaagctttgaaagctggcttactgacagaaacttatttagaggcacagttt
+            gtccgtcaacacaagaagaaatttgcgtctttcagtctgacttctgatgtagaagagaga
+            gttatggaattaatcacctctggtgatgtttataataggctggcaaaatctattgcaccg
+            gaaatctacggtaacttggacgtaaagaaagcgttgctgctattacttgtcggaggtgtt
+            gataaaagggtaggtgacggtatgaaaatcagaggtgatatcaatgtttgtctgatgggt
+            gatcccggtgttgccaaatctcaactgctgaaggccatttgcaaaatatcacctcgagga
+            gtgtataccactggtaagggttcctcaggcgttggtctgaccgctgccgtcatgaaagat
+            cctgtcacggatgaaatgattctagaaggtggtgccttagtactcgctgataacggtatt
+            tgttgtatcgatgaatttgataagatggatgaaagtgacagaacggcaatccatgaagtt
+            atggaacaacaaacaatttcgatatccaaggcgggtatcaatacaactttgaacgccaga
+            acctcaatcttagcggcagcaaatccgttgtatggtagatataatcctagattatcacct
+            ctggacaatataaatctaccagctgctttactatccagatttgatattctcttcttaatg
+            ttagatataccaagtagagatgacgacgaaaaattagccgagcacgttacatatgtgcat
+            atgcataataaacaaccggatttggacttcactccagtagaaccctctaaaatgagagag
+            tacattgcctatgctaagacaaagaggccagtgatgagtgaagctgtaaacgattatgtg
+            gtgcaagcttacatcagattaagacaagactccaagagagaaatggattccaaattttcc
+            tttggtcaagccactccgagaactttactaggtattataagattatctcaagcgctagca
+            aagttaaggttggctgatatggtggatatagatgatgtggaggaagccttgaggttggtc
+            cgagtctccaaggaatcattgtatcaagaaaccaacaaatctaaagaagatgaaagcccc
+            acaacgaaaatctttacgatcatcaagaaaatgttacaagaaactggtaaaaacacgcta
+            tcatatgaaaatattgtgaaaactgtaagactaagagggtttaccatgctacaattaagc
+            aactgtatccaagaatattcttacttaaacgtctggcatttaattaatgagggtaacact
+            ttgaaattcgtggatgacggtaccatggacacagaccaggaagactcactagtgagcacg
+            cctaaactcgcaccacaaacgaccgcttccgctaatgtgagcgcccaagattctgatatc
+            gatctacaagacgcttga
+///

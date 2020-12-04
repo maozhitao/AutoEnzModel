@@ -1,0 +1,42 @@
+ENTRY       YBL003C           CDS       T00005
+NAME        HTA2, H2A2
+DEFINITION  (RefSeq) histone H2A
+ORTHOLOGY   K11251  histone H2A
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YBL003C (HTA2)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YBL003C (HTA2)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Nucleosome assembly factors
+               Histones
+                YBL003C (HTA2)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YBL003C (HTA2)
+POSITION    II:complement(235394..235792)
+MOTIF       Pfam: Histone_H2A_C Histone CBFD_NFYB_HMF LcrG YihI
+DBLINKS     NCBI-GeneID: 852283
+            NCBI-ProteinID: NP_009552
+            SGD: S000000099
+            UniProt: P04912
+STRUCTURE   PDB: 4JJN 4KUD 6QLD
+AASEQ       132
+            MSGGKGGKAGSAAKASQSRSAKAGLTFPVGRVHRLLRRGNYAQRIGSGAPVYLTAVLEYL
+            AAEILELAGNAARDNKKTRIIPRHLQLAIRNDDELNKLLGNVTIAQGGVLPNIHQNLLPK
+            KSAKTAKASQEL
+NTSEQ       399
+            atgtccggtggtaaaggtggtaaagctggttcagctgctaaagcttctcaatctagatct
+            gctaaagctggtttaacattcccagttggtagagtgcacagattgctaagaagaggtaac
+            tacgcccagagaattggttctggtgctccagtctatctaactgctgtcttagaatatttg
+            gctgctgaaattttagaattggctggtaatgctgctagagataacaaaaaaaccagaatt
+            attccaagacatttacaattggccatcagaaatgatgatgaattgaacaagctattgggt
+            aatgttaccatcgcccaaggtggtgttttgccaaacattcaccaaaacttgttgccaaag
+            aagtctgccaagactgccaaagcttctcaagaactgtaa
+///

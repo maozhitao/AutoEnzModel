@@ -1,0 +1,53 @@
+ENTRY       YDL201W           CDS       T00005
+NAME        TRM8
+DEFINITION  (RefSeq) tRNA (guanine46-N7)-methyltransferase
+ORTHOLOGY   K03439  tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YDL201W (TRM8)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.33  tRNA (guanine46-N7)-methyltransferase
+                 YDL201W (TRM8)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              tRNA modification factors
+               Methyltransferases
+                YDL201W (TRM8)
+             Prokaryotic type
+                YDL201W (TRM8)
+POSITION    IV:99561..100421
+MOTIF       Pfam: Methyltransf_4 Methyltransf_25 MTS Methyltransf_31 Methyltransf_12 Ubie_methyltran
+DBLINKS     NCBI-GeneID: 851326
+            NCBI-ProteinID: NP_010080
+            SGD: S000002360
+            UniProt: Q12009
+STRUCTURE   PDB: 2VDV 2VDU
+AASEQ       286
+            MKAKPLSQDPGSKRYAYRINKEENRKELKHVKINESSLVQEGQKIDLPKKRYYRQRAHSN
+            PFSDHQLEYPVSPQDMDWSKLYPYYKNAENGQMTKKVTIADIGCGFGGLMIDLSPAFPED
+            LILGMEIRVQVTNYVEDRIIALRNNTASKHGFQNINVLRGNAMKFLPNFFEKGQLSKMFF
+            CFPDPHFKQRKHKARIITNTLLSEYAYVLKEGGVVYTITDVKDLHEWMVKHLEEHPLFER
+            LSKEWEENDECVKIMRNATEEGKKVERKKGDKFVACFTRLPTPAIL
+NTSEQ       861
+            atgaaagccaagccactaagccaagatccaggctccaagcgttacgcataccgtataaat
+            aaggaagaaaatcgtaaggagttgaagcatgtaaagatcaatgaaagttctttggtgcaa
+            gaaggccaaaagatcgacttgccaaagaagagatattatcgtcaaagggcgcattccaac
+            ccattttcagatcaccagttagagtacccagtatctccccaggatatggattggtccaaa
+            ttgtacccttactacaaaaacgcggaaaatggacaaatgacaaagaaggtgacgattgct
+            gatattggctgtggattcggtgggttgatgatagatttatcaccagccttccctgaagat
+            cttatcttagggatggaaattcgtgtgcaggttacaaattacgtggaggatagaattatt
+            gccttaaggaacaatacagcttcaaaacatggatttcaaaacattaatgtcttgagaggt
+            aacgctatgaaattcttgcccaacttttttgaaaagggccagctttctaaaatgtttttt
+            tgtttccccgatcctcatttcaaacaaagaaagcataaggcaagaattatcactaacacc
+            ttgctgagtgagtacgcatatgttttgaaagagggcggtgtcgtgtacacaattacagac
+            gtcaaagacctgcatgagtggatggtaaaacatttagaagagcatcctttatttgaacgg
+            ttgagcaaagaatgggaagaaaacgatgaatgtgtgaaaataatgagaaatgccacagaa
+            gaaggtaaaaaagtggaaagaaagaagggtgacaagttcgtcgcttgtttcacaagatta
+            ccaacgccagccatattgtaa
+///

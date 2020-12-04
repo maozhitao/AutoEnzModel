@@ -1,0 +1,37 @@
+ENTRY       YPL135W           CDS       T00005
+NAME        ISU1, NUA1
+DEFINITION  (RefSeq) iron-binding protein ISU1
+ORTHOLOGY   K22068  iron-sulfur cluster assembly enzyme ISCU, mitochondrial
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YPL135W (ISU1)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial quality control factors
+              Regulator of mitochondrial biogenesis
+               Proteins involved in Fe-S cluster biogenesis
+                YPL135W (ISU1)
+POSITION    XVI:297553..298050
+MOTIF       Pfam: NifU_N TSCPD
+DBLINKS     NCBI-GeneID: 855968
+            NCBI-ProteinID: NP_015190
+            SGD: S000006056
+            UniProt: Q03020
+STRUCTURE   PDB: 5TRE 5T0V
+AASEQ       165
+            MLPVITRFARPALMAIRPVNAMGVLRASSITKRLYHPKVIEHYTHPRNVGSLDKKLPNVG
+            TGLVGAPACGDVMRLQIKVNDSTGVIEDVKFKTFGCGSAIASSSYMTELVQGMTLDDAAK
+            IKNTEIAKELSLPPVKLHCSMLAEDAIKAAIKDYKSKRNTPTMLS
+NTSEQ       498
+            atgcttcctgttataacgagatttgcaaggcctgctctgatggccatcagacctgtgaat
+            gccatgggggttttgagagcgtccagcataacgaaaaggctttatcatcccaaggtcata
+            gagcattatacacatccaagaaacgtcggctcattagataaaaaattgcccaacgtcggc
+            actggtctagtgggtgcgccagcgtgcggtgatgtgatgaggttgcagatcaaagtcaac
+            gactctactggcgttattgaagatgtcaaattcaaaacttttggatgtggctccgccatt
+            gcctcctcttcatatatgactgaattggtacaggggatgaccttggacgatgcggcaaaa
+            attaagaacactgaaattgctaaggagttgagcttgcccccagtcaagttgcattgctct
+            atgttagcggaagatgcgatcaaggcagctattaaggactacaaatctaagagaaacact
+            ccaaccatgttatcgtaa
+///

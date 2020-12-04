@@ -1,0 +1,33 @@
+ENTRY       YCL005W-A         CDS       T00005
+NAME        VMA9, CWH36, LDB10
+DEFINITION  (RefSeq) H(+)-transporting V0 sector ATPase subunit E
+ORTHOLOGY   K02153  V-type H+-transporting ATPase subunit e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00190  Oxidative phosphorylation
+            sce01100  Metabolic pathways
+            sce04145  Phagosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                YCL005W-A (VMA9)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04145 Phagosome
+                YCL005W-A (VMA9)
+POSITION    III:join(107023..107033,107111..107191,107288..107417)
+MOTIF       Pfam: ATP_synt_H Git3 2TM YfhO
+DBLINKS     NCBI-GeneID: 2732686
+            NCBI-ProteinID: NP_958835
+            SGD: S000028508
+            UniProt: Q3E7B6
+STRUCTURE   PDB: 6O7U 6O7T 6C6L 5TJ5 6O7V 5VOX 6O7W 5VOZ 5VOY 6O7X
+AASEQ       73
+            MSSFYTVVGVFIVVSAMSVLFWIMAPKNNQAVWRSTVILTLAMMFLMWAITFLCQLHPLV
+            APRRSDLRPEFAE
+NTSEQ       222
+            atgagtagtttctatactgttgttggtgtattcatagtggttagtgccatgtccgtgctg
+            ttctggataatggctccaaagaacaaccaagctgtttggagaagtacagtgattttgaca
+            ttggccatgatgtttttgatgtgggccattacgttcctttgccagctccatcccttggtg
+            gctccacgccgttcagatttgagacctgaatttgcagaataa
+///

@@ -1,0 +1,74 @@
+ENTRY       YPL015C           CDS       T00005
+NAME        HST2
+DEFINITION  (RefSeq) histone deacetylase HST2
+ORTHOLOGY   K11121  NAD+-dependent protein deacetylase SIR2 [EC:2.3.1.286]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00760  Nicotinate and nicotinamide metabolism
+            sce01100  Metabolic pathways
+            sce04213  Longevity regulating pathway - multiple species
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00760 Nicotinate and nicotinamide metabolism
+                YPL015C (HST2)
+             09150 Organismal Systems
+              09149 Aging
+               04213 Longevity regulating pathway - multiple species
+                YPL015C (HST2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YPL015C (HST2)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YPL015C (HST2)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.286  protein acetyllysine N-acetyltransferase
+                 YPL015C (HST2)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Termination Factors
+               Telomere proteins
+                SIR proteins
+                 YPL015C (HST2)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Histone modification proteins
+               Sir proteins
+                YPL015C (HST2)
+POSITION    XVI:complement(525810..526883)
+MOTIF       Pfam: SIR2
+DBLINKS     NCBI-GeneID: 856092
+            NCBI-ProteinID: NP_015310
+            SGD: S000005936
+            UniProt: P53686
+STRUCTURE   PDB: 1SZD 1Q1A 1SZC 2QQF 2OD2 2OD7 2QQG 2OD9 1Q14 1Q17
+AASEQ       357
+            MSVSTASTEMSVRKIAAHMKSNPNAKVIFMVGAGISTSCGIPDFRSPGTGLYHNLARLKL
+            PYPEAVFDVDFFQSDPLPFYTLAKELYPGNFRPSKFHYLLKLFQDKDVLKRVYTQNIDTL
+            ERQAGVKDDLIIEAHGSFAHCHCIGCGKVYPPQVFKSKLAEHPIKDFVKCDVCGELVKPA
+            IVFFGEDLPDSFSETWLNDSEWLREKITTSGKHPQQPLVIVVGTSLAVYPFASLPEEIPR
+            KVKRVLCNLETVGDFKANKRPTDLIVHQYSDEFAEQLVEELGWQEDFEKILTAQGGMGDN
+            SKEQLLEIVHDLENLSLDQSEHESADKKDKKLQRLNGHDSDEDGASNSSSSQKAAKE
+NTSEQ       1074
+            atgtctgtttctaccgcctctacagagatgtcggttaggaagatcgctgctcatatgaaa
+            agcaaccccaacgctaaagtaatctttatggtgggtgccgggatatccacttcttgtggg
+            ataccagacttccgatctccgggaactggcctgtaccataacttggccaggttgaagttg
+            ccgtaccctgaagcagtgttcgatgtcgattttttccaatcggatcctttgccattttac
+            actttggctaaagagttgtatcccggaaatttcagaccttctaagtttcactatcttttg
+            aaattgtttcaagacaaagacgttttgaagagagtatatacccagaatatagacacttta
+            gaaagacaggccggtgttaaggatgatctgatcatcgaggcccatggcagttttgctcac
+            tgtcattgtatcggatgtggtaaagtttatcccccacaggttttcaaatccaagctggca
+            gagcatcctataaaggattttgtcaagtgtgatgtgtgcggtgaactggtaaagccggca
+            atagttttttttggcgaagatctaccggattccttttcggaaacttggttaaacgattca
+            gagtggcttcgtgaaaaaatcacgacatctggaaaacatcctcagcagcctcttgtcatc
+            gtcgttggcacctcactagccgtttatccctttgcgtctctgcccgaagaaattcctcga
+            aaggtaaaaagagttctgtgcaatttggaaacggtgggcgattttaaagctaacaagagg
+            cctacagatttaatagttcatcagtactcggatgagtttgccgagcaactcgttgaagaa
+            ttaggttggcaagaagatttcgaaaagatacttacggcccaaggtggaatgggggataac
+            tctaaagagcaattacttgaaattgtacatgatttagagaatttgagtttggatcaatct
+            gaacatgagagtgcagacaagaaggataagaagctacagcgtctcaatggccatgacagc
+            gatgaagatggagcaagcaactcctcttcttcacaaaaagccgctaaagaataa
+///

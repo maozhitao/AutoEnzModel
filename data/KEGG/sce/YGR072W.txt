@@ -1,0 +1,63 @@
+ENTRY       YGR072W           CDS       T00005
+NAME        UPF3, SUA6, SUP112
+DEFINITION  (RefSeq) Upf3p
+ORTHOLOGY   K14328  regulator of nonsense transcripts 3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03013  RNA transport
+            sce03015  mRNA surveillance pathway
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03013 RNA transport
+                YGR072W (UPF3)
+               03015 mRNA surveillance pathway
+                YGR072W (UPF3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YGR072W (UPF3)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               Surveillance factors
+                Surveillance complex
+                 YGR072W (UPF3)
+               mRNA cycle factors
+                P-body specific factors
+                 YGR072W (UPF3)
+POSITION    VII:634304..635467
+MOTIF       Pfam: Smg4_UPF3
+DBLINKS     NCBI-GeneID: 852963
+            NCBI-ProteinID: NP_011586
+            SGD: S000003304
+            UniProt: P48412
+AASEQ       387
+            MSNVAGELKNSEGKKKGRGNRYHNKNRGKSKNETVDPKKNENKVNNATNATHNNSKGRRN
+            NKKRNREYYNYKRKARLGKSTENEGFKLVIRLLPPNLTADEFFAILRDNNNDDGDKQDIQ
+            GKLKYSDWCFFEGHYSSKVFKNSTYSRCNFLFDNLSDLEKCANFIKTCKFIDNKDNITIP
+            DMKLSPYVKKFTQTSKKDAALVGTIEEDEIFKTFMNSMKQLNENDEYSFQDFSVLKSLEK
+            EFSKSIELENKIAERTERVLTELVGTGDKVKNKNKKKKNKNAKKKFKEEEASAKIPKKKR
+            NRGKKKRENREKSTISKTKNSNVVIIEEAGKEVLKQRKKKMLLQEKLKISNSSQPQSSSA
+            QTQPSFQPKENLFVPRVKILHRDDTKK
+NTSEQ       1164
+            atgagcaatgtggctggggaattgaagaatagtgaggggaaaaagaaaggcaggggaaat
+            aggtatcataacaagaacagaggaaaaagtaagaatgagacggtagatcctaaaaagaat
+            gagaataaggttaataatgctactaatgctacccacaacaatagcaaaggcagaaggaat
+            aacaagaaaaggaacagagagtattataactataaaagaaaggctagattgggtaaatca
+            accgagaatgaaggatttaagcttgttattagattgctacctccaaatttgactgcagat
+            gaattttttgccatcttacgagataataataacgatgatggtgataagcaagatatccag
+            ggtaaactcaagtacagtgactggtgtttttttgaaggtcattattctagtaaagtattc
+            aaaaactcgacatattctcggtgcaatttcttgttcgacaacttatcagacttggaaaaa
+            tgcgcaaatttcattaaaacttgtaaattcattgataataaggataatattacaattcca
+            gatatgaaactgtcgccctacgtaaagaaattcactcaaacatcaaaaaaggatgccgcg
+            ctagtaggaacaattgaagaagacgaaatttttaaaacatttatgaattcaatgaaacag
+            ctgaatgaaaatgacgagtactcattccaagattttagcgtattgaaatctttagaaaaa
+            gaattctcaaaaagcatagagttagaaaataaaatagcagaaagaacagaaagggtgtta
+            acagagctggttggaactggtgataaggtcaagaataagaacaaaaagaagaaaaataaa
+            aacgccaaaaagaaattcaaagaagaggaagcatccgctaagataccaaagaaaaaacgg
+            aacagaggcaagaagaagcgtgaaaatcgtgaaaaaagcaccatttctaagaccaagaac
+            agtaatgtggttattattgaggaagcgggtaaagaggttttgaaacaaaggaagaagaaa
+            atgcttttgcaagagaagttaaaaatatcaaactcctctcagcctcagtcatcatccgct
+            caaacccagccgtcgttccaacctaaagaaaaccttttcgtaccacgggtaaaaattttg
+            catcgtgatgataccaagaagtag
+///

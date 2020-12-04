@@ -1,0 +1,45 @@
+ENTRY       YPR062W           CDS       T00005
+NAME        FCY1
+DEFINITION  (RefSeq) cytosine deaminase
+ORTHOLOGY   K03365  cytosine/creatinine deaminase [EC:3.5.4.1 3.5.4.21]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00240  Pyrimidine metabolism
+            sce00330  Arginine and proline metabolism
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09104 Nucleotide metabolism
+               00240 Pyrimidine metabolism
+                YPR062W (FCY1)
+              09105 Amino acid metabolism
+               00330 Arginine and proline metabolism
+                YPR062W (FCY1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.4  In cyclic amidines
+                3.5.4.1  cytosine deaminase
+                 YPR062W (FCY1)
+                3.5.4.21  creatinine deaminase
+                 YPR062W (FCY1)
+POSITION    XVI:677165..677641
+MOTIF       Pfam: dCMP_cyt_deam_1 MafB19-deam SNAD4 Bd3614-deam NAD1 APOBEC2 NAD2 APOBEC4_like
+DBLINKS     NCBI-GeneID: 856175
+            NCBI-ProteinID: NP_015387
+            SGD: S000006266
+            UniProt: Q12178
+STRUCTURE   PDB: 1P6O 1OX7 1UAQ 1YSB 1YSD 1RB7 2O3K
+AASEQ       158
+            MVTGGMASKWDQKGMDIAYEEAALGYKEGGVPIGGCLINNKDGSVLGRGHNMRFQKGSAT
+            LHGEISTLENCGRLEGKVYKDTTLYTTLSPCDMCTGAIIMYGIPRCVVGENVNFKSKGEK
+            YLQTRGHEVVVVDDERCKKIMKQFIDERPQDWFEDIGE
+NTSEQ       477
+            atggtgacagggggaatggcaagcaagtgggatcagaagggtatggacattgcctatgag
+            gaggcggccttaggttacaaagagggtggtgttcctattggcggatgtcttatcaataac
+            aaagacggaagtgttctcggtcgtggtcacaacatgagatttcaaaagggatccgccaca
+            ctacatggtgagatctccactttggaaaactgtgggagattagagggcaaagtgtacaaa
+            gataccactttgtatacgacgctgtctccatgcgacatgtgtacaggtgccatcatcatg
+            tatggtattccacgctgtgttgtcggtgagaacgttaatttcaaaagtaagggcgagaaa
+            tatttacaaactagaggtcacgaggttgttgttgttgacgatgagaggtgtaaaaagatc
+            atgaaacaatttatcgatgaaagacctcaggattggtttgaagatattggtgagtag
+///

@@ -1,0 +1,44 @@
+ENTRY       YDR533C           CDS       T00005
+NAME        HSP31
+DEFINITION  (RefSeq) glutathione-independent methylglyoxalase
+ORTHOLOGY   K22211  D-lactate dehydratase [EC:4.2.1.130]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00620  Pyruvate metabolism
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00620 Pyruvate metabolism
+                YDR533C (HSP31)
+            Enzymes [BR:sce01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.130  D-lactate dehydratase
+                 YDR533C (HSP31)
+POSITION    IV:complement(1501447..1502160)
+MOTIF       Pfam: DJ-1_PfpI ThiJ_like
+DBLINKS     NCBI-GeneID: 852146
+            NCBI-ProteinID: NP_010822
+            SGD: S000002941
+            UniProt: Q04432
+STRUCTURE   PDB: 4QYX 1QVZ 1QVW 1QVV
+AASEQ       237
+            MAPKKVLLALTSYNDVFYSDGAKTGVFVVEALHPFNTFRKEGFEVDFVSETGKFGWDEHS
+            LAKDFLNGQDETDFKNKDSDFNKTLAKIKTPKEVNADDYQIFFASAGHGTLFDYPKAKDL
+            QDIASEIYANGGVVAAVCHGPAIFDGLTDKKTGRPLIEGKSITGFTDVGETILGVDSILK
+            AKNLATVEDVAKKYGAKYLAPVGPWDDYSITDGRLVTGVNPASAHSTAVRSIDALKN
+NTSEQ       714
+            atggccccaaaaaaagttttactcgctcttacctcatataacgatgtattctacagtgac
+            ggcgccaagaccggtgtttttgttgtagaagccttacatcccttcaacacattccgaaaa
+            gaaggttttgaagtcgattttgtatctgaaaccggaaaatttggttgggatgagcattcc
+            ttagccaaagattttctaaatggtcaagacgaaacggattttaaaaataaagactcagat
+            ttcaacaagacattggctaaaattaagacaccaaaagaggtgaatgccgatgattaccaa
+            attttttttgcatctgcaggccacggtaccttatttgactatcctaaggctaaagacttg
+            caggacattgcttccgaaatttatgctaacggtggtgttgtcgcagctgtttgtcacggt
+            cctgctatttttgatgggttaacagacaaaaaaacaggaagaccattgatcgaaggtaaa
+            tctatcaccggttttactgatgttggtgaaaccattttgggtgttgatagtattttgaaa
+            gccaagaatttggcaaccgttgaagatgttgctaaaaaatatggcgctaagtatttagct
+            ccggttgggccctgggatgattactctattactgacggaagactggtaacaggtgtgaat
+            cctgcttctgcgcactccactgccgtaagatccatcgacgctttaaaaaactga
+///

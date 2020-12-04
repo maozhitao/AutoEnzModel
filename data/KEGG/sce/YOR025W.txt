@@ -1,0 +1,80 @@
+ENTRY       YOR025W           CDS       T00005
+NAME        HST3
+DEFINITION  (RefSeq) NAD-dependent histone deacetylase HST3
+ORTHOLOGY   K11121  NAD+-dependent protein deacetylase SIR2 [EC:2.3.1.286]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00760  Nicotinate and nicotinamide metabolism
+            sce01100  Metabolic pathways
+            sce04213  Longevity regulating pathway - multiple species
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00760 Nicotinate and nicotinamide metabolism
+                YOR025W (HST3)
+             09150 Organismal Systems
+              09149 Aging
+               04213 Longevity regulating pathway - multiple species
+                YOR025W (HST3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YOR025W (HST3)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YOR025W (HST3)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.286  protein acetyllysine N-acetyltransferase
+                 YOR025W (HST3)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Termination Factors
+               Telomere proteins
+                SIR proteins
+                 YOR025W (HST3)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Histone modification proteins
+               Sir proteins
+                YOR025W (HST3)
+POSITION    XV:378219..379562
+MOTIF       Pfam: SIR2 DUF4089
+DBLINKS     NCBI-GeneID: 854190
+            NCBI-ProteinID: NP_014668
+            SGD: S000005551
+            UniProt: P53687
+AASEQ       447
+            MTSVSPSPPASRSGSMCSDLPSSLQTEKLAHIIGLDADDEVLRRVTKQLSRSRRIACLTG
+            AGISCNAGIPDFRSSDGLYDLVKKDCSQYWSIKSGREMFDISLFRDDFKISIFAKFMERL
+            YSNVQLAKPTKTHKFIAHLKDRNKLLRCYTQNIDGLEESIGLTLSNRKLPLTSFSSHWKN
+            LDVVQLHGDLKTLSCTKCFQTFPWSRYWSRCLRRGELPLCPDCEALINKRLNEGKRTLGS
+            NVGILRPNIVLYGENHPSCEIITQGLNLDIIKGNPDFLIIMGTSLKVDGVKQLVKKLSKK
+            IHDRGGLIILVNKTPIGESSWHGIIDYQIHSDCDNWVTFLESQIPDFFKTQDQIKKLRQL
+            KREASDLRKQMKAQKDSIGTPPTTPLRTAQGIDIQGNNELNTKIKSLNTVKRKILSPENS
+            SEEDEEENLDTRKRAKIRPTFGDNQAS
+NTSEQ       1344
+            atgacttcagtatcgccctcgccacctgccagtcgatcgggctcaatgtgctccgactta
+            ccgtcctctttgcagactgagaaactggcacatattataggtcttgatgccgacgatgaa
+            gttctccggcgcgtaaccaagcagttgagcagatctaggagaattgcttgtctgactggg
+            gcaggcatttcgtgcaacgcgggcattcctgactttcgctcttctgatgggctctacgac
+            ctagtgaaaaaggattgttcacagtattggtctatcaagtccggcagggaaatgtttgat
+            atttcgctatttagagatgacttcaaaatatccatttttgctaaatttatggagaggctc
+            tattcaaatgttcaattggcaaagccgactaagacgcacaagttcattgcgcatctaaaa
+            gataggaacaaactgctgcgctgttacacgcaaaacatcgatgggctcgaagaaagcata
+            ggacttactttatcaaataggaaattaccgcttacctcatttagttcacattggaaaaat
+            ctggatgtcgttcagttgcacggcgacctgaaaactctttcgtgtacaaagtgcttccag
+            acttttccctggagcaggtactggtctcgttgtctaagaagaggtgagttaccattgtgt
+            ccggattgcgaagcacttatcaacaagagattgaatgaaggaaagcgaactcttggttct
+            aatgtgggtattctaagacctaatatcgtcctgtatggtgaaaaccatccatcctgtgaa
+            attattacgcaaggcctaaatcttgacataattaaaggcaatcctgattttttgatcatc
+            atgggtacaagtttgaaagttgatggtgtgaaacaactggtaaaaaaattaagtaagaaa
+            attcacgatcgtggcggcctgatcattctcgtaaacaagacacccattggcgaatcctct
+            tggcacggcattatagactaccaaatccactcagattgtgataattgggtcacatttctt
+            gaatcccaaataccagatttcttcaagacgcaagatcaaattaagaagttaagacagtta
+            aaaagggaggcgagcgacttgagaaagcaaatgaaggcccaaaaagactcaatcggaacc
+            cccccaacaacccctctacgaactgcccaggggattgatattcaaggaaacaacgaattg
+            aatacaaaaataaagtcgttaaacacagttaagagaaaaatactgtcaccagaaaactcc
+            agtgaggaagacgaagaggaaaacttggatacaagaaaacgcgctaagatacgaccaact
+            ttcggtgacaaccaagcctcataa
+///

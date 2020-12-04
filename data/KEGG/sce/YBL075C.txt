@@ -1,0 +1,144 @@
+ENTRY       YBL075C           CDS       T00005
+NAME        SSA3, YG106
+DEFINITION  (RefSeq) Hsp70 family ATPase SSA3
+ORTHOLOGY   K03283  heat shock 70kDa protein 1/2/6/8
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+            sce04141  Protein processing in endoplasmic reticulum
+            sce04144  Endocytosis
+            sce04213  Longevity regulating pathway - multiple species
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YBL075C (SSA3)
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YBL075C (SSA3)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04144 Endocytosis
+                YBL075C (SSA3)
+             09150 Organismal Systems
+              09149 Aging
+               04213 Longevity regulating pathway - multiple species
+                YBL075C (SSA3)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01009 Protein phosphatases and associated proteins [BR:sce01009]
+                YBL075C (SSA3)
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YBL075C (SSA3)
+               03009 Ribosome biogenesis [BR:sce03009]
+                YBL075C (SSA3)
+               03110 Chaperones and folding catalysts [BR:sce03110]
+                YBL075C (SSA3)
+               04131 Membrane trafficking [BR:sce04131]
+                YBL075C (SSA3)
+               03051 Proteasome [BR:sce03051]
+                YBL075C (SSA3)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YBL075C (SSA3)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YBL075C (SSA3)
+            Protein phosphatases and associated proteins [BR:sce01009]
+             Protein serine/threonine phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-5
+                PP5-interacting proteins
+                 YBL075C (SSA3)
+            Spliceosome [BR:sce03041]
+             Complex B
+              Other components
+               Prp19 complex
+                YBL075C (SSA3)
+             Complex C
+               Prp19-CDC5 complex
+                YBL075C (SSA3)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Pre-60S particles
+               Export and cytoplasmic maturation factors
+                YBL075C (SSA3)
+            Chaperones and folding catalysts [BR:sce03110]
+             Heat shock proteins
+              HSP70 / DNAK
+               YBL075C (SSA3)
+            Membrane trafficking [BR:sce04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Other core components
+                YBL075C (SSA3)
+             Autophagy
+              Chaperone mediated autophagy (CMA)
+               Chaperones
+                YBL075C (SSA3)
+            Proteasome [BR:sce03051]
+             Eukaryotic proteasome
+              Assembling factors
+               Other assembling factors
+                YBL075C (SSA3)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Endoplasmic reticulum membrane and cytosol
+               Other ER-memrane and cytosol factors
+                YBL075C (SSA3)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               YBL075C (SSA3)
+POSITION    II:complement(84499..86448)
+MOTIF       Pfam: HSP70 MreB_Mbl FGGY_C DDR Hydantoinase_A S-AdoMet_synt_M Cnd1_N
+DBLINKS     NCBI-GeneID: 852203
+            NCBI-ProteinID: NP_009478
+            SGD: S000000171
+            UniProt: P09435
+AASEQ       649
+            MSRAVGIDLGTTYSCVAHFSNDRVEIIANDQGNRTTPSYVAFTDTERLIGDAAKNQAAIN
+            PHNTVFDAKRLIGRKFDDPEVTTDAKHFPFKVISRDGKPVVQVEYKGETKTFTPEEISSM
+            VLSKMKETAENYLGTTVNDAVVTVPAYFNDSQRQATKDAGTIAGMNVLRIINEPTAAAIA
+            YGLDKKGRAEHNVLIFDLGGGTFDVSLLSIDEGVFEVKATAGDTHLGGEDFDNRLVNHLA
+            TEFKRKTKKDISNNQRSLRRLRTAAERAKRALSSSSQTSIEIDSLFEGMDFYTSLTRARF
+            EELCADLFRSTLEPVEKVLKDSKLDKSQIDEIVLVGGSTRIPKIQKLVSDFFNGKEPNRS
+            INPDEAVAYGAAVQAAILTGDQSTKTQDLLLLDVAPLSLGIETAGGIMTKLIPRNSTIPT
+            KKSETFSTYADNQPGVLIQVFEGERTRTKDNNLLGKFELSGIPPAPRGVPQIDVTFDIDA
+            NGILNVSALEKGTGKSNKITITNDKGRLSKDDIDRMVSEAEKYRADDEREAERVQAKNQL
+            ESYAFTLKNTINEASFKEKVGEDDAKRLETASQETIDWLDASQAASTDEYKDRQKELEGI
+            ANPIMTKFYGAGAGAGPGAGESGGFPGSMPNSGATGGGEDTGPTVEEVD
+NTSEQ       1950
+            atgtctagagcagttggtattgatttgggaacaacttactcgtgtgttgctcatttttcc
+            aatgatagggtagagataattgcaaatgatcaaggtaataggaccactccatcgtatgtg
+            gctttcacagacaccgaaagattaattggtgacgccgccaaaaatcaagctgcaatcaat
+            cctcataatacagtttttgatgcaaagcggttaattggtcgtaaatttgatgatcctgaa
+            gtgacgacagatgccaagcacttccctttcaaagttatatccagagatggtaaacctgta
+            gtgcaagtagaatataagggtgaaacgaaaacatttacgcctgaggaaatttcttccatg
+            gttttaagcaaaatgaaggaaactgctgagaactatttgggaactacggtcaatgatgct
+            gttgtaactgttcctgcatatttcaatgattctcaaagacaagccactaaggatgcagga
+            actattgcagggatgaacgttttacgtattatcaatgaacccactgcagcagcaattgct
+            tatggcttggataagaaaggcagggctgagcacaatgtcctgatttttgatttgggtggt
+            ggtacttttgacgtctctttactttcaattgatgagggtgtttttgaggttaaggctacc
+            gcaggagacactcatttaggtggtgaagattttgataataggttggtgaaccatttagcc
+            actgaattcaaaaggaaaacgaaaaaggacatctctaataatcaaagatcgttaagaaga
+            ttgagaactgcggcagaaagagctaagagagcgctttcttcctcatctcaaacctcgatc
+            gagatcgattctttatttgaaggtatggatttctacacttcgttaacaagggcaaggttt
+            gaagagctatgtgctgatttattcagatccacattggaaccagtagaaaaggttcttaaa
+            gattcgaagctggacaagtcccaaattgatgagattgtgttagtcggtggatctaccaga
+            atcccaaagattcagaaattagtttctgacttcttcaatggcaaagagcctaatcgttct
+            atcaacccggatgaggctgttgcttatggtgcagccgttcaagctgccattttaaccggc
+            gatcaatcaacaaagacacaagatttactattattggatgttgcgccattgtccctagga
+            attgaaactgcaggcggcataatgactaagctaattcctagaaactcaacgattccaaca
+            aagaaatcggaaaccttctctacctatgcagataatcaacctggtgttttaattcaagtc
+            tttgaaggtgaaagaacaagaacaaaggataataacttacttggtaaattcgaattaagt
+            ggcattccgcctgctcccagaggtgtgcctcaaattgatgttacctttgatatcgacgct
+            aatggtattcttaatgtgtctgctttggaaaagggtactggtaagagtaacaaaatcacg
+            atcactaacgataaaggtaggctctcgaaggatgatattgataggatggtttctgaagct
+            gaaaaatatagggctgacgatgaaagggaggcagaacgagttcaggctaagaatcagctt
+            gaatcgtatgcatttactttgaagaataccataaacgaagcaagtttcaaagagaaagta
+            ggtgaagatgatgcaaagagattagaaacagcgtctcaggaaaccattgactggttagat
+            gcatcgcaggcagcctctacggacgaatataaggatagacaaaaggagttggaaggcatt
+            gccaatccaataatgacgaaattttacggtgctggtgccggcgcaggtcctggagcgggg
+            gaatccggtggattccccggatccatgcccaactcgggtgctacgggaggtggagaagat
+            acaggtccaacagtggaagaggttgattga
+///

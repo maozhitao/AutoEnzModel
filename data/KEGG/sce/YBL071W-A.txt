@@ -1,0 +1,39 @@
+ENTRY       YBL071W-A         CDS       T00005
+NAME        KTI11, DPH3
+DEFINITION  (RefSeq) Kti11p
+ORTHOLOGY   K15455  diphthamide biosynthesis protein 3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YBL071W-A (KTI11)
+               03012 Translation factors [BR:sce03012]
+                YBL071W-A (KTI11)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              tRNA modification factors
+               Elongator related proteins
+                YBL071W-A (KTI11)
+            Translation factors [BR:sce03012]
+             Eukaryotic type
+              Elongation factors
+               Elongation associated factors
+                YBL071W-A (KTI11)
+POSITION    II:89978..90226
+MOTIF       Pfam: zf-CSL zf-RING_4 DUF899
+DBLINKS     NCBI-GeneID: 852207
+            NCBI-ProteinID: NP_660100
+            SGD: S000007587
+            UniProt: Q3E840
+STRUCTURE   PDB: 4X33 5AX2 1YWS 1YOP
+AASEQ       82
+            MSTYDEIEIEDMTFEPENQMFTYPCPCGDRFQIYLDDMFEGEKVAVCPSCSLMIDVVFDK
+            EDLAEYYEEAGIHPPEPIAAAA
+NTSEQ       249
+            atgtcaacatatgacgaaatcgaaatcgaagatatgacgtttgagcctgaaaatcaaatg
+            ttcacctatccttgtccctgtggagataggtttcaaatatatctggatgacatgtttgag
+            ggcgaaaaagttgctgtttgtcccagctgctcactgatgatcgatgtagttttcgataaa
+            gaagacttggctgagtactacgaagaggcaggcatccacccccctgagcctattgccgct
+            gctgcctaa
+///

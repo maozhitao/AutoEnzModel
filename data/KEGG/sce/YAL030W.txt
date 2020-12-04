@@ -1,0 +1,38 @@
+ENTRY       YAL030W           CDS       T00005
+NAME        SNC1
+DEFINITION  (RefSeq) SNAP receptor SNC1
+ORTHOLOGY   K08513  vesicle-associated membrane protein 4
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04130  SNARE interactions in vesicular transport
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04130 SNARE interactions in vesicular transport
+                YAL030W (SNC1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YAL030W (SNC1)
+            Membrane trafficking [BR:sce04131]
+             SNARE
+              VAMP, Ykt6, Sec22 (R)
+               VAMP
+                YAL030W (SNC1)
+POSITION    I:join(87286..87387,87501..87752)
+MOTIF       Pfam: Synaptobrevin
+DBLINKS     NCBI-GeneID: 851203
+            NCBI-ProteinID: NP_009372
+            SGD: S000000028
+            UniProt: P31109
+STRUCTURE   PDB: 3B5N
+AASEQ       117
+            MSSSTPFDPYALSEHDEERPQNVQSKSRTAELQAEIDDTVGIMRDNINKVAERGERLTSI
+            EDKADNLAVSAQGFKRGANRVRKAMWYKDLKMKMCLALVIIILLVVIIVPIAVHFSR
+NTSEQ       354
+            atgtcgtcatctactccctttgacccttatgctctatccgagcacgatgaagaacgaccc
+            cagaatgtacagtctaagtcaaggactgcggaactacaagctgaaattgatgataccgtg
+            ggaataatgagagataacataaataaagtagcagaaagaggtgaaagattaacgtccatt
+            gaagataaagccgataacctagcggtctcagcccaaggctttaagaggggtgccaatagg
+            gtcagaaaagccatgtggtacaaggatctaaaaatgaagatgtgtctggctttagtaatc
+            atcatattgcttgttgtaatcatcgtccccattgctgttcactttagtcgatag
+///

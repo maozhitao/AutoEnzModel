@@ -1,0 +1,52 @@
+ENTRY       YKR076W           CDS       T00005
+NAME        ECM4, GTO2
+DEFINITION  (RefSeq) S-glutathionyl-(chloro)hydroquinone reductase
+ORTHOLOGY   K07393  glutathionyl-hydroquinone reductase [EC:1.8.5.7]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                YKR076W (ECM4)
+            Enzymes [BR:sce01000]
+             1. Oxidoreductases
+              1.8  Acting on a sulfur group of donors
+               1.8.5  With a quinone or similar compound as acceptor
+                1.8.5.7  glutathionyl-hydroquinone reductase
+                 YKR076W (ECM4)
+POSITION    XI:582283..583395
+MOTIF       Pfam: GST_N_2 GST_C_2 GST_C GST_C_3
+DBLINKS     NCBI-GeneID: 853951
+            NCBI-ProteinID: NP_013002
+            SGD: S000001784
+            UniProt: P36156
+STRUCTURE   PDB: 5LKB 5LKD
+AASEQ       370
+            MSKQWASGTNGAFKRQVSSFRETISKQHPIYKPAKGRYWLYVSLACPWAHRTLITRALKG
+            LTSVIGCSVVHWHLDEKGWRFLDMEKQLEDSEDFLEHWHDVAGGIRTAKEDSSKSFAEIK
+            NDSQRFMVDATNEPHYGYKRISDLYYKSDPQYSARFTVPVLWDLETQTIVNNESSEIIRI
+            LNSSAFDEFVDDDHKKTDLVPAQLKTQIDDFNSWVYDSINNGVYKTGFAEKAEVYESEVN
+            NVFEHLDKVEKILSDKYSKLKAKYGEEDRQKILGEFFTVGDQLTEADIRLYTTVIRFDPV
+            YVQHFKCNFTSIRAGYPFIHLWVRNLYWNYDAFRYTTDFDHIKLHYTRSHTRINPLGITP
+            LGPKPDIRPL
+NTSEQ       1113
+            atgtcgaaacagtgggcgagtggtacaaacggagctttcaaaagacaggtttcgtccttc
+            agagaaacaatctctaagcaacacccaatttataagccagcaaagggaagatattggttg
+            tatgtttcacttgcatgcccatgggcccatagaacactaattacgagggctttgaaggga
+            ttaacctctgttataggatgtagcgtagtccattggcaccttgacgagaaaggatggaga
+            tttttggacatggaaaagcaattggaggacagtgaagattttttggaacattggcacgat
+            gttgcaggtggtattagaactgctaaagaggattccagcaagagcttcgccgagatcaag
+            aatgacagtcaaagattcatggttgatgctaccaatgagcctcactatggatacaagaga
+            atcagtgacttatattacaagagcgatcctcaatactcggcaaggttcaccgtcccagtc
+            ctgtgggacttagaaacccaaacaattgttaacaacgaaagtagcgaaattataaggatt
+            ttgaactctagtgcgttcgatgaatttgtcgacgacgatcacaagaaaacggaccttgtt
+            cctgctcagttgaaaacacagatcgatgacttcaattcttgggtttacgacagcatcaac
+            aatggtgtatacaagaccggattcgcagagaaagcagaagtttacgaaagtgaagtcaac
+            aacgtatttgaacatttggacaaagtggagaaaatcctgagtgacaaatattccaaattg
+            aaggccaaatacggtgaagaagatagacaaaaaatcttgggtgagttcttcactgtgggt
+            gatcaattaacagaagctgacattagattgtatactaccgtcataagattcgatcctgtg
+            tacgtccaacatttcaaatgcaattttacctctattagagccggatatccatttattcat
+            ttgtgggtaagaaatttatactggaattatgatgccttcaggtacacaacagattttgac
+            catatcaagttacactacacgcgttcccacacaaggatcaaccccttgggaattacgccc
+            ctgggacccaagccagatattcgtcctttataa
+///

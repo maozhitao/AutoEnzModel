@@ -1,0 +1,64 @@
+ENTRY       YLR270W           CDS       T00005
+NAME        DCS1
+DEFINITION  (RefSeq) 5'-(N(7)-methyl 5'-triphosphoguanosine)-(mRNA) diphosphatase
+ORTHOLOGY   K12584  m7GpppX diphosphatase [EC:3.6.1.59]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03018  RNA degradation
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03018 RNA degradation
+                YLR270W (DCS1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YLR270W (DCS1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.1  In phosphorus-containing anhydrides
+                3.6.1.59  5'-(N7-methyl 5'-triphosphoguanosine)-[mRNA] diphosphatase
+                 YLR270W (DCS1)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA degradation factors
+               5'-3' decay
+                Other 5'-3' decay factors
+                 YLR270W (DCS1)
+               3'-5' decay
+                Other 3'-5' decay factors
+                 YLR270W (DCS1)
+POSITION    XII:681186..682238
+MOTIF       Pfam: DcpS DcpS_C
+DBLINKS     NCBI-GeneID: 850974
+            NCBI-ProteinID: NP_013372
+            SGD: S000004260
+            UniProt: Q06151
+STRUCTURE   PDB: 5BV3
+AASEQ       350
+            MSQLPTDFASLIKRFQFVSVLDSNPQTKVMSLLGTIDNKDAIITAEKTHFLFDETVRRPS
+            QDGRSTPVLYNCENEYSCINGIQELKEITSNDIYYWGLSVIKQDMESNPTAKLNLIWPAT
+            PIHIKKYEQQNFHLVRETPEMYKRIVQPYIEEMCNNGRLKWVNNILYEGAESERVVYKDF
+            SEENKDDGFLILPDMKWDGMNLDSLYLVAIVYRTDIKTIRDLRYSDRQWLINLNNKIRSI
+            VPGCYNYAVHPDELRILVHYQPSYYHFHIHIVNIKHPGLGNSIAAGKAILLEDIIEMLNY
+            LGPEGYMNKTITYAIGENHDLWKRGLEEELTKQLERDGIPKIPKIVNGFK
+NTSEQ       1053
+            atgtctcaactgccaacagattttgcttcattgatcaagagattccaatttgttagtgtc
+            ctcgattccaaccctcaaaccaaagttatgtccttattgggaaccattgacaacaaggat
+            gctattatcacggctgaaaagacgcactttctatttgacgaaaccgtgagaagaccctct
+            caagatggccgctccactccagttttatataattgtgaaaacgaatattcttgcatcaac
+            ggaattcaggaattaaaggagattacttccaatgatatttactactggggtttgtcagtg
+            ataaagcaggatatggagtcgaaccctaccgccaagttgaatttaatttggcctgctact
+            ccaattcatatcaagaaatatgaacaacaaaactttcatttagtcagagagactcctgag
+            atgtacaagagaattgttcagccttacatcgaagaaatgtgtaataacggtagacttaaa
+            tgggtaaacaacattctttatgaaggcgctgagtcagaaagggtcgtttataaagatttt
+            tctgaggagaataaggacgacggcttcctaattttacctgatatgaaatgggatggcatg
+            aacttagactctttatatctagttgcgatcgtctacaggaccgatatcaagacaataagg
+            gatttaagatattctgacagacagtggttaatcaacttgaacaacaagattagatccatt
+            gttcctggttgttacaactatgctgtccatccggatgagttgagaattttggttcactac
+            caaccttcttattatcatttccacattcacatcgttaacataaagcatcccggtttaggt
+            aatagtattgccgcgggcaaggccatcttgttggaagacatcattgaaatgttaaattat
+            ctaggaccagaaggctacatgaacaagacaatcacctacgctattggtgaaaatcatgat
+            ttgtggaaaaggggtctggaagaagaactcactaaacaattggaaagagatggtatccca
+            aaaatacccaagattgtgaacggttttaaataa
+///

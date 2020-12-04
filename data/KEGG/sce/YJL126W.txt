@@ -1,0 +1,48 @@
+ENTRY       YJL126W           CDS       T00005
+NAME        NIT2
+DEFINITION  (RefSeq) putative hydrolase
+ORTHOLOGY   K11206  deaminated glutathione amidase [EC:3.5.1.128]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                YJL126W (NIT2)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.128  deaminated glutathione amidase
+                 YJL126W (NIT2)
+POSITION    X:184501..185424
+MOTIF       Pfam: CN_hydrolase sCache_3_2 PM0188
+DBLINKS     NCBI-GeneID: 853316
+            NCBI-ProteinID: NP_012409
+            SGD: S000003662
+            UniProt: P47016
+STRUCTURE   PDB: 4HG5 4H5U 4HG3 4HGD
+AASEQ       307
+            MTSKLKRVAVAQLCSSADLTKNLKVVKELISEAIQKKADVVFLPEASDYLSQNPLHSRYL
+            AQKSPKFIRQLQSSITDLVRDNSRNIDVSIGVHLPPSEQDLLEGNDRVRNVLLYIDHEGK
+            ILQEYQKLHLFDVDVPNGPILKESKSVQPGKAIPDIIESPLGKLGSAICYDIRFPEFSLK
+            LRSMGAEILCFPSAFTIKTGEAHWELLGRARAVDTQCYVLMPGQVGMHDLSDPEWEKQSH
+            MSALEKSSRRESWGHSMVIDPWGKIIAHADPSTVGPQLILADLDRELLQEIRNKMPLWNQ
+            RRDDLFH
+NTSEQ       924
+            atgactagtaaattaaaacgggttgctgtcgcacaattatgttcatccgctgacctgacc
+            aaaaacttaaaagtggtaaaagaattgatatctgaagccattcaaaaaaaggcggatgtc
+            gtttttctccctgaggcaagtgactatctttctcaaaaccctcttcattccaggtatttg
+            gcacagaaaagccccaaatttattcggcaattacagtcaagcattaccgaccttgtcaga
+            gataattcacggaatatagatgtttccattggggtacacttgccgccctcagaacaagat
+            ttacttgaaggcaatgatcgagtcagaaacgttctattatatatcgatcatgaagggaaa
+            atattgcaagaataccaaaaactgcatttgtttgacgtagacgtgccaaatggaccgata
+            ttgaaagaatcaaaatctgtccagcctggcaaagccattcctgacattatagagtctcca
+            ttgggaaaattgggcagtgccatttgttatgatattcgctttcccgaattttctttgaaa
+            ttacgatcaatgggggctgaaatcttatgttttcccagtgcgttcactattaaaacaggg
+            gaagcacattgggagttactaggcagagcaagagcggttgacactcaatgctatgtgctc
+            atgccagggcaggttggaatgcacgatctcagtgatccagagtgggagaaacaatcacat
+            atgagcgctctcgaaaaaagctccaggagagaatcttggggacactcaatggtcattgat
+            ccttggggtaaaataatagcgcatgccgatccctctactgttggaccacaactaattctc
+            gctgatttggatcgtgagcttttgcaagaaataaggaacaaaatgcccttatggaaccag
+            agaagagacgatttatttcattga
+///

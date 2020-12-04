@@ -1,0 +1,56 @@
+ENTRY       YER177W           CDS       T00005
+NAME        BMH1, APR6
+DEFINITION  (RefSeq) 14-3-3 family protein BMH1
+ORTHOLOGY   K06630  14-3-3 protein epsilon
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04011  MAPK signaling pathway - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               04011 MAPK signaling pathway - yeast
+                YER177W (BMH1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YER177W (BMH1)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YER177W (BMH1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              Check point factors
+               Other check point factors
+                YER177W (BMH1)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               YER177W (BMH1)
+POSITION    V:545611..546414
+MOTIF       Pfam: 14-3-3 FlaF
+DBLINKS     NCBI-GeneID: 856924
+            NCBI-ProteinID: NP_011104
+            SGD: S000000979
+            UniProt: P29311
+STRUCTURE   PDB: 5N6N 6QK8
+AASEQ       267
+            MSTSREDSVYLAKLAEQAERYEEMVENMKTVASSGQELSVEERNLLSVAYKNVIGARRAS
+            WRIVSSIEQKEESKEKSEHQVELICSYRSKIETELTKISDDILSVLDSHLIPSATTGESK
+            VFYYKMKGDYHRYLAEFSSGDAREKATNASLEAYKTASEIATTELPPTHPIRLGLALNFS
+            VFYYEIQNSPDKACHLAKQAFDDAIAELDTLSEESYKDSTLIMQLLRDNLTLWTSDMSES
+            GQAEDQQQQQQHQQQQPPAAAEGEAPK
+NTSEQ       804
+            atgtcaaccagtcgtgaagattctgtgtacctagccaagttggctgaacaggccgaacgt
+            tatgaagaaatggtcgaaaacatgaagactgttgcctcctctggccaagagttgtcggtc
+            gaagagcgtaatttgttgtctgttgcttataagaacgttattggtgctcgtcgtgcctct
+            tggagaattgtttcttctattgagcaaaaggaggagtccaaggagaagtccgaacaccag
+            gtcgagttgatttgttcgtaccgttcgaagattgagaccgaactaactaagatctccgac
+            gatattttgtccgtgctagactcccacttaattccatcagccaccactggcgagtccaag
+            gttttctactataagatgaagggtgactaccaccgttatttggctgaattttctagtggc
+            gatgctagagaaaaggccacaaacgcctctttagaagcatacaagaccgcttctgaaatt
+            gccaccacagagttacccccaactcacccaatccgtctaggtttggctcttaacttctct
+            gtcttctattatgaaattcaaaactctccagacaaagcctgccatttggccaagcaagct
+            tttgacgacgctattgctgagttggacactctgtctgaagaatcatacaaagatagcaca
+            cttatcatgcaactgctaagggacaatttaaccttatggacttcagacatgtccgagtcc
+            ggtcaagctgaagaccaacaacaacaacaacaacatcagcaacagcagccacctgctgcc
+            gccgaaggtgaagcaccaaagtaa
+///

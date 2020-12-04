@@ -1,0 +1,91 @@
+ENTRY       YCL017C           CDS       T00005
+NAME        NFS1, SPL1
+DEFINITION  (RefSeq) cysteine desulfurase
+ORTHOLOGY   K04487  cysteine desulfurase [EC:2.8.1.7]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00730  Thiamine metabolism
+            sce01100  Metabolic pathways
+            sce04122  Sulfur relay system
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00730 Thiamine metabolism
+                YCL017C (NFS1)
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04122 Sulfur relay system
+                YCL017C (NFS1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YCL017C (NFS1)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YCL017C (NFS1)
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:sce02048]
+                YCL017C (NFS1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.8  Transferring sulfur-containing groups
+               2.8.1  Sulfurtransferases
+                2.8.1.7  cysteine desulfurase
+                 YCL017C (NFS1)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              tRNA modification factors
+               Thiolation factors
+                YCL017C (NFS1)
+             Prokaryotic type
+                YCL017C (NFS1)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial quality control factors
+              Regulator of mitochondrial biogenesis
+               Proteins involved in Fe-S cluster biogenesis
+                YCL017C (NFS1)
+            Prokaryotic defense system [BR:sce02048]
+             DNA phosphothiolation system
+              Sulfur modification proteins
+               YCL017C (NFS1)
+POSITION    III:complement(92777..94270)
+MOTIF       Pfam: Aminotran_5 Aminotran_1_2 DegT_DnrJ_EryC1 Beta_elim_lyase Pyridoxal_deC Cys_Met_Meta_PP
+DBLINKS     NCBI-GeneID: 850343
+            NCBI-ProteinID: NP_009912
+            SGD: S000000522
+            UniProt: P25374
+AASEQ       497
+            MLKSTATRSITRLSQVYNVPAATYRACLVSRRFYSPPAAGVKLDDNFSLETHTDIQAAAK
+            AQASARASASGTTPDAVVASGSTAMSHAYQENTGFGTRPIYLDMQATTPTDPRVLDTMLK
+            FYTGLYGNPHSNTHSYGWETNTAVENARAHVAKMINADPKEIIFTSGATESNNMVLKGVP
+            RFYKKTKKHIITTRTEHKCVLEAARAMMKEGFEVTFLNVDDQGLIDLKELEDAIRPDTCL
+            VSVMAVNNEIGVIQPIKEIGAICRKNKIYFHTDAAQAYGKIHIDVNEMNIDLLSISSHKI
+            YGPKGIGAIYVRRRPRVRLEPLLSGGGQERGLRSGTLAPPLVAGFGEAARLMKKEFDNDQ
+            AHIKRLSDKLVKGLLSAEHTTLNGSPDHRYPGCVNVSFAYVEGESLLMALRDIALSSGSA
+            CTSASLEPSYVLHALGKDDALAHSSIRFGIGRFSTEEEVDYVVKAVSDRVKFLRELSPLW
+            EMVQEGIDLNSIKWSGH
+NTSEQ       1494
+            atgttgaaatcaactgctacaagatcgataacaagattatctcaagtttacaacgttcca
+            gcggccacatatagggcttgtttggtaagcaggagattctattcccctcctgcagcaggc
+            gtgaagttagacgacaacttctctctggaaacgcataccgatattcaggctgctgcaaag
+            gcacaggctagtgcccgtgcgagtgcatccggtaccaccccagatgctgtagtagcttct
+            ggtagcactgcaatgagccatgcttatcaagaaaacacaggttttggtactcgtcccata
+            tatcttgacatgcaagccactacaccaacagaccctagggttttggatacgatgttgaag
+            ttttatacgggactttatggtaatcctcattccaacactcactcttacggttgggaaaca
+            aatactgctgtggaaaatgctagagctcacgtagcaaagatgatcaatgccgaccccaag
+            gaaataatattcacttcgggagcgaccgaatctaataatatggttcttaagggtgtccca
+            agattttataagaagactaagaaacacatcatcaccactagaacggaacacaagtgtgtc
+            ttggaagccgcacgggccatgatgaaggagggatttgaagtcactttcctaaatgtggac
+            gatcaaggtcttatcgatttgaaggaattggaagatgccattagaccagatacctgtctc
+            gtctctgtgatggctgtcaataatgaaatcggtgtcattcaacctattaaagaaattggt
+            gcaatttgtagaaagaataagatctactttcatactgacgccgcacaagcctatggtaag
+            attcacattgatgtcaatgaaatgaacattgatttactatcaatttcttctcacaagatt
+            tacggtccaaagggaataggtgccatctatgtaagaaggagaccaagagttagattagaa
+            cctttactatccggtggtggccaagagagaggattgagatctggtactttggccccccca
+            ttggtagcgggatttggtgaagctgcgagattgatgaagaaagaatttgacaacgaccaa
+            gctcacatcaaaagactatccgataaattagtcaaaggtctattatccgctgaacatacc
+            acgttgaacggatctccagatcatcgttatccagggtgtgttaacgtttctttcgcctac
+            gtggaaggagaatctttattgatggcactaagggatatcgcattatcctcgggttcagcc
+            tgtacatctgcttccctagaaccttcttatgttttacatgcgctgggtaaggatgatgca
+            ttagcccattcttccatcagatttggtattggtagatttagtactgaagaggaggtcgac
+            tacgtcgttaaggccgtttctgacagagtaaaattcttgagggaactttcaccattatgg
+            gaaatggttcaagaaggtattgacttaaactccatcaaatggtcaggtcattga
+///

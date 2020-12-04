@@ -1,0 +1,72 @@
+ENTRY       YDL113C           CDS       T00005
+NAME        ATG20, CVT20, SNX42
+DEFINITION  (RefSeq) Atg20p
+ORTHOLOGY   K21996  sorting nexin-41/42
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YDL113C (ATG20)
+            Membrane trafficking [BR:sce04131]
+             SNARE
+              SNARE associated proteins
+               Others
+                YDL113C (ATG20)
+             Autophagy
+              Cytoplasm to vacuolar targeting (CVT) pathway
+               Other Cvt associated proteins
+                YDL113C (ATG20)
+POSITION    IV:complement(256633..258555)
+MOTIF       Pfam: PX Vps5 HTH_16
+DBLINKS     NCBI-GeneID: 851445
+            NCBI-ProteinID: NP_010170
+            SGD: S000002271
+            UniProt: Q07528
+AASEQ       640
+            MSDLNDVQENAKLNSETRNTGKAEPPHGTTEYVAEAEISKNGVGSPKKSPKKGKVGKGDN
+            NKVETELVHTALLEKDNPFMEEGPTGFTKSALLEIPGMRSHNLKNPNEDYEDDSEGLLPL
+            NQESNAETCRTSLSGSINSMNGETSASEEPSVSNRKKSARIHILEAKRVSEGQGRAYIAY
+            VIQFENSTVQRRYSDFESLRSILIRLFPMTLIPPIPEKQSIKNYGKSITGSSSKYLLPSE
+            GSGSVDLSLSVIHASVNNSDEKLIRHRIRMLTEFLNKLLTNEEITKTSIITDFLDPNNHN
+            WHEFVNSSSTFSSLPKSILQCNPLDPTNTTRIHAMLPIPGSSSQLLLNKESNDKKMDKER
+            SKSFTNIEQDYKQYENLLDNGIYKYNRRTTKTYHDLKSDYNEIGEVFAQFAHEQAQVGEL
+            AEQLSYLSNAFSGSSISLEKLVGRLYYNINEPLNESVHMATSARELIKYRKLKYLQNEMI
+            KKSLNSKRAQLEKLEAQNNEYKDVDKIIDNEMSKSHTINLERPNNNTGSGGKSYGGKLFN
+            GFNKLASMVKDSVKYQETDPHTASINLKKEIEQLSESLEVTENDLEVISKVIKNDQLPKF
+            SKEREVDLSEILKHYSRYMRNYARQNLEIWKEVKRHQDFA
+NTSEQ       1923
+            atgtcagacttaaatgatgtccaagaaaatgctaaattgaattcggaaactcggaataca
+            ggaaaggctgaaccacctcatgggacaactgagtatgtggcagaggcagaaatttctaag
+            aatggagttggatcgccaaaaaagagcccaaaaaagggtaaggttggaaagggggacaat
+            aacaaagtagaaactgagttagtacacacagccctgttagaaaaagacaacccattcatg
+            gaggaggggccaacaggattcacaaaatcagctttattagaaatacccggtatgagaagc
+            cataacctaaagaacccgaatgaagattacgaggatgactctgagggattattgccttta
+            aaccaagaatcgaatgcagaaacatgtagaacaagtcttagtggaagtattaactccatg
+            aacggagagacctctgcgtcagaagaaccttctgtaagtaatagaaagaagtccgctagg
+            atacacatacttgaagcgaaaagagtttccgaaggtcaaggaagagcctacatcgcctat
+            gttattcagtttgaaaattctaccgttcagagacgttacagcgatttcgagagtttgaga
+            agtatcttgataagattgtttcctatgacgttgataccgccgattccagaaaagcagtca
+            ataaagaattatggtaagtcaataactggttcgagttcaaagtatttgctgccctcagaa
+            ggttctggttcagtagatctatcattgtctgtgatacatgcgtcggtcaataatagtgat
+            gaaaagttaatacggcataggataagaatgctcactgagttcttgaacaaacttttgacg
+            aacgaagaaatcacaaaaacatctataattaccgattttttggatcctaataaccataat
+            tggcatgaatttgttaacagttcgtccactttttcatctttaccgaagagcatcctccag
+            tgtaatccactagatcccactaacaccactagaattcatgccatgttaccaataccgggc
+            tcctcgtcacagttattgttgaataaggagtccaacgacaaaaaaatggataaggaaaga
+            agtaagtcgtttactaatattgaacaggattacaagcaatatgagaacttgttagataac
+            gggatttataagtataatagacgaaccacgaagacttatcacgatttgaaatcggattac
+            aatgaaatcggtgaggtatttgcacagtttgcccatgaacaggctcaagttggggaattg
+            gccgaacagctttcttacttaagcaatgccttttcggggtcctcgatttctttagaaaaa
+            ttagttggaagactatactacaatataaatgagcctttaaatgaatctgttcatatggca
+            acttctgcaagagaattgatcaaatacagaaaattgaaatacctgcaaaatgaaatgatt
+            aaaaagtctctgaattccaaaagagcacagttggagaagctggaagcgcaaaacaatgaa
+            tataaggatgttgacaaaataattgacaacgaaatgtctaaaagtcatactattaatctg
+            gaacgccctaataataatacaggtagcggtgggaaatcatatggtggcaaactattcaat
+            ggatttaacaaattggcatcaatggtaaaagattctgtgaagtatcaagaaacagatccg
+            cataccgcaagtatcaatttgaagaaagaaattgaacaactgtctgaatcattggaagtt
+            actgagaatgatttggaggtcatttcaaaagtcatcaaaaatgaccagctacctaaattt
+            tctaaagaaagggaagtagatttatcagaaattttaaagcattattccagatatatgaga
+            aattatgcccgtcaaaatttagaaatttggaaagaagtcaaaagacatcaagattttgca
+            tag
+///

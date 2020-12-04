@@ -1,0 +1,61 @@
+ENTRY       YFL038C           CDS       T00005
+NAME        YPT1
+DEFINITION  (RefSeq) Rab family GTPase YPT1
+ORTHOLOGY   K07874  Ras-related protein Rab-1A
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YFL038C (YPT1)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YFL038C (YPT1)
+               04031 GTP-binding proteins [BR:sce04031]
+                YFL038C (YPT1)
+            Membrane trafficking [BR:sce04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Forward pathways
+               Rab GTPases
+                YFL038C (YPT1)
+             Autophagy
+              Other autophagy associated proteins
+                YFL038C (YPT1)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YFL038C (YPT1)
+              Exosomal proteins of other body fluids (saliva and urine)
+               YFL038C (YPT1)
+              Exosomal proteins of colorectal cancer cells
+               YFL038C (YPT1)
+            GTP-binding proteins [BR:sce04031]
+             Small (monomeric) G-proteins
+              Rab Family
+               Rab1/35 [OT]
+                YFL038C (YPT1)
+POSITION    VI:complement(55366..55986)
+MOTIF       Pfam: Ras Roc Arf GTP_EFTU Gtr1_RagA MMR_HSR1 SRPRB RsgA_GTPase AAA_7 Septin AAA_5 AAA_29 ABC_tran AAA_16 AAA AAA_22
+DBLINKS     NCBI-GeneID: 850505
+            NCBI-ProteinID: NP_116615
+            SGD: S000001856
+            UniProt: P01123
+STRUCTURE   PDB: 2BCG 1UKV 1YZN 3CUE
+AASEQ       206
+            MNSEYDYLFKLLLIGNSGVGKSCLLLRFSDDTYTNDYISTIGVDFKIKTVELDGKTVKLQ
+            IWDTAGQERFRTITSSYYRGSHGIIIVYDVTDQESFNGVKMWLQEIDRYATSTVLKLLVG
+            NKCDLKDKRVVEYDVAKEFADANKMPFLETSALDSTNVEDAFLTMARQIKESMSQQNLNE
+            TTQKKEDKGNVNLKGQSLTNTGGGCC
+NTSEQ       621
+            atgaatagcgagtacgattacctgttcaaactgctgttgatcgggaattccggtgtcggg
+            aagtcctgtttacttttgaggttttcggacgacacatataccaacgactacatctccaca
+            attggagtggacttcaagattaagactgtagaactggacggcaagactgtaaagctacag
+            atttgggacactgcaggtcaagaacgtttccgtactatcacttcatcttactaccgtggt
+            tcgcatgggatcattatcgtgtatgatgtcactgaccaagaatccttcaacggcgtgaag
+            atgtggctgcaagagattgatcggtatgcaacctcaacagtgttgaagctattggtaggt
+            aacaagtgtgatttaaaggacaagcgtgtcgtggaatatgacgtggcaaaggaatttgcg
+            gacgcgaataagatgccgttcttagagactagtgctttggactccaccaacgtcgaggat
+            gcgtttttaaccatggctagacaaatcaaggaaagtatgtcccaacaaaacctgaacgaa
+            accactcagaagaaggaagacaaagggaacgtcaacctgaagggacagagtttaaccaac
+            accggtgggggctgctgttga
+///

@@ -1,0 +1,52 @@
+ENTRY       YIL138C           CDS       T00005
+NAME        TPM2
+DEFINITION  (RefSeq) tropomyosin TPM2
+ORTHOLOGY   K17945  tropomyosin, fungi type
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YIL138C (TPM2)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YIL138C (TPM2)
+              09183 Protein families: signaling and cellular processes
+               04812 Cytoskeleton proteins [BR:sce04812]
+                YIL138C (TPM2)
+            Membrane trafficking [BR:sce04131]
+             Exocytosis
+              Tethering complex
+               Exocyst complex assembly proteins
+                YIL138C (TPM2)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial quality control factors
+              Mitochondrial dynamics
+               Actin cytoskeleton organization
+                YIL138C (TPM2)
+            Cytoskeleton proteins [BR:sce04812]
+             Eukaryotic cytoskeleton proteins
+              Actin filaments / Microfilaments
+               Actin-binding proteins
+                Tropomyosins
+                 YIL138C (TPM2)
+POSITION    IX:complement(89230..89715)
+MOTIF       Pfam: Tropomyosin_1 Tropomyosin KLRAQ APG6_N GAS Spc7 ATG16 TMF_DNA_bd WXG100 Laminin_II Crescentin Atg14 Uso1_p115_C CENP-F_leu_zip Taxilin DHC_N1 Laminin_I DHR10 IFT57 OmpH TPR_MLP1_2 EzrA T2SSM FlaC_arch ERM BLOC1_2 DUF724 DivIC DUF3450 Cast DUF1664 Fez1 DUF3584 Ax_dynein_light MscS_porin Filament DUF4795 AAA_13 Swi5 ABC_tran_CTD DUF3037 MbeD_MobD STAT_alpha Seryl_tRNA_N DUF745 BBP1_C DUF2353 Sec34 Exonuc_VII_S ZYG-11_interact PEPcase
+DBLINKS     NCBI-GeneID: 854668
+            NCBI-ProteinID: NP_012128
+            SGD: S000001400
+            UniProt: P40414
+AASEQ       161
+            MEKIKEKLNSLKLESESWQEKYEELREQLKELEQSNTEKENEIKSLSAKNEQLDSEVEKL
+            ESQLSDTKQLAEDSNNLRSNNENYTKKNQDLEQQLEDSEAKLKEAMDKLKEADLNSEQMG
+            RRIVALEEERDEWEKKCEEFQSKYEEAQKELDEIANSLENL
+NTSEQ       486
+            atggagaagatcaaagagaaattgaatagcttaaaattagaatctgagtcatggcaagaa
+            aaatatgaggagctgagagaacagctcaaagaattagagcaatctaacactgaaaaagaa
+            aacgagattaaatctttgtccgctaaaaacgagcaactcgacagtgaagtggagaagtta
+            gagagtcaattgtctgatacaaagcaattggctgaagactccaataacttgagatctaat
+            aatgagaactacaccaagaaaaaccaggatctagaacaacagctagaagacagtgaagcc
+            aaactgaaggaagcaatggataaactgaaagaggccgatttgaactctgagcaaatgggt
+            agaaggatcgttgctttggaagaagaaagagatgaatgggaaaagaagtgcgaagaattc
+            caaagcaaatatgaagaagctcaaaaagaattggacgaaattgctaattcattggaaaat
+            ttatga
+///

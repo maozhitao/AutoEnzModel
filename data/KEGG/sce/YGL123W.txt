@@ -1,0 +1,48 @@
+ENTRY       YGL123W           CDS       T00005
+NAME        RPS2, RPS4, SUP138, SUP38, SUP44
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S2
+ORTHOLOGY   K02981  small subunit ribosomal protein S2e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YGL123W (RPS2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YGL123W (RPS2)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YGL123W (RPS2)
+POSITION    VII:277617..278381
+MOTIF       Pfam: Ribosomal_S5 Ribosomal_S5_C
+DBLINKS     NCBI-GeneID: 852754
+            NCBI-ProteinID: NP_011392
+            SGD: S000003091
+            UniProt: P25443
+STRUCTURE   PDB: 6FAI 6RBD 6EML 6RBE 5LL6
+AASEQ       254
+            MSAPEAQQQKRGGFGGRNRGRPNRRGPRNTEEKGWVPVTKLGRLVKAGKITTIEEIFLHS
+            LPVKEFQIIDTLLPGLQDEVMNIKPVQKQTRAGQRTRFKAVVVVGDSNGHVGLGIKTAKE
+            VAGAIRAGIIIAKLSVIPIRRGYWGTNLGQPHSLATKTTGKCGSVTVRLIPAPRGSGIVA
+            SPAVKKLLQLAGVEDVYTQSNGKTRTLENTLKAAFVAIGNTYGFLTPNLWAEQPLPVSPL
+            DIYSDEASAQKKRF
+NTSEQ       765
+            atgtctgctccagaagctcaacaacaaaagagaggtggtttcggtggccgtaacagaggc
+            cgtccaaacagaagaggaccaagaaacactgaagaaaagggatgggttccagttaccaaa
+            ctaggtagattagtcaaggctggtaagattaccaccattgaagaaatcttcttgcactct
+            ttgccagtcaaggaattccaaatcattgacactttgttgccaggtttgcaagacgaagtc
+            atgaacatcaagccagttcaaaagcaaaccagagccggtcaaagaaccagatttaaggct
+            gttgtcgttgttggtgactctaacggtcacgttggtttgggtatcaagaccgccaaggaa
+            gttgctggtgccatcagagctggtatcattattgccaagttgtccgttatcccaatcaga
+            agaggttactggggtaccaacttgggtcaaccacattctttggccaccaagaccactggt
+            aagtgtggttccgtcactgttagattgatcccagccccaagaggttctggtatcgtcgct
+            tctccagctgtcaaaaagttgttgcaattggctggtgttgaagatgtctacacccaatct
+            aacggtaagactagaactttggaaaacaccttgaaggctgctttcgttgctattggtaac
+            acatacggtttcttgactccaaacttgtgggccgaacaaccattgccagtttctccattg
+            gacatctactccgatgaagcttctgctcaaaagaagagattctaa
+///

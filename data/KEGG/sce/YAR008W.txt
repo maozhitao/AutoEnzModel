@@ -1,0 +1,49 @@
+ENTRY       YAR008W           CDS       T00005
+NAME        SEN34, FUN4
+DEFINITION  (RefSeq) tRNA splicing endonuclease subunit SEN34
+ORTHOLOGY   K15323  tRNA-splicing endonuclease subunit Sen34 [EC:4.6.1.16]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YAR008W (SEN34)
+            Enzymes [BR:sce01000]
+             4. Lyases
+              4.6  Phosphorus-oxygen lyases
+               4.6.1  Phosphorus-oxygen lyases (only sub-subclass identified to date)
+                4.6.1.16  tRNA-intron lyase
+                 YAR008W (SEN34)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              tRNA spricing factors
+               tRNA splicing endonucleases
+                YAR008W (SEN34)
+POSITION    I:158966..159793
+MOTIF       Pfam: tRNA_int_endo
+DBLINKS     NCBI-GeneID: 851267
+            NCBI-ProteinID: NP_009405
+            SGD: S000000066
+            UniProt: P39707
+AASEQ       275
+            MPPLVFDIDHIKLLRKWGICGVLSGTLPTAAQQNVFLSVPLRLMLEDVLWLHLNNLADVK
+            LIRQEGDEIMEGITLERGAKLSKIVNDRLNKSFEYQRKFKKDEHIAKLKKIGRINDKTTA
+            EELQRLDKSSNNDQLIESSLFIDIANTSMILRDIRSDSDSLSRDDISDLLFKQYRQAGKM
+            QTYFLYKALRDQGYVLSPGGRFGGKFIAYPGDPLRFHSHLTIQDAIDYHNEPIDLISMIS
+            GARLGTTVKKLWVIGGVAEETKETHFFSIEWAGFG
+NTSEQ       828
+            atgccaccgctagtatttgacatagatcacatcaaacttctaaggaaatggggtatttgt
+            ggtgtgttatctggaactttgcctactgcagcacagcaaaatgtatttttgtcggtacct
+            ttgaggcttatgttagaagatgtgctgtggctgcatttgaacaatcttgccgatgtgaaa
+            ttaataagacaagagggagatgagattatggagggaataacattagagcggggcgccaaa
+            ctatctaaaattgtcaacgatcgtttgaacaagtcatttgaatatcagagaaagttcaaa
+            aaggatgaacacattgcaaaattaaagaaaatcggtagaatcaatgataaaaccacagct
+            gaagaattgcaacggcttgataaatctagcaataatgaccagctaattgaatcttctttg
+            ttcattgacattgctaatacctctatgattttaagagacatacggagtgattcagacagc
+            ttatcccgcgatgatatcagtgatttgttatttaagcagtacagacaggcaggaaaaatg
+            cagacctatttcttatacaaggcattgagagatcaagggtacgttttgtccccaggtgga
+            cgttttggtgggaagtttatagcataccctggtgatcctcttcgtttccattcacatctg
+            acgatacaagatgcgattgattatcataatgagccgattgacctaatatccatgataagt
+            ggtgcaagactaggaacgactgtgaaaaaactttgggtcataggcggtgttgcggaagag
+            acaaaggaaactcatttcttctcaatagaatgggctggatttggttaa
+///

@@ -1,0 +1,44 @@
+ENTRY       YPL081W           CDS       T00005
+NAME        RPS9A
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S9A
+ORTHOLOGY   K02997  small subunit ribosomal protein S9e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YPL081W (RPS9A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YPL081W (RPS9A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YPL081W (RPS9A)
+POSITION    XVI:join(404950..404956,405458..406044)
+MOTIF       Pfam: S4
+DBLINKS     NCBI-GeneID: 856024
+            NCBI-ProteinID: NP_015244
+            SGD: S000006002
+            UniProt: O13516
+STRUCTURE   PDB: 6FAI 6RBD 6EML 6RBE 5LL6 5TZS
+AASEQ       197
+            MPRAPRTYSKTYSTPKRPYESSRLDAELKLAGEFGLKNKKEIYRISFQLSKIRRAARDLL
+            TRDEKDPKRLFEGNALIRRLVRVGVLSEDKKKLDYVLALKVEDFLERRLQTQVYKLGLAK
+            SVHHARVLITQRHIAVGKQIVNIPSFMVRLDSEKHIDFAPTSPFGGARPGRVARRNAARK
+            AEASGEAADEADEADEE
+NTSEQ       594
+            atgccaagagccccaagaacatattccaagacttactctaccccaaagagaccttacgaa
+            tcttctcgtttggacgcagaattgaagttggccggtgaattcggtttgaagaacaagaag
+            gaaatttacagaatttccttccagttatctaagattcgtcgtgctgcaagagacttgttg
+            acaagagacgaaaaggacccaaagagattgttcgaaggtaatgctttgattaggagacta
+            gttagagtcggtgttttatccgaagataagaagaagttagattatgttttagccttgaag
+            gtcgaagatttcttggaaagaagattgcaaactcaagtctacaagctaggtttagccaag
+            tctgtccaccatgcaagagttttaatcactcaaaggcacattgctgttggtaagcaaatt
+            gtcaacatcccctctttcatggtcagattggactctgagaagcacattgactttgctcca
+            acatctccattcggtggtgctagaccaggcagagttgctagaagaaatgctgcaaggaag
+            gcggaagcttctggtgaagctgctgatgaagctgatgaggccgatgaagaataa
+///

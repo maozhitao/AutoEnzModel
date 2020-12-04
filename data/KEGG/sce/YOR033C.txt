@@ -1,0 +1,91 @@
+ENTRY       YOR033C           CDS       T00005
+NAME        EXO1, DHS1
+DEFINITION  (RefSeq) Rad2 family nuclease EXO1
+ORTHOLOGY   K10746  exonuclease 1 [EC:3.1.-.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03430  Mismatch repair
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03430 Mismatch repair
+                YOR033C (EXO1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YOR033C (EXO1)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YOR033C (EXO1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 YOR033C (EXO1)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Elongation Factors
+               Other elongation factors
+                YOR033C (EXO1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                Other MMR factors
+                 YOR033C (EXO1)
+POSITION    XV:complement(392416..394524)
+MOTIF       Pfam: XPG_N XPG_I 5_3_exonuc HHH_2 XPG_I_2 TPR_8
+DBLINKS     NCBI-GeneID: 854198
+            NCBI-ProteinID: NP_014676
+            SGD: S000005559
+            UniProt: P39875
+AASEQ       702
+            MGIQGLLPQLKPIQNPVSLRRYEGEVLAIDGYAWLHRAACSCAYELAMGKPTDKYLQFFI
+            KRFSLLKTFKVEPYLVFDGDAIPVKKSTESKRRDKRKENKAIAERLWACGEKKNAMDYFQ
+            KCVDITPEMAKCIICYCKLNGIRYIVAPFEADSQMVYLEQKNIVQGIISEDSDLLVFGCR
+            RLITKLNDYGECLEICRDNFIKLPKKFPLGSLTNEEIITMVCLSGCDYTNGIPKVGLITA
+            MKLVRRFNTIERIILSIQREGKLMIPDTYINEYEAAVLAFQFQRVFCPIRKKIVSLNEIP
+            LYLKDTESKRKRLYACIGFVIHRETQKKQIVHFDDDIDHHLHLKIAQGDLNPYDFHQPLA
+            NREHKLQLASKSNIEFGKTNTTNSEAKVKPIESFFQKMTKLDHNPKVANNIHSLRQAEDK
+            LTMAIKRRKLSNANVVQETLKDTRSKFFNKPSMTVVENFKEKGDSIQDFKEDTNSQSLEE
+            PVSESQLSTQIPSSFITTNLEDDDNLSEEVSEVVSDIEEDRKNSEGKTIGNEIYNTDDDG
+            DGDTSEDYSETAESRVPTSSTTSFPGSSQRSISGCTKVLQKFRYSSSFSGVNANRQPLFP
+            RHVNQKSRGMVYVNQNRDDDCDDNDGKNQITQRPSLRKSLIGARSQRIVIDMKSVDERKS
+            FNSSPILHEESKKRDIETTKSSQARPAVRSISLLSQFVYKGK
+NTSEQ       2109
+            atgggtatccaaggtcttcttcctcagttaaagcccatacagaatccagtatcactacgt
+            aggtatgaaggagaagtgttagccattgatggctatgcatggctacatagagcagcctgc
+            tcttgtgcttatgaacttgcaatgggaaaaccaactgataagtacctgcagtttttcata
+            aaaagatttagtttattgaaaacctttaaagttgaaccgtatttggtcttcgatggtgat
+            gccattccagttaaaaagtctactgaatctaaaagaagggataagagaaaagaaaacaaa
+            gccatagctgaaagactgtgggcctgtggcgaaaagaaaaatgctatggactattttcaa
+            aaatgtgtcgacataacgcctgaaatggcaaaatgtatcatatgctactgtaagctaaac
+            ggtattcggtacatagtggctccgtttgaggctgactctcaaatggtatatttagaacag
+            aaaaacattgtgcaaggaataatatccgaagattctgacctcctcgtcttcggatgtcga
+            cgtctcattacgaagctgaatgattatggagaatgtttagaaatatgtcgcgataatttt
+            attaaactgcctaaaaagtttccgttgggatccttaactaatgaagaaatcataacaatg
+            gtttgtttatccggttgtgactatacaaatggaattcccaaggttggcctgattaccgca
+            atgaaattagttagaagattcaatactattgaaaggataattctgagtatacagcgggag
+            ggaaaactgatgataccagacacatacattaatgaatatgaagctgcagttttagcattt
+            caattccaaagggtattttgccctattcggaagaaaatagtgagcttgaatgaaattccg
+            ctgtacttgaaagataccgaaagtaaaagaaaaagactctacgcgtgcattggttttgtc
+            atacacagagaaactcagaaaaagcaaattgttcatttcgacgacgatatagatcaccac
+            ttgcatttaaaaattgctcaaggtgacttgaatccatatgattttcaccaacctctagcc
+            aacagagagcacaaattacagctggcatccaagtcaaatatagagttcgggaaaactaat
+            actactaattctgaagccaaagtcaaaccaatagaatcgttcttccaaaaaatgacaaaa
+            ttggatcataacccaaaagttgcaaataacatccatagtctaagacaagcggaagacaaa
+            ctgacaatggcaattaagcgtaggaaattaagtaatgccaatgtagtccaagaaacgttg
+            aaggatacaagaagcaaattttttaataaaccctccatgactgttgtggaaaacttcaaa
+            gaaaaaggcgacagcatacaggattttaaagaggacacaaactcacaatctttggaagag
+            cctgtttccgagtctcaactatctacacaaatacctagttcttttattacaaccaattta
+            gaggatgacgacaacctgagtgaagaggtttctgaagttgtcagtgacattgaagaggac
+            cgaaagaattctgaaggaaagactatcggtaacgaaatctataatacagatgatgacggt
+            gatggcgatactagcgaggattatagcgaaactgcggaatcaagagttcccacgagcagc
+            accacctcatttcccgggtcatcccagaggagtatatcggggtgcacaaaagttttacaa
+            aagtttagatattcatcttcattcagcggagttaatgcaaatagacaaccactatttcct
+            cggcacgttaatcaaaaaagtagaggaatggtatacgtcaatcaaaatagagatgatgat
+            tgcgacgataacgatggtaaaaatcaaatcacgcaaaggccatcactgcgaaaaagcctt
+            attggtgccaggtcacagagaattgtgattgacatgaaaagcgtagatgaacgaaaatca
+            ttcaattcatcaccaattttgcatgaggaaagtaagaaaagggacatcgaaactactaag
+            tcaagccaagctcggccggcagtcagatctatctccttgctttcccaatttgtttataaa
+            ggtaaataa
+///

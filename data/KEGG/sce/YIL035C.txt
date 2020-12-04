@@ -1,0 +1,74 @@
+ENTRY       YIL035C           CDS       T00005
+NAME        CKA1
+DEFINITION  (RefSeq) casein kinase 2 catalytic subunit CKA1
+ORTHOLOGY   K03097  casein kinase II subunit alpha [EC:2.7.11.1]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+            sce04139  Mitophagy - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03008 Ribosome biogenesis in eukaryotes
+                YIL035C (CKA1)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04139 Mitophagy - yeast
+                YIL035C (CKA1)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:sce01001]
+                YIL035C (CKA1)
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YIL035C (CKA1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 YIL035C (CKA1)
+            Protein kinases [BR:sce01001]
+             Serine/threonine kinases: Other
+              CK2 family
+               YIL035C (CKA1)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              90S particles
+               Kinase
+                YIL035C (CKA1)
+POSITION    IX:complement(287790..288908)
+MOTIF       Pfam: Pkinase PK_Tyr_Ser-Thr APH Pkinase_fungal Choline_kinase Kdo
+DBLINKS     NCBI-GeneID: 854776
+            NCBI-ProteinID: NP_012229
+            SGD: S000001297
+            UniProt: P15790
+STRUCTURE   PDB: 4JR7 4JQE 4LFI 4MWH 4FI1
+AASEQ       372
+            MKCRVWSEARVYTNINKQRTEEYWDYENTVIDWSTNTKDYEIENKVGRGKYSEVFQGVKL
+            DSKVKIVIKMLKPVKKKKIKREIKILTDLSNEKVPPTTLPFQKDQYYTNQKEDVLKFIRP
+            YIFDQPHNGHANIIHLFDIIKDPISKTPALVFEYVDNVDFRILYPKLTDLEIRFYMFELL
+            KALDYCHSMGIMHRDVKPHNVMIDHKNKKLRLIDWGLAEFYHVNMEYNVRVASRFFKGPE
+            LLVDYRMYDYSLDLWSFGTMLASMIFKREPFFHGTSNTDQLVKIVKVLGTSDFEKYLLKY
+            EITLPREFYDMDQYIRKPWHRFINDGNKHLSGNDEIIDLIDNLLRYDHQERLTAKEAMGH
+            PWFAPIREQIEK
+NTSEQ       1119
+            atgaaatgcagggtatggtcagaggctcgtgtttatacgaatatcaataaacaaagaacc
+            gaggaatattgggattatgaaaatactgtaattgattggtccacaaatacaaaggactat
+            gaaattgaaaataaagttgggcgaggaaaatactccgaggttttccaaggtgtcaaatta
+            gactctaaagttaaaattgttattaagatgttgaaaccagttaaaaagaagaagatcaag
+            agagaaatcaaaatcttaacggatttgtctaacgaaaaagtgcctccaacgactttgcca
+            tttcaaaaagatcaatattacacaaatcaaaaggaggacgttttaaaattcatcaggccc
+            tatatctttgatcagccacacaatggtcatgcaaacataattcatctatttgatataata
+            aaggatcccatctcaaaaactccggctttggtcttcgaatacgtagataatgtggacttc
+            cgtattctttaccctaaattaaccgatctcgaaattaggttttatatgtttgagttatta
+            aaggccttagactattgtcattcaatgggaataatgcatagagatgttaaacctcataac
+            gtaatgattgatcataagaataaaaaattgcgattgatagattgggggcttgctgaattt
+            tatcatgttaatatggaatacaatgttcgtgttgcgtcgaggttttttaagggtcctgaa
+            ctactagttgactacagaatgtatgattattctttagacttgtggtcgtttgggacaatg
+            ttggcttctatgatctttaaaagagagccatttttccatggaacgagtaacacagaccag
+            cttgtcaagatcgtcaaagtacttggtacaagcgattttgagaaatacctgttgaagtat
+            gaaattaccttaccgagagaattttacgatatggaccaatacatcagaaagccttggcat
+            agattcatcaatgatggtaataaacatttaagcggcaacgatgaaattattgaccttatt
+            gacaatcttttgagatatgatcatcaagaaagattaactgctaaggaagcgatgggacac
+            ccgtggtttgccccaataagggaacaaattgaaaaataa
+///

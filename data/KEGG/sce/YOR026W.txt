@@ -1,0 +1,62 @@
+ENTRY       YOR026W           CDS       T00005
+NAME        BUB3, PAC9
+DEFINITION  (RefSeq) Bub3p
+ORTHOLOGY   K02180  cell cycle arrest protein BUB3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04111  Cell cycle - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YOR026W (BUB3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YOR026W (BUB3)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YOR026W (BUB3)
+            Spliceosome [BR:sce03041]
+             Complex A
+              Other components
+               Complex A specific factors
+                YOR026W (BUB3)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Centromeric chromatin formation proteins
+               SAC (spindle assembly checkpoint) factors
+                Core SAC proteins
+                 YOR026W (BUB3)
+POSITION    XV:379781..380806
+MOTIF       Pfam: WD40 WD40_like Utp8 Nucleoporin_N ANAPC4_WD40 eIF2A
+DBLINKS     NCBI-GeneID: 854191
+            NCBI-ProteinID: NP_014669
+            SGD: S000005552
+            UniProt: P26449
+STRUCTURE   PDB: 1YFQ 2I3S 4BL0 1U4C 2I3T
+AASEQ       341
+            MQIVQIEQAPKDYISDIKIIPSKSLLLITSWDGSLTVYKFDIQAKNVDLLQSLRYKHPLL
+            CCNFIDNTDLQIYVGTVQGEILKVDLIGSPSFQALTNNEANLGICRICKYGDDKLIAASW
+            DGLIEVIDPRNYGDGVIAVKNLNSNNTKVKNKIFTMDTNSSRLIVGMNNSQVQWFRLPLC
+            EDDNGTIEESGLKYQIRDVALLPKEQEGYACSSIDGRVAVEFFDDQGDDYNSSKRFAFRC
+            HRLNLKDTNLAYPVNSIEFSPRHKFLYTAGSDGIISCWNLQTRKKIKNFAKFNEDSVVKI
+            ACSDNILCLATSDDTFKTNAAIDQTIELNASSIYIIFDYEN
+NTSEQ       1026
+            atgcagatagtacaaattgagcaggccccaaaagactacataagcgacatcaaaataatc
+            ccttccaagtcactgcttttgattacgtcttgggatggctctttaacagtctacaaattc
+            gacattcaagcaaagaatgttgaccttttacaatcgctacgatataaacatccgttattg
+            tgctgcaatttcatcgacaataccgatctgcaaatatacgtgggaactgtacagggtgaa
+            attctaaaagttgatttgataggtagtcccagcttccaagctttgacgaacaatgaagcc
+            aatttgggtatttgccgaatatgcaaatatggagacgataaactcattgccgcgtcatgg
+            gatggcctgatagaggttatcgaccctcgcaattatggtgatggagttattgctgttaaa
+            aatttgaactctaataacacaaaggtgaagaataagatatttactatggatacaaactcc
+            tctcgattgatcgttggtatgaacaatagtcaggttcaatggtttcgcctgccactctgt
+            gaggatgataacggaacaattgaagaatcaggactgaagtaccaaataagagatgtcgct
+            cttttaccgaaagaacaagaaggttatgcatgtagcagcattgacgggcgagttgctgtg
+            gagtttttcgatgatcagggcgatgattacaactcaagcaaaagatttgcatttagatgc
+            caccgtttgaatttaaaagatacaaacttagcgtatccagtaaattctattgaattttcc
+            ccccgtcataagttcctatacacggctggctctgatggcataatttcatgctggaaccta
+            caaacccgcaagaaaataaaaaatttcgccaaatttaacgaagacagcgtggttaaaatt
+            gcttgttcggacaatattctatgtctggcaacttctgatgatactttcaagacaaacgcc
+            gcaattgaccaaactattgaactaaacgcaagttcaatatacataatatttgactatgag
+            aactga
+///

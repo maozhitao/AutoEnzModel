@@ -1,0 +1,67 @@
+ENTRY       YDR432W           CDS       T00005
+NAME        NPL3, MTR13, MTS1, NAB1, NOP3
+DEFINITION  (RefSeq) mRNA-binding protein NPL3
+ORTHOLOGY   K14651  transcription initiation factor TFIID subunit 15
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03022  Basal transcription factors
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03022 Basal transcription factors
+                YDR432W (NPL3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:sce03021]
+                YDR432W (NPL3)
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YDR432W (NPL3)
+            Transcription machinery [BR:sce03021]
+             Eukaryotic type
+              RNA polymerase II system
+               Basal transcription factors
+                TFIID
+                 YDR432W (NPL3)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               Transport factors
+                Ran-mediated transport factors
+                 YDR432W (NPL3)
+POSITION    IV:1328783..1330027
+MOTIF       Pfam: RRM_1 RRM_occluded RRM_5 RRM_7
+DBLINKS     NCBI-GeneID: 852042
+            NCBI-ProteinID: NP_010720
+            SGD: S000002840
+            UniProt: Q01560
+STRUCTURE   PDB: 2JVR 2JVO 2OSQ 2OSR
+AASEQ       414
+            MSEAQETHVEQLPESVVDAPVEEQHQEPPQAPDAPQEPQVPQESAPQESAPQEPPAPQEQ
+            NDVPPPSNAPIYEGEESHSVQDYQEAHQHHQPPEPQPYYPPPPPGEHMHGRPPMHHRQEG
+            ELSNTRLFVRPFPLDVQESELNEIFGPFGPMKEVKILNGFAFVEFEEAESAAKAIEEVHG
+            KSFANQPLEVVYSKLPAKRYRITMKNLPEGCSWQDLKDLARENSLETTFSSVNTRDFDGT
+            GALEFPSEEILVEALERLNNIEFRGSVITVERDDNPPPIRRSNRGGFRGRGGFRGGFRGG
+            FRGGFSRGGFGGPRGGFGGPRGGYGGYSRGGYGGYSRGGYGGSRGGYDSPRGGYDSPRGG
+            YSRGGYGGPRNDYGPPRGSYGGSRGGYDGPRGDYGPPRDAYRTRDAPRERSPTR
+NTSEQ       1245
+            atgtctgaagctcaagaaactcacgtagagcaactaccagaatctgttgtcgatgcccca
+            gtcgaagaacagcaccaagaaccaccacaggctccagatgctccacaagaaccacaagtt
+            ccacaggaatctgctccacaggaatctgctccacaagaaccaccagctccacaagaacaa
+            aatgacgttcctccaccatctaatgctccaatttatgaaggcgaagaatcccacagtgtc
+            caagactaccaagaggcccaccagcaccaccaaccacctgaaccccaaccatattatcct
+            cctcctcctccaggtgaacacatgcacggtcgcccaccaatgcaccaccgtcaagaagga
+            gaactctcgaacaccagattgtttgttagacctttcccattggacgttcaagaatccgag
+            ttgaatgaaatctttggtccatttggaccaatgaaggaagtcaagatcttgaacggcttc
+            gcgtttgttgaatttgaagaagcagaatccgctgccaaagccattgaagaagttcacggt
+            aagagttttgctaaccaacctttggaagttgtttactctaaattgcctgccaagagatac
+            cgtatcaccatgaaaaacttaccagaaggttgttcatggcaagatcttaaagatttagcc
+            agggaaaatagtttagaaactactttttctagcgtcaataccagagattttgatggtacc
+            ggtgctctagaattccctagtgaagaaatcttggtcgaagctttggagagattaaacaat
+            attgaattcagaggttctgtcattactgttgaaagagatgacaatcctccaccaatcaga
+            agatcaaatagaggtggcttcagaggtcgcggcggcttcagaggcggcttcagaggtggc
+            ttcagaggcggtttctccagaggcggcttcggtggccccagaggtggatttggtggtcca
+            agaggtggttacggtggctattccagaggtggctacggtggctactccagaggcggatat
+            ggtggctccagaggtggttacgatagtcctagaggtggttacgatagtccaagaggtggt
+            tattccagaggtggctatggtggtccaagaaatgattacggtcctccaagaggtagctac
+            ggtggttcaagaggtggttatgatggtccaagaggcgattatggtcctccaagagatgca
+            tacagaaccagagatgctccacgtgaaagatcaccaaccaggtaa
+///

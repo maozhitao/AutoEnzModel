@@ -1,0 +1,39 @@
+ENTRY       YJR135W-A         CDS       T00005
+NAME        TIM8
+DEFINITION  (RefSeq) protein transporter TIM8
+ORTHOLOGY   K17780  mitochondrial import inner membrane translocase subunit TIM8
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YJR135W-A (TIM8)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YJR135W-A (TIM8)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Inter membrane space
+               TIM8/13 complex
+                YJR135W-A (TIM8)
+            Transporters [BR:sce02000]
+             Other transporters
+              Primary active transporters [TC:3]
+               YJR135W-A (TIM8)
+POSITION    X:676971..677234
+MOTIF       Pfam: zf-Tim10_DDP
+DBLINKS     NCBI-GeneID: 853600
+            NCBI-ProteinID: NP_058168
+            SGD: S000007348
+            UniProt: P57744
+STRUCTURE   PDB: 3CJH
+AASEQ       87
+            MSSLSTSDLASLDDTSKKEIATFLEGENSKQKVQMSIHQFTNICFKKCVESVNDSNLSSQ
+            EEQCLSNCVNRFLDTNIRIVNGLQNTR
+NTSEQ       264
+            atgtcttctctatcaacgtctgatttggcctcccttgatgacacttccaaaaaggaaatt
+            gctactttcttggagggagagaactccaaacaaaaagtccagatgtcaatccatcaattc
+            actaatatatgcttcaaaaaatgtgttgagtctgtcaatgattctaatttaagttcgcaa
+            gaagagcaatgtttgtctaactgtgtgaatcggtttttggatactaatatcaggattgtg
+            aacgggttgcaaaacacccgttaa
+///

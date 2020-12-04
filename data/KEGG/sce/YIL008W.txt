@@ -1,0 +1,43 @@
+ENTRY       YIL008W           CDS       T00005
+NAME        URM1
+DEFINITION  (RefSeq) ubiquitin-related modifier URM1
+ORTHOLOGY   K12161  ubiquitin related modifier 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04122  Sulfur relay system
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04122 Sulfur relay system
+                YIL008W (URM1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YIL008W (URM1)
+               04121 Ubiquitin system [BR:sce04121]
+                YIL008W (URM1)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              tRNA modification factors
+               Thiolation factors
+                YIL008W (URM1)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitins and ubiquitin-like proteins
+              Ubiquitin-like proteins (UBLs)
+               YIL008W (URM1)
+POSITION    IX:342536..342835
+MOTIF       Pfam: Urm1 ThiS YchF-GTPase_C
+DBLINKS     NCBI-GeneID: 854809
+            NCBI-ProteinID: NP_012258
+            SGD: S000001270
+            UniProt: P40554
+STRUCTURE   PDB: 2QJL 2PKO 2AX5
+AASEQ       99
+            MVNVKVEFLGGLDAIFGKQRVHKIKMDKEDPVTVGDLIDHIVSTMINNPNDVSIFIEDDS
+            IRPGIITLINDTDWELEGEKDYILEDGDIISFTSTLHGG
+NTSEQ       300
+            atggtaaacgtgaaagtggagtttctaggtggacttgatgctatttttggaaaacaaaga
+            gtacataaaattaagatggacaaagaagatcctgtcacagtgggcgatttgattgaccac
+            attgtatctactatgatcaataaccctaatgacgttagtatcttcatcgaagatgattct
+            ataagacccggtatcatcacattaatcaacgacaccgattgggagctcgaaggcgaaaaa
+            gactacatattggaagacggtgacatcatctcttttacttcaacattacatggtggttaa
+///

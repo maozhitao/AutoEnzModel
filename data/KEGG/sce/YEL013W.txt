@@ -1,0 +1,74 @@
+ENTRY       YEL013W           CDS       T00005
+NAME        VAC8, YEB3
+DEFINITION  (RefSeq) protein anchor VAC8
+ORTHOLOGY   K08332  vacuolar protein 8
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YEL013W (VAC8)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YEL013W (VAC8)
+            Membrane trafficking [BR:sce04131]
+             Autophagy
+              Cytoplasm to vacuolar targeting (CVT) pathway
+               Other Cvt associated proteins
+                YEL013W (VAC8)
+              Other autophagy associated proteins
+               Micronucleophagy associated proteins
+                YEL013W (VAC8)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial quality control factors
+              Mitophagy factors
+               Autophagy-related proteins
+                YEL013W (VAC8)
+POSITION    V:128825..130561
+MOTIF       Pfam: Arm HEAT_EZ HEAT_2 Adaptin_N KAP HEAT Arm_2 V-ATPase_H_C DUF3361 Cnd1 V-ATPase_H_N Vac14_Fab1_bd Tti2
+DBLINKS     NCBI-GeneID: 856702
+            NCBI-ProteinID: NP_010903
+            SGD: S000000739
+            UniProt: P39968
+STRUCTURE   PDB: 5XJG
+AASEQ       578
+            MGSCCSCLKDSSDEASVSPIADNEREAVTLLLGYLEDKDQLDFYSGGPLKALTTLVYSDN
+            LNLQRSAALAFAEITEKYVRQVSREVLEPILILLQSQDPQIQVAACAALGNLAVNNENKL
+            LIVEMGGLEPLINQMMGDNVEVQCNAVGCITNLATRDDNKHKIATSGALIPLTKLAKSKH
+            IRVQRNATGALLNMTHSEENRKELVNAGAVPVLVSLLSSTDPDVQYYCTTALSNIAVDEA
+            NRKKLAQTEPRLVSKLVSLMDSPSSRVKCQATLALRNLASDTSYQLEIVRAGGLPHLVKL
+            IQSDSIPLVLASVACIRNISIHPLNEGLIVDAGFLKPLVRLLDYKDSEEIQCHAVSTLRN
+            LAASSEKNRKEFFESGAVEKCKELALDSPVSVQSEISACFAILALADVSKLDLLEANILD
+            ALIPMTFSQNQEVSGNAAAALANLCSRVNNYTKIIEAWDRPNEGIRGFLIRFLKSDYATF
+            EHIALWTILQLLESHNDKVEDLVKNDDDIINGVRKMADVTFERLQRSGIDVKNPGSNNNP
+            SSNDNNSNNNDTGSEHQPVEDASLELYNITQQILQFLH
+NTSEQ       1737
+            atgggttcatgttgtagttgcttgaaagattcttcagacgaggccagtgtctcaccaatt
+            gccgataatgaaagagaagcggtgactttattactagggtatttggaggataaagaccaa
+            ttagacttttactctggtggtccactaaaggccctaactactttggtgtattcagataat
+            ctaaatttgcaaaggagcgccgctctggcattcgcagaaattactgaaaaatacgtccgt
+            caggtctctagagaggtactggaacccatcttaatattattacaaagccaagatccacag
+            attcaagtggccgcttgtgcagccttgggtaatttggccgttaataatgaaaataaatta
+            ttaattgtggaaatgggaggcttagagccattaataaaccaaatgatgggtgacaatgta
+            gaagttcaatgtaatgctgttggatgcattaccaatttagccacaagggatgacaataaa
+            cataagattgctacttctggtgctttaattccattgactaagctagctaaatccaaacat
+            ataagagttcagagaaatgctacaggtgcattattaaatatgacacattctgaggaaaat
+            agaaaagaattggttaatgcaggtgctgtgcctgtattggtatctttactgtcgtccacc
+            gatcctgatgttcagtactattgtactactgctttatcaaatatagcagtggatgaagcc
+            aatcgcaagaagttggctcaaactgagccaagattggtttccaaattggttagtctgatg
+            gattctccatcttcaagggtaaaatgtcaagctactttggctttacgaaacctagcgtcc
+            gatacaagctaccaattagaaattgtaagggctggtgggttgcctcatttggtaaagttg
+            attcaaagtgattctataccactggttttggctagtgtggcatgcattagaaacatttct
+            attcaccctctaaatgaaggtttaattgttgatgcaggtttcttaaaaccattagtaaga
+            ttgttggactataaggattcagaagaaattcaatgtcacgccgtatctactttgagaaat
+            ttggctgcatcatctgaaaaaaacagaaaagagttcttcgaaagtggtgctgtcgaaaaa
+            tgtaaggaactggctctagattcacctgttagtgttcaaagtgaaatttccgcatgtttt
+            gctattttagccctagcagatgtctccaaattggatctactggaagcaaatatcttagat
+            gctttaatccctatgactttttcccagaaccaagaagtttctggtaatgctgctgctgct
+            ttggcaaatctatgttcaagagtgaataattatacaaaaattattgaagcatgggatcgt
+            ccgaatgaaggcattcgtggatttctgattagatttttgaaaagtgactatgctaccttt
+            gaacacattgcgctatggacaattttacaattgctagaaagtcataatgataaagtggaa
+            gatttggttaaaaatgatgacgacatcattaacggagtgagaaaaatggcagatgtgacc
+            tttgagcgtttacaaagatcaggaattgatgttaaaaatccggggagcaacaacaatcca
+            agctcgaatgataacaacagtaataacaatgacacaggatctgaacatcaacctgtagag
+            gatgcaagtttggaattgtataatattactcaacagattttacaatttttacattga
+///

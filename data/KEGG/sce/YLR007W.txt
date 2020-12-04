@@ -1,0 +1,60 @@
+ENTRY       YLR007W           CDS       T00005
+NAME        NSE1
+DEFINITION  (RefSeq) Smc5-Smc6 complex subunit NSE1
+ORTHOLOGY   K22817  non-structural maintenance of chromosomes element 1 [EC:2.3.2.27]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YLR007W (NSE1)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YLR007W (NSE1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.27  RING-type E3 ubiquitin transferase
+                 YLR007W (NSE1)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              Atypical E3
+               YLR007W (NSE1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                SMC5-SMC6 complex
+                 YLR007W (NSE1)
+POSITION    XII:164392..165402
+MOTIF       Pfam: SMC_Nse1 zf-RING-like
+DBLINKS     NCBI-GeneID: 850693
+            NCBI-ProteinID: NP_013107
+            SGD: S000003997
+            UniProt: Q07913
+AASEQ       336
+            MEVHEEQVSAPVTGDATAKYLLQYILSARGICHENALILALMRLETDASTLNTEWSIQQW
+            VDKLNDYINAINVKLNLLGYKIIRINHGIGRNAVTLKAKQNFESFEDNTAIRAHNNDYAV
+            LQSIVLPESNRFFVYVNLASTEETKLATRFNQNEIEFMKWAIEQFMISGETIVEGPALET
+            SIIVKEVNRILVAATGDSNLAKWRKFSTFTVGSTNLFQFQELTATDIEDLLLRLCELKWF
+            YRTQEGKFGIDLRCIAELEEYLTSMYNLNTCQNCHKLAIQGVRCGNESCREENEETGENS
+            LSQIWHVDCFKHYITHVSKNCDRCGSSLITEGVYVI
+NTSEQ       1011
+            atggaggtacatgaagagcaggtctctgcacctgtaacaggggatgctacagcaaaatat
+            ctgctgcaatatatcttgtcagcaagaggcatttgccatgaaaatgctctcattctagcc
+            ctaatgagattggaaaccgatgcttcaacgcttaacactgaatggtcgatccagcagtgg
+            gtcgacaagctaaatgattatataaacgctataaacgtaaaactgaaccttttgggttac
+            aagatcattcggatcaaccacgggattggtagaaacgcagtgactttaaaggccaagcag
+            aattttgagtccttcgaagataatacagcaataagggctcacaataatgattatgcagtt
+            ttgcaatcgatagtacttccggagagtaacaggtttttcgtatatgttaacttagcatca
+            acagaagagactaagttagccacaaggtttaaccaaaacgagatcgagtttatgaaatgg
+            gccatagaacaattcatgatcagtggagagactatcgttgaagggcctgcactggaaacc
+            tcgataattgtgaaggaagtcaaccgtattctagtagcagctacaggagactcaaacctc
+            gcgaaatggcgtaagttcagtacgtttactgtagggtccaccaatcttttccaatttcaa
+            gaattaacagcaacggacatcgaagacttactactccgattatgcgaactgaaatggttt
+            tacaggactcaggaagggaaattcggtattgatcttcgctgtatagcagaactagaagag
+            tatctaacatccatgtacaatttgaacacttgccaaaattgccacaagctggcaattcaa
+            ggtgtcaggtgcggcaacgaatcatgccgagaagagaatgaggaaactggagagaatagt
+            ctgtctcaaatttggcatgttgattgtttcaagcattatattacccatgtaagcaagaat
+            tgtgatcgttgcggttcatcgctaatcacagagggcgtatacgttatttaa
+///

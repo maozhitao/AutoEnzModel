@@ -1,0 +1,97 @@
+ENTRY       YBR044C           CDS       T00005
+NAME        TCM62
+DEFINITION  (RefSeq) Tcm62p
+ORTHOLOGY   K04077  chaperonin GroEL
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03018  RNA degradation
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03018 RNA degradation
+                YBR044C (TCM62)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YBR044C (TCM62)
+               03110 Chaperones and folding catalysts [BR:sce03110]
+                YBR044C (TCM62)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YBR044C (TCM62)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YBR044C (TCM62)
+            Messenger RNA biogenesis [BR:sce03019]
+             Prokaryotic type
+              Bacterial mRNA degradation factors
+               Other RNA degradation factors
+                Chaperones
+                 YBR044C (TCM62)
+            Chaperones and folding catalysts [BR:sce03110]
+             Heat shock proteins
+              HSP60 / Chaperonin
+               YBR044C (TCM62)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Matrix
+               Other matrix factors
+                YBR044C (TCM62)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YBR044C (TCM62)
+              Exosomal proteins of other body fluids (saliva and urine)
+               YBR044C (TCM62)
+              Exosomal proteins of breast cancer cells
+               YBR044C (TCM62)
+              Exosomal proteins of colorectal cancer cells
+               YBR044C (TCM62)
+              Exosomal proteins of bladder cancer cells
+               YBR044C (TCM62)
+POSITION    II:complement(324341..326059)
+MOTIF       Pfam: Cpn60_TCP1 DUF4827
+DBLINKS     NCBI-GeneID: 852332
+            NCBI-ProteinID: NP_009600
+            SGD: S000000248
+            UniProt: P38228
+AASEQ       572
+            MLRNCLRKLGNHQTKCSVKTLHTPIYRTKNLQVLRDTLSGIKLLEKIITSSSYNKTLIYE
+            PKYKSKPQVVSSHDTMRLHNVMRELLDSLQVDEATNTRLQSNRPRKLGRVGLQLFMDCIQ
+            DNLTATSTSLTCSLLEHYFKYPEKEVTNGIKAGLRYIRDFLAKNKIIVKSQNDVDALVEQ
+            LTMSSSDSQSIKRVLKAINYELFSDDIVRVINGNKTYDEVDVSKGWKYPAGILDSNEAYL
+            RSLELPTKKLVSIDKDMLVLMYDGTLRDANKILPTITYARKLRKSVLLIVNGDCTGDALT
+            SVTINNNRNKRENNESRIVVLKYSKKANNDLAPQENLDFIKFLRLPCGYDSIYSPEYSPL
+            VPSKMCADKYYGSIESIKATTGEAFLYNSIDAEAIPNKVPKSFLQNTVTLSIGGHNEIEI
+            DRRRNAIDNCLNNVLCHGLAKGFIPGYGISLLKAIPGLNELKANEPNFMTKVGINAVLSA
+            VILPSEVAFKNAYGYNYYEINSLIAGAINEKSFPMAKFSPNSEPVNTVKDGNLEPWSKMD
+            SCLAGVETFIELLTSCNTIITCVYKKPERHKA
+NTSEQ       1719
+            atgctgaggaattgtttgaggaaattgggaaatcatcaaacgaaatgttcggtaaaaacg
+            ttacacaccccaatctatagaacaaaaaaccttcaggttctcagagatacgctctctggt
+            attaagctgttggaaaaaataataacttcatcctcctacaataaaacattgatatatgaa
+            cctaagtataaatccaagccacaggtcgttagttctcatgataccatgagacttcacaat
+            gtaatgcgtgagttactagattccctacaagtagatgaagctaccaacacacgacttcaa
+            tcaaacaggcctcgaaagctggggagggttggtctacaattattcatggattgcattcag
+            gacaacttaacagcaacttcaacatctttgacatgctctttactggagcactatttcaag
+            tatcccgaaaaagaagtgaccaatgggatcaaggccggattacgatatatcagagatttt
+            cttgcgaagaacaagattatagtgaaaagtcaaaacgatgttgatgctctggtcgagcaa
+            ttgactatgtcctcctcagacagccaaagcatcaaaagggttttgaaagccattaattat
+            gaattgttttcggatgacattgtgcgggtcataaacggcaacaaaacttacgatgaggtt
+            gatgtatccaagggttggaaatatccagctggtattttagatagtaatgaagcctattta
+            aggtccctggagttgcctactaagaaattagtttccattgataaagatatgctagttctt
+            atgtatgatgggacgttacgagacgctaataaaattctacccacgataacgtatgcaaga
+            aagttgagaaaatctgttctcttaatcgttaacggagattgcacaggtgatgcattaaca
+            tccgttacaattaacaataacagaaacaagagagaaaataatgaaagccgaatagtggtt
+            ttgaagtactctaaaaaggcgaacaatgacttagcgccacaggagaatcttgattttata
+            aagttcttacggttgccttgcggatatgacagcatctactcaccagaatatagtccttta
+            gtgccaagcaaaatgtgtgcggataaatattacggcagtatcgaatccataaaagcgacc
+            acaggggaggcattcttatataactccattgatgctgaagcgattccaaataaagttccg
+            aaatccttcctccaaaatacggtcactttaagcattggtggacataacgaaatcgaaatc
+            gacagaagaagaaatgcaatagataattgcttaaataacgtcctatgtcatgggctggcc
+            aaaggtttcatcccaggttacggcatctccctactgaaggcaattccaggtttgaatgaa
+            ctgaaagcaaatgaacccaatttcatgactaaggtaggcatcaatgctgttttatcagca
+            gttattctcccatcagaagtggcgtttaagaatgcatatgggtacaactattatgagatc
+            aatagcctgatagcaggcgctataaacgaaaaatcgtttccaatggccaagttttctcca
+            aattcagaaccggtgaacacagtaaaggatggaaacttggagccatggagcaaaatggat
+            tcttgtttagccggtgtagaaacgttcattgaattacttacaagctgtaatacaattatc
+            acatgtgtatacaaaaagcctgaacggcacaaagcctag
+///

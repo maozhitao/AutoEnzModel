@@ -1,0 +1,53 @@
+ENTRY       YKL154W           CDS       T00005
+NAME        SRP102
+DEFINITION  (RefSeq) Signal recognition particle receptor subunit beta
+ORTHOLOGY   K12272  signal recognition particle receptor subunit beta
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03060  Protein export
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                YKL154W (SRP102)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:sce02044]
+                YKL154W (SRP102)
+               04031 GTP-binding proteins [BR:sce04031]
+                YKL154W (SRP102)
+            Secretion system [BR:sce02044]
+             Sec (secretion) system
+              Eukaryotic Sec-SRP protein
+               YKL154W (SRP102)
+            GTP-binding proteins [BR:sce04031]
+             Small (monomeric) G-proteins
+              Unclassified
+               YKL154W (SRP102)
+POSITION    XI:161601..162335
+MOTIF       Pfam: SRPRB Arf MMR_HSR1 FeoB_N GTP_EFTU ATP_bind_1 AAA_22 DUF2009 T3SS_basalb_I Roc AAA_16
+DBLINKS     NCBI-GeneID: 853702
+            NCBI-ProteinID: NP_012768
+            SGD: S000001637
+            UniProt: P36057
+STRUCTURE   PDB: 1NRJ 2GED
+AASEQ       244
+            MLSNTLIIACLLVIGTTIALIAVQKASSKTGIKQKSYQPSIIIAGPQNSGKTSLLTLLTT
+            DSVRPTVVSQEPLSAADYDGSGVTLVDFPGHVKLRYKLSDYLKTRAKFVKGLIFMVDSTV
+            DPKKLTTTAEFLVDILSITESSCENGIDILIACNKSELFTARPPSKIKDALESEIQKVIE
+            RRKKSLNEVERKINEEDYAENTLDVLQSTDGFKFANLEASVVAFEGSINKRKISQWREWI
+            DEKL
+NTSEQ       735
+            atgcttagtaatacacttattattgcctgtttattggtgatagggacaaccatagcgcta
+            atagcagtgcaaaaggcatcctccaagacagggatcaagcaaaaaagttatcaaccatct
+            attatcattgcaggtcctcaaaattctggaaaaacgagcttgcttacgctgctaaccaca
+            gattcagtaagaccaactgttgtttctcaagaaccgttatcagcagcggattacgatggt
+            tccggcgtcacgttagtggacttcccaggccatgtcaagttgcgttataaactctcagat
+            tatttgaaaacaagagccaaatttgttaaagggttgatatttatggtagactcaacagtt
+            gatcctaagaaattaacaacaacagctgagttcttggtagacatattatcaattactgaa
+            tctagttgcgaaaatggtattgatatcttaattgcatgcaataaaagcgaattgttcact
+            gcaagaccaccatcaaagatcaaggatgctttagaaagcgaaattcaaaaggttattgaa
+            agaaggaaaaaatcgttgaacgaggttgaaagaaaaattaacgaagaagattatgcagag
+            aatacactagacgttttacagtctaccgacgggttcaaatttgcaaatttggaagcatct
+            gtagttgcttttgagggcagtattaataaaagaaaaatttcccaatggcgcgaatggata
+            gatgaaaaactgtaa
+///

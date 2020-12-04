@@ -1,0 +1,40 @@
+ENTRY       YBL087C           CDS       T00005
+NAME        RPL23A
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L23A
+ORTHOLOGY   K02894  large subunit ribosomal protein L23e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YBL087C (RPL23A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YBL087C (RPL23A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YBL087C (RPL23A)
+POSITION    II:complement(join(59822..60193,60698..60739))
+MOTIF       Pfam: Ribosomal_L14
+DBLINKS     NCBI-GeneID: 852191
+            NCBI-ProteinID: NP_009466
+            SGD: S000000183
+            UniProt: P0CX41 P0CX42
+STRUCTURE   PDB: 6C0F 6EM4 6EM5 3J16 2X7N
+AASEQ       137
+            MSGNGAQGTKFRISLGLPVGAIMNCADNSGARNLYIIAVKGSGSRLNRLPAASLGDMVMA
+            TVKKGKPELRKKVMPAIVVRQAKSWRRRDGVFLYFEDNAGVIANPKGEMKGSAITGPVGK
+            ECADLWPRVASNSGVVV
+NTSEQ       414
+            atgtccggtaacggtgctcaaggtactaagtttagaatctcattaggtctaccagtcggt
+            gccatcatgaactgtgctgacaacagtggtgccagaaacttgtacattatcgccgtcaaa
+            ggctctggttccagattgaacagattgccagccgcctctctaggtgatatggttatggcc
+            accgttaagaagggtaagccagaattgagaaagaaggttatgccagctattgttgtccgt
+            caagctaagtcttggagaagaagagacggtgtctttttgtacttcgaagacaatgctggt
+            gtcatcgctaatcctaagggtgaaatgaagggttccgccatcactggtccagtcggtaag
+            gaatgtgccgatttatggccaagagttgcatctaactccggtgttgttgtgtaa
+///

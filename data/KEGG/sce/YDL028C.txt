@@ -1,0 +1,95 @@
+ENTRY       YDL028C           CDS       T00005
+NAME        MPS1, PAC8, RPK1
+DEFINITION  (RefSeq) serine/threonine/tyrosine protein kinase MPS1
+ORTHOLOGY   K08866  serine/threonine-protein kinase TTK/MPS1 [EC:2.7.12.1]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04111  Cell cycle - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YDL028C (MPS1)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:sce01001]
+                YDL028C (MPS1)
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YDL028C (MPS1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.12  Dual-specificity kinases (those acting on Ser/Thr and Tyr residues)
+                2.7.12.1  dual-specificity kinase
+                 YDL028C (MPS1)
+            Protein kinases [BR:sce01001]
+             Serine/threonine kinases: Other
+              TTK family
+               YDL028C (MPS1)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Centromeric chromatin formation proteins
+               SAC (spindle assembly checkpoint) factors
+                Protein kinases
+                 YDL028C (MPS1)
+POSITION    IV:complement(400997..403291)
+MOTIF       Pfam: Pkinase PK_Tyr_Ser-Thr APH FTA2 LPD34
+DBLINKS     NCBI-GeneID: 851533
+            NCBI-ProteinID: NP_010256
+            SGD: S000002186
+            UniProt: P54199
+AASEQ       764
+            MSTNSFHDYVDLKSRTNTRQFSDDEEFTTPPKLSNFGSALLSHTEKTSASEILSSHNNDK
+            IANRLEEMDRSSSRSHPPPSMGNLTSGHTSTSSHSTLFGRYLRNNHQTSMTTMNTSDIEI
+            NVGNSLDKSFERIRNLRQNMKEDITAKYAERRSKRFLISNRTTKLGPAKRAMTLTNIFDE
+            DVPNSPNQPINARETVELPLEDSHQTNFKETKRNTDYDSIDFGDLNPIQYIKKHNLPTSD
+            LPLISQIYFDKQREENRQAALRKHSSRELLYKSRSSSSSLSSNNLLANKDNSITSNNGSQ
+            PRRKVSTGSSSSKSSIEIRRALKENIDTSNNSNFNSPIHKIYKGISRNKDSDSEKREVLR
+            NISINANHADNLLQQENKRLKRSLDDAITNENINSKNLEVFYHRPAPKPPVTKKVEIVEP
+            AKSASLSNNRNIITVNDSQYEKIELLGRGGSSRVYKVKGSGNRVYALKRVSFDAFDDSSI
+            DGFKGEIELLEKLKDQKRVIQLLDYEMGDGLLYLIMECGDHDLSQILNQRSGMPLDFNFV
+            RFYTKEMLLCIKVVHDAGIVHSDLKPANFVLVKGILKIIDFGIANAVPEHTVNIYRETQI
+            GTPNYMAPEALVAMNYTQNSENQHEGNKWKVGRPSDMWSCGCIIYQMIYGKPPYGSFQGQ
+            NRLLAIMNPDVKIPFPEHTSNNEKIPKSAIELMKACLYRNPDKRWTVDKVLSSTFLQPFM
+            ISGSIMEDLIRNAVRYGSEKPHISQDDLNDVVDTVLRKFADYKI
+NTSEQ       2295
+            atgtcaacaaactcattccatgattatgtggatttaaaatcgagaactaatacacgacag
+            ttttcagatgacgaagagttcactacgcctccaaaactaagcaatttcggatcagcttta
+            ctttcccacacagaaaaaacttcagcatcagagatattatcaagtcataataatgacaag
+            atcgcaaatcgattagaagaaatggacaggagttcatcaaggagtcaccccccaccgtca
+            atgggcaatttgacatccggtcatactagtacctcatcgcattcaaccttgttcggacga
+            tatctgagaaataatcaccagactagcatgacgacgatgaacactagtgacatagagata
+            aatgttggaaatagtcttgataagagttttgaaaggataaggaatttgcgacaaaatatg
+            aaagaagatattacggcaaagtatgctgaaaggagaagtaagagatttttaatatccaat
+            aggacaacgaagctgggtcctgcaaagagagcgatgactttgacaaatatctttgatgag
+            gatgtgcctaactctccaaaccagccaataaatgcaagggagacagtggaattaccactt
+            gaggattctcaccaaacaaactttaaagaaacgaagagaaatacggattatgattcaatt
+            gattttggagatttgaatcctatccagtatattaaaaaacataatcttcccacaagtgac
+            cttccactaatatctcaaatctactttgataaacaaagagaagaaaatagacaagcagca
+            ctccgaaaacatagttccagagaattgctttataaaagtaggtcttcttcctcttcactt
+            tctagtaacaacttattggcaaacaaggacaattctataacatccaataatggttctcaa
+            cccaggcgaaaagtttctactggatcatcttcatctaagtcatcgatcgaaataagaaga
+            gctctcaaggagaatattgatactagcaataacagcaatttcaacagcccaattcataaa
+            atttataaaggaatttccagaaataaagattccgactccgaaaaaagagaagtactgcga
+            aacataagcataaatgcaaatcacgctgataatctccttcaacaagagaataagagacta
+            aaacgatcattggatgatgcaataacgaatgagaatataaacagtaaaaatctagaagta
+            ttttaccatcgacctgctcccaaacctccagtcaccaagaaagttgaaattgttgaacct
+            gcaaagtccgcttctttatcgaataatagaaatataattacagtaaatgactcccagtac
+            gaaaaaatagaacttttgggtagaggtggatcctccagagtttacaaggtgaaaggatct
+            ggcaatagggtatacgcgctcaaaagggtgtcttttgacgcttttgacgattcaagtatt
+            gatggattcaaaggagaaatagaacttctggaaaaattgaaagaccaaaagcgtgtaatc
+            caactactagattatgaaatgggggatggtttattgtatttgataatggaatgtggtgat
+            catgatttgtcacaaatccttaaccaaagaagcggcatgccactggattttaattttgtt
+            agattctatacaaaggaaatgttgctgtgcattaaagtagttcatgatgcgggcatagtt
+            cattcggatttaaaacctgcaaattttgttttagtgaaaggtatcttaaaaatcattgat
+            tttggtatagcaaacgcggtaccggaacatacggtgaatatatatcgtgaaactcaaatt
+            gggactccaaattatatggcaccagaagcactagttgctatgaattacacacaaaatagt
+            gagaaccaacatgagggaaacaagtggaaagtggggagaccatctgatatgtggtcatgc
+            ggttgtattatatatcagatgatttacgggaaacccccatatggcagtttccaaggccaa
+            aataggctgttggctattatgaatcctgatgtgaaaatcccatttcctgaacatactagc
+            aataatgaaaagattccaaagtctgccattgaattaatgaaagcatgtctgtacaggaac
+            ccagacaaaagatggactgtggataaagtcctgagtagcactttccttcaaccttttatg
+            atatccggatcgattatggaagaccttattaggaatgccgttagatatggctctgagaag
+            cctcatatatcacaagatgatctcaatgatgtggtagacactgttttaaggaaatttgca
+            gattacaaaatttag
+///

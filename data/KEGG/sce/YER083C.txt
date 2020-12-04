@@ -1,0 +1,52 @@
+ENTRY       YER083C           CDS       T00005
+NAME        GET2, HUR2, RMD7
+DEFINITION  (RefSeq) GET complex subunit GET2
+ORTHOLOGY   K22386  GET complex subunit GET2
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YER083C (GET2)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YER083C (GET2)
+            Membrane trafficking [BR:sce04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Retrieval pathways
+               Golgi to ER traffic proteins (GET)
+                YER083C (GET2)
+            Transporters [BR:sce02000]
+             Other transporters
+              Primary active transporters [TC:3]
+               YER083C (GET2)
+POSITION    V:complement(326174..327031)
+MOTIF       Pfam: GET2 Laminin_G_3
+DBLINKS     NCBI-GeneID: 856817
+            NCBI-ProteinID: NP_011006
+            SGD: S000000885
+            UniProt: P40056
+STRUCTURE   PDB: 3ZS9 3SJD
+AASEQ       285
+            MSELTEAEKRRLLRERRQKKFSNGGASSRLNKITGQASSHLNAESPLDAPSAAKTTPPAS
+            VHSATPDIKEDSNVAPQLDLLKQLAAMQGQGTGKSTPQDSSTPDLLSLLSSMNTGMPSAE
+            GTPSFGQAAPAAPINQAALDYHDYLLNRLKAWTILVKWVFFLLPYLYLITRPNSSVWPAY
+            AFTQSAWFAPLRNPSNFTRIFATFEFLSISIYYQLLKNVEHKSKIKNLQDTNKLVKLVSL
+            VPEGVIPVANLKGKLITLLQYWDLLSMLITDISFVLIVLGLLTYL
+NTSEQ       858
+            atgtctgaattaacagaggcggaaaagcgcaggttactaagggaaaggagacagaagaag
+            tttagcaatggaggtgccagctccaggcttaataaaatcaccgggcaggcaagcagtcat
+            ttgaacgcagaatcacctttagacgctcctagcgctgcaaagaccacaccacctgcgagt
+            gtgcattcggctactccagatatcaaagaagatagcaacgtagcgccccaattggaccta
+            ttgaaacagctcgctgccatgcaaggccaaggtacgggtaaaagtacccctcaggactcc
+            tctacgcccgatctactctcactactaagttctatgaacactggcatgcccagtgcagag
+            ggtacaccatcgtttggtcaagcggctcctgcagccccgatcaatcaagctgctttggac
+            taccatgattacttgctgaacagactgaaagcctggaccattcttgtgaagtgggtcttt
+            ttcctactaccctatctatacctaatcacaagaccaaattcctctgtgtggccggcctat
+            gcatttactcaatcagcttggtttgcacctttgcggaacccatcgaatttcactagaatt
+            tttgccacgtttgagttcctttccatatccatctactaccagctattgaagaatgtggaa
+            cacaagagcaagattaaaaatttacaagataccaataaacttgtcaagttagtttcactg
+            gtgcccgagggagtaattcccgtcgccaacctgaaggggaagctaattacccttttgcaa
+            tactgggatctattgtccatgctaatcactgacatttcgtttgtgctaattgtcttaggc
+            ttattgacgtacttataa
+///

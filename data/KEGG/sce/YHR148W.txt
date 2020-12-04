@@ -1,0 +1,44 @@
+ENTRY       YHR148W           CDS       T00005
+NAME        IMP3
+DEFINITION  (RefSeq) snoRNA-binding rRNA-processing protein IMP3
+ORTHOLOGY   K14560  U3 small nucleolar ribonucleoprotein protein IMP3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03008 Ribosome biogenesis in eukaryotes
+                YHR148W (IMP3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YHR148W (IMP3)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              90S particles
+               U3 small nucleolar RNA-associated proteins
+                YHR148W (IMP3)
+POSITION    VIII:393534..394085
+MOTIF       Pfam: Ribosomal_S4 S4 Herpes_LAMP2 Baculo_gp41
+DBLINKS     NCBI-GeneID: 856553
+            NCBI-ProteinID: NP_012018
+            SGD: S000001191
+            UniProt: P32899
+STRUCTURE   PDB: 5WXM 6ND4
+AASEQ       183
+            MVRKLKHHEQKLLKKVDFLEWKQDQGHRDTQVMRTYHIQNREDYHKYNRICGDIRRLANK
+            LSLLPPTDPFRRKHEQLLLDKLYAMGVLTTKSKISDLENKVTVSAICRRRLPVIMHRLKM
+            AETIQDAVKFIEQGHVRVGPNLINDPAYLVTRNMEDYVTWVDNSKIKKTLLRYRNQIDDF
+            DFS
+NTSEQ       552
+            atggttagaaaactaaagcatcatgagcaaaagttattgaaaaaagtagacttccttgaa
+            tggaagcaggaccaaggccaccgggacactcaggtcatgagaacatatcatattcagaat
+            cgtgaagattatcataaatacaataggatatgcggtgatattcgtcgtcttgccaataaa
+            ttatcattattacctcccactgatccatttcgtcgcaaacatgagcaattattactggac
+            aagctatacgctatgggtgtcctgacaactaaatcaaagatttctgatctggaaaataaa
+            gttactgttagtgccatctgtaggaggcgattacctgtaataatgcatagattaaaaatg
+            gcggaaactatacaagatgcagtcaagttcattgaacaagggcatgttcgcgtgggtcca
+            aatttgatcaacgatccagcctacctcgtaacgagaaatatggaggactacgttacttgg
+            gtggacaactctaagatcaagaaaaccttgttgagatacagaaaccaaatcgacgatttt
+            gatttttcataa
+///

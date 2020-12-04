@@ -1,0 +1,66 @@
+ENTRY       YKL045W           CDS       T00005
+NAME        PRI2
+DEFINITION  (RefSeq) DNA primase subunit PRI2
+ORTHOLOGY   K02685  DNA primase large subunit
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03030  DNA replication
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                YKL045W (PRI2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YKL045W (PRI2)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Elongation Factors
+               DNA polymerase alpha / primase complex
+                YKL045W (PRI2)
+POSITION    XI:353493..355079
+MOTIF       Pfam: DNA_primase_lrg
+DBLINKS     NCBI-GeneID: 853821
+            NCBI-ProteinID: NP_012879
+            SGD: S000001528
+            UniProt: P20457
+STRUCTURE   PDB: 6DTV 6DI2 6DTZ 6DI6 3LGB 6DU0
+AASEQ       528
+            MFRQSKRRIASRKNFSSYDDIVKSELDVGNTNAANQIILSSSSSEEEKKLYARLYESKLS
+            FYDLPPQGEITLEQFEIWAIDRLKILLEIESCLSRNKSIKEIETIIKPQFQKLLPFNTES
+            LEDRKKDYYSHFILRLCFCRSKELREKFVRAETFLFKIRFNMLTSTDQTKFVQSLDLPLL
+            QFISNEEKAELSHQLYQTVSASLQFQLNLNEEHQRKQYFQQEKFIKLPFENVIELVGNRL
+            VFLKDGYAYLPQFQQLNLLSNEFASKLNQELIKTYQYLPRLNEDDRLLPILNHLSSGYTI
+            ADFNQQKANQFSENVDDEINAQSVWSEEISSNYPLCIKNLMEGLKKNHHLRYYGRQQLSL
+            FLKGIGLSADEALKFWSEAFTRNGNMTMEKFNKEYRYSFRHNYGLEGNRINYKPWDCHTI
+            LSKPRPGRGDYHGCPFRDWSHERLSAELRSMKLTQAQIISVLDSCQKGEYTIACTKVFEM
+            THNSASADLEIGEQTHIAHPNLYFERSRQLQKKQQKLEKEKLFNNGNH
+NTSEQ       1587
+            atgttcaggcagtcaaaaagaagaattgcctcaaggaagaattttagttcatacgatgat
+            attgtcaaaagcgaattggacgtaggcaacacaaatgcagctaaccagatcatcttaagt
+            tcaagttcatctgaagaagagaaaaaactttacgctaggctgtatgagtctaaattatca
+            ttttacgatttaccaccacagggagaaataacgttggaacaatttgagatctgggcaatc
+            gatcgtctcaaaattctgttagagatcgaatcttgcctttcaagaaacaaatcgatcaaa
+            gaaattgaaaccattatcaagccgcagttccaaaaactactgcctttcaacacagagagt
+            ttagaagacagaaaaaaggattactactctcatttcattttaagattgtgcttttgtcgt
+            tcaaaagaactgcgggaaaaattcgtcagggctgaaacgtttttgttcaaaattagattt
+            aacatgctaacctccaccgatcaaacaaaatttgttcaatcattggacttacccttacta
+            cagtttatctcaaatgaagaaaaggccgaattatctcatcagttgtatcaaacagtttct
+            gcgtctctacagttccaattgaatttaaacgaggaacatcaaagaaaacagtatttccaa
+            caggaaaaattcataaaattacctttcgaaaatgtgatagaactggtaggaaaccgttta
+            gtgtttttgaaggacgggtacgcatatttaccacaattccagcaattgaatttactttct
+            aatgagtttgctagcaaattgaaccaggagttaataaaaacgtaccagtacttaccaaga
+            ctgaatgaggatgaccggttgttaccaattctaaatcatctttcgtcggggtacactatc
+            gcggatttcaaccagcaaaaggcaaaccaattcagtgagaacgtagatgatgagattaat
+            gcgcaaagtgtctggtctgaagagattagctcaaactatccgctatgtatcaaaaacctg
+            atggagggtcttaaaaagaaccatcatttgaggtattatgggagacaacaactgagtctg
+            tttttgaaaggtatcggcctgagcgctgatgaagcgttaaaattttggtctgaggcattt
+            acaagaaatgggaacatgacaatggagaagttcaataaagaataccgttacagcttcagg
+            cataattacggtcttgaaggtaacagaatcaactacaaaccatgggactgtcacactatc
+            ctttccaagcccagacctgggcgcggagattatcatggatgccctttccgtgattggagt
+            cacgagagactatctgcagaattgcgctctatgaagttgacccaagcgcagatcatcagt
+            gttctggattcctgccagaaaggtgaatacacaattgcttgcactaaagtgtttgaaatg
+            acacacaactctgcatcagcggatttggaaattggcgagcaaacgcatatcgcgcatcct
+            aacctatacttcgaaagatcaaggcaactgcaaaagaaacagcagaagctggaaaaggaa
+            aaactattcaataatggtaatcattag
+///

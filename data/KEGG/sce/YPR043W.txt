@@ -1,0 +1,38 @@
+ENTRY       YPR043W           CDS       T00005
+NAME        RPL43A
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L43A
+ORTHOLOGY   K02921  large subunit ribosomal protein L37Ae
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YPR043W (RPL43A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YPR043W (RPL43A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YPR043W (RPL43A)
+              Archaea
+                YPR043W (RPL43A)
+POSITION    XVI:join(654166..654167,654571..654847)
+MOTIF       Pfam: Ribosomal_L37ae CoV_NSP2_N zf-RING_13 Rep_fac-A_C DUF1364 CarbpepA_inh zf-C4_ClpX Zn_Tnp_IS1595
+DBLINKS     NCBI-GeneID: 856156
+            NCBI-ProteinID: NP_015368
+            SGD: S000006247
+            UniProt: P0CX25 P0CX26
+AASEQ       92
+            MAKRTKKVGITGKYGVRYGSSLRRQVKKLEIQQHARYDCSFCGKKTVKRGAAGIWTCSCC
+            KKTVAGGAYTVSTAAAATVRSTIRRLREMVEA
+NTSEQ       279
+            atggctaaaagaactaagaaggttggtatcactggtaagtacggtgtccgttatggttcc
+            tctttgagaagacaagtcaagaagttggaaatccaacaacacgctagatacgattgttct
+            ttctgtggtaagaagaccgtcaagagaggtgctgctggtatttggacttgttcctgttgt
+            aagaagaccgtcgctggtggtgcttacactgtctccactgctgctgccgccaccgttaga
+            tctaccatcagaagattgagagaaatggttgaagcttga
+///

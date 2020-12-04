@@ -1,0 +1,83 @@
+ENTRY       YBR094W           CDS       T00005
+NAME        PBY1
+DEFINITION  (RefSeq) putative tubulin tyrosine ligase
+ORTHOLOGY   K06047  tubulin---tyrosine ligase [EC:6.3.2.25]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               04812 Cytoskeleton proteins [BR:sce04812]
+                YBR094W (PBY1)
+            Enzymes [BR:sce01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.2  Acid-D-amino-acid ligases (peptide synthases)
+                6.3.2.25  tubulin---tyrosine ligase
+                 YBR094W (PBY1)
+            Cytoskeleton proteins [BR:sce04812]
+             Eukaryotic cytoskeleton proteins
+              Microtubules
+               Tubulin-binding proteins
+                Tubulin modification proteins
+                 Other tubulin modification proteins
+                  YBR094W (PBY1)
+POSITION    II:432036..434297
+MOTIF       Pfam: TTL SurE ATPgrasp_YheCD Herpes_BLLF1
+DBLINKS     NCBI-GeneID: 852391
+            NCBI-ProteinID: NP_009652
+            SGD: S000000298
+            UniProt: P38254
+AASEQ       753
+            MRVLITNDDGPLSDQFSPYIRPFIQHIKRNYPEWKITVCVPHVQKSWVGKAHLAGKNLTA
+            QFIYSKVDAEDNTFWGPFIQPQIRSENSKLPYVLNAEIPKDTIEWILIDGTPASCANIGL
+            HLLSNEPFDLVLSGPNVGRNTSAAYITSSGTVGGAMESVITGNTKAIAISWAYFNGLKNV
+            SPLLMEKASKRSLDVIKHLVKNWDPKTDLYSINIPLVESLSDDTKVYYAPIWENRWIPIF
+            NGPHINLENSFAEIEDGNESSSISFNWAPKFGAHKDSIHYMDEYKDRTVLTDAEVIESEM
+            ISVTPMKATFKGVNHLLGELKLTEEENNLSKTNNLIVVSIDPMEYIYKPLTHALKKYLPQ
+            VEIVSNLPEFDNGGCEKEMKVFHYGDYEQLDMDKLMELPNNYFTNSYIYRKALIRKHFLS
+            HTIQTYTAKNPESILKKAYLESFTIDLDYAEFLDDALDENWELRQELENESQDKWWIVKP
+            SMSDKGQGIRVFKTIEDLQAIFDSFDDEDSEAEESGNDDDADDVNGEFMDNNKVNISQLR
+            HFIIQEYLTNPLLLASMDNRKFHIRCYVVCRGDLQVFVYDRMLALFAAKPFVPLDPYAYS
+            VTDLKDLECHLTNTCLQSKKKDKDSSVLEFDSIEEIPNERKSNIKEQIHSITNDVFLAAV
+            NVNRLNFQPLPNAFETYGVDFLIDSNYEVKLLEINAFPDFKQTGKDLKNLIDELFDDTVK
+            YCVTPIFNENRNKTDDETDPNFVKVIDYTSNGW
+NTSEQ       2262
+            atgcgggttttaataactaacgatgatggtcccttaagtgatcagttttcaccatacatt
+            agaccttttattcagcacattaaaagaaattatcctgaatggaaaatcacggtttgtgta
+            cctcatgtccagaaatcatgggtgggtaaggctcatcttgctggtaaaaatttgacagct
+            caattcatatattctaaagttgacgctgaagacaatactttttggggcccatttatccag
+            ccacaaattaggtcagaaaactctaaattaccttatgttctcaatgctgaaattccgaaa
+            gatacaattgagtggatattaatcgatggaactccagcatcgtgcgcaaacatcgggctg
+            cacctattgtctaatgaaccgtttgatctagtactgtcgggtccaaatgttggtagaaat
+            acatctgctgcttatattacctcttctggtaccgtaggaggcgcaatggaatctgttatt
+            actggaaatacaaaggccattgctatttcttgggcctattttaatggattgaaaaacgtc
+            tccccacttttaatggagaaggcctctaagagatctttagatgttatcaaacatcttgtt
+            aagaattgggacccaaaaacagatctatatagtatcaatattcctttagtggagagttta
+            agtgatgatacaaaggtttactatgcaccaatttgggaaaatagatggattccaatattc
+            aacggccctcacattaacctagagaatagctttgctgagatcgaagacggtaatgaatca
+            tcatcgatttcctttaattgggctccaaaatttggggcacataaggattctattcactat
+            atggacgaatacaaggacaggactgttttaactgatgctgaagttattgaatccgaaatg
+            atcagtgtcactcccatgaaagccactttcaagggtgtgaaccaccttcttggagagttg
+            aaactgactgaggaagaaaataatttatcaaaaacaaataacctcatcgtggtaagtata
+            gacccaatggaatatatatacaaacctctaacccacgccctgaaaaaatatctgccacaa
+            gtggagattgtatcaaacttgccagaatttgacaatggagggtgtgaaaaagaaatgaag
+            gtttttcattacggtgattacgaacagctagatatggacaaactaatggaactgcccaat
+            aattacttcacaaactcttatatatataggaaggcattgataagaaaacactttctttcg
+            cataccatacagacttatactgcgaagaacccagagtccattttaaagaaggcatatttg
+            gaatcattcactattgatttagattatgctgaatttctagacgacgcattagatgaaaat
+            tgggaattacgccaagagttggagaatgaaagccaagataaatggtggatcgtgaaaccg
+            agtatgagcgataaaggtcaaggtatcagggtatttaagactattgaagatttacaggct
+            attttcgattcctttgacgatgaagacagcgaagcagaagagagtggaaatgacgacgat
+            gctgatgatgtaaatggcgaattcatggataataacaaggttaacatttcccaattgcgc
+            cactttattatacaagaatatttaaccaatccgttactattggcatctatggataataga
+            aagttccacataagatgttacgtcgtctgtaggggagatttgcaagtttttgtttatgat
+            agaatgctagcgctctttgctgccaagccatttgttcctctagatccatatgcgtattcc
+            gtaactgatttgaaagatttggaatgccacttgactaacacatgtctgcagagcaaaaag
+            aaggataaagattcttctgttttggagtttgactccatagaggaaattccaaatgagaga
+            aagtccaatattaaggagcaaatccatagcataacgaacgacgttttcttagctgctgta
+            aatgtaaatagattaaacttccaaccgttaccaaacgcatttgaaacatatggcgtagac
+            tttttgattgattcgaattacgaagttaaattactagagatcaacgctttcccagacttc
+            aaacaaactgggaaagatttgaagaacctcattgatgaattatttgatgacactgtcaaa
+            tactgtgttacccccatctttaacgagaatagaaataagacagatgatgaaacagacccg
+            aacttcgtaaaagtcattgattacacttcaaacggttggtga
+///

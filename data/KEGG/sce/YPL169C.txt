@@ -1,0 +1,87 @@
+ENTRY       YPL169C           CDS       T00005
+NAME        MEX67
+DEFINITION  (RefSeq) Mex67p
+ORTHOLOGY   K14284  nuclear RNA export factor
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+            sce03013  RNA transport
+            sce03015  mRNA surveillance pathway
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03013 RNA transport
+                YPL169C (MEX67)
+               03015 mRNA surveillance pathway
+                YPL169C (MEX67)
+               03008 Ribosome biogenesis in eukaryotes
+                YPL169C (MEX67)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YPL169C (MEX67)
+               03009 Ribosome biogenesis [BR:sce03009]
+                YPL169C (MEX67)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               Transport factors
+                Nuclear pore complex
+                 YPL169C (MEX67)
+               mRNA cycle factors
+                Stress granule specific factors
+                 YPL169C (MEX67)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Pre-60S particles
+               Export and cytoplasmic maturation factors
+                YPL169C (MEX67)
+POSITION    XVI:complement(229039..230838)
+MOTIF       Pfam: RRM_9 TAP_C LRR_9 LRR_4
+DBLINKS     NCBI-GeneID: 855934
+            NCBI-ProteinID: NP_015156
+            SGD: S000006090
+            UniProt: Q99257
+STRUCTURE   PDB: 6EXZ 1OF5 4WWU 2KHH 2JP7
+AASEQ       599
+            MSGFHNVGNINMMAQQQMQQNRIKISVRNWQNATMNDLINFISRNARVAVYDAHVEGPLV
+            IGYVNSKAEAESLMKWNGVRFAGSNLKFELLDNNGASAGTSDTISFLRGVLLKRYDPQTK
+            LLNLGALHSDPELIQKGVFSSISTQSKMFPAMMKLASTEKSLIVESVNLADNQLKDISAI
+            STLAQTFPNLKNLCLANNQIFRFRSLEVWKNKFKDLRELLMTNNPITTDKLYRTEMLRLF
+            PKLVVLDNVIVRDEQKLQTVYSLPMKIQQFFFENDALGQSSTDFATNFLNLWDNNREQLL
+            NLYSPQSQFSVSVDSTIPPSTVTDSDQTPAFGYYMSSSRNISKVSSEKSIQQRLSIGQES
+            INSIFKTLPKTKHHLQEQPNEYSMETISYPQINGFVITLHGFFEETGKPELESNKKTGKN
+            NYQKNRRYNHGYNSTSNNKLSKKSFDRTWVIVPMNNSVIIASDLLTVRAYSTGAWKTASI
+            AIAQPPQQQASVLPQVASMNPNITTPPQPQPSVVPGGMSIPGAPQGAMVMAPTLQLPPDV
+            QSRLNPVQLELLNKLHLETKLNAEYTFMLAEQSNWNYEVAIKGFQSSMNGIPREAFVQF
+NTSEQ       1800
+            atgagcggatttcacaatgttggaaatatcaatatgatggctcaacagcagatgcaacaa
+            aatagaataaagattagcgtgaggaactggcagaatgcaaccatgaacgatttgattaat
+            tttataagccgcaacgctcgagtagctgtttatgacgctcatgtggaaggacctttagtt
+            attggatatgtcaactcaaaggcagaagcagaatcgttaatgaaatggaacggtgtccgg
+            tttgcaggcagtaatttaaagttcgaacttttagataacaatggggcctctgcgggaact
+            tcagacaccatttcgttcttgaggggggtgctccttaagaggtatgacccacaaacaaaa
+            ttactaaatttgggcgctttacattcagatcccgagctaattcaaaagggcgtctttagt
+            tccatctccacccagtctaagatgtttccagcaatgatgaaactggcttctacagaaaaa
+            agtttgatagtggaaagtgtcaatcttgctgacaaccaacttaaggacatctcagcaatt
+            tccacattggctcaaacatttcctaatttgaaaaacctctgtctggccaacaatcagatt
+            tttagatttagatcgctagaagtttggaagaacaaattcaaagatctaagagagcttttg
+            atgacaaataacccgataaccaccgataagttgtatcgcactgaaatgttaagattattt
+            ccgaaattggttgtactagataacgtgattgtgagagacgaacaaaaattgcaaaccgtt
+            tactcattaccgatgaagattcaacagttttttttcgaaaacgatgcattagggcaatca
+            tctacagactttgcaactaactttttgaatctatgggataataatagagaacaactgtta
+            aatttgtattcgccccaatcccagttttctgtttccgtggattctactattcctccatct
+            acggtaacagattcggaccaaactccagcatttggttattacatgtcgtcctcacgtaat
+            atatccaaagtgtccagtgaaaaatctatccagcagagattgtcaatcgggcaagagtcc
+            attaatagtatattcaagactttgccgaaaacaaagcaccatttacaagaacaacccaat
+            gaatactcaatggaaacaattagttatcctcaaataaatgggttcgttattacgttgcac
+            ggattttttgaagagactggcaagcctgaactggaatccaataaaaaaacggggaaaaat
+            aactatcaaaagaatagaagatacaatcatggttacaactccacatcaaataataagtta
+            tccaaaaaatcctttgatagaacctgggtaattgttccaatgaataatagtgtcataatc
+            gcatctgatctgttaactgtaagagcgtattccacaggcgcttggaaaactgcatctatt
+            gcaatagcacagcctccacagcaacaggcctcggtcctaccacaggtcgcaagcatgaac
+            ccaaatataacgacaccaccgcagccacaaccttcagtggtaccaggagggatgagcatt
+            cccggcgcaccccaaggagccatggtcatggctcccactttgcaactacctccagatgtc
+            cagtcgcggctaaatcccgtacaactcgagctgctgaataaactacatttggaaacgaaa
+            ttgaatgcagaatacacgtttatgttggccgagcaaagtaactggaactatgaagttgcc
+            ataaagggttttcagagtagcatgaatggcatccctagagaagcatttgtgcagttctaa
+///

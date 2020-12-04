@@ -1,0 +1,64 @@
+ENTRY       YDR167W           CDS       T00005
+NAME        TAF10, TAF23, TAF25
+DEFINITION  (RefSeq) Taf10p
+ORTHOLOGY   K03134  transcription initiation factor TFIID subunit 10
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03022  Basal transcription factors
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03022 Basal transcription factors
+                YDR167W (TAF10)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:sce03021]
+                YDR167W (TAF10)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YDR167W (TAF10)
+            Transcription machinery [BR:sce03021]
+             Eukaryotic type
+              RNA polymerase II system
+               Basal transcription factors
+                TFIID
+                 YDR167W (TAF10)
+               Coactivators
+                SAGA/TFTC/STAGA complex
+                 YDR167W (TAF10)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Histone modification proteins
+               HAT complexes
+                PCAF complex
+                 YDR167W (TAF10)
+                STAGA complex
+                 YDR167W (TAF10)
+                TFTC complex
+                 YDR167W (TAF10)
+                SAGA complex
+                 YDR167W (TAF10)
+                SLIK complex
+                 YDR167W (TAF10)
+POSITION    IV:789449..790069
+MOTIF       Pfam: TFIID_30kDa
+DBLINKS     NCBI-GeneID: 851745
+            NCBI-ProteinID: NP_010451
+            SGD: S000002574
+            UniProt: Q12030
+AASEQ       206
+            MDFEEDYDAEFDDNQEGQLETPFPSVAGADDGDNDNDDSVAENMKKKQKREAVVDDGSEN
+            AFGIPEFTRKDKTLEEILEMMDSTPPIIPDAVIDYYLTKNGFNVADVRVKRLLALATQKF
+            VSDIAKDAYEYSRIRSSVAVSNANNSQARARQLLQGQQQPGVQQISQQQHQQNEKTTASK
+            VVLTVNDLSSAVAEYGLNIGRPDFYR
+NTSEQ       621
+            atggattttgaggaagattacgatgcggagtttgatgataatcaagaaggacaattagaa
+            acaccttttccatcggttgcgggagccgatgatggggacaatgataatgatgactctgtc
+            gcagaaaacatgaagaagaagcaaaagagagaggctgtagtggatgatgggagtgaaaat
+            gcatttggtatacccgaatttacaagaaaagataagactctggaggagattctagagatg
+            atggacagtactcctcctatcattcccgatgcagtaatagactactatttaaccaaaaac
+            gggtttaacgtagcagatgtacgagtgaaacgacttttagcacttgctactcagaaattt
+            gttagtgatatagctaaggatgcctacgaatattccaggatcaggtcttccgtagcggta
+            tctaatgctaacaacagtcaggcgagagctaggcagctattgcaaggacagcaacagcct
+            ggcgtgcagcagatttcacaacaacaacatcaacagaatgagaagactacagcaagcaaa
+            gttgttctgacggtgaacgatctcagtagcgctgttgctgaatacgggctcaatataggt
+            cgcccagacttttatcgttag
+///

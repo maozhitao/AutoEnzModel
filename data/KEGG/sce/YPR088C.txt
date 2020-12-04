@@ -1,0 +1,74 @@
+ENTRY       YPR088C           CDS       T00005
+NAME        SRP54, SRH1
+DEFINITION  (RefSeq) RNA-binding signal recognition particle subunit SRP54
+ORTHOLOGY   K03106  signal recognition particle subunit SRP54 [EC:3.6.5.4]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03060  Protein export
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                YPR088C (SRP54)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:sce02044]
+                YPR088C (SRP54)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.5  Acting on GTP to facilitate cellular and subcellular movement
+                3.6.5.4  signal-recognition-particle GTPase
+                 YPR088C (SRP54)
+            Secretion system [BR:sce02044]
+             Sec (secretion) system
+              Prokaryotic Sec-SRP core components
+               YPR088C (SRP54)
+              Eukaryotic Sec-SRP protein
+               YPR088C (SRP54)
+POSITION    XVI:complement(711403..713028)
+MOTIF       Pfam: SRP54 SRP_SPB SRP54_N cobW CbiA Zeta_toxin AAA_33 AAA_17 MobB MipZ AAA_16 AAA_31 VirC1 AAA_18 AAA_22 MeaB ATP_bind_1 APS_kinase AAA_30 AAA_24 MMR_HSR1
+DBLINKS     NCBI-GeneID: 856203
+            NCBI-ProteinID: NP_015413
+            SGD: S000006292
+            UniProt: P20424
+AASEQ       541
+            MVLADLGKRINSAVNNAISNTQDDFTTSVDVMLKGIVTALLESDVNIALVSKLRNNIRSQ
+            LLSENRSEKSTTNAQTKKLIQKTVFDELCKLVTCEGSEEKAFVPKKRKTNIIMFVGLQGS
+            GKTTSCTKLAVYYSKRGFKVGLVCADTFRAGAFDQLKQNAIRARIPFYGSYTETDPAKVA
+            EEGINKFKKEKFDIIIVDTSGRHHQEEELFQEMIEISNVIKPNQTIMVLDASIGQAAEQQ
+            SKAFKESSDFGAIILTKMDGHARGGGAISAVAATNTPIIFIGTGEHIHDLEKFSPKSFIS
+            KLLGIGDIESLFEQLQTVSNKEDAKATMENIQKGKFTLLDFKKQMQTIMKMGPLSNIAQM
+            IPGMSNMMNQVGEEETSQKMKKMVYVLDSMTKEELESDGRMFIEEPTRMVRVAKGSGTSV
+            FEVEMILMQQQMMARMAQTATQQQPGAPGANARMPGMPNMPGMPNMPGMPNMPGMPKVTP
+            QMMQQAQQKLKQNPGLMQNMMNMFGGGMGGGMGGGMPDMNEMMKMMQDPQMQQMAKQFGM
+            G
+NTSEQ       1626
+            atggttttggctgatttggggaagcggattaattctgctgtgaataacgcgatttccaat
+            acacaggatgactttactacatccgtagatgtaatgttaaagggcatcgtgactgcgttg
+            ttagaatcggatgtgaatattgccctggtttctaagttacgaaataatataaggtcacag
+            ctgctgagtgagaaccgtagtgagaagtccacaacaaacgcacaaactaagaagcttatt
+            cagaaaacggtgtttgatgaactgtgtaagttggtcacctgcgaaggtagtgaagagaag
+            gcctttgtgcccaagaagagaaagacaaacatcatcatgtttgttgggctgcaaggttca
+            ggtaaaactacttcctgtaccaagttagcagtttactactcgaagagaggtttcaaagtg
+            ggtttggtatgtgcggatactttccgtgctggtgcatttgaccaattgaaacaaaacgct
+            ataagagcaagaattccattttatgggtcatatacggagactgaccctgccaaagttgca
+            gaagaaggtattaacaagtttaagaaagagaagtttgatatcatcatcgttgatacttca
+            ggtaggcatcatcaagaagaagagttgttccaagaaatgattgaaatatccaatgtcatc
+            aagcctaatcaaactatcatggttttagatgcttccattggtcaagctgcagagcaacaa
+            tccaaggctttcaaagaatcgtccgattttggtgccattatattaaccaagatggacggc
+            cacgctagagggggtggggcaatttcggccgttgcagccacaaacactccgattatcttt
+            attggtacaggtgagcacattcatgatttggaaaagttctcgcctaagtcattcatatct
+            aaactgttgggtattggtgatatagagagtctctttgagcaattacaaaccgtttccaac
+            aaggaagatgcaaaagccacaatggaaaacatccaaaagggtaagttcaccttgctagat
+            ttcaagaaacagatgcaaacaataatgaaaatgggtccattatcaaatatagcgcagatg
+            attcctggtatgagtaatatgatgaatcaagtaggggaggaggaaacctctcaaaagatg
+            aagaaaatggtttacgttttggattctatgactaaagaagaactagaatctgatggtaga
+            atgttcattgaagagcctacaagaatggttcgtgtagctaaaggttcaggtacttctgtg
+            ttcgaggtagaaatgatattgatgcaacagcagatgatggcaagaatggcacaaaccgca
+            acccagcaacaaccaggagcccctggtgccaatgctaggatgcctggcatgccaaacatg
+            ccgggtatgccaaacatgcctggtatgccgaatatgcctggtatgccaaaagtgactcca
+            caaatgatgcagcaggcacaacaaaagctgaagcaaaatccaggtctaatgcaaaatatg
+            atgaacatgtttggtggcggaatgggcggaggaatgggcggaggaatgcctgatatgaac
+            gaaatgatgaaaatgatgcaagatccacaaatgcaacaaatggcaaaacaattcggtatg
+            ggctaa
+///

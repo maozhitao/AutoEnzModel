@@ -1,0 +1,79 @@
+ENTRY       YHR007C           CDS       T00005
+NAME        ERG11, CYP51
+DEFINITION  (RefSeq) sterol 14-demethylase
+ORTHOLOGY   K05917  sterol 14alpha-demethylase [EC:1.14.14.154 1.14.15.36]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00100  Steroid biosynthesis
+            sce01100  Metabolic pathways
+            sce01110  Biosynthesis of secondary metabolites
+MODULE      sce_M00102  Ergocalciferol biosynthesis, squalene 2,3-epoxide => ergosterol/ergocalciferol
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09103 Lipid metabolism
+               00100 Steroid biosynthesis
+                YHR007C (ERG11)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               00199 Cytochrome P450 [BR:sce00199]
+                YHR007C (ERG11)
+            Enzymes [BR:sce01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.14  With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.14.154  sterol 14alpha-demethylase
+                 YHR007C (ERG11)
+               1.14.15  With reduced iron-sulfur protein as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.15.36  sterol 14alpha-demethylase (ferredoxin)
+                 YHR007C (ERG11)
+            Cytochrome P450 [BR:sce00199]
+             Cytochrome P450, animal type
+              CYP51 family
+               YHR007C (ERG11)
+POSITION    VIII:complement(120091..121683)
+MOTIF       Pfam: p450
+DBLINKS     NCBI-GeneID: 856398
+            NCBI-ProteinID: NP_011871
+            SGD: S000001049
+            UniProt: P10614
+STRUCTURE   PDB: 4LXJ 5ESG 5ESM 5EAD 4ZDY 4ZE1 4WMZ 5HS1 5ESI 5EAE 5ESH
+                 5ESJ 5EQB 6E8Q 5UL0 5ESE 4ZE0 4ZE3 5ESK 5ESF 5EAC 4ZDZ
+                 4ZE2 5ESL 5ESN 5EAG 5EAH 5EAB 5EAF
+AASEQ       530
+            MSATKSIVGEALEYVNIGLSHFLALPLAQRISLIIIIPFIYNIVWQLLYSLRKDRPPLVF
+            YWIPWVGSAVVYGMKPYEFFEECQKKYGDIFSFVLLGRVMTVYLGPKGHEFVFNAKLADV
+            SAEAAYAHLTTPVFGKGVIYDCPNSRLMEQKKFVKGALTKEAFKSYVPLIAEEVYKYFRD
+            SKNFRLNERTTGTIDVMVTQPEMTIFTASRSLLGKEMRAKLDTDFAYLYSDLDKGFTPIN
+            FVFPNLPLEHYRKRDHAQKAISGTYMSLIKERRKNNDIQDRDLIDSLMKNSTYKDGVKMT
+            DQEIANLLIGVLMGGQHTSAATSAWILLHLAERPDVQQELYEEQMRVLDGGKKELTYDLL
+            QEMPLLNQTIKETLRMHHPLHSLFRKVMKDMHVPNTSYVIPAGYHVLVSPGYTHLRDEYF
+            PNAHQFNIHRWNKDSASSYSVGEEVDYGFGAISKGVSSPYLPFGGGRHRCIGEHFAYCQL
+            GVLMSIFIRTLKWHYPEGKTVPPPDFTSMVTLPTGPAKIIWEKRNPEQKI
+NTSEQ       1593
+            atgtctgctaccaagtcaatcgttggagaggcattggaatacgtaaacattggtttaagt
+            catttcttggctttaccattggcccaaagaatctctttgatcataataattcctttcatt
+            tacaatattgtatggcaattactatattctttgagaaaggaccgtccacctctagtgttt
+            tactggattccatgggtcggtagtgctgttgtgtacggtatgaagccatacgagtttttc
+            gaagaatgtcaaaagaaatacggtgatattttttcattcgttttgttaggaagagtcatg
+            actgtgtatttaggaccaaagggtcacgaatttgtcttcaacgctaagttggcagatgtt
+            tcagcagaagctgcttacgctcatttgactactccagttttcggtaaaggtgttatttac
+            gattgtccaaattctagattgatggagcaaaagaagtttgttaagggtgctctaaccaaa
+            gaagccttcaagagctacgttccattgattgctgaagaagtgtacaagtacttcagagac
+            tccaaaaacttccgtttgaatgaaagaactactggtactattgacgtgatggttactcaa
+            cctgaaatgactattttcaccgcttcaagatcattattgggtaaggaaatgagagcaaaa
+            ttggataccgattttgcttacttgtacagtgatttggataagggtttcactccaatcaac
+            ttcgtcttccctaacttaccattggaacactatagaaagagagatcacgctcaaaaggct
+            atctccggtacttacatgtctttgattaaggaaagaagaaagaacaacgacattcaagac
+            agagatttgatcgattccttgatgaagaactctacctacaaggatggtgtgaagatgact
+            gatcaagaaatcgctaacttgttaattggtgtcttaatgggtggtcaacatacttctgct
+            gccacttctgcttggattttgttgcacttggctgaaagaccagatgtccaacaagaattg
+            tacgaagaacaaatgcgtgttttggatggtggtaagaaggaattgacctacgatttatta
+            caagaaatgccattgttgaaccaaactattaaggaaactctaagaatgcaccatccattg
+            cactctttgttccgtaaggttatgaaagatatgcacgttccaaacacttcttatgtcatc
+            ccagcaggttatcacgttttggtttctccaggttacactcatttaagagacgaatacttc
+            cctaatgctcaccaattcaacattcaccgttggaacaaagattctgcctcctcttattcc
+            gtcggtgaagaagtcgattacggtttcggtgccatttctaagggtgtcagctctccatac
+            ttacctttcggtggtggtagacacagatgtatcggtgaacactttgcttactgtcagcta
+            ggtgttctaatgtccatttttatcagaacattaaaatggcattacccagagggtaagacc
+            gttccacctcctgactttacatctatggttactcttccaaccggtccagccaagatcatc
+            tgggaaaagagaaatccagaacaaaagatctaa
+///

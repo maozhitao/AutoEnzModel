@@ -1,0 +1,51 @@
+ENTRY       YEL026W           CDS       T00005
+NAME        SNU13
+DEFINITION  (RefSeq) RNA binding protein SNU13
+ORTHOLOGY   K12845  U4/U6 small nuclear ribonucleoprotein SNU13
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+            sce03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YEL026W (SNU13)
+              09122 Translation
+               03008 Ribosome biogenesis in eukaryotes
+                YEL026W (SNU13)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YEL026W (SNU13)
+               03009 Ribosome biogenesis [BR:sce03009]
+                YEL026W (SNU13)
+            Spliceosome [BR:sce03041]
+             Complex B
+              U4/U6.U5 tri-snRNP components
+               U4/U6 snRNP specific factors
+                YEL026W (SNU13)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Sno RNPs
+               Box C/D snoRNPs
+                YEL026W (SNU13)
+POSITION    V:101943..102323
+MOTIF       Pfam: Ribosomal_L7Ae PELOTA_1 RNase_P_pop3 Pico_P2B
+DBLINKS     NCBI-GeneID: 856687
+            NCBI-ProteinID: NP_010888
+            SGD: S000000752
+            UniProt: P39990
+STRUCTURE   PDB: 4NUT 2ALE 1ZWZ 5GAN 5GAP 3JCM 5ZWO 6ND4 5TZS
+AASEQ       126
+            MSAPNPKAFPLADAALTQQILDVVQQAANLRQLKKGANEATKTLNRGISEFIIMAADCEP
+            IEILLHLPLLCEDKNVPYVFVPSRVALGRACGVSRPVIAASITTNDASAIKTQIYAVKDK
+            IETLLI
+NTSEQ       381
+            atgtctgccccaaacccaaaggctttcccattagccgatgctgcattaacccaacaaatc
+            ttggatgtcgttcaacaggctgctaacttgagacaattgaagaaaggtgccaacgaagct
+            accaaaactttgaaccgtggtatctccgaattcatcattatggctgctgactgtgaacct
+            attgaaatcctattgcatttaccattactatgtgaagacaagaatgttccatatgtcttt
+            gttccatctagagttgctttaggtagagcttgtggtgtttctagaccagttattgctgct
+            tctattaccaccaacgatgcttctgctatcaagacccaaatctacgctgtcaaggacaag
+            attgaaactttattaatttaa
+///

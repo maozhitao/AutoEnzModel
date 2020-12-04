@@ -1,0 +1,46 @@
+ENTRY       YNL168C           CDS       T00005
+NAME        FMP41
+DEFINITION  (RefSeq) Fmp41p
+ORTHOLOGY   K01557  acylpyruvate hydrolase [EC:3.7.1.5]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00350  Tyrosine metabolism
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09105 Amino acid metabolism
+               00350 Tyrosine metabolism
+                YNL168C (FMP41)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.7  Acting on carbon-carbon bonds
+               3.7.1  In ketonic substances
+                3.7.1.5  acylpyruvate hydrolase
+                 YNL168C (FMP41)
+POSITION    XIV:complement(318030..318809)
+MOTIF       Pfam: FAA_hydrolase DUF2848
+DBLINKS     NCBI-GeneID: 855553
+            NCBI-ProteinID: NP_014231
+            SGD: S000005112
+            UniProt: P53889
+STRUCTURE   PDB: 1NKQ
+AASEQ       259
+            MSYNYLKAARKIICIGRNYAAHIKELNNSTPKQPFFFLKPTSSIVTPLSSSLVKTTRPAN
+            STFNGLNEDGTNPGPIFIPRGVKVHHEIELALIVSKHLSNVTKMKPEEVYDSISGVALAL
+            DLTARNVQDEAKKKGLPWTISKGFDTFMPISAIVSREKFSSYKSNLQDIFRVKCSVNGQL
+            RQDGGTNLMLHPLHKILQHISTMISLEPGDIILTGTPAGVGELKPGDRVHCELLQNNDNI
+            VDMNFECENRPGPYEFRET
+NTSEQ       780
+            atgagctacaattatttgaaggcagctagaaaaattatatgcattgggcgtaattacgca
+            gcgcatatcaaagagctgaacaattcaactccaaaacaaccgttttttttcctaaaacca
+            acctcgagtattgtgacaccattgtcttcatcattggtcaagaccactagacctgcaaac
+            tcgactttcaatggtttaaatgaagacggaactaaccccgggcccatttttatcccacgc
+            ggtgtgaaggttcatcacgaaattgagttggcattgattgtgagcaaacatttgtccaat
+            gtcactaagatgaaacccgaagaagtctatgactctattagtggtgtagctctagcattg
+            gatcttacagcaagaaatgtccaagatgaagccaaaaagaaggggctaccttggactata
+            agcaagggttttgacaccttcatgccaatctctgctatagtctcccgcgagaagttctca
+            tcctacaaatcaaacttacaggatattttcagagtcaagtgctctgttaacggacagttg
+            agacaagatggtggtactaacctcatgttgcacccactccataaaatactgcaacacata
+            tctaccatgatatctctggaaccgggtgatatcattttgactggtacacctgcaggtgta
+            ggcgagttaaagcctggtgaccgtgttcactgtgagctattgcagaataatgacaatatt
+            gtcgacatgaacttcgaatgtgaaaatcggccgggaccatatgaatttagagaaacataa
+///

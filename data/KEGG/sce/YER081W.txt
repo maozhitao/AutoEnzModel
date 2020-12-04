@@ -1,0 +1,80 @@
+ENTRY       YER081W           CDS       T00005
+NAME        SER3
+DEFINITION  (RefSeq) phosphoglycerate dehydrogenase SER3
+ORTHOLOGY   K00058  D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00260  Glycine, serine and threonine metabolism
+            sce00270  Cysteine and methionine metabolism
+            sce00680  Methane metabolism
+            sce01100  Metabolic pathways
+            sce01110  Biosynthesis of secondary metabolites
+            sce01200  Carbon metabolism
+            sce01230  Biosynthesis of amino acids
+MODULE      sce_M00020  Serine biosynthesis, glycerate-3P => serine
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00680 Methane metabolism
+                YER081W (SER3)
+              09105 Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                YER081W (SER3)
+               00270 Cysteine and methionine metabolism
+                YER081W (SER3)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YER081W (SER3)
+            Enzymes [BR:sce01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.95  phosphoglycerate dehydrogenase
+                 YER081W (SER3)
+                1.1.1.399  2-oxoglutarate reductase
+                 YER081W (SER3)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               YER081W (SER3)
+POSITION    V:322686..324095
+MOTIF       Pfam: 2-Hacid_dh_C 2-Hacid_dh NAD_binding_2 AdoHcyase_NAD ACT DUF262 XdhC_C
+DBLINKS     NCBI-GeneID: 856814
+            NCBI-ProteinID: NP_011004
+            SGD: S000000883
+            UniProt: P40054
+AASEQ       469
+            MTSIDINNLQNTFQQAMNMSGSPGAVCTSPTQSFMNTVPQRLNAVKHPKILKPFSTGDMK
+            ILLLENVNQTAITIFEEQGYQVEFYKSSLPEEELIEKIKDVHAIGIRSKTRLTSNVLQHA
+            KNLVCIGCFCIGTNQVDLDYATSRGIAVFNSPFSNSRSVAELVIAEIISLARQLGDRSIE
+            LHTGTWNKVAARCWEVRGKTLGIIGYGHIGSQLSVLAEAMGLHVLYYDIVTIMALGTARQ
+            VSTLDELLNKSDFVTLHVPATPETEKMLSAPQFAAMKDGAYVINASRGTVVDIPSLIQAV
+            KANKIAGAALDVYPHEPAKNGEGSFNDELNSWTSELVSLPNIILTPHIGGSTEEAQSSIG
+            IEVATALSKYINEGNSVGSVNFPEVALKSLSYDQENTVRVLYIHQNVPGVLKTVNDILSN
+            HNIEKQFSDSNGEIAYLMADISSVDQSDIKDIYEQLNQTSAKISIRLLY
+NTSEQ       1410
+            atgacaagcattgacattaacaacttacaaaatacctttcaacaagctatgaatatgagc
+            ggctccccaggcgctgtttgtacttcacctacgcaatctttcatgaataccgttccacag
+            cgcttgaatgctgtaaagcacccaaaaattttgaagcctttctcaacgggtgatatgaag
+            attttactattagaaaacgttaatcaaactgctattacaatcttcgaagagcaaggttac
+            caagtcgaattctataaatcttcattgcccgaggaagagttgatcgaaaagatcaaggac
+            gttcatgctattggtatcagatcaaagactagattaacttcaaatgtcttacaacatgcg
+            aagaatctggtttgtattggttgtttctgtatcggtaccaaccaagttgacttagactac
+            gctaccagcagaggtattgctgttttcaactcgcctttctccaactcaagatcagtagca
+            gaattggtcatcgctgaaatcattagtttagcaagacaactaggtgatagatctatcgaa
+            ttacataccggtacatggaataaggttgctgctagatgttgggaggtaagaggaaaaact
+            cttggtattattgggtacggtcacattggttcccaattatcagttcttgcagaagctatg
+            ggtttgcatgtgttgtactacgatattgtaactatcatggccttgggtactgccagacaa
+            gtttctacattagatgaattgttgaataaatctgattttgtgacactacatgtaccagct
+            actcctgaaactgaaaaaatgttatctgccccacaatttgctgctatgaaggatggcgct
+            tatgttattaatgcttcaagaggtactgtcgtggacattccatctttgatccaagccgtg
+            aaagccaacaaaattgcaggtgctgctttggatgtttatccacatgaaccagctaagaac
+            ggtgaaggttcatttaacgatgagctaaatagctggacttctgaattagtttcattacca
+            aatatcatcttgacaccacacattggtggctctaccgaagaagcccaaagctcaatcggt
+            attgaagtggctaccgcattgtccaaatacatcaatgaaggtaactctgtcggttcagtc
+            aacttcccagaagtggcattgaaatcattgtcttacgaccaagagaacactgtgcgtgtg
+            ttatacattcaccaaaatgtaccaggtgttttgaagaccgtcaatgatattttatcgaac
+            cataacatcgaaaagcaattttccgattcaaatggtgaaattgcttatttaatggctgat
+            atctcttctgttgaccaaagcgatattaaagatatttatgaacaactaaatcaaacctct
+            gctaagatctcaattagattgctatattaa
+///

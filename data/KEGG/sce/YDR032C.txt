@@ -1,0 +1,43 @@
+ENTRY       YDR032C           CDS       T00005
+NAME        PST2
+DEFINITION  (RefSeq) flavodoxin-like fold family protein
+ORTHOLOGY   K03809  NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00130  Ubiquinone and other terpenoid-quinone biosynthesis
+            sce01100  Metabolic pathways
+            sce01110  Biosynthesis of secondary metabolites
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00130 Ubiquinone and other terpenoid-quinone biosynthesis
+                YDR032C (PST2)
+            Enzymes [BR:sce01000]
+             1. Oxidoreductases
+              1.6  Acting on NADH or NADPH
+               1.6.5  With a quinone or similar compound as acceptor
+                1.6.5.2  NAD(P)H dehydrogenase (quinone)
+                 YDR032C (PST2)
+POSITION    IV:complement(504099..504695)
+MOTIF       Pfam: FMN_red Flavodoxin_2 Flavodoxin_1
+DBLINKS     NCBI-GeneID: 851596
+            NCBI-ProteinID: NP_010315
+            SGD: S000002439
+            UniProt: Q12335
+STRUCTURE   PDB: 5MP4
+AASEQ       198
+            MPRVAIIIYTLYGHVAATAEAEKKGIEAAGGSADIYQVEETLSPEVVKALGGAPKPDYPI
+            ATQDTLTEYDAFLFGIPTRFGNFPAQWKAFWDRTGGLWAKGALHGKVAGCFVSTGTGGGN
+            EATIMNSLSTLAHHGIIFVPLGYKNVFAELTNMDEVHGGSPWGAGTIAGSDGSRSPSALE
+            LQVHEIQGKTFYETVAKF
+NTSEQ       597
+            atgccaagagtagctatcatcatttacacactatatggtcacgttgctgccaccgcagag
+            gcagaaaagaagggaattgaagccgctggaggctctgcagacatttatcaagtcgaggaa
+            acgttgtctccagaagttgttaaggcgcttggcggtgctccaaagccagattacccaatt
+            gccactcaagatacgttgacagaatatgatgcctttttgtttggtattccaactagattt
+            ggtaacttccctgctcaatggaaggctttctgggaccgtaccggtgggttgtgggctaag
+            ggtgctttgcatggtaaggtcgctggttgtttcgtctccaccggaactggtggtggtaat
+            gaagccacaattatgaactctttgtctactttggctcatcacggtatcatttttgtccca
+            ttgggttacaagaatgttttcgctgaattgaccaatatggatgaagttcacggtggttca
+            ccatggggtgcgggtaccattgcaggcagtgacggttcaagatctccttccgccttggaa
+            ttacaagtacacgaaattcaaggcaagactttctacgaaaccgttgcaaagttttga
+///

@@ -1,0 +1,44 @@
+ENTRY       YLR287C-A         CDS       T00005
+NAME        RPS30A
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S30A
+ORTHOLOGY   K02983  small subunit ribosomal protein S30e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YLR287C-A (RPS30A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YLR287C-A (RPS30A)
+               04121 Ubiquitin system [BR:sce04121]
+                YLR287C-A (RPS30A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YLR287C-A (RPS30A)
+              Archaea
+                YLR287C-A (RPS30A)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitins and ubiquitin-like proteins
+              Ubiquitin-like proteins (UBLs)
+               YLR287C-A (RPS30A)
+POSITION    XII:complement(join(712537..712725,713156..713158))
+MOTIF       Pfam: Ribosomal_S30
+DBLINKS     NCBI-GeneID: 850994
+            NCBI-ProteinID: NP_013390
+            SGD: S000004278
+            UniProt: P0CX33 P0CX34
+STRUCTURE   PDB: 6FAI 6RBD 6EML 6RBE 5LL6 3J16
+AASEQ       63
+            MAKVHGSLARAGKVKSQTPKVEKTEKPKKPKGRAYKRLLYTRRFVNVTLVNGKRRMNPGP
+            SVQ
+NTSEQ       192
+            atggctaaagttcatggttctctagctcgtgctggtaaagtcaagtctcaaacaccaaag
+            gttgaaaaaaccgaaaagccaaagaagcctaagggtcgtgcttacaaaagattattgtac
+            accagaagattcgttaacgttaccttggttaacggtaagagaagaatgaacccaggtcca
+            tccgtccaataa
+///

@@ -1,0 +1,55 @@
+ENTRY       YJL046W           CDS       T00005
+NAME        AIM22, LIP3, RRG3
+DEFINITION  (RefSeq) putative lipoate--protein ligase
+ORTHOLOGY   K23750  octanoyl-CoA:protein transferase [EC:2.3.1.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00785  Lipoic acid metabolism
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00785 Lipoic acid metabolism
+                YJL046W (AIM22)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.-  
+                 YJL046W (AIM22)
+POSITION    X:352386..353615
+MOTIF       Pfam: BPL_LplA_LipB FBA_2
+DBLINKS     NCBI-GeneID: 853401
+            NCBI-ProteinID: NP_012489
+            SGD: S000003582
+            UniProt: P47051
+AASEQ       409
+            MSMMLSNWALSPRYVGQRNLIHCTTLFHTLTRWAKDADDKYHDINSMYENMFTPSNDNVS
+            ILQDEGKSDYDTTKASSMEEDISAFNKDLYNFYNIGYAKQIMSASQLENIVKAKGRFVIQ
+            SLSTSPYYNLALENYVFKNTPRAKRGPDNCRLLFYINDRCAVIGKNQNLWQEVDLAKLKS
+            KNFELLRRFSGGGTVLHDLGNVNYSYLTSREKFETKFFNKMIIKWLNSLNPELRLDLNER
+            GDIIQDGFKISGSAYKIAGGKAYHHATMLLNADLEQFSGLLEPSLPNNMEWESSGVHSVK
+            SKIKNVGIITPNQFIAVVSERFQKTFKVDGEIPIYYCDEFKSINDEIKDAMNTLQSEQWK
+            YFSGPKFSVKIKDKGLTIKVEKGMIYDCDRNDLIGLEFKGFLENIDSYT
+NTSEQ       1230
+            atgtctatgatgctaagtaattgggcactctcccctcgatatgtgggacagcgaaacctc
+            atacattgcaccactttatttcacacacttacacgatgggcaaaagacgcagacgataaa
+            tatcatgatataaactcaatgtatgaaaacatgtttacaccttcaaatgataacgtttca
+            attttgcaggatgaaggtaaatctgattatgatacgacgaaggccagctctatggaagaa
+            gatatcagtgcttttaataaagacttgtacaatttctataatattggatatgccaaacag
+            atcatgtctgcttcacaattggaaaatatagtaaaggcaaagggcagatttgttatacaa
+            agtttatccaccagtccttattataatttggcccttgaaaactatgttttcaagaataca
+            ccaagagccaaaagaggtcccgataattgcagactgttattttacatcaatgataggtgc
+            gccgttataggcaaaaaccaaaatctgtggcaggaagtagatcttgctaagctgaagagt
+            aagaatttcgaactacttagaagattttctggaggtggcactgtactgcatgatttgggc
+            aatgttaattattcatatttaacatcaagggagaaattcgaaacaaagtttttcaacaaa
+            atgataattaagtggttaaattcattgaatcccgaactaagactagatttgaatgagaga
+            ggagatattattcaggacgggtttaaaattagtggcagtgcttataaaattgccggtggc
+            aaagcataccatcatgcaacgatgttgcttaatgcggatttagaacagtttagcggctta
+            ttagaaccctcactaccgaacaatatggaatgggagtcaagtggagttcatagtgtaaaa
+            tcaaaaatcaaaaatgttggtataattactcctaatcagttcattgcagtggtatccgag
+            cgttttcagaaaacattcaaagttgacggcgaaatacctatatattactgtgacgagttt
+            aaatctataaacgatgagattaaagatgctatgaacaccttacagagcgaacaatggaaa
+            tatttctcggggcctaaattttcagtgaagattaaagataaaggcttaacaattaaagtc
+            gaaaagggcatgatttatgattgtgatagaaatgatttaatcggcttggaattcaaagga
+            tttttggagaatattgacagttacacataa
+///

@@ -1,0 +1,77 @@
+ENTRY       YBL024W           CDS       T00005
+NAME        NCL1, TRM4
+DEFINITION  (RefSeq) tRNA (cytosine-C5-)-methyltransferase
+ORTHOLOGY   K15334  multisite-specific tRNA:(cytosine-C5)-methyltransferase [EC:2.1.1.202]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YBL024W (NCL1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.202  multisite-specific tRNA:(cytosine-C5)-methyltransferase
+                 YBL024W (NCL1)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              tRNA modification factors
+               Methyltransferases
+                YBL024W (NCL1)
+POSITION    II:172534..174588
+MOTIF       Pfam: Methyltr_RsmB-F FtsJ
+DBLINKS     NCBI-GeneID: 852257
+            NCBI-ProteinID: NP_009529
+            SGD: S000000120
+            UniProt: P38205
+AASEQ       684
+            MARRKNFKKGNKKTFGARDDSRAQKNWSELVKENEKWEKYYKTLALFPEDQWEEFKKTCQ
+            APLPLTFRITGSRKHAGEVLNLFKERHLPNLTNVEFEGEKIKAPVELPWYPDHLAWQLDV
+            PKTVIRKNEQFAKTQRFLVVENAVGNISRQEAVSMIPPIVLEVKPHHTVLDMCAAPGSKT
+            AQLIEALHKDTDEPSGFVVANDADARRSHMLVHQLKRLNSANLMVVNHDAQFFPRIRLHG
+            NSNNKNDVLKFDRILCDVPCSGDGTMRKNVNVWKDWNTQAGLGLHAVQLNILNRGLHLLK
+            NNGRLVYSTCSLNPIENEAVVAEALRKWGDKIRLVNCDDKLPGLIRSKGVSKWPVYDRNL
+            TEKTKGDEGTLDSFFSPSEEEASKFNLQNCMRVYPHQQNTGGFFITVFEKVEDSTEAATE
+            KLSSETPALESEGPQTKKIKVEEVQKKERLPRDANEEPFVFVDPQHEALKVCWDFYGIDN
+            IFDRNTCLVRNATGEPTRVVYTVCPALKDVIQANDDRLKIIYSGVKLFVSQRSDIECSWR
+            IQSESLPIMKHHMKSNRIVEANLEMLKHLLIESFPNFDDIRSKNIDNDFVEKMTKLSSGC
+            AFIDVSRNDPAKENLFLPVWKGNKCINLMVCKEDTHELLYRIFGIDANAKATPSAEEKEK
+            EKETTESPAETTTGTSTEAPSAAN
+NTSEQ       2055
+            atggctagaagaaagaatttcaaaaaagggaacaagaagacttttggtgctcgtgatgac
+            tcgagagctcaaaaaaactggtctgaactggtaaaggaaaatgaaaaatgggaaaaatac
+            tataagactttagctcttttcccagaagatcaatgggaagaatttaaaaagacatgtcaa
+            gctccacttcctctaacttttagaattacaggttctagaaagcatgccggtgaggtcctg
+            aatttgtttaaagaaagacatctaccaaacttgactaatgttgagtttgaaggtgagaag
+            attaaggcccctgtagaattaccttggtatccagaccatcttgcttggcaattggacgtt
+            cctaagacggttattagaaagaatgaacaattcgcaaaaactcagagatttttagttgtt
+            gaaaatgccgttggtaatatctcaagacaagaagccgtttcaatgattcctccaatcgtt
+            ctagaagtaaaacctcatcacactgttttagatatgtgtgctgctcctggctccaaaact
+            gctcaattaatcgaagccttgcacaaggatacagatgaaccatctggtttcgttgtagct
+            aatgatgccgatgccagaagatctcatatgttggttcaccaattgaagagattgaacagt
+            gccaacttgatggttgtcaaccatgacgcccaattcttcccacgtatcagattacatggc
+            aactcaaataacaagaatgatgttttaaaatttgacagaatcctgtgtgacgttccatgt
+            tctggtgatggtaccatgaggaaaaatgttaatgtttggaaagactggaacacacaagca
+            ggtcttggtttgcatgctgttcagctgaatatattaaacaggggtttgcatcttctaaag
+            aacaacggtagattggtttactcaacctgttctttaaatcctattgaaaatgaagcggtt
+            gttgccgaagcgttaagaaagtggggtgacaagattagattagttaactgtgatgataag
+            cttcctggcctaataagatccaagggtgtatccaaatggcctgtctatgacagaaatttg
+            actgagaaaaccaaaggagacgaaggtacactagatagtttcttttcaccatctgaagaa
+            gaggcatcgaaattcaatttacaaaattgtatgagggtttatcctcaccaacaaaacaca
+            ggcggatttttcattactgttttcgaaaaagtcgaagatagcactgaggcggctacagag
+            aaactatcttctgaaaccccagctctagagtctgaaggacctcaaacaaagaaaataaag
+            gtagaagaagtccaaaagaaagaaagactaccacgtgacgcgaacgaagagccttttgtt
+            ttcgttgatccacagcacgaagctttaaaagtttgttgggatttctacggcatcgataat
+            attttcgacagaaacacttgtttagtgcgtaacgccactggtgaaccaacaagagtggtt
+            tacactgtgtgtccagcattgaaggatgttattcaagcgaatgacgataggttgaagatt
+            atttattctggtgtaaaattgtttgtctctcaaagaagtgatatcgaatgttcatggaga
+            atccaaagtgaatcattgccaataatgaaacaccatatgaaatctaatagaattgttgaa
+            gctaatttagagatgttaaaacacttgttaatcgaatctttccctaactttgacgacatt
+            cgttcgaagaacatcgataatgattttgttgaaaagatgacaaaattaagctctggttgc
+            gcctttattgatgtgtcaagaaatgaccctgccaaagaaaacttattcttgcctgtgtgg
+            aaaggcaacaagtgtatcaatttgatggtttgtaaagaagatactcatgagctattatat
+            aggatctttggtattgatgcgaatgccaaggctactccaagcgctgaagaaaaagaaaaa
+            gaaaaagaaacgactgaatctcccgcagaaactactaccggaacctctactgaagctcct
+            agcgctgctaattga
+///

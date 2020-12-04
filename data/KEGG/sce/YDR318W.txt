@@ -1,0 +1,54 @@
+ENTRY       YDR318W           CDS       T00005
+NAME        MCM21, CTF5
+DEFINITION  (RefSeq) Mcm21p
+ORTHOLOGY   K11552  central kinetochore subunit Mal2/MCM21
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YDR318W (MCM21)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Centromeric chromatin formation proteins
+               Kinetochore proteins
+                Mis6 complex
+                 YDR318W (MCM21)
+                COMA complex
+                 YDR318W (MCM21)
+POSITION    IV:join(1103758..1103809,1103893..1104947)
+MOTIF       Pfam: CENP-O JIP_LZII AAA_13 APG6_N Laminin_II DivIC Ax_dynein_light ABC_tran_CTD Atg14 FlaC_arch DivIVA
+DBLINKS     NCBI-GeneID: 851916
+            NCBI-ProteinID: NP_010604
+            SGD: S000002726
+            UniProt: Q06675
+STRUCTURE   PDB: 6QLF 6QLE 6QLD 6NUW
+AASEQ       368
+            MSRIDDLQQDIESLLSEINSLEESREKLKAKIKDKRKNEESANPIVQEFEDLFDQFPQLN
+            NFLFNEHPELEETDDKDISRAQADIPATPIPYEPKKRAKLENEEILPEQEWVLKTQPMVQ
+            HQMFDPGVADLLDTDILTSPSKRKRKLKIDDISTSDRSELEDYIVLENVYRMFGITFFPL
+            VDPIDLKIKDASGEIFVDREMLGIRLEVFSERTSQFEKPHYVLLKKRIKSNSWFLFKHTI
+            PSFIDVQGIFDDTNGGLVISHDDAYLFAKRVFLQLVEVQKRRQIFKDLEAKKIIHDLDLD
+            LESSMVSFFVKDIKVELFVKQNEIVSCSILDDIHDFSQNNKSKWEIALLGSLDDLELKLN
+            HSFATIFK
+NTSEQ       1107
+            atgagtagaatcgatgatttacagcaggacattgaatctttactcagtgaaatcaattca
+            ttagaagaaagtcgtgagaagctcaaagcgaagataaaagataaaagaaaaaatgaggag
+            agcgctaatcctatagtacaagaatttgaagatctattcgatcaattcccacagttgaat
+            aattttttatttaatgagcatccagaattggaagagacagatgacaaggacatatcaagg
+            gcgcaagcggatataccagcaacgccaataccgtatgaaccaaagaaaagagctaagctg
+            gagaatgaggaaattttaccagaacaagaatgggttttaaagacccagccaatggttcag
+            catcaaatgtttgatcctggggtggcagatttattggatacagacattctaacgtcacct
+            tcaaaaagaaagcgaaaactaaaaatagacgatattagtacaagtgatagaagtgagttg
+            gaagattatattgtcctggaaaatgtttatagaatgtttggtataacatttttccctctt
+            gtggaccctattgaccttaagataaaagatgctagcggtgaaatatttgttgatagagaa
+            atgctgggaatacgactggaagtcttcagcgaacggacatcccaatttgaaaaacctcac
+            tatgtattgttgaaaaagaggatcaaatcgaatagttggttcctgttcaagcatacaatc
+            ccgagtttcattgatgtccaaggtatatttgatgacaccaatgggggactagtgatatct
+            catgatgacgcctatttatttgctaaaagagtcttcctgcaacttgtggaagtacagaaa
+            agacgacagatttttaaggacttagaagctaagaagataatccacgacttagatttagat
+            ttagaatcttcaatggtttcgttttttgtgaaggatattaaagtcgagttgtttgtaaaa
+            caaaatgaaatagtttcatgttcaatattggacgatattcatgattttagtcaaaataat
+            aaaagtaaatgggaaattgcattgctcggttctttggatgatttggaattaaaattaaac
+            cattctttcgcgacaatattcaagtga
+///

@@ -1,0 +1,62 @@
+ENTRY       YDR075W           CDS       T00005
+NAME        PPH3
+DEFINITION  (RefSeq) phosphoprotein phosphatase PP4 catalytic subunit PPH3
+ORTHOLOGY   K15423  serine/threonine-protein phosphatase 4 catalytic subunit [EC:3.1.3.16]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01009 Protein phosphatases and associated proteins [BR:sce01009]
+                YDR075W (PPH3)
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YDR075W (PPH3)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.16  protein-serine/threonine phosphatase
+                 YDR075W (PPH3)
+            Protein phosphatases and associated proteins [BR:sce01009]
+             Protein serine/threonine phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-4
+                Catalytic subunits
+                 YDR075W (PPH3)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                Protein phosphatase 4
+                 YDR075W (PPH3)
+POSITION    IV:597156..598082
+MOTIF       Pfam: Metallophos Metallophos_2 8TM_micro
+DBLINKS     NCBI-GeneID: 851647
+            NCBI-ProteinID: NP_010360
+            SGD: S000002482
+            UniProt: P32345
+AASEQ       308
+            MMDLDKIIASLRDGKHIPEETVFRLCLNSQELLMNEGNVTQVDTPVTICGDIHGQLHDLL
+            TLFEKSGGVEKTRYIFLGDFVDRGFYSLESFLLLLCYKLRYPDRITLIRGNHETRQITKV
+            YGFYDEVVRKYGNSNVWRYCCEVFDYLSLGAIINNSIFCVHGGLSPDMTTVDEIRTIDRK
+            QEVPHEGAMCDLLWSDPEDVDTWSLSPRGAGFLFGKREVDQFLEKNNVELIARAHQLVME
+            GYKEMFDGGLVTVWSAPNYCYRCGNVAAVLKIDDDLNREYTIFEAVQAQNEVGNAIIPTK
+            KSQMDYFL
+NTSEQ       927
+            atgatggacttagataagattatagcatcactgagagacggaaaacatattcctgaagaa
+            accgtttttaggctatgtttaaattcacaggaactattaatgaatgaaggcaatgtaaca
+            caagtcgatacaccggttacaatatgcggtgatatacatggccaattacacgatctacta
+            acgctcttcgaaaagagtggtggtgtagagaaaacaaggtatattttcttgggcgatttt
+            gtggataggggattttactcattggagagttttttacttttactatgttacaaattaaga
+            tatcctgataggattactttaattagaggcaatcacgaaacccggcaaattactaaagta
+            tacggattttacgatgaagtagtaagaaaatatggtaatagtaacgtatggaggtactgc
+            tgtgaagtttttgattatttatcattgggggcaataataaacaatagcatattctgtgtt
+            catggtggattatctccggatatgaccacggttgatgaaatacgaacaatagacaggaaa
+            caagaagttccacatgaaggtgctatgtgtgacttattatggagcgaccccgaagacgtt
+            gacacatggtcattatcaccaagaggtgctggatttcttttcggtaaaagagaagttgat
+            caattcttagagaaaaacaacgttgagttaattgctagagctcatcagttagtgatggaa
+            ggttacaaagaaatgttcgacggtggattagtgacagtctggtcggcaccgaattactgt
+            tatcgttgtggtaatgtagcagctgtattgaagatagacgacgatttgaatcgtgaatat
+            acaatttttgaagctgttcaggcacaaaatgaagtcggaaatgctataattccaaccaaa
+            aaatctcaaatggactatttcttataa
+///

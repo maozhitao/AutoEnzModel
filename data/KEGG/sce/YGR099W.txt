@@ -1,0 +1,84 @@
+ENTRY       YGR099W           CDS       T00005
+NAME        TEL2
+DEFINITION  (RefSeq) Tel2p
+ORTHOLOGY   K11137  telomere length regulation protein
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YGR099W (TEL2)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YGR099W (TEL2)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Termination Factors
+               Other telomere regulation proteins
+                Others
+                 YGR099W (TEL2)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              DSBR (double strand breaks repair)
+               FA (Fanconi anemia) pathway
+                Other FA pathway factors
+                 YGR099W (TEL2)
+              Check point factors
+               Triple T complex
+                YGR099W (TEL2)
+POSITION    VII:687899..689965
+MOTIF       Pfam: Telomere_reg-2
+DBLINKS     NCBI-GeneID: 852991
+            NCBI-ProteinID: NP_011613
+            SGD: S000003331
+            UniProt: P53038
+STRUCTURE   PDB: 3O4Z
+AASEQ       688
+            MVLETLKQGLDSSQIHEALIQLDSYPREPVDLDASMVLIKFVIPVYPSLPERSKVILRRL
+            ASKSFTFLCQIVTFSRTISGRDGLQEIRIYQEILEDIISFEPGCLTFYLKASTTSKADRD
+            SIKALFFGSKLFNVLANRIDMAKYLGYLRLQWKFLLESNETDPPGFLGEWLVSSFLLNPV
+            LAADMLLGELFLLKESYFFSFQKIISASSLIDQKRLIAKFLLPYIQVIVTLENLNDVRKI
+            LRRFDLDKIISLSVLFEIQSLPLKEVIVRLMSNHSSTKFVSALVSKFADFTDEEVDTKTC
+            ELLVLFAVHNLNHSQREEIAHDERFLNGVTKHLGSNEREARERAMFIAKLLSGGHLKYES
+            DFKINIPNVKFESNSDDKIIDFQSLKNPSICNTQTDVGKDKITEVSGHVQSLTLDCSDSD
+            DEDENDEREIVKRIVFLKDLMKEYEKTGESRKAPLIPLLKQTVKLIRQKADFQLEVGYYA
+            QGILSSIVCLNNEFDEPLFEQWRINALTSILVVLPEKVNGAINILFNSELSLQQRMSLLS
+            ALGLSARELRGLDDPTIVKPKFDFPTNRLPWDDQSHHNSRLVEVQESTSMIKKTKTVWKS
+            RKLGKDREKGTQNRFRKYAGLFFYPLAHGWLNGIDVGTYNQLFKSHYLTTLRIIYSCANP
+            VHDFESMTELMNHIISSAIEEGISLNKG
+NTSEQ       2067
+            atggttttagaaacgctgaaacaagggcttgacagcagtcaaatacatgaagctttaata
+            caactagattcctatcctcgcgaaccggtggatctagatgcctcgatggttctcataaaa
+            ttcgtaattccagtttatccatcactaccagaaagatcgaaggtgatattgagacggcta
+            gcttctaaatcgtttacatttttatgccaaattgtcaccttctcaaggacaataagtggc
+            cgcgatggactgcaagagatacgcatataccaagaaattttagaagacatcatcagtttt
+            gaaccgggatgtttgactttttatttaaaggcaagcactactagcaaagcagaccgtgat
+            agcattaaggcccttttctttgggagcaagttatttaatgtgttggccaaccgaattgat
+            atggcgaaatatttgggataccttcggcttcagtggaaatttctacttgagagtaatgaa
+            acagatccacctgggtttttaggggaatggttagtttcatcatttttgcttaacccagtg
+            ctagcggcagatatgttattaggcgaattatttttattgaaagagtcgtatttcttttct
+            tttcagaaaatcatatctgctagtagtctgatagatcaaaagaggctgattgctaagttt
+            ttattaccatatattcaagttatcgtgactttagaaaatttgaacgatgttaggaaaatt
+            ctgcggcggtttgatctcgataaaatcataagtctgtccgtattatttgaaatacagtcg
+            ctgccattgaaggaagtgatagtacgtctgatgagcaaccactcttccacgaagtttgtt
+            agcgctttggtaagtaaatttgctgattttacagatgaggaagtagacacaaagacatgt
+            gaattgcttgtactctttgcagtgcacaatctcaatcattcccagagagaggaaatagca
+            cacgatgagcggtttttgaatggcgtgaccaaacatttaggtagcaatgaacgtgaggca
+            agggagcgtgcgatgtttattgccaagcttttatcaggcggtcatctgaagtacgaaagt
+            gattttaaaatcaatataccgaatgtcaaattcgaaagcaatagcgatgataaaatcatt
+            gatttccaatctttaaaaaatccatccatatgcaatacccaaactgatgtgggtaaggat
+            aagattactgaggtctcgggtcatgttcaaagccttacattggactgcagtgatagcgat
+            gatgaagatgagaacgatgagcgggagattgttaaacgaattgtatttttaaaagattta
+            atgaaagaatacgaaaaaactggggaatctcgaaaagctccattgataccacttctgaag
+            caaacagtgaaattgatacggcaaaaggcggattttcagttagaggttggctattatgca
+            caaggtattctgtcaagcattgtgtgcttgaataatgaatttgatgaaccgcttttcgag
+            cagtggagaataaacgctctaacaagcatactggtcgtccttccagagaaggtgaatggc
+            gctataaatattctattcaattcagaactgtcgttacagcaaaggatgtcactattgtcg
+            gctctgggtctttctgcaagagagttgagagggcttgatgatcctactattgtcaagccc
+            aagtttgattttccaacaaatcgtttaccgtgggatgatcaaagccatcataatagtagg
+            cttgttgaagttcaagagtcaacaagtatgataaagaagacgaaaacagtatggaaatct
+            agaaaactaggcaaggatcgagaaaaaggaacgcaaaaccgctttagaaaatatgctggt
+            ctattcttctatccgctagcacacggttggcttaatggaattgacgtaggcacatacaat
+            cagctttttaagtcgcattatttaacaacactgcgtatcatatactcttgcgctaacccg
+            gtccacgattttgaatccatgacggagttgatgaatcatataattagttcagccatagag
+            gaaggaatttctctcaataaaggttag
+///

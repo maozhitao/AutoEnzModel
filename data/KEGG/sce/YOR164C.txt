@@ -1,0 +1,54 @@
+ENTRY       YOR164C           CDS       T00005
+NAME        GET4, ENV8
+DEFINITION  (RefSeq) Get4p
+ORTHOLOGY   K23387  golgi to ER traffic protein 4
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YOR164C (GET4)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YOR164C (GET4)
+            Membrane trafficking [BR:sce04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Retrieval pathways
+               Golgi to ER traffic proteins (GET)
+                YOR164C (GET4)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              Check point factors
+               BAG6-UBL4A-GET4 complex
+                YOR164C (GET4)
+POSITION    XV:complement(643394..644332)
+MOTIF       Pfam: DUF410 DUF2802
+DBLINKS     NCBI-GeneID: 854335
+            NCBI-ProteinID: NP_014807
+            SGD: S000005690
+            UniProt: Q12125
+STRUCTURE   PDB: 2WPV 5BW8 3LKU 4PWX 5BWK
+AASEQ       312
+            MVPAESNAVQAKLAKTLQRFENKIKAGDYYEAHQTLRTIANRYVRSKSYEHAIELISQGA
+            LSFLKAKQGGSGTDLIFYLLEVYDLAEVKVDDISVARLVRLIAELDPSEPNLKDVITGMN
+            NWSIKFSEYKFGDPYLHNTIGSKLLEGDFVYEAERYFMLGTHDSMIKYVDLLWDWLCQVD
+            DIEDSTVAEFFSRLVFNYLFISNISFAHESKDIFLERFIEKFHPKYEKIDKNGYEIVFFE
+            DYSDLNFLQLLLITCQTKDKSYFLNLKNHYLDFSQAYKSELEFLGQEYFNIVAPKQTNFL
+            QDMMSGFLGGSK
+NTSEQ       939
+            atggttcctgctgaatctaatgctgtacaagcgaaactcgctaaaaccttacaaagattc
+            gaaaataagatcaaagctggagattattacgaagcgcatcaaacgttgagaactattgct
+            aatagatatgttagaagtaaatcatacgagcatgccatagaactaattagtcaaggggcc
+            ctttcatttttaaaggcgaagcagggcggttcaggcacggatttgatcttctatctttta
+            gaagtttatgatttagcggaagttaaagttgatgacatctcagttgctagattggttaga
+            ttaatagccgaattggatcctagcgagcccaatttaaaggacgttattactggtatgaac
+            aattggtctatcaaatttagtgaatacaaatttggagatccttacttgcacaacaccatt
+            ggtagcaaactattagagggagatttcgtttatgaagctgagagatattttatgttaggt
+            acacatgattcaatgatcaaatatgtcgatttactatgggactggttatgccaagttgat
+            gatatcgaagatagcacggtggctgagttcttcagcagattggttttcaactatttattc
+            atctctaacatatcatttgcacatgaatcaaaagacatttttttggaaagatttattgag
+            aaatttcaccccaagtacgagaaaattgataaaaatggttatgaaatagttttttttgaa
+            gattattccgacctaaattttttgcaattgttgctaattacctgtcagactaaggataag
+            agctatttcttgaatttaaagaaccattatttagatttttctcaagcttacaaaagtgag
+            ttagaatttttgggccaggaatatttcaatattgttgctcctaaacaaacgaatttccta
+            caagacatgatgtcgggattcctgggcggatcgaagtga
+///

@@ -1,0 +1,54 @@
+ENTRY       YKR062W           CDS       T00005
+NAME        TFA2
+DEFINITION  (RefSeq) transcription factor TFIIE subunit TFA2
+ORTHOLOGY   K03137  transcription initiation factor TFIIE subunit beta
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03022  Basal transcription factors
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03022 Basal transcription factors
+                YKR062W (TFA2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:sce03021]
+                YKR062W (TFA2)
+            Transcription machinery [BR:sce03021]
+             Eukaryotic type
+              RNA polymerase II system
+               Basal transcription factors
+                TFIIE
+                 YKR062W (TFA2)
+POSITION    XI:559666..560652
+MOTIF       Pfam: TFA2_Winged_2 TFIIE_beta HTH_15
+DBLINKS     NCBI-GeneID: 853936
+            NCBI-ProteinID: NP_012988
+            SGD: S000001770
+            UniProt: P36145
+STRUCTURE   PDB: 5FYW 5OQJ 6GYL 5OQM 5FMF 6GYM 5FZ5 5SVA
+AASEQ       328
+            MSKNRDPLLANLNAFKSKVKSAPVIAPAKVGQKKTNDTVITIDGNTRKRTASERAQENTL
+            NSAKNPVLVDIKKEAGSNSSNAISLDDDDDDEDFGSSPSKKVRPGSIAAAALQANQTDIS
+            KSHDSSKLLWATEYIQKKGKPVLVNELLDYLSMKKDDKVIELLKKLDRIEFDPKKGTFKY
+            LSTYDVHSPSELLKLLRSQVTFKGISCKDLKDGWPQCDETINQLEEDSKILVLRTKKDKT
+            PRYVWYNSGGNLKCIDEEFVKMWENVQLPQFAELPRKLQDLGLKPASVDPATIKRQTKRV
+            EVKKKRQRKGKITNTHMTGILKDYSHRV
+NTSEQ       987
+            atgagtaaaaacagggaccctctactggctaatttgaacgctttcaaaagcaaagtgaag
+            tctgccccggtgatcgcacccgctaaagttggacagaagaagaccaatgacacagtgatt
+            actatagatggaaacactaggaagaggacggcctccgaacgtgcgcaagaaaacactttg
+            aactctgcgaaaaatcctgtgttagtggatatcaagaaagaagctgggagcaatagctct
+            aatgctatttcattagatgacgacgatgacgacgaagattttggtagctctccttcaaaa
+            aaagtaaggcctggctctattgctgcagccgctttacaagcaaatcaaacagatatttcc
+            aagagtcacgattcttcaaagttgctttgggcgactgaatacattcaaaagaaaggtaag
+            cccgttttggtgaatgagttattggactacttgtcaatgaaaaaagatgacaaggttatt
+            gagcttttaaaaaaattagatagaatagagtttgaccccaagaaggggactttcaaatac
+            ctttccacctacgatgtccattccccttcggaactgctgaagttgttacgttcacaagta
+            acattcaaaggtatttcctgcaaagacttgaaagacggttggccacaatgcgatgaaacg
+            attaaccaactggaggaagacagcaaaattttggtgttaagaactaaaaaggataaaact
+            ccaagatacgtttggtataacagcggtggtaacttgaaatgtattgacgaggagtttgtt
+            aaaatgtgggaaaatgtgcaattaccgcaatttgcagaattgccaagaaagctgcaagat
+            ttaggtctaaagcctgctagtgtcgatcctgctactatcaaaagacaaacaaagagagtt
+            gaagttaaaaagaagagacaaagaaagggtaagattactaacactcatatgaccggtatc
+            ttgaaagattattcccatagagtatga
+///

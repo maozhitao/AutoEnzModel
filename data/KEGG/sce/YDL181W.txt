@@ -1,0 +1,32 @@
+ENTRY       YDL181W           CDS       T00005
+NAME        INH1
+DEFINITION  (RefSeq) ATPase inhibitor
+ORTHOLOGY   K22255  ATPase inhibitor, mitochondrial
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YDL181W (INH1)
+            Membrane trafficking [BR:sce04131]
+             Autophagy
+              Mitophagy
+               Other mitophagy associated  proteins
+                YDL181W (INH1)
+POSITION    IV:135179..135436
+MOTIF       Pfam: IATP Fib_alpha TRAF_BIRC3_bd DivIC C-C_Bond_Lyase Cnl2_NKP2 DUF4140 XhlA Matrilin_ccoil
+DBLINKS     NCBI-GeneID: 851347
+            NCBI-ProteinID: NP_010100
+            SGD: S000002340
+            UniProt: P01097
+STRUCTURE   PDB: 3ZIA
+AASEQ       85
+            MLPRSALARSLQLQRGVAARFYSEGSTGTPRGSGSEDSFVKRERATEDFFVRQREKEQLR
+            HLKEQLEKQRKKIDSLENKIDSMTK
+NTSEQ       258
+            atgttaccacgttcagcattagcacgctcattgcaattacagcgcggtgtggccgcaagg
+            ttctactctgaaggttctaccggcaccccaagagggtcaggctcagaggattcgtttgtt
+            aaaagggaaagggccacggaagacttcttcgttaggcagcgtgagaaggagcaactacgc
+            catttgaaagaacaactggaaaaacaacgaaagaagattgattctttggaaaataaaatt
+            gactcgatgaccaaataa
+///

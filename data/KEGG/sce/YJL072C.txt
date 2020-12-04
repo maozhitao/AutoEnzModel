@@ -1,0 +1,40 @@
+ENTRY       YJL072C           CDS       T00005
+NAME        PSF2, CDC102
+DEFINITION  (RefSeq) DNA replication protein PSF2
+ORTHOLOGY   K10733  GINS complex subunit 2
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YJL072C (PSF2)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Initiation Factors
+               GINS complex
+                YJL072C (PSF2)
+POSITION    X:complement(305221..305862)
+MOTIF       Pfam: Sld5
+DBLINKS     NCBI-GeneID: 853373
+            NCBI-ProteinID: NP_012463
+            SGD: S000003608
+            UniProt: P40359
+STRUCTURE   PDB: 3JC6 3JC5 3JC7 5U8T 6HV9 5U8S
+AASEQ       213
+            MSLPAHLQQTFSPEEIQFIVENEPIKIFPRITTRQKIRGDDRGTGNHTRWQLITTDDKAL
+            NNMVAMRSTEVVLWIALLLKQQSKCSIVAPQWLTTKELDRKIQYEKTHPDRFSELPWNWL
+            VLARILFNKAKDDFHDPIHELRGKIQDLREIRQIKVLKGLKYLNESHLQLDNLSLLEINE
+            LRPFITEIMDKLREIHTASLTAGTENDEEEFNI
+NTSEQ       642
+            atgtcactaccggcacatttgcagcagactttctcaccagaagaaatacagttcattgtg
+            gaaaacgagccaataaagatttttcccagaataacaacacgccaaaaaattcgtggcgat
+            gatagaggaactggaaaccacacccgctggcaacttattactacagatgacaaagcttta
+            aataatatggtagccatgcgttctacagaagtggttctttggatcgctctattactgaag
+            caacaatccaagtgcagtattgtagcaccacagtggttaacgacgaaagagcttgataga
+            aaaatacaatatgagaaaactcatccggataggtttagtgagttgccgtggaactggctt
+            gtcttggcacgtatacttttcaataaagctaaggatgattttcatgaccccattcacgaa
+            ttacgtggtaaaatacaagacttaagggaaataaggcagatcaaagtgttaaaaggcctt
+            aagtatttgaatgaatctcatttacaattggataatttaagtctattagaaatcaatgag
+            ttgaggccgttcattactgaaatcatggataaactgcgagaaattcacacagcatctctt
+            accgctggtactgaaaatgatgaagaagaattcaatatttaa
+///

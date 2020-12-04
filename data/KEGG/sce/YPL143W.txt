@@ -1,0 +1,40 @@
+ENTRY       YPL143W           CDS       T00005
+NAME        RPL33A, RPL37A
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L33A
+ORTHOLOGY   K02917  large subunit ribosomal protein L35Ae
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YPL143W (RPL33A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YPL143W (RPL33A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YPL143W (RPL33A)
+              Archaea
+                YPL143W (RPL33A)
+POSITION    XVI:join(282122..282140,282666..282970)
+MOTIF       Pfam: Ribosomal_L35Ae
+DBLINKS     NCBI-GeneID: 855960
+            NCBI-ProteinID: NP_015182
+            SGD: S000006064
+            UniProt: P05744
+STRUCTURE   PDB: 6EM3 5Z3G 6C0F 6EM4 6EM5 6CB1
+AASEQ       107
+            MAESHRLYVKGKHLSYQRSKRVNNPNVSLIKIEGVATPQDAQFYLGKRIAYVYRASKEVR
+            GSKIRVMWGKVTRTHGNSGVVRATFRNNLPAKTFGASVRIFLYPSNI
+NTSEQ       324
+            atggctgaatcccatagattgtacgtcaaaggtaagcacttatcctaccaaagatccaag
+            agagtcaacaacccaaatgtctctttgatcaagatcgaaggtgtcgctactccacaagat
+            gctcaattttacttgggtaagcgtattgcctacgtctacagagcctccaaggaagtcagg
+            ggttctaagattagagttatgtggggtaaggttaccagaactcacggtaactctggtgtc
+            gttagagccaccttcagaaacaatttgccagccaagaccttcggtgcttctgttagaatc
+            ttcttgtacccatccaacatctaa
+///

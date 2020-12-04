@@ -1,0 +1,88 @@
+ENTRY       YLR069C           CDS       T00005
+NAME        MEF1
+DEFINITION  (RefSeq) Mef1p
+ORTHOLOGY   K02355  elongation factor G
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:sce03012]
+                YLR069C (MEF1)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YLR069C (MEF1)
+            Translation factors [BR:sce03012]
+             Eukaryotic type
+              Elongation factors
+               YLR069C (MEF1)
+             Prokaryotic type
+               YLR069C (MEF1)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Mitochondrial translation factors
+                YLR069C (MEF1)
+             Mitochondrial quality control factors
+              Regulator of mitochondrial biogenesis
+               Ubiquitas transcription factors
+                YLR069C (MEF1)
+POSITION    XII:complement(271630..273915)
+MOTIF       Pfam: GTP_EFTU EFG_IV EFG_III EFG_C GTP_EFTU_D2 RF3_C AvrPtoB_bdg MMR_HSR1
+DBLINKS     NCBI-GeneID: 850758
+            NCBI-ProteinID: NP_013170
+            SGD: S000004059
+            UniProt: P25039
+AASEQ       761
+            MSVQKMMWVPRKMVGGRIPFFTCSKVFSGFSRRSFHESPLARSTYEEEKVLVDEIKQKLT
+            PDDIGRCNKLRNIGISAHIDSGKTTFTERVLYYTKRIKAIHEVRGRDNVGAKMDSMDLER
+            EKGITIQSAATYCSWDKEGKNYHFNLIDTPGHIDFTIEVERALRVLDGAVLVVCAVSGVQ
+            SQTVTVDRQMRRYNVPRVTFINKMDRMGSDPFRAIEQLNSKLKIPAAAVQIPIGSESSLS
+            GVVDLINRVAIYNKGDNGEIIEKGPVPENLKPLMEEKRQLLIETLADVDDEMAEMFLEEK
+            EPTTQQIKDAIRRSTIARSFTPVLMGSALANTGIQPVLDAIVDYLPNPSEVLNTALDVSN
+            NEAKVNLVPAVQQPFVGLAFKLEEGKYGQLTYVRVYQGRLRKGNYITNVKTGKKVKVARL
+            VRMHSSEMEDVDEVGSGEICATFGIDCASGDTFTDGSVQYSMSSMYVPDAVVSLSITPNS
+            KDASNFSKALNRFQKEDPTFRVKFDPESKETIISGMGELHLEIYVERMRREYNVDCVTGK
+            PQVSYRESITIPADFDYTHKKQSGGAGQYGRVIGTLSPVDDITKGNIFETAIVGGRIPDK
+            YLAACGKGFEEVCEKGPLIGHRVLDVKMLINDGAIHAVDSNELSFKTATMSAFRDAFLRA
+            QPVIMEPIMNVSVTSPNEFQGNVIGLLNKLQAVIQDTENGHDEFTLKAECALSTMFGFAT
+            SLRASTQGKGEFSLEFSHYAPTAPHVQKELISEFQKKQAKK
+NTSEQ       2286
+            atgagtgtccagaaaatgatgtgggtgcctcgaaaaatggttggaggtagaatacccttt
+            ttcacatgttcaaaagttttttcaggtttctcgagaaggtcttttcatgagagtccactt
+            gctcgttctacatatgaagaagaaaaagttttggtggatgaaatcaaacaaaaacttact
+            ccagacgatattggaagatgtaataaattgcgtaacataggtatatctgctcatattgac
+            tccggaaaaactactttcactgaacgtgttctgtactatacaaaaagaatcaaagccatt
+            catgaggttcgtggtagggataatgttggagccaagatggattctatggatcttgaaagg
+            gaaaagggtattactattcagtctgccgctacttactgctcttgggataaagagggcaaa
+            aactatcatttcaacttgatcgacactccaggtcatattgatttcactatcgaagtggag
+            cgtgctcttagagtactagacggtgcagttcttgttgtttgtgctgtttcaggtgttcaa
+            tcccaaactgtgaccgtggatcgtcaaatgcgtagatataatgttccaagagtaactttc
+            atcaacaaaatggatcgtatgggttcagatcccttccgtgcaatagaacaacttaattcg
+            aaactaaaaatacctgctgctgctgtacaaattcctatcggatcggaatcaagcttatct
+            ggtgtcgttgatttgattaatagagttgctatttacaacaagggtgataatggtgaaatt
+            atagaaaaagggccagtgcctgaaaatttgaagccattaatggaggaaaaaagacaactt
+            ttgatcgaaacacttgctgatgtggatgatgaaatggcagaaatgtttttggaagaaaag
+            gagcctaccacgcaacaaattaaagatgctattcgcagatctacaattgctaggtctttt
+            acaccagttttgatgggatccgcactggcaaatactggtattcagcccgttttggacgct
+            attgtagactacttacctaatccctctgaagtgttgaatacagctctagatgtgagcaac
+            aacgaagccaaggttaacttagttcctgcggtgcaacagccatttgttggattggcattc
+            aaattggaagaaggcaaatatggtcaattgacttatgttcgcgtatatcaggggcgttta
+            agaaaaggtaattacattacaaatgtaaagactggtaaaaaagtgaaggttgcaagattg
+            gtcaggatgcattctagtgagatggaagatgttgatgaagttggctcaggtgaaatttgc
+            gctacttttggtattgactgtgcttctggagatacattcactgatggtagcgttcaatac
+            tctatgtcatccatgtatgttccagatgctgttgtctcgttatcgattacgccaaattca
+            aaggacgcatcgaatttttcgaaggctttgaacagatttcaaaaggaagaccctacattc
+            agagtgaagttcgatcctgaatctaaagaaacaattatttctgggatgggtgaattgcat
+            ctggagatttacgttgaaagaatgagacgtgaatataatgtggactgtgtcacgggtaaa
+            ccgcaggtttcctatagagaatctatcaccatcccggcagattttgattatacacataaa
+            aaacaatctggtggcgctggtcaatatggtagagttatcggtaccttatctcccgtggat
+            gacattaccaaaggcaacatattcgagaccgctattgttggtggccgtataccggacaag
+            tatttggctgcatgtggtaagggttttgaagaagtatgtgaaaagggaccattgatcggt
+            catcgtgttttggatgttaaaatgctaatcaatgatggtgctattcatgccgtggattct
+            aatgaattatcattcaaaacagctactatgtcagccttccgtgacgccttcctgagggca
+            cagccggtgatcatggaacctatcatgaatgtttcagtaacatcgccaaacgagtttcaa
+            ggtaacgtcatcggtttattgaataaattacaagcagtaatacaggataccgaaaatggt
+            catgatgaatttacattaaaagcagaatgtgccttgagcacgatgttcggtttcgccacc
+            tcattaagagcctcgactcaaggtaaaggtgagttttcattagagtttagtcattacgct
+            ccaacagcgccccatgttcaaaaagaattgatatctgagttccaaaagaagcaagcgaag
+            aaatag
+///

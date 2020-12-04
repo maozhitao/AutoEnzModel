@@ -1,0 +1,52 @@
+ENTRY       YDR510W           CDS       T00005
+NAME        SMT3
+DEFINITION  (RefSeq) SUMO family protein SMT3
+ORTHOLOGY   K12160  small ubiquitin-related modifier
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03013  RNA transport
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03013 RNA transport
+                YDR510W (SMT3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YDR510W (SMT3)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YDR510W (SMT3)
+              09183 Protein families: signaling and cellular processes
+               04812 Cytoskeleton proteins [BR:sce04812]
+                YDR510W (SMT3)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitins and ubiquitin-like proteins
+              Ubiquitin-like proteins (UBLs)
+               YDR510W (SMT3)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial quality control factors
+              Mitochondrial dynamics
+               Fission and Fusion factors
+                YDR510W (SMT3)
+            Cytoskeleton proteins [BR:sce04812]
+             Eukaryotic cytoskeleton proteins
+              Septins
+               Septin associated proteins
+                YDR510W (SMT3)
+POSITION    IV:1469400..1469705
+MOTIF       Pfam: Rad60-SLD ubiquitin SRP9-21 Vasohibin
+DBLINKS     NCBI-GeneID: 852122
+            NCBI-ProteinID: NP_010798
+            SGD: S000002918
+            UniProt: Q12306
+STRUCTURE   PDB: 1EUV 2EKE 5D6J 3QHT 3V60 3V61 3PGE 5JNE 3V62 1L2N
+AASEQ       101
+            MSDSEVNQEAKPEVKPEVKPETHINLKVSDGSSEIFFKIKKTTPLRRLMEAFAKRQGKEM
+            DSLRFLYDGIRIQADQTPEDLDMEDNDIIEAHREQIGGATY
+NTSEQ       306
+            atgtcggactcagaagtcaatcaagaagctaagccagaggtcaagccagaagtcaagcct
+            gagactcacatcaatttaaaggtgtccgatggatcttcagagatcttcttcaagatcaaa
+            aagaccactcctttaagaaggctgatggaagcgttcgctaaaagacagggtaaggaaatg
+            gactccttaagattcttgtacgacggtattagaattcaagctgatcagacccctgaagat
+            ttggacatggaggataacgatattattgaggctcacagagaacagattggtggtgctacg
+            tattag
+///

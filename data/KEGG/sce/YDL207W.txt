@@ -1,0 +1,70 @@
+ENTRY       YDL207W           CDS       T00005
+NAME        GLE1, BRR3, NLE2, RSS1
+DEFINITION  (RefSeq) nucleoporin GLE1
+ORTHOLOGY   K18723  nucleoporin GLE1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03013  RNA transport
+            sce03015  mRNA surveillance pathway
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03013 RNA transport
+                YDL207W (GLE1)
+               03015 mRNA surveillance pathway
+                YDL207W (GLE1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YDL207W (GLE1)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               Transport factors
+                Nuclear pore complex
+                 YDL207W (GLE1)
+POSITION    IV:88248..89864
+MOTIF       Pfam: GLE1 eIF3_subunit MAP7 WDCP MMR1 Borrelia_P83
+DBLINKS     NCBI-GeneID: 851320
+            NCBI-ProteinID: NP_010074
+            SGD: S000002366
+            UniProt: Q12315
+STRUCTURE   PDB: 6B4E 3PEV 3PEU 3RRM 3RRN
+AASEQ       538
+            MRFVFDEVFNSDTDSPEFEETCSTTSSTSSQCPTPEPSPAIKLPSFTKVGTKKLVNESVV
+            ILDPALENALRDLNLQSKLIPINEPIVAASSIIVPHSTNMPLPRASHSSLLDNAKNSNAT
+            APLLEAIEESFQRKMQNLVLANQKEIQSIRENKRRVEEQRKRKEEEERKRKEAEEKAKRE
+            QELLRQKKDEEERKRKEAEAKLAQQKQEEERKKIEEQNEKERQLKKEHEAKLLQQKDKLG
+            KAVTNFDKISKMFWHYKDKIAQIKQDIVLPIKKADVNVRNLLSRHKRKINPKFGQLTNSN
+            QQLFKIQNELTQLINDTKGDSLAYHWILNFIAKAVVHQAETEVRVKPESALPLGKLTLYL
+            LVQFPELQELFMARLVKKCPFVIGFTCEIDTEKGRQNMGWKRNNENKWEDNTSYDERMGG
+            ILSLFAIITRLQLPQEFITTTSHPFPIALSWHILARICNTPLNLITNTHFVILGSWWDAA
+            AVQFLQAYGNQASKLLILIGEELTSRMAEKKYVGAARLRILLEAWQNNNMESFPEMSP
+NTSEQ       1617
+            atgagatttgtgttcgatgaggttttcaattcagatactgattctccagaatttgaggaa
+            acatgttctacaacatcttctacgtcatcgcaatgccctacacctgagccgagcccagca
+            ataaagttaccttcattcacgaaagttggcacgaagaaattggtaaatgagtcggtagtt
+            attttagatcctgctctagaaaacgccttgcgcgatttgaaccttcaatcgaaactgatc
+            cccattaatgagcccattgtagccgcgtcatcgataatagtaccgcattcaaccaatatg
+            ccactaccgagagcatcgcattcgtcattgctagataatgctaagaactcaaatgcgaca
+            gcacccttactcgaggcaatagaagaatcttttcaaaggaaaatgcaaaacttggtgctt
+            gccaatcagaaagaaattcaatctattagagaaaataaacgtcgtgttgaagagcaacgt
+            aagcgaaaagaggaggaagagcgcaaacgtaaggaagctgaggaaaaggccaagcgggag
+            caggaattattacgtcaaaagaaggatgaagaagaacgtaaacgcaaagaagctgaagca
+            aagctagcgcagcagaaacaagaagaagaaaggaagaaaatagaagaacagaatgaaaag
+            gaaagacaattgaaaaaagaacatgaagccaaattattgcagcagaaggataaattgggt
+            aaagcagttacaaactttgataaaatctccaaaatgttttggcattataaagacaaaatt
+            gctcaaataaagcaagacatagttctgcctataaaaaaagctgatgtgaatgtaaggaat
+            ttgctctcacgtcataaaaggaaaattaacccgaaattcggacaattaactaatagcaac
+            cagcaactttttaaaatacagaatgaactaactcaattgataaatgatactaaaggcgac
+            tctctagcatatcattggattttaaactttattgccaaagccgtagtacatcaggcggaa
+            acagaagtcagggtaaaaccagagtctgctctgcccctagggaaattgactttatatttg
+            ttagtccaattcccagagttacaggaattgtttatggcaagacttgtcaagaaatgcccc
+            tttgtgataggattcacgtgtgagattgacacagaaaaaggccgtcaaaacatgggatgg
+            aaaagaaacaacgagaataaatgggaagataacacatcctacgatgagagaatgggcggg
+            atcttatcattatttgccataataacgagattacagttacctcaagaatttatcaccacc
+            acgagtcatcctttccccatcgcattatcgtggcatattttggctagaatatgtaatacg
+            ccactaaatttaataacaaatacccattttgtcatactcggttcgtggtgggatgccgct
+            gccgtacagtttcttcaggcgtatgggaaccaagcctctaaattgctaatcttgattggt
+            gaggaattgacctccagaatggctgaaaagaaatatgtgggtgctgcgagattaagaatt
+            ttattagaggcctggcaaaataataatatggagtcctttccggaaatgtctccttag
+///

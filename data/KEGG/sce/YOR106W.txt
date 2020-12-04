@@ -1,0 +1,55 @@
+ENTRY       YOR106W           CDS       T00005
+NAME        VAM3, PTH1
+DEFINITION  (RefSeq) SNAP receptor VAM3
+ORTHOLOGY   K21155  syntaxin VAM3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04130  SNARE interactions in vesicular transport
+            sce04138  Autophagy - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04130 SNARE interactions in vesicular transport
+                YOR106W (VAM3)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04138 Autophagy - yeast
+                YOR106W (VAM3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YOR106W (VAM3)
+            Membrane trafficking [BR:sce04131]
+             SNARE
+              Syntaxin (Qa)
+               Stx-Endo
+                YOR106W (VAM3)
+POSITION    XV:519121..519972
+MOTIF       Pfam: SNARE Syntaxin_2 Synaptobrevin Prominin Rx_N T2SSF ETRAMP GIT1_C Protamine_P2
+DBLINKS     NCBI-GeneID: 854273
+            NCBI-ProteinID: NP_014749
+            SGD: S000005632
+            UniProt: Q12241
+STRUCTURE   PDB: 1HS7
+AASEQ       283
+            MSFFDIEAQSSKGNSQQEPQFSTNQKTKELSNLIETFAEQSRVLEKECTKIGSKRDSKEL
+            RYKIETELIPNCTSVRDKIESNILIHQNGKLSADFKNLKTKYQSLQQSYNQRKSLFPLKT
+            PISPGTSKERKDIHPRTEAVRQDPESSYISIKVNEQSPLLHNEGQHQLQLQEEQEQQQQG
+            LSQEELDFQTIIHQERSQQIGRIHTAVQEVNAIFHQLGSLVKEQGEQVTTIDENISHLHD
+            NMQNANKQLTRADQHQRDRNKCGKVTLIIIIVVCMVVLLAVLS
+NTSEQ       852
+            atgtcctttttcgacatcgaagcacaatcttcaaagggtaactcccagcaagaaccacaa
+            ttctcaacaaatcaaaaaacgaaggaattaagcaatttaattgagacattcgctgaacaa
+            tcccgcgtgctggaaaaggaatgcaccaaaattggttccaaacgggactccaaagaacta
+            agatacaaaattgaaacagagttaataccgaactgcaccagtgtaagggataaaattgag
+            agcaacatcctcattcaccaaaatggaaagttgtctgctgatttcaagaacctgaaaacg
+            aagtatcaatccctacaacaatcatacaatcaaaggaagagtctgttccctctaaaaacg
+            cctatttcaccaggaacatctaaggaaagaaaagacatccatccgcgaactgaagccgtg
+            cgacaagatccagagtctagttatatttctataaaagtaaacgagcagagtcctttactg
+            cataacgaaggacaacaccaattacagctgcaagaagaacaagaacaacaacagcaagga
+            ttgtcccaagaagaactagattttcaaacaatcattcaccaggaaagatcccaacagata
+            ggacgcattcatacggcggtacaagaagtcaatgctattttccatcagctcggttcatta
+            gtgaaagaacagggagaacaagtaaccaccatagacgagaatatctcgcatttacatgat
+            aacatgcagaatgcaaacaaacaattaaccagagcagaccagcatcagagggaccgtaac
+            aaatgcggtaaggtcaccctaatcattataatagttgtgtgcatggtggtattgcttgct
+            gtattaagttag
+///

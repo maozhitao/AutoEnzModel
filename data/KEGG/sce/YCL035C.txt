@@ -1,0 +1,32 @@
+ENTRY       YCL035C           CDS       T00005
+NAME        GRX1
+DEFINITION  (RefSeq) dithiol glutaredoxin GRX1
+ORTHOLOGY   K03676  glutaredoxin 3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:sce03110]
+                YCL035C (GRX1)
+            Chaperones and folding catalysts [BR:sce03110]
+             Protein folding catalysts
+              Protein disulfide isomerase
+               YCL035C (GRX1)
+POSITION    III:complement(60841..61173)
+MOTIF       Pfam: Glutaredoxin Thioredoxin_3 GST_N_2 Thioredoxin_2
+DBLINKS     NCBI-GeneID: 850322
+            NCBI-ProteinID: NP_009895
+            SGD: S000000540
+            UniProt: P25373
+STRUCTURE   PDB: 6MWS 3C1R 2JAC 3C1S
+AASEQ       110
+            MVSQETIKHVKDLIAENEIFVASKTYCPYCHAALNTLFEKLKVPRSKVLVLQLNDMKEGA
+            DIQAALYEINGQRTVPNIYINGKHIGGNDDLQELRETGELEELLEPILAN
+NTSEQ       333
+            atggtatctcaagaaactatcaagcacgtcaaggaccttattgcagaaaacgagatcttc
+            gtcgcatccaaaacgtactgtccatactgccatgcagccctaaacacgctttttgaaaag
+            ttaaaggttcccaggtccaaagttctggttttgcaattgaatgacatgaaggaaggcgca
+            gacattcaggctgcgttatatgagattaatggccaaagaaccgtgccaaacatctatatt
+            aatggtaaacatattggaggcaacgacgacttgcaggaattgagggagactggtgaattg
+            gaggaattgttagaacctattcttgcaaattaa
+///

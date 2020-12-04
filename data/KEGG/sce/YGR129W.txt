@@ -1,0 +1,48 @@
+ENTRY       YGR129W           CDS       T00005
+NAME        SYF2, NTC31
+DEFINITION  (RefSeq) Syf2p
+ORTHOLOGY   K12868  pre-mRNA-splicing factor SYF2
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YGR129W (SYF2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YGR129W (SYF2)
+            Spliceosome [BR:sce03041]
+             Complex B
+              Other components
+               Prp19-related factors
+                YGR129W (SYF2)
+             Complex C
+                YGR129W (SYF2)
+POSITION    VII:750400..751047
+MOTIF       Pfam: SYF2
+DBLINKS     NCBI-GeneID: 853030
+            NCBI-ProteinID: NP_011645
+            SGD: S000003361
+            UniProt: P53277
+STRUCTURE   PDB: 6J6G 6BK8 5GMK 6J6H 5YLZ 6J6Q 6EXN 5Y88 5MPS 6J6N 5WSG
+                 5MQ0
+AASEQ       215
+            MDFYKLDEKLKELKRKRVDVSIKSRKLADREIQEVSANRKPRVYSMEDVNDADESVGDTE
+            SPEKEKAFHYTVQEYDAWERRHPQGKTGQSQRGGISYDQLAKLSYEKTLRNLATQTQNSS
+            KQDSSADEEDNKNVPKKGRIGKVQKDTKTGKITIADDDKLVNKLAVSLQSESKKRYEARK
+            RQMQNAKTLYGVESFINDKNKQFNEKLSRESKGSE
+NTSEQ       648
+            atggatttttacaaattagacgagaagctgaaggagttgaaaaggaaaagagtagatgta
+            tctataaagagtaggaagttggctgacagagagattcaggaagtaagcgcaaatcgaaaa
+            ccaagagtatacagtatggaagacgtaaatgatgcagatgaatcagtaggagatacagaa
+            agtcctgaaaaagagaaagcatttcattacactgtccaagaatatgatgcgtgggaacgt
+            aggcatcctcaagggaagactgggcaaagccaaagaggtggaatttcctatgatcaactt
+            gcaaaattgagttatgagaagaccttgcggaatctcgctacgcaaacacagaattcgagc
+            aaacaggatagttccgccgatgaagaagacaataaaaacgtacccaagaagggtagaatc
+            ggcaaggtacagaaggacactaagacgggtaagataacaattgcagatgacgacaagcta
+            gttaataagttggccgtttctttgcaatctgagtcgaaaaaaagatacgaagcaagaaaa
+            agacaaatgcaaaatgcaaaaacactgtatggggttgaaagcttcattaatgacaaaaat
+            aaacaattcaatgaaaaattgagcagggaatcaaaaggatcagaataa
+///

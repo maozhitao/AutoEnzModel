@@ -1,0 +1,44 @@
+ENTRY       YHR072W-A         CDS       T00005
+NAME        NOP10
+DEFINITION  (RefSeq) snoRNP complex protein NOP10
+ORTHOLOGY   K11130  H/ACA ribonucleoprotein complex subunit 3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03008 Ribosome biogenesis in eukaryotes
+                YHR072W-A (NOP10)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YHR072W-A (NOP10)
+               03032 DNA replication proteins [BR:sce03032]
+                YHR072W-A (NOP10)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Sno RNPs
+               Box H/ACA snoRNPs
+                YHR072W-A (NOP10)
+             Prokaryotic type
+                YHR072W-A (NOP10)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Termination Factors
+               Telomerase complex (animals)
+                Dyskerin complex
+                 YHR072W-A (NOP10)
+POSITION    VIII:241664..241840
+MOTIF       Pfam: Nop10p
+DBLINKS     NCBI-GeneID: 856471
+            NCBI-ProteinID: NP_058135
+            SGD: S000007455
+            UniProt: Q6Q547
+STRUCTURE   PDB: 3U28 3UAI 2AQA 1Y2Y
+AASEQ       58
+            MHLMYTLGPDGKRIYTLKKVTESGEITKSAHPARFSPDDKYSRQRVTLKKRFGLVPGQ
+NTSEQ       177
+            atgcatttgatgtacactttgggcccagacggcaagagaatctatacattgaaaaaggtc
+            accgaaagtggtgaaatcacgaagtctgctcacccagctagattttctccagacgacaaa
+            tattcaagacaaagagtaactttgaagaagagatttggtttggtaccaggccaatag
+///

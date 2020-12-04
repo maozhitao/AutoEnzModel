@@ -1,0 +1,59 @@
+ENTRY       YMR116C           CDS       T00005
+NAME        ASC1, ASU9, CPC2, NAD1
+DEFINITION  (RefSeq) guanine nucleotide-binding protein subunit beta
+ORTHOLOGY   K14753  guanine nucleotide-binding protein subunit beta-2-like 1 protein
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YMR116C (ASC1)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YMR116C (ASC1)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               mRNA cycle factors
+                Stress granule specific factors
+                 YMR116C (ASC1)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               YMR116C (ASC1)
+              Exosomal proteins of colorectal cancer cells
+               YMR116C (ASC1)
+              Exosomal proteins of bladder cancer cells
+               YMR116C (ASC1)
+POSITION    XIII:complement(join(499456..499878,500152..500688))
+MOTIF       Pfam: WD40 ANAPC4_WD40 Ge1_WD40 Nup160 eIF2A WD40_like DUF5710
+DBLINKS     NCBI-GeneID: 855143
+            NCBI-ProteinID: NP_013834
+            SGD: S000004722
+            UniProt: P38011
+STRUCTURE   PDB: 3FRX 3RFH 6FAI 6RBE 3RFG 1TRJ
+AASEQ       319
+            MASNEVLVLRGTLEGHNGWVTSLATSAGQPNLLLSASRDKTLISWKLTGDDQKFGVPVRS
+            FKGHSHIVQDCTLTADGAYALSASWDKTLRLWDVATGETYQRFVGHKSDVMSVDIDKKAS
+            MIISGSRDKTIKVWTIKGQCLATLLGHNDWVSQVRVVPNEKADDDSVTIISAGNDKMVKA
+            WNLNQFQIEADFIGHNSNINTLTASPDGTLIASAGKDGEIMLWNLAAKKAMYTLSAQDEV
+            FSLAFSPNRYWLAAATATGIKVFSLDPQYLVDDLRPEFAGYSKAAEPHAVSLAWSADGQT
+            LFAGYTDNVIRVWQVMTAN
+NTSEQ       960
+            atggcatctaacgaagttttagttttgagaggtaccttggaaggtcacaacggttgggtc
+            acatctttggctacttctgctggtcaaccaaacctattgttgtccgcttcccgtgataag
+            actttgatctcctggaagttgactggtgacgaccaaaagtttggtgtcccagttagatct
+            ttcaagggtcacagtcacattgtccaagactgtactttgactgctgacggtgcttacgct
+            ttgtctgcttcttgggacaagaccttgagattatgggatgttgccaccggtgaaacctac
+            caaagattcgtcggtcacaagtccgatgttatgtccgttgacattgacaagaaggcttcc
+            atgattatctctggttcccgtgacaagaccatcaaggtctggaccatcaaaggtcaatgt
+            ttggccactttgttgggtcacaatgactgggtttcccaagtcagagttgttccaaacgaa
+            aaagctgatgatgactctgtcaccatcatttctgccggtaacgacaaaatggttaaggct
+            tggaacttaaaccaattccaaattgaagctgacttcatcggtcacaactccaacatcaac
+            actttgactgcttccccagacggaactttgattgcttccgctggtaaggacggtgaaatt
+            atgttgtggaacttggctgctaagaaggctatgtacactttgtctgcccaagatgaagtt
+            ttctctttggctttctctccaaacagatactggttggctgctgccactgctaccggtatt
+            aaggtcttttctttggacccacaatacttggtcgatgacttgagaccagaatttgctggt
+            tacagcaaggccgctgaaccacatgctgtttctttggcttggtctgctgacggtcaaact
+            ttgtttgccggttacaccgacaacgtcattagagtttggcaagttatgactgctaactaa
+///

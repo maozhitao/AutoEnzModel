@@ -1,0 +1,41 @@
+ENTRY       YIL052C           CDS       T00005
+NAME        RPL34B
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L34B
+ORTHOLOGY   K02915  large subunit ribosomal protein L34e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YIL052C (RPL34B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YIL052C (RPL34B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YIL052C (RPL34B)
+              Archaea
+                YIL052C (RPL34B)
+POSITION    IX:complement(join(256226..256554,257027..257063))
+MOTIF       Pfam: Ribosomal_L34e Zn_ribbon_recom
+DBLINKS     NCBI-GeneID: 854759
+            NCBI-ProteinID: NP_012212
+            SGD: S000001314
+            UniProt: P40525
+AASEQ       121
+            MAQRVTFRRRNPYNTRSNKIKVVKTPGGILRAQHVKKLATRPKCGDCGSALQGISTLRPR
+            QYATVSKTHKTVSRAYGGSRCANCVKERIVRAFLIEEQKIVKKVVKEQTEAAKKSEKKSK
+            K
+NTSEQ       366
+            atggctcaacgtgttactttcagaagaagaaatccatacaacacccgttctaacaaaatc
+            aaggttgttaagaccccaggtggtatcttgcgtgcccaacacgttaagaagttggctact
+            agaccaaagtgtggtgactgtggtagtgctctacaaggtatttccactttgagaccaaga
+            caatacgctactgtctccaagacccacaagactgtttccagagcttacggtggttccaga
+            tgtgccaactgtgtcaaggaaagaatcgtcagagctttcttgattgaagaacaaaagatt
+            gttaagaaggtcgttaaggaacaaactgaggctgctaagaagtctgaaaagaagtctaag
+            aaataa
+///

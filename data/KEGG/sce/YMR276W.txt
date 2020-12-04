@@ -1,0 +1,63 @@
+ENTRY       YMR276W           CDS       T00005
+NAME        DSK2
+DEFINITION  (RefSeq) Dsk2p
+ORTHOLOGY   K04523  ubiquilin
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04141  Protein processing in endoplasmic reticulum
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YMR276W (DSK2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YMR276W (DSK2)
+               03051 Proteasome [BR:sce03051]
+                YMR276W (DSK2)
+            Membrane trafficking [BR:sce04131]
+             Autophagy
+              Chaperone mediated autophagy (CMA)
+               Selective cargos
+                YMR276W (DSK2)
+            Proteasome [BR:sce03051]
+             Eukaryotic proteasome
+              Proteasome interacting proteins (PIPs)
+               UBL-UBA shuttle proteins
+                YMR276W (DSK2)
+POSITION    XIII:818827..819948
+MOTIF       Pfam: ubiquitin Rad60-SLD Ubiquitin_2 Rad60-SLD_2 UBA TBK1_ULD GerD HOIP-UBA DUF2407
+DBLINKS     NCBI-GeneID: 855319
+            NCBI-ProteinID: NP_014003
+            SGD: S000004889
+            UniProt: P48510
+STRUCTURE   PDB: 2BWF 4UN2 3M63 2BWE 2BWB 1WR1
+AASEQ       373
+            MSLNIHIKSGQDKWEVNVAPESTVLQFKEAINKANGIPVANQRLIYSGKILKDDQTVESY
+            HIQDGHSVHLVKSQPKPQTASAAGANNATATGAAAGTGATPNMSSGQSAGFNPLADLTSA
+            RYAGYLNMPSADMFGPDGGALNNDSNNQDELLRMMENPIFQSQMNEMLSNPQMLDFMIQS
+            NPQLQAMGPQARQMLQSPMFRQMLTNPDMIRQSMQFARMMDPNAGMGSAGGAASAFPAPG
+            GDAPEEGSNTNTTSSSNTGNNAGTNAGTNAGANTAANPFASLLNPALNPFANAGNAASTG
+            MPAFDPALLASMFQPPVQASQAEDTRPPEERYEHQLRQLNDMGFFDFDRNVAALRRSGGS
+            VQGALDSLLNGDV
+NTSEQ       1122
+            atgtcgttgaatatacatatcaagtcaggacaagacaagtgggaagtaaatgtggcacct
+            gaaagcacagtgttgcaattcaaggaggcgataaacaaagcgaacggtatcccggtggca
+            aatcagagattgatctactcgggtaagattttaaaggacgaccaaaccgtggagtcatac
+            cacattcaagacggtcacagcgtccatctggtcaagtcacaacccaaaccacaaaccgcc
+            agtgccgctggcgcaaataacgccaccgccaccggtgcagcagctggcactggcgccacc
+            ccgaacatgtcgtcaggtcaaagtgcaggcttcaatccgctggccgacttgaccagtgcc
+            agatacgctggatatttgaatatgccatctgcagacatgtttggcccggacggtggtgca
+            ttaaacaacgactcgaataaccaagacgagctgttgaggatgatggaaaaccccatcttc
+            caatcgcaaatgaacgagatgttgagtaaccctcagatgttggactttatgatccagtcc
+            aacccgcaattgcaggccatgggtccacaagccaggcaaatgctacaaagtcccatgttt
+            agacagatgctcaccaatcctgatatgattagacagagcatgcaattcgcaagaatgatg
+            gaccctaatgccggtatgggctctgcaggtggggctgcctctgccttccccgctcctggt
+            ggcgatgctccagaggaaggctccaacacgaacactacttcctcatccaacacagggaac
+            aacgcagggactaatgcaggtaccaacgcaggcgctaacacagctgcaaacccatttgcg
+            tctcttctgaaccctgcattaaacccctttgctaacgcgggaaacgctgcatccaccggg
+            atgcccgccttcgatcctgcattgctagcgtctatgttccaaccccctgtacaagcatct
+            caagcagaagacaccagaccaccggaagaacgctatgaacatcaattaagacaactaaac
+            gacatgggcttcttcgatttcgatagaaacgtcgcagccctcaggagaagcggtggctcc
+            gtccaaggcgctcttgattcactactgaacggcgatgtttaa
+///

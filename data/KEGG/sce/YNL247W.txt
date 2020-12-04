@@ -1,0 +1,96 @@
+ENTRY       YNL247W           CDS       T00005
+NAME        CRS1
+DEFINITION  (RefSeq) cysteine--tRNA ligase
+ORTHOLOGY   K01883  cysteinyl-tRNA synthetase [EC:6.1.1.16]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                YNL247W (CRS1)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:sce01007]
+                YNL247W (CRS1)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YNL247W (CRS1)
+            Enzymes [BR:sce01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.16  cysteine---tRNA ligase
+                 YNL247W (CRS1)
+            Amino acid related enzymes [BR:sce01007]
+             Aminoacyl-tRNA synthetase
+              Class I (G)
+               YNL247W (CRS1)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                YNL247W (CRS1)
+             Prokaryotic type
+                YNL247W (CRS1)
+POSITION    XIV:182875..185178
+MOTIF       Pfam: tRNA-synt_1e tRNA-synt_1g tRNA-synt_1f tRNA-synt_1 Phage_int_SAM_5 RNA_pol_Rpb1_3 ECH_2
+DBLINKS     NCBI-GeneID: 855474
+            NCBI-ProteinID: NP_014152
+            SGD: S000005191
+            UniProt: P53852
+AASEQ       767
+            MNIFIKALRRYTIMSTPKIVQPKWKVPTPQAKETVLKLYNSLTRSKVEFIPQSGNRGVTW
+            YSCGPTVYDASHMGHARNYVSIDINRRIIQDYFGYDVQFVQNVTDIDDKIILRARQNYLF
+            DNFVKENDTKFNATVVDKVKTALFQYINKNFTIQGSEIKTIEEFETWLSNADTETLKLEN
+            PKFPMHVTAVQNAIESITKGDSMDAEVAFEKVKDVTVPLLDKELGSTISNPEIFRQLPAY
+            WEQKFNDDMLSLNVLPPTVTTRVSEYVPEIIDFVQKIIDNGYAYATSDGSVYFDTLKFDK
+            SPNHDYAKCQPWNKGQLDLINDGEGSLSNFADNGKKSNNDFALWKASKAGEPEWESPWGK
+            GRPGWHIECSVMASDILGSNIDIHSGGIDLAFPHHDNELAQSEARFDNQQWINYFLHTGH
+            LHIEGQKMSKSLKNFITIQEALKKFSPRQLRLAFASVQWNNQLDFKESLIHEVKSFENSM
+            NNFFKTIRALKNDAASAGHISKKFSPLEKELLADFVESESKVHSAFCDNLSTPVALKTLS
+            ELVTKSNTYITTAGAALKIEPLIAICSYITKILRIIGFPSRPDNLGWAAQAGSNDGSLGS
+            LEDTVMPYVKCLSTFRDDVRSLAIKKAEPKEFLQLTDKIRNEDLLNLNVALDDRNGQSAL
+            IKFLTNDEKLEIVKLNEEKHANELAKKQKKLEQQKLREQKENERKQKAQIKPQDMFKDVT
+            LYSAWDEQGLPTKDKDGNDITKSMTKKLKKQWEQQKKLHEEYFGEDK
+NTSEQ       2304
+            atgaatatcttcataaaagccctgagaagatatactataatgtctacgccgaagattgtg
+            cagcccaaatggaaggttccaacgccacaagctaaagaaactgtgttgaagttgtacaac
+            agtttaacaagatctaaggttgaattcattccgcaatctggcaatagaggtgtcacttgg
+            tactcttgcggtcctactgtttacgatgcctcccatatgggtcatgccagaaactatgtc
+            tctattgatatcaatagaagaattattcaagattattttggttacgacgtgcaatttgtg
+            caaaatgttactgatatcgacgataaaattattttgagagctagacaaaactatttattt
+            gacaattttgtcaaagaaaatgataccaaattcaacgccactgttgttgacaaggtcaaa
+            accgcacttttccaatatatcaacaaaaattttactattcaaggcagcgagatcaaaact
+            atcgaagaatttgaaacttggttatcgaatgctgatactgaaactttaaaattggagaat
+            cctaaattccctatgcatgtcaccgcagttcaaaatgctattgaatcaatcactaagggc
+            gattccatggacgcagaagttgcctttgaaaaagtcaaggacgttacggttcctctattg
+            gataaagaattgggctctaccattagcaatccagagattttccgccaacttccagcttac
+            tgggaacagaaattcaatgatgacatgttatcattaaacgtgctacctcccaccgttaca
+            actcgtgtttctgagtacgttccagaaattattgactttgttcaaaaaattattgataat
+            ggttacgcatatgccacttccgacggttccgtgtactttgatactttaaaatttgacaaa
+            tccccaaatcatgactatgctaaatgccagccatggaataagggccagttagacttaatt
+            aatgatggtgaagggtccttaagcaactttgctgataacggaaaaaagtcgaataatgat
+            tttgctttatggaaggcttccaaggcaggtgaacctgagtgggaatcaccatggggtaag
+            ggtagaccaggatggcatattgaatgttctgtgatggccagtgatatcctaggctctaac
+            atcgatattcattcaggtggcatcgatttggcctttcctcaccatgataacgaattggct
+            caatccgaggctcgcttcgacaatcaacagtggatcaactatttcttacatacgggccat
+            ttacatattgagggtcaaaaaatgtctaaatccttaaagaatttcattaccattcaagaa
+            gctttgaaaaaattctcaccgcgccaattaagattggcttttgcctcagtacaatggaac
+            aatcaattggatttcaaggaatctttgatccatgaagtaaagtcatttgaaaactccatg
+            aacaatttttttaagactattagagcattgaagaacgatgcagcttctgcaggtcatatc
+            tctaaaaagtttagtcccttagagaaagaattattggctgattttgttgaaagtgaatcg
+            aaagtccattcggcgttctgtgataatttatccacacctgttgctttgaagacactgagc
+            gaattagtgaccaagtcaaacacatacattaccactgcaggtgctgctttaaaaattgag
+            cccttgattgctatctgtagctacatcaccaaaatcttaagaataattggatttccatcc
+            cgtcctgacaatttgggttgggcagcccaagctggctccaacgatggatccctaggctca
+            ttggaagacactgttatgccatatgttaagtgtttatccacatttagagatgatgtacgt
+            tccttagctatcaagaaagccgaacccaaggaattcttgcaattaacggataaaattaga
+            aacgaagatttgctaaacttgaatgttgccttggatgataggaatggacaatctgccttg
+            atcaaatttttgactaacgatgaaaaattggaaattgtcaagctaaacgaggagaaacat
+            gccaacgaactagcaaagaaacaaaagaaattggaacagcagaaattaagagagcagaag
+            gaaaacgagaggaagcagaaagctcaaattaaaccacaagatatgttcaaggatgtcaca
+            ttgtacagtgcttgggacgagcaaggccttccaacaaaggacaaagacggtaatgatatc
+            accaagagtatgaccaagaagttgaagaagcaatgggaacaacaaaagaagctacatgaa
+            gagtactttggtgaagacaaatag
+///

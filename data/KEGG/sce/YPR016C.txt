@@ -1,0 +1,55 @@
+ENTRY       YPR016C           CDS       T00005
+NAME        TIF6, CDC95
+DEFINITION  (RefSeq) translation initiation factor 6
+ORTHOLOGY   K03264  translation initiation factor 6
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03008 Ribosome biogenesis in eukaryotes
+                YPR016C (TIF6)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YPR016C (TIF6)
+               03012 Translation factors [BR:sce03012]
+                YPR016C (TIF6)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Pre-60S particles
+               Export and cytoplasmic maturation factors
+                YPR016C (TIF6)
+            Translation factors [BR:sce03012]
+             Eukaryotic type
+              Initiation factors
+               eIF-6
+                YPR016C (TIF6)
+POSITION    XVI:complement(592332..593069)
+MOTIF       Pfam: eIF-6
+DBLINKS     NCBI-GeneID: 856126
+            NCBI-ProteinID: NP_015341
+            SGD: S000006220
+            UniProt: Q12522
+STRUCTURE   PDB: 1G62 5Z3G 6C0F 6EM4 6EM5 2X7N 3J2I
+AASEQ       245
+            MATRTQFENSNEIGVFSKLTNTYCLVAVGGSENFYSAFEAELGDAIPIVHTTIAGTRIIG
+            RMTAGNRRGLLVPTQTTDQELQHLRNSLPDSVKIQRVEERLSALGNVICCNDYVALVHPD
+            IDRETEELISDVLGVEVFRQTISGNILVGSYCSLSNQGGLVHPQTSVQDQEELSSLLQVP
+            LVAGTVNRGSSVVGAGMVVNDYLAVTGLDTTAPELSVIESIFRLQDAQPESISGNLRDTL
+            IETYS
+NTSEQ       738
+            atggctaccaggactcaatttgaaaactccaatgaaatcggtgtattctccaaattaacg
+            aatacttactgtttggttgctgttggtggttctgaaaacttttactctgcatttgaagct
+            gaattaggagatgctattcccatcgttcataccactattgctggtacgcgtatcatcggt
+            agaatgaccgcgggtaaccgtagaggtctgctagttccaacccaaactactgatcaagaa
+            ttacaacatttaagaaatagtttgccggattccgttaagattcaaagggtagaggaaaga
+            ctatctgccttgggtaacgtcatctgttgtaatgattacgttgctttagtgcatccagat
+            atcgacagagaaactgaagaattgataagtgatgtactaggcgttgaggtcttccgtcaa
+            accatatcaggtaatatcttagttgggtcatattgttctttaagtaatcaaggtgggtta
+            gtgcatccacaaacaagtgtccaagatcaagaagaattgtcctccttattacaagttcct
+            ttggtggctggtaccgttaaccgtggtagttcagttgtcggtgccggtatggttgtgaac
+            gattacttggcagttacaggtctggatactacagccccagaattgagtgttattgaaagt
+            attttccgcttgcaagatgcccaaccagaatccatttcaggtaacctacgtgatactttg
+            attgaaacctactcatag
+///

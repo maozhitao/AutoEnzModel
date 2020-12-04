@@ -1,0 +1,41 @@
+ENTRY       YBR048W           CDS       T00005
+NAME        RPS11B
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S11B
+ORTHOLOGY   K02949  small subunit ribosomal protein S11e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YBR048W (RPS11B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YBR048W (RPS11B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YBR048W (RPS11B)
+POSITION    II:join(332831..332875,333387..333812)
+MOTIF       Pfam: Ribosomal_S17_N Ribosomal_S17 DUF922
+DBLINKS     NCBI-GeneID: 852337
+            NCBI-ProteinID: NP_009604
+            SGD: S000000252
+            UniProt: P0CX47 P0CX48
+STRUCTURE   PDB: 6FAI 6RBD 6EML 6RBE 5LL6 5TZS
+AASEQ       156
+            MSTELTVQSERAFQKQPHIFNNPKVKTSKRTKRWYKNAGLGFKTPKTAIEGSYIDKKCPF
+            TGLVSIRGKILTGTVVSTKMHRTIVIRRAYLHYIPKYNRYEKRHKNVPVHVSPAFRVQVG
+            DIVTVGQCRPISKTVRFNVVKVSAAAGKANKQFAKF
+NTSEQ       471
+            atgtccactgaattaactgttcaatctgaaagagctttccaaaagcaacctcacatcttc
+            aacaatccaaaggtcaagacttccaagagaaccaagagatggtataagaatgccggtttg
+            ggattcaagaccccaaagaccgctattgaaggttcttacattgataagaaatgtccattc
+            actggtttagtttccatccgtggtaagatcttgaccggtaccgtcgtctccaccaagatg
+            caccgtaccattgtcatcagaagagcttacttgcattacattccaaagtacaacagatac
+            gaaaagagacacaagaacgtcccagtccacgtctccccagctttccgtgtccaagttggt
+            gacattgttaccgttggtcaatgtagaccaatctccaagactgttagattcaacgtcgtc
+            aaggtctctgctgctgccggtaaggccaacaagcaatttgctaaattttaa
+///

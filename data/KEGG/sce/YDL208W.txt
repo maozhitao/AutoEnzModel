@@ -1,0 +1,49 @@
+ENTRY       YDL208W           CDS       T00005
+NAME        NHP2
+DEFINITION  (RefSeq) snoRNA-binding protein NHP2
+ORTHOLOGY   K11129  H/ACA ribonucleoprotein complex subunit 2
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03008 Ribosome biogenesis in eukaryotes
+                YDL208W (NHP2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YDL208W (NHP2)
+               03032 DNA replication proteins [BR:sce03032]
+                YDL208W (NHP2)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Sno RNPs
+               Box H/ACA snoRNPs
+                YDL208W (NHP2)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Termination Factors
+               Telomerase complex (animals)
+                Dyskerin complex
+                 YDL208W (NHP2)
+POSITION    IV:87512..87982
+MOTIF       Pfam: Ribosomal_L7Ae ATPase_2 TRIQK
+DBLINKS     NCBI-GeneID: 851319
+            NCBI-ProteinID: NP_010073
+            SGD: S000002367
+            UniProt: P32495
+STRUCTURE   PDB: 2LBW 2LBX
+AASEQ       156
+            MGKDNKEHKESKESKTVDNYEARMPAVLPFAKPLASKKLNKKVLKTVKKASKAKNVKRGV
+            KEVVKALRKGEKGLVVIAGDISPADVISHIPVLCEDHSVPYIFIPSKQDLGAAGATKRPT
+            SVVFIVPGSNKKKDGKNKEEEYKESFNEVVKEVQAL
+NTSEQ       471
+            atgggtaaagacaacaaggaacataaggaaagcaaagaaagcaaaaccgtagacaactat
+            gaggccagaatgcctgctgtgttgccattcgctaaaccattggcctctaagaaactaaac
+            aagaaggtcttgaagaccgtgaagaaggcttccaaggccaagaatgttaaaagaggtgtc
+            aaggaagttgtcaaggccttaagaaagggtgaaaaaggtttagtcgtcatcgccggtgac
+            atttctccagctgatgttatttcccacatcccagtcttatgtgaagatcactctgtccca
+            tacatcttcataccttcaaagcaagacttaggtgccgctggcgctacaaaaagacctacc
+            tcagttgtctttatcgtcccaggtagcaataagaaaaaagatggaaaaaataaagaagaa
+            gaatacaaggaatctttcaacgaagttgtcaaagaagttcaagctttatga
+///

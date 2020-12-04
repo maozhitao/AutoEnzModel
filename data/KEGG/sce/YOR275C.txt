@@ -1,0 +1,82 @@
+ENTRY       YOR275C           CDS       T00005
+NAME        RIM20
+DEFINITION  (RefSeq) Rim20p
+ORTHOLOGY   K12200  programmed cell death 6-interacting protein
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04144  Endocytosis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04144 Endocytosis
+                YOR275C (RIM20)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YOR275C (RIM20)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YOR275C (RIM20)
+            Membrane trafficking [BR:sce04131]
+             Endosome - Lysosome transport
+              Endosomal sorting complexes required for transport (ESCRT)
+               ESCRT associated proteins
+                YOR275C (RIM20)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               YOR275C (RIM20)
+POSITION    XV:complement(839084..841069)
+MOTIF       Pfam: BRO1 ALIX_LYPXL_bnd
+DBLINKS     NCBI-GeneID: 854449
+            NCBI-ProteinID: NP_014918
+            SGD: S000005801
+            UniProt: Q12033
+AASEQ       661
+            MSELLAIPLKRTLEVDFATELSKLIDTTSFQTASFFQSDILKVVDARNNAIAPDISIDGL
+            SALKEYYVILLQLEKKFPNNQIEFTWFQTLSQKSRGTSQYSLQWEKLTIIYNIGCMYSLL
+            ALNSNNDAAESLKTSCLYFQNAAGCFKHVLDHQKNLETIPVVDDATLNALTSLMLAQAQE
+            CFWFKAVQDKHKDSLIAKLSQQIVDFYCEAINDAQRGKLIRSDWINHLKAKKAYFSAVTY
+            YRIALSFNEKKQFGNVVKALQMGLQFINESTLSSQAKFKTVVESSLKEAQRDNEFIYLQE
+            VPSELPSIKPALMVKPSSSATLLPSIKKDETLFKDLIPIEVMEYCTAYNERQDEYVEQRV
+            TNPLASLNKLLKESLTTFQIPQGLTKVSEAELSHYQASLNNLLINNKNVQVQLDNIEQIL
+            NEEAFTDNQLRLKHGTLNWTLPESSTTNTAYYEKLKKLRGYLDEGSAIDKQTNELFQSID
+            KNLIGSEIRLPESNDPLTNKIKMIIQERNDYIDRTRRKSSEYRILPKIITSYKKNGTVDF
+            EPIFIGHLKYFDEDLRYVNSTKEENIKLIEEVNLSKKNNPGRSGIEPKKMVRIDPRELYI
+            EDLRYSFKLLDEVKENLSAGTAFYENLITSTSNLYNEVQEYDTARRAEKARLDKSLTFED
+            Q
+NTSEQ       1986
+            atgagtgaactgcttgccattccacttaagcgaactttagaagtggactttgccacggag
+            ttgtcaaaactaattgatactacttcctttcaaacggcatcctttttccaatcagacata
+            ctcaaagttgttgatgcaagaaacaatgcgattgcacccgatatctcaatcgacggtctt
+            tctgcactgaaggaatactatgtaatattgttgcaattagagaaaaagtttcccaataat
+            caaatagaatttacatggtttcaaacgctatcacaaaaatctcgtggtactagtcaatac
+            tcattacaatgggaaaaattaaccattatttataatattggttgcatgtattcactgttg
+            gctctaaatagcaacaatgatgcagccgaatccctcaaaacgtcatgtctgtacttccag
+            aatgccgccggatgctttaaacatgttttagaccaccaaaaaaatcttgagacaatccca
+            gtggtagatgacgccacattgaacgctttaacctccctgatgctagcacaagcgcaagaa
+            tgcttctggtttaaagccgtgcaagataaacacaaggactccttaatcgcgaagttgtca
+            caacagatcgtggacttctactgcgaggctattaatgacgcccaaagggggaaacttatt
+            agaagtgattggataaaccacttaaaggctaaaaaggcttactttagtgcggtgacttat
+            tacagaatagccttatcttttaatgagaagaagcagttcggaaatgttgtgaaagctctg
+            caaatgggattgcaatttataaatgaatcaacactatcttcgcaagctaagtttaaaact
+            gttgtcgaatcttctctgaaagaagcccaaagagacaatgaattcatctacttacaagaa
+            gttccttcggaattaccatcgatcaaaccagctctcatggttaaaccatcttcttcagca
+            acattgttgccttctattaaaaaggatgagactttattcaaagacctaatccctatagaa
+            gtgatggaatattgcacagcatacaatgaaaggcaagatgaatacgttgaacaacgtgtt
+            accaatccccttgcttccctaaataaactattgaaggagtccttgactactttccaaata
+            ccacaagggcttacaaaggtgagtgaagcagaactgagtcattaccaggcatcactgaat
+            aatcttctcattaataataaaaatgtgcaggtacaactcgataacattgagcaaatttta
+            aatgaagaagcatttactgacaatcagctccgactaaaacacggaaccttaaattggact
+            ttacccgaatcttcaactactaacacagcatattatgaaaaactaaaaaagctgagagga
+            taccttgatgaaggtagtgcgattgacaaacaaacaaatgaactatttcaaagcatcgat
+            aaaaatttgattggatcagagatcaggttaccggaatctaatgatcctctaacgaataag
+            attaagatgatcatacaggaaagaaatgattatattgataggacgaggcggaaatcttca
+            gaatatagaatacttccaaagatcattacatcgtataaaaaaaatggaacagtcgacttt
+            gaacccattttcataggccatttaaaatactttgacgaagatttaagatacgttaatagt
+            acaaaggaagaaaatatcaaacttattgaggaagtaaacctaagtaagaagaataacccc
+            ggcagaagcgggattgaaccaaagaaaatggtaagaatagatcccagagagctatatatt
+            gaagatctgagatattccttcaaactgcttgatgaggtgaaagaaaatttaagtgccggc
+            acagcattttacgaaaatttaattacttctaccagcaatctgtacaatgaggtacaggaa
+            tatgatacagcaagaagagcagaaaaagctaggcttgataagagtttgacatttgaagac
+            caatga
+///

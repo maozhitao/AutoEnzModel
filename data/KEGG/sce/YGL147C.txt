@@ -1,0 +1,44 @@
+ENTRY       YGL147C           CDS       T00005
+NAME        RPL9A
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L9A
+ORTHOLOGY   K02940  large subunit ribosomal protein L9e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YGL147C (RPL9A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YGL147C (RPL9A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YGL147C (RPL9A)
+POSITION    VII:complement(227754..228329)
+MOTIF       Pfam: Ribosomal_L6
+DBLINKS     NCBI-GeneID: 852730
+            NCBI-ProteinID: NP_011368
+            SGD: S000003115
+            UniProt: P05738
+STRUCTURE   PDB: 5Z3G 6EM5 3J16
+AASEQ       191
+            MKYIQTEQQIEVPEGVTVSIKSRIVKVVGPRGTLTKNLKHIDVTFTKVNNQLIKVAVHNG
+            GRKHVAALRTVKSLVDNMITGVTKGYKYKMRYVYAHFPINVNIVEKDGAKFIEVRNFLGD
+            KKIRNVPVRDGVTIEFSTNVKDEIVLSGNSVEDVSQNAADLQQICRVRNKDIRKFLDGIY
+            VSHKGFITEDL
+NTSEQ       576
+            atgaaatacatccaaactgaacaacaaatcgaagtcccagaaggtgtcactgtcagcatc
+            aagtccagaatcgtcaaggttgttggtccaagaggtactttgaccaagaacttgaagcac
+            attgatgttaccttcaccaaggtcaacaaccaattgatcaaggttgctgttcacaacggt
+            ggcagaaagcacgttgctgctttgagaaccgtcaagtctttggttgacaacatgatcact
+            ggtgtcaccaagggttacaagtacaagatgagatacgtctacgcgcatttcccaatcaac
+            gtcaacattgttgaaaaggatggtgccaaattcattgaagtcagaaactttttgggtgac
+            aagaagatcagaaacgttccagttagagatggtgttactatcgaattttccaccaacgtt
+            aaggacgaaattgtcttgtcaggtaactctgtcgaagacgtttcccaaaacgctgctgac
+            ttgcaacaaatctgtcgtgtcagaaacaaggatatccgtaaatttttggacggtatctac
+            gtttctcacaagggttttattactgaagatttataa
+///

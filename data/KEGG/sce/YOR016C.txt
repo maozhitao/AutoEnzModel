@@ -1,0 +1,53 @@
+ENTRY       YOR016C           CDS       T00005
+NAME        ERP4
+DEFINITION  (RefSeq) Erp4p
+ORTHOLOGY   K14825  p24 family protein gamma-2
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YOR016C (ERP4)
+               04131 Membrane trafficking [BR:sce04131]
+                YOR016C (ERP4)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YOR016C (ERP4)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Pre-60S particles
+               Other pre-60S particles
+                YOR016C (ERP4)
+            Membrane trafficking [BR:sce04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Forward pathways
+               p24 family proteins
+                YOR016C (ERP4)
+            Transporters [BR:sce02000]
+             Other transporters
+              Others
+               YOR016C (ERP4)
+POSITION    XV:complement(360461..361084)
+MOTIF       Pfam: EMP24_GP25L
+DBLINKS     NCBI-GeneID: 854181
+            NCBI-ProteinID: NP_014659
+            SGD: S000005542
+            UniProt: Q12450
+AASEQ       207
+            MRVFTLIAILFSSSLLTHAFSSNYAPVGISLPAFTKECLYYDLSSDKDVLVVSYQVLTGG
+            NFEIDFDITAPDGSVIVTERQKKHSDFLLKSFGIGKYTFCLSNNYGTSPKKVEITLEKEK
+            EIVSSHESKEDIIANNAIEEIDRNLNKITKTMDYLRAREWRNMYTVSSTESRLTWLSLLI
+            MGVMVGISIVQALIIQFFFTSRQKNYV
+NTSEQ       624
+            atgcgcgtttttactttgattgcgattttgtttagttcatctttgttaacacatgcattc
+            tcctctaattatgctcctgtaggcatatcattacctgcttttaccaaagaatgtctttac
+            tatgatttatcctctgataaagatgtccttgtggtcagttaccaagttttgacaggtggg
+            aatttcgagatagacttcgatattaccgcccctgatggctctgttatcgtcactgaaaga
+            caaaagaagcattctgattttctactgaagtcgtttggtataggtaagtacactttctgt
+            ttgagtaataactacggcacttccccaaagaaagttgaaatcaccctcgaaaaggaaaag
+            gaaattgtttcttcccatgaaagcaaagaggacataatcgcaaacaacgccatcgaggaa
+            attgataggaacctgaataagatcaccaaaacaatggattatttaagggctagagaatgg
+            agaaacatgtatactgtgagttctactgagtcaagattaacatggctctcattactaatt
+            atgggggtaatggttggtatcagtatagtgcaggcattaattattcagttcttttttacc
+            agtcgccaaaaaaactacgtatag
+///

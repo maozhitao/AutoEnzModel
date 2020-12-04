@@ -1,0 +1,70 @@
+ENTRY       YBR127C           CDS       T00005
+NAME        VMA2, VAT2
+DEFINITION  (RefSeq) H(+)-transporting V1 sector ATPase subunit B
+ORTHOLOGY   K02147  V-type H+-transporting ATPase subunit B
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00190  Oxidative phosphorylation
+            sce01100  Metabolic pathways
+            sce04145  Phagosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                YBR127C (VMA2)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04145 Phagosome
+                YBR127C (VMA2)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YBR127C (VMA2)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               YBR127C (VMA2)
+POSITION    II:complement(491269..492822)
+MOTIF       Pfam: ATP-synt_ab ATP-synt_ab_N HAS-barrel
+DBLINKS     NCBI-GeneID: 852424
+            NCBI-ProteinID: NP_009685
+            SGD: S000000331
+            UniProt: P16140
+STRUCTURE   PDB: 5D80 6O7V 5VOX 3J9T 6O7W 5BW9 5VOZ 3J9U 5VOY 3J9V 6O7X
+AASEQ       517
+            MVLSDKELFAINKKAVEQGFNVKPRLNYNTVSGVNGPLVILEKVKFPRYNEIVNLTLPDG
+            TVRQGQVLEIRGDRAIVQVFEGTSGIDVKKTTVEFTGESLRIPVSEDMLGRIFDGSGRPI
+            DNGPKVFAEDYLDINGSPINPYARIYPEEMISTGVSAIDTMNSIARGQKIPIFSASGLPH
+            NEIAAQICRQAGLVRPTKDVHDGHEENFSIVFAAMGVNLETARFFKQDFEENGSLERTSL
+            FLNLANDPTIERIITPRLALTTAEYLAYQTERHVLTILTDMSSYADALREVSAAREEVPG
+            RRGYPGYMYTDLSTIYERAGRVEGRNGSITQIPILTMPNDDITHPIPDLTGYITEGQIFV
+            DRQLHNKGIYPPINVLPSLSRLMKSAIGEGMTRKDHGDVSNQLYAKYAIGKDAAAMKAVV
+            GEEALSIEDKLSLEFLEKFEKTFITQGAYEDRTVFESLDQAWSLLRIYPKEMLNRISPKI
+            LDEFYDRARDDADEDEEDPDTRSSGKKKDASQEESLI
+NTSEQ       1554
+            atggttttgtctgataaggagttgtttgccataaataagaaagccgtcgaacaaggtttc
+            aatgtgaagcctagattgaactataatacggtcagtggtgtgaacggtccattagtcatt
+            ttggaaaaggtcaagttcccacgttacaacgaaattgttaatttgacattgccagatgga
+            accgtgagacaaggtcaagttttggaaattagaggagatagagccattgtgcaagtgttt
+            gaaggtacatctggtattgatgtcaagaagactaccgtggaattcactggtgagagtttg
+            agaattcctgtgtctgaagacatgttgggtagaatttttgacggttctggtagacccatt
+            gacaacggtcctaaagttttcgcagaggattacttggacattaacggttctcctatcaac
+            ccatatgctcgtatttatccagaagaaatgatttctactggtgtttctgctattgacaca
+            atgaactccattgccagaggtcaaaagatcccaattttctccgcatcaggtttaccacac
+            aacgaaattgcagcacaaatttgtagacaggctggtttggtgagacctaccaaggatgtt
+            catgatggtcatgaagaaaatttctccatcgtttttgctgccatgggtgtcaacttggaa
+            accgctagatttttcaaacaggatttcgaagaaaatgggtctttggaaagaacttcatta
+            tttttgaacttggctaatgaccctaccattgaaagaattatcactccaagattggccttg
+            accaccgctgaataccttgcttaccaaacggaacgtcatgtgttgaccatcttgaccgat
+            atgtcatcgtatgctgatgctcttagagaagtttccgctgctagagaagaagttccaggt
+            agaagaggttatcctggttacatgtatacagatttgtccacaatttatgaaagagcaggt
+            agagtagagggtcgtaacgggtccatcactcaaatacctatcttgacaatgcctaacgat
+            gatattacgcatccaattccggatttgaccggttatattaccgagggtcaaatcttcgtt
+            gaccgtcaattacataacaagggtatctacccaccaatcaacgtcttgccttcgttgagt
+            agattgatgaaatctgccatcggtgaaggtatgaccagaaaggaccacggtgacgtttct
+            aaccaattgtatgccaagtacgccatcggtaaggacgctgctgctatgaaggccgttgtc
+            ggtgaagaggcgttatccatcgaagataagttatctttggaatttttggaaaaattcgaa
+            aagacctttatcacacaaggcgcctacgaggacagaaccgttttcgaaagtttggaccag
+            gcatggagtttgctaagaatctaccctaaggagatgttgaatagaatctccccaaagatt
+            cttgatgaattttacgatagagccagagacgatgccgacgaagatgaagaagatcccgac
+            acaagaagctccggtaagaagaaggacgccagccaagaagaatctctaatctaa
+///

@@ -1,0 +1,74 @@
+ENTRY       YOR231W           CDS       T00005
+NAME        MKK1, SSP32
+DEFINITION  (RefSeq) mitogen-activated protein kinase kinase MKK1
+ORTHOLOGY   K08294  mitogen-activated protein kinase kinase [EC:2.7.12.2]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04011  MAPK signaling pathway - yeast
+            sce04139  Mitophagy - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               04011 MAPK signaling pathway - yeast
+                YOR231W (MKK1)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04139 Mitophagy - yeast
+                YOR231W (MKK1)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:sce01001]
+                YOR231W (MKK1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.12  Dual-specificity kinases (those acting on Ser/Thr and Tyr residues)
+                2.7.12.2  mitogen-activated protein kinase kinase
+                 YOR231W (MKK1)
+            Protein kinases [BR:sce01001]
+             Serine/threonine kinases: STE group
+              STE7 family
+               YOR231W (MKK1)
+POSITION    XV:772601..774127
+MOTIF       Pfam: Pkinase PK_Tyr_Ser-Thr Kinase-like FTA2 Pkinase_fungal Kdo APH Seadorna_VP7
+DBLINKS     NCBI-GeneID: 854406
+            NCBI-ProteinID: NP_014874
+            SGD: S000005757
+            UniProt: P32490
+AASEQ       508
+            MASLFRPPESAKCNPNSPRLKLPLLRNNQVDENNIYLTSNGSSTTAYSSHTPEPLTSSTS
+            TLFSQTRLHPSDSSMTLNTMKKRPAPPSLPSLSINSQSKCKTLPELVPIADVSDGKHDLG
+            LKQRVIAENELSGNSDLTPSSMASPFSHTNTSSPYLRNDLSNSVGSDFSNLISAYEQSSS
+            PIKSSSQPKSSSESYIDLNSVRDVDQLDENGWKYANLKDRIETLGILGEGAGGSVSKCKL
+            KNGSKIFALKVINTLNTDPEYQKQIFRELQFNRSFQSEYIVRYYGMFTDDENSSIYIAME
+            YMGGRSLDAIYKNLLERGGRISEKVLGKIAEAVLRGLSYLHEKKVIHRDIKPQNILLNEN
+            GQVKLCDFGVSGEAVNSLATTFTGTSFYMAPERIQGQPYSVTSDVWSLGLTILEVANGKF
+            PCSSEKMAANIAPFELLMWILTFTPELKDEPESNIIWSPSFKSFIDYCLKKDSRERPSPR
+            QMINHPWIKGQMKKNVNMEKFVRKCWKD
+NTSEQ       1527
+            atggcttcactgttcagacccccagaatctgcgaaatgcaacccaaactctcctagactt
+            aaactgcccctcttacgaaataatcaggtagatgaaaataatatatacttgacgtcgaat
+            gggagttccaccacagcttacagtagccacaccccagaaccactgacctcttccacatcg
+            acacttttctcccaaactcgacttcatcctagcgactcttcaatgactttaaatacaatg
+            aagaagaggcctgcaccgccatctttaccttcgctcagcataaattcacagtctaagtgc
+            aaaacactacccgaactcgtacccatcgccgatgtgtctgatggtaaacatgatttagga
+            ttgaaacagcgtgtgatagccgaaaatgagttgtctggtaatagtgacttaaccccttca
+            tcgatggcaagccccttttcacatacaaacacctcttctccctacctcagaaatgatctg
+            agcaattcagtgggatctgacttttcaaatttgatatcggcatatgaacaaagttcaagt
+            cccatcaagtcatcgtcccagcctaaatcatcttctgaatcgtacatagacttaaacagt
+            gtacgagatgttgatcaattggatgaaaatggttggaaatatgcaaatttaaaagatagg
+            atcgagacattaggcattctaggagaaggagccggtggctctgtttccaagtgtaaattg
+            aaaaatggatcaaaaatattcgctttaaaagtgataaacacattaaatacagatcccgag
+            tatcagaagcaaatattcagagaattacagtttaataggagtttccaatccgaatatatc
+            gtacgatattatggaatgtttacggatgacgaaaactcttcaatttatattgctatggag
+            tacatgggtgggcgatcgttggatgctatttataaaaatttgttagagcgtggtggtagg
+            atcagtgaaaaagtcctggggaagattgcagaagcggtactaagaggactatcatatttg
+            catgaaaaaaaagttattcatagagatattaagccccagaatattttactgaatgaaaat
+            ggtcaggtgaaactttgtgattttggggtcagtggagaagccgttaactcgctagccaca
+            acattcacggggacgtcattctatatggctccagaaaggattcaaggtcaaccatacagt
+            gtcacatctgatgtatggtcacttggattaacgattttggaagtggcgaacgggaaattt
+            ccatgctcttccgagaagatggcagccaatatagctccctttgaattgttaatgtggatt
+            ttaacatttactcctgaattaaaggatgaacccgaatctaatatcatatggagtccatca
+            ttcaaatcctttatcgactactgtctgaaaaaagatagtcgtgaacggccatctccaaga
+            caaatgatcaatcatccttggataaagggtcaaatgaaaaaaaatgtcaatatggaaaaa
+            ttcgtgaggaagtgctggaaagattaa
+///

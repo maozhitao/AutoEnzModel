@@ -1,0 +1,38 @@
+ENTRY       YPL249C-A         CDS       T00005
+NAME        RPL36B
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L36B
+ORTHOLOGY   K02920  large subunit ribosomal protein L36e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YPL249C-A (RPL36B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YPL249C-A (RPL36B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YPL249C-A (RPL36B)
+POSITION    XVI:complement(join(75699..75985,76224..76239))
+MOTIF       Pfam: Ribosomal_L36e TetR_C_9
+DBLINKS     NCBI-GeneID: 855826
+            NCBI-ProteinID: NP_015074
+            SGD: S000006438
+            UniProt: O14455
+STRUCTURE   PDB: 6EM3 6EM4 6EM5
+AASEQ       100
+            MAVKTGIAIGLNKGKKVTQMTPAPKISYKKGAASNRTKFVRSLVREIAGLSPYERRLIDL
+            IRNSGEKRARKVAKKRLGSFTRAKAKVEEMNNIIAASRRH
+NTSEQ       303
+            atggctgtcaagactggtatcgctattggtttgaacaagggtaagaaagtcacccaaatg
+            actccagccccaaagatctcctacaagaagggtgctgcctccaacagaaccaagttcgtc
+            agatctttggttagagaaatcgccggtttgtccccatatgaaagaagattgatcgatttg
+            atcagaaactccggtgaaaagagagccagaaaggtcgccaagaagagattgggttctttc
+            accagagccaaggctaaggtcgaagaaatgaacaacatcattgctgcctctcgtcgtcat
+            taa
+///

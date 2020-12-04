@@ -1,0 +1,79 @@
+ENTRY       YOL023W           CDS       T00005
+NAME        IFM1
+DEFINITION  (RefSeq) translation initiation factor 2
+ORTHOLOGY   K02519  translation initiation factor IF-2
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:sce03012]
+                YOL023W (IFM1)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YOL023W (IFM1)
+            Translation factors [BR:sce03012]
+             Eukaryotic type
+              Initiation factors
+               MTIFs
+                YOL023W (IFM1)
+             Prokaryotic type
+               YOL023W (IFM1)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Mitochondrial translation factors
+                YOL023W (IFM1)
+POSITION    XV:278056..280086
+MOTIF       Pfam: GTP_EFTU IF-2 IF2_N MMR_HSR1 RsgA_GTPase GTP_EFTU_D2 FeoB_N SRPRB Ras GTP_EFTU_D4
+DBLINKS     NCBI-GeneID: 854135
+            NCBI-ProteinID: NP_014619
+            SGD: S000005383
+            UniProt: P25038
+AASEQ       676
+            MLRRHGLFWLKTCPRLNVLLNQSIPIPHLLHSRDICQQRWYAKGKRRNQISKKELKPLNF
+            SIPNYISVNKLANLLNCRVERLIKDLTALGFENITTTYILSKEYVELILQEYNFALPNLS
+            TSTNLDNVYDELKSPVNPKLLTKRAPVVTIMGHVDHGKTTIIDYLRKSSVVAQEHGGITQ
+            HIGAFQITAPKSGKKITFLDTPGHAAFLKMRERGANITDIIVLVVSVEDSLMPQTLEAIK
+            HAKNSGNEMIIAITKIDRIPQPKEREKKIEKVINDLIVQGIPVEKIGGDVQVIPISAKTG
+            ENMDLLEESIVLLSEVMDIRAENSPKTIAEGWIIESQVKKQVGNVATVLVKKGTLQKGKI
+            LICGNTFCKIKNLIDDKGIPILKATPSYATEVLGWKDVPHVGDEVIQVKSEAIAKKFISK
+            RQDLIEVQKNSSIVEKLNEERALAKEQHLNKELEHENTVQEHEQNTGPKLINYIIKCDVS
+            GSAEAVSESISSLGNDEVRCNVISSSVGIPTESDLKMAQITESTILCFNLGNLPSEVINN
+            RAGIKIKQYNVIYKLIEDVTETLTENLKPIFEKKIVSTVDVRETFDFRLKKKIIRIAGCK
+            VNNGVIKKNSLVQVVRGPNEDVIFDGKISTLKHNKDDVAEVSKGHECGITFESGFEGFKP
+            GDKILVYENVRVPRYL
+NTSEQ       2031
+            atgctcagaagacacggattattctggttaaagacatgtccccgtctaaatgttcttcta
+            aatcaatccataccgatacctcatttgcttcatagccgtgatatttgccagcaaagatgg
+            tatgcaaaagggaaaagaaggaaccagatttccaagaaagagttaaagcctctcaatttt
+            tctattccgaattatatttctgtgaataaattggccaatttgttaaattgtcgtgtggaa
+            agattaatcaaagatttgacagcattaggtttcgaaaatattacaaccacgtatatatta
+            tcaaaagaatacgtcgaattgattttacaagaatacaactttgcccttccgaatctgtca
+            acgtctacaaatttagataatgtttatgatgagctaaaatctcctgtaaacccaaaatta
+            ttaaccaaaagagcccccgtggtaactataatgggccatgttgatcatggtaagaccact
+            atcatagactatctaaggaaatcttctgttgtggctcaagaacatggtggaatcacgcaa
+            cacattggtgcctttcaaataacagctccgaagtctgggaaaaagatcacatttttagac
+            acccctggccatgctgcctttttgaaaatgagagaaagaggtgcaaatattactgatatt
+            attgttttggtggtatctgtagaagattctctgatgccccagacattagaagccataaaa
+            catgccaaaaattcaggaaatgaaatgataattgcaataacgaaaatagatagaattcca
+            cagccaaaagaacgtgaaaaaaaaattgaaaaagttataaatgatttgattgttcaagga
+            ataccagtagagaaaattggcggagacgttcaagtgatcccgataagtgccaaaactggt
+            gagaacatggaccttttagaggaatcaatagtcctattaagtgaagtaatggatataaga
+            gctgaaaactcccctaaaactatcgcagagggttggattatcgaaagtcaagttaaaaaa
+            caggtcggaaatgtggcgaccgtcttggttaagaagggcactttacaaaaagggaaaatt
+            ctaatttgtggtaatacattctgcaagatcaaaaatttaattgatgataagggcataccg
+            attcttaaggcaacaccatcatatgctacagaggttcttggttggaaagatgtaccccat
+            gttggagatgaggtcattcaggtaaagagcgaagcgatcgctaaaaagttcatcagtaaa
+            aggcaagatcttatcgaagttcaaaaaaactctagtatcgttgaaaaattaaatgaagaa
+            agggcccttgccaaagagcaacacctaaataaggaactggaacatgagaatactgtccag
+            gaacacgaacaaaatactggtcctaaacttattaattacatcatcaaatgtgatgtctct
+            ggctcagcagaagcggtttcagaaagcatttcctctctaggaaatgacgaagtgagatgt
+            aatgttatctcttcttctgttggtatacctacggaaagtgacttaaagatggcgcaaata
+            acggagagtacaattctatgcttcaatttggggaatttgccgagtgaggtgatcaacaat
+            cgtgctggcatcaaaataaaacagtacaatgttatctataagctaattgaagacgtcact
+            gaaacactaactgaaaatctaaagcccatctttgaaaaaaagatcgtttcaactgttgac
+            gttcgtgaaacttttgactttaggttaaagaaaaaaattattaggattgcaggttgcaaa
+            gtaaacaacggtgtcatcaaaaagaattcattggtgcaggtagttagaggtcctaacgaa
+            gatgtaatttttgatgggaaaatctctactttgaagcacaataaagatgacgtagcagaa
+            gtttcaaaagggcatgaatgtggaatcacttttgagagtggattcgagggtttcaaacca
+            ggtgataagatcctagtttatgaaaacgtgcgagttcctcgttacttgtaa
+///

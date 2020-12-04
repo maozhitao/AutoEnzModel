@@ -1,0 +1,59 @@
+ENTRY       YER016W           CDS       T00005
+NAME        BIM1, YEB1
+DEFINITION  (RefSeq) microtubule-binding protein BIM1
+ORTHOLOGY   K10436  microtubule-associated protein, RP/EB family
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YER016W (BIM1)
+              09183 Protein families: signaling and cellular processes
+               04812 Cytoskeleton proteins [BR:sce04812]
+                YER016W (BIM1)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Centrosome formation and ciliogenesis proteins
+               Microtubules and associated factors
+                Microtubule-associated proteins
+                 YER016W (BIM1)
+            Cytoskeleton proteins [BR:sce04812]
+             Eukaryotic cytoskeleton proteins
+              Microtubules
+               Tubulin-binding proteins
+                EB / APC
+                 YER016W (BIM1)
+POSITION    V:188277..189311
+MOTIF       Pfam: EB1 CH ATG16 DivIC Tmemb_cc2 N-glycanase_C
+DBLINKS     NCBI-GeneID: 856736
+            NCBI-ProteinID: NP_010932
+            SGD: S000000818
+            UniProt: P40013
+STRUCTURE   PDB: 2QJX 4E61
+AASEQ       344
+            MSAGIGESRTELLTWLNGLLNLNYKKIEECGTGAAYCQIMDSIYGDLPMNRVKFNATAEY
+            EFQTNYKILQSCFSRHGIEKTVYVDKLIRCKFQDNLEFLQWLKKHWIRHKDESVYDPDAR
+            RKYRPIITNNSATKPRTVSNPTTAKRSSSTGTGSAMSGGLATRHSSLGINGSRKTSVTQG
+            QLVAIQAELTKSQETIGSLNEEIEQYKGTVSTLEIEREFYFNKLRDIEILVHTTQDLINE
+            GVYKFNDETITGHGNGNGGALLRFVKKVESILYATAEGFEMNDGEDELNDKNLGEHGTVP
+            NQGGYANSNGEVNGNEGSNHDVIMQNDEGEVGVSNNLIIDEETF
+NTSEQ       1035
+            atgagtgcgggtatcggagaatcacgtacagagttgcttacatggttgaatggcctcctt
+            aacttgaattacaaaaaaattgaggaatgtgggacgggagcagcatattgtcaaataatg
+            gattcaatttatggagacttgccgatgaacagggtaaaattcaatgccacggccgaatat
+            gagtttcaaaccaactataaaattttacagagttgctttagcagacatggaattgagaaa
+            acagtgtacgttgataagttaatcagatgtaaatttcaagataatttagagttcttgcag
+            tggttaaagaaacattggattcgacataaagatgaaagcgtgtatgatccagatgcaagg
+            cgcaagtatcgtcccattataacgaataatagtgcaaccaaaccccgtacagtatccaac
+            cctaccactgcaaagaggtcatcaagcacaggcactgggagtgccatgtcaggaggatta
+            gcaacaagacattcttcgctgggaataaacggtagcagaaaaaccagtgttacccaaggt
+            cagttggtagcgatacaagcggaattaactaaatcgcaggaaacgatcggttcattgaat
+            gaagagatagaacaatacaaaggaacagtaagtactttagagattgaaagagaattttac
+            ttcaacaaactacgcgacatagaaatcctggtccataccactcaagatttaataaatgaa
+            ggtgtttataaatttaatgatgagaccatcaccggccatggtaatggaaatgggggagca
+            ttattacggttcgtcaagaaggtggaaagtattttatatgctactgcagaaggatttgaa
+            atgaatgatggtgaggatgaattgaatgataaaaatctgggtgaacatggaactgtgccg
+            aatcagggcggctatgcgaacagcaatggcgaggtcaatggtaacgaaggtagtaaccat
+            gatgtgataatgcagaacgacgaaggtgaggttggcgtgagcaacaacttgatcatcgac
+            gaggaaactttttaa
+///

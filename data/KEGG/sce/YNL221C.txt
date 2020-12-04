@@ -1,0 +1,113 @@
+ENTRY       YNL221C           CDS       T00005
+NAME        POP1
+DEFINITION  (RefSeq) ribonuclease P/MRP protein subunit POP1
+ORTHOLOGY   K01164  ribonuclease P/MRP protein subunit POP1 [EC:3.1.26.5]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+            sce03013  RNA transport
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03013 RNA transport
+                YNL221C (POP1)
+               03008 Ribosome biogenesis in eukaryotes
+                YNL221C (POP1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YNL221C (POP1)
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YNL221C (POP1)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YNL221C (POP1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.26  Endoribonucleases producing 5'-phosphomonoesters
+                3.1.26.5  ribonuclease P
+                 YNL221C (POP1)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Pre-60S particles
+               RNases
+                RNase MRP
+                 YNL221C (POP1)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              5'processing factors
+               Ribonucrease P
+                YNL221C (POP1)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               RNase MRP
+                YNL221C (POP1)
+POSITION    XIV:complement(231068..233695)
+MOTIF       Pfam: POP1 POPLD
+DBLINKS     NCBI-GeneID: 855500
+            NCBI-ProteinID: NP_014178
+            SGD: S000005165
+            UniProt: P41812
+STRUCTURE   PDB: 6AH3 6AGB
+AASEQ       875
+            MSGSLSRGNGGKKVLNKNQLLKRNRIRNARSIRAEAVAASSTKTGTPSDLSESGSKLNVD
+            QFISSRQFEVKQLQLAMHNSKAASSTRIFQALPRKLRRRTASHNVRRIPKRMRNRALREM
+            RKSDQQDVLKGSSASSRKAHGLNAKQLYKARMSIKLLRLASKSTSMKLSMPPEVTSSNCH
+            VRQKIKTLKRMIKESSTANPNIKLLNNRMGSYDCTGVNELAPIPKGRVKYTKRQKHFAWL
+            PTHIWNAKRSHMMKRWGYQMVWAPTQKCFKLTHRLGGDTCSSDGALCMDSSYIGTIIVKD
+            KSNDSEGDFLKSIIGKLTAERANLRKYREGQVLFQGLIYSFNEENGEDSTKPLGPCDVFW
+            VQKDTAIIRLHPSIYTQVFNILLQHKEKLTVQDCRYSLASVTLKGAKALESLASCLRSTE
+            YSKSFEQFKMVSMITDHNALPQRCTFAFEAIDPRHLAAPKKLNDSQRKTVNSDDILSLHE
+            NYPQDEINAVFNELCDPESRTQSYNNQNTLKEISARRYKLLTATPNSINKTTVPFKESDD
+            PSIPLVIIRRLKTRDWIVVLPWFWLLPLWHLLNRIPRMYHIGLRQFQQIQYENKQLYFPD
+            DYPFTQLGYIENSFYKKEASKTKWDRKPMGKRINFEKIKDIHNTKLPAYSGEIGDFFSSD
+            WRFLQILRNGIDYLQRNDKTLELMDSKKTGQFNAQGVRDINCVNDVLEFCKDYEAKTKAM
+            SLSIEENIPVALCKNRKCQFRTPDSISVNSSSFSLTFFPRCIIAVSCTLLERGHPKDNAR
+            IYQVPEKDLEHWLQLAKGVYRPNGRKDHDLKIPLPEVHDLIGFITSGTYHLNCGNGMGIG
+            FIDHHAAIRQPTRYVLIRNVGTNTYRLGEWSKISV
+NTSEQ       2628
+            atgagcgggagtttgtctagaggaaatggtggaaagaaagttcttaataagaatcaatta
+            ctgaagcgaaatcgcataagaaatgctagatcaattagagcagaggccgtggccgcttca
+            tcaacaaaaactgggacaccgagtgatctgagtgaatcgggaagtaagctaaacgtggac
+            caattcattagttctcgacaattcgaggttaagcagttgcaattggccatgcataattcc
+            aaagcagccagctcaacgagaatatttcaggcattgcctcgaaaattgcgtcgtagaacg
+            gcttcgcataatgttcgtagaattccaaaaagaatgcgcaatagagctttgagggaaatg
+            cgtaaaagtgatcagcaggatgtgttgaaggggtcttcagcctcttccagaaaagctcat
+            ggcctaaatgcaaagcaactttataaagctagaatgtccataaagctgctacgattggct
+            agcaaatctacttctatgaaactcagcatgccaccagaggttacatcatctaactgccac
+            gtaaggcagaaaatcaagacattaaagcgaatgattaaagaatcatcaacagcaaatcca
+            aatataaagttacttaataatcgtatggggagctatgattgcactggtgtcaatgaatta
+            gcacctattcccaagggcagggtcaaatatacgaagagacagaagcactttgcttggcta
+            cccacccacatttggaatgctaaaaggtcgcacatgatgaaaagatggggatatcaaatg
+            gtatgggcacctactcaaaaatgctttaaattgacgcataggttgggcggtgatacctgc
+            agctccgatggggccttatgcatggattcaagttatattggtacaataattgtaaaagac
+            aaaagcaatgacagtgagggggactttttaaaatccattataggaaagttaacagctgaa
+            agagcaaacttaaggaaatatcgcgaaggccaggttttattccaagggttaatttatagt
+            ttcaatgaagaaaacggtgaggattctactaagccactgggtccatgcgacgtattttgg
+            gtacaaaaggatactgcaattataaggttacacccttcaatttatactcaggtttttaac
+            attcttttgcaacataaggaaaaactaacagtacaagattgtcgatattcattagcaagc
+            gtgacattgaagggagctaaagctctagagtcattagcatcgtgtttaaggagcacagag
+            tactctaaatcgtttgaacaatttaaaatggtttcaatgattaccgatcataatgcccta
+            ccacagaggtgtacgtttgcatttgaagccatagatccgcgtcatctagctgctccaaag
+            aaattaaatgattcacagaggaagactgttaattctgacgacattttatcactgcatgaa
+            aactatcctcaagacgaaataaacgccgtttttaacgaattatgtgaccctgaatcacgt
+            actcaatcatacaacaaccaaaacacattaaaagaaatttctgcgagacgttacaaattg
+            ctaactgccacaccgaacagcatcaataaaactacagtcccgttcaaagaaagtgacgat
+            ccttctattccattagtcataataagaaggctcaagaccagggattggattgttgtgtta
+            ccatggttctggctgctaccgttatggcatctactgaaccggataccaaggatgtatcac
+            attggcctcaggcaattccagcaaattcagtacgagaataagcaattatattttccggat
+            gattatccattcactcaattgggttatatagaaaactcattttataaaaaggaggcctcc
+            aagacgaagtgggataggaagccaatgggaaaaaggattaatttcgagaagatcaaagac
+            atccataacactaaattaccggcatatagcggagaaatcggcgattttttcagttcagac
+            tggagatttttacaaatactgagaaatggaattgattatttacagcggaatgataaaacc
+            ttagaactgatggacagtaagaagaccgggcaatttaacgctcagggtgtaagagacatc
+            aactgtgtaaatgatgttttggagttttgcaaagattatgaagccaagaccaaggctatg
+            tcgttgtcgattgaagagaacataccagttgcattgtgtaaaaatcggaaatgtcaattt
+            cgcactcctgatagcattagcgtcaatagttcttcattctcccttacattcttcccacgt
+            tgtatcattgctgtatcttgcacactactcgaacgaggtcacccaaaggacaatgcaaga
+            atatatcaagttccagaaaaggacttagagcattggctacaattggcaaaaggggtttac
+            cgcccaaacggaagaaaagatcatgatttgaaaattccacttccagaggtacatgatttg
+            attggttttattaccagcggcacctaccacttaaattgtggaaatggtatgggaatcgga
+            tttatagatcatcatgcggccatccggcaaccaactaggtatgtactgatcagaaatgta
+            ggtaccaacacttataggttgggggagtggtcgaaaatatccgtataa
+///

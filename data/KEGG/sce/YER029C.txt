@@ -1,0 +1,64 @@
+ENTRY       YER029C           CDS       T00005
+NAME        SMB1
+DEFINITION  (RefSeq) mRNA splicing protein SMB1
+ORTHOLOGY   K11086  small nuclear ribonucleoprotein B and B'
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YER029C (SMB1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YER029C (SMB1)
+               03032 DNA replication proteins [BR:sce03032]
+                YER029C (SMB1)
+            Spliceosome [BR:sce03041]
+             Complex A
+              U1 snRNP components
+               Sm proteins
+                YER029C (SMB1)
+              U2 snRNP components
+                YER029C (SMB1)
+             Complex B
+              U1 snRNP components
+                YER029C (SMB1)
+              U4/U6.U5 tri-snRNP components
+                YER029C (SMB1)
+             Complex C
+              U2 snRNP components
+                YER029C (SMB1)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Termination Factors
+               Telomerase complex (fungi)
+                Sm core complex
+                 YER029C (SMB1)
+POSITION    V:complement(212587..213177)
+MOTIF       Pfam: LSM
+DBLINKS     NCBI-GeneID: 856751
+            NCBI-ProteinID: NP_010946
+            SGD: S000000831
+            UniProt: P40018
+STRUCTURE   PDB: 6J6G 6N7R 5ZWN 6BK8 5GMK 6J6H 6N7X 6N7P 5YLZ 5GAN 5GAO
+                 6J6Q 6EXN 5Y88 5GAM 5LJ3 5LJ5 3JCM 5MPS 6J6N 5ZWO 6G90
+                 5WSG 5MQ0 5LQW
+AASEQ       196
+            MSKIQVAHSSRLANLIDYKLRVLTQDGRVYIGQLMAFDKHMNLVLNECIEERVPKTQLDK
+            LRPRKDSKDGTTLNIKVEKRVLGLTILRGEQILSTVVEDKPLLSKKERLVRDKKEKKQAQ
+            KQTKLRKEKEKKPGKIAKPNTANAKHTSSNSREIAQPSSSRYNGGNDNIGANRSRFNNEA
+            PPQTRKFQPPPGFKRK
+NTSEQ       591
+            atgagcaaaatacaggtggcacatagcagccgactagccaaccttattgattataagctg
+            agggttctcactcaagatggccgcgtttacatcgggcaattgatggcatttgataaacat
+            atgaatttagtgttgaatgagtgtatagaagagagggtacccaaaactcaactagataaa
+            ttaagaccgagaaaagattcaaaagatggaaccactttgaacatcaaggtagaaaaaaga
+            gtgttgggactgactatactaagaggagaacagatcttatccacagtggtggaggataag
+            ccgctactatccaagaaggaaagactagtgagagataaaaaggaaaagaaacaagcgcaa
+            aagcagacgaaactaagaaaagagaaagagaaaaagccgggaaagatcgctaaacctaac
+            acggccaatgcgaagcatactagtagcaattctagggagattgcccaaccatcgtcgagc
+            agatacaatggtggcaacgataatatcggcgcaaataggtcgaggtttaataatgaagcg
+            ccccctcaaacaaggaagtttcagcccccaccaggttttaaaagaaaataa
+///

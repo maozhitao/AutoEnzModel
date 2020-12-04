@@ -1,0 +1,71 @@
+ENTRY       YDR121W           CDS       T00005
+NAME        DPB4
+DEFINITION  (RefSeq) DNA polymerase epsilon noncatalytic subunit
+ORTHOLOGY   K02326  DNA polymerase epsilon subunit 3 [EC:2.7.7.7]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03030  DNA replication
+            sce03410  Base excision repair
+            sce03420  Nucleotide excision repair
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                YDR121W (DPB4)
+               03410 Base excision repair
+                YDR121W (DPB4)
+               03420 Nucleotide excision repair
+                YDR121W (DPB4)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YDR121W (DPB4)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YDR121W (DPB4)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YDR121W (DPB4)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 YDR121W (DPB4)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Elongation Factors
+               DNA polymerase epsilon complex
+                YDR121W (DPB4)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Chromatin remodeling factors
+               CHRAC complex
+                YDR121W (DPB4)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                Long Patch-BER factors
+                 DNA polymerase epsilon complex
+                  YDR121W (DPB4)
+POSITION    IV:693585..694175
+MOTIF       Pfam: CBFD_NFYB_HMF Histone
+DBLINKS     NCBI-GeneID: 851699
+            NCBI-ProteinID: NP_010406
+            SGD: S000002528
+            UniProt: Q04603
+AASEQ       196
+            MPPKGWRKDAQGNYPTTSYIKEQENITIQDLLFPKSTIVNLAREVPQQSGKKLLINKDAS
+            LALQRGATVFVNHLLLFAREIAKSQDKKSCSVDDVLSALDHIGHSALKGPVRDKLDEYQA
+            AVEQRKKEKLDSGEVDADGDIDMGEDKENVPVEKVKEHDEIEEQGDALQDVEESSEKKQK
+            TESQDVETRVQNLEQT
+NTSEQ       591
+            atgccaccaaaaggttggagaaaagacgcccaagggaattaccccactacttcgtatatt
+            aaagaacaagagaacattacgattcaggacctgttatttcctaaaagcactattgtgaat
+            ttggcacgcgaagtgccacagcaaagcggcaaaaagctgctgataaataaagacgcatca
+            ctagcgttacagcgtggtgctacagtatttgttaaccacttgctcctgtttgcaagggaa
+            attgcaaagagtcaagataaaaaaagctgcagtgtagatgatgttctgagtgctttggac
+            catataggacactcggcattgaagggtccggttagagataaactagatgaataccaagct
+            gctgttgaacagaggaagaaggaaaaactagatagtggtgaagtagatgctgatggcgat
+            atagatatgggtgaagataaggagaatgtgcccgtggaaaaggttaaagagcatgacgaa
+            atagaagaacaaggcgatgcattacaggacgtagaagagtcctccgaaaagaaacagaaa
+            acggagagccaagatgtagaaactagagttcaaaaccttgagcaaacgtaa
+///

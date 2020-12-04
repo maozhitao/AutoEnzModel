@@ -1,0 +1,67 @@
+ENTRY       YFL048C           CDS       T00005
+NAME        EMP47
+DEFINITION  (RefSeq) Emp47p
+ORTHOLOGY   K10080  lectin, mannose-binding 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04141  Protein processing in endoplasmic reticulum
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YFL048C (EMP47)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YFL048C (EMP47)
+              09183 Protein families: signaling and cellular processes
+               04091 Lectins [BR:sce04091]
+                YFL048C (EMP47)
+            Membrane trafficking [BR:sce04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Forward pathways
+               ER-Golgi intermediate compartment (ERGIC) proteins
+                YFL048C (EMP47)
+            Lectins [BR:sce04091]
+             L-type lectins
+              YFL048C (EMP47)
+POSITION    VI:complement(38843..40180)
+MOTIF       Pfam: Lectin_leg-like Bact_lectin YebO
+DBLINKS     NCBI-GeneID: 850496
+            NCBI-ProteinID: NP_116606
+            SGD: S000001846
+            UniProt: P43555
+STRUCTURE   PDB: 2A6Z 2A70 2A6Y 2A71
+AASEQ       445
+            MMMLITMKSTVLLSVFTVLATWAGLLEAHPLGDTSDASKLSSDYSLPDLINARKVPNNWQ
+            TGEQASLEEGRIVLTSKQNSKGSLWLKQGFDLKDSFTMEWTFRSVGYSGQTDGGISFWFV
+            QDSNVPRDKQLYNGPVNYDGLQLLVDNNGPLGPTLRGQLNDGQKPVDKTKIYDQSFASCL
+            MGYQDSSVPSTIRVTYDLEDDNLLKVQVDNKVCFQTRKVRFPSGSYRIGVTAQNGAVNNN
+            AESFEIFKMQFFNGVIEDSLIPNVNAMGQPKLITKYIDQQTGKEKLIEKTAFDADKDKIT
+            NYELYKKLDRVEGKILANDINALETKLNDVIKVQQELLSFMTTITKQLSSKPPANNEKGT
+            STDDAIAEDKENFKDFLSINQKLEKVLVEQEKYREATKRHGQDGPQVDEIARKLMIWLLP
+            LIFIMLVMAYYTFRIRQEIIKTKLL
+NTSEQ       1338
+            atgatgatgttaattactatgaaaagtacagtactgttgagtgtttttaccgtcttagcg
+            acatgggctggattgctagaagctcatccattgggtgacacttcagatgcatccaaatta
+            agctcagactactcgctccctgatctcattaatgcacgtaaagtgcccaataactggcaa
+            actggagaacaagctagtctagaggaagggagaattgtattgacttctaagcaaaattcc
+            aagggttcactttggttgaagcaaggattcgatttgaaggattcttttactatggagtgg
+            acatttaggagtgttggttattctggccaaaccgacggtggcatatcattttggtttgtt
+            caagattctaacgtaccacgcgataagcagttatacaatgggccagtgaactatgatggt
+            ttacaattattagtggataacaatggtccattgggcccaacacttcgtggtcaactaaat
+            gatggtcaaaagcctgtagataagacgaaaatctatgatcagagttttgcatcttgtttg
+            atgggttatcaggattcctccgttccttccacgatcagagtaacttatgatttggaagac
+            gacaacttattaaaagttcaggtggacaataaagtctgtttccaaactaggaaggttcgc
+            tttccctctgggtcttaccgtattggtgtcaccgctcaaaatggagcagtgaataataat
+            gcagagtcttttgaaatattcaaaatgcaattttttaatggcgtgattgaagattctttg
+            atccctaatgtgaatgcaatgggtcagccaaaactgatcaccaaatacattgaccaacaa
+            accggcaaagaaaaattgattgaaaaaacagcatttgacgctgacaaagacaaaattaca
+            aactatgaattgtataagaaactggatagagttgaaggtaaaattcttgcgaacgatatc
+            aatgctttagaaacaaagctaaatgatgtcattaaggtccaacaagagctattatcattc
+            atgactacgataactaaacagctctcttctaagccaccagctaataatgaaaagggaacg
+            tccaccgatgatgcaatcgctgaggataaagaaaatttcaaagacttcttatcaatcaat
+            cagaaattggagaaagtcctggttgaacaagaaaagtatagggaagctaccaaacgtcat
+            ggacaagatggtcctcaggtcgacgaaattgccagaaaactaatgatttggttacttcca
+            ttaattttcattatgttggttatggcatattacacattcagaatcagacaagagatcata
+            aagaccaaactgctatga
+///

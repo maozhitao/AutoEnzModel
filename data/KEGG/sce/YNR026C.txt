@@ -1,0 +1,62 @@
+ENTRY       YNR026C           CDS       T00005
+NAME        SEC12, SED2
+DEFINITION  (RefSeq) Sar family guanine nucleotide exchange factor SEC12
+ORTHOLOGY   K14003  prolactin regulatory element-binding protein
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04141  Protein processing in endoplasmic reticulum
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YNR026C (SEC12)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YNR026C (SEC12)
+            Membrane trafficking [BR:sce04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Forward pathways
+               Coat protein complex II (COP-II)
+                YNR026C (SEC12)
+POSITION    XIV:complement(673274..674689)
+MOTIF       Pfam: WD40
+DBLINKS     NCBI-GeneID: 855760
+            NCBI-ProteinID: NP_014423
+            SGD: S000005309
+            UniProt: P11655
+STRUCTURE   PDB: 4H5I 4H5J
+AASEQ       471
+            MKFVTASYNVGYPAYGAKFLNNDTLLVAGGGGEGNNGIPNKLTVLRVDPTKDTEKEQFHI
+            LSEFALEDNDDSPTAIDASKGIILVGCNENSTKITQGKGNKHLRKFKYDKVNDQLEFLTS
+            VDFDASTNADDYTKLVYISREGTVAAIASSKVPAIMRIIDPSDLTEKFEIETRGEVKDLH
+            FSTDGKVVAYITGSSLEVISTVTGSCIARKTDFDKNWSLSKINFIADDTVLIAASLKKGK
+            GIVLTKISIKSGNTSVLRSKQVTNRFKGITSMDVDMKGELAVLASNDNSIALVKLKDLSM
+            SKIFKQAHSFAITEVTISPDSTYVASVSAANTIHIIKLPLNYANYTSMKQKISKFFTNFI
+            LIVLLSYILQFSYKHNLHSMLFNYAKDNFLTKRDTISSPYVVDEDLHQTTLFGNHGTKTS
+            VPSVDSIKVHGVHETSSVNGTEVLCTESNIINTGGAEFEITNATFREIDDA
+NTSEQ       1416
+            atgaagttcgtgacagctagttataacgtcgggtatcctgcgtacggtgcaaaatttttg
+            aataacgacacattacttgtggcaggcggtggaggagaaggaaacaatggcataccaaac
+            aagctgacggtcttgcgcgtggatcctaccaaagatactgagaaggaacagtttcatata
+            ttgagcgagtttgcattggaagacaacgacgactctcctactgcaattgacgcttccaag
+            ggtatcattttggttggctgcaatgaaaatagcactaagattacccaaggtaaaggtaat
+            aagcacttgagaaaatttaaatacgataaagtgaatgatcaattggagttcctcactagt
+            gtagactttgacgcatctacaaatgcggatgactacacgaagctggtttatatttcacga
+            gaaggtaccgttgcagctatcgcatcatctaaagtacctgctataatgagaatcattgac
+            ccgagcgacttgacagagaagtttgagatcgagactaggggtgaagtaaaggatttacac
+            ttttccactgatggtaaggttgttgcttatatcaccggttctagcttggaagtgatttca
+            acagtgactggaagttgcattgctaggaaaacagattttgataagaattggagtttatct
+            aaaataaacttcatagccgatgacacagtattgatagcagcctctttaaaaaaagggaaa
+            ggtattgtgctgaccaaaataagcatcaaatcaggaaacacttccgtattaagatccaaa
+            caagtgacaaacagattcaaagggattacttctatggatgtcgacatgaagggtgaattg
+            gcggtactggcaagtaatgacaattccatagctcttgtgaaactaaaagacctgtcaatg
+            tctaaaatattcaaacaagctcatagttttgccattacagaggtcactatctctccggac
+            tctacatatgtggcgagtgtttcggcagccaacactatccacataataaaattaccgctt
+            aactacgccaactacacctcaatgaaacaaaaaatctctaaatttttcaccaacttcatc
+            cttattgtgctgctttcttacattttacagttctcctataagcacaatttgcattccatg
+            cttttcaattacgcgaaggacaattttctaacgaaaagagacaccatctcttcgccctac
+            gtagttgatgaagacttacatcaaacaactttgtttggcaaccacggtacaaaaacatct
+            gtacctagcgtagattccataaaagtgcatggcgtgcatgagacgagttctgtgaatgga
+            actgaagtcttatgtactgaaagtaacattattaatactggaggggcagagtttgagatc
+            accaacgcaacttttcgagaaatagatgatgcttga
+///

@@ -1,0 +1,78 @@
+ENTRY       YER095W           CDS       T00005
+NAME        RAD51, MUT5
+DEFINITION  (RefSeq) recombinase RAD51
+ORTHOLOGY   K04482  DNA repair protein RAD51
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03440 Homologous recombination
+                YER095W (RAD51)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YER095W (RAD51)
+               04121 Ubiquitin system [BR:sce04121]
+                YER095W (RAD51)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YER095W (RAD51)
+            Membrane trafficking [BR:sce04131]
+             Protein recycling
+              Rab GTPases and associated proteins
+               Other Rab GTPase associated proteins
+                YER095W (RAD51)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               BRCC complex
+                YER095W (RAD51)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                BRCA complex
+                 YER095W (RAD51)
+                RecA family proteins
+                 YER095W (RAD51)
+               FA (Fanconi anemia) pathway
+                Other FA pathway factors
+                 YER095W (RAD51)
+POSITION    V:349980..351182
+MOTIF       Pfam: Rad51 RecA AAA_25 HHH_5 ATPase DnaB_C AAA_24
+DBLINKS     NCBI-GeneID: 856831
+            NCBI-ProteinID: NP_011021
+            SGD: S000000897
+            UniProt: P25454
+STRUCTURE   PDB: 3LDA 1SZP
+AASEQ       400
+            MSQVQEQHISESQLQYGNGSLMSTVPADLSQSVVDGNGNGSSEDIEATNGSGDGGGLQEQ
+            AEAQGEMEDEAYDEAALGSFVPIEKLQVNGITMADVKKLRESGLHTAEAVAYAPRKDLLE
+            IKGISEAKADKLLNEAARLVPMGFVTAADFHMRRSELICLTTGSKNLDTLLGGGVETGSI
+            TELFGEFRTGKSQLCHTLAVTCQIPLDIGGGEGKCLYIDTEGTFRPVRLVSIAQRFGLDP
+            DDALNNVAYARAYNADHQLRLLDAAAQMMSESRFSLIVVDSVMALYRTDFSGRGELSARQ
+            MHLAKFMRALQRLADQFGVAVVVTNQVVAQVDGGMAFNPDPKKPIGGNIMAHSSTTRLGF
+            KKGKGCQRLCKVVDSPCLPEAECVFAIYEDGVGDPREEDE
+NTSEQ       1203
+            atgtctcaagttcaagaacaacatatatcagagtcacagcttcagtacgggaacggttcg
+            ttgatgtccactgtaccagcagacctttcacagtcagtcgttgatggaaacggcaacggt
+            agcagcgaagatattgaggccaccaacggctccggcgatggtggcggattgcaggagcaa
+            gcggaagcgcaaggtgaaatggaggatgaagcatacgatgaagctgccttaggttcgttt
+            gtgccaatagaaaaactgcaagtgaacgggattactatggcggatgtgaaaaaactaagg
+            gagagtgggcttcacactgctgaagcggtagcatatgctcccagaaaggatttattggaa
+            atcaaaggtatatcggaagctaaggcagataagttgctaaacgaagcggcaaggctagtg
+            cctatgggatttgtcacggctgctgattttcatatgagaagatcggagctgatttgtttg
+            acaacgggttctaagaatttggacactcttttgggtggtggtgtggaaactggttctatt
+            actgagcttttcggtgaattcaggacaggtaagtcccagctatgtcacactttggccgtg
+            acatgccaaattccattggatattggtggcggtgaaggtaagtgtttgtatatcgatacc
+            gaaggtactttcaggccggtaagattggtatccatagctcagcggttcggattagacccg
+            gatgatgctttgaacaacgttgcgtatgcaagagcctataacgccgatcatcagttaaga
+            cttctggatgctgctgcccaaatgatgagcgagtctcggttttccttgattgtggtcgat
+            tctgttatggctctataccgtacggatttttctggtcgtggtgaactaagcgcaaggcaa
+            atgcatttagccaaatttatgcgtgctttgcaaaggctggccgaccaatttggtgttgca
+            gtcgtcgttactaaccaagtggtcgcccaagttgatggtggtatggcttttaatccagat
+            ccaaagaagcctatcggtggtaatattatggcacattcttccaccacgcgattaggtttc
+            aaaaagggtaagggatgtcaaagattatgcaaagttgttgactcaccttgcttaccagag
+            gctgaatgtgtgttcgcgatctatgaagatggtgttggtgaccccagagaagaagacgag
+            tag
+///

@@ -1,0 +1,74 @@
+ENTRY       Q0045             CDS       T00005
+NAME        COX1, OXI3
+DEFINITION  (RefSeq) cytochrome c oxidase subunit 1
+ORTHOLOGY   K02256  cytochrome c oxidase subunit 1 [EC:7.1.1.9]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00190  Oxidative phosphorylation
+            sce01100  Metabolic pathways
+MODULE      sce_M00154  Cytochrome c oxidase
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                Q0045 (COX1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                Q0045 (COX1)
+            Enzymes [BR:sce01000]
+             7. Translocases
+              7.1  Catalysing the translocation of hydrons
+               7.1.1  Linked to oxidoreductase reactions
+                7.1.1.9  cytochrome-c oxidase
+                 Q0045 (COX1)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial DNA-encoded proteins
+               Cytochrome c oxidase
+                Q0045 (COX1)
+POSITION    MT:join(13818..13986,16435..16470,18954..18991,20508..20984,21995..22246,23612..23746,25318..25342,26229..26701)
+MOTIF       Pfam: COX1
+DBLINKS     NCBI-GeneID: 854598
+            NCBI-ProteinID: NP_009305
+            SGD: S000007260
+            UniProt: P00401
+STRUCTURE   PDB: 6GIQ 6HU9
+AASEQ       534
+            MVQRWLYSTNAKDIAVLYFMLAIFSGMAGTAMSLIIRLELAAPGSQYLHGNSQLFNVLVV
+            GHAVLMIFFLVMPALIGGFGNYLLPLMIGATDTAFPRINNIAFWVLPMGLVCLVTSTLVE
+            SGAGTGWTVYPPLSSIQAHSGPSVDLAIFALHLTSISSLLGAINFIVTTLNMRTNGMTMH
+            KLPLFVWSIFITAFLLLLSLPVLSAGITMLLLDRNFNTSFFEVSGGGDPILYEHLFWFFG
+            HPEVYILIIPGFGIISHVVSTYSKKPVFGEISMVYAMASIGLLGFLVWSHHMYIVGLDAD
+            TRAYFTSATMIIAIPTGIKIFSWLATIHGGSIRLATPMLYAIAFLFLFTMGGLTGVALAN
+            ASLDVAFHDTYYVVGHFHYVLSMGAIFSLFAGYYYWSPQILGLNYNEKLAQIQFWLIFIG
+            ANVIFFPMHFLGINGMPRRIPDYPDAFAGWNYVASIGSFIATLSLFLFIYILYDQLVNGL
+            NNKVNNKSVIYNKAPDFVESNTIFNLNTVKSSSIEFLLTSPPAVHSFNTPAVQS
+NTSEQ       1605
+            atggtacaaagatgattatattcaacaaatgcaaaagatattgcagtattatattttatg
+            ttagctatttttagtggtatggcaggaacagcaatgtctttaatcattagattagaatta
+            gctgcacctggttcacaatatttacatggtaattcacaattatttaatgttttagtagtt
+            ggtcatgctgtattaatgattttcttcttagtaatgcctgctttaattggaggttttggt
+            aactatttattaccattaataattggagctacagatacagcatttccaagaattaataac
+            attgctttttgagtattacctatggggttagtatgtttagttacatcaactttagtagaa
+            tcaggtgctggtacagggtgaactgtctatccaccattatcatctattcaggcacattca
+            ggacctagtgtagatttagcaatttttgcattacatttaacatcaatttcatcattatta
+            ggtgctattaatttcattgtaacaacattaaatatgagaacaaatggtatgacaatgcat
+            aaattaccattatttgtatgatcaattttcattacagcgttcttattattattatcatta
+            cctgtattatctgctggtattacaatgttattattagatagaaacttcaatacttcattc
+            tttgaagtatcaggaggtggtgacccaatcttatacgagcatttattttgattctttggt
+            caccctgaagtatatattttaattattcctggatttggtattatttcacatgtagtatca
+            acatattctaaaaaacctgtatttggtgaaatttcaatggtatatgctatggcttcaatt
+            ggattattaggattcttagtatgatcacatcatatgtatattgtaggattagatgcagat
+            cttagagcatatttcctatctgcactaatgattattgcaattccaacaggaattaaaatt
+            ttctcatgattagctctaatccatggtggttcaattagattagcactacctatgttatat
+            gcaattgcattcttattcttattcacaatgggtggtttaactggtgttgccttagctaac
+            gcctcattagatgtagcattccacgatacttactacgtggtgggacattttcactatgta
+            ttatcaatgggtgctattttctctttatttgcaggatactattattgaagtcctcaaatt
+            ttaggtttaaactataatgaaaaattagctcaaattcaattctgattaattttcattggg
+            gctaatgttattttcttcccaatgcattttttaggtattaatggtatgcctagaagaatt
+            cctgattatcctgatgctttcgcaggatgaaattatgtcgcttctattggttcattcatt
+            gcactattatcattattcttatttatctatattttatatgatcaattagttaatggatta
+            aacaataaagttaataataaatcagttatttataataaagcacctgattttgtagaatct
+            aatcttatctttaatttaaatacagttaaatcttcatctatcgaattcttattaacttct
+            ccaccagctgtacactcatttaatacaccagctgtacaatcttaa
+///

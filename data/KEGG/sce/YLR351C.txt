@@ -1,0 +1,48 @@
+ENTRY       YLR351C           CDS       T00005
+NAME        NIT3
+DEFINITION  (RefSeq) putative hydrolase
+ORTHOLOGY   K13566  omega-amidase [EC:3.5.1.3]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00250  Alanine, aspartate and glutamate metabolism
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09105 Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                YLR351C (NIT3)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.3  omega-amidase
+                 YLR351C (NIT3)
+POSITION    XII:complement(829489..830364)
+MOTIF       Pfam: CN_hydrolase DUF1415
+DBLINKS     NCBI-GeneID: 851065
+            NCBI-ProteinID: NP_013455
+            SGD: S000004343
+            UniProt: P49954
+STRUCTURE   PDB: 1F89
+AASEQ       291
+            MSASKILSQKIKVALVQLSGSSPDKMANLQRAATFIERAMKEQPDTKLVVLPECFNSPYS
+            TDQFRKYSEVINPKEPSTSVQFLSNLANKFKIILVGGTIPELDPKTDKIYNTSIIFNEDG
+            KLIDKHRKVHLFDVDIPNGISFHESETLSPGEKSTTIDTKYGKFGVGICYDMRFPELAML
+            SARKGAFAMIYPSAFNTVTGPLHWHLLARSRAVDNQVYVMLCSPARNLQSSYHAYGHSIV
+            VDPRGKIVAEAGEGEEIIYAELDPEVIESFRQAVPLTKQRRFDVYSDVNAH
+NTSEQ       876
+            atgagtgcttcgaagattctttcacaaaaaattaaagttgcgttggtccaactgtcaggc
+            tcgagtcctgacaaaatggccaatcttcaaagggctgcaacgttcattgaaagggctatg
+            aaggaacagccggataccaagttggtcgtattgccagaatgcttcaattctccgtactcc
+            actgatcagtttagaaagtattcagaagttatcaatccgaaagagccttcgacgtcagtt
+            caatttctgtctaatttagccaataagtttaaaatcatcttggtaggaggaacaattccg
+            gaattggatccaaagacagacaaaatctacaacacctctataattttcaacgaggatggc
+            aagttgattgacaagcatcggaaggtccatcttttcgatgtagacattcctaacggtata
+            tcgttccatgaaagtgaaaccttgagccctggagagaagtctactaccattgacacgaaa
+            tatggtaagtttggcgtaggtatatgctatgacatgaggtttccggaactcgcaatgcta
+            agtgcacgcaagggtgcgtttgccatgatctaccctagtgcattcaacactgtcacaggg
+            cccttgcattggcatttactggcaagaagcagggcagttgacaaccaagtgtacgtgatg
+            ttatgttctcccgcaaggaatctacagagttcttaccatgcatatggccactctatagtg
+            gtggaccctagaggcaagattgtagctgaagctggcgagggagaagagattatttatgct
+            gaattagatcccgaagtcattgagtcatttagacaagcggtacccttaaccaaacaaaga
+            agatttgacgtgtactccgatgtaaatgcgcattag
+///

@@ -1,0 +1,85 @@
+ENTRY       YJL128C           CDS       T00005
+NAME        PBS2, HOG4, SFS4, SSK4
+DEFINITION  (RefSeq) mitogen-activated protein kinase kinase PBS2
+ORTHOLOGY   K11227  mitogen-activated protein kinase kinase [EC:2.7.12.2]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04011  MAPK signaling pathway - yeast
+            sce04139  Mitophagy - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               04011 MAPK signaling pathway - yeast
+                YJL128C (PBS2)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04139 Mitophagy - yeast
+                YJL128C (PBS2)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:sce01001]
+                YJL128C (PBS2)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.12  Dual-specificity kinases (those acting on Ser/Thr and Tyr residues)
+                2.7.12.2  mitogen-activated protein kinase kinase
+                 YJL128C (PBS2)
+            Protein kinases [BR:sce01001]
+             Serine/threonine kinases: STE group
+              STE7 family
+               YJL128C (PBS2)
+POSITION    X:complement(178097..180103)
+MOTIF       Pfam: Pkinase PK_Tyr_Ser-Thr Kinase-like Seadorna_VP7 Pkinase_fungal Hep_59
+DBLINKS     NCBI-GeneID: 853313
+            NCBI-ProteinID: NP_012407
+            SGD: S000003664
+            UniProt: P08018
+AASEQ       668
+            MEDKFANLSLHEKTGKSSIQLNEQTGSDNGSAVKRTSSTSSHYNNINADLHARVKAFQEQ
+            RALKRSASVGSNQSEQDKGSSQSPKHIQQIVNKPLPPLPVAGSSKVSQRMSSQVVQASSK
+            STLKNVLDNQETQNITDVNINIDTTKITATTIGVNTGLPATDITPSVSNTASATHKAQLL
+            NPNRRAPRRPLSTQHPTRPNVAPHKAPAIINTPKQSLSARRGLKLPPGGMSLKMPTKTAQ
+            QPQQFAPSPSNKKHIETLSNSKVVEGKRSNPGSLINGVQSTSTSSSTEGPHDTVGTTPRT
+            GNSNNSSNSGSSGGGGLFANFSKYVDIKSGSLNFAGKLSLSSKGIDFSNGSSSRITLDEL
+            EFLDELGHGNYGNVSKVLHKPTNVIMATKEVRLELDEAKFRQILMELEVLHKCNSPYIVD
+            FYGAFFIEGAVYMCMEYMDGGSLDKIYDESSEIGGIDEPQLAFIANAVIHGLKELKEQHN
+            IIHRDVKPTNILCSANQGTVKLCDFGVSGNLVASLAKTNIGCQSYMAPERIKSLNPDRAT
+            YTVQSDIWSLGLSILEMALGRYPYPPETYDNIFSQLSAIVDGPPPRLPSDKFSSDAQDFV
+            SLCLQKIPERRPTYAALTEHPWLVKYRNQDVHMSEYITERLERRNKILRERGENGLSKNV
+            PALHMGGL
+NTSEQ       2007
+            atggaagacaagtttgctaacctcagtctccatgagaaaactggtaagtcatctatccaa
+            ttaaacgagcaaacaggctcagataatggctctgctgtcaagagaacatcttcgacgtcc
+            tcgcactacaataacatcaacgctgaccttcatgctcgtgtaaaagcttttcaagaacaa
+            cgtgcattgaaaaggtctgccagcgtgggcagtaatcaaagcgagcaagacaaaggcagt
+            tcacaatcacctaaacatattcagcagattgttaataagccattgccgcctcttcccgta
+            gcaggaagttctaaggtttcacaaagaatgagtagccaagtcgtgcaagcgtcctccaag
+            agcactcttaagaacgttctggacaatcaagaaacacaaaacattaccgacgtaaatatt
+            aacatcgatacaaccaaaattaccgccacaacaattggtgtaaatactggcctacctgct
+            actgacattacgccgtcagtttctaatactgcatcagcaacacataaggcgcaattgctg
+            aatcctaacagaagggcaccaagaaggccgctttctacccagcaccctacaagaccaaat
+            gttgccccgcataaggcccctgctataatcaacacaccaaaacaaagtttaagtgcccgt
+            cgagggctcaaattaccaccaggaggaatgtcattaaaaatgcccactaaaacagctcaa
+            cagccgcagcagtttgccccaagcccttcaaacaaaaaacatatagaaaccttatcaaac
+            agcaaagttgttgaagggaaaagatcgaatccgggttctttgataaatggtgtgcaaagc
+            acatccacctcatcaagtaccgaaggcccacatgacactgtaggcactacacccagaact
+            ggaaacagcaacaactcttcaaattctggtagtagtggtggtggtggtcttttcgcaaat
+            ttctcgaaatacgtggatatcaaatccggctctttgaattttgcaggcaaactatcgcta
+            tcctctaaaggaatagatttcagcaatggttctagttcgagaattacattggacgaacta
+            gaatttttggatgaactgggtcatggtaactatggtaacgtctcaaaggtactgcataag
+            cccacaaatgttattatggcgacgaaggaagtccgtttggagctagatgaggctaaattt
+            agacaaattttaatggaactagaagttttgcataaatgcaattctccctatattgtggat
+            ttttatggtgcattctttattgagggcgccgtctacatgtgtatggaatacatggatggt
+            ggttccttggataaaatatacgacgaatcatctgaaatcggcggcattgatgaacctcag
+            ctagcgtttattgccaatgctgtcattcatggactaaaagaactcaaagagcagcataat
+            atcatacacagagatgtcaaaccaacaaatattttatgttcagccaaccaaggcaccgta
+            aagctgtgcgatttcggtgtttctggtaatttggtggcatctttagcgaagactaatatt
+            ggttgtcagtcatacatggcacctgaacgaatcaaatcgttgaatccagatagagccacc
+            tataccgtacagtcagacatctggtctttaggtttaagcattctggaaatggcactaggt
+            agatatccgtatccaccagaaacatacgacaacattttctctcaattgagcgctattgtt
+            gatgggccgccaccgagattaccttcagataaattcagttctgacgcacaagattttgtt
+            tctttatgtctacaaaagattccggaaagaagacctacatacgcagctttaacagagcat
+            ccttggttagtaaaatacagaaaccaggatgtccacatgagtgagtatatcactgaacga
+            ttagaaaggcgcaacaaaatcttacgggaacgtggtgagaatggtttatctaaaaatgta
+            ccggcattacatatgggtggtttatag
+///

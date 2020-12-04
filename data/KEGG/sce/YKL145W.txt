@@ -1,0 +1,64 @@
+ENTRY       YKL145W           CDS       T00005
+NAME        RPT1, CIM5, YTA3
+DEFINITION  (RefSeq) proteasome regulatory particle base subunit RPT1
+ORTHOLOGY   K03061  26S proteasome regulatory subunit T1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03050  Proteasome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03050 Proteasome
+                YKL145W (RPT1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03051 Proteasome [BR:sce03051]
+                YKL145W (RPT1)
+            Proteasome [BR:sce03051]
+             Eukaryotic proteasome
+              Regulatory particles
+               PA700 (19S proteasome)
+                ATPase subunits
+                 YKL145W (RPT1)
+POSITION    XI:174213..175616
+MOTIF       Pfam: AAA AAA_lid_3 AAA_5 AAA_22 AAA_16 AAA_2 DUF815 RuvB_N AAA_28 AAA_18 AAA_24 RNA_helicase AAA_7 AAA_14 AAA_33 Mg_chelatase TIP49 AAA_3 IstB_IS21
+DBLINKS     NCBI-GeneID: 853712
+            NCBI-ProteinID: NP_012777
+            SGD: S000001628
+            UniProt: P33299
+STRUCTURE   PDB: 3VLF 4A3V 5MP9 6EF3 6EF2 6EF0 5MPA 6EF1 4JPO 4CR2 4CR4
+                 4CR3 5A5B
+AASEQ       467
+            MPPKEDWEKYKAPLEDDDKKPDDDKIVPLTEGDIQVLKSYGAAPYAAKLKQTENDLKDIE
+            ARIKEKAGVKESDTGLAPSHLWDIMGDRQRLGEEHPLQVARCTKIIKGNGESDETTTDNN
+            NSGNSNSNSNQQSTDADEDDEDAKYVINLKQIAKFVVGLGERVSPTDIEEGMRVGVDRSK
+            YNIELPLPPRIDPSVTMMTVEEKPDVTYSDVGGCKDQIEKLREVVELPLLSPERFATLGI
+            DPPKGILLYGPPGTGKTLCARAVANRTDATFIRVIGSELVQKYVGEGARMVRELFEMART
+            KKACIIFFDEIDAVGGARFDDGAGGDNEVQRTMLELITQLDGFDPRGNIKVMFATNRPNT
+            LDPALLRPGRIDRKVEFSLPDLEGRANIFRIHSKSMSVERGIRWELISRLCPNSTGAELR
+            SVCTEAGMFAIRARRKVATEKDFLKAVDKVISGYKKFSSTSRYMQYN
+NTSEQ       1404
+            atgccaccaaaagaagactgggaaaaatacaaggcacctttggaagacgatgataaaaaa
+            cctgatgatgacaagatcgtacccttaacagaaggtgacattcaagtcttaaaatcatac
+            ggtgcagctccatacgcagccaaattaaagcaaactgagaatgacttaaaagacattgaa
+            gcgagaatcaaagaaaaggccggtgtgaaagaaagcgatacagggttagcaccctcccat
+            ctatgggatattatgggtgataggcagagactgggcgaagaacatcccttacaagtcgct
+            cgttgcacgaagatcattaaggggaatggtgaaagtgacgaaactacgacagataataat
+            aacagcggcaatagcaatagtaatagcaatcaacagtctactgatgcagacgaagacgat
+            gaagatgccaagtacgtgataaatcttaagcaaattgccaaatttgtcgtcggattaggt
+            gaacgtgtttctccaacagatatagaagaaggtatgcgtgtaggtgtcgataggtcgaaa
+            tataatattgaacttccattgcctccaaggattgacccatcagttactatgatgaccgtt
+            gaagaaaagcctgacgttacttatagcgatgtcggtggctgtaaagaccaaattgaaaag
+            ctgagagaagttgtcgagctgcccttattatctccagaaagatttgctactcttggtatt
+            gatccaccaaagggtatcttattatatgggccacctggtactggtaagacattatgtgct
+            cgtgctgttgctaatagaactgatgcaacttttattagggtcattgggtctgagctagtg
+            caaaaatatgtcggtgaaggtgctcgtatggttagagaattatttgaaatggctcgtacc
+            aaaaaggcttgcattatattcttcgatgaaatcgacgctgttggtggtgctcgttttgat
+            gatggtgctggtggtgataatgaagttcaaagaactatgttagaactgattacacagtta
+            gacgggtttgaccctcgtggtaacattaaagtgatgtttgccaccaataggcccaacact
+            ttagatccagctttattgagacccggtagaattgatcgtaaggtagagttttcattacct
+            gacttggaaggtcgtgcaaatatcttccgtattcactctaaatcaatgagtgtggaacgt
+            ggcatcagatgggaacttatctccagactgtgtccaaactctaccggtgcagaattaaga
+            tctgtttgcacagaagccggtatgtttgccattagagcaagaagaaaggtggctactgaa
+            aaggatttcctgaaggctgttgataaagttattagcggatacaagaagtttagttccaca
+            tcgcgttatatgcaatataattga
+///

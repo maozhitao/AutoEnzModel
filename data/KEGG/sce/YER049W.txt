@@ -1,0 +1,70 @@
+ENTRY       YER049W           CDS       T00005
+NAME        TPA1
+DEFINITION  (RefSeq) oxidative DNA demethylase
+ORTHOLOGY   K24029  prolyl 3-hydroxylase /prolyl 3,4-dihydroxylase [EC:1.14.11.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                YER049W (TPA1)
+            Enzymes [BR:sce01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.11  With 2-oxoglutarate as one donor, and incorporation of one atom of oxygen into each donor
+                1.14.11.-  
+                 YER049W (TPA1)
+POSITION    V:251728..253662
+MOTIF       Pfam: Ofd1_CTDD 2OG-FeII_Oxy_4 2OG-FeII_Oxy_3 2OG-FeII_Oxy
+DBLINKS     NCBI-GeneID: 856775
+            NCBI-ProteinID: NP_010969
+            SGD: S000000851
+            UniProt: P40032
+STRUCTURE   PDB: 3KT7 4NHK 4NHM 3KT1 3KT4 3MGU 4NHL
+AASEQ       644
+            MKRKTAEVKGEKERNSKQISLEEDKIKGMFNPKIWDKTFQDGLKKEIEDSQPYNWGTIHE
+            LVNDDLLRAVRKEIETEIHFTKKETDIYRVNQSGDLANLSGLDWDDLSRLPNLFKLRQIL
+            YSKQYRDFFGYVTKAGKLSGSKTDMSINTYTKGCHLLTHDDVIGSRRISFILYLPDPDRK
+            WKSHYGGGLRLFPSILPNVPHSDPSAKLVPQFNQIAFFKVLPGFSFHDVEEVKVDKHRLS
+            IQGWYHIPQVGEEGYIPGEEEAWVRNNTSTLAQIESNVLEDFEFPKDERNILSFHEVKHF
+            EKMLKGDAGAKTDNTPKESMTSVISDSVKLSEAEFTYLSQYISPEHLSSKGIEKLQKQFV
+            ENSSLQIESFLNDDKSELLKKVIKQKELEQECPYHSKDVKAPWKTAIPPHKARYLYIDGK
+            EYRNFQTEADILEALNNNDLPNFQFTKDAIKIISDASGNSRENNFDAELALIDLAVFHKS
+            TIFKKYLALLTSLCPVSEQILIRRFRPGMDFTLATKCRFNELLKSNPDIIDAVLEGTLCL
+            TPSAGWESGELGGYELYMMDDDEDNKQYLKEDVEDASVYRADDSGDSVLINDPPAWNTFN
+            LVLRDESVLEFVKYVSWSAKSSRWDVKMKWDVKSCDEDGQEDEA
+NTSEQ       1935
+            atgaagagaaaaactgctgaagttaaaggtgagaaggagagaaattccaaacaaatttcc
+            ctcgaagaggacaagataaagggtatgttcaaccctaaaatctgggacaagactttccag
+            gatggcttgaaaaaggaaattgaagactctcagccttacaactggggtactattcatgaa
+            ttggttaatgacgatcttctacgtgctgttcgtaaagaaatagaaactgagatccatttc
+            actaaaaaagaaaccgatatctatagagtcaaccaaagtggtgacttggccaatttgtct
+            ggtctggactgggatgacttgtcccgtttgcctaatttgttcaagctgcgccagattctg
+            tattccaagcaatatcgagatttttttggctacgtcaccaaagctggtaaattgtctggt
+            tctaagaccgacatgagcatcaacacttacacaaagggatgtcacttgttgactcatgat
+            gacgttattggctctagaaggattagtttcattttatacctaccagatcccgacagaaaa
+            tggaaatcgcattatggtggtggtctaagactttttccaagtattttaccaaacgttcca
+            cattccgatccatctgctaaactagttccacagttcaatcaaattgcttttttcaaagtt
+            ttaccgggtttctctttccacgatgtcgaagaagtcaaagttgataagcacagattatct
+            attcaaggatggtaccatattccacaagttggcgaagaaggttacatacctggtgaagaa
+            gaagcgtgggtccgtaacaacacatccactttggcgcagattgaatctaatgtcctagaa
+            gattttgaatttccaaaggacgagagaaatattttatcatttcatgaagtgaagcacttt
+            gaaaaaatgctcaagggcgatgctggcgcaaaaactgataacacacctaaagaatctatg
+            actagtgtgatttctgattcggttaagttgtctgaagccgagttcacctatctatctcaa
+            tacatctctcctgaacatttaagctcgaaaggtatcgaaaaactacaaaagcagtttgtt
+            gagaactcttctctacaaattgagtcgtttttaaatgacgataaatcagaattgttaaag
+            aaggttatcaaacaaaaagagttggaacaggaatgtccttatcattcaaaagatgtgaaa
+            gctccgtggaaaacggctattcctccacacaaagcccgttatttgtacatcgacggtaag
+            gaataccgtaatttccaaacagaagctgatattcttgaggcgctgaataacaatgatttg
+            ccaaactttcagtttactaaggacgcaattaaaattatctccgatgcttccggaaatagt
+            agggaaaacaattttgatgcagaattagcgttgattgacctagctgtatttcacaagagc
+            acaattttcaagaaatacctagctcttctaacttctttgtgcccagtcagtgagcaaatc
+            cttattagaaggtttaggccaggaatggatttcacattggccaccaaatgtcgctttaat
+            gaacttttgaaaagcaatccagatataatcgatgctgtcttggaaggtactttgtgcttg
+            acaccttctgccggttgggaatccggagagcttggtggttacgaattgtacatgatggac
+            gacgacgaagataataagcaatacttaaaggaagacgttgaagacgcttctgtttatcgt
+            gcggatgacagtggtgattcagtattgattaatgatccacctgcttggaatactttcaat
+            ttggtcttgagagatgaaagtgttttggagtttgttaagtacgtcagctggagcgctaaa
+            tctagtagatgggatgtcaaaatgaagtgggatgtcaaatcatgtgatgaagatggtcag
+            gaagatgaagcgtaa
+///

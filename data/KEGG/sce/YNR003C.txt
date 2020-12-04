@@ -1,0 +1,54 @@
+ENTRY       YNR003C           CDS       T00005
+NAME        RPC34
+DEFINITION  (RefSeq) DNA-directed RNA polymerase III subunit C34
+ORTHOLOGY   K03025  DNA-directed RNA polymerase III subunit RPC6
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03020  RNA polymerase
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03020 RNA polymerase
+                YNR003C (RPC34)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:sce03021]
+                YNR003C (RPC34)
+            Transcription machinery [BR:sce03021]
+             Eukaryotic type
+              RNA polymerase III system
+               RNA polymerase III
+                Pol III specific subunits
+                 YNR003C (RPC34)
+POSITION    XIV:complement(634344..635297)
+MOTIF       Pfam: RNA_pol_Rpc34 MarR_2 CDC13_N HTH_27 Rrf2 RPA_C
+DBLINKS     NCBI-GeneID: 855737
+            NCBI-ProteinID: NP_014400
+            SGD: S000005286
+            UniProt: P32910
+STRUCTURE   PDB: 6EU3 6EU1 6EU2 6F40 5FJ8 6EU0 6CNB 6CNC 6F44 6F41 6CNF
+                 5FJ9 5FJA 6CND 6F42
+AASEQ       317
+            MSGMIENGLQLSDNAKTLHSQMMSKGIGALFTQQELQKQMGIGSLTDLMSIVQELLDKNL
+            IKLVKQNDELKFQGVLESEAQKKATMSAEEALVYSYIEASGREGIWSKTIKARTNLHQHV
+            VLKCLKSLESQRYVKSVKSVKFPTRKIYMLYSLQPSVDITGGPWFTDGELDIEFINSLLT
+            IVWRFISENTFPNGFKNFENGPKKNVFYAPNVKNYSTTQEILEFITAAQVANVELTPSNI
+            RSLCEVLVYDDKLEKVTHDCYRVTLESILQMNQGEGEPEAGNKALEDEEEFSIFNYFKMF
+            PASKHDKEVVYFDEWTI
+NTSEQ       954
+            atgagtggaatgatagaaaatgggttacagctatcggacaatgctaaaaccttacatagc
+            cagatgatgtcgaaaggaataggcgcattatttacacagcaagaactccaaaaacaaatg
+            ggaatcgggtcgttaacagacttgatgtccattgtacaggaattgctagacaagaacttg
+            atcaaattagtaaaacaaaacgacgaattaaaatttcaaggtgtcttagaatctgaggcg
+            caaaagaaagccaccatgtcggctgaagaggcactggtatattcttatatcgaggctagc
+            ggtagagaagggatatggtccaagactatcaaggcaagaaccaatctccatcagcatgta
+            gttcttaaatgcttgaagagtttagaatcccaaagatacgtgaagagtgttaagagtgta
+            aagtttcccacaaggaaaatctacatgttgtacagcttacaaccctctgtggacatcaca
+            ggaggtccatggttcacagatggagagctggatatagaatttatcaatagtttattgact
+            attgtttggaggttcatatcagagaacaccttccctaatggcttcaagaatttcgaaaat
+            ggacccaaaaaaaacgtcttttatgctccaaacgtaaaaaattactctaccacacaagaa
+            attttggaatttattacagcggcacaagtggccaatgtcgagttaaccccttcaaatatc
+            agatctttgtgtgaagtcttagtgtacgacgacaagctggaaaaagtcacgcatgactgc
+            tatagagtgaccttagagagcattctacaaatgaaccaaggtgagggcgagccggaggca
+            ggtaataaggctttggaggatgaagaagaattttccatctttaactacttcaagatgttt
+            ccggcttcaaaacacgacaaggaagtggtctatttcgatgaatggacaatttga
+///

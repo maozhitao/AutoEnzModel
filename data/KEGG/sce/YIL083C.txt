@@ -1,0 +1,55 @@
+ENTRY       YIL083C           CDS       T00005
+NAME        CAB2
+DEFINITION  (RefSeq) phosphopantothenate--cysteine ligase CAB2
+ORTHOLOGY   K01922  phosphopantothenate---cysteine ligase (ATP) [EC:6.3.2.51]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00770  Pantothenate and CoA biosynthesis
+            sce01100  Metabolic pathways
+MODULE      sce_M00120  Coenzyme A biosynthesis, pantothenate => CoA
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00770 Pantothenate and CoA biosynthesis
+                YIL083C (CAB2)
+            Enzymes [BR:sce01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.2  Acid-D-amino-acid ligases (peptide synthases)
+                6.3.2.51  phosphopantothenate---cysteine ligase (ATP)
+                 YIL083C (CAB2)
+POSITION    IX:complement(203556..204653)
+MOTIF       Pfam: DFP
+DBLINKS     NCBI-GeneID: 854726
+            NCBI-ProteinID: NP_012183
+            SGD: S000001345
+            UniProt: P40506
+STRUCTURE   PDB: 6AIK 6AIP 6AIM 6AI9 6AI8
+AASEQ       365
+            MPPLPVLNRPQIHTSVTEISHAIDRTIKEELFPVAYTTEEEQYFKTNPKPAYIDELIKDA
+            KEFIDLQYSLKRNKIVLITSGGTTVPLENNTVRFIDNFSAGTRGASSAEQFLANGYSVIF
+            LHREFSLTPYNRSFSHSINTLFLDYIDSEGKIKPEFAENVLKNKKLYDKYMEKEEKLLLL
+            PFTTVNQYLWSLKSIAKLLNNSGCLFYLAAAVSDFFVPYSRLPQHKIQSGDNGKMGANND
+            TEGTTRTTPDGKLIVNLDPVPKFLRRLVESWATQAMIVSFKLETDESMLLYKCTQALDRY
+            NHQLVIGNLLQTRNKQVIFVSPENRKGDWVRLDEKHHSIEEMIIPEVIARHDKWVAHSKT
+            KLATK
+NTSEQ       1098
+            atgccacctctacccgtgctcaacagacctcaaattcatacgtctgttactgaaataagt
+            catgcaattgatcgtacaatcaaggaagagctctttcccgttgcctacactactgaagaa
+            gagcaatatttcaaaactaaccctaaacctgcctatatcgatgaattgattaaggacgct
+            aaagagtttattgatttgcagtattccctgaaaaggaacaaaatagttcttatcacctct
+            ggtggtactactgttccattggaaaacaatacagtacgttttatcgataatttttctgca
+            ggtactcgtggtgcatcgagtgctgaacagttcttagcgaacggatatagtgttattttc
+            ttacatagggaattctcattaactccgtataataggtccttctcccatagcattaatact
+            ttattcttggactacattgattctgaaggtaaaatcaaacctgaatttgctgagaatgtt
+            ttgaagaacaaaaagctttatgacaagtatatggagaaagaggagaaactacttttacta
+            ccattcaccacggtcaaccaatacttatggtcactgaaaagtatagccaagctattgaat
+            aatagtggttgcttgttttatttagctgctgctgtcagtgatttttttgttccatattca
+            agactacctcagcacaagattcaatcaggagacaacggtaagatgggagcaaataatgac
+            actgaaggtacaactaggactacgcctgatggtaaactgattgtgaatcttgaccctgtc
+            cctaagtttttgagaagattagtggaatcatgggccactcaagcgatgatcgtttcgttc
+            aaattagaaactgatgaatccatgctgctttacaaatgtacacaagccctggatagatac
+            aaccatcaactggttatcggaaaccttttacagacaagaaacaaacaggtcattttcgta
+            tcccctgaaaacagaaagggagattgggtacgtttggatgaaaaacaccatagcattgaa
+            gagatgataatcccagaagtcatcgcacgccatgacaaatgggtggcgcattcgaaaact
+            aagctagctacgaaataa
+///

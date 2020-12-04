@@ -1,0 +1,42 @@
+ENTRY       YOR126C           CDS       T00005
+NAME        IAH1
+DEFINITION  (RefSeq) isoamyl acetate-hydrolyzing esterase
+ORTHOLOGY   K23978  isoamyl acetate esterase [EC:3.1.1.112]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                YOR126C (IAH1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.112  isoamyl acetate esterase
+                 YOR126C (IAH1)
+POSITION    XV:complement(559961..560677)
+MOTIF       Pfam: Lipase_GDSL_2 Lipase_GDSL CDC73_C
+DBLINKS     NCBI-GeneID: 854293
+            NCBI-ProteinID: NP_014769
+            SGD: S000005652
+            UniProt: P41734
+STRUCTURE   PDB: 3MIL
+AASEQ       238
+            MDYEKFLLFGDSITEFAFNTRPIEDGKDQYALGAALVNEYTRKMDILQRGFKGYTSRWAL
+            KILPEILKHESNIVMATIFLGANDACSAGPQSVPLPEFIDNIRQMVSLMKSYHIRPIIIG
+            PGLVDREKWEKEKSEEIALGYFRTNENFAIYSDALAKLANEEKVPFVALNKAFQQEGGDA
+            WQQLLTDGLHFSGKGYKIFHDELLKVIETFYPQYHPKNMQYKLKDWRDVLDDGSNIMS
+NTSEQ       717
+            atggattacgagaagtttctgttatttggggattccattactgaatttgcttttaatact
+            aggcccattgaagatggcaaagatcagtatgctcttggagccgcattagtcaacgaatat
+            acgagaaaaatggatattcttcaaagagggttcaaagggtacacttctagatgggcgttg
+            aaaatacttcctgagattttaaagcatgaatccaatattgtcatggccacaatatttttg
+            ggtgccaacgatgcatgctcagcaggtccccaaagtgtccccctccccgaatttatcgat
+            aatattcgtcaaatggtatctttgatgaagtcttaccatatccgtcctattataatagga
+            ccggggctagtagatagagagaagtgggaaaaagaaaaatctgaagaaatagctctcgga
+            tacttccgtaccaacgagaactttgccatttattccgatgccttagcaaaactagccaat
+            gaggaaaaagttcccttcgtggctttgaataaggcgtttcaacaggaaggtggtgatgct
+            tggcaacaactgctaacagatggactgcacttttccggaaaagggtacaaaatttttcat
+            gacgaattattgaaggtcattgagacattctacccccaatatcatcccaaaaacatgcag
+            tacaaactgaaagattggagagatgtgctagatgatggatctaacataatgtcttga
+///

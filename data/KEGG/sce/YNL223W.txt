@@ -1,0 +1,86 @@
+ENTRY       YNL223W           CDS       T00005
+NAME        ATG4, APG4, AUT2
+DEFINITION  (RefSeq) cysteine protease ATG4
+ORTHOLOGY   K08342  cysteine protease ATG4 [EC:3.4.22.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04136  Autophagy - other
+            sce04138  Autophagy - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04138 Autophagy - yeast
+                YNL223W (ATG4)
+               04136 Autophagy - other
+                YNL223W (ATG4)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YNL223W (ATG4)
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YNL223W (ATG4)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YNL223W (ATG4)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.22  Cysteine endopeptidases
+                3.4.22.-  
+                 YNL223W (ATG4)
+            Peptidases and inhibitors [BR:sce01002]
+             Cysteine peptidases
+              Family C54: Aut2 peptidase family
+               YNL223W (ATG4)
+            Membrane trafficking [BR:sce04131]
+             Autophagy
+              Autophagosome formation proteins
+               Atg8 conjugation proteins
+                YNL223W (ATG4)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial quality control factors
+              Mitophagy factors
+               Autophagy-related proteins
+                YNL223W (ATG4)
+POSITION    XIV:227370..228854
+MOTIF       Pfam: Peptidase_C54
+DBLINKS     NCBI-GeneID: 855498
+            NCBI-ProteinID: NP_014176
+            SGD: S000005167
+            UniProt: P53867
+AASEQ       494
+            MQRWLQLWKMDLVQKVSHGVFEGSSEEPAALMNHDYIVLGEVYPERDEESGAEQCEQDCR
+            YRGEAVSDGFLSSLFGREISSYTKEFLLDVQSRVNFTYRTRFVPIARAPDGPSPLSLNLL
+            VRTNPISTIEDYIANPDCFNTDIGWGCMIRTGQSLLGNALQILHLGRDFRVNGNESLERE
+            SKFVNWFNDTPEAPFSLHNFVSAGTELSDKRPGEWFGPAATARSIQSLIYGFPECGIDDC
+            IVSVSSGDIYENEVEKVFAENPNSRILFLLGVKLGINAVNESYRESICGILSSTQSVGIA
+            GGRPSSSLYFFGYQGNEFLHFDPHIPQPAVEDSFVESCHTSKFGKLQLSEMDPSMLIGIL
+            IKGEKDWQQWKLEVAESAIINVLAKRMDDFDVSCSMDDVESVSSNSMKKDASNNENLGVL
+            EGDYVDIGAIFPHTTNTEDVDEYDCFQDIHCKKQKIVVMGNTHTVNANLTDYEVEGVLVE
+            KETVGIHSPIDEKC
+NTSEQ       1485
+            atgcagaggtggctacaactgtggaaaatggatttggtacaaaaagtgtctcatggcgtt
+            tttgaaggctcgtccgaagaaccggctgctcttatgaatcatgattatatagtattaggg
+            gaagtatatcctgagcgagacgaagaatctggcgctgaacaatgtgaacaagactgtcga
+            tatcgcggtgaagcggttagtgacgggtttttaagctctctttttggtagggaaatttct
+            tcttacacaaaggaatttcttttggatgtacaatcaagggtcaactttacatatcggaca
+            agatttgttcctatagcaagggcgccagatgggccttcacctttaagtctaaatttatta
+            gtacgtacaaatccgatcagtacaatagaggactatatagcaaatcctgattgctttaac
+            actgatattgggtgggggtgtatgataaggacaggacaaagtttgttggggaatgcctta
+            caaatccttcatttgggcagagatttcagggtaaatggtaacgaaagtctggaaagagaa
+            tcaaaatttgtaaattggtttaatgacacgcctgaggctccattttcgttacataacttt
+            gtttctgcaggtacagaactctctgataaaagaccaggtgaatggtttggtcccgcagct
+            acggcaaggagtatacaatctttaatatatggcttccccgaatgtggcatcgatgattgt
+            atagtatctgtttcatccggcgatatctatgaaaatgaagttgaaaaagtatttgctgag
+            aatccaaatagtagaatattgttcttgttgggcgtgaagctcgggattaatgcggtaaat
+            gagagctatagagaaagtatatgtggtatcttaagttcaacacagtcagtaggcattgcc
+            ggcggtaggccgtcttcatcgttgtatttttttggttatcaaggaaatgaatttttacat
+            ttcgatcctcatattcctcaaccggcagtagaagattcatttgtagagtcgtgccatacc
+            agtaaatttggtaaattgcaactatcggaaatggatccctcgatgctcattggtattttg
+            attaagggcgaaaaagactggcaacaatggaagctagaagttgcagaatctgctattatc
+            aatgttcttgctaagagaatggatgactttgatgtgagttgtagtatggatgacgtggaa
+            agtgtaagttctaactcaatgaagaaagatgcaagcaataatgaaaatctcggagtacta
+            gagggagactacgtagatattggtgcaatattcccacacacaacaaatacagaagatgta
+            gacgaatatgattgttttcaagatattcattgcaagaaacagaagattgttgttatggga
+            aacacacacactgttaatgcgaatttaacagattatgaagtagaaggcgtccttgtagag
+            aaggaaacggtaggtattcacagtcctattgatgaaaaatgctag
+///

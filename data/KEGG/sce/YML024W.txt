@@ -1,0 +1,42 @@
+ENTRY       YML024W           CDS       T00005
+NAME        RPS17A, RP51A, RPL51A
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S17A
+ORTHOLOGY   K02962  small subunit ribosomal protein S17e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YML024W (RPS17A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YML024W (RPS17A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YML024W (RPS17A)
+              Archaea
+                YML024W (RPS17A)
+POSITION    XIII:join(225889..225891,226290..226697)
+MOTIF       Pfam: Ribosomal_S17e
+DBLINKS     NCBI-GeneID: 854984
+            NCBI-ProteinID: NP_013688
+            SGD: S000004486
+            UniProt: P02407
+STRUCTURE   PDB: 6FAI 6RBD 6EML 6RBE
+AASEQ       136
+            MGRVRTKTVKRASKALIERYYPKLTLDFQTNKRLCDEIATIQSKRLRNKIAGYTTHLMKR
+            IQKGPVRGISFKLQEEERERKDQYVPEVSALDLSRSNGVLNVDNQTSDLVKSLGLKLPLS
+            VINVSAQRDRRYRKRV
+NTSEQ       411
+            atgggtagagttagaaccaagaccgtcaagcgtgcttctaaggctttgattgaacgttac
+            tatccaaagttgactttggatttccaaaccaacaagagactttgtgatgaaatcgccact
+            atccaatccaagagattgagaaacaagattgctggttacaccacccatttgatgaagaga
+            atccaaaagggtccagttagaggtatctctttcaaattgcaagaagaagaaagagaaaga
+            aaggaccaatacgtcccagaagtctctgctttggacttgtctcgttctaacggtgttttg
+            aacgttgacaaccaaacttctgacttggttaaatctttgggtttgaagttgccattatct
+            gttatcaacgtttctgcccaaagagacagacgttacagaaagagagtttaa
+///

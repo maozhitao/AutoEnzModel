@@ -1,0 +1,75 @@
+ENTRY       YHR117W           CDS       T00005
+NAME        TOM71, TOM72
+DEFINITION  (RefSeq) protein channel TOM71
+ORTHOLOGY   K17768  mitochondrial import receptor subunit TOM70
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YHR117W (TOM71)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YHR117W (TOM71)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Outer membrane
+               Transporter outer membrane (TOM) complex
+                YHR117W (TOM71)
+            Transporters [BR:sce02000]
+             Other transporters
+              Primary active transporters [TC:3]
+               YHR117W (TOM71)
+POSITION    VIII:342349..344268
+MOTIF       Pfam: TPR_1 TPR_2 TPR_8 TPR_19 TPR_11 TPR_17 TPR_14 TPR_12 TPR_16 ANAPC3 TPR_9 TPR_21 TPR_3
+DBLINKS     NCBI-GeneID: 856517
+            NCBI-ProteinID: NP_011985
+            SGD: S000001159
+            UniProt: P38825
+STRUCTURE   PDB: 3FP2 3FP3 3FP4 3LCA
+AASEQ       639
+            MAENSLLRFITKNKVAILATVSAGTAAVGAYVYYQQIKQQQQQQLKGTKDNRRQSEAFAG
+            QNEDEADLKDDGSVVSGSNKRKKKKNKRKRNNKAKSGEGFDYPSLPNGEPDIAQLKGLSP
+            SQRQAYAVQLKNRGNHFFTAKNFNEAIKYYQYAIELDPNEPVFYSNISACYISTGDLEKV
+            IEFTTKALEIKPDHSKALLRRASANESLGNFTDAMFDLSVLSLNGDFDGASIEPMLERNL
+            NKQAMKVLNENLSKDEGRGSQVLPSNTSLASFFGIFDSHLEVSSVNTSSNYDTAYALLSD
+            ALQRLYSATDEGYLVANDLLTKSTDMYHSLLSANTVDDPLRENAALALCYTGIFHFLKNN
+            LLDAQVLLQESINLHPTPNSYIFLALTLADKENSQEFFKFFQKAVDLNPEYPPTYYHRGQ
+            MYFILQDYKNAKEDFQKAQSLNPENVYPYIQLACLLYKQGKFTESEAFFNETKLKFPTLP
+            EVPTFFAEILTDRGDFDTAIKQYDIAKRLEEVQEKIHVGIGPLIGKATILARQSSQDPTQ
+            LDEEKFNAAIKLLTKACELDPRSEQAKIGLAQLKLQMEKIDEAIELFEDSAILARTMDEK
+            LQATTFAEAAKIQKRLRADPIISAKMELTLARYRAKGML
+NTSEQ       1920
+            atggccgaaaactccctcctgaggtttatcaccaagaacaaagtggccatcctagcaacg
+            gtctctgcggggactgctgctgtgggtgcttatgtttactaccagcaaattaagcagcag
+            caacagcagcaattgaagggtacaaaagacaaccgacgtcaaagtgaggcctttgctggt
+            caaaatgaagacgaggcggacttaaaggacgacggcagcgtcgtaagtggaagtaataag
+            aggaagaagaagaagaataaacgcaagaggaacaataaggcaaaatcgggagaagggttt
+            gactatccctccttgcccaatggcgagcctgatattgcccaattgaaaggcctatcaccc
+            tcccagagacaagcgtatgccgtgcaactgaagaacagaggtaaccacttcttcactgct
+            aagaattttaatgaggccatcaaatactaccagtatgccattgagctggacccgaatgaa
+            ccagtgttctattccaacatatctgcttgttacatttctacgggcgacttagagaaggtt
+            atagagttcactacaaaggcacttgagataaaacctgaccattctaaagccttgctgaga
+            cgtgcatctgccaacgagtcactgggcaacttcactgatgctatgtttgatctatctgtt
+            ttgtcattgaatggtgactttgatggagcctccattgaacctatgctggaaagaaattta
+            aataagcaagcaatgaaagtactaaatgaaaacctatcgaaggatgaaggcagaggctcg
+            caggttttgccgtctaacacatctctggcgtcattttttgggatttttgactctcactta
+            gaagtttctagtgtgaacaccagttcaaactacgatactgcatacgctctattgtcagat
+            gctttgcaaagactatattctgcaacagatgaaggttacttagtagcaaacgatctttta
+            acaaagtccactgacatgtaccactctctactttctgcaaatacagtggacgatccttta
+            agagagaatgctgccttggcattgtgctacacgggtattttccatttcttaaaaaataac
+            ctgttagatgcccaagttcttttacaagaatctataaacctgcatccaacaccaaattcg
+            tacatatttttggcattgaccttggccgataaagaaaactctcaagaatttttcaaattt
+            ttccaaaaagctgttgatctaaaccctgagtatccgccaacctattaccaccgtgggcag
+            atgtattttattctacaagattataaaaatgccaaggaagatttccaaaaggcccaaagc
+            ttgaaccctgaaaatgtttatccctacattcaattagcctgtttgttgtacaagcaaggt
+            aaatttaccgaatctgaagcttttttcaatgaaacaaagttgaagtttcctaccttacct
+            gaggtgcccacctttttcgctgaaatcttgacagataggggcgattttgatactgcaatt
+            aaacaatatgatattgctaaaaggttggaagaagtgcaagaaaaaatacatgtgggtata
+            ggacccttgattgggaaagcaactatattagctagacaatcctctcaagatccaacccag
+            ttggatgaagagaaattcaacgcagccattaagctgctgacaaaagcctgtgaattagat
+            ccacgatctgaacaagcgaagatcgggttagcacaactaaaattacaaatggaaaaaatt
+            gacgaggccatagaattgtttgaagattctgcaattttagcaagaactatggatgaaaaa
+            cttcaagctactaccttcgcggaagctgcaaagatacaaaagcgtttgagggctgatcca
+            atcataagtgcaaagatggagctaacattagctcgttatagggctaaaggcatgctttag
+///

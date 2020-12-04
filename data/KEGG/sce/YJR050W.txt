@@ -1,0 +1,48 @@
+ENTRY       YJR050W           CDS       T00005
+NAME        ISY1, NTC30, UTR3
+DEFINITION  (RefSeq) Isy1p
+ORTHOLOGY   K12870  pre-mRNA-splicing factor ISY1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YJR050W (ISY1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YJR050W (ISY1)
+            Spliceosome [BR:sce03041]
+             Complex B
+              Other components
+               Prp19-related factors
+                YJR050W (ISY1)
+             Complex C
+                YJR050W (ISY1)
+POSITION    X:528697..529404
+MOTIF       Pfam: Isy1 DUF4996
+DBLINKS     NCBI-GeneID: 853509
+            NCBI-ProteinID: NP_012584
+            SGD: S000003811
+            UniProt: P21374
+STRUCTURE   PDB: 6J6G 5GMK 6J6H 6J6Q 5LJ3 5LJ5 6J6N
+AASEQ       235
+            MSRNVDKANSVLVRFQEQQAESAGGYKDYSRYQRPRNVSKVKSIKEANEWKRQVSKEIKQ
+            KSTRIYDPSLNEMQIAELNDELNNLFKEWKRWQWHIDHTLMEKKTKRKRLEDSHVLMNSG
+            KLINGKRYFGRALELPEVKEWLKQSQRQNDGGSINTKCIPKDRNDFYYHGKVTAALTEFE
+            ANWTSILKAHYNVPVNEDEEEMSRQTQEIHVPTLADMEHWLVQRRKKKLMDELNL
+NTSEQ       708
+            atgagtagaaatgtagataaggccaactcagttctggtacgatttcaagagcagcaagca
+            gagtcggcaggtggatacaaggattattcacgttaccagaggcccaggaacgtgtctaag
+            gtaaaatccataaaagaggccaacgaatggaagcgacaagtaagtaaagagataaaacaa
+            aaaagcacaagaatatatgatccgtctttaaatgaaatgcagattgcggaacttaacgac
+            gaacttaataatcttttcaaagaatggaagagatggcagtggcacattgaccatacactt
+            atggaaaaaaaaaccaagaggaaaaggttagaagacagtcatgtgctgatgaattcagga
+            aagctgataaatggtaagagatattttggaagagccctggaattgcctgaagtaaaagaa
+            tggctcaagcagtctcaaaggcagaatgatgggggttctataaacaccaaatgcataccg
+            aaggatagaaatgatttttattaccatggcaaagtcacagccgccttaaccgaatttgag
+            gctaactggacatccattttgaaagcacattataatgtgcctgtgaatgaagatgaagaa
+            gaaatgtcaaggcagacacaagaaatccatgtaccaactctggcagatatggagcattgg
+            ttagtgcaaagaagaaaaaagaaactaatggatgaacttaacctttag
+///

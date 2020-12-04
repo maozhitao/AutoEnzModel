@@ -1,0 +1,103 @@
+ENTRY       YOR217W           CDS       T00005
+NAME        RFC1, CDC44
+DEFINITION  (RefSeq) replication factor C subunit 1
+ORTHOLOGY   K10754  replication factor C subunit 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03030  DNA replication
+            sce03420  Nucleotide excision repair
+            sce03430  Mismatch repair
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                YOR217W (RFC1)
+               03420 Nucleotide excision repair
+                YOR217W (RFC1)
+               03430 Mismatch repair
+                YOR217W (RFC1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YOR217W (RFC1)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YOR217W (RFC1)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Elongation Factors
+               RFC (replication factor C)
+                YOR217W (RFC1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                RFC (replication factor C)
+                 YOR217W (RFC1)
+POSITION    XV:749301..751886
+MOTIF       Pfam: RFC1 AAA BRCT RuvB_N Rad17 AAA_22 AAA_33 AAA_16 AAA_assoc_2 AAA_17 AAA_18 RNA_helicase AAA_14 AAA_24 AAA_5 NACHT NTPase_1 Ilar_coat
+DBLINKS     NCBI-GeneID: 854392
+            NCBI-ProteinID: NP_014860
+            SGD: S000005743
+            UniProt: P38630
+STRUCTURE   PDB: 1SXJ
+AASEQ       861
+            MVNISDFFGKNKKSVRSSTSRPTRQVGSSKPEVIDLDTESDQESTNKTPKKMPVSNVIDV
+            SETPEGEKKLPLPAKRKASSPTVKPASSKKTKPSSKSSDSASNITAQDVLDKIPSLDLSN
+            VHVKENAKFDFKSANSNADPDEIVSEIGSFPEGKPNCLLGLTIVFTGVLPTLERGASEAL
+            AKRYGARVTKSISSKTSVVVLGDEAGPKKLEKIKQLKIKAIDEEGFKQLIAGMPAEGGDG
+            EAAEKARRKLEEQHNIATKEAELLVKKEEERSKKLAATRVSGGHLERDNVVREEDKLWTV
+            KYAPTNLQQVCGNKGSVMKLKNWLANWENSKKNSFKHAGKDGSGVFRAAMLYGPPGIGKT
+            TAAHLVAQELGYDILEQNASDVRSKTLLNAGVKNALDNMSVVGYFKHNEEAQNLNGKHFV
+            IIMDEVDGMSGGDRGGVGQLAQFCRKTSTPLILICNERNLPKMRPFDRVCLDIQFRRPDA
+            NSIKSRLMTIAIREKFKLDPNVIDRLIQTTRGDIRQVINLLSTISTTTKTINHENINEIS
+            KAWEKNIALKPFDIAHKMLDGQIYSDIGSRNFTLNDKIALYFDDFDFTPLMIQENYLSTR
+            PSVLKPGQSHLEAVAEAANCISLGDIVEKKIRSSEQLWSLLPLHAVLSSVYPASKVAGHM
+            AGRINFTAWLGQNSKSAKYYRLLQEIHYHTRLGTSTDKIGLRLDYLPTFRKRLLDPFLKQ
+            GADAISSVIEVMDDYYLTKEDWDSIMEFFVGPDVTTAIIKKIPATVKSGFTRKYNSMTHP
+            VAIYRTGSTIGGGGVGTSTSTPDFEDVVDADDNPVPADDEETQDSSTDLKKDKLIKQKAK
+            PTKRKTATSKPGGSKKRKTKA
+NTSEQ       2586
+            atggtcaatatttctgatttctttggtaaaaataagaaatccgtaagatcgtcaacatcc
+            agacctacgagacaggtgggttcgtctaaaccagaagttatcgacttagatactgaatct
+            gaccaagaatcaaccaataaaacaccaaagaagatgcctgtaagtaatgtaattgatgta
+            tcagagacacctgaaggagaaaaaaagctacctcttcccgctaagaggaaggcctcttca
+            ccaactgtaaagccagcaagttcaaaaaaaaccaaaccctcctctaaaagttcagactcg
+            gcttcgaatattacggctcaagatgtactagataagattccatccttggatctgtcaaat
+            gttcatgtgaaagagaatgctaaatttgatttcaaaagcgcaaattcaaatgcggatcca
+            gatgaaattgtttctgaaataggtagttttccagaaggaaagccaaattgtttattaggt
+            ctaacaattgtcttcacaggtgttctgccaaccttggagcgtggtgcatcggaagcttta
+            gcgaaaagatacggagcaagggttactaaatcaatttcaagcaaaacttctgtagtagtc
+            ttaggtgatgaagcagggccaaagaaactagaaaaaatcaagcaattgaaaatcaaagcc
+            atagacgaagaaggctttaagcaattaattgctgggatgcctgctgaaggtggtgacggg
+            gaagctgccgaaaaagcacgtcgaaaattagaagaacagcataatattgctaccaaagaa
+            gcagaattgcttgttaagaaagaagaggaaaggtcgaagaagcttgcagccactagagtt
+            tctggtggccatctggagagagacaatgtggttagggaagaagataaattgtggacagta
+            aagtacgcaccaacgaatctacaacaggtctgtggtaacaaaggaagtgtaatgaaatta
+            aaaaactggttggctaattgggaaaattcaaagaaaaatagttttaaacatgctggtaaa
+            gatggctctggtgttttcagggctgcaatgttatacggtcctcctggtattgggaagaca
+            actgctgctcatttagttgcacaagagcttgggtatgacattcttgaacaaaacgcttct
+            gatgttcgctctaaaactttacttaatgccggtgttaaaaacgctcttgataacatgtct
+            gtagtgggatatttcaaacacaacgaagaagctcaaaatttgaacgggaaacattttgtc
+            attatcatggatgaagttgatggtatgagcggaggcgatagggggggagttggccagctg
+            gcacagttttgtcgtaagacgtcaactccattgattctaatttgtaatgaacgtaattta
+            ccaaaaatgagaccattcgatagagtatgtcttgatatccaatttagaagacctgatgct
+            aacagtatcaaatcaagattaatgacaattgcgatcagagaaaagttcaaacttgatcca
+            aatgtcattgataggttgatacagactacaagaggtgatatccgccaggttattaatcta
+            ctttcaacgatatctacgactactaaaaccataaaccatgaaaatatcaacgagatctca
+            aaggcatgggaaaagaatattgccctaaaaccctttgacattgcccataaaatgttggat
+            ggacaaatatactcagacataggttcaaggaactttacactgaatgataagatcgcatta
+            tattttgatgactttgatttcacacccctaatgattcaggaaaactatttatctacaaga
+            ccaagcgttttgaaacccggccagtcacatttggaagcagttgctgaggcggctaactgt
+            atttcattaggtgatattgtcgaaaagaagattcgtagtagtgagcaattatggagtctt
+            ttgcctttgcatgctgttctttcatctgtttatccagcatcaaaagttgccggccatatg
+            gcgggaagaatcaatttcacagcttggttgggccaaaattctaaatctgccaaatattat
+            aggttactgcaagagatacattatcatacaagactaggtacatctactgataaaattgga
+            ctaaggctggattacctaccaacttttagaaaaagattattggacccatttttgaagcaa
+            ggtgctgatgcaatttcatctgtcatagaggtaatggacgattactatttgaccaaagaa
+            gactgggattctattatggagtttttcgtaggtcctgatgtgaccacagccattatcaaa
+            aagataccagctacggttaaaagtggattcacgcggaaatacaacagtatgacacatcca
+            gtcgcaatttacagaacaggtagtactattggtggtggtggtgttggcaccagtactagc
+            acccccgatttcgaagatgtcgttgacgcagatgacaatccagttcccgcagatgatgaa
+            gaaacacaagatagtagcacagacttgaagaaggataaacttatcaagcagaaagccaaa
+            cctacgaagaggaagactgccaccagtaaacctggtggtagcaaaaaaaggaaaacgaaa
+            gcatga
+///

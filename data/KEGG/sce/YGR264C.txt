@@ -1,0 +1,103 @@
+ENTRY       YGR264C           CDS       T00005
+NAME        MES1
+DEFINITION  (RefSeq) methionine--tRNA ligase MES1
+ORTHOLOGY   K01874  methionyl-tRNA synthetase [EC:6.1.1.10]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00450  Selenocompound metabolism
+            sce00970  Aminoacyl-tRNA biosynthesis
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09106 Metabolism of other amino acids
+               00450 Selenocompound metabolism
+                YGR264C (MES1)
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                YGR264C (MES1)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:sce01007]
+                YGR264C (MES1)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YGR264C (MES1)
+            Enzymes [BR:sce01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.10  methionine---tRNA ligase
+                 YGR264C (MES1)
+            Amino acid related enzymes [BR:sce01007]
+             Aminoacyl-tRNA synthetase
+              Class I (U)
+               YGR264C (MES1)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Multi-aminoacyl-tRNA synthetase complex (MSC)
+                YGR264C (MES1)
+             Prokaryotic type
+               Other AARSs
+                YGR264C (MES1)
+POSITION    VII:complement(1019598..1021853)
+MOTIF       Pfam: tRNA-synt_1g MetRS-N tRNA-synt_1 Sigma54_CBD
+DBLINKS     NCBI-GeneID: 853181
+            NCBI-ProteinID: NP_011780
+            SGD: S000003496
+            UniProt: P00958
+STRUCTURE   PDB: 2HSN
+AASEQ       751
+            MSFLISFDKSKKHPAHLQLANNLKIALALEYASKNLKPEVDNDNAAMELRNTKEPFLLFD
+            ANAILRYVMDDFEGQTSDKYQFALASLQNLLYHKELPQQHVEVLTNKAIENYLVELKEPL
+            TTTDLILFANVYALNSSLVHSKFPELPSKVHNAVALAKKHVPRDSSSFKNIGAVKIQADL
+            TVKPKDSEILPKPNERNILITSALPYVNNVPHLGNIIGSVLSADIFARYCKGRNYNALFI
+            CGTDEYGTATETKALEEGVTPRQLCDKYHKIHSDVYKWFQIGFDYFGRTTTDKQTEIAQH
+            IFTKLNSNGYLEEQSMKQLYCPVHNSYLADRYVEGECPKCHYDDARGDQCDKCGALLDPF
+            ELINPRCKLDDASPEPKYSDHIFLSLDKLESQISEWVEKASEEGNWSKNSKTITQSWLKD
+            GLKPRCITRDLVWGTPVPLEKYKDKVLYVWFDATIGYVSITSNYTKEWKQWWNNPEHVSL
+            YQFMGKDNVPFHTVVFPGSQLGTEENWTMLHHLNTTEYLQYENGKFSKSRGVGVFGNNAQ
+            DSGISPSVWRYYLASVRPESSDSHFSWDDFVARNNSELLANLGNFVNRLIKFVNAKYNGV
+            VPKFDPKKVSNYDGLVKDINEILSNYVKEMELGHERRGLEIAMSLSARGNQFLQENKLDN
+            TLFSQSPEKSDAVVAVGLNIIYAVSSIITPYMPEIGEKINKMLNAPALKIDDRFHLAILE
+            GHNINKAEYLFQRIDEKKIDEWRAKYGGQQV
+NTSEQ       2256
+            atgtctttcctcatttcctttgataaatcgaagaaacatcctgcccatttgcagttagcg
+            aacaatttgaagattgccctagcacttgaatatgcaagcaaaaatttaaagcctgaagtt
+            gacaatgataatgctgccatggaattgcgcaatacaaaggaacctttccttttgtttgat
+            gctaacgctattctaagatatgtcatggatgattttgaaggtcaaacttccgacaagtat
+            caatttgcattggcatctttacaaaacctgttatatcataaagaattacctcaacaacat
+            gtcgaggttttgacaaataaggccattgaaaattacttggtcgaattaaaagaaccattg
+            actactacagatttgatcctgtttgctaacgtttatgctctaaattcttctttagttcat
+            tctaaattcccagaattgccatccaaagtgcataacgctgtagcattggctaaaaagcat
+            gttccacgtgattcttcttctttcaaaaacatcggcgcagtgaaaatccaagctgactta
+            acagttaagccaaaggattcagaaattttgcctaagccaaacgaaagaaacatcttgatc
+            acttcggcattaccttatgtcaacaacgttccacacttgggtaatatcatcggtagtgtt
+            ctttcagcagacatttttgctcgttactgtaagggacgtaattataatgccttgtttatt
+            tgtggtactgatgaatatggtactgccacggaaactaaagctttggaggaaggtgtgaca
+            ccaagacaattatgtgacaaatatcacaaaatccacagtgacgtttacaagtggttccaa
+            attggatttgattatttcggtagaactacgacggacaagcaaacggagattgctcaacat
+            atttttacaaagctaaattcgaatggttatctagaagaacaatctatgaagcaattgtac
+            tgtccagttcataattcttatctggctgatcgttacgtggaaggtgaatgtccaaaatgt
+            cactacgatgatgctcgtggggatcaatgtgacaaatgtggtgccctgttagatccattt
+            gaattgatcaatccacgttgtaaattagatgatgcttctccagaaccaaaatattctgat
+            catattttcctatcgctggataaattagaaagccaaatttctgaatgggttgaaaaggcc
+            tctgaagaaggtaactggtcaaaaaattcaaaaacaattacgcaatcatggttgaaggat
+            ggtttgaagccacgttgtattacaagagatttagtttggggtacgccagtgcctttagaa
+            aaatataaagacaaagtcttgtacgtttggtttgacgctacaatcggctacgtttccatc
+            acttccaactacaccaaagaatggaaacaatggtggaataatccagagcatgtttcattg
+            tatcaattcatgggtaaggacaatgttcctttccatacagttgttttccctggttctcaa
+            ttgggtacggaagagaactggactatgttgcaccatttgaatactacagaatacttacaa
+            tatgagaacggtaaattttctaaaagtaggggtgttggtgtttttggtaataacgctcaa
+            gactctggaatttctccaagtgtttggagatactacctggcatctgttagaccagaatct
+            agtgattctcatttctcatgggatgactttgttgctagaaacaacagtgaattgttggct
+            aacttgggtaactttgttaacagattaattaagtttgttaatgccaaatataatggtgtt
+            gttccaaaattcgaccccaagaaggtttccaattatgatggtttagttaaagatatcaac
+            gaaattttatcaaattacgtcaaggaaatggaacttggacatgaaagacgtggtctagaa
+            attgccatgtcgttaagtgctcgtggtaaccagtttttgcaagaaaataagttggacaat
+            accttgttttcacagtccccagaaaagtcagatgctgttgtcgcagttggtttgaatatt
+            atttacgctgttagctctattatcacaccatatatgccagaaataggtgagaaaataaac
+            aagatgttaaatgcaccagctttaaaaattgatgatagattccatttggcaatcctagaa
+            ggacataatataaacaaggcagaatacttgttccaacgtattgatgaaaagaaaatcgat
+            gaatggagagccaaatatggtggtcaacaagtgtaa
+///

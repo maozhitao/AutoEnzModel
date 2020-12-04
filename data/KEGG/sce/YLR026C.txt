@@ -1,0 +1,54 @@
+ENTRY       YLR026C           CDS       T00005
+NAME        SED5
+DEFINITION  (RefSeq) t-SNARE syntaxin
+ORTHOLOGY   K08490  syntaxin 5
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04130  SNARE interactions in vesicular transport
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04130 SNARE interactions in vesicular transport
+                YLR026C (SED5)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YLR026C (SED5)
+            Membrane trafficking [BR:sce04131]
+             SNARE
+              Syntaxin (Qa)
+               Stx-cisGolgi
+                YLR026C (SED5)
+POSITION    XII:complement(195450..196472)
+MOTIF       Pfam: SNARE Syntaxin-5_N Syntaxin-18_N Syntaxin DUF16 MCPsignal
+DBLINKS     NCBI-GeneID: 850713
+            NCBI-ProteinID: NP_013126
+            SGD: S000004016
+            UniProt: Q01590
+STRUCTURE   PDB: 1MQS
+AASEQ       340
+            MNIKDRTSEFQQSVLSYKKRNKNFREQQRERLQEKESENFANNTTGNGKSVSEFQKKASG
+            IAHEISSTAQLLSKLAVLAKRKPMFNDNPVEIAELSFLIKRKIYAIEQSLVQLSQLKKTD
+            VNGNTSNQSSKQPSAVQHSKNVVNLLNTQMKNISGSFKDVLEERQRLEMANKDRWQKLTT
+            DTGHAPADDQTQSNHAADLTTYNNSNPFMTSLLDESSEKNNNSSNQGELSFPQNDSQLML
+            MEEGQLSNNVYLQERNRAVETIESTIQEVGNLFQQLASMVQEQGEVIQRIDANVDDIDLN
+            ISGAQRELLKYFDRIKSNRWLAAKVFFIIFVFFVIWVLVN
+NTSEQ       1023
+            atgaacataaaggatagaacttcagaatttcaacaaagtgtgttgagttacaagaaaaga
+            aacaaaaactttagagaacagcagagggaacgtctacaagagaaagaaagtgaaaacttt
+            gccaacaacacaaccggcaatgggaaaagtgtctctgagtttcaaaaaaaggcttctggc
+            atagctcacgaaatttcatccaccgcacaattattatcgaaattagcagtgctggccaaa
+            aggaaaccgatgttcaatgacaaccctgtagagattgccgagctatcatttttgatcaaa
+            aggaagatttatgccatcgaacaaagtttagtgcaattaagtcagctcaagaaaaccgac
+            gtgaatggcaacacatcaaatcaatcttctaagcaacctagtgccgtacagcactccaaa
+            aatgtcgtaaatcttttaaacacgcaaatgaaaaacatatcaggaagttttaaagacgta
+            ttggaggaaaggcaacgactagaaatggctaacaaagacagatggcaaaaactaaccacc
+            gacactggacatgcaccagctgatgaccaaacgcaaagcaatcacgccgcggacttgacc
+            acgtataacaactccaacccattcatgacctcactactagatgaatcctcagaaaagaat
+            aacaactcgtccaaccaaggagaactgtctttccctcaaaacgactctcaactaatgtta
+            atggaagagggacagttatccaataacgtctacttacaagaaagaaatagggcggtggag
+            acaatagaatccacaatccaggaagtgggaaatctcttccaacaactggcctccatggtt
+            caagaacagggcgaagtaatccaaaggattgatgcaaacgtagacgacatcgatttaaac
+            attagtggtgctcaaagggaacttttgaaatacttcgacaggataaagagtaatagatgg
+            ttagccgcaaaggttttttttataatctttgtatttttcgttatttgggttttagtcaat
+            taa
+///

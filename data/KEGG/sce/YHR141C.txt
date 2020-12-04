@@ -1,0 +1,39 @@
+ENTRY       YHR141C           CDS       T00005
+NAME        RPL42B, MAK18
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L42B
+ORTHOLOGY   K02929  large subunit ribosomal protein L44e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YHR141C (RPL42B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YHR141C (RPL42B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YHR141C (RPL42B)
+              Archaea
+                YHR141C (RPL42B)
+POSITION    VIII:complement(join(381990..382306,382748..382751))
+MOTIF       Pfam: Ribosomal_L44
+DBLINKS     NCBI-GeneID: 856544
+            NCBI-ProteinID: NP_012010
+            SGD: S000001183
+            UniProt: P0CX27 P0CX28
+AASEQ       106
+            MVNVPKTRKTYCKGKTCRKHTQHKVTQYKAGKASLFAQGKRRYDRKQSGFGGQTKPVFHK
+            KAKTTKKVVLRLECVKCKTRAQLTLKRCKHFELGGEKKQKGQALQF
+NTSEQ       321
+            atggttaacgtcccaaagaccagaaagacctactgtaagggtaagacctgtcgtaagcac
+            actcaacacaaggttactcaatacaaagctggtaaggcttccttgttcgctcaaggtaag
+            agacgttatgaccgtaaacaatctggtttcggtggtcaaaccaagcctgttttccacaag
+            aaagctaagactaccaagaaggttgttttgagattggaatgtgtcaaatgtaagactaga
+            gcccaattaaccttgaagagatgtaagcacttcgaattgggtggtgaaaagaagcaaaag
+            ggtcaagctttgcaattctga
+///

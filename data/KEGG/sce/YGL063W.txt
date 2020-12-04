@@ -1,0 +1,63 @@
+ENTRY       YGL063W           CDS       T00005
+NAME        PUS2
+DEFINITION  (RefSeq) pseudouridine synthase PUS2
+ORTHOLOGY   K15452  mitochondrial tRNA pseudouridine27/28 synthase [EC:5.4.99.44]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YGL063W (PUS2)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YGL063W (PUS2)
+            Enzymes [BR:sce01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.99  Transferring other groups
+                5.4.99.44  mitochondrial tRNA pseudouridine27/28 synthase
+                 YGL063W (PUS2)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              tRNA modification factors
+               Psudouridine synthases
+                YGL063W (PUS2)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Other mitochondrial DNA transcription and translation factors
+                YGL063W (PUS2)
+POSITION    VII:383654..384766
+MOTIF       Pfam: PseudoU_synth_1
+DBLINKS     NCBI-GeneID: 852817
+            NCBI-ProteinID: NP_011452
+            SGD: S000003031
+            UniProt: P53167
+AASEQ       370
+            MLLGYCGSGYYGMQYNPPHKTIEGEILTKLFDVGAISEENSLAPKKNSFMAAARTDKGVH
+            AMLNLLSLKITLREDTVAKLNAALPPEIRVWGIQPVNKKFNARSACDSRWYQYLIPEFIL
+            IGPPRSSLLHRNVGGCYREDGSQEVWDTFLEQTRGRFSGDELCRLQDTAQKLSESDPLVQ
+            DYVGLLSGTLSGYCLSPSKLDAFEAAMQEYVGTHNFHNFTTGKLWGDPSAQRHIKKVVVS
+            QASPGWICVRIHGQSFMLHQIRRMVALAVLAARCQLPPNIVRNYFNAGPRKYIPRAPAQG
+            LLLEGPVFDGYNTKLRNLLYCEIRPDDITLERMCRFRERQICTAIAHEETQRHVFCHFVR
+            QMNRLATPLI
+NTSEQ       1113
+            atgctcttaggttactgtggcagcggatactatggaatgcaatacaacccaccacacaag
+            acgattgaaggtgagattctcaccaagctcttcgacgtaggagccatttccgaagaaaat
+            tcattggcaccgaagaaaaattcctttatggcagcggcaagaacagacaagggtgtacac
+            gctatgttgaatctactgtcgctaaagatcacattgcgagaggacacagtagcgaagtta
+            aacgccgcactaccgcccgaaatacgcgtgtggggtatccagcctgtcaataaaaagttt
+            aatgctagatccgcgtgcgattctcgatggtaccaataccttatcccagaatttatactc
+            attggtccaccccggagttctcttttgcatcgaaacgtggggggatgctaccgcgaagac
+            ggctcgcaagaggtgtgggatacgttcctggaacagacgcgtgggagatttagcggggat
+            gagctgtgccgtttgcaggacactgcacagaaactaagcgagagcgatcctttggtacaa
+            gactacgtggggctattgagcggtacccttagcggctactgcttgtcgccctcgaagctg
+            gacgcgtttgaggcagccatgcaggagtacgtgggaacgcataattttcacaactttacc
+            acaggaaagctttggggggatcctagtgctcagcgccatatcaaaaaggttgtagtgtcg
+            caggcctcaccgggatggatatgtgtgcggatccacgggcagtcgtttatgttgcatcag
+            attcgacgaatggtagcgcttgccgtacttgcagcccgttgccaattgccgcctaatatt
+            gtacgtaactattttaacgccgggcctaggaaatacattccgagggcgcccgcacaaggc
+            ctattattagagggacctgtgtttgacgggtataacactaagttgcgcaatttgctgtat
+            tgcgaaatccgcccggacgatatcactcttgagcgcatgtgccgtttccgagaacgccag
+            atctgtactgcgatcgcacacgaggagacacagcgtcacgtgttttgccattttgtacga
+            caaatgaaccgcctggccacgcctctaatctag
+///

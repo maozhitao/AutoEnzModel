@@ -1,0 +1,43 @@
+ENTRY       YJR063W           CDS       T00005
+NAME        RPA12, RRN4
+DEFINITION  (RefSeq) DNA-directed RNA polymerase I core subunit RPA12
+ORTHOLOGY   K03000  DNA-directed RNA polymerase I subunit RPA12
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03020  RNA polymerase
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03020 RNA polymerase
+                YJR063W (RPA12)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:sce03021]
+                YJR063W (RPA12)
+            Transcription machinery [BR:sce03021]
+             Eukaryotic type
+              RNA polymerase I system
+               RNA polymerase I
+                Pol I specific subunits
+                 YJR063W (RPA12)
+POSITION    X:555195..555572
+MOTIF       Pfam: TFIIS_C RNA_POL_M_15KD DZR TF_Zn_Ribbon TackOD1 IBR zf-H2C2_2 zf-TFIIB DUF2072 GATA tRNA-synt_1f DUF3797 Nop10p zf-CSL zinc_ribbon_6 Zn_Tnp_IS1595 CpXC
+DBLINKS     NCBI-GeneID: 853526
+            NCBI-ProteinID: NP_012597
+            SGD: S000003824
+            UniProt: P32529
+STRUCTURE   PDB: 4C2M 4C3I 6HLQ 6HLR 6HLS 4C3H 4C3J 5N61 6HKO 6H67 5W5Y
+                 5M5W 5M3F 5W66 5M5X 5M5Y 5M3M 5W64 5W65 5OA1 6H68 5M64
+                 5G5L 5LMX 5N5Y 5N5Z 5N60
+AASEQ       125
+            MSVVGSLIFCLDCGDLLENPNAVLGSNVECSQCKAIYPKSQFSNLKVVTTTADDAFPSSL
+            RAKKSVVKTSLKKNELKDGATIKEKCPQCGNEEMNYHTLQLRSADEGATVFYTCTSCGYK
+            FRTNN
+NTSEQ       378
+            atgtctgttgtaggatcgttaattttttgcttggactgtggtgatctcctggaaaatcct
+            aatgccgtattaggctctaacgttgaatgcagccaatgtaaagccatatatcccaagtca
+            caattctccaatttaaaagtcgtcaccacgacggcagacgatgcgtttccatcttctctt
+            agagccaagaaatccgtggttaaaacttctttgaagaagaacgaactgaaagacggcgct
+            actatcaaggaaaagtgtcctcagtgtggaaatgaagagatgaactatcatactttacag
+            ttaagatctgcagatgaaggtgctactgtcttctatacatgcacttcctgtggttacaag
+            ttccgtaccaacaattga
+///

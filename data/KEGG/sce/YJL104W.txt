@@ -1,0 +1,36 @@
+ENTRY       YJL104W           CDS       T00005
+NAME        PAM16, MIA1, TIM16
+DEFINITION  (RefSeq) import motor complex subunit PAM16
+ORTHOLOGY   K17805  mitochondrial import inner membrane translocase subunit TIM16
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YJL104W (PAM16)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Matrix
+               MMC/PAM proteins
+                YJL104W (PAM16)
+POSITION    X:227327..227776
+MOTIF       Pfam: Pam16 STb_secrete
+DBLINKS     NCBI-GeneID: 853340
+            NCBI-ProteinID: NP_012431
+            SGD: S000003640
+            UniProt: P42949
+STRUCTURE   PDB: 2GUZ
+AASEQ       149
+            MAHRAFIQVIITGTQVFGKAFAEAYRQAASQSVKQGATNASRRGTGKGEYGGITLDESCK
+            ILNIEESKGDLNMDKINNRFNYLFEVNDKEKGGSFYLQSKVYRAAERLKWELAQREKNAK
+            AKAGDASTAKPPPNSTNSSGADNSASSNQ
+NTSEQ       450
+            atggctcacagggctttcatacaggttataatcacaggaactcaagtttttggaaaagca
+            ttcgccgaggcgtatagacaagcggcttcacaatcagtgaaacaaggtgctacaaatgca
+            tctagaaggggaacaggaaaaggcgaatatggtggtattacgttggatgagagttgtaaa
+            attttaaatattgaagaatccaagggcgatttaaacatggacaagattaataacaggttt
+            aactatctatttgaggttaacgataaagaaaaaggtggaagcttctacttacagagcaaa
+            gtttatcgagcagcagaaaggttaaaatgggaactggctcagagagaaaaaaatgcgaag
+            gcgaaagcaggggacgcttcaacagcgaaacctcctccgaattcaacaaattcatctggt
+            gcagataatagtgcaagcagcaatcagtag
+///

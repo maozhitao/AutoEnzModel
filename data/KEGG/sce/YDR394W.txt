@@ -1,0 +1,62 @@
+ENTRY       YDR394W           CDS       T00005
+NAME        RPT3, YNT1, YTA2
+DEFINITION  (RefSeq) proteasome regulatory particle base subunit RPT3
+ORTHOLOGY   K03063  26S proteasome regulatory subunit T3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03050  Proteasome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03050 Proteasome
+                YDR394W (RPT3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03051 Proteasome [BR:sce03051]
+                YDR394W (RPT3)
+            Proteasome [BR:sce03051]
+             Eukaryotic proteasome
+              Regulatory particles
+               PA700 (19S proteasome)
+                ATPase subunits
+                 YDR394W (RPT3)
+POSITION    IV:1261681..1262967
+MOTIF       Pfam: AAA Prot_ATP_ID_OB AAA_2 AAA_16 AAA_5 AAA_22 DUF815 RuvB_N AAA_18 NTPase_1 AAA_lid_3 TniB AAA_30 AAA_24 RNA_helicase AAA_14 AAA_7 TsaE TIP49 AAA_33 Sigma54_activat AAA_3 Mg_chelatase NACHT AAA_11 AAA_28 ATPase_2 AFG1_ATPase IstB_IS21 DnaB_C AAA_19 AAA_25 ABC_tran
+DBLINKS     NCBI-GeneID: 852003
+            NCBI-ProteinID: NP_010682
+            SGD: S000002802
+            UniProt: P33298
+STRUCTURE   PDB: 2DZN 2DZO 5MP9 6EF3 6EF2 6EF0 5MPA 6EF1 4CR2 4CR4 4CR3
+                 5A5B
+AASEQ       428
+            MEELGIVTPVEKAVEEKPAVKSYASLLAQLNGTVNNNSALSNVNSDIYFKLKKLEKEYEL
+            LTLQEDYIKDEQRHLKRELKRAQEEVKRIQSVPLVIGQFLEPIDQNTGIVSSTTGMSYVV
+            RILSTLDRELLKPSMSVALHRHSNALVDILPPDSDSSISVMGENEKPDVTYADVGGLDMQ
+            KQEIREAVELPLVQADLYEQIGIDPPRGVLLYGPPGTGKTMLVKAVANSTKAAFIRVNGS
+            EFVHKYLGEGPRMVRDVFRLARENAPSIIFIDEVDSIATKRFDAQTGSDREVQRILIELL
+            TQMDGFDQSTNVKVIMATNRADTLDPALLRPGRLDRKIEFPSLRDRRERRLIFGTIASKM
+            SLAPEADLDSLIIRNDSLSGAVIAAIMQEAGLRAVRKNRYVILQSDLEEAYATQVKTDNT
+            VDKFDFYK
+NTSEQ       1287
+            atggaggaactaggtattgtgacacctgtcgaaaaggcagtcgaagaaaaaccagccgtc
+            aaatcatacgcatcattgttggctcaactcaatggtacagtcaacaataacagtgccctg
+            tctaatgtgaattctgatatatatttcaaattgaagaaattagaaaaagagtatgaactg
+            ctgactttgcaagaagactatattaaggacgaacaacgccatttgaaacgtgaattgaag
+            agagctcaagaagaagtaaagagaatccagtcggttccattagttatcgggcaattctta
+            gaacctattgatcagaacacaggtattgtttctagtaccacaggtatgagttatgtcgtt
+            agaatattatcaaccctagaccgtgaactattaaagccatctatgtctgtagctttacat
+            cgtcattcaaatgctttagttgacatcctaccacctgattccgactctagcatatccgta
+            atgggcgaaaacgaaaaacctgacgtcacttatgcagatgttggtgggttagatatgcaa
+            aagcaagaaatcagggaagccgtagagctgccattagttcaggctgatctatacgagcaa
+            atcggtattgaccctcctaggggtgttctattatatggtccaccaggtaccggtaagacg
+            atgcttgttaaagccgtcgccaatagtacaaaagctgcattcataagagttaatggctcc
+            gaatttgttcacaaatatcttggtgaaggtccaagaatggttcgtgacgtctttagactc
+            gccagggaaaatgctccatccattatattcatagatgaggtagattccattgccacaaag
+            cgttttgatgctcaaacgggttccgatcgtgaagtacagcgtatcctgattgagttgttg
+            acacaaatggatggtttcgatcaatccaccaacgttaaagtcatcatggctacaaacagg
+            gcagacacattggacccagctttgctgagaccaggcagattagatagaaagattgagttt
+            ccctcacttcgtgataggcgtgaacgtcgtttgattttcggtaccattgccagtaagatg
+            tcccttgccccagaagcggacttagactcgcttattattcgtaacgactctctatcaggt
+            gctgttattgcagcgatcatgcaggaagctggtttaagagcagtgaggaaaaacagatat
+            gtcatcttacaaagcgatctggaagaagcttacgccactcaagtcaagacagataatacc
+            gtcgataaattcgacttctacaaatga
+///

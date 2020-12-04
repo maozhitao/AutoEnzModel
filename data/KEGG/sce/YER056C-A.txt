@@ -1,0 +1,42 @@
+ENTRY       YER056C-A         CDS       T00005
+NAME        RPL34A
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L34A
+ORTHOLOGY   K02915  large subunit ribosomal protein L34e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YER056C-A (RPL34A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YER056C-A (RPL34A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YER056C-A (RPL34A)
+              Archaea
+                YER056C-A (RPL34A)
+POSITION    V:complement(join(269423..269751,270149..270185))
+MOTIF       Pfam: Ribosomal_L34e Zn_ribbon_recom
+DBLINKS     NCBI-GeneID: 856784
+            NCBI-ProteinID: NP_010977
+            SGD: S000002135
+            UniProt: P87262
+STRUCTURE   PDB: 6EM5 6CB1
+AASEQ       121
+            MAQRVTFRRRNPYNTRSNKIKVVKTPGGILRAQHVKKLATRPKCGDCGSALQGISTLRPR
+            QYATVSKTHKTVSRAYGGSRCANCVKERIIRAFLIEEQKIVKKVVKEQTEAAKKSEKKAK
+            K
+NTSEQ       366
+            atggcccaacgtgttactttcagaagaagaaatccatacaacacccgttctaacaaaatc
+            aaggttgttaagaccccaggtggtattttgcgtgcccaacatgtcaagaagttagctacc
+            agaccaaagtgtggtgactgtggtagcgctttgcaaggtatctctactttgagaccaaga
+            caatacgccactgtttccaagacccacaagactgtttccagagcttacggtggttccaga
+            tgtgccaactgtgttaaggaaagaattattagagctttcttgatcgaagaacaaaaaatt
+            gtcaagaaggttgtcaaggaacaaaccgaagctgccaagaaatctgaaaagaaggctaag
+            aaataa
+///

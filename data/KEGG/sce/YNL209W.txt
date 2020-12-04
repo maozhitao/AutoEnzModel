@@ -1,0 +1,142 @@
+ENTRY       YNL209W           CDS       T00005
+NAME        SSB2, YG103
+DEFINITION  (RefSeq) Hsp70 family ATPase SSB2
+ORTHOLOGY   K03283  heat shock 70kDa protein 1/2/6/8
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+            sce04141  Protein processing in endoplasmic reticulum
+            sce04144  Endocytosis
+            sce04213  Longevity regulating pathway - multiple species
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YNL209W (SSB2)
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YNL209W (SSB2)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04144 Endocytosis
+                YNL209W (SSB2)
+             09150 Organismal Systems
+              09149 Aging
+               04213 Longevity regulating pathway - multiple species
+                YNL209W (SSB2)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01009 Protein phosphatases and associated proteins [BR:sce01009]
+                YNL209W (SSB2)
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YNL209W (SSB2)
+               03009 Ribosome biogenesis [BR:sce03009]
+                YNL209W (SSB2)
+               03110 Chaperones and folding catalysts [BR:sce03110]
+                YNL209W (SSB2)
+               04131 Membrane trafficking [BR:sce04131]
+                YNL209W (SSB2)
+               03051 Proteasome [BR:sce03051]
+                YNL209W (SSB2)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YNL209W (SSB2)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YNL209W (SSB2)
+            Protein phosphatases and associated proteins [BR:sce01009]
+             Protein serine/threonine phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-5
+                PP5-interacting proteins
+                 YNL209W (SSB2)
+            Spliceosome [BR:sce03041]
+             Complex B
+              Other components
+               Prp19 complex
+                YNL209W (SSB2)
+             Complex C
+               Prp19-CDC5 complex
+                YNL209W (SSB2)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Pre-60S particles
+               Export and cytoplasmic maturation factors
+                YNL209W (SSB2)
+            Chaperones and folding catalysts [BR:sce03110]
+             Heat shock proteins
+              HSP70 / DNAK
+               YNL209W (SSB2)
+            Membrane trafficking [BR:sce04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Other core components
+                YNL209W (SSB2)
+             Autophagy
+              Chaperone mediated autophagy (CMA)
+               Chaperones
+                YNL209W (SSB2)
+            Proteasome [BR:sce03051]
+             Eukaryotic proteasome
+              Assembling factors
+               Other assembling factors
+                YNL209W (SSB2)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Endoplasmic reticulum membrane and cytosol
+               Other ER-memrane and cytosol factors
+                YNL209W (SSB2)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               YNL209W (SSB2)
+POSITION    XIV:252059..253900
+MOTIF       Pfam: HSP70 MreB_Mbl FGGY_C Paralemmin Hydantoinase_A
+DBLINKS     NCBI-GeneID: 855512
+            NCBI-ProteinID: NP_014190
+            SGD: S000005153
+            UniProt: P40150
+AASEQ       613
+            MAEGVFQGAIGIDLGTTYSCVATYESSVEIIANEQGNRVTPSFVAFTPQERLIGDAAKNQ
+            AALNPRNTVFDAKRLIGRRFDDESVQKDMKTWPFKVIDVDGNPVIEVQYLEETKTFSPQE
+            ISAMVLTKMKEIAEAKIGKKVEKAVITVPAYFNDAQRQATKDAGAISGLNVLRIINEPTA
+            AAIAYGLGAGKSEKERHVLIFDLGGGTFDVSLLHIAGGVYTVKSTSGNTHLGGQDFDTNL
+            LEHFKAEFKKKTGLDISDDARALRRLRTAAERAKRTLSSVTQTTVEVDSLFDGEDFESSL
+            TRARFEDLNAALFKSTLEPVEQVLKDAKISKSQIDEVVLVGGSTRIPKVQKLLSDFFDGK
+            QLEKSINPDEAVAYGAAVQGAILTGQSTSDETKDLLLLDVAPLSLGVGMQGDIFGIVVPR
+            NTTVPTIKRRTFTTVSDNQTTVQFPVYQGERVNCKENTLLGEFDLKNIPMMPAGEPVLEA
+            IFEVDANGILKVTAVEKSTGKSSNITISNAVGRLSSEEIEKMVNQAEEFKAADEAFAKKH
+            EARQRLESYVASIEQTVTDPVLSSKLKRGSKSKIEAALSDALAALQIEDPSADELRKAEV
+            GLKRVVTKAMSSR
+NTSEQ       1842
+            atggctgaaggtgttttccaaggtgctatcggtatcgatttaggtacaacatactcttgt
+            gttgctacttatgaatcttccgttgaaattattgccaacgaacaaggtaacagagttact
+            ccatctttcgttgccttcaccccacaggaaagattgatcggtgatgctgccaagaaccaa
+            gctgctttgaacccaagaaacactgtttttgatgctaagcgtttgattggtagaagattc
+            gacgacgagtctgtccaaaaggacatgaagacctggcctttcaaggttatcgacgtcgat
+            ggtaacccagtcattgaagtccaatacttggaagaaaccaagactttctccccacaagaa
+            atttccgctatggtcttgaccaagatgaaggaaattgctgaagctaagattggtaagaag
+            gttgaaaaggctgtcattactgtcccagcttactttaacgatgcccaaagacaagctacc
+            aaggatgccggtgccatttctggtttgaacgttttgcgtatcatcaacgaacctactgcc
+            gctgctattgcttacggtctaggtgctggtaagtccgaaaaggaaagacatgttttgatt
+            ttcgatttgggtggtggtactttcgatgtttccttgttgcacattgctggtggtgtttac
+            actgttaaatctacttccggtaacactcacttgggtggtcaagatttcgacaccaacttg
+            ttggaacacttcaaggctgaattcaagaagaagactggtttggacatctccgacgatgcc
+            agagctttgagaagattgagaactgctgctgaaagagctaagagaaccttatcttctgtc
+            actcaaactaccgttgaagttgactctttgtttgacggtgaagatttcgaatcctctttg
+            actagagctagatttgaagacttgaacgccgcattgttcaagtctactttggaacctgtt
+            gaacaagttttgaaggatgctaagatctctaagtctcaaatcgacgaagttgtcttggtt
+            ggtggttctaccagaattccaaaggtccaaaagttgttgtctgacttctttgacggtaag
+            caattggaaaaatctattaacccagatgaagctgttgcttacggtgctgctgttcaaggt
+            gctatcttgactggccaatccacatctgacgaaaccaaggacttgttgttgttagatgtt
+            gctccattatctctaggtgttggtatgcaaggtgacattttcggtattgttgtcccaaga
+            aacacaactgttccaaccatcaagagaagaaccttcacaactgtcagtgacaaccaaacc
+            accgttcaattcccagtctaccaaggtgaacgtgtcaactgtaaagaaaacactttgttg
+            ggtgaattcgacttgaagaacatcccaatgatgccagctggtgaaccagtcttggaagct
+            atcttcgaagttgatgctaacggtatcttgaaggttactgccgtcgaaaagtctaccggt
+            aagtcttctaacatcactatctccaacgctgtcggtagattgtcttctgaagaaattgaa
+            aagatggttaaccaagccgaagagttcaaggctgctgatgaagcttttgctaagaagcac
+            gaagctagacaaagactagaatcctacgtcgcttccatcgaacaaaccgtcactgaccca
+            gtcttgtcttctaaattgaagagaggttccaagtccaagatcgaagctgctttgtccgat
+            gctttggctgctttgcaaatcgaagacccatccgctgatgagttgagaaaggcagaagtt
+            ggtttgaagagagttgtcaccaaggccatgtcttctcgttaa
+///

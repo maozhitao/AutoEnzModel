@@ -1,0 +1,48 @@
+ENTRY       YOR007C           CDS       T00005
+NAME        SGT2
+DEFINITION  (RefSeq) Sgt2p
+ORTHOLOGY   K16365  small glutamine-rich tetratricopeptide repeat-containing protein alpha
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YOR007C (SGT2)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YOR007C (SGT2)
+POSITION    XV:complement(338938..339978)
+MOTIF       Pfam: TPR_1 TPR_2 SGTA_dimer TPR_11 TPR_8 TPR_16 TPR_10 TPR_12 TPR_17 TPR_14 TPR_19 BTAD TPR_6 TPR_9 STI1 GerD
+DBLINKS     NCBI-GeneID: 854168
+            NCBI-ProteinID: NP_014649
+            SGD: S000005533
+            UniProt: Q12118
+STRUCTURE   PDB: 5LYP 3ZDM 5LYN 2LXB 2LXC 4ASV 4ASW
+AASEQ       346
+            MSASKEEIAALIVNYFSSIVEKKEISEDGADSLNVAMDCISEAFGFEREAVSGILGKSEF
+            KGQHLADILNSASRVPESNKKDDAENVEINIPEDDAETKAKAEDLKMQGNKAMANKDYEL
+            AINKYTEAIKVLPTNAIYYANRAAAHSSLKEYDQAVKDAESAISIDPSYFRGYSRLGFAK
+            YAQGKPEEALEAYKKVLDIEGDNATEAMKRDYESAKKKVEQSLNLEKTVPEQSRDADVDA
+            SQGASAGGLPDLGSLLGGGLGGLMNNPQLMQAAQKMMSNPGAMQNIQKMMQDPSIRQMAE
+            GFASGGGTPNLSDLMNNPALRNMAGNLFGGAGAQSTDETPDNENKQ
+NTSEQ       1041
+            atgtcagcatcaaaagaagaaattgctgcccttattgtaaactacttttcttccattgtg
+            gaaaagaaagaaatttcagaagatggcgccgattctttaaatgttgctatggactgtatc
+            tctgaagcctttggctttgaaagagaagctgtttcaggcattttaggcaagtctgaattc
+            aagggtcaacatcttgctgatatattaaattctgcgtcaagagttccagaatcgaataag
+            aaagacgatgctgagaatgtcgagattaatattccagaagatgatgcggaaactaaagcc
+            aaagctgaggacttgaaaatgcaaggtaataaagcaatggccaacaaggattacgaactg
+            gcaatcaataaatatactgaagccattaaagttttaccaacgaatgctatttattacgcc
+            aatagagcggctgctcattcatccctgaaagaatatgatcaagcggtcaaagacgctgaa
+            tctgcaatttctattgacccatcttatttcagaggctactctagattgggttttgctaaa
+            tatgcgcaaggtaaacccgaagaagcccttgaagcatacaaaaaggttcttgatatagag
+            ggcgataatgcaacagaagctatgaaaagggattatgaaagtgccaagaagaaggttgag
+            caatctttgaatctggagaaaaccgttccagaacagtcaagggatgctgatgtcgatgca
+            agtcagggtgctagtgcgggtggattgccagatcttggttctttattaggaggtggtctt
+            ggaggtttaatgaacaacccacaattgatgcaggctgcgcaaaaaatgatgagcaatcca
+            ggtgcaatgcagaatattcaaaaaatgatgcaagatccaagtatcagacagatggctgaa
+            ggctttgcttcaggcggaggaactccaaatttgtctgacttgatgaataacccagcactc
+            agaaacatggcaggcaatctttttggtggagcaggtgcccaatctacagatgaaacacca
+            gacaatgagaacaagcaatag
+///

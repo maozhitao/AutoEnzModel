@@ -1,0 +1,70 @@
+ENTRY       YGR225W           CDS       T00005
+NAME        AMA1, SPO70
+DEFINITION  (RefSeq) Ama1p
+ORTHOLOGY   K12782  meiosis-specific APC/C activator protein AMA1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04113  Meiosis - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04113 Meiosis - yeast
+                YGR225W (AMA1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YGR225W (AMA1)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               APC/C
+                Target recognizing subunit
+                 YGR225W (AMA1)
+POSITION    VII:join(945145..946327,946421..947019)
+MOTIF       Pfam: WD40
+DBLINKS     NCBI-GeneID: 853140
+            NCBI-ProteinID: NP_011741
+            SGD: S000003457
+            UniProt: P50082
+AASEQ       593
+            MATPHLYHRYNSKSSNKNINSSGNSTEVDRFIPKSVSRNAYKSIPMLNGFDISYSELCEK
+            SPSPERLSSPEFFNELRNTGHYESISTTNEFSMSSISSSSESQVTRSGSARASRNDYSKL
+            TKEQKDHRKNIAHSLGFQLPDRVFTFETTSAEILEKNKAIKNCFGPGSCAEIRSTFDFST
+            LSPDVARYYIANSNARSASPQRQIQRPAKRVKSHIPYRVLDAPCLRNDFYSNLISWSRTT
+            NNVLVGLGCSVYIWSEKEGAVSILDHQYLSEKRDLVTCVSFCPYNTYFIVGTKFGRILLY
+            DQKEFFHSSNTNEKEPVFVFQTESFKGICCLEWFKPGEICKFYVGEENGNVSLFEIKSLH
+            FPIKNWSKRQKLEDENLIGLKLHSTYQAQAQQVCGISLNEHANLLAVGGNDNSCSLWDIS
+            DLDKPIKKFVLPHKAAVKAIAFCPWSKSLLATGGGSKDRCIKFWHTSTGTLLDEICTSGQ
+            VTSLIWSLRHKQIVATFGFGDTKNPVLITLYSYPKLSKLLEVRSPNPLRVLSAVISPSSM
+            AICVATNDETIRFYELWNDKEEIINEIQESGIYGSNIIEYMEGIETTHNKRIR
+NTSEQ       1782
+            atggctactccccatttatatcacagatataactccaaaagctctaacaaaaatatcaat
+            tcgagcggaaattctacagaggttgaccgtttcattccaaaatcagtttcgagaaatgct
+            tataagtctattccaatgttaaatgggtttgacataagttactcagaactttgcgagaaa
+            tctccttcacctgagcggctatcatcccctgaattctttaacgaactgcgaaacaccggg
+            cattacgaatcaatcagtacaacaaatgagttttccatgtcaagtatctctagctcttct
+            gagagtcaagttaccagaagtggaagtgcaagagcttcaagaaacgattattcaaaatta
+            actaaagagcaaaaggaccatagaaagaatattgcacattctcttggttttcaattgccc
+            gaccgtgtctttacgtttgagaccacaagtgctgaaattctggaaaagaataaagccatc
+            aaaaattgctttggaccaggaagttgcgccgaaataagatcaacctttgactttagtaca
+            ctctcgcccgatgttgcccgttattatatcgctaattctaacgcaagatcagcttcccca
+            caaagacaaatccaaagacctgctaaacgagtaaagtcacatattccataccgtgtattg
+            gatgcaccttgcctgagaaatgatttttattcgaacttaatttcttggtcaagaaccaca
+            aacaacgttttggtgggactgggttgctccgtatacatctggtctgagaaagaaggagcg
+            gtatctatattggaccatcaatacttaagtgaaaagagggatttagtgacatgcgtctca
+            ttctgtccttacaatacttattttattgttggtacaaaatttggccgtattcttctttat
+            gatcaaaaagaattttttcattccagcaacacaaacgaaaaggaaccagtatttgttttc
+            caaactgaatccttcaaaggaatatgttgcctagaatggttcaaaccaggtgaaatttgc
+            aaattttatgttggagaggaaaatggcaatgtgagcctctttgaaataaagagtttgcat
+            ttccccataaaaaactggagtaaaagacaaaaactcgaagatgaaaatttaataggattg
+            aaacttcattccacttatcaagctcaggcacagcaagtctgtggtatttctctgaatgaa
+            catgcaaacctgcttgcagtcggcggcaatgataattcttgtagcttatgggatatttcc
+            gacttggataaacctattaaaaagtttgttcttccacataaagcggctgtgaaggccatt
+            gccttttgtccttggtcgaagtctttgttggctacgggtggtggaagcaaagacagatgt
+            attaagttttggcatacatcgacaggcacattgttggatgagatttgcacctcgggacag
+            gtgacgtctttgatatggtcgttgagacataaacagattgttgctacttttggattcggt
+            gataccaagaatcctgtattaataacactatactcatatccaaaattatcaaaactactc
+            gaagttaggtcgcccaaccctttgcgtgtactgagcgcagtaatctctccaagttccatg
+            gcaatttgcgttgccactaacgatgaaacgataagattttatgaactgtggaacgataag
+            gaggaaataattaatgaaattcaagagagtgggatttatggatctaatattatagaatat
+            atggagggtatcgaaacaacacataacaaaagaataaggtaa
+///

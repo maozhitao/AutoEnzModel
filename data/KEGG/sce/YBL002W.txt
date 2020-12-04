@@ -1,0 +1,42 @@
+ENTRY       YBL002W           CDS       T00005
+NAME        HTB2
+DEFINITION  (RefSeq) histone H2B
+ORTHOLOGY   K11252  histone H2B
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YBL002W (HTB2)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YBL002W (HTB2)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Nucleosome assembly factors
+               Histones
+                YBL002W (HTB2)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YBL002W (HTB2)
+POSITION    II:236492..236887
+MOTIF       Pfam: Histone CBFD_NFYB_HMF TFIID_20kDa CENP-W
+DBLINKS     NCBI-GeneID: 852284
+            NCBI-ProteinID: NP_009553
+            SGD: S000000098
+            UniProt: P02294
+STRUCTURE   PDB: 4JJN 1ID3 6QLD
+AASEQ       131
+            MSSAAEKKPASKAPAEKKPAAKKTSTSVDGKKRSKVRKETYSSYIYKVLKQTHPDTGISQ
+            KSMSILNSFVNDIFERIATEASKLAAYNKKSTISAREIQTAVRLILPGELAKHAVSEGTR
+            AVTKYSSSTQA
+NTSEQ       396
+            atgtcctctgccgccgaaaagaaaccagcttccaaagctccagctgaaaagaagccagct
+            gccaagaaaacatcaacctccgtcgatggtaagaagagatctaaggttagaaaggagacc
+            tattcctcttatatttacaaagttttgaagcaaactcacccagacactggtatttcccag
+            aagtctatgtctattttgaactctttcgttaacgatatctttgaaagaattgctactgaa
+            gcttctaaattggccgcttataacaagaaatccactatttctgctagagaaatccaaaca
+            gccgttagattgatcttacctggtgaattggctaaacatgccgtctccgaaggtactagg
+            gctgttaccaaatactcctcctctactcaagcctaa
+///

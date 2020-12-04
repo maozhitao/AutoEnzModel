@@ -1,0 +1,75 @@
+ENTRY       YLR005W           CDS       T00005
+NAME        SSL1
+DEFINITION  (RefSeq) TFIIH/NER complex subunit SSL1
+ORTHOLOGY   K03142  transcription initiation factor TFIIH subunit 2
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03022  Basal transcription factors
+            sce03420  Nucleotide excision repair
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03022 Basal transcription factors
+                YLR005W (SSL1)
+              09124 Replication and repair
+               03420 Nucleotide excision repair
+                YLR005W (SSL1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:sce03021]
+                YLR005W (SSL1)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YLR005W (SSL1)
+            Transcription machinery [BR:sce03021]
+             Eukaryotic type
+              RNA polymerase II system
+               Basal transcription factors
+                TFIIH
+                 YLR005W (SSL1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                TFIIH complex
+                 YLR005W (SSL1)
+POSITION    XII:160049..161434
+MOTIF       Pfam: Ssl1 C1_4 VWA_2
+DBLINKS     NCBI-GeneID: 850691
+            NCBI-ProteinID: NP_013105
+            SGD: S000003995
+            UniProt: Q04673
+STRUCTURE   PDB: 4WFQ 5OQJ 5OQM 6GYM
+AASEQ       461
+            MAPVVISESEEDEDRVAITRRTKRQVHFDGEGDDRVDQQQQQHSSSHRDRDKHVQRKKKK
+            RLSNRNLQGSNGGYAWEDEIKRSWDLVKVDDEGDMASLVASIVEARKKRTAKKNITPYQR
+            GIIRSLILTLDCSEAMLEKDLRPNRHAMIIQYAIDFVHEFFDQNPISQMGIIIMRNGLAQ
+            LVSQVSGNPQDHIDALKSIRKQEPKGNPSLQNALEMARGLLLPVPAHCTREVLIVFGSLS
+            TTDPGDIHQTIDSLVSEKIRVKVLGLSAQVAICKELCKATNYGDESFYKILLDETHLKEL
+            FNEAVTPLPVNKINKGFTLVKMGFPTRIFEDTPTFCSCHSKLVYGGYFCPNCHSKVCSLP
+            TVCPCCDLMLILSTHLARSYHHLMPLKTFAEVPTTEKFRSEDCFSCQSRFPILKNHKNGK
+            LLTSSRYRCEDCKQEFCVDCDVFIHEILHNCPGCESKPVIT
+NTSEQ       1386
+            atggctcctgtagttatttcagaatctgaagaggatgaggatagagttgccattactaga
+            agaactaagagacaagttcattttgatggcgagggagatgatcgtgtagaccaacagcaa
+            cagcagcacagttcaagccacagggatagggataaacatgtgcagcgtaagaagaagaaa
+            aggctctcgaatagaaacctgcaaggttcaaatggtgggtacgcttgggaggatgagatc
+            aagagaagttgggatttggtgaaagtggacgatgaaggggatatggcatctcttgtggct
+            agcatagtcgaggccagaaagaaacgtactgctaagaaaaacataacgccataccaaaga
+            ggtattatcagaagtttaatattaacactagattgtagtgaagctatgttggaaaaggat
+            ttgagaccaaacaggcatgccatgattatccagtacgccatagattttgtccatgaattt
+            ttcgaccaaaatccgatatctcaaatgggtattatcataatgagaaacggtttggcacaa
+            ctggtcagccaagttagcggaaacccgcaggatcacattgatgcgttgaaatccatcagg
+            aaacaagaaccgaaaggaaacccttcattgcaaaatgcattggaaatggcaagaggcctt
+            ttattgcctgttcctgcgcattgtacaagggaagtactgattgtatttggtagtctttcc
+            acaactgatcctggagatattcaccaaactatcgattcgttagtttctgagaaaattaga
+            gtgaaggttttggggttatcagctcaagtggccatatgtaaagaattatgcaaggcaacg
+            aattatggtgatgaatccttctataaaattttactcgatgaaactcacttaaaggagcta
+            tttaacgaggctgttacccctttacccgttaacaaaattaataagggtttcacactcgta
+            aagatggggtttccgacaaggatattcgaagatactccaactttttgttcgtgccattcc
+            aagttagtttacggcggatacttctgtcccaattgtcatagtaaagtttgttcattgccc
+            acagtctgtccatgttgtgacttgatgctaatcctttctacccacctggccagatcatat
+            caccatctgatgccgttaaaaacatttgcagaagtacctacaacagaaaaatttcgatca
+            gaagactgctttagttgccagtcaagatttcccatactgaaaaaccataaaaatggtaaa
+            ctactgacaagttctcgctatcgttgtgaagattgtaaacaagaattttgtgttgactgc
+            gatgtgttcatccatgaaatccttcataactgcccaggctgtgaatccaagcccgtaata
+            acttaa
+///

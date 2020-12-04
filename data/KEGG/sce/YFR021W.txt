@@ -1,0 +1,81 @@
+ENTRY       YFR021W           CDS       T00005
+NAME        ATG18, AUT10, CVT18, NMR1, SVP1
+DEFINITION  (RefSeq) phosphoinositide binding protein ATG18
+ORTHOLOGY   K17908  autophagy-related protein 18
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04136  Autophagy - other
+            sce04138  Autophagy - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04138 Autophagy - yeast
+                YFR021W (ATG18)
+               04136 Autophagy - other
+                YFR021W (ATG18)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YFR021W (ATG18)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YFR021W (ATG18)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YFR021W (ATG18)
+            Membrane trafficking [BR:sce04131]
+             Autophagy
+              Autophagosome formation proteins
+               Atg18-Atg2 complex
+                YFR021W (ATG18)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial quality control factors
+              Mitophagy factors
+               Autophagy-related proteins
+                YFR021W (ATG18)
+            Transporters [BR:sce02000]
+             Other transporters
+              Others
+               YFR021W (ATG18)
+POSITION    VI:194812..196314
+MOTIF       Pfam: WD40 DUF5711 ANAPC4_WD40 Coatomer_WDAD CNH Ge1_WD40 WD40_like
+DBLINKS     NCBI-GeneID: 850577
+            NCBI-ProteinID: NP_444297
+            SGD: S000001917
+            UniProt: P43601
+AASEQ       500
+            MSDSSPTINFINFNQTGTCISLGTSKGFKIFNCEPFGKFYSEDSGGYAIVEMLFSTSLLA
+            LVGIGDQPALSPRRLRIINTKKHSIICEVTFPTSILSVKMNKSRLVVLLQEQIYIYDINT
+            MRLLHTIETNPNPRGLMAMSPSVANSYLVYPSPPKVINSEIKAHATTNNITLSVGGNTET
+            SFKRDQQDAGHSDISDLDQYSSFTKRDDADPTSSNGGNSSIIKNGDVIVFNLETLQPTMV
+            IEAHKGEIAAMAISFDGTLMATASDKGTIIRVFDIETGDKIYQFRRGTYATRIYSISFSE
+            DSQYLAVTGSSKTVHIFKLGHSMSNNKLDSDDSNMEEAAADDSSLDTTSIDALSDEENPT
+            RLAREPYVDASRKTMGRMIRYSSQKLSRRAARTLGQIFPIKVTSLLESSRHFASLKLPVE
+            TNSHVMTISSIGSPIDIDTSEYPELFETGNSASTESYHEPVMKMVPIRVVSSDGYLYNFV
+            MDPERGGDCLILSQYSILMD
+NTSEQ       1503
+            atgtctgattcatcacctactatcaactttattaatttcaatcaaaccggaacgtgtatt
+            tcccttggaacgtcgaaaggtttcaaaatattcaattgtgagcccttcggaaaattttat
+            tcagaggacagtgggggctatgctatcgtcgagatgttgttctccacctcgttactagcc
+            ctcgttgggataggcgatcaacctgcgctttcaccaaggagattgcgtataatcaacaca
+            aaaaaacattctattatctgtgaggtgactttccctacttctattctgagtgtgaaaatg
+            aataagtctcgattggtggtacttttacaagagcagatttatatttatgatatcaacacc
+            atgagactattgcatactatagaaacaaaccctaacccacgtggccttatggctatgtct
+            ccttcggtagccaacagctatttagtgtatccatcaccaccaaaagttattaactccgaa
+            attaaagctcatgccaccacaaacaatatcacattgtcagttggtggcaacacagagacc
+            agtttcaagagagatcagcaagatgctggccatagtgacattagcgacttggatcagtat
+            tcgagctttactaagagggatgatgcggatccaacaagcagtaacggcggtaacagcagt
+            ataataaagaatggtgatgtgatcgtattcaacttggaaacattacagccaaccatggtc
+            atcgaagctcataagggcgagattgctgcaatggcaattagttttgatgggacactaatg
+            gctaccgcctctgataaaggtactatcatcagggtctttgacattgaaacgggtgataag
+            atctaccaattcaggagagggacgtacgcgacaagaatttactccatatcattcagtgaa
+            gatagccagtacttggcggttaccggctcttccaaaaccgtgcatatcttcaaattgggg
+            cattcaatgagcaacaataaactagacagcgatgatagcaacatggaagaagctgcagcc
+            gatgattcatcgctcgataccaccagtatcgatgcgctgagtgacgaggaaaacccgaca
+            agactcgcaagagaaccatatgtggatgcatcaagaaagacaatgggtaggatgatacgt
+            tactcttctcaaaagctatcccgaagagctgccagaacattgggtcagattttccccatc
+            aaagttacatcgttgttggaatcctcgcgccattttgcgtctttgaaacttcccgttgaa
+            accaattcccatgtaatgaccatatcaagtataggctctccaatagatatagacacatcc
+            gagtatccggaactcttcgaaactggcaattccgcaagtacagagtcctaccatgagcct
+            gttatgaagatggtccccatcagggtcgtttcctcggatggatacctatacaactttgtt
+            atggacccggagagaggcggcgattgcttaatattgtcacagtattccatcttgatggat
+            tga
+///

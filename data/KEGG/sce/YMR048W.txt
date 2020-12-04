@@ -1,0 +1,57 @@
+ENTRY       YMR048W           CDS       T00005
+NAME        CSM3
+DEFINITION  (RefSeq) Csm3p
+ORTHOLOGY   K10998  replication fork protection complex subunit Csm3/Swi3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YMR048W (CSM3)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YMR048W (CSM3)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Sister chromatid cohesion proteins
+               Tof1-Csm3-Mrc1 checkpoint complex
+                YMR048W (CSM3)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                Other HR factors
+                 YMR048W (CSM3)
+              Check point factors
+               FPC (fork protection complex)
+                YMR048W (CSM3)
+POSITION    XIII:366981..367934
+MOTIF       Pfam: Swi3 TPR_20
+DBLINKS     NCBI-GeneID: 855067
+            NCBI-ProteinID: NP_013763
+            SGD: S000004651
+            UniProt: Q04659
+AASEQ       317
+            MDQDFDSLLLGFNDSDSVQKDPTVPNGLDGSVVDPTIADPTAITARKRRPQVKLTAEKLL
+            SDKGLPYVLKNAHKRIRISSKKNSYDNLSNIIQFYQLWAHELFPKAKFKDFMKICQTVGK
+            TDPVLREYRVSLFRDEMGMSFDVGTRETGQDLERQSPMVEEHVTSAEERPIVADSFAQDK
+            RNVNNVDYDNDEDDDIYHLSYRNRRGRVLDERGNNETVLNNVVPPKEDLDALLKTFRVQG
+            PVGLEENEKKLLLGWLDAHRKMEKGSMTEEDVQLIQSLEEWEMNDIEGQHTHYDLLPGGD
+            EFGVDQDELDAMKEMGF
+NTSEQ       954
+            atggatcaagattttgacagtttattactaggtttcaatgactccgatagtgtccaaaaa
+            gacccaactgtaccaaatggcttggatggttcagtagttgatcctaccattgcggatcca
+            accgcaattacagctagaaagagaaggcctcaagtaaaattaacagccgaaaaactactc
+            agtgataaaggtttaccatatgttttgaaaaatgcacataaaaggatacgaatttcctca
+            aaaaaaaactcatatgacaacttatcaaatattattcagttttaccagctttgggcacat
+            gaattgtttcccaaggcaaaatttaaggattttatgaagatctgtcaaacagtaggtaaa
+            acagatccagttcttagagaatatagagtcagcctttttagggacgagatgggcatgagt
+            ttcgatgttggcacacgggagactgggcaagacctggaaagacaatcacctatggttgaa
+            gaacatgtcacttccgcggaagagaggcctattgtcgcagatagttttgcgcaagacaaa
+            aggaatgtaaacaatgtcgattacgataatgacgaagatgacgatatctatcacctttct
+            tatcgcaacagaagaggacgagttttggacgaacgtgggaataatgaaacggtacttaac
+            aacgttgtgccgcctaaggaagatttggatgcattattgaagacattcagggtacaaggg
+            cccgttggccttgaagaaaatgagaagaagctcttattaggatggctagatgcgcataga
+            aaaatggaaaaaggctctatgactgaagaagacgttcaactgattcaaagtttggaagag
+            tgggaaatgaatgatatagagggacaacatactcattatgatttattgccagggggagat
+            gagtttggcgtagatcaagatgagttggatgctatgaaggaaatgggcttttag
+///

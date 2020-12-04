@@ -1,0 +1,92 @@
+ENTRY       YKL188C           CDS       T00005
+NAME        PXA2, PAT1
+DEFINITION  (RefSeq) ATP-binding cassette long-chain fatty acid transporter PXA2
+ORTHOLOGY   K15628  ATP-binding cassette, subfamily D (ALD), peroxisomal long-chain fatty acid import protein
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce02010  ABC transporters
+            sce04146  Peroxisome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                YKL188C (PXA2)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04146 Peroxisome
+                YKL188C (PXA2)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YKL188C (PXA2)
+            Transporters [BR:sce02000]
+             ABC transporters, eukaryotic type
+              ABCD (ALD) subfamily
+               Others
+                YKL188C (PXA2)
+POSITION    XI:complement(86225..88786)
+MOTIF       Pfam: ABC_membrane_2 ABC_tran AAA_21 AAA_29 AAA_22 NACHT
+DBLINKS     NCBI-GeneID: 853647
+            NCBI-ProteinID: NP_012733
+            SGD: S000001671
+            UniProt: P34230
+AASEQ       853
+            MISTASAFYQKHRVNLLRSSYIILLLATLYNSNSSSSNNKTDKKDSESTVLENKKIEEGK
+            ETAVDREEDESSKEELTIVSKHSTDSEDGAIIIDKESKTNHKGGERKGKVDFLFKLLLHD
+            KKCLILFITQAILLNIRTLLSLRVATLDGQLVSTLVRAQYANFTKILLGKWMILGIPASF
+            INSLISYTTKLCAVTINRKVSDFLLSKYLSNHHTFYSVASAESVSEIQDNLTKDIYTFSM
+            NSSLLLNQLLKPMLDLILCSFKLLTSNTSVMGEGTLALGLIVYASNSLLKLIQPNFTRLT
+            MASASLESWFRSLHSNLHSSNEEIALLRGQKRELENVDYSFYRLVLFLNREIKARAIYDV
+            ATAFVIKYTWGAAGLVLCSIPIFFKNKPSEDTLQLKEPGNDMTADFITNRRLLVTASSSI
+            GRFVELKRNIQQLRGIRLRLNKFNDLLDANKGDDEKEPRDERCIVEYDDSRIKFENIPLI
+            TPANQVLVPELSFDLKHGNHLLIIGPNGCGKSSLFRILGGLWPIRATPNKNHQSKLIMPR
+            RTVDRDCAIFYLPQRPYMGNRSTFREQIIYPDSIEQFKERYHNDYDLGDADLIKILQLLD
+            LEDLVTENMSLLLAQRTSKNDSQQLSTEDNQSPCAIKVRDAFSIVRNWSEELTIGVQQRL
+            AMARMYYHKPKFAVLDECTSAVAPEMEQRMYENAQNFGISLISVCHRTSLWHFHNYLLKF
+            DGKGGYQFGPFNPKERLCNEEKLLELNAILDQQVPLWERKLKDLTIAKESNIIRKSETNL
+            NLFEKIEDPKTSKSNALFNANKGQRITSPTGQETSKRLPLFSQPSSSASSNLLRNNKSLN
+            KKVKTKKEEGKER
+NTSEQ       2562
+            atgatctcaacagcttctgcattttatcagaagcatagagtaaatttactgcgttcttca
+            tacataatattgttgctagccacgctttacaattcaaattccagttctagtaacaacaaa
+            actgataagaaggattctgagtcaacggttttagaaaataagaaaattgaagagggaaaa
+            gaaaccgcagtagatagagaggaagatgaaagtagcaaagaagagttaacgatagtctcc
+            aaacatagcacagattcagaagatggtgcaataataattgataaagaaagcaagactaat
+            cataaggggggagagcgaaaaggaaaggtagattttttgttcaaacttttgcttcatgat
+            aagaagtgcctcattttatttattacacaggctattcttctgaacatcagaacattgctg
+            tctcttcgtgtggctactttagatggtcaattagtgtccacactagtaagagctcaatac
+            gcaaacttcacaaagatattgttggggaaatggatgatccttggaattcccgccagtttt
+            attaattcactgatcagttacacgacaaaactttgtgctgtcactattaataggaaagtt
+            tcagactttctactctcaaagtatctatctaatcaccatactttctattccgtagcttct
+            gctgaatctgtttcagaaattcaggataatttgacaaaagatatttacacattttcaatg
+            aactcgtcattattactgaatcagctattaaagccaatgctggatttgatcctctgttca
+            ttcaaattattaacctcaaacactagtgttatgggtgaaggaactttggcactgggctta
+            attgtctacgcctccaattcattactaaaattgattcaaccgaatttcactaggttaact
+            atggcaagcgcatctttggaaagttggttcagatctttacactcgaatctacattcaagc
+            aatgaagaaattgcactgctaagagggcaaaagagggaactagaaaacgttgattattca
+            ttttaccgtttggtgctatttttaaacagagaaataaaggcaagagctatttatgatgtt
+            gctactgcatttgtcattaaatatacttggggcgcagctggcttggtactatgctcgatt
+            ccaatatttttcaaaaacaaacctagtgaagacaccttacagcttaaggaacccgggaat
+            gatatgacggctgatttcatcacaaatagaagattattagtcactgcatctagctctatc
+            ggaagatttgtggaactgaagagaaatatacaacaattacgcggtatcagattgagattg
+            aacaagttcaatgatttgttggatgctaataaaggtgatgacgaaaaagaaccaagagat
+            gaaaggtgtatagtggaatatgatgattcaaggataaagtttgaaaatattcctttaata
+            acacctgccaatcaagttctagtaccggagctaagttttgatctgaagcatggaaatcat
+            ctactaattattgggcccaacggttgcggtaaatcttcattatttcgtattctaggcggg
+            ctttggccgataagggcgactcccaataaaaatcatcaatccaagttaataatgccgcgt
+            agaactgtggatagagattgcgcaatattttatttaccccaaaggccgtatatgggcaat
+            aggtcgacattcagggaacagattatttatccagacagtattgaacaattcaaagaaaga
+            tatcacaatgattatgatctaggcgatgcagatttaataaaaattctgcaattattagat
+            ttggaggatttagtcactgaaaatatgtcacttctgctggcgcaaaggacttccaaaaat
+            gattcacagcagttgtcgacggaagacaatcagtcaccatgcgccattaaagttcgtgat
+            gcattcagtatagtaagaaattggtccgaagaattaacaattggtgtccaacaaaggtta
+            gctatggcaaggatgtactatcataaacccaagtttgctgtgctcgacgaatgtacatct
+            gcagtagccccagaaatggaacaaaggatgtacgaaaatgcgcaaaattttggtatctcg
+            ttaatatcagtttgccacaggacaagtttatggcattttcataactatctgttaaaattt
+            gatggtaaaggcggataccaatttggaccgtttaacccgaaggaaaggttatgtaatgaa
+            gaaaaacttcttgaactaaatgccatcttggatcaacaggtgccactttgggagcggaag
+            ttgaaagatctgacaattgctaaagaatccaacatcattcgtaaatcagaaactaacctg
+            aatctttttgaaaagatcgaagatccaaaaacgtccaaatctaatgcattgtttaatgca
+            aataaagggcagcgaatcacatcacctacagggcaggagactagtaagagattaccacta
+            ttttcccaaccatctagttcagcatcatcaaatttactaagaaacaataaaagcttgaac
+            aaaaaagttaaaacaaaaaaggaagaaggaaaggagaggtaa
+///

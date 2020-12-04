@@ -1,0 +1,38 @@
+ENTRY       YLR264W           CDS       T00005
+NAME        RPS28B, RPS33B
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S28B
+ORTHOLOGY   K02979  small subunit ribosomal protein S28e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YLR264W (RPS28B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YLR264W (RPS28B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YLR264W (RPS28B)
+              Archaea
+                YLR264W (RPS28B)
+POSITION    XII:673131..673334
+MOTIF       Pfam: Ribosomal_S28e S_layer_C
+DBLINKS     NCBI-GeneID: 850969
+            NCBI-ProteinID: NP_013366
+            SGD: S000004254
+            UniProt: P0C0X0
+STRUCTURE   PDB: 6EML
+AASEQ       67
+            MDSKTPVTLAKVIKVLGRTGSRGGVTQVRVEFLEDTSRTIVRNVKGPVRENDILVLMESE
+            REARRLR
+NTSEQ       204
+            atggattctaagaccccagtcaccttagctaaagtcatcaaagttttaggccgtaccggt
+            tctcgtggtggtgttacccaagttcgtgttgagttcttggaagacacttcccgtaccatt
+            gtcagaaatgtcaagggtccagttagagaaaacgacattttggtcttgatggaatctgaa
+            cgtgaagctcgtcgtttgcgttaa
+///

@@ -1,0 +1,75 @@
+ENTRY       YNL128W           CDS       T00005
+NAME        TEP1
+DEFINITION  (RefSeq) putative phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase
+ORTHOLOGY   K01110  phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN [EC:3.1.3.16 3.1.3.48 3.1.3.67]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00562  Inositol phosphate metabolism
+            sce01100  Metabolic pathways
+            sce04070  Phosphatidylinositol signaling system
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00562 Inositol phosphate metabolism
+                YNL128W (TEP1)
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               04070 Phosphatidylinositol signaling system
+                YNL128W (TEP1)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01009 Protein phosphatases and associated proteins [BR:sce01009]
+                YNL128W (TEP1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.16  protein-serine/threonine phosphatase
+                 YNL128W (TEP1)
+                3.1.3.48  protein-tyrosine-phosphatase
+                 YNL128W (TEP1)
+                3.1.3.67  phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase
+                 YNL128W (TEP1)
+            Protein phosphatases and associated proteins [BR:sce01009]
+             Protein tyrosine phosphatases (PTPs)
+              Class I PTPs (Dual specificity phosphatases)
+               Phosphatase and Tensin homologs (PTEN)
+                YNL128W (TEP1)
+POSITION    XIV:382359..383663
+MOTIF       Pfam: DSPc PTPlike_phytase Y_phosphatase3 Y_phosphatase
+DBLINKS     NCBI-GeneID: 855595
+            NCBI-ProteinID: NP_014271
+            SGD: S000005072
+            UniProt: P53916
+AASEQ       434
+            MREEGSELEMEKGFLKWKPVNLMKKILSLPMKKTKNDIGLRLDISYILVNLIVCSYPVNT
+            YPKLLYRNSLDDLILFLTVYHGKGNFRIFNFRGEKEDSDYKDNDLIGIAAKFESKDFEIQ
+            ELRSTLINDGKIPISPIDLETRTLVEEETNNVICERIGWLDHFPPPFELLEEIVDGIENY
+            LSVSKNRVAVLHCRMGKGRSGMITVAYLMKYLQCPLGEARLIFMQARFKYGMTNGVTIPS
+            QLRYLRYHEFFITHEKAAQEGISNEAVKFKFKFRLAKMTFLRPSSLITSESAIVTTKIQH
+            YNDDRNALLTRKVVYSDIMAHECGGNMTFIFGRDYLTLENDCRIEFTLGTSKSKAASSII
+            SWTSCASCWLNIYLETLMHIIKDDSSPDYFQVERLKRDEMLGTTISWQELDGFGELSTHG
+            LKLFQALKLEWEII
+NTSEQ       1305
+            atgagagaggaggggagtgaattagaaatggaaaaaggcttccttaaatggaaaccagtc
+            aacttgatgaagaaaatattgtctttaccaatgaaaaaaactaaaaacgatataggtttg
+            agattagatatatcatatattttagttaatctaatagtctgctcatacccggtaaacacg
+            tatccaaaactgctttataggaatagcttggatgacttaatattgtttctaacagtgtac
+            catggcaagggaaattttagaatttttaattttagaggtgagaaagaagacagcgattat
+            aaagataatgatcttattggtatcgctgccaagtttgagagcaaagattttgaaattcaa
+            gaattacgttcgacgctgattaatgatggaaagataccaatatcacccattgatctcgaa
+            acaaggaccttggtcgaagaagaaaccaataatgtaatttgtgaaaggatcggttggcta
+            gatcattttccaccgccatttgaactgctggaagagattgtagatggtatagaaaattac
+            ctgtccgtttcgaagaatagagtggctgttttacattgtcgaatggggaaaggccgatct
+            ggtatgataacagtagcatacctcatgaaatacttgcagtgtcctcttggagaagcaaga
+            ttgatattcatgcaggctagattcaagtatggtatgacgaatggcgtcaccataccctct
+            caattaagatacttaaggtaccatgagttttttattacccatgaaaaagcagcccaagaa
+            ggaatttctaatgaggcggtaaaattcaaatttaaattcaggcttgctaaaatgacgttc
+            ctccgcccatcaagcttaatcacttccgagtctgctattgtaactactaagattcaacac
+            tacaacgatgatagaaatgccctcctaacccgaaaagtagtatattcagatatcatggcg
+            catgaatgcggtggtaatatgaccttcatttttggtagggactacttaacactggaaaat
+            gattgtcgtatagaatttaccctggggaccagcaagtccaaagccgccagtagcataata
+            tcttggacttcatgcgccagctgttggctgaatatataccttgagactttgatgcacata
+            attaaagacgattcttcgccagattactttcaagtagagaggttaaagagagacgaaatg
+            cttgggacaaccataagctggcaagagctggacggttttggggagctcagcactcacggc
+            ttgaaattatttcaggcactgaaattggaatgggaaattatatag
+///

@@ -1,0 +1,57 @@
+ENTRY       YLL039C           CDS       T00005
+NAME        UBI4, SCD2, UB14
+DEFINITION  (RefSeq) ubiquitin
+ORTHOLOGY   K08770  ubiquitin C
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04120  Ubiquitin mediated proteolysis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                YLL039C (UBI4)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YLL039C (UBI4)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitins and ubiquitin-like proteins
+              Ubiquitins
+               YLL039C (UBI4)
+POSITION    XII:complement(64062..65207)
+MOTIF       Pfam: ubiquitin Rad60-SLD Ubiquitin_2 TBK1_ULD Rad60-SLD_2 Ubiquitin_5 DUF2407
+DBLINKS     NCBI-GeneID: 850620
+            NCBI-ProteinID: NP_013061
+            SGD: S000003962
+            UniProt: P0CG63
+STRUCTURE   PDB: 4Q5E 4Q5H 5L6H 4NNJ 5U4P 3OLM 4HCN 5L6J 3CMM 5L6I 6OA9
+                 6OAA 2L00 2KDI 2JWZ 2JT4 2G3Q 1WR1 1Q0W 1OTR
+AASEQ       381
+            MQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYN
+            IQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLI
+            FAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVESSDTIDNVKS
+            KIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKT
+            ITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLR
+            LRGGMQIFVKTLTGKTITLEVESSDTIDNVKSKIQDKEGIPPDQQRLIFAGKQLEDGRTL
+            SDYNIQKESTLHLVLRLRGGN
+NTSEQ       1146
+            atgcagattttcgtcaagactttgaccggtaaaaccataacattggaagttgaatcttcc
+            gataccatcgacaacgttaagtcgaaaattcaagacaaggaaggtatccctccagatcaa
+            caaagattgatctttgccggtaagcagctagaagacggtagaacgctgtctgattacaac
+            attcagaaggagtccaccttacatcttgtgctaaggctaagaggtggtatgcagatcttt
+            gttaagactttgaccggtaaaaccatcactttagaggttgaatcctccgacacgatcgat
+            aacgttaagtcgaaaatccaggacaaggaaggtatccctccggatcaacagaggttgatc
+            tttgccggtaagcagctagaagatggtagaaccttgtctgactacaacatccaaaaggaa
+            tctactcttcacttggtgttgagactgagaggtggtatgcaaatttttgtcaagacactg
+            acaggtaagactataaccctagaggttgaatcttctgacactatcgacaacgttaagtcg
+            aaaattcaagacaaggaaggtattcctccagatcaacaaagattgatttttgctggtaag
+            caactggaagacggtagaacgctgtctgattataacattcagaaagagtctacgttgcat
+            ttggtgttgagattgagaggtggtatgcaaattttcgtcaaaactctaacagggaagact
+            ataaccctagaggttgaatcttccgacactattgacaacgtcaaaagtaaaattcaagat
+            aaagaaggtatccctccggatcaacagagattgatttttgctggtaagcaactagaagat
+            ggtagaaccttgtctgactacaacatccaaaaggaatctactcttcacttggtgttgaga
+            ctgagaggtggtatgcaaatttttgtcaagacactgacaggtaagactataaccctagag
+            gttgaatcttctgacactattgacaacgttaagtcgaaaattcaagacaaggaaggtatt
+            cctccagaccagcaaagattgatttttgccggtaagcaactagaagatggtagaacgctg
+            tcggactacaatattcaaaaggagtccactcttcaccttgtcttgaggttgaggggtggt
+            aactga
+///

@@ -1,0 +1,77 @@
+ENTRY       YJL138C           CDS       T00005
+NAME        TIF2
+DEFINITION  (RefSeq) translation initiation factor eIF4A
+ORTHOLOGY   K03257  translation initiation factor 4A
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03013  RNA transport
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03013 RNA transport
+                YJL138C (TIF2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YJL138C (TIF2)
+               03012 Translation factors [BR:sce03012]
+                YJL138C (TIF2)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YJL138C (TIF2)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               Transport factors
+                eIF4F and regulatory proteins
+                 YJL138C (TIF2)
+               mRNA cycle factors
+                Stress granule specific factors
+                 YJL138C (TIF2)
+            Translation factors [BR:sce03012]
+             Eukaryotic type
+              Initiation factors
+               eIF-4
+                YJL138C (TIF2)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YJL138C (TIF2)
+              Exosomal proteins of bladder cancer cells
+               YJL138C (TIF2)
+POSITION    X:complement(153504..154691)
+MOTIF       Pfam: DEAD Helicase_C ResIII AAA_19 AAA_30
+DBLINKS     NCBI-GeneID: 853303
+            NCBI-ProteinID: NP_012397
+            SGD: S000003674
+            UniProt: P10081
+STRUCTURE   PDB: 1FUK 1QDE 1FUU 1QVA 2VSX 2VSO
+AASEQ       395
+            MSEGITDIEESQIQTNYDKVVYKFDDMELDENLLRGVFGYGFEEPSAIQQRAIMPIIEGH
+            DVLAQAQSGTGKTGTFSIAALQRIDTSVKAPQALMLAPTRELALQIQKVVMALAFHMDIK
+            VHACIGGTSFVEDAEGLRDAQIVVGTPGRVFDNIQRRRFRTDKIKMFILDEADEMLSSGF
+            KEQIYQIFTLLPPTTQVVLLSATMPNDVLEVTTKFMRNPVRILVKKDELTLEGIKQFYVN
+            VEEEEYKYECLTDLYDSISVTQAVIFCNTRRKVEELTTKLRNDKFTVSAIYSDLPQQERD
+            TIMKEFRSGSSRILISTDLLARGIDVQQVSLVINYDLPANKENYIHRIGRGGRFGRKGVA
+            INFVTNEDVGAMRELEKFYSTQIEELPSDIATLLN
+NTSEQ       1188
+            atgtctgaaggtattactgatattgaagaatcccaaattcaaaccaactatgacaaggtc
+            gtctacaagttcgatgatatggaattggacgaaaacttgttaagaggtgttttcggttac
+            ggtttcgaagaaccatctgccattcaacaacgtgccatcatgcctattattgaaggtcac
+            gatgtcttggctcaagctcaatctggtactggtaagaccggtactttctccattgctgct
+            ttgcaaagaattgacacctctgtcaaggctcctcaagctttgatgttggctccaactaga
+            gaattggctttgcaaatccaaaaggttgtcatggctttggctttccacatggacatcaag
+            gtccacgcttgtatcggtggtacttcctttgttgaagacgctgaaggtttgagagatgct
+            caaatcgtcgttggtactccaggtcgtgtttttgacaacatccaaagacgtagattcaga
+            actgacaagatcaagatgttcatcttagatgaagctgatgaaatgttgtcttctggtttc
+            aaggaacaaatctaccaaattttcaccttacttccaccaaccactcaagttgttctattg
+            tccgccaccatgccaaatgacgtcttggaagttaccaccaaatttatgagaaacccagtt
+            agaattttggttaagaaggatgaattgactttggaaggtatcaaacaattctacgttaat
+            gttgaagaagaagaatacaaatacgagtgtttgaccgatttatacgactctatctccgtt
+            actcaagctgtcatcttctgtaacaccagaagaaaggtcgaagaattgaccactaagtta
+            agaaacgacaaatttaccgtttctgccatctattctgatttaccacaacaagaaagagac
+            accatcatgaaggaattcagaagtggttcttccagaattttgatctccactgatttgttg
+            gctagaggtatcgatgtccaacaagtttctttggttattaactacgacttaccagctaac
+            aaagaaaactatattcacagaatcggtagaggtggtcgtttcggtagaaagggtgttgcc
+            atcaactttgttactaacgaagacgttggcgctatgagagaactagaaaagttctactcc
+            actcaaattgaagaattgccatccgacattgctaccttgttgaactaa
+///

@@ -1,0 +1,70 @@
+ENTRY       YDR268W           CDS       T00005
+NAME        MSW1
+DEFINITION  (RefSeq) tryptophan--tRNA ligase MSW1
+ORTHOLOGY   K01867  tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                YDR268W (MSW1)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:sce01007]
+                YDR268W (MSW1)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YDR268W (MSW1)
+            Enzymes [BR:sce01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.2  tryptophan---tRNA ligase
+                 YDR268W (MSW1)
+            Amino acid related enzymes [BR:sce01007]
+             Aminoacyl-tRNA synthetase
+              Class I (G)
+               YDR268W (MSW1)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                YDR268W (MSW1)
+             Prokaryotic type
+                YDR268W (MSW1)
+POSITION    IV:1004004..1005143
+MOTIF       Pfam: tRNA-synt_1b
+DBLINKS     NCBI-GeneID: 851861
+            NCBI-ProteinID: NP_010554
+            SGD: S000002676
+            UniProt: P04803
+AASEQ       379
+            MSNKQAVLKLISKRWISTVQRADFKLNSEALHSNATVFSMIQPTGCFHLGNYLGATRVWT
+            DLCELKQPGQELIFGVADLHAITVPKPDGEMFRKFRHEAVASILAVGVDPEKASVIYQSA
+            IPQHSELHWLLSTLASMGLLNRMTQWKSKSNIKQSTNGDYLVNDSDVGKVRLGLFSYPVL
+            QAADILLYKSTHVPVGDDQSQHLELTRHLAEKFNKMYKKNFFPKPVTMLAQTKKVLSLST
+            PEKKMSKSDPNHDSVIFLNDEPKAIQKKIRKALTDSISDRFYYDPVERPGVSNLINIVSG
+            IQRKSIEDVVEDVSRFNNYRDFKDYVSEVIIEELKGPRTEFEKYINEPTYLHSVVESGMR
+            KAREKAAKNLADIHKIMGF
+NTSEQ       1140
+            atgtcgaataagcaggcggttctgaagttaatcagtaaaaggtggataagcacagtgcaa
+            cgtgccgattttaagctgaattccgaagcgcttcatagtaatgctacggtatttagtatg
+            attcagccaactgggtgtttccaccttggtaattatctaggtgctacacgtgtttggaca
+            gacttatgtgaattaaaacaacctggccaggaattgatatttggagttgctgatttacac
+            gctatcactgttccaaagccagatggagaaatgtttagaaaatttcgccatgaggcagta
+            gcaagtatactggctgtcggtgtagatccagaaaaggcttcggtgatctaccaatccgcc
+            atccctcaacacagtgaattacactggttgctttctactcttgcctcgatgggattactt
+            aaccgcatgacgcaatggaaatcaaaatcgaatatcaaacaatcaactaatggggattat
+            ctggttaacgattctgacgtgggaaaagttagactgggcttattttcgtatcctgtttta
+            caggcagcggatattctactttataaatctacacacgttcctgttggcgatgatcaatcg
+            cagcatttggaactaacaagacaccttgctgaaaagtttaacaaaatgtacaagaaaaat
+            ttttttcctaaacctgtaactatgttggcacaaacgaaaaaagttttgagcttaagcacg
+            cctgaaaagaaaatgtccaagagtgatccgaatcacgactctgtaatttttttgaatgat
+            gagcctaaggcaattcagaaaaagattagaaaagctttaacagattccatttctgatagg
+            ttctactacgaccctgtagaaagaccaggcgtatcgaatttaattaacattgtcagtggc
+            attcaaagaaaatcgattgaagatgtcgtagaagatgtatctcgtttcaataactatagg
+            gatttcaaagattatgtttcagaagtgataattgaggaattgaaaggcccaagaacagaa
+            tttgagaaatatatcaacgaaccgacctatttgcatagtgtcgttgaatctggcatgcgc
+            aaagcgagagaaaaagcagcaaaaaacctggccgacattcataaaataatgggcttctga
+///

@@ -1,0 +1,143 @@
+ENTRY       YDL229W           CDS       T00005
+NAME        SSB1, YG101
+DEFINITION  (RefSeq) Hsp70 family ATPase SSB1
+ORTHOLOGY   K03283  heat shock 70kDa protein 1/2/6/8
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+            sce04141  Protein processing in endoplasmic reticulum
+            sce04144  Endocytosis
+            sce04213  Longevity regulating pathway - multiple species
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YDL229W (SSB1)
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YDL229W (SSB1)
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04144 Endocytosis
+                YDL229W (SSB1)
+             09150 Organismal Systems
+              09149 Aging
+               04213 Longevity regulating pathway - multiple species
+                YDL229W (SSB1)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01009 Protein phosphatases and associated proteins [BR:sce01009]
+                YDL229W (SSB1)
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YDL229W (SSB1)
+               03009 Ribosome biogenesis [BR:sce03009]
+                YDL229W (SSB1)
+               03110 Chaperones and folding catalysts [BR:sce03110]
+                YDL229W (SSB1)
+               04131 Membrane trafficking [BR:sce04131]
+                YDL229W (SSB1)
+               03051 Proteasome [BR:sce03051]
+                YDL229W (SSB1)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YDL229W (SSB1)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YDL229W (SSB1)
+            Protein phosphatases and associated proteins [BR:sce01009]
+             Protein serine/threonine phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-5
+                PP5-interacting proteins
+                 YDL229W (SSB1)
+            Spliceosome [BR:sce03041]
+             Complex B
+              Other components
+               Prp19 complex
+                YDL229W (SSB1)
+             Complex C
+               Prp19-CDC5 complex
+                YDL229W (SSB1)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Pre-60S particles
+               Export and cytoplasmic maturation factors
+                YDL229W (SSB1)
+            Chaperones and folding catalysts [BR:sce03110]
+             Heat shock proteins
+              HSP70 / DNAK
+               YDL229W (SSB1)
+            Membrane trafficking [BR:sce04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Other core components
+                YDL229W (SSB1)
+             Autophagy
+              Chaperone mediated autophagy (CMA)
+               Chaperones
+                YDL229W (SSB1)
+            Proteasome [BR:sce03051]
+             Eukaryotic proteasome
+              Assembling factors
+               Other assembling factors
+                YDL229W (SSB1)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Endoplasmic reticulum membrane and cytosol
+               Other ER-memrane and cytosol factors
+                YDL229W (SSB1)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               YDL229W (SSB1)
+POSITION    IV:44065..45906
+MOTIF       Pfam: HSP70 MreB_Mbl FGGY_C Paralemmin Hydantoinase_A
+DBLINKS     NCBI-GeneID: 851369
+            NCBI-ProteinID: NP_010052
+            SGD: S000002388
+            UniProt: P11484
+STRUCTURE   PDB: 3GL1
+AASEQ       613
+            MAEGVFQGAIGIDLGTTYSCVATYESSVEIIANEQGNRVTPSFVAFTPEERLIGDAAKNQ
+            AALNPRNTVFDAKRLIGRRFDDESVQKDMKTWPFKVIDVDGNPVIEVQYLEETKTFSPQE
+            ISAMVLTKMKEIAEAKIGKKVEKAVITVPAYFNDAQRQATKDAGAISGLNVLRIINEPTA
+            AAIAYGLGAGKSEKERHVLIFDLGGGTFDVSLLHIAGGVYTVKSTSGNTHLGGQDFDTNL
+            LEHFKAEFKKKTGLDISDDARALRRLRTAAERAKRTLSSVTQTTVEVDSLFDGEDFESSL
+            TRARFEDLNAALFKSTLEPVEQVLKDAKISKSQIDEVVLVGGSTRIPKVQKLLSDFFDGK
+            QLEKSINPDEAVAYGAAVQGAILTGQSTSDETKDLLLLDVAPLSLGVGMQGDMFGIVVPR
+            NTTVPTIKRRTFTTCADNQTTVQFPVYQGERVNCKENTLLGEFDLKNIPMMPAGEPVLEA
+            IFEVDANGILKVTAVEKSTGKSSNITISNAVGRLSSEEIEKMVNQAEEFKAADEAFAKKH
+            EARQRLESYVASIEQTVTDPVLSSKLKRGSKSKIEAALSDALAALQIEDPSADELRKAEV
+            GLKRVVTKAMSSR
+NTSEQ       1842
+            atggctgaaggtgttttccaaggtgctatcggtatcgatttaggtacaacctactcttgt
+            gttgctacttacgaatcctccgttgaaattattgccaacgaacaaggtaacagagtcacc
+            ccatctttcgttgctttcactccagaagaaagattgattggtgatgctgccaagaaccaa
+            gctgctttgaacccaagaaacactgtcttcgatgctaagcgtttgattggtagaagattc
+            gacgacgaatctgttcaaaaggacatgaagacctggcctttcaaggttatcgacgtcgat
+            ggtaacccagtcatcgaagtccaatacttggaagaaaccaagactttctccccacaagaa
+            atttccgctatggttttgaccaagatgaaggaaattgctgaagctaagattggtaagaag
+            gttgaaaaggccgtcattactgtcccagcttactttaacgacgctcaaagacaagctacc
+            aaggatgccggtgccatttctggtttgaacgttttgcgtatcatcaacgaacctactgcc
+            gctgctattgcttacggtctaggtgctggtaagtccgaaaaggaaagacatgttttgatt
+            ttcgatttgggtggtggtactttcgatgtttccttgttgcacattgctggtggtgtttac
+            actgttaaatctacttccggtaacactcacttgggtggtcaagatttcgacaccaacttg
+            ttggaacacttcaaggctgaattcaagaagaagactggtttggacatctccgacgatgcc
+            agagctttgagaagattgagaactgctgctgaaagagctaagagaaccttatcttctgtc
+            actcaaactaccgttgaagttgactctttgtttgacggtgaagatttcgaatcctctttg
+            actagagctagatttgaagacttgaacgccgcattgttcaagtctactttggaacctgtt
+            gaacaagttttgaaggatgctaagatctctaagtctcaaatcgacgaagttgtcttggtt
+            ggtggttccaccagaattccaaaggtccaaaagttgttgtctgacttctttgacggtaag
+            caattggaaaaatctattaacccagatgaagctgttgcttacggtgctgctgttcaaggt
+            gctatcttgaccggccaatccacatctgacgaaaccaaggacttgttgttgttagatgtt
+            gctccattatctctaggtgttggtatgcaaggtgacatgttcggtatcgttgttccaaga
+            aacactactgttccaaccatcaagagaagaacctttactacatgtgctgacaaccaaacc
+            accgttcaattcccagtctaccaaggtgaacgtgttaactgtaaagaaaacactttgttg
+            ggtgaattcgacttgaagaacatcccaatgatgccagctggtgaaccagtcttggaagct
+            atcttcgaagttgatgctaacggtatcttgaaggttactgccgtcgaaaagtctaccggt
+            aagtcttctaacatcactatctctaacgctgttggtagattgtcttctgaagaaattgaa
+            aagatggttaaccaagctgaagagttcaaggctgccgatgaagcttttgccaagaagcac
+            gaagctagacaaagattggaatcctacgttgcctccatcgaacaaactgtcactgaccca
+            gtcttgtcttctaaattgaagagaggttccaagtccaagattgaagctgctttgtccgat
+            gctttggctgctttgcaaatcgaagacccatctgctgatgaattgagaaaggctgaagtt
+            ggtttgaagagagttgtcaccaaggccatgtcttctcgttaa
+///

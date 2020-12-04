@@ -1,0 +1,81 @@
+ENTRY       YDL138W           CDS       T00005
+NAME        RGT2
+DEFINITION  (RefSeq) glucose sensor
+ORTHOLOGY   K08139  MFS transporter, SP family, sugar:H+ symporter
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04113  Meiosis - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04113 Meiosis - yeast
+                YDL138W (RGT2)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YDL138W (RGT2)
+            Transporters [BR:sce02000]
+             Major facilitator superfamily (MFS)
+              Sugar transporters
+               Sugar porter (SP) family [TC:2.A.1.1]
+                YDL138W (RGT2)
+POSITION    IV:213351..215642
+MOTIF       Pfam: Sugar_tr MFS_1
+DBLINKS     NCBI-GeneID: 851417
+            NCBI-ProteinID: NP_010143
+            SGD: S000002297
+            UniProt: Q12300
+AASEQ       763
+            MNDSQNCLRQREENSHLNPGNDFGHHQGAECTINHNNMPHRNAYTESTNDTEAKSIVMCD
+            DPNAYQISYTNNEPAGDGAIETTSILLSQPLPLRSNVMSVLVGIFVAVGGFLFGYDTGLI
+            NSITDMPYVKTYIAPNHSYFTTSQIAILVSFLSLGTFFGALIAPYISDSYGRKPTIMFST
+            AVIFSIGNSLQVASGGLVLLIVGRVISGIGIGIISAVVPLYQAEAAQKNLRGAIISSYQW
+            AITIGLLVSSAVSQGTHSKNGPSSYRIPIGLQYVWSSILAVGMIFLPESPRYYVLKDELN
+            KAAKSLSFLRGLPIEDPRLLEELVEIKATYDYEASFGPSTLLDCFKTSENRPKQILRIFT
+            GIAIQAFQQASGINFIFYYGVNFFNNTGVDNSYLVSFISYAVNVAFSIPGMYLVDRIGRR
+            PVLLAGGVIMAIANLVIAIVGVSEGKTVVASKIMIAFICLFIAAFSATWGGVVWVVSAEL
+            YPLGVRSKCTAICAAANWLVNFTCALITPYIVDVGSHTSSMGPKIFFIWGGLNVVAVIVV
+            YFAVYETRGLTLEEIDELFRKAPNSVISSKWNKKIRKRCLAFPISQQIEMKTNIKNAGKL
+            DNNNSPIVQDDSHNIIDVDGFLENQIQSNDHMIAADKGSGSLVNIIDTAPLTSTEFKPVE
+            HPPVNYVDLGNGLGLNTYNRGPPSIISDSTDEFYEENDSSYYNNNTERNGANSVNTYMAQ
+            LINSSSTTSNDTSFSPSHNSNARTSSNWTSDLASKHSQYTSPQ
+NTSEQ       2292
+            atgaacgatagccaaaactgcctacgacagagggaagaaaatagtcatctgaatcctgga
+            aatgacttcggccaccaccagggtgcagaatgtacgataaatcataacaacatgccacac
+            cgcaatgcatacacagaatctacgaatgacacggaagcaaagtccatagtgatgtgcgac
+            gatcctaacgcataccaaatttcctacacaaataatgagccggcgggagatggagctata
+            gaaaccacgtccattctactatcgcaaccgctgccgctgcgatcgaatgtgatgtctgtc
+            ttggtaggcatatttgttgccgtggggggcttcttgtttgggtatgacactggacttata
+            aacagtatcacggatatgccgtatgttaaaacctacattgctccgaaccattcatatttc
+            accactagccaaatagccatactcgtatcattcctctccctaggaacatttttcggtgcg
+            ttaatcgctccctatatttcagattcatatggtaggaagccaacaattatgtttagtacc
+            gctgttatcttttccatcggaaactcattacaggtggcatccggtggcttggtgctatta
+            atcgtcggaagagtgatctcaggtatcgggatcgggataatctctgctgtggttcctctt
+            tatcaagctgaagctgcgcagaagaaccttagaggtgccatcatttccagttatcagtgg
+            gctatcactattgggttactcgtgtccagtgcagtatcgcaaggaactcattccaaaaat
+            ggcccgtcttcatatagaataccaattggtttgcagtacgtttggtcaagtattttagct
+            gtgggcatgatattccttccagagagtccaagatattacgtcttgaaggatgaactcaat
+            aaagctgcaaaatcgttatcctttttaagaggcctcccgatcgaagatccaagactctta
+            gaggagcttgttgaaataaaagccacttacgattatgaagcatcgttcggcccgtcaaca
+            cttttagattgtttcaaaacaagtgaaaatagacccaaacagattttacgaatatttact
+            ggtatcgccatacaagcttttcaacaggcatctggtatcaattttatattctactatgga
+            gttaattttttcaacaacacaggggtggacaactcttacttggtttcttttatcagctat
+            gccgtcaacgtcgccttcagtataccgggtatgtatttagtggatcgaattggtagaaga
+            ccagtccttcttgctggaggtgtcataatggcaatagcaaatttagtcattgccatcgtt
+            ggtgtttccgagggaaaaactgttgttgctagtaaaattatgattgcttttatatgcctt
+            ttcattgctgcattttcggcgacatggggtggtgtcgtgtgggtggtatctgctgaactg
+            tacccacttggtgtcagatcgaaatgtaccgccatatgcgctgccgcaaattggctagtt
+            aatttcacctgtgccctgattacaccttacattgttgatgtcggatcacacacttcttca
+            atggggcccaaaatattcttcatttggggcggcttaaatgtcgtggccgttatcgttgtt
+            tatttcgctgtttatgaaacgaggggattgactttggaagagattgacgagttatttaga
+            aaggccccaaatagcgtcatttctagcaaatggaacaaaaaaataaggaaaaggtgctta
+            gcctttcccatttcacaacaaatagagatgaaaactaatatcaagaacgctggaaagttg
+            gacaacaacaacagtccaattgtacaggatgacagccacaacataatcgatgtggatgga
+            ttcttggagaaccaaatacagtccaatgatcatatgattgcggcggataaaggaagtggc
+            tcgttagtaaacatcatcgatactgcccccctaacatctacagagtttaaacccgtggaa
+            catccgccagtaaattacgtcgacttggggaatggtttgggtctgaatacatacaataga
+            ggtcctccttctatcatttctgactctactgatgagttctatgaggaaaatgactcttct
+            tattacaataacaacactgaacgaaatggagctaacagcgtcaatacatatatggctcaa
+            ctaatcaatagctcatctactacaagcaacgacacatcgttctctccatcacacaatagc
+            aatgcaagaacgtcctctaattggacgagtgacctcgctagtaagcacagccaatacact
+            tccccccaataa
+///

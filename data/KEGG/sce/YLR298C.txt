@@ -1,0 +1,48 @@
+ENTRY       YLR298C           CDS       T00005
+NAME        YHC1
+DEFINITION  (RefSeq) Yhc1p
+ORTHOLOGY   K11095  U1 small nuclear ribonucleoprotein C
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YLR298C (YHC1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YLR298C (YHC1)
+            Spliceosome [BR:sce03041]
+             Complex A
+              U1 snRNP components
+               U1 snRNP specific factors
+                YLR298C (YHC1)
+             Complex B
+                YLR298C (YHC1)
+POSITION    XII:complement(724721..725416)
+MOTIF       Pfam: zf-U1
+DBLINKS     NCBI-GeneID: 851005
+            NCBI-ProteinID: NP_013401
+            SGD: S000004289
+            UniProt: Q05900
+STRUCTURE   PDB: 6N7R 5ZWN 6N7X 6N7P 6G90
+AASEQ       231
+            MTRYYCEYCHSYLTHDTLSVRKSHLVGKNHLRITADYYRNKARDIINKHNHKRRHIGKRG
+            RKERENSSQNETLKVTCLSNKEKRHIMHVKKMNQKELAQTSIDTLKLLYDGSPGYSKVFV
+            DANRFDIGDLVKASKLPQRANEKSAHHSFKQTSRSRDETCESNPFPRLNNPKKLEPPKIL
+            SQWSNTIPKTSIFYSVDILQTTIKESKKRMHSDGIRKPSSANGYKRRRYGN
+NTSEQ       696
+            atgacgagatactattgtgaatactgtcattcgtatttgacccatgacacgttgagcgtt
+            cgtaaatcgcacttggtcggtaagaatcaccttcgtataacagctgactattataggaac
+            aaagcaagagacattattaataaacataatcataaaagacgccacattggaaaaagaggc
+            aggaaagaaagagaaaacagtagtcaaaatgagacgctaaaagttacatgcctttcaaat
+            aaggagaaaagacacatcatgcatgtgaagaaaatgaaccaaaaagaactggcacaaacc
+            tcaatagataccttgaaattgttatacgatggctcaccaggatattccaaagtatttgtg
+            gatgctaacaggtttgatataggagatttggttaaagccagcaaattaccccaaagagcc
+            aatgaaaaatctgcacaccattccttcaagcaaacttcaagatccagagatgagacgtgc
+            gagagcaatccatttcctaggttgaataacccaaagaagctagaacccccaaagatatta
+            tcacaatggagtaacaccattccaaaaacttctatattttacagtgtagatatactgcaa
+            accacgatcaaggagtccaagaagcggatgcattccgacggcatacggaaaccgtcgagt
+            gccaacggatataaaaggaggcggtatggaaattaa
+///

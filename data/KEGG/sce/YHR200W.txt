@@ -1,0 +1,50 @@
+ENTRY       YHR200W           CDS       T00005
+NAME        RPN10, MCB1, SUN1
+DEFINITION  (RefSeq) proteasome regulatory particle base subunit RPN10
+ORTHOLOGY   K03029  26S proteasome regulatory subunit N10
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03050  Proteasome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03050 Proteasome
+                YHR200W (RPN10)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03051 Proteasome [BR:sce03051]
+                YHR200W (RPN10)
+            Proteasome [BR:sce03051]
+             Eukaryotic proteasome
+              Regulatory particles
+               PA700 (19S proteasome)
+                non-ATPase subunits
+                 YHR200W (RPN10)
+POSITION    VIII:499079..499885
+MOTIF       Pfam: VWA_2 Ssl1 VWA
+DBLINKS     NCBI-GeneID: 856607
+            NCBI-ProteinID: NP_012070
+            SGD: S000001243
+            UniProt: P38886
+STRUCTURE   PDB: 5LN1 5MPD 5MPE 4CR2 4CR4 4CR3 5A5B
+AASEQ       268
+            MVLEATVLVIDNSEYSRNGDFPRTRFEAQIDSVEFIFQAKRNSNPENTVGLISGAGANPR
+            VLSTFTAEFGKILAGLHDTQIEGKLHMATALQIAQLTLKHRQNKVQHQRIVAFVCSPISD
+            SRDELIRLAKTLKKNNVAVDIINFGEIEQNTELLDEFIAAVNNPQEETSHLLTVTPGPRL
+            LYENIASSPIILEEGSSGMGAFGGSGGDSDANGTFMDFGVDPSMDPELAMALRLSMEEEQ
+            QRQERLRQQQQQQDQPEQSEQPEQHQDK
+NTSEQ       807
+            atggtattggaagctacagtgttagtgattgataattcagagtactctcgcaatggcgac
+            tttcctaggacaaggtttgaagcccagatcgactcggtagagttcatatttcaagccaag
+            agaaacagcaatcctgagaatacagtgggtcttatctctggtgctggcgccaaccccagg
+            gtgttatctacgtttaccgccgagtttgggaagattcttgctggactacacgacacgcag
+            atcgagggtaagctgcatatggccactgcgttgcagatcgctcagctgactttgaagcat
+            cgccagaataaggtccaacatcaaaggattgtggcatttgtgtgtagcccaataagtgat
+            tctcgagacgaattgatcagattggcaaaaacactgaaaaagaataatgttgccgtggac
+            atcatcaattttggagagattgaacagaacacggagcttttggatgagttcatagctgca
+            gtgaacaaccctcaagaagaaactagtcatttgcttactgtgacgcctggccccagactg
+            ctgtacgagaacatcgcatcttcacccataattctcgaagaaggatcctccggtatgggc
+            gcctttggtgggtctggcggtgattccgatgccaatggcacatttatggacttcggggta
+            gacccatcaatggacccagaactggcaatggccttgcgtctgtctatggaagaagagcag
+            caaagacaggaaaggttaagacagcagcaacaacaacaagatcagcctgagcagtctgaa
+            cagcctgaacaacaccaagacaaatag
+///

@@ -1,0 +1,38 @@
+ENTRY       YPL148C           CDS       T00005
+NAME        PPT2
+DEFINITION  (RefSeq) holo-[acyl-carrier-protein] synthase
+ORTHOLOGY   K00997  holo-[acyl-carrier protein] synthase [EC:2.7.8.7]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00770  Pantothenate and CoA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00770 Pantothenate and CoA biosynthesis
+                YPL148C (PPT2)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.8  Transferases for other substituted phosphate groups
+                2.7.8.7  holo-[acyl-carrier-protein] synthase
+                 YPL148C (PPT2)
+POSITION    XVI:complement(272294..272815)
+MOTIF       Pfam: ACPS
+DBLINKS     NCBI-GeneID: 855955
+            NCBI-ProteinID: NP_015177
+            SGD: S000006069
+            UniProt: Q12036
+AASEQ       173
+            MSFASRNIGRKIAGVGVDIVYLPRFAHILEKYSPFDPCGRSTLNKITRKFMHEKERFHFS
+            NLLIEENCLTPRLHEYIAGVWALKECSLKALCCCVSKHDLPPAQVLYAGMLYKTQTDTGV
+            PQLEFDKMFGKKYPKYQQLSKNYDSLFSTHEFLVSLSHDKDYLIAVTNLVERE
+NTSEQ       522
+            atgagttttgcatcgaggaatattggacgtaagatagcaggagtgggagttgacattgta
+            tacttgccaagatttgcacatatactagagaaatattccccattcgacccatgtggccgt
+            tctaccttgaataaaataacacggaagttcatgcatgaaaaggaaagatttcatttcagt
+            aatcttctcatcgaagaaaactgcttaactccacgattgcatgaatatatagcgggagtt
+            tgggctttgaaggaatgctcattgaaagcgttgtgttgctgtgtttcaaagcatgatcta
+            cctcctgcccaagtactgtacgctggaatgctatataaaacacaaaccgatacaggtgta
+            cctcagttagagtttgataagatgtttggaaaaaagtatccaaagtatcaacagctctcg
+            aaaaactacgattctctcttttccactcatgagtttttagtttcgctatcccatgataaa
+            gattatttaattgcagtaacaaacttggtagaaagagagtaa
+///

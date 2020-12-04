@@ -1,0 +1,47 @@
+ENTRY       YIL018W           CDS       T00005
+NAME        RPL2B, LOT2, RPL5A
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L2B
+ORTHOLOGY   K02938  large subunit ribosomal protein L8e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YIL018W (RPL2B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YIL018W (RPL2B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YIL018W (RPL2B)
+POSITION    IX:join(316768..316771,317172..317932)
+MOTIF       Pfam: Ribosomal_L2_C Ribosomal_L2
+DBLINKS     NCBI-GeneID: 854794
+            NCBI-ProteinID: NP_012246
+            SGD: S000001280
+            UniProt: P0CX45 P0CX46
+AASEQ       254
+            MGRVIRNQRKGAGSIFTSHTRLRQGAAKLRTLDYAERHGYIRGIVKQIVHDSGRGAPLAK
+            VVFRDPYKYRLREEIFIANEGVHTGQFIYAGKKASLNVGNVLPLGSVPEGTIVSNVEEKP
+            GDRGALARASGNYVIIIGHNPDENKTRVRLPSGAKKVISSDARGVIGVIAGGGRVDKPLL
+            KAGRAFHKYRLKRNSWPKTRGVAMNPVDHPHGGGNHQHIGKASTISRGAVSGQKAGLIAA
+            RRTGLLRGSQKTQD
+NTSEQ       765
+            atgggtagagttattcgtaaccaaagaaagggtgctggttctatcttcacctctcacacc
+            agattaagacaaggtgctgccaagttgagaactttggactatgctgaacgtcatggttac
+            atccgtggtatcgttaagcaaattgtccacgactccggtagaggtgctccattggccaag
+            gttgttttccgtgacccatacaagtacagattacgtgaagaaatcttcattgctaacgaa
+            ggtgttcacactggtcaattcatttacgctggtaaaaaggcttctttgaacgtcggtaac
+            gtcttgccattgggttctgtcccagaaggtaccattgtctccaacgttgaagaaaagcca
+            ggtgacagaggtgccctagccagagcttctggtaactacgttatcatcattggtcacaac
+            ccagatgaaaacaaaaccagagtcagattaccatccggtgccaagaaggttatctcttct
+            gacgccagaggtgtcatcggtgtcattgccggtggtggtagagttgacaaaccattgttg
+            aaggctggtcgtgctttccacaagtacagattgaagagaaactcttggccaaagacccgt
+            ggtgttgccatgaatccagttgatcaccctcacggtggtggtaaccatcaacatattggt
+            aaggcttctactatctctagaggtgccgtttctggtcaaaaggctggtttgattgctgcc
+            agaagaaccggtttactacgtggttctcaaaagacccaagattaa
+///

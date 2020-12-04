@@ -1,0 +1,56 @@
+ENTRY       YNL147W           CDS       T00005
+NAME        LSM7
+DEFINITION  (RefSeq) Sm-like protein LSM7
+ORTHOLOGY   K12626  U6 snRNA-associated Sm-like protein LSm7
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce01110  Biosynthesis of secondary metabolites
+            sce03018  RNA degradation
+            sce03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YNL147W (LSM7)
+              09123 Folding, sorting and degradation
+               03018 RNA degradation
+                YNL147W (LSM7)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YNL147W (LSM7)
+               03041 Spliceosome [BR:sce03041]
+                YNL147W (LSM7)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               mRNA cycle factors
+                P-body specific factors
+                 YNL147W (LSM7)
+              mRNA degradation factors
+               5'-3' decay
+                Lsm complex
+                 YNL147W (LSM7)
+            Spliceosome [BR:sce03041]
+             Complex B
+              U4/U6.U5 tri-snRNP components
+               LSm proteins
+                YNL147W (LSM7)
+POSITION    XIV:join(350940..350957,351054..351383)
+MOTIF       Pfam: LSM
+DBLINKS     NCBI-GeneID: 855575
+            NCBI-ProteinID: NP_014252
+            SGD: S000005091
+            UniProt: P53905
+STRUCTURE   PDB: 4C92 4M7D 6ASO 4M7A 4M78 4M75 5VSU 4M77 5GAN 4C8Q 3JCM
+                 5ZWO
+AASEQ       115
+            MHQQHSKSENKPQQQRKKFEGPKREAILDLAKYKDSKIRVKLMGGKLVIGVLKGYDQLMN
+            LVLDDTVEYMSNPDDENNTELISKNARKLGLTVIRGTILVSLSSAEGSDVLYMQK
+NTSEQ       348
+            atgcatcagcaacactccaaatcagagaacaaaccacaacagcaaaggaaaaaattcgaa
+            ggccctaaaagagaagctattctggatttagcgaagtataaagattctaaaattcgcgtc
+            aaattaatgggtggtaaattagttataggtgtcctaaaaggctatgatcaactgatgaac
+            ttggtacttgatgatacagtagaatatatgtctaatcctgatgatgaaaacaacactgaa
+            ctgatttctaaaaacgcaagaaagctaggtttgaccgtcataagaggtactattttggtc
+            tctttaagttccgccgaaggttctgatgtactatatatgcaaaaatag
+///

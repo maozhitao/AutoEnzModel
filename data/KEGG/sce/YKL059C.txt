@@ -1,0 +1,62 @@
+ENTRY       YKL059C           CDS       T00005
+NAME        MPE1
+DEFINITION  (RefSeq) cleavage polyadenylation factor subunit MPE1
+ORTHOLOGY   K15541  protein MPE1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03015  mRNA surveillance pathway
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03015 mRNA surveillance pathway
+                YKL059C (MPE1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YKL059C (MPE1)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA processing factors
+               3' end processing
+                Cleavage and polyadenylation specificity factor (CPSF) complex
+                 YKL059C (MPE1)
+POSITION    XI:complement(328118..329443)
+MOTIF       Pfam: DWNN zf-CCHC_2 zf-Nse U-box zf-CCHC Rubredoxin zf-DNL zf-CCHC_5 zf-CCHC_3
+DBLINKS     NCBI-GeneID: 853806
+            NCBI-ProteinID: NP_012864
+            SGD: S000001542
+            UniProt: P35728
+STRUCTURE   PDB: 6I1D
+AASEQ       441
+            MSSTIFYRFKSQRNTSRILFDGTGLTVFDLKREIIQENKLGDGTDFQLKIYNPDTEEEYD
+            DDAFVIPRSTSVIVKRSPAIKSFSVHSRLKGNVGAAALGNATRYVTGRPRVLQKRQHTAT
+            TTANVSGTTEEERIASMFATQENQWEQTQEEMSAATPVFFKSQTNKNSAQENEGPPPPGY
+            MCYRCGGRDHWIKNCPTNSDPNFEGKRIRRTTGIPKKFLKSIEIDPETMTPEEMAQRKIM
+            ITDEGKFVVQVEDKQSWEDYQRKRENRQIDGDETIWRKGHFKDLPDDLKCPLTGGLLRQP
+            VKTSKCCNIDFSKEALENALVESDFVCPNCETRDILLDSLVPDQDKEKEVETFLKKQEEL
+            HGSSKDGNQPETKKMKLMDPTGTAGLNNNTSLPTSVNNGGTPVPPVPLPFGIPPFPMFPM
+            PFMPPTATITNPHQADASPKK
+NTSEQ       1326
+            atgagtagcacgatattttaccgctttaagtctcaacgaaacacatcaagaattttattt
+            gatggtaccggcctgacagtatttgatttgaaaagggaaattattcaagagaacaaacta
+            ggtgacggcacagatttccaattaaaaatttacaacccagatacagaagaggaatacgac
+            gatgatgcctttgttatacctagatctactagtgtcatagtaaaaagatctccagcaatt
+            aaatcattctccgtacacagtcgacttaaagggaatgtgggagcagcagctcttgggaac
+            gcaacaaggtatgttactggtaggccaagagtgttgcaaaagagacaacacactgctaca
+            accactgctaatgttagtggtacaacggaagaagaaagaattgctagtatgtttgccaca
+            caagaaaatcaatgggaacaaacgcaagaagaaatgtctgcagccacacctgtttttttc
+            aagtcacagacgaataagaattctgcacaagaaaacgaaggcccaccgccaccaggttat
+            atgtgctatcgttgtgggggtagagaccactggattaaaaattgtccaactaacagcgat
+            ccaaattttgaaggaaaaagaatcagaagaaccacaggtattccaaagaagtttttaaaa
+            tccattgaaatagatcccgagacaatgacaccggaagagatggctcagcgaaagattatg
+            attacggacgaaggcaagttcgtggtacaagttgaagacaaacaatcatgggaagactac
+            caaaggaaaagagagaaccgtcaaattgatggtgatgaaaccatttggagaaaaggccat
+            ttcaaagatcttcctgacgatttaaaatgtcccttgacaggtggtcttttgaggcagccg
+            gtaaagacaagcaagtgctgtaacatagatttctcaaaagaggcgctggaaaatgcactg
+            gtagagagcgactttgtatgccccaattgcgaaacccgcgatatccttctcgattcttta
+            gtacccgaccaggacaaggaaaaggaggtcgaaacgtttttgaagaaacaagaggaacta
+            cacggaagctctaaagatggcaaccagccagaaactaagaaaatgaagttgatggatcca
+            actggcaccgctggcttgaacaacaataccagccttccaacttctgtaaataacggcggt
+            acgccagtgccaccagtaccgttacctttcggtatacctcctttccccatgtttccaatg
+            cccttcatgcctccaacggctactatcacaaatcctcatcaagctgacgcaagccctaag
+            aaatga
+///

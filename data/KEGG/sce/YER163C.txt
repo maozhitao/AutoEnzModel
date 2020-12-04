@@ -1,0 +1,44 @@
+ENTRY       YER163C           CDS       T00005
+NAME        GCG1
+DEFINITION  (RefSeq) gamma-glutamylcyclotransferase
+ORTHOLOGY   K07232  glutathione-specific gamma-glutamylcyclotransferase [EC:4.3.2.7]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00480  Glutathione metabolism
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09106 Metabolism of other amino acids
+               00480 Glutathione metabolism
+                YER163C (GCG1)
+            Enzymes [BR:sce01000]
+             4. Lyases
+              4.3  Carbon-nitrogen lyases
+               4.3.2  Amidine-lyases
+                4.3.2.7  glutathione-specific gamma-glutamylcyclotransferase
+                 YER163C (GCG1)
+POSITION    V:complement(503084..503782)
+MOTIF       Pfam: ChaC DUF484
+DBLINKS     NCBI-GeneID: 856910
+            NCBI-ProteinID: NP_011090
+            SGD: S000000965
+            UniProt: P32656
+STRUCTURE   PDB: 5HWK 5HWI
+AASEQ       232
+            MTNDNSGIWVLGYGSLIYKPPSHYTHRIPAIIHGFARRFWQSSTDHRGTPANPGRVATLI
+            PYEDIIRQTAFLKNVNLYSESAPIQDPDDLVTIGVVYYIPPEHAQEVREYLNVREQNGYT
+            LHEVEVHLETNREHEAELGEALEQLPRHNKSGKRVLLTSVYIGTIDNEAFVGPETVDETA
+            KVIAVSHGPSGSNYEYLAKLEQALAQMPIMKERGRITDHYLTALLETVNKYR
+NTSEQ       699
+            atgactaatgacaacagtggtatctgggtcctaggctacggatctctgatttacaagcct
+            ccgtctcattacacgcatagaataccggcaataattcacggttttgctcgtcggttctgg
+            caaagttccactgatcataggggtacacctgcaaacccaggaagagtggccacactaatc
+            ccgtatgaggatattataaggcaaactgccttcttgaagaatgtgaatttgtatagtgaa
+            agtgcacctatccaggatcccgacgacttagtcaccataggggtagtgtattatatacca
+            ccagaacatgctcaagaggttagagagtatttgaacgtaagagaacaaaacgggtacact
+            ctacatgaggttgaggtgcatctagaaactaatcgggagcacgaggcagaattgggtgaa
+            gcattagaacagttgcctcggcacaacaaatcgggtaaacgggtactacttacttcggtg
+            tacattggtacaatagataatgaggccttcgtcggaccagagaccgtggatgaaactgcg
+            aaagtaattgccgtgtcgcatggacctagtggatctaactatgaataccttgcaaaactg
+            gagcaagcgctagcgcaaatgcccatcatgaaagagcgagggcgtattaccgatcattat
+            ctgactgctctattggagactgtaaataaatacaggtga
+///

@@ -1,0 +1,55 @@
+ENTRY       YBR002C           CDS       T00005
+NAME        RER2
+DEFINITION  (RefSeq) ditrans,polycis-polyprenyl diphosphate synthase
+ORTHOLOGY   K11778  ditrans,polycis-polyprenyl diphosphate synthase [EC:2.5.1.87]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00900  Terpenoid backbone biosynthesis
+            sce01110  Biosynthesis of secondary metabolites
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09109 Metabolism of terpenoids and polyketides
+               00900 Terpenoid backbone biosynthesis
+                YBR002C (RER2)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01006 Prenyltransferases [BR:sce01006]
+                YBR002C (RER2)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.87  ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl diphosphate specific]
+                 YBR002C (RER2)
+            Prenyltransferases [BR:sce01006]
+             Terpene biosynthesis
+              Prenyl diphosphate synthase
+               YBR002C (RER2)
+POSITION    II:complement(241708..242568)
+MOTIF       Pfam: Prenyltransf
+DBLINKS     NCBI-GeneID: 852287
+            NCBI-ProteinID: NP_009556
+            SGD: S000000206
+            UniProt: P35196
+AASEQ       286
+            METDSGIPGHSFVLKWTKNIFSRTLRASNCVPRHVGFIMDGNRRFARKKEMDVKEGHEAG
+            FVSMSRILELCYEAGVDTATVFAFSIENFKRSSREVESLMTLARERIRQITERGELACKY
+            GVRIKIIGDLSLLDKSLLEDVRVAVETTKNNKRATLNICFPYTGREEILHAMKETIVQHK
+            KGAAIDESTLESHLYTAGVPPLDLLIRTSGVSRLSDFLIWQASSKGVRIELLDCLWPEFG
+            PIRMAWILLKFSFHKSFLNKEYRLEEGDYDEETNGDPIDLKEKKLN
+NTSEQ       861
+            atggaaacggatagtggtatacctggtcattcatttgtgttaaagtggacaaaaaacatc
+            ttttcgcgcacattgcgtgcatctaactgtgtacctagacatgttgggttcatcatggat
+            gggaacaggagattcgctagaaagaaagagatggacgtaaaggagggccacgaggcagga
+            tttgttagtatgagtagaatcttagaactgtgttatgaagcaggagtcgatacggctacc
+            gtgtttgccttttcaattgaaaatttcaagaggagctcacgggaagttgaatcactgatg
+            actttagcgcgcgaaaggatacgacaaatcacagaacgtggagagctggcctgtaagtat
+            ggggtacgcattaaaattatcggcgatctctctttgttggataagtctctattagaagat
+            gttcgggttgctgtggaaactacaaagaacaacaaaagggccacgttaaatatctgcttt
+            ccatatacaggcagggaagaaatcttgcatgccatgaaagaaacaattgttcaacataag
+            aagggcgccgctatagacgaaagcacgttagaatcgcatctctacacggcgggggtaccc
+            cctttagatttattgattaggacaagtggcgtttccagattaagtgactttttgatatgg
+            caggcatcgagtaagggcgtacgcatcgaattgctggattgtttatggccagagtttgga
+            cctatacggatggcatggattttattaaaattttcgtttcacaaatcctttttaaacaaa
+            gagtacagattagaggaaggtgattatgacgaggaaaccaatggggaccccatcgatttg
+            aaagaaaaaaagttgaattaa
+///

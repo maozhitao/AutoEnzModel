@@ -1,0 +1,51 @@
+ENTRY       YIL114C           CDS       T00005
+NAME        POR2
+DEFINITION  (RefSeq) putative porin POR2
+ORTHOLOGY   K15040  voltage-dependent anion channel protein 2
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YIL114C (POR2)
+              09183 Protein families: signaling and cellular processes
+               04040 Ion channels [BR:sce04040]
+                YIL114C (POR2)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Outer membrane
+               Porin
+                YIL114C (POR2)
+            Ion channels [BR:sce04040]
+             Chloride channels
+              Maxi chloride channel (VDAC)
+               YIL114C (POR2)
+POSITION    IX:complement(149143..149988)
+MOTIF       Pfam: Porin_3
+DBLINKS     NCBI-GeneID: 854692
+            NCBI-ProteinID: NP_012152
+            SGD: S000001376
+            UniProt: P40478
+AASEQ       281
+            MALRFFNDISRDVNGLFNRDFFHTNPLSLNISTTTENGVNFTLKAKQGVTEGPIQTSVEG
+            RFYDRKEGVSLSQSWSNQNRLNTRIEFSKIAPGWKGDVNAFLTPQSIKNAKFNLSYAQKS
+            FAARTSIDILQPKDFVGSVTLGHRGFVGGTDIAYDTAAGLCARYAMSIGYLAREYSFILS
+            TNNRQCATASFFQNVNRYLQVGTKATLQSKTSSNMNIEFVTRYVPDSISQVKAKIADSGL
+            TTLSYKRNLNKDISLGVGMSFNALQLTEPVHKFGWSLSFSP
+NTSEQ       846
+            atggcactacgatttttcaacgatatatctagagatgtcaatggcctattcaatagggac
+            ttttttcacaccaaccccctctctttgaatatttcaacaaccacggaaaatggtgtgaat
+            tttactctgaaggcgaagcagggcgtgacagaaggccccatccaaactagcgtagaagga
+            cggttttatgacaggaaggagggagtgtcgctatctcagagttggtcgaaccagaacagg
+            ttaaatacaagaatcgaattttccaagatagcacctggttggaaaggtgatgtcaacgca
+            tttttgactccccaatccatcaagaacgccaaatttaatttgagctacgcccaaaaatcg
+            tttgcagcaagaacttctatagacatcttgcaacctaaggactttgtcggaagtgttact
+            ttgggccaccgcgggtttgttggcggcactgacatcgcatatgacacagctgcgggttta
+            tgtgcacgctatgctatgtcaatcgggtatcttgccagagaatattcgtttattttgtct
+            actaacaacaggcaatgcgcaactgcttcattttttcaaaacgttaaccgctatttgcaa
+            gtgggaactaaagccactttacaatcgaagacaagttctaatatgaacattgaatttgtt
+            accagatacgtaccagattctatttcgcaagttaaggcaaaaattgcagattcaggcctg
+            actacattgtcgtacaagcgaaatttgaataaagatatttctttgggtgtgggtatgtct
+            ttcaatgcgctacaactgactgaaccagtccacaaatttggctggtctctatcgttctcg
+            ccctga
+///

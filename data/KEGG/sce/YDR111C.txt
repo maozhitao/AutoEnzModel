@@ -1,0 +1,76 @@
+ENTRY       YDR111C           CDS       T00005
+NAME        ALT2
+DEFINITION  (RefSeq) alanine transaminase ALT2
+ORTHOLOGY   K00814  alanine transaminase [EC:2.6.1.2]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00220  Arginine biosynthesis
+            sce00250  Alanine, aspartate and glutamate metabolism
+            sce01100  Metabolic pathways
+            sce01200  Carbon metabolism
+            sce01210  2-Oxocarboxylic acid metabolism
+            sce01230  Biosynthesis of amino acids
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09105 Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                YDR111C (ALT2)
+               00220 Arginine biosynthesis
+                YDR111C (ALT2)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:sce01007]
+                YDR111C (ALT2)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.6  Transferring nitrogenous groups
+               2.6.1  Transaminases
+                2.6.1.2  alanine transaminase
+                 YDR111C (ALT2)
+            Amino acid related enzymes [BR:sce01007]
+             Aminotransferase (transaminase)
+              Class I
+               YDR111C (ALT2)
+POSITION    IV:complement(678241..679764)
+MOTIF       Pfam: Aminotran_1_2 OAS1_C Beta_elim_lyase
+DBLINKS     NCBI-GeneID: 851690
+            NCBI-ProteinID: NP_010396
+            SGD: S000002518
+            UniProt: P52892
+AASEQ       507
+            MTMTHQQDLKGVFTAKDLDFKPAGKITKKDLNTGVTKAEYAVRGAIPTRADELKEELKKN
+            PEVLPFDDIINANIGNPQQLDQKPLTFTRQVLAILEYPEILRVGHNELASLNLFSRDALE
+            RAERLLNDIGGSIGAYSHSQGVPGIRQTVADFITRRDGGEPATPEDIYLTTGASSAATSL
+            LSLLCKDSQTGLLIPIPQYPLYTASASLFNAQVLPYYLDEESNWSTNSDEIEKVVQDALK
+            KQIRPSVLIVINPGNPTGAVLSEETIARICLIAAKYGITIISDEVYQENIFNDVKFHSMK
+            KVLRKLQHLYPGKFDNVQLASLHSISKGFMDECGQRGGYMEIIGFSQEIRDALFKLMSIS
+            ICSVVTGQAVVDLMVKPPQPGDESYEQDHDERLKIFHEMRTRANLLYETFKELEGIECQK
+            PQGAMYLFPRLVLPKKALCESERLGIEPDEFYCTSLLESTGICTVPGSGFGQRPGTYHVR
+            TTFLAPGTKWIQDWKEFHQDFFSKYRN
+NTSEQ       1524
+            atgacaatgacacaccaacaggatttgaaaggtgtgttcaccgcaaaggatttggatttt
+            aagcccgctggcaagattactaaaaaagatttgaatacaggtgtcactaaggcagaatat
+            gctgtaagaggagctattccaaccagagctgacgagctaaaagaggaattgaaaaaaaac
+            ccagaagttttgcctttcgatgatattatcaatgcgaacattggtaatccgcagcaactg
+            gatcagaagcctttgacctttaccaggcaagtactggccatcctggagtacccggaaatt
+            ttacgagtaggccataatgaactggcttctttgaacttgttttccagggacgccttggaa
+            agagctgagcgcctcttgaatgatattggcggttctataggggcatattcgcattctcaa
+            ggtgtgccaggaataaggcaaacagttgctgacttcattactagaagagacggcggtgag
+            cccgctacaccggaagatatttatttaaccactggcgcttcgtccgcggcaacttctttg
+            ttatctttattgtgtaaagattctcaaacaggcctgctgattccaattccgcagtatccg
+            ctttatactgcatccgcatctcttttcaatgcacaagtgctgccatactacttagatgag
+            gagtcaaattggtctacaaacagcgacgaaattgaaaaagtagtgcaagatgctttgaaa
+            aaacagatcagaccatctgtgctgatagttattaatccaggtaacccaaccggtgcagtt
+            ctttctgaagaaaccattgccaggatctgtttgatcgctgcgaaatacggcattacaatc
+            atttctgatgaggtctatcaagaaaacattttcaacgatgttaaatttcattcgatgaag
+            aaagtcctaagaaaattgcagcatctttatccaggaaaattcgataacgttcagctcgcc
+            tctttacactccatttctaaaggattcatggatgagtgcggccaaagaggcggttacatg
+            gaaattattgggttttctcaagaaataagagatgctcttttcaaactcatgtctatatcc
+            atatgttctgttgtcacaggacaagctgtggttgatttaatggtcaaaccaccccagcct
+            ggagacgagtcctatgaacaagatcatgacgaaaggctgaaaatttttcatgaaatgcgt
+            acgagagcaaacttattgtacgagacgtttaaggaactagagggtatcgaatgccaaaaa
+            cctcagggtgcaatgtatcttttccctaggcttgttttacctaagaaagctctttgtgaa
+            agcgaacgccttggcatcgaacctgatgagttctattgcacatctttgctagaatctaca
+            ggtatttgtactgtcccagggtctgggttcggacaaagacccgggacttatcatgtgcga
+            acaacgtttttggctccagggactaaatggattcaagactggaaagaatttcatcaagat
+            ttcttcagcaagtatcgtaattga
+///

@@ -1,0 +1,68 @@
+ENTRY       YMR028W           CDS       T00005
+NAME        TAP42
+DEFINITION  (RefSeq) Tap42p
+ORTHOLOGY   K17606  immunoglobulin-binding protein 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04136  Autophagy - other
+            sce04138  Autophagy - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04138 Autophagy - yeast
+                YMR028W (TAP42)
+               04136 Autophagy - other
+                YMR028W (TAP42)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01009 Protein phosphatases and associated proteins [BR:sce01009]
+                YMR028W (TAP42)
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YMR028W (TAP42)
+            Protein phosphatases and associated proteins [BR:sce01009]
+             Protein serine/threonine phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-2 (PP2A)
+                Other PP2-interacting proteins
+                 YMR028W (TAP42)
+            Membrane trafficking [BR:sce04131]
+             Autophagy
+              Other autophagy associated proteins
+               Others
+                YMR028W (TAP42)
+POSITION    XIII:327482..328582
+MOTIF       Pfam: TAP42
+DBLINKS     NCBI-GeneID: 855043
+            NCBI-ProteinID: NP_013741
+            SGD: S000004630
+            UniProt: Q04372
+STRUCTURE   PDB: 2V0P
+AASEQ       366
+            MASVTEQFNDIISLYSTKLEHTSLRQDSPEYQGLLLSTIKKLLNLKTAIFDRLALFSTNE
+            TIDDVSTASIKFLAVDYYLGLLISRRQSNDSDVAQRQSMKLIYLKKSVESFINFLTLLQD
+            YKLLDPLVGEKLGNFKDRYNPQLSELYAQPKNNKDLSGAQLKRKEKIELFQRNKEISTKL
+            HCLELELKNNDEDHDHDELLRELYLMRLHHFSLDTINNIEQNLFECEMLSNFLKNSVHEV
+            KSSGTQIRKESNDDDSTGFTDKLENINKPLIDKKGQVLRNFTLVDKRQQLQQKVRGYGQY
+            GPTMSVEEFLDKEFEEGRVLQGGEEPEQAPDEENMDWQDRETYKAREWDEFKESHAKGSG
+            NTMNRG
+NTSEQ       1101
+            atggcgtcagtaacagaacaattcaacgatattattagcttatactcaacaaaattggaa
+            cacacatctttgaggcaagattcaccagagtaccagggattattactttccacgatcaag
+            aaattattaaacttaaaaacagcaatttttgacaggttggcattgttcagtactaatgag
+            accattgatgatgtgtctactgcttccatcaaatttctagcagttgattactatttagga
+            ttattgatatcaagacgacagtcgaatgattcggatgttgctcaaaggcagtctatgaaa
+            ttgatttacctgaaaaaaagcgttgaatctttcattaatttcctgacactattgcaggat
+            tataagcttctagatcctttggttggtgaaaaactaggtaacttcaaggatcgttataac
+            cctcagcttagcgaattgtacgcgcaaccaaaaaataacaaagatttatctggagcacag
+            ttgaagagaaaagaaaagattgagctattccagcgcaataaagaaattagcacaaaactg
+            cactgcttggagttggaattaaaaaacaacgacgaggaccacgaccatgatgaattacta
+            agagaactatatttgatgaggttacatcactttagtcttgatacgattaacaacattgaa
+            cagaatttatttgaatgtgaaatgctctctaatttcctcaaaaattccgtacatgaagtc
+            aaatcatcaggtactcagatacgaaaagaatcgaatgatgatgattccactggttttacc
+            gataaattagagaatataaataagccattgatagacaaaaaaggtcaagtcttgaggaac
+            ttcacgcttgtcgacaaaaggcaacaactgcaacaaaaagtgcgaggatatggtcaatat
+            ggaccaacaatgtcggtggaggaatttttagataaagagtttgaagaaggtcgcgttctt
+            caaggtggcgaagaaccagagcaagcaccagatgaagaaaacatggactggcaagataga
+            gaaacctataaagctcgtgagtgggacgagttcaaggaaagtcatgctaagggaagcgga
+            aataccatgaatagaggatag
+///

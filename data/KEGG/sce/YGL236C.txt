@@ -1,0 +1,79 @@
+ENTRY       YGL236C           CDS       T00005
+NAME        MTO1, IPS1
+DEFINITION  (RefSeq) tRNA modification protein MTO1
+ORTHOLOGY   K03495  tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YGL236C (MTO1)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YGL236C (MTO1)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              tRNA modification factors
+               Other tRNA modification factors
+                YGL236C (MTO1)
+             Prokaryotic type
+                YGL236C (MTO1)
+            Chromosome and associated proteins [BR:sce03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Other chromosome partitioning proteins
+                YGL236C (MTO1)
+POSITION    VII:complement(53787..55796)
+MOTIF       Pfam: GIDA GIDA_assoc Pyr_redox_2 FAD_oxidored Pyr_redox_3 Pyr_redox AlaDh_PNT_C Lycopene_cycl FAD_binding_2 NAD_binding_9 HI0933_like DAO NAD_binding_8 NAD_binding_7
+DBLINKS     NCBI-GeneID: 852616
+            NCBI-ProteinID: NP_011278
+            SGD: S000003205
+            UniProt: P53070
+AASEQ       669
+            MLRVTTLASSCTSFPLQVLRRRLTISSLTSFQPTTKTQVVVIGAGHAGCEAAAASSRTGA
+            HTTLITPSLTDIGKCSCNPSIGGVGKGILVKEIDALDGLMGKVTDLAGVQFKMLNRSKGP
+            AVWGPRAQIDRELYKKYMQRELSDKKAHPNLSLLQNKVADLILYDPGCGHKVIKGVVLDD
+            GTQVGADQVIITTGTFLSAEIHIGDKRIAAGRIGEQPTYGISNTLQNEVGFQLGRLKTGT
+            PARLAKESIDFSALEVQKGDALPVPMSFLNETVSVEPTKQLDCFGTHTTPQMHDFLRNNL
+            HQSIHIQDTTIKGPRYCPSIEAKILRFPDRSSHKIWLEPEGFNSDVIYPNGISNSMPEDV
+            QLQMMRLIPGMANVEILQPAYGVEYDYVDPRQLKPSLETKLVDGLFLAGQINGTTGYEEA
+            AAQGIIAGINAGLLSRQEREQLVLKRSEAYIGVLIDDLINNGVIEPYRMFTSRSEFRISV
+            RADNADFRLTPIGAQLGIISPVRLSQYSRDKHLYDETIRALQNFKLSSQKWSSLLQANIA
+            PQAENRSAWEIFRFKDMDLHKLYECIPDLPINLLDIPMHVVTKINIQGKYEPYIVKQNQF
+            VKAFQADENMLLPQDYDYRQLPTLSTECKLLLNRVQPLTIGQARRIQGITAAALFELYRV
+            ARKPSQPVM
+NTSEQ       2010
+            atgctgcgtgtaacaaccttggcgtcttcgtgtacttcatttcccttacaggtcctcagg
+            aggcggttgaccatatcttctttgacaagcttccaacccacaaccaagacacaggtcgtg
+            gtcatcggtgctggacatgcaggctgcgaagctgcagctgcgtcatctaggactggtgcg
+            catactactctcattacaccatcgttaacagatattggtaagtgttcgtgcaacccctct
+            attggtggagtgggtaagggcatccttgtaaaggaaatcgacgctctcgatgggctgatg
+            ggcaaagtaactgatctcgctggagtgcaattcaaaatgctgaacagaagcaagggtcct
+            gctgtgtgggggcccagagcccagatagacagagagttatataagaaatacatgcaaagg
+            gaactttccgacaagaaagcacaccccaacttgtctctgctgcagaacaaagttgctgac
+            ttgatcttgtatgaccccggatgtggccacaaggtcatcaaaggtgtggttctggatgac
+            ggtacccaggttggggcagatcaggtcataatcactacaggtacgtttctcagtgcagaa
+            attcacatcggcgacaagcgtattgcagcaggaagaattggcgagcagccaacatatggg
+            atcagcaatactctacaaaatgaggtgggctttcagttagggcgtttgaaaacaggcact
+            ccggctaggctggccaaggaatccattgatttcagcgctctggaggtccagaagggagat
+            gcgttgcctgtccctatgagttttctgaatgaaaccgtgtcagtcgaacccacgaagcaa
+            ctggattgctttggcacacataccacacctcaaatgcacgactttttgcgcaataacttg
+            catcaatccattcatattcaggacacgaccatcaaaggcccccgctattgtccctccatc
+            gaagctaagattctaaggtttcctgatagatcttcccataagatatggttggaaccagaa
+            ggtttcaactccgacgtcatttatccgaacgggatatccaattctatgcctgaggatgtc
+            cagttacaaatgatgaggctcatcccgggcatggcaaacgttgagatcttgcagccggca
+            tacggcgtggaatacgactacgtagacccacggcaattaaagcctagcttggaaacaaaa
+            ttggtggatggactattcttggccggacaaataaatggtactacaggctacgaggaagcc
+            gctgcacaggggatcattgcaggtatcaatgcaggattactatcgcgccaagaacgggag
+            caattggtcttgaaaaggtccgaagcgtacattggtgtgctcattgacgatctaatcaat
+            aatggcgtcatagaaccatatagaatgtttacttccagatcagaattcagaatcagcgta
+            agagccgataacgcagacttcagactgacgcccattggtgctcaactagggattatatct
+            cctgtccgtttaagtcaatattcaagagacaagcacctatatgatgaaacaatacgggcg
+            cttcaaaatttcaagctaagctctcaaaaatggtctagcttactacaggctaatatcgcg
+            ccacaggctgaaaacagatctgcttgggaaatattcagattcaaagatatggatctacat
+            aaactctacgagtgcattcccgatttacccattaatttgctggacatcccaatgcatgtt
+            gtcaccaaaattaacattcaaggtaaatacgaaccttacattgtcaaacagaaccagttt
+            gtgaaggcatttcaggcagacgaaaatatgctgttgccgcaagattacgattaccgtcag
+            ttacccacgctttccactgaatgcaaactactcttgaaccgcgtacagccattgaccata
+            ggccaagcaagacggattcaaggtatcactgcggcagccctatttgaactctaccgtgtg
+            gcacggaagccaagccaaccagtcatgtaa
+///

@@ -1,0 +1,57 @@
+ENTRY       YHL033C           CDS       T00005
+NAME        RPL8A, MAK7
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L8A
+ORTHOLOGY   K02936  large subunit ribosomal protein L7Ae
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YHL033C (RPL8A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YHL033C (RPL8A)
+               03009 Ribosome biogenesis [BR:sce03009]
+                YHL033C (RPL8A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YHL033C (RPL8A)
+              Archaea
+                YHL033C (RPL8A)
+            Ribosome biogenesis [BR:sce03009]
+             Prokaryotic type
+              Sno RNPs
+               Box C/D snoRNPs
+                YHL033C (RPL8A)
+POSITION    VIII:complement(35255..36025)
+MOTIF       Pfam: Ribosomal_L7Ae RNase_P_pop3
+DBLINKS     NCBI-GeneID: 856352
+            NCBI-ProteinID: NP_011830
+            SGD: S000001025
+            UniProt: P17076
+STRUCTURE   PDB: 6EM3 5Z3G 6C0F 6EM4 6EM5 6CB1
+AASEQ       256
+            MAPGKKVAPAPFGAKSTKSNKTRNPLTHSTPKNFGIGQAVQPKRNLSRYVKWPEYVRVQR
+            QKKILSIRLKVPPTIAQFQYTLDRNTAAETFKLFNKYRPETAAEKKERLTKEAAAVAEGK
+            SKQDASPKPYAVKYGLNHVVALIENKKAKLVLIANDVDPIELVVFLPALCKKMGVPYAIV
+            KGKARLGTLVNQKTSAVAALTEVRAEDEAALAKLVSTIDANFADKYDEVKKHWGGGILGN
+            KAQAKMDKRAKNSDSA
+NTSEQ       771
+            atggccccaggtaagaaagtcgctccagctccattcggtgctaagtcaactaagtctaac
+            aagactagaaacccattgactcactctactccaaagaacttcggtattggtcaagctgtc
+            caaccaaagagaaacttgtccagatacgtcaaatggccagaatacgtcagagtgcaaaga
+            caaaagaagatcttgtccatcagattgaaggttcctccaaccattgctcaattccaatac
+            actttggacagaaacaccgctgccgaaaccttcaagttgttcaacaagtacagaccagaa
+            actgctgctgaaaagaaggaaagattgaccaaagaagctgccgctgttgctgaaggtaag
+            tccaagcaagatgcttctccaaagccatacgctgtcaagtacggtttgaaccacgttgtt
+            gccttgatcgaaaacaagaaggctaagttggttttgattgctaacgatgtcgacccaatt
+            gaattggttgtctttttgccagctttgtgtaagaagatgggtgttccatacgccattgtc
+            aagggtaaggctagattgggtaccttggttaaccaaaagacctctgccgttgccgctttg
+            actgaagtcagagccgaagacgaagctgctttggctaagttggtttctaccattgacgct
+            aacttcgctgacaaatacgatgaagtcaagaagcactggggtggtggtatccttggtaac
+            aaggctcaagccaagatggacaagagagctaagaactccgactccgcttaa
+///

@@ -1,0 +1,73 @@
+ENTRY       YNL207W           CDS       T00005
+NAME        RIO2
+DEFINITION  (RefSeq) protein kinase RIO2
+ORTHOLOGY   K07179  RIO kinase 2 [EC:2.7.11.1]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03008 Ribosome biogenesis in eukaryotes
+                YNL207W (RIO2)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:sce01001]
+                YNL207W (RIO2)
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YNL207W (RIO2)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 YNL207W (RIO2)
+            Protein kinases [BR:sce01001]
+             Serine/threonine kinases: Other
+              RIO family [OT]
+               YNL207W (RIO2)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Pre-40S particles
+               Kinases
+                YNL207W (RIO2)
+POSITION    XIV:255353..256630
+MOTIF       Pfam: RIO1 Rio2_N APH Kdo Pkinase_fungal Pkinase
+DBLINKS     NCBI-GeneID: 855514
+            NCBI-ProteinID: NP_014192
+            SGD: S000005151
+            UniProt: P40160
+STRUCTURE   PDB: 6FAI 6RBD 6EML
+AASEQ       425
+            MKLDTSHMRYLTTDDFRVLQAVEQGSRSHEVVPTPLIHQISGMRSQSGTNRAISDLAKLS
+            LISKMRNVKYDGYRLTYNGIDYLALKTMLNRDTVYSVGNTIGVGKESDIYKVSDKNGNPR
+            VMKIHRLGRTSFHSVRNNRDYLKKSNQGANWMHLSRLAANKEYQFMSMLYSKGFKVPEPF
+            DNSRHIVVMELIEGYPMRRLRKHKNIPKLYSDLMCFIVDLANSGLIHCDFNEFNIMIKDK
+            LEDENDCGFVVIDFPQCISIQHQDADYYFQRDVDCIRRFFKKKLKYEPKPDSSMLDTEGF
+            GDGYKYAYPDFKRDVKRTDNLDELVQASGFSKKHPGDRGLETAVESMRNAVYNSDDDMSN
+            DEAEEENGEGDYSEEDEYYDSELDNESSEDDSEDAQEEENERIIEALSSGVENLKMDKLG
+            NYILE
+NTSEQ       1278
+            atgaaattggatacttctcatatgagatatttgacaactgatgattttcgtgtcctccag
+            gccgttgaacaaggttctagaagtcacgaagtcgttccaactcccttgattcatcaaatc
+            tcggggatgagatcgcagtccggaacaaaccgagccattagtgatttggccaagcttagc
+            cttatttccaaaatgagaaatgtcaaatatgatggttacaggctaacttataacggtatt
+            gattatttggctttgaaaaccatgttaaacagagacactgtctattctgtcggtaacact
+            attggtgttggtaaggaatctgacatctataaagtaagtgacaaaaatggaaaccctaga
+            gtaatgaaaattcacagattaggtagaacctcttttcattccgtcagaaataatagagat
+            tatctgaagaaatccaaccagggggcaaactggatgcatctttcacgtttggcagccaat
+            aaagaatatcagtttatgtccatgctttattctaagggtttcaaggtccctgagccattc
+            gataactcgcgtcatatagtcgttatggagcttatcgagggttacccaatgaggagatta
+            agaaaacataagaatatacccaagctttatagtgatctgatgtgtttcatcgttgatcta
+            gcaaatagcggacttatccattgtgattttaatgagtttaatattatgataaaggacaaa
+            ctagaggatgaaaacgattgtgggttcgtagttattgattttccacaatgtatatctatt
+            caacaccaagacgccgactattatttccaaagggatgttgactgtattcgtcgtttcttc
+            aaaaagaaactgaagtacgaaccaaaacctgattcatcaatgctcgacactgaaggtttc
+            ggcgatggttataaatatgcgtatccagatttcaaaagggacgttaaaagaaccgacaat
+            ttggatgaattggtgcaggcttccggatttagcaaaaagcatccaggagataggggcctg
+            gaaactgccgttgaaagcatgagaaatgctgtttataattcagatgacgatatgtctaat
+            gacgaggccgaagaagaaaatggggagggcgattattcagaggaggatgaatactatgac
+            tccgaacttgataatgaaagttctgaagatgacagtgaagatgcacaagaagaggagaac
+            gaacgtattatagaggcgctttccagtggtgttgaaaatctaaaaatggataaactagga
+            aactatatactagagtag
+///

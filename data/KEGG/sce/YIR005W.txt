@@ -1,0 +1,38 @@
+ENTRY       YIR005W           CDS       T00005
+NAME        IST3, SNU17
+DEFINITION  (RefSeq) U2 snRNP complex subunit IST3
+ORTHOLOGY   K13107  RNA-binding motif protein, X-linked 2
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YIR005W (IST3)
+            Spliceosome [BR:sce03041]
+             Complex B
+              Other components
+               RES complex
+                YIR005W (IST3)
+             Complex C
+                YIR005W (IST3)
+POSITION    IX:364889..365335
+MOTIF       Pfam: RRM_1 RRM_7
+DBLINKS     NCBI-GeneID: 854821
+            NCBI-ProteinID: NP_012270
+            SGD: S000001444
+            UniProt: P40565
+STRUCTURE   PDB: 5ZWO 5LQW 2MY2 2MY3 4UQT 2MKC
+AASEQ       148
+            MNKIQQINDKELQSGILSPHQSWHNEYKDNAYIYIGNLNRELTEGDILTVFSEYGVPVDV
+            ILSRDENTGESQGFAYLKYEDQRSTILAVDNLNGFKIGGRALKIDHTFYRPKRSLQKYYE
+            AVKEELDRDIVSKNNAEKLILAKKDQPN
+NTSEQ       447
+            atgaacaaaattcagcaaatcaacgataaagaactacaaagtggaattcttagcccgcat
+            caatcatggcataatgaatataaggataatgcttatatatatatcggaaatctcaaccga
+            gaattaacagaaggtgacatattgacagtcttttctgaatatggagtccctgtagatgta
+            attcttagcagggatgaaaacacaggagaatcgcaaggttttgcatatttgaaatatgag
+            gatcaacggtcaacgattctagcagtcgataatttaaatggatttaaaattggcggtaga
+            gccctcaaaattgatcatactttttataggccaaaaaggagtttacaaaaatactatgaa
+            gctgtaaaggaagaattggatcgagatatagtttcgaagaacaatgctgagaaactcatt
+            ttggctaaaaaggaccaaccaaattaa
+///

@@ -1,0 +1,43 @@
+ENTRY       YPL079W           CDS       T00005
+NAME        RPL21B
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L21B
+ORTHOLOGY   K02889  large subunit ribosomal protein L21e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YPL079W (RPL21B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YPL079W (RPL21B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YPL079W (RPL21B)
+              Archaea
+                YPL079W (RPL21B)
+POSITION    XVI:join(406636..406646,407068..407539)
+MOTIF       Pfam: Ribosomal_L21e LRS4 SIMPL
+DBLINKS     NCBI-GeneID: 856026
+            NCBI-ProteinID: NP_015246
+            SGD: S000006000
+            UniProt: Q12672
+AASEQ       160
+            MGKSHGYRSRTRYMFQRDFRKHGAVHMSTYLKIYKVGDIVDIKANGSIQKGMPHKFYQGK
+            TGVVYNVTKSSVGVIINKMVGNRYLEKRLNLRVEHIKHSKCRQEFLERVKANAAKRAEAK
+            AQGVAVQLKRQPAQPRESRIVSTEGNVPQTLAPVPYETFI
+NTSEQ       483
+            atgggtaaatcacatggttacagatctcgtacacgttacatgttccaacgtgacttcaga
+            aagcatggtgccgttcacatgtccacctacttgaagatctacaaggttggtgacattgtc
+            gacatcaaagccaatggttctatccaaaagggtatgccacacaagttctaccaaggtaag
+            accggtgtcgtctacaacgttaccaagtcttctgttggtgttatcatcaacaagatggtc
+            ggtaacagatacttggaaaagagattgaacttgagagttgaacacatcaagcactctaaa
+            tgtagacaagaatttttggaaagagttaaggccaatgctgctaagcgtgctgaagccaag
+            gcccaaggtgttgctgtccaattgaagagacaaccagctcaaccaagagaatcccgtatt
+            gtctctactgaaggtaacgttcctcaaactttagctccagttccatacgaaaccttcatt
+            taa
+///

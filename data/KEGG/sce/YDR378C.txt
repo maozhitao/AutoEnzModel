@@ -1,0 +1,54 @@
+ENTRY       YDR378C           CDS       T00005
+NAME        LSM6
+DEFINITION  (RefSeq) U4/U6-U5 snRNP complex subunit LSM6
+ORTHOLOGY   K12625  U6 snRNA-associated Sm-like protein LSm6
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03018  RNA degradation
+            sce03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YDR378C (LSM6)
+              09123 Folding, sorting and degradation
+               03018 RNA degradation
+                YDR378C (LSM6)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YDR378C (LSM6)
+               03041 Spliceosome [BR:sce03041]
+                YDR378C (LSM6)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               mRNA cycle factors
+                P-body specific factors
+                 YDR378C (LSM6)
+              mRNA degradation factors
+               5'-3' decay
+                Lsm complex
+                 YDR378C (LSM6)
+            Spliceosome [BR:sce03041]
+             Complex B
+              U4/U6.U5 tri-snRNP components
+               LSm proteins
+                YDR378C (LSM6)
+POSITION    IV:complement(1229349..1229609)
+MOTIF       Pfam: LSM SM-ATX LSM14
+DBLINKS     NCBI-GeneID: 851984
+            NCBI-ProteinID: NP_010666
+            SGD: S000002786
+            UniProt: Q06406
+STRUCTURE   PDB: 4C92 4M7D 6ASO 4M7A 4M78 4M75 5VSU 4M77 5GAN 4C8Q 3JCM
+                 5ZWO
+AASEQ       86
+            MSGKASTEGSVTTEFLSDIIGKTVNVKLASGLLYSGRLESIDGFMNVALSSATEHYESNN
+            NKLLNKFNSDVFLRGTQVMYISEQKI
+NTSEQ       261
+            atgtccggaaaagcttctacagagggtagcgttactacggagtttctctctgatatcatt
+            ggtaagacagtgaacgtcaaacttgcctcgggtttactctacagcggaagattggaatcc
+            attgatggttttatgaatgttgcactatcgagtgccactgaacactacgagagtaataac
+            aataagcttctaaataagttcaatagtgatgtctttttgaggggcacgcaggtcatgtat
+            atcagtgaacaaaaaatatag
+///

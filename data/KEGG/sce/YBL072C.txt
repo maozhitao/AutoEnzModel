@@ -1,0 +1,47 @@
+ENTRY       YBL072C           CDS       T00005
+NAME        RPS8A
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S8A
+ORTHOLOGY   K02995  small subunit ribosomal protein S8e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YBL072C (RPS8A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YBL072C (RPS8A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YBL072C (RPS8A)
+              Archaea
+                YBL072C (RPS8A)
+POSITION    II:complement(88523..89125)
+MOTIF       Pfam: Ribosomal_S8e
+DBLINKS     NCBI-GeneID: 852206
+            NCBI-ProteinID: NP_009481
+            SGD: S000000168
+            UniProt: P0CX39 P0CX40
+STRUCTURE   PDB: 6FAI 6RBD 6EML 6RBE 5LL6 5TZS
+AASEQ       200
+            MGISRDSRHKRSATGAKRAQFRKKRKFELGRQPANTKIGAKRIHSVRTRGGNKKYRALRI
+            ETGNFSWASEGISKKTRIAGVVYHPSNNELVRTNTLTKAAIVQIDATPFRQWFEAHYGQT
+            LGKKKNVKEEETVAKSKNAERKWAARAASAKIESSVESQFSAGRLYACISSRPGQSGRCD
+            GYILEGEELAFYLRRLTAKK
+NTSEQ       603
+            atgggtatttctcgtgattctcgtcacaaaagatccgctaccggtgccaagcgtgctcaa
+            ttcagaaagaagagaaagttcgaattaggccgtcaaccagccaacaccaagatcggtgct
+            aagagaattcactctgttagaactagaggtggtaacaagaaatacagagctctaagaatt
+            gaaaccggtaacttttcttgggcttctgaaggtatctccaagaagaccagaattgctggt
+            gttgtttaccatccatccaacaatgaattggttagaactaacactttgaccaaggctgcc
+            attgtccaaattgatgctactccattcagacaatggttcgaagctcactacggtcaaacc
+            ttgggtaagaagaagaacgtcaaggaagaagaaactgttgccaagagcaagaacgctgaa
+            agaaagtgggctgctagagctgcttctgccaagatcgaatcttccgttgaatctcaattc
+            agcgccggtagattatacgcttgtatctcttccagaccaggtcaatccggtagatgtgat
+            ggttacatcttggaaggtgaagaattagctttctacctaagaagattgactgctaagaaa
+            tag
+///

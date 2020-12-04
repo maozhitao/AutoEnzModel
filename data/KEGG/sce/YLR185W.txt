@@ -1,0 +1,39 @@
+ENTRY       YLR185W           CDS       T00005
+NAME        RPL37A
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L37A
+ORTHOLOGY   K02922  large subunit ribosomal protein L37e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YLR185W (RPL37A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YLR185W (RPL37A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YLR185W (RPL37A)
+              Archaea
+                YLR185W (RPL37A)
+POSITION    XII:join(522663..522669,523029..523288)
+MOTIF       Pfam: Ribosomal_L37e DZR_2 DZR SelR zf-ribbon_3 DUF1258
+DBLINKS     NCBI-GeneID: 850882
+            NCBI-ProteinID: NP_013286
+            SGD: S000004175
+            UniProt: P49166
+STRUCTURE   PDB: 6EM3 5Z3G 6C0F 6EM4 6EM5 6CB1
+AASEQ       88
+            MGKGTPSFGKRHNKSHTLCNRCGRRSFHVQKKTCSSCGYPAAKTRSYNWGAKAKRRHTTG
+            TGRMRYLKHVSRRFKNGFQTGSASKASA
+NTSEQ       267
+            atgggtaagggtactccttcattcggtaaacgtcacaacaagtcccacactttgtgtaac
+            agatgtggtcgtcgttctttccatgttcaaaagaagacctgttcctcctgtggttatcca
+            gctgctaagaccagatcttacaactggggtgccaaggctaagagaagacacactactggt
+            actggtagaatgagatacttgaaacacgtttcaagaagattcaagaacggtttccaaacc
+            ggctctgcttctaaggcttctgcttaa
+///

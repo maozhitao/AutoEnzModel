@@ -1,0 +1,105 @@
+ENTRY       YEL030W           CDS       T00005
+NAME        ECM10, SSC3
+DEFINITION  (RefSeq) Hsp70 family ATPase ECM10
+ORTHOLOGY   K04043  molecular chaperone DnaK
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03018  RNA degradation
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03018 RNA degradation
+                YEL030W (ECM10)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YEL030W (ECM10)
+               03110 Chaperones and folding catalysts [BR:sce03110]
+                YEL030W (ECM10)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YEL030W (ECM10)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YEL030W (ECM10)
+            Messenger RNA biogenesis [BR:sce03019]
+             Prokaryotic type
+              Bacterial mRNA degradation factors
+               Other RNA degradation factors
+                Chaperones
+                 YEL030W (ECM10)
+            Chaperones and folding catalysts [BR:sce03110]
+             Heat shock proteins
+              HSP70 / DNAK
+               YEL030W (ECM10)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Inner mambrane
+               MINOS/MitOS complex
+                YEL030W (ECM10)
+              Matrix
+               MMC/PAM proteins
+                YEL030W (ECM10)
+             Mitochondrial quality control factors
+              Regulator of mitochondrial biogenesis
+               Proteins involved in Fe-S cluster biogenesis
+                YEL030W (ECM10)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               YEL030W (ECM10)
+              Exosomal proteins of breast cancer cells
+               YEL030W (ECM10)
+              Exosomal proteins of colorectal cancer cells
+               YEL030W (ECM10)
+POSITION    V:94644..96578
+MOTIF       Pfam: HSP70 MreB_Mbl FtsA FGGY_C
+DBLINKS     NCBI-GeneID: 856682
+            NCBI-ProteinID: NP_010884
+            SGD: S000000756
+            UniProt: P39987
+AASEQ       644
+            MLPSWKAFKAHNILRILTRFQSTKIPDAVIGIDLGTTNSAVAIMEGKVPRIIENAEGSRT
+            TPSVVAFTKDGERLVGEPAKRQSVINSENTLFATKRLIGRRFEDAEVQRDINQVPFKIVK
+            HSNGDAWVEARNRTYSPAQIGGFILNKMKETAEAYLAKSVKNAVVTVPAYFNDAQRQATK
+            DAGQIIGLNVLRVVNEPTAAALAYGLDKSEPKVIAVFDLGGGTFDISILDIDNGIFEVKS
+            TNGDTHLGGEDFDIYLLQEIISHFKKETGIDLSNDRMAVQRIREAAEKAKIELSSTLSTE
+            INLPFITADAAGPKHIRMPFSRVQLENITAPLIDRTVDPVKKALKDARITASDISDVLLV
+            GGMSRMPKVADTVKKLFGKDASKAVNPDEAVALGAAIQAAVLSGEVTDVLLLDVTPLSLG
+            IETLGGVFTKLIPRNSTIPNKKSQIFSTAASGQTSVEVKVFQGERELVKDNKLIGNFTLA
+            GIPPAPKGTPQIEVTFDIDANGIINVSAKDLASHKDSSITVAGASGLSDTEIDRMVNEAE
+            RYKNQDRARRNAIETANKADQLANDTENSIKEFEGKLDKTDSQRLKDQISSLRELVSRSQ
+            AGDEVNDDDVGTKIDNLRTSSMKLFEQLYKNSDNPETKNGRENK
+NTSEQ       1935
+            atgttaccatcatggaaagcctttaaagcacataatatacttcgtattctgacccgtttc
+            cagtcaaccaaaattccagatgcagttatcggtattgatttaggtactaccaattctgcg
+            gtagctattatggaaggtaaagttccgagaattatcgaaaatgcagaaggctcaagaact
+            actccgtctgtagtggctttcactaaagacggagaacgtttagttggtgagccagccaaa
+            cgacaatccgtcataaactcagaaaacactttgtttgctactaagcgtttaatcggccgc
+            cgtttcgaggacgctgaagtccaaagagatattaatcaggttcctttcaaaatcgtcaag
+            cattctaatggagatgcctgggtagaggctagaaacagaacgtactcccccgcccaaata
+            ggaggttttatcttaaataaaatgaaggaaacagcggaggcttacttagcgaagagcgtc
+            aaaaatgctgttgtcaccgttcctgcttacttcaatgatgcccaaagacaagctactaaa
+            gacgcaggacaaattattgggcttaatgtattacgtgttgtcaacgaaccaacagctgct
+            gccctagcttacggtctagataaatcagagccaaaagtcattgctgttttcgacttgggc
+            ggtggtactttcgatatttcaatcctggacatcgataacggtatctttgaggttaaatct
+            accaatggtgacacccatttgggtggcgaagattttgacatttatttgttgcaagaaatt
+            atttctcatttcaagaaagaaaccggtatcgatttgagtaatgaccgtatggctgtccaa
+            agaataagagaagccgctgaaaaggctaaaatcgaactgtcttctacactctctacagaa
+            ataaacttgcctttcataactgctgatgctgcaggcccaaagcatattcgtatgcccttt
+            tctagggttcagcttgagaatataaccgccccattgattgatagaacggttgatcctgtc
+            aaaaaagcactgaaagacgcaagaattaccgcctcagatatatcggatgttttattagtt
+            ggtggtatgtcaaggatgcccaaggttgcagatactgtaaagaaattattcggtaaggat
+            gcatcaaaagctgttaaccctgatgaagcagtcgctttaggggccgctatacaggctgcg
+            gtcttgtctggtgaagttaccgatgttttgttgctagatgtcactcccctatcattgggt
+            attgaaactttaggaggagtttttacaaaattaatcccaagaaattctacaattcccaat
+            aagaaatctcaaattttttcaactgcggcatcaggtcaaacatcggtggaagttaaagtt
+            ttccaaggtgagagggagttagtcaaggataacaaattaataggtaattttactcttgcg
+            ggcattcctccagctccaaaaggtaccccacaaattgaagtcacttttgatatcgatgcg
+            aacggcatcatcaacgtttcagcaaaagatctcgccagccacaaagactcttccatcact
+            gttgccggagcgtctgggctatctgatacggagattgatcgaatggttaatgaagcggaa
+            agatataaaaatcaggatagagccagaaggaatgccatcgaaaccgctaacaaagctgac
+            cagctagctaatgacacagaaaattccattaaggaattcgaaggtaagctagataaaact
+            gattctcaaagactaaaagatcaaatttcatccttaagggaattggtttctcggagtcaa
+            gctggagatgaggttaatgatgacgatgttggaacaaaaattgacaatttgcgaacttca
+            tcgatgaaactttttgaacagttatacaagaacagtgacaatcctgaaactaagaacggg
+            agagaaaataaataa
+///

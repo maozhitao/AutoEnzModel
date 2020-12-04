@@ -1,0 +1,111 @@
+ENTRY       YKL022C           CDS       T00005
+NAME        CDC16
+DEFINITION  (RefSeq) anaphase promoting complex subunit CDC16
+ORTHOLOGY   K03353  anaphase-promoting complex subunit 6
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04111  Cell cycle - yeast
+            sce04113  Meiosis - yeast
+            sce04120  Ubiquitin mediated proteolysis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                YKL022C (CDC16)
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YKL022C (CDC16)
+               04113 Meiosis - yeast
+                YKL022C (CDC16)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01009 Protein phosphatases and associated proteins [BR:sce01009]
+                YKL022C (CDC16)
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YKL022C (CDC16)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YKL022C (CDC16)
+            Protein phosphatases and associated proteins [BR:sce01009]
+             Protein serine/threonine phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-5
+                PP5-interacting proteins
+                 YKL022C (CDC16)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               APC/C
+                Other subunits
+                 YKL022C (CDC16)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Sister chromatid separation proteins
+               APC/C complex
+                YKL022C (CDC16)
+POSITION    XI:complement(394726..397248)
+MOTIF       Pfam: TPR_1 TPR_2 ANAPC3 TPR_8 TPR_12 TPR_11 TPR_19 TPR_7 TPR_16 TPR_17 TPR_10 SPO22 TPR_MalT TPR_21
+DBLINKS     NCBI-GeneID: 853846
+            NCBI-ProteinID: NP_012903
+            SGD: S000001505
+            UniProt: P09798
+AASEQ       840
+            MKFCLYCCHCYIVICGKATHYYKSSKATSNLKSSNRVLMRNPMSPSEQHSQHNSTLAASP
+            FVSNVSAARTQQSLPTDAQNDRLQQPWNRTNTATSPYQSLANSPLIQKLQANIMTPHQPS
+            ANSNSNSNSITGNVVNDNNLLASMSKNSMFGSTIPSTLRKVSLQREYKDSVDGVVRDEDN
+            DEDVHNNGDAAANANNDRESKLGHNGPLTTTTLTTTTTATQLDVSELSAIERLRLWRFDA
+            LMQHMYRTAEYIADKVYNISNDPDDAFWLGQVYYNNNQYVRAVELITRNNLDGVNILCRY
+            LLGLSFVKLQRFDDALDVIGEYNPFSEDPSTTAANTMSNNGNNSNTSQPVTDGGIKMESS
+            LCFLRGKIYFAQNNFNKARDAFREAILVDIKNFEAFEMLLSKNLLTPQEEWDLFDSLDFK
+            EFGEDKEIMKNLYKINLSKYINTEDITKSNEILAKDYKLADNVDVVRSKVDICYTQCKFN
+            ECLELCETVLENDEFNTNILPAYIGCLYELSNKNKLFLLSHRLAETFPKSAITWFSVATY
+            YMSLDRISEAQKYYSKSSILDPSFAAAWLGFAHTYALEGEQDQALTAYSTASRFFPGMHL
+            PKLFLGMQFMAMNSLNLAESYFVLAYDICPNDPLVLNEMGVMYFKKNEFVKAKKYLKKAL
+            EVVKDLDPSSRTTISIQLNLGHTYRKLNENEIAIKCFRCVLEKNDKNSEIHCSLGYLYLK
+            TKKLQKAIDHLHKSLYLKPNNSSATALLKNALELNVTLSLDASHPLIDKSNLMSQASKDK
+            ASLNKKRSSLTYDPVNMAKRLRTQKEIFDQNNKALRKGGHDSKTGSNNADDDFDADMELE
+NTSEQ       2523
+            atgaagttttgtctttattgctgtcattgttatatcgttatttgtggaaaggctacacat
+            tattacaagtcatcaaaagccacatcaaacttgaaatcgtcaaacagggtacttatgaga
+            aaccccatgtcgccttcggagcaacattcacaacataattctacattggccgcctcgcca
+            tttgtttctaacgtatctgcagcaagaacacaacagagtttaccaaccgatgctcagaat
+            gatcgtttgcagcaaccctggaacagaaccaatacggctacgagtccctaccagtcgtta
+            gcaaatagccctttaatacagaagttgcaagcgaatattatgactccgcaccagccatct
+            gctaattctaattctaattccaattccattacgggcaatgttgtgaacgacaataatttg
+            ttagcttctatgtctaagaatagtatgttcggttctaccataccgtccacattaaggaag
+            gtgagcttacagcgtgaatataaggattcagttgatggtgtggttcgtgatgaagataat
+            gatgaggatgttcataacaatggcgatgcagctgcgaatgctaataatgatcgggagagt
+            aaactagggcataatgggccattgacgacaacaacattaacgacaacaactacagcaact
+            caactagatgtttctgaattgtcagctatagaaagattgagactttggaggttcgacgca
+            ttgatgcagcatatgtataggaccgcagaatatattgctgataaagtgtataacatatcc
+            aatgatcctgatgatgccttctggctcggccaagtatattacaataataatcagtacgta
+            agggctgtagaacttattaccaggaacaacttggatggcgttaatatcctgtgtcgatat
+            ctgttgggactctcctttgttaaattacagagatttgatgacgctctagatgttataggc
+            gaatacaatccattcagcgaggacccatctacgacggcagcaaacaccatgagcaataat
+            ggcaataacagcaatacgtcacagccagttactgacggcggtataaaaatggagtcatca
+            ttatgttttctgagagggaaaatatattttgcacaaaataattttaacaaggcaagggat
+            gcatttcgtgaagcgattttggtagatataaaaaattttgaagctttcgaaatgctcctg
+            tccaagaacctgttaactccacaagaggaatgggacctgtttgactctttggatttcaaa
+            gaatttggggaagataaagagattatgaagaatctttataagatcaacctatctaaatac
+            atcaacacggaagatataacgaagtccaatgagattttagcgaaagattataaattagct
+            gacaatgtagatgtcgtaagaagtaaggtggatatctgctatacgcaatgcaaattcaac
+            gaatgcttagagttgtgcgagaccgttttggaaaacgacgaatttaatacgaatatcttg
+            ccagcatacattggatgtctatatgaactatcaaataaaaataagcttttccttctgtcg
+            catcgattagcggaaactttcccgaagtctgcgataacatggtttagcgttgcgacctat
+            tatatgagcttggacagaattagtgaagcacagaaatactattccaaatcctcaatactg
+            gatccaagctttgctgccgcatggctgggatttgcacacacgtatgccctagaaggtgaa
+            caagaccaagcattaacagcatactctacagcctccagattctttcctggaatgcactta
+            ccaaaactgtttctcgggatgcagtttatggcgatgaattcattaaatttagcagaatcg
+            tattttgttctggcatatgacatttgtccaaacgatccattagtactcaatgaaatgggt
+            gtaatgtattttaagaagaacgaatttgtcaaagccaagaaatacctgaagaaggcgttg
+            gaagtggtgaaagatcttgatccaagttcaagaacgacaatatcaattcaattaaatcta
+            ggacacacttacagaaagttaaatgagaacgaaattgccattaaatgttttagatgcgtt
+            ttggagaaaaatgataaaaactctgaaattcattgttccttaggttacttatatttgaag
+            acgaagaaattacaaaaggccattgatcatttgcacaaatcattgtacctaaagcctaat
+            aattcatctgcaacagcgcttttgaaaaatgccctagagctaaacgtgacgttatcattg
+            gatgccagccacccacttattgacaagtcgaatttaatgagtcaggcaagtaaggacaag
+            gcttcgctcaataaaaaaagatcttcattgacttatgaccctgtcaacatggctaaaagg
+            ttgagaacacaaaaggagatctttgatcagaataacaaagctctaagaaagggaggtcat
+            gacagcaaaactggaagtaataatgccgacgatgattttgacgcagatatggaactggaa
+            taa
+///

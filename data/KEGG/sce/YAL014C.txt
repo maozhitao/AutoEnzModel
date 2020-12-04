@@ -1,0 +1,47 @@
+ENTRY       YAL014C           CDS       T00005
+NAME        SYN8, SLT2, UIP2
+DEFINITION  (RefSeq) syntaxin
+ORTHOLOGY   K08501  syntaxin 8
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04130  SNARE interactions in vesicular transport
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04130 SNARE interactions in vesicular transport
+                YAL014C (SYN8)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YAL014C (SYN8)
+            Membrane trafficking [BR:sce04131]
+             SNARE
+              SNAP-25[C] (Qc)
+               STX8
+                YAL014C (SYN8)
+POSITION    I:complement(128252..129019)
+MOTIF       Pfam: SNARE
+DBLINKS     NCBI-GeneID: 851219
+            NCBI-ProteinID: NP_009388
+            SGD: S000000012
+            UniProt: P31377
+AASEQ       255
+            MDVLKLGYELDQLSDLVEERTRLVSVLKLAPTSNDNVTLKRQLGSILELLQKCAPNDELI
+            SRYNTILDKIPDTAVDKELYRFQQQVARNTDEVSKESLKKVRFKNDDELTVMYKDDDEQD
+            EESPLPSTHTPYKDEPLQSQLQSQSQPQPPQPMVSNQELFINQQQQLLEQDSHLGALSQS
+            IGRTHDISLDLNNEIVSQNDSLLVDLENLIDNNGRNLNRASRSMHGFNNSRFKDNGNCVI
+            ILVLIVVLLLLLLVL
+NTSEQ       768
+            atggatgtgttgaagctgggttatgaactggaccagctctctgatctggtcgaagaaaga
+            acaaggctagtgtcggtgttgaagctcgccccgacctcaaacgataacgttactttgaaa
+            cggcaattgggctcaatattggagttattgcagaagtgtgcgcccaatgatgaactaata
+            tcccgatacaataccatactggacaaaattcctgatacggcggttgacaaggagttgtat
+            aggttccaacagcaggtggcaagaaatactgatgaggtgtccaaagagtctttgaaaaaa
+            gtgcggttcaagaatgatgacgagcttacggtcatgtataaggatgacgatgaacaagac
+            gaggagtcgccgctgccttcgacgcatactccatacaaggatgaaccattgcaatcgcag
+            ttacagtcacagtcacagccacagccaccacaacccatggtttccaaccaagaactattt
+            attaaccagcaacagcagttgttagagcaagattcccacttgggcgcactgtctcagtct
+            attgggaggactcatgacatttcgctggaccttaataatgagatcgtttctcagaacgac
+            tcgctgctggttgatttagaaaacctgattgataataatggtaggaatttgaacagggcc
+            tctcggtccatgcatggctttaacaattctaggttcaaggataacggcaactgcgtgatt
+            attcttgtgctgatagtggtgctcctgttgcttctattagtattataa
+///

@@ -1,0 +1,36 @@
+ENTRY       YFR003C           CDS       T00005
+NAME        YPI1
+DEFINITION  (RefSeq) type 1 protein phosphatase-activating protein YPI1
+ORTHOLOGY   K17553  protein phosphatase 1 regulatory subunit 11
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01009 Protein phosphatases and associated proteins [BR:sce01009]
+                YFR003C (YPI1)
+            Protein phosphatases and associated proteins [BR:sce01009]
+             Protein serine/threonine phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 YFR003C (YPI1)
+POSITION    VI:complement(152657..153124)
+MOTIF       Pfam: PPI_Ypi1 DUF4513 Astro_capsid_p2
+DBLINKS     NCBI-GeneID: 850553
+            NCBI-ProteinID: NP_116658
+            SGD: S000001899
+            UniProt: P43587
+AASEQ       155
+            MSGNQMAMGSEQQQTVGSRTVSVEEVPAVLQLRATQDPPRSQEAMPTRHNVRWEENVIDN
+            ENMNKKKTKICCIFHPQNEDEEECNHHSDDDGSSSSGSSSSESENEKDLDFNERRQRRLE
+            RRHRKLEKKRSYSPNAYEIQPDYSEYRRKQQEKKD
+NTSEQ       468
+            atgagtggaaatcaaatggctatgggatcagaacaacaacagaccgtagggtcccgaacg
+            gtgagtgtggaagaggttcccgcagttttgcagcttcgagcaactcaagatcctccaaga
+            agccaggaggcaatgcctacaaggcacaatgtaagatgggaagaaaatgtgattgacaat
+            gaaaacatgaataaaaaaaagaccaagatatgctgcatttttcatccacaaaatgaggat
+            gaagaagagtgcaaccatcattcagatgatgatggatcctcttcttccggatcctcttct
+            tcagaatctgagaatgagaaggatcttgactttaacgaacgtagacaaagaagattggaa
+            aggcgccatcgtaaacttgagaaaaaaaggtcatatagccccaatgcttatgaaatccaa
+            ccagattattctgaatacaggcgaaaacagcaggaaaagaaggactga
+///

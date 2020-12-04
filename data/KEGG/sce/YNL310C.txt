@@ -1,0 +1,37 @@
+ENTRY       YNL310C           CDS       T00005
+NAME        ZIM17, HEP1, TIM15
+DEFINITION  (RefSeq) Zim17p
+ORTHOLOGY   K17808  mitochondrial protein import protein ZIM17
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YNL310C (ZIM17)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial protein import machinery
+              Matrix
+               Other matrix factors
+                YNL310C (ZIM17)
+POSITION    XIV:complement(51907..52431)
+MOTIF       Pfam: zf-DNL zinc_ribbon_4 Elf1 zf-CSL Zn-ribbon_8 zf-ZPR1
+DBLINKS     NCBI-GeneID: 855406
+            NCBI-ProteinID: NP_014089
+            SGD: S000005254
+            UniProt: P42844
+STRUCTURE   PDB: 2E2Z
+AASEQ       174
+            MIPRTRTLLQSKIPITRYFARCWAPRVRYNVCRTLPAAALHTNIIAHNEVKKDDKKVHLG
+            SFKVDKPKMMIAFTCKKCNTRSSHTMSKQAYEKGTVLISCPHCKVRHLIADHLKIFHDHH
+            VTVEQLMKANGEQVSQDVGDLEFEDIPDSLKDVLGKYAKNNSENASQLPHPSQK
+NTSEQ       525
+            atgattccgaggactagaacactactgcaaagtaaaataccaattaccaggtactttgcc
+            agatgttgggcgcctcgcgtacgctacaacgtgtgccgtactctacccgcagcagcgttg
+            cataccaatatcatcgcacataatgaagtgaaaaaggacgataagaaggttcatttgggg
+            tcttttaaggtagacaagcctaagatgatgatagctttcacctgcaagaaatgtaacacc
+            cgatcttcacacacaatgtccaagcaggcgtacgagaaaggtactgtcttgatctcttgt
+            ccgcactgcaaagtgagacatttgatagcagaccatctgaaaatattccatgatcatcat
+            gttaccgtggaacagttaatgaaagctaacggagaacaagttagccaagacgtgggcgac
+            ttggagtttgaagacatcccagattcgctaaaggacgtcctgggaaaatatgccaagaac
+            aactcagaaaatgcatcccagctccctcacccttcccagaaatga
+///

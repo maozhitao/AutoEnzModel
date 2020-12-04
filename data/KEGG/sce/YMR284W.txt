@@ -1,0 +1,80 @@
+ENTRY       YMR284W           CDS       T00005
+NAME        YKU70, HDF1, NES24
+DEFINITION  (RefSeq) ATP-dependent DNA helicase YKU70
+ORTHOLOGY   K10884  ATP-dependent DNA helicase 2 subunit 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03450  Non-homologous end-joining
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03450 Non-homologous end-joining
+                YMR284W (YKU70)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YMR284W (YKU70)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YMR284W (YKU70)
+            Spliceosome [BR:sce03041]
+             Other splicing related proteins
+              Spliceosome associated proteins (SAPs)
+               Other SAPs
+                YMR284W (YKU70)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              DSBR (double strand breaks repair)
+               NHEJ (non-homologous end-joining)
+                DNA-PK complex
+                 YMR284W (YKU70)
+POSITION    XIII:838187..839995
+MOTIF       Pfam: Ku_N Ku Ku_C DUF2170
+DBLINKS     NCBI-GeneID: 855328
+            NCBI-ProteinID: NP_014011
+            SGD: S000004897
+            UniProt: P32807
+STRUCTURE   PDB: 5Y58
+AASEQ       602
+            MRSVTNAFGNSGELNDQVDETGYRKFDIHEGILFCIELSETMFKESSDLEYKSPLLEILE
+            SLDELMSQLVITRPGTAIGCYFYYCNREDAKEGIYELFPLRDINATFMKKLNDLLEDLSS
+            GRISLYDYFMFQQTGSEKQVRLSVLFTFMLDTFLEEIPGQKQLSNKRVFLFTDIDKPQEA
+            QDIDERARLRRLTIDLFDNKVNFATFFIGYADKPFDNEFYSDILQLGSHTNENTGLDSEF
+            DGPSTKPIDAKYIKSRILRKKEVKRIMFQCPLILDEKTNFIVGVKGYTMYTHEKAGVRYK
+            LVYEHEDIRQEAYSKRKFLNPITGEDVTGKTVKVYPYGDLDINLSDSQDQIVMEAYTQKD
+            AFLKIIGFRSSSKSIHYFNNIDKSSFIVPDEAKYEGSIRTLASLLKILRKKDKIAILWGK
+            LKSNSHPSLYTLSPSSVKDYNEGFYLYRVPFLDEIRKFPSLLSYDDGSEHKLDYDNMKKV
+            TQSIMGYFNLRDGYNPSDFKNPLLQKHYKVLHDYLLQIETTFDENETPNTKKDRMMREDD
+            SLRKLYYIRNKILESEKSEDPIIQRLNKYVKIWNMFYKKFNDDNISIKEEKKPFDKKPKF
+            NI
+NTSEQ       1809
+            atgcgctcagtcactaatgcatttggcaatagtggagaacttaacgatcaagtggatgaa
+            acaggttataggaagtttgatatccatgaaggaattttgttttgcattgaactatcagag
+            acaatgtttaaagagtcctctgatctagagtataaatcaccattgttggaaattctggaa
+            tcactagatgagctaatgtcacaattggtcataacaagacctgggacagctattggttgc
+            tatttttattactgtaacagagaggatgccaaggaaggtatctatgaactttttccatta
+            agggatataaatgctacatttatgaagaaattgaacgatcttttagaagatttatcatcg
+            gggagaataagcctatacgactattttatgtttcaacaaactgggagtgaaaagcaagtg
+            cgcttatctgtattattcacattcatgcttgacacttttttggaagagattccgggtcaa
+            aagcaattaagcaacaagagagtgttcttattcactgacattgataaaccacaagaggcg
+            caagatatcgatgaacgggcaagattgagaaggcttacaattgatttatttgataacaaa
+            gtgaattttgcaactttttttattggctatgccgataaaccatttgacaacgagttttat
+            tcggacatactgcagttgggttcacatacaaatgagaatactggtttggattctgaattt
+            gatggtccaagtacaaagcctatagatgctaaatacatcaagtccagaatcctaaggaaa
+            aaggaggtaaagaggataatgtttcaatgtccattaatcttggatgagaaaacaaatttt
+            atagtcggagtcaagggttacactatgtatacccatgaaaaagctggagtcaggtataaa
+            cttgtttatgagcatgaagatatcagacaagaagcatattcaaaaagaaaatttttaaat
+            cctataacaggagaagacgttactggtaaaactgtcaaggtttatccttatggtgacctc
+            gatatcaatctatcagatagtcaagatcagatagtaatggaggcttatactcaaaaagat
+            gcgtttttgaagattattgggttccgttcatcgagcaaatcgatacactatttcaataac
+            atagacaaaagttcgtttatcgtaccagatgaagcaaaatatgaaggttcgataagaacc
+            ttggcttctttattaaaaattttgagaaaaaaagataaaattgcaatattatgggggaag
+            cttaaatcaaattcacatccttcactatatacgttatcaccctcaagcgtgaaggactac
+            aacgaaggattttatctctacagggttccattcctagacgaaattcgaaaatttcctagt
+            ttactatcctatgatgatggctctgaacataaactagattatgataacatgaaaaaagta
+            actcaaagtataatgggatactttaacttgagggatggatataacccatccgatttcaaa
+            aacccactattacaaaaacattacaaagttttacatgattacctgttgcaaattgaaacc
+            acttttgacgaaaatgagacacctaatactaaaaaagacagaatgatgcgtgaggacgat
+            tctttaaggaaactatattatatacgaaataaaattttagaatctgagaagtcagaagat
+            ccaatcatccaaaggctaaataaatatgttaaaatctggaatatgttctacaaaaaattt
+            aacgatgataacatttcgataaaagaagaaaagaagccctttgataaaaagccgaaattc
+            aatatataa
+///

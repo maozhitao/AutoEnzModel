@@ -1,0 +1,50 @@
+ENTRY       YNL151C           CDS       T00005
+NAME        RPC31, ACP2, RPC8
+DEFINITION  (RefSeq) DNA-directed RNA polymerase III subunit C31
+ORTHOLOGY   K03024  DNA-directed RNA polymerase III subunit RPC7
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03020  RNA polymerase
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03020 RNA polymerase
+                YNL151C (RPC31)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:sce03021]
+                YNL151C (RPC31)
+            Transcription machinery [BR:sce03021]
+             Eukaryotic type
+              RNA polymerase III system
+               RNA polymerase III
+                Pol III specific subunits
+                 YNL151C (RPC31)
+POSITION    XIV:complement(347766..348521)
+MOTIF       Pfam: RNA_pol_3_Rpc31
+DBLINKS     NCBI-GeneID: 855571
+            NCBI-ProteinID: NP_014248
+            SGD: S000005095
+            UniProt: P17890
+STRUCTURE   PDB: 6EU3 6EU1 6EU2 6F40 5FJ8 6EU0 6CNB 6CNC 6F44 6F41 6CNF
+                 5FJ9 5FJA 6CND 6F42
+AASEQ       251
+            MSSYRGGSRGGGSNYMSNLPFGLGYGDVGKNHITEFPSIPLPINGPITNKERSLAVKYIN
+            FGKTVKDGPFYTGSMSLIIDQQENSKSGKRKPNIILDEDDTNDGIERYSDKYLKKRKIGI
+            SIDDHPYNLNLFPNELYNVMGINKKKLLAISKFNNADDVFTGTGLQDENIGLSMLAKLKE
+            LAEDVDDASTGDGAAKGSKTGEGEDDDLADDDFEEDEDEEDDDDYNAEKYFNNGDDDDYG
+            DEEDPNEEAAF
+NTSEQ       756
+            atgagttcttataggggcggcagtagaggtggcgggagcaactatatgagcaatctaccc
+            ttcggattaggttatggagatgtaggcaaaaatcatattacggaatttccatccatccca
+            ttgcccatcaatggtcctataacaaataaggaaagatctttagcagtaaagtacatcaat
+            tttggaaagactgttaaagatggcccattttataccggatcaatgagcttgataatagat
+            caacaggaaaacagcaagagcggtaaacgcaaacccaacataatcctagacgaagacgat
+            actaatgatggcattgaaagatattccgataaatatttgaaaaaaaggaaaataggtatt
+            tctattgatgatcatccgtataatttgaacctctttcccaatgaattgtacaatgtaatg
+            gggatcaacaagaaaaaattattggcaatctccaagtttaataatgccgatgatgttttt
+            actggtacaggtttacaagatgaaaacatcggactatccatgctggcaaagttaaaggag
+            ttggcagaagatgtggatgatgcgtcgacgggtgatggggcagcaaaaggaagtaaaaca
+            ggcgaaggagaagatgatgatttggcggatgatgatttcgaagaagatgaagacgaagaa
+            gatgatgatgattataatgctgaaaagtatttcaacaatggtgacgatgatgattacggt
+            gatgaagaggatccaaatgaagaggccgccttttag
+///

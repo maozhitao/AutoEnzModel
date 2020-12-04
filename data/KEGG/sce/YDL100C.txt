@@ -1,0 +1,63 @@
+ENTRY       YDL100C           CDS       T00005
+NAME        GET3, ARR4
+DEFINITION  (RefSeq) guanine nucleotide exchange factor GET3
+ORTHOLOGY   K01551  arsenite/tail-anchored protein-transporting ATPase [EC:7.3.2.7 7.3.-.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YDL100C (GET3)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YDL100C (GET3)
+            Enzymes [BR:sce01000]
+             7. Translocases
+              7.3  Catalysing the translocation of inorganic anions and their chelates
+               7.3.2  Linked to the hydrolysis of a nucleoside triphosphate
+                7.3.2.7  arsenite-transporting ATPase
+                 YDL100C (GET3)
+            Membrane trafficking [BR:sce04131]
+             Endoplasmic reticulum (ER) - Golgi transport
+              Retrieval pathways
+               Golgi to ER traffic proteins (GET)
+                YDL100C (GET3)
+            Transporters [BR:sce02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               YDL100C (GET3)
+POSITION    IV:complement(282112..283176)
+MOTIF       Pfam: ArsA_ATPase AAA_31 CbiA ParA Fer4_NifH SRP54 AAA_24 AAA_25 NACHT PhoH
+DBLINKS     NCBI-GeneID: 851458
+            NCBI-ProteinID: NP_010183
+            SGD: S000002258
+            UniProt: Q12154
+STRUCTURE   PDB: 2WOJ 4XTR 3ZS9 3H84 4XVU 4XWO 5BW8 3A36 3B2E 3ZS8 3SJA
+                 3A37 3SJC 3SJB 3IDQ 3VLC 3SJD 4PWX 5BWK
+AASEQ       354
+            MDLTVEPNLHSLITSTTHKWIFVGGKGGVGKTTSSCSIAIQMALSQPNKQFLLISTDPAH
+            NLSDAFGEKFGKDARKVTGMNNLSCMEIDPSAALKDMNDMAVSRANNNGSDGQGDDLGSL
+            LQGGALADLTGSIPGIDEALSFMEVMKHIKRQEQGEGETFDTVIFDTAPTGHTLRFLQLP
+            NTLSKLLEKFGEITNKLGPMLNSFMGAGNVDISGKLNELKANVETIRQQFTDPDLTTFVC
+            VCISEFLSLYETERLIQELISYDMDVNSIIVNQLLFAENDQEHNCKRCQARWKMQKKYLD
+            QIDELYEDFHVVKMPLCAGEIRGLNNLTKFSQFLNKEYNPITDGKVIYELEDKE
+NTSEQ       1065
+            atggatttaaccgtggaacctaatttgcactctttaattacctctaccactcataagtgg
+            attttcgttggtggtaaaggtggtgttggtaagactacttcatcatgttccattgctatc
+            caaatggctttgagtcaaccaaacaaacagttcctactgatctctactgatcctgcccat
+            aacttaagtgatgcattcggtgagaaatttggtaaagacgccagaaaggtgacaggcatg
+            aataatctatcatgtatggaaatcgatccatccgctgctttgaaggatatgaacgacatg
+            gcagtttcacgcgctaacaataacggaagtgacggtcaaggtgacgatctaggaagcttg
+            cttcaaggtggtgctcttgctgatttgaccggttccatccctggtatcgacgaagcttta
+            tccttcatggaagtcatgaagcacattaaaaggcaagaacagggcgaaggtgaaaccttc
+            gatactgttatttttgacactgctccaactggccacacattaagatttctacaactacca
+            aatactttatccaagcttttggaaaagttcggtgaaattaccaacaaattgggcccaatg
+            ctaaactcttttatgggcgcaggtaatgtcgatatctctggaaaattgaacgagttaaag
+            gctaatgtcgagaccatcagacaacaattcacggatcctgacctaacgacttttgtttgc
+            gtttgtatcagtgaattcttatccttatatgaaactgaaagactaattcaggaattgatt
+            tcctacgatatggacgttaattccatcattgtcaaccaattattatttgctgaaaacgat
+            caagagcacaactgtaagagatgtcaggcaagatggaagatgcaaaagaagtacttggac
+            caaatcgacgaattgtacgaagatttccatgtcgttaaaatgccattatgtgctggagaa
+            atcagaggcttaaataacttaacaaagttctcacagttcctaaacaaagaatataaccct
+            attactgatggcaaagtcatttatgagttagaagataaggaatag
+///

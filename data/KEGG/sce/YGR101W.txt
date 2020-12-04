@@ -1,0 +1,64 @@
+ENTRY       YGR101W           CDS       T00005
+NAME        PCP1, MDM37, RBD1
+DEFINITION  (RefSeq) rhomboid protease PCP1
+ORTHOLOGY   K09650  rhomboid-like protein [EC:3.4.21.105]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YGR101W (PCP1)
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YGR101W (PCP1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.105  rhomboid protease
+                 YGR101W (PCP1)
+            Peptidases and inhibitors [BR:sce01002]
+             Serine peptidases
+              Family S54: Rhomboid family
+               YGR101W (PCP1)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial quality control factors
+              Mitochondrial dynamics
+               Fission and Fusion factors
+                YGR101W (PCP1)
+              Mitophagy factors
+               Parkin-dependent mechanism factors
+                YGR101W (PCP1)
+POSITION    VII:693363..694403
+MOTIF       Pfam: Rhomboid
+DBLINKS     NCBI-GeneID: 852993
+            NCBI-ProteinID: NP_011615
+            SGD: S000003333
+            UniProt: P53259
+AASEQ       346
+            MSGVSSVMLGLRPATRIFFRSNISVSPSRTFVSYIGRSQSTSILKNAPNLEDNVTNLQKI
+            IPKRFFSQTSILKSRWKPIFNEETTNRYVRLNRFQQYQQQRSGGNPLGSMTILGLSLMAG
+            IYFGSPYLFEHVPPFTYFKTHPKNLVYALLGINVAVFGLWQLPKCWRFLQKYMLLQKDYV
+            TSKISIIGSAFSHQEFWHLGMNMLALWSFGTSLATMLGASNFFSLYMNSAIAGSLFSLWY
+            PKLARLAIVGPSLGASGALFGVLGCFSYLFPHAKILLFVFPVPGGAWVAFLASVAWNAAG
+            CALRWGSFDYAAHLGGSMMGVLYGWYISKAVEKQRQRRLQAAGRWF
+NTSEQ       1041
+            atgtcaggtgtaagctctgttatgctcggtcttcgacctgctacaagaatttttttccgc
+            agtaatatttcggtttcaccttcgaggacttttgtatcatatattggaagatcccagagc
+            acgtcgatactcaaaaatgctcccaacttagaggacaatgtcacaaatcttcagaaaatt
+            ataccgaaacggttcttttctcaaacatcaattttgaaatcaaggtggaagcctatattc
+            aatgaagaaactactaatcgatacgtacgtttgaacaggtttcagcagtaccagcagcag
+            agaagcggcggcaatcctctgggctctatgactattttggggctctctttaatggcagga
+            atatattttggctccccttatttgttcgagcacgttccaccctttacgtattttaagacg
+            catccaaagaatctggtatacgcgttattaggcatcaatgttgccgtatttggactatgg
+            cagctacccaaatgctggaggtttctacagaagtacatgttgctgcaaaaggattacgta
+            actagcaaaatttcgataatcggaagtgcgttttcacatcaagaattctggcacttaggt
+            atgaacatgctagcgttgtggtcctttggtacttcactcgcaacaatgttgggagcatcc
+            aattttttctccttatatatgaatagtgccattgcaggttctttgttttcgttatggtat
+            ccaaaactggcacgcctagccattgtcggacctagcttgggtgccagtggagcgctattt
+            ggggttttaggatgtttttcatatctattcccacacgctaaaattttgctgtttgttttc
+            ccagtcccaggtggggcttgggtagcattcttggcttcagtggcatggaatgcagctggt
+            tgtgctttaagatgggggtcatttgattacgctgcgcatttaggtggctctatgatgggg
+            gtcttgtacggatggtatataagtaaagctgtagagaaacaaaggcagcgtcgccttcag
+            gctgctggtaggtggttttaa
+///

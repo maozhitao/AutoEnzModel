@@ -1,0 +1,69 @@
+ENTRY       YNL098C           CDS       T00005
+NAME        RAS2, CTN5, CYR3, GLC5, TSL7
+DEFINITION  (RefSeq) Ras family GTPase RAS2
+ORTHOLOGY   K07827  GTPase KRas
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04113  Meiosis - yeast
+            sce04138  Autophagy - yeast
+            sce04213  Longevity regulating pathway - multiple species
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04138 Autophagy - yeast
+                YNL098C (RAS2)
+              09143 Cell growth and death
+               04113 Meiosis - yeast
+                YNL098C (RAS2)
+             09150 Organismal Systems
+              09149 Aging
+               04213 Longevity regulating pathway - multiple species
+                YNL098C (RAS2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YNL098C (RAS2)
+              09183 Protein families: signaling and cellular processes
+               04031 GTP-binding proteins [BR:sce04031]
+                YNL098C (RAS2)
+            Membrane trafficking [BR:sce04131]
+             Endocytosis
+              Macropinocytosis
+               Ras GTPases
+                YNL098C (RAS2)
+            GTP-binding proteins [BR:sce04031]
+             Small (monomeric) G-proteins
+              Ras Family
+               Ras [OT]
+                YNL098C (RAS2)
+POSITION    XIV:complement(439602..440570)
+MOTIF       Pfam: Ras Roc Arf RsgA_GTPase GTP_EFTU MMR_HSR1 MMR_HSR1_Xtn
+DBLINKS     NCBI-GeneID: 855625
+            NCBI-ProteinID: NP_014301
+            SGD: S000005042
+            UniProt: P01120
+AASEQ       322
+            MPLNKSNIREYKLVVVGGGGVGKSALTIQLTQSHFVDEYDPTIEDSYRKQVVIDDEVSIL
+            DILDTAGQEEYSAMREQYMRNGEGFLLVYSITSKSSLDELMTYYQQILRVKDTDYVPIVV
+            VGNKSDLENEKQVSYQDGLNMAKQMNAPFLETSAKQAINVEEAFYTLARLVRDEGGKYNK
+            TLTENDNSKQTSQDTKGSGANSVPRNSGGHRKMSNAANGKNVNSSTTVVNARNASIESKT
+            GLAGNQATNGKTQTDRTNIDNSTGQAGQANAQSANTVNNRVNNNSKAGQVSNAKQARKQQ
+            AAPGGNTSEASKSGSGGCCIIS
+NTSEQ       969
+            atgcctttgaacaagtcgaacataagagagtacaagctagtcgtcgttggtggtggtggt
+            gttggtaaatctgctttgaccatacaattgacccaatcgcactttgtagatgaatacgat
+            cccacaattgaggattcatacaggaagcaagtggtgattgatgatgaagtgtctatattg
+            gacattttggatactgcagggcaggaagaatactctgctatgagggaacaatacatgcgc
+            aacggcgaaggattcctattggtttactctataacgtccaagtcgtctcttgatgagctt
+            atgacttactatcaacagatattgagagtcaaagataccgactatgttccaattgtggtt
+            gttggtaacaaatctgatttagaaaacgaaaaacaggtctcttaccaggacgggttgaac
+            atggcaaagcaaatgaacgctcctttcttggagacatctgctaagcaagcaatcaacgtg
+            gaagaggcgttttacactctagcacgtttagttagagacgaaggcggcaagtacaacaag
+            actttgacggaaaatgacaactccaagcaaacttctcaagatacaaaagggagcggtgcc
+            aactctgtgcctagaaatagcggtggccacaggaagatgagcaatgctgccaacggtaaa
+            aatgtgaacagtagcacaactgtcgtgaatgccaggaatgcaagcatagagagtaagaca
+            gggttggcaggcaaccaggcgacaaatggtaagacacaaactgatcgcaccaatatagac
+            aattccacgggccaagctggtcaggccaacgctcaaagcgctaatacggttaataatcgt
+            gtaaataataatagtaaggccggtcaagtttcaaatgctaaacaggctaggaagcagcaa
+            gctgcacccggcggtaacaccagtgaagcctccaagagcggatcgggtggctgttgtatt
+            ataagttaa
+///

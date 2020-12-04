@@ -1,0 +1,42 @@
+ENTRY       YFL060C           CDS       T00005
+NAME        SNO3
+DEFINITION  (RefSeq) putative pyridoxal 5'-phosphate synthase
+ORTHOLOGY   K08681  pyridoxal 5'-phosphate synthase pdxT subunit [EC:4.3.3.6]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00750  Vitamin B6 metabolism
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00750 Vitamin B6 metabolism
+                YFL060C (SNO3)
+            Enzymes [BR:sce01000]
+             4. Lyases
+              4.3  Carbon-nitrogen lyases
+               4.3.3  Amine-lyases
+                4.3.3.6  pyridoxal 5'-phosphate synthase (glutamine hydrolysing)
+                 YFL060C (SNO3)
+POSITION    VI:complement(10301..10969)
+MOTIF       Pfam: SNO GATase_3 DJ-1_PfpI Peptidase_S51 GATase DUF4154
+DBLINKS     NCBI-GeneID: 850484
+            NCBI-ProteinID: NP_116595
+            SGD: S000001834
+            UniProt: P43544
+AASEQ       222
+            MTVVIGVLALQGAFIEHVRHVEKCIVENRDFYEKKLSVMTVKDKNQLAQCDALIIPGGES
+            TAMSLIAERTGFYDDLYAFVHNPSKVTWGTCAGLIYISQQLSNEAKLVKTLNLLKVKVKR
+            NAFGRQAQSSTRICDFSNFIPHCNDFPATFIRAPVIEEVLDPEHVQVLYKLDGKDNGGQE
+            LIVAAKQKNNILATSFHPELAENDIRFHDWFIREFVLKNYSK
+NTSEQ       669
+            atgaccgtcgttatcggagtcttggcattacagggtgcgttcattgaacatgtgcgacac
+            gtagaaaaatgcatcgtcgaaaacagggatttctatgaaaaaaaactatctgtgatgaca
+            gtgaaggataaaaatcaactagctcaatgtgatgcattgatcatacctgggggagagtcg
+            actgcaatgtcccttattgcagaaagaacaggattttacgacgatctctacgcattcgta
+            cacaacccaagcaaggtaacctggggtacttgtgcaggtttgatttatatttcacaacaa
+            ttatctaacgaagcaaaactggtcaagacgctgaatttactaaaggttaaagtaaaaaga
+            aatgcatttgggagacaagctcagtcttctacccggatttgcgacttttcaaactttatt
+            cctcactgcaatgattttcctgctacttttataagagccccagtaatagaagaggtgctg
+            gatcctgaacatgtgcaggtcctgtacaaattagatgggaaggataatggtggtcaagaa
+            ctaattgttgccgctaagcaaaaaaacaatattcttgcgacatcatttcatccggaattg
+            gcagaaaacgatatacggtttcacgactggttcatcagagaatttgttcttaaaaactac
+            agtaaataa
+///

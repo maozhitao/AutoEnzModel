@@ -1,0 +1,57 @@
+ENTRY       YEL047C           CDS       T00005
+NAME        FRD1
+DEFINITION  (RefSeq) fumarate reductase
+ORTHOLOGY   K18561  FAD-dependent fumarate reductase [EC:1.3.8.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                YEL047C (FRD1)
+            Enzymes [BR:sce01000]
+             1. Oxidoreductases
+              1.3  Acting on the CH-CH group of donors
+               1.3.8  With a flavin as acceptor
+                1.3.8.-  
+                 YEL047C (FRD1)
+POSITION    V:complement(65385..66797)
+MOTIF       Pfam: FAD_binding_2 DAO NAD_binding_8 Pyr_redox_2 FAD_binding_3 Thi4 Lycopene_cycl HI0933_like Pyr_redox_3 FAD_oxidored Amino_oxidase MCRA NAD_binding_9 Pyr_redox GIDA
+DBLINKS     NCBI-GeneID: 856664
+            NCBI-ProteinID: NP_010867
+            SGD: S000000773
+            UniProt: P32614
+AASEQ       470
+            MSLSPVVVIGTGLAGLAAANELVNKYNIPVTILEKASSIGGNSIKASSGINGACTETQRH
+            FHIEDSPRLFEDDTIKSAKGKGVQELMAKLANDSPLAIEWLKNEFDLKLDLLAQLGGHSV
+            ARTHRSSGKLPPGFEIVSALSNNLKKLAETKPELVKINLDSKVVDIHEKDGSISAVVYED
+            KNGEKHMVSANDVVFCSGGFGFSKEMLKEYAPELVNLPTTNGQQTTGDGQRLLQKLGADL
+            IDMDQIQVHPTGFIDPNDRSSSWKFLAAESLRGLGGILLNPITGRRFVNELTTRDVVTAA
+            IQKVCPQEDNRALLVMGEKMYTDLKNNLDFYMFKKLVQKLTLSQVVSEYNLPITVAQLCE
+            ELQTYSSFTTKADPLGRTVILNEFGSDVTPETVVFIGEVTPVVHFTMGGARINVKAQVIG
+            KNDERLLKGLYAAGEVSGGVHGANRLGGSSLLECVVFGRTAAESIANDRK
+NTSEQ       1413
+            atgtctctctctcccgttgttgttattggaaccggtttggccgggctggctgctgccaat
+            gaattggttaacaagtataacatccctgtaaccatcctcgaaaaggcttcctcgatcggt
+            gggaactctatcaaggcctccagtggtattaacggtgcttgcaccgagactcaacgtcac
+            ttccacatcgaggactccccacgcttatttgaagatgacaccatcaagtctgctaaaggt
+            aaaggtgtccaagaattaatggctaagttggccaatgattctcccctggctattgaatgg
+            ttgaaaaacgaatttgatttgaaattggacctattggctcaattgggtggccactctgtg
+            gcaagaactcacagatcgtctgggaagttgcctccaggtttcgaaattgtttctgcctta
+            tctaacaatttgaagaaattagctgagactaaaccagagttagttaagattaacttagac
+            agtaaagtcgtagacatccatgaaaaggatggctccatttctgctgtagtgtacgaggac
+            aagaatggcgaaaagcacatggtgagtgctaacgatgtcgttttttgttctggagggttt
+            ggcttttctaaggaaatgcttaaagaatacgcacccgaactggtgaacttgccaacaaca
+            aacgggcaacaaacaactggtgatggtcaaaggcttctgcagaagttaggcgctgatctg
+            attgacatggaccaaattcaagttcatccaactgggttcattgatccaaatgaccgtagc
+            tcaagctggaaattcttggctgccgaatccttaagaggtcttggtggtatcctattaaac
+            cctattaccggtagaagatttgtcaacgaattgaccacaagagatgtagtcactgcagct
+            attcaaaaggtttgtcctcaagaggataacagagcactattggttatgggcgaaaaaatg
+            tacacagatttgaagaataatttagatttttacatgttcaagaaacttgtacagaaattg
+            acattatctcaagttgtttctgaatataatttaccaatcactgtcgcccaattatgcgag
+            gaattgcaaacatactcttccttcactaccaaggctgatccgttgggacgtaccgttatt
+            ctcaacgaatttggctctgacgttactccagaaactgtggtttttattggtgaagtaaca
+            ccggttgtccatttcaccatgggtggtgctagaatcaatgtcaaggctcaagtcattggc
+            aagaacgacgaaaggctactaaaaggcctgtacgcggccggtgaagtttctggcggtgtt
+            catggcgccaataggttgggtggttcaagtttgttagaatgcgttgtctttgggagaacc
+            gcagctgaatctattgccaatgaccgcaagtaa
+///

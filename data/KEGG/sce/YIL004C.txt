@@ -1,0 +1,40 @@
+ENTRY       YIL004C           CDS       T00005
+NAME        BET1, SLY12
+DEFINITION  (RefSeq) Bet1p
+ORTHOLOGY   K08504  blocked early in transport 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04130  SNARE interactions in vesicular transport
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04130 SNARE interactions in vesicular transport
+                YIL004C (BET1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YIL004C (BET1)
+            Membrane trafficking [BR:sce04131]
+             SNARE
+              SNAP-25[C] (Qc)
+               Bet1
+                YIL004C (BET1)
+POSITION    IX:complement(join(347946..348363,348495..348505))
+MOTIF       Pfam: Use1 Pou HTH_8
+DBLINKS     NCBI-GeneID: 854813
+            NCBI-ProteinID: NP_012262
+            SGD: S000001266
+            UniProt: P22804
+AASEQ       142
+            MSSRFAGGNAYQRDTGRTQLFGPADGSNSLDDNVSSALGSTDKLDYSQSTLASLESQSEE
+            QMGAMGQRIKALKSLSLKMGDEIRGSNQTIDQLGDTFHNTSVKLKRTFGNMMEMARRSGI
+            SIKTWLIIFFMVGVLFFWVWIT
+NTSEQ       429
+            atgagttcaagatttgcagggggaaacgcttatcaacgtgatactggtagaacacagtta
+            ttcggaccggctgatggatcaaatagtctcgatgacaatgtatcatcagcgctagggagc
+            acagataaattagactactcccaaagtactttggcatctcttgaatctcaaagtgaggaa
+            cagatgggagctatgggtcagagaataaaagcactcaagtcattatcgttgaagatgggt
+            gatgagattagaggcagcaatcaaactattgaccagcttggtgatactttccataacact
+            tctgtaaaactcaaaaggacttttggaaacatgatggagatggccagaagatctgggatc
+            agtataaaaacatggttaataatattttttatggtaggcgtgctatttttttgggtatgg
+            attacataa
+///

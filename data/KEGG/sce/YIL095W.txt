@@ -1,0 +1,92 @@
+ENTRY       YIL095W           CDS       T00005
+NAME        PRK1, PAK1
+DEFINITION  (RefSeq) serine/threonine protein kinase PRK1
+ORTHOLOGY   K08853  AP2-associated kinase [EC:2.7.11.1]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:sce01001]
+                YIL095W (PRK1)
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YIL095W (PRK1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 YIL095W (PRK1)
+            Protein kinases [BR:sce01001]
+             Serine/threonine kinases: Other
+              NAK family [OT]
+               YIL095W (PRK1)
+            Membrane trafficking [BR:sce04131]
+             Endocytosis
+              Clathrin-mediated endocytosis
+               Kinases
+                YIL095W (PRK1)
+POSITION    IX:183937..186369
+MOTIF       Pfam: Pkinase PK_Tyr_Ser-Thr Kinase-like
+DBLINKS     NCBI-GeneID: 854713
+            NCBI-ProteinID: NP_012171
+            SGD: S000001357
+            UniProt: P40494
+AASEQ       810
+            MNTPQISLYEPGTILTVGSHHAKIIKYLTSGGFAQVYTAEISPPDPYSNANIACLKRVIV
+            PHKQGLNTLRAEVDAMKLLRNNKHVVSYIDSHAARSVNGIAYEVFVLMEFCERGGLIDFM
+            NTRLQNRLQESEILEIMSQTVQGITAMHALQPPLIHRDIKIENVLISHDGLYKVCDFGSV
+            SGVIRPPRNTQEFNYVQHDILTNTTAQYRSPEMIDLYRGLPIDEKSDIWALGVFLYKICY
+            YTTPFEKSGEAGILHARYQYPSFPQYSDRLKNLIRLMLMEAPSQRPNICQVLEEVSRLQN
+            KPCPIRNFYLLRAMNQNANTQLAGEPSSTTYVPTQKFIPVQSLQSINQPPNMMPVTHVST
+            TPNLGTFPISINDNNKTEVTAHAGLQVGSHSNLTSPLMKTKSVPLSDEFASLYYKELHPF
+            QKSQTFKSVESFQSPQRKSMPPLSLTPVNNDIFDRVSAINRPNNYVDSETQTIDNMAVPN
+            LKLSPTITSKSLSSTKEIAAPDNINGSKIVRSLSSKLKKVITGESRGNSPIKSRQNTGDS
+            IRSAFGKLRHGFTGNSVNNSRSASFDNNNVNGNGNNTNRRLVSSSTSSFPKFNSDTKRKE
+            ESDKNQRLEKRRSMPPSILSDFDQHERNNSRTGSRDYYRSHSPVKKTQASAKTTSKPTLI
+            PDNGNVNINQEKKESIQRRVHNLLKSSDDPVTYKSASGYGKYTDIGTETSNRHSSVRITP
+            ITEEKFKKTLKDGVLDIKTKSNGKDKSRPPRPPPKPLHLRTEIQKIRNFSRLQSKKLPIE
+            RISSEATETIVDVNVDDLEADFRKRFPSKV
+NTSEQ       2433
+            atgaatactccacagattagtctgtatgaacccgggacaatattaactgtgggatctcat
+            catgctaagattatcaaataccttacgagtggtggattcgcacaagtatatactgccgaa
+            atttcccctcctgacccatatagcaatgctaacatagcatgcttgaaaagagtcattgtc
+            ccccataaacagggtttaaataccttgagagctgaagtggatgctatgaaactccttaga
+            aataataagcatgttgtttcttacatagattcacatgctgcaaggtctgtaaatggtata
+            gcatatgaggtgtttgtgttaatggaattttgtgaacgtggaggtcttatagattttatg
+            aacaccagattacaaaatagattacaagaatctgaaatattagaaattatgagtcaaacc
+            gtccaaggtataactgcaatgcacgctctgcagccgccattgattcatagagatattaag
+            attgagaatgtacttatttctcatgatggcttgtataaagtttgtgattttggttccgtt
+            tccggtgtgataaggccacctagaaatactcaagagtttaattatgttcaacacgacatc
+            ctaacaaatactacagctcagtatagatcacctgaaatgattgacctgtacagagggtta
+            cctatcgacgaaaaatctgatatttgggctcttggtgtctttctttacaaaatatgttac
+            tatactacgccgtttgaaaaaagtggtgaagccggtatactacatgcaaggtatcaatat
+            ccatcctttccgcagtatagtgacaggttgaaaaatttgatacgtcttatgttaatggaa
+            gcaccatctcagaggccaaatatttgtcaagttttagaggaggtttccaggttacagaat
+            aagccttgcccgattagaaatttttacttgttaagagcaatgaatcagaatgcgaatacc
+            caattggccggtgaaccgtcttcgacaacttatgttccaacacagaaatttattcccgta
+            caaagccttcagagcatcaaccagccaccaaatatgatgcctgtaactcacgtcagtact
+            actcctaatttgggtactttccctatatctattaatgataataacaagacagaagtaacg
+            gcgcatgctggcttacaggttggaagccattcaaatttgactagtcccttaatgaaaaca
+            aaatccgttccactttctgatgaatttgcatcactatattataaagagctacaccctttt
+            caaaagtctcagactttcaaatcagtagaaagtttccaatccccacaaaggaagtctatg
+            cctccattatcgcttactcctgttaataatgacatttttgatagagtttcggcaataaat
+            cgtccaaataactacgttgattctgagacgcaaactatagataacatggctgtgccaaac
+            ttaaaactatctcccaccattacaagcaaatcactaagctccacaaaagaaattgctgct
+            ccagataatataaatggaagcaagattgtgcgttcactaagctctaagttaaaaaaggtt
+            attactggtgaatctcgcggcaattctccgattaaatcaaggcaaaatactggtgatagt
+            atcagatcagcatttggtaagcttcgtcatgggtttacaggaaactcagtgaacaatagc
+            aggtctgcttcctttgataataacaatgtcaacggcaatggtaacaatacaaacaggcga
+            ttagtttcgtcttcaacctcctcctttcctaaatttaattctgataccaaaagaaaagag
+            gaatcagacaagaatcagagactggaaaaacgtcgcagtatgcctccttcaattttatca
+            gattttgaccagcatgagaggaataactcgagaactggatcaagggactattacaggtct
+            cattctccagtgaagaaaactcaagcatcagctaaaacgacatcaaagcctactttgata
+            ccagataatggcaacgttaatataaatcaagaaaagaaggaatcaattcaaagaagagtg
+            cataacttactaaagagttctgatgatccggtaacgtataaatccgcatccgggtatggt
+            aaatatacagatattggtacagaaacttccaatcgacattcaagtgtaagaataacacca
+            atcacagaagaaaagtttaagaaaacccttaaggatggtgttttggacatcaaaacgaaa
+            agcaacggtaaagataaatcaagaccaccacgtccaccaccaaaaccactacatttaagg
+            acagaaattcagaagataagaaactttagtcgtttacaatcaaagaaactgccgattgaa
+            agaatttccagcgaagccacagaaactattgttgatgttaacgtagatgatttagaagcc
+            gattttagaaaaaggtttcccagcaaagtttaa
+///

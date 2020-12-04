@@ -1,0 +1,53 @@
+ENTRY       YIL061C           CDS       T00005
+NAME        SNP1
+DEFINITION  (RefSeq) U1 snRNP complex subunit SNP1
+ORTHOLOGY   K11093  U1 small nuclear ribonucleoprotein 70kDa
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YIL061C (SNP1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YIL061C (SNP1)
+            Spliceosome [BR:sce03041]
+             Complex A
+              U1 snRNP components
+               U1 snRNP specific factors
+                YIL061C (SNP1)
+             Complex B
+                YIL061C (SNP1)
+POSITION    IX:complement(244657..245559)
+MOTIF       Pfam: U1snRNP70_N RRM_1 RRM_7 DUF3906
+DBLINKS     NCBI-GeneID: 854749
+            NCBI-ProteinID: NP_012203
+            SGD: S000001323
+            UniProt: Q00916
+STRUCTURE   PDB: 6N7R 5ZWN 6N7X 6N7P 6G90
+AASEQ       300
+            MNYNLSKYPDDVSRLFKPRPPLSYKRPTDYPYAKRQTNPNITGVANLLSTSLKHYMEEFP
+            EGSPNNHLQRYEDIKLSKIKNAQLLDRRLQNWNPNVDPHIKDTDPYRTIFIGRLPYDLDE
+            IELQKYFVKFGEIEKIRIVKDKITQKSKGYAFIVFKDPISSKMAFKEIGVHRGIQIKDRI
+            CIVDIERGRTVKYFKPRRLGGGLGGRGYSNRDSRLPGRFASASTSNPAERNYAPRLPRRE
+            TSSSAYSADRYGSSTLDARYRGNRPLLSAATPTAAVTSVYKSRNSRTRESQPAPKEAPDY
+NTSEQ       903
+            atgaattataatctatccaagtatccagacgacgtgtcgagacttttcaagccaaggcca
+            cctttatcttacaaaagaccaaccgattacccatatgcgaagagacaaacaaatccaaat
+            atcactggcgttgcaaacttactatcaacctctttgaagcactatatggaggagtttcct
+            gaaggatctccaaacaaccatctccaaagatacgaagacatcaaactttccaagatcaaa
+            aatgctcaattgttagaccggagactacaaaattggaatcctaacgttgaccctcatatc
+            aaggacacagatccctacagaacgatatttattgggaggctaccatacgatcttgacgaa
+            attgaactgcaaaagtattttgttaagtttggcgagatcgaaaaaattaggatagtcaag
+            gacaagataacccagaagagtaaaggctacgccttcatagttttcaaagacccaataagt
+            agtaaaatggcattcaaggagattggagtacacagaggtatccaaatcaaagacagaatc
+            tgcatagtcgacatagaaagaggcagaaccgttaaatatttcaagccaagaagattgggc
+            ggcggcctaggaggcagaggctattccaacagagacagcaggcttccaggaaggtttgca
+            agcgcaagtacatcaaatcccgccgaaagaaattatgctcccaggctgccacgcagggaa
+            acttcttcctccgcatatagcgctgatagatacggcagttccacattggacgcgaggtac
+            cgtggaaacaggccattgctctccgccgccactcctactgctgctgttacttctgtatat
+            aaatctagaaactcacggactcgagagtctcaaccagctcccaaagaagcgcccgactat
+            tga
+///

@@ -1,0 +1,41 @@
+ENTRY       YPR132W           CDS       T00005
+NAME        RPS23B
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S23B
+ORTHOLOGY   K02973  small subunit ribosomal protein S23e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YPR132W (RPS23B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YPR132W (RPS23B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YPR132W (RPS23B)
+POSITION    XVI:join(794965..795029,795395..795767)
+MOTIF       Pfam: Ribosom_S12_S23
+DBLINKS     NCBI-GeneID: 856250
+            NCBI-ProteinID: NP_015457
+            SGD: S000006336
+            UniProt: P0CX29 P0CX30
+STRUCTURE   PDB: 6FAI 6RBD 6EML 6RBE 5LL6 5TZS
+AASEQ       145
+            MGKGKPRGLNSARKLRVHRRNNRWAENNYKKRLLGTAFKSSPFGGSSHAKGIVLEKLGIE
+            SKQPNSAIRKCVRVQLIKNGKKVTAFVPNDGCLNFVDENDEVLLAGFGRKGKAKGDIPGV
+            RFKVVKVSGVSLLALWKEKKEKPRS
+NTSEQ       438
+            atgggtaaaggtaagccaagaggtttgaactccgctagaaagttgcgtgtccacagaaga
+            aacaaccgttgggccgaaaacaactataagaagagattattgggtactgccttcaagtct
+            tctccattcggtggttcttctcacgccaagggtattgtcttggaaaagttgggtatcgaa
+            tccaagcaacctaactctgctatcagaaagtgtgttagagttcaattaatcaagaacggt
+            aagaaggttactgctttcgttccaaacgatggttgtttgaactttgtcgatgaaaatgac
+            gaagtcttgctagccggtttcggtagaaagggtaaggctaagggtgatattccaggtgtt
+            agattcaaggtcgttaaggtctctggtgtctccttgttggctttgtggaaggaaaagaag
+            gaaaagccaagatcttaa
+///

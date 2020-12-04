@@ -1,0 +1,63 @@
+ENTRY       YOR085W           CDS       T00005
+NAME        OST3
+DEFINITION  (RefSeq) dolichyl-diphosphooligosaccharide--protein glycotransferase OST3
+ORTHOLOGY   K12669  oligosaccharyltransferase complex subunit gamma
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00510  N-Glycan biosynthesis
+            sce00513  Various types of N-glycan biosynthesis
+            sce01100  Metabolic pathways
+            sce04141  Protein processing in endoplasmic reticulum
+MODULE      sce_M00072  N-glycosylation by oligosaccharyltransferase
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09107 Glycan biosynthesis and metabolism
+               00510 N-Glycan biosynthesis
+                YOR085W (OST3)
+               00513 Various types of N-glycan biosynthesis
+                YOR085W (OST3)
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YOR085W (OST3)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:sce02000]
+                YOR085W (OST3)
+            Transporters [BR:sce02000]
+             Solute carrier family (SLC)
+              SLC58: MagT-like magnesium transporter
+               YOR085W (OST3)
+POSITION    XV:482033..483085
+MOTIF       Pfam: OST3_OST6
+DBLINKS     NCBI-GeneID: 854252
+            NCBI-ProteinID: NP_014728
+            SGD: S000005611
+            UniProt: P48439
+STRUCTURE   PDB: 6EZN 6C26
+AASEQ       350
+            MNWLFLVSLVFFCGVSTHPALAMSSNRLLKLANKSPKKIIPLKDSSFENILAPPHENAYI
+            VALFTATAPEIGCSLCLELESEYDTIVASWFDDHPDAKSSNSDTSIFFTKVNLEDPSKTI
+            PKAFQFFQLNNVPRLFIFKPNSPSILDHSVISISTDTGSERMKQIIQAIKQFSQVNDFSL
+            HLPMDWTPIITSTIITFITVLLFKKQSKLMFSIISSRIIWATLSTFFIICMISAYMFNQI
+            RNTQLAGVGPKGEVMYFLPNEFQHQFAIETQVMVLIYGTLAALVVVLVKGIQFLRSHLYP
+            ETKKAYFIDAILASFCALFIYVFFAALTTVFTIKSPAYPFPLLRLSAPFK
+NTSEQ       1053
+            atgaattggctgtttttggtctcgctggttttcttctgcggcgtgtcaacccatcctgcc
+            ctggcaatgtccagcaacagactactaaagctggctaataaatctcccaagaaaattata
+            cctctgaaggactcaagttttgaaaacatcttggcaccacctcacgaaaatgcctatata
+            gttgctctgtttactgccacagcgcccgaaattggctgttctctgtgtctcgagctagaa
+            tccgaatacgacaccatagtggcctcctggtttgatgatcatccggatgcaaaatcgtcc
+            aattccgatacatctattttcttcacaaaggtcaatttggaggacccttctaagaccatt
+            cctaaagcgttccagtttttccaactaaacaatgttcctagattgttcatcttcaaacca
+            aactctccctctattctggaccacagcgtgatcagtatttccactgatactggctcagaa
+            agaatgaagcaaatcatacaagccattaagcagttctcgcaagtaaacgacttctcttta
+            cacttacctatggactggactccaattattacctcgacaataattaccttcatcaccgtc
+            ttactcttcaaaaagcagtccaaactcatgttctccatcatatcttccaggatcatctgg
+            gcaaccttgtcaacttttttcatcatttgcatgatcagtgcctatatgttcaaccaaatc
+            aggaatacccaattggcaggcgttggtcctaagggcgaggttatgtatttcttgcccaat
+            gaattccaacaccaattcgccattgaaactcaagtcatggttcttatttacggaacattg
+            gccgcgttggttgtcgtattggtcaagggtatacaattcttgcggtctcatttgtatcca
+            gagaccaagaaagcgtacttcattgatgctattttggcctccttttgtgccttattcatt
+            tatgtcttctttgctgctttgacaaccgtgttcacgataaagagtcctgcttaccctttt
+            cctttactaaggttatcggcaccattcaaataa
+///

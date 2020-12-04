@@ -1,0 +1,40 @@
+ENTRY       YLR061W           CDS       T00005
+NAME        RPL22A
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L22A
+ORTHOLOGY   K02891  large subunit ribosomal protein L22e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YLR061W (RPL22A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YLR061W (RPL22A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YLR061W (RPL22A)
+POSITION    XII:join(263194..263205,263595..263948)
+MOTIF       Pfam: Ribosomal_L22e
+DBLINKS     NCBI-GeneID: 850750
+            NCBI-ProteinID: NP_013162
+            SGD: S000004051
+            UniProt: P05749
+STRUCTURE   PDB: 6EM5
+AASEQ       121
+            MAPNTSRKQKIAKTFTVDVSSPTENGVFDPASYAKYLIDHIKVEGAVGNLGNAVTVTEDG
+            TVVTVVSTAKFSGKYLKYLTKKYLKKNQLRDWIRFVSTKTNEYRLAFYQVTPEEDEEEDE
+            E
+NTSEQ       366
+            atggccccaaacacttccagaaagcaaaagattgccaagacctttaccgtcgatgtctct
+            tctccaactgaaaacggtgtcttcgacccagcttcctacgctaagtacttgatcgaccac
+            atcaaggtcgaaggtgctgtcggtaacttgggtaacgctgtcactgtcactgaagatggt
+            accgttgttactgttgtttccactgccaagttctctggtaagtacttgaagtacttgaca
+            aagaagtacttgaagaagaaccaattgagagactggatcagatttgtctctaccaagacc
+            aacgaatacagattggccttctaccaagtcactccagaagaagacgaagaagaagacgaa
+            gaataa
+///

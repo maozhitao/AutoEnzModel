@@ -1,0 +1,63 @@
+ENTRY       YLR107W           CDS       T00005
+NAME        REX3
+DEFINITION  (RefSeq) RNA exonuclease
+ORTHOLOGY   K14570  RNA exonuclease 1 [EC:3.1.-.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03008  Ribosome biogenesis in eukaryotes
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03008 Ribosome biogenesis in eukaryotes
+                YLR107W (REX3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YLR107W (REX3)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 YLR107W (REX3)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Pre-60S particles
+               RNases
+                YLR107W (REX3)
+POSITION    XII:364116..365330
+MOTIF       Pfam: CHORD DNA_pol_A_exo1
+DBLINKS     NCBI-GeneID: 850797
+            NCBI-ProteinID: NP_013208
+            SGD: S000004097
+            UniProt: Q12090
+AASEQ       404
+            MGSLLRPVDLVNQPLGFQERYKILQKLFKQLQKAYAHTKGTNIDLERLATRLEVHVAKNS
+            LSGQSYKFNMSILLRDVLKYKGDLSKIKINGRPLKGAKPHLSSIGNANSITTKSKAMEAL
+            KALILDSKVLEKNGYIVKEMQNKTNDDNSTQLYAPCLRCSSNFKKTDIMEKTLCRYHPLK
+            RIYNRDTKNHQYPCCGETTDSVSFLRLGCKTFFHHVFRGESYDELCKISKFSSTDDIDGV
+            ENVLSLDCEMAFTSLGYEMIRLTIVDFFTGKTLFDHVIQPIGDIVDLNSDFSGVHEIDRT
+            NCPTYKEALDVFLSENLINKNSILIGHGLENDLNVMRLFHNKVIDTAILYSRTKFKVSLK
+            NLAFEVLSRKIQNGEHDSSQDAIATMDVVKVKIGISPSQNKWEK
+NTSEQ       1215
+            atgggaagtttgttgagaccggttgatctggtaaatcaaccgcttggattccaagaaaga
+            tataaaattttgcagaaattattcaagcagctacaaaaggcatatgcacacacaaaagga
+            actaatattgaccttgaaagacttgccactcgcttagaagtccatgttgctaaaaacagc
+            ttgtctggtcagagttacaagtttaacatgagcattttactgcgggatgtgcttaaatat
+            aaaggagatctctcgaagatcaaaattaatgggcgcccccttaaaggagctaagcctcat
+            ttatcctcaattggtaatgcaaactctatcactacaaaatcaaaagcgatggaagcttta
+            aaggctctgattttggattcgaaggtcttagagaaaaatgggtatattgttaaggaaatg
+            caaaataaaactaatgatgacaatagtacgcaactgtatgcaccttgtttgcgttgcagc
+            tcaaatttcaaaaaaacagacatcatggaaaagactctatgtaggtatcaccctttgaaa
+            agaatatacaacagagataccaagaaccatcagtatccatgctgtggtgaaactactgat
+            tccgtttcttttctaaggctaggatgcaagacgttttttcaccatgtgtttagaggagaa
+            tcatatgacgagttatgcaaaatttcgaagttttctagtacagatgacattgatggtgtt
+            gagaatgttctttctcttgactgtgaaatggcttttacatcattgggctatgagatgata
+            cgtttaacaattgtggattttttcaccggcaagacactatttgatcatgtaattcagcca
+            ataggggatattgtcgatctgaattcagacttcagtggtgtccatgagattgaccgaacc
+            aattgcccgacgtacaaggaggcacttgatgtttttttatccgaaaacttaataaataaa
+            aatagtattcttatagggcacggactagagaacgatctgaacgtcatgaggctatttcat
+            aataaggttatagatactgcaatactttattcaagaacaaagtttaaggtttctttgaag
+            aacttagcgtttgaagttttgagtagaaaaatccaaaatggcgagcatgatagttctcaa
+            gatgcaatagcaacgatggacgttgttaaagtcaaaataggtatttctccaagtcaaaac
+            aagtgggaaaaataa
+///

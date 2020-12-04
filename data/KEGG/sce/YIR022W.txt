@@ -1,0 +1,46 @@
+ENTRY       YIR022W           CDS       T00005
+NAME        SEC11
+DEFINITION  (RefSeq) signal peptidase complex catalytic subunit SEC11
+ORTHOLOGY   K13280  signal peptidase I [EC:3.4.21.89]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03060  Protein export
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                YIR022W (SEC11)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YIR022W (SEC11)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.89  signal peptidase I
+                 YIR022W (SEC11)
+            Peptidases and inhibitors [BR:sce01002]
+             Serine peptidases
+              Family S26: signal peptidase I family
+               YIR022W (SEC11)
+POSITION    IX:398733..399236
+MOTIF       Pfam: Peptidase_S24 Peptidase_S26 Rep_fac-A_3
+DBLINKS     NCBI-GeneID: 854840
+            NCBI-ProteinID: NP_012288
+            SGD: S000001461
+            UniProt: P15367
+AASEQ       167
+            MNLRFELQKLLNVCFLFASAYMFWQGLAIATNSASPIVVVLSGSMEPAFQRGDILFLWNR
+            NTFNQVGDVVVYEVEGKQIPIVHRVLRQHNNHADKQFLLTKGDNNAGNDISLYANKKIYL
+            NKSKEIVGTVKGYFPQLGYITIWISENKYAKFALLGMLGLSALLGGE
+NTSEQ       504
+            atgaatctaagatttgaattgcagaaactattgaacgtttgctttttgtttgcatctgct
+            tacatgttctggcaaggcttagccattgctactaatagcgcttctccgatcgtggtggtg
+            ctttcaggctccatggaaccagctttccaaaggggtgatatccttttcctatggaataga
+            aatactttcaaccaagtaggtgatgtcgtggtgtatgaggtcgaagggaaacaaatcccc
+            attgtgcatagagttttgaggcaacataacaatcacgcggacaagcaattcctcctgacc
+            aaaggtgacaataacgccggcaatgatatctcactatatgctaataagaaaatttacttg
+            aacaagtcaaaggagattgtagggaccgtcaagggctactttccacaactagggtacatt
+            acgatttggattagcgagaacaaatatgccaagtttgcattgttaggtatgttggggttg
+            agtgctctgctggggggcgagtag
+///

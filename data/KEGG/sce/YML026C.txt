@@ -1,0 +1,41 @@
+ENTRY       YML026C           CDS       T00005
+NAME        RPS18B
+DEFINITION  (RefSeq) ribosomal 40S subunit protein S18B
+ORTHOLOGY   K02964  small subunit ribosomal protein S18e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YML026C (RPS18B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YML026C (RPS18B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Small subunit
+                YML026C (RPS18B)
+POSITION    XIII:complement(join(222987..223380,223782..223828))
+MOTIF       Pfam: Ribosomal_S13 FbpA CDPS
+DBLINKS     NCBI-GeneID: 854982
+            NCBI-ProteinID: NP_013686
+            SGD: S000004488
+            UniProt: P0CX55 P0CX56
+STRUCTURE   PDB: 6FAI 6RBD 6EML 6RBE
+AASEQ       146
+            MSLVVQEQGSFQHILRLLNTNVDGNIKIVYALTTIKGVGRRYSNLVCKKADVDLHKRAGE
+            LTQEELERIVQIMQNPTHYKIPAWFLNRQNDITDGKDYHTLANNVESKLRDDLERLKKIR
+            AHRGIRHFWGLRVRGQHTKTTGRRRA
+NTSEQ       441
+            atgtctttagttgtacaagaacaaggttccttccaacacattttacgtttgttgaacacc
+            aatgtcgatggtaacattaaaattgtttacgctttgaccactattaagggtgttggtcgt
+            cgttactccaacttggtctgtaagaaggctgatgttgatttgcacaagagagctggtgaa
+            ttgacccaagaagaattggaaagaattgtccaaatcatgcaaaacccaactcattacaag
+            atcccagcctggttcttaaaccgtcaaaacgacattactgatggtaaggactaccacact
+            ttggctaacaacgtcgaatccaagttgagagatgacttggaaagattaaagaagatcaga
+            gcccaccgtggtattagacacttctggggtttacgtgttagaggtcaacacaccaagacc
+            actggtagaagaagagcttaa
+///

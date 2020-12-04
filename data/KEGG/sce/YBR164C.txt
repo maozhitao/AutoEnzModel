@@ -1,0 +1,47 @@
+ENTRY       YBR164C           CDS       T00005
+NAME        ARL1, DLP2
+DEFINITION  (RefSeq) Arf family GTPase ARL1
+ORTHOLOGY   K07942  ADP-ribosylation factor-like protein 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YBR164C (ARL1)
+              09183 Protein families: signaling and cellular processes
+               04031 GTP-binding proteins [BR:sce04031]
+                YBR164C (ARL1)
+            Membrane trafficking [BR:sce04131]
+             Endosome - Golgi transport
+              Arf GTPases and associated proteins
+               Arf GTPases
+                YBR164C (ARL1)
+            GTP-binding proteins [BR:sce04031]
+             Small (monomeric) G-proteins
+              Arf/Sar Family
+               Arl1/Arl5 [OT]
+                YBR164C (ARL1)
+POSITION    II:complement(567875..568426)
+MOTIF       Pfam: Arf Roc SRPRB Ras G-alpha Gtr1_RagA MMR_HSR1 GTP_EFTU ABC_tran MeaB AAA_18 AAA_24
+DBLINKS     NCBI-GeneID: 852462
+            NCBI-ProteinID: NP_009723
+            SGD: S000000368
+            UniProt: P38116
+STRUCTURE   PDB: 1MOZ
+AASEQ       183
+            MGNIFSSMFDKLWGSNKELRILILGLDGAGKTTILYRLQIGEVVTTKPTIGFNVETLSYK
+            NLKLNVWDLGGQTSIRPYWRCYYADTAAVIFVVDSTDKDRMSTASKELHLMLQEEELQDA
+            ALLVFANKQDQPGALSASEVSKELNLVELKDRSWSIVASSAIKGEGITEGLDWLIDVIKE
+            EQL
+NTSEQ       552
+            atgggtaacatttttagttcaatgtttgacaaactatggggttcaaacaaagaattgcgt
+            atattgattttgggtttggatggtgcaggtaaaactaccatcttatatcgtttacaaatt
+            ggcgaagtagtcactacaaagccaaccattggtttcaatgtagagacgctaagttataaa
+            aacttaaaattgaacgtctgggatcttggtggtcaaacaagtatcaggccctactggagg
+            tgttattatgcagacactgctgcagttattttcgttgttgattcgactgataaagatcgt
+            atgtctacagcctctaaggaacttcatttgatgttacaggaagaagaattgcaagatgca
+            gcactgctggtttttgcaaataaacaagaccaaccgggtgcattaagtgccagtgaagtc
+            tccaaagaactgaatcttgtagaattgaaggacagaagttggtctatcgtagcatccagt
+            gcaattaaaggcgaaggtattaccgaaggtttagattggttgattgatgttataaaagag
+            gaacagttatag
+///

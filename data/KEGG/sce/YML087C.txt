@@ -1,0 +1,48 @@
+ENTRY       YML087C           CDS       T00005
+NAME        AIM33
+DEFINITION  (RefSeq) cytochrome-b5 reductase
+ORTHOLOGY   K00326  cytochrome-b5 reductase [EC:1.6.2.2]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00520  Amino sugar and nucleotide sugar metabolism
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00520 Amino sugar and nucleotide sugar metabolism
+                YML087C (AIM33)
+            Enzymes [BR:sce01000]
+             1. Oxidoreductases
+              1.6  Acting on NADH or NADPH
+               1.6.2  With a heme protein as acceptor
+                1.6.2.2  cytochrome-b5 reductase
+                 YML087C (AIM33)
+POSITION    XIII:complement(94431..95369)
+MOTIF       Pfam: FAD_binding_6 NAD_binding_1 NAD_binding_6
+DBLINKS     NCBI-GeneID: 854887
+            NCBI-ProteinID: NP_013623
+            SGD: S000004552
+            UniProt: Q04516
+AASEQ       312
+            MSIVETCISFVSTNPFYPFCTGLLLNCVVTPLYFWKTQNGRIVVVSLLQFVVLYATAFIS
+            IGTDKSLYRNKWVALPLSKKTRISRNTSLYCFKLKYPFERLHIPMGYHLAVRVTINGERL
+            VRYYTPVNVPNTEGHLELVVKTYKHGVVSKYFDKLKIRQYVEFKGPLGELEYDQDTATEL
+            GIIAGGSGITPVLQVLQEIIPSPEDLTHISLIYANETEDDILMKSQLDHMAKEYPHFKVH
+            YVIHKPNGKWNGDVGYVTLEEMKRYLPKQAEDHRLLICGPPKMNEMVLNYAKELGWSNGF
+            HKGNGTDKVFVF
+NTSEQ       939
+            atgtcgatagtagagacatgcatatcttttgtttcgacaaatccgttttatccattttgt
+            actggattgcttctgaattgtgtggttacacctctttacttttggaaaacgcaaaatggt
+            agaatcgtggtcgtttcattgctgcaattcgtagtactttatgccacagcgtttatttcg
+            attggaactgataaatctctttacagaaataaatgggtcgcgctaccgctatccaagaag
+            acccgcatttctcgtaatactagtctgtactgcttcaagttaaagtacccatttgaaaga
+            ttgcatattcccatgggataccacctggcagtaagggttacaataaatggtgagcgatta
+            gtgaggtactatacgccagtaaatgttcctaatacggagggtcacttggaattagtagtc
+            aagacgtataaacatggtgtcgtttctaagtattttgataaattaaaaattcgccagtat
+            gttgaatttaaagggccgttaggtgagctggaatatgatcaggacaccgcaacagagttg
+            ggtataatcgcaggggggtctggtataacccctgtattgcaagtgctgcaagaaatcata
+            ccctctccagaagacctaacacacatttctttgatatacgcaaacgaaacagaggatgac
+            attctcatgaaatcgcaactagaccacatggctaaggagtacccgcattttaaagttcat
+            tatgtaattcataagccaaacggtaaatggaacggtgatgttgggtacgtaactctagag
+            gaaatgaaaagatacctacctaaacaagcggaggaccatcgtttattgatttgcggacca
+            cctaaaatgaatgaaatggttttgaattatgcaaaggagttggggtggagtaatgggttt
+            cacaaaggtaatggaaccgataaagtttttgttttttaa
+///

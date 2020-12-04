@@ -1,0 +1,55 @@
+ENTRY       YFR036W           CDS       T00005
+NAME        CDC26, HIT3, SCD26
+DEFINITION  (RefSeq) anaphase promoting complex subunit CDC26
+ORTHOLOGY   K03359  anaphase-promoting complex subunit 12
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04111  Cell cycle - yeast
+            sce04113  Meiosis - yeast
+            sce04120  Ubiquitin mediated proteolysis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04120 Ubiquitin mediated proteolysis
+                YFR036W (CDC26)
+             09140 Cellular Processes
+              09143 Cell growth and death
+               04111 Cell cycle - yeast
+                YFR036W (CDC26)
+               04113 Meiosis - yeast
+                YFR036W (CDC26)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YFR036W (CDC26)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YFR036W (CDC26)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               APC/C
+                Other subunits
+                 YFR036W (CDC26)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Sister chromatid separation proteins
+               APC/C complex
+                YFR036W (CDC26)
+POSITION    VI:226963..227337
+MOTIF       Pfam: ANAPC_CDC26
+DBLINKS     NCBI-GeneID: 850597
+            NCBI-ProteinID: NP_116694
+            SGD: S000001932
+            UniProt: P14724
+AASEQ       124
+            MIRRAPTTLQLSHDDVTSLIDDLNEQKLKQQLNIEKTKYFQGKNGGSLHSNTDFQDTSQN
+            IEDNNNDNDNDIDEDDDMSSYNDKAASVAHTRVLNSLHLSTDSNTAHETSNANDNHNPFY
+            IREE
+NTSEQ       375
+            atgatcagaagggcccctaccaccttgcagctcagtcacgacgacgtaacctctctgatc
+            gatgacctgaacgagcagaaactcaagcagcagctgaatatcgagaagacaaaatacttc
+            caaggaaaaaatggcggatcgctgcactccaatacagactttcaggacacatcgcagaat
+            atcgaagacaacaataacgataacgataacgatatcgatgaagatgacgacatgtcatct
+            tacaacgacaaagcagcctcggtagcgcacaccagagtcctcaattccttgcatctgtcc
+            accgacagcaataccgcccacgagacgtccaatgcaaacgacaaccacaaccccttctac
+            atccgcgaggaataa
+///

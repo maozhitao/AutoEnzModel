@@ -1,0 +1,48 @@
+ENTRY       YJL035C           CDS       T00005
+NAME        TAD2
+DEFINITION  (RefSeq) tRNA(adenine34) deaminase
+ORTHOLOGY   K15441  tRNA-specific adenosine deaminase 2 [EC:3.5.4.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YJL035C (TAD2)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.4  In cyclic amidines
+                3.5.4.-  
+                 YJL035C (TAD2)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              tRNA modification factors
+               Deaminases
+                YJL035C (TAD2)
+POSITION    X:complement(380249..381001)
+MOTIF       Pfam: dCMP_cyt_deam_1 MafB19-deam Bd3614-deam NAD1 APOBEC2 APOBEC_N SNAD4 APOBEC3
+DBLINKS     NCBI-GeneID: 853417
+            NCBI-ProteinID: NP_012499
+            SGD: S000003572
+            UniProt: P47058
+AASEQ       250
+            MQHIKHMRTAVRLARYALDHDETPVACIFVHTPTGQVMAYGMNDTNKSLTGVAHAEFMGI
+            DQIKAMLGSRGVVDVFKDITLYVTVEPCIMCASALKQLDIGKVVFGCGNERFGGNGTVLS
+            VNHDTCTLVPKNNSAAGYESIPGILRKEAIMLLRYFYVRQNERAPKPRSKSDRVLDKNTF
+            PPMEWSKYLNEEAFIETFGDDYRTCFANKVDLSSNSVDWDLIDSHQDNIIQELEEQCKMF
+            KFNVHKKSKV
+NTSEQ       753
+            atgcagcatattaaacatatgaggacagctgtccgtttggctagatacgctcttgaccac
+            gatgagacaccggtagcttgcatctttgtacatacgccaactggccaggtgatggcttat
+            ggcatgaacgatacgaacaagtcattaactggagtagcacatgctgagttcatggggatc
+            gatcagatcaaggcgatgttgggctcccgaggagttgttgacgtgttcaaagacattact
+            ctatatgttactgtagaaccgtgtataatgtgtgcatctgctctcaagcaattagacatt
+            ggaaaggtggtgttcggttgtggcaacgagagatttggaggcaacggtactgtcttgtca
+            gtaaatcatgatacgtgtacattagtgcccaagaacaatagtgcggcagggtacgagagt
+            ataccggggatcttgaggaaagaagcaataatgctgctgagatacttttatgtaagacaa
+            aatgaaagggcgccaaagccacggtccaagagtgacagagtgttggataaaaacacgttt
+            ccgcctatggaatggtcaaagtatcttaatgaagaagcattcattgagacttttggtgat
+            gattacaggacttgttttgcgaataaagttgacttgtccagtaatagcgtcgattgggat
+            ttgattgactcccaccaagataatataatccaagaactggaagaacaatgcaaaatgttt
+            aagtttaatgtacataagaaatctaaggtttga
+///

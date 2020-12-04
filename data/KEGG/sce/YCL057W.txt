@@ -1,0 +1,77 @@
+ENTRY       YCL057W           CDS       T00005
+NAME        PRD1
+DEFINITION  (RefSeq) metalloendopeptidase
+ORTHOLOGY   K01405  saccharolysin [EC:3.4.24.37]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YCL057W (PRD1)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.37  saccharolysin
+                 YCL057W (PRD1)
+            Peptidases and inhibitors [BR:sce01002]
+             Metallo peptidases
+              Family M3
+               YCL057W (PRD1)
+POSITION    III:24768..26906
+MOTIF       Pfam: Peptidase_M3
+DBLINKS     NCBI-GeneID: 850301
+            NCBI-ProteinID: NP_009874
+            SGD: S000000562
+            UniProt: P25375
+AASEQ       712
+            MRLLLCKNWFASPVISPLLYTRSLYSMANTTSFPIAPQAPPNWSFTPSDISGKTNEIINN
+            SNNFYDSMSKVESPSVSNFVEPFMKFENELGPIINQLTFLQHVSSDKEIRDASVNSSMKL
+            DELNIDLSLRHDIFLQFARVWQDVQSKADSVERETFKYVEKSYKDYIHSGLELDEGNRLK
+            IKEIKKKISVNSINFSKNLGEQKEYITFTKEQLEGVPDSILTQFETIKSDKDSNETLYKV
+            TFKYPDIFPVMKLASSAQTRKQAFLADQNKVPENEAILLDTLKLRDELASLLGYDTYANY
+            NLYDKMAEDSTTVMNFLNDLKDKLIPLGRKELQVLQDMKAEDVKKLNQGADPNYYIWDHR
+            YYDNKYLLENFNVDLEKISEYFPLEATITGMLEIYETLFNLKFIETKDSQNKSVWHDDVK
+            QIAVWNMDDPKSPNFVGWIYFDLHPRDGKYGHAANFGLSSSFMIDDTTRSYPVTALVCNF
+            SKSTKDKPSLLKHNEIVTFFHELGHGIHDLVGQNKESRFNGPGSVPWDFVEAPSQMLEFW
+            TWNKNELINLSSHYKTGEKIPESLINSLIKTKHVNGALFTLRQLHFGLFDMKVHTCKDLQ
+            NLSICDTWNQLRQDISLISNGGTLSKGYDSFGHIMSDSYSAGYYGYLWAEVFATDMYHTK
+            FAKDPLNAKNGIQYRDIVLARGGLYDINDNLKEFLGREPSKDAFLKELGLQN
+NTSEQ       2139
+            atgcgattgttgctgtgcaagaattggtttgcgtcacctgtaatctcaccactactgtat
+            acccgctccttatattcaatggctaacactactagtttccctattgctccccaggccccg
+            cctaattggtcgttcactcccagcgatattagtgggaaaaccaacgaaatcatcaacaac
+            agcaacaatttctatgattctatgagtaaggtagagagcccttccgtgagtaattttgtg
+            gagcctttcatgaagtttgaaaatgaattgggcccaataattaaccaattaactttctta
+            cagcatgtgtcgtctgataaagaaattagggacgcatctgtgaactcctcaatgaaactg
+            gatgagttgaacatcgatctatctctgcgtcacgacatctttttgcaattcgcccgcgtc
+            tggcaggatgttcaatcgaaggcagattctgtggaaagagaaactttcaaatacgttgag
+            aagtcttacaaggactacattcattctggtttggaacttgacgagggaaaccgattgaaa
+            atcaaagagatcaaaaagaagatctccgttaactctattaatttttcgaagaatctggga
+            gaacaaaaggaatacatcactttcaccaaagaacaattggaaggtgtgccggattctatt
+            ttgacgcagttcgagacaataaaatctgacaaagatagcaatgaaaccttgtataaagtc
+            accttcaaatatccggacatttttcccgtgatgaaattggcatcctcagctcagactaga
+            aagcaggcctttttggccgaccaaaataaggtccctgaaaatgaagctatactgttggat
+            acattgaagctgcgtgacgaattggcctcgttattgggctatgacacgtatgcgaactac
+            aacctgtatgataaaatggctgaagatagcactacggtaatgaactttttgaatgatttg
+            aaggacaagctaattccgctgggcagaaaggaactacaggtcttgcaagatatgaaagcc
+            gaagatgttaagaaacttaaccagggtgcagatccaaactactacatttgggaccaccgt
+            tactacgataacaaatatttgttagaaaacttcaatgtggacctagaaaagatttctgaa
+            tattttccactagaggctacgattactggtatgctggaaatatacgaaacattgtttaat
+            ttgaagtttatcgagacgaaagattctcaaaacaaatctgtttggcatgacgacgtcaaa
+            caaatcgccgtttggaatatggatgatccaaagtctccaaactttgttggttggatttat
+            ttcgatttacatcctcgtgatggtaaatatggccacgctgccaattttggtttatcgtca
+            tcattcatgattgatgacaccacaagatcgtatccggttactgcgttggtttgcaatttc
+            tccaaatctacgaaggataaaccttctctactgaagcataacgaaatagtgacctttttc
+            catgaattgggccatggtatccatgacctggtgggacaaaacaaggaatcgaggtttaat
+            ggccccggatctgttccatgggattttgtggaggcaccttcccaaatgttagaattttgg
+            acttggaataagaatgaattaatcaacctctcatcacattacaaaacgggcgaaaaaatt
+            ccagaatctttgatcaattcattgatcaaaactaaacacgtaaatggtgctttattcact
+            ctaagacaattacattttgggttatttgatatgaaagtacatacttgtaaagacttgcaa
+            aacctgtcaatttgcgatacctggaaccaattgagacaggatatttctttgatttctaat
+            ggtggtacgttatccaagggttatgattcatttggccatataatgtcagactcttactct
+            gccggttattacggttatctatgggcggaagtctttgcaactgatatgtatcacaccaaa
+            ttcgctaaggatccgttaaatgccaagaatgggatacaataccgtgatattgtgttggct
+            cgtggtggcctttatgatattaatgataatctgaaagaatttttgggtagggaaccttct
+            aaggatgctttcttgaaggagctgggcttacagaactaa
+///

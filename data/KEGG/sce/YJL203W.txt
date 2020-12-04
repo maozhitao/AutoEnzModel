@@ -1,0 +1,55 @@
+ENTRY       YJL203W           CDS       T00005
+NAME        PRP21, SPP91
+DEFINITION  (RefSeq) Prp21p
+ORTHOLOGY   K12825  splicing factor 3A subunit 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03040  Spliceosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03040 Spliceosome
+                YJL203W (PRP21)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YJL203W (PRP21)
+            Spliceosome [BR:sce03041]
+             Complex A
+              U2 snRNP components
+               U2 snRNP specific factors
+                YJL203W (PRP21)
+             Complex B
+                YJL203W (PRP21)
+             Complex C
+               U2 SnRNP specific factors
+                YJL203W (PRP21)
+POSITION    X:53341..54183
+MOTIF       Pfam: Surp PRP21_like_P
+DBLINKS     NCBI-GeneID: 853227
+            NCBI-ProteinID: NP_012332
+            SGD: S000003739
+            UniProt: P32524
+STRUCTURE   PDB: 4DGW 5ZWO 6G90
+AASEQ       280
+            MEPEDTQLKEDIKTTVNYIKQHGVEFENKLLEDERFSFIKKDDPLHEYYTKLMNEPTDTV
+            SGEDNDRKSEREIARPPDFLFSQYDTGISRRDMEVIKLTARYYAKDKSIVEQMISKDGEA
+            RLNFMNSSHPLHKTFTDFVAQYKRVYSFTGQEIKKSKRTILDNCFERTQYWEFEKDKDRE
+            HDKLVELCKIQFAAIPWDKFTQVAKFSIPEDTEIFEGSLDLEQMRLRRVQTGIKLFDSIK
+            PTNEEEKIVSDQGKQKGGDSKGKKRKIRAVGETRLKKSKK
+NTSEQ       843
+            atggaaccagaagatacccagctgaaagaggacattaaaaccacagtaaattacataaag
+            cagcatggtgttgagtttgagaacaaactgctagaagatgagagattctcattcatcaag
+            aaagatgacccactccatgaatactacaccaaactcatgaatgagccaacagacactgtc
+            agcggtgaagataatgacagaaagagtgagcgagagatagcaaggccgccggattttctg
+            ttctctcaatatgatactggaatatcccgaagagacatggaagtaatcaaattgacagca
+            cgctactatgcaaaggataaaagtattgttgaacagatgatttcaaaggatggtgaagcc
+            agattaaactttatgaacagctcacatccgctacataagacattcactgattttgtcgcc
+            cagtacaagcgagtatattcttttactggtcaagaaatcaagaaaagtaagagaaccatt
+            ttagataattgttttgagagaacacagtattgggaatttgagaaagataaagaccgggaa
+            catgataagctcgtagagttgtgcaaaatacaatttgcagccattccatgggataaattt
+            actcaagtggcaaaattttctatccctgaagacacagaaatcttcgaaggctctctagat
+            ttagaacagatgaggctgcgaagagtacaaactggtattaagttattcgatagtatcaag
+            ccgacaaatgaagaagaaaagatagtatccgaccaaggtaagcaaaaaggaggagatagt
+            aagggcaaaaagcgtaaaattagagctgtgggagagacaaggttaaagaaaagtaaaaaa
+            taa
+///

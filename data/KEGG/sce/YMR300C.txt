@@ -1,0 +1,76 @@
+ENTRY       YMR300C           CDS       T00005
+NAME        ADE4
+DEFINITION  (RefSeq) amidophosphoribosyltransferase
+ORTHOLOGY   K00764  amidophosphoribosyltransferase [EC:2.4.2.14]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00230  Purine metabolism
+            sce00250  Alanine, aspartate and glutamate metabolism
+            sce01100  Metabolic pathways
+            sce01110  Biosynthesis of secondary metabolites
+MODULE      sce_M00048  Inosine monophosphate biosynthesis, PRPP + glutamine => IMP
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09104 Nucleotide metabolism
+               00230 Purine metabolism
+                YMR300C (ADE4)
+              09105 Amino acid metabolism
+               00250 Alanine, aspartate and glutamate metabolism
+                YMR300C (ADE4)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YMR300C (ADE4)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.2  Pentosyltransferases
+                2.4.2.14  amidophosphoribosyltransferase
+                 YMR300C (ADE4)
+            Peptidases and inhibitors [BR:sce01002]
+             Cysteine peptidases
+              Family C44
+               YMR300C (ADE4)
+POSITION    XIII:complement(865559..867091)
+MOTIF       Pfam: GATase_6 GATase_7 Pribosyltran GATase_4
+DBLINKS     NCBI-GeneID: 855346
+            NCBI-ProteinID: NP_014029
+            SGD: S000004915
+            UniProt: P04046
+AASEQ       510
+            MCGILGIVLANQTTPVAPELCDGCIFLQHRGQDAAGIATCGSRGRIYQCKGNGMARDVFT
+            QQRVSGLAGSMGIAHLRYPTAGSSANSEAQPFYVNSPYGINLAHNGNLVNTASLKRYMDE
+            DVHRHINTDSDSELLLNIFAAELEKHNKYRVNNEDVFHALEGVYRLCRGGYACVGLLAGF
+            ALFGFRDPNGIRPLLFGERENPDGTKDYMLASESVVFKAHNFTKYRDLKPGEAVIIPKNC
+            SKGEPEFKQVVPINSYRPDLFEYVYFARPDSVLDGISVYHTRLAMGSKLAENILKQLKPE
+            DIDVVIPVPDTARTCALECANVLGKPYREGFVKNRYVGRTFIMPNQRERVSSVRRKLNPM
+            ESEFKGKKVLIVDDSIVRGTTSKEIVNMAKESGATKVYFASAAPAIRYNHIYGIDLTDTK
+            NLIAYNRTDEEVAEVIGCERVIYQSLEDLIDCCKTDKITKFEDGVFTGNYVTGVEDGYIQ
+            ELEEKRESIANNSSDMKAEVDIGLYNCADY
+NTSEQ       1533
+            atgtgtggtattttaggtattgtattagcaaaccaaaccactccagtagctccggagtta
+            tgtgatggatgcatttttctacaacatcgtggacaagatgcagctggtatagctacctgt
+            ggttctcgtggtagaatctaccaatgtaaaggtaatggtatggctcgtgacgtatttacc
+            caacaacgtgtttccggtcttgctggttccatgggtattgcccacttgagatatcctaca
+            gccgggtcttcggctaattcagaagcgcaaccattttacgtcaatagtccttacggtatt
+            aacttggcacataacggtaacttggtgaatactgcatcattgaagagatatatggatgaa
+            gacgttcatagacatattaacacggacagtgattcggagttactattgaatatttttgct
+            gctgaactggaaaaacataacaagtacagagttaacaatgaagatgttttccacgcgtta
+            gaaggtgtttaccgtttatgccgtggcggttatgcttgcgttggtttacttgccggtttt
+            gcattatttggtttcagagatccaaatggtattaggccattattgttcggtgaaagagaa
+            aatccggacggcactaaggactatatgttagcttcagaaagtgttgttttcaaagctcac
+            aactttactaaatatcgtgacttaaagcctggcgaggcagttatcatccctaagaactgt
+            agcaaaggtgaacctgagttcaaacaagtggttcctattaactcttatagacctgattta
+            tttgaatacgtatatttcgccagaccggacagtgtcttggatggaatatcagtttatcac
+            acaagattggctatgggttctaaattagcggaaaatattctaaagcaactgaagccagaa
+            gatattgatgttgttattcccgtcccagatactgcaagaacatgtgcactagaatgtgct
+            aatgtgttagggaagccttatagagagggctttgttaaaaacagatacgtgggcaggaca
+            tttatcatgccaaaccagagggaaagggtttcttcagtaaggaggaagcttaaccctatg
+            gagtctgaatttaagggtaagaaggttctgatagtggatgattctattgtcagaggtact
+            acttcaaaagagattgttaacatggccaaggaatccggtgcaacaaaggtttacttcgct
+            tcagctgccccagccattcgttacaaccatatttatggtattgacttaacagacacaaag
+            aacttgattgcttataacagaaccgatgaagaagtggcggaagtaatcggttgtgaaaga
+            gtcatttaccaatcattggaagatttgattgattgttgtaaaactgataaaataaccaaa
+            ttcgaagatggtgtatttaccggaaattatgtcactggtgttgaagacggttatattcaa
+            gaattggaagaaaaacgtgaatcgatcgcaaataattcatcagatatgaaggctgaagtc
+            gatatcggattatataattgtgcagattattga
+///

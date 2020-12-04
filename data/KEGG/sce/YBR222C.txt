@@ -1,0 +1,65 @@
+ENTRY       YBR222C           CDS       T00005
+NAME        PCS60, FAT2
+DEFINITION  (RefSeq) Pcs60p
+ORTHOLOGY   K22133  oxalate---CoA ligase [EC:6.2.1.8]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00630  Glyoxylate and dicarboxylate metabolism
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00630 Glyoxylate and dicarboxylate metabolism
+                YBR222C (PCS60)
+            Enzymes [BR:sce01000]
+             6. Ligases
+              6.2  Forming carbon-sulfur bonds
+               6.2.1  Acid-thiol ligases
+                6.2.1.8  oxalate---CoA ligase
+                 YBR222C (PCS60)
+POSITION    II:complement(666720..668351)
+MOTIF       Pfam: AMP-binding AMP-binding_C
+DBLINKS     NCBI-GeneID: 852523
+            NCBI-ProteinID: NP_009781
+            SGD: S000000426
+            UniProt: P38137
+AASEQ       543
+            MTSAATVTASFNDTFSVSDNVAVIVPETDTQVTYRDLSHMVGHFQTMFTNPNSPLYGAVF
+            RQDTVAISMRNGLEFIVAFLGATMDAKIGAPLNPNYKEKEFNFYLNDLKSKAICVPKGTT
+            KLQSSEILKSASTFGCFIVELAFDATRFRVEYDIYSPEDNYKRVIYRSLNNAKFVNTNPV
+            KFPGFARSSDVALILHTSGTTSTPKTVPLLHLNIVRSTLNIANTYKLTPLDRSYVVMPLF
+            HVHGLIGVLLSTFRTQGSVVVPDGFHPKLFWDQFVKYNCNWFSCVPTISMIMLNMPKPNP
+            FPHIRFIRSCSSALAPATFHKLEKEFNAPVLEAYAMTEASHQMTSNNLPPGKRKPGTVGQ
+            PQGVTVVILDDNDNVLPPGKVGEVSIRGENVTLGYANNPKANKENFTKRENYFRTGDQGY
+            FDPEGFLVLTGRIKELINRGGEKISPIELDGIMLSHPKIDEAVAFGVPDDMYGQVVQAAI
+            VLKKGEKMTYEELVNFLKKHLASFKIPTKVYFVDKLPKTATGKIQRRVIAETFAKSSRNK
+            SKL
+NTSEQ       1632
+            atgacaagtgccgctactgttactgcttcgttcaacgatacttttagcgtatccgataat
+            gtcgccgttattgttcctgaaacggacactcaggtgacctacagggatctatcccacatg
+            gtgggtcacttccagaccatgttcacaaatcctaattctccattgtacggagctgttttc
+            agacaagatacagtggcgatatccatgcgtaatgggctggaatttatcgtcgctttcctc
+            ggtgctactatggacgctaaaattggcgcgcccttgaatcccaattataaggaaaaggag
+            ttcaatttttatttgaatgacctgaaatctaaggcgatttgcgtcccaaagggtaccaca
+            aagttacagagttctgaaattctaaaatctgcctccacgtttggatgttttatcgtagag
+            ctggccttcgatgcgaccaggtttagggtagagtatgatatatactctccagaggacaac
+            tacaaaagggttatttaccggtctttgaacaacgccaaatttgtcaacacaaatcccgtt
+            aaattccctgggtttgcccgttccagtgacgttgccctgattttgcataccagtggtacc
+            acctccactccaaaaacggtgcctttgttacatttgaacattgtgagaagcacgttgaac
+            attgctaacacttacaagctaacgcccttggacagatcttatgtcgtgatgcctcttttc
+            cacgtccatgggttaattggtgttttactttccacttttagaactcagggttctgttgtg
+            gttcccgatggattccatccaaagttattctgggaccaatttgttaagtacaactgtaat
+            tggttcagttgcgttcccacaataagcatgattatgctgaacatgcccaaaccaaaccct
+            ttcccacacattagattcatcagatcgtgttcttctgctttggctccagcaacgttccat
+            aagctggagaaggaattcaatgcacctgtcttggaggcctatgcgatgaccgaagcatca
+            catcaaatgacctcaaacaatctgcctccaggaaagagaaagcctggtactgtgggccag
+            ccacaaggagtcaccgtcgtcattctagatgacaatgacaatgtcttgcccccgggcaaa
+            gtcggcgaagtttccatcagaggcgaaaacgtcactttggggtatgctaataatccaaaa
+            gctaacaaggagaacttcaccaagagagagaactatttcagaaccggtgaccaaggttat
+            ttcgaccctgaggggtttttggtccttacaggcagaatcaaagagcttatcaacaggggt
+            ggtgaaaagatttcacccattgagctcgacggcattatgctatcgcatccaaagatcgat
+            gaagccgttgcatttggtgttcccgacgatatgtacggccaagtagttcaagccgccatt
+            gttttgaagaagggagaaaaaatgacctacgaagaactggtgaacttcttaaagaagcac
+            ctagcctctttcaaaattccaaccaaggtgtactttgttgataagctaccaaaaaccgct
+            acaggtaaaatccagagaagagttatcgcagaaacttttgctaagagcagcagaaataag
+            agtaagttgtag
+///

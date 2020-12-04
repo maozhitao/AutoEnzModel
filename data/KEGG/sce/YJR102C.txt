@@ -1,0 +1,54 @@
+ENTRY       YJR102C           CDS       T00005
+NAME        VPS25, VPL12, VPT25
+DEFINITION  (RefSeq) ESCRT-II subunit protein VPS25
+ORTHOLOGY   K12189  ESCRT-II complex subunit VPS25
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04144  Endocytosis
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04144 Endocytosis
+                YJR102C (VPS25)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YJR102C (VPS25)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YJR102C (VPS25)
+            Membrane trafficking [BR:sce04131]
+             Endosome - Lysosome transport
+              Endosomal sorting complexes required for transport (ESCRT)
+               ESCRT-II complex
+                YJR102C (VPS25)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               YJR102C (VPS25)
+              Exosomal proteins of colorectal cancer cells
+               YJR102C (VPS25)
+POSITION    X:complement(619157..619765)
+MOTIF       Pfam: ESCRT-II
+DBLINKS     NCBI-GeneID: 853566
+            NCBI-ProteinID: NP_012636
+            SGD: S000003863
+            UniProt: P47142
+STRUCTURE   PDB: 1XB4 1W7P 1U5T
+AASEQ       202
+            MSALPPVYSFPPLYTRQPNSLTRRQQISTWIDIISQYCKTKKIWYMSVDGTVINDNELDS
+            GSTDNDDSKKISKNLFNNEDIQRSVSQVFIDEIWSQMTKEGKCLPIDQSGRRSSNTTTTR
+            YFILWKSLDSWASLILQWFEDSGKLNQVITLYELSEGDETVNWEFHRMPESLLYYCLKPL
+            CDRNRATMLKDENDKVIAIKVV
+NTSEQ       609
+            atgtctgcattacctccagtatactcattccctccactatatacccgtcaacccaattct
+            ttaacaaggagacaacagataagtacgtggatagacatcatatcacaatattgcaagacc
+            aagaaaatttggtacatgtctgttgacgggactgtaatcaatgacaacgaactagatagt
+            ggaagtacagataatgacgattcaaaaaaaatctcgaaaaatctttttaataatgaggac
+            atccaaagatctgtatcacaggtatttattgatgaaatttggtcgcaaatgaccaaagaa
+            ggcaaatgcttaccgattgaccaaagtggtaggagaagcagcaataccaccactacgaga
+            tattttatattatggaagagcttagacagttgggcttctttgatactacagtggttcgaa
+            gactctggaaaactgaatcaagtcattacgttatacgaattgagtgaaggtgatgaaaca
+            gtcaattgggagttccatagaatgcccgaaagcttgctctattattgtttgaagccccta
+            tgcgatagaaatagggccacaatgctgaaagatgaaaatgataaagtaattgccattaag
+            gttgtttaa
+///

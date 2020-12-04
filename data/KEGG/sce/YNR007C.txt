@@ -1,0 +1,68 @@
+ENTRY       YNR007C           CDS       T00005
+NAME        ATG3, APG3, AUT1
+DEFINITION  (RefSeq) Atg3p
+ORTHOLOGY   K08343  ubiquitin-like-conjugating enzyme ATG3
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce04136  Autophagy - other
+            sce04138  Autophagy - yeast
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09140 Cellular Processes
+              09141 Transport and catabolism
+               04138 Autophagy - yeast
+                YNR007C (ATG3)
+               04136 Autophagy - other
+                YNR007C (ATG3)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YNR007C (ATG3)
+               04121 Ubiquitin system [BR:sce04121]
+                YNR007C (ATG3)
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YNR007C (ATG3)
+            Membrane trafficking [BR:sce04131]
+             Autophagy
+              Autophagosome formation proteins
+               Atg8 conjugation proteins
+                YNR007C (ATG3)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin-conjugating enzymes (E2)
+              UBL-conjugating enzymes
+               YNR007C (ATG3)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial quality control factors
+              Mitophagy factors
+               Autophagy-related proteins
+                YNR007C (ATG3)
+POSITION    XIV:complement(639182..640114)
+MOTIF       Pfam: Autophagy_act_C RNase_J_C
+DBLINKS     NCBI-GeneID: 855741
+            NCBI-ProteinID: NP_014404
+            SGD: S000005290
+            UniProt: P40344
+STRUCTURE   PDB: 6OJJ 2DYT 4GSL
+AASEQ       310
+            MIRSTLSSWREYLTPITHKSTFLTTGQITPEEFVQAGDYLCHMFPTWKWNEESSDISYRD
+            FLPKNKQFLIIRKVPCDKRAEQCVEVEGPDVIMKGFAEDGDEDDVLEYIGSETEHVQSTP
+            AGGTKDSSIDDIDELIQDMEIKEEDENDDTEEFNAKGGLAKDMAQERYYDLYIAYSTSYR
+            VPKMYIVGFNSNGSPLSPEQMFEDISADYRTKTATIEKLPFYKNSVLSVSIHPCKHANVM
+            KILLDKVRVVRQRRRKELQEEQELDGVGDWEDLQDDIDDSLRVDQYLIVFLKFITSVTPS
+            IQHDYTMEGW
+NTSEQ       933
+            atgattagatctacactaagtagttggagagaatatcttacccccataacgcacaaatct
+            acctttttaaccacaggtcaaataactcctgaggagtttgtacaagcaggtgattattta
+            tgtcatatgtttcccacctggaagtggaacgaagagtcgtcagatattagttacagagat
+            tttttaccgaagaataagcagtttctgataattagaaaagttccctgtgataaacgtgcc
+            gagcaatgtgtcgaagttgaagggccagatgtaatcatgaaaggttttgcagaagatgga
+            gatgaagatgatgttctggaatacataggatctgaaactgaacatgtgcaaagtacgcct
+            gcgggggggaccaaggactcatctatcgatgatattgatgagctaatacaagacatggaa
+            ataaaagaggaggatgaaaatgacgatacagaagaatttaatgctaaaggtggcctagcc
+            aaagatatggcgcaagaaaggtattacgacctttatattgcgtactcgacatcttatagg
+            gtccctaaaatgtatatagtggggtttaattctaatggttcaccactaagccctgagcag
+            atgttcgaagatatatcagcagattatagaacaaagacagccaccattgaaaagctacct
+            ttttacaagaattcagtgttatctgtttccattcatccatgtaagcatgctaatgtaatg
+            aaaatattgctagataaggttcgtgtggttagacaacgaagaaggaaagagctgcaggaa
+            gaacaagagctggacggtgtcggagactgggaggatttacaagacgatattgatgattcg
+            ttacgggtagaccaatacttgattgttttcttaaagtttattactagtgttacaccgagt
+            atacaacatgactataccatggaaggttggtaa
+///

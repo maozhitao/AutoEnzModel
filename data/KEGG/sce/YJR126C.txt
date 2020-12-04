@@ -1,0 +1,84 @@
+ENTRY       YJR126C           CDS       T00005
+NAME        VPS70
+DEFINITION  (RefSeq) putative zinc metalloprotease
+ORTHOLOGY   K01301  N-acetylated-alpha-linked acidic dipeptidase [EC:3.4.17.21]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:sce01002]
+                YJR126C (VPS70)
+            Enzymes [BR:sce01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.17  Metallocarboxypeptidases
+                3.4.17.21  glutamate carboxypeptidase II
+                 YJR126C (VPS70)
+            Peptidases and inhibitors [BR:sce01002]
+             Metallo peptidases
+              Family M28: aminopeptidase Y family
+               YJR126C (VPS70)
+POSITION    X:complement(656254..658689)
+MOTIF       Pfam: Peptidase_M28 TFR_dimer PA T4SS-DNA_transf
+DBLINKS     NCBI-GeneID: 853590
+            NCBI-ProteinID: NP_012660
+            SGD: S000003887
+            UniProt: P47161
+AASEQ       811
+            MRMIQRERKREKEEGQLKERTVVNMADPDDNEAEATGLQQYSGETTRDDNEESMNDSFTL
+            TSRNRGRSNTISSIVSGYEIMKEHMDKEKFMYLILASLLLYMGFVAAFAPRTSLSRDFRR
+            FHSSRLTNAEVYRIYLNSLQQENRAKEHVYKYAGYMSNGASDSSTFKYTLDEFLDMGYKP
+            KVEKYYPWIGEPVDTNVAPLENGKVVYEASMIEDRVKGDPASHARKRQKGFHQYSKNGSV
+            TARYVFCNYGSISDYKLLLKKNIDIEDKIHIVRSGKILPGLKVKNAELYGASSVIIYTDP
+            FDDGKVTEENGFLHYPYGPARNPSYIRRDSVNYFSDTPGDPTTPGYPSKDSDTEHMSPVG
+            RVPRIPSVPMSARDVQPILERLNGRGFQIGPGSNIKDFGSFTGPSSSIDKVHLHNELTYN
+            IKEMSSVEVSIPGIFTEGEIIIGAHRDSLASSSAGDANSGSAILLEIARGMSKLLKHGWK
+            PLRPIKLISWDGERSGLLGSTDYAEAHAAILRRRALVYLNLDNAISGTNFHCKANPLLQD
+            VIYEAAKLTEFNGHEDWSLFDHWKYTSNATISLLDGLSSYTSFQYHLGVPAAHFQFNAND
+            TSGAVYHSNSVFDSPTWLEKFTNSDYKLHNTMAMFVGLTTLMLSENELARFNTHVYLKKI
+            YNWYIAWHSNLSSAFPQDDEVNSLAKRVLDLLKVATQEDSIQFDQQNGILYKECREALPV
+            WAFYKKIKSYIKLQRSNSKSKQIDQLFITHRGLKDREWMKYSLLAPSKFEGSVGEVLPGL
+            HEGLADIDRNEVIQWLTILLSQFSNVRYLLQ
+NTSEQ       2436
+            atgagaatgatacagagagagagaaagagagagaaagaggaaggtcaattaaaggagaga
+            actgttgttaatatggcagaccctgatgacaatgaggccgaagccactggattacaacaa
+            tatagtggcgagaccactcgcgatgacaatgaagaaagcatgaatgattctttcacttta
+            acatccaggaatagaggcagaagtaatacaatatctagtattgttagtggttatgaaata
+            atgaaagaacatatggacaaggaaaagtttatgtacttgattctagcgagtctccttttg
+            tacatgggatttgttgccgcatttgctcccaggacgtctttatcaagagactttcggcgg
+            tttcactcttccagattgacgaatgcagaggtttataggatatacttgaactccttgcaa
+            caggaaaatagagcgaaagaacatgtatacaagtatgctgggtacatgagcaacggagca
+            agtgattcgtcaacgtttaaatataccttggacgagtttctagatatggggtacaaaccc
+            aaagttgaaaaatattacccatggataggtgaaccagtagacactaacgtagctccttta
+            gaaaatggtaaagtggtctacgaagcaagcatgatcgaggatagagttaaaggtgatcct
+            gcttctcacgctaggaaaaggcaaaagggtttccatcaatattcaaaaaatggaagtgta
+            actgctcgatacgtgttttgcaattatggtagcatcagtgattacaagctacttttgaag
+            aaaaacattgatattgaagataaaatccacatcgtacgatcgggtaaaatattacctgga
+            ttaaaggtaaagaatgcagaactttatggcgcttccagtgtcattatatatacagaccca
+            tttgacgatggtaaagttactgaggaaaatgggtttttacactatccttatggaccagca
+            agaaacccaagttatattaggagagattctgtaaactatttcagtgacactccaggagat
+            ccgacaactccagggtatccctccaaggattccgacactgaacatatgtcaccggtaggg
+            agagtgccgaggataccatcggtgccgatgagtgctagagatgtccaaccaattttagaa
+            agattgaatggcaggggttttcaaattgggcccggtagtaatataaaagattttggatca
+            ttcactggaccttcaagctctatcgataaagtccatttgcataatgagctaacttacaac
+            atcaaggaaatgagtagtgtagaggttagtatccctggtatattcactgagggggagatt
+            attatcggagctcatagggattcgctcgcctcgagtagcgccggtgatgcaaatagtggc
+            agcgctattcttttagaaattgcacgaggaatgagtaaattacttaagcatggttggaag
+            ccactgcgtcctatcaaactaataagttgggatggtgaacgatccggccttctgggatct
+            acagattatgcagaagctcatgctgcgattctcaggagaagggccttggtatacctaaat
+            ctagataatgcaatctctgggacaaattttcactgtaaagccaacccacttttacaagac
+            gtgatatacgaagctgctaagctcacggaatttaatgggcacgaagactggtcattgttc
+            gaccattggaaatacacttctaatgccactatttctctacttgatgggttgtctagttac
+            acttcatttcagtaccatcttggagtgcccgctgcacattttcagtttaatgccaatgat
+            acttcaggcgcagtctatcatagtaactccgtattcgatagcccaacttggttggaaaaa
+            tttaccaattctgactacaagttacacaacaccatggccatgtttgtaggtttgacaacg
+            ctgatgctgagtgaaaacgaactggcaagattcaatacacatgtttacctgaagaaaata
+            tataactggtatatcgcatggcactctaatctatcttcagcatttccccaggacgatgaa
+            gtgaacagcttagcaaaaagggttctggacttattaaaagttgccacacaggaagatagc
+            atccaatttgaccaacaaaatggtattctctataaagagtgtagggaagctttacctgtt
+            tgggctttttacaaaaaaatcaagagctatattaaactgcaacgatccaatagcaaatca
+            aagcaaattgatcaattatttattacacacagaggactgaaagacagggaatggatgaag
+            tactctcttttagcacctagtaagtttgagggatctgtcggggaagttttgcccggcctt
+            cacgaaggattggctgatattgatagaaacgaggtcattcagtggttaaccattttgcta
+            agccaattcagcaacgttcgctatttacttcaataa
+///

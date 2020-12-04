@@ -1,0 +1,39 @@
+ENTRY       YIL009C-A         CDS       T00005
+NAME        EST3
+DEFINITION  (RefSeq) telomerase subunit EST3
+ORTHOLOGY   K11133  telomere replication protein
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YIL009C-A (EST3)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Termination Factors
+               Telomerase complex (fungi)
+                YIL009C-A (EST3)
+POSITION    IX:complement(join(335666..335935,335937..336212))
+MOTIF       Pfam: TPP1
+DBLINKS     NCBI-GeneID: 854806
+            NCBI-ProteinID: NP_012256
+            SGD: S000006432
+            UniProt: Q03096
+STRUCTURE   PDB: 2M9V
+AASEQ       181
+            MPKVILESHSKPTDSVFLQPWIKALIEDNSEHDQYHPSGHVIPSLTKQDLALPHMSPTIL
+            TNPCHFAKITKFYNVCDYKVYASIRDSSHQILVEFSQECVSNFERTHNCRITSETTNCLM
+            IIGDADLVYVTNSRAMSHFKICLSNISSKEIVPVLNVNQATIFDIDQVGSLSTFPFVYKY
+            L
+NTSEQ       546
+            atgccgaaagtaattctggagtctcattcaaagccaacagactcagtttttctacaacca
+            tggataaaggcattaattgaagacaactcggagcatgatcaatatcatccctctggccat
+            gtaattcctagcttgaccaagcaggacttagcgctaccgcatatgagcccgacaatttta
+            accaatccgtgccatttcgccaaaattacaaaattttataacgtttgcgactacaaggta
+            tacgcatcgataagagattcctcacaccaaatacttgttgagttttcccaagagtgtgta
+            tctaattttgaaaggactcataattgcaggatcacatctgagacgaccaattgcttaatg
+            atcattggcgatgctgacttagtctacgtaacaaattctcgagcaatgtctcacttcaaa
+            atttgcctaagcaacatttcgtccaaagaaatagtgcccgttctcaatgtaaaccaggcc
+            acgatatttgatattgatcaagtcggatcgttaagtactttcccatttgtatataaatat
+            ttatga
+///

@@ -1,0 +1,62 @@
+ENTRY       YIL079C           CDS       T00005
+NAME        AIR1
+DEFINITION  (RefSeq) TRAMP complex RNA-binding subunit
+ORTHOLOGY   K12597  protein AIR1/2
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03018  RNA degradation
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03018 RNA degradation
+                YIL079C (AIR1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YIL079C (AIR1)
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YIL079C (AIR1)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA degradation factors
+               3'-5' decay
+                TRAMP complex
+                 YIL079C (AIR1)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              tRNA degradation factors
+               TRAMP complex
+                YIL079C (AIR1)
+POSITION    IX:complement(210923..212005)
+MOTIF       Pfam: zf-CCHC zf-CCHC_2
+DBLINKS     NCBI-GeneID: 854731
+            NCBI-ProteinID: NP_012186
+            SGD: S000001341
+            UniProt: P40507
+AASEQ       360
+            MSTLLSEVESIDTLPYVKDTTPTGSDSSSFNKLLAPSIEDVDANPEELRTLRGQGRYFGI
+            TDYDSNGAIMEAEPKCNNCSQRGHLKRNCPHVICTYCGFMDDHYSQHCPKAIICTNCNAN
+            GHYKSQCPHKWKKVFCTLCNSKRHSRERCPSIWRSYLLKTKDANQGDFDFQTVFCYNCGN
+            AGHFGDDCAERRSSRVPNTDGSAFCGDNLATKFKQHYFNQLKDYKREASQRQHFDNEHEF
+            NLLDYEYNDDAYDLPGSRTYRDKMKWKGKVQSTRNKNSSNNRYESSNNRKKKSPFSAQNY
+            KVTKNKRVQTHPLDFPRSSQNNRTNDYSSQFSYNRDDFPKGPKNKRGRSSSNKSQRNGRY
+NTSEQ       1083
+            atgtcgacattgttatctgaggtagaaagtatcgatactttgccgtatgtgaaggataca
+            acaccgacaggaagtgactcgtcatcatttaataaattattggctccttccatagaggat
+            gtagatgctaacccagaggaactgaggactttacgtggccaaggacggtattttggaata
+            acagattatgactcaaacggtgcgataatggaggcagagccaaagtgtaataattgttcg
+            caaagaggtcatttgaaaaggaattgtccccatgtgatatgtacttactgcgggtttatg
+            gatgatcattactcacaacactgccctaaggctattatttgcactaattgtaatgcaaac
+            ggccattataaatcacagtgtcctcataaatggaagaaggtgttctgcacgctttgcaat
+            agcaaaagacactcaagagaaagatgtcctagtatttggagatcttatttattaaaaaca
+            aaagatgctaaccaaggtgacttcgattttcaaacagttttctgttataactgtgggaat
+            gccggtcattttggcgatgactgtgctgaaagaaggtcatcgagagtgccgaacactgat
+            ggaagtgcattttgcggtgataacttagccacaaaatttaaacaacactattttaaccaa
+            ttgaaagactataaacgtgaagcttcacaaaggcaacactttgataacgaacatgaattc
+            aacctgcttgactatgaatataacgacgatgcatacgacctccctggctcaaggacttat
+            agagataaaatgaaatggaagggcaaagtgcagtcaacaaggaacaaaaatagtagcaat
+            aatagatatgaaagcagtaataacaggaagaagaagtcaccatttagcgcacagaactac
+            aaagtgacgaaaaataaaagagttcagacacaccccttagatttccccagaagtagccaa
+            aacaacagaacgaacgattattcgagccagttcagctataatagggacgacttccccaag
+            ggtcctaagaataagaggggccgatcatcttctaacaaaagccaaagaaatggccgttat
+            tga
+///

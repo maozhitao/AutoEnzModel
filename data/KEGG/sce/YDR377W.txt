@@ -1,0 +1,31 @@
+ENTRY       YDR377W           CDS       T00005
+NAME        ATP17
+DEFINITION  (RefSeq) F1F0 ATP synthase subunit F
+ORTHOLOGY   K02139  F-type H+-transporting ATPase subunit f
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00190  Oxidative phosphorylation
+            sce01100  Metabolic pathways
+MODULE      sce_M00158  F-type ATPase, eukaryotes
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                YDR377W (ATP17)
+POSITION    IV:1228611..1228916
+MOTIF       Pfam: F1F0-ATPsyn_F WRW
+DBLINKS     NCBI-GeneID: 851983
+            NCBI-ProteinID: NP_010665
+            SGD: S000002785
+            UniProt: Q06405
+STRUCTURE   PDB: 6CP6 6B8H 6B2Z 6CP3 6CP7 6CP5
+AASEQ       101
+            MIFKRAVSTLIPPKVVSSKNIGSAPNAKRIANVVHFYKSLPQGPAPAIKANTRLARYKAK
+            YFDGDNASGKPLWHFALGIIAFGYSMEYYFHLRHHKGAEEH
+NTSEQ       306
+            atgatttttaaacgtgcagtatctacattgattcctccaaaagttgtgtcttccaagaat
+            ataggttcggcaccaaatgccaagcgcattgctaatgttgttcacttttataagtctttg
+            cctcaaggaccagcaccagccatcaaggctaacactagattggccagatacaaagccaag
+            tactttgatggggataatgctagtggtaaaccattgtggcattttgctctaggtataatt
+            gcctttggctattccatggaatattattttcatttgagacatcataaaggtgcggaagag
+            cattga
+///

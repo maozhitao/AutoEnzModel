@@ -1,0 +1,48 @@
+ENTRY       YGL076C           CDS       T00005
+NAME        RPL7A
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L7A
+ORTHOLOGY   K02937  large subunit ribosomal protein L7e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YGL076C (RPL7A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YGL076C (RPL7A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YGL076C (RPL7A)
+POSITION    VII:complement(join(364335..364964,365433..365526,365986..365996))
+MOTIF       Pfam: Ribosomal_L30_N Ribosomal_L30
+DBLINKS     NCBI-GeneID: 852804
+            NCBI-ProteinID: NP_011439
+            SGD: S000003044
+            UniProt: P05737
+STRUCTURE   PDB: 6EM3 5Z3G 6C0F 6EM4 6EM5 6CB1
+AASEQ       244
+            MAAEKILTPESQLKKSKAQQKTAEQVAAERAARKAANKEKRAIILERNAAYQKEYETAER
+            NIIQAKRDAKAAGSYYVEAQHKLVFVVRIKGINKIPPKPRKVLQLLRLTRINSGTFVKVT
+            KATLELLKLIEPYVAYGYPSYSTIRQLVYKRGFGKINKQRVPLSDNAIIEANLGKYGILS
+            IDDLIHEIITVGPHFKQANNFLWPFKLSNPSGGWGVPRKFKHFIQGGSFGNREEFINKLV
+            KSMN
+NTSEQ       735
+            atggccgctgaaaaaatcttgaccccagaatctcagttgaagaagtctaaggctcaacaa
+            aagactgctgaacaagtcgctgctgaaagagctgctcgtaaggctgctaacaaggaaaag
+            agagccattattttggaaagaaacgccgcttaccaaaaggaatacgaaactgctgaaaga
+            aacatcattcaagctaagcgtgatgccaaggctgctggttcctactacgtcgaagctcaa
+            cacaagttggtcttcgttgtcagaatcaagggtattaacaagatcccacctaagccaaga
+            aaggttctacaattgctaagattgacaagaatcaactctggtacattcgtcaaagttacc
+            aaggctactttggaactattgaagttgattgaaccatacgttgcttacggttacccatcg
+            tactctactattagacaattggtctacaagagaggtttcggtaagatcaacaagcaaaga
+            gttccattgtccgacaatgctatcatcgaagccaacttgggtaagtatggtatcttgtcc
+            attgacgatttgattcacgaaatcatcactgttggtccacacttcaagcaagctaacaac
+            tttttgtggccattcaagttgtccaacccatctggtggttggggtgtcccaagaaagttc
+            aagcactttatccaaggtggttctttcggtaaccgtgaagaattcatcaacaaattggtt
+            aagtccatgaactaa
+///

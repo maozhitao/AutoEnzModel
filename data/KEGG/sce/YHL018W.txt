@@ -1,0 +1,44 @@
+ENTRY       YHL018W           CDS       T00005
+NAME        MCO14
+DEFINITION  (RefSeq) 4A-hydroxytetrahydrobiopterin dehydratase
+ORTHOLOGY   K01724  4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00790  Folate biosynthesis
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00790 Folate biosynthesis
+                YHL018W (MCO14)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:sce04147]
+                YHL018W (MCO14)
+            Enzymes [BR:sce01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.96  4a-hydroxytetrahydrobiopterin dehydratase
+                 YHL018W (MCO14)
+            Exosome [BR:sce04147]
+             Exosomal proteins
+              Exosomal proteins of other body fluids (saliva and urine)
+               YHL018W (MCO14)
+POSITION    VIII:69708..70070
+MOTIF       Pfam: Pterin_4a
+DBLINKS     NCBI-GeneID: 856368
+            NCBI-ProteinID: NP_011845
+            SGD: S000001010
+            UniProt: P38744
+AASEQ       120
+            MHNKIVRIASSALTGGKLLEKLKPLTRWEVQWDPNKTKCLGITREVTFKDYETTWAFLTR
+            VSMRSHLWGHHPLIHTSYTWVKLELHTHDIDPKDGAHSQLSDIDVRMAKRIDSYIDEMTT
+NTSEQ       363
+            atgcacaacaagattgttagaatcgcgtccagtgcactcacagggggcaaactactcgag
+            aagctaaaacccttgacccgttgggaagttcaatgggaccctaataagaccaaatgtttg
+            ggaataacaagagaggtaacattcaaggactacgaaaccacatgggcctttttgactcgt
+            gtatcgatgagatctcatctatggggccaccatcccctgattcacacaagttacacctgg
+            gtcaagctggaacttcatacgcatgacatagacccgaaagacggggctcacagccagctt
+            agcgatatagacgtccggatggccaagagaatagattcctacatcgatgagatgacaact
+            tga
+///

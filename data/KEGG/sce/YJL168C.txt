@@ -1,0 +1,88 @@
+ENTRY       YJL168C           CDS       T00005
+NAME        SET2, EZL1, KMT3
+DEFINITION  (RefSeq) histone methyltransferase SET2
+ORTHOLOGY   K23700  [histone H3]-lysine36 N-trimethyltransferase [EC:2.1.1.359]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00310  Lysine degradation
+            sce01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09105 Amino acid metabolism
+               00310 Lysine degradation
+                YJL168C (SET2)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YJL168C (SET2)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.359  [histone H3]-lysine36 N-trimethyltransferase
+                 YJL168C (SET2)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Histone modification proteins
+               HMTs (histone methyltransferases)
+                HKMTs (histone lysine methyltransferases)
+                 YJL168C (SET2)
+POSITION    X:complement(102227..104428)
+MOTIF       Pfam: SRI SET WW_1 AWS WW
+DBLINKS     NCBI-GeneID: 853271
+            NCBI-ProteinID: NP_012367
+            SGD: S000003704
+            UniProt: P46995
+STRUCTURE   PDB: 2C5Z 1E0N
+AASEQ       733
+            MSKNQSVSASEDEKEILNNNAEGHKPQRLFDQEPDLTEEALTKFENLDDCIYANKRIGTF
+            KNNDFMECDCYEEFSDGVNHACDEDSDCINRLTLIECVNDLCSSCGNDCQNQRFQKKQYA
+            PIAIFKTKHKGYGVRAEQDIEANQFIYEYKGEVIEEMEFRDRLIDYDQRHFKHFYFMMLQ
+            NGEFIDATIKGSLARFCNHSCSPNAYVNKWVVKDKLRMGIFAQRKILKGEEITFDYNVDR
+            YGAQAQKCYCEEPNCIGFLGGKTQTDAASLLPQNIADALGVTVSMEKKWLKLKKLSGEPI
+            IKNENENINIEFLQSLEVQPIDSPVDVTKIMSVLLQQDNKIIASKLLKRLFTIDDDSLRH
+            QAIKLHGYTCFSKMLKLFITEQPQVDGKGNETEEDDIKFIKGILDFLLELPKTTRNGIES
+            SQIDNVVKTLPAKFPFLKPNCDELLEKWSKFETYKRITKKDINVAASKMIDLRRVRLPPG
+            WEIIHENGRPLYYNAEQKTKLHYPPSGSSKVFSSRSNTQVNSPSSSGIPKTPGALDSKKH
+            KLSDEEYERKKQKRLEYERIALERAKQEELESLKQKLKLENERKSVLEDIIAEANKQKEL
+            QKEEAKKLVEAKEAKRLKRKTVSQSQRLEHNWNKFFASFVPNLIKKNPQSKQFDHENIKQ
+            CAKDIVKILTTKELKKDSSRAPPDDLTKGKRHKVKEFINSYMDKIILKKKQKKALALSSA
+            STRMSSPPPSTSS
+NTSEQ       2202
+            atgtcgaagaaccaaagtgtgagtgcgtcggaagatgaaaaagaaatactgaataacaac
+            gctgagggccataaacctcaaaggctttttgatcaagagcctgatctcacagaggaagca
+            ttgaccaaatttgaaaacttggatgactgtatatatgcgaacaagaggatcggaacattt
+            aagaataatgatttcatggaatgtgactgttatgaagaattctcagatggcgtcaaccat
+            gcctgtgacgaggattctgactgtatcaatagacttacgttgatagaatgtgtcaacgat
+            ttgtgttcatcttgtggtaatgattgtcaaaatcagagatttcaaaagaagcagtacgct
+            ccgatagccatatttaaaacaaagcataaaggttatggcgtaagagccgaacaggacata
+            gaagccaaccagttcatttacgagtacaaaggtgaggtgatcgaggagatggaatttaga
+            gataggttaatagactatgaccaacgtcatttcaagcatttttattttatgatgttacag
+            aacggagaattcattgacgccacaataaagggttcgttggccagattttgcaatcactct
+            tgcagccccaatgcatatgttaataaatgggttgttaaggataagctacgcatgggaata
+            tttgctcaaagaaaaattttaaaaggtgaggaaatcacttttgattataatgtggatcgt
+            tatggtgctcaagctcagaaatgctactgtgaggagccaaattgtattgggtttctcggt
+            ggtaagactcaaacagatgcggcatctttattgccccagaacatcgctgatgccttggga
+            gtgactgtttccatggagaaaaaatggctaaagttaaagaaattaagcggtgagccaata
+            ataaagaatgaaaacgagaacataaatattgaatttcttcaatcattggaagtccaacct
+            atcgacagcccagtggatgtgacgaagatcatgagtgtattactacagcaagataataag
+            ataattgcatccaaactcttgaagagactttttactatcgatgatgactctcttcgtcat
+            caggctatcaaactacacggttacacctgttttagcaaaatgcttaaattgtttatcacg
+            gaacaacctcaggtagatggaaaaggaaacgagactgaagaagatgatataaagtttata
+            aagggaattttagattttttgttggaattaccaaagacaactcgaaacggtattgagtcg
+            tcacaaattgataatgtagtaaaaactctccctgcaaagtttccatttttaaagccaaac
+            tgcgatgagttattggagaaatggtcgaaatttgaaacatataaaaggataacgaagaaa
+            gacataaacgtcgcagccagcaaaatgatagatttgagaagggtgagattacctccaggc
+            tgggagatcattcacgaaaacggtcgcccattgtattataatgcagaacagaaaacgaaa
+            ctacactatccaccttcgggatcatctaaggtctttagttcaaggtcaaatacacaagta
+            aattctccgagtagcagtggaataccaaaaacgcctggcgctttagactctaagaaacat
+            aagctgagtgacgaagaatatgagaggaagaaacaaaaaagactggaatacgaaagaatt
+            gcgctagaaagagccaaacaagaagaattggaaagcctgaagcaaaagctaaagcttgag
+            aatgaaagaaaaagcgttttggaggatattatagcggaggccaacaaacagaaggagtta
+            caaaaggaagaggccaaaaaactagtggaagcaaaagaggctaagcggttgaaaagaaaa
+            acggtctcccagtcccaaagactagagcacaactggaataaattctttgcatcttttgta
+            cccaacttaataaaaaaaaacccacaaagtaaacaatttgatcatgaaaacattaaacaa
+            tgtgctaaagacatcgtgaaaatcctaactacaaaggaacttaaaaaagattcttcaaga
+            gcgccgcctgatgacttaaccaaaggaaaaaggcataaagttaaagaattcataaattca
+            tacatggataagattatcctcaagaagaagcaaaaaaaggcgttggcattatcatcagca
+            tcaacaaggatgtcttctcctccaccttcaacatcatcataa
+///

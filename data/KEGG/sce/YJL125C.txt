@@ -1,0 +1,60 @@
+ENTRY       YJL125C           CDS       T00005
+NAME        GCD14, TRM61
+DEFINITION  (RefSeq) tRNA 1-methyladenosine methyltransferase subunit GCD14
+ORTHOLOGY   K07442  tRNA (adenine57-N1/adenine58-N1)-methyltransferase catalytic subunit [EC:2.1.1.219 2.1.1.220]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:sce03016]
+                YJL125C (GCD14)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.219  tRNA (adenine57-N1/adenine58-N1)-methyltransferase
+                 YJL125C (GCD14)
+                2.1.1.220  tRNA (adenine58-N1)-methyltransferase
+                 YJL125C (GCD14)
+            Transfer RNA biogenesis [BR:sce03016]
+             Eukaryotic type
+              tRNA modification factors
+               Methyltransferases
+                YJL125C (GCD14)
+POSITION    X:complement(185528..186679)
+MOTIF       Pfam: GCD14 Gcd10p GCD14_N PCMT Methyltransf_31 RrnaAD Methyltransf_25 Ta0938 DUF4846
+DBLINKS     NCBI-GeneID: 853317
+            NCBI-ProteinID: NP_012410
+            SGD: S000003661
+            UniProt: P46959
+STRUCTURE   PDB: 5ERG 5EQJ
+AASEQ       383
+            MSTNCFSGYKDLIKEGDLTLIWVSRDNIKPVRMHSEEVFNTRYGSFPHKDIIGKPYGSQI
+            AIRTKGSNKFAFVHVLQPTPELWTLSLPHRTQIVYTPDSSYIMQRLNCSPHSRVIEAGTG
+            SGSFSHAFARSVGHLFSFEFHHIRYEQALEEFKEHGLIDDNVTITHRDVCQGGFLIKKGD
+            TTSYEFGNNETAASLNANVVFLDLPAPWDAIPHLDSVISVDEKVGLCCFSPCIEQVDKTL
+            DVLEKYGWTDVEMVEIQGRQYESRRQMVRSLNDALERLRDIKRHKLQGVERRKRMFNNTI
+            DSNDEKVGKRNEDGVPLTEKAKFNPFGKGSRIKEGDSNYKWKEVTKMEAEIKSHTSYLTF
+            AFKVVNRSRDDEKVNEILRSTEK
+NTSEQ       1152
+            atgtcaacaaattgtttttccggttacaaagacctcatcaaggaaggcgatttaactcta
+            atatgggtttctagagataacatcaaaccggtaaggatgcattccgaagaggtattcaat
+            actcgttatggttcatttcctcataaggatatcataggtaaaccttatggttctcaaatt
+            gctataagaacaaagggctcaaataagtttgcattcgtccatgttctgcaaccaactcct
+            gaattgtggactttgtcgttaccacacagaactcaaattgtatatacgcccgactcttcc
+            tacatcatgcaaaggttgaattgtagccctcacagcagagtgatcgaggcaggtacaggc
+            tcaggatcattttcgcacgcttttgcaagatctgtaggtcatctttttagttttgaattt
+            catcacataagatacgaacaagcattagaggaattcaaagagcatggacttattgatgat
+            aacgttacgattacacatcgggatgtttgccaaggtggatttcttataaagaagggagac
+            actacatcttacgaatttggcaataatgaaaccgccgcttcattgaatgcaaatgtagtg
+            tttttagatctgccggctccctgggatgctatacctcatctggattctgttatttccgta
+            gacgaaaaggtcggattgtgttgcttctccccatgcattgagcaagtagacaaaacattg
+            gatgtattagagaaatatggctggacggatgttgaaatggtggaaattcaaggtagacag
+            tacgaaagtcgaagacaaatggtcagatcactcaatgatgccctggaaaggttgagagat
+            attaagaggcacaaactccagggtgtagaaagacgcaagcggatgtttaacaatacaata
+            gattctaacgatgaaaaagttggaaaaagaaacgaggatggcgtaccattaacagaaaag
+            gccaaatttaatccttttggcaaaggttctcgaatcaaggaaggtgatagtaattataaa
+            tggaaggaggtcacaaagatggaagctgagatcaaatcccatacctcatatttgactttt
+            gcatttaaagttgtgaatagatcaagagatgatgaaaaagttaacgaaattcttcgatcc
+            acggaaaaataa
+///

@@ -1,0 +1,85 @@
+ENTRY       YLR446W           CDS       T00005
+DEFINITION  (RefSeq) hexokinase
+ORTHOLOGY   K00844  hexokinase [EC:2.7.1.1]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00010  Glycolysis / Gluconeogenesis
+            sce00051  Fructose and mannose metabolism
+            sce00052  Galactose metabolism
+            sce00500  Starch and sucrose metabolism
+            sce00520  Amino sugar and nucleotide sugar metabolism
+            sce01100  Metabolic pathways
+            sce01110  Biosynthesis of secondary metabolites
+            sce01200  Carbon metabolism
+MODULE      sce_M00001  Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+            sce_M00549  Nucleotide sugar biosynthesis, glucose => UDP-glucose
+            sce_M00892  UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                YLR446W
+               00051 Fructose and mannose metabolism
+                YLR446W
+               00052 Galactose metabolism
+                YLR446W
+               00500 Starch and sucrose metabolism
+                YLR446W
+               00520 Amino sugar and nucleotide sugar metabolism
+                YLR446W
+              09110 Biosynthesis of other secondary metabolites
+               00524 Neomycin, kanamycin and gentamicin biosynthesis
+                YLR446W
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04131 Membrane trafficking [BR:sce04131]
+                YLR446W
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.1  hexokinase
+                 YLR446W
+            Membrane trafficking [BR:sce04131]
+             Autophagy
+              Mitophagy
+               Other mitophagy associated  proteins
+                YLR446W
+POSITION    XII:1025214..1026515
+MOTIF       Pfam: Hexokinase_1 Hexokinase_2 Filo_VP24 Fumble
+DBLINKS     NCBI-GeneID: 851167
+            NCBI-ProteinID: NP_013551
+            SGD: S000004438
+            UniProt: Q06204
+AASEQ       433
+            MTIESTLARELESLILPADSIVNVVDQFQEELLSRLQTNTISMLPQCLVPDKRSRWNPED
+            KILTIDFGGTRLKFAIISLPQIVIEYNDAFELTYNIVDSNFFNQIIYTICTRLAANGYIK
+            KKNESSEASKFFVSVTFSFPLNPEGEVVAMGKGFVMTDTLQGSTVKQLIQSSFHRIISEN
+            IEEFFCTMNVCHVINDAIAVSLTSKFICENDSISLIIGTGTNACFEVPYGYLPPFKRDAL
+            RETLPSSYNKETLNFKHVLINSEIGFIGKNVIALQPFDIHGAISYEMPLECVTSGKWLPL
+            SLKNILLQYNIIPKNFPVEFNGELVCQLAEDCTNAWFENEHYALICQIARLLIKRAAFYV
+            AAIVQAIDIITGCKNYNFIHIGYVGSFLHNSNFYREQIKYYSSIHIKLQFLNHSNLLGAA
+            IATYLNKSDNQVQ
+NTSEQ       1302
+            atgacaattgaaagcactctagctcgggaattagaaagcttgattttacccgctgattcc
+            atagtgaatgtagttgaccaattccaagaggagttgttatcacggcttcagacaaatacg
+            atttctatgctcccgcagtgtttagtcccagataaacgatcgcgatggaaccctgaagac
+            aaaattctgaccattgatttcggcgggacaagactgaaatttgcaattatctctctgccc
+            caaatcgttatcgaatacaatgatgccttcgaacttacctacaacatcgttgattcgaat
+            ttctttaatcaaatcatctatacaatatgtaccaggctggctgcaaatggttatataaaa
+            aaaaagaacgagtcatctgaggcgtctaaattttttgtttccgtgacattcagttttcct
+            ctaaatccagaaggggaggtagttgcaatgggaaaaggatttgtgatgactgacaccctt
+            caaggatccacggtgaaacagctcatccaatcttcctttcaccggattatatcagaaaat
+            atcgaagaatttttctgtaccatgaacgtgtgtcatgtaataaacgatgcaattgcagtt
+            tcactaacaagcaaatttatatgcgaaaacgattccatctcattaataataggaactggt
+            acaaatgcatgttttgaggttccatacggatatttaccacctttcaagagagatgccctg
+            agagaaacattaccgtcaagctataataaggagacattaaatttcaaacatgttctcatt
+            aattctgaaattggctttattggtaaaaatgtcattgcattgcaaccgtttgacattcat
+            ggagcaatctcatacgaaatgccactagagtgcgttacttctggtaaatggcttccccta
+            tcattaaaaaatattctattgcaatataacataatccccaaaaacttcccagtagagttc
+            aatggggaactggtatgccagctggcagaagactgtactaatgcttggttcgaaaacgaa
+            cattatgcactaatttgtcagatcgcacgactattaatcaagagagccgcattttatgtt
+            gctgcaattgtacaagctattgatatcatcacaggctgcaaaaactataactttattcat
+            attggctacgttggatcctttctccacaattcaaatttttatcgagagcagataaaatat
+            tactccagcatacatattaagttgcaattcttaaatcacagtaatcttctaggcgctgca
+            atagccacctacttgaacaaatcagacaaccaagttcaataa
+///

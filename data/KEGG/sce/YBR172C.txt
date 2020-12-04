@@ -1,0 +1,80 @@
+ENTRY       YBR172C           CDS       T00005
+NAME        SMY2
+DEFINITION  (RefSeq) Smy2p
+ORTHOLOGY   K18730  PERQ amino acid-rich with GYF domain-containing protein
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:sce03019]
+                YBR172C (SMY2)
+            Messenger RNA biogenesis [BR:sce03019]
+             Eukaryotic type
+              mRNA surveillance and transport factors
+               Transport factors
+                eIF4F and regulatory proteins
+                 YBR172C (SMY2)
+               Surveillance factors
+                Other surveillance  factors
+                 YBR172C (SMY2)
+POSITION    II:complement(579150..581372)
+MOTIF       Pfam: GYF
+DBLINKS     NCBI-GeneID: 852470
+            NCBI-ProteinID: NP_009731
+            SGD: S000000376
+            UniProt: P32909
+STRUCTURE   PDB: 3K3V 3FMA
+AASEQ       740
+            MIAPDSQRLFGSFDEQFKDLKLDSVDTENNNTHGVSTILDSSPASVNNNTNGAVAASVNT
+            VPGSTFRSNTPLLGGRHPLSRTSSLIDSIGIQRAASPFSSMKEPFIPQSSGVMSSSFWHG
+            DHPESRVSTPVQQHPLLQRNESSSSFSYAANLGVNLSTHSLAVDITPLSTPTAAQSHVNL
+            FPSSDIPPNMSMNGMSQLPAPVSVESSWRYIDTQGQIHGPFTTQMMSQWYIGGYFASTLQ
+            ISRLGSTPETLGINDIFITLGELMTKLEKYDTDPFTTFDKLHVQTTSSDSINLNLAPYAS
+            GVAATGTIKATENDIFKPLTHDNIWDMDGGTTSKGVDIKLASATTISQTDESHKQEYKST
+            TMLEKGKKEKSESVAKALLDEQEKRNRELKRKEEARLSKKQKQKEDDLLKKQKEQKEQKE
+            KEALEAEKQKKSEKTKKDTQTQTEGFKTSKDLPSLNSSSANPAPWASKVKVNNAIETSIK
+            NGVSSTGKKKGEPLGLQQRNSKEEKQKEELKSVLNWANKSSLPSNQTIDIKSQFQKSPKG
+            MKESSPLKELEDPNFIEEQKKLWEKVQSSSKQVKSTSSASTTTSSWTTVTSKGKAPIGTV
+            VSPYSKTNTSLNSSLTAKTSTTSTTTTFASMNNVSPRQEFIKWCKSQMKLNSGITNNNVL
+            ELLLSLPTGPESKELIQETIYANSDVMDGRRFATEFIKRRVACEKQGDDPLSWNEALALS
+            GNDDDGWEFQVVSKKKGRKH
+NTSEQ       2223
+            atgatagcaccagactcgcaaagattattcggttcctttgatgaacagtttaaggactta
+            aaactagattcagtcgatacagaaaacaataacacacacggtgtttctactatcctggat
+            tcctcccctgcgagcgttaataacaatacaaacggtgctgttgctgcaagcgtgaataca
+            gtccctggatcgacgtttagatccaatacacctcttttaggaggtcgacatccactcagt
+            aggacgtcttccttaatcgattctattggtatacagcgtgctgcgtcaccattttcttct
+            atgaaagagccttttattcctcaaagttcgggagtaatgagttcctctttttggcacggc
+            gaccatcctgaatcacgggttagtacgcctgttcagcagcatccactattgcaaagaaac
+            gagtcctcctcctcctttagttatgctgctaatcttggagtgaatctgagtacacattca
+            ttggcggtagatattactccattaagtacaccaactgctgcccaatctcatgtcaatttg
+            tttccgtcctctgatattcctcctaatatgagcatgaacggaatgtcacaactcccagca
+            ccagtttcagttgaatccagttggaggtacatagacacgcagggacagattcatggtcca
+            tttactacccaaatgatgtcacaatggtacataggtggctattttgcttcaacccttcag
+            atttcaagattgggaagcactccagaaacgctaggaataaacgatattttcatcacactt
+            ggtgagttaatgactaaactcgagaagtatgatacggatccattcactacttttgacaaa
+            cttcacgttcaaacaaccagctctgattctatcaacttgaatctagctccttacgcaagc
+            ggtgttgccgctactggcactattaaagctactgaaaacgatattttcaagccattgaca
+            catgacaatatctgggatatggatggaggtaccacctccaagggagtcgatattaaatta
+            gcctcagcaaccaccattagtcaaacagatgaatctcacaagcaagaatacaaatcgacc
+            actatgctggaaaaagggaagaaggaaaaatccgaatctgtagcaaaagcgttattggat
+            gaacaagagaaacggaacagagaactcaaaaggaaggaagaagctcgcttatcgaagaaa
+            caaaagcaaaaagaggatgatttattgaagaaacaaaaggaacaaaaggaacaaaaggaa
+            aaagaagctttggaagcagaaaagcaaaaaaaatcagaaaagacaaaaaaggacacacaa
+            acacaaacagaaggctttaagacatcaaaagatttgccttcattaaattcctcaagcgcg
+            aatccggcaccatgggcctcaaaagtcaaagttaacaatgcaatcgaaacttcaattaaa
+            aatggtgtaagtagcactggaaagaagaaaggagaacccttaggtctacaacagaggaac
+            agcaaagaagaaaagcaaaaggaggaactaaaatccgtgcttaactgggctaacaagtcc
+            agcctaccatcgaatcaaactattgatattaaatctcagtttcaaaaaagcccaaaaggg
+            atgaaagagtcgtctccgttaaaggagttggaagatccaaatttcatagaagagcagaaa
+            aaactatgggaaaaggttcagagttcttccaaacaagtaaagtccacatcctctgcatct
+            actaccacatcttcttggactacggtgacttctaaagggaaagcacctataggaaccgtt
+            gtctccccatattcaaaaaccaataccagtttaaattcttcattaacggcaaaaactagc
+            acaacttctactaccactacctttgctagcatgaacaatgtttctccccggcaagaattt
+            atcaaatggtgtaaatcacagatgaaattaaattctggaataaccaataacaatgtctta
+            gaactattattgagtttacctacggggccagaatctaaagaattgattcaagaaacaatt
+            tatgccaatagtgacgttatggatggtagaagatttgccactgaatttattaaaagacgt
+            gttgcgtgcgaaaaacaaggtgatgatccactaagttggaatgaagcgctagctctatca
+            ggcaatgatgacgacggctgggaattccaagtagtgagcaagaagaagggtagaaaacac
+            tga
+///

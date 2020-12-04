@@ -1,0 +1,75 @@
+ENTRY       YDR191W           CDS       T00005
+NAME        HST4
+DEFINITION  (RefSeq) NAD-dependent histone deacetylase HST4
+ORTHOLOGY   K11121  NAD+-dependent protein deacetylase SIR2 [EC:2.3.1.286]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00760  Nicotinate and nicotinamide metabolism
+            sce01100  Metabolic pathways
+            sce04213  Longevity regulating pathway - multiple species
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00760 Nicotinate and nicotinamide metabolism
+                YDR191W (HST4)
+             09150 Organismal Systems
+              09149 Aging
+               04213 Longevity regulating pathway - multiple species
+                YDR191W (HST4)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YDR191W (HST4)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YDR191W (HST4)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.286  protein acetyllysine N-acetyltransferase
+                 YDR191W (HST4)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Termination Factors
+               Telomere proteins
+                SIR proteins
+                 YDR191W (HST4)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Histone modification proteins
+               Sir proteins
+                YDR191W (HST4)
+POSITION    IV:842337..843449
+MOTIF       Pfam: SIR2
+DBLINKS     NCBI-GeneID: 851772
+            NCBI-ProteinID: NP_010477
+            SGD: S000002599
+            UniProt: P53688
+AASEQ       370
+            MKQKFVLPITPPSTAEKKPQTENRCNENLKPRRLLPQLKKSVRNRKPRLSYRPELNSVFD
+            LDAYVDSTHLSKSQRHHMDRDAGFISYALNYSKRMVVVSGAGISVAAGIPDFRSSEGIFS
+            TVNGGSGKDLFDYNRVYGDESMSLKFNQLMVSLFRLSKNCQPTKFHEMLNEFARDGRLLR
+            LYTQNIDGLDTQLPHLSTNVPLAKPIPSTVQLHGSIKHMECNKCLNIKPFDPELFKCDDK
+            FDSRTEIIPSCPQCEEYETVRKMAGLRSTGVGKLRPRVILYNEVHPEGDFIGEIANNDLK
+            KRIDCLIIVGTSLKIPGVKNICRQFAAKVHANRGIVLYLNTSMPPKNVLDSLKFVDLVVL
+            GDCQHVTSLL
+NTSEQ       1113
+            atgaagcaaaaatttgtactaccgatcaccccaccaagtacggcggaaaagaagcctcaa
+            acagaaaaccgttgcaatgagaatttgaagcctagaagattgctaccgcaattgaaaaaa
+            agtgtccgtaacaggaaacctagactgtcatataggcctgagttaaactctgtgtttgat
+            ctggatgcgtacgtggattcgacacacttgtccaaatcccaacgccatcatatggaccgc
+            gacgccggttttattagctatgctctgaattatagcaaaagaatggttgtagtcagcggg
+            gcaggtatatctgttgccgctggtataccggattttagatccagtgaagggattttctct
+            actgtgaacggcggctctgggaaagatttgtttgactacaatcgtgtgtatggcgacgaa
+            tcaatgagtttgaaatttaatcagttaatggtgtcattgttcagattatccaagaattgc
+            caacctacaaaatttcatgaaatgctcaatgagtttgctagggatggcaggctattgaga
+            ctgtacacgcagaatattgacggtttagatacacaattacctcatttatcaactaatgtg
+            cctctggcgaagccaatacccagtacagtacaattacacggaagcataaaacacatggaa
+            tgcaataaatgtctgaatatcaaaccttttgaccctgaactgttcaaatgcgacgacaaa
+            tttgattctcggactgaaatcataccgtcatgtccacaatgtgaagaatatgaaacagtt
+            agaaaaatggcaggcttaagatctactggtgtgggcaagttgcgtccaagagtaatttta
+            tacaatgaggtccaccctgaaggtgattttatcggtgaaattgccaataatgacttaaag
+            aaaagaattgattgtttgattattgttggaacgagtttgaagattcccggagtgaaaaat
+            atttgcaggcagtttgcggccaaagtccatgcaaacaggggtattgtgttatatttaaac
+            accagtatgccgcctaagaatgtgctagactctttgaaatttgtagacctagttgtactg
+            ggagattgtcagcatgttacctcattattatag
+///

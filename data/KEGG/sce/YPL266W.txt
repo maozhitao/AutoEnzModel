@@ -1,0 +1,53 @@
+ENTRY       YPL266W           CDS       T00005
+NAME        DIM1, CDH1
+DEFINITION  (RefSeq) putative dimethyladenosine transferase
+ORTHOLOGY   K14191  18S rRNA (adenine1779-N6/adenine1780-N6)-dimethyltransferase [EC:2.1.1.183]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YPL266W (DIM1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.183  18S rRNA (adenine1779-N6/adenine1780-N6)-dimethyltransferase
+                 YPL266W (DIM1)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Pre-40S particles
+               Export and cytoplasmic maturation factors
+                YPL266W (DIM1)
+POSITION    XVI:39121..40077
+MOTIF       Pfam: RrnaAD Methyltransf_25 Methyltransf_11 PCMT Met_10 CMAS Methyltransf_23 MTS Methyltransf_12 AAA_lid_4 PRMT5 Methyltransf_28 Methyltransf_2 Methyltransf_31
+DBLINKS     NCBI-GeneID: 855862
+            NCBI-ProteinID: NP_015057
+            SGD: S000006187
+            UniProt: P41819
+STRUCTURE   PDB: 6RBD
+AASEQ       318
+            MGKAAKKKYSGATSSKQVSAEKHLSSVFKFNTDLGQHILKNPLVAQGIVDKAQIRPSDVV
+            LEVGPGTGNLTVRILEQAKNVVAVEMDPRMAAELTKRVRGTPVEKKLEIMLGDFMKTELP
+            YFDICISNTPYQISSPLVFKLINQPRPPRVSILMFQREFALRLLARPGDSLYCRLSANVQ
+            MWANVTHIMKVGKNNFRPPPQVESSVVRLEIKNPRPQVDYNEWDGLLRIVFVRKNRTISA
+            GFKSTTVMDILEKNYKTFLAMNNEMVDDTKGSMHDVVKEKIDTVLKETDLGDKRAGKCDQ
+            NDFLRLLYAFHQVGIHFS
+NTSEQ       957
+            atgggaaaggctgcgaaaaagaagtactccggagcaacttcgtccaaacaagtctctgcc
+            gagaaacatttgagttcagtatttaaattcaacacagatctaggtcagcatattttgaaa
+            aatcctttggtggcgcaaggtattgttgataaggcacagattagaccctcagatgttgtt
+            ttggaggttggtcctggtacaggtaacctaactgtaaggatcctcgaacaagcaaaaaac
+            gtagtggcagtagaaatggatcccagaatggctgcagaattaactaagagggtacgtggc
+            acacctgtggagaaaaagttagaaatcatgcttggagattttatgaagactgaattacca
+            tactttgatatctgtattagtaacactccttaccagatctcatcgcctctggttttcaaa
+            ttaattaaccaaccaagaccaccaagagtatctattcttatgtttcaaagagagtttgct
+            ttaagattactggcaagaccaggtgactcattatactgtagattatccgccaatgtacaa
+            atgtgggctaatgttacacacatcatgaaagtgggtaagaataacttcagaccgccacca
+            caagtggaatccagcgttgttagactagagattaaaaatccaagaccgcaagtggattac
+            aacgaatgggatggtttgttgagaatcgtctttgtgaggaaaaacagaacgatttcagct
+            ggcttcaaatcgaccaccgtgatggacattctggagaagaattataagacatttttggcg
+            atgaacaacgaaatggtggatgatacaaagggttctatgcacgatgtcgtcaaggaaaag
+            attgacacagttctgaaggagaccgacttaggcgacaaaagagcgggtaaatgtgatcaa
+            aatgatttcctaaggctattatatgcttttcaccaggttggtatccatttttcatga
+///

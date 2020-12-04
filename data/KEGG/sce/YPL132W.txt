@@ -1,0 +1,52 @@
+ENTRY       YPL132W           CDS       T00005
+NAME        COX11, LPI13, PSO7
+DEFINITION  (RefSeq) Cox11p
+ORTHOLOGY   K02258  cytochrome c oxidase assembly protein subunit 11
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00190  Oxidative phosphorylation
+            sce01100  Metabolic pathways
+MODULE      sce_M00154  Cytochrome c oxidase
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                YPL132W (COX11)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:sce03029]
+                YPL132W (COX11)
+            Mitochondrial biogenesis [BR:sce03029]
+             Mitochondrial quality control factors
+              Mitochondrial respiratory chain complex assembly factors
+               Complex-IV assembly factors
+                YPL132W (COX11)
+POSITION    XVI:301716..302618
+MOTIF       Pfam: CtaG_Cox11 SPG4
+DBLINKS     NCBI-GeneID: 855971
+            NCBI-ProteinID: NP_015193
+            SGD: S000006053
+            UniProt: P19516
+AASEQ       300
+            MIRICPIVRSKVPLLGTFLRSDSWLAPHALALRRAICKNVALRSYSVNSEQPKHTFDISK
+            LTRNEIQQLRELKRARERKFKDRTVAFYFSSVAVLFLGLAYAAVPLYRAICARTGFGGIP
+            ITDRRKFTDDKLIPVDTEKRIRISFTSEVSQILPWKFVPQQREVYVLPGETALAFYKAKN
+            YSDKDIIGMATYSIAPGEAAQYFNKIQCFCFEEQKLAAGEEIDMPVFFFIDPDFASDPAM
+            RNIDDIILHYTFFRAHYGDGTAVSDSKKEPEMNADEKAASLANAAILSPEVIDTRKDNSN
+NTSEQ       903
+            atgataagaatatgtcccattgttagatctaaggttccactgttaggaacttttcttaga
+            tccgactcatggttggcacctcatgcgctagctctaaggcgggccatatgcaaaaacgtt
+            gcattgagaagttattcagtgaacagcgaacaaccaaaacatacatttgatatttcaaaa
+            cttactagaaatgaaatccagcaattgcgagagttgaaaagagcaagggagagaaaattt
+            aaagatcgtacggttgcattttatttcagcagcgtcgcggtacttttcttgggtttggca
+            tatgcagcggtaccactctatagagccatttgtgctcgtactggttttggtgggattccc
+            ataacagatagaagaaaatttaccgacgataaactcattcctgtagatactgagaagaga
+            attcgtatctcattcaccagtgaagtatcacaaattttaccgtggaaattcgttcctcaa
+            caacgtgaggtttacgttctgcctggtgaaacagccctcgctttttataaagccaagaat
+            tacagcgataaagatattattggtatggctacttatagcatagcgcctggtgaagcagct
+            caatactttaataaaatccaatgtttttgctttgaagaacaaaagctagctgccggtgaa
+            gaaatagatatgcctgtcttcttttttatcgatccagattttgctagcgatccagcgatg
+            cgaaatatcgatgatattattttacattacacattcttcagagctcattatggtgatggt
+            acagctgtaagtgactctaaaaaggagcctgagatgaatgcagatgaaaaagcagcgtca
+            ttggctaatgctgctattttatccccagaagttatagacacaaggaaagacaactcaaat
+            taa
+///

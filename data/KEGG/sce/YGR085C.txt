@@ -1,0 +1,42 @@
+ENTRY       YGR085C           CDS       T00005
+NAME        RPL11B
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L11B
+ORTHOLOGY   K02868  large subunit ribosomal protein L11e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YGR085C (RPL11B)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YGR085C (RPL11B)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YGR085C (RPL11B)
+POSITION    VII:complement(648383..648907)
+MOTIF       Pfam: Ribosomal_L5_C Ribosomal_L5 ApbA
+DBLINKS     NCBI-GeneID: 852976
+            NCBI-ProteinID: NP_011599
+            SGD: S000003317
+            UniProt: Q3E757
+STRUCTURE   PDB: 2NOQ
+AASEQ       174
+            MSTKAQNPMRDLKIEKLVLNISVGESGDRLTRASKVLEQLSGQTPVQSKARYTVRTFGIR
+            RNEKIAVHVTVRGPKAEEILERGLKVKEYQLRDRNFSATGNFGFGIDEHIDLGIKYDPSI
+            GIFGMDFYVVMNRPGARVTRRKRCKGTVGNSHKTTKEDTVSWFKQKYDADVLDK
+NTSEQ       525
+            atgtctactaaagcccaaaaccctatgcgtgatttgaagatcgagaaattggtcttgaac
+            atctccgttggtgaatctggtgacagattaaccagagcctccaaggttttagaacaatta
+            tctggtcaaactccagttcaatccaaggccagatacactgtcagaactttcggtatcaga
+            agaaacgaaaaaattgctgttcacgttaccgtcagaggtccaaaggctgaagaaattttg
+            gaaagaggtttgaaggtcaaggaataccaattgagagacagaaacttctctgctaccggt
+            aacttcggtttcggtattgacgaacacattgacttgggtatcaagtatgacccatccatc
+            ggtattttcggtatggatttctatgtcgtcatgaacagaccaggtgctagagtcactaga
+            agaaagagatgtaagggtactgttggtaactcccacaagacaactaaggaagacaccgtc
+            tcttggttcaagcaaaagtacgacgctgatgtgctcgataaataa
+///

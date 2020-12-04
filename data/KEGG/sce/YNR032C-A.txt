@@ -1,0 +1,31 @@
+ENTRY       YNR032C-A         CDS       T00005
+NAME        HUB1
+DEFINITION  (RefSeq) ubiquitin-like protein HUB1
+ORTHOLOGY   K13113  ubiquitin-like protein 5
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03041 Spliceosome [BR:sce03041]
+                YNR032C-A (HUB1)
+            Spliceosome [BR:sce03041]
+             Complex B
+              Other components
+               Complex B specific factors
+                YNR032C-A (HUB1)
+POSITION    XIV:complement(687243..687464)
+MOTIF       Pfam: ubiquitin Rad60-SLD Ubiquitin_2
+DBLINKS     NCBI-GeneID: 855767
+            NCBI-ProteinID: NP_014430
+            SGD: S000007251
+            UniProt: Q6Q546
+STRUCTURE   PDB: 3PLU 3PLV 1M94
+AASEQ       73
+            MIEVVVNDRLGKKVRVKCLAEDSVGDFKKVLSLQIGTQPNKIVLQKGGSVLKDHISLEDY
+            EVHDQTNLELYYL
+NTSEQ       222
+            atgattgaggtagttgtgaatgaccgattaggcaaaaaagtcagagtgaagtgccttgct
+            gaagatagtgtaggtgatttcaaaaaagtattgtccttgcaaattggcacccaaccaaac
+            aaaattgtgttgcagaagggtggaagtgttttaaaagaccatatctctctggaagattat
+            gaggtacatgatcagacaaatttggagctgtattacctgtag
+///

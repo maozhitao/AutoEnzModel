@@ -1,0 +1,38 @@
+ENTRY       YGL226C-A         CDS       T00005
+NAME        OST5
+DEFINITION  (RefSeq) dolichyl-diphosphooligosaccharide--protein glycotransferase subunit
+ORTHOLOGY   K12691  oligosaccharyl transferase complex subunit OST5
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00510  N-Glycan biosynthesis
+            sce00513  Various types of N-glycan biosynthesis
+            sce01100  Metabolic pathways
+            sce04141  Protein processing in endoplasmic reticulum
+MODULE      sce_M00072  N-glycosylation by oligosaccharyltransferase
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09107 Glycan biosynthesis and metabolism
+               00510 N-Glycan biosynthesis
+                YGL226C-A (OST5)
+               00513 Various types of N-glycan biosynthesis
+                YGL226C-A (OST5)
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04141 Protein processing in endoplasmic reticulum
+                YGL226C-A (OST5)
+POSITION    VII:complement(join(72749..72988,73138..73158))
+MOTIF       Pfam: Ost5
+DBLINKS     NCBI-GeneID: 852625
+            NCBI-ProteinID: NP_011288
+            SGD: S000003194
+            UniProt: Q92316
+STRUCTURE   PDB: 6EZN 6C26
+AASEQ       86
+            MTYEQLYKEFHSSKSFQPFIHLDTQPKFAICGLIVTLAVLSSALFAVGSKSSYIKKLFFY
+            TILSVIGSLFAGLTTVFASNSFGVYV
+NTSEQ       261
+            atgacttatgaacaattatacaaagagttccattcctcaaagagcttccagccatttatc
+            cacttagacactcaaccaaaatttgcaatttgtggtttaatcgttacattagctgtatta
+            tcatctgccctgttcgccgtcggttctaaatcttcatacattaagaaactcttcttctac
+            acaattttaagtgtaattggcagcttgtttgctggcttgaccactgtttttgcttcgaat
+            tctttcggtgtctacgtctag
+///

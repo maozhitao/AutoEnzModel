@@ -1,0 +1,69 @@
+ENTRY       YPR025C           CDS       T00005
+NAME        CCL1
+DEFINITION  (RefSeq) TFIIH complex kinase subunit CCL1
+ORTHOLOGY   K06634  cyclin H
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03022  Basal transcription factors
+            sce03420  Nucleotide excision repair
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03022 Basal transcription factors
+                YPR025C (CCL1)
+              09124 Replication and repair
+               03420 Nucleotide excision repair
+                YPR025C (CCL1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:sce03021]
+                YPR025C (CCL1)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YPR025C (CCL1)
+            Transcription machinery [BR:sce03021]
+             Eukaryotic type
+              RNA polymerase II system
+               Basal transcription factors
+                TFIIH
+                 YPR025C (CCL1)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                TFIIH complex
+                 YPR025C (CCL1)
+POSITION    XVI:complement(613377..614558)
+MOTIF       Pfam: Cyclin_C_2 Cyclin_N TFIIB
+DBLINKS     NCBI-GeneID: 856136
+            NCBI-ProteinID: NP_015350
+            SGD: S000006229
+            UniProt: P37366
+AASEQ       393
+            MTDIQLNGKSTLDTPSATMSAKEKEAKLKSADENNKPPNYKRISDDDLYRHSSQYRMWSY
+            TKDQLQEKRVDTNARAIAYIEENLLKFREAHNLTEEEIKVLEAKAIPLTMEEELDLVNFY
+            AKKVQVIAQHLNLPTEVVATAISFFRRFFLENSVMQIDPKSIVHTTIFLACKSENYFISV
+            DSFAQKAKSTRDSVLKFEFKLLESLKFSLLNHHPYKPLHGFFLDIQNVLYGKVDLNYMGQ
+            IYDRCKKRITAALLTDVVYFYTPPQITLATLLIEDEALVTRYLETKFPSREGSQESVPGN
+            EKEEPQNDASTTEKNKEKSTESEEYSIDSAKLLTIIRECKSIIEDCKPPSTEEAKKIAAK
+            NYYCQNPSTLIQKLKRKLNGEDTSSTVEKKQKT
+NTSEQ       1182
+            atgacggatattcaactaaatggaaagagtacattagatactccttctgctaccatgtca
+            gcaaaagaaaaagaggcaaaattaaaatcggctgatgagaataacaagccaccgaactac
+            aaaagaatttctgacgatgatttatataggcactcttctcagtatagaatgtggtcatac
+            actaaagatcaacttcaggagaaaagggtagataccaatgcccgagcgattgcttacatt
+            gaggaaaatttattaaaatttagagaagcacacaatttaacagaagaagaaataaaagta
+            ctagaagcaaaggctatccctttgacaatggaagaagaactcgatttggtgaatttctac
+            gcaaaaaaagttcaggtaatagcacagcatctaaatttgccaaccgaagtagtggccact
+            gcgatatccttttttaggcgttttttcttagaaaattctgttatgcaaatagatcctaaa
+            agtattgtacatactactatctttctagcctgcaaatcggagaactattttattagcgtg
+            gactcgtttgctcaaaaggccaaatctactagagatagtgttctcaaattcgagtttaag
+            ttgttagaatcattgaaattttcactgttgaaccatcatccttacaaaccgcttcatggg
+            tttttcttagatatccagaacgtcctttatggtaaggttgatttaaattacatgggccaa
+            atatacgataggtgtaagaagagaataactgccgcattattaaccgatgtcgtatatttc
+            tacactccaccccaaataacactagcaacattattgattgaggatgaagccttggtcaca
+            aggtatttagaaacaaaatttcccagcagagaaggtagccaggaatcagtaccgggaaac
+            gaaaaagaagaaccacaaaatgatgccagtacaactgagaaaaacaaagagaagtccaca
+            gagagcgaagaatattcgatagactccgcgaagttactaaccataatacgcgagtgtaaa
+            agtattattgaagattgtaaacctccgagtactgaagaggccaagaaaattgcggcaaaa
+            aactattattgtcaaaatccatcaacactgattcagaaattaaaaaggaagttgaatgga
+            gaagatacttcgtccaccgttgagaaaaagcaaaaaacatga
+///

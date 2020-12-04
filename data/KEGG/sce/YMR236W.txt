@@ -1,0 +1,60 @@
+ENTRY       YMR236W           CDS       T00005
+NAME        TAF9, TAF17
+DEFINITION  (RefSeq) chromatin modification protein
+ORTHOLOGY   K03133  transcription initiation factor TFIID subunit 9B
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03022  Basal transcription factors
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03022 Basal transcription factors
+                YMR236W (TAF9)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:sce03021]
+                YMR236W (TAF9)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YMR236W (TAF9)
+            Transcription machinery [BR:sce03021]
+             Eukaryotic type
+              RNA polymerase II system
+               Basal transcription factors
+                TFIID
+                 YMR236W (TAF9)
+               Coactivators
+                SAGA/TFTC/STAGA complex
+                 YMR236W (TAF9)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Histone modification proteins
+               HAT complexes
+                PCAF complex
+                 YMR236W (TAF9)
+                STAGA complex
+                 YMR236W (TAF9)
+                TFTC complex
+                 YMR236W (TAF9)
+                SAGA complex
+                 YMR236W (TAF9)
+                SLIK complex
+                 YMR236W (TAF9)
+POSITION    XIII:742971..743444
+MOTIF       Pfam: TFIID-31kDa
+DBLINKS     NCBI-GeneID: 855276
+            NCBI-ProteinID: NP_013963
+            SGD: S000004849
+            UniProt: Q05027
+AASEQ       157
+            MNGGGKNVLNKNSVGSVSEVGPDSTQEETPRDVRLLHLLLASQSIHQYEDQVPLQLMDFA
+            HRYTQGVLKDALVYNDYAGSGNSAGSGLGVEDIRLAIAARTQYQFKPTAPKELMLQLAAE
+            RNKKALPQVMGTWGVRLPPEKYCLTAKEWDLEDPKSM
+NTSEQ       474
+            atgaacggcggaggcaagaatgttttgaataaaaactcagtgggctcagtatcagaagtt
+            ggtccggactcaacacaagaggaaacgccacgagatgtccgtcttttgcatctgctcctc
+            gcatcacagtcgattcatcaatatgaggaccaagtaccgctacaattgatggattttgca
+            cataggtacacacaaggagtccttaaggacgcgttggtttacaacgactacgctggcagt
+            ggaaattctgccggcagtggattaggagtagaagacatacggcttgccattgcagcgaga
+            acacaataccaatttaagcctacggcacctaaggagctcatgttacagttagctgcggaa
+            agaaacaagaaggcattacctcaagtgatgggtacgtggggtgtcaggcttcccccagaa
+            aaatattgtctcacagcgaaggagtgggaccttgaggacccaaagtctatgtga
+///

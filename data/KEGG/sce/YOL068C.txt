@@ -1,0 +1,84 @@
+ENTRY       YOL068C           CDS       T00005
+NAME        HST1
+DEFINITION  (RefSeq) histone deacetylase HST1
+ORTHOLOGY   K11121  NAD+-dependent protein deacetylase SIR2 [EC:2.3.1.286]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce00760  Nicotinate and nicotinamide metabolism
+            sce01100  Metabolic pathways
+            sce04213  Longevity regulating pathway - multiple species
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00760 Nicotinate and nicotinamide metabolism
+                YOL068C (HST1)
+             09150 Organismal Systems
+              09149 Aging
+               04213 Longevity regulating pathway - multiple species
+                YOL068C (HST1)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:sce03032]
+                YOL068C (HST1)
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YOL068C (HST1)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.286  protein acetyllysine N-acetyltransferase
+                 YOL068C (HST1)
+            DNA replication proteins [BR:sce03032]
+             Eukaryotic type
+              DNA Replication Termination Factors
+               Telomere proteins
+                SIR proteins
+                 YOL068C (HST1)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Histone modification proteins
+               Sir proteins
+                YOL068C (HST1)
+POSITION    XV:complement(200368..201879)
+MOTIF       Pfam: SIR2 DUF592 TPP_enzyme_M
+DBLINKS     NCBI-GeneID: 854086
+            NCBI-ProteinID: NP_014573
+            SGD: S000005429
+            UniProt: P53685
+AASEQ       503
+            MNILLMQRIVSFILVVSQGRYFHVGELTMTMLKRPQEEESDNNATKKLKTRLTYPCILGK
+            DKVTGKFIFPAITKDDVMNARLFLKDNDLKTFLEYFLPVEVNSIYIYFMIKLLGFDVKDK
+            ELFMALNSNITSNKERSSAELSSIHAKAEDEDELTDPLEKKHAVKLIKDLQKAINKVLST
+            RLRLPNFNTIDHFTATLRNAKKILVLTGAGVSTSLGIPDFRSSEGFYSKIRHLGLEDPQD
+            VFNLDIFLQDPSVFYNIAHMVLPPENMYSPLHSFIKMLQDKGKLLRNYTQNIDNLESYAG
+            IDPDKLVQCHGSFATASCVTCHWQIPGEKIFENIRNLELPLCPYCYQKRKQYFPMSNGNN
+            TVQTNINFNSPILKSYGVLKPDMTFFGEALPSRFHKTIRKDILECDLLICIGTSLKVAPV
+            SEIVNMVPSHVPQILINRDMVTHAEFDLNLLGFCDDVASLVAKKCHWDIPHKKWQDLKKI
+            DYNCTEIDKGTYKIKKQPRKKQQ
+NTSEQ       1512
+            atgaacatattgctaatgcaacggatagttagttttattttggtggttagtcaagggcga
+            tactttcatgttggagagctgaccatgacaatgttgaaaagacctcaagaagaagagtca
+            gataataatgctacgaagaagctgaaaacgagattaacgtacccttgtatcctcgggaag
+            gataaggtgacgggcaaattcatctttcctgcaatcactaaagatgatgttatgaatgca
+            agactgtttttgaaggacaacgatttgaaaacttttttagaatattttttgccagtggaa
+            gtcaactcgatctacatttatttcatgataaaattgctgggattcgacgtcaaagataaa
+            gaactatttatggcgttaaactctaatatcacttctaataaagaacgttctagtgcggaa
+            ctatcgtctatacatgcaaaagctgaagatgaggacgagttgaccgatcccttagagaaa
+            aagcatgcagtaaaattaatcaaagatttacaaaaagccataaataaagtccttagtaca
+            aggcttcgattacccaacttcaatacgattgatcatttcaccgccactttgcgtaacgcc
+            aaaaaaattttggttctgacgggcgctggagtttccacttctttaggtattcccgatttt
+            agatcatctgaggggttttattctaagatccgacaccttggattggaagaccctcaggat
+            gttttcaacttggatatattcttacaggacccttctgttttttacaatattgcccatatg
+            gttttaccaccagagaacatgtattctccgttgcacagcttcattaaaatgctacaagac
+            aagggcaaactattaagaaactacacacagaatatagataacttagaatcgtatgcaggg
+            atagatcctgataaattagtgcaatgtcacggttcattcgccactgcatcttgtgtgact
+            tgccattggcaaatacctggtgagaaaatattcgaaaatattagaaaccttgaactacca
+            ttatgtccctactgttatcaaaaaagaaaacaatattttcctatgagtaatggcaataat
+            acggtgcaaacaaacataaatttcaactcacccattttaaagtcgtatggtgttttgaaa
+            ccagacatgacattttttggcgaggccctgccatcgcgatttcataagaccatccgcaaa
+            gatatactggaatgcgatctattgatttgtataggaacaagtttgaaagtggctcctgtg
+            tctgaaattgtcaatatggtaccttcacatgttccgcagattttgatcaatagggatatg
+            gttacacatgcagagtttgacttaaacctgttgggattctgtgatgacgtggccagtctc
+            gtagctaaaaaatgccattgggatataccgcataaaaaatggcaagatctaaagaagata
+            gattacaactgtacggaaatagataaaggtacgtataagattaagaaacagccacgaaag
+            aaacaacagtaa
+///

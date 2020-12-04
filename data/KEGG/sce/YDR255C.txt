@@ -1,0 +1,60 @@
+ENTRY       YDR255C           CDS       T00005
+NAME        RMD5, GID2
+DEFINITION  (RefSeq) ubiquitin-protein ligase RMD5
+ORTHOLOGY   K23333  E3 ubiquitin-protein transferase RMND5 [EC:2.3.2.27]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YDR255C (RMD5)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.27  RING-type E3 ubiquitin transferase
+                 YDR255C (RMD5)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              Multi subunit Ring-finger type E3
+               CTLH complex
+                YDR255C (RMD5)
+POSITION    IV:complement(966557..967822)
+MOTIF       Pfam: CLTH zf-RING_UBOX zf-RING_5 zf-RING_2 MRP-L51
+DBLINKS     NCBI-GeneID: 851842
+            NCBI-ProteinID: NP_010541
+            SGD: S000002663
+            UniProt: Q12508
+AASEQ       421
+            MSELLDSFETEFAKFYTDSNLEETNLQKCLDHTHEFKSQLKKLKAHLNKHIQESKPEVYN
+            KLSDKEKQKFKRKRELIIEKLSKSQRQWDHSVKKQIKYVSQQSNRFNKSTLNKLKEFDID
+            SVYVNKLPKETMENVNEAIGYHILRYSIDNMPLGNKNEAFQYLKDVYGITNKESTEFIEM
+            GQIVHDLKKGDTESCLKWCSNEMESLSSNHTALSSLKFDLYTLSAMQIVKHGNPVELYYQ
+            ITQNAPLDCFRHREKELMQNVVPLLTKSLIGQPIEDIDSKVNKELKECTSLFIKEYCAAK
+            HIFFDSPLFLIVLSGLISFQFFIKYKTIRELAHVDWTTKDELPFDVKLPDFLTHFHPIFI
+            CPVLKEETTTENPPYSLACHHIISKKALDRLSKNGTITFKCPYCPVNTSMSSTKKVRFVM
+            L
+NTSEQ       1266
+            atgtctgaattactagatagctttgagacagagtttgcgaaattttataccgacagcaat
+            ctggaagagacaaaccttcaaaaatgtcttgatcatactcatgaattcaagagtcaatta
+            aagaagttgaaagcgcacttaaacaagcatattcaggaatcaaaaccagaagtctataat
+            aagctgagtgataaggagaaacaaaagtttaagagaaaaagagaactaattattgagaag
+            ctaagcaagtcacagaggcaatgggaccattcagtaaagaaacaaataaagtacgtttct
+            cagcagtcgaatcgcttcaacaaaagcacgctgaacaaattaaaagaatttgatatagat
+            agcgtatatgtcaataaattaccgaaagagacaatggaaaatgttaatgaagccatcggt
+            taccatattttgaggtatagtatagacaacatgccattaggaaataaaaatgaggctttc
+            cagtatctaaaagatgtctacggaattactaataaagaatctactgaatttattgagatg
+            ggccaaatcgtacatgatcttaaaaagggtgacacagaaagctgtctgaaatggtgctcc
+            aatgaaatggaaagcttatcatctaaccatacggctttatcgtccctaaaatttgattta
+            tacactttgtcagcaatgcagatagtgaagcatggaaatccggtagagttgtactaccaa
+            ataacacagaacgcacccctggattgctttagacatagggagaaggaattaatgcaaaac
+            gtcgtaccattattaactaaatcgctaataggtcaacctattgaagatattgattctaaa
+            gtaaataaggaattaaaagaatgcacgtcgttatttataaaagaatattgtgctgcaaaa
+            catattttctttgactctcccttgtttttgatagtattgagtggtttaatttctttccaa
+            tttttcatcaaatacaaaaccatcagggagttagcgcacgttgactggactacgaaagat
+            gagttgccatttgatgtcaagttaccagattttctgactcatttccatccgatcttcatc
+            tgtcccgtcttaaaggaggaaaccactacagaaaatcctccttattcactggcatgccat
+            cacatcatttctaaaaaggcgctagacagattatcgaagaacggaacaattactttcaag
+            tgcccatactgccccgtaaatacttcaatgagcagtacaaaaaaggttcgttttgttatg
+            ctttga
+///

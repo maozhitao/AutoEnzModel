@@ -1,0 +1,42 @@
+ENTRY       YML073C           CDS       T00005
+NAME        RPL6A, YL16A
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L6A
+ORTHOLOGY   K02934  large subunit ribosomal protein L6e
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YML073C (RPL6A)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YML073C (RPL6A)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YML073C (RPL6A)
+POSITION    XIII:complement(join(123227..123742,124158..124172))
+MOTIF       Pfam: Ribosomal_L6e MMtag
+DBLINKS     NCBI-GeneID: 854902
+            NCBI-ProteinID: NP_013638
+            SGD: S000004538
+            UniProt: Q02326
+STRUCTURE   PDB: 3JBS 6EM3 5Z3G 6C0F 6EM4 6EM5 6CB1
+AASEQ       176
+            MSAQKAPKWYPSEDVAALKKTRKAARPQKLRASLVPGTVLILLAGRFRGKRVVYLKHLED
+            NTLLISGPFKVNGVPLRRVNARYVIATSTKVSVEGVNVEKFNVEYFAKEKLTKKEKKEAN
+            LFPEQQNKEIKAERVEDQKVVDKALIAEIKKTPLLKQYLSASFSLKNGDKPHMLKF
+NTSEQ       531
+            atgagtgcccaaaaagctccaaagtggtatccatccgaagacgtcgctgctctaaagaag
+            accagaaaggctgctcgcccacaaaagttgcgtgcctctctagttccaggtaccgtcttg
+            atcttactagctggtcgtttcagaggtaagagagttgtttacttgaagcatctagaagac
+            aacactttgttgatttctggtccattcaaggtcaatggtgttcctttgagaagagtcaat
+            gctcgttacgtcattgctacctctactaaggtttctgtcgaaggtgtcaacgttgaaaaa
+            ttcaatgtcgaatactttgctaaggaaaaattgactaagaaggaaaagaaggaagctaac
+            ttgttcccagaacaacaaaacaaggaaatcaaggctgaacgtgttgaagaccaaaaggtt
+            gtcgacaaggctttgattgctgaaatcaagaagactccattattgaagcaatacttgtct
+            gcttctttctctttgaagaacggtgacaagccacacatgttgaaattttaa
+///

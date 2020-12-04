@@ -1,0 +1,53 @@
+ENTRY       YDR087C           CDS       T00005
+NAME        RRP1
+DEFINITION  (RefSeq) Rrp1p
+ORTHOLOGY   K14849  ribosomal RNA-processing protein 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01009 Protein phosphatases and associated proteins [BR:sce01009]
+                YDR087C (RRP1)
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:sce03009]
+                YDR087C (RRP1)
+            Protein phosphatases and associated proteins [BR:sce01009]
+             Protein serine/threonine phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-1
+                PP1-interacting proteins (PIPs)
+                 YDR087C (RRP1)
+            Ribosome biogenesis [BR:sce03009]
+             Eukaryotic type
+              Pre-60S particles
+               Other pre-60S particles
+                YDR087C (RRP1)
+POSITION    IV:complement(617470..618306)
+MOTIF       Pfam: Nop52 TAN
+DBLINKS     NCBI-GeneID: 851660
+            NCBI-ProteinID: NP_010372
+            SGD: S000002494
+            UniProt: P35178
+STRUCTURE   PDB: 6EM3 5Z3G 6C0F 6EM4 6EM5 6CB1
+AASEQ       278
+            METSNFVKQLSSNNRKTRVNALEALKKYLTAKQFKENKQIEFNKLWKGLYYAMWFSDRPR
+            PQQRLANELGELHGLYFDPKDNSTADELTTNDKAFIKFSRGFWKVMCFEWFNIDRYRLDK
+            YLLLIRRVLFSQLKYLQSRNWDKKLVDEYIKKVLRWLPLSGSPKVYTGIPIHIVDILLDE
+            WERLLKDGDEDDEDEENKEEEMRKIAESAKKTPLADVIAIFQDIVADYNNSKVLREKIKE
+            DLFSDTRLVSWDILEGETQHNDSSNESEEEEEEEWKGF
+NTSEQ       837
+            atggagacctccaactttgttaaacaattatcgtcgaacaacagaaaaaccagggtaaat
+            gcactcgaagcgttaaagaaatatctaaccgctaaacagttcaaggagaacaaacaaata
+            gaattcaataaactttggaagggtctttactatgcaatgtggttcagtgaccgtcctaga
+            cctcagcaacgtttagccaatgaattaggtgaattgcatggattatattttgatcctaag
+            gacaatagcactgcagatgagttgaccacaaacgataaagcatttataaagtttagcaga
+            gggttttggaaggtcatgtgctttgaatggtttaacattgacagatataggttggataag
+            tatcttctattgataagaagggtattattcagtcaattgaagtatttgcagtccagaaac
+            tgggacaaaaaattagtcgacgagtatattaagaaagtgttgaggtggttacctctgagt
+            ggaagtccaaaggtctacacagggattccaattcatatcgtcgatattctgctggacgaa
+            tgggaaagattgcttaaagatggagatgaagacgatgaagacgaggaaaacaaagaggaa
+            gagatgcgcaaaattgcagagagcgcaaaaaaaacgccactagccgatgttatcgcaatt
+            ttccaagatatcgtggcagattacaataacagtaaggtgttgagagagaagatcaaagaa
+            gacctattcagtgacaccagacttgtttcctgggatattcttgaaggcgaaacgcaacat
+            aatgattccagtaacgaatctgaagaagaggaagaggaagagtggaagggattttga
+///

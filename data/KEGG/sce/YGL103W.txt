@@ -1,0 +1,40 @@
+ENTRY       YGL103W           CDS       T00005
+NAME        RPL28, CYH2
+DEFINITION  (RefSeq) ribosomal 60S subunit protein L28
+ORTHOLOGY   K02900  large subunit ribosomal protein L27Ae
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+PATHWAY     sce03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                YGL103W (RPL28)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:sce03011]
+                YGL103W (RPL28)
+            Ribosome [BR:sce03011]
+             Ribosomal proteins
+              Eukaryotes
+               Large subunit
+                YGL103W (RPL28)
+POSITION    VII:join(310967..311015,311527..311927)
+MOTIF       Pfam: Ribosomal_L27A
+DBLINKS     NCBI-GeneID: 852775
+            NCBI-ProteinID: NP_011412
+            SGD: S000003071
+            UniProt: P02406
+AASEQ       149
+            MPSRFTKTRKHRGHVSAGKGRIGKHRKHPGGRGMAGGQHHHRINMDKYHPGYFGKVGMRY
+            FHKQQAHFWKPVLNLDKLWTLIPEDKRDQYLKSASKETAPVIDTLAAGYGKILGKGRIPN
+            VPVIVKARFVSKLAEEKIRAAGGVVELIA
+NTSEQ       450
+            atgccttccagattcactaagactagaaagcacagaggtcacgtctcagccggtaaaggt
+            cgtatcggtaagcacagaaagcaccccggtggtagaggtatggccggtggtcaacatcac
+            cacagaattaacatggataaataccatccaggttatttcggtaaggttggtatgagatac
+            ttccacaagcaacaagctcatttctggaagccagtcttgaacttggacaaattgtggaca
+            ttgatcccagaagacaagagagaccaatacttgaaatctgcttctaaggaaactgctcca
+            gttattgacactttggcagccggttacggtaagatcttgggtaagggtagaattccaaat
+            gttccagttatcgtcaaagctagattcgtctccaagttggctgaagaaaaaatcagagct
+            gctggtggtgttgttgaattgatcgcttaa
+///

@@ -1,0 +1,57 @@
+ENTRY       YEL019C           CDS       T00005
+NAME        MMS21, NSE2, PSO10
+DEFINITION  (RefSeq) SUMO ligase MMS21
+ORTHOLOGY   K22756  E3 SUMO-protein ligase NSE2 [EC:2.3.2.-]
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               04121 Ubiquitin system [BR:sce04121]
+                YEL019C (MMS21)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YEL019C (MMS21)
+            Enzymes [BR:sce01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.-  
+                 YEL019C (MMS21)
+            Ubiquitin system [BR:sce04121]
+             Ubiquitin ligases (E3)
+              UBL E3 ligases
+               YEL019C (MMS21)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                SMC5-SMC6 complex
+                 YEL019C (MMS21)
+POSITION    V:complement(120498..121301)
+MOTIF       Pfam: zf-Nse zf-RING_UBOX zf-C3HC4_2 zf-ANAPC11 zf-MIZ zf-rbx1 Ku_PK_bind zf-C3HC4 zf-RING_2 FGGY_N Spectrin
+DBLINKS     NCBI-GeneID: 856695
+            NCBI-ProteinID: NP_010896
+            SGD: S000000745
+            UniProt: P38632
+STRUCTURE   PDB: 3HTK
+AASEQ       267
+            MALNDNPIPKSVPLHPKSGKYFHNLHARDLSNIYQQCYKQIDETINQLVDSTSPSTIGIE
+            EQVADITSTYKLLSTYESESNSFDEHIKDLKKNFKQSSDACPQIDLSTWDKYRTGELTAP
+            KLSELYLNMPTPEPATMVNNTDTLKILKVLPYIWNDPTCVIPDLQNPADEDDLQIEGGKI
+            ELTCPITCKPYEAPLISRKCNHVFDRDGIQNYLQGYTTRDCPQAACSQVVSMRDFVRDPI
+            MELRCKIAKMKESQEQDKRSSQAIDVL
+NTSEQ       804
+            atggccttgaacgataatcctatacccaagtcagttcctctacacccaaaatcaggtaag
+            tacttccataatttacatgcccgagacttatcaaatatatatcaacaatgctacaaacaa
+            attgatgagaccataaatcaattagtggattctacatctccttccaccatcggcattgaa
+            gagcaggtcgcagatattactagcacctacaaactcctctcgacatacgaatcggaatcc
+            aactcatttgacgaacatattaaagatttaaaaaaaaatttcaaacaatcctcagatgcc
+            tgtccgcaaatcgacctttctacctgggataaatatcgtaccggagaactcaccgctccc
+            aaattatctgaattatatctaaatatgcccacaccagagcctgcaaccatggttaataac
+            acagatacactcaagatactaaaagtgttgccgtacatatggaatgatccaacttgtgta
+            ataccggatctgcaaaaccccgcagacgaagacgatctacaaatagaaggtggtaaaatt
+            gaattgacttgtcctatcacctgcaaaccttacgaagcaccattgatatcaagaaaatgt
+            aatcacgtcttcgatagagacggcattcaaaactatttacaaggatacacgacaagagat
+            tgcccgcaagcagcgtgttctcaagtcgtttcaatgagggattttgtaagagaccctatt
+            atggaactaaggtgtaagatcgccaagatgaaagaatctcaggaacaggataaaagaagt
+            agtcaagccatcgatgttttatga
+///

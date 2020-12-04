@@ -1,0 +1,64 @@
+ENTRY       YPR023C           CDS       T00005
+NAME        EAF3
+DEFINITION  (RefSeq) Eaf3p
+ORTHOLOGY   K11339  mortality factor 4-like protein 1
+ORGANISM    sce  Saccharomyces cerevisiae (budding yeast)
+BRITE       KEGG Orthology (KO) [BR:sce00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:sce03036]
+                YPR023C (EAF3)
+               03400 DNA repair and recombination proteins [BR:sce03400]
+                YPR023C (EAF3)
+            Chromosome and associated proteins [BR:sce03036]
+             Eukaryotic type
+              Histone modification proteins
+               HAT complexes
+                TIP60 complex
+                 YPR023C (EAF3)
+                NuA4 complex
+                 YPR023C (EAF3)
+            DNA repair and recombination proteins [BR:sce03400]
+             Eukaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                Other HR factors
+                 YPR023C (EAF3)
+POSITION    XVI:complement(608826..610031)
+MOTIF       Pfam: MRG Tudor-knot Macoilin
+DBLINKS     NCBI-GeneID: 856134
+            NCBI-ProteinID: NP_015348
+            SGD: S000006227
+            UniProt: Q12432
+STRUCTURE   PDB: 3E9F 3E9G 2K3X 2K3Y
+AASEQ       401
+            MVDLEQEFALGGRCLAFHGPLMYEAKILKIWDPSSKMYTSIPNDKPGGSSQATKEIKPQK
+            LGEDESIPEEIINGKCFFIHYQGWKSSWDEWVGYDRIRAYNEENIAMKKRLANEAKEAKK
+            SLLEQQKKKKLSTSLGGPSNGGKRKGDSRSNASISKSTSQSFLTSSVSGRKSGRSSANSL
+            HPGSSLRSSSDQNGNDDRRRSSSLSPNMLHHIAGYPTPKISLQIPIKLKSVLVDDWEYVT
+            KDKKICRLPADVTVEMVLNKYEHEVSQELESPGSQSQLSEYCAGLKLYFDKCLGNMLLYR
+            LERLQYDELLKKSSKDQKPLVPIRIYGAIHLLRLISVLPELISSTTMDLQSCQLLIKQTE
+            DFLVWLLMHVDEYFNDKDPNRSDDALYVNTSSQYEGVALGM
+NTSEQ       1206
+            atggttgatttggagcaggaatttgcgctcggtgggcggtgtctggcattccatggtcct
+            cttatgtatgaagcaaagatcttgaaaatatgggatccatcttcgaaaatgtataccagc
+            attcctaatgacaagccaggtggtagttcacaagcaactaaggaaataaagccacaaaag
+            ctgggagaagatgaaagcattccagaagagatcattaatgggaagtgttttttcatacat
+            taccaaggctggaagtcgagttgggatgagtgggttggatatgataggatacgggcctac
+            aatgaagagaatattgccatgaaaaaaagactggcgaacgaggcgaaagaagctaagaaa
+            tcgttactggaacagcagaaaaaaaagaagctctccactagtctgggagggcctagtaat
+            ggtggaaaaagaaagggagacagccgctcgaatgctagtataagtaagagcacttcacag
+            agttttttaacatcttcagtgagcggcaggaaaagcggaagaagttccgctaattccctc
+            catcctggcagctctttgcgctcgtcatccgaccaaaatgggaatgatgaccgcagaaga
+            tcttcttcgctatcgccaaatatgctacatcatattgccggctatccaacccccaagatt
+            tcccttcaaattcccataaaattgaagagcgtgttagtcgacgattgggaatacgtaacg
+            aaggacaaaaaaatttgcagactacccgctgatgtgacggtagagatggtactgaataaa
+            tacgaacatgaagtgagtcaagaattggaatcgccagggtcccagtcacagttgagcgaa
+            tactgtgccggtctcaagttgtattttgacaagtgcctgggtaatatgcttttatatagg
+            ttggaacggctgcaatatgacgaacttctgaaaaaatcatcgaaggatcaaaagccacta
+            gtaccaattagaatttatggggctatccatctgttaaggttgataagtgttttaccagag
+            ctgatctcgtctactacaatggatctacaaagctgtcagcttttaatcaaacaaaccgaa
+            gacttcttggtttggttgttgatgcatgtggacgaatacttcaatgacaaggatccaaat
+            agaagtgacgatgctctgtatgtaaatacgtctagccaatacgaaggagtggctttaggt
+            atgtga
+///
