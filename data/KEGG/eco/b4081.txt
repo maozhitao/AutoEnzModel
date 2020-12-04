@@ -1,0 +1,73 @@
+ENTRY       b4081             CDS       T00007
+NAME        mdtO
+DEFINITION  (RefSeq) putative multidrug efflux pump subunit MdtO
+ORTHOLOGY   K15547  multidrug resistance protein MdtO
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b4081 (mdtO)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b4081 (mdtO)
+POSITION    complement(4301027..4303078)
+MOTIF       Pfam: FUSC FUSC_2 ALMT
+DBLINKS     NCBI-GeneID: 948582
+            NCBI-ProteinID: NP_418505
+            Pasteur: yjcQ
+            RegulonDB: ECK120001880
+            ECOCYC: EG11953
+            ASAP: ABE-0013368
+            UniProt: P32715
+AASEQ       683
+            MSALNSLPLPVVRLLAFFHEELSERRPGRVPQTVQLWVGCLLVILISMTFEIPFVALSLA
+            VLFYGIQSNAFYTKFVAILFVVATVLEIGSLFLIYKWSYGEPLIRLIIAGPILMGCMFLM
+            RTHRLGLVFFAVAIVAIYGQTFPAMLDYPEVVVRLTLWCIVVGLYPTLLMTLIGVLWFPS
+            RAISQMHQALNDRLDDAISHLTDSLAPLPETRIEREALALQKLNVFCLADDANWRTQNAW
+            WQSCVATVTYIYSTLNRYDPTSFADSQAIIEFRQKLASEINKLQHAVAEGQCWQSDWRIS
+            ESEAMAARECNLENICQTLLQLGQMDPNTPPTPAAKPPSMAADAFTNPDYMRYAVKTLLA
+            CLICYTFYSGVDWEGIHTCMLTCVIVANPNVGSSYQKMVLRFGGAFCGAILALLFTLLVM
+            PWLDNIVELLFVLAPIFLLGAWIATSSERSSYIGTQMVVTFALATLENVFGPVYDLVEIR
+            DRALGIIIGTVVSAVIYTFVWPESEARTLPQKLAGTLGMLSKVMRIPRQQEVTALRTYLQ
+            IRIGLHAAFNACEEMCQRVALERQLDSEERALLIERSQTVIRQGRDLLHAWDATWNSAQA
+            LDNALQPDRAGQFADALEKYAAGLATALSRSPQITLEETPASQAILPTLLKQEQHVCQLF
+            ARLPDWTAPALTPATEQAQGATQ
+NTSEQ       2052
+            atgagcgcgctcaactccctgccattaccggtggtcaggctgctggcgttctttcatgaa
+            gagttaagcgagcggcgaccaggtcgcgtgccgcagaccgtgcaactctgggtaggctgc
+            ctgctggtgattctgatctcgatgacctttgagatcccttttgtggcgttatcgctggca
+            gtgctgttttacggtattcagtcgaacgcgttttacaccaaatttgtcgcgatcttgttt
+            gtggttgccacggtgctggagatcggcagcctgtttttgatctacaaatggtcatacggc
+            gaaccgttgatccgattgatcatcgccggaccgatcctgatgggctgcatgtttttgatg
+            cgcacccatcgcttggggctggtctttttcgccgtcgccattgtcgctatttacgggcaa
+            accttccccgccatgctcgactatccggaagtggtcgtgcgcttaacgctgtggtgtatc
+            gttgttggcctctatccaaccttgctgatgacgttaatcggcgtgctgtggtttcccagt
+            cgtgccatttcgcaaatgcatcaggcgcttaatgatcggcttgatgatgccattagtcac
+            ctgacagacagcctcgcaccgctacccgaaacgcggattgaaagagaggcgctggcgcta
+            caaaaactcaatgtcttttgcctcgcggacgatgccaactggcgaactcaaaacgcatgg
+            tggcaaagctgcgtggcaacggtaacctacatttactcgacgctgaatcgctacgatccc
+            acctcttttgctgattctcaggcaattattgaattccgacaaaaattagcttcagaaatc
+            aacaagctgcagcatgccgttgctgaaggtcagtgctggcaaagcgactggcggatcagt
+            gaaagtgaagcgatggcggcacgggaatgtaacctggagaatatctgccagacgttgtta
+            caactgggtcagatggacccgaatacgccgccaacgcccgcagccaaaccgccatcaatg
+            gccgccgatgcttttaccaatccagactatatgcgctacgcggtaaaaacgctgctcgcc
+            tgtttgatctgttacaccttttacagcggcgtggactgggaaggcattcacacctgtatg
+            ctgacatgcgtgatcgtcgctaacccaaatgtcggttcgtcgtaccagaagatggtgctg
+            cgttttggcggggccttttgcggcgcgattctggcgctgttattcacgctactggtcatg
+            ccctggctggacaatattgtcgaattgctgtttgtgctggcaccgattttcctgttgggc
+            gcatggattgccaccagctctgaacgctcttcttatatcggcacacagatggtggtcacc
+            ttcgcgctcgccacgctcgaaaacgtttttggcccagtgtacgacctggtggaaattcgc
+            gatcgcgccctgggtatcatcattggtaccgtggtgtccgcggtgatttacacctttgtc
+            tggcctgaaagtgaagcgcgcacactgccgcaaaaactggctggcacgctgggtatgtta
+            agtaaagtaatgcggatcccacgccagcaggaagtcacggctctgcgcacttatctgcaa
+            attcgtatcggtctgcatgcggcgtttaatgcctgtgaagagatgtgccaacgcgtggcg
+            ctggagcgtcaactggacagcgaagaacgcgcattactgattgaacgttcgcaaacggtt
+            attcgtcagggccgcgatcttcttcacgcctgggatgccacctggaactcggcgcaggcg
+            ctggataacgcactacagccggacagagcaggtcagtttgccgacgccctggagaaatac
+            gctgccggtctggcaaccgcactcagccgttctcctcaaataacgcttgaagagacaccc
+            gcctctcaggccatcctgcccaccttattaaaacaggagcaacacgtctgccagcttttc
+            gcccgcttgccagactggacagccccggcattaacgcccgccacggaacaggcacaagga
+            gccacgcaatga
+///

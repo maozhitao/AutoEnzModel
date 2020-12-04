@@ -1,0 +1,45 @@
+ENTRY       b1716             CDS       T00007
+NAME        rplT
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L20
+ORTHOLOGY   K02887  large subunit ribosomal protein L20
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b1716 (rplT)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b1716 (rplT)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b1716 (rplT)
+              Bacteria
+                b1716 (rplT)
+POSITION    complement(1799393..1799749)
+MOTIF       Pfam: Ribosomal_L20 SMC_ScpA
+DBLINKS     NCBI-GeneID: 945152
+            NCBI-ProteinID: NP_416231
+            Pasteur: rplT
+            RegulonDB: ECK120000872
+            ECOCYC: EG10881
+            ASAP: ABE-0005729
+            UniProt: P0A7L3
+STRUCTURE   PDB: 6QUL 6S0K 6I0Y 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH 4UY8
+                 3J7Z 6GC4 6GC6 6GC7 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L 2J28
+                 2RDO 3BBX 3IY9
+AASEQ       118
+            MARVKRGVIARARHKKILKQAKGYYGARSRVYRVAFQAVIKAGQYAYRDRRQRKRQFRQL
+            WIARINAAARQNGISYSKFINGLKKASVEIDRKILADIAVFDKVAFTALVEKAKAALA
+NTSEQ       357
+            atggctcgcgtaaaacgtggtgttattgcacgtgcacgtcacaagaaaattttgaaacaa
+            gctaaaggctactacggtgcgcgttctcgcgtataccgcgttgccttccaggctgttatc
+            aaagctggtcagtatgcttaccgtgaccgtcgtcaacgtaagcgtcagttccgtcaactg
+            tggattgcgcgtatcaacgcagcagcacgtcagaacggtatttcttacagcaaattcatc
+            aatggcctgaaaaaagcctctgttgaaatcgaccgtaagatcctggctgatatcgcagta
+            ttcgacaaagtagcgttcaccgctctggttgaaaaagcgaaagcagctctggcataa
+///

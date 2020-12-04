@@ -1,0 +1,33 @@
+ENTRY       b1347             CDS       T00007
+NAME        rcbA
+DEFINITION  (RefSeq) Rac prophage; double-strand break reduction protein
+ORTHOLOGY   K19780  antisense regulator of RalR protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b1347 (rcbA)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               RalR-RalA
+                b1347 (rcbA)
+POSITION    complement(1413531..1413740)
+MOTIF       Pfam: DUF1187
+DBLINKS     NCBI-GeneID: 947504
+            NCBI-ProteinID: NP_415863
+            Pasteur: ydaC
+            RegulonDB: ECK120001830
+            ECOCYC: EG11901
+            ASAP: ABE-0004522
+            UniProt: P33230
+AASEQ       69
+            MYKITATIEKEGGTPTNWTRYSKSKLTKSECEKMLSGKKEAGVSREQKVKLINFNCEKLQ
+            SSRIALYSN
+NTSEQ       210
+            atgtataaaattaccgccactattgaaaaggaaggtggcactcctactaactggacaaga
+            tattcaaaatctaaactaacgaaatcagaatgcgaaaaaatgctctcaggtaaaaaagaa
+            gcaggcgtttccagagagcagaaagtaaaactgataaattttaattgcgagaaacttcag
+            tcctcgagaattgcattgtattcaaattaa
+///

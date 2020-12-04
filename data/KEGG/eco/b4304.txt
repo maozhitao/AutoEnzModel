@@ -1,0 +1,68 @@
+ENTRY       b4304             CDS       T00007
+NAME        sgcC
+DEFINITION  (RefSeq) putative PTS enzyme IIC component SgcC
+ORTHOLOGY   K02775  galactitol PTS system EIIC component
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00052  Galactose metabolism
+            eco01100  Metabolic pathways
+            eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00052 Galactose metabolism
+                b4304 (sgcC)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b4304 (sgcC)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b4304 (sgcC)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               Galactitol-specific II component
+                b4304 (sgcC)
+POSITION    complement(4528930..4530243)
+MOTIF       Pfam: EIIC-GAT
+DBLINKS     NCBI-GeneID: 946849
+            NCBI-ProteinID: NP_418724
+            Pasteur: sgcC
+            RegulonDB: ECK120002321
+            ECOCYC: EG12556
+            ASAP: ABE-0014105
+            UniProt: P39365
+AASEQ       437
+            MFDYILSLGGTVFVPIIMIVIGLIFRIPWLQAIKAGVTVGIGFVGMGLVIVMAIDSLSPP
+            IKVMIERFGLALHVFDVGAGPASGVGYATAIGAMIIPVIFLLNVAMLVTRLTKTMNVDIY
+            NYWHYAITGTVVQLMTGSLIYGVLGAICHAALSLKMADWTAKRVQNIVGLEGISIPQGYG
+            SSSVPLFVLLDAIYEKIPFMKGRNIDAQEIQKRYGMVGDPVIIGVVLGLIFGLAAGEGFK
+            GCASLMITVAAIMVLFPRMIRLIVEGLLPISDGARKFFQKYFKGREVYIGLDTAVTLGHP
+            TTIAVGLLLIPIMLILASILPGNKVLPLADLPVAPFFICMATVIHRGDLVRTLISGVIVM
+            ITVLLIATQFAPYFTEMALKGGFSFAGESAQISALSVGNMFGWSISELMSLGIIGVVVAV
+            GIVASVVLFLRKRELSE
+NTSEQ       1314
+            atgtttgattacatcctgtctctcggcggtaccgttttcgtccctatcatcatgatcgtg
+            attggccttatcttccgcatcccctggctgcaggcgattaaggcaggggtaacggttggg
+            attggttttgtcggtatgggactggtgatcgtcatggcgatcgacagcctcagtccccct
+            atcaaagtgatgattgagcgtttcggcctagccctgcatgtctttgacgttggcgcaggc
+            cctgcctccggcgttggttatgcgacagccattggcgccatgattatcccagttattttt
+            cttctcaatgtcgccatgctggtcacccgtctgaccaaaacgatgaacgtcgatatttac
+            aattactggcactacgccattacgggtacggtggtccagcttatgaccggtagcctgatt
+            tatggtgtgctgggggcaatctgccatgcggcgctatcgttaaaaatggccgactggacg
+            gcaaaacgggtacagaacatcgtcgggctggaaggtatttcgataccgcaaggctacggt
+            tccagttcagtaccgcttttcgttctacttgatgctatctatgaaaaaatccctttcatg
+            aagggacgcaatatcgatgctcaggagatccagaaacgctacggcatggtcggcgatccg
+            gtgattatcggcgtagtgctcggtctgatttttggcctggcggctggtgaaggctttaaa
+            ggttgcgccagtctgatgattaccgttgcggcaatcatggtgttgttcccgcgcatgatc
+            cgcctgattgttgagggcctgctgcccatctccgacggtgcaagaaagttcttccagaaa
+            tatttcaaaggacgtgaagtgtatatcggtctggatactgctgtgacgctggggcatcca
+            accaccattgctgtcggtctgctactgatacccattatgttaattctggccagcatttta
+            ccgggcaacaaagtgttacccctcgcagacctgccggtagcaccgttctttatctgtatg
+            gctacggttatccaccgcggagacctggtcaggacgttgataagcggggtcatcgtgatg
+            attaccgtcctgctgatcgccacccagttcgcgccttacttcactgaaatggcgctcaaa
+            ggcggtttcagttttgccggtgaaagtgcgcaaatctcagcgttgtccgtgggcaatatg
+            ttcggttggtcgatttctgaattgatgtcgcttgggattattggcgttgtcgtggcggtc
+            ggtattgtcgccagcgtcgtgctgttcttacgtaaacgtgaattatcggaataa
+///

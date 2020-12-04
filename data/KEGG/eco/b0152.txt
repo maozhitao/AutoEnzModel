@@ -1,0 +1,53 @@
+ENTRY       b0152             CDS       T00007
+NAME        fhuD
+DEFINITION  (RefSeq) iron(III) hydroxamate ABC transporter periplasmic binding protein
+ORTHOLOGY   K23227  ferric hydroxamate transport system substrate-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b0152 (fhuD)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0152 (fhuD)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Metallic cation, iron-siderophore and vitamin B12 transporters
+               Ferric hydroxamate transporter
+                b0152 (fhuD)
+POSITION    170575..171465
+MOTIF       Pfam: Peripla_BP_2
+DBLINKS     NCBI-GeneID: 947510
+            NCBI-ProteinID: NP_414694
+            Pasteur: fhuD
+            RegulonDB: ECK120000299
+            ECOCYC: EG10305
+            ASAP: ABE-0000524
+            UniProt: P07822
+STRUCTURE   PDB: 1EFD 1K2V 1ESZ 1K7S
+AASEQ       296
+            MSGLPLISRRRLLTAMALSPLLWQMNTAHAAAIDPNRIVALEWLPVELLLALGIVPYGVA
+            DTINYRLWVSEPPLPDSVIDVGLRTEPNLELLTEMKPSFMVWSAGYGPSPEMLARIAPGR
+            GFNFSDGKQPLAMARKSLTEMADLLNLQSAAETHLAQYEDFIRSMKPRFVKRGARPLLLT
+            TLIDPRHMLVFGPNSLFQEILDEYGIPNAWQGETNFWGSTAVSIDRLAAYKDVDVLCFDH
+            DNSKDMDALMATPLWQAMPFVRAGRFQRVPAVWFYGATLSAMHFVRVLDNAIGGKA
+NTSEQ       891
+            atgagcggcttacctcttatttcgcgccgtcgactgttaacggcgatggcgctttctccg
+            ttgttatggcagatgaataccgcccacgcggcggctattgatcccaatcgtattgtggcg
+            ctggagtggttgccggtggaattactgctggcgctcggcatcgtgccttacggcgtggcg
+            gataccatcaactatcgcctgtgggtcagcgaaccaccattgccggactcagtgatcgac
+            gtcggtttgcgcacagaacctaaccttgaactgctgaccgaaatgaaaccatcgtttatg
+            gtctggtcggcaggatatggcccttcaccagaaatgctggctcgtattgcgccgggtcgc
+            ggatttaacttcagtgacggcaaacagccgttggcgatggcgcgtaaatcgctgacggaa
+            atggcagatttacttaacctgcaaagcgcagcggaaacgcatttagcgcaatatgaagac
+            tttatccgcagcatgaaaccccgctttgtgaagcgtggtgcgcgtccgttattgctgacg
+            acgcttatcgatccgcgccatatgctggtcttcggtccaaacagcttgttccaggaaatt
+            cttgatgagtacggcatcccaaatgcctggcaaggggaaaccaacttctggggcagtacc
+            gccgtcagtatcgatcgtctggcggcgtataaagacgttgatgtgctctgttttgatcac
+            gacaacagcaaagacatggatgcgctaatggcaacgccgctgtggcaggccatgccgttt
+            gtccgcgccggacgctttcagcgcgtacctgcagtctggttttatggtgcgacgctctcg
+            gcaatgcactttgtgcgcgttctggataacgccatcggaggtaaagcgtga
+///

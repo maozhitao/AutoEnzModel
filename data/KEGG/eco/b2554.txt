@@ -1,0 +1,67 @@
+ENTRY       b2554             CDS       T00007
+NAME        glrR
+DEFINITION  (RefSeq) DNA-binding transcriptional activator GlrR
+ORTHOLOGY   K07715  two-component system, NtrC family, response regulator GlrR
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02024  Quorum sensing
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b2554 (glrR)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b2554 (glrR)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b2554 (glrR)
+            Two-component system [BR:eco02022]
+             NtrC family
+              GlrK-GlrR (amino sugar metabolism)
+               b2554 (glrR)
+POSITION    complement(2687469..2688803)
+MOTIF       Pfam: Sigma54_activat Response_reg Sigma54_activ_2 AAA_5 AAA AAA_2 HTH_8 FAD_binding_2 UPF0175 AAA_16
+DBLINKS     NCBI-GeneID: 947042
+            NCBI-ProteinID: NP_417049
+            Pasteur: yfhA
+            RegulonDB: ECK120001258
+            ECOCYC: EG11285
+            ASAP: ABE-0008400
+            UniProt: P0AFU4
+AASEQ       444
+            MSHKPAHLLLVDDDPGLLKLLGLRLTSEGYSVVTAESGAEGLRVLNREKVDLVISDLRMD
+            EMDGMQLFAEIQKVQPGMPVIILTAHGSIPDAVAATQQGVFSFLTKPVDKDALYQAIDDA
+            LEQSAPATDERWREAIVTRSPLMLRLLEQARLVAQSDVSVLINGQSGTGKEIFAQAIHNA
+            SPRNSKPFIAINCGALPEQLLESELFGHARGAFTGAVSNREGLFQAAEGGTLFLDEIGDM
+            PAPLQVKLLRVLQERKVRPLGSNRDIDINVRIISATHRDLPKAMARGEFREDLYYRLNVV
+            SLKIPALAERTEDIPLLANHLLRQAAERHKPFVRAFSTDAMKRLMTASWPGNVRQLVNVI
+            EQCVALTSSPVISDALVEQALEGENTALPTFVEARNQFELNYLRKLLQITKGNVTHAARM
+            AGRNRTEFYKLLSRHELDANDFKE
+NTSEQ       1335
+            atgagccataaacctgcgcatttattattggtcgatgacgatccgggattgctgaaactg
+            cttggcctgcgcctgaccagcgaaggctacagtgtggtcacggcggaaagtggcgctgaa
+            ggattacgggtactgaatcgcgaaaaagtagatttagtcatcagcgacctgcggatggat
+            gaaatggacggtatgcagctgtttgctgaaatccagaaagtgcagccgggaatgccggta
+            attattcttaccgcgcatggttctattcccgatgccgttgctgcaacacagcagggcgtt
+            tttagtttcctcaccaagcctgtcgacaaagacgcgctatatcaggcaattgacgatgcg
+            ctggagcaatccgcgccagccaccgatgaacgctggcgcgaggcaattgtcacccgcagc
+            ccgctgatgctgcgtttgctggaacaggcgcggctggtggcgcaatcagacgtcagcgtt
+            ttgattaacggtcagagcggcaccgggaaagagattttcgcccaggctatccacaacgcc
+            agcccgcgcaacagcaaaccatttattgctattaactgtggcgcattgcccgagcaattg
+            ctggagtcggagctgtttggtcatgcgcgtggcgcgtttactggcgctgtcagcaatcgc
+            gaaggtttattccaggcggcggaaggcggaacgctatttctcgatgaaattggcgatatg
+            cctgcgccgttacaggtcaaactgctgcgcgtgttgcaggagcgtaaagtgcgcccgctg
+            ggcagtaaccgcgatattgatatcaatgtgcggattatttctgccactcaccgtgatctg
+            ccaaaagcgatggcgcgcggggaattccgcgaagatctctattaccgcctcaacgttgtc
+            agcctgaaaattccggcactggcggagcgcacagaagacattccgctactggcaaatcac
+            ctgttgcgccaggcggcagagcgacataaaccgtttgtccgcgcgttctctaccgatgcg
+            atgaaacgcctgatgaccgcgagctggccgggtaatgtgcgccagttggtcaacgtgatt
+            gaacagtgcgtggcgctgacctcatctccggtgattagtgatgcgctggtggagcaggcg
+            ctggagggtgaaaatacggcgctgccaacctttgttgaggcacgtaatcagtttgaactc
+            aactatttgcgtaagctgctgcaaatcaccaaaggcaacgtcacccacgcggcgagaatg
+            gcggggcgcaaccggacagaattttataaactgctttcccgacacgagctggatgcaaac
+            gatttcaaggaatga
+///

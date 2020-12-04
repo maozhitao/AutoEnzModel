@@ -1,0 +1,39 @@
+ENTRY       b0296             CDS       T00007
+NAME        ykgM
+DEFINITION  (RefSeq) putative ribosomal protein
+ORTHOLOGY   K02909  large subunit ribosomal protein L31
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b0296 (ykgM)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b0296 (ykgM)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Bacteria
+               Large subunit
+                b0296 (ykgM)
+POSITION    complement(312514..312777)
+MOTIF       Pfam: Ribosomal_L31
+DBLINKS     NCBI-GeneID: 944960
+            NCBI-ProteinID: NP_414830
+            Pasteur: ykgM
+            RegulonDB: ECK120002787
+            ECOCYC: G6167
+            ASAP: ABE-0001021
+            UniProt: P0A7N1
+AASEQ       87
+            MKPNIHPEYRTVVFHDTSVDEYFKIGSTIKTDREIELDGVTYPYVTIDVSSKSHPFYTGK
+            LRTVASEGNVARFTQRFGRFVSTKKGA
+NTSEQ       264
+            atgaagcccaatatccatcctgagtatcgtactgtggtgttccacgacaccagtgttgat
+            gagtactttaaaatcggctcgactatcaaaacagaccgtgagattgagctggatggcgta
+            acgtatccatacgtgacaattgatgtctcttctaaatcgcacccgttctatacagggaag
+            ctgagaacagtggcatcagaaggaaatgttgcacgattcacccaacgttttggtcgtttt
+            gttagcacgaaaaagggggcgtga
+///

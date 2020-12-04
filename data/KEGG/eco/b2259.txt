@@ -1,0 +1,31 @@
+ENTRY       b2259             CDS       T00007
+NAME        pmrD
+DEFINITION  (RefSeq) signal transduction protein PmrD
+ORTHOLOGY   K19238  signal transduction protein PmrD
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01503  Cationic antimicrobial peptide (CAMP) resistance
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b2259 (pmrD)
+POSITION    complement(2373272..2373538)
+MOTIF       Pfam: PmrD
+DBLINKS     NCBI-GeneID: 945130
+            NCBI-ProteinID: NP_416762
+            Pasteur: pmrD
+            RegulonDB: ECK120003748
+            ECOCYC: G7172
+            ASAP: ABE-0007468
+            UniProt: P37590
+STRUCTURE   PDB: 4HN7 2JSO
+AASEQ       88
+            MEWLVKKSCCNKQDNRHVLMLCDAGGAIKMIAEVKSDFAVKVGDLLSPLQNALYCINREK
+            LHTVKVLSASSYSPDEWERQCKVAGKTQ
+NTSEQ       267
+            atggaatggctggtcaaaaaatcgtgctgcaataaacaagataacagacatgtacttatg
+            ctctgcgatgctggcggcgcgataaaaatgatcgccgaagtgaagagtgacttcgccgtg
+            aaagtgggggatttactctcgcctttgcagaatgcgctttattgtattaatcgtgaaaag
+            ctgcatacggtgaaagtcctctcggcaagcagttatagccccgatgagtgggaacggcag
+            tgtaaagtggcagggaaaactcagtaa
+///

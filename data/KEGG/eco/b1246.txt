@@ -1,0 +1,65 @@
+ENTRY       b1246             CDS       T00007
+NAME        oppD
+DEFINITION  (RefSeq) murein tripeptide ABC transporter/oligopeptide ABC transporter ATP binding subunit OppD
+ORTHOLOGY   K15583  oligopeptide transport system ATP-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01501  beta-Lactam resistance
+            eco02010  ABC transporters
+            eco02024  Quorum sensing
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b1246 (oppD)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b1246 (oppD)
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01501 beta-Lactam resistance
+                b1246 (oppD)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1246 (oppD)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Peptide and nickel transporters
+               Oligopeptide transporter
+                b1246 (oppD)
+POSITION    1304754..1305767
+MOTIF       Pfam: ABC_tran oligo_HPY AAA_21 SMC_N AAA_29
+DBLINKS     NCBI-GeneID: 945802
+            NCBI-ProteinID: YP_025300
+            Pasteur: oppD
+            RegulonDB: ECK120000670
+            ECOCYC: EG10677
+            ASAP: ABE-0004178
+            UniProt: P76027
+AASEQ       337
+            MSVIETATVPLAQQQADALLNVKDLRVTFSTPDGDVTAVNDLNFSLRAGETLGIVGESGS
+            GKSQTAFALMGLLAANGRIGGSATFNGREILNLPEHELNKLRAEQISMIFQDPMTSLNPY
+            MRVGEQLMEVLMLHKNMSKAEAFEESVRMLDAVKMPEARKRMKMYPHEFSGGMRQRVMIA
+            MALLCRPKLLIADEPTTALDVTVQAQIMTLLNELKREFNTAIIMITHDLVVVAGICDKVL
+            VMYAGRTMEYGNARDVFYQPVHPYSIGLLNAVPRLDAEGETMLTIPGNPPNLLRLPKGCP
+            FQPRCPHAMEICSSAPPLEEFTPGRLRACFKPVEELL
+NTSEQ       1014
+            atgagcgtaattgaaactgcaactgtgccgctcgcacaacaacaggctgacgcactgctg
+            aacgtgaaagatttgcgtgtcacctttagtaccccggacggcgacgtcacggcggtcaat
+            gatttgaatttttccctacgtgccggagaaacgctgggtattgtaggtgagtctggttcg
+            ggtaaatcgcaaactgcatttgcgttgatgggcctgttggctgccaacggacgtattggc
+            ggatcggcaaccttcaatgggcgtgaaatcctcaatttgccagagcatgaactcaataaa
+            ctgcgcgctgaacaaatctcaatgatttttcaggacccaatgacttcgttgaatccctat
+            atgcgcgtcggtgagcagttgatggaagtgctgatgctgcataagaacatgagcaaagct
+            gaggcgtttgaagagtcggtgcggatgctcgatgcggtaaaaatgccggaagcgcgtaaa
+            cgcatgaaaatgtacccgcacgaattttctggcggcatgcgtcagcgagtcatgattgcg
+            atggccttgttatgtcgacctaagctgctgattgcggatgaaccaacaactgcgctggac
+            gtcaccgtacaggcgcagatcatgacgctattaaatgaactgaagcgggaatttaatacc
+            gccatcattatgatcacccacgatcttgtcgtggtggcggggatctgcgacaaagtgctg
+            gtaatgtacgccgggcgcacgatggaatatggcaacgcgcgcgatgtcttttatcaaccc
+            gttcatccttattctatcggtttgctcaacgcggtgccgcgtctcgatgcggaaggtgaa
+            acaatgttgaccatcccgggtaatccgccaaacctgctgcgattaccgaaaggttgcccg
+            ttccagccacgttgtccgcatgcgatggaaatttgtagtagcgcaccgccgctggaagag
+            tttacgcctggccgtctgcgtgcttgctttaaaccggtggaggaactgttatga
+///

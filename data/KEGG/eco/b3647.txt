@@ -1,0 +1,106 @@
+ENTRY       b3647             CDS       T00007
+NAME        ligB
+DEFINITION  (RefSeq) DNA ligase B
+ORTHOLOGY   K01972  DNA ligase (NAD+) [EC:6.5.1.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+            eco03410  Base excision repair
+            eco03420  Nucleotide excision repair
+            eco03430  Mismatch repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b3647 (ligB)
+               03410 Base excision repair
+                b3647 (ligB)
+               03420 Nucleotide excision repair
+                b3647 (ligB)
+               03430 Mismatch repair
+                b3647 (ligB)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b3647 (ligB)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b3647 (ligB)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.5  Forming phosphoric-ester bonds
+               6.5.1  Ligases that form phosphoric-ester bonds (only sub-subclass identified to date)
+                6.5.1.2  DNA ligase (NAD+)
+                 b3647 (ligB)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Elongation Factors
+               Elongation factors (bacterial)
+                Other elongation factors
+                 b3647 (ligB)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                DNA ligase
+                 b3647 (ligB)
+               NER (nucleotide excision repair)
+                GGR (global genome repair) factors
+                 b3647 (ligB)
+               MMR (mismatch excision repair)
+                DNA ligase
+                 b3647 (ligB)
+              DSBR (double strand breaks repair)
+               NHEJ (non-homologous end-joining)
+                SHDIR (short-homology-dependent illegitimate recombination)
+                 RecET pathway
+                  b3647 (ligB)
+POSITION    complement(3819488..3821170)
+MOTIF       Pfam: DNA_ligase_aden DNA_ligase_OB
+DBLINKS     NCBI-GeneID: 948164
+            NCBI-ProteinID: NP_418104
+            Pasteur: yicF
+            RegulonDB: ECK120001305
+            ECOCYC: EG11334
+            ASAP: ABE-0011923
+            UniProt: P25772
+AASEQ       560
+            MKVWMAILIGILCWQSSVWAVCPAWSPARAQEEISRLQQQIKQWDDDYWKEGKSEVEDGV
+            YDQLSARLTQWQRCFGSEPRDVMMPPLNGAVMHPVAHTGVRKMVDKNALSLWMRERSDLW
+            VQPKVDGVAVTLVYRDGKLNKAISRGNGLKGEDWTQKVSLISAVPQTVSGPLANSTLQGE
+            IFLQREGHIQQQMGGINARAKVAGLMMRQDDSDTLNSLGVFVWAWPDGPQLMSDRLKELA
+            TAGFTLTQTYTRAVKNADEVARVRNEWWKAELPFVTDGVVVRAAKEPESRHWLPGQAEWL
+            VAWKYQPVAQVAEVKAIQFAVGKSGKISVVASLAPVMLDDKKVQRVNIGSVRRWQEWDIA
+            PGDQILVSLAGQGIPRIDDVVWRGAERTKPTPPENRFNSLTCYFASDVCQEQFISRLVWL
+            GAKQVLGLDGIGEAGWRALHQTHRFEHIFSWLLLTPEQLQNTPGIAKSKSAQLWHQFNLA
+            RKQPFTRWVMAMGIPLTRAALNASDERSWSQLLFSTEQFWQQLPGTGSGRARQVIEWKEN
+            AQIKKLGSWLAAQQITGFEP
+NTSEQ       1683
+            atgaaagtatggatggcgatattaataggtatcttgtgctggcaatcatctgtgtgggcg
+            gtctgtccggcctggtcgccagccagagcacaggaagaaatttcccgcctgcaacagcaa
+            ataaaacagtgggacgatgactactggaaggaaggaaaaagtgaggtggaagacggtgtt
+            tacgatcagttaagcgcccgtcttacgcagtggcaacgctgctttgggagcgagccccgc
+            gacgtgatgatgccgcctttaaatggtgcggttatgcatccggttgcccatacgggtgta
+            cgcaaaatggtggataaaaacgcattaagtctgtggatgcgagaacgtagcgatctttgg
+            gtgcagccaaaagttgatggcgttgcggtaaccctggtttatcgggacgggaaactgaac
+            aaagcaatcagtcgcggtaatggcctgaaaggcgaggactggacgcagaaagttagctta
+            atttccgctgtgccgcaaaccgttagcgggcctttagccaacagtacgcttcagggggaa
+            atatttctccagcgcgaggggcatatccaacaacaaatggggggaataaatgcccgcgca
+            aaagttgctggcttgatgatgcgccaggacgatagcgacacgctgaattctctgggcgtt
+            tttgtctgggcatggccggatggaccgcagttaatgtctgatcgtttaaaagagctggct
+            accgcaggttttactctaacgcagacgtatacccgtgcggtgaaaaatgctgatgaagtt
+            gcgcgcgtacgcaatgagtggtggaaagcggaattacccttcgtcaccgatggcgtagtt
+            gtacgagcggcgaaagagccagaatcccgccattggctaccgggccaggcagagtggctg
+            gtggcctggaaatatcaacctgtagctcaggttgccgaagtgaaggcaattcagtttgcg
+            gtgggtaagagcggtaaaatatcggtggttgcgtcactcgcacctgtcatgctggatgat
+            aaaaaagtccagcgggtgaatattggttccgtcaggcgctggcaggagtgggatattgcg
+            cctggtgatcagattctcgtcagccttgccggtcagggtattcctcgcattgatgatgtg
+            gtgtggcgcggtgcagaacgtacaaaaccgacaccgccagaaaaccgctttaactcgttg
+            acctgctactttgcttctgatgtttgtcaggaacagttcatttcacgcttagtctggctg
+            ggggcaaaacaggttcttgggctggatggcattggtgaggccggttggcgcgcgctgcat
+            cagactcatcgctttgaacatatcttttcctggcttttattaacgccagagcaattacag
+            aacacgccggggatcgcgaaaagtaaaagtgcgcagctatggcatcagtttaatctggct
+            cgtaagcagccttttactcgctgggtgatggcaatgggaataccgctaacccgggcggcg
+            cttaatgccagtgatgaacggtcctggtcgcaacttttatttagcacggagcagttctgg
+            cagcagctgccggggactggatcgggacgcgccagacaggttattgaatggaaggaaaat
+            gcgcaaatcaagaagctgggcagttggctggctgcccagcagatcacaggttttgaacct
+            tag
+///

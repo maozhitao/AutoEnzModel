@@ -1,0 +1,39 @@
+ENTRY       b0736             CDS       T00007
+NAME        ybgC
+DEFINITION  (RefSeq) esterase/thioesterase
+ORTHOLOGY   K07107  acyl-CoA thioester hydrolase [EC:3.1.2.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0736 (ybgC)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.2  Thioester hydrolases
+                3.1.2.-  
+                 b0736 (ybgC)
+POSITION    774752..775156
+MOTIF       Pfam: 4HBT 4HBT_2 Acyl-ACP_TE
+DBLINKS     NCBI-GeneID: 948907
+            NCBI-ProteinID: NP_415264
+            Pasteur: ybgC
+            RegulonDB: ECK120001096
+            ECOCYC: EG11110
+            ASAP: ABE-0002508
+            UniProt: P0A8Z3
+STRUCTURE   PDB: 1S5U 5T07 5T06 5KL9
+AASEQ       134
+            MNTTLFRWPVRVYYEDTDAGGVVYHASYVAFYERARTEMLRHHHFSQQALMAERVAFVVR
+            KMTVEYYAPARLDDMLEIQTEITSMRGTSLVFTQRIVNAENTLLNEAEVLVVCVDPLKMK
+            PRALPKSIVAEFKQ
+NTSEQ       405
+            gtgaatacaacgctgtttcgatggccggttcgcgtctactatgaagataccgatgccggt
+            ggtgtggtgtaccacgccagttacgtcgctttttatgaaagagcacgcacagagatgctg
+            cgtcatcatcacttcagtcagcaggcgctgatggctgaacgcgttgcctttgtggtacgt
+            aaaatgacggtggaatattacgcacctgcgcggctcgacgatatgctcgaaatacagact
+            gaaataacatcaatgcgtggcacctctttggttttcacgcaacgtattgtcaacgccgag
+            aatactttgctgaatgaagcagaggttctggttgtttgcgttgacccactcaaaatgaag
+            cctcgtgcgcttcccaagtctattgtcgcggagtttaagcagtga
+///

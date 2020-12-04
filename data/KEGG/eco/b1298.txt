@@ -1,0 +1,57 @@
+ENTRY       b1298             CDS       T00007
+NAME        puuD
+DEFINITION  (RefSeq) gamma-glutamyl-gamma-aminobutyrate hydrolase
+ORTHOLOGY   K09473  gamma-glutamyl-gamma-aminobutyrate hydrolase [EC:3.5.1.94]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00330  Arginine and proline metabolism
+            eco01100  Metabolic pathways
+MODULE      eco_M00136  GABA biosynthesis, prokaryotes, putrescine => GABA
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09105 Amino acid metabolism
+               00330 Arginine and proline metabolism
+                b1298 (puuD)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b1298 (puuD)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.94  gamma-glutamyl-gamma-aminobutyrate hydrolase
+                 b1298 (puuD)
+            Peptidases and inhibitors [BR:eco01002]
+             Cysteine peptidases
+              Family C26: gamma-glutamyl hydrolase family
+               b1298 (puuD)
+POSITION    1361120..1361884
+MOTIF       Pfam: Peptidase_C26 GATase
+DBLINKS     NCBI-GeneID: 945882
+            NCBI-ProteinID: NP_415814
+            Pasteur: ycjL
+            RegulonDB: ECK120003240
+            ECOCYC: G6645
+            ASAP: ABE-0004369
+            UniProt: P76038
+AASEQ       254
+            MENIMNNPVIGVVMCRNRLKGHATQTLQEKYLNAIIHAGGLPIALPHALAEPSLLEQLLP
+            KLDGIYLPGSPSNVQPHLYGENGDEPDADPGRDLLSMAIINAALERRIPIFAICRGLQEL
+            VVATGGSLHRKLCEQPELLEHREDPELPVEQQYAPSHEVQVEEGGLLSALLPECSNFWVN
+            SLHGQGAKVVSPRLRVEARSPDGLVEAVSVINHPFALGVQWHPEWNSSEYALSRILFEGF
+            ITACQHHIAEKQRL
+NTSEQ       765
+            atggaaaatataatgaacaatccggttatcggtgtcgtaatgtgcaggaacaggcttaag
+            ggtcatgcgacccagactctgcaagaaaagtacctgaatgccatcatccatgcaggcggc
+            ttgcctattgcgctaccacatgcgctggcggaaccgtcattacttgaacaacttttgccg
+            aaactcgatggcatttatcttcctggtagtcccagcaatgtgcagccgcacctatatggt
+            gaaaacggcgatgagcctgacgccgatcccgggcgtgatcttctgagcatggcgataatt
+            aatgccgcactcgaaaggcgcatccccattttcgccatctgccggggtttacaagaactg
+            gtggtggcaaccggtggttcgttgcatcgcaagctgtgcgaacagcctgaattgctggaa
+            catcgggaagatcccgaactgccggtggaacagcaatatgcaccgtcgcatgaagttcag
+            gttgaagaggggggattactgtctgcgttgttacctgaatgtagcaacttttgggtaaac
+            tctctacatggacaaggggcgaaggtcgttagcccacggttgcgtgttgaagctcgctcg
+            ccggatggcttagttgaggcggttagcgtcatcaatcatccttttgcgctgggcgtacag
+            tggcacccggaatggaacagtagcgagtacgcgctttcgcgtatattgttcgagggcttt
+            atcaccgcttgtcagcaccatatcgctgaaaaacagcgactctga
+///

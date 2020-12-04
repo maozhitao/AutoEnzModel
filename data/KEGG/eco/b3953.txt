@@ -1,0 +1,42 @@
+ENTRY       b3953             CDS       T00007
+NAME        frwD
+DEFINITION  (RefSeq) putative PTS enzyme IIB component FrwD
+ORTHOLOGY   K11202  fructose-like PTS system EIIB component [EC:2.7.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3953 (frwD)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.-  
+                 b3953 (frwD)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               Fructose-specific II-like component
+                b3953 (frwD)
+POSITION    4147138..4147479
+MOTIF       Pfam: PTS_IIB
+DBLINKS     NCBI-GeneID: 948452
+            NCBI-ProteinID: NP_418388
+            Pasteur: frwD
+            RegulonDB: ECK120001840
+            ECOCYC: EG11912
+            ASAP: ABE-0012941
+            UniProt: P32676
+STRUCTURE   PDB: 4TN5
+AASEQ       113
+            MAYLVAVTACVSGVAHTYMAAERLEKLCLLEKWGVSIETQGALGTENRLADEDIRRADVA
+            LLITDIELAGAERFEHCRYVQCSIYAFLREPQRVMSAVRKVLSAPQQTHLILE
+NTSEQ       342
+            atggcatacctggtggcagtaaccgcctgcgtaagcggcgtggcgcatacttatatggcg
+            gcggaacggctggaaaagttgtgcctgttagagaagtggggagtcagcattgaaactcag
+            ggcgcgctgggaacggagaatcgtttagcggatgaggatatccgccgggcggatgttgct
+            ctgttgattacggatatcgagcttgccggtgccgagcgatttgaacattgccgctatgtg
+            caatgcagcatctacgcattcctgcgtgagccgcagcgggtaatgagcgcggtgcgcaaa
+            gtgctttctgcgccgcagcaaacccatcttattctggagtag
+///

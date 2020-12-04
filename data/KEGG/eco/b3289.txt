@@ -1,0 +1,64 @@
+ENTRY       b3289             CDS       T00007
+NAME        rsmB
+DEFINITION  (RefSeq) 16S rRNA m(5)C967 methyltransferase
+ORTHOLOGY   K03500  16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b3289 (rsmB)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.176  16S rRNA (cytosine967-C5)-methyltransferase
+                 b3289 (rsmB)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               16S rRNA modification factors
+                b3289 (rsmB)
+POSITION    3435207..3436496
+MOTIF       Pfam: Methyltr_RsmB-F NusB Methyltransf_31 Methyltransf_25 FtsJ Methyltransf_5 MTS Methyltr_RsmF_N Cons_hypoth95 Methyltransf_15 Ubie_methyltran Methyltransf_33
+DBLINKS     NCBI-GeneID: 947789
+            NCBI-ProteinID: NP_417747
+            Pasteur: rsmB
+            RegulonDB: ECK120002059
+            ECOCYC: EG12163
+            ASAP: ABE-0010785
+            UniProt: P36929
+STRUCTURE   PDB: 1SQG 1SQF
+AASEQ       429
+            MKKQRNLRSMAAQAVEQVVEQGQSLSNILPPLQQKVSDKDKALLQELCFGVLRTLSQLDW
+            LINKLMARPMTGKQRTVHYLIMVGLYQLLYTRIPPHAALAETVEGAIAIKRPQLKGLING
+            VLRQFQRQQEELLAEFNASDARYLHPSWLLKRLQKAYPEQWQSIVEANNQRPPMWLRINR
+            THHSRDSWLALLDEAGMKGFPHADYPDAVRLETPAPVHALPGFEDGWVTVQDASAQGCMT
+            WLAPQNGEHILDLCAAPGGKTTHILEVAPEAQVVAVDIDEQRLSRVYDNLKRLGMKATVK
+            QGDGRYPSQWCGEQQFDRILLDAPCSATGVIRRHPDIKWLRRDRDIPELAQLQSEILDAI
+            WPHLKTGGTLVYATCSVLPEENSLQIKAFLQRTADAELCETGTPEQPGKQNLPGAEEGDG
+            FFYAKLIKK
+NTSEQ       1290
+            atgaaaaaacaacgtaatttacgtagcatggcggcccaggccgttgaacaagtcgtcgag
+            caagggcaatcattaagcaacattctgccaccgctccagcaaaaagtttccgataaagac
+            aaagcacttcttcaagagttgtgctttggcgtactgcgtacgctttcgcagttagactgg
+            ctgattaataagttaatggcccgtccgatgaccggcaaacagcggaccgtgcattacctg
+            attatggttggtttgtatcaactgctttatacccgcattccacctcatgctgcgctggct
+            gaaacggttgaaggcgctatcgcaattaagcgtccgcaacttaaagggttgataaacggt
+            gtattacgccagttccagcgtcagcaagaagagttattagccgagtttaatgccagtgat
+            gcacgttatctgcatccttcctggttgctgaagcgtctgcaaaaagcgtatccagagcag
+            tggcaatccatcgtcgaagccaataaccagcgtccgccaatgtggctgcgtattaatcgt
+            acgcatcattcccgcgacagctggcttgcattgctggatgaagcaggaatgaaaggtttc
+            ccgcatgcggattaccctgatgctgtacgtctggaaacacctgcacctgttcatgcgcta
+            cctggttttgaagacggatgggttaccgttcaggatgcatcagcacaaggttgcatgacc
+            tggcttgcgccacaaaacggtgaacacattttggatctttgtgccgcccccggcggtaaa
+            acaacgcatatccttgaggtggcaccagaagcgcaggttgttgcggttgatatcgacgaa
+            cagcgcctctctcgggtttacgacaatttaaaacgccttggtatgaaggcgaccgtgaaa
+            caaggtgatggccgttacccttctcaatggtgtggcgagcaacagtttgatcgcatttta
+            ttagatgcgccttgttcagcaaccggtgtgattcgtcgccatccagatattaaatggtta
+            cgtcgcgatcgcgatatcccggaactcgcgcaattgcagtctgaaattctcgacgccatt
+            tggccgcatttaaaaaccggtggaactctggtctatgccacctgttcggtgttaccggaa
+            gagaatagcctgcagattaaagcctttttgcaacgtaccgctgatgccgaactttgcgaa
+            acaggaacaccagagcaaccgggtaaacaaaatctacctggtgccgaagagggcgacggc
+            ttcttttacgctaagctaatcaaaaagtga
+///

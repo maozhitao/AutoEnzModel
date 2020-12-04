@@ -1,0 +1,115 @@
+ENTRY       b0642             CDS       T00007
+NAME        leuS
+DEFINITION  (RefSeq) leucine--tRNA ligase
+ORTHOLOGY   K01869  leucyl-tRNA synthetase [EC:6.1.1.4]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                b0642 (leuS)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:eco01007]
+                b0642 (leuS)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b0642 (leuS)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b0642 (leuS)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.4  leucine---tRNA ligase
+                 b0642 (leuS)
+            Amino acid related enzymes [BR:eco01007]
+             Aminoacyl-tRNA synthetase
+              Class I (U)
+               b0642 (leuS)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Multi-aminoacyl-tRNA synthetase complex (MSC)
+                b0642 (leuS)
+             Prokaryotic type
+                b0642 (leuS)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Other mitochondrial DNA transcription and translation factors
+                b0642 (leuS)
+POSITION    complement(672201..674783)
+MOTIF       Pfam: tRNA-synt_1_2 tRNA-synt_1 tRNA-synt_1g Anticodon_1 tRNA-synt_1f tRNA-synt_1e
+DBLINKS     NCBI-GeneID: 947497
+            NCBI-ProteinID: NP_415175
+            Pasteur: leuS
+            RegulonDB: ECK120000525
+            ECOCYC: EG10532
+            ASAP: ABE-0002196
+            UniProt: P07813
+STRUCTURE   PDB: 4ARC 2AJG 4AS1 4ARI 3ZJT 3ZJV 3ZJU 3ZGZ 2AJH 4CQN 4AQ7
+                 5OMW 5ONH 5ON2 5ON3 2AJI
+AASEQ       860
+            MQEQYRPEEIESKVQLHWDEKRTFEVTEDESKEKYYCLSMLPYPSGRLHMGHVRNYTIGD
+            VIARYQRMLGKNVLQPIGWDAFGLPAEGAAVKNNTAPAPWTYDNIAYMKNQLKMLGFGYD
+            WSRELATCTPEYYRWEQKFFTELYKKGLVYKKTSAVNWCPNDQTVLANEQVIDGCCWRCD
+            TKVERKEIPQWFIKITAYADELLNDLDKLDHWPDTVKTMQRNWIGRSEGVEITFNVNDYD
+            NTLTVYTTRPDTFMGCTYLAVAAGHPLAQKAAENNPELAAFIDECRNTKVAEAEMATMEK
+            KGVDTGFKAVHPLTGEEIPVWAANFVLMEYGTGAVMAVPGHDQRDYEFASKYGLNIKPVI
+            LAADGSEPDLSQQALTEKGVLFNSGEFNGLDHEAAFNAIADKLTAMGVGERKVNYRLRDW
+            GVSRQRYWGAPIPMVTLEDGTVMPTPDDQLPVILPEDVVMDGITSPIKADPEWAKTTVNG
+            MPALRETDTFDTFMESSWYYARYTCPQYKEGMLDSEAANYWLPVDIYIGGIEHAIMHLLY
+            FRFFHKLMRDAGMVNSDEPAKQLLCQGMVLADAFYYVGENGERNWVSPVDAIVERDEKGR
+            IVKAKDAAGHELVYTGMSKMSKSKNNGIDPQVMVERYGADTVRLFMMFASPADMTLEWQE
+            SGVEGANRFLKRVWKLVYEHTAKGDVAALNVDALTENQKALRRDVHKTIAKVTDDIGRRQ
+            TFNTAIAAIMELMNKLAKAPTDGEQDRALMQEALLAVVRMLNPFTPHICFTLWQELKGEG
+            DIDNAPWPVADEKAMVEDSTLVVVQVNGKVRAKITVPVDATEEQVRERAGQEHLVAKYLD
+            GVTVRKVIYVPGKLLNLVVG
+NTSEQ       2583
+            atgcaagagcaataccgcccggaagagatagaatccaaagtacagcttcattgggatgag
+            aagcgcacatttgaagtaaccgaagacgagagcaaagagaagtattactgcctgtctatg
+            cttccctatccttctggtcgactacacatgggccacgtacgtaactacaccatcggtgac
+            gtgatcgcccgctaccagcgtatgctgggcaaaaacgtcctgcagccgatcggctgggac
+            gcgtttggtctgcctgcggaaggcgcggcggtgaaaaacaacaccgctccggcaccgtgg
+            acgtacgacaacatcgcgtatatgaaaaaccagctcaaaatgctgggctttggttatgac
+            tggagccgcgagctggcaacctgtacgccggaatactaccgttgggaacagaaattcttc
+            accgagctgtataaaaaaggcctggtatataagaagacttctgcggtcaactggtgcccg
+            aacgaccagaccgtactggcgaacgaacaagttatcgacggctgctgctggcgctgcgat
+            accaaagttgaacgtaaagagatcccgcagtggtttatcaaaatcactgcttacgctgac
+            gagctgctcaacgatctggataaactggatcactggccagacaccgttaaaaccatgcag
+            cgtaactggatcggtcgttccgaaggcgtggagatcaccttcaacgttaacgactatgac
+            aacacgctgaccgtttacactacccgcccggacacctttatgggttgtacctacctggcg
+            gtagctgcgggtcatccgctggcgcagaaagcggcggaaaataatcctgaactggcggcc
+            tttattgacgaatgccgtaacaccaaagttgccgaagctgaaatggcgacgatggagaaa
+            aaaggcgtcgatactggctttaaagcggttcacccattaacgggcgaagaaattcccgtt
+            tgggcagcaaacttcgtattgatggagtacggcacgggcgcagttatggcggtaccgggg
+            cacgaccagcgcgactacgagtttgcctctaaatacggcctgaacatcaaaccggttatc
+            ctggcagctgacggctctgagccagatctttctcagcaagccctgactgaaaaaggcgtg
+            ctgttcaactctggcgagttcaacggtcttgaccatgaagcggccttcaacgccatcgcc
+            gataaactgactgcgatgggcgttggcgagcgtaaagtgaactaccgcctgcgcgactgg
+            ggtgtttcccgtcagcgttactggggcgcgccgattccgatggtgacgctggaagacggt
+            accgtaatgccgaccccggacgaccagctgccggtgatcctgccggaagatgtggtaatg
+            gacggcattaccagcccgattaaagcagatccggagtgggcgaaaactaccgttaacggt
+            atgccagcactgcgtgaaaccgacactttcgacacctttatggagtcctcctggtactat
+            gcgcgctacacttgcccgcagtacaaagaaggtatgctggattccgaagcggctaactac
+            tggctgccggtggatatctacattggtggtattgaacacgccattatgcacctgctctac
+            ttccgcttcttccacaaactgatgcgtgatgcaggcatggtgaactctgacgaaccagcg
+            aaacagttgctgtgtcagggtatggtgctggcagatgccttctactatgttggcgaaaac
+            ggcgaacgtaactgggtttccccggttgatgctatcgttgaacgtgacgagaaaggccgt
+            atcgtgaaagcgaaagatgcggcaggccatgaactggtttataccggcatgagcaaaatg
+            tccaagtcgaagaacaacggtatcgacccgcaggtgatggttgaacgttacggcgcggac
+            accgttcgtctgtttatgatgtttgcttctccggctgatatgactctcgaatggcaggaa
+            tccggtgtggaaggggctaaccgcttcctgaaacgtgtctggaaactggtttacgagcac
+            acagcaaaaggtgatgttgcggcactgaacgttgatgcgctgactgaaaatcagaaagcg
+            ctgcgtcgcgatgtgcataaaacgatcgctaaagtgaccgatgatatcggccgtcgtcag
+            accttcaacaccgcaattgcggcgattatggagctgatgaacaaactggcgaaagcacca
+            accgatggcgagcaggatcgcgctctgatgcaggaagcactgctggccgttgtccgtatg
+            cttaacccgttcaccccgcacatctgcttcacgctgtggcaggaactgaaaggcgaaggc
+            gatatcgacaacgcgccgtggccggttgctgacgaaaaagcgatggtggaagactccacg
+            ctggtcgtggtgcaggttaacggtaaagtccgtgccaaaatcaccgttccggtggacgca
+            acggaagaacaggttcgcgaacgtgctggccaggaacatctggtagcaaaatatcttgat
+            ggcgttactgtacgtaaagtgatttacgtaccaggtaaactcctcaatctggtcgttggc
+            taa
+///

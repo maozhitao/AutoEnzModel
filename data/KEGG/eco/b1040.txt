@@ -1,0 +1,47 @@
+ENTRY       b1040             CDS       T00007
+NAME        csgD
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator CsgD
+ORTHOLOGY   K04333  LuxR family transcriptional regulator, csgAB operon transcriptional regulatory protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b1040 (csgD)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1040 (csgD)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               LuxR family
+                b1040 (csgD)
+POSITION    complement(1102546..1103196)
+MOTIF       Pfam: GerE Sigma70_r4_2 HTH_24 HTH_40 HTH_23
+DBLINKS     NCBI-GeneID: 949119
+            NCBI-ProteinID: NP_415558
+            Pasteur: csgD
+            RegulonDB: ECK120003142
+            ECOCYC: G6546
+            ASAP: ABE-0003530
+            UniProt: P52106
+AASEQ       216
+            MFNEVHSIHGHTLLLITKSSLQATALLQHLKQSLAITGKLHNIQRSLDDISSGSIILLDM
+            MEADKKLIHYWQDTLSRKNNNIKILLLNTPEDYPYRDIENWPHINGVFYSMEDQERVVNG
+            LQGVLRGECYFTQKLASYLITHSGNYRYNSTESALLTHREKEILNKLRIGASNNEIARSL
+            FISENTVKTHLYNLFKKIAVKNRTQAVSWANDNLRR
+NTSEQ       651
+            atgtttaatgaagtccatagtattcatggtcatacattattgttgatcactaaatcttct
+            ttgcaggcgacagctctcttgcagcaccttaaacaatcgctggcaattacaggaaaatta
+            cataatattcaacgttctctggacgatatctcttcaggctctattattcttctggatatg
+            atggaagcggataaaaagcttatccattattggcaggatactttgagcaggaaaaacaac
+            aatatcaaaatattgttgctaaatacgcctgaagattacccgtaccgcgacattgaaaac
+            tggcctcatatcaacggcgttttttattccatggaggatcaagaacgtgttgtcaatggg
+            ttgcaaggcgtcctgcgcggcgaatgctactttacgcaaaagcttgccagctacctgatt
+            acgcattcaggtaactatcgttataacagcacggaatcagccctccttactcatcgggaa
+            aaagagatcctgaataagctgcgtatcggcgcgtctaataacgagatcgctcgttcgttg
+            ttcatcagcgaaaatacggttaaaacgcatctttataatcttttcaagaagatagccgta
+            aaaaaccggacacaagcggtttcctgggcaaacgataacctcaggcgataa
+///

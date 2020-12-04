@@ -1,0 +1,53 @@
+ENTRY       b2685             CDS       T00007
+NAME        emrA
+DEFINITION  (RefSeq) multidrug efflux pump membrane fusion protein EmrA
+ORTHOLOGY   K03543  membrane fusion protein, multidrug efflux system
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2685 (emrA)
+            Transporters [BR:eco02000]
+             Other transporters
+              Accessory factors involved in transport [TC:8]
+               b2685 (emrA)
+POSITION    2811427..2812599
+MOTIF       Pfam: HlyD HlyD_D23 HlyD_3 Biotin_lipoyl_2 Biotin_lipoyl Orf78
+DBLINKS     NCBI-GeneID: 947166
+            NCBI-ProteinID: NP_417170
+            Pasteur: emrA
+            RegulonDB: ECK120001323
+            ECOCYC: EG11354
+            ASAP: ABE-0008838
+            UniProt: P27303
+AASEQ       390
+            MSANAETQTPQQPVKKSGKRKRLLLLLTLLFIIIAVAIGIYWFLVLRHFEETDDAYVAGN
+            QIQIMSQVSGSVTKVWADNTDFVKEGDVLVTLDPTDARQAFEKAKTALASSVRQTHQLMI
+            NSKQLQANIEVQKIALAKAQSDYNRRVPLGNANLIGREELQHARDAVTSAQAQLDVAIQQ
+            YNANQAMILGTKLEDQPAVQQAATEVRNAWLALERTRIISPMTGYVSRRAVQPGAQISPT
+            TPLMAVVPATNMWVDANFKETQIANMRIGQPVTITTDIYGDDVKYTGKVVGLDMGTGSAF
+            SLLPAQNATGNWIKVVQRLPVRIELDQKQLEQYPLRIGLSTLVSVNTTNRDGQVLANKVR
+            STPVAVSTAREISLAPVNKLIDDIVKANAG
+NTSEQ       1173
+            atgagcgcaaatgcggagactcaaaccccgcagcaaccggtaaagaagagcggcaaacgt
+            aagcgtctgctcctccttctcaccttgctctttataattattgccgtagcgatagggatt
+            tattggtttttggtactgcgtcacttcgaagaaaccgatgacgcatacgtggcagggaat
+            caaattcaaattatgtctcaggtgtctggcagcgtgacgaaagtctgggccgataacacc
+            gattttgtaaaagaaggcgacgtgctggtcactctcgacccgacagatgctcgccaggcg
+            tttgaaaaagccaaaactgcactggcttccagcgttcgccaaacccaccagctgatgatt
+            aacagcaagcagttgcaggcgaatattgaggtgcagaaaatcgccctcgcgaaagcacaa
+            agcgactacaaccgccgtgtgccgctgggcaatgccaacctgattggtcgcgaagagctg
+            caacacgcccgcgacgccgtcaccagtgcccaggcgcaactggacgtcgcgattcaacaa
+            tacaatgccaatcaggcgatgattctggggactaaactggaagatcagccagccgtgcaa
+            caggctgccaccgaagtacgtaacgcctggctggcgctggagcgtactcgtattatcagt
+            ccgatgaccggttatgtctcccgccgcgcggtacagcctggggcgcaaattagcccaacg
+            acgccgctgatggcggtcgttccagccaccaatatgtgggtggatgccaactttaaagag
+            acgcagattgccaatatgcgtatcggtcagccggtcactatcaccacggatatttacggc
+            gatgatgtgaaatacaccggtaaagtggttggtctggatatgggcacaggtagcgcgttc
+            tcactgcttccagcgcaaaatgcgaccggtaactggatcaaagtcgttcagcgtctgcct
+            gtgcgtatcgaactggaccagaaacagctggagcaatatccgctgcgtatcggtttgtcc
+            acgctggtgagcgtcaataccactaaccgtgacggtcaggtactggcaaataaagtacgt
+            tccactccggtagcggtaagcaccgcgcgtgaaatcagcctggcacctgtcaataaactg
+            atcgacgatatcgtaaaagctaacgctggctaa
+///

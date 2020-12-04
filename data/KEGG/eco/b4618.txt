@@ -1,0 +1,28 @@
+ENTRY       b4618             CDS       T00007
+NAME        tisB
+DEFINITION  (RefSeq) membrane-depolarizing toxin TisB
+ORTHOLOGY   K19148  small toxic protein TisB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4618 (tisB)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               TisB-IstR
+                b4618 (tisB)
+POSITION    3853553..3853642
+MOTIF       Pfam: TisB_toxin
+DBLINKS     NCBI-GeneID: 5061527
+            NCBI-ProteinID: YP_001165331
+            RegulonDB: ECK120002669
+            ECOCYC: G0-9962
+            UniProt: A5A627
+AASEQ       29
+            MNLVDIAILILKLIVAALQLLDAVLKYLK
+NTSEQ       90
+            atgaacctggtggatatcgccattcttatcctcaaactcattgttgcagcactgcaactg
+            cttgatgctgttctgaaatacctgaagtaa
+///

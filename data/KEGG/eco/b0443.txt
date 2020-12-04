@@ -1,0 +1,43 @@
+ENTRY       b0443             CDS       T00007
+NAME        fadM
+DEFINITION  (RefSeq) thioesterase III
+ORTHOLOGY   K12500  thioesterase III [EC:3.1.2.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01004 Lipid biosynthesis proteins [BR:eco01004]
+                b0443 (fadM)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.2  Thioester hydrolases
+                3.1.2.-  
+                 b0443 (fadM)
+            Lipid biosynthesis proteins [BR:eco01004]
+             Fatty acid synthase
+              Component type
+               b0443 (fadM)
+POSITION    464402..464800
+MOTIF       Pfam: 4HBT_2 Acyl-ACP_TE 4HBT DUF1382
+DBLINKS     NCBI-GeneID: 945812
+            NCBI-ProteinID: NP_414977
+            Pasteur: ybaW
+            RegulonDB: ECK120002855
+            ECOCYC: G6244
+            ASAP: ABE-0001537
+            UniProt: P77712
+STRUCTURE   PDB: 1NJK
+AASEQ       132
+            MQTQIKVRGYHLDVYQHVNNARYLEFLEEARWDGLENSDSFQWMTAHNIAFVVVNININY
+            RRPAVLSDLLTITSQLQQLNGKSGILSQVITLEPEGQVVADALITFVCIDLKTQKALALE
+            GELREKLEQMVK
+NTSEQ       399
+            atgcaaacacaaatcaaagttcgtggatatcatctcgacgtttaccagcacgtcaacaac
+            gcccgctaccttgaatttctcgaagaagcccgctgggatgggttggaaaatagcgacagt
+            tttcagtggatgacggcccataacatcgccttcgtcgtggtcaatatcaatattaactat
+            cgtcgcccagcggtattaagtgacctgttaactattaccagtcagttgcagcaattaaac
+            ggtaaaagcggcatcttaagccaggtcattacactggagccggaagggcaggtggtagcg
+            gatgcgcttattacgtttgtttgtattgatcttaaaacgcagaaagcattagctctggaa
+            ggggaattgcgcgaaaagctggagcagatggttaagtaa
+///

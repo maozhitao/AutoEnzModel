@@ -1,0 +1,45 @@
+ENTRY       b1461             CDS       T00007
+NAME        pptA
+DEFINITION  (RefSeq) putative 4-oxalocrotonate tautomerase (4-OT)
+ORTHOLOGY   K01821  4-oxalocrotonate tautomerase [EC:5.3.2.6]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00362  Benzoate degradation
+            eco00621  Dioxin degradation
+            eco00622  Xylene degradation
+            eco01100  Metabolic pathways
+            eco01120  Microbial metabolism in diverse environments
+            eco01220  Degradation of aromatic compounds
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09111 Xenobiotics biodegradation and metabolism
+               00362 Benzoate degradation
+                b1461 (pptA)
+               00622 Xylene degradation
+                b1461 (pptA)
+               00621 Dioxin degradation
+                b1461 (pptA)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.3  Intramolecular oxidoreductases
+               5.3.2  Interconverting keto- and enol-groups
+                5.3.2.6  2-hydroxymuconate tautomerase
+                 b1461 (pptA)
+POSITION    1533052..1533285
+MOTIF       Pfam: Tautomerase Tautomerase_2 DUF1904
+DBLINKS     NCBI-GeneID: 945731
+            NCBI-ProteinID: NP_415978
+            Pasteur: ydcE
+            RegulonDB: ECK120001697
+            ECOCYC: EG11761
+            ASAP: ABE-0004875
+            UniProt: P31992
+STRUCTURE   PDB: 1GYX 1GYY 1GYJ
+AASEQ       77
+            MPHIDIKCFPRELDEQQKAALAADITDVIIRHLNSKDSSISIALQQIQPESWQAIWDAEI
+            APQMEALIKKPGYSMNA
+NTSEQ       234
+            atgccgcacatcgacattaaatgttttccgcgtgaactggacgaacaacaaaaagcagca
+            cttgctgcagatattaccgacgttattattcgtcatctgaacagtaaagacagttcgata
+            agcattgctctacagcagattcaaccagaatcttggcaagctatctgggatgccgaaatc
+            gcgccccaaatggaggctttgataaagaaacctggttatagcatgaatgcttaa
+///

@@ -1,0 +1,34 @@
+ENTRY       b2823             CDS       T00007
+NAME        ppdC
+DEFINITION  (RefSeq) putative YgdA
+ORTHOLOGY   K02681  prepilin peptidase dependent protein C
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b2823 (ppdC)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              Type IVa pilus homolog protein
+               b2823 (ppdC)
+POSITION    complement(2962441..2962764)
+MOTIF       Pfam: T2SSppdC N_methyl DUF1494 Coa1
+DBLINKS     NCBI-GeneID: 945797
+            NCBI-ProteinID: NP_417300
+            Pasteur: ppdC
+            RegulonDB: ECK120001137
+            ECOCYC: EG11154
+            ASAP: ABE-0009257
+            UniProt: P08372
+AASEQ       107
+            MSASLKNQQGFSLPEVMLAMVLMVMIVTALSGFQRTLMNSLASRNQYQQLWRHGWQQTQL
+            RAISPPANWQVNRMQTSQAGCVSISVTLVSPGGREGEMTRLHCPNRQ
+NTSEQ       324
+            atgtcagcttccctgaagaatcaacaaggctttagcctgccggaggtaatgttggcgatg
+            gtgttgatggtgatgattgtcactgcgttatcgggtttccagcgaacattaatgaacagt
+            cttgccagcagaaaccagtaccaacagctctggcggcatggctggcagcaaacgcaactg
+            cgcgcgatttcgccacctgccaactggcaggtcaaccgaatgcagacatcgcaggcggga
+            tgtgtcagcatcagcgttacgctagtttcacccgggggcagagaaggcgagatgacccgc
+            ctgcattgcccgaatcgtcagtag
+///

@@ -1,0 +1,59 @@
+ENTRY       b2074             CDS       T00007
+NAME        mdtA
+DEFINITION  (RefSeq) multidrug efflux pump membrane fusion protein MdtA
+ORTHOLOGY   K07799  membrane fusion protein, multidrug efflux system
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b2074 (mdtA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2074 (mdtA)
+            Transporters [BR:eco02000]
+             Other transporters
+              Accessory factors involved in transport [TC:8]
+               b2074 (mdtA)
+POSITION    2154016..2155263
+MOTIF       Pfam: Biotin_lipoyl_2 HlyD_3 HlyD_D23 Biotin_lipoyl BMFP PTS_EIIA_1 CGI-121 FliJ
+DBLINKS     NCBI-GeneID: 946604
+            NCBI-ProteinID: NP_416578
+            Pasteur: yegM
+            RegulonDB: ECK120003699
+            ECOCYC: G7113
+            ASAP: ABE-0006872
+            UniProt: P76397
+AASEQ       415
+            MKGSYKSRWVIVIVVVIAAIAAFWFWQGRNDSRSAAPGATKQAQQSPAGGRRGMRSGPLA
+            PVQAATAVEQAVPRYLTGLGTITAANTVTVRSRVDGQLIALHFQEGQQVKAGDLLAEIDP
+            SQFKVALAQAQGQLAKDKATLANARRDLARYQQLAKTNLVSRQELDAQQALVSETEGTIK
+            ADEASVASAQLQLDWSRITAPVDGRVGLKQVDVGNQISSGDTTGIVVITQTHPIDLVFTL
+            PESDIATVVQAQKAGKPLVVEAWDRTNSKKLSEGTLLSLDNQIDATTGTIKVKARFNNQD
+            DALFPNQFVNARMLVDTEQNAVVIPTAALQMGNEGHFVWVLNSENKVSKHLVTPGIQDSQ
+            KVVIRAGISAGDRVVTDGIDRLTEGAKVEVVEAQSATTPEEKATSREYAKKGARS
+NTSEQ       1248
+            atgaaaggtagttataaatcccgttgggtaatcgtaatcgtggtggttatcgccgccatc
+            gccgcattctggttctggcaaggccgcaatgactcccggagtgcagccccaggggcgacg
+            aaacaagcgcagcaatcgccagcgggtggtcgacgtggtatgcgttccggcccattagcc
+            ccggttcaggcggcgaccgccgtagaacaggcagttccgcgttacctcaccgggcttggc
+            accattaccgccgctaataccgttacggtgcgcagccgcgtggacggccaactgatagcg
+            ttacatttccaggaaggccagcaggtcaaagcaggcgatttactggcagaaattgacccc
+            agccagttcaaagttgcattagcacaagcccagggccaactggcaaaagataaagccacg
+            cttgccaacgcccgccgtgacctggcgcgttatcaacaactggcaaaaaccaatctcgtt
+            tcccgccaggagctggatgcccaacaggcgctggtcagtgaaaccgaaggcaccattaag
+            gctgatgaagcaagcgttgccagcgcgcagctgcaactcgactggagccggattaccgca
+            ccagtcgatggtcgcgttggtctcaagcaggttgatgttggtaaccaaatctccagtggt
+            gataccaccgggatcgtggtgatcacccagacgcatcctatcgatttagtctttaccctg
+            ccggaaagcgatatcgctaccgtagtgcaggcgcagaaagccggaaaaccgctggtggta
+            gaagcctgggatcgcaccaactcgaagaaattaagtgaaggcacgctgttaagtctagat
+            aaccaaatcgatgccactaccggtacgattaaagtgaaagcacgctttaataatcaggat
+            gatgcgctgtttcccaatcagtttgttaacgcgcgcatgttagtcgacaccgaacaaaac
+            gccgtagtgatcccaacagccgccctgcaaatgggcaatgaaggccattttgtctgggtg
+            ctgaatagcgaaaacaaggtcagcaaacatctggtgacgccgggcattcaggacagtcag
+            aaagtggtgatccgtgcaggtatttctgcgggcgatcgcgtggtgacagacggcattgat
+            cgcctgaccgaaggggcgaaagtggaagtggtggaagcccagagcgccactactccggaa
+            gagaaagccaccagccgcgaatacgcgaaaaaaggagcacgctcctga
+///

@@ -1,0 +1,53 @@
+ENTRY       b3411             CDS       T00007
+NAME        rpnA
+DEFINITION  (RefSeq) recombination-promoting nuclease RpnA
+ORTHOLOGY   K01157  recombination-promoting nuclease RpnA [EC:3.1.21.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b3411 (rpnA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.21  Endodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.21.-  
+                 b3411 (rpnA)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              TLS (translesion DNA synthesis) factors
+               Other SOS response factors
+                b3411 (rpnA)
+POSITION    3543167..3544045
+MOTIF       Pfam: Transposase_31
+DBLINKS     NCBI-GeneID: 947917
+            NCBI-ProteinID: NP_417870
+            Pasteur: yhgA
+            RegulonDB: ECK120001688
+            ECOCYC: EG11750
+            ASAP: ABE-0011134
+            UniProt: P31667
+AASEQ       292
+            MSKKQSSTPHDALFKLFLRQPDTARDFLAFHLPAPIHALCDMKTLKLESSSFIDDDLRES
+            YSDVLWSVKTEQGPGYIYCLIEHQSTSNKLIAFRMMRYAIAAMQNHLDAGYKTLPMVVPL
+            LFYHGIESPYPYSLCWLDCFADPKLARQLYASAFPLIDVTVMPDDEIMQHRRMALLELIQ
+            KHIRQRDLMGLVEQMACLLSSGYANDRQIKGLFNYILQTGDAVRFNDFIDGVAERSPKHK
+            ESLMTIAERLRQEGEQSKALHIAKIMLESGVPLADIMRFTGLSEEELAAASQ
+NTSEQ       879
+            atgagcaaaaagcagagttccaccccacacgatgcgctgttcaaactctttttacgccaa
+            ccggacacggctcgtgattttcttgcgtttcatttaccggcacccattcacgcgctttgt
+            gatatgaaaaccctcaagctggagtcgagcagctttattgatgacgatctgcgtgaaagc
+            tattccgatgtgctgtggtcggtgaaaacggaacaaggaccaggatacatctattgtctg
+            attgaacatcaaagcacctcaaacaaactgatcgcatttcgcatgatgcgttacgctatt
+            gccgcaatgcaaaatcaccttgatgctggatacaaaacgttgccgatggtggtgccattg
+            ttgttttaccacggtattgaaagcccctatccctattcgctgtgttggctggattgtttc
+            gccgatcccaaactggcaaggcagctttatgcctccgcatttccgctgattgatgtcacc
+            gtcatgcctgatgatgaaatcatgcagcaccgacgtatggcgctgctggagttaattcaa
+            aaacatattcgtcaacgcgacctgatggggctggtagagcaaatggcctgcttattaagt
+            agtggatacgctaatgacagacaaatcaaagggctgtttaattacatactgcaaactggc
+            gacgctgtacgttttaacgattttatcgacggcgttgccgaacgttcaccgaaacacaag
+            gagagtttaatgactattgcggaaagattgcggcaggagggggaacaatccaaagccctg
+            catatagccaaaataatgcttgaatccggagttcctcttgcagacatcatgcgctttacc
+            gggctgtcagaagaagagttggctgcggcgagtcagtaa
+///

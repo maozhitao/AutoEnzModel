@@ -1,0 +1,48 @@
+ENTRY       b3349             CDS       T00007
+NAME        slyD
+DEFINITION  (RefSeq) FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+ORTHOLOGY   K03775  FKBP-type peptidyl-prolyl cis-trans isomerase SlyD [EC:5.2.1.8]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b3349 (slyD)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.2  cis-trans-Isomerases
+               5.2.1  cis-trans Isomerases (only sub-subclass identified to date)
+                5.2.1.8  peptidylprolyl isomerase
+                 b3349 (slyD)
+            Chaperones and folding catalysts [BR:eco03110]
+             Protein folding catalysts
+              Peptidyl prolyl isomerase
+               FKBP
+                b3349 (slyD)
+POSITION    complement(3477907..3478497)
+MOTIF       Pfam: FKBP_C
+DBLINKS     NCBI-GeneID: 947859
+            NCBI-ProteinID: NP_417808
+            Pasteur: slyD
+            RegulonDB: ECK120001606
+            ECOCYC: EG11663
+            ASAP: ABE-0010946
+            UniProt: P0A9K9
+STRUCTURE   PDB: 2KFW 2K8I
+AASEQ       196
+            MKVAKDLVVSLAYQVRTEDGVLVDESPVSAPLDYLHGHGSLISGLETALEGHEVGDKFDV
+            AVGANDAYGQYDENLVQRVPKDVFMGVDELQVGMRFLAETDQGPVPVEITAVEDDHVVVD
+            GNHMLAGQNLKFNVEVVAIREATEEELAHGHVHGAHDHHHDHDHDGCCGGHGHDHGHEHG
+            GEGCCGGKGNGGCGCH
+NTSEQ       591
+            atgaaagtagcaaaagacctggtggtcagcctggcctatcaggtacgtacagaagacggt
+            gtgttggttgatgagtctccggtgagtgcgccgctggactacctgcatggtcacggttcc
+            ctgatctctggcctggaaacggcgctggaaggtcatgaagttggcgacaaatttgatgtc
+            gctgttggcgcgaacgacgcttacggtcagtacgacgaaaacctggtgcaacgtgttcct
+            aaagacgtatttatgggcgttgatgaactgcaggtaggtatgcgtttcctggctgaaacc
+            gaccagggtccggtaccggttgaaatcactgcggttgaagacgatcacgtcgtggttgat
+            ggtaaccacatgctggccggtcagaacctgaaattcaacgttgaagttgtggcgattcgc
+            gaagcgactgaagaagaactggctcatggtcacgttcacggcgcgcacgatcaccaccac
+            gatcacgaccacgacggttgctgcggcggtcatggccacgatcacggtcatgaacacggt
+            ggcgaaggctgctgtggcggtaaaggcaacggcggttgcggttgccactaa
+///

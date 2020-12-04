@@ -1,0 +1,79 @@
+ENTRY       b1629             CDS       T00007
+NAME        rsxC
+DEFINITION  (RefSeq) SoxR [2Fe-2S] reducing system protein RsxC
+ORTHOLOGY   K03615  Na+-translocating ferredoxin:NAD+ oxidoreductase subunit C [EC:7.2.1.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b1629 (rsxC)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.2  Catalysing the translocation of inorganic cations
+               7.2.1  Linked to oxidoreductase reactions
+                7.2.1.2  ferredoxin---NAD+ oxidoreductase (Na+-transporting)
+                 b1629 (rsxC)
+POSITION    1706919..1709141
+MOTIF       Pfam: Complex1_51K RnfC_N SLBB Fer4_7 Fer4 Fer4_10 Fer4_17 Fer4_8 Fer4_2 Fer4_9 Fer4_4 Fer4_6 Fer4_21 Fer4_18 Fer4_16 Fer4_22 Fer4_3 Fer4_13 NQRA_SLBB
+DBLINKS     NCBI-GeneID: 946137
+            NCBI-ProteinID: NP_416146
+            Pasteur: ydgN
+            RegulonDB: ECK120003462
+            ECOCYC: G6873
+            ASAP: ABE-0005454
+            UniProt: P77611
+AASEQ       740
+            MLKLFSAFRKNKIWDFNGGIHPPEMKTQSNGTPLRQVPLAQRFVIPLKQHIGAEGELCVS
+            VGDKVLRGQPLTRGRGKMLPVHAPTSGTVTAIAPHSTAHPSALAELSVIIDADGEDCWIP
+            RDGWADYRTRSREELIERIHQFGVAGLGGAGFPTGVKLQGGGDKIETLIINAAECEPYIT
+            ADDRLMQDCAAQVVEGIRILAHILQPREILIGIEDNKPQAISMLRAVLADSNDISLRVIP
+            TKYPSGGAKQLTYILTGKQVPHGGRSSDIGVLMQNVGTAYAVKRAVIDGEPITERVVTLT
+            GEAIARPGNVWARLGTPVRHLLNDAGFCPSADQMVIMGGPLMGFTLPWLDVPVVKITNCL
+            LAPSANELGEPQEEQSCIRCSACADACPADLLPQQLYWFSKGQQHDKATTHNIADCIECG
+            ACAWVCPSNIPLVQYFRQEKAEIAAIRQEEKRAAEAKARFEARQARLEREKAARLERHKS
+            AAVQPAAKDKDAIAAALARVKEKQAQATQPIVIKAGERPDNSAIIAAREARKAQARAKQA
+            ELQQTNDAATVADPRKTAVEAAIARAKARKLEQQQANAEPEQQVDPRKAAVEAAIARAKA
+            RKLEQQQANAEPEEQVDPRKAAVEAAIARAKARKLEQQQANAEPEQQVDPRKAAVEAAIA
+            RAKARKREQQPANAEPEEQVDPRKAAVEAAIARAKARKLEQQQANAVPEEQVDPRKAAVA
+            AAIARAQAKKAAQQKVVNED
+NTSEQ       2223
+            atgcttaagttattctctgcattcagaaaaaataaaatctgggatttcaacggcggcatc
+            catccaccggagatgaaaacccagtccaacggtacacccctgcgccaggtacccctggcg
+            cagcgttttgttattccactgaaacagcatattggcgctgaaggtgagttgtgcgttagc
+            gtcggcgataaagtattgcgcggccagccgcttacccgtggtcgcggcaaaatgctgcct
+            gttcacgcgcccacctcgggtaccgttacggctattgcgccccactctacggctcatcct
+            tcagctttagctgaattaagcgtgattattgatgccgatggtgaagactgctggatcccg
+            cgcgacggctgggccgattatcgcactcgcagtcgcgaagagttaatcgagcgcatacat
+            cagtttggtgttgccgggctgggcggtgcaggattcccgacaggcgttaaattgcagggt
+            ggcggagataagattgaaacgttgattatcaacgcggctgagtgcgagccgtacattacc
+            gccgatgaccgtttgatgcaggattgcgcggctcaggtcgtagagggtattcgcattctt
+            gcgcatattctgcagccacgcgaaattcttatcggcattgaagataacaaaccgcaggcg
+            atttccatgctgcgcgcggtgctggcggactctaacgatatttctctgcgggtgattcca
+            accaaatatccttctggcggtgctaaacaattaacctacattctgaccgggaagcaggtt
+            ccacatggcgggcgttcatccgatatcggcgtattaatgcaaaacgtcggcactgcttat
+            gcagtgaaacgtgccgttattgatggcgagccgattaccgagcgtgttgtaaccctgact
+            ggcgaagcaatcgctcgcccgggcaacgtctgggcacggctggggacgccagtgcgtcat
+            ttattgaatgatgccggattctgcccctctgccgatcaaatggtgattatgggtggcccg
+            ctaatgggctttaccttgccatggctggatgtcccggtcgtaaagattaccaactgtctg
+            ttggctccctctgccaatgaacttggcgaaccacaggaagaacaaagctgcatccggtgt
+            agcgcctgtgctgacgcctgccctgcggatcttttgccgcaacagttgtactggttcagc
+            aaaggtcagcaacacgataaagctaccacgcataacattgctgattgcattgaatgtggg
+            gcttgcgcgtgggtttgcccgagcaatattcccctggtgcaatatttccgtcaggaaaaa
+            gctgaaattgcggctattcgtcaggaagaaaagcgcgccgcagaagccaaagcgcgtttc
+            gaagcgcgccaggctcgtctggagcgcgaaaaagcggctcgccttgaacgacataagagc
+            gcagccgttcaacctgcagccaaagataaagatgcgattgctgccgctctggcgcgggtg
+            aaagagaaacaggcccaggctacacagcctattgtgattaaagcgggcgaacgcccggat
+            aacagtgcaattattgcagcacgggaagcccgtaaagcgcaagccagagcgaaacaggca
+            gaactgcagcaaactaacgacgcagcaaccgttgctgatccacgtaaaactgccgttgaa
+            gcagctatcgcccgcgccaaagcgcgcaagctggaacagcaacaggctaatgcggaacca
+            gaacaacaggtcgatccgcgcaaagccgccgtcgaagccgctattgcccgtgccaaagcg
+            cgcaagctggaacagcaacaggctaatgcggaaccagaagaacaggtcgatccgcgcaaa
+            gccgccgtcgaagccgctattgcccgtgccaaagcacgcaagctggaacagcaacaggct
+            aatgccgagccagaacaacaggtcgatccgcgcaaagccgccgtcgaagccgctattgcc
+            cgagccaaagcgcgcaaacgggaacagcaaccggctaatgcggagccagaagaacaggtt
+            gatccgcgcaaagctgccgtcgaagcggctattgcacgcgccaaagcacgcaagctggaa
+            cagcaacaggctaatgcggtaccagaagaacaggttgatccgcgcaaagcggcagttgcc
+            gcggctattgcccgcgctcaggccaaaaaagccgcccagcagaaggttgtaaacgaggac
+            taa
+///

@@ -1,0 +1,60 @@
+ENTRY       b1113             CDS       T00007
+NAME        ldtC
+DEFINITION  (RefSeq) L,D-transpeptidase YcfS
+ORTHOLOGY   K19236  L,D-transpeptidase YcfS
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01503  Cationic antimicrobial peptide (CAMP) resistance
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b1113 (ldtC)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b1113 (ldtC)
+               01011 Peptidoglycan biosynthesis and degradation proteins [BR:eco01011]
+                b1113 (ldtC)
+            Peptidases and inhibitors [BR:eco01002]
+             Cysteine peptidases
+              Family C82
+               b1113 (ldtC)
+            Peptidoglycan biosynthesis and degradation proteins [BR:eco01011]
+             Peptidoglycan biosynthesis and degradation
+              Transpeptidase
+               b1113 (ldtC)
+POSITION    complement(1169412..1170374)
+MOTIF       Pfam: Ldt_C YkuD LysM
+DBLINKS     NCBI-GeneID: 945666
+            NCBI-ProteinID: NP_415631
+            Pasteur: ycfS
+            RegulonDB: ECK120003167
+            ECOCYC: G6571
+            ASAP: ABE-0003760
+            UniProt: P75954
+AASEQ       320
+            MMIKTRFSRWLTFFTFAAAVALALPAKANTWPLPPAGSRLVGENKFHVVENDGGSLEAIA
+            KKYNVGFLALLQANPGVDPYVPRAGSVLTIPLQTLLPDAPREGIVINIAELRLYYYPPGK
+            NSVTVYPIGIGQLGGDTLTPTMVTTVSDKRANPTWTPTANIRARYKAQGIELPAVVPAGL
+            DNPMGHHAIRLAAYGGVYLLHGTNADFGIGMRVSSGCIRLRDDDIKTLFSQVTPGTKVNI
+            INTPIKVSAEPNGARLVEVHQPLSEKIDDDPQLLPITLNSAMQSFKDAAQTDAEVMQHVM
+            DVRSGMPVDVRRHQVSPQTL
+NTSEQ       963
+            gtgatgatcaaaacgcgtttttctcgctggctaacgttttttacgttcgccgctgccgtg
+            gcgctggcgctaccggcaaaagccaacacctggccgctgccgccagcgggcagtcgtctg
+            gttggcgaaaacaaatttcatgtggtggaaaatgacggtggttctctggaagccatcgcc
+            aaaaaatacaacgtcggctttctcgctctgttacaggctaaccccggcgttgatccttac
+            gtaccgcgcgcgggcagcgtgttaacgatcccgttgcaaaccctacttccagatgcgccg
+            cgcgaaggcattgtgatcaacattgcggagctgcgtctctattactacccgccgggtaaa
+            aattcggtaaccgtgtatccaataggtattggtcagttaggtggtgacacgctgacaccg
+            acaatggtgaccaccgtttcagacaaacgtgcaaacccaacctggacgccaacggcaaac
+            atccgcgcccgttataaagcacagggaattgagttgcctgcggtagtgccggctggactg
+            gataacccaatgggccatcatgcgattcgtctggcggcctatggcggcgtttatttgctt
+            catggtacgaacgccgatttcggcattggcatgcgggtaagttctggctgtattcgtctg
+            cgggatgacgatatcaaaacactctttagccaggtcaccccaggcaccaaagtgaatatc
+            atcaacactccgataaaagtctctgccgaaccaaacggtgcgcgtctggttgaagtacat
+            cagccgctgtcagagaagattgatgacgatccgcagctgctgccaattacgctgaatagc
+            gcaatgcaatcatttaaagatgcagcacaaactgacgctgaagtgatgcaacatgtgatg
+            gatgtccgttccgggatgccggtggatgtccgccgtcatcaagtgagcccacaaacgctg
+            taa
+///

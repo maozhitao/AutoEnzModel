@@ -1,0 +1,49 @@
+ENTRY       b3651             CDS       T00007
+NAME        trmH
+DEFINITION  (RefSeq) tRNA (Gm18) 2'-O-methyltransferase
+ORTHOLOGY   K00556  tRNA (guanosine-2'-O-)-methyltransferase [EC:2.1.1.34]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3651 (trmH)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.34  tRNA (guanosine18-2'-O)-methyltransferase
+                 b3651 (trmH)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Methyltransferases
+                b3651 (trmH)
+POSITION    3824515..3825204
+MOTIF       Pfam: SpoU_methylase SpoU_methylas_C
+DBLINKS     NCBI-GeneID: 948161
+            NCBI-ProteinID: NP_418108
+            Pasteur: trmH
+            RegulonDB: ECK120000956
+            ECOCYC: EG10967
+            ASAP: ABE-0011937
+            UniProt: P0AGJ2
+AASEQ       229
+            MNPTRYARICEMLARRQPDLTVCMEQVHKPHNVSAIIRTADAVGVHEVHAVWPGSRMRTM
+            ASAAAGSNSWVQVKTHRTIGDAVAHLKGQGMQILATHLSDNAVDFREIDYTRPTCILMGQ
+            EKTGITQEALALADQDIIIPMIGMVQSLNVSVASALILYEAQRQRQNAGMYLRENSMLPE
+            AEQQRLLFEGGYPVLAKVAKRKGLPYPHVNQQGEIEADADWWATMQAAG
+NTSEQ       690
+            atgaacccaacacgttatgcacgcatctgcgaaatgctcgccaggcggcagcctgatctg
+            accgtctgcatggagcaggtccacaaacctcataacgtttctgcgattattcgtaccgca
+            gatgccgttggcgtacatgaagttcacgccgtctggcctggtagccgcatgcgcaccatg
+            gcttcggcagcggcgggtagtaacagctgggtacaggtgaaaacacaccgcaccattggc
+            gatgccgtcgctcatctcaaaggccagggcatgcagattctggcaacccatctttctgat
+            aacgctgtcgatttccgcgaaattgattacactcgcccgacctgcattttgatgggacag
+            gagaaaacgggcatcacgcaggaagcattggccctggcggatcaggacatcatcattccg
+            atgatcggcatggtgcagtcgctgaatgtttccgttgcctcagccctcattctttacgaa
+            gcccagcgtcagcggcaaaatgcaggcatgtacctgcgtgaaaacagcatgttgccggaa
+            gcagagcaacaacgcctgttgtttgaaggcggctatccggtgctggcgaaagtcgcaaaa
+            cgcaaaggcctgccttatccccacgtcaatcagcaaggcgagatcgaagctgatgccgac
+            tggtgggctactatgcaggctgcagggtaa
+///

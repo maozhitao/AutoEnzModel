@@ -1,0 +1,56 @@
+ENTRY       b1290             CDS       T00007
+NAME        sapF
+DEFINITION  (RefSeq) putrescine ABC exporter ATP binding protein SapF
+ORTHOLOGY   K19230  cationic peptide transport system ATP-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01503  Cationic antimicrobial peptide (CAMP) resistance
+            eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b1290 (sapF)
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b1290 (sapF)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1290 (sapF)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Peptide and nickel transporters
+               Cationic peptide transporter
+                b1290 (sapF)
+POSITION    complement(1351828..1352634)
+MOTIF       Pfam: ABC_tran AAA_22 SMC_N RsgA_GTPase AAA_29 AAA_16 AAA_15 AAA_21 DUF87 AAA_23 NACHT AAA_33 IstB_IS21 ABC_ATPase AAA_24 ATP-synt_ab G-alpha AAA Mg_chelatase AAA_10 RNA_helicase DUF2847 AAA_5 AAA_18 AAA_13
+DBLINKS     NCBI-GeneID: 945335
+            NCBI-ProteinID: NP_415806
+            Pasteur: sapF
+            RegulonDB: ECK120002184
+            ECOCYC: EG12305
+            ASAP: ABE-0004339
+            UniProt: P0AAH8
+AASEQ       268
+            MIETLLEVRNLSKTFRYRTGWFRRQTVEAVKPLSFTLREGQTLAIIGENGSGKSTLAKML
+            AGMIEPTSGELLIDDHPLHFGDYSFRSQRIRMIFQDPSTSLNPRQRISQILDFPLRLNTD
+            LEPEQRRKQIIETMRMVGLLPDHVSYYPHMLAPGQKQRLGLARALILRPKVIIADEALAS
+            LDMSMRSQLINLMLELQEKQGISYIYVTQHIGMMKHISDQVLVMHQGEVVERGSTADVLA
+            SPLHELTKRLIAGHFGEALTADAWRKDR
+NTSEQ       807
+            atgatcgaaacgctgcttgaagtgcgtaatttaagtaaaacgttccgctaccggaccggc
+            tggtttcgtcgtcagaccgtagaagcggtaaaacccttgagctttacgctacgtgaaggc
+            cagacactggcgattattggcgagaatggttcgggtaaatccacgctggcaaaaatgctg
+            gcgggaatgatagagcctaccagcggcgagttattgattgacgatcatccactgcatttt
+            ggcgattattccttccgcagtcagcgtattcgcatgatttttcaggatccttcgacctcg
+            ttgaatccccgtcaacgtatctcgcaaattctggattttccactgcgcctgaacaccgac
+            ctggaaccggaacagcgtcgcaaacagattattgaaacgatgcgtatggttgggctgcta
+            ccggatcacgtcagttactatccgcatatgttggcacccggacaaaaacagcgtctgggt
+            ctggcgcgcgcgctgatattgcgcccaaaagtcattattgccgatgaagccctcgcttca
+            ctggatatgtcgatgcgttcgcagttgattaatctgatgctggaattacaggaaaaacag
+            ggcatttcgtatatttatgttacccagcatatcggaatgatgaagcacattagcgaccag
+            gtgctggtgatgcatcagggcgaggttgtcgagcgaggcagcaccgcggatgtgctggca
+            tcgccgctgcatgaactcaccaaacggctgattgccggtcattttggcgaggcattgacg
+            gcggatgcgtggcgtaaagatcgctaa
+///

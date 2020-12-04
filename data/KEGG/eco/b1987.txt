@@ -1,0 +1,50 @@
+ENTRY       b1987             CDS       T00007
+NAME        cbl
+DEFINITION  (RefSeq) DNA-binding transcriptional activator Cbl
+ORTHOLOGY   K13635  LysR family transcriptional regulator, cys regulon transcriptional activator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1987 (cbl)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               LysR family
+                b1987 (cbl)
+POSITION    complement(2059964..2060914)
+MOTIF       Pfam: LysR_substrate HTH_1 HTH_24 HTH_28 HTH_5 HTH_20 HTH_Crp_2 DUF1670
+DBLINKS     NCBI-GeneID: 946502
+            NCBI-ProteinID: NP_416492
+            Pasteur: cbl
+            RegulonDB: ECK120003657
+            ECOCYC: G7071
+            ASAP: ABE-0006590
+            UniProt: Q47083
+STRUCTURE   PDB: 2FYI
+AASEQ       316
+            MNFQQLKIIREAARQDYNLTEVANMLFTSQSGVSRHIRELEDELGIEIFVRRGKRLLGMT
+            EPGKALLVIAERILNEASNVRRLADLFTNDTSGVLTIATTHTQARYSLPEVIKAFRELFP
+            EVRLELIQGTPQEIATLLQNGEADIGIASERLSNDPQLVAFPWFRWHHSLLVPHDHPLTQ
+            ISPLTLESIAKWPLITYRQGITGRSRIDDAFARKGLLADIVLSAQDSDVIKTYVALGLGI
+            GLVAEQSSGEQEEENLIRLDTRHLFDANTVWLGLKRGQLQRNYVWRFLELCNAGLSVEDI
+            KRQVMESSEEEIDYQI
+NTSEQ       951
+            gtgaatttccaacaactaaagataatccgcgaggctgcacgtcaggattacaacctgaca
+            gaggttgcgaatatgctttttacctcacagtcaggcgtcagccgtcatattcgggaactg
+            gaggatgaacttggcatcgaaatatttgttcgacgaggtaagcgactgctgggcatgact
+            gaaccgggcaaagcattactggtcattgcagaacgtattctgaatgaagccagtaatgtt
+            cgtcggcttgcagacctgtttaccaacgatacgtctggcgttctcactattgcaacgacg
+            catactcaggcacgttatagcttgccagaggtcattaaagcttttcgcgaacttttcccg
+            gaggttcggctcgagctaatccaggggacgccacaggaaattgcgacattgttgcaaaat
+            ggcgaagctgatattggtatcgccagcgagcgtttgagtaatgacccgcagctcgtcgcc
+            ttcccgtggtttcgttggcaccatagtttgcttgttccacacgatcatcccttgacgcaa
+            atttcaccattgacgctggaatcaatagcgaagtggccgttaatcacttaccgacagggg
+            attacggggcgctcacgtattgatgacgcatttgcccgcaaaggtttgctggcagatatt
+            gtattaagtgcgcaggattctgatgtcattaaaacctatgttgctcttgggcttgggatc
+            ggattagttgccgagcaatccagtggcgaacaagaggaagagaatttaatccgcctggat
+            acgcggcatctttttgatgctaatactgtctggttgggactgaagcgaggacaacttcag
+            cgtaactatgtctggcgctttctggaactttgtaatgcaggactgtcagttgaggatatc
+            aagcggcaggtgatggaaagcagtgaagaggaaattgattatcagatatag
+///

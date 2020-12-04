@@ -1,0 +1,69 @@
+ENTRY       b2616             CDS       T00007
+NAME        recN
+DEFINITION  (RefSeq) DNA repair protein RecN
+ORTHOLOGY   K03631  DNA repair protein RecN (Recombination protein N)
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2616 (recN)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecFOR pathway proteins
+                 b2616 (recN)
+              TLS (translesion DNA synthesis) factors
+               Other SOS response factors
+                b2616 (recN)
+POSITION    2751795..2753456
+MOTIF       Pfam: SMC_N AAA_23 AAA_29 AAA_15 AAA_21 AAA_22 NTPase_P4 DUF2161 Arm-DNA-bind_5
+DBLINKS     NCBI-GeneID: 947105
+            NCBI-ProteinID: YP_026172
+            Pasteur: recN
+            RegulonDB: ECK120000822
+            ECOCYC: EG10831
+            ASAP: ABE-0008611
+            UniProt: P05824
+AASEQ       553
+            MLAQLTISNFAIVRELEIDFHSGMTVITGETGAGKSIAIDALGLCLGGRAEADMVRTGAA
+            RADLCARFSLKDTPAALRWLEENQLEDGHECLLRRVISSDGRSRGFINGTAVPLSQLREL
+            GQLLIQIHGQHAHQLLTKPEHQKFLLDGYANETSLLQEMTARYQLWHQSCRDLAHHQQLS
+            QERAARAELLQYQLKELNEFNPQPGEFEQIDEEYKRLANSGQLLTTSQNALALMADGEDA
+            NLQSQLYTAKQLVSELIGMDSKLSGVLDMLEEATIQIAEASDELRHYCDRLDLDPNRLFE
+            LEQRISKQISLARKHHVSPEALPQYYQSLLEEQQQLDDQADSQETLALAVTKHHQQALEI
+            ARALHQQRQQYAEELAQLITDSMHALSMPHGQFTIDVKFDEHHLGADGADRIEFRVTTNP
+            GQPMQPIAKVASGGELSRIALAIQVITARKMETPALIFDEVDVGISGPTAAVVGKLLRQL
+            GESTQVMCVTHLPQVAGCGHQHYFVSKETDGAMTETHMQSLNKKARLQELARLLGGSEVT
+            RNTLANAKELLAA
+NTSEQ       1662
+            atgttggcacaactgaccatcagcaactttgctatcgttcgtgagcttgagattgatttt
+            catagcggcatgaccgtaataactggcgagaccggcgcgggtaaatctattgcaatagat
+            gccctcggtctttgtctcggtggtcgcgctgaagccgacatggtgcgtaccggcgctgct
+            cgcgctgacctgtgcgcccgtttttctctgaaagatacgccagcggctctgcgctggctg
+            gaagaaaaccagcttgaagacgggcatgaatgtttgcttcgtcgcgtgatcagcagcgat
+            ggtcgctcccgtggtttcatcaacggtacagctgttcctctgtcacaactgcgcgaactg
+            ggtcagttgctgattcagatccatggtcagcacgctcatcaattactcaccaaacctgag
+            caccaaaaattcctgcttgatggctatgccaatgaaacctctctactgcaggaaatgacc
+            gcacgttatcagttgtggcatcaaagctgccgtgacctcgcgcatcatcaacagttaagt
+            caggaacgcgccgcccgtgcggaactgctgcaataccaattaaaagaacttaacgaattt
+            aatccgcagcccggagagtttgaacaaatcgacgaagagtacaaacgtctggcgaacagc
+            ggtcaattgctgaccaccagccagaatgcattggcattaatggccgacggtgaagacgca
+            aacctgcaaagtcagctttacacggctaaacaactggtgagcgaattgattggcatggac
+            agcaaactgtccggcgtacttgatatgctggaagaagctaccatccagattgctgaagcc
+            agcgatgaactgcgccactactgcgatcgtctggatctcgatcccaaccgactatttgaa
+            cttgaacagcgcatctcaaaacagatttcgctggcacgtaaacatcacgtcagccctgag
+            gcattgccacagtattaccagtcgctactggaagaacagcagcaactggacgatcaggcc
+            gactcacaagaaacgcttgcgctggcggtaacgaaacatcatcagcaggcactggaaatc
+            gcgcgcgcattacaccaacaacgccagcaatatgcagaagaacttgcacagctgatcacc
+            gacagtatgcatgcgctctcaatgccgcatgggcagtttacgatcgatgttaaatttgac
+            gagcatcacctgggcgctgacggtgccgatcgtattgagtttcgggtaaccaccaaccca
+            ggtcagccaatgcagcctattgccaaagtcgcatccggtggtgaattgtcccgcatcgca
+            ctggcaatccaggtcatcacggcgcgtaaaatggaaaccccggcactgatttttgatgaa
+            gtggatgtagggattagcggtccaacagcggcagttgtcggcaaactgctgcgtcaactc
+            ggcgaatcaactcaggtgatgtgtgttacccacctgccacaagtcgcgggatgtggtcat
+            caacactattttgtcagcaaagaaaccgatggtgcgatgacagaaacgcatatgcaatcc
+            ctgaataaaaaagcgcggttacaagagctggcgcgcctgcttggtggcagtgaagtcaca
+            cgtaatacactggcgaatgcgaaagaactgcttgcagcgtaa
+///

@@ -1,0 +1,33 @@
+ENTRY       b1021             CDS       T00007
+NAME        pgaD
+DEFINITION  (RefSeq) poly-N-acetyl-D-glucosamine synthase subunit PgaD
+ORTHOLOGY   K11937  biofilm PGA synthesis protein PgaD
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b1021 (pgaD)
+POSITION    complement(1086106..1086519)
+MOTIF       Pfam: PgaD SfLAP Chordopox_A13L DUF2162 Tetraspanin Herpes_LMP1
+DBLINKS     NCBI-GeneID: 947503
+            NCBI-ProteinID: NP_415540
+            Pasteur: ycdP
+            RegulonDB: ECK120003126
+            ECOCYC: G6528
+            ASAP: ABE-0003460
+            UniProt: P69432
+AASEQ       137
+            MNNLIITTRQSPVRLLVDYVATTILWTLFALFIFLFAMDLLTGYYWQSEARSRLQFYFLL
+            AVANAVVLIVWALYNKLRFQKQQHHAAYQYTPQEYAESLAIPDELYQQLQKSHRMSVHFT
+            SQGQIKMVVSEKALVRA
+NTSEQ       414
+            atgaacaatttaattattacgacccgacaatcaccagtacgtttactggttgattatgtt
+            gccacaaccatcttgtggacattatttgcgttgttcatattcttattcgccatggatctg
+            ctgacgggttattactggcaaagcgaggccagaagccgacttcagttctattttttgctg
+            gcagtggcgaatgccgtcgtgttaattgtctgggcgctgtacaataagctgcgttttcaa
+            aaacagcagcatcatgcagcctaccaatatacgccgcaagaatatgcagagagcttagca
+            atacctgatgagctctatcagcaactacaaaaaagccacaggatgagcgtacacttcacc
+            agccaggggcaaataaaaatggttgtttcagaaaaagcgctagtccgggcataa
+///

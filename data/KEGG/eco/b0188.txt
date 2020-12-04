@@ -1,0 +1,64 @@
+ENTRY       b0188             CDS       T00007
+NAME        tilS
+DEFINITION  (RefSeq) tRNA(Ile)-lysidine synthetase
+ORTHOLOGY   K04075  tRNA(Ile)-lysidine synthase [EC:6.3.4.19]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b0188 (tilS)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.4  Other carbon-nitrogen ligases
+                6.3.4.19  tRNAIle-lysidine synthase
+                 b0188 (tilS)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Other tRNA modification factors
+                b0188 (tilS)
+POSITION    212331..213629
+MOTIF       Pfam: ATP_bind_3 TilS_C TilS tRNA_Me_trans PAPS_reduct QueC
+DBLINKS     NCBI-GeneID: 944889
+            NCBI-ProteinID: NP_414730
+            Pasteur: yaeN
+            RegulonDB: ECK120002716
+            ECOCYC: G6096
+            ASAP: ABE-0000638
+            UniProt: P52097
+STRUCTURE   PDB: 1NI5
+AASEQ       432
+            MTLTLNRQLLTSRQILVAFSGGLDSTVLLHQLVQWRTENPGVALRAIHVHHGLSANADAW
+            VTHCENVCQQWQVPLVVERVQLAQEGLGIEAQARQARYQAFARTLLPGEVLVTAQHLDDQ
+            CETFLLALKRGSGPAGLSAMAEVSEFAGTRLIRPLLARTRGELVQWARQYDLRWIEDESN
+            QDDSYDRNFLRLRVVPLLQQRWPHFAEATARSAALCAEQESLLDELLADDLAHCQSPQGT
+            LQIVPMLAMSDARRAAIIRRWLAGQNAPMPSRDALVRIWQEVALAREDASPCLRLGAFEI
+            RRYQSQLWWIKSVTGQSENIVPWQTWLQPLELPAGLGSVQLNAGGDIRPPRADEAVSVRF
+            KAPGLLHIVGRNGGRKLKKIWQELGVPPWLRDTTPLLFYGETLIAAAGVFVTQEGVAEGE
+            NGVSFVWQKTLS
+NTSEQ       1299
+            atgacactcacgctcaatagacaacttctcacctcacgccagattctggtggcctttagc
+            ggcgggcttgactccaccgttctgctgcatcagttggtgcagtggcggacggaaaatccg
+            ggtgtcgctctgcgcgctattcatgtgcatcacggtttaagtgccaatgccgatgcctgg
+            gttacgcattgcgaaaacgtctgccaacagtggcaggtgccgctggtggtcgaacgcgta
+            caacttgcgcaagaaggactgggcattgaggcccaggcgcggcaggcacgttatcaggca
+            tttgcccgcaccttgttgcccggtgaagtgctggtcaccgcgcaacatctcgacgatcaa
+            tgtgaaacctttctgctggcgctaaaacgcggcagtggccctgccgggctttcggctatg
+            gcggaagtctcggagtttgccggaacgcggcttattcgcccgttgctcgcccgcacgcgg
+            ggggaactggtgcagtgggcgcgtcagtatgatttacgctggattgaagacgaaagtaat
+            caggacgactcatacgatcgtaactttctgcgcctgcgcgtagtgccgttattgcagcag
+            cgttggccgcattttgccgaagcaacggcccgcagcgccgcactttgtgctgaacaagag
+            agcctgctggatgaactgctggcagatgatttagcacactgtcaatcgccgcaggggacg
+            ctgcagattgtgccaatgctggcgatgagtgatgcccgccgcgcggcgattatccgccgc
+            tggctggcagggcagaatgcaccgatgccttcccgcgacgcgttggtgaggatctggcag
+            gaagtggcgctggcgcgggaagatgcctcaccctgtttacgtttgggcgcgtttgaaatc
+            cgacgctatcagtcgcaactgtggtggattaaatccgtcaccgggcaaagcgaaaacatt
+            gtgccgtggcagacgtggcttcaaccgctggaattaccggcggggctgggaagtgtacag
+            cttaatgcgggaggcgatattcgccctccgcgtgcagacgaagcggtcagcgtgcgtttc
+            aaagcgccaggattgctgcatattgtcgggcgtaacggcggacgtaagctaaagaaaatc
+            tggcaagagctgggcgtgccgccgtggctacgtgacaccacgccactgctgttttatggc
+            gaaacgctgattgcggcggcaggggtatttgtgacgcaagaaggtgtggctgaaggtgag
+            aatggcgtaagttttgtctggcagaaaacgcttagttaa
+///

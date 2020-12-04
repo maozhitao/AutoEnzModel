@@ -1,0 +1,36 @@
+ENTRY       b2495             CDS       T00007
+NAME        yfgD
+DEFINITION  (RefSeq) putative oxidoreductase YfgD
+ORTHOLOGY   K00537  arsenate reductase (glutaredoxin) [EC:1.20.4.1]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b2495 (yfgD)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.20  Acting on phosphorus or arsenic in donors
+               1.20.4  With disulfide as acceptor
+                1.20.4.1  arsenate reductase (glutathione/glutaredoxin)
+                 b2495 (yfgD)
+POSITION    2617578..2617937
+MOTIF       Pfam: ArsC Glutaredoxin kleA_kleC
+DBLINKS     NCBI-GeneID: 946974
+            NCBI-ProteinID: NP_416990
+            Pasteur: yfgD
+            RegulonDB: ECK120003884
+            ECOCYC: G7312
+            ASAP: ABE-0008214
+            UniProt: P76569
+AASEQ       119
+            MTKQVKIYHNPRCSKSRETLNLLKENGVEPEVVLYLETPADAATLRDLLKILGMNSAREL
+            MRQKEDLYKELNLADSSLSEEALIQAMVDNPKLMERPIVVANGKARIGRPPEQVLEIVG
+NTSEQ       360
+            atgaccaaacaggtaaaaatctaccataacccacgctgttcaaagagccgggaaacgctg
+            aacctgctgaaagaaaacggcgtggagccagaagtggtgctctaccttgagacacccgcc
+            gatgcggcaacgctgcgcgatttgctgaaaatactggggatgaatagcgcccgtgaattg
+            atgcgccagaaagaggatctttataaagaactgaacctggctgacagttcgcttagcgaa
+            gaggcgctgattcaggcaatggtggataatccgaagctgatggagcgcccgattgtggtc
+            gcgaatggcaaagcgcggattggtcgtccaccggagcaggtactggaaatcgtgggttaa
+///

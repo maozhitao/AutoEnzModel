@@ -1,0 +1,96 @@
+ENTRY       b1866             CDS       T00007
+NAME        aspS
+DEFINITION  (RefSeq) aspartate--tRNA ligase
+ORTHOLOGY   K01876  aspartyl-tRNA synthetase [EC:6.1.1.12]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                b1866 (aspS)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:eco01007]
+                b1866 (aspS)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b1866 (aspS)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b1866 (aspS)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.12  aspartate---tRNA ligase
+                 b1866 (aspS)
+            Amino acid related enzymes [BR:eco01007]
+             Aminoacyl-tRNA synthetase
+              Class II (A)
+               b1866 (aspS)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Multi-aminoacyl-tRNA synthetase complex (MSC)
+                b1866 (aspS)
+             Prokaryotic type
+               Other AARSs
+                b1866 (aspS)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Other mitochondrial DNA transcription and translation factors
+                b1866 (aspS)
+POSITION    complement(1948750..1950522)
+MOTIF       Pfam: tRNA-synt_2 GAD tRNA_anti-codon tRNA-synt_2d
+DBLINKS     NCBI-GeneID: 946385
+            NCBI-ProteinID: NP_416380
+            Pasteur: aspS
+            RegulonDB: ECK120000093
+            ECOCYC: EG10097
+            ASAP: ABE-0006226
+            UniProt: P21889
+STRUCTURE   PDB: 1C0A 1IL2 1EQR
+AASEQ       590
+            MRTEYCGQLRLSHVGQQVTLCGWVNRRRDLGSLIFIDMRDREGIVQVFFDPDRADALKLA
+            SELRNEFCIQVTGTVRARDEKNINRDMATGEIEVLASSLTIINRADVLPLDSNHVNTEEA
+            RLKYRYLDLRRPEMAQRLKTRAKITSLVRRFMDDHGFLDIETPMLTKATPEGARDYLVPS
+            RVHKGKFYALPQSPQLFKQLLMMSGFDRYYQIVKCFRDEDLRADRQPEFTQIDVETSFMT
+            APQVREVMEALVRHLWLEVKGVDLGDFPVMTFAEAERRYGSDKPDLRNPMELTDVADLLK
+            SVEFAVFAGPANDPKGRVAALRVPGGASLTRKQIDEYGNFVKIYGAKGLAYIKVNERAKG
+            LEGINSPVAKFLNAEIIEDILDRTAAQDGDMIFFGADNKKIVADAMGALRLKVGKDLGLT
+            DESKWAPLWVIDFPMFEDDGEGGLTAMHHPFTSPKDMTAAELKAAPENAVANAYDMVING
+            YEVGGGSVRIHNGDMQQTVFGILGINEEEQREKFGFLLDALKYGTPPHAGLAFGLDRLTM
+            LLTGTDNIRDVIAFPKTTAAACLMTEAPSFANPTALAELSIQVVKKAENN
+NTSEQ       1773
+            atgcgtacagaatattgtggacagctccgtttgtcccacgtggggcagcaggtgactctg
+            tgtggttgggtcaaccgtcgtcgtgatcttggtagcctgatcttcatcgatatgcgcgac
+            cgcgaaggtatcgtgcaggtatttttcgatccggatcgtgcggacgcgttaaagctggcc
+            tctgaactgcgtaatgagttctgcattcaggtcacgggcaccgtacgtgcgcgtgacgaa
+            aaaaatattaaccgcgatatggcgaccggcgaaatcgaagtgctggcgtcctcgctgact
+            atcatcaaccgcgcagatgttctgccgcttgactctaaccacgtcaacaccgaagaagcg
+            cgtctgaaataccgctacctcgacctgcgtcgtccggaaatggctcagcgcctgaaaacc
+            cgcgctaaaatcaccagcctggtgcgccgttttatggatgaccacggcttcctcgacatc
+            gaaactccgatgctgaccaaagccacgccggaaggcgcgcgtgactacctggtgccttct
+            cgtgtgcacaaaggtaaattctacgcactgccgcaatccccgcagttgttcaaacagctg
+            ctgatgatgtccggttttgaccgttactatcagatcgttaaatgcttccgtgacgaagac
+            ctgcgtgctgaccgtcagcctgaatttactcagatcgatgtggaaacttctttcatgacc
+            gcgccgcaagtgcgtgaagtgatggaagcgctggtgcgtcatctgtggctggaagtgaag
+            ggtgtggatctgggcgatttcccggtaatgacctttgcggaagcagaacgccgttatggt
+            tctgataaaccggatctgcgtaacccgatggaactgactgacgttgctgatctgctgaaa
+            tctgttgagtttgctgtatttgcaggtccggcgaacgatccgaaaggtcgcgtagcggct
+            ctgcgcgttccgggcggcgcatcgctgacccgtaagcagatcgacgaatacggtaacttc
+            gttaaaatctacggcgcgaaaggtctggcttacatcaaagttaacgaacgcgcgaaaggt
+            ctggaaggtatcaacagcccggtagcgaagttccttaatgcagaaatcatcgaagacatc
+            ctggatcgtactgccgcgcaagatggcgatatgattttcttcggtgccgacaacaagaaa
+            attgttgccgacgcgatgggtgcactgcgcctgaaagtgggtaaagaccttggtctgacc
+            gacgaaagcaaatgggcaccgctgtgggttatcgacttcccgatgtttgaagacgacggt
+            gaaggcggcctgacggcaatgcaccatccgttcacctcaccgaaagatatgacggctgca
+            gaactgaaagctgcaccggaaaatgcggtggcgaacgcttacgatatggtcatcaatggt
+            tacgaagtgggcggtggttcagtacgtatccataatggtgatatgcagcagacggtgttt
+            ggtattctgggtatcaacgaagaggaacagcgcgagaaattcggcttcctgctcgacgct
+            ctgaaatacggtactccgccgcacgcaggtctggcattcggtcttgaccgtctgaccatg
+            ctgctgaccggcaccgacaatatccgtgacgttatcgccttcccgaaaaccacggcggca
+            gcgtgtctgatgactgaagcaccgagctttgctaacccgactgcactggctgagctgagc
+            attcaggttgtgaagaaggctgagaataactga
+///

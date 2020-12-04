@@ -1,0 +1,77 @@
+ENTRY       b0153             CDS       T00007
+NAME        fhuB
+DEFINITION  (RefSeq) iron(III) hydroxamate ABC transporter membrane subunit
+ORTHOLOGY   K23228  ferric hydroxamate transport system permease protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b0153 (fhuB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0153 (fhuB)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Metallic cation, iron-siderophore and vitamin B12 transporters
+               Ferric hydroxamate transporter
+                b0153 (fhuB)
+POSITION    171462..173444
+MOTIF       Pfam: FecCD
+DBLINKS     NCBI-GeneID: 946890
+            NCBI-ProteinID: NP_414695
+            Pasteur: fhuB
+            RegulonDB: ECK120000297
+            ECOCYC: EG10303
+            ASAP: ABE-0000526
+            UniProt: P06972
+AASEQ       660
+            MSKRIALFPALLLALLVIVATALTWMNFSQALPRSQWAQAAWSPDIDVIEQMIFHYSLLP
+            RLAISLLVGAGLGLVGVLFQQVLRNPLAEPTTLGVATGAQLGITVTTLWAIPGAMASQFA
+            AQAGACVVGLIVFGVAWGKRLSPVTLILAGLVVSLYCGAINQLLVIFHHDQLQSMFLWST
+            GTLTQTDWGGVERLWPQLLGGVMLTLLLLRPLTLMGLDDGVARNLGLALSLARLAALSLA
+            IVISALLVNAVGIIGFIGLFAPLLAKMLGARRLLPRLMLASLIGALILWLSDQIILWLTR
+            VWMEVSTGSVTALIGAPLLLWLLPRLRSISAPDMKVNDRVAAERQHVLAFALAGGVLLLM
+            AVVVALSFGRDAHGWTWASGALLEDLMPWRWPRIMAALFAGVMLAVAGCIIQRLTGNPMA
+            SPEVLGISSGAAFGVVLMLFLVPGNAFGWLLPAGSLGAAVTLLIIMIAAGRGGFSPHRML
+            LAGMALSTAFTMLLMMLQASGDPRMAQVLTWISGSTYNATDAQVWRTGIVMVILLAITPL
+            CRRWLTILPLGGDTARAVGMALTPTRIALLLLAACLTATATMTIGPLSFVGLMAPHIARM
+            MGFRRTMPHIVISALVGGLLLVFADWCGRMVLFPFQIPAGLLSTFIGAPYFIYLLRKQSR
+NTSEQ       1983
+            gtgagtaaacgaattgcgcttttcccggcgttattgctggcgctgttagtgattgtcgct
+            acggcgctcacctggatgaacttctcgcaggcgctgccgcgtagccagtgggcgcaggct
+            gcctggtcgccggatattgacgtcatcgagcagatgatttttcactacagcttgttgccg
+            cgtctggcgatttcgctgctggtgggcgcgggtctggggctggtgggcgtgctgtttcag
+            caagtgctgcgtaacccgctggcggagccgacgacgcttggcgttgctacaggcgcgcaa
+            ctggggattaccgtcactacgctctgggcgatccctggtgcgatggcgagccagtttgct
+            gcgcaggcaggggcttgtgttgttggcttaattgtctttggcgtcgcgtgggggaaacgg
+            ctgtcgccggtaacgctgattctcgcggggttggtagtgagcctttattgcggcgcaatc
+            aatcagttactggttatcttccatcatgaccaactgcaaagcatgtttctgtggagcact
+            ggaacgctgacgcaaaccgactggggcggcgttgagcgtttatggccgcagctgctgggc
+            ggtgtgatgctgacgttgctgctacttcgtccgttaaccctgatggggcttgatgatggc
+            gtggcgcgcaatctcgggctggccttgtcgcttgcgcgtctggcagcgctgtcgctggcg
+            attgtcatcagtgcgctgctggtgaacgctgtggggattatcggctttatcgggttgttc
+            gcgccgctgctggcaaaaatgctgggggcgcggcgtctgctgccacgactgatgctggcg
+            tcgttgattggtgcgctgatcctctggctttccgatcaaatcatcctctggctgactcgc
+            gtgtggatggaagtgtccaccggttcggtcactgcgttgatcggtgcgccgctgctactg
+            tggctgttgccgcgtttacgcagcattagcgcgccggatatgaaggtcaacgatcgtgtc
+            gcggctgaacgccaacatgtgctggcgtttgccctcgcgggcggcgtgctgctgttgatg
+            gctgtggtggtggcgctgtcgtttggtcgtgatgcgcacggctggacgtgggcgagcggg
+            gcgttgctcgaggatttaatgccctggcgctggccgcgaattatggcggcgctgtttgcg
+            ggcgtcatgctggcggtggcgggctgtattattcagcgactgaccggaaacccgatggca
+            agcccggaagtgctggggattagctccggcgcggcgtttggcgtggtgttgatgctgttt
+            ctggtgccgggtaatgcctttggctggctgttacctgcaggcagtctcggcgcggcggtg
+            acgctgttgatcattatgatcgccgccggccgcggtggattttccccacaccgtatgtta
+            ctggcggggatggcgttaagcaccgcgttcaccatgcttttgatgatgttgcaggcaagt
+            ggtgacccgcgaatggcgcaagtgctgacctggatttccggttcgacctacaacgcgacc
+            gatgcgcaggtctggcgcaccggaattgtgatggtgattttgctggcgattaccccgctg
+            tgccgccgctggctgaccattttaccgctgggtggtgataccgcccgagccgtaggaatg
+            gcgctgacgccgacgcgaattgcgctgctgctgttagcggcttgcctgacggcgaccgcg
+            acgatgactattggaccgttgagttttgttggtttaatggcaccgcatattgcgcggatg
+            atgggctttcgacggacgatgccacacatcgtaatttcggcgctggtgggtggtttactg
+            ctggtgttcgctgactggtgtgggcggatggtgctgtttccattccagatcccggcgggg
+            ctgctgtcaacctttatcggcgcgccatattttatctatttgttgagaaagcagagccgt
+            taa
+///

@@ -1,0 +1,43 @@
+ENTRY       b2757             CDS       T00007
+NAME        casD
+DEFINITION  (RefSeq) type I-E CRISPR system Cascade subunit CasD
+ORTHOLOGY   K19125  CRISPR system Cascade subunit CasD
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b2757 (casD)
+            Prokaryotic defense system [BR:eco02048]
+             CRISPR-Cas system
+              Type I CRISPR-Cas system
+               Subtype I-E factors
+                b2757 (casD)
+POSITION    complement(2880374..2881048)
+MOTIF       Pfam: Cas_Cas5d Terminase_3C
+DBLINKS     NCBI-GeneID: 947225
+            NCBI-ProteinID: NP_417237
+            RegulonDB: ECK120003992
+            ECOCYC: G7427
+            ASAP: ABE-0009044
+            UniProt: Q46898
+STRUCTURE   PDB: 5H9F 4U7U 4QYZ 5CD4 5H9E
+AASEQ       224
+            MRSYLILRLAGPMQAWGQPTFEGTRPTGRFPTRSGLLGLLGACLGIQRDDTSSLQALSES
+            VQFAVRCDELILDDRRVSVTGLRDYHTVLGAREDYRGLKSHETIQTWREYLCDASFTVAL
+            WLTPHATMVISELEKAVLKPRYTPYLGRRSCPLTHPLFLGTCQASDPQKALLNYEPVGGD
+            IYSEESVTGHHLKFTARDEPMITLPRQFASREWYVIKGGMDVSQ
+NTSEQ       675
+            atgagatcttatttgatcttgcggcttgctgggccaatgcaagcctgggggcagccgacc
+            tttgaaggaacgcgacctaccggaagatttccgacccgaagcgggttattagggctactc
+            ggggcttgtcttgggatccaacgtgatgatacttcttcattacaggcgttatcagagagt
+            gtgcaatttgcagtgcgctgcgatgaactcattcttgacgatcgtcgtgtgtctgtaacg
+            gggttgcgtgattaccatacagtccttggagcgcgagaagattaccgtggtttgaaaagt
+            catgaaacgattcaaacatggcgcgaatatttatgtgatgcctcctttaccgtcgctctc
+            tggttaacaccccatgcaacgatggttatctcagaacttgaaaaagcagtattaaagcct
+            cggtatacaccttacctggggcggagaagttgcccactaacacacccgctttttttgggg
+            acatgtcaggcatcggatcctcagaaggcgctattaaattatgagcccgttggcggcgat
+            atatatagtgaggaatcagttacagggcatcatttaaaatttacggcgcgcgacgaaccg
+            atgatcaccttgcctcgacaatttgcttcccgagaatggtatgtgattaaaggaggtatg
+            gatgtatctcagtaa
+///

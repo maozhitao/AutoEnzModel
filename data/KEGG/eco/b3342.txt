@@ -1,0 +1,48 @@
+ENTRY       b3342             CDS       T00007
+NAME        rpsL
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S12
+ORTHOLOGY   K02950  small subunit ribosomal protein S12
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3342 (rpsL)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3342 (rpsL)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Small subunit
+                b3342 (rpsL)
+              Bacteria
+                b3342 (rpsL)
+              Archaea
+                b3342 (rpsL)
+POSITION    complement(3474178..3474552)
+MOTIF       Pfam: Ribosom_S12_S23 Ribosomal_S12
+DBLINKS     NCBI-GeneID: 947845
+            NCBI-ProteinID: NP_417801
+            Pasteur: rpsL
+            RegulonDB: ECK120000902
+            ECOCYC: EG10911
+            ASAP: ABE-0010919
+            UniProt: P0A7S3
+STRUCTURE   PDB: 5U4J 6NQB 6O7K 5UZ4 5MY1 3EQ3 3EP2 2YKR 3J0E 3DEG 3J0D
+                 3EQ4 5ME0 5ME1 4ADV 3IY8 1ZN1 4A2I
+AASEQ       124
+            MATVNQLVRKPRARKVAKSNVPALEACPQKRGVCTRVYTTTPKKPNSALRKVCRVRLTNG
+            FEVTSYIGGEGHNLQEHSVILIRGGRVKDLPGVRYHTVRGALDCSGVKDRKQARSKYGVK
+            RPKA
+NTSEQ       375
+            atggcaacagttaaccagctggtacgcaaaccacgtgctcgcaaagttgcgaaaagcaac
+            gtgcctgcgctggaagcatgcccgcaaaaacgtggcgtatgtactcgtgtatatactacc
+            actcctaaaaaaccgaactccgcgctgcgtaaagtatgccgtgttcgtctgactaacggt
+            ttcgaagtgacttcctacatcggtggtgaaggtcacaacctgcaggagcactccgtgatc
+            ctgatccgtggcggtcgtgttaaagacctcccgggtgttcgttaccacaccgtacgtggt
+            gcgcttgactgctccggcgttaaagaccgtaagcaggctcgttccaagtatggcgtgaag
+            cgtcctaaggcttaa
+///

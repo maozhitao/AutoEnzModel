@@ -1,0 +1,65 @@
+ENTRY       b2213             CDS       T00007
+NAME        ada
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator/DNA repair protein Ada
+ORTHOLOGY   K10778  AraC family transcriptional regulator, regulatory protein of adaptative response / methylated-DNA-[protein]-cysteine methyltransferase [EC:2.1.1.63]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b2213 (ada)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2213 (ada)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.63  methylated-DNA---[protein]-cysteine S-methyltransferase
+                 b2213 (ada)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               AraC family
+                b2213 (ada)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               Direct repair
+                b2213 (ada)
+POSITION    complement(2309341..2310405)
+MOTIF       Pfam: Ada_Zn_binding DNA_binding_1 Methyltransf_1N HTH_AraC HTH_18
+DBLINKS     NCBI-GeneID: 946710
+            NCBI-ProteinID: NP_416717
+            Pasteur: ada
+            RegulonDB: ECK120000026
+            ECOCYC: EG10029
+            ASAP: ABE-0007311
+            UniProt: P06134
+STRUCTURE   PDB: 1U8B 1SFE 1ZGW 1WPK 1EYF 1ADN
+AASEQ       354
+            MKKATCLTDDQRWQSVLARDPNADGEFVFAVRTTGIFCRPSCRARHALRENVSFYANASE
+            ALAAGFRPCKRCQPEKANAQQHRLDKITHACRLLEQETPVTLEALADQVAMSPFHLHRLF
+            KATTGMTPKAWQQAWRARRLRESLAKGESVTTSILNAGFPDSSSYYRKADETLGMTAKQF
+            RHGGENLAVRYALADCELGRCLVAESERGICAILLGDDDATLISELQQMFPAADNAPADL
+            MFQQHVREVIASLNQRDTPLTLPLDIRGTAFQQQVWQALRTIPCGETVSYQQLANAIGKP
+            KAVRAVASACAANKLAIIIPCHRVVRGDGTLSGYRWGVSRKAQLLRREAENEER
+NTSEQ       1065
+            atgaaaaaagccacatgcttaactgacgatcaacgctggcaatctgtcttagcccgcgac
+            ccgaatgccgacggcgaattcgttttcgccgtgcgtaccacaggcatcttttgccgtccg
+            tcttgccgcgccagacatgctttgcgggaaaacgtctccttctacgcaaatgccagcgag
+            gcactcgccgctggctttcgcccctgcaaacgttgtcagccagaaaaagccaatgcccag
+            caacatcggttggataaaatcacccacgcgtgtcgactgctggaacaggaaacgcctgta
+            acgctggaagccttagccgaccaggtggcgatgagtccatttcatctacatcggttgttt
+            aaagcgactaccggaatgacgcctaaagcctggcaacaggcctggcgcgctcgccgtttg
+            cgcgaatcgctggcgaaaggggagagcgtgacgacgtctattcttaacgccggattcccc
+            gacagcagcagttactatcgcaaagctgacgaaacgctgggcatgacggctaaacaattc
+            cgtcacggtggcgaaaatctggcggtgcgttacgcgctggctgattgtgagctgggtcgt
+            tgcctggtggcagaaagcgagcgggggatttgcgcgatattgctgggcgatgatgacgcg
+            acactaatcagcgagttgcagcagatgtttcccgctgccgacaacgcgcctgccgatctg
+            atgtttcagcaacatgtgcgtgaagtgatcgccagcctcaatcaacgcgatacgccgctg
+            acgttaccgctggacattcgcggcactgcttttcagcaacaagtctggcaggcactgcgc
+            acgataccttgcggtgaaaccgtcagttatcagcaactggctaacgccatcggcaaaccg
+            aaagcggtacgggccgttgccagcgcctgtgccgccaacaagctggctatcataataccc
+            tgtcatcgggtggtccgtggtgatggcacactttccggttaccgctggggcgtgtcgcgt
+            aaagcgcaactgctgcgccgcgaagctgaaaatgaggagaggtaa
+///

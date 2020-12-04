@@ -1,0 +1,50 @@
+ENTRY       b3175             CDS       T00007
+NAME        secG
+DEFINITION  (RefSeq) Sec translocon subunit SecG
+ORTHOLOGY   K03075  preprotein translocase subunit SecG
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02024  Quorum sensing
+            eco03060  Protein export
+            eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b3175 (secG)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3175 (secG)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b3175 (secG)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3175 (secG)
+            Secretion system [BR:eco02044]
+             Sec (secretion) system
+              Prokaryotic Sec-SRP core components
+               b3175 (secG)
+POSITION    complement(3322173..3322505)
+MOTIF       Pfam: SecG DUF4870 DUF4064
+DBLINKS     NCBI-GeneID: 947720
+            NCBI-ProteinID: NP_417642
+            Pasteur: secG
+            RegulonDB: ECK120002000
+            ECOCYC: EG12095
+            ASAP: ABE-0010436
+            UniProt: P0AG99
+STRUCTURE   PDB: 3J45 3J46 5MG3 2AKH 2AKI
+AASEQ       110
+            MYEALLVVFLIVAIGLVGLIMLQQGKGADMGASFGAGASATLFGSSGSGNFMTRMTALLA
+            TLFFIISLVLGNINSNKTNKGSEWENLSAPAKTEQTQPAAPAKPTSDIPN
+NTSEQ       333
+            atgtatgaagctcttttagtagttttccttattgtggcaattggccttgttggtctgatc
+            atgctgcagcaaggtaaaggcgctgatatgggagcctccttcggagcaggcgcttccgct
+            acgctgtttggttcaagtggttctggtaacttcatgacccgcatgacggcgctgctggca
+            acgttattcttcatcatcagtctggtgctgggtaacatcaatagcaacaaaaccaataaa
+            ggtagcgaatgggaaaatctgagtgcaccggcgaaaaccgaacaaactcagccagctgct
+            ccggctaagccgaccagcgatatcccgaactaa
+///

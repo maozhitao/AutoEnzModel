@@ -1,0 +1,54 @@
+ENTRY       b1658             CDS       T00007
+NAME        purR
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor PurR
+ORTHOLOGY   K03604  LacI family transcriptional regulator, purine nucleotide synthesis repressor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1658 (purR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               LacI family
+                b1658 (purR)
+POSITION    1737844..1738869
+MOTIF       Pfam: Peripla_BP_3 Peripla_BP_1 Peripla_BP_4 LacI HTH_Tnp_ISL3 PucR HTH_3 HTH_38 HTH_23
+DBLINKS     NCBI-GeneID: 945226
+            NCBI-ProteinID: NP_416175
+            Pasteur: purR
+            RegulonDB: ECK120000791
+            ECOCYC: EG10800
+            ASAP: ABE-0005545
+            UniProt: P0ACP7
+STRUCTURE   PDB: 1DBQ 1JHZ 1JFT 1QPZ 1JH9 2PUC 2PUD 1WET 1QQB 1ZAY 1VPW
+                 2PUB 2PUE 2PUG 1BDH 1PNR 1JFS 1QP0 1QP7 2PUA 1QP4 1QQA
+                 2PUF 1BDI 1PRU 1PRV
+AASEQ       341
+            MATIKDVAKRANVSTTTVSHVINKTRFVAEETRNAVWAAIKELHYSPSAVARSLKVNHTK
+            SIGLLATSSEAAYFAEIIEAVEKNCFQKGYTLILGNAWNNLEKQRAYLSMMAQKRVDGLL
+            VMCSEYPEPLLAMLEEYRHIPMVVMDWGEAKADFTDAVIDNAFEGGYMAGRYLIERGHRE
+            IGVIPGPLERNTGAGRLAGFMKAMEEAMIKVPESWIVQGDFEPESGYRAMQQILSQPHRP
+            TAVFCGGDIMAMGALCAADEMGLRVPQDVSLIGYDNVRNARYFTPALTTIHQPKDSLGET
+            AFNMLLDRIVNKREEPQSIEVHPRLIERRSVADGPFRDYRR
+NTSEQ       1026
+            atggcaacaataaaagatgtagcgaaacgagcaaacgtttccactacaactgtgtcacac
+            gtgatcaacaaaacacgtttcgtcgctgaagaaacgcgcaacgccgtgtgggcagcgatt
+            aaagaattacactactcccctagcgcggtggcgcgtagcctgaaggttaaccacaccaag
+            tctatcggtttgctggcgaccagcagcgaagcggcctattttgccgagatcattgaagca
+            gttgaaaaaaattgcttccagaaaggttacaccctgattctgggcaatgcgtggaacaat
+            cttgagaaacagcgggcttatctgtcgatgatggcgcaaaaacgcgtcgatggtctgctg
+            gtgatgtgttctgagtacccagagccgttgctggcgatgctggaagagtatcgccatatc
+            ccaatggtggtcatggactggggtgaagcaaaagctgacttcaccgatgcggtcattgat
+            aacgcgttcgaaggcggctacatggccgggcgttatctgattgaacgcggtcaccgcgaa
+            atcggcgtcatccccggcccgctggaacgtaacaccggcgcaggccgccttgccggtttt
+            atgaaggcgatggaagaagcgatgatcaaggtgccggaaagctggattgtgcagggtgac
+            tttgaacctgaatccggttatcgcgccatgcagcaaatcctgtcgcagccgcatcgccct
+            actgccgtcttctgtggtggcgatatcatggcaatgggcgcactttgtgctgctgatgaa
+            atgggcctgcgcgtcccgcaggatgtttcgctgatcggttatgataacgtgcgcaacgcg
+            cgctattttacgccggcgctgaccacgatccatcagccaaaagattcgctgggtgaaaca
+            gcgttcaacatgctgttggatcgtatcgtcaacaaacgtgaagaaccgcagtctattgaa
+            gtgcatccgcgcttgattgaacgccgctccgtggctgacggcccgttccgcgactatcgt
+            cgttaa
+///

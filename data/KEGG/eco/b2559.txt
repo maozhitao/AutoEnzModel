@@ -1,0 +1,46 @@
+ENTRY       b2559             CDS       T00007
+NAME        tadA
+DEFINITION  (RefSeq) tRNA adenosine(34) deaminase
+ORTHOLOGY   K11991  tRNA(adenine34) deaminase [EC:3.5.4.33]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b2559 (tadA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.4  In cyclic amidines
+                3.5.4.33  tRNA(adenine34) deaminase
+                 b2559 (tadA)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Deaminases
+                b2559 (tadA)
+POSITION    complement(2697354..2697857)
+MOTIF       Pfam: MafB19-deam dCMP_cyt_deam_1 Bd3614-deam SNAD4 NAD1 APOBEC2 NAD2 APOBEC_N
+DBLINKS     NCBI-GeneID: 947027
+            NCBI-ProteinID: NP_417054
+            Pasteur: yfhC
+            RegulonDB: ECK120001340
+            ECOCYC: EG11372
+            ASAP: ABE-0008419
+            UniProt: P68398
+STRUCTURE   PDB: 1Z3A
+AASEQ       167
+            MSEVEFSHEYWMRHALTLAKRAWDEREVPVGAVLVHNNRVIGEGWNRPIGRHDPTAHAEI
+            MALRQGGLVMQNYRLIDATLYVTLEPCVMCAGAMIHSRIGRVVFGARDAKTGAAGSLMDV
+            LHHPGMNHRVEITEGILADECAALLSDFFRMRRQEIKAQKKAQSSTD
+NTSEQ       504
+            ttgtctgaagtcgaatttagccacgaatactggatgcgtcacgcgctgacgctggcgaaa
+            cgtgcctgggatgagcgggaagtgccggtcggcgcggtattagtgcataacaatcgggta
+            atcggcgaaggctggaaccgcccgattggtcgccatgatcccaccgcacatgcagaaatc
+            atggccctgcggcagggtggtctggtgatgcaaaattatcgtctgatcgacgccacgttg
+            tatgtcacgcttgaaccatgtgtaatgtgtgccggagcgatgatccacagtcgcattggt
+            cgcgtggtctttggtgcgcgtgacgcgaaaactggcgctgcgggatctttaatggatgtg
+            ctgcatcatccgggtatgaatcaccgagtggaaattacggaaggaatactggcggatgag
+            tgcgcggcgttgctcagtgacttctttcgcatgcgccgccaggaaattaaagcgcagaaa
+            aaagcgcaatcctcgacggattaa
+///

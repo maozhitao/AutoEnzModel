@@ -1,0 +1,62 @@
+ENTRY       b1090             CDS       T00007
+NAME        plsX
+DEFINITION  (RefSeq) putative phosphate acyltransferase
+ORTHOLOGY   K03621  phosphate acyltransferase [EC:2.3.1.274]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00561  Glycerolipid metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09103 Lipid metabolism
+               00561 Glycerolipid metabolism
+                b1090 (plsX)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01004 Lipid biosynthesis proteins [BR:eco01004]
+                b1090 (plsX)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.274  phosphate acyltransferase
+                 b1090 (plsX)
+            Lipid biosynthesis proteins [BR:eco01004]
+             Phospholipid acyltransferase
+              GPAT
+               b1090 (plsX)
+POSITION    1147621..1148691
+MOTIF       Pfam: FA_synthesis
+DBLINKS     NCBI-GeneID: 946165
+            NCBI-ProteinID: NP_415608
+            RegulonDB: ECK120001401
+            ECOCYC: EG11437
+            ASAP: ABE-0003692
+            UniProt: P27247
+AASEQ       356
+            MTRLTLALDVMGGDFGPSVTVPAALQALNSNSQLTLLLVGNSDAITPLLAKADFEQRSRL
+            QIIPAQSVIASDARPSQAIRASRGSSMRVALELVKEGRAQACVSAGNTGALMGLAKLLLK
+            PLEGIERPALVTVLPHQQKGKTVVLDLGANVDCDSTMLVQFAIMGSVLAEEVVEIPNPRV
+            ALLNIGEEEVKGLDSIRDASAVLKTIPSINYIGYLEANELLTGKTDVLVCDGFTGNVTLK
+            TMEGVVRMFLSLLKSQGEGKKRSWWLLLLKRWLQKSLTRRFSHLNPDQYNGACLLGLRGT
+            VIKSHGAANQRAFAVAIEQAVQAVQRQVPQRIAARLESVYPAGFELLDGGKSGTLR
+NTSEQ       1071
+            ttgacacgtctaaccctggcgttagatgtcatgggaggggattttggcccttccgtgaca
+            gtgcctgcagcattgcaggcactgaattctaattcgcaactcactcttcttttagtcggc
+            aattccgacgccatcacgccattacttgctaaagctgactttgaacaacgttcgcgtctg
+            cagattattcctgcgcagtcagttatcgccagtgatgcccggccttcgcaagctatccgc
+            gccagtcgtgggagttcaatgcgcgtggccctggagctggtgaaagaaggtcgagcgcaa
+            gcctgtgtcagtgccggtaataccggggcgctgatggggctggcaaaattattactcaag
+            cccctggaggggattgagcgtccggcgctggtgacggtattaccacatcagcaaaagggc
+            aaaacggtggtccttgacttaggggccaacgtcgattgtgacagcacaatgctggtgcaa
+            tttgccattatgggctcagttctggctgaagaggtggtggaaattcccaatcctcgcgtg
+            gcgttgctcaatattggtgaagaagaagtaaagggtctcgacagtattcgggatgcctca
+            gcggtgcttaaaacaatcccttctatcaattatatcggctatcttgaagccaatgagttg
+            ttaactggcaagacagatgtgctggtttgtgacggctttacaggaaatgtcacattaaag
+            acgatggaaggtgttgtcaggatgttcctttctctgctgaaatctcagggtgaagggaaa
+            aaacggtcgtggtggctactgttattaaagcgttggctacaaaagagcctgacgaggcga
+            ttcagtcacctcaaccccgaccagtataacggcgcctgtctgttaggattgcgcggcacg
+            gtgataaaaagtcatggtgcagccaatcagcgagcttttgcggtcgcgattgaacaggca
+            gtgcaggcggtgcagcgacaagttcctcagcgaattgccgctcgcctggaatctgtatac
+            ccagctggttttgagctgctggacggtggcaaaagcggaactctgcggtag
+///

@@ -1,0 +1,39 @@
+ENTRY       b3299             CDS       T00007
+NAME        rpmJ
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L36
+ORTHOLOGY   K02919  large subunit ribosomal protein L36
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3299 (rpmJ)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3299 (rpmJ)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b3299 (rpmJ)
+              Bacteria
+                b3299 (rpmJ)
+POSITION    complement(3442618..3442734)
+MOTIF       Pfam: Ribosomal_L36
+DBLINKS     NCBI-GeneID: 947805
+            NCBI-ProteinID: NP_417758
+            Pasteur: rpmJ
+            RegulonDB: ECK120001210
+            ECOCYC: EG11232
+            ASAP: ABE-0010812
+            UniProt: P0A7Q6
+STRUCTURE   PDB: 6QUL 6S0K 6I0Y 5GAE 5GAD 5GAG 5GAH 4UY8 3J7Z 5GAF 5ADY
+                 3J8G 4CSU 5AKA 3J5L 2J28 2RDO 3BBX
+AASEQ       38
+            MKVRASVKKLCRNCKIVKRDGVIRVICSAEPKHKQRQG
+NTSEQ       117
+            atgaaagttcgtgcttccgtcaagaaattatgccgtaactgcaaaatcgttaagcgtgat
+            ggtgtcatccgtgtgatttgcagtgccgagccgaagcataaacagcgccaaggctga
+///

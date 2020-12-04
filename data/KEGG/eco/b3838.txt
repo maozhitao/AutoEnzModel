@@ -1,0 +1,48 @@
+ENTRY       b3838             CDS       T00007
+NAME        tatB
+DEFINITION  (RefSeq) twin arginine protein translocation system - TatB protein
+ORTHOLOGY   K03117  sec-independent protein translocase protein TatB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03060  Protein export
+            eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b3838 (tatB)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3838 (tatB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3838 (tatB)
+            Secretion system [BR:eco02044]
+             Twin-arginine translocation (Tat) system
+              Twin-arginine translocation (Tat) pathway protein
+               b3838 (tatB)
+POSITION    4022218..4022733
+MOTIF       Pfam: TatA_B_E TAFH Fas_alpha_ACP FH2 RNA_pol_Rpb4 GspL_C RapA_C
+DBLINKS     NCBI-GeneID: 948319
+            NCBI-ProteinID: YP_026270
+            RegulonDB: ECK120004315
+            ECOCYC: G7808
+            ASAP: ABE-0012545
+            UniProt: P69425
+STRUCTURE   PDB: 2MI2
+AASEQ       171
+            MFDIGFSELLLVFIIGLVVLGPQRLPVAVKTVAGWIRALRSLATTVQNELTQELKLQEFQ
+            DSLKKVEKASLTNLTPELKASMDELRQAAESMKRSYVANDPEKASDEAHTIHNPVVKDNE
+            AAHEGVTPAAAQTQASSPEQKPETTPEPVVKPAADAEPKTAAPSPSSSDKP
+NTSEQ       516
+            gtgtttgatatcggttttagcgaactgctattggtgttcatcatcggcctcgtcgttctg
+            gggccgcaacgactgcctgtggcggtaaaaacggtagcgggctggattcgcgcgttgcgt
+            tcactggcgacaacggtgcagaacgaactgacccaggagttaaaactccaggagtttcag
+            gacagtctgaaaaaggttgaaaaggcgagcctcactaacctgacgcccgaactgaaagcg
+            tcgatggatgaactacgccaggccgcggagtcgatgaagcgttcctacgttgcaaacgat
+            cctgaaaaggcgagcgatgaagcgcacaccatccataacccggtggtgaaagataatgaa
+            gctgcgcatgagggcgtaacgcctgccgctgcacaaacgcaggccagttcgccggaacag
+            aagccagaaaccacgccagagccggtggtaaaacctgctgcggacgctgaaccgaaaacc
+            gctgcaccttccccttcgtcgagtgataaaccgtaa
+///

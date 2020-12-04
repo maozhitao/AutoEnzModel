@@ -1,0 +1,89 @@
+ENTRY       b0568             CDS       T00007
+NAME        nfrA
+DEFINITION  (RefSeq) bacteriophage N4 receptor, outer membrane protein
+ORTHOLOGY   K11739  bacteriophage N4 adsorption protein A
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09194 Poorly characterized
+               99996 General function prediction only
+                b0568 (nfrA)
+POSITION    complement(587982..590954)
+MOTIF       Pfam: NfrA_C TPR_19 TPR_14 TPR_1 TPR_15 TPR_11 TPR_2 TPR_9 TPR_12 TPR_4
+DBLINKS     NCBI-GeneID: 944741
+            NCBI-ProteinID: NP_415100
+            Pasteur: nfrA
+            RegulonDB: ECK120001679
+            ECOCYC: EG11740
+            ASAP: ABE-0001939
+            UniProt: P31600
+AASEQ       990
+            MKENNLNRVIGWSGLLLTSLLSTSALADNIGTSAEELGLSDYRHFVIYPRLDKALKAQKN
+            NDEATAIREFEYIHQQVPDNIPLTLYLAEAYRHFGHDDRARLLLEDQLKRHPGDARLERS
+            LAAIPVEVKSVTTVEELLAQQKACDAAPTLRCRSEVGQNALRLAQLPVARAQLNDATFAA
+            SPEGKTLRTDLLQRAIYLKQWSQADTLYNEARQQNTLSAAERRQWFDVLLAGQLDDRILA
+            LQSQGIFTDPQSYITYATALAYRGEKARLQHYLIENKPLFTTDAQEKSWLYLLSKYSANP
+            VQALANYTVQFADNRQYVVGATLPVLLKEGQYDAAQKLLATLPANEMLEERYAVSVATRN
+            KAEALRLARLLYQQEPANLTRLDQLTWQLMQNEQSREAADLLLQRYPFQGDARVSQTLMA
+            RLASLLESHPYLATPAKVAILSKPLPLAEQRQWQSQLPGIADNCPAIVRLLGDMSPSYDA
+            AAWNRLAKCYRDTLPGVALYAWLQAEQRQPSAWQHRAVAYQAYQVEDYATALAAWQKISL
+            HDMSNEDLLAAANTAQAAGNGAARDRWLQQAEKRGLGSNALYWWLHAQRYIPGQPELALN
+            DLTRSINIAPSANAYVARATIYRQRHNVPAAVSDLRAALELEPNNSNTQAALGYALWDSG
+            DIAQSREMLEPAHKGLPDDPALIRQLAYVNQRLDDMPATQHYARLVIDDIDNQALITPLT
+            PEQNQQRFNFRRLHEEVGRRWTFSFDSSIGLRSGAMSTANNNVGGAAPGKSYRSYGQLEA
+            EYRIGRNMLLEGDLLSVYSRVFADTGENGVMMPVKNPMSGTGLRWKPLRDQIFFIAVEQQ
+            LPLNGQNGASDTMLRASASFFNGGKYSDEWHPNGSGWFAQNLYLDAAQYIRQDIQAWTAD
+            YRVSWHQKVANGQTIEPYAHVQDNGYRDKGTQGAQLGGVGVRWNIWTGETHYDAWPHKVS
+            LGVEYQHTFKAINQRNGERNNAFLTIGVHW
+NTSEQ       2973
+            atgaaggagaataaccttaatcgcgtcatcggatggtctggtttactgctgacgtcttta
+            ttgagtaccagcgcactcgcagacaatatcggcaccagcgcagaagagctggggctgagc
+            gattatcgccattttgttatttatccccgtctcgataaagcgctgaaggcacagaaaaat
+            aacgacgaagcaaccgccatccgcgaatttgaatatatacaccagcaggtgccggataat
+            attccgctgactttataccttgcggaagcctatcgccattttggtcatgatgaccgggcg
+            cggctgttgcttgaggatcaactgaaacgtcacccaggagatgcccgacttgagcgcagt
+            ctggcggctattccggttgaagtgaaaagcgttacgacagttgaagaactgcttgcccag
+            caaaaagcgtgcgatgctgcgccgaccctgcgttgtcgcagtgaagtcgggcagaatgcc
+            ctgcggctggcacagttacctgtcgccagagcgcaactgaacgatgcgacgtttgctgca
+            tcgccggaaggaaaaacgctgcgaaccgatctgctgcaacgggcaatctacctgaaacaa
+            tggtcccaggcagatacgctatacaatgaagcacgccagcagaacacattaagcgcggca
+            gaacgccgtcagtggtttgacgtgcttcttgccgggcagctggacgatcggatcctggca
+            ctgcaatcacaggggatcttcaccgatcctcagtcatatattacttacgcgaccgcgctg
+            gcttatcgtggcgaaaaagcacgcctccagcattatctcattgaaaataagccactattt
+            accacggacgcacaagagaaaagttggctctatctgttatctaaatacagcgctaacccc
+            gttcaggcgttggcgaattatacggtacagtttgccgacaaccgccagtatgttgttggc
+            gcgacgctaccggtgctgttaaaagaaggtcagtacgacgcagcgcaaaaactgctcgcc
+            accctccccgccaatgaaatgcttgaggagcgttatgctgtcagcgtggcgacccgtaac
+            aaggctgaagctctgcgtctggcacgattgctgtatcagcaagaaccggcaaatcttacc
+            cgcctggatcaactaacctggcaactgatgcagaacgagcagtcacgcgaagctgccgat
+            ttattgctgcaacgctatcctttccagggcgatgcgcgtgtcagccagactttaatggcg
+            cgactggcgtctctgctggaaagtcatccttacctggcaacgccggcgaaggtggcgatt
+            ttatcgaaacccttaccgctggcggagcaacgtcagtggcaaagtcagttgccgggtatt
+            gcagataattgcccggcaatagttcgcttgctgggcgatatgtcgccttcctacgatgcc
+            gccgcctggaaccgtctggcaaagtgttatcgggacacgctacccggtgtggcgttgtat
+            gcatggcttcaggccgaacaacgacaaccgagcgcctggcaacatcgtgcggtagcctat
+            caggcgtatcaggttgaggactacgccaccgcactggcggcctggcagaaaatcagtctt
+            cacgacatgagcaatgaggatctgcttgctgctgccaataccgcccaggcggcaggaaat
+            ggtgcggctcgcgatcgctggctacaacaggcagaaaaacgtggactgggaagcaatgcc
+            ctctactggtggctgcatgcgcaacgttacattcctggtcagccggaactcgcactgaac
+            gatctcacgcgctcaatcaatattgcgccttctgccaacgcttacgttgcgcgggcgaca
+            atttatcgccaacgtcataatgtcccggccgcggtgagtgatttgcgcgccgcgctggaa
+            ctggaaccgaataatagcaacacccaggcagcgcttggttacgccttgtgggatagcggt
+            gatatcgcacagtcgcgggaaatgctcgaaccggcgcataaagggcttccggacgatccg
+            gcactgatccgacaactggcctacgtgaaccagcgtctggatgacatgcctgcgacgcag
+            cactacgcccggctggtgattgatgacattgataatcaggcgctgataaccccactgacc
+            ccagaacaaaatcaacaacgcttcaatttccgccgtttgcatgaggaggtcggtcgccgc
+            tggacgttcagtttcgattcttccatcggcttgcgttccggcgcaatgagtaccgctaac
+            aataatgtcggcggcgcagcgccagggaaaagctatcgtagctacggacaactggaagcc
+            gagtaccgcatcggacgcaatatgctgctggaaggcgacctgctctcagtttatagccgc
+            gtctttgccgataccggagaaaacggggtgatgatgccggtgaaaaatccgatgtccggc
+            accggtctgcgctggaagccgctgcgcgatcagatctttttcatcgccgtcgaacagcag
+            ttgccgctgaacggccaaaatggcgcatccgataccatgctgcgcgccagcgcctcattc
+            tttaatggcggcaaatacagcgacgaatggcacccgaacggttcaggctggtttgcccaa
+            aacctgtacctcgatgcggcgcaatatatccgccaggatattcaggcgtggacggcagat
+            tatcgcgtcagctggcatcagaaggtagctaacggacagactattgagccttacgctcac
+            gttcaggacaacggctatcgtgataaaggcactcagggcgcgcagcttggcggagtcggg
+            gtccgctggaatatctggaccggcgagacgcactacgacgcctggccgcacaaagtcagt
+            ctcggcgtcgagtatcaacatacctttaaggcgattaatcaacgtaacggagagcgcaac
+            aacgcgtttctcaccattggagtgcactggtaa
+///

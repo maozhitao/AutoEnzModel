@@ -1,0 +1,55 @@
+ENTRY       b4302             CDS       T00007
+NAME        sgcA
+DEFINITION  (RefSeq) putative PTS enzyme IIA component SgcA
+ORTHOLOGY   K02773  galactitol PTS system EIIA component [EC:2.7.1.200]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00052  Galactose metabolism
+            eco01100  Metabolic pathways
+            eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00052 Galactose metabolism
+                b4302 (sgcA)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b4302 (sgcA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b4302 (sgcA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.200  protein-Npi-phosphohistidine---galactitol phosphotransferase
+                 b4302 (sgcA)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               Galactitol-specific II component
+                b4302 (sgcA)
+POSITION    complement(4527549..4527980)
+MOTIF       Pfam: PTS_EIIA_2
+DBLINKS     NCBI-GeneID: 948831
+            NCBI-ProteinID: NP_418722
+            Pasteur: sgcA
+            RegulonDB: ECK120002320
+            ECOCYC: EG12554
+            ASAP: ABE-0014100
+            UniProt: P39363
+AASEQ       143
+            MINDIKWVQAQRKATDWRQAVEIATRPLVAYGAAQPCYVNGIIENTLNWGPYYLIAPGIA
+            LPHARPEQGANYNQVSITTLRTPVAFGNEECDPVWLLLCVSATDANAHILTIQRISQFID
+            SPQRLTAVGNASTDDALFALVSG
+NTSEQ       432
+            atgattaacgatattaaatgggtacaggcacaacgtaaagccaccgactggcgtcaggcc
+            gtggaaatcgccacccgcccgctggtagcctatggtgccgcgcagccatgctacgttaat
+            gggatcatcgaaaatacccttaactgggggccttattatctgatagccccaggaatcgcc
+            ttgcctcacgcccgaccagagcaaggcgcaaactataatcaggtcagtatcaccacgcta
+            cgcaccccggtcgcctttggtaacgaggagtgcgaccccgtctggctgcttctctgcgtc
+            agcgccacggatgccaacgcacatattttgaccattcagcgcatcagccagtttattgat
+            tcgccacaacgcttaacggcagtgggaaatgccagcacagacgatgcactgtttgcgctg
+            gtatcaggttaa
+///

@@ -1,0 +1,35 @@
+ENTRY       b3501             CDS       T00007
+NAME        arsR
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor ArsR
+ORTHOLOGY   K03892  ArsR family transcriptional regulator, arsenate/arsenite/antimonite-responsive transcriptional repressor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b3501 (arsR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               ArsR family
+                b3501 (arsR)
+POSITION    3648528..3648881
+MOTIF       Pfam: HTH_5 HTH_20 HTH_29 HTH_27 MarR_2 HTH_24
+DBLINKS     NCBI-GeneID: 948013
+            NCBI-ProteinID: NP_417958
+            Pasteur: arsR
+            RegulonDB: ECK120002119
+            ECOCYC: EG12235
+            ASAP: ABE-0011435
+            UniProt: P37309
+AASEQ       117
+            MSFLLPIQLFKILADETRLGIVLLLSELGELCVCDLCTALDQSQPKISRHLALLRESGLL
+            LDRKQGKWVHYRLSPHIPAWAAKIIDEAWRCEQEKVQAIVRNLARQNCSGDSKNICS
+NTSEQ       354
+            atgtcatttctgttacccatccaattgttcaaaattcttgctgatgaaacccgtctgggc
+            atcgttttactgctcagcgaactgggagagttatgcgtctgcgatctctgcactgctctc
+            gaccagtcgcagcccaagatctcccgccacctggcattgctgcgtgaaagcgggctattg
+            ctggaccgcaagcaaggtaagtgggttcattaccgcttatcaccgcatattccagcatgg
+            gcggcgaaaattattgatgaggcctggcgatgtgaacaggaaaaggttcaggcgattgtc
+            cgcaacctggctcgacaaaactgttccggggacagtaagaacatttgcagttaa
+///

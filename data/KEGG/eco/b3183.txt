@@ -1,0 +1,63 @@
+ENTRY       b3183             CDS       T00007
+NAME        obgE
+DEFINITION  (RefSeq) GTPase ObgE
+ORTHOLOGY   K03979  GTPase [EC:3.6.5.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b3183 (obgE)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.5  Acting on GTP to facilitate cellular and subcellular movement
+                3.6.5.-  
+                 b3183 (obgE)
+            Ribosome biogenesis [BR:eco03009]
+             Eukaryotic type
+              Other ribosome biogenesis factors
+               b3183 (obgE)
+             Prokaryotic type
+              GTPases
+               b3183 (obgE)
+POSITION    complement(3330582..3331754)
+MOTIF       Pfam: GTP1_OBG MMR_HSR1 FeoB_N MeaB Gtr1_RagA DUF2016
+DBLINKS     NCBI-GeneID: 947694
+            NCBI-ProteinID: NP_417650
+            Pasteur: yhbZ
+            RegulonDB: ECK120004206
+            ECOCYC: G7656
+            ASAP: ABE-0010462
+            UniProt: P42641
+STRUCTURE   PDB: 5M04 4CSU
+AASEQ       390
+            MKFVDEASILVVAGDGGNGCVSFRREKYIPKGGPDGGDGGDGGDVWMEADENLNTLIDYR
+            FEKSFRAERGQNGASRDCTGKRGKDVTIKVPVGTRVIDQGTGETMGDMTKHGQRLLVAKG
+            GWHGLGNTRFKSSVNRTPRQKTNGTPGDKRELLLELMLLADVGMLGMPNAGKSTFIRAVS
+            AAKPKVADYPFTTLVPSLGVVRMDNEKSFVVADIPGLIEGAAEGAGLGIRFLKHLERCRV
+            LLHLIDIDPIDGTDPVENARIIISELEKYSQDLATKPRWLVFNKIDLLDKVEAEEKAKAI
+            AEALGWEDKYYLISAASGLGVKDLCWDVMTFIIENPVVQAEEAKQPEKVEFMWDDYHRQQ
+            LEEIAEEDDEDWDDDWDEDDEEGVEFIYKR
+NTSEQ       1173
+            atgaagtttgttgatgaagcatcgattctggtcgttgcaggtgatggcggtaatggttgc
+            gtgagcttccgccgcgaaaagtatattccgaaaggcggcccggatggcggcgacggcggt
+            gatggtggtgacgtatggatggaagccgacgagaacctgaacacgcttatcgattatcgt
+            tttgaaaaatctttccgtgcagagcgcggtcagaatggcgcaagccgcgactgtaccggt
+            aagcgcggtaaagacgtgacgattaaagtgccggtaggtacgcgtgtaatcgaccagggt
+            actggtgaaaccatgggcgatatgaccaaacacggtcagcgtctgctggttgctaagggc
+            ggctggcacggtctgggcaatacccgtttcaaatcgtccgttaaccgtacaccgcggcag
+            aaaaccaacggcacgccgggcgataagcgcgagctgctgctggagctgatgctgctggct
+            gacgtcggtatgttggggatgccaaacgcgggtaaatcgacctttattcgtgcggtatcg
+            gcggctaaaccgaaagtggcggattatccgtttaccactctggtgccaagtctgggtgtg
+            gtacgaatggacaacgaaaagagcttcgttgttgccgatattccaggactgattgaaggc
+            gctgcggaaggcgcaggtctgggcattcgcttcctgaagcacctggaacgttgccgcgtc
+            ctgttgcacctcatcgatatcgatccgattgacggcaccgatccggttgaaaacgcgcgt
+            attattatcagcgagctggaaaaatacagccaggatctggcgacgaaaccgcgttggtta
+            gtgttcaacaagatcgatctgctggataaggtagaagccgaagagaaagcgaaagcgatc
+            gctgaggcgctgggctgggaagataaatattatctgatctctgcggcgagtggactgggc
+            gtgaaagatctctgctgggatgtgatgacctttatcattgaaaacccggtcgtgcaggct
+            gaagaagcgaaacagccagagaaagtcgaattcatgtgggatgattatcatcgccagcag
+            cttgaagagattgctgaagaggatgatgaagactgggatgacgactgggacgaagacgac
+            gaagaaggcgttgagttcatttacaagcgttaa
+///

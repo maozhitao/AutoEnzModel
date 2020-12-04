@@ -1,0 +1,48 @@
+ENTRY       b0064             CDS       T00007
+NAME        araC
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator AraC
+ORTHOLOGY   K02099  AraC family transcriptional regulator, arabinose operon regulatory protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0064 (araC)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               AraC family
+                b0064 (araC)
+POSITION    70387..71265
+MOTIF       Pfam: AraC_binding HTH_AraC HTH_18 Cupin_2 AraC_binding_2 Cupin_4
+DBLINKS     NCBI-GeneID: 944780
+            NCBI-ProteinID: NP_414606
+            Pasteur: araC
+            RegulonDB: ECK120000050
+            ECOCYC: EG10054
+            ASAP: ABE-0000236
+            UniProt: P0A9E0
+STRUCTURE   PDB: 2ARC 2AAC 1XJA 2ARA 2K9S
+AASEQ       292
+            MAEAQNDPLLPGYSFNAHLVAGLTPIEANGYLDFFIDRPLGMKGYILNLTIRGQGVVKNQ
+            GREFVCRPGDILLFPPGEIHHYGRHPEAREWYHQWVYFRPRAYWHEWLNWPSIFANTGFF
+            RPDEAHQPHFSDLFGQIINAGQGEGRYSELLAINLLEQLLLRRMEAINESLHPPMDNRVR
+            EACQYISDHLADSNFDIASVAQHVCLSPSRLSHLFRQQLGISVLSWREDQRISQAKLLLS
+            TTRMPIATVGRNVGFDDQLYFSRVFKKCTGASPSEFRAGCEEKVNDVAVKLS
+NTSEQ       879
+            atggctgaagcgcaaaatgatcccctgctgccgggatactcgtttaacgcccatctggtg
+            gcgggtttaacgccgattgaggccaacggttatctcgatttttttatcgaccgaccgctg
+            ggaatgaaaggttatattctcaatctcaccattcgcggtcagggggtggtgaaaaatcag
+            ggacgagaatttgtctgccgaccgggtgatattttgctgttcccgccaggagagattcat
+            cactacggtcgtcatccggaggctcgcgaatggtatcaccagtgggtttactttcgtccg
+            cgcgcctactggcatgaatggcttaactggccgtcaatatttgccaatacgggtttcttt
+            cgcccggatgaagcgcaccagccgcatttcagcgacctgtttgggcaaatcattaacgcc
+            gggcaaggggaagggcgctattcggagctgctggcgataaatctgcttgagcaattgtta
+            ctgcggcgcatggaagcgattaacgagtcgctccatccaccgatggataatcgggtacgc
+            gaggcttgtcagtacatcagcgatcacctggcagacagcaattttgatatcgccagcgtc
+            gcacagcatgtttgcttgtcgccgtcgcgtctgtcacatcttttccgccagcagttaggg
+            attagcgtcttaagctggcgcgaggaccaacgcattagtcaggcgaagctgcttttgagc
+            actacccggatgcctatcgccaccgtcggtcgcaatgttggttttgacgatcaactctat
+            ttctcgcgagtatttaaaaaatgcaccggggccagcccgagcgagtttcgtgccggttgt
+            gaagaaaaagtgaatgatgtagccgtcaagttgtcataa
+///

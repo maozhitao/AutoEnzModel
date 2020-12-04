@@ -1,0 +1,58 @@
+ENTRY       b0058             CDS       T00007
+NAME        rluA
+DEFINITION  (RefSeq) 23S rRNA pseudouridine(746) and tRNA pseudouridine(32) synthase
+ORTHOLOGY   K06177  tRNA pseudouridine32 synthase / 23S rRNA pseudouridine746 synthase [EC:5.4.99.28 5.4.99.29]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b0058 (rluA)
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b0058 (rluA)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.99  Transferring other groups
+                5.4.99.28  tRNA pseudouridine32 synthase
+                 b0058 (rluA)
+                5.4.99.29  23S rRNA pseudouridine746 synthase
+                 b0058 (rluA)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               23S rRNA modification factors
+                b0058 (rluA)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Psudouridine synthases
+                b0058 (rluA)
+POSITION    complement(59687..60346)
+MOTIF       Pfam: PseudoU_synth_2
+DBLINKS     NCBI-GeneID: 946262
+            NCBI-ProteinID: NP_414600
+            Pasteur: rluA
+            RegulonDB: ECK120002331
+            ECOCYC: EG12609
+            ASAP: ABE-0000196
+            UniProt: P0AA37
+STRUCTURE   PDB: 2I82
+AASEQ       219
+            MGMENYNPPQEPWLVILYQDDHIMVVNKPSGLLSVPGRLEEHKDSVMTRIQRDYPQAESV
+            HRLDMATSGVIVVALTKAAERELKRQFREREPKKQYVARVWGHPSPAEGLVDLPLICDWP
+            NRPKQKVCYETGKPAQTEYEVVEYAADNTARVVLKPITGRSHQLRVHMLALGHPILGDRF
+            YASPEARAMAPRLLLHAEMLTITHPAYGNSMTFKAPADF
+NTSEQ       660
+            atggggatggaaaactacaatccaccgcaggaaccctggttggttatcctgtatcaggat
+            gaccatattatggtggtcaacaagccgagcggtttgttgtcagtgccgggtcgtctggaa
+            gagcacaaagacagcgtgatgacgcgcattcagcgtgattatccgcaggcagaatcggtg
+            catcgtctggatatggctaccagcggcgtgattgtagtggcgctgaccaaagccgcggag
+            cgggagttaaaacgccagttccgcgagcgcgagccgaaaaagcagtatgtggcccgcgtc
+            tgggggcatccatcccccgcagaaggtctggtggatctgccgctgatttgcgactggcca
+            aaccgcccgaaacagaaagtctgttacgaaacgggtaaacctgcgcagacggaatatgaa
+            gtggtggagtatgcggcggataacacggcaagagtggtgttaaaaccgattaccgggcgt
+            tcgcatcaattgcgtgtgcatatgctggcgctgggtcatccgattctcggcgatcgtttt
+            tatgcatcaccagaagcgagagcgatggcaccacgtttgttgctacatgcagagatgttg
+            acgattacccatccggcgtatggcaatagtatgacgtttaaagcgccagcggatttttaa
+///

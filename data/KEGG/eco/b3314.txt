@@ -1,0 +1,51 @@
+ENTRY       b3314             CDS       T00007
+NAME        rpsC
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S3
+ORTHOLOGY   K02982  small subunit ribosomal protein S3
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3314 (rpsC)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3314 (rpsC)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Bacteria
+               Small subunit
+                b3314 (rpsC)
+              Archaea
+                b3314 (rpsC)
+POSITION    complement(3449182..3449883)
+MOTIF       Pfam: Ribosomal_S3_C KH_2 KH_4
+DBLINKS     NCBI-GeneID: 947814
+            NCBI-ProteinID: NP_417773
+            Pasteur: rpsC
+            RegulonDB: ECK120000893
+            ECOCYC: EG10902
+            ASAP: ABE-0010848
+            UniProt: P0A7V3
+STRUCTURE   PDB: 5U4J 6NQB 6O7K 5NO4 5UZ4 5MY1 2YKR 5ME0 5ME1 4ADV 4A2I
+AASEQ       233
+            MGQKVHPNGIRLGIVKPWNSTWFANTKEFADNLDSDFKVRQYLTKELAKASVSRIVIERP
+            AKSIRVTIHTARPGIVIGKKGEDVEKLRKVVADIAGVPAQINIAEVRKPELDAKLVADSI
+            TSQLERRVMFRRAMKRAVQNAMRLGAKGIKVEVSGRLGGAEIARTEWYREGRVPLHTLRA
+            DIDYNTSEAHTTYGVIGVKVWIFKGEILGGMAAVEQPEKPAAQPKKQQRKGRK
+NTSEQ       702
+            atgggtcagaaagtacatcctaatggtattcgcctgggtattgtaaaaccatggaactct
+            acctggtttgcgaacaccaaagaattcgctgacaacctggacagcgattttaaagtacgt
+            cagtacctgactaaggaactggctaaagcgtccgtatctcgtatcgttatcgagcgtccg
+            gctaagagcatccgtgtaaccattcacactgctcgcccgggtatcgttatcggtaaaaaa
+            ggtgaagacgtagaaaaactgcgtaaggtcgtagcggacatcgctggcgttcctgcacag
+            atcaacatcgccgaagttcgtaagcctgaactggacgcaaaactggttgctgacagcatc
+            acttctcagctggaacgtcgcgttatgttccgtcgtgctatgaagcgtgctgtacagaac
+            gcaatgcgtctgggcgctaaaggtattaaagttgaagttagcggccgtctgggcggcgcg
+            gaaatcgcacgtaccgaatggtaccgcgaaggtcgcgtaccgctgcacactctgcgtgct
+            gacatcgactacaacacctctgaagcgcacaccacttacggtgtaatcggcgttaaagtg
+            tggatcttcaaaggcgagatcctgggtggtatggctgctgttgaacaaccggaaaaaccg
+            gctgctcagcctaaaaagcagcagcgtaaaggccgtaaataa
+///

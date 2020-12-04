@@ -1,0 +1,51 @@
+ENTRY       b3264             CDS       T00007
+NAME        envR
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor EnvR
+ORTHOLOGY   K18140  TetR/AcrR family transcriptional regulator, acrEF/envCD operon repressor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+MODULE      eco_M00696  Multidrug resistance, efflux pump AcrEF-TolC
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b3264 (envR)
+              09183 Protein families: signaling and cellular processes
+               01504 Antimicrobial resistance genes [BR:eco01504]
+                b3264 (envR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               TetR/AcrR family
+                b3264 (envR)
+            Antimicrobial resistance genes [BR:eco01504]
+             Gene sets
+              Multipdrug resistance modules
+               Multidrug resistance, efflux pump AcrEF-TolC [MD:M00696]
+                b3264 (envR)
+POSITION    complement(3412803..3413465)
+MOTIF       Pfam: TetR_C_2 TetR_N TetR_C_4 GntR
+DBLINKS     NCBI-GeneID: 947704
+            NCBI-ProteinID: NP_417730
+            Pasteur: envR
+            RegulonDB: ECK120001680
+            ASAP: ABE-0010712
+            UniProt: P0ACT2
+AASEQ       220
+            MAKRTKAEALKTRQELIETAIAQFAQHGVSKTTLNDIADAANVTRGAIYWHFENKTQLFN
+            EMWLQQPSLRELIQEHLTAGLEHDPFQQLREKLIVGLQYIAKIPRQQALLKILYHKCEFN
+            DEMLAEGVIREKMGFNPQTLREVLQACQQQGCVANNLDLDVVMIIIDGAFSGIVQNWLMN
+            MAGYDLYKQAPALVDNVLRMFMPDENITKLIHQTNELSVM
+NTSEQ       663
+            atggcaaaaagaaccaaagccgaagctctgaagacccggcaagaactgattgaaactgcc
+            atcgcccagtttgcgcagcatggcgtaagcaagacgacgctcaacgacattgccgacgcc
+            gctaacgttacgcgtggcgctatctactggcacttcgaaaacaagactcaactgtttaat
+            gagatgtggttgcaacagccttcattgcgggagttaatccaggaacacttgacggctgga
+            ttagagcatgacccgtttcaacaattgcgtgaaaaattgattgtcggcttgcaatatatt
+            gccaaaattccccgccagcaggcgttgctgaaaatcttatatcacaaatgtgaatttaat
+            gatgagatgctggccgagggagtgatacgcgaaaagatgggctttaatccgcagactctc
+            cgcgaagtattgcaggcgtgtcagcaacaaggttgtgtagcaaataacctcgatttagat
+            gttgtgatgattattattgatggtgccttcagcggaattgttcaaaactggttaatgaat
+            atggcgggttatgatctttataaacaagcccccgctctggtcgataacgtattaagaatg
+            ttcatgccagatgaaaacataacgaaattaattcatcaaacgaatgaattaagtgtcatg
+            taa
+///

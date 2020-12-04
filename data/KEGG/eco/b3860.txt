@@ -1,0 +1,56 @@
+ENTRY       b3860             CDS       T00007
+NAME        dsbA
+DEFINITION  (RefSeq) thiol:disulfide oxidoreductase DsbA
+ORTHOLOGY   K03673  protein dithiol oxidoreductase (disulfide-forming) [EC:1.8.4.15]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01503  Cationic antimicrobial peptide (CAMP) resistance
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b3860 (dsbA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b3860 (dsbA)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.8  Acting on a sulfur group of donors
+               1.8.4  With a disulfide as acceptor
+                1.8.4.15  protein dithiol oxidoreductase (disulfide-forming)
+                 b3860 (dsbA)
+            Chaperones and folding catalysts [BR:eco03110]
+             Protein folding catalysts
+              Protein disulfide isomerase
+               b3860 (dsbA)
+POSITION    4043418..4044044
+MOTIF       Pfam: DSBA Thioredoxin_4 Thioredoxin Lpp-LpqN DUF3088 Thioredoxin_2
+DBLINKS     NCBI-GeneID: 948353
+            NCBI-ProteinID: NP_418297
+            Pasteur: dsbA
+            RegulonDB: ECK120001270
+            ECOCYC: EG11297
+            ASAP: ABE-0012606
+            UniProt: P0AEG4
+STRUCTURE   PDB: 4WF5 4WEY 4WET 6POH 4WF4 1FVK 6POI 4ZIJ 6POQ 1ACV 6PMF
+                 2B3S 6BQX 6BR4 6PML 1U3A 1A2J 1AC1 1DSB 1FVJ 1UN2 4TKY
+                 1TI1 2B6M 1A2L 1A2M 1BQ7 2ZUP 3E9J 2HI7 3J46 2NDO 2LEG
+                 1A23 1A24
+AASEQ       208
+            MKKIWLALAGLVLAFSASAAQYEDGKQYTTLEKPVAGAPQVLEFFSFFCPHCYQFEEVLH
+            ISDNVKKKLPEGVKMTKYHVNFMGGDLGKDLTQAWAVAMALGVEDKVTVPLFEGVQKTQT
+            IRSASDIRDVFINAGIKGEEYDAAWNSFVVKSLVAQQEKAAADVQLRGVPAMFVNGKYQL
+            NPQGMDTSNMDVFVQQYADTVKYLSEKK
+NTSEQ       627
+            atgaaaaagatttggctggcgctggctggtttagttttagcgtttagcgcatcggcggcg
+            cagtatgaagatggtaaacagtacactaccctggaaaaaccggtagctggcgcgccgcaa
+            gtgctggagtttttctctttcttctgcccgcactgctatcagtttgaagaagttctgcat
+            atttctgataatgtgaagaaaaaactgccggaaggcgtgaagatgactaaataccacgtc
+            aacttcatgggtggtgacctgggcaaagatctgactcaggcatgggctgtggcgatggcg
+            ctgggcgtggaagacaaagtgactgttccgctgtttgaaggcgtacagaaaacccagacc
+            attcgttctgcttctgatatccgcgatgtatttatcaacgcaggtattaaaggtgaagag
+            tacgacgcggcgtggaacagcttcgtggtgaaatctctggtcgctcagcaggaaaaagct
+            gcagctgacgtgcaattgcgtggcgttccggcgatgtttgttaacggtaaatatcagctg
+            aatccgcagggtatggataccagcaatatggatgtttttgttcagcagtatgctgataca
+            gtgaaatatctgtccgagaaaaaataa
+///

@@ -1,0 +1,33 @@
+ENTRY       b0528             CDS       T00007
+NAME        ybcJ
+DEFINITION  (RefSeq) putative RNA-binding protein YbcJ
+ORTHOLOGY   K14761  ribosome-associated protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b0528 (ybcJ)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              Other maturation factors
+               b0528 (ybcJ)
+POSITION    complement(556661..556873)
+MOTIF       Pfam: S4_2 S4
+DBLINKS     NCBI-GeneID: 945158
+            NCBI-ProteinID: NP_415061
+            Pasteur: ybcJ
+            RegulonDB: ECK120002418
+            ECOCYC: EG12879
+            ASAP: ABE-0001816
+            UniProt: P0AAS7
+STRUCTURE   PDB: 1P9K
+AASEQ       70
+            MATFSLGKHPHVELCDLLKLEGWSESGAQAKIAIAEGQVKVDGAVETRKRCKIVAGQTVS
+            FAGHSVQVVA
+NTSEQ       213
+            atggcgacattttctttaggtaaacatccgcacgttgagctgtgcgacttgctgaaactg
+            gaaggctggagcgaaagcggcgcgcaggcgaaaatcgcgattgccgaaggccaggtgaaa
+            gtcgacggtgcggttgaaacgcgcaaacgctgcaaaatcgtcgccggtcagacagtgagt
+            tttgcaggtcacagcgtacaggttgttgcctga
+///

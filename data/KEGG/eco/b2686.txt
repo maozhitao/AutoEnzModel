@@ -1,0 +1,62 @@
+ENTRY       b2686             CDS       T00007
+NAME        emrB
+DEFINITION  (RefSeq) multidrug efflux pump membrane subunit EmrB
+ORTHOLOGY   K03446  MFS transporter, DHA2 family, multidrug resistance protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2686 (emrB)
+            Transporters [BR:eco02000]
+             Major facilitator superfamily (MFS)
+              Drug transporters
+               Drug:H+ antiporter-2 (14 spanner) (DHA2) family [TC:2.A.1.3]
+                b2686 (emrB)
+POSITION    2812616..2814154
+MOTIF       Pfam: MFS_1 OATP MFS_2
+DBLINKS     NCBI-GeneID: 947167
+            NCBI-ProteinID: NP_417171
+            Pasteur: emrB
+            RegulonDB: ECK120001403
+            ECOCYC: EG11439
+            ASAP: ABE-0008840
+            UniProt: P0AEJ0
+AASEQ       512
+            MQQQKPLEGAQLVIMTIALSLATFMQVLDSTIANVAIPTIAGNLGSSLSQGTWVITSFGV
+            ANAISIPLTGWLAKRVGEVKLFLWSTIAFAIASWACGVSSSLNMLIFFRVIQGIVAGPLI
+            PLSQSLLLNNYPPAKRSIALALWSMTVIVAPICGPILGGYISDNYHWGWIFFINVPIGVA
+            VVLMTLQTLRGRETRTERRRIDAVGLALLVIGIGSLQIMLDRGKELDWFSSQEIIILTVV
+            AVVAICFLIVWELTDDNPIVDLSLFKSRNFTIGCLCISLAYMLYFGAIVLLPQLLQEVYG
+            YTATWAGLASAPVGIIPVILSPIIGRFAHKLDMRRLVTFSFIMYAVCFYWRAYTFEPGMD
+            FGASAWPQFIQGFAVACFFMPLTTITLSGLPPERLAAASSLSNFTRTLAGSIGTSITTTM
+            WTNRESMHHAQLTESVNPFNPNAQAMYSQLEGLGMTQQQASGWIAQQITNQGLIISANEI
+            FWMSAGIFLVLLGLVWFAKPPFGAGGGGGGAH
+NTSEQ       1539
+            atgcaacagcaaaaaccgctggaaggcgcgcaactggtcattatgacgattgcgctgtca
+            ctggcgacattcatgcaggtgctggactccaccattgctaacgtggcgatccccactatc
+            gccgggaatctgggctcatcgctcagccagggaacgtgggtaatcacttctttcggggtg
+            gcgaatgccatctcgatcccgcttaccggctggctggcaaagcgcgtcggggaagtgaaa
+            ctgttcctttggtccaccatcgcctttgctattgcgtcgtgggcgtgtggtgtctccagc
+            agcctgaatatgctgatcttcttccgcgtgattcaggggattgtcgccgggccgttgatc
+            ccgctttcgcaaagtctattgctgaataactacccgccagccaaacgctcgatcgcgctg
+            gcgttgtggtcgatgacggtgattgtcgcgccaatttgcggcccgatcctcggcggttat
+            atcagcgataattaccactggggctggatattcttcatcaacgtgccgattggcgtggcg
+            gtggtgttgatgacactgcaaactctgcgcggacgtgaaacccgcaccgaacggcggcgg
+            attgatgccgtggggctggcactgctggttattggtatcggcagcctgcagattatgctc
+            gaccgcggtaaagagctggactggttttcatcacaggaaattatcatccttaccgtggtg
+            gcggtggtggctatctgcttcctgattgtctgggagctgaccgacgataacccgatagtc
+            gatctgtcgttgtttaagtcgcgcaacttcaccatcggctgcttgtgtatcagcctcgcg
+            tatatgctctacttcggcgctattgttctgctgccgcagttgttgcaggaggtctacggt
+            tacacggcgacctgggcaggtttggcctctgcgccggtagggattattccggtgatcctg
+            tcgccgattatcggccgcttcgcgcataaactggatatgcggcggctggtaaccttcagc
+            tttattatgtatgccgtctgcttctactggcgtgcctatacctttgaaccaggtatggat
+            tttggcgcgtcggcctggccgcagtttatccaggggtttgcggtggcctgcttctttatg
+            ccgctgaccaccattacgctgtctggtttgccaccggaacgactggcggcggcatcgagc
+            ctctctaactttacgcgaacgctggcggggtctatcggcacgtcgataaccacgaccatg
+            tggaccaaccgcgagtcgatgcaccatgcgcagttgactgagtcggtaaacccgttcaac
+            ccgaatgcccaggcgatgtacagtcaactggaagggcttgggatgacgcaacagcaggca
+            tcaggctggattgcccagcagatcaccaatcaggggctgattatttccgccaatgagatc
+            ttctggatgtcagccgggatattcctcgtcctgctggggctggtgtggtttgctaaaccg
+            ccatttggcgcaggtggcggcggaggcggtgcgcactaa
+///

@@ -1,0 +1,32 @@
+ENTRY       b0018             CDS       T00007
+NAME        mokC
+DEFINITION  (RefSeq) regulatory protein MokC
+ORTHOLOGY   K18919  protein HokC/D
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b0018 (mokC)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               Hok-Sok
+                b0018 (mokC)
+POSITION    complement(16751..16960)
+MOTIF       Pfam: HOK_GEF
+DBLINKS     NCBI-GeneID: 944756
+            NCBI-ProteinID: NP_414559
+            RegulonDB: ECK120000366
+            ECOCYC: EG10373
+            ASAP: ABE-0000064
+            UniProt: P33236
+AASEQ       69
+            MLNTCRVPLTDRKVKEKRAMKQHKAMIVALIVICITAVVAALVTRKDLCEVHIRTGQTEV
+            AVFTAYESE
+NTSEQ       210
+            atgctgaacacatgtagagtgcctcttactgaccgtaaggtcaaggagaagagagcaatg
+            aagcagcataaggcgatgattgtcgccctgatcgtcatctgtatcaccgccgtagtggcg
+            gcgctggtaacgagaaaagacctctgtgaggttcacatccgaactggccagacggaggtt
+            gctgttttcacggcttacgaatccgagtaa
+///

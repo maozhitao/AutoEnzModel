@@ -1,0 +1,41 @@
+ENTRY       b0140             CDS       T00007
+NAME        yadV
+DEFINITION  (RefSeq) putative fimbrial chaperone YadV
+ORTHOLOGY   K15540  chaperone protein EcpD
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09193 Unclassified: signaling and cellular processes
+               99993 Cell motility
+                b0140 (yadV)
+POSITION    complement(155461..156201)
+MOTIF       Pfam: PapD_N PapD_C
+DBLINKS     NCBI-GeneID: 944859
+            NCBI-ProteinID: NP_414682
+            Pasteur: ecpD
+            RegulonDB: ECK120001898
+            ECOCYC: EG11973
+            ASAP: ABE-0000482
+            UniProt: P33128
+STRUCTURE   PDB: 5GHU
+AASEQ       246
+            MFFNTKHTTALCFVTCMAFSSSSIADIVISGTRVIYKSDQKSVNVRLENKGNNPLLVQSW
+            LDTGDDNAEPGSITVPFTATPPVSRIDAKRGQTIKLMYTASTSLPKDRESVFWFNVLEVP
+            PKPDAEKVANQSLLQLAFRTRIKLFYRPDGLKGNPSEAPLALKWFWSGSEGKASLRVTNP
+            TPYYVSFSSGDLEASGKRYPIDVKMIAPFSDEVMKVNGLNGKANSAKVHFYAINDFGGAI
+            EGNARL
+NTSEQ       741
+            atgttttttaacaccaaacatacaacagctttatgcttcgtaacctgtatggcttttagt
+            tcatcgtctattgcggacattgtcatttcgggtactcgcgtaatatataaaagcgatcaa
+            aaaagtgtcaacgtacgtctggaaaataaagggaataacccgttgcttgtccagagttgg
+            ttagatactggcgatgacaacgctgagcctggcagtattacagtcccttttactgctacg
+            ccgccagtatcgcgtattgatgccaaacgtgggcaaacaatcaaattaatgtacacagcc
+            agcacctcactgcctaaagacagagagagcgtgttctggtttaacgtactggaagttcca
+            ccaaaaccagatgcagaaaaggtcgcgaatcaaagcctgctgcaactggcatttcgcaca
+            cgtataaaacttttctatcgcccggatggattgaagggaaatccctctgaagccccgtta
+            gccctgaagtggttctggtcaggttcagaaggtaaggcgtcattacgagtgaccaatcca
+            accccttactacgtctcttttagcagtggtgatttagaagctagcggtaaacgctatccg
+            attgatgtgaaaatgattgcaccatttagtgatgaggtcatgaaagtcaatggccttaat
+            ggcaaagcgaattctgcaaaagtgcatttttacgccattaatgactttggtggcgcaatt
+            gaaggtaatgccaggctgtaa
+///

@@ -1,0 +1,40 @@
+ENTRY       b1554             CDS       T00007
+NAME        rrrQ
+DEFINITION  (RefSeq) Qin prophage; putative lysozyme
+ORTHOLOGY   K01185  lysozyme [EC:3.2.1.17]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b1554 (rrrQ)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.17  lysozyme
+                 b1554 (rrrQ)
+POSITION    complement(1639524..1640057)
+MOTIF       Pfam: Phage_lysozyme DUF951
+DBLINKS     NCBI-GeneID: 946100
+            NCBI-ProteinID: NP_416072
+            Pasteur: ydfQ
+            RegulonDB: ECK120003416
+            ECOCYC: G6827
+            ASAP: ABE-0005189
+            UniProt: P76159
+AASEQ       177
+            MNTKIRYGLSAAVLALIGAGASAPQILDQFLDEKEGNHTMAYRDGSGIWTICRGATVVDG
+            KTVFPNMKLSKEKCDQVNAIERDKALAWVERNIKVPLTEPQKAGIASFCPYNIGPGKCFP
+            STFYKRLNAGDRKGACEAIRWWIKDGGRDCRIRSNNCYGQVIRRDQESALTCWGIEQ
+NTSEQ       534
+            atgaacacaaaaatcagatacggcctgtcggctgccgttctggcgctgattggtgctggc
+            gcatctgctcctcagatacttgaccagtttctggacgaaaaagaaggtaaccacacaatg
+            gcataccgcgatggttctggcatatggaccatctgtcggggtgccacagtggtggatgga
+            aaaaccgtttttcccaatatgaaactgtcgaaggaaaaatgcgaccaggtcaacgccatt
+            gagcgtgataaggcgctggcatgggtggagcgcaatattaaagtaccactgaccgaacca
+            caaaaagcgggtatcgcgtcattttgtccctataacattggccccggtaagtgtttcccg
+            tcgacgttttataagcggctgaatgctggtgatcgtaaaggtgcatgcgaagcgattcgc
+            tggtggattaaggatggcggacgcgattgccgcattcgttcaaataactgttacggtcag
+            gttattcgtcgtgaccaggagagcgcattaacctgctgggggatagaacagtga
+///

@@ -1,0 +1,59 @@
+ENTRY       b1109             CDS       T00007
+NAME        ndh
+DEFINITION  (RefSeq) NADH:quinone oxidoreductase II
+ORTHOLOGY   K03885  NADH:ubiquinone reductase (H+-translocating) [EC:7.1.1.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00190  Oxidative phosphorylation
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                b1109 (ndh)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.1  Catalysing the translocation of hydrons
+               7.1.1  Linked to oxidoreductase reactions
+                7.1.1.2  NADH:ubiquinone reductase (H+-translocating)
+                 b1109 (ndh)
+POSITION    1166085..1167389
+MOTIF       Pfam: Pyr_redox_2 Pyr_redox DAO Pyr_redox_3 Lycopene_cycl NAD_binding_9 NAD_binding_8 HI0933_like Trp_halogenase
+DBLINKS     NCBI-GeneID: 946792
+            NCBI-ProteinID: NP_415627
+            Pasteur: ndh
+            RegulonDB: ECK120000642
+            ECOCYC: EG10649
+            ASAP: ABE-0003746
+            UniProt: P00393
+AASEQ       434
+            MTTPLKKIVIVGGGAGGLEMATQLGHKLGRKKKAKITLVDRNHSHLWKPLLHEVATGSLD
+            EGVDALSYLAHARNHGFQFQLGSVIDIDREAKTITIAELRDEKGELLVPERKIAYDTLVM
+            ALGSTSNDFNTPGVKENCIFLDNPHQARRFHQEMLNLFLKYSANLGANGKVNIAIVGGGA
+            TGVELSAELHNAVKQLHSYGYKGLTNEALNVTLVEAGERILPALPPRISAAAHNELTKLG
+            VRVLTQTMVTSADEGGLHTKDGEYIEADLMVWAAGIKAPDFLKDIGGLETNRINQLVVEP
+            TLQTTRDPDIYAIGDCASCPRPEGGFVPPRAQAAHQMATCAMNNILAQMNGKPLKNYQYK
+            DHGSLVSLSNFSTVGSLMGNLTRGSMMIEGRIARFVYISLYRMHQIALHGYFKTGLMMLV
+            GSINRVIRPRLKLH
+NTSEQ       1305
+            ttgactacgccattgaaaaagattgtgattgtcggcggcggtgctggtgggctggaaatg
+            gcaacacagctggggcataagctgggacgcaagaaaaaagccaaaattacgctggtcgat
+            cgtaaccacagccacctgtggaaaccgctgctgcacgaagtggcgactggctcgcttgat
+            gaaggcgtcgatgcgttgagctatctggcccatgcgcgcaatcatggtttccagttccag
+            ctgggttccgtcattgatattgatcgtgaagcgaaaacaatcactattgcagaactgcgc
+            gacgagaaaggtgaactgctggttccggaacgtaaaatcgcctatgacaccctggtaatg
+            gcgctgggtagcacctctaacgatttcaatacgccaggtgtcaaagagaactgcattttc
+            ctcgataacccgcaccaggcgcgtcgcttccaccaggagatgctgaatttgttcctgaaa
+            tactccgccaacctgggcgcgaatggcaaagtgaacattgcgattgtcggcggcggcgcg
+            acgggtgtagaactctccgctgaattgcacaacgcggtcaagcaactgcacagctacggt
+            tacaaaggcctgaccaacgaagccctgaacgtaacgctggtagaagcgggagaacgtatt
+            ttgcctgcgttaccgccacgtatctctgctgcggcccacaacgagctaacgaaacttggc
+            gttcgcgtgctgacgcaaaccatggtcaccagtgctgatgaaggcggcctgcacactaaa
+            gatggcgaatatattgaggctgatctgatggtatgggcagccgggatcaaagcgccagac
+            ttcctgaaagatatcggtggtcttgaaactaaccgtatcaaccagctggtggtggaaccg
+            acgctgcaaaccacccgcgatccagacatttacgctattggcgactgcgcgtcatgcccg
+            cgtccggaagggggctttgttccgccgcgtgctcaggctgcacaccagatggcgacttgc
+            gcaatgaacaacattctggcgcagatgaacggtaagccgctgaaaaattatcagtataaa
+            gatcatggttcgctggtatcgctgtcgaacttctccaccgtcggtagcctgatgggtaac
+            ctgacgcgcggctcaatgatgattgaaggacgaattgcgcgctttgtatatatctcgcta
+            taccgaatgcatcagattgcgctgcatggttactttaaaaccggattaatgatgctggtg
+            gggagtattaaccgcgttatccgtccgcgtttgaagttgcattaa
+///

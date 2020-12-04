@@ -1,0 +1,40 @@
+ENTRY       b3351             CDS       T00007
+NAME        kefG
+DEFINITION  (RefSeq) protein required for KefB activity
+ORTHOLOGY   K11748  glutathione-regulated potassium-efflux system ancillary protein KefG
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3351 (kefG)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b3351 (kefG)
+POSITION    complement(3480607..3481161)
+MOTIF       Pfam: Flavodoxin_2 FMN_red
+DBLINKS     NCBI-GeneID: 947857
+            NCBI-ProteinID: NP_417810
+            Pasteur: yheR
+            RegulonDB: ECK120004262
+            ECOCYC: G7717
+            ASAP: ABE-0010951
+            UniProt: P0A756
+AASEQ       184
+            MMSQPAKVLLLYAHPESQDSVANRVLLKPATQLSNVTVHDLYAHYPDFFIDIPREQALLR
+            EHEVIVFQHPLYTYSCPALLKEWLDRVLSRGFASGPGGNQLAGKYWRSVITTGEPESAYR
+            YDALNRYPMSDVLRPFELAAGMCRMHWLSPIIIYWARRQSAQELASHARAYGDWLANPLS
+            PGGR
+NTSEQ       555
+            atgatgtctcagccagcgaaagttttgctgctgtatgcccatccggaatctcaggactcg
+            gtggcaaaccgggtactgcttaaaccggccacgcagctcagcaatgttaccgtgcacgac
+            ctttacgcgcactatcccgatttttttattgatatcccccgtgagcaggcattactgcgc
+            gagcacgaggtgattgtctttcagcatcctctttatacctatagctgcccggcgctactg
+            aaagagtggctggaccgggtattaagtcgtggttttgccagcgggccgggaggaaaccaa
+            ctggcgggaaagtactggcgtagcgtgattaccaccggcgagccggaaagtgcttaccgt
+            tatgacgcgctgaatcgctacccgatgagcgatgtgctgcgcccctttgaactggcggcg
+            ggcatgtgccggatgcattggttaagtcccatcattatttactgggcgagacggcaaagc
+            gcacaggagctggcgagccacgccagagcctacggtgactggctggcaaatccgctgtct
+            ccaggaggccgctga
+///

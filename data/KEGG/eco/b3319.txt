@@ -1,0 +1,52 @@
+ENTRY       b3319             CDS       T00007
+NAME        rplD
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L4
+ORTHOLOGY   K02926  large subunit ribosomal protein L4
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3319 (rplD)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3319 (rplD)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b3319 (rplD)
+              Bacteria
+                b3319 (rplD)
+POSITION    complement(3451681..3452286)
+MOTIF       Pfam: Ribosomal_L4
+DBLINKS     NCBI-GeneID: 947818
+            NCBI-ProteinID: NP_417778
+            Pasteur: rplD
+            RegulonDB: ECK120000858
+            ECOCYC: EG10867
+            ASAP: ABE-0010858
+            UniProt: P60723
+STRUCTURE   PDB: 6QUL 6S0K 6I0Y 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH 4UY8
+                 3J7Z 6GC4 6GC6 6GC7 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L 2J28
+                 2RDO 3BBX
+AASEQ       201
+            MELVLKDAQSALTVSETTFGRDFNEALVHQVVVAYAAGARQGTRAQKTRAEVTGSGKKPW
+            RQKGTGRARSGSIKSPIWRSGGVTFAARPQDHSQKVNKKMYRGALKSILSELVRQDRLIV
+            VEKFSVEAPKTKLLAQKLKDMALEDVLIITGELDENLFLAARNLHKVDVRDATGIDPVSL
+            IAFDKVVMTADAVKQVEEMLA
+NTSEQ       606
+            atggaattagtattgaaagacgcgcagagcgcgctgactgtttccgaaactaccttcggt
+            cgtgatttcaacgaagcgctggttcaccaggttgttgttgcttatgcagctggtgctcgt
+            cagggtactcgtgctcagaagactcgtgctgaagtaactggttccggtaaaaaaccgtgg
+            cgccagaaaggcaccggccgtgcgcgttctggttctatcaagagcccgatctggcgttct
+            ggtggcgtgacctttgctgctcgtccgcaggaccacagtcaaaaagttaacaagaagatg
+            taccgcggcgcgctgaaaagcatcctgtccgaactggtacgtcaggatcgtctgatcgtt
+            gtcgagaagttctctgtagaagcgccgaaaactaagctgctggcacagaaactgaaagac
+            atggctctggaagatgtgctgatcatcaccggtgagctggacgaaaacctgttcctggct
+            gcgcgcaacctgcacaaggttgacgtacgcgatgcaactggtatcgacccggttagcctg
+            atcgccttcgacaaagtcgtaatgactgctgatgctgttaagcaagttgaggagatgctg
+            gcatga
+///

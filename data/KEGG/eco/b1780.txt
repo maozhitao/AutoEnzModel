@@ -1,0 +1,52 @@
+ENTRY       b1780             CDS       T00007
+NAME        yeaD
+DEFINITION  (RefSeq) putative aldose 1-epimerase YeaD
+ORTHOLOGY   K01792  glucose-6-phosphate 1-epimerase [EC:5.1.3.15]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00010  Glycolysis / Gluconeogenesis
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+            eco01120  Microbial metabolism in diverse environments
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                b1780 (yeaD)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.1  Racemases and epimerases
+               5.1.3  Acting on carbohydrates and derivatives
+                5.1.3.15  glucose-6-phosphate 1-epimerase
+                 b1780 (yeaD)
+POSITION    1863850..1864734
+MOTIF       Pfam: Aldose_epim
+DBLINKS     NCBI-GeneID: 946572
+            NCBI-ProteinID: NP_416294
+            Pasteur: yeaD
+            RegulonDB: ECK120003553
+            ECOCYC: G6966
+            ASAP: ABE-0005923
+            UniProt: P39173
+AASEQ       294
+            MIKKIFALPVIEQISPVLSRRKLDELDLIVVDHPQVKASFALQGAHLLSWKPAGEEEVLW
+            LSNNTPFKNGVAIRGGVPVCWPWFGPAAQQGLPAHGFARNLPWTLKSHHEDADGVALTFE
+            LTQSEETKKFWPHDFTLLAHFRVGKTCEIDLESHGEFETTSALHTYFNVGDIAKVSVSGL
+            GDRFIDKVNDAKENVLTDGIQTFPDRTDRVYLNPQDCSVINDEALNRIIAVGHQHHLNVV
+            GWNPGPALSISMGDMPDDGYKTFVCVETAYASETQKVTKEKPAHLAQSIRVAKR
+NTSEQ       885
+            atgattaagaaaatttttgcccttccggtcatcgaacaaatctcccctgtcctctcccgt
+            cgtaaactggatgaactggacctcattgtggtcgatcatccccaggtaaaagcctctttt
+            gcattacagggcgcacaccttctctcgtggaaacctgcgggtgaagaagaagttctgtgg
+            ttgagcaacaacacaccgttcaaaaatggcgtcgctattcgcggtggcgtaccggtttgc
+            tggccgtggtttggtccggcggcacaacaaggtctgcctgcgcacggttttgcccgcaac
+            ctgccgtggacgctgaaatcacatcatgaagatgctgatggcgtagcgctgacttttgaa
+            ttgacgcaaagcgaagagacgaaaaaattctggccgcacgactttacgctgttagcgcat
+            ttccgcgtgggtaaaacttgtgaaatcgatcttgaatcacatggcgaatttgaaaccacc
+            tctgccctgcatacctactttaacgtgggtgatatcgctaaggtaagcgtcagtgggctg
+            ggcgatcgcttcattgataaagtgaatgacgcgaaagaaaatgtactgaccgatggtatt
+            cagaccttccctgaccgtaccgatcgcgtgtatctgaatccacaagattgcagcgtgatt
+            aatgatgaagcgctgaatcgtattatcgccgtaggccaccagcatcatctgaacgttgtc
+            ggctggaacccgggaccggcgctttcaattagcatgggcgatatgccggatgatggctac
+            aaaacatttgtttgtgtagaaacggcttacgcttcagaaacgcaaaaagtgaccaaagag
+            aaacctgcacatctggcgcaatccattcgcgttgcgaaacgttaa
+///

@@ -1,0 +1,54 @@
+ENTRY       b0571             CDS       T00007
+NAME        cusR
+DEFINITION  (RefSeq) DNA-binding transcriptional activator CusR
+ORTHOLOGY   K07665  two-component system, OmpR family, copper resistance phosphate regulon response regulator CusR
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0571 (cusR)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b0571 (cusR)
+               01504 Antimicrobial resistance genes [BR:eco01504]
+                b0571 (cusR)
+            Two-component system [BR:eco02022]
+             OmpR family
+              CusS-CusR (copper tolerance)
+               b0571 (cusR)
+            Antimicrobial resistance genes [BR:eco01504]
+             Gene sets
+              beta-Lactam resistance modules
+               Imipenem resistance, repression of porin OprD [MD:M00745]
+                b0571 (cusR)
+POSITION    complement(594760..595443)
+MOTIF       Pfam: Response_reg Trans_reg_C MutS_I
+DBLINKS     NCBI-GeneID: 945003
+            NCBI-ProteinID: NP_415103
+            Pasteur: ylcA
+            RegulonDB: ECK120002927
+            ECOCYC: G6319
+            ASAP: ABE-0001948
+            UniProt: P0ACZ8
+AASEQ       227
+            MKLLIVEDEKKTGEYLTKGLTEAGFVVDLADNGLNGYHLAMTGDYDLIILDIMLPDVNGW
+            DIVRMLRSANKGMPILLLTALGTIEHRVKGLELGADDYLVKPFAFAELLARVRTLLRRGA
+            AVIIESQFQVADLMVDLVSRKVTRSGTRITLTSKEFTLLEFFLRHQGEVLPRSLIASQVW
+            DMNFDSDTNAIDVAVKRLRGKIDNDFEPKLIQTVRGVGYMLEVPDGQ
+NTSEQ       684
+            atgaaactgttgattgtcgaagatgaaaagaaaaccggagaatacttgaccaaagggtta
+            accgaagccggttttgtggtcgatttggccgacaacgggctgaatggctaccatctggcg
+            atgaccggtgattatgatctgataatcctcgatattatgctgccggacgtgaacggctgg
+            gatatcgtgcgcatgttacgctccgccaataaagggatgccgattctgttgcttaccgcg
+            cttggcaccattgaacatcgcgtcaaggggctggagttgggggcagatgactacctggtg
+            aagccattcgcttttgctgaactgctggcgcgggtgcgcacattactgcggcgcggggcg
+            gcggtgattatcgaaagtcagtttcaggttgccgatttgatggtcgatctcgtcagccgc
+            aaagtcacccgcagcggcacgcgcatcactttgaccagtaaagagtttactctgctggag
+            ttcttccttcgccatcagggcgaagtgctgccccgctcgcttatcgcctcgcaggtatgg
+            gacatgaattttgacagcgataccaatgctattgatgtggcggtgaagcggctgcgcggc
+            aaaatcgacaacgactttgagccgaagctaattcagaccgtgcgcggcgtgggttacatg
+            cttgaggtgccggatggtcagtaa
+///

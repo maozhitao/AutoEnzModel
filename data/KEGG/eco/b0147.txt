@@ -1,0 +1,45 @@
+ENTRY       b0147             CDS       T00007
+NAME        thpR
+DEFINITION  (RefSeq) RNA 2',3'-cyclic phosphodiesterase
+ORTHOLOGY   K01975  RNA 2',3'-cyclic 3'-phosphodiesterase [EC:3.1.4.58]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b0147 (thpR)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.4  Phosphoric-diester hydrolases
+                3.1.4.58  RNA 2',3'-cyclic 3'-phosphodiesterase
+                 b0147 (thpR)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA spricing factors
+               Other tRNA splicing factors
+                b0147 (thpR)
+POSITION    complement(161501..162031)
+MOTIF       Pfam: LigT_PEase 2_5_RNA_ligase2
+DBLINKS     NCBI-GeneID: 944848
+            NCBI-ProteinID: NP_414689
+            Pasteur: ligT
+            RegulonDB: ECK120002205
+            ASAP: ABE-0000505
+            UniProt: P37025
+STRUCTURE   PDB: 5LDQ 5LDP 4QAK 5LDI 5LDK 5LDM 5LDO 5LDJ
+AASEQ       176
+            MSEPQRLFFAIDLPAEIREQIIHWRATHFPPEAGRPVAADNLHLTLAFLGEVSAEKEKAL
+            SLLAGRIRQPGFTLTLDDAGQWLRSRVVWLGMRQPPRGLIQLANMLRSQAARSGCFQSNR
+            PFHPHITLLRDASEAVTIPPPGFNWSYAVTEFTLYASSFARGRTRYTPLKRWALTQ
+NTSEQ       531
+            atgtctgaaccgcaacgtctgttctttgctatcgacttacctgcagaaatccgcgaacag
+            attatccattggcgcgccacacacttcccacctgaggcgggacgtccggtcgccgccgat
+            aatttgcatctgactctggcatttttaggcgaagtgagcgccgagaaagagaaggcgctt
+            tctcttttagccggacggattcgtcaacctggtttcacactcacgcttgatgacgccgga
+            caatggctgcgttcgcgtgtggtgtggttagggatgcgtcagccgccacgcggcttaatc
+            cagctggcgaatatgctccgttcacaggctgcccgcagcggttgttttcaaagcaatcgt
+            ccgtttcatccacatattaccttattgcgcgacgccagcgaggcggtgacaatcccgccg
+            ccaggttttaactggtcgtatgcggtgacggagttcaccctttacgcctcctcgtttgcc
+            cgtggacgcacacgctacacgccgctaaaacgctgggcgctaacgcaataa
+///

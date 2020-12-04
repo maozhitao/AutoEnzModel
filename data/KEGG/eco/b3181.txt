@@ -1,0 +1,40 @@
+ENTRY       b3181             CDS       T00007
+NAME        greA
+DEFINITION  (RefSeq) transcription elongation factor GreA
+ORTHOLOGY   K03624  transcription elongation factor GreA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:eco03021]
+                b3181 (greA)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               Other transcription-related factors
+                Transcription elongation factors
+                 b3181 (greA)
+POSITION    complement(3328239..3328715)
+MOTIF       Pfam: GreA_GreB_N GreA_GreB DDR_swiveling BDV_P40
+DBLINKS     NCBI-GeneID: 947696
+            NCBI-ProteinID: NP_417648
+            Pasteur: greA
+            RegulonDB: ECK120000408
+            ECOCYC: EG10415
+            ASAP: ABE-0010454
+            UniProt: P0A6W5
+STRUCTURE   PDB: 1GRJ
+AASEQ       158
+            MQAIPMTLRGAEKLREELDFLKSVRRPEIIAAIAEAREHGDLKENAEYHAAREQQGFCEG
+            RIKDIEAKLSNAQVIDVTKMPNNGRVIFGATVTVLNLDSDEEQTYRIVGDDEADFKQNLI
+            SVNSPIARGLIGKEEDDVVVIKTPGGEVEFEVIKVEYL
+NTSEQ       477
+            atgcaagctattccgatgaccttacgcggcgctgaaaaattacgcgaagagctggatttt
+            ctgaaatctgtgcgccgtcctgaaatcattgctgctatcgcggaagcgcgtgagcatggc
+            gacctgaaagaaaacgccgaataccacgcagctcgtgaacagcagggtttctgcgaaggc
+            cgtattaaagacatcgaagccaagctgtcgaacgcgcaggtgattgatgtcaccaaaatg
+            cccaacaatgggcgcgttatttttggtgctaccgtaacggtgctgaatctggattctgac
+            gaagaacagacttatcgcatcgttggcgatgacgaagctgactttaaacaaaacctgatt
+            tctgtaaactcgcctattgctcgtggcctgatcggcaaagaagaagatgatgttgtggtc
+            atcaaaacgccgggcggcgaagtagaatttgaagtaattaaggtggaatacctgtaa
+///

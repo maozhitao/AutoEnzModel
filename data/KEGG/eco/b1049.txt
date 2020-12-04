@@ -1,0 +1,90 @@
+ENTRY       b1049             CDS       T00007
+NAME        opgH
+DEFINITION  (RefSeq) osmoregulated periplasmic glucans (OPGs) biosynthesis protein H
+ORTHOLOGY   K03669  membrane glycosyltransferase [EC:2.4.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01003 Glycosyltransferases [BR:eco01003]
+                b1049 (opgH)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.-  
+                 b1049 (opgH)
+            Glycosyltransferases [BR:eco01003]
+             Polysaccharide
+              Bacterial polysaccharide
+               b1049 (opgH)
+POSITION    1110863..1113406
+MOTIF       Pfam: Glycos_transf_2 Glyco_trans_2_3 Glyco_transf_21
+DBLINKS     NCBI-GeneID: 945624
+            NCBI-ProteinID: NP_415567
+            Pasteur: mdoH
+            RegulonDB: ECK120001816
+            ECOCYC: EG11886
+            ASAP: ABE-0003560
+            UniProt: P62517
+AASEQ       847
+            MNKTTEYIDAMPIAASEKAALPKTDIRAVHQALDAEHRTWAREDDSPQGSVKARLEQAWP
+            DSLADGQLIKDDEGRDQLKAMPEAKRSSMFPDPWRTNPVGRFWDRLRGRDVTPRYLARLT
+            KEEQESEQKWRTVGTIRRYILLILTLAQTVVATWYMKTILPYQGWALINPMDMVGQDLWV
+            SFMQLLPYMLQTGILILFAVLFCWVSAGFWTALMGFLQLLIGRDKYSISASTVGDEPLNP
+            EHRTALIMPICNEDVNRVFAGLRATWESVKATGNAKHFDVYILSDSYNPDICVAEQKAWM
+            ELIAEVGGEGQIFYRRRRRRVKRKSGNIDDFCRRWGSQYSYMVVLDADSVMTGDCLCGLV
+            RLMEANPNAGIIQSSPKASGMDTLYARCQQFATRVYGPLFTAGLHFWQLGESHYWGHNAI
+            IRVKPFIEHCALAPLPGEGSFAGSILSHDFVEAALMRRAGWGVWIAYDLPGSYEELPPNL
+            LDELKRDRRWCHGNLMNFRLFLVKGMHPVHRAVFLTGVMSYLSAPLWFMFLALSTALQVV
+            HALTEPQYFLQPRQLFPVWPQWRPELAIALFASTMVLLFLPKLLSILLIWCKGTKEYGGF
+            WRVTLSLLLEVLFSVLLAPVRMLFHTVFVVSAFLGWEVVWNSPQRDDDSTSWGEAFKRHG
+            SQLLLGLVWAVGMAWLDLRFLFWLAPIVFSLILSPFVSVISSRATVGLRTKRWKLFLIPE
+            EYSPPQVLVDTDRFLEMNRQRSLDDGFMHAVFNPSFNALATAMATARHRASKVLEIARDR
+            HVEQALNETPEKLNRDRRLVLLSDPVTMARLHFRVWNSPERYSSWVSYYEGIKLNPLALR
+            KPDAASQ
+NTSEQ       2544
+            atgaataagacaactgagtacattgacgcaatgcccatcgccgcaagcgagaaagcggca
+            ttgccgaagactgatatccgcgccgttcatcaggcgctggatgccgaacaccgcacctgg
+            gcgcgggaggatgattccccgcaaggctcggtaaaggcgcgtctggaacaagcctggcca
+            gattcacttgctgatggacagttaattaaagacgacgaagggcgcgatcagctgaaggcg
+            atgccagaagcaaaacgctcctcgatgtttcccgacccgtggcgtaccaacccggtaggc
+            cgtttctgggatcgcctgcgtggacgcgatgtcacgccgcgctatctggctcgtttgacc
+            aaagaagagcaggagagcgagcaaaagtggcgtaccgtcggtaccatccgccgttacatt
+            ctgttgatcctgacgctcgcgcaaactgtcgtcgcgacctggtatatgaagaccattctt
+            ccttatcagggttgggcgctgattaatcctatggatatggttggtcaggatttgtgggtt
+            tcctttatgcagcttctgccttatatgctgcaaaccggtatcctgatcctctttgcggta
+            ctgttctgttgggtgtccgccggattctggacggcgttaatgggcttcctgcaactgctt
+            attggtcgcgataaatacagtatatctgcgtcaacagttggcgatgaaccattaaacccg
+            gagcatcgcacggcgttgatcatgcctatctgtaacgaagacgtgaaccgtgtttttgct
+            ggcctgcgtgcaacgtgggaatcagtaaaagccaccgggaatgccaaacactttgatgtc
+            tacattcttagtgacagttataacccggatatctgcgtcgcagagcaaaaagcctggatg
+            gagcttatcgctgaagtcggtggcgaaggtcagattttctatcgccgccgccgtcgccgc
+            gtgaagcgtaaaagcggtaatatcgatgacttctgccgtcgctggggcagccagtacagc
+            tacatggtggtgctggatgctgactcggtaatgaccggtgattgtttgtgcgggctggtg
+            cgcctgatggaagccaacccgaacgccgggatcattcagtcgtcgccgaaagcgtccggt
+            atggatacgctgtatgcgcgctgtcagcagttcgcgacccgcgtgtatgggccactgttt
+            acagccggtttgcacttctggcaacttggcgagtcgcactactggggacataacgcgatt
+            atccgcgtgaaaccgtttatcgagcactgcgcactggctccgctgccgggcgaaggttcc
+            tttgccggttcaatcctgtcacatgacttcgtggaagcggcgttgatgcgccgtgcaggt
+            tggggggtctggattgcttacgatctcccgggttcttatgaagaattgccgcctaacttg
+            cttgatgagctaaaacgtgaccgccgatggtgccacggtaacctgatgaacttccgtctg
+            ttcctggtgaagggtatgcacccggttcaccgtgcggtgttcctgacgggcgtgatgtct
+            tatctctccgctccgctgtggtttatgttcctcgcgctctctactgcattgcaggtagtg
+            catgcgttgaccgaaccgcaatacttcctgcaaccacggcagttgttcccagtgtggccg
+            cagtggcgtcctgagctggcgattgcactttttgcttcgaccatggtgctgttgttcctg
+            ccgaagttattgagcattttgcttatctggtgcaaaggaacgaaagaatacggcggcttc
+            tggcgcgttacattatcgttgctgctggaagtgcttttttccgtgctgctggctccggta
+            cgcatgctgttccatacggtcttcgttgtcagcgcgttccttggctgggaagtggtgtgg
+            aattcaccgcagcgtgatgatgactccacttcctggggtgaagcgttcaaacgccacggc
+            tcacagctgctgttagggttagtgtgggctgttgggatggcgtggctggatctgcgtttc
+            ctgttctggctggcaccgattgtcttctcgttgatcctgtcaccgtttgtttcggtgatt
+            tccagccgtgccaccgttggtctgcgcaccaaacgctggaaactgttcctgatcccggaa
+            gagtattcgccgccgcaggtgctggttgataccgatcggttccttgagatgaatcgtcaa
+            cgctcccttgatgatggctttatgcacgcagtgtttaacccgtcatttaacgctctggca
+            accgcaatggcgaccgcgcgtcaccgcgccagtaaggtgctggaaatcgcccgtgaccgc
+            cacgttgaacaggcgctgaacgagacgccagagaagctgaatcgcgatcgtcgcctggtg
+            ctgctaagcgatccggtgacgatggcccgtctgcatttccgtgtctggaattccccggag
+            agatattcttcatgggtgagttattacgaagggataaagctcaatccactggcattgcgt
+            aaaccggatgcggcttcgcaataa
+///

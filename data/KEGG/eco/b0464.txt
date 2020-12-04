@@ -1,0 +1,43 @@
+ENTRY       b0464             CDS       T00007
+NAME        acrR
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor AcrR
+ORTHOLOGY   K03577  TetR/AcrR family transcriptional regulator, acrAB operon repressor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0464 (acrR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               TetR/AcrR family
+                b0464 (acrR)
+POSITION    485761..486408
+MOTIF       Pfam: TetR_C_2 TetR_N TetR_C_6
+DBLINKS     NCBI-GeneID: 945516
+            NCBI-ProteinID: NP_414997
+            Pasteur: acrR
+            RegulonDB: ECK120002020
+            ECOCYC: EG12116
+            ASAP: ABE-0001608
+            UniProt: P0ACS9
+STRUCTURE   PDB: 3BCG 2QOP
+AASEQ       215
+            MARKTKQEAQETRQHILDVALRLFSQQGVSSTSLGEIAKAAGVTRGAIYWHFKDKSDLFS
+            EIWELSESNIGELELEYQAKFPGDPLSVLREILIHVLESTVTEERRRLLMEIIFHKCEFV
+            GEMAVVQQAQRNLCLESYDRIEQTLKHCIEAKMLPADLMTRRAAIIMRGYISGLMENWLF
+            APQSFDLKKEARDYVAILLEMYLLCPTLRNPATNE
+NTSEQ       648
+            atggcacgaaaaaccaaacaagaagcgcaagaaacgcgccaacacatcctcgatgtggct
+            ctacgtcttttctcacagcagggggtatcatccacctcgctgggcgagattgcaaaagca
+            gctggcgttacgcgcggtgcaatctactggcattttaaagacaagtcggatttgttcagt
+            gagatctgggaactgtcagaatccaatattggtgaactagagcttgagtatcaggcaaaa
+            ttccctggcgatccactctcagtattaagagagatattaattcatgttcttgaatccacg
+            gtgacagaagaacggcgtcgattattgatggagattatattccacaaatgcgaatttgtc
+            ggagaaatggctgttgtgcaacaggcacaacgtaatctctgtctggaaagttatgaccgt
+            atagaacaaacgttaaaacattgtattgaagcgaaaatgttgcctgcggatttaatgacg
+            cgtcgcgcagcaattattatgcgcggctatatttccggcctgatggaaaactggctcttt
+            gccccgcaatcttttgatcttaaaaaagaagcccgcgattacgttgccatcttactggag
+            atgtatctcctgtgccccacgcttcgtaatcctgccactaacgaataa
+///

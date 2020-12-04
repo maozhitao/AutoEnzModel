@@ -1,0 +1,48 @@
+ENTRY       b1071             CDS       T00007
+NAME        flgM
+DEFINITION  (RefSeq) anti-sigma factor for FliA (sigma(28))
+ORTHOLOGY   K02398  negative regulator of flagellin synthesis FlgM
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02026  Biofilm formation - Escherichia coli
+            eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1071 (flgM)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b1071 (flgM)
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1071 (flgM)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1071 (flgM)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Regulation
+                b1071 (flgM)
+POSITION    complement(1129835..1130128)
+MOTIF       Pfam: FlgM
+DBLINKS     NCBI-GeneID: 946684
+            NCBI-ProteinID: NP_415589
+            Pasteur: flgM
+            RegulonDB: ECK120002689
+            ECOCYC: G369
+            ASAP: ABE-0003634
+            UniProt: P0AEM4
+AASEQ       97
+            MSIDRTSPLKPVSTVQPRETTDAPVTNSRAAKTTASTSTSVTLSDAQAKLMQPGSSDINL
+            ERVEALKLAIRNGELKMDTGKIADALINEAQQDLQSN
+NTSEQ       294
+            atgagtattgatcgcacttcgcctctgaagcctgtaagcaccgttcaaccgcgcgaaacc
+            actgacgcgccggtaacgaacagccgggcggcaaaaacaaccgcctccaccagcaccagt
+            gtgacgttaagcgacgcgcaagcaaaactgatgcaacccggcagcagtgatatcaatctt
+            gaacgtgtcgaagcgttaaaactggcgattcgtaacggtgaactaaaaatggacaccggc
+            aaaattgccgatgcgctgatcaacgaagcgcagcaagacttgcagagtaactga
+///

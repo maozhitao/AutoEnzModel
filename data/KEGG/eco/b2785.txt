@@ -1,0 +1,64 @@
+ENTRY       b2785             CDS       T00007
+NAME        rlmD
+DEFINITION  (RefSeq) 23S rRNA m(5)U1939 methyltransferase
+ORTHOLOGY   K03215  23S rRNA (uracil1939-C5)-methyltransferase [EC:2.1.1.190]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b2785 (rlmD)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.190  23S rRNA (uracil1939-C5)-methyltransferase
+                 b2785 (rlmD)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               23S rRNA modification factors
+                b2785 (rlmD)
+POSITION    complement(2913699..2915000)
+MOTIF       Pfam: tRNA_U5-meth_tr Methyltransf_31 TRAM Methyltransf_25 PCMT RrnaAD Met_10 Methyltransf_11 MTS Cons_hypoth95 Methyltransf_23 UPF0020 Methyltransf_15 Methyltr_RsmB-F Methyltransf_4 Ubie_methyltran PrmA Methyltrans_SAM MetW CMAS
+DBLINKS     NCBI-GeneID: 947243
+            NCBI-ProteinID: NP_417265
+            Pasteur: ygcA
+            RegulonDB: ECK120001223
+            ECOCYC: EG11247
+            ASAP: ABE-0009127
+            UniProt: P55135
+STRUCTURE   PDB: 1UWV 2BH2
+AASEQ       433
+            MAQFYSAKRRTTTRQIITVSVNDLDSFGQGVARHNGKTLFIPGLLPQENAEVTVTEDKKQ
+            YARAKVVRRLSDSPERETPRCPHFGVCGGCQQQHASVDLQQRSKSAALARLMKHDVSEVI
+            ADVPWGYRRRARLSLNYLPKTQQLQMGFRKAGSSDIVDVKQCPILAPQLEALLPKVRACL
+            GSLQAMRHLGHVELVQATSGTLMILRHTAPLSSADREKLERFSHSEGLDLYLAPDSEILE
+            TVSGEMPWYDSNGLRLTFSPRDFIQVNAGVNQKMVARALEWLDVQPEDRVLDLFCGMGNF
+            TLPLATQAASVVGVEGVPALVEKGQQNARLNGLQNVTFYHENLEEDVTKQPWAKNGFDKV
+            LLDPARAGAAGVMQQIIKLEPIRIVYVSCNPATLARDSEALLKAGYTIARLAMLDMFPHT
+            GHLESMVLFSRVK
+NTSEQ       1302
+            atggcgcaattctactctgcaaaacgacgcacgacgacgcgtcagatcataaccgtttca
+            gtcaacgacctcgactcttttggtcagggcgtggcgcgacataacggcaaaacgctattt
+            atccccggattattgccgcaggaaaacgcggaagttactgttactgaagataaaaaacag
+            tatgcccgcgctaaagtcgtacgccggttaagcgatagcccggaacgcgaaacgccacgc
+            tgtcctcattttggcgtatgcggtggctgtcagcaacaacacgccagcgtggatttacag
+            cagcgaagcaaaagtgcggcactcgcccgattaatgaaacacgatgtctctgaagtgatc
+            gccgatgttccctggggctatcgccgtcgcgcgcgtttaagtctgaactacttaccgaaa
+            acacagcaacttcagatggggtttcgcaaagcgggctccagtgacattgtcgacgtcaaa
+            caatgccccattttagcgccccaacttgaagcattgctgcccaaagtcagggcatgtctg
+            ggcagcttacaagctatgcgccatcttggtcatgttgaactggtacaggcaaccagcggc
+            acgctgatgattttgcgccataccgcaccgctaagttcggcagatcgcgaaaaactggaa
+            cgcttttcgcattctgaaggcctggatctgtatctcgcccccgatagtgagatactcgaa
+            accgtctctggtgagatgccctggtatgactcaaacgggttgcgcttaacttttagcccg
+            cgcgattttattcaggtcaatgcgggtgtgaaccaaaaaatggtagcgcgtgcgttggaa
+            tggctggatgtgcaacctgaagatcgcgtactggatctgttctgcggtatgggcaacttt
+            acactgccattggcgacacaagctgccagtgtggtcggtgtagaaggtgttccggcgctg
+            gtggaaaaaggccagcagaatgcgcgtcttaatggcttacagaatgtgacgttttatcac
+            gaaaatcttgaagaagatgtcacaaagcagccgtgggcgaaaaacggcttcgataaagtg
+            ttgctggacccggcgcgagcaggtgccgcaggtgttatgcagcaaattataaaactggaa
+            cctattcgtatagtttatgtatcctgtaaccctgcaacgctggctcgggatagcgaagcg
+            ttattaaaagcaggatataccattgcgcgactggcgatgctggatatgttcccacacacg
+            ggacatctggaatcgatggtacttttctcgcgcgttaaatag
+///

@@ -1,0 +1,51 @@
+ENTRY       b1712             CDS       T00007
+NAME        ihfA
+DEFINITION  (RefSeq) integration host factor subunit alpha
+ORTHOLOGY   K04764  integration host factor subunit alpha
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b1712 (ihfA)
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b1712 (ihfA)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1712 (ihfA)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Initiation Factors
+               Initiation factors (bacterial)
+                b1712 (ihfA)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Nucleoid associated proteins
+               IHF (integration host factor)
+                b1712 (ihfA)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               NHEJ (non-homologous end-joining)
+                SHDIR (short-homology-dependent illegitimate recombination)
+                 Facilitator
+                  b1712 (ihfA)
+POSITION    complement(1795253..1795552)
+MOTIF       Pfam: Bac_DNA_binding HU-HIG HU-CCDC81_bac_2
+DBLINKS     NCBI-GeneID: 945472
+            NCBI-ProteinID: NP_416227
+            Pasteur: ihfA
+            RegulonDB: ECK120000433
+            ECOCYC: EG10440
+            ASAP: ABE-0005715
+            UniProt: P0A6X7
+STRUCTURE   PDB: 1OWF 2HT0 1OWG 2IIE 1OUZ 1IHF 2IIF 5WFE 5J0N
+AASEQ       99
+            MALTKAEMSEYLFDKLGLSKRDAKELVELFFEEIRRALENGEQVKLSGFGNFDLRDKNQR
+            PGRNPKTGEDIPITARRVVTFRPGQKLKSRVENASPKDE
+NTSEQ       300
+            atggcgcttacaaaagctgaaatgtcagaatatctgtttgataagcttgggcttagcaag
+            cgggatgccaaagaactggttgaactgtttttcgaagagatccgtcgcgctctggaaaac
+            ggcgaacaggtgaaactctctggttttggtaacttcgatctgcgtgataagaatcaacgc
+            ccgggacgtaacccgaaaacgggcgaggatattcccattacagcacggcgcgtggtgacc
+            ttcagacccgggcagaagttaaaaagccgggtcgaaaacgcttcgcccaaagacgagtaa
+///

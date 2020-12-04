@@ -1,0 +1,39 @@
+ENTRY       b3113             CDS       T00007
+NAME        tdcF
+DEFINITION  (RefSeq) putative enamine/imine deaminase
+ORTHOLOGY   K09022  2-iminobutanoate/2-iminopropanoate deaminase [EC:3.5.99.10]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b3113 (tdcF)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.99  In other compounds
+                3.5.99.10  2-iminobutanoate/2-iminopropanoate deaminase
+                 b3113 (tdcF)
+POSITION    complement(3259721..3260110)
+MOTIF       Pfam: Ribonuc_L-PSP DUF3857
+DBLINKS     NCBI-GeneID: 947624
+            NCBI-ProteinID: NP_417583
+            Pasteur: tdcF
+            RegulonDB: ECK120004177
+            ECOCYC: G7626
+            ASAP: ABE-0010240
+            UniProt: P0AGL2
+STRUCTURE   PDB: 2UYJ 2UYP 2UYN 2UYK
+AASEQ       129
+            MKKIIETQRAPGAIGPYVQGVDLGSMVFTSGQIPVCPQTGEIPADVQDQARLSLENVKAI
+            VVAAGLSVGDIIKMTVFITDLNDFATINEVYKQFFDEHQATYPTRSCVQVARLPKDVKLE
+            IEAIAVRSA
+NTSEQ       390
+            atgaaaaagattatcgaaacgcaacgtgccccaggcgcaatcggcccttatgttcagggc
+            gttgatttaggcagcatggtcttcacctccgggcaaataccggtttgcccacagaccggt
+            gagatcccggctgatgtgcaagatcaggcgcgtttaagcctcgaaaacgtcaaagcgatc
+            gtggttgctgccgggctgagcgtgggcgatatcatcaagatgaccgtgtttatcaccgat
+            ctgaatgattttgccaccatcaacgaagtctataagcagttcttcgatgagcatcaggcg
+            acctatccgacccggagctgtgtgcaggtcgcgcgtttgccgaaagatgtgaagctggaa
+            attgaagccatcgcagtacgtagtgcgtaa
+///

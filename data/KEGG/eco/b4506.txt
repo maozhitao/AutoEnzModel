@@ -1,0 +1,37 @@
+ENTRY       b4506             CDS       T00007
+NAME        ykgO
+DEFINITION  (RefSeq) putative ribosomal protein
+ORTHOLOGY   K02919  large subunit ribosomal protein L36
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b4506 (ykgO)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b4506 (ykgO)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b4506 (ykgO)
+              Bacteria
+                b4506 (ykgO)
+POSITION    complement(312374..312514)
+MOTIF       Pfam: Ribosomal_L36
+DBLINKS     NCBI-GeneID: 1450238
+            NCBI-ProteinID: YP_588437
+            RegulonDB: ECK120016286
+            ECOCYC: G0-10434
+            ASAP: ABE-0285027
+            UniProt: Q2EEQ2
+AASEQ       46
+            MKVLNSLRTAKERHPDCQIVKRKGRLYVICKSNPRFKAVQGRKKKR
+NTSEQ       141
+            atgaaagttcttaactctctgcgtaccgcaaaagaacgccatccagactgtcagattgtg
+            aagcgaaaaggacggctatatgtgatttgtaaatctaatccacgttttaaggccgttcag
+            ggtcgtaagaaaaaacgttga
+///

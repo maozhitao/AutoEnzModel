@@ -1,0 +1,35 @@
+ENTRY       b4592             CDS       T00007
+NAME        appX
+DEFINITION  (RefSeq) small protein AppX
+ORTHOLOGY   K22501  cytochrome bd-II ubiquinol oxidase subunit AppX [EC:7.1.1.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00190  Oxidative phosphorylation
+            eco02020  Two-component system
+MODULE      eco_M00153  Cytochrome bd ubiquinol oxidase
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                b4592 (appX)
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b4592 (appX)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.1  Catalysing the translocation of hydrons
+               7.1.1  Linked to oxidoreductase reactions
+                7.1.1.7  quinol oxidase (electrogenic, proton-motive force generating)
+                 b4592 (appX)
+POSITION    1040445..1040537
+MOTIF       Pfam: YbgT_YccB Adeno_E3B
+DBLINKS     NCBI-GeneID: 948955
+            NCBI-ProteinID: YP_001165313
+            RegulonDB: ECK120030072
+            UniProt: P24244
+AASEQ       30
+            MWYLLWFVGILLMCSLSTLVLVWLDPRLKS
+NTSEQ       93
+            atgtggtatttactttggttcgtcggcattttgttgatgtgttcgctctccacccttgtg
+            ttggtatggctggacccgcgtctgaaaagttaa
+///

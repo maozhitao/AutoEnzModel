@@ -1,0 +1,61 @@
+ENTRY       b3615             CDS       T00007
+NAME        waaH
+DEFINITION  (RefSeq) UDP-glucuronate:LPS(HepIII) glycosyltransferase
+ORTHOLOGY   K19354  heptose III glucuronosyltransferase [EC:2.4.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01003 Glycosyltransferases [BR:eco01003]
+                b3615 (waaH)
+               01005 Lipopolysaccharide biosynthesis proteins [BR:eco01005]
+                b3615 (waaH)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.-  
+                 b3615 (waaH)
+            Glycosyltransferases [BR:eco01003]
+             Polysaccharide
+              Bacterial polysaccharide
+               b3615 (waaH)
+            Lipopolysaccharide biosynthesis proteins [BR:eco01005]
+             Core region
+              b3615 (waaH)
+POSITION    complement(3789047..3790081)
+MOTIF       Pfam: Glycos_transf_2 Glyco_tranf_2_3 Glyco_tranf_2_2 Glyco_tranf_2_4
+DBLINKS     NCBI-GeneID: 948140
+            NCBI-ProteinID: NP_418072
+            Pasteur: yibD
+            RegulonDB: ECK120001240
+            ECOCYC: EG11266
+            ASAP: ABE-0011826
+            UniProt: P11290
+AASEQ       344
+            MMNSTNKLSVIIPLYNAGDDFRTCMESLITQTWTALEIIIINDGSTDNSVEIAKYYAENY
+            PHVRLLHQANAGASVARNRGIEVATGKYVAFVDADDEVYPTMYETLMTMALEDDLDVAQC
+            NADWCFRETGETWQSIPTDRLRSTGVLTGPDWLRMGLSSRRWTHVVWMGVYRRDVIVKNN
+            IKFIAGLHHQDIVWTTEFMFNALRARYTEQSLYKYYLHNTSVSRLHRQGNKNLNYQRHYI
+            KITRLLEKLNRNYADKIMIYPEFHQQITYEALRVCHAVRKEPDILTRQRMIAEIFTSGMY
+            KRLITNVRSVKVGYQALLWSFRLWQWRDKTRSHHRITRSAFNLR
+NTSEQ       1035
+            atgatgaacagcaccaataaacttagtgttattattccgttatataatgcgggcgatgat
+            ttccgcacttgtatggaatctttaattacgcaaacctggactgctctggaaatcattatt
+            attaacgatggttcaacggataattctgttgaaatagcaaagtattacgcagaaaactat
+            ccgcacgttcgtttgttgcatcaggcgaatgctggcgcatcggtggcgcgtaatcgtggg
+            attgaagtggcaacgggcaaatatgtcgcttttgtcgatgctgacgatgaagtctatccc
+            accatgtacgaaacgctgatgaccatggcgttagaggacgacctcgacgtggcgcagtgc
+            aacgctgactggtgttttcgtgaaacgggagaaacctggcaatccatccccaccgatcgc
+            cttcgctcaaccggcgtattaaccggcccggactggctgcggatggggctttcttcgcgc
+            cgttggactcacgttgtctggatgggggtttatcgccgtgatgttattgttaaaaataac
+            attaaatttattgccggattacatcatcaggatattgtctggacaacagaattcatgttt
+            aacgcgctgcgtgcgcgatataccgagcaatcattatataaatattatctgcataatacg
+            tcagtgagtcggttgcatagacaagggaataaaaaccttaattatcaacgtcactatatt
+            aagattacccgcctgctggagaaattaaatcgaaattatgccgacaaaattatgatttat
+            ccggaatttcatcagcaaataacttacgaggcattgcgtgtttgccatgcggtgcgcaaa
+            gagccggatattcttacccgccaacggatgattgccgagatatttacttccggtatgtat
+            aagcgcctgattaccaatgtgcgcagcgtgaaggtcggttaccaggcgttactgtggtct
+            ttccgcttatggcaatggcgcgacaaaacgcggtcgcaccatcgcattacgcgtagcgcc
+            tttaatttgcgctag
+///

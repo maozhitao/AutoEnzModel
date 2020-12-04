@@ -1,0 +1,64 @@
+ENTRY       b0714             CDS       T00007
+NAME        nei
+DEFINITION  (RefSeq) endonuclease VIII
+ORTHOLOGY   K05522  endonuclease VIII [EC:3.2.2.- 4.2.99.18]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03410  Base excision repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03410 Base excision repair
+                b0714 (nei)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b0714 (nei)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.2  Hydrolysing N-glycosyl compounds
+                3.2.2.-  
+                 b0714 (nei)
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.99  Other carbon-oxygen lyases
+                4.2.99.18  DNA-(apurinic or apyrimidinic site) lyase
+                 b0714 (nei)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                DNA glycosylases
+                 b0714 (nei)
+POSITION    745935..746726
+MOTIF       Pfam: Fapy_DNA_glyco H2TH zf-FPG_IleRS DUF4351
+DBLINKS     NCBI-GeneID: 945320
+            NCBI-ProteinID: NP_415242
+            Pasteur: nei
+            RegulonDB: ECK120002983
+            ECOCYC: G6383
+            ASAP: ABE-0002433
+            UniProt: P50465
+STRUCTURE   PDB: 1K3X 2EA0 1K3W 2OPF 6FBU 1Q3B 1Q3C 2OQ4 1Q39
+AASEQ       263
+            MPEGPEIRRAADNLEAAIKGKPLTDVWFAFPQLKPYQSQLIGQHVTHVETRGKALLTHFS
+            NDLTLYSHNQLYGVWRVVDTGEEPQTTRVLRVKLQTADKTILLYSASDIEMLTPEQLTTH
+            PFLQRVGPDVLDPNLTPEVVKERLLSPRFRNRQFAGLLLDQAFLAGLGNYLRVEILWQVG
+            LTGNHKAKDLNAAQLDALAHALLEIPRFSYATRGQVDENKHHGALFRFKVFHRDGEPCER
+            CGSIIEKTTLSSRPFYWCPGCQH
+NTSEQ       792
+            atgcctgaaggcccggagatccgccgtgcagcggataacctggaggcggcgatcaaaggc
+            aaaccactaactgatgtctggtttgccttcccgcagttaaaaccttatcaatcacaactt
+            atcggtcaacacgttacccatgtggaaacgcgtggtaaggcgttgttaactcatttttcc
+            aacgacttaacgctctacagccataatcagctttacggcgtctggcgcgtggttgatacc
+            ggcgaagagccgcagaccacgcgagtattgcgggtaaaactgcaaacggctgacaaaacc
+            attctgctttatagcgcctcggatattgagatgttgaccccggaacaactgaccacgcat
+            ccgtttttacaacgcgttggtcccgatgtgctggatccgaatctgacgccggaggtggtg
+            aaagaacgattattgtcgccgcgctttcgtaaccgtcagtttgctggattactgctcgat
+            caggcgtttctggctgggcttggcaattatttgcgggtggagatcctctggcaggttggg
+            ttgactggaaatcataaagcgaaagatctcaatgcggcgcaactggatgcactcgcacac
+            gcgttactggagattcctcgattttcctacgctacgcgggggcaggtggatgagaataag
+            catcatggggcgctgtttcgctttaaggtttttcatcgagatggcgaaccgtgcgaacgt
+            tgtggcagcatcattgagaaaaccacgctgtcatctcgcccgttttactggtgccctggc
+            tgccagcactag
+///

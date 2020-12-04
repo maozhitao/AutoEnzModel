@@ -1,0 +1,53 @@
+ENTRY       b0611             CDS       T00007
+NAME        rna
+DEFINITION  (RefSeq) RNase I
+ORTHOLOGY   K01169  ribonuclease I (enterobacter ribonuclease) [EC:4.6.1.21]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b0611 (rna)
+            Enzymes [BR:eco01000]
+             4. Lyases
+              4.6  Phosphorus-oxygen lyases
+               4.6.1  Phosphorus-oxygen lyases (only sub-subclass identified to date)
+                4.6.1.21  Enterobacter ribonuclease
+                 b0611 (rna)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              3'processing and CCA adding factors
+               3'processing factors
+                b0611 (rna)
+POSITION    complement(644197..645003)
+MOTIF       Pfam: Ribonuclease_T2
+DBLINKS     NCBI-GeneID: 949065
+            NCBI-ProteinID: NP_415144
+            Pasteur: rna
+            RegulonDB: ECK120000847
+            ECOCYC: EG10856
+            ASAP: ABE-0002107
+            UniProt: P21338
+STRUCTURE   PDB: 2PQX 2Z70 2EA1 2PQY
+AASEQ       268
+            MKAFWRNAALLAVSLLPFSSANALALQAKQYGDFDRYVLALSWQTGFCQSQHDRNRNERD
+            ECRLQTETTNKADFLTVHGLWPGLPKSVAARGVDERRWMRFGCATRPIPNLPEARASRMC
+            SSPETGLSLETAAKLSEVMPGAGGRSCLERYEYAKHGACFGFDPDAYFGTMVRLNQEIKE
+            SEAGKFLADNYGKTVSRRDFDAAFAKSWGKENVKAVKLTCQGNPAYLTEIQISIKADAIN
+            APLSANSFLPQPHPGNCGKTFVIDKAGY
+NTSEQ       807
+            atgaaagcattctggcgtaacgccgcgttgctcgcggtttctctgcttcccttctcttct
+            gccaacgccttagcgttgcaggcaaaacagtatggcgattttgatcgctatgtcctggcc
+            ctctcctggcaaaccggattttgccagagtcaacacgatcgaaatcgtaacgaacgagat
+            gaatgtcgcctgcaaaccgaaacgaccaacaaagctgattttctgaccgtacatggtctg
+            tggccaggattgcctaaatcggttgctgcccgtggtgttgatgaacgccgctggatgcgc
+            ttcggttgcgctactcgcccaatcccgaatctaccagaagcgcgcgccagccgaatgtgt
+            tcatcgccggaaaccggattatcactggaaacggccgctaaactaagtgaagtcatgcca
+            ggagctggcggacgttcctgcctggaacgctacgaatatgccaaacacggtgcctgcttt
+            ggttttgatccggacgcatacttcggtacgatggtacgcctgaatcaagaaattaaagag
+            agcgaagccggaaaattccttgcggataattacggtaaaacagtgagccgccgtgacttt
+            gacgccgcctttgccaaaagctggggaaaagagaacgtgaaagcagttaagctaacgtgc
+            cagggtaaccctgcgtatttgactgaaattcagatctcgatcaaagctgacgccatcaac
+            gctccgctttctgcaaactcattcttgccacaacctcacccaggtaactgtggcaaaacc
+            tttgtgattgataaagcgggttattaa
+///

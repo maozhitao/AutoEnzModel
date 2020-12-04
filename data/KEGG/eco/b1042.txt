@@ -1,0 +1,42 @@
+ENTRY       b1042             CDS       T00007
+NAME        csgA
+DEFINITION  (RefSeq) curlin, major subunit
+ORTHOLOGY   K04334  major curlin subunit
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b1042 (csgA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b1042 (csgA)
+            Secretion system [BR:eco02044]
+             Extracellular nucleation-precipitation pathway
+              Curli assembly protein
+               b1042 (csgA)
+POSITION    1104447..1104902
+MOTIF       Pfam: Curlin_rpt
+DBLINKS     NCBI-GeneID: 949055
+            NCBI-ProteinID: NP_415560
+            Pasteur: csgA
+            RegulonDB: ECK120001445
+            ECOCYC: EG11489
+            ASAP: ABE-0003537
+            UniProt: P28307
+AASEQ       151
+            MKLLKVAAIAAIVFSGSALAGVVPQYGGGGNHGGGGNNSGPNSELNIYQYGGGNSALALQ
+            TDARNSDLTITQHGGGNGADVGQGSDDSSIDLTQRGFGNSATLDQWNGKNSEMTVKQFGG
+            GNGAAVDQTASNSSVNVTQVGFGNNATAHQY
+NTSEQ       456
+            atgaaacttttaaaagtagcagcaattgcagcaatcgtattctccggtagcgctctggca
+            ggtgttgttcctcagtacggcggcggcggtaaccacggtggtggcggtaataatagcggc
+            ccaaattctgagctgaacatttaccagtacggtggcggtaactctgcacttgctctgcaa
+            actgatgcccgtaactctgacttgactattacccagcatggcggcggtaatggtgcagat
+            gttggtcagggctcagatgacagctcaatcgatctgacccaacgtggcttcggtaacagc
+            gctactcttgatcagtggaacggcaaaaattctgaaatgacggttaaacagttcggtggt
+            ggcaacggtgctgcagttgaccagactgcatctaactcctccgtcaacgtgactcaggtt
+            ggctttggtaacaacgcgaccgctcatcagtactaa
+///

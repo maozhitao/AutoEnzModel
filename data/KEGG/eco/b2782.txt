@@ -1,0 +1,43 @@
+ENTRY       b2782             CDS       T00007
+NAME        mazF
+DEFINITION  (RefSeq) endoribonuclease toxin MazF
+ORTHOLOGY   K07171  mRNA interferase MazF [EC:3.1.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b2782 (mazF)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 b2782 (mazF)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               MazF-MazE
+                b2782 (mazF)
+POSITION    complement(2910756..2911091)
+MOTIF       Pfam: PemK_toxin
+DBLINKS     NCBI-GeneID: 947252
+            NCBI-ProteinID: NP_417262
+            Pasteur: chpA
+            RegulonDB: ECK120001224
+            ECOCYC: EG11249
+            ASAP: ABE-0009119
+            UniProt: P0AE70
+STRUCTURE   PDB: 5CQX 5CKD 1UB4 5CK9 3NFC 5CKE 5CKH 5CQY 5CKB 5CKF 5CR2
+                 5CO7
+AASEQ       111
+            MVSRYVPDMGDLIWVDFDPTKGSEQAGHRPAVVLSPFMYNNKTGMCLCVPCTTQSKGYPF
+            EVVLSGQERDGVALADQVKSIAWRARGATKKGTVAPEELQLIKAKINVLIG
+NTSEQ       336
+            atggtaagccgatacgtacccgatatgggcgatctgatttgggttgattttgacccgaca
+            aaaggtagcgagcaagctggacatcgtccagctgttgtcctgagtcctttcatgtacaac
+            aacaaaacaggtatgtgtctgtgtgttccttgtacaacgcaatcaaaaggatatccgttc
+            gaagttgttttatccggtcaggaacgtgatggcgtagcgttagctgatcaggtaaaaagt
+            atcgcctggcgggcaagaggagcaacgaagaaaggaacagttgccccagaggaattacaa
+            ctcattaaagccaaaattaacgtactgattgggtag
+///

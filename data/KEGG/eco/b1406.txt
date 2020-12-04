@@ -1,0 +1,51 @@
+ENTRY       b1406             CDS       T00007
+NAME        pdxI
+DEFINITION  (RefSeq) pyridoxine 4-dehydrogenase
+ORTHOLOGY   K05275  pyridoxine 4-dehydrogenase [EC:1.1.1.65]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00750  Vitamin B6 metabolism
+            eco01100  Metabolic pathways
+            eco01120  Microbial metabolism in diverse environments
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00750 Vitamin B6 metabolism
+                b1406 (pdxI)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.65  pyridoxine 4-dehydrogenase
+                 b1406 (pdxI)
+POSITION    1474221..1475081
+MOTIF       Pfam: Aldo_ket_red RsdA_SigD_bd
+DBLINKS     NCBI-GeneID: 945980
+            NCBI-ProteinID: NP_415924
+            Pasteur: ydbC
+            RegulonDB: ECK120001280
+            ECOCYC: EG11309
+            ASAP: ABE-0004698
+            UniProt: P25906
+AASEQ       286
+            MSSNTFTLGTKSVNRLGYGAMQLAGPGVFGPPRDRHVAITVLREALALGVNHIDTSDFYG
+            PHVTNQIIREALYPYSDDLTIVTKIGARRGEDASWLPAFSPAELQKAVHDNLRNLGLDVL
+            DVVNLRVMMGDGHGPAEGSIEASLTVLAEMQQQGLVKHIGLSNVTPTQVAEARKIAEIVC
+            VQNEYNIAHRADDAMIDALAHDGIAYVPFFPLGGFTPLQSSTLSDVAASLGATPMQVALA
+            WLLQRSPNILLIPGTSSVAHLRENMAAEKLHLSEEVLSTLDGISRE
+NTSEQ       861
+            atgagcagcaatacatttactctcggtacaaaatccgttaaccgtcttggttatggcgcg
+            atgcaactggcaggtcctggagtttttggccccccacgagatcgccacgtcgctataacc
+            gtgctgcgtgaggcgctggcattgggcgtcaatcatattgataccagcgacttttatggt
+            ccgcacgtcaccaatcagattatccgcgaagcgctttatccttactctgacgacctgaca
+            attgtcactaaaattggtgcgcggcgtggagaggacgcatcctggttgcccgcattttct
+            ccggcagagctgcaaaaagcggtgcacgataatctacgtaatctcgggctggacgtgctg
+            gatgtggttaacctgcgcgttatgatgggggatggtcatggcccagcggaaggatcgatt
+            gaggccagcctgaccgtgctggcagagatgcaacaacaaggcctggtaaaacatattggc
+            ctgagcaacgtcacaccgacgcaggttgcagaggcgcgcaagattgccgaaattgtctgt
+            gtgcaaaacgaatacaacatcgcgcaccgtgctgatgatgcaatgattgatgctttggcc
+            cacgatggcattgcctacgtgccgttcttcccgctcgggggctttacaccgctgcaatcg
+            tccacactttccgatgttgctgcgagcctgggtgcaacaccaatgcaggtggcgctggcg
+            tggctgttacagcgttcaccgaatattttgctgatcccagggacgtcttcggttgcgcat
+            ttacgggagaatatggctgctgaaaaattgcatctttctgaggaagtgttgtctacgttg
+            gatggtatttcgcgagaataa
+///

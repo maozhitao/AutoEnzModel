@@ -1,0 +1,48 @@
+ENTRY       b3297             CDS       T00007
+NAME        rpsK
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S11
+ORTHOLOGY   K02948  small subunit ribosomal protein S11
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3297 (rpsK)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3297 (rpsK)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Small subunit
+                b3297 (rpsK)
+              Bacteria
+                b3297 (rpsK)
+              Archaea
+                b3297 (rpsK)
+POSITION    complement(3441709..3442098)
+MOTIF       Pfam: Ribosomal_S11
+DBLINKS     NCBI-GeneID: 947792
+            NCBI-ProteinID: NP_417756
+            Pasteur: rpsK
+            RegulonDB: ECK120000901
+            ECOCYC: EG10910
+            ASAP: ABE-0010807
+            UniProt: P0A7R9
+STRUCTURE   PDB: 6O7K 5NO2 5NO3 5NO4 5UZ4 5MY1 2YKR 5ME0 5ME1 4ADV 3IY8
+                 4A2I
+AASEQ       129
+            MAKAPIRARKRVRKQVSDGVAHIHASFNNTIVTITDRQGNALGWATAGGSGFRGSRKSTP
+            FAAQVAAERCADAVKEYGIKNLEVMVKGPGPGRESTIRALNAAGFRITNITDVTPIPHNG
+            CRPPKKRRV
+NTSEQ       390
+            atggcaaaggcaccaattcgtgcacgtaaacgtgtaagaaaacaagtctctgacggcgtg
+            gctcatatccatgcttctttcaacaacaccatcgtgactatcactgatcgtcagggtaac
+            gcgttgggttgggcaacagccggtggttccggtttccgtggttctcgcaaatccactccg
+            tttgcagctcaggttgcagcagagcgttgcgctgacgccgtgaaagaatacggcatcaag
+            aatctggaagttatggttaaaggtccgggtccaggccgcgaatctactattcgtgctctg
+            aacgccgcaggtttccgcatcactaacattactgatgtgactccgatccctcataacggt
+            tgtcgtccgccgaaaaaacgtcgcgtataa
+///

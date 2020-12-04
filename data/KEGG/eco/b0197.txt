@@ -1,0 +1,52 @@
+ENTRY       b0197             CDS       T00007
+NAME        metQ
+DEFINITION  (RefSeq) L-methionine/D-methionine ABC transporter membrane anchored binding protein
+ORTHOLOGY   K02073  D-methionine transport system substrate-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b0197 (metQ)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0197 (metQ)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Phosphate and amino acid transporters
+               D-Methionine transporter
+                b0197 (metQ)
+POSITION    complement(220113..220928)
+MOTIF       Pfam: Lipoprotein_9 OpuAC NMT1 Phosphonate-bd
+DBLINKS     NCBI-GeneID: 944893
+            NCBI-ProteinID: NP_414739
+            Pasteur: yaeC
+            RegulonDB: ECK120001460
+            ECOCYC: EG11504
+            ASAP: ABE-0000666
+            UniProt: P28635
+STRUCTURE   PDB: 4YAH 6CVL
+AASEQ       271
+            MAFKFKTFAAVGALIGSLALVGCGQDEKDPNHIKVGVIVGAEQQVAEVAQKVAKDKYGLD
+            VELVTFNDYVLPNEALSKGDIDANAFQHKPYLDQQLKDRGYKLVAVGNTFVYPIAGYSKK
+            IKSLDELQDGSQVAVPNDPTNLGRSLLLLQKVGLIKLKDGVGLLPTVLDVVENPKNLKIV
+            ELEAPQLPRSLDDAQIALAVINTTYASQIGLTPAKDGIFVEDKESPYVNLIVTREDNKDA
+            ENVKKFVQAYQSDEVYEAANKVFNGGAVKGW
+NTSEQ       816
+            atggcgttcaaattcaaaacctttgcggcagtgggagccctgatcggatcactggcactg
+            gtaggctgcggtcaggatgaaaaagatccaaaccacattaaagtcggcgtgattgttggt
+            gccgaacagcaggttgcagaagtcgcgcagaaagttgcgaaagacaaatatggcctggac
+            gttgagctggtaaccttcaacgactatgttctgccaaacgaagcattgagcaaaggcgat
+            atcgacgccaacgccttccagcataaaccgtaccttgatcagcaactgaaagatcgtggc
+            tacaaactggtcgcagtaggcaacacttttgtttatccgattgctggttactccaagaaa
+            atcaaatcactggatgaactgcaggatggttcgcaggttgccgtgccaaacgacccaact
+            aaccttggtcgttcactgctgctgctgcaaaaagtgggcttgatcaaactgaaagatggc
+            gttggcctgctgccgaccgttcttgatgttgttgagaaccccaaaaatctgaaaattgtt
+            gaactggaagcaccgcaactgccgcgttctctggacgacgcgcaaatcgctctggcagtt
+            atcaataccacctatgccagccagattggcctgactccggcgaaagacggtatctttgtt
+            gaagataaagagtccccgtacgtaaacctgatcgtgacgcgtgaagataacaaagacgcc
+            gagaacgtgaagaaattcgtccaggcttatcagtctgacgaagtttacgaagcagcaaac
+            aaagtgtttaacggcggagctgttaaaggctggtaa
+///

@@ -1,0 +1,44 @@
+ENTRY       b1508             CDS       T00007
+NAME        hipB
+DEFINITION  (RefSeq) antitoxin/DNA-binding transcriptional repressor HipB
+ORTHOLOGY   K15773  HTH-type transcriptional regulator / antitoxin HipB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1508 (hipB)
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b1508 (hipB)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               Other families
+                b1508 (hipB)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               HipA-HipB
+                b1508 (hipB)
+POSITION    complement(1592176..1592442)
+MOTIF       Pfam: HTH_3 HTH_19 HTH_37 HTH_31 HTH_26 MarR HTH_23 HTH_25 Terminase_5 YdaS_antitoxin Sigma70_r4 HTH_38 HTH_24 DUF3489 DUF2623 HTH_28
+DBLINKS     NCBI-GeneID: 946065
+            NCBI-ProteinID: NP_416025
+            Pasteur: hipB
+            RegulonDB: ECK120000435
+            ECOCYC: EG10442
+            ASAP: ABE-0005024
+            UniProt: P23873
+STRUCTURE   PDB: 4Z5H 4Z5D 4Z59 2WIU 4Z58 4Z5C 3DNV 3HZI 4YG1 4YG4 4YG7
+                 5K98
+AASEQ       88
+            MMSFQKIYSPTQLANAMKLVRQQNGWTQSELAKKIGIKQATISNFENNPDNTTLTTFFKI
+            LQSLELSMTLCDAKNASPESTEQQNLEW
+NTSEQ       267
+            atgatgagctttcagaagatctatagcccaacgcaattggcgaatgcaatgaaactggtt
+            cgccagcaaaatggctggacgcagagcgagctggcgaaaaaaattggtattaagcaggcg
+            acgatttccaatttcgaaaacaaccctgacaataccacgctcacgacattttttaagatt
+            ttacagtcgcttgaactctcaatgacgctatgcgacgcgaaaaatgcctcgccagaatca
+            acagaacagcaaaatctggagtggtaa
+///

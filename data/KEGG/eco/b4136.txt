@@ -1,0 +1,72 @@
+ENTRY       b4136             CDS       T00007
+NAME        dsbD
+DEFINITION  (RefSeq) protein disulfide oxidoreductase - DsbDreduced
+ORTHOLOGY   K04084  thioredoxin:protein disulfide reductase [EC:1.8.4.16]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b4136 (dsbD)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.8  Acting on a sulfur group of donors
+               1.8.4  With a disulfide as acceptor
+                1.8.4.16  thioredoxin:protein disulfide reductase
+                 b4136 (dsbD)
+            Chaperones and folding catalysts [BR:eco03110]
+             Protein folding catalysts
+              Protein disulfide isomerase
+               b4136 (dsbD)
+POSITION    complement(4363345..4365042)
+MOTIF       Pfam: DsbC DsbD Thioredoxin_2 Thioredoxin_7 Thioredoxin DsbD_2
+DBLINKS     NCBI-GeneID: 948649
+            NCBI-ProteinID: NP_418559
+            RegulonDB: ECK120002071
+            ECOCYC: EG12178
+            ASAP: ABE-0013539
+            UniProt: P36655
+STRUCTURE   PDB: 2FWH 2FWG 2FWF 2FWE 1L6P 3PFU 1UC7 1JPE 1Z5Y 4IP6 1JZD
+                 4IP1 5NHI 1VRS
+AASEQ       565
+            MAQRIFTLILLLCSTSVFAGLFDAPGRSQFVPADQAFAFDFQQNQHDLNLTWQIKDGYYL
+            YRKQIRITPEHAKIADVQLPQGVWHEDEFYGKSEIYRDRLTLPVTINQASAGATLTVTYQ
+            GCADAGFCYPPETKTVPLSEVVANNAAPQPVSVPQQEQPTAQLPFSALWALLIGIGIAFT
+            PCVLPMYPLISGIVLGGKQRLSTARALLLTFIYVQGMALTYTALGLVVAAAGLQFQAALQ
+            HPYVLIGLAIVFTLLAMSMFGLFTLQLPSSLQTRLTLMSNRQQGGSPGGVFVMGAIAGLI
+            CSPCTTAPLSAILLYIAQSGNMWLGGGTLYLYALGMGLPLMLITVFGNRLLPKSGPWMEQ
+            VKTAFGFVILALPVFLLERVIGDVWGLRLWSALGVAFFGWAFITSLQAKRGWMRIVQIIL
+            LAAALVSVRPLQDWAFGATHTAQTQTHLNFTQIKTVDELNQALVEAKGKPVMLDLYADWC
+            VACKEFEKYTFSDPQVQKALADTVLLQANVTANDAQDVALLKHLNVLGLPTILFFDGQGQ
+            EHPQARVTGFMDAETFSAHLRDRQP
+NTSEQ       1698
+            atggctcaacgcatctttacgctgatcctgctactttgcagcacttccgtttttgccgga
+            ttattcgacgcgccgggacgttcacaatttgtccccgcggatcaagcctttgcttttgat
+            tttcagcaaaaccaacatgaccttaatctgacctggcagatcaaagacggttactacctc
+            taccgtaaacagatccgcattacgccggaacacgcgaaaattgccgacgtgcagctgccg
+            caaggcgtctggcatgaagatgagttttacggcaaaagcgagatttaccgcgatcggctg
+            acgcttcccgtcaccatcaaccaggcgagtgcgggagcgacgttaactgtcacctaccag
+            ggctgtgctgatgccggtttctgttatccgccagaaaccaaaaccgttccgttaagcgaa
+            gtggtcgccaacaacgcagcgccacagcctgtgtctgttccgcagcaagagcagcccacc
+            gcgcaattgcccttttccgcgctctgggcgttgttgatcggtattggtatcgcctttacg
+            ccatgcgtgctgccaatgtacccactgatttctggcatcgtgctgggtggtaaacagcgg
+            ctctccactgccagagcattgttgctgacctttatttatgtgcaggggatggcgctgacc
+            tacacggcgctgggtctggtggttgccgccgcagggttacagttccaggcggcgctacag
+            cacccatacgtgctcattggcctcgccatcgtctttaccttgctggcgatgtcaatgttt
+            ggcttgtttaccctgcaactcccctcttcgctgcaaacacgtctcacgttgatgagcaat
+            cgccaacagggcggctcacctggcggtgtgtttgttatgggggcgattgccggactgatc
+            tgttcaccatgcaccaccgcaccgcttagcgcgattctgctgtatatcgcccaaagcggg
+            aacatgtggctgggcggcggcacgctttatctctatgcgttgggcatgggcctgccgctg
+            atgctaattaccgtctttggtaaccgcttgctgccgaaaagcggcccgtggatggaacaa
+            gtcaaaaccgcgtttggttttgtgatcctcgcactgccggtcttcctgctggagcgagtg
+            attggtgatgtatggggattacgcttgtggtcggcgctgggtgtcgcattctttggctgg
+            gcctttatcaccagcctacaggctaaacgcggctggatgcgtattgtgcaaattattctg
+            ctggcagcggcattggttagcgtgcgcccacttcaggattgggcatttggtgcgacgcat
+            accgcgcaaactcagacgcatctcaactttacacaaatcaaaacggtagatgagttaaat
+            caggcgctcgttgaagccaaaggcaaaccggtgatgttagatctttatgccgactggtgc
+            gtcgcctgtaaagagtttgagaaatacaccttcagcgacccgcaggtgcaaaaagcgtta
+            gcagacacggtcttacttcaggccaacgtcacggccaacgacgcacaagatgtggcgctg
+            ttaaagcatcttaatgtccttggcctaccgacaattctcttttttgacggacaaggccag
+            gagcatccacaagcacgcgtcacgggctttatggatgctgaaaccttcagcgcacatttg
+            cgcgatcgccaaccgtga
+///

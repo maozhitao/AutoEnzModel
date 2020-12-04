@@ -1,0 +1,54 @@
+ENTRY       b4460             CDS       T00007
+NAME        araH
+DEFINITION  (RefSeq) arabinose ABC transporter membrane subunit
+ORTHOLOGY   K10538  L-arabinose transport system permease protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b4460 (araH)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b4460 (araH)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Saccharide, polyol, and lipid transporters
+               L-Arabinose transporter
+                b4460 (araH)
+POSITION    complement(1982554..1983540)
+MOTIF       Pfam: BPD_transp_2 PDR_CDR
+DBLINKS     NCBI-GeneID: 948923
+            NCBI-ProteinID: YP_026162
+            RegulonDB: ECK120000055
+            ECOCYC: EG10059
+            ASAP: ABE-0174093
+            UniProt: P0AE26
+AASEQ       328
+            MSSVSTSGSGAPKSSFSFGRIWDQYGMLVVFAVLFIACAIFVPNFATFINMKGLGLAISM
+            SGMVACGMLFCLASGDFDLSVASVIACAGVTTAVVINLTESLWIGVAAGLLLGVLCGLVN
+            GFVIAKLKINALITTLATMQIVRGLAYIISDGKAVGIEDESFFALGYANWFGLPAPIWLT
+            VACLIIFGLLLNKTTFGRNTLAIGGNEEAARLAGVPVVRTKIIIFVLSGLVSAIAGIILA
+            SRMTSGQPMTSIGYELIVISACVLGGVSLKGGIGKISYVVAGILILGTVENAMNLLNISP
+            FAQYVVRGLILLAAVIFDRYKQKAKRTV
+NTSEQ       987
+            atgtcttctgtttctacatcggggtctggcgcacctaagtcgtcattcagcttcgggcgt
+            atctgggatcagtacggcatgctggtggtgtttgcggtgctctttatcgcctgtgccatt
+            tttgtcccaaattttgccaccttcattaatatgaaagggttgggcctggcaatttccatg
+            tcggggatggtggcttgtggcatgttgttctgcctcgcttccggtgactttgacctttct
+            gtcgcctccgtaattgcctgtgcgggtgtcaccacggcggtggttattaacctgactgaa
+            agcctgtggattggcgtggcagcggggttgttgctgggcgttctctgtggcctggtcaat
+            ggctttgttatcgccaaactgaaaataaatgctctgatcacgacattggcaacgatgcag
+            attgttcgaggtctggcgtacatcatttcagacggtaaagcggtcggtatcgaagatgaa
+            agcttctttgcccttggttacgccaactggttcggtctgcctgcgccaatctggctcacc
+            gtcgcgtgtctgattatctttggtttgctgctgaataaaaccacctttggtcgtaacacc
+            ctggcgattggcgggaacgaagaggccgcgcgtctggcgggtgtaccggttgttcgcacc
+            aaaattattatctttgttctctcaggcctggtatcagcgatagccggaattattctggct
+            tcacgtatgaccagtgggcagccaatgacgtcgattggttatgagctgattgttatctcc
+            gcctgcgttttaggtggcgtttctctgaaaggtggcatcggaaaaatctcatatgtggtg
+            gcgggtatcttaattttaggcaccgtggaaaacgccatgaacctgcttaatatttctcct
+            ttcgcgcagtacgtggttcgcggcttaatcctgctggcagcggtgatcttcgaccgttac
+            aagcaaaaagcgaaacgcactgtctga
+///

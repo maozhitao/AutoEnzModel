@@ -1,0 +1,47 @@
+ENTRY       b4314             CDS       T00007
+NAME        fimA
+DEFINITION  (RefSeq) type 1 fimbriae major subunit
+ORTHOLOGY   K07345  major type 1 subunit fimbrin (pilin)
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b4314 (fimA)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b4314 (fimA)
+            Secretion system [BR:eco02044]
+             Chaperone-usher system
+              Type 1 pilus assembly protein
+               b4314 (fimA)
+            Bacterial motility proteins [BR:eco02035]
+             Pilus system
+              Fimbrial proteins
+               b4314 (fimA)
+POSITION    4543115..4543663
+MOTIF       Pfam: Fimbrial FimA
+DBLINKS     NCBI-GeneID: 948838
+            NCBI-ProteinID: NP_418734
+            Pasteur: fimA
+            RegulonDB: ECK120000302
+            ECOCYC: EG10308
+            ASAP: ABE-0014145
+            UniProt: P04128
+STRUCTURE   PDB: 5NKT 4DWH 3SQB 6C53 5OH0 2N7H 2M5G 2JTY
+AASEQ       182
+            MKIKTLAIVVLSALSLSSTAALAAATTVNGGTVHFKGEVVNAACAVDAGSVDQTVQLGQV
+            RTASLAQEGATSSAVGFNIQLNDCDTNVASKAAVAFLGTAIDAGHTNVLALQSSAAGSAT
+            NVGVQILDRTGAALTLDGATFSSETTLNNGTNTIPFQARYFATGAATPGAANADATFKVQ
+            YQ
+NTSEQ       549
+            atgaaaattaaaactctggcaatcgttgttctgtcggctctgtccctcagttctacagcg
+            gctctggccgctgccacgacggttaatggtgggaccgttcactttaaaggggaagttgtt
+            aacgccgcttgcgcagttgatgcaggctctgttgatcaaaccgttcagttaggacaggtt
+            cgtaccgcatcgctggcacaggaaggagcaaccagttctgctgtcggttttaacattcag
+            ctgaatgattgcgataccaatgttgcatctaaagccgctgttgcctttttaggtacggcg
+            attgatgcgggtcataccaacgttctggctctgcagagttcagctgcgggtagcgcaaca
+            aacgttggtgtgcagatcctggacagaacgggtgctgcgctgacgctggatggtgcgaca
+            tttagttcagaaacaaccctgaataacggaaccaataccattccgttccaggcgcgttat
+            tttgcaaccggggccgcaaccccgggtgctgctaatgcggatgcgaccttcaaggttcag
+            tatcaataa
+///

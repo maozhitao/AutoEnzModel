@@ -1,0 +1,67 @@
+ENTRY       b4171             CDS       T00007
+NAME        miaA
+DEFINITION  (RefSeq) tRNA dimethylallyltransferase
+ORTHOLOGY   K00791  tRNA dimethylallyltransferase [EC:2.5.1.75]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01006 Prenyltransferases [BR:eco01006]
+                b4171 (miaA)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b4171 (miaA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.75  tRNA dimethylallyltransferase
+                 b4171 (miaA)
+            Prenyltransferases [BR:eco01006]
+             Compound prenylation
+              tRNA dimethylallyltransferase
+               b4171 (miaA)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              tRNA modification factors
+               Other tRNA modification factors
+                b4171 (miaA)
+             Prokaryotic type
+                b4171 (miaA)
+POSITION    4399252..4400202
+MOTIF       Pfam: IPPT IPT AAA_33 AAA_16 Zeta_toxin TIP49 AAA_18 Mg_chelatase
+DBLINKS     NCBI-GeneID: 948690
+            NCBI-ProteinID: NP_418592
+            Pasteur: miaA
+            RegulonDB: ECK120000588
+            ECOCYC: EG10595
+            ASAP: ABE-0013657
+            UniProt: P16384
+STRUCTURE   PDB: 3FOZ 2ZM5 2ZXU
+AASEQ       316
+            MSDISKASLPKAIFLMGPTASGKTALAIELRKILPVELISVDSALIYKGMDIGTAKPNAE
+            ELLAAPHRLLDIRDPSQAYSAADFRRDALAEMADITAAGRIPLLVGGTMLYFKALLEGLS
+            PLPSADPEVRARIEQQAAEQGWESLHRQLQEVDPVAAARIHPNDPQRLSRALEVFFISGK
+            TLTELTQTSGDALPYQVHQFAIAPASRELLHQRIEQRFHQMLASGFEAEVRALFARGDLH
+            TDLPSIRCVGYRQMWSYLEGEISYDEMVYRGVCATRQLAKRQITWLRGWEGVHWLDSEKP
+            EQARDEVLQVVGAIAG
+NTSEQ       951
+            atgagtgatatcagtaaggcgagcctgcctaaggcgatttttttgatggggccgacggcc
+            tccggtaaaacggcgttagccattgagctgcgtaaaattttaccagtagagttgataagc
+            gttgattctgcccttatttacaaagggatggatatcgggacggcgaagccgaacgctgaa
+            gagttactcgccgcgccgcaccgattgctggatattcgcgatccgtcgcaggcttactcg
+            gctgctgattttcgccgcgatgcgctggcggaaatggccgatatcaccgcggcggggcgg
+            atcccactgttagtgggcggtacgatgttgtatttcaaggcattgctggaagggttgtcg
+            ccgctaccgtcggcagacccggaagtacgggccagaattgagcaacaggcggcagagcaa
+            ggttgggagtcattgcatcgtcaacttcaggaggtagatccggttgcggcagcaaggatt
+            catccaaatgatccacaaaggctttcccgggcactggaagtttttttcatttcgggtaaa
+            actttaacggaactgacgcaaacgtcaggagacgctctaccgtatcaggtgcatcagttc
+            gccatcgccccggcgagccgtgaactgctccatcaacgcattgagcagcgttttcatcag
+            atgttggcttcaggttttgaagcagaagtccgggcgctttttgcccgaggagatttgcat
+            acggacttgccttccattcgttgcgtgggttatcgccagatgtggtcttaccttgaaggc
+            gaaatctcatacgatgaaatggtttatcgaggtgtttgcgccacgagacagttggcgaag
+            cggcagataacctggctgcgtggttgggaaggggttcactggcttgacagtgaaaaacca
+            gaacaggcgcgtgacgaagtattacaggttgttggtgctatcgcaggctga
+///

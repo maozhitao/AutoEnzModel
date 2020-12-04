@@ -1,0 +1,27 @@
+ENTRY       b4664             CDS       T00007
+NAME        ibsD
+DEFINITION  (RefSeq) putative toxic peptide IbsD
+ORTHOLOGY   K19152  small toxic protein IbsD
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4664 (ibsD)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               Ibs-Sib
+                b4664 (ibsD)
+POSITION    3194766..3194825
+MOTIF       Pfam: Ibs_toxin Defensin_propep
+DBLINKS     NCBI-GeneID: 7751628
+            NCBI-ProteinID: YP_002791256
+            RegulonDB: ECK120035072
+            ECOCYC: G0-10630
+            UniProt: C1P616
+AASEQ       19
+            MMKLVIILIVLLLVSFAAY
+NTSEQ       60
+            atgatgaagctcgtcatcatactgattgtgttgttactcgtaagtttcgcagcttattaa
+///

@@ -1,0 +1,54 @@
+ENTRY       b2182             CDS       T00007
+NAME        bcr
+DEFINITION  (RefSeq) multidrug efflux pump Bcr
+ORTHOLOGY   K07552  MFS transporter, DHA1 family, multidrug resistance protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2182 (bcr)
+            Transporters [BR:eco02000]
+             Major facilitator superfamily (MFS)
+              Drug transporters
+               Drug:H+ antiporter-1 (12 spanner) (DHA1) family [TC:2.A.1.2]
+                b2182 (bcr)
+POSITION    complement(2278570..2279760)
+MOTIF       Pfam: MFS_1 Sugar_tr TRI12
+DBLINKS     NCBI-GeneID: 944808
+            NCBI-ProteinID: NP_416687
+            Pasteur: bcr
+            RegulonDB: ECK120001384
+            ECOCYC: EG11419
+            ASAP: ABE-0007221
+            UniProt: P28246
+AASEQ       396
+            MTTRQHSSFAIVFILGLLAMLMPLSIDMYLPALPVISAQFGVPAGSTQMTLSTYILGFAL
+            GQLIYGPMADSFGRKPVVLGGTLVFAAAAVACALANTIDQLIVMRFFHGLAAAAASVVIN
+            ALMRDIYPKEEFSRMMSFVMLVTTIAPLMAPIVGGWVLVWLSWHYIFWILALAAILASAM
+            IFFLIKETLPPERRQPFHIRTTIGNFAALFRHKRVLSYMLASGFSFAGMFSFLSAGPFVY
+            IEINHVAPENFGYYFALNIVFLFVMTIFNSRFVRRIGALNMFRSGLWIQFIMAAWMVISA
+            LLGLGFWSLVVGVAAFVGCVSMVSSNAMAVILDEFPHMAGTASSLAGTFRFGIGAIVGAL
+            LSLATFNSAWPMIWSIAFCATSSILFCLYASRPKKR
+NTSEQ       1191
+            gtgaccacccgacagcattcgtcgtttgctattgtttttatccttggcctgctggccatg
+            ttgatgccgctgtcgattgatatgtatctgcccgcgctaccggtaatttcagcgcagttt
+            ggcgtaccggcgggcagtacgcagatgaccctcagtacttatattctgggctttgcgttg
+            gggcagttaatctacgggccgatggcagacagcttcgggcgtaagccggtggtgctcggc
+            ggtacgctggtgtttgccgccgccgcggtggcgtgtgcgttggcaaacaccatcgatcag
+            ctgattgtgatgcgtttcttccacgggctggctgcggctgcggccagcgtggtcattaac
+            gccctgatgcgcgatatttacccgaaagaagagttctcgcggatgatgtcgtttgtcatg
+            ctggtgacaaccattgcaccgctgatggcaccgatagttggcggctgggtgctggtgtgg
+            ctgagctggcattacatcttctggatcctggcattagcggcgattctggcttcggcaatg
+            attttcttcctgattaaagaaaccttaccaccggagcgtcgtcagccatttcacattcgt
+            accactattggtaactttgcggcgctgttccgccataaacgtgtcctgagctacatgctt
+            gccagtggtttcagctttgccgggatgttctcattcttaagcgccggaccgtttgtttat
+            attgaaattaaccacgtcgcgccggaaaactttggttattactttgcgctaaacattgtt
+            tttctgttcgtgatgaccatctttaacagccgcttcgtccgccgcattggcgcgttaaat
+            atgttccgctcggggttgtggatacaatttattatggcagcgtggatggtcatcagtgcg
+            ctgctggggctgggattttggtcgctggtggttggcgttgcggcgtttgtgggctgcgtg
+            tcgatggtgtcatccaatgcgatggcggtcattcttgatgagtttccccatatggcggga
+            acggcatcttcgctggcaggaaccttccgttttggcataggggcaattgttggcgcattg
+            ctttctcttgcgacctttaactctgcatggccgatgatttggtcaattgcattctgcgca
+            accagctccattctcttctgtctgtacgccagtcggccgaaaaaacggtga
+///

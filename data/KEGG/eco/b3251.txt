@@ -1,0 +1,66 @@
+ENTRY       b3251             CDS       T00007
+NAME        mreB
+DEFINITION  (RefSeq) dynamic cytoskeletal protein MreB
+ORTHOLOGY   K03569  rod shape-determining protein MreB and related proteins
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b3251 (mreB)
+              09183 Protein families: signaling and cellular processes
+               04812 Cytoskeleton proteins [BR:eco04812]
+                b3251 (mreB)
+               02048 Prokaryotic defense system [BR:eco02048]
+                b3251 (mreB)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Other chromosome partitioning proteins
+                b3251 (mreB)
+            Cytoskeleton proteins [BR:eco04812]
+             Prokaryotic cytoskeleton proteins
+              Actin homologs
+               Actins
+                b3251 (mreB)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               Type II TA system related factors
+                b3251 (mreB)
+POSITION    complement(3400044..3401087)
+MOTIF       Pfam: MreB_Mbl HSP70 Actin FtsA PilM_2 Ppx-GppA EutA DDR
+DBLINKS     NCBI-GeneID: 948588
+            NCBI-ProteinID: NP_417717
+            Pasteur: mreB
+            RegulonDB: ECK120000601
+            ECOCYC: EG10608
+            ASAP: ABE-0010661
+            UniProt: P0A9X4
+AASEQ       347
+            MLKKFRGMFSNDLSIDLGTANTLIYVKGQGIVLNEPSVVAIRQDRAGSPKSVAAVGHDAK
+            QMLGRTPGNIAAIRPMKDGVIADFFVTEKMLQHFIKQVHSNSFMRPSPRVLVCVPVGATQ
+            VERRAIRESAQGAGAREVFLIEEPMAAAIGAGLPVSEATGSMVVDIGGGTTEVAVISLNG
+            VVYSSSVRIGGDRFDEAIINYVRRNYGSLIGEATAERIKHEIGSAYPGDEVREIEVRGRN
+            LAEGVPRGFTLNSNEILEALQEPLTGIVSAVMVALEQCPPELASDISERGMVLTGGGALL
+            RNLDRLLMEETGIPVVVAEDPLTCVARGGGKALEMIDMHGGDLFSEE
+NTSEQ       1044
+            atgttgaaaaaatttcgtggcatgttttccaatgacttgtccattgacctgggtactgcg
+            aataccctcatttatgtaaaaggacaaggcatcgtattgaatgagccttccgtggtggcc
+            attcgtcaggatcgtgccggttcaccgaaaagcgtagctgcagtaggtcatgacgcgaag
+            cagatgctgggccgtacgccgggcaatattgctgccattcgcccaatgaaagacggcgtt
+            atcgccgacttcttcgtgactgaaaaaatgctccagcacttcatcaaacaagtgcacagc
+            aacagctttatgcgtccaagcccgcgcgttctggtttgtgtgccggttggcgcgacccag
+            gttgaacgccgcgcaattcgtgaatccgcgcagggcgctggtgcccgtgaagtcttcctg
+            attgaagaaccgatggctgccgcaattggtgctggcctgccggtttctgaagcgaccggt
+            tctatggtggttgatatcggtggtggtaccactgaagttgctgttatctccttgaacggt
+            gtggtttactcctcttctgtgcgcattggtggtgaccgtttcgacgaagctatcatcaac
+            tatgtgcgtcgtaattacggttctctgatcggtgaagccaccgcagaacgtatcaagcac
+            gaaatcggttcggcttatccgggcgatgaagtccgtgaaatcgaagttcgtggccgtaac
+            ctggcagaaggtgttccacgcggttttaccctgaactccaatgaaatcctcgaagcactg
+            caggaaccgctgaccggtattgtgagcgcggtaatggttgcactggaacagtgcccgccg
+            gaactggcttccgacatctccgagcgcggcatggtgctcaccggtggtggcgcactgctg
+            cgtaaccttgaccgtttgttaatggaagaaaccggcattccagtcgttgttgctgaagac
+            ccgctgacctgtgtggcgcgcggtggcggcaaagcgctggaaatgatcgacatgcacggc
+            ggcgacctgttcagcgaagagtaa
+///

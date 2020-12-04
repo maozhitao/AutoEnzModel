@@ -1,0 +1,40 @@
+ENTRY       b1043             CDS       T00007
+NAME        csgC
+DEFINITION  (RefSeq) inhibitor of CsgA amyloid formation
+ORTHOLOGY   K04336  curli production protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b1043 (csgC)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b1043 (csgC)
+            Secretion system [BR:eco02044]
+             Extracellular nucleation-precipitation pathway
+              Curli assembly protein
+               b1043 (csgC)
+POSITION    1104961..1105293
+MOTIF       Pfam: Tafi-CsgC
+DBLINKS     NCBI-GeneID: 945623
+            NCBI-ProteinID: NP_415561
+            Pasteur: csgC
+            RegulonDB: ECK120003144
+            ECOCYC: G6548
+            ASAP: ABE-0003542
+            UniProt: P52107
+STRUCTURE   PDB: 2XSK 2Y2Y 2Y2T
+AASEQ       110
+            MNTLLLLAALSSQITFNTTQQGDVYTIIPEVTLTQSCLCRVQILSLREGSSGQSQTKQEK
+            TLSLPANQPIALTKLSLNISPDDRVKIVVTVSDGQSLHLSQQWPPSSEKS
+NTSEQ       333
+            atgaatacgttattactccttgcggcactttccagtcagataacctttaatacgacccag
+            caaggggatgtgtataccattattcctgaagtcactcttactcaatcttgtctgtgcaga
+            gtacaaatattgtccctgcgcgaaggcagttcagggcaaagtcagacgaagcaagaaaag
+            accctttcattgcctgctaatcaacccattgctttgacgaagttgagtttaaatatttcc
+            ccggacgatcgggtgaaaatagttgttactgtttctgatggacagtcacttcatttatca
+            caacaatggccgccctcttcagaaaagtcttaa
+///

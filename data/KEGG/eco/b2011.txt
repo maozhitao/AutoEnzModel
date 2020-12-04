@@ -1,0 +1,81 @@
+ENTRY       b2011             CDS       T00007
+NAME        sbcB
+DEFINITION  (RefSeq) exodeoxyribonuclease I
+ORTHOLOGY   K01141  exodeoxyribonuclease I [EC:3.1.11.1]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03430  Mismatch repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03430 Mismatch repair
+                b2011 (sbcB)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2011 (sbcB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.11  Exodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.11.1  exodeoxyribonuclease I
+                 b2011 (sbcB)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                DNA exonucleases
+                 b2011 (sbcB)
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecBC pathway proteins
+                 b2011 (sbcB)
+               NHEJ (non-homologous end-joining)
+                SHDIR (short-homology-dependent illegitimate recombination)
+                 Supressor
+                  b2011 (sbcB)
+POSITION    2082756..2084183
+MOTIF       Pfam: Exonuc_X-T_C RNase_T
+DBLINKS     NCBI-GeneID: 946529
+            NCBI-ProteinID: NP_416515
+            Pasteur: sbcB
+            RegulonDB: ECK120000915
+            ECOCYC: EG10926
+            ASAP: ABE-0006686
+            UniProt: P04995 A0A0G3HGF9
+STRUCTURE   PDB: 2QXF 3HL8 3HP9 3C95 4JRP 4HCB 1FXX 3C94 4HCC 4JRQ 4JS4
+                 4JS5
+AASEQ       475
+            MMNDGKQQSTFLFHDYETFGTHPALDRPAQFAAIRTDSEFNVIGEPEVFYCKPADDYLPQ
+            PGAVLITGITPQEARAKGENEAAFAARIHSLFTVPKTCILGYNNVRFDDEVTRNIFYRNF
+            YDPYAWSWQHDNSRWDLLDVMRACYALRPEGINWPENDDGLPSFRLEHLTKANGIEHSNA
+            HDAMADVYATIAMAKLVKTRQPRLFDYLFTHRNKHKLMALIDVPQMKPLVHVSGMFGAWR
+            GNTSWVAPLAWHPENRNAVIMVDLAGDISPLLELDSDTLRERLYTAKTDLGDNAAVPVKL
+            VHINKCPVLAQANTLRPEDADRLGINRQHCLDNLKILRENPQVREKVVAIFAEAEPFTPS
+            DNVDAQLYNGFFSDADRAAMKIVLETEPRNLPALDITFVDKRIEKLLFNYRARNFPGTLD
+            YAEQQRWLEHRRQVFTPEFLQGYADELQMLVQQYADDKEKVALLKALWQYAEEIV
+NTSEQ       1428
+            atgatgaatgacggtaagcaacaatctacctttttgtttcacgattacgaaacctttggc
+            acgcaccccgcgttagatcgccctgcacagttcgcagccattcgcaccgatagcgaattc
+            aatgtcatcggcgaacccgaagtcttttactgcaagcccgctgatgactatttaccccag
+            ccaggagccgtattaattaccggtattaccccgcaggaagcacgggcgaaaggagaaaac
+            gaagccgcgtttgccgcccgtattcactcgctttttaccgtaccgaagacctgtattctg
+            ggctacaacaatgtgcgtttcgacgacgaagtcacacgcaacattttttatcgtaatttc
+            tacgatccttacgcctggagctggcagcatgataactcgcgctgggatttactggatgtt
+            atgcgtgcctgttatgccctgcgcccggaaggaataaactggcctgaaaatgatgacggt
+            ctaccgagctttcgccttgagcatttaaccaaagcgaatggtattgaacatagcaacgcc
+            cacgatgcgatggctgatgtgtacgccactattgcgatggcaaagctggtaaaaacgcgt
+            cagccacgcctgtttgattatctctttacccatcgtaataaacacaaactgatggcgttg
+            attgatgttccgcagatgaaacccctggtgcacgtttccggaatgtttggagcatggcgc
+            ggcaataccagctgggtggcaccgctggcgtggcatcctgaaaatcgcaatgccgtaatt
+            atggtggatttggcaggagacatttcgccattactggaactggatagcgacacattgcgc
+            gagcgtttatataccgcaaaaaccgatcttggcgataacgccgccgttccggttaagctg
+            gtgcatatcaataaatgtccggtgctggcccaggcgaatacgctacgcccggaagatgcc
+            gaccgactgggaattaatcgtcagcattgcctcgataacctgaaaattctgcgtgaaaat
+            ccgcaagtgcgcgaaaaagtggtggcgatattcgcggaagccgaaccgtttacgccttca
+            gataacgtggatgcacagctttataacggctttttcagtgacgcagatcgtgcagcaatg
+            aaaattgtgctggaaaccgagccgcgtaatttaccggcactggatatcacttttgttgat
+            aaacggattgaaaagctgttgttcaattatcgggcacgcaacttcccggggacgctggat
+            tatgccgagcagcaacgctggctggagcaccgtcgccaggtcttcacgccagagtttttg
+            cagggttatgctgatgaattgcagatgctggtacaacaatatgccgatgacaaagagaaa
+            gtggcgctgttaaaagcactttggcagtacgcggaagagattgtctaa
+///

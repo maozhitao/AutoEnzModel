@@ -1,0 +1,83 @@
+ENTRY       b0291             CDS       T00007
+NAME        ecpC
+DEFINITION  (RefSeq) putative fimbrial usher protein EcpC
+ORTHOLOGY   K21966  Mat/Ecp fimbriae outer membrane usher protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b0291 (ecpC)
+            Secretion system [BR:eco02044]
+             Chaperone-usher system
+              Mat/Ecp fimbriae assembly protein
+               b0291 (ecpC)
+POSITION    complement(306807..309332)
+MOTIF       Pfam: CooC_C TcfC CarboxypepD_reg CarbopepD_reg_2 MetallophosN
+DBLINKS     NCBI-GeneID: 947606
+            NCBI-ProteinID: NP_414825
+            Pasteur: yagX
+            RegulonDB: ECK120002782
+            ASAP: ABE-0001005
+            UniProt: P77802
+AASEQ       841
+            MPLRRFSPGLKAQFAFGMVFLFVQPDASAADISAQQIGGVIIPQAFSQALQDGMSVPLYI
+            HLAGSQGRQDDQRIGSAFIWLDDGQLRIRKIQLEESEDNASVSEQTRQQLMALANAPFNE
+            ALTIPLTDNAQLDLSLRQLLLQLVVKREALGTVLRSRSEDIGQSSVNTLSSNLSYNLGVY
+            NNQLRNGGSNTSSYLSLNNVTALREHHVVLDGSLYGIGSGQQDSELYKAMYERDFAGHRF
+            AGGMLDTWNLQSLGPMTAISAGKIYGLSWGNQASSTIFDSSQSATPVIAFLPAAGEVHLT
+            RDGRLLSVQNFTMGNHEVDTRGLPYGIYDVEVEVIVNGRVISKRTQRVNKLFSRGRGVGA
+            PLAWQVWGGSFHMDRWSENGKKTRPAKESWLAGASTSGSLSTLSWAATGYGYDNQAVGET
+            RLTLPLGGAINVNLQNMLASDSSWSSIGSISATLPGGFSSLWVNQEKTRIGNQLRRSDAD
+            NRAIGGTLNLNSLWSKLGTFSISYNDDRRYNSHYYTADYYQNVYSGTFGSLGLRAGIQRY
+            NNGDSNANTGKYIALDLSLPLGNWFSAGMTHQNGYTMANLSARKQFDEGTIRTVGANLSR
+            AISGDTGDDKTLSGGAYAQFDARYASGTLNVNSAADGYVNTNLTANGSVGWQGKNIAASG
+            RTDGNAGVIFNTGLEDDGQISAKINGRIFPLNGKRNYLPLSPYGRYEVELQNSKNSLDSY
+            DIVSGRKSRLTLYPGNVAVIEPEVKQMVTVSGRIRAEDGTLLANARINNHIGRTRTDENG
+            EFVMDVDKKYPTIDFRYSGNKTCEVALELNQARGAVWVGDVVCSGLSSWAAVTQTGEENE
+            S
+NTSEQ       2526
+            atgcctttacgacggttctccccaggactgaaagcccagtttgccttcggcatggtcttt
+            ttgttcgttcagcccgatgccagcgctgctgacataagtgcgcagcaaataggtggggtg
+            attattccgcaggccttcagtcaggcgcttcaggacggcatgagcgtcccgctctatatt
+            catctcgccggtagccagggtcgccaggacgatcagcgaatcggcagcgcttttatctgg
+            ctggacgatggacagctacgcatccggaaaatacagctggaagagagtgaagataacgcc
+            agtgtcagcgaacaaactcgacagcagctgatggctctggccaacgccccgttcaatgag
+            gcccttaccatccccctgactgacaacgcgcagctggatctcagcttgcgccaactgctg
+            ctgcagctagtggtcaagcgcgaagcgctgggcaccgtactacgctcacgtagcgaagac
+            atcgggcagtccagtgttaacaccctcagcagtaatctgagctataacttgggcgtctat
+            aacaaccagttgcgtaacggcgggagcaacacatccagctatctgtcgctgaataacgtt
+            actgcactgcgcgaacatcatgtggtgctcgacggctcgctgtacgggatcggtagcggt
+            caacaggacagtgaattatataaagcgatgtatgaacgcgattttgccggtcaccgattt
+            gccggtggaatgctcgacacctggaacttgcagtccttagggccgatgaccgccatttca
+            gcagggaagatttacggcctttcctggggaaaccaggccagctccaccatcttcgacagc
+            agccagtcagccacgccagtgatcgcctttttaccggcggcgggcgaagtacatctcacc
+            cgtgatgggcggctactaagcgttcagaacttcactatgggcaatcatgaagtggatacc
+            cggggtctaccgtacgggatttacgatgtggaagttgaggtgatcgttaacggtcgcgtg
+            atcagcaaacgcacccagcgggtcaataagctgtttagccgggggcgcggcgtcggtgca
+            ccactggcgtggcaggtatggggcggtagctttcatatggatcgctggtcggaaaacggg
+            aaaaagacgcgaccagctaaagagagttggctagcaggtgcctcgacctccggctcattg
+            agtacgcttagctgggcggcaacgggatatggatacgataatcaggcggtgggtgaaacc
+            cgtctgacgctgccgcttgggggggcgatcaacgttaacctgcaaaatatgctggccagt
+            gacagctcatggagcagcatcggcagcatcagcgccactctaccgggaggctttagttcg
+            ctgtgggttaatcaggaaaaaacccgcattggcaatcaattgcgacgtagcgatgccgac
+            aaccgtgcaatcggcggcacactcaacctgaactcactgtggtcgaagctgggcacattc
+            agcatcagctacaatgatgaccgccgttacaacagccattattacacggcagattactat
+            caaaatgtctacagcggtacctttggttcgcttggcctgcgggccggtattcagcgctat
+            aacaacggcgacagcaacgccaatacaggaaaatatatcgctctcgatctctcgctacca
+            ctgggcaactggtttagcgcagggatgactcatcaaaacggctacaccatggcaaacctg
+            tcagcacgcaaacagtttgatgaaggaaccattcgcactgttggtgccaatctgtcacgt
+            gccatctccggcgataccggtgatgacaaaaccctcagcggcggggcgtatgcacaattc
+            gacgctcgttacgccagcggaacgctgaacgtcaatagcgcggcggacggctacgtcaat
+            accaacttgaccgccaatggcagcgtcggctggcagggtaaaaacattgctgccagcggg
+            cggactgatggcaacgctggggtgatattcaacaccgggctggaggacgacggtcagatc
+            agcgccaaaatcaacgggcggattttcccgcttaacggcaagcgtaactatctcccgctc
+            tctccctatggaagatatgaggtggagttacagaacagcaaaaactcactcgacagttac
+            gatatcgtcagcggccgcaaaagtcgtctgactctctatccaggcaatgtcgctgtcatt
+            gagccagaggtgaagcagatggttaccgtctccggtcgtatccgtgcggaagacggcaca
+            ctgctggctaacgcacggattaacaaccatatcggccgaacccgaaccgatgaaaacggc
+            gagtttgtcatggacgtggataagaaataccccactatcgattttcgctacagtggcaat
+            aaaacctgcgaagtggctctggaactcaaccaggcgcgcggtgccgtctgggtcggtgat
+            gtggtctgcagcggcctctcatcgtgggcggcggtgacgcagacaggagaagagaatgag
+            agttaa
+///

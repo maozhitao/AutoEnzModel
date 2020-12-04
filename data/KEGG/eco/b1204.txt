@@ -1,0 +1,49 @@
+ENTRY       b1204             CDS       T00007
+NAME        pth
+DEFINITION  (RefSeq) peptidyl-tRNA hydrolase
+ORTHOLOGY   K01056  peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:eco03012]
+                b1204 (pth)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.29  aminoacyl-tRNA hydrolase
+                 b1204 (pth)
+            Translation factors [BR:eco03012]
+             Eukaryotic type
+              Release factors
+               b1204 (pth)
+             Prokaryotic type
+               b1204 (pth)
+POSITION    complement(1257929..1258513)
+MOTIF       Pfam: Pept_tRNA_hydro
+DBLINKS     NCBI-GeneID: 945765
+            NCBI-ProteinID: NP_415722
+            Pasteur: pth
+            RegulonDB: ECK120000776
+            ECOCYC: EG10785
+            ASAP: ABE-0004043
+            UniProt: P0A7D1
+STRUCTURE   PDB: 2PTH 3VJR 3OFV
+AASEQ       194
+            MTIKLIVGLANPGAEYAATRHNAGAWFVDLLAERLRAPLREEAKFFGYTSRVTLGGEDVR
+            LLVPTTFMNLSGKAVAAMASFFRINPDEILVAHDELDLPPGVAKFKLGGGHGGHNGLKDI
+            ISKLGNNPNFHRLRIGIGHPGDKNKVVGFVLGKPPVSEQKLIDEAIDEAARCTEMWFTDG
+            LTKATNRLHAFKAQ
+NTSEQ       585
+            gtgacgattaaattgattgtcggcctggcgaaccccggtgctgaatacgccgcaacgcga
+            cataatgctggtgcctggttcgttgacttactggcagagcgtttgcgcgctccgctgcgc
+            gaagaggctaaattctttggttatacttcgcgagtcactcttggaggcgaagatgtccgc
+            ctgttagtcccgactacatttatgaatctcagcggcaaagccgttgcggcgatggccagt
+            tttttccgcattaatccggacgaaattctggtggcccacgacgaactggatctgcctcct
+            ggcgtcgccaaatttaaattgggcggtggccatggtggtcacaatggactgaaagacatc
+            atcagtaaattgggtaataaccctaactttcaccgtttacgcatcggaatcggtcatccg
+            ggcgataaaaataaagttgtcggttttgtgttaggcaaaccgcctgttagtgaacagaag
+            ttaattgatgaagccattgacgaagcggcgcgttgtactgaaatgtggtttacagatggc
+            ttgaccaaagcaacgaaccgattgcacgcctttaaagcgcaataa
+///

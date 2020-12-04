@@ -1,0 +1,80 @@
+ENTRY       b4359             CDS       T00007
+NAME        opgB
+DEFINITION  (RefSeq) phosphoglycerol transferase I
+ORTHOLOGY   K01002  phosphoglycerol transferase [EC:2.7.8.20]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b4359 (opgB)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.8  Transferases for other substituted phosphate groups
+                2.7.8.20  phosphatidylglycerol---membrane-oligosaccharide glycerophosphotransferase
+                 b4359 (opgB)
+POSITION    complement(4597150..4599441)
+MOTIF       Pfam: Sulfatase PilN
+DBLINKS     NCBI-GeneID: 948888
+            NCBI-ProteinID: NP_418779
+            Pasteur: mdoB
+            RegulonDB: ECK120002326
+            ECOCYC: EG12591
+            ASAP: ABE-0014297
+            UniProt: P39401
+AASEQ       763
+            MSELLSFALFLASVLIYAWKAGRNTWWFAATLTVLGLFVVLNITLFASDYFTGDGINDAV
+            LYTLTNSLTGAGVSKYILPGIGIVLGLTAVFGALGWILRRRRHHPHHFGYSLLALLLALG
+            SVDASPAFRQITELVKSQSRDGDPDFAAYYKEPSKTIPDPKLNLVYIYGESLERTYFDNE
+            AFPDLTPELGALKNEGLDFSHTQQLPGTDYTIAGMVASQCGIPLFAPFEGNASASVSSFF
+            PQNICLGDILKNSGYQNYFVQGANLRFAGKDVFLKSHGFDHLYGSEELKSVVADPHYRND
+            WGFYDDTVLDEAWKKFEELSRSGQRFSLFTLTVDTHHPDGFISRTCNRKKYDFDGKPNQS
+            FSAVSCSQENIATFINKIKASPWFKDTVIVVSSDHLAMNNTAWKYLNKQDRNNLFFVIRG
+            DKPQQETLAVKRNTMDNGATVLDILGGDNYLGLGRSSLSGQSMSEIFLNIKEKTLAWKPD
+            IIRLWKFPKEMKEFTIDQQKNMIAFSGSHFRLPLLLRVSDKRVEPLPESEYSAPLRFQLA
+            DFAPRDNFVWVDRCYKMAQLWAPELALSTDWCVSQGQLGGQQIVQHVDKTTWQGKTAFKD
+            TVIDMARYKGNVDTLKIVDNDIRYKADSFIFNVAGAPEEVKQFSGISRPESWGRWSNAQL
+            GDEVKIEYKHPLPKKFDLVITAKAYGNNASRPIPVRVGNEEQTLVLGNEVTTTTLHFDNP
+            TDADTLVIVPPEPVSTNEGNILGHSPRKLGIGMVEIKVVEREG
+NTSEQ       2292
+            ttgtcagaactactctctttcgccctttttctcgcctctgtgctgatttacgcatggaaa
+            gcgggacgtaacacctggtggtttgcagccacgttaacggtgctggggctatttgtcgtt
+            ttaaatatcaccctgtttgccagcgactattttactggcgatggtattaacgacgcggtt
+            ctctataccttaaccaacagcctgaccggtgctggcgtcagcaaatacattttgccgggt
+            atcggcattgtgctggggctgacagcggtgttcggtgcgctgggctggatcctgcgccgt
+            cgtcgccatcatccgcaccattttggttacagcctgctggcgctcttactggcgctgggt
+            tcggtggacgccagcccggcatttcgtcagataacggaactggtgaaatcccagtcacgc
+            gacggcgacccggactttgcggcttattataaagagccgtcgaaaactatccctgacccg
+            aaactcaacctggtttatatctacggcgaaagtctcgagcggacctattttgataacgag
+            gctttcccggatctcacgcctgaactgggcgcgttgaaaaatgaaggcctggatttcagc
+            cacacgcagcagctgccgggaacagattacacgattgcgggcatggtggcttctcagtgc
+            ggcataccgctgtttgccccctttgaaggcaacgcctccgcctctgtctccagcttcttc
+            ccgcagaacatctgtctgggagatatcctgaaaaactcgggttatcagaactatttcgtg
+            cagggcgcgaatctgcgttttgccggtaaagatgtgttcctgaagtcgcatggcttcgac
+            cacttatacggctcagaagagctgaaaagcgtggtagccgacccgcactatcgcaacgac
+            tggggattctacgacgataccgttctcgatgaagcgtggaaaaagtttgaagagctttcc
+            cgctcaggtcagcgattctcactgtttaccctgacagtcgatacccatcacccggatggt
+            tttatctctcgtacctgtaaccgcaaaaaatatgattttgacggtaaaccgaatcagtca
+            ttcagcgcggtaagttgcagccaggagaacatcgcgacgtttatcaacaaaatcaaagcg
+            tcaccgtggtttaaagataccgtcatcgtcgtctcttctgaccatttagcgatgaacaac
+            acggcgtggaaatacctcaataagcaggatcgcaataacctgttttttgtcattcgtggc
+            gacaagccgcagcaagagacgctggcagtgaagcgtaacacgatggataacggcgcgacg
+            gtgctggacattctcggtggcgataactatctcggacttggtcgtagcagtttatccggg
+            cagtcgatgtcggaaatcttcctcaatatcaaagagaaaacattggcgtggaagccagat
+            atcatccgcctgtggaaattccctaaagagatgaaagagttcaccatcgaccagcagaaa
+            aacatgattgccttctcgggtagccatttccgtttgccgctgctgttgcgggtttcagac
+            aaacgcgtggaaccgctgccggaaagcgaatactcagcaccgctgcgtttccagctggcc
+            gatttcgctccacgcgacaatttcgtctgggttgaccgttgctacaagatggcacaactc
+            tgggctccggaactggcactttccaccgactggtgtgtctcgcaagggcagcttggcggt
+            cagcaaattgttcagcatgttgacaaaacaacatggcagggcaaaacggcatttaaagat
+            acggtcatcgacatggcgcgttacaaaggcaatgtcgatacgctgaagattgttgataac
+            gatattcgctacaaagccgacagtttcatctttaacgtcgccggtgcgccagaagaggtg
+            aaacagtttagcgggatttcccgtccggagtcgtggggccgctggtccaacgcgcagctg
+            ggcgatgaagtaaaaatcgagtacaagcatccgctgccgaagaaatttgacctggtgatt
+            accgccaaagcatacggcaataacgccagccgtcctattccggtacgcgtaggcaatgaa
+            gaacaaactcttgtgctgggcaatgaagtgaccaccaccacactgcatttcgataaccca
+            accgatgccgacacactggtaattgtgccgccggaacctgtctcaaccaacgaagggaat
+            atcctcggacactcgccgcgtaagctcgggatcggcatggtggaaattaaagtggtagaa
+            cgtgaagggtaa
+///

@@ -1,0 +1,54 @@
+ENTRY       b1741             CDS       T00007
+NAME        cho
+DEFINITION  (RefSeq) endonuclease of nucleotide excision repair
+ORTHOLOGY   K05984  excinuclease Cho [EC:3.1.25.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1741 (cho)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.25  Site-specific endodeoxyribonucleases that are specific for altered bases
+                3.1.25.-  
+                 b1741 (cho)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                GGR (global genome repair) factors
+                 b1741 (cho)
+POSITION    1823515..1824402
+MOTIF       Pfam: GIY-YIG
+DBLINKS     NCBI-GeneID: 948996
+            NCBI-ProteinID: NP_416255
+            Pasteur: ydjQ
+            RegulonDB: ECK120003525
+            ECOCYC: G6937
+            ASAP: ABE-0005807
+            UniProt: P76213
+AASEQ       295
+            MVRRLTSPRLEFEAAAIYEYPEHLRSFLNDLPTRPGVYLFHGESDTMPLYIGKSVNIRSR
+            VLSHLRTPDEAAMLRQSRRISWICTAGEIGALLLEARLIKEQQPLFNKRLRRNRQLCALQ
+            LNEKRVDVVYAKEVDFSRAPNLFGLFANRRAALQALQTIADEQKLCYGLLGLEPLSRGRA
+            CFRSALKRCAGACCGKESHEEHALRLRQSLERLRVVCWPWQGAVALKEQHPEMTQYHIIQ
+            NWLWLGAVNSLEEATTLIRTPAGFDHDGYKILCKPLLSGNYEITELDPANDQRAS
+NTSEQ       888
+            gtggtacggcgtttaacttctccgcggctcgaatttgaagctgcggcaatttatgaatat
+            cccgaacatttacgttcattccttaatgacttacccacccgaccaggggtgtatctgttt
+            catggtgaaagtgacaccatgccgctctatatcggcaaaagcgttaacatccgcagccgc
+            gtcctttctcatttacgtaccccggatgaagccgccatgctacggcaatcccgacggatc
+            agctggatatgtaccgccggtgaaatcggcgctctgctccttgaagcgcgattaatcaaa
+            gaacaacagccgctgtttaataaacggttgcgccgcaatcgccagctctgtgccctgcaa
+            ttaaatgaaaagcgcgtcgatgtggtgtatgccaaagaggtggatttttcacgagccccc
+            aacctgtttggcctgtttgccaataggcgcgcagctttgcaagcattgcagaccatcgct
+            gatgaacaaaaactttgttatggcctgctgggactggaaccgttaagtcgcggtcgtgca
+            tgttttcgttcagcgctaaaacgttgcgccggagcatgctgcggtaaagagagccatgag
+            gaacatgcgctacgcttgcgccagtctctggagcgtttgcgggtggtgtgttggccttgg
+            caaggggcggtggcgctgaaagaacagcacccggaaatgactcaatatcatattattcaa
+            aactggctgtggctgggggcggttaattcgctggaagaagcgacaacgttaattcggaca
+            cccgccgggtttgatcacgacggttataaaattctttgtaagccgctgctttccggtaac
+            tatgaaattactgaacttgatccggcgaatgaccagcgagccagttga
+///

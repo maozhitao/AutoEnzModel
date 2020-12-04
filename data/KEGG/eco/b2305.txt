@@ -1,0 +1,53 @@
+ENTRY       b2305             CDS       T00007
+NAME        rpnB
+DEFINITION  (RefSeq) recombination-promoting nuclease RpnB
+ORTHOLOGY   K24087  recombination-promoting nuclease RpnB [EC:3.1.21.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2305 (rpnB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.21  Endodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.21.-  
+                 b2305 (rpnB)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              TLS (translesion DNA synthesis) factors
+               Other SOS response factors
+                b2305 (rpnB)
+POSITION    complement(2422649..2423539)
+MOTIF       Pfam: Transposase_31 NepR
+DBLINKS     NCBI-GeneID: 946787
+            NCBI-ProteinID: NP_416808
+            Pasteur: yfcI
+            RegulonDB: ECK120003772
+            ECOCYC: G7197
+            ASAP: ABE-0007607
+            UniProt: P77768
+AASEQ       296
+            MTISTTSTPHDAVFKSFLRHPDTARDFIDIHLPAPLRKLCDLTTLKLEPNSFIDEDLRQY
+            YSDLLWSVKTQEGVGYIYVVIEHQSKPEELMAFRMMRYSIAAMQNHLDAGYKELPLVLPM
+            LFYHGCRSPYPYSLCWLDEFAEPAIARKIYSSAFPLVDITVVPDDEIMQHRKMALLELIQ
+            KHIRQRDLLGLVDQIVSLLVTGNTNDRQLKALFNYVLQTGDAQRFRAFIGEIAERAPQEK
+            EKLMTIADRLREEGAMQGKHEEALRIAQEMLDRGLDRELVMMVTRLSPDDLIAQSH
+NTSEQ       891
+            atgacaatatcgacaacttccacgccgcatgatgcggtatttaaatcttttttacgccat
+            ccagacaccgcgcgggattttattgatattcatcttcccgcgccgctgcgcaaactgtgt
+            gatttaacgacgcttaaactggaaccaaacagttttattgatgaagacctgcggcaatat
+            tattccgacctcttgtggtctgtgaaaacgcaggagggagtgggttatatttatgtagtg
+            atagagcaccaaagtaagccggaagaattaatggcttttcgcatgatgcgttattccatt
+            gcggcaatgcaaaaccatcttgatgcgggctataaagagcttccattggtgctcccgatg
+            ctgttttatcatggttgcagaagtccttatccttattcactctgctggcttgatgaattt
+            gccgagcctgctatagcccgcaaaatatattcatcggcttttccgttggtggatattacc
+            gtggtgccggatgacgagattatgcaacaccgcaaaatggcgctgttggagttaattcag
+            aaacatattcgtcagcgcgatctgttgggattagtcgaccaaattgtttcgctgctagtt
+            acagggaacactaatgacagacagctaaaagccctgtttaattacgtattacaaacaggg
+            gatgcccagcgttttcgtgcatttattggtgagatagcggaacgcgcaccacaagaaaag
+            gagaaactgatgaccattgctgacagattacgtgaagaaggcgcaatgcagggcaaacac
+            gaagaagccctgcgtattgctcaggagatgctggatagaggtttagacagagagttagtt
+            atgatggtgacccgactttcaccagacgatcttatcgcgcaaagccactaa
+///

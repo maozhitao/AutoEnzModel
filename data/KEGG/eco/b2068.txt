@@ -1,0 +1,61 @@
+ENTRY       b2068             CDS       T00007
+NAME        alkA
+DEFINITION  (RefSeq) DNA-3-methyladenine glycosylase 2
+ORTHOLOGY   K01247  DNA-3-methyladenine glycosylase II [EC:3.2.2.21]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03410  Base excision repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03410 Base excision repair
+                b2068 (alkA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2068 (alkA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.2  Hydrolysing N-glycosyl compounds
+                3.2.2.21  DNA-3-methyladenine glycosylase II
+                 b2068 (alkA)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                DNA glycosylases
+                 b2068 (alkA)
+POSITION    complement(2146692..2147540)
+MOTIF       Pfam: AlkA_N HhH-GPD
+DBLINKS     NCBI-GeneID: 947371
+            NCBI-ProteinID: NP_416572
+            Pasteur: alkA
+            RegulonDB: ECK120001200
+            ECOCYC: EG11222
+            ASAP: ABE-0006848
+            UniProt: P04395
+STRUCTURE   PDB: 1MPG 3CWS 3CWT 3CW7 3CWA 3CVS 1PVS 3CVT 1DIZ 3OH9 3OGD
+                 3CWU 3OH6 3D4V
+AASEQ       282
+            MYTLNWQPPYDWSWMLGFLAARAVSSVETVADSYYARSLAVGEYRGVVTAIPDIARHTLH
+            INLSAGLEPVAAECLAKMSRLFDLQCNPQIVNGALGRLGAARPGLRLPGCVDAFEQGVRA
+            ILGQLVSVAMAAKLTARVAQLYGERLDDFPEYICFPTPQRLAAADPQALKALGMPLKRAE
+            ALIHLANAALEGTLPMTIPGDVEQAMKTLQTFPGIGRWTANYFALRGWQAKDVFLPDDYL
+            IKQRFPGMTPAQIRRYAERWKPWRSYALLHIWYTEGWQPDEA
+NTSEQ       849
+            atgtataccctgaactggcagccgccgtatgactggtcgtggatgttgggatttctcgcc
+            gcccgtgcggtgagcagtgtggaaacggtcgcggacagttattatgcccgtagtctggcg
+            gtgggcgaatatcgcggcgtggtgactgctattccggatatagcccgccatactctgcac
+            ataaatttaagtgcaggtttagaacctgttgccgcagagtgtctggcgaaaatgagccgc
+            ctgtttgatctgcaatgtaacccacaaattgttaacggtgcgttgggcaggttaggcgcg
+            gcgcggcccggattgcgtttacccggctgtgttgatgcttttgagcagggcgtgcgggcg
+            attttaggccaactggtgagcgtggcgatggcggcaaaattgaccgccagagtggcacag
+            ctttatggcgaacggctggatgattttccggagtatatctgcttcccgacgcctcagcgg
+            ctggcagcagcagacccgcaggcattaaaagcgttaggtatgccgttgaaacgggcagag
+            gcgctgattcatctggcaaatgcggcgctggagggcaccttaccaatgacaataccgggc
+            gatgtggagcaggcgatgaaaacgctgcaaacttttccgggtatcgggcgctggacggcg
+            aattattttgctttgcgtggctggcaggcgaaagatgttttcctgccggatgattatctg
+            attaaacagcgatttccgggaatgacaccggcgcaaatccgccgttatgccgagcgctgg
+            aagccctggcgttcttatgcgctgttgcatatctggtatacggaaggctggcaaccagac
+            gaagcatga
+///

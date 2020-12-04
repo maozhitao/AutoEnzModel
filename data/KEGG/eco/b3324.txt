@@ -1,0 +1,50 @@
+ENTRY       b3324             CDS       T00007
+NAME        gspC
+DEFINITION  (RefSeq) Type II secretion system protein GspC
+ORTHOLOGY   K02452  general secretion pathway protein C
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3324 (gspC)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3324 (gspC)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              General secretion pathway protein
+               b3324 (gspC)
+POSITION    3455578..3456393
+MOTIF       Pfam: T2SSC PDZ_6
+DBLINKS     NCBI-GeneID: 947824
+            NCBI-ProteinID: NP_417783
+            Pasteur: gspC
+            RegulonDB: ECK120004247
+            ECOCYC: G7702
+            ASAP: ABE-0010877
+            UniProt: P45757
+AASEQ       271
+            MPTLRFPFHLANHNKDAAINILIIFISIGSIIFNVNYFHTTIVKNGQIINQPTNAFQSDF
+            SLAALWRNENHAGVKDANPVAVNQETPKLSIALNGIVLTSNDETSFVLINEGSEQKRYSL
+            NEALESAPGTFIRKINKTSVVFETHGHYEKVTLHPGLPDIIKQPDSESQNVLADYIIATP
+            IRDGEQIYGLRLNPRKGLNAFTTSLLQPGDIALRINNLSLTHPDEVSQALSLLLTQQSAQ
+            FTIRRNGVPRLINVSVGELTGMNGLRHERTQ
+NTSEQ       816
+            gtgcccacactacgtttccccttccatctggcgaatcataataaagatgctgccatcaat
+            atattgattatatttataagcatagggtcgattatttttaatgtgaattatttccataca
+            actatagttaaaaatggacagatcattaatcaaccaacaaacgcatttcagtctgatttc
+            agccttgccgctttatggcgtaacgaaaatcatgctggggtaaaagatgcaaatcccgtg
+            gcagttaatcaggaaacacctaagctctctatagcgcttaatggcattgtactcacatcg
+            aatgatgagacttcttttgtcttaattaatgaggggagcgaacaaaagcgatactccctc
+            aacgaagcccttgagtcagcgccgggaacgtttattagaaaaataaataaaaccagcgtt
+            gtgtttgaaactcacgggcattacgaaaaagtaactctccatccagggctacctgacatc
+            atcaagcagcctgattcagaaagtcaaaatgtactcgctgattatattatcgccacgcct
+            atacgtgatggagaacagatatacgggcttcgattgaaccctcgtaagggcctcaatgca
+            tttaccaccagcttgctacaaccaggggatatcgccctcaggatcaataatctttcgctg
+            acccaccctgatgaggtttcacaggcattaagtttactgctaactcaacaaagtgctcag
+            tttacaattcgtcgcaacggcgtaccccgcttgataaatgtttccgtcggggaacttaca
+            ggaatgaatggactgcgtcatgaaaggactcaataa
+///

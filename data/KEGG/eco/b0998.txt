@@ -1,0 +1,59 @@
+ENTRY       b0998             CDS       T00007
+NAME        torD
+DEFINITION  (RefSeq) trimethylamine-N-oxide reductase-specific chaperone
+ORTHOLOGY   K03533  TorA specific chaperone
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00680  Methane metabolism
+            eco01100  Metabolic pathways
+            eco01120  Microbial metabolism in diverse environments
+            eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00680 Methane metabolism
+                b0998 (torD)
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0998 (torD)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b0998 (torD)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0998 (torD)
+            Chaperones and folding catalysts [BR:eco03110]
+             Other chaperones and cochaperones
+              Others
+               b0998 (torD)
+            Transporters [BR:eco02000]
+             Other transporters
+              Transmembrane electron carriers [TC:5]
+               b0998 (torD)
+POSITION    1061799..1062398
+MOTIF       Pfam: Nitrate_red_del Haem_oxygenas_2
+DBLINKS     NCBI-GeneID: 945625
+            NCBI-ProteinID: NP_415518
+            Pasteur: torD
+            RegulonDB: ECK120002084
+            ECOCYC: EG12195
+            ASAP: ABE-0003374
+            UniProt: P36662
+AASEQ       199
+            MTTLTAQQIACVYAWLAQLFSRELDDEQLTQIASAQMAEWFSLLKSEPPLTAAVNELENR
+            IATLTVRDDARLELAADFCGLFLMTDKQAALPYASAYKQDEQEIKRLLVEAGMETSGNFN
+            EPADHLAIYLELLSHLHFSLGEGTVPARRIDSLRQKTLTALWQWLPEFVARCRQYDSFGF
+            YAALSQLLLVLVECDHQNR
+NTSEQ       600
+            atgaccacgctgacagcacaacagattgcctgtgtttacgcctggctagcgcagttgttc
+            tcccgtgagctggacgatgaacaactgacgcaaatcgccagtgcgcagatggctgaatgg
+            ttttcgttgctgaaaagcgaaccgccgctcactgcggcggtgaacgagctggaaaaccgt
+            attgccacgctgacagtacgtgacgatgcccgtctggaactggccgcggacttttgcggc
+            ctgtttctgatgaccgacaaacaagcggcgctgccgtatgcatcggcctacaaacaggac
+            gagcaagagattaaacgcttgttagttgaggcagggatggaaaccagcggcaatttcaac
+            gaaccggcagatcatctggcgatctatctcgaattgctcagccatctgcatttttcgctg
+            ggagaggggaccgttcctgcgcgaagaatcgacagtttgcggcaaaaaacactgacggcg
+            ctgtggcaatggttaccagagtttgttgcgcgttgtcgtcagtatgacagctttggtttt
+            tacgcggcactaagccagttattgctggtgttagtggagtgcgaccaccaaaacagataa
+///

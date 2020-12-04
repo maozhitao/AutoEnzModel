@@ -1,0 +1,34 @@
+ENTRY       b3203             CDS       T00007
+NAME        hpf
+DEFINITION  (RefSeq) ribosome hibernation-promoting factor
+ORTHOLOGY   K05808  putative sigma-54 modulation protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b3203 (hpf)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              Other maturation factors
+               b3203 (hpf)
+POSITION    3346173..3346460
+MOTIF       Pfam: Ribosomal_S30AE
+DBLINKS     NCBI-GeneID: 947718
+            NCBI-ProteinID: NP_417670
+            Pasteur: yhbH
+            RegulonDB: ECK120001624
+            ECOCYC: EG11681
+            ASAP: ABE-0010516
+            UniProt: P0AFX0
+STRUCTURE   PDB: 2RQL
+AASEQ       95
+            MQLNITGNNVEITEALREFVTAKFAKLEQYFDRINQVYVVLKVEKVTHTSDATLHVNGGE
+            IHASAEGQDMYAAIDGLIDKLARQLTKHKDKLKQH
+NTSEQ       288
+            atgcagctcaacattaccggaaataacgtcgagatcaccgaggcactgcgcgaatttgtt
+            acagccaaatttgccaaacttgagcaatattttgaccgaatcaaccaggtctatgttgtt
+            ctgaaagtggagaaagtcacccacacctcagatgcaacactgcatgtaaacggtggtgaa
+            attcatgccagcgcggaaggtcaggacatgtacgctgccattgatggcttaattgataag
+            ctggcacgccagttgaccaaacataaagataaactgaaacaacactaa
+///

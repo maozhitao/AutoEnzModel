@@ -1,0 +1,60 @@
+ENTRY       b3357             CDS       T00007
+NAME        crp
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator CRP
+ORTHOLOGY   K10914  CRP/FNR family transcriptional regulator, cyclic AMP receptor protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02024  Quorum sensing
+            eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b3357 (crp)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b3357 (crp)
+               02026 Biofilm formation - Escherichia coli
+                b3357 (crp)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b3357 (crp)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               CRP/FNR family
+                b3357 (crp)
+POSITION    3486120..3486752
+MOTIF       Pfam: cNMP_binding HTH_Crp_2 Crp HTH_23 RepL HTH_36 MarR_2 MarR HTH_24 Sigma70_r4 HTH_7 HTH_11 HTH_38 HhH-GPD RPA_C
+DBLINKS     NCBI-GeneID: 947867
+            NCBI-ProteinID: NP_417816
+            Pasteur: crp
+            RegulonDB: ECK120000160
+            ECOCYC: EG10164
+            ASAP: ABE-0010970
+            UniProt: P0ACJ8
+STRUCTURE   PDB: 4R8H 4HZF 4I0B 3RYP 3KCC 4I02 1HW5 1I5Z 3QOP 4FT8 4I09
+                 3ROU 1ZRF 1G6N 4N9I 4N9H 4I0A 1I6X 2CGP 2GZW 4I01 3FWE
+                 1J59 3RPQ 3RYR 1RUN 1RUO 1ZRC 1ZRD 1ZRE 1O3T 3RDI 3N4M
+                 1O3Q 1O3R 1O3S 1CGP 1LB2 3HIF 6B6H 5CIZ 3IYD 4BHP 4BH9
+                 2WC2
+AASEQ       210
+            MVLGKPQTDPTLEWFLSHCHIHKYPSKSTLIHQGEKAETLYYIVKGSVAVLIKDEEGKEM
+            ILSYLNQGDFIGELGLFEEGQERSAWVRAKTACEVAEISYKKFRQLIQVNPDILMRLSAQ
+            MARRLQVTSEKVGNLAFLDVTGRIAQTLLNLAKQPDAMTHPDGMQIKITRQEIGQIVGCS
+            RETVGRILKMLEDQNLISAHGKTIVVYGTR
+NTSEQ       633
+            atggtgcttggcaaaccgcaaacagacccgactctcgaatggttcttgtctcattgccac
+            attcataagtacccatccaagagcacgcttattcaccagggtgaaaaagcggaaacgctg
+            tactacatcgttaaaggctctgtggcagtgctgatcaaagacgaagagggtaaagaaatg
+            atcctctcctatctgaatcagggtgattttattggcgaactgggcctgtttgaagagggc
+            caggaacgtagcgcatgggtacgtgcgaaaaccgcctgtgaagtggctgaaatttcgtac
+            aaaaaatttcgccaattgattcaggtaaacccggacattctgatgcgtttgtctgcacag
+            atggcgcgtcgtctgcaagtcacttcagagaaagtgggcaacctggcgttcctcgacgtg
+            acgggccgcattgcacagactctgctgaatctggcaaaacaaccagacgctatgactcac
+            ccggacggtatgcaaatcaaaattacccgtcaggaaattggtcagattgtcggctgttct
+            cgtgaaaccgtgggacgcattctgaagatgctggaagatcagaacctgatctccgcacac
+            ggtaaaaccatcgtcgtttacggcactcgttaa
+///

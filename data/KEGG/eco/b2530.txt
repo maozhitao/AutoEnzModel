@@ -1,0 +1,89 @@
+ENTRY       b2530             CDS       T00007
+NAME        iscS
+DEFINITION  (RefSeq) cysteine desulfurase
+ORTHOLOGY   K04487  cysteine desulfurase [EC:2.8.1.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00730  Thiamine metabolism
+            eco01100  Metabolic pathways
+            eco04122  Sulfur relay system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00730 Thiamine metabolism
+                b2530 (iscS)
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04122 Sulfur relay system
+                b2530 (iscS)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b2530 (iscS)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b2530 (iscS)
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b2530 (iscS)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.8  Transferring sulfur-containing groups
+               2.8.1  Sulfurtransferases
+                2.8.1.7  cysteine desulfurase
+                 b2530 (iscS)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              tRNA modification factors
+               Thiolation factors
+                b2530 (iscS)
+             Prokaryotic type
+                b2530 (iscS)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial quality control factors
+              Regulator of mitochondrial biogenesis
+               Proteins involved in Fe-S cluster biogenesis
+                b2530 (iscS)
+            Prokaryotic defense system [BR:eco02048]
+             DNA phosphothiolation system
+              Sulfur modification proteins
+               b2530 (iscS)
+POSITION    complement(2660317..2661531)
+MOTIF       Pfam: Aminotran_5 Cys_Met_Meta_PP Beta_elim_lyase DegT_DnrJ_EryC1
+DBLINKS     NCBI-GeneID: 947004
+            NCBI-ProteinID: YP_026169
+            Pasteur: yfhO
+            RegulonDB: ECK120003897
+            ECOCYC: G7325
+            ASAP: ABE-0008324
+            UniProt: P0A6B7
+STRUCTURE   PDB: 3LVM 1P3W 3LVJ 3LVK 3LVL
+AASEQ       404
+            MKLPIYLDYSATTPVDPRVAEKMMQFMTMDGTFGNPASRSHRFGWQAEEAVDIARNQIAD
+            LVGADPREIVFTSGATESDNLAIKGAANFYQKKGKHIITSKTEHKAVLDTCRQLEREGFE
+            VTYLAPQRNGIIDLKELEAAMRDDTILVSIMHVNNEIGVVQDIAAIGEMCRARGIIYHVD
+            ATQSVGKLPIDLSQLKVDLMSFSGHKIYGPKGIGALYVRRKPRVRIEAQMHGGGHERGMR
+            SGTLPVHQIVGMGEAYRIAKEEMATEMERLRGLRNRLWNGIKDIEEVYLNGDLEHGAPNI
+            LNVSFNYVEGESLIMALKDLAVSSGSACTSASLEPSYVLRALGLNDELAHSSIRFSLGRF
+            TTEEEIDYTIELVRKSIGRLRDLSPLWEMYKQGVDLNSIEWAHH
+NTSEQ       1215
+            atgaaattaccgatttatctcgactactccgcaaccacgccggtggacccgcgtgttgcc
+            gagaaaatgatgcagtttatgacgatggacggaacctttggtaacccggcctcccgttct
+            caccgtttcggctggcaggctgaagaagcggtagatatcgcccgtaatcagattgccgat
+            ctggtcggcgctgatccgcgtgaaatcgtctttacctctggtgcaaccgaatctgacaac
+            ctggcgatcaaaggtgcagccaacttttatcagaaaaaaggcaagcacatcatcaccagc
+            aaaaccgaacacaaagcggtactggatacctgccgtcagctggagcgcgaaggttttgaa
+            gtcacctacctggcaccgcagcgtaacggcattatcgacctgaaagaacttgaagcagcg
+            atgcgtgacgacaccatcctcgtgtccatcatgcacgtaaataacgaaatcggcgtggtg
+            caggatatcgcggctatcggcgaaatgtgccgtgctcgtggcattatctatcacgttgat
+            gcaacccagagcgtgggtaaactgcctatcgacctgagccagttgaaagttgacctgatg
+            tctttctccggtcacaaaatctatggcccgaaaggtatcggtgcgctgtatgtacgtcgt
+            aaaccgcgcgtacgcatcgaagcgcaaatgcacggcggcggtcacgagcgcggtatgcgt
+            tccggcactctgcctgttcaccagatcgtcggaatgggcgaggcctatcgcatcgcaaaa
+            gaagagatggcgaccgagatggaacgtctgcgcggcctgcgtaaccgtctgtggaacggc
+            atcaaagatatcgaagaagtttacctgaacggtgacctggaacacggtgcgccgaacatt
+            ctcaacgtcagcttcaactacgttgaaggtgagtcgctgattatggcgctgaaagacctc
+            gcagtttcttcaggttccgcctgtacgtcagcaagcctcgaaccgtcctacgtgctgcgc
+            gcgctggggctgaacgacgagctggcacatagctctatccgtttctctttaggtcgtttt
+            actactgaagaagagatcgactacaccatcgagttagttcgtaaatccatcggtcgtctg
+            cgtgacctttctccgctgtgggaaatgtacaagcagggcgtggatctgaacagcatcgaa
+            tgggctcatcattaa
+///

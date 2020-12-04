@@ -1,0 +1,58 @@
+ENTRY       b3333             CDS       T00007
+NAME        gspL
+DEFINITION  (RefSeq) Type II secretion system protein GspL
+ORTHOLOGY   K02461  general secretion pathway protein L
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3333 (gspL)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3333 (gspL)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              General secretion pathway protein
+               b3333 (gspL)
+POSITION    3463922..3465085
+MOTIF       Pfam: T2SSL GspL_C
+DBLINKS     NCBI-GeneID: 947842
+            NCBI-ProteinID: NP_417792
+            Pasteur: gspL
+            RegulonDB: ECK120004256
+            ECOCYC: G7711
+            ASAP: ABE-0010896
+            UniProt: P45763
+AASEQ       387
+            MPESLMVIRSSSTLRKHWEWMTFSADSVSSVHTLTDDLPLESLADQPGAGNVHLLIPPEG
+            LLYRSLTLPNAKYKLTAQTLQWLAEETLPDNTQDWHWTVVDKQNESVEVIGIQSEKLSRY
+            LERLHTAGLNVTRVLPDGCYLPWEVDSWTLVNQQTSWLIRSAAHAFNELDEHWLQHLAAQ
+            FPPENMLCYGVVPHGVAAANPLIQHPEIPSLSLYSADIAFQRYDMLHGIFRKQKTVSKSG
+            KWLARLAVSCLVLAILSFVGSRSIALWHTLKIEDQLQQQQQETWQRYFPQIKRTHNFRFY
+            FKQQLAQQYPEAVPLLYHLQTLLLEHPELQLMEANYSQKQKSLTLKMSAKSEANIDRFCE
+            LTQSWLPMEKTEKDPVSGVWTVRNSGK
+NTSEQ       1164
+            atgcctgaatcgttgatggtcatacgttcttcctcgacgctgcgtaagcattgggaatgg
+            atgacgttctccgcagatagcgtatcttcggtacatacgctcacggacgatcttccgctg
+            gagtcgctggccgatcagcccggtgccggaaatgttcatcttttgatcccaccagagggc
+            cttttatatcgttccctcacgctgcccaacgccaaatacaaactcaccgcacaaacatta
+            caatggctggcagaggagacgttacccgacaacacccaggactggcactggacggttgtc
+            gataaacaaaacgaaagtgtcgaggtgataggcattcagtcggagaaactcagtcgctat
+            cttgagcgtttacatactgccggactcaacgtgacgcgggttttgccagatggctgctat
+            cttccctgggaagtagatagctggactctggttaaccagcaaacaagctggctcattcgc
+            agtgccgcacatgccttcaacgaactggatgaacactggttacagcatcttgctgcccag
+            tttccgcctgagaatatgctttgttatggtgtagtacctcacggcgttgcagcggccaat
+            ccacttatccagcatcctgaaataccatcactgagtttgtattctgccgatattgcattc
+            cagcgctatgacatgctgcatggtatttttcgtaaacagaaaactgtaagcaaatcggga
+            aaatggctcgcccgcctggcagtaagctgtctcgttctcgccattctttcttttgttggc
+            agccggagcatcgcgctctggcatacgcttaagattgaagatcaacttcagcaacaacag
+            caagaaacctggcaacgttatttcccgcagatcaaacgcacccacaattttcgtttttac
+            tttaagcagcaactcgctcagcaatatcctgaagctgtgccgttgctctatcatttacaa
+            acacttctgctggaacaccctgaactgcagttaatggaggcgaactatagccagaagcaa
+            aagtcgctgaccttaaaaatgagtgctaagagtgaagctaatatcgatcgtttctgtgag
+            ttaacacagtcctggcttccgatggaaaaaacagaaaaagatccggtcagtggtgtatgg
+            acagtaaggaactcagggaaatga
+///

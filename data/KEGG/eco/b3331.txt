@@ -1,0 +1,45 @@
+ENTRY       b3331             CDS       T00007
+NAME        gspJ
+DEFINITION  (RefSeq) Type II secretion system protein GspJ
+ORTHOLOGY   K02459  general secretion pathway protein J
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3331 (gspJ)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3331 (gspJ)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              General secretion pathway protein
+               b3331 (gspJ)
+POSITION    3462344..3462931
+MOTIF       Pfam: N_methyl T2SSJ DUF4525 Col_cuticle_N
+DBLINKS     NCBI-GeneID: 947832
+            NCBI-ProteinID: NP_417790
+            Pasteur: gspJ
+            RegulonDB: ECK120004254
+            ECOCYC: G7709
+            ASAP: ABE-0010892
+            UniProt: P45761
+AASEQ       195
+            MINRQQGFTLLEVMAALAIFSMLSVLAFMIFSQASELHQRSQKEIQQFNQLQRTITILDN
+            DLLQLVARRNRSTDKIMVLGEEAIFTTQSRDPLAPLSEAQTLLTVHWYLRNHTLYRAVRT
+            SVDGRKDQPAQAMLEHVESFLLESNSGESQELPLSVTLHLQTQQYGGLQRRFALPEQLAR
+            EESPAQTQAGNNNHE
+NTSEQ       588
+            atgattaatcgccagcagggtttcacattgctggaggtcatggcggcgctggcgattttc
+            tcaatgcttagcgtgctggcgtttatgattttttcgcaagcttccgagttgcatcaacgc
+            tcacagaaagaaatccagcagttcaatcagctacagcgcaccatcaccattcttgataac
+            gatctcctgcaactggtcgcccggaggaatcggagtacggacaaaatcatggtgttgggt
+            gaagaagctatttttaccacgcaaagtcgcgatccgctggctcctctcagtgaagcacaa
+            accttactcactgttcactggtatctgcgaaatcatacgctctaccgtgctgttcgtact
+            tctgtggatggcaggaaggatcaacccgcccaggcgatgctggaacatgtcgagagcttt
+            cttctggaaagtaacagcggggaaagccaggaacttcctctctcagtcacgttacatctg
+            cagactcagcaatatggggggttacagcgccgttttgcattacctgagcagttagcgaga
+            gaagagtcgccagctcagacgcaggccgggaataataaccatgaataa
+///

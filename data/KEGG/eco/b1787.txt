@@ -1,0 +1,45 @@
+ENTRY       b1787             CDS       T00007
+NAME        yeaK
+DEFINITION  (RefSeq) mischarged aminoacyl-tRNA deacylase
+ORTHOLOGY   K19055  Ala-tRNA(Pro) deacylase [EC:3.1.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b1787 (yeaK)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.-  
+                 b1787 (yeaK)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Trans-editing factors
+                b1787 (yeaK)
+POSITION    1873574..1874077
+MOTIF       Pfam: tRNA_edit
+DBLINKS     NCBI-GeneID: 946303
+            NCBI-ProteinID: NP_416301
+            Pasteur: yeaK
+            RegulonDB: ECK120003560
+            ECOCYC: G6973
+            ASAP: ABE-0005945
+            UniProt: P64483
+AASEQ       167
+            MTEMAKGSVTHQRLIALLSQEGADFRVVTHEAVGKCEAVSEIRGTALGQGAKALVCKVKG
+            NGVNQHVLAILAADQQADLSQLASHIGGLRASLASPAEVDELTGCVFGAIPPFSFHPKLK
+            LVADPLLFERFDEIAFNAGMLDKSVILKTADYLRIAQPELVNFRRTA
+NTSEQ       504
+            atgactgaaatggctaaaggaagcgtgacgcatcagcggttaatcgctttattatcacaa
+            gaaggtgctgacttccgcgtcgttacccatgaagcggtaggtaaatgtgaagcggtgtca
+            gaaattcgtggcaccgctctaggccagggtgctaaggcactggtatgtaaagtcaaaggc
+            aatggcgtaaatcaacatgttctggcgatcctcgcagccgatcaacaggccgatctgagc
+            caactcgccagccatataggcggattacgcgcttcgttggccagcccggcggaagtcgat
+            gaactcacaggctgtgtcttcggcgcgatcccccctttcagcttccatccaaaactcaaa
+            ctggttgccgaccctctactcttcgaacgatttgatgaaatcgccttcaatgcaggcatg
+            ctggataaatccgttattttgaaaaccgcggattatttgcgcattgcgcaaccagaactg
+            gtcaatttccgccgcactgcgtaa
+///

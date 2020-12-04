@@ -1,0 +1,76 @@
+ENTRY       b1023             CDS       T00007
+NAME        pgaB
+DEFINITION  (RefSeq) poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase and beta-1,6 glycoside hydrolase
+ORTHOLOGY   K11931  poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase [EC:3.5.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b1023 (pgaB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.-  
+                 b1023 (pgaB)
+POSITION    complement(1087839..1089857)
+MOTIF       Pfam: GHL13 Polysacc_deac_1 GHL10
+DBLINKS     NCBI-GeneID: 945604
+            NCBI-ProteinID: NP_415542
+            Pasteur: ycdR
+            RegulonDB: ECK120003128
+            ECOCYC: G6530
+            ASAP: ABE-0003467
+            UniProt: P75906
+STRUCTURE   PDB: 4P7O 4P7Q 3VUS 4P7L 4P7R 4P7N 4F9D 4F9J
+AASEQ       672
+            MLRNGNKYLLMLVSIIMLTACISQSRTSFIPPQDRESLLAEQPWPHNGFVAISWHNVEDE
+            AADQRFMSVRTSALREQFAWLRENGYQPVSIAQIREAHRGGKPLPEKAVVLTFDDGYQSF
+            YTRVFPILQAFQWPAVWAPVGSWVDTPADKQVKFGDELVDREYFATWQQVREVARSRLVE
+            LASHTWNSHYGIQANATGSLLPVYVNRAYFTDHARYETAAEYRERIRLDAVKMTEYLRTK
+            VEVNPHVFVWPYGEANGIAIEELKKLGYDMFFTLESGLANASQLDSIPRVLIANNPSLKE
+            FAQQIITVQEKSPQRIMHIDLDYVYDENLQQMDRNIDVLIQRVKDMQISTVYLQAFADPD
+            GDGLVKEVWFPNRLLPMKADIFSRVAWQLRTRSGVNIYAWMPVLSWDLDPTLTRVKYLPT
+            GEKKAQIHPEQYHRLSPFDDRVRAQVGMLYEDLAGHAAFDGILFHDDALLSDYEDASAPA
+            ITAYQQAGFSGSLSEIRQNPEQFKQWARFKSRALTDFTLELSARVKAIRGPHIKTARNIF
+            ALPVIQPESEAWFAQNYADFLKSYDWTAIMAMPYLEGVAEKSADQWLIQLTNQIKNIPQA
+            KDKSILELQAQNWQKNGQHQAISSQQLAHWMSLLQLNGVKNYGYYPDNFLHNQPEIDLIR
+            PEFSTAWYPKND
+NTSEQ       2019
+            atgttacgtaatggaaataaatatctcctgatgctggtgagtataattatgctcaccgcg
+            tgcattagccagtcaagaacatcatttataccgccacaggatcgcgaatctttactcgcc
+            gagcaaccgtggccgcataatggttttgtagcgatttcatggcataacgttgaagacgaa
+            gctgccgaccagcgttttatgtcagtgcggacatcagcactgcgtgaacaatttgcctgg
+            ctgcgcgagaacggttatcaaccggtcagtattgctcaaattcgtgaagcacatcgagga
+            ggaaaaccgctaccggaaaaagctgtagtgctgacttttgatgacggctaccagagtttt
+            tatacccgcgtcttcccaattcttcaggccttccagtggcctgctgtatgggcccccgtc
+            ggcagttgggtcgatacgccagcggataaacaagtaaaatttggcgatgagttggtcgat
+            cgagaatattttgccacgtggcaacaagtgcgagaagttgcgcgttcccggctcgttgag
+            ctcgcttctcatacatggaattctcactacggtattcaggctaatgccaccggcagctta
+            ttgcctgtatatgtaaatcgtgcatattttactgaccacgcacggtatgaaaccgcagca
+            gaataccgggaaagaattcgtctggatgctgtaaaaatgacggaatacctgcgtacaaag
+            gttgaggtaaatccacacgtttttgtttggccttatggcgaagcgaatggcatagcgata
+            gaggaattaaaaaaactcggttatgacatgttcttcacccttgaatcaggtttggcaaat
+            gcgtcgcaattggattccattccgcgggtattaatcgccaataatccctcattaaaagag
+            tttgcccagcaaattattaccgtacaggaaaaatcaccacaacggataatgcatatcgat
+            cttgattacgtttatgacgaaaacctccagcaaatggatcgcaatattgatgtgctaatt
+            cagcgggtgaaagatatgcaaatatcaaccgtgtatttgcaggcatttgctgatcccgat
+            ggtgatgggctggtcaaagaggtctggtttccaaatcgtttgctaccaatgaaagcagat
+            atttttagtcgggttgcctggcaattacgtacccgctcaggtgtaaacatctatgcgtgg
+            atgccggtattaagctgggatttagatcccacattaacgcgagtaaaatacttaccaaca
+            ggggagaaaaaagcacaaattcatcctgaacaatatcaccgtctctctcctttcgatgac
+            agagtcagagcacaagttggcatgttatatgaagatcttgccggacatgctgcttttgat
+            ggcatattgttccacgatgatgctttgctttcagattatgaagatgccagtgcaccggct
+            atcacggcttatcagcaagcaggctttagcgggagtctgagcgaaattcgacaaaacccg
+            gagcaatttaaacagtgggcccgctttaaaagtcgtgcgttaactgacttcactttagaa
+            cttagtgcgcgcgtaaaagccattcgcggtccacatattaaaactgcacgaaatattttt
+            gcacttccggtaatacaacctgaaagtgaagcctggtttgcacagaattatgctgatttc
+            ctaaaaagctatgactggaccgctattatggctatgccttatctggaaggtgtcgcagaa
+            aaatcggctgaccaatggttaatacaattgaccaatcaaattaaaaacatccctcaggct
+            aaagacaaatctattttagaattacaggcacaaaactggcagaaaaatggtcagcatcag
+            gctatttcttcgcaacaactcgctcactggatgagcctattacaactgaatggagtgaaa
+            aactatggttattatcccgacaattttctgcataaccaacctgaaatagaccttattcgt
+            cctgagttttcaacagcctggtatccgaaaaatgattaa
+///

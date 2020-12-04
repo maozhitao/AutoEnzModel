@@ -1,0 +1,54 @@
+ENTRY       b0396             CDS       T00007
+NAME        araJ
+DEFINITION  (RefSeq) putative transport protein AraJ
+ORTHOLOGY   K08156  MFS transporter, DHA1 family, arabinose polymer utilization protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0396 (araJ)
+            Transporters [BR:eco02000]
+             Major facilitator superfamily (MFS)
+              Drug transporters
+               Drug:H+ antiporter-1 (12 spanner) (DHA1) family [TC:2.A.1.2]
+                b0396 (araJ)
+POSITION    complement(411297..412481)
+MOTIF       Pfam: MFS_1 Sugar_tr
+DBLINKS     NCBI-GeneID: 949077
+            NCBI-ProteinID: NP_414930
+            Pasteur: araJ
+            RegulonDB: ECK120000056
+            ECOCYC: EG10060
+            ASAP: ABE-0001378
+            UniProt: P23910
+AASEQ       394
+            MKKVILSLALGTFGLGMAEFGIMGVLTELAHNVGISIPAAGHMISYYALGVVVGAPIIAL
+            FSSRYSLKHILLFLVALCVIGNAMFTLSSSYLMLAIGRLVSGFPHGAFFGVGAIVLSKII
+            KPGKVTAAVAGMVSGMTVANLLGIPLGTYLSQEFSWRYTFLLIAVFNIAVMASVYFWVPD
+            IRDEAKGNLREQFHFLRSPAPWLIFAATMFGNAGVFAWFSYVKPYMMFISGFSETAMTFI
+            MMLVGLGMVLGNMLSGRISGRYSPLRIAAVTDFIIVLALLMLFFCGGMKTTSLIFAFICC
+            AGLFALSAPLQILLLQNAKGGELLGAAGGQIAFNLGSAVGAYCGGMMLTLGLAYNYVALP
+            AALLSFAAMSSLLLYGRYKRQQAADTPVLAKPLG
+NTSEQ       1185
+            atgaaaaaagtcattttatctttggctctgggcacgtttggtttggggatggccgaattt
+            ggcattatgggcgtgctcacggagctggcgcataacgtaggaatttcgattcctgccgcc
+            gggcatatgatctcgtattatgcactgggggtggtggtcggtgcgccaatcatcgcactc
+            ttttccagccgctactcactcaaacatatcttgttgtttctggtggcgttgtgcgtcatt
+            ggcaacgccatgttcacgctctcttcgtcttacctgatgctcgccattggtcggctggta
+            tccggctttccgcatggcgcattttttggcgtcggagcgatcgtgttatcaaaaattatc
+            aaacccggaaaagtcaccgccgccgtggcggggatggtttccgggatgacagtcgccaat
+            ttgctgggcattccgctgggaacgtatttaagtcaggaatttagctggcgttacaccttt
+            ttattgatcgctgtttttaatattgcggtgatggcatcggtctatttttgggtgccagat
+            attcgcgacgaggcgaaaggaaatctgcgcgaacaatttcactttttgcgcagcccggcc
+            ccgtggttaattttcgccgccacgatgtttggcaacgcaggtgtgtttgcctggttcagc
+            tacgtaaagccatacatgatgtttatttccggtttttcggaaacggcgatgacctttatt
+            atgatgttagttgggctagggatggtgctgggaaatatgctaagtggcaggatttcagga
+            cgttattcaccactgcgcattgcagcagtgactgactttataattgtactggcactgctg
+            atgctctttttctgcggcggcatgaaaacaacgtcgcttatttttgcttttatttgttgc
+            gcgggattatttgccctttcagcaccgctacaaatattgttactacaaaacgccaaaggc
+            ggagagttattaggtgccgcaggtgggcaaatagcgtttaacctcggtagcgccgtcggc
+            gcatattgcggaggtatgatgctgacgctggggctggcatataattacgtggcgctgcct
+            gccgccctgctttcgtttgctgcgatgtcgtcgttgctgctgtatggtcgctataagcgc
+            cagcaagcggcggatactccggtgctggcgaaaccactggggtag
+///

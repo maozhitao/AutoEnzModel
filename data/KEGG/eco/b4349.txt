@@ -1,0 +1,69 @@
+ENTRY       b4349             CDS       T00007
+NAME        hsdM
+DEFINITION  (RefSeq) type I restriction enzyme EcoKI methyltransferase component
+ORTHOLOGY   K03427  type I restriction enzyme M protein [EC:2.1.1.72]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4349 (hsdM)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.72  site-specific DNA-methyltransferase (adenine-specific)
+                 b4349 (hsdM)
+            Prokaryotic defense system [BR:eco02048]
+             Restriction and modification system (R-M system)
+              Type I R-M system
+               b4349 (hsdM)
+POSITION    complement(4581459..4583048)
+MOTIF       Pfam: N6_Mtase HsdM_N
+DBLINKS     NCBI-GeneID: 948872
+            NCBI-ProteinID: NP_418769
+            Pasteur: hsdM
+            RegulonDB: ECK120000451
+            ECOCYC: EG10458
+            ASAP: ABE-0014260
+            UniProt: P08957
+STRUCTURE   PDB: 2AR0 2Y7C 2Y7H
+AASEQ       529
+            MNNNDLVAKLWKLCDNLRDGGVSYQNYVNELASLLFLKMCKETGQEAEYLPEGYRWDDLK
+            SRIGQEQLQFYRKMLVHLGEDDKKLVQAVFHNVSTTITEPKQITALVSNMDSLDWYNGAH
+            GKSRDDFGDMYEGLLQKNANETKSGAGQYFTPRPLIKTIIHLLKPQPREVVQDPAAGTAG
+            FLIEADRYVKSQTNDLDDLDGDTQDFQIHRAFIGLELVPGTRRLALMNCLLHDIEGNLDH
+            GGAIRLGNTLGSDGENLPKAHIVATNPPFGSAAGTNITRTFVHPTSNKQLCFMQHIIETL
+            HPGGRAAVVVPDNVLFEGGKGTDIRRDLMDKCHLHTILRLPTGIFYAQGVKTNVLFFTKG
+            TVANPNQDKNCTDDVWVYDLRTNMPSFGKRTPFTDEHLQPFERVYGEDPHGLSPRTEGEW
+            SFNAEETEVADSEENKNTDQHLATSRWRKFSREWIRTAKSDSLDISWLKDKDSIDADSLP
+            EPDVLAAEAMGELVQALSELDALMRELGASDEADLQRQLLEEAFGGVKE
+NTSEQ       1590
+            atgaacaataacgatctggtcgcgaagctgtggaagctgtgcgacaacctgcgcgatggc
+            ggcgtttcctatcaaaactacgtcaatgaactcgcctcgctgctgtttttgaaaatgtgt
+            aaagagaccggtcaggaagcggaatacctgccggaaggttaccgctgggatgacctgaaa
+            tcccgcatcggccaggagcagttgcagttctaccgaaaaatgctcgtgcatttaggcgaa
+            gatgacaaaaagctggtacaggcagtttttcataatgttagtaccaccatcaccgagccg
+            aaacaaataaccgcactggtcagcaatatggattcgctggactggtacaacggcgcgcac
+            ggtaagtcgcgcgatgacttcggcgatatgtacgaagggctgttgcagaagaacgcgaat
+            gaaaccaagtctggtgcaggccagtacttcaccccgcgtccgctgattaaaaccattatt
+            catctgctgaaaccgcagccgcgtgaagtggtgcaggacccggcggcaggtacggcgggc
+            tttttgattgaagccgaccgctatgttaagtcgcaaaccaatgatctggacgaccttgat
+            ggcgacacgcaggatttccagatccaccgcgcgtttatcggcctcgaactggtgcccggc
+            acccgtcgtctggcactgatgaactgcctgctgcacgatattgaaggcaacctcgaccac
+            ggcggcgcaatccgtctgggcaacactctgggtagcgacggtgaaaacctgccgaaggcg
+            catattgtcgccactaacccgccgtttggcagcgccgcaggcaccaacattacccgcacc
+            tttgttcacccgaccagcaacaaacagttgtgctttatgcagcatattatcgaaacgctg
+            catcccggcggtcgtgcggcggtggtggtgccggataacgtgctgtttgaaggcggcaaa
+            ggcaccgacattcgtcgtgacctgatggataagtgtcatctgcacaccattctgcgtctg
+            ccgaccggtattttttacgctcagggcgtgaagaccaacgtgctgttctttaccaaaggg
+            acggtggcgaacccgaatcaggataagaactgtaccgatgatgtgtgggtgtatgacctg
+            cgtaccaatatgccgagtttcggcaagcgcacaccgtttaccgacgagcatttgcagccg
+            tttgagcgcgtgtatggcgaagacccgcacggtttaagcccgcgcactgaaggtgaatgg
+            agttttaacgccgaagagacggaagttgccgacagcgaagagaacaaaaacaccgaccag
+            catcttgctaccagccgctggcgcaagttcagccgtgagtggatccgcaccgcaaaatcc
+            gattcgctggatatctcctggctgaaagataaagacagtattgatgccgacagcctgccg
+            gagccggatgtattagcggcagaagcgatgggcgaactggtacaggcgctgtctgaactg
+            gatgcgctgatgcgtgaactgggggcgagcgatgaggccgatttgcagcgtcagttgctg
+            gaagaagcgtttggtggggtgaaggaatga
+///

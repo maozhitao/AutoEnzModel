@@ -1,0 +1,30 @@
+ENTRY       b4453             CDS       T00007
+NAME        ldrD
+DEFINITION  (RefSeq) small toxic polypeptide LdrD
+ORTHOLOGY   K18862  small toxic polypeptide LdrA/B/C/D
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4453 (ldrD)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               Ldr-Rdl
+                b4453 (ldrD)
+POSITION    complement(3699980..3700087)
+MOTIF       Pfam: Ldr_toxin DUF4396
+DBLINKS     NCBI-GeneID: 2847730
+            NCBI-ProteinID: YP_026227
+            RegulonDB: ECK120002626
+            ECOCYC: G0-9041
+            ASAP: ABE-0047284
+            UniProt: Q6BF25
+STRUCTURE   PDB: 5LBJ
+AASEQ       35
+            MTFAELGMAFWHDLAAPVIAGILASMIVNWLNKRK
+NTSEQ       108
+            atgacgttcgcagagctgggcatggccttctggcatgatttagcggctccggtcattgct
+            ggcattcttgccagtatgatcgtgaactggctgaacaagcggaagtaa
+///

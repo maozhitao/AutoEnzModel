@@ -1,0 +1,50 @@
+ENTRY       b2127             CDS       T00007
+NAME        mlrA
+DEFINITION  (RefSeq) DNA-binding transcriptional activator MlrA
+ORTHOLOGY   K21089  MerR family transcriptional regulator, activator of the csg genes
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b2127 (mlrA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b2127 (mlrA)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               MerR family
+                b2127 (mlrA)
+POSITION    2214866..2215597
+MOTIF       Pfam: MerR_1 MerR HTH_17 Terminase_5 Ad_Cy_reg
+DBLINKS     NCBI-GeneID: 949029
+            NCBI-ProteinID: NP_416631
+            Pasteur: yehV
+            RegulonDB: ECK120001927
+            ECOCYC: EG12008
+            ASAP: ABE-0007030
+            UniProt: P33358 V9PPD8
+AASEQ       243
+            MALYTIGEVALLCDINPVTLRAWQRRYGLLKPQRTDGGHRLFNDADIDRIREIKRWIDNG
+            VQVSKVKMLLSNENVDVQNGWRDQQETLLTYLQSGNLHSLRTWIKERGQDYPAQTLTTHL
+            FIPLRRRLQCQQPTLQALLAILDGVLINYIAICLASARKKQGKDALVVGWNIQDTTRLWL
+            EGWIASQQGWRIDVLAHSLNQLRPELFEGRTLLVWCGENRTSAQQQQLTSWQEQGHDIFP
+            LGI
+NTSEQ       732
+            atggcgctttacacaattggtgaagtggcgttgctttgtgatattaatcctgtcacgtta
+            cgcgcgtggcagaggcgttacggattgctgaaaccgcaacggacagacggcggtcatcgg
+            ctgttcaacgatgccgatattgaccggatccgcgagatcaaacgctggatcgacaacggc
+            gtgcaggtcagcaaagttaaaatgctgctcagtaatgaaaatgttgatgtgcagaacggc
+            tggcgcgatcagcaagaaacattactgacttacctgcaaagcggcaatctacatagcctg
+            cgaacgtggatcaaagagcgcggtcaggattaccccgcccagacactcaccacacatctg
+            tttattcctctgcgccgacggcttcagtgccaacaaccgactctccaggcgctgctggcg
+            atcctcgacggcgtactgatcaactacatcgccatttgtctggcttcggcacgtaaaaaa
+            cagggtaaagatgcgctggtggttggctggaatattcaggataccacccgtctgtggctg
+            gagggctggattgccagtcaacaaggatggcgcattgatgtcctcgcccactcgctcaat
+            caactacgccctgaactattcgaaggccgtacattgctggtgtggtgcggtgaaaatcga
+            acctccgcccaacagcagcaactcaccagttggcaagaacaaggccatgatattttccca
+            ctcggcatttaa
+///

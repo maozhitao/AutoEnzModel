@@ -1,0 +1,62 @@
+ENTRY       b0262             CDS       T00007
+NAME        afuC
+DEFINITION  (RefSeq) CP4-6 prophage; ABC transporter ATP-binding protein AfuC
+ORTHOLOGY   K02010  iron(III) transport system ATP-binding protein [EC:7.2.2.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b0262 (afuC)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0262 (afuC)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.2  Catalysing the translocation of inorganic cations
+               7.2.2  Linked to the hydrolysis of a nucleoside triphosphate
+                7.2.2.7  ABC-type Fe3+ transporter
+                 b0262 (afuC)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Mineral and organic ion transporters
+               Iron(III) transporter
+                b0262 (afuC)
+POSITION    complement(277756..278802)
+MOTIF       Pfam: ABC_tran TOBE_2 CysA_C_terminal AAA_21 AAA AAA_16 AAA_14 SMC_N Rad17 RecA ATPase AAA_22 AAA_25 RsgA_GTPase AAA_23 ATP-synt_ab ABC_ATPase AAA_33 AAA_5 AAA_29 G-alpha AAA_30 AAA_24 AAA_18 NB-ARC AAA_28 TsaE DLIC
+DBLINKS     NCBI-GeneID: 947676
+            NCBI-ProteinID: NP_414796
+            Pasteur: afuC
+            RegulonDB: ECK120002215
+            ECOCYC: EG12340
+            ASAP: ABE-0000898
+            UniProt: P37009
+AASEQ       348
+            MTQKNFVELRNVTKRFGSNTVIDNINLTIPQGQMVTLLGPSGCGKTTILRLVAGLEKPSE
+            GQIFIDGEDVTHRSIQQRDICMVFQSYALFPHMSLGENVGYGLKMLGVPRAELKARVKEA
+            LAMVDLEGFEDRFVDQISGGQQQRVALARALILKPKVLLFDEPLSNLDANLRRSMRDKIR
+            ELQKQFDITSLYVTHDQSEAFAVSDTVLVMNKGHIMQIGSPQDLYRQPASRFMASFMGDA
+            NLFPATFSDGYVDIYGYHLPRPLHFGTQGEGMVGVRPEAITLSDRGEESQRCVIRHVAYM
+            GPQYEVTVEWHGQEILLQVNATRLQPDVGEQYYLEIHPYGMFVLADAA
+NTSEQ       1047
+            atgactcagaaaaatttcgttgaactgcgcaacgtcactaaacgatttggcagtaatacg
+            gtaatcgacaatatcaacctcaccatcccgcaggggcaaatggtgacgctgctcggcccg
+            tccggctgcggcaaaaccactattttgcgcctggttgccgggctggaaaaaccgagcgaa
+            gggcaaattttcattgatggcgaagacgtcacccatcgctctattcagcagcgcgatatc
+            tgtatggtgtttcagtcctatgccctgttcccgcatatgtcgctgggagagaatgtcggt
+            tatggcctgaaaatgctcggcgtaccgcgcgcagagctgaaagcccgcgtcaaagaggcg
+            ttggcgatggtggatctggaaggattcgaagaccgctttgtcgatcagatctccggcggg
+            cagcagcagcgcgtggcgctggcccgcgcgctgatcctcaagccgaaagtgctgctgttt
+            gatgagccgttgagtaacctcgacgccaacctgcgtcgcagcatgcgcgacaagatccgc
+            gagttgcaaaagcagtttgatatcacctcgctgtacgtcacccacgatcagagcgaagcc
+            tttgcggtttctgatactgtgctggtgatgaacaagggacacatcatgcagatcggctca
+            ccgcaggatctttaccgccagcccgcctcccgctttatggcgagctttatgggcgatgcc
+            aacctgttcccggcaaccttcagcgacggatacgttgatatctacggctatcatctgccg
+            cgcccgctgcactttggtacacagggtgaagggatggtcggtgtgcgcccggaagcgatc
+            acgctcagcgatcgcggcgaagagagccagcgctgcgtgatccgccatgtcgcctatatg
+            gggccgcagtatgaagtgacggtggaatggcacgggcaggagatattattgcaggtcaac
+            gctacgcgtctgcaaccggacgtcggcgagcagtattatcttgaaatccatccgtacggc
+            atgtttgttctggcggatgcggcataa
+///

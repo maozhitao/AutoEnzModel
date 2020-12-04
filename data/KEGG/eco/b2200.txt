@@ -1,0 +1,48 @@
+ENTRY       b2200             CDS       T00007
+NAME        ccmB
+DEFINITION  (RefSeq) heme trafficking system membrane protein CcmB
+ORTHOLOGY   K02194  heme exporter protein B
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b2200 (ccmB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2200 (ccmB)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              ABC-2 type and other transporters
+               Heme transporter
+                b2200 (ccmB)
+POSITION    complement(2296362..2297024)
+MOTIF       Pfam: CcmB ABC2_membrane ABC2_membrane_4
+DBLINKS     NCBI-GeneID: 946692
+            NCBI-ProteinID: NP_416704
+            Pasteur: ccmB
+            RegulonDB: ECK120001970
+            ECOCYC: EG12058
+            ASAP: ABE-0007277
+            UniProt: P0ABL8
+AASEQ       220
+            MMFWRIFRLELRVAFRHSAEIANPLWFFLIVITLFPLSIGPEPQLLARIAPGIIWVAALL
+            SSLLALERLFRDDLQDGSLEQLMLLPLPLPAVVLAKVMAHWMVTGLPLLILSPLVAMLLG
+            MDVYGWQVMALTLLLGTPTLGFLGAPGVALTVGLKRGGVLLSILVLPLTIPLLIFATAAM
+            DAASMHLPVDGYLAILGALLAGTATLSPFATAAALRISIQ
+NTSEQ       663
+            atgatgttctggcgcattttccgtcttgagctgcgtgtagcgtttcgccatagcgccgaa
+            atcgccaacccgctgtggttcttcctgattgtaattaccctttttccgctcagtatcggt
+            ccggagccgcaactgctggcgcgtattgcaccgggcattatctgggttgctgcgctgctt
+            tcatccttgctggcgctggaacgactgttccgtgacgatttgcaggacggcagtcttgaa
+            caattgatgttgttgccgttacccttgcccgccgttgtgctggcgaaggtgatggcgcac
+            tggatggtaaccggtctgccgttactcatcctttcgccactggtagcaatgctactggga
+            atggatgtttatggctggcaagtgatggcgctgacgctgctgctgggaacgcctacgctt
+            ggctttctcggtgcaccgggcgtggcgctgacagtgggacttaagcgcggtggtgtgctg
+            ctcagcatactggtgttaccgctgactatcccattactcatctttgccaccgccgcgatg
+            gacgcggcttctatgcatttgcccgttgacgggtatctggcaattttaggcgcgttgctg
+            gcaggcaccgcgacattaagtccttttgcgacggcggcagcgttacgaatcagcattcaa
+            taa
+///

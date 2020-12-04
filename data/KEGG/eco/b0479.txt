@@ -1,0 +1,55 @@
+ENTRY       b0479             CDS       T00007
+NAME        fsr
+DEFINITION  (RefSeq) fosmidomycin efflux pump
+ORTHOLOGY   K08223  MFS transporter, FSR family, fosmidomycin resistance protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0479 (fsr)
+            Transporters [BR:eco02000]
+             Major facilitator superfamily (MFS)
+              Drug transporters
+               Fosmidomycin resistance (Fsr) family [TC:2.A.1.35]
+                b0479 (fsr)
+POSITION    complement(503476..504696)
+MOTIF       Pfam: MFS_1 OATP Tad
+DBLINKS     NCBI-GeneID: 945119
+            NCBI-ProteinID: NP_415012
+            Pasteur: fsr
+            RegulonDB: ECK120002865
+            ECOCYC: G6256
+            ASAP: ABE-0001661
+            UniProt: P52067
+AASEQ       406
+            MAMSEQPQPVAGAAASTTKARTSFGILGAISLSHLLNDMIQSLILAIYPLLQSEFSLTFM
+            QIGMITLTFQLASSLLQPVVGYWTDKYPMPWSLPIGMCFTLSGLVLLALAGSFGAVLLAA
+            ALVGTGSSVFHPESSRVARMASGGRHGLAQSIFQVGGNFGSSLGPLLAAVIIAPYGKGNV
+            AWFVLAALLAIVVLAQISRWYSAQHRMNKGKPKATIINPLPRNKVVLAVSILLILIFSKY
+            FYMASISSYYTFYLMQKFGLSIQNAQLHLFAFLFAVAAGTVIGGPVGDKIGRKYVIWGSI
+            LGVAPFTLILPYASLHWTGVLTVIIGFILASAFSAILVYAQELLPGRIGMVSGLFFGFAF
+            GMGGLGAAVLGLIADHTSIELVYKICAFLPLLGMLTIFLPDNRHKD
+NTSEQ       1221
+            atggcaatgagtgaacaaccccagcctgtggcgggcgcggctgcgtcaacgaccaaggcc
+            cgaacatcgtttggtattttaggtgctatcagcctctcacatctgctgaacgacatgatc
+            caatcgctgattctggcgatttatccgctgcttcagtcagaattttctctgacatttatg
+            cagattggcatgataaccctcaccttccagctcgcctcttcgctactgcaaccagtggtc
+            ggctactggaccgataaatatccgatgccatggtcgttgccaattggcatgtgctttacc
+            ttaagcggtctggtgctgcttgcgctggcgggcagttttggcgcagttctgctggcggcg
+            gcgctggtcggtaccggttcatcggtctttcatccggaatcttctcgcgtggcccgtatg
+            gcttccggcgggcggcatggcctggcgcaatctatctttcaggtcggcggcaactttggc
+            agttccctgggacccttgctggcggcggtgattatcgcgccttatggcaaaggcaacgtt
+            gcctggtttgtgcttgcggcactgctggcgatcgtggtgttggcgcaaatcagccgttgg
+            tactcggcacagcaccgaatgaataaaggaaaacccaaagcgacgattatcaatccactg
+            ccgcgcaataaagttgtactggcggtcagcattctgttaatcctcattttctcgaaatat
+            ttctatatggcgagcatcagcagctattacaccttttatctgatgcaaaaattcggatta
+            tctatccagaatgctcagcttcatctgtttgccttcctgtttgccgttgcggcaggtacg
+            gtgatcggcgggcctgtaggggataaaattgggcggaaatatgtgatttggggctctatc
+            ctcggcgttgcgccgtttacgctgattttaccctacgccagcctgcactggacgggggtt
+            ttaacggtgattattggatttatcctcgcttcggcattctctgccattctggtctacgct
+            caggagctgcttccaggacgtatcggtatggtttctggactctttttcggttttgctttt
+            ggcatgggaggtctgggagcggcagttctggggcttatcgccgatcacaccagcatcgag
+            ttagtctataaaatctgtgctttcctgccactattggggatgttgaccatattcctgcct
+            gataaccggcataaagactga
+///

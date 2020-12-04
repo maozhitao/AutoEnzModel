@@ -1,0 +1,71 @@
+ENTRY       b1714             CDS       T00007
+NAME        pheS
+DEFINITION  (RefSeq) phenylalanine--tRNA ligase subunit alpha
+ORTHOLOGY   K01889  phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                b1714 (pheS)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:eco01007]
+                b1714 (pheS)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b1714 (pheS)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.20  phenylalanine---tRNA ligase
+                 b1714 (pheS)
+            Amino acid related enzymes [BR:eco01007]
+             Aminoacyl-tRNA synthetase
+              Class II (U)
+               b1714 (pheS)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                b1714 (pheS)
+             Prokaryotic type
+                b1714 (pheS)
+POSITION    complement(1797959..1798942)
+MOTIF       Pfam: tRNA-synt_2d Phe_tRNA-synt_N tRNA_synthFbeta FAD-oxidase_C
+DBLINKS     NCBI-GeneID: 946223
+            NCBI-ProteinID: NP_416229
+            Pasteur: pheS
+            RegulonDB: ECK120000701
+            ECOCYC: EG10709
+            ASAP: ABE-0005722
+            UniProt: P08312
+STRUCTURE   PDB: 3PCO
+AASEQ       327
+            MSHLAELVASAKAAISQASDVAALDNVRVEYLGKKGHLTLQMTTLRELPPEERPAAGAVI
+            NEAKEQVQQALNARKAELESAALNARLAAETIDVSLPGRRIENGGLHPVTRTIDRIESFF
+            GELGFTVATGPEIEDDYHNFDALNIPGHHPARADHDTFWFDTTRLLRTQTSGVQIRTMKA
+            QQPPIRIIAPGRVYRNDYDQTHTPMFHQMEGLIVDTNISFTNLKGTLHDFLRNFFEEDLQ
+            IRFRPSYFPFTEPSAEVDVMGKNGKWLEVLGCGMVHPNVLRNVGIDPEVYSGFAFGMGME
+            RLTMLRYGVTDLRSFFENDLRFLKQFK
+NTSEQ       984
+            atgtcacatctcgcagaactggttgccagtgcgaaggcggccattagccaggcgtcagat
+            gttgccgcgttagataatgtgcgcgtcgaatatttgggtaaaaaagggcacttaaccctt
+            cagatgacgaccctgcgtgagctgccgccagaagagcgtccggcagctggtgcggttatc
+            aacgaagcgaaagagcaggttcagcaggcgctgaatgcgcgtaaagcggaactggaaagc
+            gctgcactgaatgcgcgtctggcggcggaaacgattgatgtctctctgccaggtcgtcgc
+            attgaaaacggcggtctgcatccggttacccgtaccatcgaccgtatcgaaagtttcttc
+            ggtgagcttggctttaccgtggcaaccgggccggaaatcgaagacgattatcataacttc
+            gatgctctgaacattcctggtcaccacccggcgcgcgctgaccacgacactttctggttt
+            gacactacccgcctgctgcgtacccagacctctggcgtacagatccgcaccatgaaagcc
+            cagcagccaccgattcgtatcatcgcgcctggccgtgtttatcgtaacgactacgaccag
+            actcacacgccgatgttccatcagatggaaggtctgattgttgataccaacatcagcttt
+            accaacctgaaaggcacgctgcacgacttcctgcgtaacttctttgaggaagatttgcag
+            attcgcttccgtccttcctacttcccgtttaccgaaccttctgcagaagtggacgtcatg
+            ggtaaaaacggtaaatggctggaagtgctgggctgcgggatggtgcatccgaacgtgttg
+            cgtaacgttggcatcgacccggaagtttactctggtttcgccttcgggatggggatggag
+            cgtctgactatgttgcgttacggcgtcaccgacctgcgttcattcttcgaaaacgatctg
+            cgtttcctcaaacagtttaaataa
+///

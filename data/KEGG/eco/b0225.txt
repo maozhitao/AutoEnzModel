@@ -1,0 +1,41 @@
+ENTRY       b0225             CDS       T00007
+NAME        yafQ
+DEFINITION  (RefSeq) ribosome-dependent mRNA interferase toxin YafQ
+ORTHOLOGY   K19157  mRNA interferase YafQ [EC:3.1.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b0225 (yafQ)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 b0225 (yafQ)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               YafQ-dinJ
+                b0225 (yafQ)
+POSITION    complement(245961..246239)
+MOTIF       Pfam: YafQ_toxin
+DBLINKS     NCBI-GeneID: 944911
+            NCBI-ProteinID: NP_414760
+            Pasteur: yafQ
+            RegulonDB: ECK120002729
+            ECOCYC: G6109
+            ASAP: ABE-0000761
+            UniProt: Q47149
+STRUCTURE   PDB: 4MMG 4ML2 4Q2U 4MMJ 4ML0
+AASEQ       92
+            MIQRDIEYSGQYSKDVKLAQKRHKDMNKLKYLMTLLINNTLPLPAVYKDHPLQGSWKGYR
+            DAHVEPDWILIYKLTDKLLRFERTGTHAALFG
+NTSEQ       279
+            atgattcaaagggatattgaatactcgggacaatattcaaaggatgtaaaacttgcacaa
+            aagcgtcataaggatatgaataaattgaaatatcttatgacgcttcttatcaataatact
+            ttaccgcttccagctgtttataaagaccacccgctgcaaggttcatggaaaggttatcgc
+            gatgctcatgtcgaaccggactggatcctgatttacaaacttaccgataaacttttacga
+            tttgagagaactggaactcacgcggcgctctttgggtaa
+///

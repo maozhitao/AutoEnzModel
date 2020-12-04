@@ -1,0 +1,77 @@
+ENTRY       b1099             CDS       T00007
+NAME        holB
+DEFINITION  (RefSeq) DNA polymerase III subunit delta'
+ORTHOLOGY   K02341  DNA polymerase III subunit delta' [EC:2.7.7.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+            eco03430  Mismatch repair
+            eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b1099 (holB)
+               03430 Mismatch repair
+                b1099 (holB)
+               03440 Homologous recombination
+                b1099 (holB)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b1099 (holB)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1099 (holB)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 b1099 (holB)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Elongation Factors
+               Elongation factors (bacterial)
+                DNA polymerase III holoenzyme
+                 b1099 (holB)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                DNA polymerase III holoenzyme
+                 b1099 (holB)
+POSITION    1155762..1156766
+MOTIF       Pfam: DNA_pol3_delta2 DNApol3-delta_C
+DBLINKS     NCBI-GeneID: 945661
+            NCBI-ProteinID: NP_415617
+            Pasteur: holB
+            RegulonDB: ECK120001456
+            ECOCYC: EG11500
+            ASAP: ABE-0003716
+            UniProt: P28631
+STRUCTURE   PDB: 1A5T 1JR3 3GLG 3GLF 1XXH 3GLI 3GLH 1XXI
+AASEQ       334
+            MRWYPWLRPDFEKLVASYQAGRGHHALLIQALPGMGDDALIYALSRYLLCQQPQGHKSCG
+            HCRGCQLMQAGTHPDYYTLAPEKGKNTLGVDAVREVTEKLNEHARLGGAKVVWVTDAALL
+            TDAAANALLKTLEEPPAETWFFLATREPERLLATLRSRCRLHYLAPPPEQYAVTWLSREV
+            TMSQDALLAALRLSAGSPGAALALFQGDNWQARETLCQALAYSVPSGDWYSLLAALNHEQ
+            APARLHWLATLLMDALKRHHGAAQVTNVDVPGLVAELANHLSPSRLQAILGDVCHIREQL
+            MSVTGINRELLITDLLLRIEHYLQPGVVLPVPHL
+NTSEQ       1005
+            atgagatggtatccatggttacgacctgatttcgaaaaactggtagccagctatcaggcc
+            ggaagaggtcaccatgcgctactcattcaggcgttaccgggcatgggcgatgatgcttta
+            atctacgccctgagccgttatttactctgccaacaaccgcagggccacaaaagttgcggt
+            cactgtcgtggatgtcagttgatgcaggctggcacgcatcccgattactacaccctggct
+            cccgaaaaaggaaaaaatacgctgggcgttgatgcggtacgtgaggtcaccgaaaagctg
+            aatgagcacgcacgcttaggtggtgcgaaagtcgtttgggtaaccgatgctgccttacta
+            accgacgccgcggctaacgcattgctgaaaacgcttgaagagccaccagcagaaacttgg
+            tttttcctggctacccgcgagcctgaacgtttactggcaacattacgtagtcgttgtcgg
+            ttacattaccttgcgccgccgccggaacagtacgccgtgacctggctttcacgcgaagtg
+            acaatgtcacaggatgcattacttgccgcattgcgcttaagcgccggttcgcctggcgcg
+            gcactggcgttgtttcagggagataactggcaggctcgtgaaacattgtgtcaggcgttg
+            gcatatagcgtgccatcgggcgactggtattcgctgctagcggcccttaatcatgaacaa
+            gctccggcgcgtttacactggctggcaacgttgctgatggatgcgctaaaacgccatcat
+            ggtgctgcgcaggtgaccaatgttgatgtgccgggcctggtcgccgaactggcaaaccat
+            ctttctccctcgcgcctgcaggctatactgggggatgtttgccacattcgtgaacagtta
+            atgtctgttacaggcatcaaccgcgagcttctcatcaccgatcttttactgcgtattgag
+            cattacctgcaaccgggcgttgtgctaccggttcctcatctttaa
+///

@@ -1,0 +1,46 @@
+ENTRY       b0711             CDS       T00007
+NAME        pxpB
+DEFINITION  (RefSeq) 5-oxoprolinase component B
+ORTHOLOGY   K23123  5-oxoprolinase (ATP-hydrolysing) subunit B [EC:3.5.2.9]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00480  Glutathione metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09106 Metabolism of other amino acids
+               00480 Glutathione metabolism
+                b0711 (pxpB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.2  In cyclic amides
+                3.5.2.9  5-oxoprolinase (ATP-hydrolysing)
+                 b0711 (pxpB)
+POSITION    743593..744249
+MOTIF       Pfam: CT_C_D
+DBLINKS     NCBI-GeneID: 945311
+            NCBI-ProteinID: NP_415239
+            Pasteur: ybgJ
+            RegulonDB: ECK120002980
+            ECOCYC: G6380
+            ASAP: ABE-0002426
+            UniProt: P0AAV4
+STRUCTURE   PDB: 5DUD
+AASEQ       218
+            MQRARCYLIGETAVVLELEPPVTLASQKRIWRLAQRLVDMPNVVEAIPGMNNITVILRNP
+            ESLALDAIERLQRWWEESEALEPESRFIEIPVVYGGAGGPDLAVVAAHCGLSEKQVVELH
+            SSVEYVVWFLGFQPGFPYLGSLPEQLHTPRRAEPRLLVPAGSVGIGGPQTGVYPLATPGG
+            WQLIGHTSLSLFDPARDEPILLRPGDSVRFVPQKEGVC
+NTSEQ       657
+            gtgcaacgagcgcgttgttatctgataggtgaaacggcggtagtgctggaactggaaccg
+            ccggtgacgctggctagccagaaacggatctggcgactggcgcagcgtctggtggatatg
+            ccgaatgtggttgaagccattcccggcatgaacaatatcacggtgattttgcgtaatcct
+            gagtcgctggcgctggatgccatagagcgtttgcaacgctggtgggaggagagcgaggcg
+            ctggagccggagtctcgctttattgaaattccggtggtttacggtggtgcaggcggaccg
+            gatttggcggtggtcgcggcgcattgcgggttgagcgaaaaacaggttgttgaattgcac
+            tcctccgtggaatacgtggtctggtttttaggttttcaaccgggcttcccgtatctcggg
+            agtttgccggaacaactacacacgccacggcgcgctgaaccgcgcttactcgttccggca
+            ggttctgtcgggatcggcgggccgcagactggtgtttatccgctggcaacgccgggtggc
+            tggcagttgattggtcatacctcactcagcctgtttgatccggcgcgtgacgaacccatc
+            ttattacgtccgggagacagcgtgcgctttgtaccgcagaaggagggagtatgctga
+///

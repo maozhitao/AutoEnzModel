@@ -1,0 +1,30 @@
+ENTRY       b4428             CDS       T00007
+NAME        hokB
+DEFINITION  (RefSeq) toxin HokB
+ORTHOLOGY   K18921  protein HokB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4428 (hokB)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               Hok-Sok
+                b4428 (hokB)
+POSITION    complement(1491922..1492071)
+MOTIF       Pfam: HOK_GEF
+DBLINKS     NCBI-GeneID: 2847727
+            NCBI-ProteinID: YP_025301
+            RegulonDB: ECK120002662
+            ECOCYC: G0-9610
+            ASAP: ABE-0047283
+            UniProt: P77494
+AASEQ       49
+            MKHNPLVVCLLIICITILTFTLLTRQTLYELRFRDGDKEVAALMACTSR
+NTSEQ       150
+            atgaagcacaaccctctggtggtgtgtctgctcattatctgcattacgattctgacattc
+            acactcctgacccgacaaacgctctacgaactgcggttccgggacggtgataaggaggtt
+            gctgcgctcatggcctgcacgtccaggtaa
+///

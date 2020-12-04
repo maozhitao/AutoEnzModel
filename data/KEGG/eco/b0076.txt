@@ -1,0 +1,50 @@
+ENTRY       b0076             CDS       T00007
+NAME        leuO
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator LeuO
+ORTHOLOGY   K05798  LysR family transcriptional regulator, transcriptional activator for leuABCD operon
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0076 (leuO)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               LysR family
+                b0076 (leuO)
+POSITION    84368..85312
+MOTIF       Pfam: HTH_1 LysR_substrate
+DBLINKS     NCBI-GeneID: 949034
+            NCBI-ProteinID: NP_414618
+            Pasteur: leuO
+            RegulonDB: ECK120000524
+            ECOCYC: EG10531
+            ASAP: ABE-0000280
+            UniProt: P10151
+STRUCTURE   PDB: 6GZ0 6GZ1 6GZ2
+AASEQ       314
+            MPEVQTDHPETAELSKPQLRMVDLNLLTVFDAVMQEQNITRAAHVLGMSQPAVSNAVARL
+            KVMFNDELFVRYGRGIQPTARAFQLFGSVRQALQLVQNELPGSGFEPASSERVFHLCVCS
+            PLDSILTSQIYNHIEQIAPNIHVMFKSSLNQNTEHQLRYQETEFVISYEDFHRPEFTSVP
+            LFKDEMVLVASKNHPTIKGPLLKHDVYNEQHAAVSLDRFASFSQPWYDTVDKQASIAYQG
+            MAMMSVLSVVSQTHLVAIAPRWLAEEFAESLELQVLPLPLKQNSRTCYLSWHEAAGRDKG
+            HQWMEEQLVSICKR
+NTSEQ       945
+            atgccagaggtacaaacagatcatccagagacggcggagttaagcaaaccacagctacgc
+            atggtcgatctcaacttattaaccgttttcgatgccgtgatgcaggagcaaaacattact
+            cgtgccgctcatgttctgggaatgtcgcaacctgcggtcagtaacgctgttgcacgcctg
+            aaggtgatgtttaatgacgagctttttgttcgttatggccgtggtattcaaccgactgct
+            cgcgcatttcaactttttggttcagttcgtcaggcattgcaactagtacaaaatgaattg
+            cctggttcaggttttgaacccgcgagcagtgaacgtgtatttcatctttgtgtttgcagc
+            ccgttagacagcattctgacctcgcagatttataatcacattgagcagattgcgccaaat
+            atacatgttatgttcaagtcttcattaaatcagaacactgaacatcagctgcgttatcag
+            gaaacggagtttgtgattagttatgaagacttccatcgtcctgaatttaccagcgtacca
+            ttatttaaagatgaaatggtgctggtagccagcaaaaatcatccaacaattaagggcccg
+            ttactgaaacatgatgtttataacgaacaacatgcggcggtttcgctcgatcgtttcgcg
+            tcatttagtcaaccttggtatgacacggtagataagcaagccagtatcgcgtatcagggc
+            atggcaatgatgagcgtacttagcgtggtgtcgcaaacgcatttggtcgctattgcgccg
+            cgttggctggctgaagagttcgctgaatccttagaattacaggtattaccgctgccgtta
+            aaacaaaacagcagaacctgttatctctcctggcatgaagctgccgggcgcgataaaggc
+            catcagtggatggaagagcaattagtctcaatttgcaaacgctaa
+///

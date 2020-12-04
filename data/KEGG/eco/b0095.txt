@@ -1,0 +1,68 @@
+ENTRY       b0095             CDS       T00007
+NAME        ftsZ
+DEFINITION  (RefSeq) cell division protein FtsZ
+ORTHOLOGY   K03531  cell division protein FtsZ
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b0095 (ftsZ)
+              09183 Protein families: signaling and cellular processes
+               04812 Cytoskeleton proteins [BR:eco04812]
+                b0095 (ftsZ)
+               02048 Prokaryotic defense system [BR:eco02048]
+                b0095 (ftsZ)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Divisome proteins
+                b0095 (ftsZ)
+            Cytoskeleton proteins [BR:eco04812]
+             Prokaryotic cytoskeleton proteins
+              Microtubules homologs
+               b0095 (ftsZ)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               Type II TA system related factors
+                b0095 (ftsZ)
+POSITION    105305..106456
+MOTIF       Pfam: Tubulin FtsZ_C NAD_binding_10 HATPase_c
+DBLINKS     NCBI-GeneID: 944786
+            NCBI-ProteinID: NP_414637
+            Pasteur: ftsZ
+            RegulonDB: ECK120000341
+            ECOCYC: EG10347
+            ASAP: ABE-0000333
+            UniProt: P0A9A6
+AASEQ       383
+            MFEPMELTNDAVIKVIGVGGGGGNAVEHMVRERIEGVEFFAVNTDAQALRKTAVGQTIQI
+            GSGITKGLGAGANPEVGRNAADEDRDALRAALEGADMVFIAAGMGGGTGTGAAPVVAEVA
+            KDLGILTVAVVTKPFNFEGKKRMAFAEQGITELSKHVDSLITIPNDKLLKVLGRGISLLD
+            AFGAANDVLKGAVQGIAELITRPGLMNVDFADVRTVMSEMGYAMMGSGVASGEDRAEEAA
+            EMAISSPLLEDIDLSGARGVLVNITAGFDLRLDEFETVGNTIRAFASDNATVVIGTSLDP
+            DMNDELRVTVVATGIGMDKRPEITLVTNKQVQQPVMDRYQQHGMAPLTQEQKPVAKVVND
+            NAPQTAKEPDYLDIPAFLRKQAD
+NTSEQ       1152
+            atgtttgaaccaatggaacttaccaatgacgcggtgattaaagtcatcggcgtcggcggc
+            ggcggcggtaatgctgttgaacacatggtgcgcgagcgcattgaaggtgttgaattcttc
+            gcggtaaataccgatgcacaagcgctgcgtaaaacagcggttggacagacgattcaaatc
+            ggtagcggtatcaccaaaggactgggcgctggcgctaatccagaagttggccgcaatgcg
+            gctgatgaggatcgcgatgcattgcgtgcggcgctggaaggtgcagacatggtctttatt
+            gctgcgggtatgggtggtggtaccggtacaggtgcagcaccagtcgtcgctgaagtggca
+            aaagatttgggtatcctgaccgttgctgtcgtcactaagcctttcaactttgaaggcaag
+            aagcgtatggcattcgcggagcaggggatcactgaactgtccaagcatgtggactctctg
+            atcactatcccgaacgacaaactgctgaaagttctgggccgcggtatctccctgctggat
+            gcgtttggcgcagcgaacgatgtactgaaaggcgctgtgcaaggtatcgctgaactgatt
+            actcgtccgggtttgatgaacgtggactttgcagacgtacgcaccgtaatgtctgagatg
+            ggctacgcaatgatgggttctggcgtggcgagcggtgaagaccgtgcggaagaagctgct
+            gaaatggctatctcttctccgctgctggaagatatcgacctgtctggcgcgcgcggcgtg
+            ctggttaacatcacggcgggcttcgacctgcgtctggatgagttcgaaacggtaggtaac
+            accatccgtgcatttgcttccgacaacgcgactgtggttatcggtacttctcttgacccg
+            gatatgaatgacgagctgcgcgtaaccgttgttgcgacaggtatcggcatggacaaacgt
+            cctgaaatcactctggtgaccaataagcaggttcagcagccagtgatggatcgctaccag
+            cagcatgggatggctccgctgacccaggagcagaagccggttgctaaagtcgtgaatgac
+            aatgcgccgcaaactgcgaaagagccggattatctggatatcccagcattcctgcgtaag
+            caagctgattaa
+///

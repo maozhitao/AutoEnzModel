@@ -1,0 +1,40 @@
+ENTRY       b3343             CDS       T00007
+NAME        tusB
+DEFINITION  (RefSeq) sulfurtransferase complex subunit TusB
+ORTHOLOGY   K07237  tRNA 2-thiouridine synthesizing protein B
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco04122  Sulfur relay system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04122 Sulfur relay system
+                b3343 (tusB)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3343 (tusB)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Thiolation factors
+                b3343 (tusB)
+POSITION    complement(3474678..3474965)
+MOTIF       Pfam: DsrH
+DBLINKS     NCBI-GeneID: 947844
+            NCBI-ProteinID: NP_417802
+            Pasteur: yheL
+            RegulonDB: ECK120004257
+            ECOCYC: G7712
+            ASAP: ABE-0010922
+            UniProt: P45530
+STRUCTURE   PDB: 2D1P
+AASEQ       95
+            MLHTLHRSPWLTDFAALLRLLSEGDELLLLQDGVTAAVDGNRYLESLRNAPIKVYALNED
+            LIARGLTGQISNDIILIDYTDFVRLTVKHPSQMAW
+NTSEQ       288
+            atgctgcacacattacatcgctcaccctggctgacggattttgctgcgctgctgcgtctg
+            ctcagtgaaggagacgaactgctattattgcaagatggcgtaactgccgcagttgacggt
+            aaccgctaccttgaaagtctgcgtaatgcccccattaaggtctatgccctgaacgaagac
+            cttattgcccgcggtttgactggtcaaatttcgaacgacatcattctcattgactatact
+            gatttcgtcagacttacggttaagcaccccagccagatggcctggtga
+///

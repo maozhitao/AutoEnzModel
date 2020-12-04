@@ -1,0 +1,78 @@
+ENTRY       b2380             CDS       T00007
+NAME        ypdA
+DEFINITION  (RefSeq) sensory histidine kinase YpdA
+ORTHOLOGY   K02478  two-component system, LytTR family, sensor kinase [EC:2.7.13.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b2380 (ypdA)
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b2380 (ypdA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 b2380 (ypdA)
+            Protein kinases [BR:eco01001]
+             Histidine kinases
+              LytTR family [OT]
+               b2380 (ypdA)
+            Two-component system [BR:eco02022]
+             LytTR family
+              Unclassified
+               b2380 (ypdA)
+POSITION    2498671..2500368
+MOTIF       Pfam: 5TM-5TMR_LYT His_kinase HATPase_c GAF ECF-ribofla_trS GAF_2 SpoVT_C HATPase_c_2 GAF_3 ECF_trnsprt
+DBLINKS     NCBI-GeneID: 946723
+            NCBI-ProteinID: NP_416881
+            Pasteur: ypdA
+            RegulonDB: ECK120003818
+            ECOCYC: G7243
+            ASAP: ABE-0007855
+            UniProt: P0AA93
+AASEQ       565
+            MHEIFNMLLAVFDRAALMLICLFFLIRIRLFRELLHKSAHSPKELLAVTAIFSLFALFST
+            WSGVPVEGSLVNVRIIAVMSGGILFGPWVGIITGVIAGIHRYLIDIGGVTAIPCFITSIL
+            AGCISGWINLKIPKAQRWRVGILGGMLCETLTMILVIVWAPTTALGIDIVSKIGIPMILG
+            SVCIGFIVLLVQSVEGEKEASAARQAKLALDIANKTLPLFRHVNSESLRKVCEIIRDDIH
+            ADAVAITNTDHVLAYVGVGEHNYQNGDDFISPTTRQAMNYGKIIIKNNDEAHRTPEIHSM
+            LVIPLWEKGVVTGTLKIYYCHAHQITSSLQEMAVGLSQIISTQLEVSRAEQLREMANKAE
+            LRALQSKINPHFLFNALNAISSSIRLNPDTARQLIFNLSRYLRYNIELKDDEQIDIKKEL
+            YQIKDYIAIEQARFGDKLTVIYDIDEEVNCCIPSLLIQPLVENAIVHGIQPCKGKGVVTI
+            SVAECGNRVRIAVRDTGHGIDPKVIERVEANEMPGNKIGLLNVHHRVKLLYGEGLHIRRL
+            EPGTEIAFYIPNQRTPVASQATLLL
+NTSEQ       1698
+            gtgcacgaaatattcaacatgctgctggcggtcttcgatcgggcagcgttaatgcttatc
+            tgcctgttctttctcatccgtatccgcctgtttcgcgaactgttgcacaagtcggcgcac
+            tccccaaaagaattgctcgccgttaccgccattttctcgctgttcgccctgttcagcacc
+            tggtccggcgttcccgtagaaggctcgctggtgaacgtacgtattatcgcggtgatgtcc
+            ggcgggattctgtttggcccgtgggtaggcatcattaccggcgtgattgcgggtattcac
+            cggtatttaattgatatcggcggcgtgacggcgatcccctgctttatcaccagcattctg
+            gcgggttgtatatcgggctggatcaacctgaaaatccccaaagcacagcgctggcgcgtc
+            ggtattctcggcggcatgttgtgtgagacgttgaccatgattctggtaattgtctgggca
+            ccaactaccgcgttggggatcgatatcgtctctaaaatcggcattccaatgatcctcggt
+            agcgtctgtatcggctttattgtgcttctggtgcaaagcgttgagggcgaaaaagaggcc
+            agcgccgcgcggcaggccaagctggcgctggatatcgccaacaaaacgctaccgctgttt
+            cgccatgtcaatagcgagtcattacgcaaggtctgcgaaattatccgcgatgacattcac
+            gccgatgcggtggcgattactaataccgatcatgtgctggcctatgttggcgtgggtgaa
+            cataactatcagaatggcgatgacttcattagcccgactacccgtcaggcgatgaattac
+            ggaaaaatcatcattaaaaacaatgatgaagcccaccgcacaccagagattcattccatg
+            ctggtgatcccattgtgggagaaaggggtcgtgaccggaacgctgaaaatttactactgc
+            cacgcgcatcagatcacctcgtcattacaggaaatggcggtcggtctgtcgcaaatcatc
+            tccacgcaactggaggtttcacgcgccgagcagctacgtgaaatggcaaataaggcagag
+            cttcgcgccctgcaaagcaaaattaatccccattttctgtttaacgctctgaacgctatt
+            tcatcgtcaatccgtctgaatccggataccgctcgccagttgatctttaatctgtcgcgt
+            tatctgcgctataacattgaattaaaagacgatgagcaaatcgatatcaaaaaagagctg
+            tatcaaattaaagactatattgccattgagcaggcccgctttggtgacaagctgacggtt
+            atctatgatattgatgaagaggtgaattgctgcattcccagcctgctgatccagccgttg
+            gtggagaacgccattgtccacggtattcagccttgcaaaggtaaaggcgttgtcaccatc
+            agcgttgcagagtgcggaaatcgggtacgcattgcggtgcgagataccgggcacggcatc
+            gatccaaaggtgattgagcgggtcgaagcgaatgaaatgccgggcaataaaattggcctg
+            ctgaatgtccatcatcgcgtgaagttattgtatggcgaggggctgcatatccgccgcctg
+            gagccggggacggaaattgcgttttacattcctaaccaacgcaccccagtcgcctcacag
+            gctacgttattgctttga
+///

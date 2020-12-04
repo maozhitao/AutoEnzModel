@@ -1,0 +1,39 @@
+ENTRY       b0814             CDS       T00007
+NAME        ompX
+DEFINITION  (RefSeq) outer membrane protein X
+ORTHOLOGY   K11934  outer membrane protein X
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0814 (ompX)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b0814 (ompX)
+POSITION    850450..850965
+MOTIF       Pfam: OMP_b-brl Ail_Lom OMP_b-brl_3
+DBLINKS     NCBI-GeneID: 944967
+            NCBI-ProteinID: NP_415335
+            Pasteur: ompX
+            RegulonDB: ECK120002021
+            ECOCYC: EG12117
+            ASAP: ABE-0002784
+            UniProt: P0A917
+STRUCTURE   PDB: 1QJ8 1QJ9 2MNH 2M06 2M07 1Q9F 1Q9G 1ORM
+AASEQ       171
+            MKKIACLSALAAVLAFTAGTSVAATSTVTGGYAQSDAQGQMNKMGGFNLKYRYEEDNSPL
+            GVIGSFTYTEKSRTASSGDYNKNQYYGITAGPAYRINDWASIYGVVGVGYGKFQTTEYPT
+            YKHDTSDYGFSYGAGLQFNPMENVALDFSYEQSRIRSVDVGTWIAGVGYRF
+NTSEQ       516
+            atgaaaaaaattgcatgtctttcagcactggccgcagttctggctttcaccgcaggtact
+            tccgtagctgcgacttctactgtaactggcggttacgcacagagcgacgctcagggccaa
+            atgaacaaaatgggcggtttcaacctgaaataccgctatgaagaagacaacagcccgctg
+            ggtgtgatcggttctttcacttacaccgagaaaagccgtactgcaagctctggtgactac
+            aacaaaaaccagtactacggcatcactgctggtccggcttaccgcattaacgactgggca
+            agcatctacggtgtagtgggtgtgggttatggtaaattccagaccactgaatacccgacc
+            tacaaacacgacaccagcgactacggtttctcctacggtgcgggtctgcagttcaacccg
+            atggaaaacgttgctctggacttctcttacgagcagagccgtattcgtagcgttgacgta
+            ggcacctggattgccggtgttggttaccgcttctaa
+///

@@ -1,0 +1,28 @@
+ENTRY       b0880             CDS       T00007
+NAME        cspD
+DEFINITION  (RefSeq) DNA replication inhibitor
+ORTHOLOGY   K03704  cold shock protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09192 Unclassified: genetic information processing
+               99973 Transcription
+                b0880 (cspD)
+POSITION    complement(922366..922590)
+MOTIF       Pfam: CSD OB_RNB Amidase_6
+DBLINKS     NCBI-GeneID: 945669
+            NCBI-ProteinID: NP_415401
+            Pasteur: cspD
+            RegulonDB: ECK120001097
+            ECOCYC: EG11111
+            ASAP: ABE-0002991
+            UniProt: P0A968
+AASEQ       74
+            MEKGTVKWFNNAKGFGFICPEGGGEDIFAHYSTIQMDGYRTLKAGQSVQFDVHQGPKGNH
+            ASVIVPVEVEAAVA
+NTSEQ       225
+            atggaaaagggtactgttaagtggttcaacaatgccaaagggtttggtttcatctgccct
+            gaaggcggcggcgaagatattttcgctcattattccaccattcagatggatggttacaga
+            acgctaaaagctggacaatccgttcagtttgatgtccaccaggggccaaaaggcaatcac
+            gccagtgttattgtgcccgtcgaagtagaagcggcagtcgcatag
+///

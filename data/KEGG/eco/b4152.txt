@@ -1,0 +1,57 @@
+ENTRY       b4152             CDS       T00007
+NAME        frdC
+DEFINITION  (RefSeq) fumarate reductase membrane protein FrdC
+ORTHOLOGY   K00246  fumarate reductase subunit C
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00020  Citrate cycle (TCA cycle)
+            eco00190  Oxidative phosphorylation
+            eco00620  Pyruvate metabolism
+            eco00650  Butanoate metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+            eco01120  Microbial metabolism in diverse environments
+            eco01200  Carbon metabolism
+            eco02020  Two-component system
+MODULE      eco_M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            eco_M00011  Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate
+            eco_M00150  Fumarate reductase, prokaryotes
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                b4152 (frdC)
+               00620 Pyruvate metabolism
+                b4152 (frdC)
+               00650 Butanoate metabolism
+                b4152 (frdC)
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                b4152 (frdC)
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b4152 (frdC)
+POSITION    complement(4379377..4379772)
+MOTIF       Pfam: Fumarate_red_C Sdh_cyt
+DBLINKS     NCBI-GeneID: 948680
+            NCBI-ProteinID: NP_418576
+            Pasteur: frdC
+            RegulonDB: ECK120000326
+            ECOCYC: EG10332
+            ASAP: ABE-0013598
+            UniProt: P0A8Q0
+STRUCTURE   PDB: 1KF6 3P4P 4KX6 3P4R 3P4S 2B76 1L0V 6AWF 3P4Q 1KFY 3CIR
+                 5VPN
+AASEQ       131
+            MTTKRKPYVRPMTSTWWKKLPFYRFYMLREGTAVPAVWFSIELIFGLFALKNGPEAWAGF
+            VDFLQNPVIVIINLITLAAALLHTKTWFELAPKAANIIVKDEKMGPEPIIKSLWAVTVVA
+            TIVILFVALYW
+NTSEQ       396
+            atgacgactaaacgtaaaccgtatgtacggccaatgacgtccacctggtggaaaaaattg
+            ccgttttatcgcttttacatgctgcgcgaaggcacggcggttccggctgtgtggttcagc
+            attgaactgattttcgggctgtttgccctgaaaaatggcccggaagcctgggcgggattc
+            gtcgactttttacaaaacccggttatcgtgatcattaacctgatcactctggcggcagct
+            ctgctgcacaccaaaacctggtttgaactggcaccgaaagcggccaatatcattgtaaaa
+            gacgaaaaaatgggaccagagccaattatcaaaagtctctgggcggtaactgtggttgcc
+            accatcgtaatcctgtttgttgccctgtactggtaa
+///

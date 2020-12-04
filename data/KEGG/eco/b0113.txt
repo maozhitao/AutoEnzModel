@@ -1,0 +1,46 @@
+ENTRY       b0113             CDS       T00007
+NAME        pdhR
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator PdhR
+ORTHOLOGY   K05799  GntR family transcriptional regulator, transcriptional repressor for pyruvate dehydrogenase complex
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0113 (pdhR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               GntR family
+                b0113 (pdhR)
+POSITION    122092..122856
+MOTIF       Pfam: GntR FCD MarR_2 MarR HTH_24 PaaX HTH_DeoR HTH_11 TrmB Fe_dep_repress HTH_41 HTH_29 HTH_28 HTH_10
+DBLINKS     NCBI-GeneID: 944827
+            NCBI-ProteinID: NP_414655
+            Pasteur: pdhR
+            RegulonDB: ECK120001076
+            ECOCYC: EG11088
+            ASAP: ABE-0000394
+            UniProt: P0ACL9
+STRUCTURE   PDB: 5KVR 5TPM
+AASEQ       254
+            MAYSKIRQPKLSDVIEQQLEFLILEGTLRPGEKLPPERELAKQFDVSRPSLREAIQRLEA
+            KGLLLRRQGGGTFVQSSLWQSFSDPLVELLSDHPESQYDLLETRHALEGIAAYYAALRST
+            DEDKERIRELHHAIELAQQSGDLDAESNAVLQYQIAVTEAAHNVVLLHLLRCMEPMLAQN
+            VRQNFELLYSRREMLPLVSSHRTRIFEAIMAGKPEEAREASHRHLAFIEEILLDRSREES
+            RRERSLRRLEQRKN
+NTSEQ       765
+            atggcctacagcaaaatccgccaaccaaaactctccgatgtgattgagcagcaactggag
+            tttttgatcctcgaaggcactctccgcccgggcgaaaaactcccaccggaacgcgaactg
+            gcaaaacagtttgacgtctcccgtccctccttgcgtgaggcgattcaacgtctcgaagcg
+            aagggcttgttgcttcgtcgccagggtggcggcacttttgtccagagcagcctatggcaa
+            agcttcagcgatccgctggtggagctgctctccgaccatcctgagtcacagtatgacttg
+            ctcgaaacacgacacgccctggaaggtatcgccgcttattacgccgcgctgcgtagtacc
+            gatgaagacaaggaacgcatccgtgaactccaccacgccatagagctggcgcagcagtct
+            ggcgatctggacgcggaatcaaacgccgtactccagtatcagattgccgtcaccgaagcg
+            gcccacaatgtggttctgcttcatctgctaaggtgtatggagccgatgttggcccagaat
+            gtccgccagaacttcgaattgctctattcgcgtcgcgagatgctgccgctggtgagtagt
+            caccgcacccgcatatttgaagcgattatggccggtaagccggaagaagcgcgcgaagca
+            tcgcatcgccatctggcctttatcgaagaaattttgctcgacagaagtcgtgaagagagc
+            cgccgtgagcgttctctgcgtcgtctggagcaacgaaagaattag
+///

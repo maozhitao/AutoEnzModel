@@ -1,0 +1,45 @@
+ENTRY       b3669             CDS       T00007
+NAME        uhpA
+DEFINITION  (RefSeq) DNA-binding transcriptional activator UhpA
+ORTHOLOGY   K07686  two-component system, NarL family, uhpT operon response regulator UhpA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b3669 (uhpA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b3669 (uhpA)
+            Two-component system [BR:eco02022]
+             NarL family
+              UhpB-UhpA (hexose phosphates uptake)
+               b3669 (uhpA)
+POSITION    complement(3850136..3850726)
+MOTIF       Pfam: Response_reg GerE Sigma70_r4_2 HTH_Tnp_ISL3 HTH_23 HTH_28 HTH_24 HTH_29 HTH_38 Terminase_5 HTH_40 HTH_Tnp_1 HTH_7 HTH_5 Sigma70_r4 Sigma70_ECF HTH_IclR HTH_20 HTH_AsnC-type HTH_10 DUF742 HTH_11 Cadherin_2 HTH_AraC IF2_N TnsD
+DBLINKS     NCBI-GeneID: 948178
+            NCBI-ProteinID: NP_418125
+            Pasteur: uhpA
+            RegulonDB: ECK120001040
+            ECOCYC: EG11051
+            ASAP: ABE-0011995
+            UniProt: P0AGA6
+AASEQ       196
+            MITVALIDDHLIVRSGFAQLLGLEPDLQVVAEFGSGREALAGLPGRGVQVCICDISMPDI
+            SGLELLSQLPKGMATIMLSVHDSPALVEQALNAGARGFLSKRCSPDELIAAVHTVATGGC
+            YLTPDIAIKLASGRQDPLTKRERQVAEKLAQGMAVKEIAAELGLSPKTVHVHRANLMEKL
+            GVSNDVELARRMFDGW
+NTSEQ       591
+            atgatcaccgttgcccttatagacgatcacctcatcgtccgctccggctttgcgcagctg
+            ctggggctggaacctgatttgcaggtagttgccgagtttggttcggggcgcgaggcgctg
+            gcggggctgccggggcgcggtgtgcaggtgtgtatttgcgatatctccatgcccgatatc
+            tccggtctggagctgctaagccagctgccgaaaggtatggcgacgattatgctctccgtt
+            cacgacagtcctgcgctggttgagcaggcgcttaacgcgggggcacgcggctttctttcc
+            aaacgctgtagcccggatgaactcattgctgcggtgcatacggttgccacgggcggctgt
+            tatctgacgccggatattgccattaaactggcatccggtcgtcaggacccgctaaccaaa
+            cgtgaacgccaggtggcggaaaaactggcgcaaggaatggcggtgaaagagattgccgcc
+            gaactgggcttgtcaccgaaaacggtacacgtccatcgcgccaatctgatggaaaaactg
+            ggcgtcagtaacgacgtagagctggcgcgccgcatgtttgatggctggtga
+///

@@ -1,0 +1,45 @@
+ENTRY       b3986             CDS       T00007
+NAME        rplL
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L12
+ORTHOLOGY   K02935  large subunit ribosomal protein L7/L12
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3986 (rplL)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3986 (rplL)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b3986 (rplL)
+              Bacteria
+                b3986 (rplL)
+POSITION    4180560..4180925
+MOTIF       Pfam: Ribosomal_L12 Ribosomal_L12_N Ribosomal_S9
+DBLINKS     NCBI-GeneID: 948489
+            NCBI-ProteinID: NP_418413
+            Pasteur: rplL
+            RegulonDB: ECK120000864
+            ECOCYC: EG10873
+            ASAP: ABE-0013038
+            UniProt: P0A7K2
+STRUCTURE   PDB: 1CTF 6I0Y 4UY8 3J7Z 2BCW 1RQT 1RQU 1RQV
+AASEQ       121
+            MSITKDQIIEAVAAMSVMDVVELISAMEEKFGVSAAAAVAVAAGPVEAAEEKTEFDVILK
+            AAGANKVAVIKAVRGATGLGLKEAKDLVESAPAALKEGVSKDDAEALKKALEEAGAEVEV
+            K
+NTSEQ       366
+            atgtctatcactaaagatcaaatcattgaagcagttgcagctatgtctgtaatggacgtt
+            gtagaactgatctctgcaatggaagaaaaattcggtgtttccgctgctgctgctgtagct
+            gtagctgctggcccggttgaagctgctgaagaaaaaactgaattcgacgtaattctgaaa
+            gctgctggcgctaacaaagttgctgttatcaaagcagtacgtggcgcaactggcctgggt
+            ctgaaagaagctaaagacctggtagaatctgcaccggctgctctgaaagaaggcgtgagc
+            aaagacgacgcagaagcactgaaaaaagctctggaagaagctggcgctgaagttgaagtt
+            aaataa
+///

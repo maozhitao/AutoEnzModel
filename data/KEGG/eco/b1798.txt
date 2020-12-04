@@ -1,0 +1,41 @@
+ENTRY       b1798             CDS       T00007
+NAME        leuE
+DEFINITION  (RefSeq) leucine exporter
+ORTHOLOGY   K11250  leucine efflux protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1798 (leuE)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b1798 (leuE)
+POSITION    complement(1880121..1880759)
+MOTIF       Pfam: LysE TerC
+DBLINKS     NCBI-GeneID: 946157
+            NCBI-ProteinID: NP_416312
+            Pasteur: yeaS
+            RegulonDB: ECK120003571
+            ECOCYC: G6984
+            ASAP: ABE-0005984
+            UniProt: P76249
+AASEQ       212
+            MFAEYGVLNYWTYLVGAIFIVLVPGPNTLFVLKNSVSSGMKGGYLAACGVFIGDAVLMFL
+            AWAGVATLIKTTPILFNIVRYLGAFYLLYLGSKILYATLKGKNSEAKSDEPQYGAIFKRA
+            LILSLTNPKAILFYVSFFVQFIDVNAPHTGISFFILAATLELVSFCYLSFLIISGAFVTQ
+            YIRTKKKLAKVGNSLIGLMFVGFAARLATLQS
+NTSEQ       639
+            gtgttcgctgaatacggggttctgaattactggacctatctggttggggccatttttatt
+            gtgttggtgccagggccaaataccctgtttgtactcaaaaatagcgtcagtagcggtatg
+            aaaggcggttatcttgcggcctgcggtgtatttattggcgatgcggtattgatgtttctg
+            gcatgggctggagtggcgacattaattaagaccaccccgatattattcaacattgtacgt
+            tatcttggtgcgttttatttgctctatctggggagtaaaattctttacgcgaccctgaag
+            ggtaaaaatagcgaggccaaatccgatgagccccaatacggtgctatttttaaacgcgcg
+            ttaattttgagcctgactaatccgaaagccattttgttctatgtgtcgtttttcgtacag
+            tttatcgatgttaatgccccacatacgggaatttcattctttattctggcggcgacgctg
+            gaactggtgagtttctgctatttgagcttcctgattatatctggtgcttttgtcacgcag
+            tacatacgtaccaaaaagaaactggctaaagttggcaactcactgattggtttgatgttc
+            gtgggtttcgctgcccgactggcgacgctgcaatcctga
+///

@@ -1,0 +1,107 @@
+ENTRY       b0473             CDS       T00007
+NAME        htpG
+DEFINITION  (RefSeq) chaperone protein HtpG
+ORTHOLOGY   K04079  molecular chaperone HtpG
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01009 Protein phosphatases and associated proteins [BR:eco01009]
+                b0473 (htpG)
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b0473 (htpG)
+               04131 Membrane trafficking [BR:eco04131]
+                b0473 (htpG)
+               03051 Proteasome [BR:eco03051]
+                b0473 (htpG)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b0473 (htpG)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:eco04147]
+                b0473 (htpG)
+            Protein phosphatases and associated proteins [BR:eco01009]
+             Protein serine/threonine phosphatases
+              Phosphoprotein phosphatases (PPPs)
+               Protein phosphatase-5
+                PP5-interacting proteins
+                 b0473 (htpG)
+            Chaperones and folding catalysts [BR:eco03110]
+             Heat shock proteins
+              HSP90
+               b0473 (htpG)
+            Membrane trafficking [BR:eco04131]
+             Autophagy
+              Chaperone mediated autophagy (CMA)
+               Chaperones
+                b0473 (htpG)
+            Proteasome [BR:eco03051]
+             Eukaryotic proteasome
+              Assembling factors
+               Other assembling factors
+                b0473 (htpG)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial quality control factors
+              Mitophagy factors
+               Parkin-independent mechanism factors
+                b0473 (htpG)
+            Exosome [BR:eco04147]
+             Exosomal proteins
+              Proteins found in most exosomes
+               b0473 (htpG)
+POSITION    495120..496994
+MOTIF       Pfam: HSP90 HATPase_c HATPase_c_3 Apolipoprotein PE HP0268
+DBLINKS     NCBI-GeneID: 945099
+            NCBI-ProteinID: NP_415006
+            Pasteur: htpG
+            RegulonDB: ECK120000454
+            ECOCYC: EG10461
+            ASAP: ABE-0001642
+            UniProt: P0A6Z3
+STRUCTURE   PDB: 2IOR 2GQ0 1SF8 1Y4S 1Y4U 2IOQ 2IOP
+AASEQ       624
+            MKGQETRGFQSEVKQLLHLMIHSLYSNKEIFLRELISNASDAADKLRFRALSNPDLYEGD
+            GELRVRVSFDKDKRTLTISDNGVGMTRDEVIDHLGTIAKSGTKSFLESLGSDQAKDSQLI
+            GQFGVGFYSAFIVADKVTVRTRAAGEKPENGVFWESAGEGEYTVADITKEDRGTEITLHL
+            REGEDEFLDDWRVRSIISKYSDHIALPVEIEKREEKDGETVISWEKINKAQALWTRNKSE
+            ITDEEYKEFYKHIAHDFNDPLTWSHNRVEGKQEYTSLLYIPSQAPWDMWNRDHKHGLKLY
+            VQRVFIMDDAEQFMPNYLRFVRGLIDSSDLPLNVSREILQDSTVTRNLRNALTKRVLQML
+            EKLAKDDAEKYQTFWQQFGLVLKEGPAEDFANQEAIAKLLRFASTHTDSSAQTVSLEDYV
+            SRMKEGQEKIYYITADSYAAAKSSPHLELLRKKGIEVLLLSDRIDEWMMNYLTEFDGKPF
+            QSVSKVDESLEKLADEVDESAKEAEKALTPFIDRVKALLGERVKDVRLTHRLTDTPAIVS
+            TDADEMSTQMAKLFAAAGQKVPEVKYIFELNPDHVLVKRAADTEDEAKFSEWVELLLDQA
+            LLAERGTLEDPNLFIRRMNQLLVS
+NTSEQ       1875
+            atgaaaggacaagaaactcgtggttttcagtcagaagtgaaacagcttctgcacctgatg
+            atccattctctctattccaataaagaaatcttcctgcgtgagcttatctctaacgcctcc
+            gatgcggcggacaagctgcgtttccgtgcgctctctaacccggacctgtacgaaggtgat
+            ggcgaactacgcgttcgtgtctctttcgataaagacaagcgtacgctgaccatctccgat
+            aacggcgtggggatgacccgcgacgaagtgattgaccatctggggactatcgctaaatcc
+            ggtaccaaatcattcctcgaatccctgggttctgaccaggcgaaagacagccagctgatc
+            ggtcagtttggtgttggtttctactctgcgtttatcgtggccgacaaagtgaccgtgcgt
+            actcgcgcggcaggcgaaaaaccagaaaatggcgtcttctgggaatcggctggcgaaggt
+            gaatacaccgttgccgacatcaccaaagaagatcgtggtactgaaatcaccctgcatctg
+            cgtgaaggcgaagacgagttcctcgatgactggcgcgtgcgttccatcatcagcaaatac
+            tccgaccatatcgcgctgccggtagagatcgaaaaacgcgaagagaaagacggcgaaacc
+            gttatctcctgggagaaaatcaacaaagcgcaggcgctgtggactcgtaacaagtcggaa
+            atcaccgatgaagagtacaaagagttctacaaacacatcgcccacgactttaatgatccg
+            ctgacctggagccacaaccgtgttgaaggtaagcaggagtacaccagcctgctgtacatc
+            ccgtcccaggctccgtgggatatgtggaaccgcgatcataaacacggcctgaaactgtat
+            gttcagcgtgtgttcatcatggacgacgcagaacagttcatgccgaactatctgcgcttc
+            gtgcgtggtctgattgactccagcgatctgccgctgaacgtttcccgtgaaatcctccag
+            gacagcacggtaacgcgtaacctgcgcaatgcgctgaccaagcgtgtgctgcaaatgctg
+            gaaaaactggcgaaagacgacgcggaaaaataccagaccttctggcaacagtttggcctg
+            gtactgaaagaaggtccggcggaagatttcgctaaccaggaagcgatcgccaaactgctg
+            cgttttgcttctacccataccgattcttctgcgcagaccgtatctctggaagactacgtt
+            tcccgcatgaaagaagggcaggagaaaatctactacatcaccgcagacagctatgcggca
+            gcgaagagcagcccgcacctggaactgctgcgtaagaaaggcatcgaagttctgctgctt
+            tccgaccgcatcgatgagtggatgatgaactatctgactgagttcgacggtaaaccgttc
+            cagtcggtgtctaaagttgacgagtcgcttgaaaaactggctgacgaagttgatgagagc
+            gcgaaagaagcggagaaagcactgactccgttcatcgaccgtgtgaaagccctgctcggc
+            gagcgcgtgaaagatgtccgtctgactcaccgtctgaccgatacgccagcgatcgtttcg
+            accgacgcggacgaaatgagcactcagatggcgaaactgttcgctgcggcgggccagaaa
+            gtgccagaagtgaaatacatcttcgaactgaacccggatcacgtactggtgaaacgtgcg
+            gcagatactgaagatgaagcgaagttcagcgagtgggtagaactgctgctggatcaggcg
+            ctgctggcagaacgcggcacgctggaagatccgaacctgtttattcgtcgtatgaaccag
+            ctgctggtttcctga
+///

@@ -1,0 +1,76 @@
+ENTRY       b4399             CDS       T00007
+NAME        creC
+DEFINITION  (RefSeq) sensory histidine kinase CreC
+ORTHOLOGY   K07641  two-component system, OmpR family, sensor histidine kinase CreC [EC:2.7.13.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b4399 (creC)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b4399 (creC)
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b4399 (creC)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 b4399 (creC)
+            Protein kinases [BR:eco01001]
+             Histidine kinases
+              OmpR family
+               b4399 (creC)
+            Two-component system [BR:eco02022]
+             OmpR family
+              CreC-CreB (phosphate regulation)
+               b4399 (creC)
+POSITION    4636696..4638120
+MOTIF       Pfam: HATPase_c HisKA HAMP sCache_3_2 dCache_1 HATPase_c_5 HATPase_c_3 HATPase_c_2 GAF GAF_2 GAF_3
+DBLINKS     NCBI-GeneID: 948609
+            NCBI-ProteinID: NP_418816
+            Pasteur: creC
+            RegulonDB: ECK120000721
+            ECOCYC: EG10730
+            ASAP: ABE-0014430
+            UniProt: P08401
+AASEQ       474
+            MRIGMRLLLGYFLLVAVAAWFVLAIFVKEVKPGVRRATEGTLIDTATLLAELARPDLLSG
+            DPTHGQLAQAFNQLQHRPFRANIGGINKVRNEYHVYMTDAQGKVLFDSANKAVGQDYSRW
+            NDVWLTLRGQYGARSTLQNPADPESSVMYVAAPIMDGSRLIGVLSVGKPNAAMAPVIKRS
+            ERRILWASAILLGIALVIGAGMVWWINRSIARLTRYADSVTDNKPVPLPDLGSSELRKLA
+            QALESMRVKLEGKNYIEQYVYALTHELKSPLAAIRGAAEILREGPPPEVVARFTDNILTQ
+            NARMQALVETLLRQARLENRQEVVLTAVDVAALFRRVSEARTVQLAEKKITLHVTPTEVN
+            VAAEPALLEQALGNLLDNAIDFTPESGCITLSAEVDQEHVTLKVLDTGSGIPDYALSRIF
+            ERFYSLPRANGQKSSGLGLAFVSEVARLFNGEVTLRNVQEGGVLASLRLHRHFT
+NTSEQ       1425
+            atgcgtatcggcatgcggttgttgctgggctattttttactggtggcggtggcagcctgg
+            ttcgtactggccatttttgtcaaagaagttaaaccgggcgtgcgaagagcaacggagggg
+            acgttgatcgacaccgcaacgttgctggcggagctggcgcgtcccgatttgctctctggg
+            gacccaacgcatgggcaactggcgcaggcgtttaatcagctacaacatcgcccgtttcgc
+            gccaatatcggtggcattaacaaagtgcgcaatgaatatcatgtctatatgaccgatgcg
+            cagggcaaagtattgttcgattcggcaaataaagccgttggacaggattattcgcgctgg
+            aatgacgtctggctaacgttgcgtggtcagtatggtgcgcgcagcacgttgcaaaatcct
+            gccgatcccgaaagttctgtgatgtatgttgccgcaccgattatggacggctcgcggctt
+            attggcgttttgagcgtaggcaaaccgaacgcggcgatggctccggtcattaagcgtagc
+            gagcggcgaattttatgggccagcgccattttgttggggattgcactggtgattggcgca
+            ggcatggtttggtggatcaaccgctctattgcccggctcactcgctatgctgattccgtc
+            actgacaataagcccgttcctctccccgatctcggtagtagcgagttgcgtaaactcgcg
+            caggcgctggaaagtatgcgcgtgaagctggaagggaaaaactatattgagcagtatgtt
+            tacgcattaactcatgagctaaaaagcccactggcggcgattcgtggagcggcggaaatt
+            ttacgcgaaggtccgccgccggaagtggtggctcgttttactgacaacattctgacgcaa
+            aatgcgcgtatgcaggcattggtagaaacgttactacgccaggcaagactggagaatcgt
+            caggaagtcgttctgactgctgttgatgtggcggcattattccgccgcgtcagcgaagcg
+            cgcaccgtgcagttggcagaaaaaaaaatcactctgcatgttacgcccaccgaggttaac
+            gttgctgctgaaccggcgttactggagcaggcgctgggaaatttactggataacgccatc
+            gattttacccccgagagcggttgcatcacgctaagcgccgaagtggatcaggaacacgtc
+            acgcttaaggtgctggataccggtagtggtattcctgactacgcgctttcacgtattttt
+            gaacgcttttactctttgcctcgtgcaaatgggcaaaaaagcagcggtctggggttggcg
+            ttcgtcagtgaggtcgcccgtttgtttaacggcgaagtcacgctgcgcaacgtgcaggaa
+            ggtggcgtgctggcctcgcttcgacttcaccgtcacttcacatag
+///

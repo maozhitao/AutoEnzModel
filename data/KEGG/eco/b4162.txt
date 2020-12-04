@@ -1,0 +1,56 @@
+ENTRY       b4162             CDS       T00007
+NAME        orn
+DEFINITION  (RefSeq) oligoribonuclease
+ORTHOLOGY   K13288  oligoribonuclease [EC:3.1.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:eco03019]
+                b4162 (orn)
+               03009 Ribosome biogenesis [BR:eco03009]
+                b4162 (orn)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 b4162 (orn)
+            Messenger RNA biogenesis [BR:eco03019]
+             Prokaryotic type
+              Bacterial mRNA degradation factors
+               RNA degradosome components
+                Ribonucreases
+                 b4162 (orn)
+            Ribosome biogenesis [BR:eco03009]
+             Eukaryotic type
+              Pre-60S particles
+               RNases
+                b4162 (orn)
+POSITION    4391604..4392149
+MOTIF       Pfam: RNase_T
+DBLINKS     NCBI-GeneID: 948675
+            NCBI-ProteinID: NP_418586
+            Pasteur: orn
+            RegulonDB: ECK120004338
+            ECOCYC: G7842
+            ASAP: ABE-0013631
+            UniProt: P0A784
+STRUCTURE   PDB: 2IGI 1YTA
+AASEQ       181
+            MSANENNLIWIDLEMTGLDPERDRIIEIATLVTDANLNILAEGPTIAVHQSDEQLALMDD
+            WNVRTHTASGLVERVKASTMGDREAELATLEFLKQWVPAGKSPICGNSIGQDRRFLFKYM
+            PELEAYFHYRYLDVSTLKELARRWKPEILDGFTKQGTHQAMDDIRESVAELAYYREHFIK
+            L
+NTSEQ       546
+            atgagtgccaatgaaaacaacctgatttggatcgatcttgagatgaccggtctggatccc
+            gagcgcgatcgcattattgagattgccacgctggtgaccgatgccaacctgaatattctg
+            gcagaagggccgaccattgcagtacaccagtctgatgaacagctggcgctgatggatgac
+            tggaacgtgcgcacccataccgccagcgggctggtagagcgcgtgaaagcgagcacgatg
+            ggcgatcgggaagctgaactggcaacgctcgaatttttaaaacagtgggtgcctgcggga
+            aaatcgccgatttgcggtaacagcatcggtcaggaccgtcgtttcctgtttaaatacatg
+            ccggagctggaagcctacttccactaccgttatctcgatgtcagcaccctgaaagagctg
+            gcgcgccgctggaagccggaaattctggatggttttaccaagcaggggacgcatcaggcg
+            atggatgatatccgtgaatcggtggcggagctggcttactaccgcgagcattttatcaag
+            ctgtaa
+///

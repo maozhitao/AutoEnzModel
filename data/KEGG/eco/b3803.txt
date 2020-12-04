@@ -1,0 +1,60 @@
+ENTRY       b3803             CDS       T00007
+NAME        hemX
+DEFINITION  (RefSeq) PF04375 family protein HemX
+ORTHOLOGY   K02496  uroporphyrin-III C-methyltransferase [EC:2.1.1.107]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00860  Porphyrin and chlorophyll metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+            eco01120  Microbial metabolism in diverse environments
+MODULE      eco_M00846  Siroheme biosynthesis, glutamate => siroheme
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00860 Porphyrin and chlorophyll metabolism
+                b3803 (hemX)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.107  uroporphyrinogen-III C-methyltransferase
+                 b3803 (hemX)
+POSITION    complement(3987885..3989066)
+MOTIF       Pfam: HemX Tweety DUF1043 ETRAMP MacB_PCD Cortex-I_coil DUF4446 KELK TEX13
+DBLINKS     NCBI-GeneID: 948446
+            NCBI-ProteinID: NP_418247
+            Pasteur: hemX
+            RegulonDB: ECK120000426
+            ECOCYC: EG10433
+            ASAP: ABE-0012419
+            UniProt: P09127
+AASEQ       393
+            MTEQEKTSAVVEETREAVDTTSQPVATEKKSKNNTALILSAVAIAIALAAGIGLYGWGKQ
+            QAVNQTATSDALANQLTALQKAQESQKAELEGIIKQQAAQLKQANRQQETLAKQLDEVQQ
+            KVATISGSDAKTWLLAQADFLVKLAGRKLWSDQDVTTAAALLKSADASLADMNDPSLITV
+            RRAITDDIASLSAVSQVDYDGIILKLNQLSNQVDNLRLADNDSDGSPMDSDGEELSSSIS
+            EWRINLQKSWQNFMDNFITIRRRDDTAVPLLAPNQDIYLRENIRSRLLVAAQAVPRHQEE
+            TYRQALENVSTWVRAYYDTDDATTKAFLDEVDQLSQQNISMDLPETLQSQAMLEKLMQTR
+            VRNLLAQPAAGTTEAKPAPAPQADTPAAAPQGE
+NTSEQ       1182
+            atgacggaacaagaaaaaacctccgccgtggttgaagagaccagggaggccgtggacacc
+            acgtcacaacctgtcgcaacagaaaaaaagagtaagaacaataccgcattgattctcagc
+            gcggtggctatcgctattgctctggcggcgggcatcggtttgtatggctggggtaaacaa
+            caggccgtcaatcagaccgccaccagcgatgccctggctaaccaactgacggcattgcaa
+            aaagcccaggagagccaaaaagccgagctggaaggcattattaagcaacaagctgcacaa
+            cttaagcaggcgaatcgtcagcaagaaacgctggcaaaacagttggatgaagtccaacaa
+            aaggtcgccaccatttccggcagcgatgctaaaacctggctgctggctcaggccgatttt
+            ctggtgaaactcgccggacggaagctgtggagcgatcaggacgtcacgaccgctgcagcg
+            ttgctgaaaagtgcagacgccagcctggcggatatgaatgacccgagtctgattaccgtt
+            cgtcgggcaattaccgatgatatcgccagcctttctgcagtatcgcaggtggattatgac
+            ggcatcatccttaagcttaatcagctttcaaatcaggtagataacctgcgtctggccgat
+            aatgacagcgatggttcgccgatggattcagacggtgaagagctttccagttccatcagc
+            gaatggcgtatcaatctgcaaaaaagctggcagaactttatggacaacttcattacgatt
+            cgccgtcgtgatgacaccgccgtaccgctgttagcgccaaatcaggatatctatctgcgc
+            gaaaatattcgctctcgcctgctggtcgcagcacaagctgtaccgcgtcaccaggaagag
+            acttatcgccaggcgctggagaacgtctccacctgggtacgtgcttactacgatactgat
+            gatgccaccaccaaagcgttcctcgacgaggtggaccagttaagccagcaaaatatctcg
+            atggatcttccggaaaccctgcaaagccaggcgatgctggaaaaactgatgcagactcgc
+            gtgcgtaacctgctggcacaaccggcagcggggacaacggaagctaaacctgcacctgca
+            ccgcaagctgatactccggcagccgcgccgcaaggagaataa
+///

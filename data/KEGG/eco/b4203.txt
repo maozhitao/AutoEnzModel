@@ -1,0 +1,48 @@
+ENTRY       b4203             CDS       T00007
+NAME        rplI
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L9
+ORTHOLOGY   K02939  large subunit ribosomal protein L9
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b4203 (rplI)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b4203 (rplI)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b4203 (rplI)
+              Bacteria
+                b4203 (rplI)
+POSITION    4426108..4426557
+MOTIF       Pfam: Ribosomal_L9_C Ribosomal_L9_N
+DBLINKS     NCBI-GeneID: 948720
+            NCBI-ProteinID: NP_418624
+            Pasteur: rplI
+            RegulonDB: ECK120000861
+            ECOCYC: EG10870
+            ASAP: ABE-0013746
+            UniProt: P0A7R1
+STRUCTURE   PDB: 6QUL 6S0K 6I0Y 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH 4UY8
+                 3J7Z 6GC4 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L 2J28 2RDO 3BBX
+                 3IY9
+AASEQ       149
+            MQVILLDKVANLGSLGDQVNVKAGYARNFLVPQGKAVPATKKNIEFFEARRAELEAKLAE
+            VLAAANARAEKINALETVTIASKAGDEGKLFGSIGTRDIADAVTAAGVEVAKSEVRLPNG
+            VLRTTGEHEVSFQVHSEVFAKVIVNVVAE
+NTSEQ       450
+            atgcaagttattctgcttgataaagtagcaaacctgggtagcctgggtgatcaggtaaac
+            gttaaagcgggctatgctcgtaacttcctggtaccgcagggtaaagctgttccagctacc
+            aagaaaaacattgaattcttcgaagctcgtcgcgctgaactggaagctaaactggctgaa
+            gttctggcagctgctaatgctcgcgctgagaaaatcaatgcactggaaactgttaccatc
+            gcgtctaaagctggcgacgaaggtaaactgttcggttccatcggtactcgcgacatcgct
+            gacgctgtaactgcagctggcgttgaagtggctaagagcgaagttcgtctgccgaacggc
+            gttctgcgtaccactggcgaacacgaagtgagcttccaggttcacagcgaagtattcgcg
+            aaagtgatcgtaaacgtagtagctgaataa
+///

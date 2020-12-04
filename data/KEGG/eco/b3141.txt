@@ -1,0 +1,48 @@
+ENTRY       b3141             CDS       T00007
+NAME        agaI
+DEFINITION  (RefSeq) putative deaminase AgaI
+ORTHOLOGY   K02080  galactosamine-6-phosphate isomerase [EC:5.3.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00052  Galactose metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00052 Galactose metabolism
+                b3141 (agaI)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.3  Intramolecular oxidoreductases
+               5.3.1  Interconverting aldoses and ketoses, and related compounds
+                5.3.1.-  
+                 b3141 (agaI)
+POSITION    3286270..3287025
+MOTIF       Pfam: Glucosamine_iso Ago_PAZ
+DBLINKS     NCBI-GeneID: 947985
+            NCBI-ProteinID: NP_417610
+            Pasteur: agaI
+            RegulonDB: ECK120004186
+            ECOCYC: G7636
+            ASAP: ABE-0010317
+            UniProt: P42912
+AASEQ       251
+            MERGTASGGASLLKEFHPVQTLQQVENYTALSERASEYLLAVIRSKPNAVICLATGATPL
+            LTYHYLVEKIHQQQVDVSQLTFVKLDEWVDLPLTMPGTCETFLQQHIVQPLGLREDQLIS
+            FRSEEINETECERVTNLIARKGGLDLCVLGLGKNGHLGLNEPGESLQPACHISQLDARTQ
+            QHEMLKTAGRPVTRGITLGLKDILNAREVLLLVTGEGKQDATDRFLTAKVSTAIPASFLW
+            LHSNFICLINT
+NTSEQ       756
+            atggaacgaggcactgcgtctggtggtgcctctttacttaaggaatttcatcctgtgcaa
+            acccttcagcaagttgaaaactatacggcgttaagtgaacgtgccagcgaatatttattg
+            gccgtgatccgtagcaaaccgaatgccgtgatttgcctggcgaccggagccacgccatta
+            ctgacgtatcattatctggtagaaaaaatccaccagcagcaggttgatgtcagccagctc
+            accttcgtgaagctcgacgaatgggtggatctgccattaacgatgccaggcacctgcgaa
+            actttcctgcaacagcatatcgtgcagccgctggggctacgtgaagaccagctcatcagc
+            tttcgctccgaagagataaatgagacagagtgcgaacgggtaacgaacctgattgcgcgc
+            aaaggcggtctggatttatgcgttctcggattggggaaaaacggtcatcttgggctgaac
+            gaaccgggagaaagcctgcaaccggcctgccatatcagtcaacttgatgccagaacacag
+            caacatgagatgttaaaaaccgcgggtcgccccgtgactcgtgggatcaccttaggcctg
+            aaggatattctcaatgcccgcgaagttttgttactggtgactggcgaaggaaagcaggat
+            gcgacagatcgttttctcacggctaaagtctctaccgctatcccggcttcatttttatgg
+            ctgcacagtaactttatttgtttaattaacacctaa
+///

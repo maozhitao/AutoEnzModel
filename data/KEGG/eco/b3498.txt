@@ -1,0 +1,79 @@
+ENTRY       b3498             CDS       T00007
+NAME        prlC
+DEFINITION  (RefSeq) oligopeptidase A
+ORTHOLOGY   K01414  oligopeptidase A [EC:3.4.24.70]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b3498 (prlC)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.70  oligopeptidase A
+                 b3498 (prlC)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M3
+               b3498 (prlC)
+POSITION    complement(3643140..3645182)
+MOTIF       Pfam: Peptidase_M3
+DBLINKS     NCBI-GeneID: 948016
+            NCBI-ProteinID: NP_417955
+            Pasteur: prlC
+            RegulonDB: ECK120001405
+            ECOCYC: EG11441
+            ASAP: ABE-0011421
+            UniProt: P27298
+AASEQ       680
+            MTNPLLTPFELPPFSKILPEHVVPAVTKALNDCRENVERVVAQGAPYTWENLCQPLAEVD
+            DVLGRIFSPVSHLNSVKNSPELREAYEQTLPLLSEYSTWVGQHEGLYKAYRDLRDGDHYA
+            TLNTAQKKAVDNALRDFELSGIGLPKEKQQRYGEIATRLSELGNQYSNNVLDATMGWTKL
+            VTDEAELAGMPESALAAAKAQAEAKELEGYLLTLDIPSYLPVMTYCDNQALREEMYRAYS
+            TRASDQGPNAGKWDNSKVMEEILALRHELAQLLGFENYAFKSLATKMAENPQQVLDFLTD
+            LAKRARPQGEKELAQLRAFAKAEFGVDELQPWDIAYYSEKQKQHLYSISDEQLRPYFPEN
+            KAVNGLFEVVKRIYGITAKERKDVDVWHPDVRFFELYDENNELRGSFYLDLYARENKRGG
+            AWMDDCVGQMRKADGSLQKPVAYLTCNFNRPVNGKPALFTHDEVITLFHEFGHGLHHMLT
+            RIETAGVSGISGVPWDAVELPSQFMENWCWEPEALAFISGHYETGEPLPKELLDKMLAAK
+            NYQAALFILRQLEFGLFDFRLHAEFRPDQGAKILETLAEIKKLVAVVPSPSWGRFPHAFS
+            HIFAGGYAAGYYSYLWADVLAADAFSRFEEEGIFNRETGQSFLDNILSRGGSEEPMDLFK
+            RFRGREPQLDAMLEHYGIKG
+NTSEQ       2043
+            atgacgaatccgttactgactccctttgaattgcctccgttttctaaaattctcccggaa
+            catgtcgttccagccgtgactaaggcattgaacgactgccgcgaaaacgtggagcgcgta
+            gtagcgcaaggggcaccgtacacctgggaaaatctctgccagccgctggcggaagtggac
+            gatgtgttggggcgtatcttctccccggtcagccacctgaactcggtgaaaaatagcccg
+            gaactgcgtgaagcctacgaacaaaccctgccgctgctgtcggaatacagcacctgggta
+            gggcaacatgaagggctgtataaagcgtatcgcgacctgcgcgatggcgatcattacgcc
+            acgctgaacacggcgcagaagaaagcggttgataacgcactgcgcgactttgaactctct
+            ggcataggtctgccgaaagagaaacagcagcgttacggcgaaattgcgacccgtctttct
+            gaactgggcaaccagtacagcaacaacgtcctcgatgcgacaatgggctggaccaaactc
+            gttaccgacgaagcggagctggcggggatgccagaaagcgcgctggctgcggcaaaagcc
+            caggccgaagcgaaagagctggaaggttatttgctgacgctggatatcccaagctacttg
+            ccggtaatgacctactgcgacaaccaggctctgcgtgaagagatgtatcgcgcttacagc
+            acccgcgcctccgatcaaggcccaaacgccggtaaatgggataacagcaaggtgatggaa
+            gagatcctcgcgctgcgtcacgaactggcgcaactgctgggctttgaaaactacgccttt
+            aaatcccttgccactaaaatggcagaaaacccgcagcaggtgctggatttcttaaccgat
+            ctggcaaaacgcgcgcgtccacaaggcgaaaaagagctggcgcaattgcgtgcctttgcc
+            aaagccgaatttggcgtcgatgagttgcagccgtgggatatcgcttactacagcgaaaaa
+            caaaaacagcacctctacagcatcagtgacgaacagctgcgtccgtacttcccggaaaac
+            aaagcggttaacggcctgtttgaagtggttaagcgtatttacggcatcaccgctaaagag
+            cgtaaagatgttgatgtctggcatccggatgtacgtttcttcgaactgtatgacgaaaat
+            aacgaactgcgcggtagcttctacctcgatctgtatgcccgtgaaaacaagcgcggcggg
+            gcgtggatggatgactgcgtaggccagatgcgtaaagctgatggttctttgcaaaaaccg
+            gtcgcgtatttgacttgtaacttcaaccgcccggtaaatggtaaaccggcgctgttcact
+            cacgacgaagtgatcaccctcttccacgagttcggtcacggcctgcaccatatgctgacc
+            cgcatcgaaaccgctggtgtttccggtatcagcggtgtgccgtgggatgcggtcgaactg
+            ccgagtcagtttatggaaaactggtgctgggagccggaggcgctggcgtttatctctggt
+            cactatgaaaccggcgaaccgctgccgaaagagttgctggataaaatgctggcggcgaag
+            aactaccaggcggcgctgtttattctgcgtcagctggagttcggcctgtttgatttccgc
+            cttcatgccgagttccgcccggatcagggggcaaaaatcctcgaaactctggcagaaatc
+            aagaaactggttgccgtggtgccatctccgtcctggggccgtttcccgcacgctttcagc
+            catattttcgccggtggttatgccgcaggttactacagctacctgtgggctgacgtactg
+            gcggcagatgctttctcgcgctttgaggaagagggcattttcaaccgtgaaaccgggcag
+            tcgttcctcgacaacattctgagccgtggcggttcagaagagccgatggatctgttcaaa
+            cgcttccgtggtcgtgaaccgcagctggatgcgatgctggagcattacggcattaagggc
+            tga
+///

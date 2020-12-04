@@ -1,0 +1,46 @@
+ENTRY       b0102             CDS       T00007
+NAME        zapD
+DEFINITION  (RefSeq) cell division factor ZapD
+ORTHOLOGY   K18778  cell division protein ZapD
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b0102 (zapD)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Divisome proteins
+                b0102 (zapD)
+POSITION    complement(111856..112599)
+MOTIF       Pfam: ZapD
+DBLINKS     NCBI-GeneID: 944873
+            NCBI-ProteinID: NP_414644
+            Pasteur: yacF
+            RegulonDB: ECK120002190
+            ECOCYC: EG12313
+            ASAP: ABE-0000355
+            UniProt: P36680
+STRUCTURE   PDB: 5DKO 5KOA 5IMJ
+AASEQ       247
+            MQTQVLFEHPLNEKMRTWLRIEFLIQQLTVNLPIVDHAGALHFFRNVSELLDVFERGEVR
+            TELLKELDRQQRKLQTWIGVPGVDQSRIEALIQQLKAAGSVLISAPRIGQFLREDRLIAL
+            VRQRLSIPGGCCSFDLPTLHIWLHLPQAQRDSQVETWIASLNPLTQALTMVLDLIRQSAP
+            FRKQTSLNGFYQDNGGDADLLRLNLSLDSQLYPQISGHKSRFAIRFMPLDTENGQVPERL
+            DFELACC
+NTSEQ       744
+            atgcagacccaggtcctttttgaacatccactaaatgaaaaaatgcgtacatggctgcgc
+            attgagtttttgattcagcaactcaccgttaatttacccatcgttgaccacgctggcgcg
+            ctgcatttcttccgtaatgtcagtgaattactggatgttttcgagcgcggcgaagtccgc
+            actgagctgttgaaagaacttgaccggcagcaacgtaaactccagacctggattggcgtg
+            cctggcgtggaccagagccgtattgaagcattaattcagcagttaaaagcggcggggagc
+            gtattaatttccgcgccgcgtatcgggcaatttctgcgtgaagatcgtttgattgctctg
+            gtgcgtcagcgactgagcatcccaggcggctgttgcagctttgatttacctacattgcac
+            atttggctgcatctaccccaggcgcagcgcgacagccaggtagaaacctggattgccagc
+            ctgaacccgctcacccaggcacttaccatggtgctggatttaattcgccagtcggccccc
+            ttccgtaaacaaaccagcctgaatggtttttatcaggataacggtggcgatgccgacttg
+            ctgcgcctgaatctgtcgctcgattcacagctttatccgcaaatttccggacataagagc
+            cgttttgccattcgttttatgccgctggacactgaaaacggacaggtaccggaacgtctg
+            gatttcgaactggcctgttgctaa
+///

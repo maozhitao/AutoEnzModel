@@ -1,0 +1,80 @@
+ENTRY       b1830             CDS       T00007
+NAME        prc
+DEFINITION  (RefSeq) tail-specific protease
+ORTHOLOGY   K03797  carboxyl-terminal processing protease [EC:3.4.21.102]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b1830 (prc)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.102  C-terminal processing peptidase
+                 b1830 (prc)
+            Peptidases and inhibitors [BR:eco01002]
+             Serine peptidases
+              Family S41: C-terminal processing peptidase family
+               b1830 (prc)
+POSITION    complement(1912768..1914816)
+MOTIF       Pfam: TSP_NTD Peptidase_S41 DUF3340 PDZ PDZ_6 PDZ_2
+DBLINKS     NCBI-GeneID: 946096
+            NCBI-ProteinID: NP_416344
+            Pasteur: prc
+            RegulonDB: ECK120000751
+            ECOCYC: EG10760
+            ASAP: ABE-0006090
+            UniProt: P23865
+STRUCTURE   PDB: 5WQL 6IQS 6IQQ 6IQU 6IQR
+AASEQ       682
+            MNMFFRLTALAGLLAIAGQTFAVEDITRADQIPVLKEETQHATVSERVTSRFTRSHYRQF
+            DLDQAFSAKIFDRYLNLLDYSHNVLLASDVEQFAKKKTELGDELRSGKLDVFYDLYNLAQ
+            KRRFERYQYALSVLEKPMDFTGNDTYNLDRSKAPWPKNEAELNALWDSKVKFDELSLKLT
+            GKTDKEIRETLTRRYKFAIRRLAQTNSEDVFSLAMTAFAREIDPHTNYLSPRNTEQFNTE
+            MSLSLEGIGAVLQMDDDYTVINSMVAGGPAAKSKAISVGDKIVGVGQTGKPMVDVIGWRL
+            DDVVALIKGPKGSKVRLEILPAGKGTKTRTVTLTRERIRLEDRAVKMSVKTVGKEKVGVL
+            DIPGFYVGLTDDVKVQLQKLEKQNVSSVIIDLRSNGGGALTEAVSLSGLFIPAGPIVQVR
+            DNNGKVREDSDTDGQVFYKGPLVVLVDRFSASASEIFAAAMQDYGRALVVGEPTFGKGTV
+            QQYRSLNRIYDQMLRPEWPALGSVQYTIQKFYRVNGGSTQRKGVTPDIIMPTGNEETETG
+            EKFEDNALPWDSIDAATYVKSGDLTAFEPELLKEHNARIAKDPEFQNIMKDIARFNAMKD
+            KRNIVSLNYAVREKENNEDDATRLARLNERFKREGKPELKKLDDLPKDYQEPDPYLDETV
+            NIALDLAKLEKARPAEQPAPVK
+NTSEQ       2049
+            atgaacatgttttttaggcttaccgcgttagctggcctgcttgcaatagcaggccagacc
+            ttcgctgtagaagatatcacgcgtgctgatcaaattccggtattaaaggaagagacgcag
+            catgcgacggtaagtgagcgcgtaacgtcgcgcttcacccgttctcattatcgccagttc
+            gacctcgatcaggcattttcggccaaaatctttgaccgctacctgaatctgctcgattac
+            agccacaacgtgctgctggcaagcgatgttgaacagttcgcgaaaaagaaaaccgagtta
+            ggcgatgaactgcgttcaggcaaactcgacgttttctacgatctctacaatctggcgcaa
+            aagcgccgttttgagcgttaccagtacgctttgtcggtactggaaaagccgatggatttc
+            accggcaacgacacttataaccttgaccgcagcaaagcgccctggccgaaaaacgaggct
+            gagttgaacgcgctgtgggacagtaaagtcaaattcgacgagttaagcctgaagctgaca
+            ggaaaaacggataaagaaattcgtgaaaccctgactcgccgctacaaatttgccattcgt
+            cgtctggcgcaaaccaacagcgaagatgttttctcgctggcaatgacggcgtttgcgcgt
+            gaaatcgacccgcataccaactatctttccccgcgtaataccgaacagttcaacactgaa
+            atgagtttgtcgctggaaggtattggcgcagtgctgcaaatggatgatgactacaccgtt
+            atcaattcgatggtggcaggtggtccggcagcgaagagtaaagctatcagcgttggtgac
+            aaaattgtcggtgttggtcaaacaggcaagccgatggttgacgtgattggctggcgtctt
+            gatgatgtggttgccttaattaaagggccgaagggcagtaaagttcgtctggaaatttta
+            cctgctggtaaagggaccaagacccgtactgtaacgttgacccgtgaacgtattcgtctc
+            gaagaccgcgcggttaaaatgtcggtgaagaccgtcggtaaagagaaagtcggcgtgctg
+            gatattccgggcttctatgtgggtttgacagacgatgtcaaagtgcaactgcagaaactg
+            gaaaaacagaatgtcagcagcgtcatcatcgacctgcgtagcaatggcggtggggcgtta
+            actgaagccgtatcgctctccggtctgtttattcctgcgggtcccattgttcaggtccgc
+            gataacaacggcaaggttcgtgaagatagcgataccgacggacaggttttctataaaggc
+            ccgctggtggtgctggttgaccgcttcagtgcttcggcttcagaaatctttgccgcggca
+            atgcaggattacggtcgtgcgctggttgtgggtgaaccgacgtttggtaaaggcaccgtt
+            cagcaataccgttcattgaaccgtatttacgatcagatgttacgtcctgaatggccagcg
+            ctgggttctgtgcagtacacgatccagaaattctatcgcgttaacggcggcagtacgcaa
+            cgtaaaggcgtaacgccagacatcatcatgccgacgggtaatgaagaaacggaaacgggt
+            gagaaattcgaagataacgcgctgccgtgggatagcattgatgccgcgacttatgtgaaa
+            tcaggagatttaacggcctttgaaccggagctgctgaaggaacataatgcgcgtatcgcg
+            aaagatcctgagttccagaacatcatgaaggatatcgcgcgcttcaacgctatgaaggac
+            aagcgcaatatcgtttctctgaattacgctgtgcgtgagaaagagaataatgaagatgat
+            gcgacgcgtctggcgcgtttgaacgaacgctttaaacgcgaaggtaaaccggagttgaag
+            aaactggatgatctaccgaaagattaccaggagccggatccttatctggatgagacggtg
+            aatatcgcactcgatctggcgaagcttgaaaaagccagacccgcggaacaacccgctccc
+            gtcaagtaa
+///

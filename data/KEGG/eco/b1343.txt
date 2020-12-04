@@ -1,0 +1,63 @@
+ENTRY       b1343             CDS       T00007
+NAME        dbpA
+DEFINITION  (RefSeq) ATP-dependent RNA helicase DbpA
+ORTHOLOGY   K05591  ATP-dependent RNA helicase DbpA [EC:3.6.4.13]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b1343 (dbpA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.13  RNA helicase
+                 b1343 (dbpA)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA helicases
+               b1343 (dbpA)
+POSITION    1409511..1410884
+MOTIF       Pfam: DEAD Helicase_C DbpA ResIII
+DBLINKS     NCBI-GeneID: 947153
+            NCBI-ProteinID: NP_415859
+            Pasteur: dbpA
+            RegulonDB: ECK120000204
+            ECOCYC: EG10210
+            ASAP: ABE-0004511
+            UniProt: P21693
+AASEQ       457
+            MTAFSTLNVLPPAQLTNLNELGYLTMTPVQAAALPAILAGKDVRVQAKTGSGKTAAFGLG
+            LLQQIDASLFQTQALVLCPTRELADQVAGELRRLARFLPNTKILTLCGGQPFGMQRDSLQ
+            HAPHIIVATPGRLLDHLQKGTVSLDALNTLVMDEADRMLDMGFSDAIDDVIRFAPASRQT
+            LLFSATWPEAIAAISGRVQRDPLAIEIDSTDALPPIEQQFYETSSKGKIPLLQRLLSLHQ
+            PSSCVVFCNTKKDCQAVCDALNEVGQSALSLHGDLEQRDRDQTLVRFANGSARVLVATDV
+            AARGLDIKSLELVVNFELAWDPEVHVHRIGRTARAGNSGLAISFCAPEEAQRANIISDML
+            QIKLNWQTPPANSSIATLEAEMATLCIDGGKKAKMRPGDVLGALTGDIGLDGADIGKIAV
+            HPAHVYVAVRQAVAHKAWKQLQGGKIKGKTCRVRLLK
+NTSEQ       1374
+            gtgaccgctttttctaccctgaatgttttgcctcccgcccaactcacgaaccttaatgag
+            ttgggttatttaaccatgacgccggtgcaggccgccgcgcttccggcgatccttgccgga
+            aaagatgttcgcgtgcaggcgaaaaccggcagcggcaaaacggcggcttttggcctcggc
+            ttgttacagcaaattgatgcgtcgctatttcaaacccaggctttagtgctgtgtcctacg
+            cgtgaactggcggatcaggtggcaggtgaattgcgtcggctggcgcgttttctgccaaat
+            accaaaattttgacgttgtgcggtggtcaaccgttcggtatgcagcgtgattcgttgcaa
+            catgcgccgcatattatcgtggcaacgccggggcgtttgctggatcacctgcaaaaaggc
+            acggtatcactggatgcgttgaatacgctggtgatggatgaggccgaccgcatgctggat
+            atgggatttagcgatgccattgatgatgtcatccgttttgcgcctgcatctcgacagacg
+            cttctgttttcggcaacctggccggaagccatcgctgcaatcagcggacgagtgcaacgc
+            gatcctttggcgattgaaattgactcaacagatgctttgccacccattgaacaacaattt
+            tatgagacatccagcaaaggcaaaattcctctgttgcaacggttattaagcttgcatcag
+            ccatcctcttgcgtggtgttttgcaataccaaaaaagattgccaggctgtctgcgacgcg
+            ctgaatgaagtagggcaaagtgcattgtcattacacggcgatttggagcaacgcgatcgc
+            gatcagaccctggtacgttttgctaacggtagcgcccgtgtactggtcgcgactgatgtt
+            gctgcgcgtggtctggatattaaatcgcttgagctggtggtgaactttgagctggcgtgg
+            gaccctgaagttcatgtacatcgcatcggtcgtacagctcgtgcaggaaatagcggtctg
+            gcgatcagtttctgtgctccggaagaagcacagcgggccaatatcatttctgacatgttg
+            cagataaaacttaactggcaaacgccgccagctaatagttccattgcgacgctggaagca
+            gaaatggcaacgttgtgtatcgatggcgggaaaaaagccaaaatgcgcccgggtgatgta
+            ttaggtgcactgacaggagatatcgggcttgatggcgcagatattggcaaaatcgccgtg
+            catccggcgcatgtctatgtcgcggtccgtcaggctgttgctcataaagcatggaaacag
+            ttacagggcgggaagattaaaggaaaaacgtgccgggtgcggttattaaaataa
+///

@@ -1,0 +1,43 @@
+ENTRY       b4311             CDS       T00007
+NAME        nanC
+DEFINITION  (RefSeq) N-acetylneuraminic acid outer membrane channel
+ORTHOLOGY   K22110  oligogalacturonate-specific porin family protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b4311 (nanC)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b4311 (nanC)
+POSITION    complement(4538785..4539501)
+MOTIF       Pfam: KdgM
+DBLINKS     NCBI-GeneID: 946843
+            NCBI-ProteinID: NP_418731
+            Pasteur: yjhA
+            RegulonDB: ECK120004416
+            ECOCYC: G7921
+            ASAP: ABE-0014136
+            UniProt: P69856
+STRUCTURE   PDB: 2WJR 2WJQ
+AASEQ       238
+            MKKAKILSGVLLLCFSSPLISQAATLDVRGGYRSGSHAYETRLKVSEGWQNGWWASMESN
+            TWNTIHDNKKENAALNDVQVEVNYAIKLDDQWTVRPGMLTHFSSNGTRYGPYVKLSWDAT
+            KDLNFGIRYRYDWKAYRQQDLSGDMSRDNVHRWDGYVTYHINSDFTFAWQTTLYSKQNDY
+            RYANHKKWATENAFVLQYHMTPDITPYIEYDYLDRQGVYNGRDNLSENSYRIGVSFKL
+NTSEQ       717
+            atgaaaaaggctaaaatactttctggcgtattattactgtgcttttcgtccccattaatt
+            tctcaggctgcgacactggacgtacgtggtggatatcgtagtggaagccacgcctatgag
+            actcgactcaaagtcagtgagggatggcaaaatggatggtgggcaagcatggaaagtaat
+            acctggaataccattcatgataataaaaaggaaaatgccgcactcaatgatgttcaggtt
+            gaagttaattacgcgattaaacttgatgatcaatggacggtgcgcccgggaatgttaacg
+            cattttagcagcaacggcacacgctacggaccctacgtaaaactgtcctgggacgcgaca
+            aaagatcttaattttggcattcgctatcgttacgactggaaagcttaccgacaacaagac
+            ttatccggtgatatgtctcgtgataacgttcatcgttgggatggatatgtcacttaccat
+            attaatagtgatttcaccttcgcatggcaaacgacgctatacagcaaacagaacgattat
+            cgctatgcaaaccataagaaatgggcgacggaaaatgcatttgttctacaataccatatg
+            acgcccgatattacgccatacatagaatatgactaccttgaccgtcagggtgtttacaac
+            ggcagagataatttatcggaaaacagttatcgcattggtgtgtcatttaaactgtag
+///

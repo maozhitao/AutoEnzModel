@@ -1,0 +1,59 @@
+ENTRY       b1882             CDS       T00007
+NAME        cheY
+DEFINITION  (RefSeq) chemotaxis protein CheY
+ORTHOLOGY   K03413  two-component system, chemotaxis family, chemotaxis protein CheY
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02030  Bacterial chemotaxis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1882 (cheY)
+             09140 Cellular Processes
+              09142 Cell motility
+               02030 Bacterial chemotaxis
+                b1882 (cheY)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b1882 (cheY)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1882 (cheY)
+            Two-component system [BR:eco02022]
+             CheA family
+              CheA-CheYBV (chemotaxis)
+               b1882 (cheY)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Chemotaxis proteins
+               Two component system proteins
+                b1882 (cheY)
+POSITION    complement(1967048..1967437)
+MOTIF       Pfam: Response_reg SBP_bac_3 DUF1566
+DBLINKS     NCBI-GeneID: 946393
+            NCBI-ProteinID: NP_416396
+            Pasteur: cheY
+            RegulonDB: ECK120000146
+            ECOCYC: EG10150
+            ASAP: ABE-0006280
+            UniProt: P0AE67
+STRUCTURE   PDB: 1JBE 3RVQ 3RVK 3RVM 1U8T 3RVL 3RVO 3OO0 3CHY 3OO1 3OLV
+                 1E6M 2ID7 2ID9 1CHN 1C4W 1E6L 1D4Z 1UDR 1YMV 5DKF 5DGC
+                 3FGZ 3FFW 3F7N 2IDM 1E6K 1EAY 5CHY 3FFX 3OLY 1VLZ 5D2C
+                 3RVJ 3RVR 3RVS 3OLX 3MYY 1FFG 1AB6 3FFT 1F4V 1HEY 3RVN
+                 1EHC 3OLW 1YMU 6CHY 1FQW 3RVP 2B1J 1ZDM 1FFS 1AB5 1BDJ
+                 1MIH 1FFW 1KMI 1A0O 2LP4 1DJM 1CEY 1CYE
+AASEQ       129
+            MADKELKFLVVDDFSTMRRIVRNLLKELGFNNVEEAEDGVDALNKLQAGGYGFVISDWNM
+            PNMDGLELLKTIRADGAMSALPVLMVTAEAKKENIIAAAQAGASGYVVKPFTAATLEEKL
+            NKIFEKLGM
+NTSEQ       390
+            atggcggataaagaacttaaatttttggttgtggatgacttttccaccatgcgacgcata
+            gtgcgtaacctgctgaaagagctgggattcaataatgttgaggaagcggaagatggcgtc
+            gacgctctcaataagttgcaggcaggcggttatggatttgttatctccgactggaacatg
+            cccaatatggatggcctggaattgctgaaaacaattcgtgcggatggcgcgatgtcggca
+            ttgccagtgttaatggtgactgcagaagcgaagaaagagaacatcattgctgcggcgcaa
+            gcgggggccagtggctatgtggtgaagccatttaccgccgcgacgctggaggaaaaactc
+            aacaaaatctttgagaaactgggcatgtga
+///

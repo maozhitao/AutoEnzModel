@@ -1,0 +1,41 @@
+ENTRY       b0921             CDS       T00007
+NAME        cmoM
+DEFINITION  (RefSeq) tRNA cmo(5)U34 methyltransferase
+ORTHOLOGY   K06219  S-adenosylmethionine-dependent methyltransferase
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99988 Secondary metabolism
+                b0921 (cmoM)
+POSITION    973537..974322
+MOTIF       Pfam: Methyltransf_31 Methyltransf_23 Methyltransf_25 Methyltransf_11 Methyltransf_12 Ubie_methyltran MTS Methyltransf_24 Methyltransf_15 DREV CMAS rRNA_methylase Methyltransf_18 TPMT Methyltransf_20 Glyco_hydro_20 UPF0020 TehB UDPG_MGDP_dh_N SAM_MT adh_short
+DBLINKS     NCBI-GeneID: 945547
+            NCBI-ProteinID: NP_415441
+            Pasteur: smtA
+            RegulonDB: ECK120002063
+            ASAP: ABE-0003131
+            UniProt: P36566
+STRUCTURE   PDB: 4HTF
+AASEQ       261
+            MQDRNFDDIAEKFSRNIYGTTKGQLRQAILWQDLDRVLAEMGPQKLRVLDAGGGEGQTAI
+            KMAERGHQVILCDLSAQMIDRAKQAAEAKGVSDNMQFIHCAAQDVASHLETPVDLILFHA
+            VLEWVADPRSVLQTLWSVLRPGGVLSLMFYNAHGLLMHNMVAGNFDYVQAGMPKKKKRTL
+            SPDYPRDPAQVYLWLEEAGWQIMGKTGVRVFHDYLREKHQQRDCYEALLELETRYCRQEP
+            YITLGRYIHVTARKPQSKDKV
+NTSEQ       786
+            atgcaggatcgcaattttgatgatattgcggaaaagttttcccgtaacatttacggcacc
+            accaaagggcagcttcgacaggctattctgtggcaggatctcgatcgcgtgctggcggaa
+            atgggcccgcaaaaactgcgtgtgctggatgctggcggtggagaagggcagaccgcaatc
+            aaaatggccgagcgtgggcatcaggtcattttatgcgatctttctgcgcagatgatcgac
+            cgcgcaaaacaggcggcagaagcaaaaggtgtgagcgacaacatgcaatttatacattgc
+            gccgctcaggatgttgcttcgcatttggaaacgcccgttgatctgatattgttccatgcg
+            gtgctcgagtgggtggctgatccccgcagcgtattgcagaccctctggtcagtgttgcgt
+            ccaggcggcgtgttgtcgttaatgttctacaatgcgcatggtttgttgatgcataacatg
+            gtcgccgggaattttgattacgtgcaggcgggaatgccgaaaaagaaaaaacggacgctt
+            tcgccagattatccacgcgacccggcgcaggtttatctgtggctggaagaagctggttgg
+            caaattatgggtaagacaggcgttcgcgtgtttcatgattatctgcgcgagaaacaccag
+            cagcgcgactgctatgaagcattacttgaattagaaacgcgttattgccgtcaggaaccg
+            tatattaccctggggcgttatattcatgtcaccgcgcgcaaaccgcagagcaaggataaa
+            gtatga
+///

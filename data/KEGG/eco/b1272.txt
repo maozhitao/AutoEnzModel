@@ -1,0 +1,56 @@
+ENTRY       b1272             CDS       T00007
+NAME        sohB
+DEFINITION  (RefSeq) S49 peptidase family protein
+ORTHOLOGY   K04774  serine protease SohB [EC:3.4.21.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b1272 (sohB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.-  
+                 b1272 (sohB)
+            Peptidases and inhibitors [BR:eco01002]
+             Serine peptidases
+              Family S49: protease IV family
+               b1272 (sohB)
+POSITION    1329332..1330381
+MOTIF       Pfam: Peptidase_S49_N Peptidase_S49 SDH_sah CLP_protease UPF0239 SLATT_6 EMC3_TMCO1 Peptidase_C12 DUF4446
+DBLINKS     NCBI-GeneID: 945858
+            NCBI-ProteinID: NP_415788
+            Pasteur: sohB
+            RegulonDB: ECK120000945
+            ECOCYC: EG10956
+            ASAP: ABE-0004267
+            UniProt: P0AG14
+AASEQ       349
+            MELLSEYGLFLAKIVTVVLAIAAIAAIIVNVAQRNKRQRGELRVNNLSEQYKEMKEELAA
+            ALMDSHQQKQWHKAQKKKHKQEAKAAKAKAKLGEVATDSKPRVWVLDFKGSMDAHEVNSL
+            REEITAVLAAFKPQDQVVLRLESPGGMVHGYGLAASQLQRLRDKNIPLTVTVDKVAASGG
+            YMMACVADKIVSAPFAIVGSIGVVAQMPNFNRFLKSKDIDIELHTAGQYKRTLTLLGENT
+            EEGREKFREELNETHQLFKDFVKRMRPSLDIEQVATGEHWYGQQAVEKGLVDEINTSDEV
+            ILSLMEGREVVNVRYMQRKRLIDRFTGSAAESADRLLLRWWQRGQKPLM
+NTSEQ       1050
+            gtggaattgttgtctgaatatggtttgtttttggcgaaaatcgttaccgttgtgctagcg
+            attgcggcgattgccgccattattgtcaatgttgctcaacgtaataaacgccagcgtggc
+            gagttacgggtcaacaatctcagcgaacagtataaggagatgaaagaagaactggccgcg
+            gcgctgatggactcacatcagcaaaaacagtggcacaaagcgcagaagaaaaagcataag
+            caagaagcgaaagcagcaaaagcgaaagccaaactgggcgaggtggcaactgacagtaaa
+            ccccgcgtctgggtgctggattttaaaggcagcatggacgcccatgaagtgaactcgcta
+            cgtgaagagataacggctgtactcgcagcattcaaaccgcaggatcaggttgtgctccgt
+            ctggaaagccctggtggcatggtgcatggttacgggctggcggcttcgcaactgcagcgt
+            ctgcgcgataaaaacattcctttaactgttacggtagacaaagtcgctgccagcggcggt
+            tacatgatggcctgtgtggcggacaaaattgtttccgcaccgtttgctattgtgggttcc
+            attggcgtggtggcgcaaatgcccaactttaaccgcttcctgaaaagcaaagatattgat
+            atcgaactgcacactgccgggcagtataagcgcacgctgacgttgctgggtgaaaatacc
+            gaagaagggcgggagaaattccgcgaagagttgaacgaaacgcatcagttgtttaaagat
+            tttgtgaagcgtatgcgtccttctctggatattgaacaggtggcaacgggtgaacactgg
+            tacggacaacaggcggtagagaaaggcctggttgatgaaatcaacaccagtgatgaagtt
+            attcttagcctgatggaaggccgtgaagtggtcaatgtacgctatatgcagcgtaaacga
+            ctcattgaccgattcaccggcagcgcggcagagagcgccgatcgattgttgctacgctgg
+            tggcagcggggtcaaaagccattgatgtaa
+///

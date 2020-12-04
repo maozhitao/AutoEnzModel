@@ -1,0 +1,35 @@
+ENTRY       b0226             CDS       T00007
+NAME        dinJ
+DEFINITION  (RefSeq) antitoxin/DNA-binding transcriptional repressor DinJ
+ORTHOLOGY   K07473  DNA-damage-inducible protein J
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b0226 (dinJ)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               YafQ-dinJ
+                b0226 (dinJ)
+POSITION    complement(246242..246502)
+MOTIF       Pfam: RelB
+DBLINKS     NCBI-GeneID: 944914
+            NCBI-ProteinID: NP_414761
+            Pasteur: dinJ
+            RegulonDB: ECK120002730
+            ECOCYC: G6110
+            ASAP: ABE-0000764
+            UniProt: Q47150
+STRUCTURE   PDB: 4Q2U 4ML0
+AASEQ       86
+            MAANAFVRARIDEDLKNQAADVLAGMGLTISDLVRITLTKVAREKALPFDLREPNQLTIQ
+            SIKNSEAGIDVHKAKDADDLFDKLGI
+NTSEQ       261
+            atggctgctaacgcgtttgttcgcgcccgaatcgatgaagatctgaagaatcaggcagcg
+            gacgtactggccgggatggggctgaccatctctgacctggttcgcataaccctcacaaag
+            gtcgcgcgtgaaaaggcattgccgtttgatttacgcgagcctaatcaattaaccattcaa
+            tcaatcaaaaacagcgaagctggcattgatgttcataaggccaaagacgccgatgattta
+            tttgataaattaggaatttaa
+///

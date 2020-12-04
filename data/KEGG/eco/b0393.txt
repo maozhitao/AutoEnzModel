@@ -1,0 +1,51 @@
+ENTRY       b0393             CDS       T00007
+NAME        rdgC
+DEFINITION  (RefSeq) nucleoid-associated protein RdgC
+ORTHOLOGY   K03554  recombination associated protein RdgC
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b0393 (rdgC)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecFOR pathway proteins
+                 b0393 (rdgC)
+POSITION    complement(409108..410019)
+MOTIF       Pfam: RdgC
+DBLINKS     NCBI-GeneID: 948585
+            NCBI-ProteinID: NP_414927
+            Pasteur: yaiD
+            RegulonDB: ECK120002055
+            ECOCYC: EG12158
+            ASAP: ABE-0001366
+            UniProt: P36767
+STRUCTURE   PDB: 2OWL
+AASEQ       303
+            MLWFKNLMVYRLSREISLRAEEMEKQLASMAFTPCGSQDMAKMGWVPPMGSHSDALTHVA
+            NGQIVICARKEEKILPSPVIKQALEAKIAKLEAEQARKLKKTEKDSLKDEVLHSLLPRAF
+            SRFSQTMMWIDTVNGLIMVDCASAKKAEDTLALLRKSLGSLPVVPLSMENPIELTLTEWV
+            RSGSAAQGFQLLDEAELKSLLEDGGVIRAKKQDLTSEEITNHIEAGKVVTKLALDWQQRI
+            QFVMCDDGSLKRLKFCDELRDQNEDIDREDFAQRFDADFILMTGELAALIQNLIEGLGGE
+            AQR
+NTSEQ       912
+            atgctgtggttcaaaaatttaatggtttaccgtcttagccgcgagatttcgctgcgtgca
+            gaagagatggaaaaacagctagcctcgatggcatttaccccatgcggcagccaggacatg
+            gcgaagatgggctgggttcctccgatgggatcgcacagcgatgcgttaacgcacgttgcc
+            aatggtcaaattgttatctgcgcgcgcaaagaagaaaaaatcctcccgtctccggtgatt
+            aaacaggcgctggaagcgaaaatcgccaaactggaagcggaacaggcgcgtaagctgaag
+            aaaaccgaaaaagattcgctgaaagacgaagtgctgcactctctgctgccgcgtgctttc
+            agccgttttagccagacaatgatgtggatcgacacggttaacggtttgattatggtggac
+            tgcgccagtgccaaaaaagcggaagatacgctggcattactgcgtaaaagcctggggtcg
+            ttaccggttgtaccattgagcatggaaaacccgattgaactgacgctgaccgaatgggtt
+            cgctccggtagtgcggcacagggcttccagctgcttgatgaagccgagctgaaatcgttg
+            ctggaagatggcggcgtgatccgcgcgaagaaacaagatctgaccagcgaagagatcacc
+            aatcacattgaagccggaaaagtggtgactaaactggcgctcgactggcagcagcgcatt
+            cagtttgtgatgtgcgacgatggttcgctcaagcgtctgaagttctgcgacgagctgcgc
+            gatcaaaacgaagatatcgaccgtgaagatttcgcccagcgttttgatgccgatttcatc
+            ctgatgactggtgaactggcagcgttaattcaaaacctgattgaaggattaggtggcgaa
+            gcacaacgttaa
+///

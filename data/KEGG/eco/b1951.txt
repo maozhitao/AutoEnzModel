@@ -1,0 +1,55 @@
+ENTRY       b1951             CDS       T00007
+NAME        rcsA
+DEFINITION  (RefSeq) DNA-binding transcriptional activator RcsA
+ORTHOLOGY   K07781  LuxR family transcriptional regulator, capsular biosynthesis positive transcription factor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02024  Quorum sensing
+            eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1951 (rcsA)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b1951 (rcsA)
+               02026 Biofilm formation - Escherichia coli
+                b1951 (rcsA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1951 (rcsA)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               LuxR family
+                b1951 (rcsA)
+POSITION    2023968..2024591
+MOTIF       Pfam: GerE HTH_40
+DBLINKS     NCBI-GeneID: 946467
+            NCBI-ProteinID: NP_416461
+            Pasteur: rcsA
+            RegulonDB: ECK120000811
+            ECOCYC: EG10820
+            ASAP: ABE-0006482
+            UniProt: P0DMC9
+AASEQ       207
+            MSTIIMDLCSYTRLGLTGYLLSRGVKKREINDIETVDDLAIACDSQRPSVVFINEDCFIH
+            DASNSQRIKLIINQHPNTLFIVFMAIANVHFDEYLLVRKNLLISSKSIKPESLDDILGDI
+            LKKETTITSFLNMPTLSLSRTESSMLRMWMAGQGTIQISDQMNIKAKTVSSHKGNIKRKI
+            KTHNKQVIYHVVRLTDNVTNGIFVNMR
+NTSEQ       624
+            atgtcaacgattattatggatttatgtagttacacccgactaggtttaaccgggtatctg
+            ttgagtagaggggttaaaaaaagagaaatcaacgacattgaaaccgttgatgaccttgcc
+            atagcttgtgattcacagcgcccttcagtggtgtttattaatgaggactgtttcatccac
+            gatgcttctaacagtcagcgtatcaagctcatcattaatcaacatcccaatacgttattt
+            atcgtttttatggcaattgccaatgttcattttgatgaatatctattggtcagaaaaaat
+            ttattgatcagttctaaatcgattaaaccggaatctctcgacgatatccttggcgatatt
+            ctgaaaaaagagacaacgataacctcgtttttaaatatgccgacgttatcattgagccga
+            accgaatcgagtatgttgcgaatgtggatggcaggtcagggaaccattcaaatctctgac
+            caaatgaatatcaaagccaagaccgtttcatcgcataaaggtaatattaaacgtaagatc
+            aaaacgcataataaacaggttatctaccatgtcgtccgactgacggataatgtgactaat
+            ggtatttttgtcaacatgcgctaa
+///

@@ -1,0 +1,47 @@
+ENTRY       b1335             CDS       T00007
+NAME        ogt
+DEFINITION  (RefSeq) methylated-DNA--[protein]-cysteine S-methyltransferase
+ORTHOLOGY   K00567  methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1335 (ogt)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.63  methylated-DNA---[protein]-cysteine S-methyltransferase
+                 b1335 (ogt)
+            DNA repair and recombination proteins [BR:eco03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               Direct repair
+                b1335 (ogt)
+             Prokaryotic type
+                b1335 (ogt)
+POSITION    complement(1399721..1400236)
+MOTIF       Pfam: DNA_binding_1 Methyltransf_1N
+DBLINKS     NCBI-GeneID: 945853
+            NCBI-ProteinID: NP_415851
+            Pasteur: ogt
+            RegulonDB: ECK120000661
+            ECOCYC: EG10668
+            ASAP: ABE-0004486
+            UniProt: P0AFH0
+AASEQ       171
+            MLRLLEEKIATPLGPLWVICDEQFRLRAVEWEEYSERMVQLLDIHYRKEGYERISATNPG
+            GLSDKLREYFAGNLSIIDTLPTATGGTPFQREVWKTLRTIPCGQVMHYGQLAEQLGRPGA
+            ARAVGAANGSNPISIVVPCHRVIGRNGTMTGYAGGVQRKEWLLRHEGYLLL
+NTSEQ       516
+            atgctgagattacttgaagaaaaaattgccacgccactgggtccactgtgggtgatttgc
+            gatgagcaatttcgcctgcgggcggttgaatgggaagagtacagcgaacgcatggtgcag
+            ctgctggacatccattatcgcaaagaaggctatgagcgcatttctgccaccaatccaggc
+            ggtttaagcgacaagcttcgtgaatattttgccggtaatcttagcattattgatacgctt
+            cccactgctacgggggggacgccatttcagcgcgaagtctggaaaacactacgcactatc
+            ccctgcgggcaggtaatgcattacggccaactggctgagcaattgggccgtcctggcgcg
+            gcgcgtgccgttggtgcggcaaacggatcgaatcccatcagcatcgtcgtaccttgccat
+            cgggttattggccgaaacggcaccatgaccggatatgcaggcggagttcagcgaaaagag
+            tggttattgcgccatgaaggttatcttttgctgtaa
+///

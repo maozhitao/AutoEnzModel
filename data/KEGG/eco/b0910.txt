@@ -1,0 +1,47 @@
+ENTRY       b0910             CDS       T00007
+NAME        cmk
+DEFINITION  (RefSeq) cytidylate kinase
+ORTHOLOGY   K00945  CMP/dCMP kinase [EC:2.7.4.25]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00240  Pyrimidine metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09104 Nucleotide metabolism
+               00240 Pyrimidine metabolism
+                b0910 (cmk)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.4  Phosphotransferases with a phosphate group as acceptor
+                2.7.4.25  (d)CMP kinase
+                 b0910 (cmk)
+POSITION    961201..961884
+MOTIF       Pfam: Cytidylate_kin Cytidylate_kin2 AAA_18 ABC_tran AAA_17 AAA_33 SKI AAA_22 ADK dNK TsaE AAA_30 ATP_bind_2 AAA PRK RNA_helicase
+DBLINKS     NCBI-GeneID: 945535
+            NCBI-ProteinID: NP_415430
+            Pasteur: cmk
+            RegulonDB: ECK120001239
+            ECOCYC: EG11265
+            ASAP: ABE-0003101
+            UniProt: P0A6I0
+STRUCTURE   PDB: 1CKE 2FEM 1KDO 1KDT 2CMK 1KDR 1KDP 2FEO
+AASEQ       227
+            MTAIAPVITIDGPSGAGKGTLCKAMAEALQWHLLDSGAIYRVLALAALHHHVDVASEDAL
+            VPLASHLDVRFVSTNGNLEVILEGEDVSGEIRTQEVANAASQVAAFPRVREALLRRQRAF
+            RELPGLIADGRDMGTVVFPDAPVKIFLDASSEERAHRRMLQLQEKGFSVNFERLLAEIKE
+            RDDRDRNRAVAPLVPAADALVLDSTTLSIEQVIEKALQYARQKLALA
+NTSEQ       684
+            atgacggcaattgccccggttattaccattgatggcccaagcggtgcagggaaaggcacc
+            ttgtgtaaggctatggcggaagcgttgcaatggcatctgctggactcgggtgcaatttat
+            cgcgtactggcattggcggcattacatcaccatgttgatgttgcgtcggaagatgcgctg
+            gtaccgctggcatcccatctggatgtacgttttgtgtcgaccaatggcaatctggaagtg
+            atcctcgaaggggaagatgtcagcggcgaaattcgtactcaggaagtggcgaatgcagct
+            tcacaagtcgcggcattcccacgcgttcgtgaagcattattgcgtcgccaacgcgcgttt
+            cgcgaattaccaggtctgattgccgatggccgcgacatgggaacggtggtattccctgat
+            gcaccagtgaaaattttccttgacgcctcctcggaagaacgtgcgcatcgccgcatgcta
+            cagttgcaggagaagggctttagtgttaactttgagcgccttttggccgagatcaaagaa
+            cgcgacgaccgcgatcgtaaccgagcggtagcgccactggttccggcagccgatgcttta
+            gtgttggattccaccaccttaagcattgagcaagtgattgaaaaagcgctacaatacgcg
+            cgccagaaattggctctcgcataa
+///

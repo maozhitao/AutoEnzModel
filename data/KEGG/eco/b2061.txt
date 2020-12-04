@@ -1,0 +1,41 @@
+ENTRY       b2061             CDS       T00007
+NAME        wzb
+DEFINITION  (RefSeq) protein-tyrosine phosphatase
+ORTHOLOGY   K01104  protein-tyrosine phosphatase [EC:3.1.3.48]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b2061 (wzb)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.48  protein-tyrosine-phosphatase
+                 b2061 (wzb)
+POSITION    complement(2135655..2136098)
+MOTIF       Pfam: LMWPc
+DBLINKS     NCBI-GeneID: 946564
+            NCBI-ProteinID: NP_416565
+            Pasteur: wzb
+            RegulonDB: ECK120003692
+            ECOCYC: G7106
+            ASAP: ABE-0006822
+            UniProt: P0AAB2
+STRUCTURE   PDB: 2FEK
+AASEQ       147
+            MFNNILVVCVGNICRSPTAERLLQRYHPELKVESAGLGALVGKGADPTAISVAAEHQLSL
+            EGHCARQISRRLCRNYDLILTMEKRHIERLCEMAPEMRGKVMLFGHWDNECEIPDPYRKS
+            RETFAAVYTLLERSARQWAQALNAEQV
+NTSEQ       444
+            atgtttaacaacatcttagttgtctgtgtcggcaatatttgccgttccccgacggcggaa
+            cgcttactgcaacgttatcacccggagctgaaagtggagtccgctggactcggcgcgctg
+            gtcggtaagggcgctgatcctaccgctatcagcgtcgccgcagaacatcaactgtctctg
+            gaaggtcactgtgcccgtcaaatcagccgccgtctgtgtcgcaactacgacctgattttg
+            accatggaaaagcgccatatcgaacgcttatgcgagatggcaccggagatgcgcggcaaa
+            gtgatgctgtttggtcactgggataacgaatgtgaaatccccgatccgtatcgcaaaagc
+            cgggaaacgtttgcagcggtgtacacattacttgaacggtctgcccgccagtgggcgcag
+            gcattgaacgcagagcaggtataa
+///

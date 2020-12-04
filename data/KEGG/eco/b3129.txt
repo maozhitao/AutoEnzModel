@@ -1,0 +1,35 @@
+ENTRY       b3129             CDS       T00007
+NAME        prlF
+DEFINITION  (RefSeq) antitoxin PrlF
+ORTHOLOGY   K19156  antitoxin PrlF
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b3129 (prlF)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               YhaV-PrlF
+                b3129 (prlF)
+POSITION    3277002..3277337
+MOTIF       Pfam: PrlF_antitoxin MazE_antitoxin
+DBLINKS     NCBI-GeneID: 947639
+            NCBI-ProteinID: NP_417598
+            Pasteur: sohA
+            RegulonDB: ECK120000944
+            ECOCYC: EG10955
+            ASAP: ABE-0010287
+            UniProt: P15373
+AASEQ       111
+            MPANARSHAVLTTESKVTIRGQTTIPAPVREALKLKPGQDSIHYEILPGGQVFMCRLGDE
+            QEDHTMNAFLRFLDADIQNNPQKTRPFNIQQGKKLVAGMDVNIDDEIGDDE
+NTSEQ       336
+            atgcccgctaatgctcgctctcacgctgtactgaccactgaatcaaaggtcacgatacgc
+            ggacaaacaactatccccgcgccagtgcgtgaggccttaaaactgaagccaggccaggac
+            agcattcattacgaaattctgcctggtgggcaagtatttatgtgccgactgggagatgaa
+            caggaggatcatactatgaatgcatttttgcgttttctggatgcagatatccagaacaac
+            ccgcaaaaaactcgtccattcaacattcaacaaggaaagaaacttgtcgctggcatggac
+            gtcaacattgatgatgagattggcgacgacgaataa
+///

@@ -1,0 +1,38 @@
+ENTRY       b0738             CDS       T00007
+NAME        tolR
+DEFINITION  (RefSeq) Tol-Pal system protein TolR
+ORTHOLOGY   K03560  biopolymer transport protein TolR
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0738 (tolR)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b0738 (tolR)
+POSITION    775849..776277
+MOTIF       Pfam: ExbD
+DBLINKS     NCBI-GeneID: 945328
+            NCBI-ProteinID: NP_415266
+            Pasteur: tolR
+            RegulonDB: ECK120001000
+            ECOCYC: EG11011
+            ASAP: ABE-0002513
+            UniProt: P0ABV6
+STRUCTURE   PDB: 5BY4
+AASEQ       142
+            MARARGRGRRDLKSEINIVPLLDVLLVLLLIFMATAPIITQSVEVDLPDATESQAVSSND
+            NPPVIVEVSGIGQYTVVVEKDRLERLPPEQVVAEVSSRFKANPKTVFLIGGAKDVPYDEI
+            IKALNLLHSAGVKSVGLMTQPI
+NTSEQ       429
+            atggccagagcgcgtggacgaggtcgtcgcgatctcaagtccgaaatcaacattgtaccg
+            ttgctggacgtactgctggtgctgttgctgatctttatggcgacagcgcccatcatcacc
+            cagagcgtggaggtcgatctgccagacgctactgaatcacaggcggtgagcagtaacgat
+            aatccgccagtgattgttgaagtgtctggtattggtcagtacaccgtggtggttgagaaa
+            gatcgcctggagcgtttaccaccagagcaggtggtggcggaagtgtccagccgtttcaag
+            gccaacccgaaaacggtctttctgatcggtggcgcaaaagatgtgccttacgatgaaata
+            attaaagcactgaacttgttacatagtgcgggtgtgaaatcggttggtttaatgacgcag
+            cctatctaa
+///

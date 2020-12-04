@@ -1,0 +1,39 @@
+ENTRY       b0556             CDS       T00007
+NAME        rzpD
+DEFINITION  (RefSeq) DLP12 prophage; putative prophage endopeptidase RzpD
+ORTHOLOGY   K14744  prophage endopeptidase [EC:3.4.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0556 (rzpD)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.-  Acting on peptide bonds (peptidases)
+                3.4.-.-  
+                 b0556 (rzpD)
+POSITION    578107..578568
+MOTIF       Pfam: Phage_lysis DUF2681 PspB
+DBLINKS     NCBI-GeneID: 945929
+            NCBI-ProteinID: NP_415088
+            Pasteur: rzpD
+            RegulonDB: ECK120002919
+            ECOCYC: G6311
+            ASAP: ABE-0001900
+            UniProt: P75719
+AASEQ       153
+            MSRVTAIISALIICIIVSLSWAVNHYRDNAIAYKVQRDKNARELKLANAAITDMQMRQRD
+            VAALDAKYTKELADAKAENDALRDDVAAGRRRLHIKAVCQSVREATTASGVDNAASPRLA
+            DTAERDYFTLRERLITMQKQLEGTQKYINEQCR
+NTSEQ       462
+            gtgagcagagtaaccgcgattatatccgctctgattatctgcatcatcgtcagcctgtca
+            tgggcggtcaatcattaccgtgataacgcaatcgcctacaaagtccagcgcgacaaaaat
+            gccagagaactgaagctagcgaacgcggcaattactgacatgcagatgcgtcagcgtgat
+            gttgctgcgctcgatgcaaaatacacgaaggagttagctgatgcgaaagctgaaaatgat
+            gctctgcgtgatgatgttgccgctggtcgtcgtcggttgcacatcaaagcagtctgtcag
+            tcagtgcgtgaagccaccacggcctccggcgtggataatgcagcctccccccgactggca
+            gacaccgctgaacgggattatttcaccctcagagagaggctgatcactatgcaaaaacaa
+            ctggaaggaacccagaagtatattaatgagcagtgcagatag
+///

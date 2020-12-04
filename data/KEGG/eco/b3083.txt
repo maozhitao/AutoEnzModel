@@ -1,0 +1,42 @@
+ENTRY       b3083             CDS       T00007
+NAME        higB
+DEFINITION  (RefSeq) ribosome-dependent mRNA interferase toxin HigB
+ORTHOLOGY   K19166  mRNA interferase HigB [EC:3.1.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b3083 (higB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 b3083 (higB)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               HigB-HigA
+                b3083 (higB)
+POSITION    complement(3234141..3234455)
+MOTIF       Pfam: HigB_toxin AMP-binding
+DBLINKS     NCBI-GeneID: 947591
+            NCBI-ProteinID: NP_417554
+            Pasteur: ygjN
+            RegulonDB: ECK120004155
+            ECOCYC: G7602
+            ASAP: ABE-0010128
+            UniProt: P64578
+STRUCTURE   PDB: 5IFG
+AASEQ       104
+            MHLITQKALKDAAEKYPQHKTELVALGNTIAKGYFKKPESLKAVFPSLDNFKYLDKHYVF
+            NVGGNELRVVAMVFFESQKCYIREVMTHKEYDFFTAVHRTKGKK
+NTSEQ       315
+            atgcacctgataactcaaaaagcattgaaagatgctgcggaaaaatacccgcaacataaa
+            acggagttggtggctctggggaacacgattgctaagggatatttcaaaaaacctgagtca
+            ttaaaagcagtattcccatctctggataacttcaaatatctggataagcattatgttttc
+            aatgttgggggcaatgaattacgtgttgtagcaatggtcttttttgaatcgcaaaagtgc
+            tacatacgtgaagttatgacgcataaagaatacgatttctttaccgctgttcatcgtact
+            aaggggaaaaaatga
+///

@@ -1,0 +1,43 @@
+ENTRY       b1942             CDS       T00007
+NAME        fliJ
+DEFINITION  (RefSeq) flagellar biosynthesis protein FliJ
+ORTHOLOGY   K02413  flagellar protein FliJ
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1942 (fliJ)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1942 (fliJ)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Chaperones
+                b1942 (fliJ)
+POSITION    2017946..2018389
+MOTIF       Pfam: FliJ YscO-like SHE3 CCM2_C AbiH Exonuc_VII_L
+DBLINKS     NCBI-GeneID: 946454
+            NCBI-ProteinID: NP_416452
+            Pasteur: fliJ
+            RegulonDB: ECK120002693
+            ECOCYC: G378
+            ASAP: ABE-0006462
+            UniProt: P52613
+AASEQ       147
+            MAEHGALATLKDLAEKEVEDAARLLGEMRRGCQQAEEQLKMLIDYQNEYRNNLNSDMSAG
+            ITSNRWINYQQFIQTLEKAITQHRQQLNQWTQKVDIALNSWREKKQRLQAWQTLQERQST
+            AALLAENRLDQKKMDEFAQRAAMRKPE
+NTSEQ       444
+            atggcagaacatggtgcgctggcgaccctgaaagatctggcagaaaaagaggtagaggat
+            gccgcgcgcctgctgggtgaaatgcgtcgcggatgtcagcaggcggaagaacagctcaaa
+            atgctgattgattatcagaatgaatatcgcaataacctcaacagcgatatgagtgccggg
+            ataaccagcaaccgctggatcaactatcagcagtttatccagacgctggaaaaagccatt
+            actcagcatcgccagcaacttaatcagtggacgcagaaagttgacattgccctgaacagt
+            tggcgagaaaaaaaacaacgtttgcaggcctggcagacactgcaggaacggcaatccacg
+            gcggcactgcttgcagaaaaccgcctcgatcagaaaaagatggatgagttcgcccagcgc
+            gccgccatgaggaaacctgaatga
+///

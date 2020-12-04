@@ -1,0 +1,44 @@
+ENTRY       b0550             CDS       T00007
+NAME        rusA
+DEFINITION  (RefSeq) DLP12 prophage; crossover junction endodeoxyribonuclease RusA
+ORTHOLOGY   K01160  crossover junction endodeoxyribonuclease RusA [EC:3.1.22.4]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b0550 (rusA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.22  Endodeoxyribonucleases producing 3'-phosphomonoesters
+                3.1.22.4  crossover junction endodeoxyribonuclease
+                 b0550 (rusA)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecBC pathway proteins
+                 b0550 (rusA)
+POSITION    573371..573733
+MOTIF       Pfam: RusA DUF3368
+DBLINKS     NCBI-GeneID: 945174
+            NCBI-ProteinID: NP_415082
+            Pasteur: rus
+            RegulonDB: ECK120002914
+            ECOCYC: G6306
+            ASAP: ABE-0001880
+            UniProt: P0AG74
+STRUCTURE   PDB: 2H8E 1Q8R 2H8C
+AASEQ       120
+            MNTYSITLPWPPSNNRYYRHNRGRTHVSAEGQAYRDNVARIIKNAMLDIGLAMPVKIRIE
+            CHMPDRRRRDLDNLQKAAFDALTKAGFWLDDAQVVDYRVVKMPVTKGGRLELTITEMGNE
+NTSEQ       363
+            gtgaatacctacagcatcacattaccctggcctccgagcaataatcgctattaccgccat
+            aatcgcgggcgcacgcacgtcagcgcagaggggcaggcataccgcgataacgtcgcccga
+            atcattaaaaacgcaatgctggatatcggcctggctatgcctgtgaaaatccgcattgag
+            tgccacatgccggatcgccgtcgccgtgacctggataatctgcaaaaagccgcttttgac
+            gcactcactaaagcaggtttctggctggatgatgctcaggtcgttgattaccgcgttgtg
+            aagatgcctgttaccaaaggtgggaggctggaactgaccatcaccgaaatggggaatgaa
+            tga
+///

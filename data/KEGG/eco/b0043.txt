@@ -1,0 +1,58 @@
+ENTRY       b0043             CDS       T00007
+NAME        fixC
+DEFINITION  (RefSeq) putative oxidoreductase FixC
+ORTHOLOGY   K00313  electron transfer flavoprotein-quinone oxidoreductase [EC:1.5.5.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0043 (fixC)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.5  Acting on the CH-NH group of donors
+               1.5.5  With a quinone or similar compound as acceptor
+                1.5.5.-  
+                 b0043 (fixC)
+POSITION    44180..45466
+MOTIF       Pfam: DAO FAD_binding_3 FAD_oxidored FAD_binding_2 Pyr_redox_2 HI0933_like NAD_binding_8 GIDA Thi4 Trp_halogenase GMC_oxred_N Pyr_redox Lycopene_cycl GDI Pyr_redox_3 NAD_binding_9 ApbA 3HCDH_N
+DBLINKS     NCBI-GeneID: 948958
+            NCBI-ProteinID: NP_414585
+            Pasteur: fixC
+            RegulonDB: ECK120001517
+            ECOCYC: EG11564
+            ASAP: ABE-0000149
+            UniProt: P68644
+AASEQ       428
+            MSEDIFDAIIVGAGLAGSVAALVLAREGAQVLVIERGNSAGAKNVTGGRLYAHSLEHIIP
+            GFADSAPVERLITHEKLAFMTEKSAMTMDYCNGDETSPSQRSYSVLRSKFDAWLMEQAEE
+            AGAQLITGIRVDNLVQRDGKVVGVEADGDVIEAKTVILADGVNSILAEKLGMAKRVKPTD
+            VAVGVKELIELPKSVIEDRFQLQGNQGAACLFAGSPTDGLMGGGFLYTNENTLSLGLVCG
+            LHHLHDAKKSVPQMLEDFKQHPAVAPLIAGGKLVEYSAHVVPEAGINMLPELVGDGVLIA
+            GDAAGMCMNLGFTIRGMDLAIAAGEAAAKTVLSAMKSDDFSKQKLAEYRQHLESGPLRDM
+            RMYQKLPAFLDNPRMFSGYPELAVGVARDLFTIDGSAPELMRKKILRHGKKVGFINLIKD
+            GMKGVTVL
+NTSEQ       1287
+            atgtccgaagatatctttgacgccatcatcgtcggtgcagggcttgccggttcggttgcc
+            gcactggtgctcgcccgcgaaggtgcgcaagtgttagttatcgagcgtggcaattccgca
+            ggtgccaagaacgtcaccggcgggcgtctctatgcccacagtctggaacacattattcct
+            ggtttcgccgactccgcccccgtagaacgcctgatcacccatgaaaaactcgcgtttatg
+            acggaaaagtcagcgatgactatggactactgcaatggtgacgaaacctcgccatcccag
+            cgttcttactccgttttgcgcagtaaatttgatgcctggctgatggagcaggccgaagaa
+            gcgggcgcgcagttaattaccgggatccgcgtcgataacctcgtacagcgcgatggcaaa
+            gtcgtcggtgtagaagccgatggcgatgtgattgaagcgaaaacggtgatccttgctgat
+            ggggtgaactccatccttgccgaaaaattggggatggcaaaacgcgtcaaaccgacggat
+            gtggcggttggcgtgaaggaactgatcgagttaccgaagtcggttattgaagaccgtttt
+            cagttgcagggtaatcagggggcggcttgcctgtttgcgggatcacccaccgatggcctg
+            atgggcggcggcttcctttataccaatgaaaacaccctgtcgctggggctggtttgtggt
+            ttgcatcatctgcatgacgcgaaaaaatcggtgccgcaaatgctggaagatttcaaacag
+            catccggccgttgcaccgctgatcgcgggcggcaagctggtggaatattccgctcacgta
+            gtgccggaagcaggcatcaacatgctgccggagttggttggtgacggcgtattgattgcc
+            ggtgatgccgccggaatgtgtatgaacctcggttttaccattcgcggtatggatctggcg
+            attgccgccggggaagccgcagcaaaaaccgtgctttcagcgatgaaaagcgacgatttc
+            agtaagcaaaaactggcggaatatcgtcagcatcttgagagtggtccgctgcgcgatatg
+            cgtatgtaccagaaactaccggcgttccttgataacccacgcatgtttagcggctacccg
+            gagctggcggtgggtgtggcgcgtgacctgttcaccattgatggcagcgcgccggaactg
+            atgcgcaagaaaatcctccgccacggcaagaaagtgggcttcatcaatctaatcaaggat
+            ggcatgaaaggagtgaccgttttatga
+///

@@ -1,0 +1,38 @@
+ENTRY       b4393             CDS       T00007
+NAME        trpR
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor TrpR
+ORTHOLOGY   K03720  TrpR family transcriptional regulator, trp operon repressor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b4393 (trpR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               Other families
+                b4393 (trpR)
+POSITION    4632760..4633086
+MOTIF       Pfam: Trp_repressor HTH_5 Arcadin_1
+DBLINKS     NCBI-GeneID: 948917
+            NCBI-ProteinID: NP_418810
+            Pasteur: trpR
+            RegulonDB: ECK120001018
+            ECOCYC: EG11029
+            ASAP: ABE-0014408
+            UniProt: P0A881
+STRUCTURE   PDB: 6ENI 6ENN 6FAL 1JHG 6ELG 6F9K 6ELB 6EKP 3SSX 2OZ9 6F7G
+                 3SSW 3WRP 6ELF 6EJZ 1TRO 6EJW 1ZT9 6F7F 1WRP 1TRR 1MI7
+                 5TM0 2XDI 1CO0 1RCS 1WRS 1WRT
+AASEQ       108
+            MAQQSPYSAAMAEQRHQEWLRFVDLLKNAYQNDLHLPLLNLMLTPDEREALGTRVRIVEE
+            LLRGEMSQRELKNELGAGIATITRGSNSLKAAPVELRQWLEEVLLKSD
+NTSEQ       327
+            atggcccaacaatcaccctattcagcagcgatggcagaacagcgtcaccaggagtggtta
+            cgttttgtcgacctgcttaagaatgcctaccaaaacgatctccatttaccgttgttaaac
+            ctgatgctgacgccagatgagcgcgaagcgttggggactcgcgtgcgtattgtcgaagag
+            ctgttgcgcggcgaaatgagccagcgtgagttaaaaaatgaactcggcgcaggcatcgcg
+            acgattacgcgtggatctaacagcctgaaagccgcgcccgtcgagctgcgccagtggctg
+            gaagaggtgttgctgaaaagcgattga
+///

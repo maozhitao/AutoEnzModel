@@ -1,0 +1,40 @@
+ENTRY       b0192             CDS       T00007
+NAME        nlpE
+DEFINITION  (RefSeq) lipoprotein NlpE
+ORTHOLOGY   K06079  copper homeostasis protein (lipoprotein)
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01503  Cationic antimicrobial peptide (CAMP) resistance
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b0192 (nlpE)
+POSITION    215269..215979
+MOTIF       Pfam: NlpE_C NlpE
+DBLINKS     NCBI-GeneID: 946782
+            NCBI-ProteinID: NP_414734
+            Pasteur: cutF
+            RegulonDB: ECK120002038
+            ECOCYC: EG12137
+            ASAP: ABE-0000652
+            UniProt: P40710
+STRUCTURE   PDB: 2Z4I 2Z4H
+AASEQ       236
+            MVKKAIVTAMAVISLFTLMGCNNRAEVDTLSPAQAAELKPMPQSWRGVLPCADCEGIETS
+            LFLEKDGTWVMNERYLGAREEPSSFASYGTWARTADKLVLTDSKGEKSYYRAKGDALEML
+            DREGNPIESQFNYTLEAAQSSLPMTPMTLRGMYFYMADAATFTDCATGKRFMVANNAELE
+            RSYLAARGHSEKPVLLSVEGHFTLEGNPDTGAPTKVLAPDTAGKFYPNQDCSSLGQ
+NTSEQ       711
+            atggtgaaaaaagcgatagtgacagcgatggctgtaatcagcctctttactctgatggga
+            tgtaataatcgggccgaagtcgatacgctttctccggcgcaggctgccgaactgaaaccg
+            atgccgcaaagttggcgcggcgtgctgccgtgtgccgattgcgaaggaatcgaaacctct
+            ctgttcctcgaaaaagacggaacatgggtgatgaatgagcgttatctcggtgctcgtgaa
+            gaaccttcctccttcgcttcctacggtacatgggcgcgaaccgctgacaagctggtatta
+            accgacagcaaaggtgaaaagtcatattatcgggcgaaaggcgatgcgctggagatgctc
+            gatcgtgaaggcaatccgattgaatcgcagttcaactatacgctggaagcggcacaatcc
+            agtttacctatgacgccgatgaccctgcggggcatgtatttttatatggctgatgcggcg
+            accttcactgattgcgcgaccggaaaacgtttcatggtagcgaataacgcagagctggag
+            cgtagctacctggctgcgcgcggtcacagtgaaaaaccggtgttactgtcagtagaaggt
+            cactttacgcttgagggtaatccggataccggtgcgccgactaaagtattggcacccgat
+            acggcagggaaattttaccccaaccaggattgcagtagtttggggcagtaa
+///

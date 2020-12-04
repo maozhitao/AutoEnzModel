@@ -1,0 +1,30 @@
+ENTRY       b4410             CDS       T00007
+NAME        ecnA
+DEFINITION  (RefSeq) entericidin A lipoprotein, antidote to entericidin B
+ORTHOLOGY   K16347  entericidin A
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b4410 (ecnA)
+            Transporters [BR:eco02000]
+             Other transporters
+              Others
+               b4410 (ecnA)
+POSITION    4376317..4376442
+MOTIF       Pfam: Entericidin LPAM_1
+DBLINKS     NCBI-GeneID: 2847736
+            NCBI-ProteinID: YP_026283
+            Pasteur: ecnA
+            RegulonDB: ECK120002571
+            ECOCYC: G0-41
+            ASAP: ABE-0047210
+            UniProt: P0ADB4
+AASEQ       41
+            MMKRLIVLVLLASTLLTGCNTARGFGEDIKHLGNSISRAAS
+NTSEQ       126
+            atgatgaaacgccttatcgttcttgttttgcttgccagcacgctgctcacgggctgtaac
+            accgctcgcggtttcggcgaagacatcaaacatctcggcaactccatctctcgcgctgcc
+            agctaa
+///

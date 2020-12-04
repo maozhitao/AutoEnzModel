@@ -1,0 +1,36 @@
+ENTRY       b0483             CDS       T00007
+NAME        ybaQ
+DEFINITION  (RefSeq) putative DNA-binding transcriptional regulator YbaQ
+ORTHOLOGY   K21498  antitoxin HigA-1
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b0483 (ybaQ)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               HigB-HigA
+                b0483 (ybaQ)
+POSITION    508218..508559
+MOTIF       Pfam: HTH_3 HTH_19 HTH_17 HTH_30 Sigma54_DBD HTH_26 HTH_31 HTH_37 MarR_2 UPF0122 LacI YdaS_antitoxin
+DBLINKS     NCBI-GeneID: 948800
+            NCBI-ProteinID: NP_415016
+            Pasteur: ybaQ
+            RegulonDB: ECK120002867
+            ECOCYC: G6259
+            ASAP: ABE-0001677
+            UniProt: P0A9T6
+STRUCTURE   PDB: 2EBY
+AASEQ       113
+            MKQATRKPTTPGDILLYEYLEPLDLKINELAELLHVHRNSVSALINNNRKLTTEMAFRLA
+            KVFDTTVDFWLNLQAAVDLWEVENNMRTQEELGRIETVAEYLARREERAKKVA
+NTSEQ       342
+            atgaaacaggcaacaagaaaaccgacgacacccggagatattcttctctatgaatatctg
+            gaaccgctcgatttgaaaatcaatgagttagcagagttgctgcatgttcatcgtaatagc
+            gtcagtgcactgatcaataacaatcgtaaactcactactgagatggcatttcgtctggcg
+            aaagtttttgataccacagtcgatttttggctaaacctccaggcggcggttgatctttgg
+            gaagttgaaaacaacatgcgcacccaggaagaattgggacggattgaaacagtggctgaa
+            tatttggcacgccgtgaagagcgtgcaaaaaaggtcgcgtaa
+///

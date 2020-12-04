@@ -1,0 +1,28 @@
+ENTRY       b4687             CDS       T00007
+NAME        shoB
+DEFINITION  (RefSeq) toxic peptide ShoB
+ORTHOLOGY   K19154  small toxic protein ShoB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4687 (shoB)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               ShoB-OhsC
+                b4687 (shoB)
+POSITION    complement(2700117..2700197)
+MOTIF       Pfam: Tmemb_cc2
+DBLINKS     NCBI-GeneID: 7751620
+            NCBI-ProteinID: YP_002791251
+            RegulonDB: ECK120035076
+            ECOCYC: G0-10634
+            UniProt: C1P611
+AASEQ       26
+            MTDCRYLIKRVIKIIIAVLQLILLFL
+NTSEQ       81
+            atgactgattgccgatacctgattaaacgggtcatcaaaatcatcattgctgttttacag
+            ctgatccttctgttcttataa
+///

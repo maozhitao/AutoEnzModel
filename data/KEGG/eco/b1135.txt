@@ -1,0 +1,49 @@
+ENTRY       b1135             CDS       T00007
+NAME        rluE
+DEFINITION  (RefSeq) 23S rRNA pseudouridine(2457) synthase
+ORTHOLOGY   K06181  23S rRNA pseudouridine2457 synthase [EC:5.4.99.20]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b1135 (rluE)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.99  Transferring other groups
+                5.4.99.20  23S rRNA pseudouridine2457 synthase
+                 b1135 (rluE)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               23S rRNA modification factors
+                b1135 (rluE)
+POSITION    complement(1194298..1194951)
+MOTIF       Pfam: PseudoU_synth_2 Cyc-maltodext_C
+DBLINKS     NCBI-GeneID: 945701
+            NCBI-ProteinID: NP_415653
+            Pasteur: ymfC
+            RegulonDB: ECK120003177
+            ECOCYC: G6581
+            ASAP: ABE-0003820
+            UniProt: P75966
+STRUCTURE   PDB: 2OML 2OLW
+AASEQ       217
+            MRQFIISENTMQKTSFRNHQVKRFSSQRSTRRKPENQPTRVILFNKPYDVLPQFTDEAGR
+            KTLKEFIPVQGVYAAGRLDRDSEGLLVLTNNGALQARLTQPGKRTGKIYYVQVEGIPTQD
+            ALEALRNGVTLNDGPTLPAGAELVDEPAWLWPRNPPIRERKSIPTSWLKITLYEGRNRQV
+            RRMTAHVGFPTLRLIRYAMGDYSLDNLANGEWREVTD
+NTSEQ       654
+            atgcggcaattcataatctctgaaaataccatgcaaaaaacttcttttagaaatcaccag
+            gttaagcgattcagctcgcaacgttctaccaggcgtaaacctgaaaaccagcccacgcgt
+            gtgatcctgttcaataaaccctacgatgttcttccgcagttcaccgatgaagccggacgc
+            aaaacattaaaagaattcatcccggttcagggtgtttatgcagcaggtcgccttgaccgc
+            gatagcgaagggttgctggtgctgaccaataacggcgcgttgcaggcgcgtttaacccag
+            ccgggtaaacgcaccggaaaaatctattatgtgcaggtggaaggtattcccacacaagac
+            gcacttgaagccttgcgcaatggcgtaaccttaaatgatggccctaccctgcccgccggc
+            gcggagctggttgacgaacccgcgtggttatggccgcggaatccaccaattcgtgaacgc
+            aaaagtattcccaccagctggctgaagatcaccttatatgaaggacgtaatcgccaggtg
+            cgccgcatgaccgcccatgttggcttccccacgctgcgactgattcgctatgcgatgggt
+            gattactctttggataatcttgccaatggtgaatggcgagaagtgacagattaa
+///

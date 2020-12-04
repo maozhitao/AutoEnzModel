@@ -1,0 +1,58 @@
+ENTRY       b3879             CDS       T00007
+NAME        yihR
+DEFINITION  (RefSeq) putative aldose 1-epimerase YihR
+ORTHOLOGY   K01785  aldose 1-epimerase [EC:5.1.3.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00010  Glycolysis / Gluconeogenesis
+            eco00052  Galactose metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+            eco01120  Microbial metabolism in diverse environments
+MODULE      eco_M00632  Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                b3879 (yihR)
+               00052 Galactose metabolism
+                b3879 (yihR)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.1  Racemases and epimerases
+               5.1.3  Acting on carbohydrates and derivatives
+                5.1.3.3  aldose 1-epimerase
+                 b3879 (yihR)
+POSITION    complement(4069475..4070401)
+MOTIF       Pfam: Aldose_epim
+DBLINKS     NCBI-GeneID: 948375
+            NCBI-ProteinID: NP_418315
+            Pasteur: yihR
+            RegulonDB: ECK120001775
+            ECOCYC: EG11844
+            ASAP: ABE-0012669
+            UniProt: P32139
+AASEQ       308
+            MSLIKVPCMQITNMHCSGQTVSLAAGDYHATIVTVGAGLAELTFQGCHLVIPHKPEEMPL
+            AHLGKVLIPWPNRIANGCYRYQGQEYQLPINEHSSKAAIHGLLAWRDWQISELTATSVTL
+            TAFLPPSYGYPFMLASQVVYSLNAHTGLSVEIASQNIGTVAAPYGVGIHPYLTCNLTSVD
+            EYLFQLPANQVYAVDEHANPTTLHHVDELDLNFTQAKKIAATKIDHTFKTANDLWEMTIT
+            HPQQALSVSLCSDQLWVQVYSGEKLQRQGLAVEPMSCPPNAFNSGIDLLLLESGKPHRLF
+            FNIYGQRK
+NTSEQ       927
+            atgtcgttaattaaggtgccttgtatgcaaatcaccaatatgcattgcagtggacagacc
+            gtttcacttgccgcgggggattatcacgcgaccattgtgaccgtcggtgctggtctggct
+            gaattaacctttcagggttgtcatttagtcatcccgcacaaacccgaagagatgccgctg
+            gcgcatctgggtaaagtgcttattccgtggccgaaccggatcgccaacggctgttaccgc
+            tatcaggggcaggaatatcagttacccattaatgaacatagttcaaaagccgctattcac
+            gggctgcttgcctggcgagactggcaaattagtgaattaaccgccaccagcgttaccctg
+            acagcttttctgccgcccagttacggctatccgtttatgctggcttcacaagttgtttat
+            tcgctcaacgcacacacgggtctttccgttgagatcgcaagccagaatatcggcactgtc
+            gcagcgccttatggcgtgggtattcatccttatttaacctgcaacttaacatctgttgat
+            gaatatctgttccagcttccggcaaaccaggtttatgccgtcgatgagcacgcgaatccg
+            acaacgcttcaccacgttgatgagctggatttaaatttcacgcaggcgaaaaaaatagcc
+            gcgacaaaaatcgaccacacctttaaaaccgctaatgatttgtgggaaatgaccattacc
+            catccacagcaggcgctttcggtaagcctttgttccgatcaactctgggtgcaggtttat
+            agcggtgaaaaattacagcgtcagggactggcagttgaacctatgagttgcccgcctaac
+            gcctttaattcaggtatcgacttattattactggaatcaggaaaaccgcaccgcctgttt
+            tttaatatttacggacagagaaaataa
+///

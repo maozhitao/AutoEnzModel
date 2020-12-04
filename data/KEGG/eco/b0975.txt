@@ -1,0 +1,46 @@
+ENTRY       b0975             CDS       T00007
+NAME        hyaD
+DEFINITION  (RefSeq) putative hydrogenase 1 maturation protease HyaD
+ORTHOLOGY   K03605  hydrogenase maturation protease [EC:3.4.23.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b0975 (hyaD)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.23  Aspartic endopeptidases
+                3.4.23.-  
+                 b0975 (hyaD)
+            Peptidases and inhibitors [BR:eco01002]
+             Aspartic peptidases
+              Family A31: HybD endopeptidase family
+               b0975 (hyaD)
+POSITION    1035770..1036357
+MOTIF       Pfam: HycI
+DBLINKS     NCBI-GeneID: 945575
+            NCBI-ProteinID: NP_415494
+            Pasteur: hyaD
+            RegulonDB: ECK120000464
+            ECOCYC: EG10471
+            ASAP: ABE-0003292
+            UniProt: P19930
+AASEQ       195
+            MSEQRVVVMGLGNLLWADEGFGVRVAERLYAHYHWPEYVEIVDGGTQGLNLLGYVESASH
+            LLILDAIDYGLEPGTLRTYAGERIPAYLSAKKMSLHQNSFSEVLALADIRGHLPAHIALV
+            GLQPAMLDDYGGSLSELAREQLPAAEQAALAQLAAWGIVPQPANESRCLNYDCLSMENYE
+            GVRLRQYRMTQEEQG
+NTSEQ       588
+            atgagcgagcaacgcgtggtggtcatggggctgggcaacctgctgtgggccgatgaaggc
+            ttcggcgtgcgggtggcggaacggctgtatgcccattaccactggcccgagtatgtggag
+            attgtcgatggcggtactcagggactgaacttgctggggtatgtcgaaagcgccagccat
+            ctgttgattctcgatgccattgactacgggctggaacctggaacgctgcgaacctatgcc
+            ggagaacgcattccggcttatctcagcgcgaagaaaatgagcctgcatcagaacagtttc
+            tccgaagtgttggcgctggcggatatccgcggacatctgccagcacatattgccctcgtc
+            ggtctgcaacccgcaatgctcgacgactacggcggtagcctgagcgaactggcacgggag
+            caactgcccgctgcggaacaggcggcgctggcgcagcttgctgcgtggggaattgtgccg
+            caaccggctaatgaatcgcgctgtctcaattatgactgtctgtcgatggaaaattacgaa
+            ggcgttcgcttgcgccagtaccggatgacacaggaggagcagggatga
+///

@@ -1,0 +1,43 @@
+ENTRY       b2968             CDS       T00007
+NAME        yghD
+DEFINITION  (RefSeq) putative type II secretion system M-type protein
+ORTHOLOGY   K02462  general secretion pathway protein M
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b2968 (yghD)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b2968 (yghD)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              General secretion pathway protein
+               b2968 (yghD)
+POSITION    complement(3110590..3111126)
+MOTIF       Pfam: T2SSM TetR_C_11 Mce4_CUP1
+DBLINKS     NCBI-GeneID: 947025
+            NCBI-ProteinID: NP_417442
+            Pasteur: yghD
+            RegulonDB: ECK120004096
+            ECOCYC: G7535
+            ASAP: ABE-0009740
+            UniProt: Q46832
+AASEQ       178
+            MLRDKFIHYFQQWRERQLSRGEHWLAQHLAGRSPREKGMLLAAVVFLFSVGYYVLIWQPL
+            SERIEQQETILQQLVAMNTRLKNAAPDIIAARKSATTTPAQVSRVISDSASAHSVVIRRI
+            ADRGENIQVWIEPVVFNDLLKWLNALDEKYALRVTQIDVSAAEKPGMVNVQRLEFGRG
+NTSEQ       537
+            atgttacgcgataaatttattcactattttcagcaatggcgtgaacgccagttaagccgt
+            ggcgaacactggctggcacaacacctggcggggcgttctccgcgtgaaaagggcatgtta
+            ctggcagcggtggtgttcctgtttagcgtcggatattacgtcctcatctggcagccgttg
+            agcgaacggattgagcaacaggagacaatattgcagcagctggtggcgatgaacacccga
+            ctgaagaacgccgcgccggatattattgcagcgcgaaaatctgccacaacaacgcctgcg
+            caggtatcgcgggtcatcagtgacagtgcttccgcgcactcggtggtcatcaggcggata
+            gccgatcgtggggagaatattcaggtctggatagaacctgtggtgtttaatgacctgctg
+            aaatggttaaacgcactggatgaaaaatatgcgctgcgggtgacacaaattgatgtcagt
+            gctgctgagaagcctgggatggtgaatgtgcagcggctggagtttggacgggggtaa
+///

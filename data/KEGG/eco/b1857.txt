@@ -1,0 +1,54 @@
+ENTRY       b1857             CDS       T00007
+NAME        znuA
+DEFINITION  (RefSeq) Zn(2(+)) ABC transporter periplasmic binding protein
+ORTHOLOGY   K09815  zinc transport system substrate-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b1857 (znuA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1857 (znuA)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Metallic cation, iron-siderophore and vitamin B12 transporters
+               Zinc transporter
+                b1857 (znuA)
+POSITION    complement(1941651..1942583)
+MOTIF       Pfam: ZnuA
+DBLINKS     NCBI-GeneID: 946375
+            NCBI-ProteinID: NP_416371
+            RegulonDB: ECK120003604
+            ECOCYC: G7017
+            ASAP: ABE-0006191
+            UniProt: P39172
+STRUCTURE   PDB: 2PRS 2OSV 2OGW 2PS0 2PS9 2PS3
+AASEQ       310
+            MLHKKTLLFAALSAALWGGATQAADAAVVASLKPVGFIASAIADGVTETEVLLPDGASEH
+            DYSLRPSDVKRLQNADLVVWVGPEMEAFMQKPVSKLPGAKQVTIAQLEDVKPLLMKSIHG
+            DDDDHDHAEKSDEDHHHGDFNMHLWLSPEIARATAVAIHGKLVELMPQSRAKLDANLKDF
+            EAQLASTETQVGNELAPLKGKGYFVFHDAYGYFEKQFGLTPLGHFTVNPEIQPGAQRLHE
+            IRTQLVEQKATCVFAEPQFRPAVVESVARGTSVRMGTLDPLGTNIKLGKTSYSEFLSQLA
+            NQYASCLKGD
+NTSEQ       933
+            atgttacataaaaaaacgcttcttttcgcagcattatccgccgctctctggggaggtgca
+            acacaggccgcagatgccgccgttgtcgcttcgcttaaacccgttgggttcatcgcttct
+            gccattgctgatggggtaacagaaacagaggttttacttcctgacggcgcttcagaacat
+            gattattcactgcgcccatcggatgtaaaacgcttacagaacgcggacttagtcgtttgg
+            gttggcccggagatggaagcgtttatgcaaaaaccggtaagcaaattaccaggagcgaag
+            caggtaacgattgcgcagcttgaagatgtgaaaccgctactgatgaaaagtattcacggc
+            gatgatgatgatcacgaccacgcggaaaaaagtgacgaagatcaccatcacggcgatttc
+            aacatgcatctttggctttccccagagatagcgcgggctacagcggttgcaatccatgga
+            aaattagtggaacttatgccgcaaagtcgagccaaacttgacgccaacctgaaggatttt
+            gaggcacaattagcctcaaccgaaacgcaggttggtaacgagctcgcgccgctcaagggg
+            aaaggttatttcgtttttcacgatgcttacggctatttcgaaaaacagtttggactgaca
+            ccgcttggtcattttaccgttaaccctgagattcaacctggcgcgcagcgtttacatgaa
+            ataagaacacagttggttgagcaaaaagcaacctgcgtttttgctgagccacagttcagg
+            ccagcggtcgttgagagcgtcgcacgagggacatccgttcgtatgggaacgttggatccc
+            ctggggacgaatatcaaactgggtaaaacaagctattcagaattcctgagtcaattagcc
+            aaccagtatgcgagctgcctgaaaggagattaa
+///

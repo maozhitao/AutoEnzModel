@@ -1,0 +1,99 @@
+ENTRY       b0470             CDS       T00007
+NAME        dnaX
+DEFINITION  (RefSeq) DNA polymerase III subunit tau
+ORTHOLOGY   K02343  DNA polymerase III subunit gamma/tau [EC:2.7.7.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+            eco03430  Mismatch repair
+            eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b0470 (dnaX)
+               03430 Mismatch repair
+                b0470 (dnaX)
+               03440 Homologous recombination
+                b0470 (dnaX)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b0470 (dnaX)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b0470 (dnaX)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 b0470 (dnaX)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Elongation Factors
+               Elongation factors (bacterial)
+                DNA polymerase III holoenzyme
+                 b0470 (dnaX)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                DNA polymerase III holoenzyme
+                 b0470 (dnaX)
+POSITION    492092..494023
+MOTIF       Pfam: DNA_pol3_tau_5 DNA_pol3_delta2 DNA_pol3_gamma3 DNA_pol3_tau_4 AAA RuvB_N AAA_5 AAA_22 DNA_pol3_delta AAA_18 ResIII AAA_14 PIF1 TsaE AAA_24 AAA_assoc_2 AAA_16
+DBLINKS     NCBI-GeneID: 945105
+            NCBI-ProteinID: NP_415003
+            Pasteur: dnaX
+            RegulonDB: ECK120000239
+            ECOCYC: EG10245
+            ASAP: ABE-0001633
+            UniProt: P06710
+STRUCTURE   PDB: 1NJG 1NJF 1JR3 3GLG 3GLF 1XXH 3GLI 3GLH 1XXI 5FKV 5FKU
+                 2AYA
+AASEQ       643
+            MSYQVLARKWRPQTFADVVGQEHVLTALANGLSLGRIHHAYLFSGTRGVGKTSIARLLAK
+            GLNCETGITATPCGVCDNCREIEQGRFVDLIEIDAASRTKVEDTRDLLDNVQYAPARGRF
+            KVYLIDEVHMLSRHSFNALLKTLEEPPEHVKFLLATTDPQKLPVTILSRCLQFHLKALDV
+            EQIRHQLEHILNEEHIAHEPRALQLLARAAEGSLRDALSLTDQAIASGDGQVSTQAVSAM
+            LGTLDDDQALSLVEAMVEANGERVMALINEAAARGIEWEALLVEMLGLLHRIAMVQLSPA
+            ALGNDMAAIELRMRELARTIPPTDIQLYYQTLLIGRKELPYAPDRRMGVEMTLLRALAFH
+            PRMPLPEPEVPRQSFAPVAPTAVMTPTQVPPQPQSAPQQAPTVPLPETTSQVLAARQQLQ
+            RVQGATKAKKSEPAAATRARPVNNAALERLASVTDRVQARPVPSALEKAPAKKEAYRWKA
+            TTPVMQQKEVVATPKALKKALEHEKTPELAAKLAAEAIERDPWAAQVSQLSLPKLVEQVA
+            LNAWKEESDNAVCLHLRSSQRHLNNRGAQQKLAEALSMLKGSTVELTIVEDDNPAVRTPL
+            EWRQAIYEEKLAQARESIIADNNIQTLRRFFDAELDEESIRPI
+NTSEQ       1932
+            atgagttatcaggtcttagcccgaaaatggcgcccacaaacctttgctgacgtcgtcggc
+            caggaacatgtgctgaccgcactggcgaacggcttgtcgttagggcgtattcatcatgct
+            tatcttttttccggcacccgtggcgtcggaaaaacctctatcgcccgactgctggcgaag
+            gggctaaactgcgaaaccggcattaccgcgacgccgtgcggcgtgtgcgataactgtcgt
+            gaaatcgagcaggggcgctttgtcgatctgattgaaatcgacgccgcctcgcgcaccaaa
+            gttgaagatacccgcgacctgctggataacgtccagtacgctccggcgcgtggtcgtttc
+            aaagtttatctgatcgacgaagtgcatatgctgtcgcgccacagctttaacgcactgtta
+            aaaacccttgaagagccgccggagcacgttaagtttctgctggcgacgaccgatccacag
+            aaattgccggtgacgattttgtcacgctgtctgcaatttcatctcaaggcgctggatgtc
+            gagcaaattcgccatcagcttgagcacatcctcaacgaagaacatatcgctcacgagccg
+            cgggcgctgcaattgctggcacgcgccgctgaaggcagcctgcgagatgccttaagtctg
+            accgaccaggcgattgccagcggtgacggccaggtttcaacccaggcggtcagtgcgatg
+            ctgggtacgcttgacgacgatcaggcgctgtcgctggttgaagcgatggtcgaggccaac
+            ggcgagcgcgtaatggcgctgattaatgaagccgctgcccgtggtatcgagtgggaagcg
+            ttgctggtggaaatgctcggcctgttgcatcgtattgcgatggtacaactttcgcctgct
+            gcacttggcaacgacatggccgccatcgagctgcggatgcgtgaactggcgcgcaccata
+            ccgccgacggatattcagctttactatcagacgctgttgattggtcgcaaagaattaccg
+            tatgcgccggaccgtcgcatgggcgttgagatgacgctgctgcgcgcgctggcattccat
+            ccgcgtatgccgctgcctgagccagaagtgccacgacagtcctttgcacccgtcgcgcca
+            acggcagtaatgacgccaacccaggtgccgccgcaaccgcaatcagcgccgcagcaggca
+            ccgactgtaccgctcccggaaaccaccagccaggtgctggcggcgcgccagcagttgcag
+            cgcgtgcagggagcaaccaaagcaaaaaagagtgaaccggcagccgctacccgcgcgcgg
+            ccggtgaataacgctgcgctggaaagactggcttcggtcaccgatcgcgttcaggcgcgt
+            ccggtgccatcggcgctggaaaaagcgccagccaaaaaagaagcgtatcgctggaaggcg
+            accactccggtgatgcagcaaaaagaagtggtcgccacgccgaaggcgctgaaaaaagcg
+            ctggaacatgaaaaaacgccggaactggcggcgaagctagcggcagaagccattgagcgc
+            gacccgtgggcggcacaggtgagccaactttcgctaccaaaactggtcgaacaggtggcg
+            ttaaatgcctggaaagaggagagcgacaacgcagtatgtctgcatttgcgctcctctcag
+            cggcatttgaacaaccgcggtgcacagcaaaaactggctgaagcgttgagcatgttaaaa
+            ggttcaacggttgaactgactatcgttgaagatgataatcccgcggtgcgtacgccgctg
+            gagtggcgtcaggcgatatacgaagaaaaacttgcgcaggcgcgcgagtccattattgcg
+            gataataatattcagaccctgcgtcggttcttcgatgcggagctggatgaagaaagtatc
+            cgccccatttga
+///

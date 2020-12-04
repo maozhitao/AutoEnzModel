@@ -1,0 +1,54 @@
+ENTRY       b1117             CDS       T00007
+NAME        lolD
+DEFINITION  (RefSeq) lipoprotein release complex - ATP binding subunit
+ORTHOLOGY   K09810  lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b1117 (lolD)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1117 (lolD)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.3  Catalysing transmembrane movement of substances
+                3.6.3.-  
+                 b1117 (lolD)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              ABC-2 type and other transporters
+               Lipoprotein-releasing transporter
+                b1117 (lolD)
+POSITION    1176619..1177320
+MOTIF       Pfam: ABC_tran AAA_21 SMC_N AAA_16 AAA_29 RsgA_GTPase SbcCD_C AAA_22 AAA_30 AAA_33 FtsK_SpoIIIE DUF87 AAA_23 MMR_HSR1 NACHT
+DBLINKS     NCBI-GeneID: 945670
+            NCBI-ProteinID: NP_415635
+            Pasteur: ycfV
+            RegulonDB: ECK120003170
+            ECOCYC: G6574
+            ASAP: ABE-0003774
+            UniProt: P75957
+AASEQ       233
+            MNKILLQCDNLCKRYQEGSVQTDVLHNVSFSVGEGEMMAIVGSSGSGKSTLLHLLGGLDT
+            PTSGDVIFNGQPMSKLSSAAKAELRNQKLGFIYQFHHLLPDFTALENVAMPLLIGKKKPA
+            EINSRALEMLKAVGLDHRANHRPSELSGGERQRVAIARALVNNPRLVLADEPTGNLDARN
+            ADSIFQLLGELNRLQGTAFLVVTHDLQLAKRMSRQLEMRDGRLTAELSLMGAE
+NTSEQ       702
+            atgaataagatcctgttgcaatgcgacaacctgtgcaaacgctatcaggaaggcagtgtg
+            caaaccgatgtgctgcacaatgtcagtttcagcgtcggcgaaggtgaaatgatggcgatc
+            gtcggtagctctggttccggtaaaagtaccttgctgcacctgctgggcgggctggatacg
+            ccaacctccggcgatgtgatttttaatggtcagccaatgagcaaactgtcgtcggcagcg
+            aaagctgaactgcgcaaccagaagctgggctttatttatcagtttcaccacctgctgccg
+            gattttaccgccctggaaaacgtggctatgccgctgctgattggcaagaaaaagcccgct
+            gaaatcaacagccgtgcacttgagatgttaaaagcggtggggctggatcatcgtgcgaat
+            caccgcccatctgaactttctggcggcgaacgccagcgtgtggcgattgcccgtgcgctg
+            gtgaataacccgcgcctggtactggcggatgaacctaccggtaacctcgatgcgcgtaac
+            gccgacagcatcttccagttgcttggggaattgaatcgcttgcagggcaccgccttcctg
+            gtggttactcacgacctgcaactggcgaaacgtatgagccgccagttagaaatgcgtgat
+            ggtcgtctgacggcggaactgagcctgatgggggcggagtaa
+///

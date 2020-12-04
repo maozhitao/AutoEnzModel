@@ -1,0 +1,37 @@
+ENTRY       b1038             CDS       T00007
+NAME        csgF
+DEFINITION  (RefSeq) curli assembly component
+ORTHOLOGY   K04338  curli production assembly/transport component CsgF
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b1038 (csgF)
+            Secretion system [BR:eco02044]
+             Extracellular nucleation-precipitation pathway
+              Curli assembly protein
+               b1038 (csgF)
+POSITION    complement(1101711..1102127)
+MOTIF       Pfam: CsgF
+DBLINKS     NCBI-GeneID: 945622
+            NCBI-ProteinID: NP_415556
+            Pasteur: csgF
+            RegulonDB: ECK120003140
+            ECOCYC: G6544
+            ASAP: ABE-0003519
+            UniProt: P0AE98
+STRUCTURE   PDB: 5M1U
+AASEQ       138
+            MRVKHAVVLLMLISPLSWAGTMTFQFRNPNFGGNPNNGAFLLNSAQAQNSYKDPSYNDDF
+            GIETPSALDNFTQAIQSQILGGLLSNINTGKPGRMVTNDYIVDIANRDGQLQLNVTDRKT
+            GQTSTIQVSGLQNNSTDF
+NTSEQ       417
+            atgcgtgtcaaacatgcagtagttctactcatgcttatttcgccattaagttgggctgga
+            accatgactttccagttccgtaatccaaactttggtggtaacccaaataatggcgctttt
+            ttattaaatagcgctcaggcccaaaactcttataaagatccgagctataacgatgacttt
+            ggtattgaaacaccctcagcgttagataactttactcaggccatccagtcacaaatttta
+            ggtgggctactgtcgaatattaataccggtaaaccgggccgcatggtgaccaacgattat
+            attgtcgatattgccaaccgcgatggtcaattgcagttgaacgtgacagatcgtaaaacc
+            ggacaaacctcgaccatccaggtttcgggtttacaaaataactcaaccgatttttaa
+///

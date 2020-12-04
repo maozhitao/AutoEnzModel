@@ -1,0 +1,35 @@
+ENTRY       b0357             CDS       T00007
+NAME        frmR
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor FrmR
+ORTHOLOGY   K23239  FrmR/RcnR family transcriptional regulator, repressor of frmRAB operon
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0357 (frmR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Other transcription factors
+               Others
+                b0357 (frmR)
+POSITION    complement(379606..379881)
+MOTIF       Pfam: Trns_repr_metal Img2
+DBLINKS     NCBI-GeneID: 944986
+            NCBI-ProteinID: NP_414891
+            Pasteur: yaiN
+            RegulonDB: ECK120002823
+            ECOCYC: G6209
+            ASAP: ABE-0001226
+            UniProt: P0AAP3
+STRUCTURE   PDB: 5LBM
+AASEQ       91
+            MPSTPEEKKKVLTRVRRIRGQIDALERSLEGDAECRAILQQIAAVRGAANGLMAEVLESH
+            IRETFDRNDCYSREVSQSVDDTIELVRAYLK
+NTSEQ       276
+            atgcccagtactccggaagagaagaaaaaggtccttactcgagttcgtcgtattcggggg
+            cagattgatgctctggaacggtcgctggagggtgatgccgaatgccgtgccatactccaa
+            cagatcgctgccgttcggggcgcggctaatgggctgatggcagaagtgcttgaaagccat
+            atccgggaaacgtttgaccgaaatgactgctacagccgcgaagtcagccaatccgttgac
+            gacactattgaactggttcgtgcctatcttaaatag
+///

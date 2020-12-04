@@ -1,0 +1,38 @@
+ENTRY       b0891             CDS       T00007
+NAME        lolA
+DEFINITION  (RefSeq) outer membrane lipoprotein carrier protein
+ORTHOLOGY   K03634  outer membrane lipoprotein carrier protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09193 Unclassified: signaling and cellular processes
+               99992 Structural proteins
+                b0891 (lolA)
+POSITION    937372..937983
+MOTIF       Pfam: LolA DUF2092 DUF1964 CBM_6 DUF3220
+DBLINKS     NCBI-GeneID: 948989
+            NCBI-ProteinID: NP_415411
+            Pasteur: lolA
+            RegulonDB: ECK120003065
+            ECOCYC: G6465
+            ASAP: ABE-0003031
+            UniProt: P61316
+STRUCTURE   PDB: 3KSN 1IWL 2ZPD 1UA8 6F3Z 2ZPC 6FHM
+AASEQ       203
+            MKKIAITCALLSSLVASSVWADAASDLKSRLDKVSSFHASFTQKVTDGSGAAVQEGQGDL
+            WVKRPNLFNWHMTQPDESILVSDGKTLWFYNPFVEQATATWLKDATGNTPFMLIARNQSS
+            DWQQYNIKQNGDDFVLTPKASNGNLKQFTINVGRDGTIHQFSAVEQDDQRSSYQLKSQQN
+            GAVDAAKFTFTPPQGVTVDDQRK
+NTSEQ       612
+            atgaaaaaaattgccatcacctgtgcattactctcaagcttagtagcaagcagcgtttgg
+            gctgatgccgcaagcgatctgaaaagccgcctggataaagtcagcagcttccacgccagc
+            ttcacacaaaaagtgactgacggtagcggcgcggcggtgcaggaaggtcagggcgatctg
+            tgggtgaaacgtccaaacttattcaactggcatatgacacaacctgatgaaagcattctg
+            gtttctgacggtaaaacactgtggttctataacccgttcgttgagcaagctacggcaacc
+            tggctgaaagatgccaccggtaatacgccgtttatgctgattgcccgcaaccagtccagc
+            gactggcagcagtacaatatcaaacagaatggcgatgactttgtcctgacgccgaaagcc
+            agcaatggcaatctgaagcagttcaccattaacgtgggacgtgatggcacaatccatcag
+            tttagcgcggtggagcaggacgatcagcgcagcagttatcaactgaaatcccagcaaaat
+            ggggctgtggatgcagcgaaatttaccttcaccccgccgcaaggcgtcacggtagatgat
+            caacgtaagtag
+///

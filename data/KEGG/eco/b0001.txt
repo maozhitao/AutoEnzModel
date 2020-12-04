@@ -1,0 +1,25 @@
+ENTRY       b0001             CDS       T00007
+NAME        thrL
+DEFINITION  (RefSeq) thr operon leader peptide
+ORTHOLOGY   K08278  thr operon leader peptide
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09192 Unclassified: genetic information processing
+               99973 Transcription
+                b0001 (thrL)
+POSITION    190..255
+MOTIF       Pfam: Leader_Thr
+DBLINKS     NCBI-GeneID: 944742
+            NCBI-ProteinID: NP_414542
+            Pasteur: thrL
+            RegulonDB: ECK120001251
+            ECOCYC: EG11277
+            ASAP: ABE-0000006
+            UniProt: P0AD86
+AASEQ       21
+            MKRISTTITTTITITTGNGAG
+NTSEQ       66
+            atgaaacgcattagcaccaccattaccaccaccatcaccattaccacaggtaacggtgcg
+            ggctga
+///

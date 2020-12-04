@@ -1,0 +1,60 @@
+ENTRY       b3965             CDS       T00007
+NAME        trmA
+DEFINITION  (RefSeq) tRNA m(5)U54 methyltransferase
+ORTHOLOGY   K00557  tRNA (uracil-5-)-methyltransferase [EC:2.1.1.35]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3965 (trmA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.35  tRNA (uracil54-C5)-methyltransferase
+                 b3965 (trmA)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Methyltransferases
+                b3965 (trmA)
+POSITION    complement(4162170..4163270)
+MOTIF       Pfam: tRNA_U5-meth_tr Methyltransf_25 Methyltransf_4 MTS Cons_hypoth95 Methyltransf_15 Methyltransf_11 PrmA Methyltransf_31 DUF3164 Met_10 Ins134_P3_kin_N Methyltransf_12
+DBLINKS     NCBI-GeneID: 947143
+            NCBI-ProteinID: NP_418400
+            Pasteur: trmA
+            RegulonDB: ECK120001011
+            ECOCYC: EG11022
+            ASAP: ABE-0012983
+            UniProt: P23003
+STRUCTURE   PDB: 3BT7
+AASEQ       366
+            MTPEHLPTEQYEAQLAEKVVRLQSMMAPFSDLVPEVFRSPVSHYRMRAEFRIWHDGDDLY
+            HIIFDQQTKSRIRVDSFPAASELINQLMTAMIAGVRNNPVLRHKLFQIDYLTTLSNQAVV
+            SLLYHKKLDDEWRQEAEALRDALRAQNLNVHLIGRATKTKIELDQDYIDERLPVAGKEMI
+            YRQVENSFTQPNAAMNIQMLEWALDVTKGSKGDLLELYCGNGNFSLALARNFDRVLATEI
+            AKPSVAAAQYNIAANHIDNVQIIRMAAEEFTQAMNGVREFNRLQGIDLKSYQCETIFVDP
+            PRSGLDSETEKMVQAYPRILYISCNPETLCKNLETLSQTHKVERLALFDQFPYTHHMECG
+            VLLTAK
+NTSEQ       1101
+            atgacccccgaacaccttccaacagaacagtatgaagcgcagttagccgaaaaagtggta
+            cgtttgcaaagtatgatggcaccgttttctgacctggttccggaagtgtttcgctcgccg
+            gtcagtcattaccggatgcgcgcggagttccgcatctggcacgatggcgatgacctgtat
+            cacatcattttcgatcaacaaaccaaaagccgcatccgcgtggatagcttccccgccgcc
+            agtgaacttatcaaccagttgatgacggcgatgattgcgggtgtgcgtaataatcccgtt
+            ctgcgccacaagttgttccagattgattacctcactacactgagtaatcaggcggtggtt
+            tccctgctataccataagaagctggatgatgagtggcgtcaggaagcggaggccctgcgc
+            gatgcactgcgcgcgcagaatctgaatgtgcatctgattggtcgggcaacgaaaaccaaa
+            atcgagctggatcaggattacatcgatgaacgtctgccggtcgcagggaaagagatgatc
+            taccgtcaggtagaaaacagctttacccagccgaacgcggcgatgaatattcagatgctg
+            gaatgggcgctggacgtaaccaaaggctcaaaaggcgatttactggagctgtactgcggc
+            aacggtaacttttcattagcgctggcgcgtaattttgatcgggtattagccaccgaaatc
+            gctaagccgtcggttgctgctgcgcaatacaacatcgcagctaaccatattgataacgta
+            caaattattcgtatggcggcagaagaatttactcaggcgatgaatggtgtgcgcgagttt
+            aaccgcctgcaagggatcgacttaaagagttatcagtgcgaaaccatttttgtcgaccct
+            ccgcgcagcggtctggacagtgaaaccgagaaaatggtgcaggcgtatccgcgtattttg
+            tacatctcctgtaacccggaaacgttatgcaagaatctggaaacattaagccagacgcac
+            aaggtcgaacgtctggctctgtttgatcagttcccctacacgcaccatatggagtgcggc
+            gtattactgaccgcgaagtaa
+///

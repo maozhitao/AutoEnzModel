@@ -1,0 +1,35 @@
+ENTRY       b1563             CDS       T00007
+NAME        relE
+DEFINITION  (RefSeq) Qin prophage; mRNA interferase toxin RelE
+ORTHOLOGY   K06218  mRNA interferase RelE/StbE
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b1563 (relE)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               RelE/StbE-RelB/StbD
+                b1563 (relE)
+POSITION    complement(1645346..1645633)
+MOTIF       Pfam: ParE_toxin ParE-like_toxin
+DBLINKS     NCBI-GeneID: 947549
+            NCBI-ProteinID: NP_416081
+            Pasteur: relE
+            RegulonDB: ECK120001115
+            ECOCYC: EG11131
+            ASAP: ABE-0005221
+            UniProt: P0C077
+STRUCTURE   PDB: 4FXI 4FXH 4FXE 2KC8 2KC9
+AASEQ       95
+            MAYFLDFDERALKEWRKLGSTVREQLKKKLVEVLESPRIEANKLRGMPDCYKIKLRSSGY
+            RLVYQVIDEKVVVFVISVGKRERSEVYSEAVKRIL
+NTSEQ       288
+            atggcgtattttctggattttgacgagcgggcactaaaggaatggcgaaagctgggctcg
+            acggtacgtgaacagttgaaaaagaagctggttgaagtacttgagtcaccccggattgaa
+            gcaaacaagctccgtggtatgcctgattgttacaagattaagctccggtcttcaggctat
+            cgccttgtataccaggttatagacgagaaagttgtcgttttcgtgatttctgttgggaaa
+            agagaacgctcggaagtatatagcgaggcggtcaaacgcattctctga
+///

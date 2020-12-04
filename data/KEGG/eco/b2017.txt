@@ -1,0 +1,34 @@
+ENTRY       b2017             CDS       T00007
+NAME        yefM
+DEFINITION  (RefSeq) YefM antitoxin of the YoeB-YefM toxin-antitoxin pair and DNA binding transcriptional repressor
+ORTHOLOGY   K19159  antitoxin YefM
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b2017 (yefM)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               YoeB-YefM
+                b2017 (yefM)
+POSITION    complement(2089462..2089713)
+MOTIF       Pfam: PhdYeFM_antitox PHD_like WEMBL
+DBLINKS     NCBI-GeneID: 946542
+            NCBI-ProteinID: NP_416521
+            RegulonDB: ECK120002397
+            ECOCYC: EG12844
+            ASAP: ABE-0006705
+            UniProt: P69346
+STRUCTURE   PDB: 2A6Q
+AASEQ       83
+            MRTISYSEARQNLSATMMKAVEDHAPILITRQNGEACVLMSLEEYNSLEETAYLLRSPAN
+            ARRLMDSIDSLKSGKGTEKDIIE
+NTSEQ       252
+            atgcgtacaattagctacagcgaagcgcgtcagaatttgtcggcaacaatgatgaaagcc
+            gttgaagatcatgccccgatccttattactcgtcagaatggagaggcttgtgttctgatg
+            tcactcgaagaatacaactcgctggaagagacggcttatctactgcgctcccccgctaac
+            gcccggagattgatggactcaatcgatagcctgaaatcaggcaaaggaacggaaaaggac
+            atcattgagtga
+///

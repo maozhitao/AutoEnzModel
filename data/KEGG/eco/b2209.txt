@@ -1,0 +1,40 @@
+ENTRY       b2209             CDS       T00007
+NAME        eco
+DEFINITION  (RefSeq) serine protease inhibitor ecotin
+ORTHOLOGY   K08276  ecotin
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b2209 (eco)
+            Peptidases and inhibitors [BR:eco01002]
+             Peptidase inhibitors
+              Family I11: ecotin family
+               b2209 (eco)
+POSITION    2303905..2304393
+MOTIF       Pfam: Ecotin SP2
+DBLINKS     NCBI-GeneID: 946700
+            NCBI-ProteinID: NP_416713
+            Pasteur: eco
+            RegulonDB: ECK120000249
+            ECOCYC: EG10255
+            ASAP: ABE-0007297
+            UniProt: P23827
+STRUCTURE   PDB: 1SLU 1N8O 1IFG 1SLW 1ECY 1XX9 1FI8 1SLX 1EZS 1AZZ 1SLV
+                 1EZU 1ID5 1XXF 1ECZ 1P0S 4NIY 1XXD 4IW4
+AASEQ       162
+            MKTILPAVLFAAFATTSAWAAESVQPLEKIAPYPQAEKGMKRQVIQLTPQEDESTLKVEL
+            LIGQTLEVDCNLHRLGGKLENKTLEGWGYDYYVFDKVSSPVSTMMACPDGKKEKKFVTAY
+            LGDAGMLRYNSKLPIVVYTPDNVDVKYRVWKAEEKIDNAVVR
+NTSEQ       489
+            atgaagaccattctacctgcagtattgtttgccgctttcgctaccacttccgcctgggcg
+            gcagaaagcgtccagccactggaaaaaatcgcgccttatccacaagctgaaaaagggatg
+            aagcgtcaggtgattcagttaaccccgcaagaagatgaatctaccctgaaagtagaactg
+            ttaatcggtcagacgctggaagtcgattgcaatttgcatcgtctcggcgggaagctggaa
+            aacaaaacgctggaaggctggggctatgattattatgtctttgataaagtcagttccccg
+            gtttcaacgatgatggcctgcccggatggcaagaaagagaagaaatttgtcaccgcgtat
+            ctgggcgatgctggaatgctgcgttacaacagcaagctgccgatcgtggtgtatacgcca
+            gacaatgtagatgtgaagtaccgcgtctggaaggcggaagagaaaattgacaacgcggta
+            gttcgctaa
+///

@@ -1,0 +1,54 @@
+ENTRY       b1802             CDS       T00007
+NAME        yeaW
+DEFINITION  (RefSeq) carnitine monooxygenase subunit YeaW
+ORTHOLOGY   K22443  carnitine monooxygenase subunit [EC:1.14.13.239]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b1802 (yeaW)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.13  With NADH or NADPH as one donor, and incorporation of one atom of oxygen into the other donor
+                1.14.13.239  carnitine monooxygenase
+                 b1802 (yeaW)
+POSITION    1884665..1885789
+MOTIF       Pfam: Ring_hydroxyl_A Rieske Rieske_2
+DBLINKS     NCBI-GeneID: 946325
+            NCBI-ProteinID: NP_416316
+            Pasteur: yeaW
+            RegulonDB: ECK120003575
+            ECOCYC: G6988
+            ASAP: ABE-0005997
+            UniProt: P0ABR7
+AASEQ       374
+            MSNLSPDFVLPENFCANPQEAWTIPARFYTDQNAFEHEKENVFAKSWICVAHSSELANAN
+            DYVTREIIGESIVLVRGRDKVLRAFYNVCPHRGHQLLSGEGKAKNVITCPYHAWAFKLDG
+            NLAHARNCENVANFDSDKAQLVPVRLEEYAGFVFINMDPNATSVEDQLPGLGAKVLEACP
+            EVHDLKLAARFTTRTPANWKNIVDNYLECYHCGPAHPGFSDSVQVDRYWHTMHGNWTLQY
+            GFAKPSEQSFKFEEGTDAAFHGFWLWPCTMLNVTPIKGMMTVIYEFPVDSETTLQNYDIY
+            FTNEELTDEQKSLIEWYRDVFRPEDLRLVESVQKGLKSRGYRGQGRIMADSSGSGISEHG
+            IAHFHNLLAQVFKD
+NTSEQ       1125
+            atgagcaatctgagccctgactttgtactacccgaaaatttttgcgctaacccgcaagag
+            gcgtggaccattcctgcccgtttttataccgatcagaacgcgtttgaacacgaaaaagag
+            aacgtcttcgccaaaagctggatttgcgtcgctcacagcagcgaactggcgaatgccaat
+            gattatgtgacgcgtgagatcattggcgaaagcatcgtgctggtacgcggtcgtgataag
+            gttttgcgcgcgttctataacgtgtgtccgcaccgtggtcatcagttgttgagcggtgaa
+            ggaaaagcaaaaaatgtgattacctgcccgtatcacgcatgggcattcaaactcgatggc
+            aacctggcccatgcacgtaactgcgaaaacgtcgccaatttcgatagcgacaaagcgcaa
+            ctggttccggtgcgtctggaagaatatgccggattcgtcttcatcaacatggaccccaac
+            gccaccagcgtagaagatcaattacccggcctgggcgcgaaagtgctggaagcctgcccg
+            gaagtccacgatctgaaactggcggcccgctttaccacccgcacgcctgccaactggaag
+            aacattgtcgataactatctcgagtgctatcactgtggtccggcgcatccaggtttctcc
+            gactccgtacaggttgatcgttactggcacaccatgcacggtaactggacgctgcaatac
+            ggtttcgccaaaccgtccgaacagtcgtttaaatttgaagagggtacggatgcggcattc
+            cacggtttctggctgtggccgtgcacgatgctgaacgtcaccccgatcaaagggatgatg
+            acggtcatttatgaattcccggtggattctgaaactaccctgcaaaactacgatatttac
+            ttcaccaatgaagagttaaccgacgagcaaaaatcgctgattgagtggtatcgcgatgtg
+            ttccgtccggaagatttacgtctggttgaaagcgtacagaaagggctgaaatcgcgtggc
+            tatcgtggtcaggggcgcatcatggccgacagtagcggtagtggcatttccgaacatggt
+            atcgcccatttccataatctgctggcgcaggtgtttaaggactaa
+///

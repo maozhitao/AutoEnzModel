@@ -1,0 +1,73 @@
+ENTRY       b4016             CDS       T00007
+NAME        aceK
+DEFINITION  (RefSeq) isocitrate dehydrogenase kinase/phosphatase
+ORTHOLOGY   K00906  isocitrate dehydrogenase kinase/phosphatase [EC:2.7.11.5 3.1.3.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b4016 (aceK)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.5  [isocitrate dehydrogenase (NADP+)] kinase
+                 b4016 (aceK)
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.-  
+                 b4016 (aceK)
+POSITION    4218596..4220332
+MOTIF       Pfam: AceK
+DBLINKS     NCBI-GeneID: 944797
+            NCBI-ProteinID: NP_418440
+            Pasteur: aceK
+            RegulonDB: ECK120000023
+            ECOCYC: EG10026
+            ASAP: ABE-0013131
+            UniProt: P11071
+STRUCTURE   PDB: 6K5L 3EPS 3LCB 3LC6 4P69
+AASEQ       578
+            MPRGLELLIAQTILQGFDAQYGRFLEVTSGAQQRFEQADWHAVQQAMKNRIHLYDHHVGL
+            VVEQLRCITNGQSTDAAFLLRVKEHYTRLLPDYPRFEIAESFFNSVYCRLFDHRSLTPER
+            LFIFSSQPERRFRTIPRPLAKDFHPDHGWESLLMRVISDLPLRLRWQNKSRDIHYIIRHL
+            TETLGTDNLAESHLQVANELFYRNKAAWLVGKLITPSGTLPFLLPIHQTDDGELFIDTCL
+            TTTAEASIVFGFARSYFMVYAPLPAALVEWLREILPGKTTAELYMAIGCQKHAKTESYRE
+            YLVYLQGCNEQFIEAPGIRGMVMLVFTLPGFDRVFKVIKDRFAPQKEMSAAHVRACYQLV
+            KEHDRVGRMADTQEFENFVLEKRHISPALMELLLQEAAEKITDLGEQIVIRHLYIERRMV
+            PLNIWLEQVEGQQLRDAIEEYGNAIRQLAAANIFPGDMLFKNFGVTRHGRVVFYDYDEIC
+            YMTEVNFRDIPPPRYPEDELASEPWYSVSPGDVFPEEFRHWLCADPRIGPLFEEMHADLF
+            RADYWRALQNRIREGHVEDVYAYRRRQRFSVRYGEMLF
+NTSEQ       1737
+            atgccgcgtggcctggaattattgattgctcaaaccattttgcaaggcttcgatgctcag
+            tatggtcgattcctcgaagtgacctccggtgcgcagcagcgtttcgaacaggccgactgg
+            catgctgtccagcaggcgatgaaaaaccgtatccatctttacgatcatcacgttggtctg
+            gtcgtggagcaactgcgctgcattactaacggccaaagtacggacgcggcatttttacta
+            cgtgttaaagagcattacacccggctgttgccggattacccgcgcttcgagattgcggag
+            agcttttttaactccgtgtactgtcggttatttgaccaccgctcgcttactcccgagcgg
+            ctttttatctttagctctcagccagagcgccgctttcgtaccattccccgcccgctggcg
+            aaagactttcaccccgatcacggctgggaatctctactgatgcgcgttatcagcgaccta
+            ccgctgcgcctgcgctggcagaataaaagccgtgacatccattacattattcgccatctg
+            acggaaacgctggggacagacaacctcgcggaaagtcatttacaggtggcgaacgaactg
+            ttttaccgcaataaagccgcctggctggtaggcaaactgatcacaccttccggcacattg
+            ccatttttgctgccgatccaccagacggacgacggcgagttatttattgatacctgcctg
+            acgacgaccgccgaagcgagcattgtttttggctttgcgcgttcttattttatggtttat
+            gcgccgctgcccgcagcgctggtcgagtggctacgggaaattctgccaggtaaaaccacc
+            gctgaattgtatatggctatcggctgccagaagcacgccaaaaccgaaagctaccgcgaa
+            tatctcgtttatctacagggctgtaatgagcagttcattgaagcgccgggtattcgtgga
+            atggtgatgttggtgtttacgctgccgggctttgatcgggtattcaaagtcatcaaagac
+            aggttcgcgccgcagaaagagatgtctgccgctcacgttcgtgcctgctatcaactggtg
+            aaagagcacgatcgcgtgggccgaatggcggacacccaggagtttgaaaactttgtgctg
+            gagaagcggcatatttccccggcattaatggaattactgcttcaggaagcagcggaaaaa
+            atcaccgatctcggcgaacaaattgtgattcgccatctttatattgagcggcggatggtg
+            ccgctcaatatctggctggaacaagtggaaggtcagcagttgcgcgacgccattgaagaa
+            tacggtaacgctattcgccagcttgccgctgctaacattttccctggcgacatgctgttt
+            aaaaacttcggtgtcacccgtcacgggcgtgtggttttttatgattacgatgaaatttgc
+            tacatgacggaagtgaatttccgcgacatcccgccgccgcgctatccggaagacgaactt
+            gccagcgaaccgtggtacagcgtctcgccgggcgatgttttcccggaagagtttcgccac
+            tggctatgcgccgacccgcgtattggtccgctgtttgaagagatgcacgccgacctgttc
+            cgcgctgattactggcgcgcactacaaaaccgcatacgtgaagggcatgtggaagatgtt
+            tatgcgtatcggcgcaggcaaagatttagcgtacggtatggggagatgcttttttga
+///

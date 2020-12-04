@@ -1,0 +1,64 @@
+ENTRY       b2581             CDS       T00007
+NAME        yfiF
+DEFINITION  (RefSeq) putative methyltransferase
+ORTHOLOGY   K03214  RNA methyltransferase, TrmH family [EC:2.1.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b2581 (yfiF)
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b2581 (yfiF)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.-  
+                 b2581 (yfiF)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               23S rRNA modification factors
+                b2581 (yfiF)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Methyltransferases
+                b2581 (yfiF)
+POSITION    complement(2717491..2718528)
+MOTIF       Pfam: SpoU_methylase SpoU_sub_bind
+DBLINKS     NCBI-GeneID: 947066
+            NCBI-ProteinID: NP_417076
+            Pasteur: yfiF
+            RegulonDB: ECK120001720
+            ECOCYC: EG11786
+            ASAP: ABE-0008497
+            UniProt: P0AGJ5
+AASEQ       345
+            MNDEMKGKSGKVKVMYVRSDDDSDKRTHNPRTGKGGGRPGKSRADGGRRPARDDKQSQPR
+            DRKWEDSPWRTVSRAPGDETPEKADHGGISGKSFIDPEVLRRQRAEETRVYGENACQALF
+            QSRPEAIVRAWFIQSVTPRFKEALRWMAANRKAYHVVDEAELTKASGTEHHGGVCFLIKK
+            RNGTTVQQWVSQAGAQDCVLALENESNPHNLGGMMRSCAHFGVKGVVVQDAALLESGAAI
+            RTAEGGAEHVQPITGDNIVNVLDDFRQAGYTVVTTSSEQGKPLFKTSLPAKMVLVLGQEY
+            EGLPDAARDPNDLRVKIDGTGNVAGLNISVATGVLLGEWWRQNKA
+NTSEQ       1038
+            atgaacgatgaaatgaaaggtaaaagcggcaaggtcaaagtgatgtatgtccgcagtgat
+            gatgattctgataaacgtacccacaacccgcgtaccgggaaagggggcgggcgtccagga
+            aaatctcgtgctgacggtggccgtcgccccgcccgcgatgacaaacagagtcagccccgt
+            gaccgcaagtgggaagattcgccgtggcgcacggtttcccgcgcgccgggtgatgagacg
+            ccggaaaaggccgatcacggtggcatcagtggtaaaagttttattgatccggaagtgttg
+            cgtcgtcagcgtgcggaagaaacccgcgtctacggcgaaaatgcatgtcaggcacttttc
+            cagagccgtccggaagcgattgttcgcgcctggtttatccagagtgtaacgccgcgtttt
+            aaagaagctttgcgctggatggcagcaaaccgcaaagcgtaccatgtggtggatgaagcg
+            gaattgacaaaagcgtcaggcacggaacatcacggcggcgtttgcttcttgatcaaaaag
+            cgtaacggtacaaccgtgcagcagtgggtaagccaggcaggcgcgcaggattgcgttctg
+            gcactggaaaacgaatctaacccgcataacctgggtggcatgatgcgcagctgcgcgcac
+            ttcggcgtgaaaggtgtcgtggtgcaggatgcggcactgctggagtcgggggcggctatc
+            cgtaccgcagaaggcggcgcagagcacgttcagccgattactggcgacaacattgttaac
+            gtgctggatgatttccgtcaggcaggttacaccgtagtgaccacttccagcgagcagggt
+            aaaccgctgttcaaaactagtctgccagcgaaaatggtactggtgctgggtcaggaatat
+            gaagggttaccggatgccgcacgcgatccgaacgatctgcgcgtgaagattgacggtacg
+            ggcaacgttgccgggctgaatatctctgtcgcaaccggcgttttgcttggtgaatggtgg
+            cgtcagaataaagcctga
+///

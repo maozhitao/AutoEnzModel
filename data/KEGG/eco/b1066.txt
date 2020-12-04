@@ -1,0 +1,46 @@
+ENTRY       b1066             CDS       T00007
+NAME        rimJ
+DEFINITION  (RefSeq) ribosomal-protein-S5-alanine N-acetyltransferase
+ORTHOLOGY   K03790  [ribosomal protein S5]-alanine N-acetyltransferase [EC:2.3.1.267]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b1066 (rimJ)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.267  [ribosomal protein S5]-alanine N-acetyltransferase
+                 b1066 (rimJ)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              ribosomal protein modification factors
+               b1066 (rimJ)
+POSITION    1125562..1126146
+MOTIF       Pfam: Acetyltransf_3 Acetyltransf_4 Acetyltransf_1 Acetyltransf_8 FR47
+DBLINKS     NCBI-GeneID: 946910
+            NCBI-ProteinID: NP_415584
+            Pasteur: rimJ
+            RegulonDB: ECK120000842
+            ECOCYC: EG10851
+            ASAP: ABE-0003622
+            UniProt: P0A948
+AASEQ       194
+            MFGYRSNVPKVRLTTDRLVVRLVHDRDAWRLADYYAENRHFLKPWEPVRDESHCYPSGWQ
+            ARLGMINEFHKQGSAFYFGLFDPDEKEIIGVANFSNVVRGSFHACYLGYSIGQKWQGKGL
+            MFEALTAAIRYMQRTQHIHRIMANYMPHNKRSGDLLARLGFEKEGYAKDYLLIDGQWRDH
+            VLTALTTPDWTPGR
+NTSEQ       585
+            atgtttggctatcgcagtaacgtgccaaaagtgcgcttaaccacagaccgactggtcgtg
+            cgtctggtgcatgatcgtgatgcctggcgtcttgcggattattacgcagagaatcgccat
+            ttcctcaagccctgggagccagtgcgcgacgaaagccactgttatccatcaggctggcag
+            gccaggctggggatgattaacgaatttcataaacaaggttcagctttctactttggctta
+            ttcgacccggacgaaaaagagattattggcgttgccaatttttccaatgttgttcgtggc
+            tcttttcatgcctgctatctcggttattcgattgggcaaaaatggcagggcaaaggactc
+            atgtttgaagccctgaccgcagccattcgttatatgcagcgcacccaacatattcatcgc
+            attatggctaattatatgccgcacaataaacgcagcggtgatttactggcgcgactgggt
+            tttgaaaaagaaggctatgcgaaagactatctgttgattgatggacaatggcgcgatcac
+            gtactgacggcattaactaccccagactggacgcccggccgctaa
+///

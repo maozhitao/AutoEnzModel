@@ -1,0 +1,50 @@
+ENTRY       b0909             CDS       T00007
+NAME        ycaL
+DEFINITION  (RefSeq) periplasmic protease YcaL
+ORTHOLOGY   K07387  metalloprotease [EC:3.4.24.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b0909 (ycaL)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.-  
+                 b0909 (ycaL)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M48: Ste24 endopeptidase family
+               b0909 (ycaL)
+POSITION    960264..961028
+MOTIF       Pfam: Peptidase_M48 DUF5700 NPP1
+DBLINKS     NCBI-GeneID: 945534
+            NCBI-ProteinID: NP_415429
+            Pasteur: ycaL
+            RegulonDB: ECK120003070
+            ECOCYC: G6470
+            ASAP: ABE-0003098
+            UniProt: P43674
+AASEQ       254
+            MKNTKLLLAIATSAALLTGCQNTHGIDTNMAISSGLNAYKAATLSDADAKAIANQGCAEM
+            DSGNQVASKSSKYGKRLAKIAKALGNNINGTPVNYKVYMTSDVNAWAMANGCVRVYSGLM
+            DMMNDNEIEGVLGHELGHVALGHSLAEMKASYAIVAARDAISATSGVASQLSRSQLGDIA
+            EGAINAKYSRDKESEADDFSFDLLKKRGISTQGLVGSFETLASLDGGRTQSMFDSHPPST
+            ERAQHIRDRIASGK
+NTSEQ       765
+            atgaagaatactaaattactgctggcgattgcgacctctgcagcattactgacagggtgt
+            caaaatacccacggtattgataccaatatggctatcagctccggtttaaatgcctataaa
+            gcagcaacattaagcgatgccgatgcaaaagcgattgccaatcagggctgtgccgaaatg
+            gacagcggcaatcaagtcgcaagtaaatccagcaagtacggtaaacgtctggcaaaaatc
+            gccaaagcattgggtaacaatattaatggcacgccggtcaactataaggtttatatgacc
+            agcgacgtcaacgcatgggcgatggcgaacggctgtgttcgtgtctacagtggcctgatg
+            gacatgatgaatgacaacgaaattgaaggcgttctgggccatgaactgggccacgtcgcg
+            ttgggtcactcgctggctgaaatgaaagcttcttatgcgatcgttgccgcacgcgatgcc
+            atttcagctaccagcggtgtggcttcccagctttcccgctcacaattaggtgatatcgca
+            gaaggcgctatcaatgctaaatactcccgtgataaagagtccgaagcagatgatttctcc
+            tttgatctgttgaagaaacgtggcatcagcacccaggggctggttggcagctttgaaaca
+            ctggctagcctggatggcggtcgcacccagtccatgtttgactctcacccaccatcaaca
+            gagcgtgcgcaacacatccgtgatcgtatcgcctctggtaagtaa
+///

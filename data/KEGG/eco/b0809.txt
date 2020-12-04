@@ -1,0 +1,55 @@
+ENTRY       b0809             CDS       T00007
+NAME        glnQ
+DEFINITION  (RefSeq) L-glutamine ABC transporter ATP binding subunit
+ORTHOLOGY   K10038  glutamine transport system ATP-binding protein [EC:7.4.2.1]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b0809 (glnQ)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0809 (glnQ)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.4  Catalysing the translocation of amino acids and peptides
+               7.4.2  Linked to the hydrolysis of a nucleoside triphosphate
+                7.4.2.1  ABC-type polar-amino-acid transporter
+                 b0809 (glnQ)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Phosphate and amino acid transporters
+               Glutamine transporter
+                b0809 (glnQ)
+POSITION    complement(845741..846463)
+MOTIF       Pfam: ABC_tran AAA_21 SMC_N AAA_16 AAA_23 AAA_29 AAA_22 ABC_ATPase AAA_15 RsgA_GTPase TniB AAA_33 AAA_18 AAA_30 RNA12 ATPase_2 AAA_25 cobW CobU Rad17 NACHT Mg_chelatase NB-ARC SbcCD_C AAA_28 NTPase_1 AAA_27 AAA_24 AAA_19 AAA_14 MMR_HSR1 Adeno_IVa2 Sigma54_activat CPT
+DBLINKS     NCBI-GeneID: 945435
+            NCBI-ProteinID: NP_415330
+            Pasteur: glnQ
+            RegulonDB: ECK120000382
+            ECOCYC: EG10389
+            ASAP: ABE-0002764
+            UniProt: P10346
+AASEQ       240
+            MIEFKNVSKHFGPTQVLHNIDLNIAQGEVVVIIGPSGSGKSTLLRCINKLEEITSGDLIV
+            DGLKVNDPKVDERLIRQEAGMVFQQFYLFPHLTALENVMFGPLRVRGANKEEAEKLAREL
+            LAKVGLAERAHHYPSELSGGQQQRVAIARALAVKPKMMLFDEPTSALDPELRHEVLKVMQ
+            DLAEEGMTMVIVTHEIGFAEKVASRLIFIDKGRIAEDGNPQVLIKNPPSQRLQEFLQHVS
+NTSEQ       723
+            gtgattgaatttaaaaacgtctccaagcactttggcccaacccaggtgctgcacaatatc
+            gatttgaacattgcccagggcgaagtcgtggtgattatcgggccgtccggttccggtaaa
+            tcgaccctgctgcgctgcatcaacaaactggaagaaatcacctccggcgatctgattgtc
+            gatggcctgaaggttaacgatccgaaagttgacgagcgcctgattcgccaggaagcaggt
+            atggtgttccagcagttttacctcttcccgcatctgacagcgctggaaaacgtcatgttt
+            ggcccgctacgcgtgcgtggcgcgaacaaagaagaggcggaaaaactggcacgtgagctg
+            ctggcgaaagtcggtctggcagaacgtgcacatcactacccttccgaactttctggtggt
+            caacagcagcgtgtggcgattgcccgcgcgctggcggtgaagccgaaaatgatgctgttt
+            gatgaaccgacttccgctcttgacccggaactgcgccatgaagtgctgaaggttatgcag
+            gatctggctgaagaagggatgacgatggtgatcgtgacccacgaaatcggttttgccgag
+            aaagtagcttcgcggctgatctttatcgacaaaggccggattgcggaagatggcaatccg
+            caggtgttgatcaagaacccgccgagccagcgcttgcaggaatttttgcagcacgtctct
+            taa
+///

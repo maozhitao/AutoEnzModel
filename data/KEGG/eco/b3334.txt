@@ -1,0 +1,42 @@
+ENTRY       b3334             CDS       T00007
+NAME        gspM
+DEFINITION  (RefSeq) Type II secretion system protein GspM
+ORTHOLOGY   K02462  general secretion pathway protein M
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3334 (gspM)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3334 (gspM)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              General secretion pathway protein
+               b3334 (gspM)
+POSITION    3465082..3465543
+MOTIF       Pfam: T2SSM DUF2570
+DBLINKS     NCBI-GeneID: 947841
+            NCBI-ProteinID: NP_417793
+            Pasteur: gspM
+            RegulonDB: ECK120002068
+            ECOCYC: EG12173
+            ASAP: ABE-0010898
+            UniProt: P36678
+AASEQ       153
+            MIKSWWAEKSTSEKQIVAALAVLSLGVFCWLGVIKPIDTYIAEHQSHAQKIKKDIKWMQD
+            QASTHGLLGHPALTQPIKNILLEEAKRENLAITLENGPDNTLTIHPVTAPLENVSRWLTT
+            AQVTYGIVIEDLQFTLAGNEEITLRHLSFREQQ
+NTSEQ       462
+            atgattaaatcatggtgggcagaaaaatccacatcggaaaaacagatcgttgcggcactg
+            gcggttctctcgctcggcgttttttgttggcttggggtgataaaaccgatagatacctac
+            attgcagagcatcagtcccacgcgcaaaaaattaagaaggacatcaaatggatgcaggat
+            caagcgagcacccatggtttactcggtcatcctgcgcttacgcagcccatcaaaaatatc
+            cttctcgaggaagcaaaacgtgagaatttggctatcacgctggaaaacggcccggacaat
+            actctgacaattcatcctgtcacagctcccctcgaaaacgtctcccgctggctcactacg
+            gcacaggtaacatacggtattgttattgaagaccttcagtttactcttgccggaaacgaa
+            gagatcaccctcaggcatttgtccttcagggagcaacaataa
+///

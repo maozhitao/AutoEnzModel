@@ -1,0 +1,76 @@
+ENTRY       b1435             CDS       T00007
+NAME        rlhA
+DEFINITION  (RefSeq) 23S rRNA 5-hydroxycytidine C2501 synthase
+ORTHOLOGY   K08303  putative protease [EC:3.4.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b1435 (rlhA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.-  Acting on peptide bonds (peptidases)
+                3.4.-.-  
+                 b1435 (rlhA)
+            Peptidases and inhibitors [BR:eco01002]
+             Peptidases of unknown catalytic type
+              Family U32
+               b1435 (rlhA)
+POSITION    1506781..1508742
+MOTIF       Pfam: Peptidase_U32 DUF3656 D-ser_dehydrat
+DBLINKS     NCBI-GeneID: 945993
+            NCBI-ProteinID: NP_415952
+            Pasteur: ydcP
+            RegulonDB: ECK120003335
+            ECOCYC: G6746
+            ASAP: ABE-0004786
+            UniProt: P76104
+AASEQ       653
+            MTVSSHRLELLSPARDAAIAREAILHGADAVYIGGPGFGARHNASNSLKDIAELVPFAHR
+            YGAKIFVTLNTILHDDELEPAQRLITDLYQTGVDALIVQDMGILELDIPPIELHASTQCD
+            IRTVEKAKFLSDVGFTQIVLARELNLDQIRAIHQATDATIEFFIHGALCVAYSGQCYISH
+            AQTGRSANRGDCSQACRLPYTLKDDQGRVVSYEKHLLSMKDNDQTANLGALIDAGVRSFK
+            IEGRYKDMSYVKNITAHYRQMLDAIIEERGDLARASSGRTEHFFVPSTEKTFHRGSTDYF
+            VNARKGDIGAFDSPKFIGLPVGEVVKVAKDHLDVAVTEPLANGDGLNVLIKREVVGFRAN
+            TVEKTGENQYRVWPNEMPADLHKIRPHHPLNRNLDHNWQQALTKTSSERRVAVDIELGGW
+            QEQLILTLTSEEGVSITHTLDGQFDEANNAEKAMNNLKDGLAKLGQTLYYARDVQINLPG
+            ALFVPNSLLNQFRREAADMLDAARLASYQRGSRKPVADPAPVYPQTHLSFLANVYNQKAR
+            EFYHRYGVQLIDAAYEAHEEKGEVPVMITKHCLRFAFNLCPKQAKGNIKSWKATPMQLVN
+            GDEVLTLKFDCRPCEMHVIGKIKNHILKMPLPGSVVASVSPDELLKTLPKRKG
+NTSEQ       1962
+            gtgaccgtatcttctcatcgacttgaactgttaagcccggcacgcgatgccgccattgcc
+            cgcgaagctattttgcacggtgccgatgctgtttatatcggcggccctggttttggtgcc
+            cgtcataatgccagtaatagcttgaaagatattgccgagctggtgccgtttgcccatcgt
+            tatggtgcaaaaattttcgtcacgcttaacaccattttgcatgatgatgagctggaaccc
+            gcgcaacggctgattactgacctctaccagaccggtgtcgatgcgctgattgttcaggat
+            atggggattctggaacttgatattccgccgattgaactgcacgccagtacgcagtgcgac
+            attcgtacagttgaaaaagcgaagttcctctctgatgttggcttcacgcagattgtgctg
+            gcgcgagagctgaatcttgatcagatccgcgcgattcaccaggctacggacgcgaccatt
+            gaattctttattcatggggcactgtgcgtggcctattcgggtcagtgctacatttctcat
+            gcgcaaacagggcgtagcgccaaccgtggcgattgctcgcaggcgtgccgtttgccatac
+            acattgaaagacgatcaggggcgggtggtttcctatgaaaaacatctgctgtcgatgaaa
+            gataacgatcagactgccaacctcggcgcgctgattgatgctggtgtacgctccttcaag
+            attgaagggcgttacaaagatatgagctacgtgaagaatatcaccgcccattatcgccag
+            atgcttgatgccattattgaagaacgtggcgatctggcgcgcgcttcatcaggtcgtact
+            gaacatttctttgttccatcgacggaaaagactttccaccgtggtagcacagattatttt
+            gtgaatgcccgtaaaggcgatattggcgcgttcgattcgccgaaatttatcggcctgccg
+            gtaggcgaagtagtgaaagtggcgaaagatcatctcgatgttgccgttaccgagccactg
+            gcaaatggcgatggcctgaacgtgttgattaaacgtgaagtcgtcggttttcgtgccaat
+            acggtcgagaaaaccggagaaaatcagtaccgcgtctggcccaatgaaatgccagcagat
+            ttgcacaaaattcgtccacatcacccactaaaccgtaatcttgatcataactggcagcag
+            gcactgacaaaaacctccagcgaacgtcgggtggcggtagacattgaactgggcggctgg
+            caggaacaactgattctgaccctcaccagtgaagagggtgtcagcatcacgcatacgctg
+            gacgggcagttcgacgaagccaataacgccgaaaaagcaatgaacaatctgaaggatggt
+            ctggcaaaactggggcaaaccctctattacgcccgcgatgtgcaaattaatttgccgggg
+            gcgctgtttgtaccaaacagtctgttaaaccagttccgccgtgaagctgctgacatgctg
+            gatgctgcgcgtcttgccagttaccagcgcggcagccgtaaaccggttgctgatcctgcg
+            ccggtttatccgcaaacgcatctgagtttcctcgcgaacgtatacaaccagaaagcgcgt
+            gaattttatcatcgctatggtgtgcagctgattgacgcggcgtatgaagcacatgaagag
+            aagggcgaagtcccggtgatgatcaccaagcattgtctgcgctttgcctttaatctgtgc
+            ccgaaacaggcgaaaggcaatatcaaaagctggaaggcgacgccaatgcaactggttaac
+            ggcgatgaagtattaacgctaaagtttgattgccgcccatgcgagatgcacgtcattggc
+            aaaatcaaaaatcacatactgaaaatgccgttaccgggaagcgtagtggcatccgtaagt
+            ccggatgagctgctgaaaacattgccgaagcgaaaagggtaa
+///

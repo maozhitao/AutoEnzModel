@@ -1,0 +1,51 @@
+ENTRY       b0811             CDS       T00007
+NAME        glnH
+DEFINITION  (RefSeq) L-glutamine ABC transporter periplasmic binding protein
+ORTHOLOGY   K10036  glutamine transport system substrate-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b0811 (glnH)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0811 (glnH)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Phosphate and amino acid transporters
+               Glutamine transporter
+                b0811 (glnH)
+POSITION    complement(847258..848004)
+MOTIF       Pfam: SBP_bac_3 Lig_chan-Glu_bd NMT1 Phosphonate-bd
+DBLINKS     NCBI-GeneID: 944872
+            NCBI-ProteinID: NP_415332
+            Pasteur: glnH
+            RegulonDB: ECK120000379
+            ECOCYC: EG10386
+            ASAP: ABE-0002771
+            UniProt: P0AEQ3
+STRUCTURE   PDB: 1WDN 1GGG
+AASEQ       248
+            MKSVLKVSLAALTLAFAVSSHAADKKLVVATDTAFVPFEFKQGDKYVGFDVDLWAAIAKE
+            LKLDYELKPMDFSGIIPALQTKNVDLALAGITITDERKKAIDFSDGYYKSGLLVMVKANN
+            NDVKSVKDLDGKVVAVKSGTGSVDYAKANIKTKDLRQFPNIDNAYMELGTNRADAVLHDT
+            PNILYFIKTAGNGQFKAVGDSLEAQQYGIAFPKGSDELRDKVNGALKTLRENGTYNEIYK
+            KWFGTEPK
+NTSEQ       747
+            atgaagtctgtattaaaagtttcactggctgcactgaccctggcttttgcggtttcttct
+            catgccgcggataaaaaattagttgtcgcgacggataccgccttcgttccgtttgaattt
+            aaacagggcgataaatatgtgggctttgacgttgatctgtgggctgccatcgctaaagag
+            ctgaagctggattacgaactgaagccgatggatttcagtgggatcattccggcactgcaa
+            accaaaaacgtcgatctggcgctggcgggcattaccatcaccgacgagcgtaaaaaagcg
+            atcgatttctctgacggctactacaaaagcggcctgttagtgatggtgaaagctaacaat
+            aacgatgtgaaaagcgtgaaagatctcgacgggaaagtggttgctgtgaagagcggtact
+            ggctccgttgattacgcgaaagcaaacatcaaaactaaagatctgcgtcagttcccgaac
+            atcgataacgcctatatggaactgggcaccaaccgcgcagacgccgttctgcacgatacg
+            ccaaacattctgtacttcatcaaaaccgccggtaacggtcagttcaaagcggtaggtgac
+            tctctggaagcgcagcaatacggtattgcgttcccgaaaggtagcgacgagctgcgtgac
+            aaagtcaacggcgcgttgaaaaccctgcgcgagaacggaacttacaacgaaatctacaaa
+            aaatggttcggtactgaaccgaaataa
+///

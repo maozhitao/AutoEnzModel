@@ -1,0 +1,46 @@
+ENTRY       b3470             CDS       T00007
+NAME        tusA
+DEFINITION  (RefSeq) sulfur transfer protein TusA
+ORTHOLOGY   K04085  tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco04122  Sulfur relay system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04122 Sulfur relay system
+                b3470 (tusA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3470 (tusA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.8  Transferring sulfur-containing groups
+               2.8.1  Sulfurtransferases
+                2.8.1.-  
+                 b3470 (tusA)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Thiolation factors
+                b3470 (tusA)
+POSITION    complement(3608751..3608996)
+MOTIF       Pfam: TusA DUF2249
+DBLINKS     NCBI-GeneID: 947974
+            NCBI-ProteinID: NP_417927
+            Pasteur: sirA
+            RegulonDB: ECK120002103
+            ECOCYC: EG12216
+            ASAP: ABE-0011336
+            UniProt: P0A890
+STRUCTURE   PDB: 3LVJ 3LVK 1DCJ
+AASEQ       81
+            MTDLFSSPDHTLDALGLRCPEPVMMVRKTVRNMQPGETLLIIADDPATTRDIPGFCTFME
+            HELVAKETDGLPYRYLIRKGG
+NTSEQ       246
+            atgaccgatctcttttccagccctgaccacacactcgacgcgcttggcctgcgctgcccg
+            gaaccggtgatgatggtgcgcaaaaccgtgcgcaatatgcagcctggcgaaacgttgctg
+            attatcgccgacgatccggccactacccgcgatattcctgggttttgtacctttatggaa
+            cacgaactggttgctaaagagacggatggactgccttatcgttatttgattcgtaaaggc
+            ggttga
+///

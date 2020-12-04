@@ -1,0 +1,36 @@
+ENTRY       b0442             CDS       T00007
+NAME        ybaV
+DEFINITION  (RefSeq) helix-hairpin-helix 3 family protein
+ORTHOLOGY   K02237  competence protein ComEA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b0442 (ybaV)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              Competence-related DNA transformation transporter (DNA-T) core components
+               b0442 (ybaV)
+POSITION    463937..464308
+MOTIF       Pfam: HHH_3 HHH HHH_5 T2SSK HHH_6 PsbU HHH_2 ESX-1_EspG HRDC
+DBLINKS     NCBI-GeneID: 945884
+            NCBI-ProteinID: NP_414976
+            Pasteur: ybaV
+            RegulonDB: ECK120002854
+            ECOCYC: G6243
+            ASAP: ABE-0001534
+            UniProt: P0AAR8
+AASEQ       123
+            MKHGIKALLITLSLACAGMSHSALAAASVAKPTAVETKAEAPAAQSKAAVPAKASDEEGT
+            RVSINNASAEELARAMNGVGLKKAQAIVSYREEYGPFKTVEDLKQVPGMGNSLVERNLAV
+            LTL
+NTSEQ       372
+            atgaaacacggaattaaagcactgctcattaccctgtccctggcctgtgccggaatgtct
+            catagcgcgctggcggcagcttctgtggcgaaaccgacggcggtagaaaccaaagcggaa
+            gctcctgcagcacaaagtaaagcagcagtaccggcgaaagccagtgacgaagaaggcacc
+            cgggtcagcattaataatgccagcgcggaagagctagcccgcgcgatgaatggcgttggc
+            ctgaagaaagcgcaggcgattgtcagttatcgcgaagagtacggtccgtttaaaactgtg
+            gaggatctaaagcaggtgccggggatgggcaattcgctggtggaacgtaatctggcggta
+            ttaaccctgtaa
+///

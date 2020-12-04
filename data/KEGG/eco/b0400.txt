@@ -1,0 +1,74 @@
+ENTRY       b0400             CDS       T00007
+NAME        phoR
+DEFINITION  (RefSeq) sensory histidine kinase PhoR
+ORTHOLOGY   K07636  two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0400 (phoR)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b0400 (phoR)
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b0400 (phoR)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 b0400 (phoR)
+            Protein kinases [BR:eco01001]
+             Histidine kinases
+              OmpR family
+               b0400 (phoR)
+            Two-component system [BR:eco02022]
+             OmpR family
+              PhoR-PhoB (phosphate starvation response)
+               b0400 (phoR)
+POSITION    417889..419184
+MOTIF       Pfam: PhoR HATPase_c HisKA PAS HATPase_c_2 HATPase_c_3 PAS_8 PAS_9
+DBLINKS     NCBI-GeneID: 945044
+            NCBI-ProteinID: NP_414934
+            Pasteur: phoR
+            RegulonDB: ECK120000724
+            ECOCYC: EG10733
+            ASAP: ABE-0001391
+            UniProt: P08400
+AASEQ       431
+            MLERLSWKRLVLELLLCCLPAFILGAFFGYLPWFLLASVTGLLIWHFWNLLRLSWWLWVD
+            RSMTPPPGRGSWEPLLYGLHQMQLRNKKRRRELGNLIKRFRSGAESLPDAVVLTTEEGGI
+            FWCNGLAQQILGLRWPEDNGQNILNLLRYPEFTQYLKTRDFSRPLNLVLNTGRHLEIRVM
+            PYTHKQLLMVARDVTQMHQLEGARRNFFANVSHELRTPLTVLQGYLEMMNEQPLEGAVRE
+            KALHTMREQTQRMEGLVKQLLTLSKIEAAPTHLLNEKVDVPMMLRVVEREAQTLSQKKQT
+            FTFEIDNGLKVSGNEDQLRSAISNLVYNAVNHTPEGTHITVRWQRVPHGAEFSVEDNGPG
+            IAPEHIPRLTERFYRVDKARSRQTGGSGLGLAIVKHAVNHHESRLNIESTVGKGTRFSFV
+            IPERLIAKNSD
+NTSEQ       1296
+            gtgctggaacggctgtcgtggaaaaggctggtgctggagctgctactttgctgcctcccg
+            gctttcatcctgggtgcattttttggttacctgccctggtttttgctggcatcggtaaca
+            ggactgcttatctggcatttctggaatttattgcgcctttcatggtggctgtgggtggat
+            cgcagtatgaccccgccaccggggcgtggtagctgggaaccgctactatacggcttacac
+            cagatgcagctgcgaaataaaaaacgccgccgtgaactgggcaatctgattaaacgcttt
+            cgtagcggcgcggagtcgctgcccgacgcggtggtgctgaccacggaagagggcggtatt
+            ttctggtgtaacggtctggcgcaacaaattcttggtttgcgctggccggaagataacggg
+            cagaacatccttaacctactgcgttacccggagtttacgcaatatctgaaaacgcgtgat
+            ttttctcgcccgctcaatctggtgctcaacaccgggcggcatctggaaattcgcgtcatg
+            ccttatacccacaaacagttgctgatggtggcgcgtgatgtcacgcaaatgcatcaactg
+            gaaggggcgcggcgtaacttttttgccaacgtgagccatgagttacgtacgccattgacc
+            gtgttacagggttacctggagatgatgaatgagcagccgctggaaggcgcggtacgcgaa
+            aaagcgttgcacaccatgcgcgagcagacccagcggatggaaggactggtgaagcaattg
+            ctgacgctgtcgaaaatagaagccgcaccgacgcatttgctcaatgaaaaggttgatgtg
+            ccgatgatgctgcgcgttgttgagcgcgaggctcagactctgagtcagaaaaaacagaca
+            tttacctttgagatagataacggcctcaaggtgtctggcaacgaagatcagctacgcagt
+            gcgatttcgaacctggtctataacgccgtgaatcatacgccggaaggcacgcatatcacc
+            gtacgctggcagcgagtgccgcacggtgccgaatttagcgttgaagataacggaccgggc
+            attgcaccggagcatattccgcgcctgaccgagcgtttttatcgcgttgataaagcgcgt
+            tcccggcaaaccggcggtagcggattagggttagcgatcgtgaaacatgctgtgaatcat
+            cacgaaagtcgcctgaatattgagagtacagtaggaaaaggaacacgtttcagttttgtt
+            atcccggaacgtttaattgccaaaaacagcgattaa
+///

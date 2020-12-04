@@ -1,0 +1,52 @@
+ENTRY       b2309             CDS       T00007
+NAME        hisJ
+DEFINITION  (RefSeq) histidine ABC transporter periplasmic binding protein
+ORTHOLOGY   K10014  histidine transport system substrate-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b2309 (hisJ)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2309 (hisJ)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Phosphate and amino acid transporters
+               Histidine transporter
+                b2309 (hisJ)
+POSITION    complement(2426006..2426788)
+MOTIF       Pfam: SBP_bac_3 Lig_chan-Glu_bd NMT1
+DBLINKS     NCBI-GeneID: 945309
+            NCBI-ProteinID: NP_416812
+            Pasteur: hisJ
+            RegulonDB: ECK120002027
+            ECOCYC: EG12124
+            ASAP: ABE-0007617
+            UniProt: P0AEU0
+STRUCTURE   PDB: 1HSL 2M8C
+AASEQ       260
+            MKKLVLSLSLVLAFSSATAAFAAIPQNIRIGTDPTYAPFESKNSQGELVGFDIDLAKELC
+            KRINTQCTFVENPLDALIPSLKAKKIDAIMSSLSITEKRQQEIAFTDKLYAADSRLVVAK
+            NSDIQPTVESLKGKRVGVLQGTTQETFGNEHWAPKGIEIVSYQGQDNIYSDLTAGRIDAA
+            FQDEVAASEGFLKQPVGKDYKFGGPSVKDEKLFGVGTGMGLRKEDNELREALNKAFAEMR
+            ADGTYEKLAKKYFDFDVYGG
+NTSEQ       783
+            atgaaaaaactggtgctatcgctctctctggttctggccttctccagcgcaactgcggcg
+            tttgctgcgattccgcaaaacatccgcatcggtaccgacccgacctatgcgccatttgaa
+            tcaaaaaattcacaaggcgaactggttggcttcgatatcgatctggcaaaggaattatgc
+            aaacgcatcaatacgcaatgtacgtttgtcgaaaatccgctggatgcgttaatcccgtcc
+            ttaaaagcgaagaagattgacgccatcatgtcatcgctttccattacggaaaaacgtcag
+            caagaaatagccttcaccgacaaactgtacgctgccgattctcgtttggtggtggcgaaa
+            aattctgacattcagccgacagtcgagtcgctgaaaggcaaacgggtaggcgtattgcag
+            ggcaccacccaggagacgttcggtaatgaacattgggcaccaaaaggcattgaaatcgtc
+            tcgtatcaggggcaggacaacatttattctgacctgactgccggacgtattgatgccgcg
+            ttccaggatgaggtcgctgccagcgaaggtttcctcaaacaacctgtcggtaaagattac
+            aaattcggtggcccgtctgttaaagatgaaaaactgtttggcgtagggaccggcatgggc
+            ctgcgtaaagaagataacgaactgcgcgaagcactgaacaaagcctttgccgaaatgcgc
+            gctgacggtacttacgagaaattagcgaaaaagtacttcgattttgatgtttatggtggc
+            taa
+///

@@ -1,0 +1,56 @@
+ENTRY       b0168             CDS       T00007
+NAME        map
+DEFINITION  (RefSeq) methionine aminopeptidase
+ORTHOLOGY   K01265  methionyl aminopeptidase [EC:3.4.11.18]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b0168 (map)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.11  Aminopeptidases
+                3.4.11.18  methionyl aminopeptidase
+                 b0168 (map)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M24
+               b0168 (map)
+POSITION    complement(188712..189506)
+MOTIF       Pfam: Peptidase_M24
+DBLINKS     NCBI-GeneID: 947882
+            NCBI-ProteinID: NP_414710
+            Pasteur: map
+            RegulonDB: ECK120000563
+            ECOCYC: EG10570
+            ASAP: ABE-0000571
+            UniProt: P0AE18
+STRUCTURE   PDB: 2GG2 2GGC 2GG9 2GG7 2GG0 4Z7M 2GG3 4A6V 4A6W 1XNZ 4PNC
+                 2Q93 2Q96 2P9A 2GU5 2EVC 1YVM 2Q94 2Q95 2P98 2GU6 2EVM
+                 2EVO 2BB7 1C24 1C22 2P99 2GU4 2GG8 1C21 2Q92 2MAT 1C27
+                 2GTX 2GU7 1C23 3MAT 4MAT 2GG5 2GGB 3D27 1MAT 6IZI 6IZ7
+                 6J0A
+AASEQ       264
+            MAISIKTPEDIEKMRVAGRLAAEVLEMIEPYVKPGVSTGELDRICNDYIVNEQHAVSACL
+            GYHGYPKSVCISINEVVCHGIPDDAKLLKDGDIVNIDVTVIKDGFHGDTSKMFIVGKPTI
+            MGERLCRITQESLYLALRMVKPGINLREIGAAIQKFVEAEGFSVVREYCGHGIGRGFHEE
+            PQVLHYDSRETNVVLKPGMTFTIEPMVNAGKKEIRTMKDGWTVKTKDRSLSAQYEHTIVV
+            TDNGCEILTLRKDDTIPAIISHDE
+NTSEQ       795
+            atggctatctcaatcaagaccccagaagatatcgaaaaaatgcgcgtcgctggccgactg
+            gctgccgaagtgctggagatgatcgaaccgtatgttaaaccgggcgtcagcaccggcgag
+            ctggatcgcatctgtaatgattacattgttaatgaacaacacgcggtttctgcctgcctc
+            ggctatcacggctatccgaaatccgtttgcatctctattaatgaagtggtgtgccacggt
+            atcccggacgatgctaagctgctgaaagatggcgatatcgttaacattgatgtcaccgta
+            atcaaagatggtttccacggcgatacctcgaaaatgtttatcgtcggtaagccgaccatc
+            atgggcgaacgtctgtgccgcatcacgcaagaaagcctgtacctggcgctacgcatggta
+            aaaccaggcattaatctgcgcgaaatcggtgcggcgattcagaaatttgtcgaagcagaa
+            ggcttctccgtcgttcgtgaatattgcggacacggtattggtcgcggcttccatgaagaa
+            ccgcaggtgctgcactatgactcccgtgaaaccaacgtcgtactgaaacctgggatgacg
+            ttcaccatcgagccaatggtcaacgcgggtaaaaaagagatccgcaccatgaaagatggc
+            tggacggtaaaaaccaaagatcgcagcttgtctgcacaatatgagcatactattgtggtg
+            actgataacggctgcgaaattctgacgctacgcaaggatgacaccatcccggcgataatc
+            tcgcacgacgaataa
+///

@@ -1,0 +1,56 @@
+ENTRY       b3271             CDS       T00007
+NAME        yhdZ
+DEFINITION  (RefSeq) putative ABC transporter ATP-binding subunit YhdZ
+ORTHOLOGY   K09972  general L-amino acid transport system ATP-binding protein [EC:7.4.2.1]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b3271 (yhdZ)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3271 (yhdZ)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.4  Catalysing the translocation of amino acids and peptides
+               7.4.2  Linked to the hydrolysis of a nucleoside triphosphate
+                7.4.2.1  ABC-type polar-amino-acid transporter
+                 b3271 (yhdZ)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Phosphate and amino acid transporters
+               General L-amino acid transporter
+                b3271 (yhdZ)
+POSITION    3422436..3423194
+MOTIF       Pfam: ABC_tran AAA_21 SMC_N AAA_22 AAA_29 Rad17 AAA_16 T2SSE AAA_23 AAA_33 AAA_30 RsgA_GTPase DUF815 DAP3 AAA_15 AAA_18 AAA_28 G-alpha Mg_chelatase cobW Zeta_toxin AAA_7 RNA_helicase AAA_24 AAA_19
+DBLINKS     NCBI-GeneID: 947763
+            NCBI-ProteinID: NP_417737
+            Pasteur: yhdZ
+            RegulonDB: ECK120002394
+            ECOCYC: EG12837
+            ASAP: ABE-0010738
+            UniProt: P45769
+AASEQ       252
+            MSQILLQPANAMITLENVNKWYGQFHVLKNINLTVQPGERIVLCGPSGSGKSTTIRCINH
+            LEEHQQGRIVVDGIELNEDIRNIERVRQEVGMVFQHFNLFPHLTVLQNCTLAPIWVRKMP
+            KKEAEDLAVHYLERVRIAEHAHKFPGQISGGQQQRVAIARSLCMKPKIMLFDEPTSALDP
+            EMVKEVLDTMIGLAQSGMTMLCVTHEMGFARTVADRVIFMDRGEIVEQAAPDEFFAHPKS
+            ERTRAFLSQVIH
+NTSEQ       759
+            atgagccaaattttactgcaacctgctaacgcgatgattacgctggaaaacgtcaataaa
+            tggtatggacaattccatgttttgaaaaatataaatttaaccgtgcaaccgggagaacgg
+            atcgttctgtgtggcccttcaggttccggtaaatcgacaaccattcgttgtattaatcat
+            ctggaagaacatcaacagggacggatcgtggtagatggcatcgaacttaatgaagatatc
+            cgcaatattgagcgcgtcaggcaggaagtgggaatggtctttcagcatttcaatctcttc
+            cctcatctgaccgttttacagaactgtaccctggcaccgatttgggtacgcaagatgcct
+            aagaaagaggctgaagatctggcggtgcattacctagagcgggtgagaattgccgaacat
+            gcgcataagtttcccggacagatttcaggtggtcagcagcaacgcgttgccattgcgcgt
+            tcgctgtgtatgaagccgaaaattatgttgtttgatgagccaacgtcggcgctcgatcct
+            gagatggtgaaagaggtgctggatacgatgattgggctggcgcagtcgggtatgacaatg
+            ttgtgtgtaacacatgagatggggtttgcacgaaccgtcgctgaccgggtaatttttatg
+            gatcgtggggaaatagtggagcaagctgcacctgatgaattttttgcgcatcctaaatca
+            gagcgtacgagggcatttttatcgcaggtaatccattaa
+///

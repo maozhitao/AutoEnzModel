@@ -1,0 +1,79 @@
+ENTRY       b1024             CDS       T00007
+NAME        pgaA
+DEFINITION  (RefSeq) partially deacetylated poly-beta-1,6-N-acetyl-D-glucosamine outer membrane porin
+ORTHOLOGY   K11935  biofilm PGA synthesis protein PgaA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b1024 (pgaA)
+POSITION    complement(1089866..1092289)
+MOTIF       Pfam: TPR_2 TPR_1 TPR_11
+DBLINKS     NCBI-GeneID: 945596
+            NCBI-ProteinID: NP_415543
+            Pasteur: ycdS
+            RegulonDB: ECK120003129
+            ECOCYC: G6531
+            ASAP: ABE-0003469
+            UniProt: P69434
+STRUCTURE   PDB: 4Y25
+AASEQ       807
+            MYSSSRKRCPKTKWALKLLTAAFLAASPAAKSAVNNAYDALIIEARKGNTQPALSWFALK
+            SALSNNQIADWLQIALWAGQDKQVITVYNRYRHQQLPARGYAAVAVAYRNLQQWQNSLTL
+            WQKALSLEPQNKDYQRGQILTLADAGHYDTALVKLKQLNSGAPDKANLLAEAYIYKLAGR
+            HQDELRAMTESLPENASTQQYPTEYVQALRNNQLAAAIDDANLTPDIRADIHAELVRLSF
+            MPTRSESERYAIADRALAQYAALEILWHDNPDRTAQYQRIQVDHLGALLTRDRYKDVISH
+            YQRLKKTGQIIPPWGQYWVASAYLKDHQPKKAQSIMTELFYHKETIAPDLSDEELADLFY
+            SHLESENYPGALTVTQHTINTSPPFLRLMGTPTSIPNDTWLQGHSFLSTVAKYSNDLPQA
+            EMTARELAYNAPGNQGLRIDYASVLQARGWPRAAENELKKAEVIEPRNINLEVEQAWTAL
+            TLQEWQQAAVLTHDVVEREPQDPGVVRLKRAVDVHNLAELRIAGSTGIDAEGPDSGKHDV
+            DLTTIVYSPPLKDNWRGFAGFGYADGQFSEGKGIVRDWLAGVEWRSRNIWLEAEYAERVF
+            NHEHKPGARLSGWYDFNDNWRIGSQLERLSHRVPLRAMKNGVTGNSAQAYVRWYQNERRK
+            YGVSWAFTDFSDSNQRHEVSLEGQERIWSSPYLIVDFLPSLYYEQNTEHDTPYYNPIKTF
+            DIVPAFEASHLLWRSYENSWEQIFSAGVGASWQKHYGTDVVTQLGYGQRISWNDVIDAGA
+            TLRWEKRPYDGDREHNLYVEFDMTFRF
+NTSEQ       2424
+            atgtattcaagtagcagaaaaaggtgcccgaaaaccaaatgggctttgaaacttcttact
+            gccgcatttttagcagcgagtcccgcggcgaagagtgctgttaataacgcctatgatgca
+            ttgattattgaagctcgcaagggtaatactcagccagctttgtcatggtttgcactaaaa
+            tcagcactcagcaataaccaaattgctgactggttacagattgccttatgggccgggcaa
+            gataaacaggttattaccgtttacaaccgctaccgtcatcagcaattaccagcgcgtggt
+            tatgcagctgtcgccgtcgcttatcgtaacctgcaacaatggcaaaactcgcttacactg
+            tggcaaaaggcgctctctctggagccgcaaaataaggattatcaacggggacaaatttta
+            accctggcagatgctggtcactatgatactgcgctggttaaacttaagcagcttaactct
+            ggagcaccggacaaagccaatttactcgcagaagcctatatctataaactggcggggcgt
+            catcaggatgaattacgggcgatgacagagtcattacctgaaaatgcatctacgcaacaa
+            tatcccacagaatacgtgcaggcattacgtaataatcaacttgctgccgcgattgacgat
+            gccaatttaacgccagatattcgcgctgatattcatgccgaactggtcagactgtcgttt
+            atgcctacgcgcagtgaaagtgaacgttatgccattgccgatcgcgccctcgcccaatac
+            gctgcattagaaattctgtggcacgataacccagaccgcactgcccagtaccagcgtatt
+            caggttgatcatcttggcgcgttattaactcgcgatcgttataaagacgttatttctcac
+            tatcagcgattaaaaaagacggggcaaattattccgccctgggggcaatattgggttgca
+            tcggcttatctcaaagatcatcagccgaaaaaagcacagtcaataatgaccgagctcttt
+            tatcacaaggagaccattgccccggatttatccgatgaagaacttgcggatctcttttac
+            agccacctggagagtgaaaattatccgggcgcgctaactgtcacccaacataccattaat
+            acttcgccgcctttccttcggttaatgggcacgcctacgagcatcccgaatgatacctgg
+            ttacaggggcattcgtttctctcaaccgtagcaaaatatagtaatgatcttcctcaggct
+            gaaatgacagccagagagcttgcttataacgcaccaggaaatcagggactgcgcattgat
+            tacgcgagtgtgttacaagcccgcggttggcctcgtgcagcagaaaatgaattaaaaaaa
+            gcagaagtgatcgagccacgtaatattaatctggaggttgaacaagcctggacagcatta
+            acgttacaagaatggcagcaggcagctgtcttaacgcacgatgttgtcgaacgtgaaccg
+            caagatcccggcgttgtacgattaaaacgtgcggttgatgtacataatcttgcagagctt
+            cgtatcgctggctcaacaggaattgatgccgaaggcccggatagtggtaaacatgatgtc
+            gacttaaccaccatcgtttattcaccaccgctgaaggataactggcgcggttttgctgga
+            ttcggttatgccgatggacaatttagcgaaggaaaagggattgttcgcgactggcttgcg
+            ggtgttgagtggcggtcacgtaatatctggctcgaggcagagtacgctgaacgcgttttc
+            aatcatgagcataaacccggcgcgcgcctgtctggctggtatgattttaatgataactgg
+            cgtattggttcgcaactggaacgcctctctcaccgcgttccattacgggcaatgaaaaat
+            ggtgttacaggcaacagtgctcaggcttatgttcgctggtatcaaaatgagcggcgtaag
+            tacggtgtctcctgggctttcactgatttttccgacagtaaccagcgtcatgaagtctca
+            cttgagggtcaggaacgcatctggtcttcaccatatttgattgtcgatttcctacccagt
+            ctgtattacgaacaaaatacagaacacgataccccatactacaaccctataaaaacgttc
+            gatattgttccggcatttgaggcaagccatttgttatggcgaagctatgaaaatagctgg
+            gagcaaatattcagcgcaggtgttggtgcctcctggcaaaaacattatggcacggatgtc
+            gtcacccaactcggctacgggcaacgcattagttggaatgacgtgattgatgctggcgca
+            acgctacgctgggaaaaacgaccttatgacggtgacagagaacacaacttatacgttgaa
+            ttcgatatgacattcagattttaa
+///

@@ -1,0 +1,60 @@
+ENTRY       b1440             CDS       T00007
+NAME        ydcS
+DEFINITION  (RefSeq) putative ABC transporter periplasmic binding protein/polyhydroxybutyrate synthase
+ORTHOLOGY   K02055  putative spermidine/putrescine transport system substrate-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02024  Quorum sensing
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b1440 (ydcS)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1440 (ydcS)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Mineral and organic ion transporters
+               Putative spermidine/putrescine transporter
+                b1440 (ydcS)
+POSITION    1511654..1512799
+MOTIF       Pfam: SBP_bac_8 SBP_bac_1 SBP_bac_6 Glyco_hydro_62 Phosphonate-bd Ral
+DBLINKS     NCBI-GeneID: 946005
+            NCBI-ProteinID: NP_415957
+            Pasteur: ydcS
+            RegulonDB: ECK120003340
+            ECOCYC: G6751
+            ASAP: ABE-0004803
+            UniProt: P76108
+STRUCTURE   PDB: 6NLP
+AASEQ       381
+            MSKTFARSSLCALSMTIMTAHAAEPPTNLDKPEGRLDIIAWPGYIERGQTDKQYDWVTQF
+            EKETGCAVNVKTAATSDEMVSLMTKGGYDLVTASGDASLRLIMGKRVQPINTALIPNWKT
+            LDPRVVKGDWFNVGGKVYGTPYQWGPNLLMYNTKTFPTPPDSWQVVFVEQNLPDGKSNKG
+            RVQAYDGPIYIADAALFVKATQPQLGISDPYQLTEEQYQAVLKVLRAQHSLIHRYWHDTT
+            VQMSDFKNEGVVASSAWPYQANALKAEGQPVATVFPKEGVTGWADTTMLHSEAKHPVCAY
+            KWMNWSLTPKVQGDVAAWFGSLPVVPEGCKASPLLGEKGCETNGFNYFDKIAFWKTPIAE
+            GGKFVPYSRWTQDYIAIMGGR
+NTSEQ       1146
+            atgagcaagacatttgcccgcagcagcctgtgtgcgctcagcatgacaataatgaccgct
+            cacgccgccgaaccgcctaccaatttagataaaccggaagggcgactggatattatcgcc
+            tggccgggatacatcgaacgcggacaaactgataaacaatacgactgggtaacgcagttc
+            gaaaaagagacaggctgcgcggtgaatgtgaaaaccgccgcgacttccgatgaaatggtc
+            agtctgatgaccaaagggggttacgatctggttacggcatccggcgatgcctcgctgcgt
+            ttgattatgggtaaacgcgtgcagccgattaataccgcattgattcccaactggaaaacg
+            ctcgatccgcgcgtggttaaaggcgactggtttaatgttggcggcaaagtttacggcaca
+            ccttaccaatgggggccgaacctgctgatgtacaacactaaaaccttcccgacgccgccg
+            gatagctggcaagtggtttttgttgagcaaaatctgccggacggcaagagcaataaaggc
+            cgcgttcaggcttatgatggccctatctatattgcggacgctgcgttgttcgttaaagcc
+            actcagccgcagttgggcatcagcgatccgtatcaactcaccgaagaacagtaccaggcg
+            gtgctgaaagtgctgcgcgctcaacacagtttgatccatcgctactggcatgacactacc
+            gtgcaaatgagcgatttcaaaaacgagggtgtggttgcttccagtgcctggccctatcag
+            gccaacgccctgaaagccgaaggccagcctgttgctaccgttttcccgaaggagggtgtt
+            accggttgggctgataccaccatgctgcatagcgaagcgaaacatccggtttgcgcctac
+            aaatggatgaactggtcattaacgccaaaagtgcagggcgatgtggcggcctggtttggc
+            tcgttaccggtagtgccggaagggtgtaaagccagtccgttattaggcgaaaaaggttgt
+            gaaaccaacggttttaactatttcgacaaaatcgccttctggaaaacgcctatagcagaa
+            gggggcaagtttgttccctacagtcgctggacgcaggattacattgccattatgggcggt
+            cgctaa
+///

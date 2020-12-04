@@ -1,0 +1,46 @@
+ENTRY       b4362             CDS       T00007
+NAME        dnaT
+DEFINITION  (RefSeq) primosomal protein DnaT
+ORTHOLOGY   K02317  DNA replication protein DnaT
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03440 Homologous recombination
+                b4362 (dnaT)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b4362 (dnaT)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecBC pathway proteins
+                 b4362 (dnaT)
+POSITION    complement(4600978..4601517)
+MOTIF       Pfam: DnaT
+DBLINKS     NCBI-GeneID: 948813
+            NCBI-ProteinID: NP_418782
+            Pasteur: dnaT
+            RegulonDB: ECK120000238
+            ECOCYC: EG10244
+            ASAP: ABE-0014306
+            UniProt: P0A8J2
+STRUCTURE   PDB: 4OU6 4OU7 2RU8
+AASEQ       179
+            MSSRVLTPDVVGIDALVHDHQTVLAKAEGGVVAVFANNAPAFYAVTPARLAELLALEEKL
+            ARPGSDVALDDQLYQEPQAAPVAVPMGKFAMYPDWQPDADFIRLAALWGVALREPVTTEE
+            LASFIAYWQAEGKVFHHVQWQQKLARSLQIGRASNGGLPKRDVNTVSEPDSQIPPGFRG
+NTSEQ       540
+            atgtcttccagagttttgaccccggacgtcgttggtattgacgccctggtacacgatcac
+            caaaccgttctggcaaaagctgaaggcggtgtggttgccgtatttgctaacaatgccccg
+            gcgttttatgccgtcacgcctgcacgcctggctgaactgctggcgctggaagaaaagctg
+            gcgcgtccgggaagcgatgtcgctctggacgatcaactctatcaggaaccgcaagccgct
+            cccgttgctgtacccatggggaaattcgccatgtatccggactggcaacccgatgccgat
+            tttatccgcctggcggcgctatggggcgtggcgctaagagagccggtgaccaccgaagaa
+            ctggcctcattcattgcctactggcaggcggaaggtaaagtctttcaccatgtgcagtgg
+            caacaaaaactggcgcgcagcctgcaaatcggtcgtgccagcaacggcggactgccgaaa
+            cgagatgtgaatacggtcagcgaacctgacagccaaattccaccaggattcagagggtaa
+///

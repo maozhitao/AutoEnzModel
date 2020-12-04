@@ -1,0 +1,34 @@
+ENTRY       b0196             CDS       T00007
+NAME        rcsF
+DEFINITION  (RefSeq) outer membrane lipoprotein RcsF
+ORTHOLOGY   K06080  RcsF protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0196 (rcsF)
+POSITION    complement(219591..219995)
+MOTIF       Pfam: RcsF DUF4156 DUF4692
+DBLINKS     NCBI-GeneID: 949113
+            NCBI-ProteinID: NP_414738
+            Pasteur: rcsF
+            RegulonDB: ECK120001458
+            ECOCYC: EG11502
+            ASAP: ABE-0000663
+            UniProt: P69411
+STRUCTURE   PDB: 2Y1B 2L8Y
+AASEQ       134
+            MRALPICLVALMLSGCSMLSRSPVEPVQSTAPQPKAEPAKPKAPRATPVRIYTNAEELVG
+            KPFRDLGEVSGDSCQASNQDSPPSIPTARKRMQINASKMKANAVLLHSCEVTSGTPGCYR
+            QAVCIGSALNITAK
+NTSEQ       405
+            atgcgtgctttaccgatctgtttagtagcactcatgctaagcggctgttccatgttaagc
+            agatcccctgtcgaacccgttcaaagcactgcaccccagccgaaagcggagcctgcaaaa
+            ccgaaagcgccgcgcgccacgccggtccgaatttataccaatgcagaagaattagtcggc
+            aaaccgttccgcgatctcggtgaagtcagtggcgactcttgccaggcctctaatcaggac
+            tctccgccgagcattccaaccgcacgtaagcggatgcaaatcaacgcctctaaaatgaaa
+            gccaatgctgtattactgcatagctgcgaagtcaccagcggtacgccaggctgctatcgt
+            caggctgtatgtatcggttctgcgcttaacattacggcgaaatga
+///

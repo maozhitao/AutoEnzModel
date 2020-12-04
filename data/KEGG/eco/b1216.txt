@@ -1,0 +1,52 @@
+ENTRY       b1216             CDS       T00007
+NAME        chaA
+DEFINITION  (RefSeq) Na(+)/K(+):H(+) antiporter ChaA
+ORTHOLOGY   K07300  Ca2+:H+ antiporter
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1216 (chaA)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b1216 (chaA)
+POSITION    complement(1270749..1271849)
+MOTIF       Pfam: Na_Ca_ex
+DBLINKS     NCBI-GeneID: 945790
+            NCBI-ProteinID: NP_415734
+            Pasteur: chaA
+            RegulonDB: ECK120001691
+            ECOCYC: EG11753
+            ASAP: ABE-0004082
+            UniProt: P31801
+AASEQ       366
+            MSNAQEAVKTRHKETSLIFPVLALVVLFLWGSSQTLPVVIAINLLALIGILSSAFSVVRH
+            ADVLAHRLGEPYGSLILSLSVVILEVSLISALMATGDAAPTLMRDTLYSIIMIVTGGLVG
+            FSLLLGGRKFATQYMNLFGIKQYLIALFPLAIIVLVFPMALPAANFSTGQALLVALISAA
+            MYGVFLLIQTKTHQSLFVYEHEDDSDDDDPHHGKPSAHSSLWHAIWLIIHLIAVIAVTKM
+            NASSLETLLDSMNAPVAFTGFLVALLILSPEGLGALKAVLNNQVQRAMNLFFGSVLATIS
+            LTVPVVTLIAFMTGNELQFALGAPEMVVMVASLVLCHISFSTGRTNVLNGAAHLALFAAY
+            LMTIFA
+NTSEQ       1101
+            atgtcaaatgctcaagaggcggtaaaaacccgccacaaggagacttcgcttattttcccg
+            gttctggcgctggtagtgctgttcctgtggggaagcagccagacactaccagtggtcatt
+            gccatcaatcttcttgcgcttattggtattttaagtagcgcctttagtgttgtccgtcat
+            gcggacgtattagcccatcgcctgggagaaccttacggttcgcttattcttagcctttca
+            gtggttattcttgaagtcagtttgatttcagctttaatggcaaccggcgacgccgcgcca
+            acgctaatgcgtgatacgctctattcaatcattatgattgttaccggtgggctggttggc
+            ttttcattattgttgggcggtcgtaagtttgccacccaatatatgaatctgtttggtatc
+            aagcagtatttaattgcgctgttccccctggcgataatcgtactggtatttccaatggct
+            ctgcctgcggcgaatttttcaaccggtcaggcgttactggtagcattaatttctgcggca
+            atgtatggcgtatttttgctgatccagaccaaaacgcatcaaagtttgtttgtctacgag
+            cacgaagatgacagtgatgatgacgacccgcatcacggtaaaccgtctgcccatagcagc
+            ctgtggcatgctatctggttgattatccatctgattgccgttattgcggtgaccaaaatg
+            aacgccagctcgctggagacattgctcgacagcatgaatgcccctgtcgcctttactggc
+            ttcctggtggcactgttgattctgtcgccggaaggtttaggtgcattaaaagcagtgttg
+            aacaaccaggttcagcgcgcgatgaatctgttctttggttcagtgttagcaaccatttcg
+            cttaccgtacctgtcgtcacgctaattgcctttatgacgggtaacgaattgcagtttgca
+            cttggtgcgccagaaatggtggtgatggtggcctctttagtgctgtgccatatctccttc
+            tccaccggacgtactaacgtgctcaatggcgcagcgcatctggcactgtttgccgcctat
+            ttgatgacgatatttgcctga
+///

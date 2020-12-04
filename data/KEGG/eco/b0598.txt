@@ -1,0 +1,70 @@
+ENTRY       b0598             CDS       T00007
+NAME        cstA
+DEFINITION  (RefSeq) carbon starvation protein A
+ORTHOLOGY   K06200  carbon starvation protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09193 Unclassified: signaling and cellular processes
+               99995 Signaling proteins
+                b0598 (cstA)
+POSITION    629894..631999
+MOTIF       Pfam: CstA CstA_5TM DUF1676
+DBLINKS     NCBI-GeneID: 945213
+            NCBI-ProteinID: NP_415130
+            Pasteur: cstA
+            RegulonDB: ECK120000163
+            ECOCYC: EG10167
+            ASAP: ABE-0002061
+            UniProt: P15078
+AASEQ       701
+            MNKSGKYLVWTVLSVMGAFALGYIALNRGEQINALWIVVASVCIYLIAYRFYGLYIAKNV
+            LAVDPTRMTPAVRHNDGLDYVPTDKKVLFGHHFAAIAGAGPLVGPVLAAQMGYLPGMIWL
+            LAGVVLAGAVQDFMVLFVSTRRDGRSLGELVKEEMGPTAGVIALVACFMIMVIILAVLAM
+            IVVKALTHSPWGTYTVAFTIPLALFMGIYLRYLRPGRIGEVSVIGLVFLIFAIISGGWVA
+            ESPTWAPYFDFTGVQLTWMLVGYGFVAAVLPVWLLLAPRDYLSTFLKIGTIVGLAVGILI
+            MRPTLTMPALTKFVDGTGPVWTGNLFPFLFITIACGAVSGFHALISSGTTPKMLANEGQA
+            CFIGYGGMLMESFVAIMALVSACIIDPGVYFAMNSPMAVLAPAGTADVVASAAQVVSSWG
+            FSITPDTLNQIASEVGEQSIISRAGGAPTLAVGMAYILHGALGGMMDVAFWYHFAILFEA
+            LFILTAVDAGTRAARFMLQDLLGVVSPGLKRTDSLPANLLATALCVLAWGYFLHQGVVDP
+            LGGINTLWPLFGIANQMLAGMALMLCAVVLFKMKRQRYAWVALVPTAWLLICTLTAGWQK
+            AFSPDAKVGFLAIANKFQAMIDSGNIPSQYTESQLAQLVFNNRLDAGLTIFFMVVVVVLA
+            LFSIKTALAALKDPKPTAKETPYEPMPENVEEIVAQAKGAH
+NTSEQ       2106
+            atgaacaaatcagggaaatacctcgtctggacagtgctctctgtaatgggagcatttgct
+            ctgggatacattgctttaaatcgtggggaacagatcaacgcgctgtggattgtggtggcg
+            tcggtctgtatctatctgatcgcttaccgtttttatgggctgtatatcgccaaaaatgtg
+            ctggcggttgacccgacgcgtatgacgccagcggtgcgccataacgacgggctggactat
+            gtgccgacggacaagaaagtgctgttcggtcaccattttgcggccattgccggagcaggt
+            ccgctggtggggccggtactggcggcgcaaatgggctacctgccggggatgatctggctg
+            ctcgctggggtggttctcgccggtgcggtgcaggatttcatggtgctgtttgtttctacg
+            cgccgtgacggtcgctcgctgggtgagctggtcaaagaagagatggggccaaccgccggg
+            gtgattgcgctggtggcctgctttatgatcatggtcattatccttgcagtgctggcgatg
+            atcgtggtgaaagccctgactcatagcccgtggggaacatataccgttgcgttcaccatt
+            ccgctggcgctgtttatggggatctacctgcgctatctgcgtccggggcgtattggcgaa
+            gtgtcggtcatcggtctggtattcctgattttcgccattatctctggcggctgggtggca
+            gaaagtccgacctgggcaccgtactttgactttaccggcgtgcagttgacctggatgctg
+            gtgggttacggttttgtggcggcggtgctgccggtgtggttactgctggccccgcgtgac
+            tacctctctaccttcctgaaaatcgggactatcgtcggtctggcggtaggcattttgatt
+            atgcgcccgacgctgaccatgcctgcgctgaccaaatttgtcgatggcactggcccggta
+            tggaccggtaacctgttcccgttcctgtttatcaccatcgcctgtggcgcggtgtctggc
+            ttccatgcgctgatctcttctgggaccacgccgaagatgctggcgaacgaagggcaggcg
+            tgctttatcggctacggtgggatgttaatggaatccttcgtggcgattatggcgctggtt
+            tccgcctgtatcatcgatccgggcgtgtattttgccatgaacagcccgatggcggtgctg
+            gctccggcagggacggcggatgtggtcgcttctgccgcgcaggtggtgagtagctggggc
+            tttagcattacaccagatacgctaaaccagattgccagcgaagtgggtgaacagtcgatc
+            atttcccgtgcgggcggtgcgccgacgctggcggtggggatggcctacattctgcacggc
+            gcgctgggcggcatgatggatgtggcgttctggtatcacttcgccattttgtttgaagca
+            ctgtttattctgacggcggtggatgcaggtacgcgtgctgcgcgctttatgttgcaggat
+            ctgctgggcgtggtgtctcctggcctgaagcggaccgattcactgcctgctaacctgctg
+            gcaacagcgctgtgcgtactggcgtggggctacttcctccatcagggcgtggtcgatccg
+            ctgggcggcattaacactctgtggccgctgtttggtattgccaaccagatgctggcaggg
+            atggcgctgatgctctgtgccgtggtgttgttcaagatgaaacgtcaacgttacgcctgg
+            gtggcgctggtaccaacggcctggctgctgatttgtaccctgaccgcaggctggcagaaa
+            gcgtttagcccggatgcgaaagtcggcttcctggccattgctaataagttccaggcaatg
+            atcgacagcggcaatattccgtcgcagtatactgagtcacagctggcgcaactggtgttc
+            aacaaccgtctggatgccgggttaaccatcttctttatggtggtcgtggtggttctggca
+            ctgttctcgattaagacggcacttgcggcattgaaagatccgaagccaacggcgaaagaa
+            acgccgtatgaaccaatgccggaaaatgtcgaggagatcgtggcgcaggcaaaaggcgca
+            cactaa
+///

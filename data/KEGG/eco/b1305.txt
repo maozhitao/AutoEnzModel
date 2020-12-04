@@ -1,0 +1,33 @@
+ENTRY       b1305             CDS       T00007
+NAME        pspB
+DEFINITION  (RefSeq) phage shock protein B
+ORTHOLOGY   K03970  phage shock protein B
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b1305 (pspB)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               PspC-PspB
+                b1305 (pspB)
+POSITION    1368801..1369025
+MOTIF       Pfam: PspB BatA P22_AR_C DUF3886 Peptidase_S49_N DUF5738 YPEB
+DBLINKS     NCBI-GeneID: 945893
+            NCBI-ProteinID: NP_415821
+            Pasteur: pspB
+            RegulonDB: ECK120000768
+            ECOCYC: EG10777
+            ASAP: ABE-0004389
+            UniProt: P0AFM9
+AASEQ       74
+            MSALFLAIPLTIFVLFVLPIWLWLHYSNRSGRSELSQSEQQRLAQLADEAKRMRERIQAL
+            ESILDAEHPNWRDR
+NTSEQ       225
+            atgagcgcgctatttctggctattccgttaaccatttttgtgctgtttgttttaccgatc
+            tggttatggctgcattacagcaatcgttctggtcgcagtgaattgtcgcaaagtgagcag
+            cagcgattagcgcaactggctgatgaagcaaaacggatgcgcgaacgtattcaggcgctg
+            gaatctattcttgatgcagaacatccgaactggagggatcgctaa
+///

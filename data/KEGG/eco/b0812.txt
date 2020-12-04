@@ -1,0 +1,40 @@
+ENTRY       b0812             CDS       T00007
+NAME        dps
+DEFINITION  (RefSeq) stationary phase nucleoid protein that sequesters iron and protects DNA from damage
+ORTHOLOGY   K04047  starvation-inducible DNA-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b0812 (dps)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Nucleoid associated proteins
+               Other nucreoid associated proteins
+                b0812 (dps)
+POSITION    complement(848408..848911)
+MOTIF       Pfam: Ferritin IQ_SEC7_PH Tht1
+DBLINKS     NCBI-GeneID: 945101
+            NCBI-ProteinID: NP_415333
+            Pasteur: dps
+            RegulonDB: ECK120001381
+            ECOCYC: EG11415
+            ASAP: ABE-0002776
+            UniProt: P0ABT2
+STRUCTURE   PDB: 6B0D 1DPS 5XGO 6GCM 1JTS 1F33 1JRE 1F30 1L8I 1L8H
+AASEQ       167
+            MSTAKLVKSKATNLLYTRNDVSDSEKKATVELLNRQVIQFIDLSLITKQAHWNMRGANFI
+            AVHEMLDGFRTALIDHLDTMAERAVQLGGVALGTTQVINSKTPLKSYPLDIHNVQDHLKE
+            LADRYAIVANDVRKAIGEAKDDDTADILTAASRDLDKFLWFIESNIE
+NTSEQ       504
+            atgagtaccgctaaattagttaaatcaaaagcgaccaatctgctttatacccgcaacgat
+            gtctccgacagcgagaaaaaagcaacagtagagttgctgaatcgccaggttatccagttt
+            attgatctttctttgattaccaaacaagcgcactggaacatgcgcggcgctaacttcatt
+            gccgtacatgaaatgctggatggcttccgcaccgcactgatcgatcatctggataccatg
+            gcagaacgtgcagtgcagctgggcggtgtagctctggggaccactcaagttatcaacagc
+            aaaaccccgctgaaaagttacccgctggacatccacaacgttcaggatcacctgaaagaa
+            ctggctgaccgttacgcaatcgtcgctaatgacgtacgcaaagcgattggcgaagcgaaa
+            gatgacgacaccgcagatatcctgaccgccgcgtctcgcgacctggataaattcctgtgg
+            tttatcgagtctaacatcgaataa
+///

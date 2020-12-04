@@ -1,0 +1,39 @@
+ENTRY       b2684             CDS       T00007
+NAME        mprA
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor MprA
+ORTHOLOGY   K15974  MarR family transcriptional regulator, negative regulator of the multidrug operon emrRAB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b2684 (mprA)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               MarR family
+                b2684 (mprA)
+POSITION    2810770..2811300
+MOTIF       Pfam: MarR MarR_2 HTH_27 HTH_34 HTH_Crp_2 HTH_24 FtsK_gamma TrmB HTH_IclR DUF5716 PadR DUF2513
+DBLINKS     NCBI-GeneID: 945282
+            NCBI-ProteinID: NP_417169
+            Pasteur: mprA
+            RegulonDB: ECK120000596
+            ECOCYC: EG10603
+            ASAP: ABE-0008834
+            UniProt: P0ACR9
+AASEQ       176
+            MDSSFTPIEQMLKFRASRHEDFPYQEILLTRLCMHMQSKLLENRNKMLKAQGINETLFMA
+            LITLESQENHSIQPSELSCALGSSRTNATRIADELEKRGWIERRESDNDRRCLHLQLTEK
+            GHEFLREVLPPQHNCLHQLWSALSTTEKDQLEQITRKLLSRLDQMEQDGVVLEAMS
+NTSEQ       531
+            atggatagttcgtttacgcccattgaacaaatgctaaaatttcgcgccagccgccacgaa
+            gattttccttatcaggagatccttctgactcgtctttgcatgcacatgcaaagcaagctg
+            ctggagaaccgcaataaaatgctgaaggctcaggggattaacgagacgttgtttatggcg
+            ttgattacgctggagtctcaggaaaaccacagtattcagccttctgaattaagttgtgct
+            cttggatcatcccgtaccaacgcgacgcgtattgccgatgaactggaaaaacgcggttgg
+            atcgaacgtcgtgaaagcgataacgatcgccgctgcctgcatctgcaattaacggaaaaa
+            ggtcacgagtttttgcgcgaggttttaccaccgcagcataactgcctgcatcaactctgg
+            tccgcgctcagcacaacagaaaaagatcagctcgagcaaatcacccgcaaattgctctcc
+            cgtctcgaccagatggaacaagacggtgtggttctcgaagcgatgagctaa
+///

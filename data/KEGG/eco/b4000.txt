@@ -1,0 +1,51 @@
+ENTRY       b4000             CDS       T00007
+NAME        hupA
+DEFINITION  (RefSeq) DNA-binding protein HU-alpha
+ORTHOLOGY   K05787  DNA-binding protein HU-alpha
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b4000 (hupA)
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b4000 (hupA)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b4000 (hupA)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Initiation Factors
+               Initiation factors (bacterial)
+                b4000 (hupA)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Nucleoid associated proteins
+               HU (heat unstable protein)
+                b4000 (hupA)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               NHEJ (non-homologous end-joining)
+                SHIIR (short-homology-independent illegitimate recombination)
+                 Supressor
+                  b4000 (hupA)
+POSITION    4200281..4200553
+MOTIF       Pfam: Bac_DNA_binding HU-HIG HU-CCDC81_bac_2 HU-CCDC81_euk_2 HU-CCDC81_euk_1 DUF2267
+DBLINKS     NCBI-GeneID: 948499
+            NCBI-ProteinID: NP_418428
+            Pasteur: hupA
+            RegulonDB: ECK120000459
+            ECOCYC: EG10466
+            ASAP: ABE-0013077
+            UniProt: P0ACF0
+STRUCTURE   PDB: 1MUL 2O97 4YEW 4YF0 4YFT 4YEX 4YEY 4YFH
+AASEQ       90
+            MNKTQLIDVIAEKAELSKTQAKAALESTLAAITESLKEGDAVQLVGFGTFKVNHRAERTG
+            RNPQTGKEIKIAAANVPAFVSGKALKDAVK
+NTSEQ       273
+            atgaacaagactcaactgattgatgtaattgcagagaaagcagaactgtccaaaacccag
+            gctaaagctgctctggagtccactctggctgcaattactgagtctctgaaagaaggcgat
+            gctgtacaactggttggtttcggtaccttcaaagtgaaccaccgcgctgagcgtactggc
+            cgcaacccgcagaccggtaaagaaatcaaaattgccgcagctaacgtaccggcatttgtt
+            tctggcaaggcactgaaagacgcagttaagtaa
+///

@@ -1,0 +1,35 @@
+ENTRY       b3022             CDS       T00007
+NAME        mqsR
+DEFINITION  (RefSeq) mRNA interferase/toxin of the MqsR-MqsA toxin-antitoxin system
+ORTHOLOGY   K13651  motility quorum-sensing regulator / GCU-specific mRNA interferase toxin
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b3022 (mqsR)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               MqsR-MqsA
+                b3022 (mqsR)
+POSITION    complement(3168248..3168544)
+MOTIF       Pfam: MqsR_toxin
+DBLINKS     NCBI-GeneID: 947500
+            NCBI-ProteinID: NP_417494
+            Pasteur: ygiU
+            RegulonDB: ECK120004130
+            ECOCYC: G7572
+            ASAP: ABE-0009925
+            UniProt: Q46865
+STRUCTURE   PDB: 3HI2
+AASEQ       98
+            MEKRTPHTRLSQVKKLVNAGQVRTTRSALLNADELGLDFDGMCNVIIGLSESDFYKSMTT
+            YSDHTIWQDVYRPRLVTGQVYLKITVIHDVLIVSFKEK
+NTSEQ       297
+            atggaaaaacgcacaccacatacacgtttgagtcaggttaaaaaacttgtcaatgccggg
+            caagttcgtacaacacgtagtgccctgttaaatgcagatgagttaggtttggattttgat
+            ggtatgtgtaatgttatcattggattatcagagagcgacttttataaaagcatgaccacc
+            tactctgatcatactatctggcaggatgtttacagacccaggcttgttacaggccaggtt
+            tatcttaaaattacggtaattcatgacgtactgatcgtctcgtttaaggagaagtaa
+///

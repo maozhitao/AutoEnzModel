@@ -1,0 +1,38 @@
+ENTRY       b2669             CDS       T00007
+NAME        stpA
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor StpA with RNA chaperone activity
+ORTHOLOGY   K11685  DNA-binding protein StpA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b2669 (stpA)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Nucleoid associated proteins
+               HNS (histone-like nucleoid structuring protein)
+                b2669 (stpA)
+POSITION    complement(2798091..2798495)
+MOTIF       Pfam: Histone_HNS DUF3037 Pex19 RTP1_C1 Phage_Arf PepX_N
+DBLINKS     NCBI-GeneID: 947130
+            NCBI-ProteinID: NP_417155
+            Pasteur: stpA
+            RegulonDB: ECK120001507
+            ECOCYC: EG11554
+            ASAP: ABE-0008788
+            UniProt: P0ACG1
+STRUCTURE   PDB: 2LRX
+AASEQ       134
+            MSVMLQSLNNIRTLRAMAREFSIDVLEEMLEKFRVVTKERREEEEQQQRELAERQEKIST
+            WLELMKADGINPEELLGNSSAAAPRAGKKRQPRPAKYKFTDVNGETKTWTGQGRTPKPIA
+            QALAEGKSLDDFLI
+NTSEQ       405
+            atgtccgtaatgttacaaagtttaaataacattcgcaccctccgtgcgatggctcgcgaa
+            ttctccattgacgttcttgaagaaatgctcgaaaaattcagggttgtcactaaagaaaga
+            cgtgaagaagaagaacagcagcagcgtgaactggcagagcgccaggaaaaaattagcacc
+            tggctggagctgatgaaagctgacggaattaacccggaagagttattgggtaatagctct
+            gctgctgcaccacgcgctggtaaaaaacgccagccgcgtccggcgaaatataaattcacc
+            gatgttaacggtgaaactaaaacctggaccggtcagggccgtacaccgaagccaattgct
+            caggcgctggcagaaggtaaatctctcgacgatttcctgatctaa
+///

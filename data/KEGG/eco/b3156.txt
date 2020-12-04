@@ -1,0 +1,41 @@
+ENTRY       b3156             CDS       T00007
+NAME        yhbS
+DEFINITION  (RefSeq) putative acyltransferase with acyl-CoA N-acyltransferase domain
+ORTHOLOGY   K03824  putative acetyltransferase [EC:2.3.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b3156 (yhbS)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.-  
+                 b3156 (yhbS)
+POSITION    complement(3300255..3300758)
+MOTIF       Pfam: Acetyltransf_7 Acetyltransf_1 Acetyltransf_9 Acetyltransf_10 Acetyltransf_CG FR47 Acetyltransf_15 Acetyltransf_3
+DBLINKS     NCBI-GeneID: 947670
+            NCBI-ProteinID: NP_417625
+            Pasteur: yhbS
+            RegulonDB: ECK120004200
+            ECOCYC: G7650
+            ASAP: ABE-0010373
+            UniProt: P63417
+STRUCTURE   PDB: 4RS2
+AASEQ       167
+            MLIRVEIPIDAPGIDALLRRSFESDAEAKLVHDLREDGFLTLGLVATDDEGQVIGYVAFS
+            PVDVQGEDLQWVGMAPLAVDEKYRGQGLARQLVYEGLDSLNEFGYAAVVTLGDPALYSRF
+            GFELAAHHDLRCRWPGTESAFQVHRLADDALNGVTGLVEYHEHFNRF
+NTSEQ       504
+            atgctaattcgagtagaaattcccattgatgcgccgggtattgatgccctgctgcgtcgc
+            tcattcgaaagtgatgcggaagcgaagctggttcacgatctgcgtgaagatggctttctg
+            acgctggggctggtggcgacagatgacgaaggtcaggtcattggctatgtggcatttagt
+            ccggttgatgtgcagggcgaagacctgcaatgggtcggcatggcaccgttggcggttgat
+            gaaaaataccgtggacaggggctggcacgccaactggtctatgaaggactcgattcgctt
+            aatgagttcggctatgccgcagtggtgacgctgggcgatccggcgctgtacagtcgtttc
+            ggctttgaactggcggcgcatcacgatctgcgttgccgctggccgggcactgaaagcgcc
+            ttccaggtacatcgtttagcggatgacgcgctgaatggcgttaccggcctggttgagtat
+            cacgagcatttcaatcgcttttaa
+///

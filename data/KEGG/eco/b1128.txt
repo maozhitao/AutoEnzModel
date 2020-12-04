@@ -1,0 +1,59 @@
+ENTRY       b1128             CDS       T00007
+NAME        roxA
+DEFINITION  (RefSeq) ribosomal protein-arginine oxygenase
+ORTHOLOGY   K18850  50S ribosomal protein L16 3-hydroxylase [EC:1.14.11.47]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b1128 (roxA)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.11  With 2-oxoglutarate as one donor, and incorporation of one atom of oxygen into each donor
+                1.14.11.47  [50S ribosomal protein L16]-arginine 3-hydroxylase
+                 b1128 (roxA)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              ribosomal protein modification factors
+               b1128 (roxA)
+POSITION    complement(1187119..1188240)
+MOTIF       Pfam: Cupin_4 Cupin_1 Cupin_2 AraC_binding Tup_N
+DBLINKS     NCBI-GeneID: 945391
+            NCBI-ProteinID: NP_415646
+            Pasteur: ycfD
+            RegulonDB: ECK120001394
+            ECOCYC: EG11430
+            ASAP: ABE-0003802
+            UniProt: P27431
+STRUCTURE   PDB: 4LIT 4CCL 4NUB 4LIU 4LIV
+AASEQ       373
+            MEYQLTLNWPDFLERHWQKRPVVLKRGFNNFIDPISPDELAGLAMESEVDSRLVSHQDGK
+            WQVSHGPFESYDHLGETNWSLLVQAVNHWHEPTAALMRPFRELPDWRIDDLMISFSVPGG
+            GVGPHLDQYDVFIIQGTGRRRWRVGEKLQMKQHCPHPDLLQVDPFEAIIDEELEPGDILY
+            IPPGFPHEGYALENAMNYSVGFRAPNTRELISGFADYVLQRELGGNYYSDPDVPPRAHPA
+            DVLPQEMDKLREMMLELINQPEHFKQWFGEFISQSRHELDIAPPEPPYQPDEIYDALKQG
+            EVLVRLGGLRVLRIGDDVYANGEKIDSPHRPALDALASNIALTAENFGDALEDPSFLAML
+            AALVNSGYWFFEG
+NTSEQ       1122
+            atggaataccaactcactcttaactggcccgattttcttgaacgtcactggcagaaacgc
+            ccggtggtgttaaaacgcggctttaataattttattgacccgatctctccagacgagttg
+            gcgggtctggcgatggaaagcgaagttgacagtcgactggtcagtcaccaggatggcaaa
+            tggcaggtcagccacggcccgttcgaaagctacgatcatctcggtgaaaccaactggtca
+            ttactggtacaggcagtgaaccactggcatgagccgaccgccgcgctgatgcgaccgttc
+            cgtgaactaccggactggcgtattgatgatctgatgatttctttttctgtacccggcggc
+            ggcgtcggcccgcatctcgatcagtacgacgtgtttatcattcagggtaccggacgtcgt
+            cgctggcgagtgggcgaaaagctgcaaatgaaacagcactgcccacatccggatctgtta
+            caggtcgatccgttcgaagccatcatcgatgaagagctggagcctggtgatattctttat
+            attccgccaggattcccgcatgaaggctacgcgctggaaaatgcgatgaactattccgtg
+            ggctttcgcgcgccaaatacgcgggaactgattagtggatttgccgattatgtgctgcaa
+            cgtgaactgggcggcaactactacagcgatccggatgttccacctcgcgctcatcctgcg
+            gatgttctgccgcaagagatggataaactgcgtgagatgatgctcgaattgatcaaccag
+            ccggaacactttaagcaatggtttggcgagtttatatcccagtcacgtcatgaactggat
+            atcgcgccgccagagccgccttatcagccggatgaaatctacgatgcgctgaaacaaggt
+            gaagtgctggtgcgcctgggtggtctgcgcgtattgcgcattggcgacgacgtgtatgcc
+            aatggtgagaagatcgattccccgcaccgtccggcactggatgcactcgccagcaacatt
+            gcgctgactgcggagaattttggcgatgcgctggaagatccgtcattcctcgcgatgctc
+            gcggcgctggtcaatagcgggtattggttcttcgaagggtaa
+///

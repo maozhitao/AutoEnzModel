@@ -1,0 +1,41 @@
+ENTRY       b0293             CDS       T00007
+NAME        ecpA
+DEFINITION  (RefSeq) common pilus major subunit
+ORTHOLOGY   K21964  Mat/Ecp fimbriae major subunit
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b0293 (ecpA)
+            Secretion system [BR:eco02044]
+             Chaperone-usher system
+              Mat/Ecp fimbriae assembly protein
+               b0293 (ecpA)
+POSITION    complement(310084..310671)
+MOTIF       Pfam: MatB
+DBLINKS     NCBI-GeneID: 948759
+            NCBI-ProteinID: NP_414827
+            Pasteur: yagZ
+            RegulonDB: ECK120002784
+            ECOCYC: G6164
+            ASAP: ABE-0001009
+            UniProt: P0AAA3
+STRUCTURE   PDB: 3QS2 3QS3
+AASEQ       195
+            MKKKVLAIALVTVFTGMGVAQAADVTAQAVATWSATAKKDTTSKLVVTPLGSLAFQYAEG
+            IKGFNSQKGLFDVAIEGDSTATAFKLTSRLITNTLTQLDTSGSTLNVGVDYNGAAVEKTG
+            DTVMIDTANGVLGGNLSPLANGYNASNRTTAQDGFTFSIISGTTNGTTAVTDYSTLPEGI
+            WSGDVSVQFDATWTS
+NTSEQ       588
+            atgaaaaaaaaggttctggcaatagctctggtaacggtgtttaccggcatgggtgtggcg
+            caggctgctgacgtaacagctcaggctgtagcgacctggtcggcaacagccaaaaaagac
+            accaccagtaagctggttgtgacgccactcggtagcctggcgttccagtatgccgaaggc
+            attaaaggttttaactcacagaaaggtctatttgacgtggctatcgagggtgactcaacg
+            gctaccgcctttaaactgacctcacgtcttatcaccaacacattaacccagttggatacc
+            tcaggttccacactgaatgtgggcgtggattataacggcgcggcagtcgaaaaaactggc
+            gataccgtgatgatcgataccgccaacggcgtactgggcggcaaccttagcccgctggct
+            aacggttacaatgccagcaatcgtaccaccgcacaggatggtttcaccttctccatcatc
+            agcggtaccaccaatggtaccaccgcagtaacagattacagcactctaccggaaggcatc
+            tggagcggcgacgttagcgtacagttcgacgcgacctggaccagttaa
+///

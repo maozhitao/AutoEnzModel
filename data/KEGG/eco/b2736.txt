@@ -1,0 +1,50 @@
+ENTRY       b2736             CDS       T00007
+NAME        ygbJ
+DEFINITION  (RefSeq) putative L-threonate dehydrogenase
+ORTHOLOGY   K08319  L-threonate 2-dehydrogenase [EC:1.1.1.411]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b2736 (ygbJ)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.411  L-threonate 2-dehydrogenase
+                 b2736 (ygbJ)
+POSITION    2861430..2862338
+MOTIF       Pfam: NAD_binding_11 NAD_binding_2 3HCDH_N Peptidase_M23 Methyltr_RsmB-F F420_oxidored
+DBLINKS     NCBI-GeneID: 947200
+            NCBI-ProteinID: NP_417216
+            Pasteur: ygbJ
+            RegulonDB: ECK120003982
+            ECOCYC: G7417
+            ASAP: ABE-0008986
+            UniProt: Q46888
+AASEQ       302
+            MKTGSEFHVGIVGLGSMGMGAALSYVRAGLSTWGADLNSNACATLKEAGACGVSDNAATF
+            AEKLDALLVLVVNAAQVKQVLFGETGVAQHLKPGTAVMVSSTIASADAQEIATALAGFDL
+            EMLDAPVSGGAVKAANGEMTVMASGSDIAFERLAPVLEAVAGKVYRIGAEPGLGSTVKII
+            HQLLAGVHIAAGAEAMALAARAGIPLDVMYDVVTNAAGNSWMFENRMRHVVDGDYTPHSA
+            VDIFVKDLGLVADTAKALHFPLPLASTALNMFTSASNAGYGKEDDSAVIKIFSGITLPGA
+            KS
+NTSEQ       909
+            atgaaaacgggatctgagtttcatgtcggtatcgttggcttagggtcaatgggaatggga
+            gcagcactgtcatatgtccgcgcaggtctttctacctggggcgcagacctgaacagcaat
+            gcctgcgctacgttgaaagaggcaggtgcttgcggggtttctgataacgccgcgacgttt
+            gccgaaaaactggacgcactgctggtgctggtggtcaatgcggcccaggttaaacaggtg
+            ctgtttggtgaaacaggcgttgcacaacatctgaaacccggtacggcagtaatggtttct
+            tccactatcgctagtgctgatgcgcaagaaattgctaccgctctggctggattcgatctg
+            gaaatgctggatgcgccagtttctggtggtgcagtaaaagccgctaacggtgaaatgact
+            gtcatggcctccggtagcgatattgcctttgaacgactggcacccgtgctggaagccgtt
+            gccggaaaagtttatcgcataggtgcagaaccgggactaggttcgaccgtaaaaattatt
+            caccagttgttagcgggcgtacatattgctgccggagccgaagcgatggcacttgcagcc
+            cgtgcggggatcccgctggatgtgatgtatgacgtcgtgaccaatgccgccggaaattcc
+            tggatgttcgaaaaccggatgcgtcatgtggtggatggcgattacaccccgcattcagcc
+            gtcgatatttttgttaaggatcttggtctggttgccgatacagccaaagccctgcacttc
+            ccgctgccattggcctcaacagcattgaatatgttcaccagcgccagtaacgcgggttac
+            gggaaagaagacgatagcgcagttatcaagattttctctggcatcactctaccgggagcg
+            aaatcatga
+///

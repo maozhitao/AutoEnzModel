@@ -1,0 +1,58 @@
+ENTRY       b4305             CDS       T00007
+NAME        sgcX
+DEFINITION  (RefSeq) KpLE2 phage-like element; putative endoglucanase with Zn-dependent exopeptidase domain
+ORTHOLOGY   K20609  putative aminopeptidase [EC:3.4.11.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b4305 (sgcX)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.11  Aminopeptidases
+                3.4.11.-  
+                 b4305 (sgcX)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M42: glutamyl aminopeptidase family
+               b4305 (sgcX)
+POSITION    complement(4530530..4531651)
+MOTIF       Pfam: Peptidase_M42 Peptidase_M20
+DBLINKS     NCBI-GeneID: 948840
+            NCBI-ProteinID: NP_418725
+            Pasteur: sgcX
+            RegulonDB: ECK120002322
+            ECOCYC: EG12557
+            ASAP: ABE-0014112
+            UniProt: P39366
+AASEQ       373
+            MSFSVQETLFSLLQHNAISGHENAVADVMLCEFRRQAKEVWRDRLGNVVARYGSDKPDAL
+            RLMIFAHMDEVGFMVRKIEPSGFLRFERVGGPAQVTMAGSIVTLTGDKGPVMGCIGIKSY
+            HFAKGDERTQSPSVDKLWIDIGAKDKDDAIRMGIQVGTPVTLYNPPQLLANDLVCSKALD
+            DRLGCTALLGVADAISTMELDIAVYLVASVQEEFNIRGIVPVLRRVKPDLAIGIDITPSC
+            DTPDLHDYSEVRINQGVGITCLNYHGRGTLAGLITPPRLIRMLEQTALEHNIPVQREVAP
+            GVITETGYIQVEQDGIPCASLSIPCRYTHSPAEVASLRDLTDCIRLLTALAGMSAAHFPV
+            EPDSGTTQEAHPL
+NTSEQ       1122
+            atgtcattttctgtgcaggaaaccctgttctcgcttttgcagcacaatgcgatttcagga
+            cacgaaaacgctgtcgctgacgtcatgctgtgcgaattcaggcgtcaggcaaaagaggtc
+            tggcgagacaggcttgggaatgtcgtcgcgcgctacggtagtgataaacccgatgcgctg
+            cgactgatgatttttgcgcatatggatgaagtcggttttatggtgcgcaaaatagagccg
+            tctggatttttacgctttgaacgcgtaggcggtcctgcgcaggtcactatggctggttcc
+            atcgtcaccctcaccggggacaaagggccagtcatggggtgtatcggcattaagtcctac
+            cactttgccaaaggcgacgagcgcacgcagtcaccttctgtcgacaaactgtggattgat
+            attggtgccaaagacaaagacgacgctatacggatgggcattcaggtcggtacgcctgtc
+            actctgtataacccgccgcaactcctggcaaacgatctggtgtgcagtaaagcactagac
+            gatcgtctaggctgtactgccctgctcggtgtagcggatgctatcagtactatggagctt
+            gatatcgccgtttatctggtggcttcggtacaggaagaatttaatatccgcggcattgtt
+            cccgtattacgccgtgtaaaacctgacctggcgattggtattgatatcactccatcgtgt
+            gacacccctgatttacacgattattccgaggtcaggattaatcagggcgttgggatcacc
+            tgcctgaactaccatggtcggggaacgctggccggattaatcacgcctcctcgcctgata
+            cggatgttggaacagacggctcttgaacacaacattccggtgcagcgagaagtggctccc
+            ggcgtgataacagaaaccggttatatccaggttgagcaggatggtattccctgcgccagt
+            ctctctattccttgtcgctatacccattctccggcggaggttgccagcctgcgtgatttg
+            actgattgcatccgcctattgaccgctctggcaggtatgtcagcagcacatttccccgtt
+            gagcctgattcaggcactacacaagaggcacatccattatga
+///

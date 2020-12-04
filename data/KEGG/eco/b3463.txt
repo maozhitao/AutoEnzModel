@@ -1,0 +1,56 @@
+ENTRY       b3463             CDS       T00007
+NAME        ftsE
+DEFINITION  (RefSeq) cell division protein FtsE
+ORTHOLOGY   K09812  cell division transport system ATP-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b3463 (ftsE)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b3463 (ftsE)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3463 (ftsE)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Divisome proteins
+                b3463 (ftsE)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              ABC-2 type and other transporters
+               Cell division transporter
+                b3463 (ftsE)
+POSITION    complement(3602079..3602747)
+MOTIF       Pfam: ABC_tran AAA_21 AAA_29 RsgA_GTPase AAA_16 AAA_25 AAA_30 AAA_23 MMR_HSR1 AAA_22 AAA_33
+DBLINKS     NCBI-GeneID: 947968
+            NCBI-ProteinID: NP_417920
+            Pasteur: ftsE
+            RegulonDB: ECK120000334
+            ECOCYC: EG10340
+            ASAP: ABE-0011313
+            UniProt: P0A9R7
+AASEQ       222
+            MIRFEHVSKAYLGGRQALQGVTFHMQPGEMAFLTGHSGAGKSTLLKLICGIERPSAGKIW
+            FSGHDITRLKNREVPFLRRQIGMIFQDHHLLMDRTVYDNVAIPLIIAGASGDDIRRRVSA
+            ALDKVGLLDKAKNFPIQLSGGEQQRVGIARAVVNKPAVLLADEPTGNLDDALSEGILRLF
+            EEFNRVGVTVLMATHDINLISRRSYRMLTLSDGHLHGGVGHE
+NTSEQ       669
+            atgattcgctttgaacatgtcagcaaggcttatctcggtgggagacaggcgctgcagggc
+            gttacgttccatatgcagccgggtgagatggcgtttctgaccggtcattccggcgcaggg
+            aaaagtaccctcctgaagctgatctgtgggattgagcggcccagcgccgggaaaatctgg
+            tttagcggccatgacatcacgcgtctgaaaaaccgtgaagttccgtttctgcgccgccag
+            attggcatgattttccaggatcaccatctactgatggaccgtactgtctacgataacgtg
+            gcgatcccgctgattatcgccggtgccagcggtgacgatattcgtcgccgggtgtcggcg
+            gcgctggataaagtcgggctactggacaaagcgaagaacttccctattcagctttcgggc
+            ggtgaacaacagcgtgttggcattgcccgcgcggtggtgaacaagcccgcggtactgctg
+            gcggacgaaccgactggtaacctggacgacgcgctgtcggaaggcattttacgtctgttt
+            gaagagtttaaccgcgttggggtaaccgtattgatggcaacgcacgacatcaacctgatc
+            tcgcggcgttcctatcgcatgctcaccctgagcgatggtcacttgcatggaggcgtgggc
+            catgaataa
+///

@@ -1,0 +1,54 @@
+ENTRY       b0852             CDS       T00007
+NAME        rimK
+DEFINITION  (RefSeq) ribosomal protein S6 modification protein
+ORTHOLOGY   K05844  ribosomal protein S6--L-glutamate ligase [EC:6.3.2.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b0852 (rimK)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.2  Acid-D-amino-acid ligases (peptide synthases)
+                6.3.2.-  
+                 b0852 (rimK)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              ribosomal protein modification factors
+               b0852 (rimK)
+POSITION    891967..892869
+MOTIF       Pfam: RimK Rimk_N GSH-S_ATP ATPgrasp_ST ATP-grasp_3 Dala_Dala_lig_C ATPgrasp_YheCD Arm-DNA-bind_3 GARS_A
+DBLINKS     NCBI-GeneID: 945484
+            NCBI-ProteinID: NP_415373
+            Pasteur: rimK
+            RegulonDB: ECK120000843
+            ECOCYC: EG10852
+            ASAP: ABE-0002903
+            UniProt: P0C0U4
+STRUCTURE   PDB: 5ZCT 4IWX 4IWY 5ZK6
+AASEQ       300
+            MKIAILSRDGTLYSCKRLREAAIQRGHLVEILDPLSCYMNINPAASSIHYKGRKLPHFDA
+            VIPRIGTAITFYGTAALRQFEMLGSYPLNESVAIARARDKLRSMQLLARQGIDLPVTGIA
+            HSPDDTSDLIDMVGGAPLVVKLVEGTQGIGVVLAETRQAAESVIDAFRGLNAHILVQEYI
+            KEAQGCDIRCLVVGDEVVAAIERRAKEGDFRSNLHRGGAASVASITPQEREIAIKAARTM
+            ALDVAGVDILRANRGPLVMEVNASPGLEGIEKTTGIDIAGKMIRWIERHATTEYCLKTGG
+NTSEQ       903
+            gtgaaaattgccatattgtcccgggatggaacgctctattcgtgtaagcggctgcgtgaa
+            gccgctatacagcgcggtcacctggttgaaattcttgatccgctttcttgctacatgaac
+            ataaatcctgcggcgtcttctattcactacaaaggccgcaagttaccccattttgacgca
+            gtgatcccgcgtattggcaccgccattaccttttatgggacggcggcactgcgccagttc
+            gagatgctggggagctatccgctcaatgagtcggtcgccattgcccgggcgcgtgacaaa
+            ttgcgttccatgcaactgctggcgcgtcagggcatcgacctgcctgtcacgggcattgcg
+            cattcgccggatgataccagcgatttaatcgacatggtcggtggtgcgccgctggtggtc
+            aagttggttgaaggcacgcagggaattggcgtcgtgctggcggagacgcgtcaggcggcg
+            gaaagcgtgattgacgctttccgcggtctgaacgcgcatattctggtgcaggaatatatc
+            aaagaggcgcaagggtgcgatatccgctgtctggttgttggcgatgaagtggtcgctgcg
+            attgaacggcgggcgaaagagggcgattttcgttccaatttgcatcgtggcggcgcggca
+            agcgtcgccagtatcacaccacaggagcgtgaaatcgcgataaaagccgcgcgaacgatg
+            gcgctggacgttgctggtgtggatattctgcgtgctaatcgcgggccgttggtgatggag
+            gtgaatgcgtcgccggggctggaaggaatagaaaaaaccaccggtatcgacatcgcgggt
+            aaaatgatccgctggatcgaacgccacgctacgacagaatattgcctgaaaacgggtggt
+            tag
+///

@@ -1,0 +1,60 @@
+ENTRY       b1130             CDS       T00007
+NAME        phoP
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator PhoP
+ORTHOLOGY   K07660  two-component system, OmpR family, response regulator PhoP
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01503  Cationic antimicrobial peptide (CAMP) resistance
+            eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1130 (phoP)
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b1130 (phoP)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b1130 (phoP)
+               01504 Antimicrobial resistance genes [BR:eco01504]
+                b1130 (phoP)
+            Two-component system [BR:eco02022]
+             OmpR family
+              PhoQ-PhoP (magnesium transport)
+               b1130 (phoP)
+            Antimicrobial resistance genes [BR:eco01504]
+             Gene sets
+              CAMP resistance modules
+               Cationic antimicrobial peptide (CAMP) resistance, protease PgtE [MD:M00744]
+                b1130 (phoP)
+POSITION    complement(1189776..1190447)
+MOTIF       Pfam: Response_reg Trans_reg_C
+DBLINKS     NCBI-GeneID: 945697
+            NCBI-ProteinID: NP_415648
+            Pasteur: phoP
+            RegulonDB: ECK120000722
+            ECOCYC: EG10731
+            ASAP: ABE-0003807
+            UniProt: P23836
+STRUCTURE   PDB: 2PL1 2PKX
+AASEQ       223
+            MRVLVVEDNALLRHHLKVQIQDAGHQVDDAEDAKEADYYLNEHIPDIAIVDLGLPDEDGL
+            SLIRRWRSNDVSLPILVLTARESWQDKVEVLSAGADDYVTKPFHIEEVMARMQALMRRNS
+            GLASQVISLPPFQVDLSRRELSINDEVIKLTAFEYTIMETLIRNNGKVVSKDSLMLQLYP
+            DAELRESHTIDVLMGRLRKKIQAQYPQEVITTVRGQGYLFELR
+NTSEQ       672
+            atgcgcgtactggttgttgaagacaatgcgttgttacgtcaccaccttaaagttcagatt
+            caggatgctggtcatcaggtcgatgacgcagaagatgccaaagaagccgattattatctc
+            aatgaacatataccggatattgcgattgtcgatctcggattgccagacgaggacggtctg
+            tcactgattcgccgctggcgtagcaacgatgtttcactgccgattctggtattaaccgcc
+            cgtgaaagctggcaggacaaagtcgaagtattaagtgccggtgctgatgattatgtgact
+            aaaccgtttcatattgaagaggtgatggcgcgaatgcaggcattaatgcggcgtaatagc
+            ggtctggcttcacaggtcatttcgctccccccgtttcaggttgatctctctcgccgtgaa
+            ttatctattaatgacgaagtgatcaaactgaccgcgttcgaatacactattatggaaacg
+            ttgatacgcaataatggcaaagtggtcagcaaagattcgttaatgctccaactctatccg
+            gatgcggagctgcgggaaagccataccattgatgtactgatgggacgtctgcgcaaaaaa
+            attcaggcacaatatccccaagaagtgattaccaccgttcgcggccagggctatctgttc
+            gaattgcgctga
+///

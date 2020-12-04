@@ -1,0 +1,53 @@
+ENTRY       b4290             CDS       T00007
+NAME        fecB
+DEFINITION  (RefSeq) ferric citrate ABC transporter periplasmic binding protein
+ORTHOLOGY   K23181  ferric citrate transport system substrate-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b4290 (fecB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b4290 (fecB)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Metallic cation, iron-siderophore and vitamin B12 transporters
+               Ferric citrate transporter
+                b4290 (fecB)
+POSITION    complement(4513406..4514308)
+MOTIF       Pfam: Peripla_BP_2
+DBLINKS     NCBI-GeneID: 946838
+            NCBI-ProteinID: NP_418710
+            Pasteur: fecB
+            RegulonDB: ECK120000281
+            ECOCYC: EG10287
+            ASAP: ABE-0014065
+            UniProt: P15028
+AASEQ       300
+            MLAFIRFLFAGLLLVISHAFAATVQDEHGTFTLEKTPQRIVVLELSFADALAAVDVIPIG
+            IADDNDAKRILPEVRAHLKPWQSVGTRAQPSLEAIAALKPDLIIADSSRHAGVYIALQQI
+            APVLLLKSRNETYAENLQSAAIIGEMVGKKREMQARLEQHKERMAQWASQLPKGTRVAFG
+            TSREQQFNLHTQETWTGSVLASLGLNVPAAMAGASMPSIGLEQLLAVNPAWLLVAHYREE
+            SIVKRWQQDPLWQMLTAAQKQQVASVDSNTWARMRGIFAAERIAADTVKIFHHQPLTVVK
+NTSEQ       903
+            atgttggcatttatccgttttctttttgcaggcctgctgctggtgatcagccacgccttt
+            gccgccacggttcaggacgaacacggcacgtttacactcgaaaaaacgccacaacggatt
+            gtggtgctggaactctcgttcgccgatgcgctggccgccgtggacgtcatcccgatcggt
+            attgccgacgataacgatgcaaaacgcatcctgcccgaagtgcgtgcgcacctgaaaccg
+            tggcagtccgtcggaacgcgcgcgcagccgagcctggaagccattgccgctctgaaacca
+            gacctgatcattgccgacagcagtcgccatgcgggggtttacatcgccttgcagcaaatc
+            gcgccggtactgctgcttaagtcccgcaacgaaacctacgctgaaaatttgcaatctgcg
+            gctatcatcggcgaaatggtgggtaaaaagcgagagatgcaggcacgtctggaacaacat
+            aaagagaggatggcgcagtgggccagccagcttcccaaagggacacgcgtggcctttggc
+            acatcacgcgaacagcaattcaacctgcatactcaggagacctggaccggcagcgtgctg
+            gcctctctggggctgaacgttcccgctgcgatggcgggtgcgtccatgccgtccatcggc
+            ctggagcaactgctggcggtcaatcctgcctggctgctggttgcccactatcgcgaagag
+            agcattgttaaacgctggcaacaagatccgctctggcagatgttaaccgccgcgcagaag
+            cagcaggttgcttcggtcgacagtaacacctgggcgcggatgcgcggtatttttgctgca
+            gagcgtattgccgctgacacggtaaaaatcttccaccatcagccgcttaccgttgtgaaa
+            tga
+///

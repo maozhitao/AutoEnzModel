@@ -1,0 +1,63 @@
+ENTRY       b3746             CDS       T00007
+NAME        ravA
+DEFINITION  (RefSeq) regulatory ATPase RavA
+ORTHOLOGY   K03924  MoxR-like ATPase [EC:3.6.3.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b3746 (ravA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.3  Catalysing transmembrane movement of substances
+                3.6.3.-  
+                 b3746 (ravA)
+POSITION    complement(3929597..3931093)
+MOTIF       Pfam: AAA_5 AAA_lid_8 DUF3763 AAA_3 Mg_chelatase Sigma54_activat AAA AAA_16 AAA_PrkA AAA_2
+DBLINKS     NCBI-GeneID: 948256
+            NCBI-ProteinID: NP_418202
+            Pasteur: yieN
+            RegulonDB: ECK120001670
+            ECOCYC: EG11731
+            ASAP: ABE-0012247
+            UniProt: P31473
+STRUCTURE   PDB: 3NBX 5FL2 4UPF 4UPB
+AASEQ       498
+            MAHPHLLAERISRLSSSLEKGLYERSHAIRLCLLAALSGESVFLLGPPGIAKSLIARRLK
+            FAFQNARAFEYLMTRFSTPEEVFGPLSIQALKDEGRYERLTSGYLPEAEIVFLDEIWKAG
+            PAILNTLLTAINERQFRNGAHVEKIPMRLLVAASNELPEADSSLEALYDRMLIRLWLDKV
+            QDKANFRSMLTSQQDENDNPVPDALQVTDEEYERWQKEIGEITLPDHVFELIFMLRQQLD
+            KLPDAPYVSDRRWKKAIRLLQASAFFSGRSAVAPVDLILLKDCLWYDAQSLNLIQQQIDV
+            LMTGHAWQQQGMLTRLGAIVQRHLQLQQQQSDKTALTVIRLGGIFSRRQQYQLPVNVTAS
+            TLTLLLQKPLKLHDMEVVHISFERSALEQWLSKGGEIRGKLNGIGFAQKLNLEVDSAQHL
+            VVRDVSLQGSTLALPGSSAEGLPGEIKQQLEELESDWRKQHALFSEQQKCLFIPGDWLGR
+            IEASLQDVGAQIRQAQQC
+NTSEQ       1497
+            atggctcaccctcatttattagcggaaagaatttcccgcctgagcagttcgttggaaaag
+            gggctttatgaacgtagccacgccatccgcttgtgtttattagcggcattaagtggtgaa
+            agtgtgttcctccttggcccgccaggtattgccaaaagtttgatcgcccggcgcttaaaa
+            ttcgcctttcagaatgcccgcgcgtttgaatatctgatgacccgcttctccacgccggaa
+            gaagtttttggtcccctttctattcaggcgctaaaagatgaagggcgctatgaacgttta
+            accagcggttacctgccggaagcagaaattgtctttctggatgagatctggaaagcgggc
+            ccggcaattcttaataccttgctcaccgccattaacgagcgccagttccgcaacggtgca
+            cacgtagaaaaaatcccgatgcgtctgctggtggcggcctccaacgagctgccggaagca
+            gacagcagtctggaagcgttatatgaccgcatgctgattcgtctgtggttagataaagtg
+            caggataaagcgaatttccgctccatgctgaccagtcaacaggatgaaaacgacaatccg
+            gttcctgatgccttgcaggtcacagatgaagaatatgaacgctggcagaaagagattggt
+            gaaattacgctgcccgatcatgtatttgagctgatttttatgctgcgccagcaactggat
+            aaattaccggatgcgccttatgtctcggatcgtcgctggaaaaaagcgatccgattattg
+            caggccagcgccttttttagcggtcgcagtgctgttgccccggtagatctcattttgctg
+            aaagattgcctgtggtatgacgcgcaaagcctgaatttgatacaacaacaaattgatgta
+            ttgatgaccggtcacgcctggcaacagcaagggatgttgactcgccttggcgcgattgtg
+            caacgtcacctgcaactccagcagcaacaaagcgataaaacagccttaacggtaattcgt
+            ctgggcggcattttcagccgtcgtcagcagtatcaacttcctgttaacgttactgcttcc
+            actctgactctactgctgcaaaaaccgttaaaactgcatgatatggaagtggttcatatc
+            tcctttgagcgtagcgcgctggaacagtggctgagcaaaggtggtgaaattcgcggtaaa
+            ctgaacggtatcggctttgcccagaaactgaatctggaagttgatagcgcccaacatctt
+            gtcgttcgcgatgtaagtttacaaggcagtacgctggcacttcccggttcatcggctgaa
+            ggtctgcctggtgaaataaaacaacaactggaagagcttgaaagcgactggcgcaagcaa
+            cacgctttattcagcgaacagcaaaaatgtctgtttatccctggcgactggttaggtcgc
+            attgaagccagcctacaggatgtcggtgcacagattcgccaggcacaacaatgctaa
+///

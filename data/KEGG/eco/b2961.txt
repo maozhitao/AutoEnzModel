@@ -1,0 +1,67 @@
+ENTRY       b2961             CDS       T00007
+NAME        mutY
+DEFINITION  (RefSeq) adenine DNA glycosylase
+ORTHOLOGY   K03575  A/G-specific adenine glycosylase [EC:3.2.2.31]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03410  Base excision repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03410 Base excision repair
+                b2961 (mutY)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2961 (mutY)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.2  Hydrolysing N-glycosyl compounds
+                3.2.2.31  adenine glycosylase
+                 b2961 (mutY)
+            DNA repair and recombination proteins [BR:eco03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                DNA glycosylases
+                 b2961 (mutY)
+             Prokaryotic type
+                 b2961 (mutY)
+POSITION    3103013..3104065
+MOTIF       Pfam: NUDIX_4 HhH-GPD HHH EndIII_4Fe-2S HHH_8 HHH_5
+DBLINKS     NCBI-GeneID: 947447
+            NCBI-ProteinID: NP_417436
+            Pasteur: mutY
+            RegulonDB: ECK120000620
+            ECOCYC: EG10627
+            ASAP: ABE-0009720
+            UniProt: P17802
+STRUCTURE   PDB: 1KG2 1MUN 1KG5 1MUY 1WEI 1KG6 1KG7 1KG3 1KG4 1KQJ 1WEG
+                 1MUD 1WEF
+AASEQ       350
+            MQASQFSAQVLDWYDKYGRKTLPWQIDKTPYKVWLSEVMLQQTQVATVIPYFERFMARFP
+            TVTDLANAPLDEVLHLWTGLGYYARARNLHKAAQQVATLHGGKFPETFEEVAALPGVGRS
+            TAGAILSLSLGKHFPILDGNVKRVLARCYAVSGWPGKKEVENKLWSLSEQVTPAVGVERF
+            NQAMMDLGAMICTRSKPKCSLCPLQNGCIAAANNSWALYPGKKPKQTLPERTGYFLLLQH
+            EDEVLLAQRPPSGLWGGLYCFPQFADEESLRQWLAQRQIAADNLTQLTAFRHTFSHFHLD
+            IVPMWLPVSSFTGCMDEGNALWYNLAQPPSVGLAAPVERLLQQLRTGAPV
+NTSEQ       1053
+            atgcaagcgtcgcaattttcagcccaggttctggactggtacgataaatacgggcgaaaa
+            actctgccctggcaaattgacaagacgccctacaaagtatggctctcagaagtgatgttg
+            caacaaactcaggttgcgaccgttatcccctattttgaacgctttatggcgcgcttcccg
+            acggtgaccgatctcgccaatgcgccgctcgacgaagttctccacttgtggaccgggctt
+            ggctattacgcccgcgcgcgcaatctgcataaagcggcacaacaagtggcgaccttacac
+            ggcggtaaattcccggaaacctttgaggaagttgcagcactgccgggcgtcgggcgttcc
+            accgcaggcgcgattctctcgctttctctgggtaagcactttccgattctcgacggtaac
+            gtcaaacgcgtgctggcgcgctgctatgctgtaagcggctggcctgggaaaaaagaggtc
+            gagaataaattatggagtttgagcgagcaggtgacgcccgcggttggcgtggaacggttt
+            aatcaggcgatgatggatttgggtgcgatgatttgtacgcgctcgaaaccgaaatgttcg
+            ctctgtccgctacaaaacggatgtattgccgccgccaacaatagctgggcgctttatccg
+            ggcaaaaaaccgaaacagacgctgccggagcgcaccggctactttttgctattacagcac
+            gaagatgaagtattgctggcgcagcgtccgccgagcggattgtggggcggtttatactgt
+            ttcccgcagtttgccgacgaagaaagtttgcggcagtggctggcgcaacggcagattgct
+            gccgataacctgacgcaactgaccgcgtttcggcataccttcagccatttccacttagat
+            attgtgcctatgtggcttcccgtgtcgtcattcaccggctgcatggatgaaggcaatgcg
+            ctctggtataacttagcgcaaccgccgtcagttggcctagcggctcccgtggagcgtttg
+            ttacagcagttacgcactggcgcgccggtttag
+///

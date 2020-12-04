@@ -1,0 +1,53 @@
+ENTRY       b2536             CDS       T00007
+NAME        hcaT
+DEFINITION  (RefSeq) putative 3-phenylpropionate transporter
+ORTHOLOGY   K05820  MFS transporter, PPP family, 3-phenylpropionic acid transporter
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2536 (hcaT)
+            Transporters [BR:eco02000]
+             Major facilitator superfamily (MFS)
+              Organic acid transporters
+               Phenylproprionate permease (PPP) [TC:2.A.1.27]
+                b2536 (hcaT)
+POSITION    complement(2666707..2667846)
+MOTIF       Pfam: MFS_1_like MFS_1 LacY_symp
+DBLINKS     NCBI-GeneID: 947007
+            NCBI-ProteinID: NP_417031
+            Pasteur: yfhS
+            RegulonDB: ECK120003902
+            ECOCYC: G7330
+            ASAP: ABE-0008348
+            UniProt: Q47142
+AASEQ       379
+            MVLQSTRWLALGYFTYFFSYGIFLPFWSVWLKGIGLTPETIGLLLGAGLVARFLGSLLIA
+            PRVSDPSRLISALRVLALLTLLFAVAFWAGAHVAWLMLVMIGFNLFFSPLVPLTDALANT
+            WQKQFPLDYGKVRLWGSVAFVIGSALTGKLVTMFDYRVILALLTLGVASMLLGFLIRPTI
+            QPQGASRQQESTGWSAWLALVRQNWRFLACVCLLQGAHAAYYGFSAIYWQAAGYSASAVG
+            YLWSLGVVAEVIIFALSNKLFRRCSARDMLLISAICGVVRWGIMGATTALPWLIVVQILH
+            CGTFTVCHLAAMRYIAARQGSEVIRLQAVYSAVAMGGSIAIMTVFAGFLYQYLGHGVFWV
+            MALVALPAMFLRPKVVPSC
+NTSEQ       1140
+            atggttttgcaatccacgcgctggttggcgctcggctatttcacatacttttttagttac
+            ggcatttttctacctttctggagcgtctggcttaaagggattggtttaacgccagaaacc
+            atcggcctgttattgggggcaggtctggttgcccgtttcctcgggagtttgctcatcgcg
+            ccccgcgtcagcgatccttcccgcctgatttccgccttgcgcgtgctggcactgctgaca
+            cttctctttgctgtcgccttctgggcgggggcgcacgtagcgtggctgatgctggtgatg
+            attggctttaacctctttttctcaccactggtaccgttgaccgatgcactggcgaatacg
+            tggcaaaagcagttcccgcttgattacggcaaagtgcgactgtggggctcggtggcgttt
+            gtcattggctcggcgctgacgggcaaactggtcactatgtttgattatcgggtgatcctc
+            gcgctgttgacgttgggcgtggcatccatgctgctcggctttctcatccgtccgacgatt
+            cagccacaaggggcaagtcgccagcaggagagcaccggttggtctgcgtggttggcgctg
+            gttcgccagaactggcgctttctggcctgcgtttgtttattgcagggggcacatgcggcc
+            tattacggttttagcgccatttactggcaggcagctggctactcggcctcggcggtgggg
+            tatttgtggtcgctgggcgtggtggcggaagtcattatctttgcgctgagtaataaactt
+            ttccgccgttgtagtgcacgcgatatgctgttgatctcggcgatttgcggcgtagtgcgc
+            tggggcattatgggagcaactacggcgttgccgtggttgatagtggtgcaaattctgcat
+            tgcggcaccttcacggtctgccacctggccgccatgcgttatattgctgctcgccagggt
+            agcgaagtcatccgtttacaggcggtttactctgccgtcgcgatgggcggcagtatcgct
+            atcatgaccgttttcgccggtttcctgtatcaatatctgggccacggcgtgttctgggta
+            atggcgctggtggcgcttccggcaatgtttttgcgcccgaaagttgttccctcatgctga
+///

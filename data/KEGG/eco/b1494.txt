@@ -1,0 +1,96 @@
+ENTRY       b1494             CDS       T00007
+NAME        pqqL
+DEFINITION  (RefSeq) putative zinc peptidase
+ORTHOLOGY   K07263  zinc protease [EC:3.4.24.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b1494 (pqqL)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.-  
+                 b1494 (pqqL)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M16: pitrilysin family
+               b1494 (pqqL)
+POSITION    complement(1572407..1575202)
+MOTIF       Pfam: Peptidase_M16_C Peptidase_M16
+DBLINKS     NCBI-GeneID: 946059
+            NCBI-ProteinID: NP_416011
+            Pasteur: pqqL
+            RegulonDB: ECK120001683
+            ECOCYC: EG11744
+            ASAP: ABE-0004979
+            UniProt: P31828
+STRUCTURE   PDB: 6OFT 6OFS
+AASEQ       931
+            MEIIMRNLCFLLTLVATLLLPGRLIAAALPQDEKLITGQLDNGLRYMIYPHAHPKDQVNL
+            WLQIHTGSLQEEDNELGVAHFVEHMMFNGTKTWPGNKVIETFESMGLRFGRDVNAYTSYD
+            ETVYQVSLPTTQKQNLQQVMAIFSEWSNAATFEKLEVDAERGVITEEWRAHQDAKWRTSQ
+            ARRPFLLANTRNLDREPIGLMDTVATVTPAQLRQFYQRWYQPNNMTFIVVGDIDSKEALA
+            LIKDNLSKLPANKAAENRVWPTKAENHLRFNIINDKENRVNGIALYYRLPMVQVNDEQSF
+            IEQAEWSMLVQLFNQRLQERIQSGELKTISGGTARSVKIAPDYQSLFFRVNARDDNMQDA
+            ANALMAELATIDQHGFSAEELDDVKSTRLTWLKNAVDQQAERDLRMLTSRLASSSLNNTP
+            FLSPEETYQLSKRLWQQITVQSLAEKWQQLRKNQDAFWEQMVNNEVAAKKALSPAAILAL
+            EKEYANKKLAAYVFPGRNLSLTVDADPQAEISSKETLAENLTSLTLSNGARVILAKSAGE
+            EQKLQIIAVSNKGDLSFPAQQKSLIALANKAVSGSGVGELSSSSLKRWSAENSVTMSSKV
+            SGMNTLLSVSARTNNPEPGFQLINQRITHSTINDNIWASLQNAQIQALKTLDQRPAEKFA
+            QQMYETRYADDRTKLLQENQIAQFTAADALAADRQLFSSPADITFVIVGNVAEDKLVALI
+            TRYLGSIKHSDSPLAAGKPLTRATDNASVTVKEQNEPVAQVSQWKRYDSRTPVNLPTRMA
+            LDAFNVALAKDLRVNIREQASGAYSVSSRLSVDPQAKDISHLLAFTCQPERHDELLTLAN
+            EVMVKRLAKGISEQELNEYQQNVQRSLDIQQRSVQQLANTIVNSLIQYDDPAAWTEQEQL
+            LKQMTVENVNTAVKQYLSHPVNTYTGVLLPK
+NTSEQ       2796
+            atggagataattatgagaaacctctgtttcttactgacgttagtggcaactctgttgctc
+            cccgggcggctgattgccgccgccttaccgcaggatgaaaagttaattaccgggcaactg
+            gacaatggcttgcgatatatgatttatccgcatgctcatccaaaggatcaggtaaattta
+            tggctgcaaattcataccggttcattgcaggaagaagacaatgagctcggcgtggctcat
+            tttgtagaacatatgatgtttaacggcacaaaaacatggccgggtaataaagtcatcgaa
+            acatttgagtcaatgggcctgcgttttggtcgcgatgttaatgcctataccagctatgac
+            gaaacggtgtatcaggtgagtttgccgactacgcagaaacaaaatctgcaacaagtgatg
+            gcaatcttcagtgaatggagtaatgccgcaacctttgaaaaactcgaagtagacgctgaa
+            cgtggcgtaattactgaggaatggcgtgcccatcaggatgcgaaatggcgcacctctcag
+            gcgcgccgccctttcctgctggcaaatacccgtaatttagaccgtgaacctatcggcctg
+            atggatactgtcgccacggtcacaccggcacaattgcgccaattttatcaacgctggtat
+            caaccaaataatatgacctttatcgtggtcggcgatatcgacagtaaagaagcgctggcg
+            ctgataaaggataatttaagtaagcttccggctaacaaagcagctgaaaatcgcgtctgg
+            ccgacaaaagccgaaaaccacctgcgctttaatatcattaatgataaagaaaaccgggtg
+            aacggcatcgcactctattatcgcctgccaatggtacaagtgaacgatgagcaaagcttt
+            atcgaacaagctgaatggagcatgttagttcagctgttcaatcaacgtctgcaggaacgc
+            atacagtcgggcgagttgaagactatttctggcggcactgcgcgcagcgttaaaattgca
+            cccgattatcagtcgctgtttttccgtgtaaatgcacgagacgataatatgcaggatgct
+            gcgaatgcattaatggcagagttggcaaccattgatcagcatggtttttctgctgaagaa
+            ctcgatgatgtcaaatctacccgcctcacctggctgaaaaatgcggttgatcagcaagct
+            gaacgtgatttacgtatgctgaccagtcgcctggcatccagctcattaaataatacgccg
+            ttcttgtcgccggaagagacatatcaactttcgaaacgtctgtggcagcaaattaccgtg
+            caaagtctggcggaaaaatggcagcagttaagaaagaaccaggacgcattttgggagcaa
+            atggtaaacaatgaggttgccgccaaaaaagcattgtctcctgcggctatcctggcgctg
+            gaaaaggagtacgccaacaaaaagctggcggcttacgtcttcccaggcagaaatttatcg
+            ttaacagtagacgcagacccacaggcggaaattagcagcaaagaaacgctggcggagaat
+            ctgacatcattaacactttccaatggtgccagggttattctggcaaaatccgcgggtgaa
+            gagcaaaagctacaaattattgccgtatcgaataaaggcgatttaagtttccctgcgcag
+            caaaaatcacttatcgcgctggcaaataaagcagttagcggaagcggcgttggcgaactc
+            tcctcttccagcctgaaacgctggagtgcggaaaattcggtaaccatgagcagtaaagtc
+            agtggcatgaatacgttgctctccgttagcgcgcggactaataaccctgaacctggtttt
+            cagttgattaaccagcgaatcacccacagcacgattaacgataatatttgggcatcgcta
+            caaaatgctcaaattcaggcgttgaaaacgctcgaccagcgtccagcggagaaattcgcc
+            cagcagatgtatgagacgcgctatgctgatgaccgcacgaaattactgcaagaaaatcag
+            attgcacagtttactgccgcagatgcgctggctgccgatcgccaattgttttcatctcca
+            gcggatatcacgtttgtcattgtcggtaatgtcgcagaagacaaactcgtggcgttaatt
+            acgcgttacttaggatcaatcaaacactctgattcgccattagccgcaggtaaaccatta
+            actcgcgcgacggacaacgcatcggttactgtaaaagaacaaaatgaacctgtggcacag
+            gtttcacagtggaagcgttatgattcccggacacctgttaatctgccgacgcgtatggcg
+            ctcgatgcttttaacgtcgcactggcaaaagatctacgtgttaatattcgtgaacaggca
+            tctggagcatacagcgtttcttctcgcctctcggttgatcctcaggccaaagatatcagt
+            catttgctggcttttacttgtcaaccagaacgacatgatgaactgttaacgttagcgaat
+            gaagtgatggttaagcgtctggctaaagggatcagtgagcaagaactgaatgaataccag
+            caaaacgttcagcgcagcctcgatatccaacagcgtagcgttcaacaattagcgaacact
+            attgtaaatagtcttattcaatatgacgatcctgcagcatggactgagcaggagcaattg
+            ttgaaacaaatgacggtagagaatgttaacactgccgttaaacaatatctttctcatccg
+            gtaaatacttataccggagtattattgccaaaataa
+///

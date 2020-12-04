@@ -1,0 +1,56 @@
+ENTRY       b1858             CDS       T00007
+NAME        znuC
+DEFINITION  (RefSeq) Zn(2(+)) ABC transporter ATP binding subunit
+ORTHOLOGY   K09817  zinc transport system ATP-binding protein [EC:7.2.2.20]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b1858 (znuC)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1858 (znuC)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.2  Catalysing the translocation of inorganic cations
+               7.2.2  Linked to the hydrolysis of a nucleoside triphosphate
+                7.2.2.20  ABC-type Zn2+ transporter
+                 b1858 (znuC)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Metallic cation, iron-siderophore and vitamin B12 transporters
+               Zinc transporter
+                b1858 (znuC)
+POSITION    1942662..1943417
+MOTIF       Pfam: ABC_tran AAA_21 AAA_29 RsgA_GTPase AAA_23 AAA_16 SMC_N Rad17 AAA_22 AAA_15 TsaE AAA_27 AAA_30 AAA_PrkA
+DBLINKS     NCBI-GeneID: 946374
+            NCBI-ProteinID: NP_416372
+            Pasteur: znuC
+            RegulonDB: ECK120003605
+            ECOCYC: G7018
+            ASAP: ABE-0006198
+            UniProt: P0A9X1
+AASEQ       251
+            MTSLVSLENVSVSFGQRRVLSDVSLELKPGKILTLLGPNGAGKSTLVRVVLGLVTPDEGV
+            IKRNGKLRIGYVPQKLYLDTTLPLTVNRFLRLRPGTHKEDILPALKRVQAGHLINAPMQK
+            LSGGETQRVLLARALLNRPQLLVLDEPTQGVDVNGQVALYDLIDQLRRELDCGVLMVSHD
+            LHLVMAKTDEVLCLNHHICCSGTPEVVSLHPEFISMFGPRGAEQLGIYRHHHNHRHDLQG
+            RIVLRRGNDRS
+NTSEQ       756
+            atgacaagtctggtttccctggaaaatgtctcggtttcttttggccaacgccgcgtcctc
+            tctgatgtgtcgctggaacttaaacctggaaaaattttgactttacttgggccaaatggc
+            gcaggtaagtcgacactggtacgggtagtgctcgggctggtaacacccgatgaaggggtt
+            atcaagcgcaacggaaaactgcgcatcggctatgtaccgcagaagctgtatctcgacacc
+            acgttgccactgaccgtaaaccgttttttacgcttacgccctggtacacataaagaagat
+            attttgcctgcactgaaacgtgtccaggccgggcacctgattaacgcaccgatgcaaaag
+            ctctctggtggcgaaacgcagcgtgtactattagcgcgagcattgttaaatcgcccgcaa
+            ttattagtgctggatgaacccactcaaggcgtggatgtaaatggccaggtggcgttatat
+            gaccttattgaccaactgcgtcgtgaactggattgtggcgttttaatggtttctcacgat
+            ctgcatctggtgatggcaaaaaccgatgaagtgctgtgcctgaatcaccacatttgttgt
+            tccggcacaccggaagttgtttccctgcatccggagtttatttcaatgtttggtcctcgt
+            ggtgctgaacaactgggtatctatcgccatcatcataaccatcgtcacgatttacaggga
+            cgaattgttttgcgtcggggaaatgatcgctcatga
+///

@@ -1,0 +1,60 @@
+ENTRY       b2511             CDS       T00007
+NAME        der
+DEFINITION  (RefSeq) 50S ribosomal subunit stability factor
+ORTHOLOGY   K03977  GTPase
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b2511 (der)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              GTPases
+               b2511 (der)
+POSITION    complement(2635884..2637356)
+MOTIF       Pfam: MMR_HSR1 FeoB_N KH_dom-like GTP_EFTU Dynamin_N AIG1 RsgA_GTPase Ras Roc cobW ABC_tran AAA_24 TniB SRPRB ATP_bind_1 Ploopntkinase3
+DBLINKS     NCBI-GeneID: 946983
+            NCBI-ProteinID: NP_417006
+            RegulonDB: ECK120003891
+            ECOCYC: G7319
+            ASAP: ABE-0008270
+            UniProt: P0A6P5
+STRUCTURE   PDB: 3J8G
+AASEQ       490
+            MVPVVALVGRPNVGKSTLFNRLTRTRDALVADFPGLTRDRKYGRAEIEGREFICIDTGGI
+            DGTEDGVETRMAEQSLLAIEEADVVLFMVDARAGLMPADEAIAKHLRSREKPTFLVANKT
+            DGLDPDQAVVDFYSLGLGEIYPIAASHGRGVLSLLEHVLLPWMEDLAPQEEVDEDAEYWA
+            QFEAEENGEEEEEDDFDPQSLPIKLAIVGRPNVGKSTLTNRILGEERVVVYDMPGTTRDS
+            IYIPMERDGREYVLIDTAGVRKRGKITDAVEKFSVIKTLQAIEDANVVMLVIDAREGISD
+            QDLSLLGFILNSGRSLVIVVNKWDGLSQEVKEQVKETLDFRLGFIDFARVHFISALHGSG
+            VGNLFESVREAYDSSTRRVGTSMLTRIMTMAVEDHQPPLVRGRRVKLKYAHAGGYNPPIV
+            VIHGNQVKDLPDSYKRYLMNYFRKSLDVMGSPIRIQFKEGENPYANKRNTLTPTQMRKRK
+            RLMKHIKKNK
+NTSEQ       1473
+            atggtacctgtggtcgcgcttgtcgggcgccctaacgtaggaaaatccacgttatttaac
+            cgtctaactcgcacccgagatgcgctggttgcggatttcccgggtctgactcgtgaccgt
+            aagtacggtcgtgcggaaattgaaggccgtgagtttatctgtattgataccggcgggatt
+            gatggcacagaagacggtgtagaaacccgcatggcggaacagtcgctgctggcgattgaa
+            gaagcggacgtcgtactgtttatggtggatgcgcgcgcgggcctgatgccggcagatgaa
+            gcgattgccaaacatctgcgctcccgtgaaaaaccgaccttcctggtggcaaacaaaact
+            gacggtctggatcccgatcaggcagtggttgatttctactcgcttggtttaggtgaaatc
+            tacccgatcgccgcgtctcacggtcgtggcgtattaagtctgctggagcatgtgctgctg
+            ccgtggatggaagatctcgcaccgcaagaggaagtcgacgaagacgctgaatactgggcg
+            caatttgaagcggaagagaacggcgaagaagaagaggaagacgacttcgacccgcaaagt
+            ctgccgatcaaactggcgattgtgggtcgtccgaacgtaggtaagtctacactcactaac
+            cgtattcttggtgaagagcgcgttgttgtttacgacatgcctggcacgacgcgtgacagc
+            atctacatcccaatggaacgcgatggacgtgagtatgtgctcattgacaccgctggcgta
+            cgtaaacgcggcaaaatcaccgatgctgtagagaaattctccgtaatcaaaacgttgcag
+            gccattgaagacgccaacgtggtgatgttagtgattgatgcgcgcgaaggtatttccgat
+            caggatctctcgctgctgggctttattctcaatagtgggcgctcacttgtcattgtggtg
+            aataagtgggatggcctgagtcaggaagtgaaagagcaggtgaaagaaacgctggacttc
+            cgtctgggctttatcgattttgctcgtgtgcactttatctctgccttgcacggcagtggt
+            gttggtaacttgtttgaatcagtacgtgaagcgtatgacagctccacccgtcgtgtgggg
+            acctctatgctgacgcgcatcatgacgatggctgttgaagatcaccaaccgccgctggta
+            cgcggtcgtcgtgtgaagctgaaatatgcccacgccggtggttataacccgccgattgtg
+            gtgattcacggtaatcaggtgaaagacctgcctgattcctacaagcgctacttgatgaac
+            tacttccgcaaatcgctggacgtaatgggatcgccgattcgtattcagttcaaagaaggg
+            gaaaacccgtatgcgaataagcgtaacaccctgacgccaacccagatgcgtaaacgtaag
+            cgtctgatgaagcacatcaagaaaaataaataa
+///

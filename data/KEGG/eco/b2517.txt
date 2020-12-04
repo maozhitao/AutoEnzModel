@@ -1,0 +1,61 @@
+ENTRY       b2517             CDS       T00007
+NAME        rlmN
+DEFINITION  (RefSeq) 23S rRNA m(2)A2503 methyltransferase/tRNA m(2)A37 methyltransferase
+ORTHOLOGY   K06941  23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b2517 (rlmN)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.192  23S rRNA (adenine2503-C2)-methyltransferase
+                 b2517 (rlmN)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               23S rRNA modification factors
+                b2517 (rlmN)
+POSITION    complement(2643129..2644283)
+MOTIF       Pfam: Radical_SAM Fer4_14
+DBLINKS     NCBI-GeneID: 946249
+            NCBI-ProteinID: NP_417012
+            Pasteur: yfgB
+            RegulonDB: ECK120002263
+            ECOCYC: EG12401
+            ASAP: ABE-0008287
+            UniProt: P36979
+STRUCTURE   PDB: 3RFA 4PL2 3RF9 5HR7 4PL1 5HR6
+AASEQ       384
+            MSEQLVTPENVTTKDGKINLLDLNRQQMREFFKDLGEKPFRADQVMKWMYHYCCDNFDEM
+            TDINKVLRGKLKEVAEIRAPEVVEEQRSSDGTIKWAIAVGDQRVETVYIPEDDRATLCVS
+            SQVGCALECKFCSTAQQGFNRNLRVSEIIGQVWRAAKIVGAAKVTGQRPITNVVMMGMGE
+            PLLNLNNVVPAMEIMLDDFGFGLSKRRVTLSTSGVVPALDKLGDMIDVALAISLHAPNDE
+            IRDEIVPINKKYNIETFLAAVRRYLEKSNANQGRVTIEYVMLDHVNDGTEHAHQLAELLK
+            DTPCKINLIPWNPFPGAPYGRSSNSRIDRFSKVLMSYGFTTIVRKTRGDDIDAACGQLAG
+            DVIDRTKRTLRKRMQGEAIDIKAV
+NTSEQ       1155
+            atgtctgaacaattagtcacacctgaaaacgtcaccacgaaagatggaaaaatcaacctg
+            ctggatctcaaccgtcagcagatgcgggagttttttaaagatttaggtgaaaaacccttc
+            cgcgccgatcaggtgatgaagtggatgtatcactattgctgcgacaactttgatgagatg
+            accgacatcaacaaagtgttgcgcggcaaactgaaagaggtggcggaaatccgcgcaccg
+            gaagtggttgaagaacagcgttcatctgacggcaccattaaatgggcgatcgccgttggc
+            gatcagcgcgtcgaaacggtgtatatcccggaagacgaccgtgccacgctctgcgtctct
+            tcgcaggtggggtgtgcgctggagtgtaaattctgttccaccgcccagcagggctttaac
+            cgcaacctgcgggtgtcggaaattatcggccaggtgtggcgtgcggcgaaaatcgtcggc
+            gcagcaaaagtcaccggtcagcgtccgatcactaacgtagtgatgatgggcatgggcgag
+            ccgctgctcaacctgaacaacgtcgttccggcgatggaaatcatgcttgatgatttcggt
+            tttggcctgtctaaacgtcgcgtcacgctttccacttccggtgtagttccggcgctggat
+            aaactgggcgatatgatcgacgttgcactggcaatttccctgcacgcgccgaacgacgaa
+            attcgtgacgaaattgtgccgatcaacaaaaagtacaatatcgaaacgttccttgctgcg
+            gtgcgccgttatctggagaaatccaacgccaatcagggccgagtcactattgaatacgtg
+            atgcttgaccacgttaacgacggcactgaacacgcgcaccaactggcggaactgctgaaa
+            gatacgccgtgtaagatcaacctgatcccgtggaacccgttcccgggtgcgccgtatgga
+            cgcagctcgaacagccgtatcgaccgtttctcaaaagtgctgatgagctacggtttcacc
+            actattgtgcgtaaaactcgtggtgatgatatcgatgctgcctgtggtcagttggcgggc
+            gatgttatcgaccgtacgaaacgtaccctgcgtaaacggatgcagggtgaagccatcgac
+            attaaagcggtctga
+///

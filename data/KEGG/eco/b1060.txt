@@ -1,0 +1,34 @@
+ENTRY       b1060             CDS       T00007
+NAME        bssS
+DEFINITION  (RefSeq) regulator of biofilm formation
+ORTHOLOGY   K12148  biofilm regulator BssS
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b1060 (bssS)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               Type II TA system related factors
+                b1060 (bssS)
+POSITION    complement(1120701..1120955)
+MOTIF       Pfam: BssS
+DBLINKS     NCBI-GeneID: 946104
+            NCBI-ProteinID: NP_415578
+            Pasteur: yceP
+            RegulonDB: ECK120003153
+            ECOCYC: G6557
+            ASAP: ABE-0003594
+            UniProt: P0AB33
+AASEQ       84
+            MEKNNEVIQTHPLVGWDISTVDSYDALMLRLHYQTPNKSEQEGTEVGQTLWLTTDVARQF
+            ISILEAGIAKIESGDFQVNEYRRH
+NTSEQ       255
+            atggaaaaaaataatgaagtcattcagactcatccgctcgtagggtgggacatcagcacc
+            gttgatagctatgatgcgctgatgttgcgtttgcactaccagaccccaaataagtccgag
+            caggaagggactgaagttggtcagacgctctggttaaccactgatgttgccagacaattt
+            atttcgatattagaagcaggaatcgccaaaattgaatccggtgatttccaggtaaacgag
+            tatcggcgtcattaa
+///

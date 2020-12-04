@@ -1,0 +1,47 @@
+ENTRY       b1993             CDS       T00007
+NAME        cobU
+DEFINITION  (RefSeq) cobinamide-P guanylyltransferase/cobinamide kinase
+ORTHOLOGY   K02231  adenosylcobinamide kinase / adenosylcobinamide-phosphate guanylyltransferase [EC:2.7.1.156 2.7.7.62]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00860  Porphyrin and chlorophyll metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00860 Porphyrin and chlorophyll metabolism
+                b1993 (cobU)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.156  adenosylcobinamide kinase
+                 b1993 (cobU)
+               2.7.7  Nucleotidyltransferases
+                2.7.7.62  adenosylcobinamide-phosphate guanylyltransferase
+                 b1993 (cobU)
+POSITION    complement(2065219..2065764)
+MOTIF       Pfam: CobU
+DBLINKS     NCBI-GeneID: 946519
+            NCBI-ProteinID: NP_416497
+            Pasteur: cobU
+            RegulonDB: ECK120002434
+            ECOCYC: EG13238
+            ASAP: ABE-0006616
+            UniProt: P0AE76
+AASEQ       181
+            MMILVTGGARSGKSRHAEALIGDSSQVLYIATSQILDDEMAARIEHHRQGRPEHWRTVER
+            WQHLDELIHADINPNEVVLLECVTTMVTNLLFDYGGDKDPDEWDYQAMEQAINAEIQSLI
+            AACQRCPAKVVLVTNEVGMGIVPESRLARHFRDIAGRVNQQLAAAANEVWLVVSGIGVKI
+            K
+NTSEQ       546
+            atgatgattttggtgacggggggcgcacggagcgggaagagtcgccacgcagaggcgctt
+            attggggactcttcacaggttctgtatatcgctacctcgcaaatccttgatgatgagatg
+            gctgcacggatagaacatcatcggcaaggccgcccggagcactggcgcacagtggagcgc
+            tggcaacatcttgatgaattaattcatgcagacattaacccgaatgaggttgtgttgctt
+            gaatgcgttaccacaatggtgactaatctgttgtttgattatggcggcgataaagaccct
+            gatgaatgggattatcaggcgatggaacaggcgattaatgctgagattcagtcgttgatt
+            gctgcctgccaacgttgccccgcaaaggttgtattagtgactaacgaagtgggaatgggg
+            attgtgccggagagtcgtctggcacgacattttcgtgatattgccgggcgggtaaatcag
+            cagttggccgctgcggcaaatgaagtatggctggtggtttcgggtattggagtaaaaatc
+            aaatga
+///

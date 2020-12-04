@@ -1,0 +1,62 @@
+ENTRY       b0385             CDS       T00007
+NAME        dgcC
+DEFINITION  (RefSeq) diguanylate cyclase DgcC
+ORTHOLOGY   K18968  diguanylate cyclase [EC:2.7.7.65]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b0385 (dgcC)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0385 (dgcC)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.65  diguanylate cyclase
+                 b0385 (dgcC)
+            Transporters [BR:eco02000]
+             Other transporters
+              Others
+               b0385 (dgcC)
+POSITION    403703..404818
+MOTIF       Pfam: GGDEF MASE2
+DBLINKS     NCBI-GeneID: 945037
+            NCBI-ProteinID: NP_414919
+            Pasteur: yaiC
+            RegulonDB: ECK120001232
+            ASAP: ABE-0001336
+            UniProt: P0AAP1
+AASEQ       371
+            MFPKIMNDENFFKKAAAHGEEPPLTPQNEHQRSGLRFARRVRLPRAVGLAGMFLPIASTL
+            VSHPPPGWWWLVLVGWAFVWPHLAWQIASRAVDPLSREIYNLKTDAVLAGMWVGVMGVNV
+            LPSTAMLMIMCLNLMGAGGPRLFVAGLVLMVVSCLVTLELTGITVSFNSAPLEWWLSLPI
+            IVIYPLLFGWVSYQTATKLAEHKRRLQVMSTRDGMTGVYNRRHWETMLRNEFDNCRRHNR
+            DATLLIIDIDHFKSINDTWGHDVGDEAIVALTRQLQITLRGSDVIGRFGGDEFAVIMSGT
+            PAESAITAMLRVHEGLNTLRLPNTPQVTLRISVGVAPLNPQMSHYREWLKSADLALYKAK
+            KAGRNRTEVAA
+NTSEQ       1116
+            atgttcccaaaaataatgaatgatgaaaactttttcaaaaaagcggcggcgcacggggag
+            gaacctcctttaactcctcaaaacgaacatcagcggtccgggctgcgcttcgcccgtcgc
+            gtcagactaccccgtgcggttggcctggctggcatgttcttaccgattgcttcaacgctg
+            gtttcacacccgccgccgggctggtggtggctggtgttggtcggctgggcgttcgtctgg
+            ccgcatttagcctggcagatagcgagcagggccgtcgatccgcttagccgggaaatttac
+            aacttaaaaaccgatgcagtattagcgggaatgtgggtaggcgtaatgggcgtaaacgtg
+            ctgccttccaccgcgatgttgatgattatgtgtctgaatttgatgggggcaggcggcccc
+            cgtctgtttgtcgcgggtctggtgttgatggtggtttcctgccttgtcaccctcgagctg
+            acgggcattaccgtgtcgttcaatagtgcgccgctggaatggtggctctcccttcccatt
+            attgtcatttatcctctgctgtttggctgggtcagctaccagacggcaaccaaactggcg
+            gaacataaacgcaggttgcaggtcatgagtacccgcgacggcatgacgggcgtgtataac
+            cgacgtcattgggaaactatgttacgcaatgaatttgataactgtcggcggcataatcgc
+            gatgcaacgttactgattatcgatatcgaccatttcaagagcatcaacgatacctggggc
+            catgatgtgggcgatgaagcgattgtggcgcttacccgacagttacaaattaccctgcgc
+            ggtagcgatgtgattggtcggtttggcggcgatgagtttgcagtaatcatgtccggtacg
+            ccagctgagagcgccattaccgccatgttacgggtgcatgaagggctaaatacattacgt
+            ttgccgaatacgccacaggtaactttacggattagtgtgggggttgcgccgctgaaccca
+            caaatgagtcactatcgtgagtggttgaaatcggcagatttggcgctttacaaagcaaag
+            aaagccggacgtaaccgcaccgaagtggcggcctga
+///

@@ -1,0 +1,41 @@
+ENTRY       b0289             CDS       T00007
+NAME        ecpE
+DEFINITION  (RefSeq) putative fimbrial chaperone EcpE
+ORTHOLOGY   K21968  Mat/Ecp fimbriae periplasmic chaperone
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b0289 (ecpE)
+            Secretion system [BR:eco02044]
+             Chaperone-usher system
+              Mat/Ecp fimbriae assembly protein
+               b0289 (ecpE)
+POSITION    complement(304495..305205)
+MOTIF       Pfam: PapD_N
+DBLINKS     NCBI-GeneID: 946631
+            NCBI-ProteinID: NP_414823
+            Pasteur: yagV
+            RegulonDB: ECK120002780
+            ASAP: ABE-0001000
+            UniProt: P77263
+AASEQ       236
+            MFRRRGVTLTKALLTAVCMLAAPLTQAISVGNLTFSLPSETDFVSKRVVNNNKSARIYRI
+            AISAIDSPGSSELRTRPVDGELLFAPRQLALQAGESEYFKFYYHGPRDNRERYYRVSFRE
+            VPTRNHTRRSPTGGVVSTEPVVVMDTILVVRPRQVQFKWSFDKVTGTVSNTGNTWFKLLI
+            KPGCDSTEEEGDAWYLRPGDVVHQPELRQPGNHYLVYNDKFIKISDSCPAKPPSAD
+NTSEQ       711
+            atgttcaggcgacgtggcgtaacattaactaaggccctgctgacagcggtctgtatgctg
+            gcggcacctttgacacaggcgatttcggtcggcaatctgacattttcgctgccgtccgag
+            actgactttgtcagcaaacgtgtagtgaataacaacaaaagcgcacggatataccgtatt
+            gccatcagtgctattgatagcccgggcagcagtgaattgcgcacccgaccggtggatggt
+            gaactgcttttcgccccccgccagctggcgttgcaggctggtgagagcgagtattttaaa
+            ttttactatcatggtccacgggataaccgcgagcgctactaccgggtctcatttcgcgag
+            gtccccactcgtaaccatacaagacgcagcccaaccggcggcgtggtcagcacggagccg
+            gtggtggtgatggataccattctggtagtacgaccacgtcaggttcagtttaaatggtcc
+            ttcgacaaggtgacaggaacggtaagtaacactggcaacacatggtttaagctactgatt
+            aagccaggatgtgattcgaccgaagaggaaggcgatgcctggtatctacgtccgggagac
+            gtggttcatcagcctgagttacgtcagccggggaatcactatctggtctataacgacaaa
+            ttcattaagattagcgattcctgtccggctaagcccccttcggcggactaa
+///

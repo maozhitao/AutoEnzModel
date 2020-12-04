@@ -1,0 +1,47 @@
+ENTRY       b1918             CDS       T00007
+NAME        tcyL
+DEFINITION  (RefSeq) cystine ABC transporter membrane subunit
+ORTHOLOGY   K10009  L-cystine transport system permease protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b1918 (tcyL)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1918 (tcyL)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Phosphate and amino acid transporters
+               Cystine transporter
+                b1918 (tcyL)
+POSITION    complement(1997811..1998479)
+MOTIF       Pfam: BPD_transp_1
+DBLINKS     NCBI-GeneID: 949105
+            NCBI-ProteinID: NP_416428
+            Pasteur: yecS
+            RegulonDB: ECK120003623
+            ASAP: ABE-0006386
+            UniProt: P0AFT2
+AASEQ       222
+            MQESIQLVIDSLPFLLKGAGYTLQLSIGGMFFGLLLGFILALMRLSPIWPVRWLARFYIS
+            IFRGTPLIAQLFMIYYGLPQFGIELDPIPSAMIGLSLNTAAYAAETLRAAISSIDKGQWE
+            AAASIGMTPWQTMRRAILPQAARVALPPLSNSFISLVKDTSLAATIQVPELFRQAQLITS
+            RTLEVFTMYLAASLIYWIMATVLSTLQNHFENQLNRQEREPK
+NTSEQ       669
+            atgcaagaaagtatacaactggttattgattccttgccgttcctgctgaaaggggctggg
+            tatacgctgcaactcagtatcggcggcatgttttttggcttactgctcgggtttattctc
+            gcgctgatgcgtctgtcgccaatctggcccgtgcgctggctggcgcgtttttatatctct
+            atttttcgtggtacgccgctcatcgcacaactgtttatgatctattacggcctgccgcag
+            tttggtatcgaattagatcccattccgtcagcaatgattggtctgtcgttgaacactgcc
+            gcctatgctgccgaaacgctgcgcgccgccatttcttctattgataaaggtcagtgggaa
+            gcggcagccagtattggtatgacgccgtggcagaccatgcgtcgcgcgattttgccacag
+            gcggcgcgtgtggcgttgccgccgctgtcgaacagctttattagcctggtaaaagatacg
+            tcgctggccgcgacaatccaggtgccggagctgttccgtcaggcgcagttgattacctcg
+            cgtacgctggaggtgttcaccatgtatctggcggcttcgctcatctactggatcatggcg
+            actgtgttatcgacgttgcagaaccattttgagaatcaacttaatcgccaggagagagaa
+            ccaaaatga
+///

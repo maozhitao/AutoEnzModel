@@ -1,0 +1,50 @@
+ENTRY       b0195             CDS       T00007
+NAME        trmO
+DEFINITION  (RefSeq) tRNA m(6)t(6)A37 methyltransferase
+ORTHOLOGY   K22900  tRNA (adenine37-N6)-methyltransferase [EC:2.1.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b0195 (trmO)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.-  
+                 b0195 (trmO)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              tRNA modification factors
+               Methyltransferases
+                b0195 (trmO)
+             Prokaryotic type
+                b0195 (trmO)
+POSITION    complement(218887..219594)
+MOTIF       Pfam: TrmO TrmO_C
+DBLINKS     NCBI-GeneID: 949112
+            NCBI-ProteinID: NP_414737
+            Pasteur: yaeB
+            RegulonDB: ECK120001459
+            ASAP: ABE-0000661
+            UniProt: P28634
+AASEQ       235
+            MSSFQFEQIGVIRSPYKEKFAVPRQPGLVKSANGELHLIAPYNQADAVRGLEAFSHLWIL
+            FVFHQTMEGGWRPTVRPPRLGGNARMGVFATRSTFRPNPIGMSLVELKEVVCHKDSVILK
+            LGSLDLVDGTPVVDIKPYLPFAESLPDASASYAQSAPAAEMAVSFTAEVEKQLLTLEKRY
+            PQLTLFIREVLAQDPRPAYRKGEETGKTYAVWLHDFNVRWRVTDAGFEVFALEPR
+NTSEQ       708
+            atgagcagtttccagttcgagcaaataggcgttattcgctcgccctataaagaaaagttc
+            gccgttccgcgccagccaggtctggtaaaaagcgccaacggcgaactgcatctcattgct
+            ccctacaaccaggccgacgccgttcgcggcctggaagcgttcagccatttatggatcctt
+            ttcgtctttcatcaaacgatggaaggcggctggcgtccgactgtgcgtccaccgcgcctc
+            ggcggtaacgccagaatgggggttttcgcaacacgctctactttccgccctaacccaatt
+            ggcatgtcgctggtagagctgaaagaggttgtttgccataaagacagcgtgattctgaag
+            ctcggcagtctggatctggtcgatggtacgccggtagtggatatcaaaccgtatctcccc
+            tttgccgaatcgcttcccgatgccagtgccagctatgcgcaaagtgcgccagctgcagag
+            atggcggtgagttttaccgcagaggtcgaaaagcagcttttgacgctggagaagcgttat
+            ccgcagttaacgctgtttatccgcgaagtactggcgcaggacccgcgcccggcctatcgt
+            aaaggtgaggaaacgggcaaaacctatgccgtctggctacatgattttaacgttcgctgg
+            cgcgtcaccgacgcaggttttgaagtctttgcgctggaaccgcgttaa
+///

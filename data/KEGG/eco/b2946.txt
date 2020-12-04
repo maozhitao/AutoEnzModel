@@ -1,0 +1,52 @@
+ENTRY       b2946             CDS       T00007
+NAME        rsmE
+DEFINITION  (RefSeq) 16S rRNA m(3)U1498 methyltransferase
+ORTHOLOGY   K09761  16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b2946 (rsmE)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.193  16S rRNA (uracil1498-N3)-methyltransferase
+                 b2946 (rsmE)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               16S rRNA modification factors
+                b2946 (rsmE)
+POSITION    3091134..3091865
+MOTIF       Pfam: Methyltrans_RNA zf-RING_7
+DBLINKS     NCBI-GeneID: 945816
+            NCBI-ProteinID: NP_417421
+            Pasteur: yggJ
+            RegulonDB: ECK120002234
+            ECOCYC: EG12366
+            ASAP: ABE-0009665
+            UniProt: P0AGL7
+STRUCTURE   PDB: 4E8B
+AASEQ       243
+            MRIPRIYHPEPLTSHSHIALCEDAANHIGRVLRMGPGQALQLFDGSNQVFDAEITSASKK
+            SVEVKVLEGQIDDRESPLHIHLGQVMSRGEKMEFTIQKSIELGVSLITPLFSERCGVKLD
+            SERLNKKLQQWQKIAIAACEQCGRNRVPEIRPAMDLEAWCAEQDEGLKLNLHPRASNSIN
+            TLPLPVERVRLLIGPEGGLSADEIAMTARYQFTDILLGPRVLRTETTALTAITALQVRFG
+            DLG
+NTSEQ       732
+            atgcgtatcccccgcatttatcatcctgaaccactgaccagccattctcacatcgcgctt
+            tgcgaagatgccgccaaccatatcgggcgcgtactgcgcatggggccggggcaggcgttg
+            caattgtttgacggtagcaaccaggtctttgacgccgaaattaccagcgccagcaaaaaa
+            agcgtggaagtgaaggtgctggaaggccagatcgacgatcgcgaatctccgctgcatatt
+            cacctcggtcaggtgatgtcgcgtggtgaaaaaatggaatttactatccagaaatcgatc
+            gaactcggtgtaagcctcattacgccacttttttctgagcgctgcggcgttaaactggat
+            agtgaacgtctgaacaagaagcttcagcagtggcagaagattgcaattgctgcctgtgag
+            cagtgtggtcgtaaccgggtgccggaaatccgtccagcgatggatctggaagcctggtgt
+            gcagagcaggatgaaggactgaaactgaatcttcacccgcgcgccagtaacagcatcaat
+            acgttgccgttaccggttgaacgcgtccgcctgctgattggcccggaaggcggtttatcg
+            gcagatgaaattgccatgactgcccgctatcaatttactgatatcctgttgggacctcgc
+            gttttgcgtacagagacaactgcgctcaccgccattaccgcgctacaagtacgatttggc
+            gatttgggctaa
+///

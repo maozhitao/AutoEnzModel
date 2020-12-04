@@ -1,0 +1,58 @@
+ENTRY       b3691             CDS       T00007
+NAME        dgoT
+DEFINITION  (RefSeq) putative D-galactonate transporter
+ORTHOLOGY   K08194  MFS transporter, ACS family, D-galactonate transporter
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3691 (dgoT)
+            Transporters [BR:eco02000]
+             Major facilitator superfamily (MFS)
+              Organic acid transporters
+               Anion:cation symporter (ACS) family [TC:2.A.1.14]
+                b3691 (dgoT)
+POSITION    complement(3870438..3871730)
+MOTIF       Pfam: MFS_1 Sugar_tr MASE3
+DBLINKS     NCBI-GeneID: 948196
+            NCBI-ProteinID: NP_418146
+            Pasteur: dgoT
+            RegulonDB: ECK120002440
+            ECOCYC: EG20053
+            ASAP: ABE-0012072
+            UniProt: P0AA76
+STRUCTURE   PDB: 6E9N 6E9O
+AASEQ       430
+            MDIPVNAAKPGRRRYLTLVMIFITVVICYVDRANLAVASAHIQEEFGITKAEMGYVFSAF
+            AWLYTLCQIPGGWFLDRVGSRVTYFIAIFGWSVATLFQGFATGLMSLIGLRAITGIFEAP
+            AFPTNNRMVTSWFPEHERASAVGFYTSGQFVGLAFLTPLLIWIQEMLSWHWVFIVTGGIG
+            IIWSLIWFKVYQPPRLTKGISKAELDYIRDGGGLVDGDAPVKKEARQPLTAKDWKLVFHR
+            KLIGVYLGQFAVASTLWFFLTWFPNYLTQEKGITALKAGFMTTVPFLAAFVGVLLSGWVA
+            DLLVRKGFSLGFARKTPIICGLLISTCIMGANYTNDPMMIMCLMALAFFGNGFASITWSL
+            VSSLAPMRLIGLTGGVFNFAGGLGGITVPLVVGYLAQGYGFAPALVYISAVALIGALSYI
+            LLVGDVKRVG
+NTSEQ       1293
+            atggatattcccgttaatgcagcaaagccggggcgtcggcgttatctgacgctggtgatg
+            atctttattacggtagtcatttgttatgtcgaccgcgccaacctggccgtggcttccgcc
+            catattcaggaagagttcggcattaccaaagcggaaatgggctatgtattttcggccttc
+            gcctggctttatacgctatgtcagatccccggcggttggtttttagatcgcgtaggttct
+            cgcgtgacttattttattgcgatatttggctggtcagtggcgactttattccagggcttt
+            gccacgggcttaatgtcattaattggtctgcgcgcgataaccggtattttcgaagcgcct
+            gctttcccgaccaataaccggatggtgaccagctggttcccggaacatgaacgcgcttct
+            gccgttggtttttatacgtctggtcagtttgtcggtctggcgtttctgacgccgctgctg
+            atctggattcaggagatgttgagctggcactgggtgttcattgtcactggtggtatcggc
+            attatctggtcgctgatttggtttaaggtttatcagccgccgcgcctgaccaaaggtatc
+            agcaaagctgaactggattacattcgtgatggcggcggtctggtggatggtgatgcgccg
+            gtgaagaaagaggcgcgtcagccgttaacagccaaagactggaaactggtgttccatcgt
+            aaactgatcggcgtttatcttgggcaatttgcggtggcttctacactgtggtttttctta
+            acctggttcccgaactatttaacccaggaaaaaggaatcacggcgctgaaagcaggcttt
+            atgaccacggtgccattcctcgcggcgtttgtcggcgtcctgctctctggctgggtagcg
+            gatctgctggtacgtaagggcttttcactgggctttgcgcgtaaaacgccgattatctgc
+            ggcttgctgatctccacctgcattatgggcgctaactacactaacgatccgatgatgatt
+            atgtgcctgatggcgctggcattcttcggtaacggttttgcttcgattacctggtcgctg
+            gtttcttctctggcaccgatgcgcctgattggtttaaccggcggcgtgtttaacttcgcc
+            ggtggtctgggcggcatcaccgttccgctggtggtggggtacctggcgcagggttacggt
+            ttcgcacctgcactggtttatatctccgccgtcgcgttgattggcgcgctctcttatatc
+            ctgctggtgggcgatgtgaagcgcgttggctaa
+///

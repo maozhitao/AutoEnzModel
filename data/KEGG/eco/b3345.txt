@@ -1,0 +1,49 @@
+ENTRY       b3345             CDS       T00007
+NAME        tusD
+DEFINITION  (RefSeq) sulfurtransferase complex subunit TusD
+ORTHOLOGY   K07235  tRNA 2-thiouridine synthesizing protein D [EC:2.8.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco04122  Sulfur relay system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04122 Sulfur relay system
+                b3345 (tusD)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3345 (tusD)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.8  Transferring sulfur-containing groups
+               2.8.1  Sulfurtransferases
+                2.8.1.-  
+                 b3345 (tusD)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Thiolation factors
+                b3345 (tusD)
+POSITION    complement(3475332..3475718)
+MOTIF       Pfam: DrsE
+DBLINKS     NCBI-GeneID: 947852
+            NCBI-ProteinID: NP_417804
+            Pasteur: yheN
+            RegulonDB: ECK120004259
+            ECOCYC: G7714
+            ASAP: ABE-0010933
+            UniProt: P45532
+STRUCTURE   PDB: 2D1P
+AASEQ       128
+            MRFAIVVTGPAYGTQQASSAFQFAQALIADGHELSSVFFYREGVYNANQLTSPASDEFDL
+            VRAWQQLNAQHGVALNICVAAALRRGVVDETEAGRLGLASSNLQQGFTLSGLGALAEASL
+            TCDRVVQF
+NTSEQ       387
+            atgcgttttgccatcgtggtgaccgggccagcatacggtacgcaacaggcgagtagtgct
+            tttcagtttgcgcaggcgctgatagcagatggccatgagttaagcagcgtctttttctat
+            cgggaaggggtctataacgctaaccaattgacctctccggcaagtgacgaatttgacctc
+            gtacgggcctggcaacaactgaatgcgcaacatggtgtggcgctgaatatctgcgtagcg
+            gcagcattacgccgtggcgttgttgatgaaacggaggccggaagactggggctggcttcg
+            tcaaaccttcagcagggatttaccttaagcggacttggggcgctggcggaagcctcgctg
+            acctgtgacagggtggtacagttctga
+///

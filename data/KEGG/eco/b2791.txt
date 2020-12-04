@@ -1,0 +1,52 @@
+ENTRY       b2791             CDS       T00007
+NAME        truC
+DEFINITION  (RefSeq) tRNA pseudouridine(65) synthase
+ORTHOLOGY   K06175  tRNA pseudouridine65 synthase [EC:5.4.99.26]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b2791 (truC)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.99  Transferring other groups
+                5.4.99.26  tRNA pseudouridine65 synthase
+                 b2791 (truC)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Psudouridine synthases
+                b2791 (truC)
+POSITION    complement(2923002..2923784)
+MOTIF       Pfam: PseudoU_synth_2
+DBLINKS     NCBI-GeneID: 947242
+            NCBI-ProteinID: NP_417271
+            Pasteur: yqcB
+            RegulonDB: ECK120004012
+            ECOCYC: G7449
+            ASAP: ABE-0009147
+            UniProt: P0AA41
+AASEQ       260
+            MLEILYQDEWLVAVNKPSGWLVHRSWLDRDEKVVVMQTVRDQIGQHVFTAHRLDRPTSGV
+            LLMGLSSEAGRLLAQQFEQHQIQKRYHAIVRGWLMEEAVLDYPLVEELDKIADKFAREDK
+            GPQPAVTHYRGLATVEMPVATGRYPTTRYGLVELEPKTGRKHQLRRHLAHLRHPIIGDSK
+            HGDLRQNRSGAEHFGLQRLMLHASQLSLTHPFTGEPLTIHAGLDDTWMQALSQFGWRGLL
+            PENERVEFSAPSGQDGEISS
+NTSEQ       783
+            atgctggaaatactctatcaggatgaatggctggttgcggtaaataaaccctccggctgg
+            ctggttcaccgcagctggctggatcgcgacgagaaagtagtggtcatgcaaaccgtgcgt
+            gaccagataggccagcatgtttttactgctcatcgtctggaccgacccacttctggtgtg
+            ttgttgatgggattatccagcgaggccggacggctgctggcacaacagtttgaacagcac
+            caaatccagaaacgttaccatgcgattgtgcgcggctggttgatggaagaagcggtgctg
+            gattatccactggtggaagaactggacaaaatcgctgataaatttgcccgcgaagataaa
+            ggcccgcagccagcagtgacgcattatcgcggtctggcgaccgtagaaatgccggtagcg
+            accggacgttacccgaccacgcgctacggcctggtggaactggagccgaaaaccggacgc
+            aaacatcagcttcgccgacatcttgcccatttgcgtcatccgattattggcgatagcaaa
+            catggcgatttacgccagaatcgcagcggtgctgagcattttggcctccagcggttaatg
+            ctacatgccagtcagttgtcattgacgcatccttttactggcgagccgctgactattcac
+            gcgggcctggacgacacctggatgcaggcgttatcacaatttggctggcgcggtctgctt
+            cctgaaaatgaaagggttgagttcagtgcgccatcgggtcaggatggagagataagttcc
+            taa
+///

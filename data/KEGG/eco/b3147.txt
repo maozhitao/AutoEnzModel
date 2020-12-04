@@ -1,0 +1,69 @@
+ENTRY       b3147             CDS       T00007
+NAME        lpoA
+DEFINITION  (RefSeq) outer membrane lipoprotein - activator of MrcA activity
+ORTHOLOGY   K07121  uncharacterized protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09194 Poorly characterized
+               99997 Function unknown
+                b3147 (lpoA)
+POSITION    3293400..3295436
+MOTIF       Pfam: LppC TPR_19 DUF5717_N
+DBLINKS     NCBI-GeneID: 947663
+            NCBI-ProteinID: NP_417616
+            Pasteur: yraM
+            RegulonDB: ECK120004192
+            ECOCYC: G7642
+            ASAP: ABE-0010343
+            UniProt: P45464
+STRUCTURE   PDB: 6DR3 2MHK
+AASEQ       678
+            MVPSTFSRLKAARCLPVVLAALIFAGCGTHTPDQSTAYMQGTAQADSAFYLQQMQQSSDD
+            TRINWQLLAIRALVKEGKTGQAVELFNQLPQELNDAQRREKTLLAVEIKLAQKDFAGAQN
+            LLAKITPADLEQNQQARYWQAKIDASQGRPSIDLLRALIAQEPLLGAKEKQQNIDATWQA
+            LSSMTQEQANTLVINADENILQGWLDLQRVWFDNRNDPDMMKAGIADWQKRYPNNPGAKM
+            LPTQLVNVKAFKPASTNKIALLLPLNGQAAVFGRTIQQGFEAAKNIGTQPVAAQVAAAPA
+            ADVAEQPQPQTVDGVASPAQASVSDLTGEQPAAQPVPVSAPATSTAAVSAPANPSAELKI
+            YDTSSQPLSQILSQVQQDGASIVVGPLLKNNVEELLKSNTPLNVLALNQPENIENRVNIC
+            YFALSPEDEARDAARHIRDQGKQAPLVLIPRSSLGDRVANAFAQEWQKLGGGTVLQQKFG
+            STSELRAGVNGGSGIALTGSPITLRATTDSGMTTNNPTLQTTPTDDQFTNNGGRVDAVYI
+            VATPGEIAFIKPMIAMRNGSQSGATLYASSRSAQGTAGPDFRLEMEGLQYSEIPMLAGGN
+            LPLMQQALSAVNNDYSLARMYAMGVDAWSLANHFSQMRQVQGFEINGNTGSLTANPDCVI
+            NRNLSWLQYQQGQVVPVS
+NTSEQ       2037
+            atggtaccctcaacattttctcgtttgaaagccgcgcgttgtctgcctgttgttctggca
+            gccctgattttcgccggttgtggcacccatactcccgatcagtccactgcttatatgcag
+            ggcacggcgcaggctgattctgccttttatcttcagcagatgcagcaaagctctgatgat
+            accaggatcaactggcaattactcgccattcgtgcactggtgaaagaaggtaaaaccggg
+            caggcggttgagttgtttaaccaactaccgcaagaactgaacgatgctcagcgtcgcgag
+            aaaacactgctggcggtagagattaaactggcgcagaaagattttgctggcgcgcaaaac
+            ttgctggcgaaaatcacacctgccgatttagaacaaaaccagcaagcgcgttactggcag
+            gcaaaaatcgatgccagccaggggcgtccttccattgatttactgcgcgcgttaattgct
+            caggaaccgctgcttggcgcgaaagaaaaacagcagaatattgatgccacctggcaggcg
+            ctctcctccatgactcaggaacaggcgaatacgctggtgatcaacgccgacgaaaatatt
+            ctgcaaggctggctggatctgcagcgcgtctggtttgataaccgtaacgatcccgacatg
+            atgaaagccgggatcgccgactggcagaaacgttatccgaacaatccgggcgcgaaaatg
+            ctgccaacgcagttggttaacgtaaaagcgtttaaaccagcctcgaccaacaaaatcgcc
+            ctgctgttgccactgaatggccaggcagcggtatttggtcgcactattcagcaaggcttt
+            gaagcggcgaaaaatatcggcactcagccagtggcagctcaggtagctgccgcacctgcc
+            gcagacgtagctgaacaacctcagccgcaaaccgtggatggcgttgccagcccggcacaa
+            gcctcggttagcgatctgaccggtgaacagcctgcagcccagccggtgcctgtaagcgcc
+            ccggcgacaagcaccgcagcggtaagcgcacccgcaaatccatccgcagagctgaaaatc
+            tacgatacctcatcacaaccacttagccagatcttaagccaggttcagcaggatggcgcg
+            agtattgtggtcggtccgttgctgaaaaataacgttgaagagttgctgaagagcaacact
+            ccgctgaacgtactggcactgaaccagccggagaatatcgaaaatcgcgtcaatatttgt
+            tacttcgcgctttcaccggaagacgaagcgcgcgatgcagcgcgtcatattcgtgaccag
+            ggtaaacaagcgccgctggtgctgatcccacgcagttcattgggcgatcgcgtagccaat
+            gcgtttgcgcaagagtggcagaaactgggcggcggcaccgttctgcaacaaaaatttggt
+            tccaccagcgaattacgcgcgggtgttaacggcggttctggtattgctttaacgggtagc
+            ccgattactctcagagcgacaaccgactccggcatgacgaccaacaatccaacgctgcaa
+            accacgccaaccgatgaccagttcaccaataatggcggtcgtgtcgatgcggtgtacatt
+            gtggcaacgccgggtgaaatcgcttttatcaaaccgatgatcgccatgcgtaacggtagc
+            cagagcggtgcaacgctgtacgccagctcccgcagtgcgcaagggaccgctggcccggat
+            ttccgactggagatggaaggcttgcagtacagcgaaatcccgatgctggcaggcggtaat
+            ctaccgttaatgcagcaggcactcagcgcggtgaataacgattattcactggctcgcatg
+            tatgcgatgggcgtcgatgcctggtcgctggcaaatcatttctcacaaatgcgccaggtt
+            cagggttttgaaatcaacggtaataccggaagcctgacggctaacccggattgcgtgatt
+            aacaggaacttatcatggctacagtaccaacaaggtcaggtagtccccgtcagttaa
+///

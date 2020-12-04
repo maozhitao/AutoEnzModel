@@ -1,0 +1,73 @@
+ENTRY       b2155             CDS       T00007
+NAME        cirA
+DEFINITION  (RefSeq) ferric dihyroxybenzoylserine outer membrane transporter
+ORTHOLOGY   K16089  outer membrane receptor for ferrienterochelin and colicins
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2155 (cirA)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b2155 (cirA)
+POSITION    complement(2244778..2246769)
+MOTIF       Pfam: TonB_dep_Rec Plug
+DBLINKS     NCBI-GeneID: 949042
+            NCBI-ProteinID: NP_416660
+            Pasteur: cirA
+            RegulonDB: ECK120000151
+            ECOCYC: EG10155
+            ASAP: ABE-0007126
+            UniProt: P17315
+STRUCTURE   PDB: 2HDI 2HDF
+AASEQ       663
+            MFRLNPFVRVGLCLSAISCAWPVLAVDDDGETMVVTASSVEQNLKDAPASISVITQEDLQ
+            RKPVQNLKDVLKEVPGVQLTNEGDNRKGVSIRGLDSSYTLILVDGKRVNSRNAVFRHNDF
+            DLNWIPVDSIERIEVVRGPMSSLYGSDALGGVVNIITKKIGQKWSGTVTVDTTIQEHRDR
+            GDTYNGQFFTSGPLIDGVLGMKAYGSLAKREKDDPQNSTTTDTGETPRIEGFSSRDGNVE
+            FAWTPNQNHDFTAGYGFDRQDRDSDSLDKNRLERQNYSVSHNGRWDYGTSELKYYGEKVE
+            NKNPGNSSPITSESNTVDGKYTLPLTAINQFLTVGGEWRHDKLSDAVNLTGGTSSKTSAS
+            QYALFVEDEWRIFEPLALTTGVRMDDHETYGEHWSPRAYLVYNATDTVTVKGGWATAFKA
+            PSLLQLSPDWTSNSCRGACKIVGSPDLKPETSESWELGLYYMGEEGWLEGVESSVTVFRN
+            DVKDRISISRTSDVNAAPGYQNFVGFETGANGRRIPVFSYYNVNKARIQGVETELKIPFN
+            DEWKLSINYTYNDGRDVSNGENKPLSDLPFHTANGTLDWKPLALEDWSFYVSGHYTGQKR
+            ADSATAKTPGGYTIWNTGAAWQVTKDVKLRAGVLNLGDKDLSRDDYSYNEDGRRYFMAVD
+            YRF
+NTSEQ       1992
+            atgtttaggttgaaccctttcgtacgggtcgggctgtgtttgtccgctatttcttgtgca
+            tggcctgtgttagcggtcgatgatgatggcgaaacgatggttgtcactgcatcttccgtg
+            gaacaaaatcttaaagatgcacctgccagtatcagcgtcattacccaggaagacctgcag
+            cgaaaaccggtacagaatctgaaggatgtcctcaaagaagtgcctggcgtacaactgacg
+            aacgaaggggataaccgtaagggcgttagtattcgtggtctggacagcagctataccctg
+            attctcgtcgacggtaaacgcgtgaactcccgcaatgccgtcttccgccacaatgatttc
+            gatctgaactggatcccggtcgattccatcgaacgtattgaagtggtccgtggcccgatg
+            tcgtcgctgtacggttccgatgcgctcggcggtgtagtgaatatcatcaccaaaaaaatc
+            ggtcagaaatggtcgggtaccgttaccgtcgataccaccattcaggaacatcgcgatcgc
+            ggtgacacctataacggtcagttctttaccagtggaccattaattgatggtgtgctggga
+            atgaaagcttacggcagcctggcaaaacgtgaaaaggatgacccgcaaaactcaacgacc
+            accgataccggagaaacgccgcgtattgaaggattctccagccgcgacggcaatgtcgaa
+            tttgcctggacaccgaatcaaaatcacgattttactgccggatacggtttcgaccgtcag
+            gatcgtgattccgactcgctggacaaaaaccgcctggaacgccagaactactccgtcagc
+            cataatgggcgttgggattacggcaccagcgaactgaaatactacggtgagaaagtcgag
+            aacaaaaaccctggcaacagcagcccgataacttccgaaagcaatacggtcgacggcaaa
+            tacacgttgccgctgacggcgattaatcagtttctcacggttggcggtgaatggcgtcac
+            gacaaacttagcgatgcggtgaacctgaccgggggaaccagctccaaaacgtctgccagc
+            cagtacgcgctgtttgtggaagatgaatggcggatcttcgagccgctggcgctgacgacc
+            ggcgtgcgtatggacgatcacgaaacctacggtgaacactggagtccgcgtgcctacctg
+            gtttataacgccaccgacaccgtaacggtgaaagggggctgggcgacggcatttaaagca
+            ccttctctgttgcaacttagccctgactggacgagcaattcctgccgtggcgcatgtaag
+            attgtgggtagcccggatctgaaaccagaaaccagcgaaagttgggagctggggctttac
+            tacatgggtgaagaaggctggctggaaggggttgaatccagcgttaccgttttccgtaac
+            gatgtgaaagatcgtatcagcatcagccgtacgtctgacgtcaacgctgcaccgggctac
+            caaaactttgttggttttgagacgggcgctaacggacggcgcataccggtatttagctac
+            tacaacgttaacaaagctcgtattcagggcgtggaaaccgaactgaaaattccgttcaac
+            gatgaatggaaactgtcgatcaactacacctacaacgatggtcgtgatgtcagcaacggc
+            gaaaacaaaccgctatccgatctgccgttccatactgctaacggtacgctggactggaaa
+            ccgctggcgctggaagactggtcattctatgtttctgggcactataccgggcagaaacgc
+            gccgacagcgcgacggctaaaacaccgggcggttataccatctggaataccggcgcggcc
+            tggcaggtgactaaagacgtcaaactgcgcgcaggcgtgctgaaccttggcgacaaggat
+            ctcagtcgtgacgactacagctataacgaagacggacgtcgttactttatggcagtggat
+            tatcgcttctga
+///

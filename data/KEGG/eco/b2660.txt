@@ -1,0 +1,61 @@
+ENTRY       b2660             CDS       T00007
+NAME        lhgO
+DEFINITION  (RefSeq) L-2-hydroxyglutarate oxidase
+ORTHOLOGY   K15736  (S)-2-hydroxyglutarate dehydrogenase [EC:1.1.5.13]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00310  Lysine degradation
+            eco01100  Metabolic pathways
+            eco01120  Microbial metabolism in diverse environments
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09105 Amino acid metabolism
+               00310 Lysine degradation
+                b2660 (lhgO)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.5  With a quinone or similar compound as acceptor
+                1.1.5.13  (S)-2-hydroxyglutarate dehydrogenase
+                 b2660 (lhgO)
+POSITION    2789982..2791250
+MOTIF       Pfam: DAO Mqo Pyr_redox_2 Amino_oxidase NAD_binding_8 FAD_binding_2 Thi4 Trp_halogenase
+DBLINKS     NCBI-GeneID: 948069
+            NCBI-ProteinID: NP_417146
+            Pasteur: ygaF
+            RegulonDB: ECK120002252
+            ECOCYC: EG12387
+            ASAP: ABE-0008756
+            UniProt: P37339
+AASEQ       422
+            MYDFVIIGGGIIGMSTAMQLIDVYPDARIALLEKESAPACHQTGHNSGVIHAGVYYTPGS
+            LKAQFCLAGNRATKAFCDQNGIRYDNCGKMLVATSDLEMERMRALWERTAANGIEREWLN
+            ADELREREPNITGLGGIFVPSSGIVSYRDVTAAMAKIFQSRGGEIIYNAEVSGLNEHKNG
+            VVIRTRQGGEYEASTLISCSGLMADRLVKMLGLEPGFIICPFRGEYFRLAPEHNQIVNHL
+            IYPIPDPAMPFLGVHLTRMIDGSVTVGPNAVLAFKREGYRKRDFSFSDTLEILGSSGIRR
+            VLQNHLRSGLGEMKNSLCKSGYLRLVQKYCPRLSLSDLQPWPAGVRAQAVSPDGKLIDDF
+            LFVTTPRTIHTCNAPSPAATSAIPIGAHIVSKVQTLLASQSNPGRTLRAARSVDALHAAF
+            NQ
+NTSEQ       1269
+            atgtatgattttgtgattattggcggcggcatcatcggcatgtcgaccgccatgcaactg
+            attgatgtctatccggacgcccgcattgcgttgctggaaaaagagtccgccccggcctgt
+            caccagacgggccacaacagcggcgtgatccatgccggggtctattacacgcccggcagc
+            ctgaaggcgcagttttgcctggcgggaaaccgcgccaccaaagccttttgcgatcaaaac
+            ggcattcgctacgacaactgcggcaagatgctggttgccacgtccgatctcgaaatggaa
+            cggatgcgcgccttatgggaacgcacagcggcgaacggtatcgagcgcgaatggcttaac
+            gccgacgaactgcgcgagcgcgaaccgaatatcaccgggctcggcggcatttttgtgccg
+            tccagcggcattgtcagctaccgcgacgtgacggcggcgatggcaaaaatcttccagtcc
+            agaggcggtgaaattatctataacgccgaagtcagcgggcttaatgagcataaaaacggc
+            gtggtgatacgtacccgtcagggcggcgaatatgaagcatcaacgctgattagctgttcc
+            gggctgatggctgaccggctggtgaaaatgctcggactcgaaccgggctttatcatctgc
+            ccgttccgtggcgagtatttccgccttgcgccggagcataaccagattgttaaccacctg
+            atttaccccattcccgacccggcaatgccgtttttgggcgttcatctcacccgcatgatc
+            gacggcagcgtgaccgtcgggccaaacgcggtgctggctttcaaacgcgaaggctatcgc
+            aagcgcgacttctcatttagcgacacgctggagattttgggctcgtcggggattcgccgg
+            gtgctgcaaaaccatctacgctcaggactgggcgagatgaaaaactcgctgtgcaaaagc
+            ggctatctgcggctggtgcaaaagtattgtccccggctttcgttaagcgatctccagccc
+            tggcccgccggtgtgcgggcgcaggcggtatcgccggacggcaagctgattgacgatttt
+            ctgtttgtcaccaccccgcgcacgatccacacctgcaatgcgccctccccggcagcgaca
+            tcagcaattcctattggtgcgcatattgtcagcaaggtacaaacgctgttggcaagccag
+            agtaaccccggacgcacgctgcgagcggcacgtagtgtggatgccttacacgccgcattt
+            aatcaataa
+///

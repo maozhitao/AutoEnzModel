@@ -1,0 +1,83 @@
+ENTRY       b3486             CDS       T00007
+NAME        rbbA
+DEFINITION  (RefSeq) ribosome-associated ATPase
+ORTHOLOGY   K13926  ribosome-dependent ATPase
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09192 Unclassified: genetic information processing
+               99974 Translation
+                b3486 (rbbA)
+POSITION    complement(3626803..3629538)
+MOTIF       Pfam: ABC_tran ABC2_membrane_3 ABC2_membrane AAA_21 ABC2_membrane_2 RsgA_GTPase AAA_23 MMR_HSR1 ABC2_membrane_4 YcaO
+DBLINKS     NCBI-GeneID: 947998
+            NCBI-ProteinID: YP_026225
+            RegulonDB: ECK120002108
+            ECOCYC: EG12223
+            ASAP: ABE-0011381
+            UniProt: P37624
+AASEQ       911
+            MTHLELVPVPPVAQLAGVSQHYGKTVALNNITLDIPARCMVGLIGPDGVGKSSLLSLISG
+            ARVIEQGNVMVLGGDMRDPKHRRDVCPRIAWMPQGLGKNLYHTLSVYENVDFFARLFGHD
+            KAEREVRINELLTSTGLAPFRDRPAGKLSGGMKQKLGLCCALIHDPELLILDEPTTGVDP
+            LSRSQFWDLIDSIRQRQSNMSVLVATAYMEEAERFDWLVAMNAGEVLATGSAEELRQQTQ
+            SATLEEAFINLLPQAQRQAHQAVVIPPYQPENAEIAIEARDLTMRFGSFVAVDHVNFRIP
+            RGEIFGFLGSNGCGKSTTMKMLTGLLPASEGEAWLFGQPVDPKDIDTRRRVGYMSQAFSL
+            YNELTVRQNLELHARLFHIPEAEIPARVAEMSERFKLNDVEDILPESLPLGIRQRLSLAV
+            AVIHRPEMLILDEPTSGVDPVARDMFWQLMVDLSRQDKVTIFISTHFMNEAERCDRISLM
+            HAGKVLASGTPQELVEKRGAASLEEAFIAYLQEAAGQSNEAEAPPVVHDTTHAPRQGFSL
+            RRLFSYSRREALELRRDPVRSTLALMGTVILMLIMGYGISMDVENLRFAVLDRDQTVSSQ
+            AWTLNLSGSRYFIEQPPLTSYDELDRRMRAGDITVAIEIPPNFGRDIARGTPVELGVWID
+            GAMPSRAETVKGYVQAMHQSWLQDVASRQSTPASQSGLMNIETRYRYNPDVKSLPAIVPA
+            VIPLLLMMIPSMLSALSVVREKELGSIINLYVTPTTRSEFLLGKQLPYIALGMLNFFLLC
+            GLSVFVFGVPHKGSFLTLTLAALLYIIIATGMGLLISTFMKSQIAAIFGTAIITLIPATQ
+            FSGMIDPVASLEGPGRWIGEVYPTSHFLTIARGTFSKALDLTDLWQLFIPLLIAIPLVMG
+            LSILLLKKQEG
+NTSEQ       2736
+            atgacgcatctggaactggttcccgtcccgcctgtcgcgcaactggcgggcgtgagccag
+            cattatggaaaaaccgttgcgctgaacaatatcactctcgatattccggcccgctgtatg
+            gtcgggctgattggcccggacggcgtcgggaagtcgagcttgttgtcgttgatttccggt
+            gcccgcgtcattgaacagggcaatgtgatggtgctgggcggcgatatgcgcgacccgaag
+            catcgccgcgacgtctgcccgcgcatcgcctggatgccgcaggggctgggcaaaaacctc
+            taccacaccttgtcggtgtatgaaaacgtcgattttttcgctcgcctgttcggtcacgac
+            aaagcggagcgggaagtgcgaatcaatgagctgctgaccagcaccgggttagcaccgttt
+            cgcgatcgtccggcagggaaactctccggcgggatgaagcaaaaacttgggctgtgctgc
+            gcgttaatccacgacccggaactgttgatccttgatgagccaacaacgggggttgacccg
+            ctctcccgctcccagttctgggatctgatcgacagtattcgccagcggcagagcaatatg
+            agcgtgctggtcgccaccgcctatatggaagaggccgaacgcttcgactggctggtagcg
+            atgaatgccggagaagtgctggcaactggcagcgccgaagagctacggcagcaaacgcaa
+            agcgctacgctggaagaagcatttataaatctgttaccgcaagcgcaacgccaggcgcat
+            caggcggtagtgatcccaccgtatcaacctgaaaacgcagagattgccatcgaagcgcgc
+            gatctgaccatgcgttttggttccttcgttgccgttgatcacgttaatttccgcattcca
+            cgcggggagatttttggttttcttggttcgaacggctgcggtaaatccaccaccatgaaa
+            atgctcaccggactgctgcccgccagcgaaggtgaggcgtggctgttcgggcaaccggtt
+            gatccaaaagatatcgatacccgccgtcgggtgggctatatgtcgcaggcgttttcgctc
+            tataacgaactcaccgtgcggcaaaaccttgagttacatgcccgtttgtttcacatcccg
+            gaagcggaaattcccgcaagagtggctgaaatgagcgagcgttttaagctcaacgacgtt
+            gaagatattctgccggagtcattgccgctcggcattcgccagcggctttcgctggcggtg
+            gcggtgattcatcgcccggagatgttaatcctcgatgagcctacttctggtgtcgatccg
+            gtggcgagggatatgttctggcagttgatggtcgatctctcgcgccaggacaaagtgact
+            atcttcatctccacccactttatgaacgaagcggaacgttgcgaccgcatctcactgatg
+            cacgccggaaaagtgcttgccagcggtacaccgcaggaactggttgagaaacgcggagcc
+            gccagtctggaagaggcatttatcgcctatttgcaggaagcggcagggcagagcaacgaa
+            gccgaagcgccgcccgtggtacacgacaccacccacgcgccgcgtcagggatttagcctg
+            cgccgtctgtttagctacagccgccgcgaagcgctggaactgcgacgcgatccagtacgt
+            tcgacgctggcgctgatgggaacggtgatcctgatgctgataatgggttacggcatcagt
+            atggatgtggaaaacctgcgctttgcggtgctcgaccgcgaccagaccgtcagtagccag
+            gcgtggacactcaacctctccggttcccgttactttatcgaacagccgccgctcaccagt
+            tatgacgagcttgatcgtcggatgcgtgcgggcgatatcacggtggcgattgagatcccg
+            cccaatttcgggcgcgatatcgcgcgtggtacgcctgtggaactcggcgtctggatcgac
+            ggagcgatgccgagccgtgctgaaacggtaaaaggttacgtgcaggccatgcaccagagc
+            tggttacaggatgtggcgagccgacaatcgacacccgccagccaaagcgggctgatgaat
+            attgagacgcgctatcgctataacccggacgtaaaaagcctgccagcgattgttccggcg
+            gtgatcccgcttctgctgatgatgatcccgtcaatgctaagcgcccttagcgtggtgcgg
+            gaaaaagagcttgggtcgattatcaacctttacgtgacccccaccacgcgtagtgaattt
+            ttgcttggtaaacagttgccatacatcgcgctggggatgctgaactttttcctgctctgc
+            ggcctgtcggtgtttgtgtttggcgtaccgcataaaggcagtttcctgacgctcaccctg
+            gcggcgctgctgtatatcatcattgccaccggaatggggctgctgatctccacctttatg
+            aaaagccagattgccgccattttcggaacggcgattatcacgttgatcccggcgacacag
+            ttttccgggatgatcgatccggtagcttcgctggaagggcctggacgttggatcggcgag
+            gtttacccgaccagtcattttctgactatcgcccgcgggacgttctcgaaagcgctggat
+            ctgactgatttgtggcaactttttatcccgttactgatagccatcccgctggtgatgggc
+            ttaagtatcctgctgctgaaaaaacaggagggatga
+///

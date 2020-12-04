@@ -1,0 +1,78 @@
+ENTRY       b0640             CDS       T00007
+NAME        holA
+DEFINITION  (RefSeq) DNA polymerase III subunit delta
+ORTHOLOGY   K02340  DNA polymerase III subunit delta [EC:2.7.7.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+            eco03430  Mismatch repair
+            eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b0640 (holA)
+               03430 Mismatch repair
+                b0640 (holA)
+               03440 Homologous recombination
+                b0640 (holA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b0640 (holA)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b0640 (holA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 b0640 (holA)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Elongation Factors
+               Elongation factors (bacterial)
+                DNA polymerase III holoenzyme
+                 b0640 (holA)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                DNA polymerase III holoenzyme
+                 b0640 (holA)
+POSITION    complement(670574..671605)
+MOTIF       Pfam: DNA_pol3_delt_C DNA_pol3_delta HTH_18
+DBLINKS     NCBI-GeneID: 947573
+            NCBI-ProteinID: NP_415173
+            Pasteur: holA
+            RegulonDB: ECK120001378
+            ECOCYC: EG11412
+            ASAP: ABE-0002192
+            UniProt: P28630
+STRUCTURE   PDB: 1JQL 1JR3 1JQJ 3GLG 3GLF 1XXH 3GLI 3GLH 1XXI
+AASEQ       343
+            MIRLYPEQLRAQLNEGLRAAYLLLGNDPLLLQESQDAVRQVAAAQGFEEHHTFSIDPNTD
+            WNAIFSLCQAMSLFASRQTLLLLLPENGPNAAINEQLLTLTGLLHDDLLLIVRGNKLSKA
+            QENAAWFTALANRSVQVTCQTPEQAQLPRWVAARAKQLNLELDDAANQVLCYCYEGNLLA
+            LAQALERLSLLWPDGKLTLPRVEQAVNDAAHFTPFHWVDALLMGKSKRALHILQQLRLEG
+            SEPVILLRTLQRELLLLVNLKRQSAHTPLRALFDKHRVWQNRRGMMGEALNRLSQTQLRQ
+            AVQLLTRTELTLKQDYGQSVWAELEGLSLLLCHKPLADVFIDG
+NTSEQ       1032
+            atgattcggttgtacccggaacaactccgcgcgcagctcaatgaagggctgcgcgcggcg
+            tatcttttacttggtaacgatcctctgttattgcaggaaagccaggacgctgttcgtcag
+            gtagctgcggcacaaggattcgaagaacaccacactttttccattgatcccaacactgac
+            tggaatgcgatcttttcgttatgccaggctatgagtctgtttgccagtcgacaaacgcta
+            ttgctgttgttaccagaaaacggaccgaatgcggcgatcaatgagcaacttctcacactc
+            accggacttctgcatgacgacctgctgttgatcgtccgcggtaataaattaagcaaagcg
+            caagaaaatgccgcctggtttactgcgcttgcgaatcgcagcgtgcaggtgacctgtcag
+            acaccggagcaggctcagcttccccgctgggttgctgcgcgcgcaaaacagctcaactta
+            gaactggatgacgcggcaaatcaggtgctctgctactgttatgaaggtaacctgctggcg
+            ctggctcaggcactggagcgtttatcgctgctctggccagacggcaaattgacattaccg
+            cgcgttgaacaggcggtgaatgatgccgcgcatttcaccccttttcattgggttgatgct
+            ttgttgatgggaaaaagtaagcgcgcattgcatattcttcagcaactgcgtctggaaggc
+            agcgaaccggttattttgttgcgcacattacaacgtgaactgttgttactggttaacctg
+            aaacgccagtctgcccatacgccactgcgtgcgttgtttgataagcatcgggtatggcag
+            aaccgccggggcatgatgggcgaggcgttaaatcgcttaagtcagacgcagttacgtcag
+            gccgtgcaactcctgacacgaacggaactcaccctcaaacaagattacggtcagtcagtg
+            tgggcagagctggaagggttatctcttctgttgtgccataaacccctggcggacgtattt
+            atcgacggttga
+///

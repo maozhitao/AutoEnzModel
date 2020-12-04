@@ -1,0 +1,58 @@
+ENTRY       b4235             CDS       T00007
+NAME        pmbA
+DEFINITION  (RefSeq) metalloprotease PmbA
+ORTHOLOGY   K03592  PmbA protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b4235 (pmbA)
+            Peptidases and inhibitors [BR:eco01002]
+             Peptidases of unknown catalytic type
+              Family U62
+               b4235 (pmbA)
+POSITION    4457959..4459311
+MOTIF       Pfam: PmbA_TldD
+DBLINKS     NCBI-GeneID: 948750
+            NCBI-ProteinID: NP_418656
+            Pasteur: pmbA
+            RegulonDB: ECK120000732
+            ECOCYC: EG10741
+            ASAP: ABE-0013854
+            UniProt: P0AFK0
+STRUCTURE   PDB: 5NJ9 5NJC 5NJA 5NJF 5NJB 5NJ5
+AASEQ       450
+            MALAMKVISQVEAQRKILEEAVSTALELASGKSDGAEVAVSKTTGISVSTRYGEVENVEF
+            NSDGALGITVYHQNRKGSASSTDLSPQAIARTVQAALDIARYTSPDPCAGVADKELLAFD
+            APDLDLFHPAEVSPDEAIELAARAEQAALQADKRITNTEGGSFNSHYGVKVFGNSHGMLQ
+            GYCSTRHSLSSCVIAEENGDMERDYAYTIGRAMSDLQTPEWVGADCARRTLSRLSPRKLS
+            TMKAPVIFANEVATGLFGHLVGAIAGGSVYRKSTFLLDSLGKQILPDWLTIEEHPHLLKG
+            LASTPFDSEGVRTERRDIIKDGILTQWLLTSYSARKLGLKSTGHAGGIHNWRIAGQGLSF
+            EQMLKEMGTGLVVTELMGQGVSAITGDYSRGAAGFWVENGEIQYPVSEITIAGNLKDMWR
+            NIVTVGNDIETRSNIQCGSVLLPEMKIAGQ
+NTSEQ       1353
+            atggcacttgcaatgaaagtaatctctcaagttgaagcgcagcgcaagattctggaagaa
+            gcagtttccactgcgctggagttggcctcaggcaaatcggacggtgcggaagttgccgtc
+            agcaagaccaccggcattagcgtaagcacgcgttatggtgaagtggagaatgttgaattc
+            aatagcgatggcgcgctggggatcactgtttatcaccagaaccgcaaaggtagcgcatca
+            tccaccgatttaagcccgcaggccattgcccgtactgtacaggcggcgctggatattgcc
+            cgttatacctcgccagatccctgtgccggcgtggcagacaaagagctgctggcctttgac
+            gcaccagatctcgacttgttccaccctgcggaagtttccccggatgaagccattgaactg
+            gcggcccgcgcagaacaggcggcattgcaggcggacaaacgcatcaccaataccgaaggt
+            ggcagctttaacagccactacggtgtcaaagtttttggcaacagccacggcatgttgcag
+            ggttactgctcaacgcgtcattcgctctccagctgtgtaattgccgaagaaaatggcgat
+            atggagcgtgattacgcctacaccattggtcgtgcgatgagcgatctgcaaacgccagag
+            tgggttggggccgactgtgctcgccgtactttatcgcgtctgtcaccgcgtaaactctcc
+            accatgaaagcgccagtcatttttgccaatgaagtggcaaccgggctttttgggcatctg
+            gtgggggcgatagcgggtggatcggtttatcgtaaatctaccttcctgctggattcgctg
+            ggtaaacaaattctgccggactggctgaccattgaagagcatccgcatctgctgaaaggg
+            ctggcgtcgacgccattcgacagcgaaggtgtgcgcaccgagcgtcgcgatattattaaa
+            gatggcatcctgactcagtggctgctgaccagctactcggcgcggaaactggggctgaaa
+            agcaccggacatgcgggcggtattcacaactggcggattgccggacaaggtctaagcttc
+            gagcagatgctcaaagagatgggcaccgggctggtggtgacggaattgatgggccagggc
+            gtgagtgccattaccggtgattattcccgtggtgcagcgggcttctgggtagagaatggc
+            gaaattcagtatccggtgagcgaaatcaccatcgcaggtaatttaaaagatatgtggcgc
+            aatattgtcaccgtcggtaacgatattgaaacacgcagtaatatacagtgtggttctgtg
+            ctgttgccggagatgaaaatcgccggacagtaa
+///

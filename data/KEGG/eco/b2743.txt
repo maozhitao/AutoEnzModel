@@ -1,0 +1,44 @@
+ENTRY       b2743             CDS       T00007
+NAME        pcm
+DEFINITION  (RefSeq) L-isoaspartate protein carboxylmethyltransferase type II
+ORTHOLOGY   K00573  protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b2743 (pcm)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.77  protein-L-isoaspartate(D-aspartate) O-methyltransferase
+                 b2743 (pcm)
+POSITION    complement(2868893..2869519)
+MOTIF       Pfam: PCMT RrnaAD Methyltransf_31 Methyltransf_25 Methyltransf_11 Methyltransf_23 MTS NodS CMAS GCD14 Methyltransf_32 DREV
+DBLINKS     NCBI-GeneID: 944923
+            NCBI-ProteinID: NP_417223
+            Pasteur: pcm
+            RegulonDB: ECK120000682
+            ECOCYC: EG10689
+            ASAP: ABE-0009006
+            UniProt: P0A7A5
+STRUCTURE   PDB: 3LBF
+AASEQ       208
+            MVSRRVQALLDQLRAQGIQDEQVLNALAAVPREKFVDEAFEQKAWDNIALPIGQGQTISQ
+            PYMVARMTELLELTPQSRVLEIGTGSGYQTAILAHLVQHVCSVERIKGLQWQARRRLKNL
+            DLHNVSTRHGDGWQGWQARAPFDAIIVTAAPPEIPTALMTQLDEGGILVLPVGEEHQYLK
+            RVRRRGGEFIIDTVEAVRFVPLVKGELA
+NTSEQ       627
+            atggtaagcagacgcgtacaagcacttctggatcaattacgtgcgcaaggtattcaggat
+            gagcaggtgctgaatgcacttgccgccgtgccgcgtgaaaaattcgttgatgaagcgttt
+            gaacaaaaagcctgggacaatatcgctttgccgataggtcaggggcagacaatttcgcag
+            ccatatatggtggcgcgaatgaccgaattactcgagctgacgccgcagtcgcgggtgctg
+            gaaattggcaccggttcgggatatcaaacggcaatcctggcgcatcttgtccagcatgtt
+            tgctcggttgaacggattaaaggcttgcagtggcaggcacgtcgccgcctgaaaaatctt
+            gatttacataatgtttcaacccgtcatggcgatggatggcaaggttggcaggcacgtgcg
+            ccgtttgacgctatcattgttacggcggcaccgccggaaattccaactgcgctaatgacg
+            cagctggacgaaggcgggattctcgtcttacccgtaggggaggagcaccagtatttgaaa
+            cgggtgcgtcgtcggggaggcgaatttattatcgataccgtggaggccgtgcgctttgtc
+            cctttagtgaagggtgagctggcttaa
+///

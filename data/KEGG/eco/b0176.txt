@@ -1,0 +1,64 @@
+ENTRY       b0176             CDS       T00007
+NAME        rseP
+DEFINITION  (RefSeq) intramembrane zinc metalloprotease
+ORTHOLOGY   K11749  regulator of sigma E protease [EC:3.4.24.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b0176 (rseP)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.-  
+                 b0176 (rseP)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M50: S2P protease family
+               b0176 (rseP)
+POSITION    196546..197898
+MOTIF       Pfam: Peptidase_M50 PDZ_6 PDZ PDZ_2 Tricorn_PDZ
+DBLINKS     NCBI-GeneID: 944871
+            NCBI-ProteinID: NP_414718
+            Pasteur: yaeL
+            RegulonDB: ECK120002290
+            ECOCYC: EG12436
+            ASAP: ABE-0000603
+            UniProt: P0AEH1
+STRUCTURE   PDB: 2ZPM 3ID4 3ID1 2ZPL 3ID3 3ID2
+AASEQ       450
+            MLSFLWDLASFIVALGVLITVHEFGHFWVARRCGVRVERFSIGFGKALWRRTDKLGTEYV
+            IALIPLGGYVKMLDERAEPVVPELRHHAFNNKSVGQRAAIIAAGPVANFIFAIFAYWLVF
+            IIGVPGVRPVVGEIAANSIAAEAQIAPGTELKAVDGIETPDWDAVRLQLVDKIGDESTTI
+            TVAPFGSDQRRDVKLDLRHWAFEPDKEDPVSSLGIRPRGPQIEPVLENVQPNSAASKAGL
+            QAGDRIVKVDGQPLTQWVTFVMLVRDNPGKSLALEIERQGSPLSLTLIPESKPGNGKAIG
+            FVGIEPKVIPLPDEYKVVRQYGPFNAIVEATDKTWQLMKLTVSMLGKLITGDVKLNNLSG
+            PISIAKGAGMTAELGVVYYLPFLALISVNLGIINLFPLPVLDGGHLLFLAIEKIKGGPVS
+            ERVQDFCYRIGSILLVLLMGLALFNDFSRL
+NTSEQ       1353
+            atgctgagttttctctgggatttggcttcgttcatcgttgcactgggtgtacttatcacc
+            gtgcatgaatttggtcatttctgggttgcccggcgttgtggtgttcgcgttgagcgtttc
+            tcaatagggtttggtaaggcgctctggcggcgaactgataagctcggcaccgaatatgtt
+            atcgccctgatcccgttgggcggttatgtcaaaatgctggatgagcgcgcagaaccggtc
+            gttccggaactccgccaccatgccttcaataataaatctgtcggccaacgagcggcgatt
+            attgccgcaggtccggttgcaaacttcatttttgctatctttgcctactggctggttttt
+            attattggtgtgcctggcgtacgtccggtggttggcgaaatagcagccaattcgatagct
+            gcggaagcacaaattgcaccaggtacggaactaaaagccgtagatggtatcgaaacgcct
+            gattgggatgccgtgcgtttgcagttggtcgataaaattggcgatgaaagcaccaccatt
+            acagtagcgccatttggcagcgaccaacggcgggatgtaaagctcgatttacgtcactgg
+            gcgtttgagcctgataaagaagatccggtatcttcgctggggattcgtcctcgtgggccg
+            caaattgaacctgtactggaaaatgtgcagccaaactcggcggcaagcaaggcaggtttg
+            caagcaggcgacaggatcgttaaagtcgatggtcagcccttaacgcagtgggtgaccttt
+            gtgatgcttgtccgggataacccgggtaaatccttagcgttagaaatcgaaaggcagggg
+            agtcccttgtctttgacattaatcccggagagtaaaccgggtaatggtaaagcgattggt
+            tttgtcggtattgagccgaaagtcattcctttgccagatgagtataaagttgtacgccag
+            tatgggccgttcaacgccatcgtcgaagccacggacaaaacgtggcagctgatgaagctg
+            acggtcagtatgctgggaaaattgatcaccggtgatgtgaaactgaacaacctcagtggg
+            ccgatctctatcgccaagggggctgggatgacagcggaactcggggttgtttattacctg
+            ccgtttcttgcgcttattagcgtgaacttagggataattaacctgtttccgttgcccgta
+            cttgacggggggcatctgctgttccttgcgatcgaaaagatcaagggcggaccggtatcc
+            gagcgggttcaagacttttgttatcgcattggctcgattctgctggtgctgttaatgggg
+            cttgcacttttcaatgatttctctcggttatga
+///

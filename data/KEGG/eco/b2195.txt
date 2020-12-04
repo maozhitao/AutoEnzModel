@@ -1,0 +1,40 @@
+ENTRY       b2195             CDS       T00007
+NAME        ccmG
+DEFINITION  (RefSeq) holocytochrome c synthetase - thiol:disulfide oxidoreductase CcmG
+ORTHOLOGY   K02199  cytochrome c biogenesis protein CcmG, thiol:disulfide interchange protein DsbE
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b2195 (ccmG)
+            Chaperones and folding catalysts [BR:eco03110]
+             Protein folding catalysts
+              Protein disulfide isomerase
+               b2195 (ccmG)
+POSITION    complement(2292407..2292964)
+MOTIF       Pfam: Redoxin AhpC-TSA Thioredoxin_2 Thioredoxin_8 Thioredoxin Thioredoxin_7
+DBLINKS     NCBI-GeneID: 949073
+            NCBI-ProteinID: NP_416699
+            Pasteur: ccmG
+            RegulonDB: ECK120001966
+            ASAP: ABE-0007264
+            UniProt: P0AA86
+STRUCTURE   PDB: 2B1L 2B1K 1Z5Y 2G0F 3K8N
+AASEQ       185
+            MKRKVLLIPLIIFLAIAAALLWQLARNAEGDDPTNLESALIGKPVPKFRLESLDNPGQFY
+            QADVLTQGKPVLLNVWATWCPTCRAEHQYLNQLSAQGIRVVGMNYKDDRQKAISWLKELG
+            NPYALSLFDGDGMLGLDLGVYGAPETFLIDGNGIIRYRHAGDLNPRVWEEEIKPLWEKYS
+            KEAAQ
+NTSEQ       558
+            atgaagcgcaaagtattgttaattccgttgattatcttcctggcgattgccgcggcgctg
+            ctgtggcagctggcgcgtaatgccgaaggggatgatccgaccaatctggaatcggcgctc
+            attggcaagcctgtgccgaagtttcgtctcgaatcactggacaatccggggcagttttat
+            caggcggatgtgctgactcagggcaaaccagtactgcttaacgtctgggcgacctggtgt
+            ccgacctgccgtgcggaacatcaatatctgaatcagctttctgcgcagggcatccgcgtg
+            gtcggcatgaactataaagacgatcgccagaaggcaatcagctggctgaaagagctgggc
+            aatccttacgcgctaagcctgtttgatggcgatggcatgttagggctggatctcggtgtc
+            tatggcgcgccagaaacgtttcttattgacggcaacggcatcattcgctatcgccatgcg
+            ggcgatctgaatcctcgcgtctgggaagaagagatcaagccgctgtgggagaaatacagt
+            aaggaggccgcacaatga
+///

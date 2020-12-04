@@ -1,0 +1,95 @@
+ENTRY       b3053             CDS       T00007
+NAME        glnE
+DEFINITION  (RefSeq) fused glutamine synthetase deadenylase/glutamine synthetase adenylyltransferase
+ORTHOLOGY   K00982  [glutamine synthetase] adenylyltransferase / [glutamine synthetase]-adenylyl-L-tyrosine phosphorylase [EC:2.7.7.42 2.7.7.89]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b3053 (glnE)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.42  [glutamine synthetase] adenylyltransferase
+                 b3053 (glnE)
+                2.7.7.89  [glutamine synthetase]-adenylyl-L-tyrosine phosphorylase
+                 b3053 (glnE)
+POSITION    complement(3196801..3199641)
+MOTIF       Pfam: GlnE GlnD_UR_UTase
+DBLINKS     NCBI-GeneID: 947552
+            NCBI-ProteinID: NP_417525
+            Pasteur: glnE
+            RegulonDB: ECK120001550
+            ECOCYC: EG11602
+            ASAP: ABE-0010018
+            UniProt: P30870
+STRUCTURE   PDB: 1V4A 3K7D
+AASEQ       946
+            MKPLSSPLQQYWQTVVERLPEPLAEESLSAQAKSVLTFSDFVQDSVIAHPEWLTELESQP
+            PQADEWQHYAAWLQEALCNVSDEAGLMRELRLFRRRIMVRIAWAQTLALVTEESILQQLS
+            YLAETLIVAARDWLYDACCREWGTPCNAQGEAQPLLILGMGKLGGGELNFSSDIDLIFAW
+            PEHGCTQGGRRELDNAQFFTRMGQRLIKVLDQPTQDGFVYRVDMRLRPFGESGPLVLSFA
+            ALEDYYQEQGRDWERYAMVKARIMGDSEGVYANELRAMLRPFVFRRYIDFSVIQSLRNMK
+            GMIAREVRRRGLTDNIKLGAGGIREIEFIVQVFQLIRGGREPSLQSRSLLPTLSAIAELH
+            LLSENDAEQLRVAYLFLRRLENLLQSINDEQTQTLPSDELNRARLAWAMDFADWPQLTGA
+            LTAHMTNVRRVFNELIGDDESETQEESLSEQWRELWQDALQEDDTTPVLAHLSEDDRKQV
+            LTLIADFRKELDKRTIGPRGRQVLDHLMPHLLSDVCAREDAAVTLSRITALLVGIVTRTT
+            YLELLSEFPAALKHLISLCAASPMIASQLARYPLLLDELLDPNTLYQPTATDAYRDELRQ
+            YLLRVPEDDEEQQLEALRQFKQAQLLRIAAADIAGTLPVMKVSDHLTWLAEAMIDAVVQQ
+            AWVQMVARYGKPNHLNEREGRGFAVVGYGKLGGWELGYSSDLDLIFLHDCPMDAMTDGER
+            EIDGRQFYLRLAQRIMHLFSTRTSSGILYEVDARLRPSGAAGMLVTSAEAFADYQKNEAW
+            TWEHQALVRARVVYGDPQLTAHFDAVRREIMTLPREGKTLQTEVREMREKMRAHLGNKHR
+            DRFDIKADEGGITDIEFITQYLVLRYAHEKPKLTRWSDNVRILELLAQNDIMEEQEAMAL
+            TRAYTTLRDELHHLALQELPGHVSEDCFTAERELVRASWQKWLVEE
+NTSEQ       2841
+            atgaagccgctctcttcaccgttacagcagtactggcagaccgttgttgagcggctgcca
+            gagcctttagccgaggaatcacttagcgcacaggcgaagtcagtacttacttttagtgat
+            tttgtgcaggacagcgtgattgcgcatccagagtggctgacggaactggaaagccaaccg
+            ccgcaggccgacgaatggcagcattacgcggcatggttgcaggaggcgctctgtaatgtg
+            agtgacgaagccgggttaatgcgcgagctgcggctattccggcggcgcattatggtgcgc
+            atcgcctgggcgcaaacgctggcactggttactgaagagagcatattgcagcagctcagc
+            tatctggcggagacgctgattgttgcggcgcgtgactggctgtatgacgcctgctgccgc
+            gagtggggaacgccgtgcaatgcgcagggcgaagcgcaaccgctgctgattttaggcatg
+            ggtaagctgggcggtggggagctgaatttctcctctgatatcgatctgatttttgcctgg
+            ccggaacatggttgtacgcagggtggacgccgggaactggataacgcgcagttttttacc
+            cgcatggggcagcggctgattaaagtgctggatcaaccaacgcaggatggcttcgtctat
+            cgcgtggatatgcggctgcgtccgtttggcgaaagtggcccgctggtgctgagctttgcc
+            gcgttggaagattattaccaggagcaggggcgcgactgggagcgttacgcgatggtcaag
+            gcgcggattatgggcgatagcgaaggcgtctatgctaacgagttgcgtgcgatgctgcgc
+            ccgtttgttttccgtcgttacatcgatttcagcgtgattcagtcgctgcgcaacatgaaa
+            gggatgattgcccgtgaagtgcgtcgacgtggtttgaccgacaatatcaaactcggcgca
+            ggcggcattcgcgaaattgaatttatcgttcaggtgttccagctcattcgcggcggacgc
+            gaaccgtcgctgcaatcgcgctctttactgccaacgctcagcgccattgccgagctgcat
+            ctgctttctgaaaacgatgctgaacaattgcgagtggcgtatctgttcctgcggcgtctg
+            gaaaacctgctgcaaagcattaacgacgaacaaacccagacgcttccttctgatgagctt
+            aatcgtgcgcggctggcgtgggcgatggactttgctgactggccgcaactgaccggggcg
+            ctgaccgcacatatgaccaatgtgcgccgggtgtttaatgaattgattggcgacgatgaa
+            agtgaaactcaggaagagtcgctgtcggaacagtggcgtgagctgtggcaggatgcgttg
+            caggaagatgacactacgccagtgctggcgcatcttagcgaggatgatcgcaaacaggtg
+            ctaacgctgattgccgatttccgcaaagagctggataagcgcaccatcgggccgcgagga
+            cgtcaggtgctcgaccatctgatgccgcatctgctaagtgatgtctgtgcgcgtgaagac
+            gctgccgttacgctgtcgcgcattaccgccttgctggtggggattgttacccgcaccacc
+            tatttagaattgctcagtgaattccccgcggcgcttaaacatttgatttctctgtgtgcc
+            gcgtcgccgatgattgccagccagctggcgcgttatccattattgctggatgaattgctc
+            gatccaaacaccctttaccagccgacggcgaccgatgcctaccgcgatgagttgcgccag
+            tatttgctgcgcgtgccggaagatgacgaagagcaacagcttgaggcgctgcgtcagttc
+            aaacaggcgcagctgttacgcatcgccgcagcggatatcgccggtacgctaccggtgatg
+            aaagtgagcgatcacttaacctggctggcggaagccatgatagatgccgtcgttcagcag
+            gcgtgggttcaaatggttgcccgctacggtaagccgaatcacctgaacgaacgcgaaggg
+            cgtggttttgcggtggtcggctacggcaagctgggcggctgggagttaggctacagttcc
+            gatcttgaccttatcttcctccatgattgcccaatggatgcgatgactgacggtgagcgg
+            gaaatcgacgggcggcagttttatctgcgtctggcgcaacgcattatgcatctgttcagt
+            acgcgtacctcttccggcattttgtatgaagtggatgctcgactgcgtccgtccggggcg
+            gcgggaatgctggtgacatccgcagaagcatttgccgattatcagaaaaacgaggcctgg
+            acgtgggaacatcaggcgctggtgcgtgcgcgtgtagtgtacggcgatccgcagctcacc
+            gcgcactttgacgcagtgcgtcgcgagattatgacgctgccgcgtgaaggtaaaactctg
+            caaacggaagtgcgggaaatgcgcgagaaaatgcgcgctcatctcggcaataaacatcgc
+            gatcgctttgatatcaaagctgatgaagggggaattaccgatatcgaatttattacccaa
+            tatctggtgttgcgctacgctcatgaaaaaccgaagttaacgcgctggtcagacaacgtg
+            cgtattctggaactactggcgcaaaacgacattatggaagagcaggaagcgatggcgctg
+            acccgtgcttacactacgcttcgcgatgaacttcatcatctggcattacaggaattgccg
+            ggccatgtgtcggaggattgcttcaccgcagagcgtgaactggtgcgggcaagctggcag
+            aagtggctggtggaagaatga
+///

@@ -1,0 +1,41 @@
+ENTRY       b0555             CDS       T00007
+NAME        rrrD
+DEFINITION  (RefSeq) DLP12 prophage; lysozyme
+ORTHOLOGY   K01185  lysozyme [EC:3.2.1.17]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0555 (rrrD)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.17  lysozyme
+                 b0555 (rrrD)
+POSITION    577613..578110
+MOTIF       Pfam: Phage_lysozyme
+DBLINKS     NCBI-GeneID: 947539
+            NCBI-ProteinID: NP_415087
+            Pasteur: ybcS
+            RegulonDB: ECK120002918
+            ECOCYC: G6310
+            ASAP: ABE-0001898
+            UniProt: P78285
+STRUCTURE   PDB: 4ZPU
+AASEQ       165
+            MPPSLRKAVAAAIGGGAIAIASVLITGPSGNDGLEGVSYIPYKDIVGVWTVCHGHTGKDI
+            MLGKTYTKAECKALLNKDLATVARQINPYIKVDIPETTRGALYSFVYNVGAGNFRTSTLL
+            RKINQGDIKGACDQLRRWTYAGGKQWKGLMTRREIEREVCLWGQQ
+NTSEQ       498
+            atgcctccatcattacgaaaagccgttgctgctgctattggtggcggagcaattgctata
+            gcatcagtgttaatcactggcccaagtggtaacgatggtctggaaggtgtcagctacata
+            ccatacaaagatattgttggtgtatggactgtatgtcacggacacaccggaaaagacatc
+            atgctcggtaaaacgtataccaaagcagaatgcaaagcactcttgaataaagaccttgcc
+            actgtcgccagacaaattaacccgtatatcaaagtcgatataccggaaacaacgcgcggc
+            gctctttactcattcgtttacaacgtgggtgctggcaattttagaacatcgacgcttctt
+            cgcaaaataaaccagggcgatatcaaaggcgcatgtgatcagctgcgtcgctggacatac
+            gctggcggtaagcaatggaaaggcctgatgactcgtcgtgagattgagcgtgaagtctgt
+            ttgtgggggcaacagtga
+///

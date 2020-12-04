@@ -1,0 +1,76 @@
+ENTRY       b4003             CDS       T00007
+NAME        zraS
+DEFINITION  (RefSeq) sensory histidine kinase ZraS
+ORTHOLOGY   K07709  two-component system, NtrC family, sensor histidine kinase HydH [EC:2.7.13.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b4003 (zraS)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b4003 (zraS)
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b4003 (zraS)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 b4003 (zraS)
+            Protein kinases [BR:eco01001]
+             Histidine kinases
+              NtrC family
+               b4003 (zraS)
+            Two-component system [BR:eco02022]
+             NtrC family
+              HydH-HydG (metal tolerance)
+               b4003 (zraS)
+POSITION    4201926..4203323
+MOTIF       Pfam: HATPase_c HisKA HATPase_c_5 sCache_3_2 HATPase_c_2 HATPase_c_3 HPTransfase TssO
+DBLINKS     NCBI-GeneID: 948506
+            NCBI-ProteinID: NP_418431
+            Pasteur: hydH
+            RegulonDB: ECK120000007
+            ECOCYC: EG10008
+            ASAP: ABE-0013088
+            UniProt: P14377
+AASEQ       465
+            MRFMQRSKDSLAKWLSAILPVVIVGLVGLFAVTVIRDYGRASEADRQALLEKGNVLIRAL
+            ESGSRVGMGMRMHHVQQQALLEEMAGQPGVLWFAVTDAQGIIILHSDPDKVGRALYSPDE
+            MQKLKPEENSRWRLLGKTETTPALEVYRLFQPMSAPWRHGMHNMPRCNGKAVPQVDAQQA
+            IFIAVDASDLVATQSGEKRNTLIILFALATVLLASVLSFFWYRRYLRSRQLLQDEMKRKE
+            KLVALGHLAAGVAHEIRNPLSSIKGLAKYFAERAPAGGEAHQLAQVMAKEADRLNRVVSE
+            LLELVKPTHLALQAVDLNTLINHSLQLVSQDANSREIQLRFTANDTLPEIQADPDRLTQV
+            LLNLYLNAIQAIGQHGVISVTASESGAGVKISVTDSGKGIAADQLDAIFTPYFTTKAEGT
+            GLGLAVVHNIVEQHGGTIQVASQEGKGSTFTLWLPVNITRKDPQG
+NTSEQ       1398
+            atgcgttttatgcaacgttctaaagactccttagctaaatggttaagcgcgatcctcccc
+            gtggtcattgttgggctggtgggattgtttgcggtaactgtgattcgtgattatgggcgg
+            gcaagcgaggcagaccgccaggcattactggaaaaaggtaatgtgcttatccgcgctctg
+            gagtcgggaagccgcgtagggatggggatgcgaatgcaccatgtacagcaacaggcgctt
+            ctggaagagatggcgggacagccgggagtgttgtggttcgcagtcaccgatgcgcagggc
+            atcattattcttcatagcgaccccgataaggtcgggcgtgcgctctattcgccggatgaa
+            atgcagaaattaaagccagaggaaaactcccgctggcggctgcttgggaaaacggaaact
+            acgcctgcacttgaggtctatcgtttgttccagccaatgtcagcgccctggcggcatgga
+            atgcacaatatgccgcgctgtaacggcaaagctgtgccacaagtagatgcacaacaggct
+            atttttatcgccgttgatgccagtgatctggttgcaacccagagtggggaaaagcgcaat
+            accctgattatcctcttcgccctggcgacggtcttgctggcaagcgtattgtcattcttc
+            tggtatcgccgctatctgcgctcgcgccagcttctacaagatgaaatgaagcgcaaagag
+            aagctggtggcgctggggcatcttgcggcaggcgttgcccacgaaatccgtaacccactt
+            tcctcgattaaaggactggcgaaatactttgccgagcgcgcgcctgcagggggagaagcg
+            catcaactggcgcaggtgatggcgaaagaggccgaccgtttaaaccgcgtggtaagcgag
+            ttgctggaactggttaagccaacgcatctggctttgcaggcggtggatctcaacacgctg
+            attaaccactcattacagctggtaagtcaggatgcaaacagccgggagatccagttacgc
+            tttaccgccaacgacacattaccggaaattcaggccgacccggacaggctgactcaggtc
+            ctgttgaatctctatctcaatgctattcaggcgattggtcagcatggcgtgattagcgtg
+            acggccagcgaaagcggcgcgggcgtgaaaatcagcgttaccgacagcggtaagggaatt
+            gcggcagatcagcttgatgccatcttcactccgtacttcaccactaaagccgaaggcacc
+            ggattggggctggcggtcgtgcataatattgttgaacaacacggtggtacaattcaggtc
+            gcaagccaggagggaaaaggctcaacgttcaccctctggcttccggtcaatattacgcgt
+            aaggacccacaaggatga
+///

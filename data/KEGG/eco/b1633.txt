@@ -1,0 +1,57 @@
+ENTRY       b1633             CDS       T00007
+NAME        nth
+DEFINITION  (RefSeq) endonuclease III
+ORTHOLOGY   K10773  endonuclease III [EC:4.2.99.18]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03410  Base excision repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03410 Base excision repair
+                b1633 (nth)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1633 (nth)
+            Enzymes [BR:eco01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.99  Other carbon-oxygen lyases
+                4.2.99.18  DNA-(apurinic or apyrimidinic site) lyase
+                 b1633 (nth)
+            DNA repair and recombination proteins [BR:eco03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                DNA glycosylases
+                 b1633 (nth)
+             Prokaryotic type
+                 b1633 (nth)
+POSITION    1711523..1712158
+MOTIF       Pfam: HhH-GPD HHH EndIII_4Fe-2S HHH_5
+DBLINKS     NCBI-GeneID: 947122
+            NCBI-ProteinID: NP_416150
+            Pasteur: nth
+            RegulonDB: ECK120000655
+            ECOCYC: EG10662
+            ASAP: ABE-0005463
+            UniProt: P0AB83
+STRUCTURE   PDB: 2ABK
+AASEQ       211
+            MNKAKRLEILTRLRENNPHPTTELNFSSPFELLIAVLLSAQATDVSVNKATAKLYPVANT
+            PAAMLELGVEGVKTYIKTIGLYNSKAENIIKTCRILLEQHNGEVPEDRAALEALPGVGRK
+            TANVVLNTAFGWPTIAVDTHIFRVCNRTQFAPGKNVEQVEEKLLKVVPAEFKVDCHHWLI
+            LHGRYTCIARKPRCGSCIIEDLCEYKEKVDI
+NTSEQ       636
+            atgaataaagcaaaacgcctggagatcctcactcgcctgcgtgagaacaatcctcatccc
+            accaccgagcttaatttcagttcgccttttgaattgctgattgccgtactgctttccgct
+            caggcgaccgatgtcagtgttaataaggcgacggcgaaactctacccggtggcgaatacg
+            cctgcagcgatgcttgaactgggcgttgaaggggtgaaaacctatatcaaaacgattggg
+            ctttataacagcaaagcagaaaatatcatcaaaacctgccgtatcttgctggagcagcat
+            aatggcgaggttccggaagatcgtgctgcgcttgaagccctgcccggcgtaggtcgtaaa
+            acagccaacgtcgtattaaacactgcattcggctggccgactattgctgtcgacacgcac
+            attttccgcgtttgtaatcgtactcaatttgcgccggggaaaaacgtcgaacaggtagaa
+            gaaaagctactgaaagtggttccagcagagtttaaagtcgactgccaccattggttgatc
+            ctgcacgggcgttatacctgcattgcccgcaagccccgctgtggctcttgtattattgaa
+            gatctttgtgaatacaaagagaaagttgacatctga
+///

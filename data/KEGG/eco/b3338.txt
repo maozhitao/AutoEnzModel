@@ -1,0 +1,92 @@
+ENTRY       b3338             CDS       T00007
+NAME        chiA
+DEFINITION  (RefSeq) endochitinase
+ORTHOLOGY   K13381  bifunctional chitinase/lysozyme [EC:3.2.1.14 3.2.1.17]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00520  Amino sugar and nucleotide sugar metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00520 Amino sugar and nucleotide sugar metabolism
+                b3338 (chiA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.14  chitinase
+                 b3338 (chiA)
+                3.2.1.17  lysozyme
+                 b3338 (chiA)
+POSITION    complement(3467160..3469853)
+MOTIF       Pfam: CBM_5_12
+DBLINKS     NCBI-GeneID: 947837
+            NCBI-ProteinID: NP_417797
+            Pasteur: yheB
+            RegulonDB: ECK120001215
+            ECOCYC: EG11237
+            ASAP: ABE-0010909
+            UniProt: P13656
+AASEQ       897
+            MKLNIFTKSMIGMGLVCSALPALAMEAWNNQQGGNKYQVIFDGKIYENAWWVSSTNCPGK
+            AKANDATNPWRLKRTATAAEISQFGNTLSCEKSGSSSSSNSNTPASNTPANGGSATPAQG
+            TVPSNSSVVAWNKQQGGQTWYVVFNGAVYKNAWWVASSNCPGDAKSNDASNPWRYVRAAT
+            ATEISETSNPQSCTSAPQPSPDVKPAPDVKPAPDVQPAPADKSNDNYAVVAWKGQEGSST
+            WYVIYNGGIYKNAWWVGAANCPGDAKENDASNPWRYVRAATATEISQYGNPGSCSVKPDN
+            NGGAVTPVDPTPETPVTPTPDNSEPSTPADSVNDYSLQAWSGQEGSEIYHVIFNGNVYKN
+            AWWVGSKDCPRGTSAENSNNPWRLERTATAAELSQYGNPTTCEIDNGGVIVADGFQASKA
+            YSADSIVDYNDAHYKTSVDQDAWGFVPGGDNPWKKYEPAKAWSASTVYVKGDRVVVDGQA
+            YEALFWTQSDNPALVANQNATGSNSRPWKPLGKAQSYSNEELNNAPQFNPETLYASDTLI
+            RFNGVNYISQSKVQKVSPSDSNPWRVFVDWTGTKERVGTPKKAWPKHVYAPYVDFTLNTI
+            PDLAALAKNHNVNHFTLAFVVSKDANTCLPTWGTAYGMQNYAQYSKIKALREAGGDVMLS
+            IGGANNAPLAASCKNVDDLMQHYYDIVDNLNLKVLDFDIEGTWVADQASIERRNLAVKKV
+            QDKWKSEGKDIAIWYTLPILPTGLTPEGMNVLSDAKAKGVELAGVNVMTMDYGNAICQSA
+            NTEGQNIHGKCATSAIANLHSQLKGLHPNKSDAEIDAMMGTTPMVGVNDVQGEVFYLSDA
+            RLVMQDAQKRNLGMVGIWSIARDLPGGTNLSPEFHGLTKEQAPKYAFSEIFAPFTKQ
+NTSEQ       2694
+            atgaaattaaatatatttactaaatctatgattggtatggggctggtgtgttccgctctg
+            ccagcattggcaatggaagcatggaataaccaacaaggtggtaataaatatcaggttatt
+            ttcgatggcaaaatttatgaaaatgcctggtgggtttcttctacaaattgcccgggaaaa
+            gcgaaagcaaatgatgcaactaacccgtggcgtttaaagcgtaccgcaacagctgctgaa
+            attagtcagtttggcaatacactttcctgcgaaaagagcggcagctcatcttcttcaaat
+            tcaaatacgcctgcatccaatacgccggctaatggcggttcggctacaccagcacagggc
+            actgttccgtctaattcttctgtagttgcctggaataaacagcagggcggtcagacctgg
+            tatgtcgtctttaatggtgcggtatataaaaatgcctggtgggtagcctcttctaactgt
+            ccgggtgatgcgaaaagcaatgatgccagcaacccatggcgttatgttcgtgccgctacg
+            gcaacggaaatctcagaaaccagtaatccacagtcctgtacttcagcaccacagccttca
+            ccggatgtgaaaccggcaccggacgttaaaccggctcctgatgttcagccagccccagct
+            gataagtcaaacgacaactatgctgtagtagcctggaaaggtcaggaaggttcttctaca
+            tggtacgttatctataacggcggcatttataagaacgcctggtgggtaggcgcggcaaat
+            tgcccaggcgatgcgaaagaaaacgatgccagtaacccatggcgttatgttcgcgcggca
+            acggcaacagaaatcagccagtatggtaaccctggctcctgttccgttaagccggataat
+            aatggcggtgctgtgactccggttgatccaactccggaaacaccggtgaccccaactccg
+            gataacagcgagccatcaacaccagcggatagcgttaacgattactcattgcaagcgtgg
+            agcggccaggaaggtagcgaaatttaccatgttattttcaatggtaatgtttacaagaac
+            gcctggtgggttgggtctaaagattgcccacggggtaccagcgctgaaaactccaataac
+            ccatggcgtctcgagcgtacagctaccgctgcggaattgagtcagtacggtaacccgact
+            acctgtgaaattgataacggcggcgtcattgttgcggatggtttccaggccagcaaagcg
+            tacagcgcggacagcatcgtagattataacgatgcacattataaaacttctgtcgatcaa
+            gacgcatggggctttgtcccgggcggcgataacccgtggaagaaatacgaaccggcgaaa
+            gcatggtccgcatccactgtgtacgtgaaaggtgatcgcgttgttgttgatgggcaggct
+            tatgaagcgctgttctggacgcaaagtgacaaccctgctctggtggcgaaccaaaacgcc
+            accggtagcaatagccgcccgtggaagccgttaggtaaggctcagagctatagcaacgaa
+            gagctgaataatgcgccgcagtttaatccagaaacgctttatgccagcgatacgctgatt
+            cgctttaacggtgtgaactacatttctcagagtaaagtgcagaaagtttctccttctgac
+            agcaacccgtggcgtgtttttgttgactggaccggaaccaaagagcgcgtaggtacgccg
+            aagaaagcgtggccgaaacacgtttatgcaccgtatgtcgactttacgctgaatacgatc
+            ccggatctggctgcgctggctaagaatcataacgtcaaccacttcacgctggcgtttgtg
+            gtgagtaaagatgcgaacacctgtctgccgacatggggtaccgcttacggtatgcagaat
+            tacgctcagtacagcaaaatcaaagctctgcgtgaggctggcggcgatgtgatgctgtct
+            atcggtggtgctaacaacgctccgctggctgcttcctgtaagaacgtagacgatctgatg
+            cagcattattatgacatcgttgataacctgaacctcaaagtcctggacttcgatatcgaa
+            ggcacctgggttgcggatcaggcatctattgaacgtcgtaaccttgctgtgaagaaagtg
+            caggataaatggaagtcagaaggcaaagatattgctatctggtacaccttgccaattctg
+            ccgactggcctgacgccggaagggatgaatgtcctgagcgatgccaaagcgaaaggtgtt
+            gagctggcgggtgtgaacgtgatgacaatggactacggtaacgcgatttgtcagtctgca
+            aataccgaaggccagaacattcacggtaagtgtgcaacgtctgcgattgccaacctgcat
+            tcacaattgaaaggcctccatcccaataagagcgatgcagaaattgacgctatgatgggt
+            accacgccgatggttggcgtgaacgacgttcagggcgaggtgttctatctctctgatgct
+            cgtctggtcatgcaggatgcgcagaagcgtaatctcggtatggttggtatctggtcaatc
+            gcgcgcgacctgccgggcggcactaacctgtctccggaattccacggcctgactaaagaa
+            caggcaccgaagtacgcatttagcgaaatcttcgcgccgtttactaagcaataa
+///

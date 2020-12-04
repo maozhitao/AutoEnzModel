@@ -1,0 +1,53 @@
+ENTRY       b0618             CDS       T00007
+NAME        citC
+DEFINITION  (RefSeq) citrate lyase synthetase
+ORTHOLOGY   K01910  [citrate (pro-3S)-lyase] ligase [EC:6.2.1.22]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0618 (citC)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.2  Forming carbon-sulfur bonds
+               6.2.1  Acid-thiol ligases
+                6.2.1.22  [citrate (pro-3S)-lyase] ligase
+                 b0618 (citC)
+POSITION    complement(650798..651856)
+MOTIF       Pfam: Citrate_ly_lig HIGH_NTase1 Acetyltransf_1 Acetyltransf_7 Acetyltransf_10 CENP-F_C_Rb_bdg FR47
+DBLINKS     NCBI-GeneID: 945231
+            NCBI-ProteinID: NP_415151
+            Pasteur: citC
+            RegulonDB: ECK120002951
+            ECOCYC: G6344
+            ASAP: ABE-0002126
+            UniProt: P77390
+AASEQ       352
+            MFGNDIFTRVKRSENKKMAEIAQFLHENDLSVDTTVEVFITVTRDEKLIACGGIAGNIIK
+            CVAISESVRGEGLALTLATELINLAYERHSTHLFIYTKTEYEALFRQCGFSTLTSVPGVM
+            VLMENSATRLKRYAESLKKFRHPGNKIGCIVMNANPFTNGHRYLIQQAAAQCDWLHLFLV
+            KEDSSRFPYEDRLDLVLKGTADIPRLTVHRGSEYIISRATFPCYFIKEQSVINHCYTEID
+            LKIFRQYLAPALGVTHRFVGTEPFCRVTAQYNQDMRYWLETPTISAPPIELVEIERLRYQ
+            EMPISASRVRQLLAKNDLTAIAPLVPAVTLHYLQNLLEHSRQDAAARQKTPA
+NTSEQ       1059
+            atgttcggcaatgatattttcacccgcgtaaaacgttcagaaaataaaaaaatggcggaa
+            atcgcccaattcctgcatgaaaatgatttgagcgttgacaccacagtcgaagtatttatt
+            accgtaacccgcgatgaaaagcttatcgcgtgcggtggaattgccggaaatattattaaa
+            tgcgttgctatcagtgaatccgtccgcggtgaaggactggcgctgacattagccactgaa
+            ttgataaacctcgcctatgagcggcacagcacgcatctgtttatttataccaaaaccgaa
+            tacgaggcgctgttccgccagtgcggtttttccacgctgaccagcgtacccggcgtgatg
+            gtgctgatggaaaacagcgccacgcgactgaaacgctatgccgaatcgctgaaaaaattt
+            cgtcatccagggaacaagattggctgcattgtgatgaacgccaatccctttacgaatggt
+            caccgttatctgattcaacaggctgcggcacagtgcgactggttgcatctgtttttagtc
+            aaagaagattcttcacgcttcccctatgaagaccggctggatttggtgttaaaaggcacc
+            gccgatattccacgcctgactgtgcatcgtggctccgaatacatcatctcccgcgctacg
+            ttcccttgctacttcattaaagaacagagcgtcattaaccattgttacaccgaaattgat
+            ctgaagattttccgtcagtacctcgctcccgcgctgggtgtaactcaccgctttgtcggt
+            actgaacccttttgtcgcgttaccgcccagtacaaccaggatatgcgctactggctggaa
+            acgccgactatctccgcaccgcccatcgaactggttgaaattgagcggctgcgttaccag
+            gagatgccgatatccgcttcccgggtacgtcaactgctggcgaaaaacgatctcacggct
+            atcgcgccgctggtccctgcagtcacgctgcattatttgcagaacctgcttgagcactcc
+            cgccaggacgcggcagctcgtcaaaagacccccgcatga
+///

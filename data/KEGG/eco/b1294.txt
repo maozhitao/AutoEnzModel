@@ -1,0 +1,75 @@
+ENTRY       b1294             CDS       T00007
+NAME        sapA
+DEFINITION  (RefSeq) putative periplasmic binding protein SapA
+ORTHOLOGY   K19226  cationic peptide transport system substrate-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01503  Cationic antimicrobial peptide (CAMP) resistance
+            eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b1294 (sapA)
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b1294 (sapA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1294 (sapA)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Peptide and nickel transporters
+               Cationic peptide transporter
+                b1294 (sapA)
+POSITION    complement(1355467..1357110)
+MOTIF       Pfam: SBP_bac_5
+DBLINKS     NCBI-GeneID: 945873
+            NCBI-ProteinID: NP_415810
+            Pasteur: sapA
+            RegulonDB: ECK120002676
+            ECOCYC: G2002
+            ASAP: ABE-0004354
+            UniProt: Q47622
+AASEQ       547
+            MRQVLSSLLVIAGLVSGQAIAAPESPPHADIRDSGFVYCVSGQVNTFNPSKASSGLIVDT
+            LAAQFYDRLLDVDPYTYRLMPELAESWEVLDNGATYRFHLRRDVPFQKTDWFTPTRKMNA
+            DDVVFTFQRIFDRNNPWHNVNGSNFPYFDSLQFADNVKSVRKLDNHTVEFRLAQPDASFL
+            WHLATHYASVMSAEYARKLEKEDRQEQLDRQPVGTGPYQLSEYRAGQFIRLQRHDDFWRG
+            KPLMPQVVVDLGSGGTGRLSKLLTGECDVLAWPAASQLSILRDDPRLRLTLRPGMNVAYL
+            AFNTAKPPLNNPAVRHALALAINNQRLMQSIYYGTAETAASILPRASWAYDNEAKITEYN
+            PAKSREQLKSLGLENLTLKLWVPTRSQAWNPSPLKTAELIQADMAQVGVKVVIVPVEGRF
+            QEARLMDMSHDLTLSGWATDSNDPDSFFRPLLSCAAIHSQTNLAHWCDPKFDSVLRKALS
+            SQQLAARIEAYDEAQSILAQELPILPLASSLRLQAYRYDIKGLVLSPFGNASFAGVYREK
+            QDEVKKP
+NTSEQ       1644
+            atgcgccaggtattatcgtctcttttggtgattgctggacttgtgagtggtcaggcaatc
+            gccgcgcctgaatctcccccgcatgctgatatccgcgacagcggttttgtctattgcgtc
+            agcgggcaagtcaacacctttaacccatccaaagcgagcagtgggttaattgtcgatacc
+            cttgccgcccagttttatgatcgactgctggatgtcgatccctatacctatcgcctgatg
+            ccggaacttgccgaaagctgggaagtactcgacaacggcgcgacctatcgcttccacctg
+            cgtcgcgatgttccgtttcaaaaaaccgactggtttactcccactcgtaaaatgaatgcc
+            gacgatgtggtgtttaccttccagcgaatttttgaccgcaacaacccgtggcataacgtc
+            aacggcagcaacttcccctacttcgacagcctgcaatttgccgataacgtgaaaagcgtc
+            cgcaaactggataatcataccgttgagttccgactcgcccagccggatgcttcttttttg
+            tggcacctcgcaacccattatgcttcggtcatgtcggcagaatatgcccggaagttagag
+            aaagaagatcgccaggagcaactcgaccgtcaaccggtcggcaccggtccgtatcagttg
+            tcggaataccgcgccgggcaatttattcgcctacaacgtcatgatgacttctggcgcggt
+            aaaccgttaatgccgcaggtagtggtggatttaggctccggcggcaccggacgtctgtcg
+            aaactcctgaccggggaatgcgacgttctggcctggcctgctgccagccagctatccatt
+            ttgcgtgacgacccgcgcttgcgtttaacgctgcgtcctgggatgaacgtcgcctatctg
+            gcatttaacaccgccaaaccgccgctaaataatcccgctgtccgccatgcgctggcactg
+            gcgattaataaccagcgcctgatgcaatccatctattatggtacggctgaaacggcggcc
+            tctattttaccgcgcgcctcgtgggcctatgacaacgaggctaaaattactgaatacaat
+            ccggcgaaatcgcgcgaacagttgaagtcgttggggctggaaaatttaacgctgaaactg
+            tgggtgcccacacgttcgcaggcgtggaaccccagtccactgaaaactgccgaactgatt
+            caggcggatatggcgcaggttggcgtaaaagtggtgattgtgccggtagaaggtcgcttt
+            caggaggcgcggttgatggatatgagccatgatctgacgttatccggttgggcgacggac
+            agtaacgacccggacagtttcttccgtccgttactgagctgcgcggcaattcattcgcag
+            accaacctcgcccactggtgcgatccgaaattcgacagcgtattgcgtaaggcgctctct
+            tcgcagcagctggcggcgcgtattgaagcctatgacgaagcgcagagtattctggcgcag
+            gaattgcccattttgccgctggcgtcgtcattgcgtttgcaggcctatcggtacgatatc
+            aaaggtctggtacttagcccgtttggtaacgcctcctttgctggggtgtatcgcgagaaa
+            caggatgaggtgaaaaaaccatga
+///

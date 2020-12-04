@@ -1,0 +1,45 @@
+ENTRY       b1949             CDS       T00007
+NAME        fliQ
+DEFINITION  (RefSeq) flagellar biosynthesis protein FliQ
+ORTHOLOGY   K02420  flagellar biosynthetic protein FliQ
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1949 (fliQ)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b1949 (fliQ)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1949 (fliQ)
+            Secretion system [BR:eco02044]
+             Type III secretion system
+              Flagellar export apparatus
+               b1949 (fliQ)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Type-III secretion
+                b1949 (fliQ)
+POSITION    2022616..2022885
+MOTIF       Pfam: Bac_export_3 Bac_export_1 RTX DUF5357
+DBLINKS     NCBI-GeneID: 946463
+            NCBI-ProteinID: NP_416459
+            Pasteur: fliQ
+            RegulonDB: ECK120001901
+            ECOCYC: EG11976
+            ASAP: ABE-0006477
+            UniProt: P0AC07
+AASEQ       89
+            MTPESVMMMGTEAMKVALALAAPLLLVALVTGLIISILQAATQINEMTLSFIPKIIAVFI
+            AIIIAGPWMLNLLLDYVRTLFTNLPYIIG
+NTSEQ       270
+            atgacacctgaatcggtcatgatgatggggactgaagcgatgaaagtcgcgctggcactg
+            gctgccccgctattgttggtagcgttggtcacgggccttatcatcagtattttgcaggcc
+            gccacgcagattaacgaaatgacgctgtcgtttattccgaaaatcatcgccgtatttatc
+            gccattattattgccggaccgtggatgctcaatctgttgctggattacgtccgcaccttg
+            ttcactaacctgccgtatatcatcgggtag
+///

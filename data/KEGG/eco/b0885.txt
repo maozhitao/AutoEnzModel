@@ -1,0 +1,45 @@
+ENTRY       b0885             CDS       T00007
+NAME        aat
+DEFINITION  (RefSeq) leucyl/phenylalanyl-tRNA--protein transferase
+ORTHOLOGY   K00684  leucyl/phenylalanyl-tRNA---protein transferase [EC:2.3.2.6]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0885 (aat)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.2  Aminoacyltransferases
+                2.3.2.6  lysine/arginine leucyltransferase
+                 b0885 (aat)
+POSITION    complement(926728..927432)
+MOTIF       Pfam: Leu_Phe_trans Acetyltransf_6
+DBLINKS     NCBI-GeneID: 945490
+            NCBI-ProteinID: NP_415405
+            Pasteur: aat
+            RegulonDB: ECK120001098
+            ECOCYC: EG11112
+            ASAP: ABE-0003009
+            UniProt: P0A8P1
+STRUCTURE   PDB: 2CXA 2Z3O 2DPS 2Z3N 2Z3P 2Z3M 2Z3L 2DPT 2Z3K
+AASEQ       234
+            MRLVQLSRHSIAFPSPEGALREPNGLLALGGDLSPARLLMAYQRGIFPWFSPGDPILWWS
+            PDPRAVLWPESLHISRSMKRFHKRSPYRVTMNYAFGQVIEGCASDREEGTWITRGVVEAY
+            HRLHELGHAHSIEVWREDELVGGMYGVAQGTLFCGESMFSRMENASKTALLVFCEEFIGH
+            GGKLIDCQVLNDHTASLGACEIPRRDYLNYLNQMRLGRLPNNFWVPRCLFSPQE
+NTSEQ       705
+            atgcgcctggttcagctttctcgccattcaatagccttcccttccccggaaggcgcatta
+            cgtgagcctaacggcctgctggcacttgggggcgatcttagccctgcgcgcctgttaatg
+            gcttaccagcgtggtatttttccgtggttttctccaggcgaccccatcctctggtggtcg
+            cccgatccccgcgcggtgctatggccagaatcactgcatatcagccgtagtatgaagcga
+            tttcataaacgctcgccctatcgtgtcacgatgaattacgcttttggtcaggtcattgaa
+            ggctgtgccagcgatcgcgaagaaggaacctggatcacgcgtggcgtggtcgaagcctac
+            catcgccttcacgaactcggccatgcccactccattgaagtctggcgtgaagatgagctt
+            gtcggcggtatgtacggcgtggcccagggaacgctattttgtggcgagtccatgttcagc
+            cggatggaaaatgcgtctaaaacggcgcttctggtattctgtgaggaatttatcggtcat
+            ggcggtaagcttatcgactgccaggtccttaacgatcacacagcatcgcttggtgcctgc
+            gaaattccccgccgggattaccttaattatctcaatcaaatgcgcctcggacgattgccg
+            aataatttctgggtaccacgatgcttgttttcaccacaagaatga
+///

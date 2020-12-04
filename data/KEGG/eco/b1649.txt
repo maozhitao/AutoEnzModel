@@ -1,0 +1,42 @@
+ENTRY       b1649             CDS       T00007
+NAME        nemR
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor NemR
+ORTHOLOGY   K16137  TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1649 (nemR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               TetR/AcrR family
+                b1649 (nemR)
+POSITION    1726023..1726622
+MOTIF       Pfam: TetR_C_13 TetR_N TetR_C_6 SPOC
+DBLINKS     NCBI-GeneID: 946166
+            NCBI-ProteinID: NP_416166
+            Pasteur: ydhM
+            RegulonDB: ECK120003478
+            ECOCYC: G6889
+            ASAP: ABE-0005514
+            UniProt: P67430
+STRUCTURE   PDB: 4YZE
+AASEQ       199
+            MNKHTEHDTREHLLATGEQLCLQRGFTGMGLSELLKTAEVPKGSFYHYFRSKEAFGVAML
+            ERHYAAYHQRLTELLQSGEGNYRDRILAYYQQTLNQFCQHGTISGCLTVKLSAEVCDLSE
+            DMRSAMDKGARGVIALLSQALENGRENHCLTFCGEPLQQAQVLYALWLGANLQAKISRSF
+            EPLENALAHVKNIIATPAV
+NTSEQ       600
+            atgaacaaacacaccgaacatgatactcgcgaacatctcctggcgacgggcgagcaactt
+            tgcctgcaacgtggattcaccgggatggggctaagcgaattactaaaaaccgctgaagtg
+            ccgaaagggtccttctatcactactttcgctctaaagaagcgtttggcgttgccatgctt
+            gagcgtcattacgccgcatatcaccagcgactgactgagttgctgcaatccggcgaaggt
+            aactaccgcgaccgcatactggcttattaccagcaaacactgaaccagttttgccaacat
+            ggaaccatcagtggttgcctgacagtaaaactctctgccgaagtgtgcgatctgtcagaa
+            gatatgcgcagcgcgatggataaaggtgctcgcggcgtgatcgccctgctctctcaggcg
+            ctggaaaatggccgtgagaaccattgtttaaccttttgtggcgaaccgctgcaacaggca
+            caagtgctttacgcactgtggcttggcgcgaatctgcaggccaaaatttcgcgcagtttc
+            gagccactggaaaacgcgctggcccatgtaaaaaacattattgcgacgcctgccgtttag
+///

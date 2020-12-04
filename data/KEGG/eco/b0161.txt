@@ -1,0 +1,82 @@
+ENTRY       b0161             CDS       T00007
+NAME        degP
+DEFINITION  (RefSeq) periplasmic serine endoprotease DegP
+ORTHOLOGY   K04771  serine protease Do [EC:3.4.21.107]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01503  Cationic antimicrobial peptide (CAMP) resistance
+            eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0161 (degP)
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b0161 (degP)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b0161 (degP)
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b0161 (degP)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.107  peptidase Do
+                 b0161 (degP)
+            Peptidases and inhibitors [BR:eco01002]
+             Serine peptidases
+              Family S1: chymotrypsin family
+               b0161 (degP)
+            Chaperones and folding catalysts [BR:eco03110]
+             Other chaperones and cochaperones
+              DegP / HtrA
+               b0161 (degP)
+POSITION    180884..182308
+MOTIF       Pfam: Trypsin_2 PDZ PDZ_2 PDZ_6 Trypsin PDZ_1 DUF3394 Peptidase_S46 STT3_PglB_C
+DBLINKS     NCBI-GeneID: 947139
+            NCBI-ProteinID: NP_414703
+            Pasteur: degP
+            RegulonDB: ECK120000456
+            ECOCYC: EG10463
+            ASAP: ABE-0000551
+            UniProt: P0C0V0
+STRUCTURE   PDB: 1KY9 3MH7 3OU0 3MH5 3CS0 3MH4 3MH6 3OTP 4A8D 2ZLE
+AASEQ       474
+            MKKTTLALSALALSLGLALSPLSATAAETSSATTAQQMPSLAPMLEKVMPSVVSINVEGS
+            TTVNTPRMPRNFQQFFGDDSPFCQEGSPFQSSPFCQGGQGGNGGGQQQKFMALGSGVIID
+            ADKGYVVTNNHVVDNATVIKVQLSDGRKFDAKMVGKDPRSDIALIQIQNPKNLTAIKMAD
+            SDALRVGDYTVAIGNPFGLGETVTSGIVSALGRSGLNAENYENFIQTDAAINRGNSGGAL
+            VNLNGELIGINTAILAPDGGNIGIGFAIPSNMVKNLTSQMVEYGQVKRGELGIMGTELNS
+            ELAKAMKVDAQRGAFVSQVLPNSSAAKAGIKAGDVITSLNGKPISSFAALRAQVGTMPVG
+            SKLTLGLLRDGKQVNVNLELQQSSQNQVDSSSIFNGIEGAEMSNKGKDQGVVVNNVKTGT
+            PAAQIGLKKGDVIIGANQQAVKNIAELRKVLDSKPSVLALNIQRGDSTIYLLMQ
+NTSEQ       1425
+            atgaaaaaaaccacattagcactgagtgcactggctctgagtttaggtttggcgttatct
+            ccgctctctgcaacggcggctgagacttcttcagcaacgacagcccagcagatgccaagc
+            cttgcaccgatgctcgaaaaggtgatgccttcagtggtcagcattaacgtagaaggtagc
+            acaaccgttaatacgccgcgtatgccgcgtaatttccagcagttcttcggtgatgattct
+            ccgttctgccaggaaggttctccgttccagagctctccgttctgccagggtggccagggc
+            ggtaatggtggcggccagcaacagaaattcatggcgctgggttccggcgtcatcattgat
+            gccgataaaggctatgtcgtcaccaacaaccacgttgttgataacgcgacggtcattaaa
+            gttcaactgagcgatggccgtaagttcgacgcgaagatggttggcaaagatccgcgctct
+            gatatcgcgctgatccaaatccagaacccgaaaaacctgaccgcaattaagatggcggat
+            tctgatgcactgcgcgtgggtgattacaccgtagcgattggtaacccgtttggtctgggc
+            gagacggtaacttccgggattgtctctgcgctggggcgtagcggcctgaatgccgaaaac
+            tacgaaaacttcatccagaccgatgcagcgatcaaccgtggtaactccggtggtgcgctg
+            gttaacctgaacggcgaactgatcggtatcaacaccgcgatcctcgcaccggacggcggc
+            aacatcggtatcggttttgctatcccgagtaacatggtgaaaaacctgacctcgcagatg
+            gtggaatacggccaggtgaaacgcggtgagctgggtattatggggactgagctgaactcc
+            gaactggcgaaagcgatgaaagttgacgcccagcgcggtgctttcgtaagccaggttctg
+            cctaattcctccgctgcaaaagcgggcattaaagcgggtgatgtgatcacctcactgaac
+            ggtaagccgatcagcagctttgccgcactgcgtgctcaggtgggtactatgccggtaggc
+            agcaaactgaccctgggcttactgcgcgacggtaagcaggttaacgtgaacctggaactg
+            cagcagagcagccagaatcaggttgattccagctccatcttcaacggcattgaaggcgct
+            gagatgagcaacaaaggcaaagatcagggcgtggtagtgaacaacgtgaaaacgggcact
+            ccggctgcgcagatcggcctgaagaaaggtgatgtgattattggcgcgaaccagcaggca
+            gtgaaaaacatcgctgaactgcgtaaagttctcgacagcaaaccgtctgtgctggcactc
+            aacattcagcgcggcgacagcaccatctacctgttaatgcagtaa
+///

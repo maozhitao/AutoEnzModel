@@ -1,0 +1,46 @@
+ENTRY       b4361             CDS       T00007
+NAME        dnaC
+DEFINITION  (RefSeq) DNA replication protein DnaC
+ORTHOLOGY   K02315  DNA replication protein DnaC
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b4361 (dnaC)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Initiation Factors
+               Initiation factors (bacterial)
+                b4361 (dnaC)
+POSITION    complement(4600238..4600975)
+MOTIF       Pfam: IstB_IS21 AAA Bac_DnaA ArsA_ATPase RNA_helicase CbiA ResIII ATPase PIF1 RuvB_N AAA_11 AAA_30 Sigma54_activat PhoH AAA_33 MeaB Torsin Mg_chelatase
+DBLINKS     NCBI-GeneID: 948864
+            NCBI-ProteinID: NP_418781
+            Pasteur: dnaC
+            RegulonDB: ECK120000231
+            ECOCYC: EG10237
+            ASAP: ABE-0014304
+            UniProt: P0AEF0
+STRUCTURE   PDB: 6QEM 6QEL
+AASEQ       245
+            MKNVGDLMQRLQKMMPAHIKPAFKTGEELLAWQKEQGAIRSAALERENRAMKMQRTFNRS
+            GIRPLHQNCSFENYRVECEGQMNALSKARQYVEEFDGNIASFIFSGKPGTGKNHLAAAIC
+            NELLLRGKSVLIITVADIMSAMKDTFRNSGTSEEQLLNDLSNVDLLVIDEIGVQTESKYE
+            KVIINQIVDRRSSSKRPTGMLTNSNMEEMTKLLGERVMDRMRLGNSLWVIFNWDSYRSRV
+            TGKEY
+NTSEQ       738
+            atgaaaaacgttggcgacctgatgcaacgcctgcaaaaaatgatgcctgcccatatcaaa
+            cccgcattcaaaacgggtgaagaactactggcctggcaaaaagaacaaggagcgatccgc
+            tccgccgctctcgaacgtgaaaatcgggcgatgaaaatgcagcgcacctttaaccgctcc
+            ggtattcgtccactgcatcagaactgttcctttgagaactatcgcgttgagtgtgaaggg
+            cagatgaatgcgttaagcaaagcgcgccagtatgtcgaagagtttgacggcaacatcgcc
+            agcttcatcttttctggtaagccaggaaccggcaaaaaccatctggcggcggcaatctgc
+            aacgagctgctgctacgcggtaaatccgtattgatcatcaccgtggccgatattatgtcg
+            gcgatgaaagataccttcaggaatagcggtaccagcgaagaacaactgcttaacgatctg
+            agcaacgttgatctgctggtgatcgatgagatcggcgtgcagaccgaatcgaaatacgaa
+            aaagtgatcatcaaccagatcgtcgatcgccgctcttcttccaaacgcccaaccgggatg
+            ctgaccaacagtaatatggaagagatgaccaagttgctgggcgaacgcgtgatggaccgt
+            atgcgcctgggtaacagtttgtgggtgatcttcaactgggatagctaccgtagccgggta
+            acaggtaaagagtattaa
+///

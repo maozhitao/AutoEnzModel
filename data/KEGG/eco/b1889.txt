@@ -1,0 +1,63 @@
+ENTRY       b1889             CDS       T00007
+NAME        motB
+DEFINITION  (RefSeq) motility protein B
+ORTHOLOGY   K02557  chemotaxis protein MotB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02030  Bacterial chemotaxis
+            eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02030 Bacterial chemotaxis
+                b1889 (motB)
+               02040 Flagellar assembly
+                b1889 (motB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1889 (motB)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1889 (motB)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b1889 (motB)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Motor/switch
+                b1889 (motB)
+POSITION    complement(1975329..1976255)
+MOTIF       Pfam: MotB_plug OmpA
+DBLINKS     NCBI-GeneID: 946402
+            NCBI-ProteinID: NP_416403
+            Pasteur: motB
+            RegulonDB: ECK120000595
+            ECOCYC: EG10602
+            ASAP: ABE-0006297
+            UniProt: P0AF06
+AASEQ       308
+            MKNQAHPIIVVKRRKAKSHGAAHGSWKIAYADFMTAMMAFFLVMWLISISSPKELIQIAE
+            YFRTPLATAVTGGDRISNSESPIPGGGDDYTQSQGEVNKQPNIEELKKRMEQSRLRKLRG
+            DLDQLIESDPKLRALRPHLKIDLVQEGLRIQIIDSQNRPMFRTGSADVEPYMRDILRAIA
+            PVLNGIPNRISLSGHTDDFPYASGEKGYSNWELSADRANASRRELMVGGLDSGKVLRVVG
+            MAATMRLSDRGPDDAVNRRISLLVLNKQAEQAILHENAESQNEPVSALEKPEVAPQVSVP
+            TMPSAEPR
+NTSEQ       927
+            atgaagaatcaagcgcatccgattattgtcgtcaaacgacgcaaagccaaaagccacggg
+            gcagcacatggatcgtggaagattgcttatgccgactttatgactgcgatgatggccttt
+            tttctggtgatgtggctgatctccatctccagcccaaaagagctgattcagattgcggag
+            tacttccggactccactggcgactgcggttacgggcggcgatcgcatttctaatagtgaa
+            agcccaattcccggcggtggtgatgattacacccaaagccagggggaagtgaataagcag
+            ccgaacatcgaagagctgaaaaaacgcatggagcaaagtcgattgcggaaattgcggggt
+            gatctcgaccagttgatagagtccgatccgaaactgcgggcgttacgtccccatctcaaa
+            atcgatctggtccaggaaggtctacgtattcagatcatcgatagccagaatcgcccgatg
+            tttagaaccggcagtgccgatgtcgaaccctatatgcgcgacattctgcgcgccattgcg
+            cctgtactgaacggtattcccaaccgtattagcctttcaggtcataccgatgatttcccc
+            tacgccagcggtgagaaaggatatagcaactgggagctttctgccgatcgggccaatgca
+            tcccgccgcgaactgatggtcggagggttggatagcggcaaagtgttacgtgtcgtcggc
+            atggcggcaacgatgcgcttaagcgatcgcggacctgatgatgccgtcaaccgtcgcatc
+            agcctgctggtactgaacaaacaagccgaacaggccattttgcatgaaaacgccgaaagc
+            cagaatgagccagtaagcgccctggaaaaacctgaggttgcaccacaggtcagtgttccc
+            acaatgccatcagccgaaccgaggtga
+///

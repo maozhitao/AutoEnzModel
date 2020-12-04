@@ -1,0 +1,112 @@
+ENTRY       b3396             CDS       T00007
+NAME        mrcA
+DEFINITION  (RefSeq) peptidoglycan glycosyltransferase/peptidoglycan DD-transpeptidase MrcA
+ORTHOLOGY   K05366  penicillin-binding protein 1A [EC:2.4.1.129 3.4.16.4]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00550  Peptidoglycan biosynthesis
+            eco01100  Metabolic pathways
+            eco01501  beta-Lactam resistance
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09107 Glycan biosynthesis and metabolism
+               00550 Peptidoglycan biosynthesis
+                b3396 (mrcA)
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01501 beta-Lactam resistance
+                b3396 (mrcA)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01003 Glycosyltransferases [BR:eco01003]
+                b3396 (mrcA)
+               01011 Peptidoglycan biosynthesis and degradation proteins [BR:eco01011]
+                b3396 (mrcA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.1  Hexosyltransferases
+                2.4.1.129  peptidoglycan glycosyltransferase
+                 b3396 (mrcA)
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.16  Serine-type carboxypeptidases
+                3.4.16.4  serine-type D-Ala-D-Ala carboxypeptidase
+                 b3396 (mrcA)
+            Glycosyltransferases [BR:eco01003]
+             Polysaccharide
+              Bacterial polysaccharide
+               b3396 (mrcA)
+            Peptidoglycan biosynthesis and degradation proteins [BR:eco01011]
+             Peptidoglycan biosynthesis and degradation
+              Glycosyltransferase/DD-Transpeptidase (Class A PBP)
+               b3396 (mrcA)
+POSITION    3522871..3525423
+MOTIF       Pfam: Transgly PCB_OB Transpeptidase DUF3502
+DBLINKS     NCBI-GeneID: 947907
+            NCBI-ProteinID: NP_417855
+            Pasteur: mrcA
+            RegulonDB: ECK120000739
+            ECOCYC: EG10748
+            ASAP: ABE-0011082
+            UniProt: P02918
+AASEQ       850
+            MKFVKYFLILAVCCILLGAGSIYGLYRYIEPQLPDVATLKDVRLQIPMQIYSADGELIAQ
+            YGEKRRIPVTLDQIPPEMVKAFIATEDSRFYEHHGVDPVGIFRAASVALFSGHASQGAST
+            ITQQLARNFFLSPERTLMRKIKEVFLAIRIEQLLTKDEILELYLNKIYLGYRAYGVGAAA
+            QVYFGKTVDQLTLNEMAVIAGLPKAPSTFNPLYSMDRAVARRNVVLSRMLDEGYITQQQF
+            DQTRTEAINANYHAPEIAFSAPYLSEMVRQEMYNRYGESAYEDGYRIYTTITRKVQQAAQ
+            QAVRNNVLDYDMRHGYRGPANVLWKVGESAWDNNKITDTLKALPTYGPLLPAAVTSANPQ
+            QATAMLADGSTVALSMEGVRWARPYRSDTQQGPTPRKVTDVLQTGQQIWVRQVGDAWWLA
+            QVPEVNSALVSINPQNGAVMALVGGFDFNQSKFNRATQALRQVGSNIKPFLYTAAMDKGL
+            TLASMLNDVPISRWDASAGSDWQPKNSPPQYAGPIRLRQGLGQSKNVVMVRAMRAMGVDY
+            AAEYLQRFGFPAQNIVHTESLALGSASFTPMQVARGYAVMANGGFLVDPWFISKIENDQG
+            GVIFEAKPKVACPECDIPVIYGDTQKSNVLENNDVEDVAISREQQNVSVPMPQLEQANQA
+            LVAKTGAQEYAPHVINTPLAFLIKSALNTNIFGEPGWQGTGWRAGRDLQRRDIGGKTGTT
+            NSSKDAWFSGYGPGVVTSVWIGFDDHRRNLGHTTASGAIKDQISGYEGGAKSAQPAWDAY
+            MKAVLEGVPEQPLTPPPGIVTVNIDRSTGQLANGGNSREEYFIEGTQPTQQAVHEVGTTI
+            IDNGEAQELF
+NTSEQ       2553
+            gtgaagttcgtaaagtattttttgatccttgcagtctgttgcattctgctgggagcaggc
+            tcgatttatggcctataccgctacatcgagccacaactgccggatgtggcgacattaaaa
+            gatgttcgcctgcaaattccgatgcagatttacagcgccgatggcgagctgattgctcaa
+            tacggtgagaaacgtcgtattccggttacgttggatcaaatcccaccggagatggtgaaa
+            gcctttatcgcgacagaagacagccgcttctacgagcatcacggcgttgacccggtgggg
+            atcttccgtgcagcaagcgtggcgctgttctccggtcacgcgtcacaaggggcaagtacc
+            attacccagcagctggcgagaaacttcttcctcagtccagaacgcacgctgatgcgtaag
+            attaaggaagtcttcctcgcgattcgcattgaacagctgctgacgaaagacgagatcctc
+            gagctttatctgaacaagatttaccttggttaccgcgcctatggtgtcggtgctgcggca
+            caagtctatttcggaaaaacggtcgaccaactgacgctgaacgaaatggcggtgatagcc
+            gggctgccgaaagcgccttccaccttcaacccgctctactcgatggatcgtgccgtcgcg
+            cggcgtaacgtcgtgctgtcgcggatgctggatgaagggtatatcacccaacaacagttc
+            gatcagacacgcactgaggcgattaacgctaactatcacgcgccggagattgctttctct
+            gcgccgtacctgagcgaaatggtgcgccaggagatgtataaccgttatggcgaaagtgcc
+            tatgaagacggttatcgcatttacaccaccatcacccgcaaagtgcagcaggccgcgcag
+            caggcggtacgtaataacgtgctggactacgacatgcgccacggctatcgcggcccggca
+            aatgtgctgtggaaagtgggcgagtcggcgtgggataacaacaagattaccgatacgctg
+            aaggcgctgccaacctatggtccgctgctgcctgccgcagtcaccagcgccaatcctcag
+            caagcgacggcgatgctggcggacgggtcgaccgtcgcattgagtatggaaggcgttcgc
+            tgggcgcgtccttaccgttcggatactcagcaaggaccgacgccgcgtaaagtgaccgat
+            gttctgcaaacgggtcagcaaatctgggttcgtcaggttggcgatgcatggtggctggca
+            caagtgccggaagtgaactcggcgctggtgtcgatcaatccgcaaaacggtgccgttatg
+            gcgctggtcggtggctttgatttcaatcagagcaagtttaaccgcgccacccaggcactg
+            cgtcaggtgggttccaacatcaaaccgttcctctacaccgcggcgatggataaaggtctg
+            acgctggcaagtatgttgaacgatgtgccaatttctcgctgggatgcaagtgccggttct
+            gactggcagccgaagaactcaccaccgcagtatgctggtccaattcgcttacgtcagggg
+            ctgggtcagtcgaaaaacgtggtgatggtacgcgcaatgcgggcgatgggcgtcgactac
+            gctgcagaatatctgcaacgcttcggcttcccggcacaaaacattgtccacaccgaatcg
+            ctggcgctgggttcagcgtccttcaccccaatgcaggtggcgcgcggctacgcggtcatg
+            gcgaacggcggcttcctggtggacccgtggtttatcagcaaaattgaaaacgatcagggc
+            ggcgtgattttcgaagcgaaaccgaaagtagcctgcccggaatgcgatattccggtgatt
+            tacggtgatacgcagaaatcgaacgtgctggaaaataacgatgttgaagatgtcgctatc
+            tcccgcgagcagcagaatgtttctgtaccaatgccgcagctggagcaggcaaatcaggcg
+            ttagtggcgaagactggcgcgcaggagtacgcaccgcacgtcatcaacactccgctggca
+            ttcctgattaagagtgctttgaacaccaatatctttggtgagccaggctggcagggtact
+            ggctggcgtgcaggtcgtgatttgcagcgtcgcgatatcggcgggaaaaccgggaccact
+            aacagttcgaaagatgcgtggttctcgggttacggtccgggcgttgtgacctcggtctgg
+            attggctttgatgatcaccgtcgtaatctcggtcatacaacggcttccggagcgattaaa
+            gatcagatctcaggttacgaaggcggtgccaagagtgcccagcctgcatgggacgcttat
+            atgaaagccgttcttgaaggtgtgccggagcagccgctgacgccgccaccgggtattgtg
+            acggtgaatatcgatcgcagcaccgggcagttagctaatggtggcaacagccgcgaagag
+            tatttcatcgaaggtacgcagccgacacaacaggcagtgcacgaggtgggaacgaccatt
+            atcgataatggcgaggcacaggaattgttctga
+///

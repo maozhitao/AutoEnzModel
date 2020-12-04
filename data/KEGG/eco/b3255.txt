@@ -1,0 +1,48 @@
+ENTRY       b3255             CDS       T00007
+NAME        accB
+DEFINITION  (RefSeq) biotin carboxyl carrier protein
+ORTHOLOGY   K02160  acetyl-CoA carboxylase biotin carboxyl carrier protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00061  Fatty acid biosynthesis
+            eco00620  Pyruvate metabolism
+            eco00640  Propanoate metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+            eco01120  Microbial metabolism in diverse environments
+            eco01200  Carbon metabolism
+            eco01212  Fatty acid metabolism
+MODULE      eco_M00082  Fatty acid biosynthesis, initiation
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00620 Pyruvate metabolism
+                b3255 (accB)
+               00640 Propanoate metabolism
+                b3255 (accB)
+              09103 Lipid metabolism
+               00061 Fatty acid biosynthesis
+                b3255 (accB)
+POSITION    3405436..3405906
+MOTIF       Pfam: Biotin_lipoyl Biotin_lipoyl_2 RnfC_N GCV_H Prot_ATP_OB_N
+DBLINKS     NCBI-GeneID: 947758
+            NCBI-ProteinID: NP_417721
+            Pasteur: accB
+            RegulonDB: ECK120000269
+            ECOCYC: EG10275
+            ASAP: ABE-0010675
+            UniProt: P0ABD8
+STRUCTURE   PDB: 1BDO 4HR7 3BDO 2BDO 1A6X
+AASEQ       156
+            MDIRKIKKLIELVEESGISELEISEGEESVRISRAAPAASFPVMQQAYAAPMMQQPAQSN
+            AAAPATVPSMEAPAAAEISGHIVRSPMVGTFYRTPSPDAKAFIEVGQKVNVGDTLCIVEA
+            MKMMNQIEADKSGTVKAILVESGQPVEFDEPLVVIE
+NTSEQ       471
+            atggatattcgtaagattaaaaaactgatcgagctggttgaagaatcaggcatctccgaa
+            ctggaaatttctgaaggcgaagagtcagtacgcattagccgtgcagctcctgccgcaagt
+            ttccctgtgatgcaacaagcttacgctgcaccaatgatgcagcagccagctcaatctaac
+            gcagccgctccggcgaccgttccttccatggaagcgccagcagcagcggaaatcagtggt
+            cacatcgtacgttccccgatggttggtactttctaccgcaccccaagcccggacgcaaaa
+            gcgttcatcgaagtgggtcagaaagtcaacgtgggcgataccctgtgcatcgttgaagcc
+            atgaaaatgatgaaccagatcgaagcggacaaatccggtaccgtgaaagcaattctggtc
+            gaaagtggacaaccggtagaatttgacgagccgctggtcgtcatcgagtaa
+///

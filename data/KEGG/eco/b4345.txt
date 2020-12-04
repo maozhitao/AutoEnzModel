@@ -1,0 +1,51 @@
+ENTRY       b4345             CDS       T00007
+NAME        mcrC
+DEFINITION  (RefSeq) 5-methylcytosine-specific restriction enzyme subunit McrC
+ORTHOLOGY   K19147  5-methylcytosine-specific restriction enzyme subunit McrC
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4345 (mcrC)
+            Prokaryotic defense system [BR:eco02048]
+             Restriction and modification system (R-M system)
+              Type IV R-M system
+               b4345 (mcrC)
+POSITION    complement(4576912..4577958)
+MOTIF       Pfam: McrBC Cas_Cas4
+DBLINKS     NCBI-GeneID: 948880
+            NCBI-ProteinID: NP_418765
+            Pasteur: mcrC
+            RegulonDB: ECK120000568
+            ECOCYC: EG10575
+            ASAP: ABE-0014248
+            UniProt: P15006
+STRUCTURE   PDB: 6HZ4 6HZ5 6HZ6 6HZ7 6HZ8 6HZ9
+AASEQ       348
+            MEQPVIPVRNIYYMLTYAWGYLQEIKQANLEAIPGNNLLDILGYVLNKGVLQLSRRGLEL
+            DYNPNTEIIPGIKGRIEFAKTIRGFHLNHGKTVSTFDMLNEDTLANRIIKSTLAILIKHE
+            KLNSTIRDEARSLYRKLPGISTLHLTPQHFSYLNGGKNTRYYKFVISVCKFIVNNSIPGQ
+            NKGHYRFYDFERNEKEMSLLYQKFLYEFCRRELTSANTTRSYLKWDASSISDQSLNLLPR
+            METDITIRSSEKILIVDAKYYKSIFSRRMGTEKFHSQNLYQLMNYLWSLKPENGENIGGL
+            LIYPHVDTAVKHRYKINGFDIGLCTVNLGQEWPCIHQELLDIFDEYLK
+NTSEQ       1047
+            gtggaacagcccgtgatacctgtccgtaatatctattacatgcttacctatgcatggggt
+            tatttacaggaaattaagcaggcaaaccttgaagccatacccggtaacaatcttcttgat
+            atcctggggtatgtattaaataaaggggttttacagctttcacgccgagggcttgagctt
+            gattacaatcctaacaccgagatcattcctggcatcaaagggcgaatagagtttgctaaa
+            acaatacgcggcttccatcttaatcatgggaaaaccgtcagtacttttgatatgcttaat
+            gaagacacgctggctaaccgaattataaaaagcacattagccatattaattaagcatgaa
+            aagttaaattcaactatcagagatgaagctcgttcactttatagaaaattaccgggcatt
+            agcactcttcatttaactccgcagcatttcagctatctgaatggcggaaaaaatacgcgt
+            tattataaattcgttatcagtgtctgcaaattcatcgtcaataattctattccaggtcaa
+            aacaaaggacactaccgtttctatgattttgaaagaaacgaaaaagagatgtcattactt
+            tatcaaaagtttctttatgaattttgccgtcgtgaattaacgtctgcaaacacaacccgc
+            tcttatttaaaatgggatgcatcgagtatatcggatcagtcacttaatttgttacctcga
+            atggaaactgacatcaccattcgctcatcagaaaaaatacttatcgttgacgccaaatac
+            tataagagcattttttcacgacgaatgggaacagaaaaatttcattcgcaaaatctttat
+            caactgatgaattacttatggtcgttaaagcctgaaaatggcgaaaacataggggggtta
+            ttaatatatccccacgtagataccgcagtgaaacatcgttataaaattaatggcttcgat
+            attggcttgtgtaccgtcaatttaggtcaggaatggccgtgtatacatcaagaattactc
+            gacattttcgatgaatatctcaaataa
+///

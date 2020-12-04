@@ -1,0 +1,50 @@
+ENTRY       b2575             CDS       T00007
+NAME        yfiC
+DEFINITION  (RefSeq) tRNA m(6)A37 methyltransferase
+ORTHOLOGY   K15460  tRNA1Val (adenine37-N6)-methyltransferase [EC:2.1.1.223]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b2575 (yfiC)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.223  tRNA1Val (adenine37-N6)-methyltransferase
+                 b2575 (yfiC)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Methyltransferases
+                b2575 (yfiC)
+POSITION    complement(2712027..2712764)
+MOTIF       Pfam: MTS Methyltransf_25 Cons_hypoth95 Methyltransf_3 Methyltransf_31 UPF0020 PrmA Methyltransf_11 PRMT5 Methyltransf_23 PCMT NodS Methyltransf_32 Methyltransf_10 Methyltransf_18 Methyltransf_12 RrnaAD Methyltransf_4 TrmK Met_10 CMAS Methyltransf_24 Methyltransf_16 Eco57I
+DBLINKS     NCBI-GeneID: 947047
+            NCBI-ProteinID: NP_417070
+            Pasteur: yfiC
+            RegulonDB: ECK120001492
+            ASAP: ABE-0008473
+            UniProt: P31825
+AASEQ       245
+            MSQSTSVLRRNGFTFKQFFVAHDRCAMKVGTDGILLGAWAPVAGVKRCLDIGAGSGLLAL
+            MLAQRTDDSVMIDAVELESEAAAQAQENINQSPWAERINVHTADIQQWITQQTVRFDLII
+            SNPPYYQQGVECSTPQREQARYTTTLDHPSLLTCAAECITEEGFFCVVLPEQIGNGFTEL
+            ALSMGWHLRLRTDVAENEARLPHRVLLAFSPQAGECFSDRLVIRGPDQNYSEAYTALTQA
+            FYLFM
+NTSEQ       738
+            atgtcacagtctacatccgtgcttcgtcgtaatggatttacttttaaacagttttttgtt
+            gctcacgatcgctgtgcgatgaaagtgggaacggatggtattttattgggcgcatgggca
+            ccggtggctggggtaaaacgttgccttgatatcggcgcgggtagcgggttgctggcatta
+            atgctggcgcagcgaaccgatgacagcgtgatgattgatgcagttgaactggaaagtgaa
+            gctgccgcgcaggcgcaggaaaatatcaaccagtccccgtgggcagagcggattaacgtc
+            catacggcggatattcagcagtggatcacacagcagacagtacgcttcgatttaatcatc
+            agtaacccaccttactatcagcagggagtagagtgctcgacacctcaacgggaacaggct
+            cgctataccactacgcttgatcacccatcgttgctgacctgtgcggcggagtgcattacc
+            gaagagggatttttctgcgtagtgctgccagagcagattggtaatggttttacggagctg
+            gcattaagcatgggctggcatttacgtttgcggacggatgtggcggaaaacgaagcgcga
+            ctgccgcatcgggtgctgctggcattctccccgcaggcgggagaatgctttagcgatcgc
+            ttagtcattcgtgggccagaccagaactattccgaagcgtatacggcgctgacccaggct
+            ttttatctgtttatgtaa
+///

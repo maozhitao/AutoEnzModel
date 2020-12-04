@@ -1,0 +1,30 @@
+ENTRY       b4412             CDS       T00007
+NAME        hokC
+DEFINITION  (RefSeq) protein HokC
+ORTHOLOGY   K18919  protein HokC/D
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4412 (hokC)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               Hok-Sok
+                b4412 (hokC)
+POSITION    complement(16751..16903)
+MOTIF       Pfam: HOK_GEF
+DBLINKS     NCBI-GeneID: 2847744
+            NCBI-ProteinID: YP_025292
+            RegulonDB: ECK120002652
+            ECOCYC: G0-9563
+            ASAP: ABE-0047278
+            UniProt: P0ACG4
+AASEQ       50
+            MKQHKAMIVALIVICITAVVAALVTRKDLCEVHIRTGQTEVAVFTAYESE
+NTSEQ       153
+            atgaagcagcataaggcgatgattgtcgccctgatcgtcatctgtatcaccgccgtagtg
+            gcggcgctggtaacgagaaaagacctctgtgaggttcacatccgaactggccagacggag
+            gttgctgttttcacggcttacgaatccgagtaa
+///

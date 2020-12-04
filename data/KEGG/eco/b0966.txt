@@ -1,0 +1,35 @@
+ENTRY       b0966             CDS       T00007
+NAME        hspQ
+DEFINITION  (RefSeq) heat shock protein, hemimethylated DNA-binding protein
+ORTHOLOGY   K11940  heat shock protein HspQ
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b0966 (hspQ)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Nucleoid associated proteins
+               Other nucreoid associated proteins
+                b0966 (hspQ)
+POSITION    complement(1028404..1028721)
+MOTIF       Pfam: YccV-like
+DBLINKS     NCBI-GeneID: 945578
+            NCBI-ProteinID: NP_415486
+            RegulonDB: ECK120003100
+            ECOCYC: G6500
+            ASAP: ABE-0003269
+            UniProt: P0AB20
+STRUCTURE   PDB: 5YCQ
+AASEQ       105
+            MIASKFGIGQQVRHSLLGYLGVVVDIDPVYSLSEPSPDELAVNDELRAAPWYHVVMEDDN
+            GLPVHTYLAEAQLSSELQDEHPEQPSMDELAQTIRKQLQAPRLRN
+NTSEQ       318
+            atgattgccagcaaattcggtatcggccagcaggtccgccattccctgttaggttatctc
+            ggagtggtcgtggatatcgacccggtttattcgctctctgaaccgtcgcctgatgagctg
+            gcggtgaatgacgagcttcgcgccgctccgtggtatcacgtagtgatggaggacgataac
+            ggcctaccggttcatacctacctggctgaagcccagctaagtagcgaattgcaggatgaa
+            catcctgaacagccatccatggatgagctggcgcagaccatccgcaaacaactccaggcc
+            ccgcgtctgcgtaactaa
+///

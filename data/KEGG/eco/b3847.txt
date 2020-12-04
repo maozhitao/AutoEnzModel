@@ -1,0 +1,64 @@
+ENTRY       b3847             CDS       T00007
+NAME        pepQ
+DEFINITION  (RefSeq) Xaa-Pro dipeptidase
+ORTHOLOGY   K01271  Xaa-Pro dipeptidase [EC:3.4.13.9]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b3847 (pepQ)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.13  Dipeptidases
+                3.4.13.9  Xaa-Pro dipeptidase
+                 b3847 (pepQ)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M24
+               b3847 (pepQ)
+POSITION    4031161..4032492
+MOTIF       Pfam: Peptidase_M24 DUF3793
+DBLINKS     NCBI-GeneID: 948335
+            NCBI-ProteinID: NP_418289
+            Pasteur: pepQ
+            RegulonDB: ECK120000690
+            ECOCYC: EG10698
+            ASAP: ABE-0012569
+            UniProt: P21165
+STRUCTURE   PDB: 4QR8
+AASEQ       443
+            MESLASLYKNHIATLQERTRDALARFKLDALLIHSGELFNVFLDDHPYPFKVNPQFKAWV
+            PVTQVPNCWLLVDGVNKPKLWFYLPVDYWHNVEPLPTSFWTEDVEVIALPKADGIGSLLP
+            AARGNIGYIGPVPERALQLGIEASNINPKGVIDYLHYYRSFKTEYELACMREAQKMAVNG
+            HRAAEEAFRSGMSEFDINIAYLTATGHRDTDVPYSNIVALNEHAAVLHYTKLDHQAPEEM
+            RSFLLDAGAEYNGYAADLTRTWSAKSDNDYAQLVKDVNDEQLALIATMKAGVSYVDYHIQ
+            FHQRIAKLLRKHQIITDMSEEAMVENDLTGPFMPHGIGHPLGLQVHDVAGFMQDDSGTHL
+            AAPAKYPYLRCTRILQPGMVLTIEPGIYFIESLLAPWREGQFSKHFNWQKIEALKPFGGI
+            RIEDNVVIHENNVENMTRDLKLA
+NTSEQ       1332
+            atggaatcactggcctcgctctataaaaatcatatagctaccttacaagaacggactcgc
+            gatgcgctggcgcgcttcaagctggatgcgttacttattcactccggcgagctgttcaat
+            gtttttctcgacgatcatccctatccgtttaaagtgaacccgcaattcaaagcgtgggtg
+            ccggtaactcaggtgccaaactgctggttgctggtggatggcgtgaacaagccgaaactg
+            tggttctatctgccggttgattactggcacaacgtcgaaccgctgccgacctctttctgg
+            actgaagatgtggaagtgatcgcgctgccgaaagccgatggcattggtagcctgctgcct
+            gctgcgcgcggcaatatcggttatatcggtccggtgccggaacgtgcgctgcaactgggt
+            attgaggccagcaacatcaacccgaaaggggttatcgactacctgcattactatcgctcc
+            ttcaaaactgagtacgaactggcctgtatgcgtgaagcgcagaaaatggcggtcaacggt
+            caccgcgcggcagaagaagcgttccgttctggcatgagcgagttcgatatcaacattgcc
+            tatctgaccgcgaccggtcatcgtgataccgacgtaccttacagcaacattgtggcgctt
+            aacgaacacgctgcggtactgcattacaccaaactggaccatcaggcaccggaagagatg
+            cgcagcttcctgctggatgccggggcagaatataacggctatgcggctgacctgacccgt
+            acctggtcggcaaaaagtgacaacgactacgcgcagctggtgaaggacgttaatgatgaa
+            caactggcgctgatcgccaccatgaaagcaggcgtcagctatgtggattaccacatccag
+            ttccatcagcgcatcgccaaactgctgcgtaaacatcaaatcatcaccgatatgagtgaa
+            gaagcgatggtcgaaaacgatcttaccgggccgtttatgccgcatggtatcggccatccg
+            ctgggcctgcaggtgcatgacgtcgctggttttatgcaggatgatagcggtacgcacctc
+            gcggcaccggcaaaatatccgtacctgcgctgcacccgtattctccagccgggcatggtg
+            ttaaccatcgaaccgggtatctacttcatcgaatcgctactggcaccgtggcgtgaaggg
+            cagttcagcaagcacttcaactggcagaaaattgaagcactgaaaccgttcggcggcatt
+            cgtatcgaagacaacgtggtgatccacgaaaacaacgtggaaaacatgacccgggatctg
+            aaactggcgtga
+///

@@ -1,0 +1,51 @@
+ENTRY       b3296             CDS       T00007
+NAME        rpsD
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S4
+ORTHOLOGY   K02986  small subunit ribosomal protein S4
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3296 (rpsD)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3296 (rpsD)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Bacteria
+               Small subunit
+                b3296 (rpsD)
+              Archaea
+                b3296 (rpsD)
+POSITION    complement(3441055..3441675)
+MOTIF       Pfam: Ribosomal_S4 S4 S4_2
+DBLINKS     NCBI-GeneID: 947793
+            NCBI-ProteinID: NP_417755
+            Pasteur: rpsD
+            RegulonDB: ECK120000894
+            ECOCYC: EG10903
+            ASAP: ABE-0010805
+            UniProt: P0A7V8
+STRUCTURE   PDB: 5U4J 6NQB 6O7K 5NO2 5NO3 5NO4 5UZ4 5MY1 2YKR 5ME0 5ME1
+                 4ADV 4A2I
+AASEQ       206
+            MARYLGPKLKLSRREGTDLFLKSGVRAIDTKCKIEQAPGQHGARKPRLSDYGVQLREKQK
+            VRRIYGVLERQFRNYYKEAARLKGNTGENLLALLEGRLDNVVYRMGFGATRAEARQLVSH
+            KAIMVNGRVVNIASYQVSPNDVVSIREKAKKQSRVKAALELAEQREKPTWLEVDAGKMEG
+            TFKRKPERSDLSADINEHLIVELYSK
+NTSEQ       621
+            atggcaagatatttgggtcctaagctcaagctgagccgtcgtgagggcaccgacttattc
+            cttaagtctggcgttcgcgcgatcgataccaagtgtaaaattgaacaagctcctggccag
+            cacggtgcgcgtaaaccgcgtctgtctgactatggtgtgcagttgcgtgaaaagcaaaaa
+            gttcgccgtatctatggtgtgctggagcgtcagttccgtaactactacaaagaagcagca
+            cgtctgaaaggcaacaccggtgaaaacctgttggctctgctggaaggtcgtctggacaac
+            gttgtataccgtatgggcttcggtgccactcgtgcagaagcacgtcagctggttagccat
+            aaagcaattatggtaaacggtcgtgttgttaacatcgcttcttatcaggttagtccgaat
+            gacgttgtaagcattcgtgagaaagcgaagaagcagtctcgcgtgaaagccgctctggag
+            ctggctgagcagcgtgaaaagccaacctggctggaagttgatgctggcaagatggaaggt
+            acgtttaagcgtaagccggagcgttctgatctgtctgcggacattaacgaacacctgatc
+            gtcgagctttactccaagtaa
+///

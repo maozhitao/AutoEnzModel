@@ -1,0 +1,64 @@
+ENTRY       b2699             CDS       T00007
+NAME        recA
+DEFINITION  (RefSeq) DNA recombination/repair protein RecA
+ORTHOLOGY   K03553  recombination protein RecA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03440 Homologous recombination
+                b2699 (recA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2699 (recA)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecBC pathway proteins
+                 b2699 (recA)
+                RecFOR pathway proteins
+                 b2699 (recA)
+              TLS (translesion DNA synthesis) factors
+               Other SOS response factors
+                b2699 (recA)
+POSITION    complement(2822708..2823769)
+MOTIF       Pfam: RecA Rad51 ATPase AAA_24 ATPase_2 AAA_16 AAA_25 CbiA AAA_35 PAXNEB MobB AAA_14 AAA_22 AAA CobU TK cobW ScsC_N
+DBLINKS     NCBI-GeneID: 947170
+            NCBI-ProteinID: NP_417179
+            Pasteur: recA
+            RegulonDB: ECK120000814
+            ECOCYC: EG10823
+            ASAP: ABE-0008876
+            UniProt: P0A7G6
+STRUCTURE   PDB: 1XMV 1U94 1U98 1XMS 2REB 1U99 1REA 4TWZ 3CMW 3CMT 3CMX
+                 3CMU 3CMV 1N03 1AA3 2REC
+AASEQ       353
+            MAIDENKQKALAAALGQIEKQFGKGSIMRLGEDRSMDVETISTGSLSLDIALGAGGLPMG
+            RIVEIYGPESSGKTTLTLQVIAAAQREGKTCAFIDAEHALDPIYARKLGVDIDNLLCSQP
+            DTGEQALEICDALARSGAVDVIVVDSVAALTPKAEIEGEIGDSHMGLAARMMSQAMRKLA
+            GNLKQSNTLLIFINQIRMKIGVMFGNPETTTGGNALKFYASVRLDIRRIGAVKEGENVVG
+            SETRVKVVKNKIAAPFKQAEFQILYGEGINFYGELVDLGVKEKLIEKAGAWYSYKGEKIG
+            QGKANATAWLKDNPETAKEIEKKVRELLLSNPNSTPDFSVDDSEGVAETNEDF
+NTSEQ       1062
+            atggctatcgacgaaaacaaacagaaagcgttggcggcagcactgggccagattgagaaa
+            caatttggtaaaggctccatcatgcgcctgggtgaagaccgttccatggatgtggaaacc
+            atctctaccggttcgctttcactggatatcgcgcttggggcaggtggtctgccgatgggc
+            cgtatcgtcgaaatctacggaccggaatcttccggtaaaaccacgctgacgctgcaggtg
+            atcgccgcagcgcagcgtgaaggtaaaacctgtgcgtttatcgatgctgaacacgcgctg
+            gacccaatctacgcacgtaaactgggcgtcgatatcgacaacctgctgtgctcccagccg
+            gacaccggcgagcaggcactggaaatctgtgacgccctggcgcgttctggcgcagtagac
+            gttatcgtcgttgactccgtggcggcactgacgccgaaagcggaaatcgaaggcgaaatc
+            ggcgactctcacatgggccttgcggcacgtatgatgagccaggcgatgcgtaagctggcg
+            ggtaacctgaagcagtccaacacgctgctgatcttcatcaaccagatccgtatgaaaatt
+            ggtgtgatgttcggtaacccggaaaccactaccggtggtaacgcgctgaaattctacgcc
+            tctgttcgtctcgacatccgtcgtatcggcgcggtgaaagagggcgaaaacgtggtgggt
+            agcgaaacccgcgtgaaagtggtgaagaacaaaatcgctgcgccgtttaaacaggctgaa
+            ttccagatcctctacggcgaaggtatcaacttctacggcgaactggttgacctgggcgta
+            aaagagaagctgatcgagaaagcaggcgcgtggtacagctacaaaggtgagaagatcggt
+            cagggtaaagcgaatgcgactgcctggctgaaagataacccggaaaccgcgaaagagatc
+            gagaagaaagtacgtgagttgctgctgagcaacccgaactcaacgccggatttctctgta
+            gatgatagcgaaggcgtagcagaaactaacgaagatttttaa
+///

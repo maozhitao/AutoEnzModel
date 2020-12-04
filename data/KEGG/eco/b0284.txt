@@ -1,0 +1,82 @@
+ENTRY       b0284             CDS       T00007
+NAME        paoC
+DEFINITION  (RefSeq) aldehyde dehydrogenase: molybdenum cofactor-binding subunit
+ORTHOLOGY   K11177  xanthine dehydrogenase YagR molybdenum-binding subunit [EC:1.17.1.4]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00230  Purine metabolism
+            eco01100  Metabolic pathways
+            eco01120  Microbial metabolism in diverse environments
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09104 Nucleotide metabolism
+               00230 Purine metabolism
+                b0284 (paoC)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.17  Acting on CH or CH2 groups
+               1.17.1  With NAD+ or NADP+ as acceptor
+                1.17.1.4  xanthine dehydrogenase
+                 b0284 (paoC)
+POSITION    complement(298736..300934)
+MOTIF       Pfam: Ald_Xan_dh_C2 Ald_Xan_dh_C
+DBLINKS     NCBI-GeneID: 944961
+            NCBI-ProteinID: NP_414818
+            Pasteur: yagR
+            RegulonDB: ECK120002775
+            ECOCYC: G6155
+            ASAP: ABE-0000988
+            UniProt: P77489
+STRUCTURE   PDB: 5G5G 5G5H
+AASEQ       732
+            MKFDKPAGENPIDQLKVVGRPHDRIDGPLKTTGTARYAYEWHEEAPNAAYGYIVGSAIAK
+            GRLTALDTDAAQKAPGVLAVITASNAGALGKGDKNTARLLGGPTIEHYHQAIALVVAETF
+            EQARAAASLVQAHYRRNKGAYSLADEKQAVNQPPEDTPDKNVGDFDGAFTSAAVKIDATY
+            TTPDQSHMAMEPHASMAVWDGNKLTLWTSNQMIDWCRTDLAKTLKVPVENVRIISPYIGG
+            GFGGKLFLRSDALLAALAARAVKRPVKVMLPRPSIPNNTTHRPATLQHLRIGADQSGKIT
+            AISHESWSGNLPGGTPETAVQQSELLYAGANRHTGLRLATLDLPEGNAMRAPGEAPGLMA
+            LEIAIDELAEKAGIDPVEFRILNDTQVDPADPTRCFSRRQLIECLRTGADKFGWKQRNAT
+            PGQVRDGEWLVGHGVAAGFRNNLLEKSGARVHLEQNGTVTVETDMTDIGTGSYTILAQTA
+            AEMLGVPLEQVAVHLGDSSFPVSAGSGGQWGANTSTSGVYAACMKLREMIASAVGFDPEQ
+            SQFADGKITNGTRSATLHEATAGGRLTAEESIEFGTLSKEYQQSTFAGHFVEVGVHSATG
+            EVRVRRMLAVCAAGRILNPKTARSQVIGAMTMGMGAALMEELAVDDRLGYFVNHDMAGYE
+            VPVHADIPKQEVIFLDDTDPISSPMKAKGVGELGLCGVSAAIANAVYNATGIRVRDYPIT
+            LDKLLDKLPDVV
+NTSEQ       2199
+            atgaaatttgataaacccgcaggggaaaacccgatcgatcagctgaaggttgtcggtcgt
+            ccccatgaccgcatcgacggaccgctgaaaactaccggcacggcacgctacgcctacgaa
+            tggcatgaagaagcccccaacgccgcctatggctatatcgtcggttccgccattgccaaa
+            ggacgcctcaccgcccttgatacggacgccgcgcaaaaagcgccgggcgtactggctgtc
+            attaccgccagtaacgccggggcactcggcaaaggcgacaaaaacaccgccaggctgtta
+            ggcggccccactattgagcactatcatcaggccattgcgctggtagtggccgagaccttc
+            gaacaggcgcgagcggcggcctcgctggtgcaggcacactatcgccgtaataaaggagct
+            tactccctggcggacgaaaaacaggccgtcaatcagccgccggaagacacgcccgacaaa
+            aacgtcggtgactttgacggggctttcacctccgctgcggtgaagattgatgctacctac
+            acgaccccggaccagagccatatggcgatggagccgcatgcctcgatggccgtctgggat
+            ggaaataagcttaccctctggacctcaaatcagatgattgactggtgccgcaccgatctg
+            gcaaaaacgctgaaagttcccgtggagaatgtgcgtattatctccccgtatatcggcgga
+            gggtttggcggcaagctgttcctgagaagcgatgcgctgctggcggccctcgccgcccga
+            gcggtgaaacgtccggttaaagtgatgctcccccgcccctctattcccaataacaccacg
+            caccgccccgccacccttcagcacttgcgtatcggtgccgaccagagcgggaaaatcacc
+            gctatctcacatgaaagctggtctggaaacctgcccggcggcacgccggaaacggcggta
+            cagcaaagcgaattactctacgccggggcgaatcgtcataccggcctgcggctcgccacg
+            cttgatttgccggaagggaacgccatgcgtgcgcccggcgaagcccccggtctgatggcg
+            ctcgaaatcgcgatcgacgaactggcggaaaaagcgggcatcgatcccgtcgagtttcgc
+            atcctgaatgacactcaggttgaccccgccgacccgacgcgctgcttctctcgccgtcag
+            cttatcgagtgcttgcgcaccggagcggataaatttggctggaagcagcgcaacgccaca
+            cccggacaggtgcgcgacggggagtggctagtcggccacggtgttgcggcgggctttcgc
+            aataatctgctggaaaaatcgggtgctcgggttcacctcgaacaaaacggcaccgttacc
+            gtagaaacggacatgaccgacattggcaccggcagctacaccattctggcccagacggca
+            gcggaaatgcttggcgtaccgctggagcaggttgcggttcacctcggcgattccagtttc
+            ccggtttctgcgggttctggtggacaatggggcgcgaatacctccacctccggcgtttac
+            gccgcctgtatgaagcttcgcgaaatgattgcctcggcagtcgggtttgatcctgagcag
+            tcgcagtttgccgacggcaagattaccaacggtacccgaagcgccacgctacatgaagcc
+            accgcaggcggcagactgacagcggaagagagcattgaattcggaacactgagcaaagag
+            taccagcagtcgacctttgccgggcattttgtggaggtcggcgtgcatagcgcgacggga
+            gaagttcgggtccggcgtatgctcgctgtgtgtgctgcaggacgcatcctgaatccgaaa
+            actgcgcgcagccaggtcattggcgcaatgactatgggcatgggcgcggcactgatggag
+            gagctggcggtggatgaccgtttgggctacttcgttaatcacgatatggcggggtatgag
+            gtgccggttcatgcggatatcccaaaacaggaggtgattttcctggatgataccgacccc
+            atatcctccccgatgaaggccaaaggtgtcggtgagctgggcctgtgcggcgtgagcgcg
+            gctatcgccaacgcggtgtataacgccaccggtattcgggtacgggattatcccatcact
+            ctggataagctgctcgataagctgccggatgtggtttaa
+///

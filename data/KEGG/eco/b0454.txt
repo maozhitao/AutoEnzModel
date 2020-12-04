@@ -1,0 +1,31 @@
+ENTRY       b0454             CDS       T00007
+NAME        atl
+DEFINITION  (RefSeq) DNA base-flipping protein
+ORTHOLOGY   K07443  methylated-DNA-protein-cysteine methyltransferase related protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09192 Unclassified: genetic information processing
+               99976 Replication and repair
+                b0454 (atl)
+POSITION    complement(475982..476371)
+MOTIF       Pfam: DNA_binding_1
+DBLINKS     NCBI-GeneID: 945094
+            NCBI-ProteinID: NP_414988
+            Pasteur: ybaZ
+            RegulonDB: ECK120002861
+            ASAP: ABE-0001576
+            UniProt: P0AFP2
+AASEQ       129
+            MLVSCAMRLHSGVFPDYAEKLPQEEKMEKEDSFPQRVWQIVAAIPEGYVTTYGDVAKLAG
+            SPRAARQVGGVLKRLPEGSTLPWHRVVNRHGTISLTGPDLQRQRQALLAEGVMVSGSGQI
+            DLQRYRWNY
+NTSEQ       390
+            atgctggtttcttgcgcaatgcgacttcactcgggcgtttttccagattatgctgaaaaa
+            ttacctcaggaagaaaagatggaaaaagaagattcatttccccaacgcgtctggcaaatc
+            gtcgccgctattcccgaaggctatgtcaccacttacggtgatgtggcgaaactggcggga
+            tcgccccgcgccgcgcgccaggtgggcggtgtgttaaagcgtctccctgaaggcagcacc
+            ttaccctggcaccgggtggttaatcgccacggcacaatttcgctaaccggaccggattta
+            cagcgtcagcgacaggcattactggcagaaggtgtgatggtatcgggaagcgggcaaatc
+            gacttgcagcgttatcgctggaactactaa
+///

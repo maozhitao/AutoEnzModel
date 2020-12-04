@@ -1,0 +1,65 @@
+ENTRY       b4346             CDS       T00007
+NAME        mcrB
+DEFINITION  (RefSeq) 5-methylcytosine-specific restriction enzyme subunit McrB
+ORTHOLOGY   K07452  5-methylcytosine-specific restriction enzyme B [EC:3.1.21.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4346 (mcrB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.21  Endodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.21.-  
+                 b4346 (mcrB)
+            Prokaryotic defense system [BR:eco02048]
+             Restriction and modification system (R-M system)
+              Type IV R-M system
+               b4346 (mcrB)
+POSITION    complement(4577958..4579337)
+MOTIF       Pfam: AAA_5 AAA MrcB_N AAA_14 AAA_22 Mg_chelatase NACHT AAA_24 AAA_7 AAA_16 IstB_IS21 AAA_18 AAA_2 AAA_33 ResIII RNA_helicase AAA_19 RuvB_N AAA_3 AAA_25 Rad17 Sigma54_activat AAA_11 AAA_30 TsaE DUF2075
+DBLINKS     NCBI-GeneID: 949122
+            NCBI-ProteinID: NP_418766
+            Pasteur: mcrB
+            RegulonDB: ECK120000567
+            ECOCYC: EG10574
+            ASAP: ABE-0014250
+            UniProt: P15005
+STRUCTURE   PDB: 6GCF 6GCE 6GCD 3SSC 3SSD 3SSE 6HZ4 6HZ5 6HZ6 6HZ7 6HZ8
+                 6HZ9
+AASEQ       459
+            MESIQPWIEKFIKQAQQQRSQSTKDYPTSYRNLRVKLSFGYGNFTSIPWFAFLGEGQEAS
+            NGIYPVILYYKDFDELVLAYGISDTNEPHAQWQFSSDIPKTIAEYFQATSGVYPKKYGQS
+            YYACSQKVSQGIDYTRFASMLDNIINDYKLIFNSGKSVIPPMSKTESYCLEDALNDLFIP
+            ETTIETILKRLTIKKNIILQGPPGVGKTFVARRLAYLLTGEKAPQRVNMVQFHQSYSYED
+            FIQGYRPNGVGFRRKDGIFYNFCQQAKEQPEKKYIFIIDEINRANLSKVFGEVMMLMEHD
+            KRGENWSVPLTYSENDEERFYVPENVYIIGLMNTADRSLAVVDYALRRRFSFIDIEPGFD
+            TPQFRNFLLNKKAEPSFVESLCQKMNELNQEISKEATILGKGFRIGHSYFCCGLEDGTSP
+            DTQWLNEIVMTDIAPLLEEYFFDDPYKQQKWTNKLLGDS
+NTSEQ       1380
+            atggaatctattcaaccctggattgaaaaatttattaagcaagcacagcaacaacgttcg
+            caatccactaaagattatccaacgtcttaccgtaacctgcgagtaaaattgagtttcggt
+            tatggtaattttacgtctattccctggtttgcatttcttggagaaggtcaggaagcttct
+            aacggtatatatcccgttattctctattataaagattttgatgagttggttttggcttat
+            ggtataagcgacacgaatgaaccacatgcccaatggcagttctcttcagacatacctaaa
+            acaatcgcagagtattttcaggcaacttcgggtgtatatcctaaaaaatacggacagtcc
+            tattacgcctgttcccaaaaagtctcacagggtattgattacacccgatttgcctctatg
+            ctggacaacataatcaacgactataaattaatatttaattctggcaagagtgttattcca
+            cctatgtcaaaaactgaatcatactgtctggaagatgcgttaaatgatttgtttatccct
+            gaaaccacaatagagacgatactcaaacgattaaccatcaaaaaaaatattatcctccag
+            gggccgcccggcgttggaaaaacctttgttgcacgccgtctggcttacttgctgacagga
+            gaaaaggctccgcaacgcgtcaatatggttcagttccatcaatcttatagctatgaggat
+            tttatacagggctatcgtccgaatggcgtcggcttccgacgtaaagacggcatattttac
+            aatttttgtcagcaagctaaagagcagccagagaaaaagtatatttttattatagatgaa
+            atcaatcgtgccaatctcagtaaagtatttggcgaagtgatgatgttaatggaacatgat
+            aaacgaggtgaaaactggtctgttcccctaacctactccgaaaacgatgaagaacgattc
+            tatgtcccggagaatgtttatatcatcggtttaatgaatactgccgatcgctctctggcc
+            gttgttgactatgccctacgcagacgattttctttcatagatattgagccaggttttgat
+            acaccacagttccggaattttttactgaataaaaaagcagaaccttcatttgttgagtct
+            ttatgccaaaaaatgaacgagttgaaccaggaaatcagcaaagaggccactatccttggg
+            aaaggattccgcattgggcatagttacttctgctgtgggttggaagatggcacctctccg
+            gatacgcaatggcttaatgaaattgtgatgacggatatcgcccctttactcgaagaatat
+            ttctttgatgacccctataaacaacagaaatggaccaacaaattattaggggactcatag
+///

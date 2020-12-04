@@ -1,0 +1,61 @@
+ENTRY       b1127             CDS       T00007
+NAME        pepT
+DEFINITION  (RefSeq) peptidase T
+ORTHOLOGY   K01258  tripeptide aminopeptidase [EC:3.4.11.4]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b1127 (pepT)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.11  Aminopeptidases
+                3.4.11.4  tripeptide aminopeptidase
+                 b1127 (pepT)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M20
+               b1127 (pepT)
+POSITION    1185844..1187070
+MOTIF       Pfam: Peptidase_M20 M20_dimer Peptidase_M42 Peptidase_M28
+DBLINKS     NCBI-GeneID: 946333
+            NCBI-ProteinID: NP_415645
+            Pasteur: pepT
+            RegulonDB: ECK120001503
+            ECOCYC: EG11549
+            ASAP: ABE-0003800
+            UniProt: P29745
+STRUCTURE   PDB: 1VIX
+AASEQ       408
+            MDKLLERFLNYVSLDTQSKAGVRQVPSTEGQWKLLHLLKEQLEEMGLINVTLSEKGTLMA
+            TLPANVPGDIPAIGFISHVDTSPDCSGKNVNPQIVENYRGGDIALGIGDEVLSPVMFPVL
+            HQLLGQTLITTDGKTLLGADDKAGIAEIMTALAVLQQKKIPHGDIRVAFTPDEEVGKGAK
+            HFDVDAFDARWAYTVDGGGVGELEFENFNAASVNIKIVGNNVHPGTAKGVMVNALSLAAR
+            IHAEVPADESPEMTEGYEGFYHLASMKGTVERADMHYIIRDFDRKQFEARKRKMMEIAKK
+            VGKGLHPDCYIELVIEDSYYNMREKVVEHPHILDIAQQAMRDCDIEPELKPIRGGTDGAQ
+            LSFMGLPCPNLFTGGYNYHGKHEFVTLEGMEKAVQVIVRIAELTAQRK
+NTSEQ       1227
+            atggataaactacttgagcgatttttgaactacgtgtctctggatacccaatcaaaagca
+            ggggtgagacaggttcccagcacggaaggccaatggaagttattgcatctgctgaaagag
+            cagctcgaagagatggggcttatcaatgtgaccttaagtgagaagggcactttgatggcg
+            acgttaccggctaacgtccctggcgatatcccggcgattggctttatttctcatgtggat
+            acctcaccggattgcagcggcaaaaatgtgaatccgcaaattgttgaaaactatcgcggt
+            ggcgatattgcgctgggtatcggcgatgaagttttatcaccggttatgttcccggtgctg
+            catcagctactgggtcagacgctgattaccaccgatggtaaaaccttgttaggtgccgat
+            gacaaagcaggtattgcagaaatcatgaccgcgctggcggtattgcaacagaaaaaaatt
+            ccgcatggtgatattcgcgtcgcctttaccccggatgaagaagtgggcaaaggggcgaaa
+            cattttgatgttgacgccttcgatgcccgctgggcttacactgttgatggtggtggcgta
+            ggcgaactggagtttgaaaacttcaacgccgcgtcggtcaatatcaaaattgtcggtaac
+            aatgttcatccgggcacggcgaaaggagtgatggtaaatgcgctgtcgctggcggcacgt
+            attcatgcggaagttccggcggatgaaagcccggaaatgacagaaggctatgaaggtttc
+            tatcatctggcgagcatgaaaggcaccgttgaacgggccgatatgcactacatcatccgt
+            gatttcgaccgtaaacagtttgaagcgcgtaaacgtaaaatgatggagatcgccaaaaaa
+            gtgggcaaagggttacatcctgattgctacattgaactggtgattgaagacagttactac
+            aatatgcgcgagaaagtggttgagcatccgcatattctcgatatcgcccagcaggcgatg
+            cgcgattgcgatattgaaccggaactgaaaccgatccgcggtggtaccgacggcgcgcag
+            ttgtcgtttatgggattaccgtgcccgaacctgttcactggcggttacaactatcatggt
+            aagcatgagtttgtgactctggaaggtatggaaaaagcggtgcaggtgatcgtccgtatt
+            gccgagttaacggcgcaacggaagtaa
+///

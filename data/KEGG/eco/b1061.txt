@@ -1,0 +1,35 @@
+ENTRY       b1061             CDS       T00007
+NAME        dinI
+DEFINITION  (RefSeq) DNA damage-inducible protein I
+ORTHOLOGY   K12149  DNA-damage-inducible protein I
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1061 (dinI)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              TLS (translesion DNA synthesis) factors
+               Other SOS response factors
+                b1061 (dinI)
+POSITION    complement(1121242..1121487)
+MOTIF       Pfam: DinI
+DBLINKS     NCBI-GeneID: 945022
+            NCBI-ProteinID: NP_415579
+            Pasteur: dinI
+            RegulonDB: ECK120003154
+            ECOCYC: G6558
+            ASAP: ABE-0003599
+            UniProt: P0ABR1
+STRUCTURE   PDB: 1GHH
+AASEQ       81
+            MRIEVTIAKTSPLPAGAIDALAGELSRRIQYAFPDNEGHVSVRYAAANNLSVIGATKEDK
+            QRISEILQETWESADDWFVSE
+NTSEQ       246
+            atgcgaattgaagtcaccatagcgaaaacttctccattgccagctggggctattgacgcc
+            ctggctggcgaactttcccgccgtattcagtatgcgtttcctgataatgaaggccacgta
+            tcggtacgttatgccgcagcgaataatttatcggttattggcgcgacaaaagaagataaa
+            cagcgcattagtgaaattctccaggaaacgtgggaaagcgccgatgactggtttgtcagc
+            gaataa
+///

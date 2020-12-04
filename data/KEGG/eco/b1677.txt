@@ -1,0 +1,33 @@
+ENTRY       b1677             CDS       T00007
+NAME        lpp
+DEFINITION  (RefSeq) murein lipoprotein
+ORTHOLOGY   K06078  murein lipoprotein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01011 Peptidoglycan biosynthesis and degradation proteins [BR:eco01011]
+                b1677 (lpp)
+            Peptidoglycan biosynthesis and degradation proteins [BR:eco01011]
+             Peptidoglycan biosynthesis and degradation
+              Structural protein
+               b1677 (lpp)
+POSITION    1757421..1757657
+MOTIF       Pfam: LPP Alanine_zipper JIP_LZII MctB DUF948 DUF4763 DivIC TMF_DNA_bd DUF1664 ADIP DUF5798 ZapB Cluap1 DUF16 COG6 EzrA NPV_P10 Tropomyosin_1 CLZ TolA_bind_tri TPR_MLP1_2 Atg14 EspB_PE COG5 COG2 Spc7 AKNA Med4 FlaC_arch Jnk-SapK_ap_N MbeD_MobD XhlA SlyX Noc2
+DBLINKS     NCBI-GeneID: 946175
+            NCBI-ProteinID: NP_416192
+            Pasteur: lpp
+            RegulonDB: ECK120000537
+            ECOCYC: EG10544
+            ASAP: ABE-0005603
+            UniProt: P69776
+STRUCTURE   PDB: 1EQ7 1KFM
+AASEQ       78
+            MKATKLVLGAVILGSTLLAGCSSNAKIDQLSSDVQTLNAKVDQLSNDVNAMRSDVQAAKD
+            DAARANQRLDNMATKYRK
+NTSEQ       237
+            atgaaagctactaaactggtactgggcgcggtaatcctgggttctactctgctggcaggt
+            tgctccagcaacgctaaaatcgatcagctgtcttctgacgttcagactctgaacgctaaa
+            gttgaccagctgagcaacgacgtgaacgcaatgcgttccgacgttcaggctgctaaagat
+            gacgcagctcgtgctaaccagcgtctggacaacatggctactaaataccgcaagtaa
+///

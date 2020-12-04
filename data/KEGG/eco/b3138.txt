@@ -1,0 +1,56 @@
+ENTRY       b3138             CDS       T00007
+NAME        agaB
+DEFINITION  (RefSeq) galactosamine-specific PTS enzyme IIB component
+ORTHOLOGY   K10984  galactosamine PTS system EIIB component [EC:2.7.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00052  Galactose metabolism
+            eco01100  Metabolic pathways
+            eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00052 Galactose metabolism
+                b3138 (agaB)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b3138 (agaB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3138 (agaB)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.-  
+                 b3138 (agaB)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               Galactosamine-specific II component
+                b3138 (agaB)
+POSITION    3284170..3284646
+MOTIF       Pfam: PTSIIB_sorb
+DBLINKS     NCBI-GeneID: 947653
+            NCBI-ProteinID: NP_417607
+            Pasteur: agaB
+            RegulonDB: ECK120002382
+            ECOCYC: EG12769
+            ASAP: ABE-0010310
+            UniProt: P42909
+STRUCTURE   PDB: 3EYE
+AASEQ       158
+            MTSPNILLTRIDNRLVHGQVGVTWTSTIGANLLVVVDDVVANDDIQQKLMGITAETYGFG
+            IRFFTIEKTINVIGKAAPHQKIFLICRTPQTVRKLVEGGIDLKDVNVGNMHFSEGKKQIS
+            SKVYVDDQDLTDLRFIKQRGVNVFIQDVPGDQKEQIPD
+NTSEQ       477
+            atgaccagtccaaatattctcttaacccgtattgataaccgtctggttcacggtcaggtt
+            ggcgtgacctggacatccaccatcggtgcaaatctgctggtagtcgtggatgatgttgtc
+            gctaacgatgatattcaacagaaattaatgggtattaccgcggaaacctacggctttggc
+            attcgtttctttactatcgaaaaaaccattaacgtcatcggcaaagctgcaccacatcag
+            aagatcttcctgatttgccgtacgccacaaacggtacgtaaattggtagaaggtggtatt
+            gacctgaaagatgtcaacgtcggcaatatgcatttctcggaagggaaaaagcaaatcagc
+            agtaaagtttatgtcgatgaccaggatctcacggacttacgttttattaaacaacgtggc
+            gtgaatgttttcattcaggacgtccctggcgatcaaaaagaacaaatccctgactaa
+///

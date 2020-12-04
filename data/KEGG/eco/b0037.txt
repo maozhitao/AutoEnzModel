@@ -1,0 +1,62 @@
+ENTRY       b0037             CDS       T00007
+NAME        caiC
+DEFINITION  (RefSeq) carnitine-CoA ligase
+ORTHOLOGY   K02182  carnitine-CoA ligase [EC:6.2.1.48]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0037 (caiC)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.2  Forming carbon-sulfur bonds
+               6.2.1  Acid-thiol ligases
+                6.2.1.48  carnitine---CoA ligase
+                 b0037 (caiC)
+POSITION    complement(36271..37824)
+MOTIF       Pfam: AMP-binding AMP-binding_C DAHP_snth_FXD Response_reg
+DBLINKS     NCBI-GeneID: 944886
+            NCBI-ProteinID: NP_414579
+            RegulonDB: ECK120001511
+            ECOCYC: EG11558
+            ASAP: ABE-0000133
+            UniProt: P31552
+AASEQ       517
+            MDIIGGQHLRQMWDDLADVYGHKTALICESSGGVVNRYSYLELNQEINRTANLFYTLGIR
+            KGDKVALHLDNCPEFIFCWFGLAKIGAIMVPINARLLCEESAWILQNSQACLLVTSAQFY
+            PMYQQIQQEDATQLRHICLTDVALPADDGVSSFTQLKNQQPATLCYAPPLSTDDTAEILF
+            TSGTTSRPKGVVITHYNLRFAGYYSAWQCALRDDDVYLTVMPAFHIDCQCTAAMAAFSAG
+            ATFVLVEKYSARAFWGQVQKYRATVTECIPMMIRTLMVQPPSANDQQHRLREVMFYLNLS
+            EQEKDAFCERFGVRLLTSYGMTETIVGIIGDRPGDKRRWPSIGRVGFCYEAEIRDDHNRP
+            LPAGEIGEICIKGIPGKTIFKEYFLNPQATAKVLEADGWLHTGDTGYRDEEDFFYFVDRR
+            CNMIKRGGENVSCVELENIIAAHPKIQDIVVVGIKDSIRDEAIKAFVVLNEGETLSEEEF
+            FRFCEQNMAKFKVPSYLEIRKDLPRNCSGKIIRKNLK
+NTSEQ       1554
+            atggatatcattggcggacaacatctacgtcaaatgtgggacgatcttgcggacgtttac
+            ggtcataaaacggcgctgatttgtgaatccagcggcggagtcgttaaccggtatagttat
+            cttgagttaaatcaggagattaaccgcacggcaaacctgttttatacgctggggattcgc
+            aaaggcgacaaggttgcactacatctcgacaactgcccggaatttatcttttgctggttc
+            gggctggcaaaaattggcgcgattatggtgccgattaacgcccgcctgttgtgcgaggaa
+            agcgcgtggatcctgcaaaatagccaggcgtgcctgctggtgaccagtgcgcaattctat
+            cctatgtatcaacagattcagcaggaagatgccactcaattgcggcacatttgcctgaca
+            gatgtggcacttcccgctgatgatggcgtgagttcgtttactcaactgaaaaatcaacaa
+            cctgccaccttgtgctatgcaccgccgctatcgactgacgatacggcggaaattctcttc
+            acctccggcaccacctcccgaccgaaaggtgtggtgattacccattacaacctgcgcttc
+            gctggatattactccgcctggcagtgtgcactgcgtgacgatgacgtctacctgacggta
+            atgcctgcgtttcatatcgattgccagtgtactgcggcgatggcggcgttttctgccggg
+            gccacctttgtgctggtcgagaaatacagcgcccgcgccttctggggacaggtacagaag
+            taccgcgccaccgttaccgaatgtattccgatgatgatccgtacgttgatggtacagccg
+            ccttcagcgaacgatcagcaacaccgcctgcgggaagtgatgttttatctcaacttgtcg
+            gagcaggaaaaagatgcgttttgtgaacgcttcggcgttcgcttgctgacgtcttatggg
+            atgacggaaaccattgtgggcattatcggcgatcgtcctggcgataaacgacgctggccg
+            tcgattggtcgggtggggttttgctacgaagcggagatccgcgacgatcacaatcgcccg
+            ctcccggctggtgagatcggtgaaatctgcattaaaggcatacctgggaaaaccatcttc
+            aaagagtactttctcaacccacaagccactgcgaaagtgctggaagccgatggctggctg
+            cataccggcgataccggataccgcgacgaagaggactttttttatttcgtcgatcgccgc
+            tgcaatatgattaaacgtggcggcgagaatgtctcctgcgtggagctggaaaatattatc
+            gccgcgcacccgaaaattcaggacatcgtggttgtgggtattaaagattcgattcgcgat
+            gaagccatcaaagcatttgtggtgctgaatgaaggtgaaacattgagcgaagaggaattt
+            ttccgcttctgcgaacaaaatatggcgaaatttaaagtgccctcttatctggagatcaga
+            aaagatctgccacgtaattgctcggggaaaataattagaaagaatctgaaataa
+///

@@ -1,0 +1,43 @@
+ENTRY       b3287             CDS       T00007
+NAME        def
+DEFINITION  (RefSeq) peptide deformylase
+ORTHOLOGY   K01462  peptide deformylase [EC:3.5.1.88]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b3287 (def)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.88  peptide deformylase
+                 b3287 (def)
+POSITION    3433690..3434199
+MOTIF       Pfam: Pep_deformylase
+DBLINKS     NCBI-GeneID: 947780
+            NCBI-ProteinID: NP_417745
+            Pasteur: def
+            RegulonDB: ECK120001404
+            ECOCYC: EG11440
+            ASAP: ABE-0010779
+            UniProt: P0A6K3
+STRUCTURE   PDB: 1XEO 2W3T 2AI8 1G2A 1XEM 4AZ4 1XEN 1BS4 1BSZ 1ICJ 2W3U
+                 4AL3 1LRU 1G27 1BS6 3K6L 1BS8 1BS5 1BS7 4AL2 1DFF 1BSJ
+                 1BSK 6IY7 6IZI 6J45 2KMN 2DEF 1DEF
+AASEQ       169
+            MSVLQVLHIPDERLRKVAKPVEEVNAEIQRIVDDMFETMYAEEGIGLAATQVDIHQRIIV
+            IDVSENRDERLVLINPELLEKSGETGIEEGCLSIPEQRALVPRAEKVKIRALDRDGKPFE
+            LEADGLLAICIQHEMDHLVGKLFMDYLSPLKQQRIRQKVEKLDRLKARA
+NTSEQ       510
+            atgtcagttttgcaagtgttacatattccggacgagcggcttcgcaaagttgctaaaccg
+            gtagaagaagtgaatgcagaaattcagcgtatcgtcgatgatatgttcgagacgatgtac
+            gcagaagaaggtattggcctggcggcaacccaggttgatatccatcaacgtatcattgtt
+            attgatgtttcggaaaaccgtgacgaacggctagtgttaatcaatccagagcttttagaa
+            aaaagcggcgaaacaggcattgaagaaggttgcctgtcgatccctgaacaacgtgcttta
+            gtgccgcgcgcagagaaagttaaaattcgcgcccttgaccgcgacggtaaaccatttgaa
+            ctggaagcagacggtctgttagccatctgtattcagcatgagatggatcacctggtcggc
+            aaactgtttatggattatctgtcaccgctgaaacaacaacgtattcgtcagaaagttgaa
+            aaactggatcgtctgaaagcccgggcttaa
+///

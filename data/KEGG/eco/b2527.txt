@@ -1,0 +1,46 @@
+ENTRY       b2527             CDS       T00007
+NAME        hscB
+DEFINITION  (RefSeq) co-chaperone for [Fe-S] cluster biosynthesis
+ORTHOLOGY   K04082  molecular chaperone HscB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b2527 (hscB)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b2527 (hscB)
+            Chaperones and folding catalysts [BR:eco03110]
+             Heat shock proteins
+              HSP40 / DNAJ
+               b2527 (hscB)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial quality control factors
+              Regulator of mitochondrial biogenesis
+               Proteins involved in Fe-S cluster biogenesis
+                b2527 (hscB)
+POSITION    complement(2658952..2659467)
+MOTIF       Pfam: HSCB_C DnaJ DUF480 SMC_N
+DBLINKS     NCBI-GeneID: 946995
+            NCBI-ProteinID: NP_417022
+            Pasteur: hscB
+            RegulonDB: ECK120002033
+            ECOCYC: EG12131
+            ASAP: ABE-0008317
+            UniProt: P0A6L9
+STRUCTURE   PDB: 1FPO
+AASEQ       171
+            MDYFTLFGLPARYQLDTQALSLRFQDLQRQYHPDKFASGSQAEQLAAVQQSATINQAWQT
+            LRHPLMRAEYLLSLHGFDLASEQHTVRDTAFLMEQLELREELDEIEQAKDEARLESFIKR
+            VKKMFDTRHQLMVEQLDNETWDAAADTVRKLRFLDKLRSSAEQLEEKLLDF
+NTSEQ       516
+            atggattacttcaccctctttggcttgcctgcccgctatcaactcgatacccaggcgctg
+            agcctgcgttttcaggatctacaacgtcagtatcatcctgataaattcgccagcggaagc
+            caggcggaacaactcgccgccgtacagcaatctgcaaccattaaccaggcctggcaaacg
+            ctgcgtcatccgttaatgcgcgcggaatatttgctttctttgcacggctttgatctcgcc
+            agcgagcagcatactgtgcgcgacaccgcgttcctgatggaacagttggagctgcgcgaa
+            gagctggacgagatcgaacaggcgaaagatgaagcgcggctggaaagctttatcaaacgt
+            gtgaaaaagatgtttgatacccgccatcagttgatggttgaacagttagacaacgagacg
+            tgggacgcggcggcggataccgtgcgtaagctgcgttttctcgataaactgcgaagcagt
+            gccgaacaactcgaagaaaaactgctcgatttttaa
+///

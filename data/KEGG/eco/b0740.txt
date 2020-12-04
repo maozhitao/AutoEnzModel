@@ -1,0 +1,57 @@
+ENTRY       b0740             CDS       T00007
+NAME        tolB
+DEFINITION  (RefSeq) Tol-Pal system periplasmic protein TolB
+ORTHOLOGY   K03641  TolB protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0740 (tolB)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b0740 (tolB)
+POSITION    777740..779032
+MOTIF       Pfam: PD40 TolB_N DPPIV_N Pectate_lyase22 Gmad1 Peptidase_S9_N
+DBLINKS     NCBI-GeneID: 945429
+            NCBI-ProteinID: NP_415268
+            Pasteur: tolB
+            RegulonDB: ECK120000997
+            ECOCYC: EG11008
+            ASAP: ABE-0002517
+            UniProt: P0A855
+STRUCTURE   PDB: 2HQS 2W8B 1CRZ 4JML 1C5K 3IAX 2IVZ
+AASEQ       430
+            MKQALRVAFGFLILWASVLHAEVRIVIDSGVDSGRPIGVVPFQWAGPGAAPEDIGGIVAA
+            DLRNSGKFNPLDRARLPQQPGSAQEVQPAAWSALGIDAVVVGQVTPNPDGSYNVAYQLVD
+            TGGAPGTVLAQNSYKVNKQWLRYAGHTASDEVFEKLTGIKGAFRTRIAYVVQTNGGQFPY
+            ELRVSDYDGYNQFVVHRSPQPLMSPAWSPDGSKLAYVTFESGRSALVIQTLANGAVRQVA
+            SFPRHNGAPAFSPDGSKLAFALSKTGSLNLYVMDLASGQIRQVTDGRSNNTEPTWFPDSQ
+            NLAFTSDQAGRPQVYKVNINGGAPQRITWEGSQNQDADVSSDGKFMVMVSSNGGQQHIAK
+            QDLATGGVQVLSSTFLDETPSLAPNGTMVIYSSSQGMGSVLNLVSTDGRFKARLPATDGQ
+            VKFPAWSPYL
+NTSEQ       1293
+            atgaagcaggcattacgagtagcatttggttttctcatactgtgggcatcagttctgcat
+            gctgaagtccgcattgtgatcgacagcggtgtagattccggtcgtcctattggtgttgtt
+            cctttccagtgggcggggcctggtgcggcacctgaagatattggcggcatcgttgctgct
+            gacttgcgtaacagcggtaaatttaatccgttagatcgcgctcgtctgccacagcagccg
+            ggtagtgcgcaggaagtacaaccagctgcatggtccgcactgggcattgacgctgtagtt
+            gtcggtcaggtcactccgaatccggatggttcttacaatgttgcttatcaacttgttgac
+            actggcggcgcaccgggtactgtacttgctcagaactcgtacaaagtgaacaagcagtgg
+            ctgcgttatgctggtcataccgccagtgatgaagtgtttgaaaaactgaccggcattaaa
+            ggtgcgttccgtactcgtattgcctacgttgttcagaccaacggcggtcagttcccgtat
+            gaactgcgcgtatctgactatgacggttacaaccagtttgtcgttcaccgttcaccgcag
+            ccgctgatgtctccggcgtggtcaccagacggttctaaactggcttatgtgaccttcgaa
+            agcggtcgttccgcgctggttattcagacgctggcaaatggcgctgtacgtcaggtggct
+            tcattcccgcgtcacaacggtgcacctgcattctcgccagacggcagcaaactggcattc
+            gccttgtcgaaaaccggtagtctgaacctgtacgtaatggatttggcttctggtcagatc
+            cgccaggtgactgatggtcgcagtaacaataccgaaccgacctggttcccggatagccag
+            aacctggcatttacttctgaccaggccggtcgtccgcaggtttataaagtgaatatcaac
+            ggcggtgcgccacaacgtattacctgggaaggttcgcagaaccaggatgcggatgtcagc
+            agcgacggtaaatttatggtaatggtcagctccaatggtgggcagcagcacattgccaaa
+            caagatctggcaacgggaggcgtacaagttctgtcgtccacgttcctggatgaaacgcca
+            agtctggcacctaacggcactatggtaatctacagctcttctcaggggatgggatccgtg
+            ctgaatttggtttctacagatgggcgtttcaaagcgcgtcttccggcaactgatggacag
+            gtcaaattccctgcctggtcgccgtatctgtga
+///

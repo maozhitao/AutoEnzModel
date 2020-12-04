@@ -1,0 +1,44 @@
+ENTRY       b1450             CDS       T00007
+NAME        mcbR
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator McbR
+ORTHOLOGY   K13654  GntR family transcriptional regulator, colanic acid and biofilm gene transcriptional regulator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1450 (mcbR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               GntR family
+                b1450 (mcbR)
+POSITION    1520262..1520927
+MOTIF       Pfam: FCD GntR HTH_24
+DBLINKS     NCBI-GeneID: 946014
+            NCBI-ProteinID: NP_415967
+            Pasteur: yncC
+            RegulonDB: ECK120003350
+            ECOCYC: G6761
+            ASAP: ABE-0004837
+            UniProt: P76114
+STRUCTURE   PDB: 4P9F
+AASEQ       221
+            MPGTGKMKHVSLTLQVENDLKHQLSIGALKPGARLITKNLAEQLGMSITPVREALLRLVS
+            VNALSVAPAQAFTVPEVGKRQLDEINRIRYELELMAVALAVENLTPQDLAELQELLEKLQ
+            QAQEKGDMEQIINVNRLFRLAIYHRSNMPILCEMIEQLWVRMGPGLHYLYEAINPAELRE
+            HIENYHLLLAALKAKDKEGCRHCLAEIMQQNIAILYQQYNR
+NTSEQ       666
+            atgcctggaacgggaaaaatgaaacatgtcagtttgactctgcaggttgagaacgacctg
+            aaacatcagcttagtattggcgcattaaaacctggcgcacgcctgattactaaaaatctg
+            gcggagcaattaggtatgagtattacacctgtgcgtgaagcattattacgtctggtttcg
+            gtgaatgcgctttctgtcgcacctgcacaagcatttacagttccggaagtggggaaacgt
+            caattagacgaaatcaatcggatccgctacgaactggaattaatggcagttgctctggct
+            gttgaaaacctcaccccgcaagaccttgcggaactccaggaattgctcgagaaattacag
+            caggcgcaagaaaagggcgacatggaacaaatcattaatgtaaacaggctatttcgctta
+            gcgatttatcatcgctcaaatatgcccatcctgtgtgagatgattgagcaactgtgggtc
+            aggatggggcctggtttacattatctctatgaagcgattaatccagcggaattacgggag
+            catatagaaaactatcatctgttactcgctgcgttaaaagcaaaagacaaagagggatgc
+            agacattgtcttgctgaaattatgcaacaaaatattgctattttataccagcaatacaat
+            cgttaa
+///

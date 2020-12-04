@@ -1,0 +1,54 @@
+ENTRY       b1940             CDS       T00007
+NAME        fliH
+DEFINITION  (RefSeq) flagellar biosynthesis protein FliH
+ORTHOLOGY   K02411  flagellar assembly protein FliH
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1940 (fliH)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b1940 (fliH)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1940 (fliH)
+            Secretion system [BR:eco02044]
+             Type III secretion system
+              Flagellar export apparatus
+               b1940 (fliH)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Type-III secretion
+                b1940 (fliH)
+POSITION    2015868..2016554
+MOTIF       Pfam: FliH Yae1_N
+DBLINKS     NCBI-GeneID: 946456
+            NCBI-ProteinID: NP_416450
+            Pasteur: fliH
+            RegulonDB: ECK120001599
+            ECOCYC: EG11656
+            ASAP: ABE-0006458
+            UniProt: P31068
+AASEQ       228
+            MSDNLPWKTWTPDDLAPPQAEFVPIVEPEETIIEEAEPSLEQQLAQLQMQAHEQGYQAGI
+            AEGRQQGHKQGYQEGLAQGLEQGLAEAKSQQAPIHARMQQLVSEFQTTLDALDSVIASRL
+            MQMALEAARQVIGQTPTVDNSALIKQIQQLLQQEPLFSGKPQLRVHPDDLQRVDDMLGAT
+            LSLHGWRLRGDPTLHPGGCKVSADEGDLDASVATRWQELCRLAAPGVV
+NTSEQ       687
+            atgtctgataatctgccgtggaaaacctggacgccggacgatctcgcgccaccacaggca
+            gagtttgtgcccatagtcgagccggaagaaaccatcattgaagaggctgaacccagcctt
+            gagcagcaactggcgcaactgcaaatgcaggcccatgagcaaggttatcaggcgggtatt
+            gccgaaggtcgccagcaaggtcataagcagggctatcaggaaggactggcccaggggctg
+            gagcaaggtctggcagaggcgaagtctcaacaagcgccaattcatgcccggatgcagcaa
+            ctggtcagcgaatttcaaactacccttgatgcacttgatagtgtgatagcgtcgcgcctg
+            atgcagatggcgctggaggcggcacgtcaggtcatcggtcagacgccaacggtggataac
+            tcggcactgatcaaacagatccaacagttgttgcagcaagaaccgttattcagcggtaaa
+            ccacagctgcgcgtgcacccggatgatctgcaacgtgtggatgatatgctcggcgctacc
+            ttaagtttgcatggctggcgcttgcggggcgatcccaccctccatcctggcggctgtaaa
+            gtctccgccgatgaaggcgatctcgacgccagtgtcgccactcgctggcaagaactctgc
+            cgtctggcagcaccaggagtggtgtaa
+///

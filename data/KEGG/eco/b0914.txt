@@ -1,0 +1,79 @@
+ENTRY       b0914             CDS       T00007
+NAME        msbA
+DEFINITION  (RefSeq) ATP-binding lipopolysaccharide transport protein
+ORTHOLOGY   K11085  ATP-binding cassette, subfamily B, bacterial MsbA [EC:3.6.3.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b0914 (msbA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0914 (msbA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.3  Catalysing transmembrane movement of substances
+                3.6.3.-  
+                 b0914 (msbA)
+            Transporters [BR:eco02000]
+             ABC transporters, eukaryotic type
+              ABCB (MDR/TAP) subfamily
+               ABCB-BAC subgroup
+                b0914 (msbA)
+POSITION    966621..968369
+MOTIF       Pfam: ABC_membrane ABC_tran SMC_N DEAD AAA_16 AAA_22 Cytidylate_kin Zeta_toxin AAA_29 DUF2075 DUF87 AAA_18 RsgA_GTPase AAA_24 AAA_25 APS_kinase AAA_15 AAA_30 NB-ARC MMR_HSR1 ABC_membrane_2
+DBLINKS     NCBI-GeneID: 945530
+            NCBI-ProteinID: NP_415434
+            Pasteur: msbA
+            RegulonDB: ECK120000606
+            ECOCYC: EG10613
+            ASAP: ABE-0003113
+            UniProt: P60752
+STRUCTURE   PDB: 6BPL 6BPP 5TV4 5TTP 3B5W
+AASEQ       582
+            MHNDKDLSTWQTFRRLWPTIAPFKAGLIVAGVALILNAASDTFMLSLLKPLLDDGFGKTD
+            RSVLVWMPLVVIGLMILRGITSYVSSYCISWVSGKVVMTMRRRLFGHMMGMPVSFFDKQS
+            TGTLLSRITYDSEQVASSSSGALITVVREGASIIGLFIMMFYYSWQLSIILIVLAPIVSI
+            AIRVVSKRFRNISKNMQNTMGQVTTSAEQMLKGHKEVLIFGGQEVETKRFDKVSNRMRLQ
+            GMKMVSASSISDPIIQLIASLALAFVLYAASFPSVMDSLTAGTITVVFSSMIALMRPLKS
+            LTNVNAQFQRGMAACQTLFTILDSEQEKDEGKRVIERATGDVEFRNVTFTYPGRDVPALR
+            NINLKIPAGKTVALVGRSGSGKSTIASLITRFYDIDEGEILMDGHDLREYTLASLRNQVA
+            LVSQNVHLFNDTVANNIAYARTEQYSREQIEEAARMAYAMDFINKMDNGLDTVIGENGVL
+            LSGGQRQRIAIARALLRDSPILILDEATSALDTESERAIQAALDELQKNRTSLVIAHRLS
+            TIEKADEIVVVEDGVIVERGTHNDLLEHRGVYAQLHKMQFGQ
+NTSEQ       1749
+            atgcataacgacaaagatctctctacgtggcagacattccgccgactgtggccaaccatt
+            gcgcctttcaaagcgggtctgatcgtggcgggcgtagcgttaatcctcaacgcagccagc
+            gataccttcatgttatcgctccttaagccacttcttgatgatggctttggtaaaacagat
+            cgctccgtgctggtgtggatgccgctggtggtgatcgggctgatgattttacgtggtatc
+            accagctatgtctccagctactgtatctcctgggtatcaggaaaggtggtaatgaccatg
+            cgtcgccgcctgtttggtcacatgatgggaatgccagtttcattctttgacaaacagtca
+            acgggtacgctgttgtcacgtattacctacgattccgaacaggttgcttcttcttcttcc
+            ggcgcactgattactgttgtgcgtgaaggtgcgtcgatcatcggcctgttcatcatgatg
+            ttctattacagttggcaactgtcgatcattttgattgtgctggcaccgattgtttcgatt
+            gcgattcgcgttgtatcgaagcgttttcgcaacatcagtaaaaacatgcagaacaccatg
+            gggcaggtgaccaccagcgcagaacaaatgctgaagggccacaaagaagtattgattttc
+            ggtggtcaggaagtggaaacgaaacgctttgataaagtcagcaaccgaatgcgtcttcag
+            gggatgaaaatggtttcagcctcttccatctctgatccgatcattcagctgatcgcctct
+            ttggcgctggcgtttgttctgtatgcggcgagcttcccaagtgtcatggatagcctgact
+            gccggtacgattaccgttgttttctcttcaatgattgcactgatgcgtccgctgaaatcg
+            ctgaccaacgttaacgcccagttccagcgcggtatggcggcttgtcagacgctgtttacc
+            attctggacagtgagcaggagaaagatgaaggtaagcgcgtgatcgagcgtgcgactggc
+            gacgtggaattccgcaatgtcacctttacttatccgggacgtgacgtacctgcattgcgt
+            aacatcaacctgaaaattccggcagggaagacggttgctctggttggacgctctggttcg
+            ggtaaatcaaccatcgccagcctgatcacgcgtttttacgatattgatgaaggcgaaatc
+            ctgatggatggtcacgatctgcgcgagtataccctggcgtcgttacgtaaccaggttgct
+            ctggtgtcgcagaatgtccatctgtttaacgatacggttgctaacaacattgcttacgca
+            cggactgaacagtacagccgtgagcaaattgaagaagcggcgcgtatggcctacgccatg
+            gacttcatcaataagatggataacggtctcgatacagtgattggtgaaaacggcgtgctg
+            ctctctggcggtcagcgtcagcgtattgctatcgctcgagccttgttgcgtgatagcccg
+            attctgattctggacgaagctacctcggctctggataccgaatccgaacgtgcgattcag
+            gcggcactggatgagttgcagaaaaaccgtacctctctggtgattgcccaccgcttgtct
+            accattgaaaaggcagacgaaatcgtggtcgtcgaggatggtgtcattgtggaacgcggt
+            acgcataacgatttgcttgagcaccgcggcgtttacgcgcaacttcacaaaatgcagttt
+            ggccaatga
+///

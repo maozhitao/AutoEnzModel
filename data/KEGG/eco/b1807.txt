@@ -1,0 +1,44 @@
+ENTRY       b1807             CDS       T00007
+NAME        tsaB
+DEFINITION  (RefSeq) N(6)-L-threonylcarbamoyladenine synthase, TsaB subunit
+ORTHOLOGY   K14742  tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b1807 (tsaB)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Other tRNA modification factors
+                b1807 (tsaB)
+POSITION    complement(1890572..1891267)
+MOTIF       Pfam: TsaD BHD_1
+DBLINKS     NCBI-GeneID: 946304
+            NCBI-ProteinID: NP_416321
+            Pasteur: yeaZ
+            RegulonDB: ECK120003578
+            ECOCYC: G6991
+            ASAP: ABE-0006013
+            UniProt: P76256
+STRUCTURE   PDB: 1OKJ 4YDU 4WQ4 4WQ5
+AASEQ       231
+            MRILAIDTATEACSVALWNDGTVNAHFELCPREHTQRILPMVQDILTTSGTSLTDINALA
+            YGRGPGSFTGVRIGIGIAQGLALGAELPMIGVSTLMTMAQGAWRKNGATRVLAAIDARMG
+            EVYWAEYQRDENGIWHGEETEAVLKPEIVHERMQQLSGEWVTVGTGWQAWPDLGKESGLV
+            LRDGEVLLPAAEDMLPIACQMFAEGKTVAVEHAEPVYLRNNVAWKKLPGKE
+NTSEQ       696
+            atgcgaattctggctatcgataccgcgacagaggcctgctctgtcgccctgtggaacgac
+            ggtactgtcaacgctcattttgagctttgccctcgtgaacatactcaacgaatcttaccg
+            atggtgcaggatatcctgaccaccagcggaacttccctgactgatattaacgctctggct
+            tacgggcgcggccccggtagctttactggcgtgcgcattggtattggcatcgcgcaaggg
+            ctggcgcttggcgcggaattaccgatgattggcgtctccacgctaatgacgatggcgcaa
+            ggggcgtggcgcaaaaacggcgcaacccgcgtgctggcagccattgacgcgcgaatgggc
+            gaagtttactgggccgaatatcagcgtgatgaaaacggtatctggcacggtgaagaaacc
+            gaagccgtactcaaacccgaaatcgtccatgaacgaatgcaacagctttccggcgaatgg
+            gtgacggtagggacgggctggcaagcttggccggatctcggtaaagagagcgggctggtt
+            ttgcgcgatggcgaagtgttactgcctgctgctgaagatatgctgccgattgcgtgtcag
+            atgtttgctgagggtaaaacggtggcggtggaacatgccgaaccggtttatttacgtaac
+            aacgtcgcatggaagaaacttccgggcaaagaatga
+///

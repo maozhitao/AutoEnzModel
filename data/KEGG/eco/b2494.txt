@@ -1,0 +1,67 @@
+ENTRY       b2494             CDS       T00007
+NAME        bepA
+DEFINITION  (RefSeq) beta-barrel assembly-enhancing protease
+ORTHOLOGY   K01423  beta-barrel assembly-enhancing protease [EC:3.4.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b2494 (bepA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.-  Acting on peptide bonds (peptidases)
+                3.4.-.-  
+                 b2494 (bepA)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M48: Ste24 endopeptidase family
+               b2494 (bepA)
+POSITION    2616094..2617557
+MOTIF       Pfam: Peptidase_M48 TPR_19 TPR_14 TPR_16 ANAPC3 DUF5700 TPR_6 DUF4157 GerPE TPR_4 Fis1_TPR_C DUF2268 TPR_11
+DBLINKS     NCBI-GeneID: 947029
+            NCBI-ProteinID: NP_416989
+            Pasteur: yfgC
+            RegulonDB: ECK120003883
+            ECOCYC: G7311
+            ASAP: ABE-0008212
+            UniProt: P66948
+STRUCTURE   PDB: 5XI8 6AIT
+AASEQ       487
+            MFRQLKKNLVATLIAAMTIGQVAPAFADSADTLPDMGTSAGSTLSIGQEMQMGDYYVRQL
+            RGSAPLINDPLLTQYINSLGMRLVSHANSVKTPFHFFLINNDEINAFAFFGGNVVLHSAL
+            FRYSDNESQLASVMAHEISHVTQRHLARAMEDQQRSAPLTWVGALGSILLAMASPQAGMA
+            ALTGTLAGTRQGMISFTQQNEQEADRIGIQVLQRSGFDPQAMPTFLEKLLDQARYSSRPP
+            EILLTHPLPESRLADARNRANQMRPMVVQSSEDFYLAKARTLGMYNSGRNQLTSDLLDEW
+            AKGNVRQQRAAQYGRALQAMEANKYDEARKTLQPLLAAEPGNAWYLDLATDIDLGQNKAN
+            EAINRLKNARDLRTNPVLQLNLANAYLQGGQPQEAANILNRYTFNNKDDSNGWDLLAQAE
+            AALNNRDQELAARAEGYALAGRLDQAISLLSSASSQVKLGSLQQARYDARIDQLRQLQER
+            FKPYTKM
+NTSEQ       1464
+            atgttcaggcagttgaaaaaaaacctggttgcaaccctcattgctgctatgaccattggt
+            caggtagccccggcgtttgccgacagcgcagacaccttgccggatatgggaacctccgca
+            ggaagcacgctttccattggtcaggaaatgcagatgggcgactattatgtccgccagcta
+            cgcggcagcgcgccgttaattaatgacccgctgttaacgcaatatattaattcgctgggg
+            atgcgtctggtttcgcatgccaattcggttaagacaccgtttcatttttttctgatcaac
+            aacgacgaaattaacgcctttgctttctttggcggcaacgtggtgctgcactctgccctg
+            ttccgttattccgataacgaaagtcaactggcttcagttatggcgcacgaaatctcccac
+            gtcacccaacgtcacctggcgcgagcgatggaagatcagcagcgcagcgcgccgctgacc
+            tgggtcggcgcgttaggttctattttactggcgatggccagtccgcaggcggggatggcg
+            gcgctgaccggtacactggcgggaacgcgtcaggggatgatcagtttcacccagcaaaat
+            gaacaggaagcggaccgcattggtattcaggtgctgcaacgctcgggattcgatccgcag
+            gcgatgccaaccttcctcgaaaaattactcgatcaggcgcgttactcctcgcgcccgccg
+            gaaattttattgactcacccgttgccggaaagtcgtctggcagatgcccgcaaccgtgct
+            aatcagatgcgcccgatggtggtgcagtcgtcggaagatttctatctggcgaaagcgcgc
+            acactggggatgtataattccggacgtaaccagctcaccagtgatttgctggatgaatgg
+            gcgaaaggaaacgttcgtcagcaacgagcagcacaatatggtcgtgctttacaggcgatg
+            gaagccaataaatacgacgaggcgcgtaaaacgctgcaaccgttactggcggcagaacct
+            ggcaacgcatggtatctcgatctggctactgatatcgatcttgggcaaaacaaagccaat
+            gaggcgatcaatcgtctgaaaaatgcccgcgatttacgcaccaatccggtgttgcagctc
+            aacctggcgaacgcttatttgcaaggcggtcaaccacaagaagcggccaatattctgaat
+            cgctacacctttaataataaagatgacagcaacggctgggatttgctggcacaggcggaa
+            gccgcgctaaataaccgcgatcaggagctggctgcgcgagcagaaggttatgcgctcgcc
+            ggacgactcgatcaggccatttcgctgttgagtagcgccagttcgcaggtgaaattaggc
+            agcctgcaacaagcgcgttacgatgcgcgcatcgaccagttgcgccagctgcaggaacgc
+            tttaagccttataccaagatgtaa
+///

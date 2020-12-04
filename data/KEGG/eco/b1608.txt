@@ -1,0 +1,46 @@
+ENTRY       b1608             CDS       T00007
+NAME        rstA
+DEFINITION  (RefSeq) DNA-binding transcriptional regulator RstA
+ORTHOLOGY   K07661  two-component system, OmpR family, response regulator RstA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1608 (rstA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b1608 (rstA)
+            Two-component system [BR:eco02022]
+             OmpR family
+              RstB-RstA
+               b1608 (rstA)
+POSITION    1682159..1682878
+MOTIF       Pfam: Trans_reg_C Response_reg
+DBLINKS     NCBI-GeneID: 946199
+            NCBI-ProteinID: NP_416125
+            RegulonDB: ECK120003453
+            ECOCYC: G6864
+            ASAP: ABE-0005370
+            UniProt: P52108
+AASEQ       239
+            MNTIVFVEDDAEVGSLIAAYLAKHDMQVTVEPRGDQAEETILRENPDLVLLDIMLPGKDG
+            MTICRDLRAKWSGPIVLLTSLDSDMNHILALEMGACDYILKTTPPAVLLARLRLHLRQNE
+            QATLTKGLQETSLTPYKALHFGTLTIDPINRVVTLANTEISLSTADFELLWELATHAGQI
+            MDRDALLKNLRGVSYDGLDRSVDVAISRLRKKLLDNAAEPYRIKTVRNKGYLFAPHAWE
+NTSEQ       720
+            atgaacactatcgtatttgtggaagatgatgcggaagtcggttcactgattgccgcgtac
+            ctggcaaaacatgatatgcaggttaccgtagagccgcgcggcgaccaggccgaagaaacc
+            attttgcgagaaaatccggatttggtgttactcgacatcatgctaccaggcaaggacggc
+            atgaccatttgtcgtgatttacgcgcaaagtggtctggaccgattgttcttctaacctct
+            ctcgatagcgatatgaaccacatcctggcactggaaatgggtgcctgcgactatattctc
+            aaaacgacgccccctgctgttttgctagcgcgtttacgtttgcatttgcgtcagaatgag
+            caagccacactgaccaaaggtcttcaggaaacgtctctgactccctacaaagccctgcat
+            ttcggcacgttgaccatcgatcccatcaaccgcgtagtcaccctggctaacactgaaatc
+            tcgctctcgacagctgatttcgaattattgtgggaattagctacccatgccgggcaaatc
+            atggaccgcgatgcattgctgaaaaatttacgcggcgtcagttatgacggactggatcgt
+            agcgtggacgtggctatttcgcggttaagaaaaaaactgctcgataacgccgcagaacct
+            tatcgcattaaaactgtgcgtaacaaaggctatctttttgcgcctcatgcatgggaataa
+///

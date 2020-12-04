@@ -1,0 +1,53 @@
+ENTRY       b3262             CDS       T00007
+NAME        yhdJ
+DEFINITION  (RefSeq) DNA adenine methyltransferase
+ORTHOLOGY   K07319  adenine-specific DNA-methyltransferase [EC:2.1.1.72]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b3262 (yhdJ)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.72  site-specific DNA-methyltransferase (adenine-specific)
+                 b3262 (yhdJ)
+            Prokaryotic defense system [BR:eco02048]
+             Restriction and modification system (R-M system)
+              Type II R-M system
+               DNA methyltransferases
+                b3262 (yhdJ)
+POSITION    3411653..3412537
+MOTIF       Pfam: N6_N4_Mtase Cons_hypoth95 MethyltransfD12 Glyco_tranf_2_5
+DBLINKS     NCBI-GeneID: 947695
+            NCBI-ProteinID: NP_417728
+            Pasteur: yhdJ
+            RegulonDB: ECK120001454
+            ECOCYC: EG11498
+            ASAP: ABE-0010706
+            UniProt: P28638
+AASEQ       294
+            MRTGCEPTRFGNEAKTIIHGDALAELKKIPAESVDLIFADPPYNIGKNFDGLIEAWKEDL
+            FIDWLFEVIAECHRVLKKQGSMYIMNSTENMPFIDLQCRKLFTIKSRIVWSYDSSGVQAK
+            KHYGSMYEPILMMVKDAKNYTFNGDAILVEAKTGSQRALIDYRKNPPQPYNHQKVPGNVW
+            DFPRVRYLMDEYENHPTQKPEALLKRIILASSNPGDIVLDPFAGSFTTGAVAIASGRKFI
+            GIEINSEYIKMGLRRLDVASHYSAEELAKVKKRKTGNLSKRSRLSEVDPDLITK
+NTSEQ       885
+            atgagaacaggatgtgaaccgacccggtttggtaatgaagctaagaccattattcacggt
+            gatgcgcttgccgaacttaaaaagatccccgccgaaagtgtcgatctgatctttgccgac
+            ccaccatataacatcggtaaaaattttgatggtctgatcgaagcctggaaagaagatctg
+            tttatcgactggctgtttgaagtgattgcagagtgccaccgcgttctgaaaaagcagggc
+            agcatgtacatcatgaacagtacggaaaacatgccctttatcgatctccagtgccgcaag
+            ctttttaccatcaaaagtcgcatcgtctggtcatatgacagttctggagtgcaggcgaaa
+            aaacactacggctccatgtacgaacccatcctgatgatggtgaaagacgcaaagaactac
+            acattcaacggtgatgctattctggtagaagccaaaaccggatcgcagcgcgcgttgatc
+            gattatcgcaaaaatcctccacagccttacaatcatcaaaaagtaccgggtaacgtttgg
+            gattttccgcgcgtgcgttatttgatggatgaatatgaaaaccacccgacgcaaaaaccg
+            gaagccttactgaaacgcattattctcgcctcttccaacccaggcgatatcgttctcgac
+            ccgtttgctggtagctttactaccggtgccgtagccatcgccagcggacgaaaattcatt
+            ggtattgagatcaacagcgagtacatcaaaatggggcttcgacggctggatgtcgcgtcg
+            cattactctgcggaagaactggcgaaagtgaaaaaaagaaagaccggcaacctgtcaaaa
+            cgaagccggttaagcgaagttgaccccgatctcattacaaagtaa
+///

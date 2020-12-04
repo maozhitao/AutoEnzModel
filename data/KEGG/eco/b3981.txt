@@ -1,0 +1,52 @@
+ENTRY       b3981             CDS       T00007
+NAME        secE
+DEFINITION  (RefSeq) Sec translocon subunit SecE
+ORTHOLOGY   K03073  preprotein translocase subunit SecE
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02024  Quorum sensing
+            eco03060  Protein export
+            eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b3981 (secE)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3981 (secE)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b3981 (secE)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3981 (secE)
+            Secretion system [BR:eco02044]
+             Sec (secretion) system
+              Prokaryotic Sec-SRP core components
+               b3981 (secE)
+POSITION    4177358..4177741
+MOTIF       Pfam: SecE
+DBLINKS     NCBI-GeneID: 948486
+            NCBI-ProteinID: NP_418408
+            Pasteur: secE
+            RegulonDB: ECK120000928
+            ECOCYC: EG10939
+            ASAP: ABE-0013023
+            UniProt: P0AG96
+STRUCTURE   PDB: 5GAE 6R7L 5ABB 3J45 3J46 5MG3 2AKH 2AKI
+AASEQ       127
+            MSANTEAQGSGRGLEAMKWVVVVALLLVAIVGNYLYRDIMLPLRALAVVILIAAAGGVAL
+            LTTKGKATVAFAREARTEVRKVIWPTRQETLHTTLIVAAVTAVMSLILWGLDGILVRLVS
+            FITGLRF
+NTSEQ       384
+            atgagtgcgaataccgaagctcaaggaagcgggcgcggcctggaagcgatgaagtgggtc
+            gttgtggtggcattgctcctggtggcgattgtcggcaactatctttatcgcgacattatg
+            ctgccgctgcgtgcgctggccgtagtaattctgattgctgcagcgggtggtgtcgcgctg
+            ttaacgacaaaaggtaaagctaccgttgcttttgcccgtgaagcgcgtaccgaagtccgt
+            aaggtcatttggccgactcgccaggaaacattgcacaccacgctgattgtggctgcggtt
+            accgcagtaatgtcactgatcctgtggggactggatggtattctggttcgcctggtatcc
+            tttatcactggcctgaggttctga
+///

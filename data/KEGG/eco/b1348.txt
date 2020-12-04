@@ -1,0 +1,39 @@
+ENTRY       b1348             CDS       T00007
+NAME        ralR
+DEFINITION  (RefSeq) Rac prophage; endodeoxyribonuclease toxin RalR
+ORTHOLOGY   K19779  endodeoxyribonuclease RalR [EC:3.1.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b1348 (ralR)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 b1348 (ralR)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               RalR-RalA
+                b1348 (ralR)
+POSITION    complement(1413733..1413927)
+MOTIF       Pfam: Lar_restr_allev Elf1 Zn_Tnp_IS1595
+DBLINKS     NCBI-GeneID: 945914
+            NCBI-ProteinID: NP_415864
+            Pasteur: lar
+            RegulonDB: ECK120001829
+            ECOCYC: EG11900
+            ASAP: ABE-0004524
+            UniProt: P33229
+AASEQ       64
+            MRYDNVKPCPFCGCPSVTVKAISGYYRAKCNGCESRTGYGGSEKEALERWNKRTTGNNNG
+            GVHV
+NTSEQ       195
+            atgagatatgacaatgttaaaccatgtccattttgtggttgtccatcagtaacggtgaaa
+            gccatttcaggatattaccgagcgaagtgtaacggatgcgaatcccgaaccggttatggt
+            ggaagtgaaaaagaagcactcgaaagatggaataaacgaaccactggaaataataatgga
+            ggtgttcatgtataa
+///

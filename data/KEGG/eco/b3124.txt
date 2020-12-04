@@ -1,0 +1,67 @@
+ENTRY       b3124             CDS       T00007
+NAME        garK
+DEFINITION  (RefSeq) glycerate 2-kinase 1
+ORTHOLOGY   K00865  glycerate 2-kinase [EC:2.7.1.165]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00260  Glycine, serine and threonine metabolism
+            eco00561  Glycerolipid metabolism
+            eco00630  Glyoxylate and dicarboxylate metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+            eco01120  Microbial metabolism in diverse environments
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00630 Glyoxylate and dicarboxylate metabolism
+                b3124 (garK)
+              09103 Lipid metabolism
+               00561 Glycerolipid metabolism
+                b3124 (garK)
+              09105 Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                b3124 (garK)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.165  glycerate 2-kinase
+                 b3124 (garK)
+POSITION    complement(3270625..3271770)
+MOTIF       Pfam: Gly_kinase
+DBLINKS     NCBI-GeneID: 947632
+            NCBI-ProteinID: NP_417593
+            Pasteur: yhaD
+            RegulonDB: ECK120001157
+            ECOCYC: EG11175
+            ASAP: ABE-0010271
+            UniProt: P23524
+AASEQ       381
+            MKIVIAPDSYKESLSASEVAQAIEKGFREIFPDAQYVSVPVADGGEGTVEAMIAATQGAE
+            RHAWVTGPLGEKVNASWGISGDGKTAFIEMAAASGLELVPAEKRDPLVTTSRGTGELILQ
+            ALESGATNIIIGIGGSATNDGGAGMVQALGAKLCDANGNEIGFGGGSLNTLNDIDISGLD
+            PRLKDCVIRVACDVTNPLVGDNGASRIFGPQKGASEAMIVELDNNLSHYAEVIKKALHVD
+            VKDVPGAGAAGGMGAALMAFLGAELKSGIEIVTTALNLEEHIHDCTLVITGEGRIDSQSI
+            HGKVPIGVANVAKKYHKPVIGIAGSLTDDVGVVHQHGIDAVFSVLTSIGTLDEAFRGAYD
+            NICRASRNIAATLAIGMRNAG
+NTSEQ       1146
+            atgaaaatcgtaatcgccccagactcttataaagaaagtttatctgccagcgaggttgcg
+            caggcgatagaaaaaggatttcgggaaatttttcctgatgcacagtacgtttctgttccg
+            gttgccgacggtggcgaaggaacggtggaagcgatgattgcagccacccagggggctgaa
+            cgtcacgcctgggttacagggccgctgggcgagaaagtgaatgccagttgggggatctcc
+            ggcgatggcaaaaccgcgtttattgaaatggcggcggccagtgggctggagctggtacct
+            gcggaaaaacgcgatccactcgtgaccacttcacgcggcacaggcgagttaatcctgcag
+            gcgctggagagcggtgcgacaaacattattatcggcattggcggcagcgctacaaatgat
+            ggcggcgcaggcatggtacaggcgctgggggcgaaattatgcgacgccaacggcaatgaa
+            attggttttggcggcggtagtcttaatactctgaatgatattgatatttccggcctcgat
+            ccgcgcttaaaagattgcgtcattcgcgtcgcttgtgatgtcaccaatccgctggtgggc
+            gataacggcgcatcgcgcatctttggcccacaaaagggagccagtgaagcgatgattgtt
+            gagctggacaataacctctctcactatgccgaggtcattaaaaaagcgctgcatgttgat
+            gtgaaagatgtccccggtgcaggagctgcgggtggtatgggcgcggcgctaatggcgttt
+            cttggtgcggaactgaaaagtggtattgaaatcgtcactacggcgctgaatctggaggaa
+            catattcacgattgtacgctggtgatcaccggtgaagggcgtattgacagccagagtatt
+            cacgggaaggtaccgattggtgtcgcaaacgtggcgaagaagtaccataaaccggtgatt
+            ggcattgcgggtagcctgaccgatgatgttggcgttgtacatcagcatggcattgatgcg
+            gtcttcagcgtattgaccagcataggtacgttggacgaagcattccgcggggcttatgac
+            aatatctgccgtgcttcacgtaatatcgccgcgacactggcgattggaatgcgcaacgcg
+            gggtga
+///

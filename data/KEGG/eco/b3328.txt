@@ -1,0 +1,42 @@
+ENTRY       b3328             CDS       T00007
+NAME        gspG
+DEFINITION  (RefSeq) Type II secretion system protein GspG
+ORTHOLOGY   K02456  general secretion pathway protein G
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3328 (gspG)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3328 (gspG)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              General secretion pathway protein
+               b3328 (gspG)
+POSITION    3461023..3461460
+MOTIF       Pfam: T2SSG N_methyl
+DBLINKS     NCBI-GeneID: 947827
+            NCBI-ProteinID: NP_417787
+            Pasteur: gspG
+            RegulonDB: ECK120004251
+            ECOCYC: G7706
+            ASAP: ABE-0010885
+            UniProt: P41442
+AASEQ       145
+            MRATDKQRGFTLLEIMVVIVIIGVLASLVVPNLMGNKEKADKQKAVSDIVALENALDMYK
+            LDNHHYPTTNQGLESLVEAPTLPPLAANYNKEGYIKRLPADPWGNDYVLVNPGEHGAYDL
+            LSAGPDGEMGTEDDITNWGLSKKKK
+NTSEQ       438
+            atgcgcgcaacggataagcaacgcggttttacattactggaaattatggtggtgatcgtc
+            attatcggcgtacttgccagcctggtggttcctaacctaatgggcaataaagaaaaggcg
+            gataagcaaaaagccgtcagcgatattgtggcgctggaaaacgcccttgatatgtacaaa
+            ctcgacaatcatcactatccaaccacaaatcaggggcttgaatccttagtagaagcgccg
+            acactgccaccgctggccgcaaactataacaaggaaggttatatcaagcgtctgcctgcc
+            gatccctggggcaatgattatgtcctcgttaatcctggtgaacatggtgcatacgatctg
+            ctttcagcagggcccgatggtgaaatgggaaccgaggacgacatcaccaactggggtttg
+            agcaagaagaaaaagtaa
+///

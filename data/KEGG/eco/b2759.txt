@@ -1,0 +1,40 @@
+ENTRY       b2759             CDS       T00007
+NAME        casB
+DEFINITION  (RefSeq) type I-E CRISPR system Cascade subunit CasB
+ORTHOLOGY   K19046  CRISPR system Cascade subunit CasB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b2759 (casB)
+            Prokaryotic defense system [BR:eco02048]
+             CRISPR-Cas system
+              Type I CRISPR-Cas system
+               Subtype I-E factors
+                b2759 (casB)
+POSITION    complement(2882155..2882637)
+MOTIF       Pfam: CRISPR_Cse2
+DBLINKS     NCBI-GeneID: 947223
+            NCBI-ProteinID: NP_417239
+            Pasteur: ygcK
+            RegulonDB: ECK120003994
+            ECOCYC: G7429
+            ASAP: ABE-0009048
+            UniProt: P76632
+STRUCTURE   PDB: 5H9F 4U7U 4QYZ 5CD4 5H9E
+AASEQ       160
+            MADEIDAMALYRAWQQLDNGSCAQIRRVSEPDELRDIPAFYRLVQPFGWENPRHQQALLR
+            MVFCLSAGKNVIRHQDKKSEQTTGISLGRALANSGRINERRIFQLIRADRTADMVQLRRL
+            LTHAEPVLDWPLMARMLTWWGKRERQQLLEDFVLTTNKNA
+NTSEQ       483
+            atggctgatgaaattgatgcaatggctttatatcgagcctggcaacaactggataatgga
+            tcatgtgcgcaaattagacgtgtttcagaacctgatgaattacgcgatatccctgcgttt
+            tataggctggtgcaaccttttggttgggaaaacccacgtcaccagcaggctcttttgcgc
+            atggtgttttgcctgagcgcaggaaagaatgtcatccgacatcaggacaaaaaatcggag
+            caaacaacaggtatctcgttgggaagagctttagccaatagtggaagaattaacgagcgc
+            cgtatctttcaattaattcgggctgacagaacagccgatatggtccagttacgtcgatta
+            cttactcacgccgaacccgtacttgactggccattaatggccaggatgttgacctggtgg
+            ggaaagcgcgaacgccagcaacttctggaagattttgtattgaccacaaacaaaaatgcg
+            taa
+///

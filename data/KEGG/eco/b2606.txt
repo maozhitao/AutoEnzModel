@@ -1,0 +1,45 @@
+ENTRY       b2606             CDS       T00007
+NAME        rplS
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L19
+ORTHOLOGY   K02884  large subunit ribosomal protein L19
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b2606 (rplS)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b2606 (rplS)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b2606 (rplS)
+              Bacteria
+                b2606 (rplS)
+POSITION    complement(2744183..2744530)
+MOTIF       Pfam: Ribosomal_L19 MG2
+DBLINKS     NCBI-GeneID: 947096
+            NCBI-ProteinID: NP_417097
+            Pasteur: rplS
+            RegulonDB: ECK120000871
+            ECOCYC: EG10880
+            ASAP: ABE-0008574
+            UniProt: P0A7K6
+STRUCTURE   PDB: 6QUL 6S0K 6I0Y 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH 4UY8
+                 3J7Z 6GC4 6GC6 6GC7 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L 2J28
+                 2RDO 3BBX
+AASEQ       115
+            MSNIIKQLEQEQMKQDVPSFRPGDTVEVKVWVVEGSKKRLQAFEGVVIAIRNRGLHSAFT
+            VRKISNGEGVERVFQTHSPVVDSISVKRRGAVRKAKLYYLRERTGKAARIKERLN
+NTSEQ       348
+            atgagcaacattattaagcaacttgaacaagagcagatgaagcaggacgtaccttccttc
+            cgtccgggtgataccgtggaagtgaaagtatgggttgttgaaggttccaaaaaacgtctg
+            caggcattcgagggcgtggttatcgctattcgtaaccgcggtctgcactctgcattcact
+            gttcgtaaaatttccaacggcgaaggcgttgagcgtgtcttccagactcactctccggta
+            gttgacagcatttctgtcaaacgtcgtggtgctgttcgtaaagctaaactgtactacctg
+            cgtgagcgtactggtaaggctgctcgtatcaaagagcgtcttaactaa
+///

@@ -1,0 +1,58 @@
+ENTRY       b1699             CDS       T00007
+NAME        ydiS
+DEFINITION  (RefSeq) putative oxidoreductase with FAD/NAD(P)-binding domain
+ORTHOLOGY   K00313  electron transfer flavoprotein-quinone oxidoreductase [EC:1.5.5.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b1699 (ydiS)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.5  Acting on the CH-NH group of donors
+               1.5.5  With a quinone or similar compound as acceptor
+                1.5.5.-  
+                 b1699 (ydiS)
+POSITION    1781395..1782684
+MOTIF       Pfam: DAO FAD_binding_3 FAD_oxidored FAD_binding_2 HI0933_like Pyr_redox_2 NAD_binding_8 Pyr_redox Thi4 GIDA Trp_halogenase Lycopene_cycl 3HCDH_N Pyr_redox_3 GDI ApbA AlaDh_PNT_C
+DBLINKS     NCBI-GeneID: 946212
+            NCBI-ProteinID: NP_416214
+            Pasteur: ydiS
+            RegulonDB: ECK120003510
+            ECOCYC: G6922
+            ASAP: ABE-0005671
+            UniProt: P77337
+AASEQ       429
+            MSDDKFDAIVVGAGVAGSVAALVMARAGLDVLVIERGDSAGCKNMTGGRLYAHTLEAIIP
+            GFAVSAPVERKVTREKISFLTEESAVTLDFHREQPDVPQHASYTVLRNRLDPWLMEQAEQ
+            AGAQFIPGVRVDALVREGNKVTGVQAGDDILEANVVILADGVNSMLGRSLGMVPASDPHH
+            YAVGVKEVIGLTPEQINDRFNITGEEGAAWLFAGSPSDGLMGGGFLYTNKDSISLGLVCG
+            LGDIAHAQKSVPQMLEDFKQHPAIRPLISGGKLLEYSAHMVPEGGLAMVPQLVNEGVMIV
+            GDAAGFCLNLGFTVRGMDLAIASAQAAATTVIAAKERADFSASSLAQYKRELEQSCVMRD
+            MQHFRKIPALMENPRLFSQYPRMVADIMNEMFTIDGKPNQPVRKMIMGHAKKIGLINLLK
+            DGIKGATAL
+NTSEQ       1290
+            atgtcggatgacaaatttgatgccattgtggtcggtgcgggcgttgctggtagcgttgcc
+            gcactggtcatggcacgagccgggctggatgtcctggtgatagaacgcggcgacagtgcc
+            ggatgtaaaaacatgaccggcgggcgtctttatgcccacacacttgaagcaatcattcca
+            ggctttgcagtatcagcgccggtagaacgcaaggtcacacgcgagaaaatctccttctta
+            accgaagaaagcgccgttaccctcgattttcaccgcgagcagccagatgttccgcaacac
+            gcatcttataccgtattgcgtaatcgtctggacccgtggttgatggaacaagccgagcag
+            gcgggcgcgcagtttatcccaggcgttcgcgtcgacgcgctggttcgtgaaggaaacaag
+            gtcactggcgtgcaggctggggatgatattctcgaagcgaatgtggtgattctggctgat
+            ggcgttaactcgatgcttggccgctcgctgggaatggttcccgcttccgatccgcatcat
+            tacgctgttggtgttaaagaggttattggcctcacaccagaacagatcaacgatcgcttt
+            aatattacgggcgaggaaggtgccgcctggctgtttgccggttccccttctgacggcctg
+            atgggcgggggatttctctataccaacaaggattccatatccttggggctggtttgtgga
+            ttgggtgatatcgcccatgcgcaaaaaagcgtgccgcaaatgctggaagattttaaacaa
+            caccccgccattcgcccgctgattagcggcggcaaactgcttgaatattccgcgcatatg
+            gtgccggaaggcggtctggcaatggtgccgcaactggttaacgagggcgtgatgatcgtt
+            ggtgacgccgcaggcttctgcctgaatttgggttttacggtccgcggcatggatttagcc
+            attgcatcggctcaggctgccgccacaacggtgatcgccgccaaagaacgcgcggatttc
+            tccgccagcagtctggcgcaatacaaacgtgagctggaacaaagctgcgtcatgcgtgat
+            atgcagcattttcgcaagatcccggcgctgatggaaaacccgcgcctgtttagccaatac
+            ccacgaatggtagccgacatcatgaacgagatgttcaccatcgacggcaaaccaaaccag
+            ccggtacgaaaaatgatcatgggacatgcgaagaaaattgggctgatcaacttgctgaaa
+            gatggcattaagggagcaaccgcgctatga
+///

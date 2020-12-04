@@ -1,0 +1,54 @@
+ENTRY       b3549             CDS       T00007
+NAME        tag
+DEFINITION  (RefSeq) 3-methyl-adenine DNA glycosylase I, constitutive
+ORTHOLOGY   K01246  DNA-3-methyladenine glycosylase I [EC:3.2.2.20]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03410  Base excision repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03410 Base excision repair
+                b3549 (tag)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b3549 (tag)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.2  Hydrolysing N-glycosyl compounds
+                3.2.2.20  DNA-3-methyladenine glycosylase I
+                 b3549 (tag)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                DNA glycosylases
+                 b3549 (tag)
+POSITION    3713092..3713655
+MOTIF       Pfam: Adenine_glyco YopE_N RBD
+DBLINKS     NCBI-GeneID: 947137
+            NCBI-ProteinID: NP_418005
+            Pasteur: tag
+            RegulonDB: ECK120000975
+            ECOCYC: EG10986
+            ASAP: ABE-0011593
+            UniProt: P05100
+STRUCTURE   PDB: 1P7M 1NKU 1LMZ
+AASEQ       187
+            MERCGWVSQDPLYIAYHDNEWGVPETDSKKLFEMICLEGQQAGLSWITVLKKRENYRACF
+            HQFDPVKVAAMQEEDVERLVQDAGIIRHRGKIQAIIGNARAYLQMEQNGEPFVDFVWSFV
+            NHQPQVTQATTLSEIPTSTSASDALSKALKKRGFKFVGTTICYSFMQACGLVNDHVVGCC
+            CYPGNKP
+NTSEQ       564
+            atggaacgttgcggctgggtgagtcaggacccgctttatattgcctaccatgataatgag
+            tggggcgtgcctgaaactgacagtaaaaaactgttcgaaatgatctgccttgaagggcag
+            caggctggattatcgtggatcaccgtcctcaaaaaacgcgaaaactatcgcgcctgcttt
+            catcagttcgatccggtgaaggtcgcagcaatgcaggaagaggatgtcgaaagactggta
+            caggacgccgggattatccgccatcgagggaaaattcaggcaattattggtaatgcgcgg
+            gcgtacctgcaaatggaacagaacggcgaaccgtttgtcgactttgtctggtcgtttgta
+            aatcatcagccacaggtgacacaagccacaacgttgagcgaaattcccacatctacgtcc
+            gcctccgacgccctatctaaggcactgaaaaaacgtggttttaagtttgtcggcaccaca
+            atctgttactcctttatgcaggcatgtgggctggtgaatgatcatgtggttggctgctgt
+            tgctatccgggaaataaaccatga
+///

@@ -1,0 +1,45 @@
+ENTRY       b3932             CDS       T00007
+NAME        hslV
+DEFINITION  (RefSeq) peptidase component of the HslVU protease
+ORTHOLOGY   K01419  ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b3932 (hslV)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.25  Threonine endopeptidases
+                3.4.25.2  HslU---HslV peptidase
+                 b3932 (hslV)
+            Peptidases and inhibitors [BR:eco01002]
+             Threonine peptidases
+              Family T1: proteasome family
+               b3932 (hslV)
+POSITION    complement(4121757..4122287)
+MOTIF       Pfam: Proteasome PspC ALF
+DBLINKS     NCBI-GeneID: 948429
+            NCBI-ProteinID: NP_418367
+            Pasteur: hslV
+            RegulonDB: ECK120001619
+            ECOCYC: EG11676
+            ASAP: ABE-0012845
+            UniProt: P0A7B8
+STRUCTURE   PDB: 1HT1 1HT2 1HQY 4G4E 5JI3 1G4A 5JI2 1NED 1G4B 1E94
+AASEQ       176
+            MTTIVSVRRNGHVVIAGDGQATLGNTVMKGNVKKVRRLYNDKVIAGFAGGTADAFTLFEL
+            FERKLEMHQGHLVKAAVELAKDWRTDRMLRKLEALLAVADETASLIITGNGDVVQPENDL
+            IAIGSGGPYAQAAARALLENTELSAREIAEKALDIAGDICIYTNHFHTIEELSYKA
+NTSEQ       531
+            gtgacaactatagtaagcgtacgccgtaacggccatgtggtcatcgctggtgatggtcag
+            gccacgttgggcaataccgtaatgaaaggcaacgtgaaaaaggtccgccgtctgtacaac
+            gacaaagtcatcgcgggctttgcgggcggtactgcggatgcttttacgctgttcgaactg
+            tttgaacgtaaactggaaatgcatcagggccatctggtcaaagccgccgttgagctggca
+            aaagactggcgtaccgatcgcatgctgcgcaaacttgaagcactgctggcagtcgcggat
+            gaaactgcatcgcttatcatcaccggtaacggtgacgtggtgcagccagaaaacgatctt
+            attgctatcggctccggcggcccttacgcccaggctgcggcgcgcgcgctgttagaaaac
+            actgaacttagcgcccgtgaaattgctgaaaaggcgttggatattgcaggcgacatttgc
+            atctataccaaccatttccacaccatcgaagaattaagctacaaagcgtaa
+///

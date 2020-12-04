@@ -1,0 +1,60 @@
+ENTRY       b0581             CDS       T00007
+NAME        ybdK
+DEFINITION  (RefSeq) carboxylate-amine ligase
+ORTHOLOGY   K06048  glutamate---cysteine ligase / carboxylate-amine ligase [EC:6.3.2.2 6.3.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00480  Glutathione metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09106 Metabolism of other amino acids
+               00480 Glutathione metabolism
+                b0581 (ybdK)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.2  Acid-D-amino-acid ligases (peptide synthases)
+                6.3.2.2  glutamate---cysteine ligase
+                 b0581 (ybdK)
+               6.3.-  Forming carbon-nitrogen bonds
+                6.3.-.-  
+                 b0581 (ybdK)
+POSITION    complement(606265..607383)
+MOTIF       Pfam: GCS2 Glu_cys_ligase DUF4931
+DBLINKS     NCBI-GeneID: 947246
+            NCBI-ProteinID: NP_415113
+            Pasteur: ybdK
+            RegulonDB: ECK120002934
+            ECOCYC: G6326
+            ASAP: ABE-0001992
+            UniProt: P77213
+STRUCTURE   PDB: 1R8G
+AASEQ       372
+            MPLPDFHVSEPFTLGIELEMQVVNPPGYDLSQDSSMLIDAVKNKITAGEVKHDITESMLE
+            LATDVCRDINQAAGQFSAMQKVVLQAATDHHLEICGGGTHPFQKWQRQEVCDNERYQRTL
+            ENFGYLIQQATVFGQHVHVGCASGDDAIYLLHGLSRFVPHFIALSAASPYMQGTDTRFAS
+            SRPNIFSAFPDNGPMPWVSNWQQFEALFRCLSYTTMIDSIKDLHWDIRPSPHFGTVEVRV
+            MDTPLTLSHAVNMAGLIQATAHWLLTERPFKHQEKDYLLYKFNRFQACRYGLEGVITDPH
+            TGDRRPLTEDTLRLLEKIAPSAHKIGASSAIEALHRQVVSGLNEAQLMRDFVADGGSLIG
+            LVKKHCEIWAGD
+NTSEQ       1119
+            atgccattacccgattttcatgtttctgaaccttttaccctcggtattgaactggaaatg
+            caggtggttaatccgccgggctatgacttaagccaggactcttcaatgctgattgacgcg
+            gttaaaaataagatcacggccggagaggtaaagcacgatatcaccgaaagtatgctggag
+            ctggcgacggatgtttgccgtgatatcaaccaggctgccgggcagttttcagcgatgcag
+            aaagtcgtattgcaggcagccacagaccatcatctggaaatttgcggcggtggcacgcac
+            ccgtttcagaaatggcagcgtcaggaggtatgcgataacgaacgctatcaacgcacgctg
+            gaaaactttggttatctcattcagcaggcgaccgtttttggtcagcatgtccatgttggc
+            tgcgccagtggcgatgacgccatttatttgctgcacggcttgtcacgatttgtgccgcac
+            tttatcgccctttccgccgcgtcgccatatatgcagggaacggatacgcgttttgcctcc
+            tcacgaccgaatattttttccgcctttcctgataatggcccgatgccgtgggtcagtaac
+            tggcaacaatttgaagccctgtttcgctgtctgagttacaccacgatgatcgacagcatt
+            aaagatctgcactgggatattcgccccagtcctcattttggcacggtggaggttcgggtg
+            atggataccccgttaacccttagccacgcagtaaatatggcgggattaattcaggctacc
+            gcccactggttactgacggaacgcccgtttaaacatcaggaaaaagattacctgctgtat
+            aaattcaaccgtttccaggcctgtcgctatgggcttgaaggcgtcatcaccgatccgcac
+            actggagatcgtcgaccgctaacggaagataccttgcgattgctggaaaaaatcgcccct
+            tccgcacataaaattggtgcatcgagcgcgattgaggccctgcatcgccaggtcgtcagc
+            ggtctgaatgaagcgcagctaatgcgcgatttcgtcgccgatggcggctcgctgattggg
+            ctggtgaaaaagcattgtgagatctgggccggtgactaa
+///

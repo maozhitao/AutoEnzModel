@@ -1,0 +1,48 @@
+ENTRY       b1089             CDS       T00007
+NAME        rpmF
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L32
+ORTHOLOGY   K02911  large subunit ribosomal protein L32
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b1089 (rpmF)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b1089 (rpmF)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b1089 (rpmF)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b1089 (rpmF)
+              Bacteria
+                b1089 (rpmF)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Other mitochondrial DNA transcription and translation factors
+                b1089 (rpmF)
+POSITION    1147367..1147540
+MOTIF       Pfam: Ribosomal_L32p
+DBLINKS     NCBI-GeneID: 945657
+            NCBI-ProteinID: NP_415607
+            Pasteur: rpmF
+            RegulonDB: ECK120000881
+            ECOCYC: EG10890
+            ASAP: ABE-0003686
+            UniProt: P0A7N4
+STRUCTURE   PDB: 6QUL 6S0K 6I0Y 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH 4UY8
+                 3J7Z 6GC4 6GC6 6GC7 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L 2J28
+                 2RDO 3BBX
+AASEQ       57
+            MAVQQNKPTRSKRGMRRSHDALTAVTSLSVDKTSGEKHLRHHITADGYYRGRKVIAK
+NTSEQ       174
+            atggccgtacaacagaataaaccaacccgttccaaacgtggcatgcgtcgttcccatgac
+            gcgctgaccgcagtcaccagcctgtctgtagacaaaacttctggtgaaaaacacctgcgt
+            caccacatcactgccgacggttactaccgcggccgcaaggtcatcgctaagtaa
+///

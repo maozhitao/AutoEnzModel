@@ -1,0 +1,48 @@
+ENTRY       b3465             CDS       T00007
+NAME        rsmD
+DEFINITION  (RefSeq) 16S rRNA m(2)G966 methyltransferase
+ORTHOLOGY   K08316  16S rRNA (guanine966-N2)-methyltransferase [EC:2.1.1.171]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b3465 (rsmD)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.171  16S rRNA (guanine966-N2)-methyltransferase
+                 b3465 (rsmD)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               16S rRNA modification factors
+                b3465 (rsmD)
+POSITION    3604393..3604989
+MOTIF       Pfam: Cons_hypoth95 MTS MethyltransfD12 RrnaAD Methyltransf_4
+DBLINKS     NCBI-GeneID: 947977
+            NCBI-ProteinID: NP_417922
+            Pasteur: yhhF
+            RegulonDB: ECK120000337
+            ECOCYC: EG10343
+            ASAP: ABE-0011321
+            UniProt: P0ADX9
+STRUCTURE   PDB: 2FPO
+AASEQ       198
+            MKKPNHSGSGQIRIIGGQWRGRKLPVPDSPGLRPTTDRVRETLFNWLAPVIVDAQCLDCF
+            AGSGALGLEALSRYAAGATLIEMDRAVSQQLIKNLATLKAGNARVVNSNAMSFLAQKGTP
+            HNIVFVDPPFRRGLLEETINLLEDNGWLADEALIYVESEVENGLPTVPANWSLHREKVAG
+            QVAYRLYQREAQGESDAD
+NTSEQ       597
+            atgaaaaaaccgaatcattccggcagcggccaaatccgcattattggcgggcagtggcga
+            ggccgtaaactcccggttcctgatagcccaggtctgcgccccaccaccgaccgcgtacgc
+            gaaacgttgtttaactggctggctccggtcattgttgacgcccaatgtctggattgcttc
+            gccgggagcggcgcgctggggctggaagcgttatcgcgctacgctgcgggggcaacgttg
+            attgagatggatcgcgcggtttctcagcagttaattaagaatctggcgacactaaaagca
+            ggcaatgcacgcgtggtgaacagcaacgcgatgtcattcctggcgcaaaaaggtacaccg
+            cataatatcgtgtttgtcgatccaccgttccgccgtggcttgttagaagagacgataaat
+            ttactggaagataacggctggctggctgacgaagccctgatttatgtcgaaagcgaagtc
+            gaaaacggtctgcccactgttccagcaaactggtcattacatcgggaaaaagtggcgggt
+            caggtggcttatcggctgtatcaacgcgaagcacaaggagaaagtgatgctgattaa
+///

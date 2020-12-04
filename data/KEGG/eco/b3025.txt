@@ -1,0 +1,51 @@
+ENTRY       b3025             CDS       T00007
+NAME        qseB
+DEFINITION  (RefSeq) DNA-binding transcriptional activator QseB
+ORTHOLOGY   K07666  two-component system, OmpR family, response regulator QseB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02024  Quorum sensing
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b3025 (qseB)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b3025 (qseB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b3025 (qseB)
+            Two-component system [BR:eco02022]
+             OmpR family
+              QseC-QseB (quorum sensing)
+               b3025 (qseB)
+POSITION    3169828..3170487
+MOTIF       Pfam: Trans_reg_C Response_reg
+DBLINKS     NCBI-GeneID: 945369
+            NCBI-ProteinID: NP_417497
+            Pasteur: ygiX
+            RegulonDB: ECK120004133
+            ECOCYC: G7575
+            ASAP: ABE-0009936
+            UniProt: P52076
+AASEQ       219
+            MRILLIEDDMLIGDGIKTGLSKMGFSVDWFTQGRQGKEALYSAPYDAVILDLTLPGMDGR
+            DILREWREKGQREPVLILTARDALAERVEGLRLGADDYLCKPFALIEVAARLEALMRRTN
+            GQASNELRHGNVMLDPGKRIATLAGEPLTLKPKEFALLELLMRNAGRVLSRKLIEEKLYT
+            WDEEVTSNAVEVHVHHLRRKLGSDFIRTVHGIGYTLGEK
+NTSEQ       660
+            atgcgaattttactgatagaagatgacatgctgattggcgacggcatcaaaacgggcctt
+            agtaaaatgggttttagcgtcgactggtttacacaaggtcgtcagggaaaagaggcgctt
+            tatagcgcaccttatgatgcggtgatcctggatttaaccttaccaggcatggatggtcgc
+            gatattttgcgcgaatggcgagaaaaaggtcagcgtgagccggtactgatcctgaccgcg
+            cgcgatgcgctggcggaacgtgtagaagggctgcgtctgggagctgacgattatctgtgt
+            aaaccttttgcgttgatagaagtcgccgccaggctggaagctctgatgcgccgaaccaac
+            ggccaggccagcaacgagctgcgccacggtaacgtcatgctcgaccccggcaaacgtatc
+            gccacgctggctggcgaacccttaacactgaaaccaaaagaatttgccctgctggaatta
+            ctgatgcgtaacgctggtcgggtactgtcgcgcaaactgattgaagagaaactgtatacc
+            tgggacgaagaggtcaccagtaatgccgttgaagtgcatgtgcatcatctgcgacgcaaa
+            ctcggtagtgattttattcgtaccgtgcatggtattggttacacattaggtgagaaatga
+///

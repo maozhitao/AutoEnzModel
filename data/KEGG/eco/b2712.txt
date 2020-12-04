@@ -1,0 +1,74 @@
+ENTRY       b2712             CDS       T00007
+NAME        hypF
+DEFINITION  (RefSeq) carbamoyltransferase HypF
+ORTHOLOGY   K04656  hydrogenase maturation protein HypF
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09192 Unclassified: genetic information processing
+               99975 Protein processing
+                b2712 (hypF)
+POSITION    complement(2835173..2837425)
+MOTIF       Pfam: Sua5_yciO_yrdC zf-HYPF HypF_C Acylphosphatase Zn-ribbon_8 TsaD
+DBLINKS     NCBI-GeneID: 944963
+            NCBI-ProteinID: NP_417192
+            Pasteur: hypF
+            RegulonDB: ECK120001504
+            ECOCYC: EG11551
+            ASAP: ABE-0008915
+            UniProt: P30131
+STRUCTURE   PDB: 1GXT 1GXU 3TTC 3TTF 3TSU 3TSP 3TTD 3TSQ
+AASEQ       750
+            MAKNTSCGVQLRIRGKVQGVGFRPFVWQLAQQLNLHGDVCNDGDGVEVRLREDPETFLVQ
+            LYQHCPPLARIDSVEREPFIWSQLPTEFTIRQSTGGTMNTQIVPDAATCPACLAEMNTPG
+            ERRYRYPFINCTHCGPRFTIIRAMPYDRPFTVMAAFPLCPACDKEYRDPLDRRFHAQPVA
+            CPECGPHLEWVSHGEHAEQEAALQAAIAQLKMGKIVAIKGIGGFHLACDARNSNAVATLR
+            ARKHRPAKPLAVMLPVADGLPDAARQLLTTPAAPIVLVDKKYVPELCDDIAPDLNEVGVM
+            LPANPLQHLLLQELQCPLVMTSGNLSGKPPAISNEQALADLQGIADGFLIHNRDIVQRMD
+            DSVVRESGEMLRRSRGYVPDALALPPGFKNVPPVLCLGADLKNTFCLVRGEQAVLSQHLG
+            DLSDDGIQMQWREALRLMQNIYDFTPQYVVHDAHPGYVSSQWAREMNLPTQTVLHHHAHA
+            AACLAEHQWPLDGGDVIALTLDGIGMGENGALWGGECLRVNYRECEHLGGLPAVALPGGD
+            LAAKQPWRNLLAQCLRFVPEWQNYSETASVQQQNWSVLARAIERGINAPLASSCGRFFDA
+            VAAALGCAPATLSYEGEAACALEALAASCHGVTHPVTMPRVDNQLDLATFWQQWLNWQAP
+            VNQRAWAFHDALAQGFAALMREQATMRGITTLVFSGGVIHNRLLRARLAHYLADFTLLFP
+            QSLPAGDGGLSLGQGVIAAARWLAGEVQNG
+NTSEQ       2253
+            atggcaaaaaacacatcttgcggtgtccaactgcgtattcgtggcaaagtgcagggcgtc
+            ggttttcgtccgtttgtctggcagctggcacagcaattaaatcttcacggcgatgtctgt
+            aatgacggcgatggcgtagaagtccggctgcgggaagacccggaaacgtttcttgttcaa
+            ttgtatcagcactgcccgccgctggcgcgtattgatagcgtcgagcgtgagccgtttatc
+            tggtcacaactgcccaccgagttcactatacgccagagcacaggcggcaccatgaatacg
+            caaattgttcccgatgccgctacttgccctgcttgccttgccgaaatgaataccccaggc
+            gaacggcgttatcgttatccgtttatcaactgtacccactgcggcccgcgtttcaccatt
+            attcgcgccatgccttacgaccgcccgtttaccgtgatggcggcgtttccgctatgtccg
+            gcctgtgacaaagagtaccgtgacccgctcgatcgtcgcttccacgcccagccggtggcc
+            tgcccggagtgtggcccgcatcttgaatgggtaagtcatggtgaacatgcggaacaagag
+            gcggcattacaggcagctatcgcacagttaaaaatgggcaaaattgtcgccatcaaaggg
+            attggcggatttcatcttgcctgcgatgcacgtaacagtaacgcggtggcgacacttcgg
+            gcgcgcaaacatcgcccggcgaaaccgctggcggtcatgttgccagtggctgacggttta
+            ccagacgctgcgcgccagttgcttaccacgcccgccgcgccgattgtgctggtggataaa
+            aaatacgttcctgagctttgtgatgatatcgcccctgaccttaacgaagtcggggtaatg
+            ttgcctgcgaacccgctccagcatttgctgttacaggaactgcaatgcccgctggtgatg
+            acctccggcaacctgagcggtaaaccaccagctatcagcaacgaacaggcgctggcggat
+            ttgcagggcattgccgacggattcttgatacataaccgcgacatcgtgcagcggatggat
+            gattcggtggtgcgcgaaagcggcgaaatgctgcgccgttcgcgggggtatgtgccggat
+            gcgctggctttgcctccgggctttaaaaatgttccgcctgtgctgtgtctcggcgcggat
+            ctgaaaaataccttctgcctggtgcgcggtgaacaagcggtgttgagtcagcatctgggc
+            gatttaagtgacgatggcatccagatgcagtggcgcgaagcgttacgcctgatgcaaaac
+            atctacgattttaccccgcaatacgttgtgcatgacgcgcatccgggctatgtctccagc
+            cagtgggcgcgtgaaatgaatctgccgacgcaaacggtactgcatcatcatgcccatgca
+            gcggcgtgtctggcagagcatcagtggccgctggatggcggtgatgtcattgctttgacg
+            ctcgacggtatcggtatgggggagaacggcgctttgtggggcggcgagtgcctgcgggtg
+            aactatcgcgaatgtgagcacctgggcggcttgcctgcagtggcgcttccgggtggcgat
+            ttggcagcgaagcagccgtggcgaaacctgctggcgcagtgcctgcgctttgtgccggag
+            tggcagaattactctgaaacagcaagtgtgcaacagcaaaactggagcgtgctggcgcgg
+            gccattgagcgtggaattaacgcgccgctggcgtcatcgtgtgggcgttttttcgatgca
+            gtggcggcggcactgggctgtgcgccagccacgttaagttatgaaggtgaagcggcttgt
+            gctctggaggcgctcgcagcctcatgccacggagtgacgcatccggtgacaatgccgcgg
+            gtggacaatcaactggatctcgccactttctggcagcagtggctgaactggcaggcaccg
+            gttaatcaacgcgcgtgggcgtttcatgatgcgctggcgcagggttttgccgcgttgatg
+            cgtgagcaggccacgatgcgtggtatcactacgctggtatttagcggcggggttattcat
+            aaccgtttgctgcgtgcacgtctggcgcattatctcgctgatttcacattgctctttcca
+            cagagtttaccggcgggtgatggcggtttgtctctggggcagggggttattgctgcggcg
+            cgttggttagcgggtgaagtccagaacggataa
+///

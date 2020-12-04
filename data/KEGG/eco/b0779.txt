@@ -1,0 +1,85 @@
+ENTRY       b0779             CDS       T00007
+NAME        uvrB
+DEFINITION  (RefSeq) excision nuclease subunit B
+ORTHOLOGY   K03702  excinuclease ABC subunit B
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03420  Nucleotide excision repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03420 Nucleotide excision repair
+                b0779 (uvrB)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b0779 (uvrB)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                GGR (global genome repair) factors
+                 b0779 (uvrB)
+              DSBR (double strand breaks repair)
+               NHEJ (non-homologous end-joining)
+                SHDIR (short-homology-dependent illegitimate recombination)
+                 Supressor
+                  b0779 (uvrB)
+POSITION    813526..815547
+MOTIF       Pfam: UvrB_inter UvrB Helicase_C ResIII UVR DEAD AAA_30 UB2H IF2_N
+DBLINKS     NCBI-GeneID: 945385
+            NCBI-ProteinID: NP_415300
+            Pasteur: uvrB
+            RegulonDB: ECK120001051
+            ECOCYC: EG11062
+            ASAP: ABE-0002658
+            UniProt: P0A8F8
+STRUCTURE   PDB: 1QOJ 1E52
+AASEQ       673
+            MSKPFKLNSAFKPSGDQPEAIRRLEEGLEDGLAHQTLLGVTGSGKTFTIANVIADLQRPT
+            MVLAPNKTLAAQLYGEMKEFFPENAVEYFVSYYDYYQPEAYVPSSDTFIEKDASVNEHIE
+            QMRLSATKAMLERRDVVVVASVSAIYGLGDPDLYLKMMLHLTVGMIIDQRAILRRLAELQ
+            YARNDQAFQRGTFRVRGEVIDIFPAESDDIALRVELFDEEVERLSLFDPLTGQIVSTIPR
+            FTIYPKTHYVTPRERIVQAMEEIKEELAARRKVLLENNKLLEEQRLTQRTQFDLEMMNEL
+            GYCSGIENYSRFLSGRGPGEPPPTLFDYLPADGLLVVDESHVTIPQIGGMYRGDRARKET
+            LVEYGFRLPSALDNRPLKFEEFEALAPQTIYVSATPGNYELEKSGGDVVDQVVRPTGLLD
+            PIIEVRPVATQVDDLLSEIRQRAAINERVLVTTLTKRMAEDLTEYLEEHGERVRYLHSDI
+            DTVERMEIIRDLRLGEFDVLVGINLLREGLDMPEVSLVAILDADKEGFLRSERSLIQTIG
+            RAARNVNGKAILYGDKITPSMAKAIGETERRREKQQKYNEEHGITPQGLNKKVVDILALG
+            QNIAKTKAKGRGKSRPIVEPDNVPMDMSPKALQQKIHELEGLMMQHAQNLEFEEAAQIRD
+            QLHQLRELFIAAS
+NTSEQ       2022
+            atgagtaaaccgttcaaactgaattccgcttttaaaccttctggcgatcagccagaggcg
+            attcgacgtctcgaagaggggctggaagatggcctggcgcaccagacgttacttggcgtg
+            actggctcagggaaaaccttcaccattgccaatgtcattgctgaccttcagcgcccaacc
+            atggtacttgcgcccaacaaaacgctggcggcccagctgtatggcgaaatgaaagagttc
+            ttcccggaaaacgcggtggaatatttcgtttcctactacgactactatcagccggaagcc
+            tatgtaccgagttccgacactttcattgagaaagatgcctcggttaacgaacatattgag
+            cagatgcgtttgtccgccaccaaagcgatgctggagcggcgtgatgtggttgtggtggcg
+            tctgtttccgcgatttatggtctgggcgatcctgatttatatctcaagatgatgctccat
+            ctcacggtcggtatgattatcgatcagcgcgcgattctgcgccgactggcggagctgcaa
+            tacgctcgtaatgatcaagcattccagcgtggtactttccgcgttcgtggcgaggtgata
+            gatatcttcccggcagaatcggatgacattgcacttcgcgtggaactgtttgacgaggaa
+            gtggaacgattgtcgttatttgacccgctgaccgggcagattgtttccactattccacgt
+            tttaccatctacccgaaaacgcactacgtcacaccgcgcgagcgcatcgtacaggcgatg
+            gaggagatcaaagaagagctggccgccagacgcaaagtgctgttggaaaacaacaaactg
+            ctggaagagcagcggctgacccagcgtacccagtttgatctggagatgatgaacgagctg
+            ggctactgttcggggattgaaaactactcgcgcttcctctccggtcgtggaccgggtgag
+            ccaccgccgacgctgtttgattacctgcctgccgatgggctgctggtcgtcgatgaatct
+            cacgtcaccattccacaaattggcggcatgtatcgcggtgaccgggcgcgtaaagagaca
+            ctggtggagtacggcttccgcctgccatcagcgctggataaccgtccgcttaagtttgaa
+            gagttcgaagcattagcgccgcaaaccatctatgtttcggcgacgccgggtaattacgag
+            ctggaaaaatccggcggcgatgtggtggatcaggtggtgcgtccaaccggattgcttgac
+            ccgattatcgaagtgcggccggtggcgacacaggttgatgatcttctttcggagattcgt
+            cagcgagcggcaattaacgaacgcgtactggtcaccacactgaccaagcggatggcggaa
+            gatcttaccgaatatctcgaagaacatggcgagcgcgtgcgttatcttcactcagatatc
+            gacaccgtcgaacgtatggagattatccgcgacttgcgtctgggtgagttcgacgtgctg
+            gtagggatcaacttactgcgcgaaggtctggatatgccggaagtgtcgctggtggcgatc
+            ctcgacgctgacaaagaaggcttcctgcgttccgaacgttcgttgatccagaccattggt
+            cgtgcggcacgtaacgttaacggtaaagcgattctctacggcgataagatcaccccatca
+            atggcgaaagcgattggcgaaaccgaacgtcgccgtgagaaacagcagaagtacaacgag
+            gaacacggaattacgccgcaaggcttgaacaagaaagtggtcgatatcctggcgctgggg
+            cagaacattgccaaaaccaaagcgaagggcagaggaaaatcgcgcccgattgttgagccg
+            gataatgtgccgatggatatgtcgcctaaagcgttgcagcagaaaatccatgagctggaa
+            gggttgatgatgcaacacgcgcagaatctggagttcgaagaagcggcgcaaattcgtgac
+            cagttgcatcagctgcgtgagctgtttatcgcggcatcgtaa
+///

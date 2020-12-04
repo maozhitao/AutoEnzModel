@@ -1,0 +1,42 @@
+ENTRY       b2756             CDS       T00007
+NAME        casE
+DEFINITION  (RefSeq) pre-CRISPR RNA endonuclease
+ORTHOLOGY   K19126  CRISPR system Cascade subunit CasE
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b2756 (casE)
+            Prokaryotic defense system [BR:eco02048]
+             CRISPR-Cas system
+              Type I CRISPR-Cas system
+               Subtype I-E factors
+                b2756 (casE)
+POSITION    complement(2879788..2880387)
+MOTIF       Pfam: CRISPR_assoc Cas6
+DBLINKS     NCBI-GeneID: 947226
+            NCBI-ProteinID: NP_417236
+            Pasteur: ygcH
+            RegulonDB: ECK120003991
+            ECOCYC: G7426
+            ASAP: ABE-0009042
+            UniProt: Q46897
+STRUCTURE   PDB: 4DZD 5H9F 4U7U 4QYZ 5CD4 5H9E
+AASEQ       199
+            MYLSKVIIARAWSRDLYQLHQGLWHLFPNRPDAARDFLFHVEKRNTPEGCHVLLQSAQMP
+            VSTAVATVIKTKQVEFQLQVGVPLYFRLRANPIKTILDNQKRLDSKGNIKRCRVPLIKEA
+            EQIAWLQRKLGNAARVEDVHPISERPQYFSGDGKSGKIQTVCFEGVLTINDAPALIDLVQ
+            QGIGPAKSMGCGLLSLAPL
+NTSEQ       600
+            atgtatctcagtaaagtcatcattgccagggcctggagcagggatctttaccaacttcac
+            cagggattatggcatttatttccaaacagaccggatgctgctcgtgattttctttttcat
+            gttgagaagcgaaacacaccagaaggctgtcatgttttattgcagtcagcgcaaatgcct
+            gtttcaactgccgttgcgacagtcattaaaactaaacaggttgaatttcaacttcaggtt
+            ggtgttccactctattttcggcttcgggcaaatccgatcaaaactattctcgacaatcaa
+            aagcgcctggacagtaaagggaatattaaacgctgtcgggttccgttaataaaagaagca
+            gaacaaatcgcgtggttgcaacgtaaattgggcaatgcggcgcgcgttgaagatgtgcat
+            cccatatcggaacggccacagtatttttctggtgatggtaaaagtggaaagatccaaacg
+            gtttgctttgaaggtgtgctcaccatcaacgacgcgccagcgttaatagatcttgtacag
+            caaggtattgggccagctaaatcgatgggatgtggcttgctatctttggctccactgtga
+///

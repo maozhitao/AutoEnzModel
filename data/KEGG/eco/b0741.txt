@@ -1,0 +1,39 @@
+ENTRY       b0741             CDS       T00007
+NAME        pal
+DEFINITION  (RefSeq) peptidoglycan-associated outer membrane lipoprotein Pal
+ORTHOLOGY   K03640  peptidoglycan-associated lipoprotein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0741 (pal)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b0741 (pal)
+POSITION    779067..779588
+MOTIF       Pfam: OmpA
+DBLINKS     NCBI-GeneID: 945004
+            NCBI-ProteinID: NP_415269
+            Pasteur: pal
+            RegulonDB: ECK120000677
+            ECOCYC: EG10684
+            ASAP: ABE-0002521
+            UniProt: P0A912
+STRUCTURE   PDB: 2HQS 2W8B 1OAP
+AASEQ       173
+            MQLNKVLKGLMIALPVMAIAACSSNKNASNDGSEGMLGAGTGMDANGGNGNMSSEEQARL
+            QMQQLQQNNIVYFDLDKYDIRSDFAQMLDAHANFLRSNPSYKVTVEGHADERGTPEYNIS
+            LGERRANAVKMYLQGKGVSADQISIVSYGKEKPAVLGHDEAAYSKNRRAVLVY
+NTSEQ       522
+            atgcaactgaacaaagtgctgaaagggctgatgattgctctgcctgttatggcaattgcg
+            gcatgttcttccaacaagaacgccagcaatgacggcagcgaaggcatgctgggtgccggc
+            actggtatggatgcgaacggcggcaacggcaacatgtcttccgaagagcaggctcgtctg
+            caaatgcaacagctgcagcagaacaacatcgtttacttcgatctggacaagtacgatatc
+            cgttctgacttcgctcaaatgctggatgcacatgcaaacttcctgcgtagcaacccgtct
+            tacaaagtcaccgtagaaggtcacgcggacgaacgtggtactccggaatacaacatctcc
+            ctgggtgaacgtcgtgcgaacgccgttaagatgtacctgcagggtaaaggcgtttctgca
+            gaccagatctccatcgtttcttacggtaaagaaaaacctgcagtactgggtcatgacgaa
+            gcggcatactccaaaaaccgtcgtgcggtactggtttactaa
+///

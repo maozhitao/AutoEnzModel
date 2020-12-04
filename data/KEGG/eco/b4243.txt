@@ -1,0 +1,39 @@
+ENTRY       b4243             CDS       T00007
+NAME        ridA
+DEFINITION  (RefSeq) enamine/imine deaminase, redox regulated chaperone
+ORTHOLOGY   K09022  2-iminobutanoate/2-iminopropanoate deaminase [EC:3.5.99.10]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b4243 (ridA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.99  In other compounds
+                3.5.99.10  2-iminobutanoate/2-iminopropanoate deaminase
+                 b4243 (ridA)
+POSITION    complement(4470527..4470913)
+MOTIF       Pfam: Ribonuc_L-PSP YjgF_endoribonc
+DBLINKS     NCBI-GeneID: 948771
+            NCBI-ProteinID: NP_418664
+            Pasteur: yjgF
+            RegulonDB: ECK120004372
+            ECOCYC: G7877
+            ASAP: ABE-0013886
+            UniProt: P0AF93
+STRUCTURE   PDB: 1QU9
+AASEQ       128
+            MSKTIATENAPAAIGPYVQGVDLGNMIITSGQIPVNPKTGEVPADVAAQARQSLDNVKAI
+            VEAAGLKVGDIVKTTVFVKDLNDFATVNATYEAFFTEHNATFPARSCVEVARLPKDVKIE
+            IEAIAVRR
+NTSEQ       387
+            atgagcaaaactatcgcgacggaaaatgcaccggcagctatcggtccttacgtacagggc
+            gttgatctgggcaatatgatcatcacctccggtcagatcccggtaaatccgaaaacgggc
+            gaagtaccggcagacgtcgctgcacaggcacgtcagtcgctggataacgtaaaagcgatc
+            gtcgaagccgctggcctgaaagtgggcgacatcgttaaaactaccgtgtttgtaaaagat
+            ctgaacgacttcgcaaccgtaaacgccacttacgaagccttcttcaccgaacacaacgcc
+            accttcccggcacgttcttgcgttgaagttgcccgtctgccgaaagacgtgaagattgag
+            atcgaagcgatcgctgttcgtcgctaa
+///

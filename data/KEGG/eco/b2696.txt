@@ -1,0 +1,45 @@
+ENTRY       b2696             CDS       T00007
+NAME        csrA
+DEFINITION  (RefSeq) carbon storage regulator
+ORTHOLOGY   K03563  carbon storage regulator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b2696 (csrA)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b2696 (csrA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:eco03019]
+                b2696 (csrA)
+            Messenger RNA biogenesis [BR:eco03019]
+             Prokaryotic type
+              Bacterial mRNA degradation factors
+               Other RNA degradation factors
+                Others
+                 b2696 (csrA)
+POSITION    complement(2818961..2819146)
+MOTIF       Pfam: CsrA S1
+DBLINKS     NCBI-GeneID: 947176
+            NCBI-ProteinID: NP_417176
+            Pasteur: csrA
+            RegulonDB: ECK120001410
+            ECOCYC: EG11447
+            ASAP: ABE-0008866
+            UniProt: P69913
+STRUCTURE   PDB: 5Z38 1Y00
+AASEQ       61
+            MLILTRRVGETLMIGDEVTVTVLGVKGNQVRIGVNAPKEVSVHREEIYQRIQAEKSQQSS
+            Y
+NTSEQ       186
+            atgctgattctgactcgtcgagttggtgagaccctcatgattggggatgaggtcaccgtg
+            acagttttaggggtaaagggcaaccaggtacgtattggcgtaaatgccccgaaggaagtt
+            tctgttcaccgtgaagagatctaccagcgtatccaggctgaaaaatcccagcagtccagt
+            tactaa
+///

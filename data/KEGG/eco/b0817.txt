@@ -1,0 +1,39 @@
+ENTRY       b0817             CDS       T00007
+NAME        mntR
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator MntR
+ORTHOLOGY   K11924  DtxR family transcriptional regulator, manganese transport regulator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0817 (mntR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               Other families
+                b0817 (mntR)
+POSITION    853183..853650
+MOTIF       Pfam: Fe_dep_repr_C Fe_dep_repress MarR MarR_2 HTH_24 HTH_Crp_2 GntR TrmB HTH_27 HTH_IclR HTH_DeoR HTH_5 HTH_1 HTH_36 HTH_50 HTH_23 YdaS_antitoxin DUF2250 HTH_PafC HTH_AsnC-type HTH_37 DUF2089 HTH_38 Rrf2 LexA_DNA_bind HTH_6 STD1 HTH_29 DUF4423 HTH_45 HTH_11 HTH_47
+DBLINKS     NCBI-GeneID: 945437
+            NCBI-ProteinID: NP_415338
+            Pasteur: ybiQ
+            RegulonDB: ECK120003020
+            ECOCYC: G6420
+            ASAP: ABE-0002793
+            UniProt: P0A9F1
+STRUCTURE   PDB: 2H09
+AASEQ       155
+            MSRRAGTPTAKKVTQLVNVEEHVEGFRQVREAHRRELIDDYVELISDLIREVGEARQVDM
+            AARLGVSQPTVAKMLKRLATMGLIEMIPWRGVFLTAEGEKLAQESRERHQIVENFLLVLG
+            VSPEIARRDAEGMEHHVSEETLDAFRLFTQKHGAK
+NTSEQ       468
+            atgagtcgtcgcgcaggtacgccaacagcaaaaaaagtgacgcagttagtgaacgtggaa
+            gagcacgttgaagggttccgccaggtcagagaggcgcatcggcgcgagcttattgatgat
+            tacgttgagctgatttctgacttgatcagggaagtgggggaagctcgtcaggtggacatg
+            gctgctcgtctgggagtttcgcaaccgacggtggctaaaatgcttaagcggctggcaacc
+            atggggctgattgaaatgatcccctggcgtggcgtgtttttaacggcagaaggagagaag
+            ctggcgcaggaaagccgcgagcgacatcagatagtcgaaaatttcttgttggtgttgggc
+            gtcagtccggaaatcgcccgtcgcgacgcggaaggcatggagcaccatgttagtgaagag
+            acgctcgacgcttttcgtttgtttacccagaaacacggtgccaaatga
+///

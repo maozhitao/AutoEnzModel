@@ -1,0 +1,75 @@
+ENTRY       b1766             CDS       T00007
+NAME        sppA
+DEFINITION  (RefSeq) protease IV, a signal peptide peptidase
+ORTHOLOGY   K04773  protease IV [EC:3.4.21.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b1766 (sppA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.-  
+                 b1766 (sppA)
+            Peptidases and inhibitors [BR:eco01002]
+             Serine peptidases
+              Family S49: protease IV family
+               b1766 (sppA)
+POSITION    1848837..1850693
+MOTIF       Pfam: Peptidase_S49 CLP_protease SDH_sah DUF1999 Tiam_CC_Ex
+DBLINKS     NCBI-GeneID: 946281
+            NCBI-ProteinID: NP_416280
+            Pasteur: sppA
+            RegulonDB: ECK120000957
+            ECOCYC: EG10968
+            ASAP: ABE-0005880
+            UniProt: P08395
+STRUCTURE   PDB: 3BF0 3BEZ
+AASEQ       618
+            MRTLWRFIAGFFKWTWRLLNFVREMVLNLFFIFLVLVGVGIWMQVSGGDSKETASRGALL
+            LDISGVIVDKPDSSQRFSKLSRQLLGASSDRLQENSLFDIVNTIRQAKDDRNITGIVMDL
+            KNFAGGDQPSMQYIGKALKEFRDSGKPVYAVGENYSQGQYYLASFANKIWLSPQGVVDLH
+            GFATNGLYYKSLLDKLKVSTHVFRVGTYKSAVEPFIRDDMSPAAREADSRWIGELWQNYL
+            NTVAANRQIPAEQVFPGAQGLLEGLTKTGGDTAKYALENKLVDALASSAEIEKALTKEFG
+            WSKTDKNYRAISYYDYALKTPADTGDSIGVVFANGAIMDGEETQGNVGGDTTAAQIRDAR
+            LDPKVKAIVLRVNSPGGSVTASEVIRAELAAARAAGKPVVVSMGGMAASGGYWISTPANY
+            IVANPSTLTGSIGIFGVITTVENSLDSIGVHTDGVSTSPLADVSITRALPPEAQLMMQLS
+            IENGYKRFITLVADARHSTPEQIDKIAQGHVWTGQDAKANGLVDSLGDFDDAVAKAAELA
+            KVKQWHLEYYVDEPTFFDKVMDNMSGSVRAMLPDAFQAMLPAPLASVASTVKSESDKLAA
+            FNDPQNRYAFCLTCANMR
+NTSEQ       1857
+            atgcgaaccctttggcgatttattgccggattttttaaatggacgtggcgtctgctgaat
+            ttcgtccgtgaaatggtacttaacctgttctttattttcctcgtactggttggtgtgggg
+            atttggatgcaggtcagtggtggtgattcgaaagaaacggccagtcgtggcgcactgctg
+            ctggacatttctggtgtgatcgtcgataaacccgacagttctcagcggtttagtaaatta
+            agccgccagctgcttggtgccagttccgatcgtctgcaggaaaactcactgtttgatatc
+            gtcaacactattcgccaggcgaaggacgaccgcaatatcaccggtattgtgatggatctg
+            aaaaacttcgcaggcggcgaccaaccgtctatgcagtacatcggcaaagctctgaaagag
+            tttcgtgacagcgggaaaccggtttatgccgttggcgagaactacagccaggggcaatat
+            tatctcgccagtttcgccaataaaatttggctgtctccgcaaggcgtggttgatctgcac
+            ggctttgccaccaacggtctgtactacaaatcgttgctggataagctgaaagtttccacc
+            catgtgttccgcgtgggtacgtataaatctgccgttgaaccgtttattcgtgatgatatg
+            tcaccggcagcccgcgaagctgacagccgctggattggtgagctgtggcaaaactatctg
+            aatactgttgccgctaaccggcagatccctgctgagcaggtattccctggcgcgcaaggg
+            ttgcttgagggtttaaccaaaaccggtggcgataccgcgaaatatgcactggaaaacaag
+            ctggtcgatgcactggcatcgagtgcggaaatcgaaaaagcactgaccaaagaattcggc
+            tggagtaagactgataaaaattatcgcgccatcagttattacgattacgcattgaaaacg
+            ccggcagataccggtgacagcatcggtgtcgtctttgctaatggcgcaattatggatggc
+            gaggaaactcaggggaatgttggcggtgataccactgcggcacaaatccgcgacgctcgc
+            cttgacccgaaagtgaaagcgattgtcctgcgtgttaatagcccaggcggcagcgttacc
+            gcgtctgaagtgattcgcgctgaactggcagcagcccgggcagcgggtaagcctgtggtt
+            gtatcgatgggcggcatggcggcatctggtggttactggatttccacgccagctaattac
+            attgtggctaaccccagcaccctgaccggttctatcggtatcttcggcgtgatcaccacc
+            gtagaaaatagtctggattcgattggtgttcatactgatggtgtctcaacttcaccgctg
+            gcggatgtttctatcaccagggcactgccgccggaagcgcagctgatgatgcagttaagc
+            attgagaatggctataaacgctttatcacgctggttgctgatgcgcgtcattcgacgccg
+            gagcagattgataaaattgcccagggccacgtctggaccggtcaggatgcaaaagctaac
+            gggctggtcgatagtctcggggatttcgatgatgcggtcgccaaagcagcagagctggca
+            aaagtgaaacagtggcatctggaatattacgttgatgaaccgaccttcttcgacaaagtg
+            atggacaacatgtctggttctgtccgggcaatgttgccagatgcgttccaggccatgtta
+            cctgcaccgctggcctcggtagcctctaccgttaaaagtgaaagtgacaagctggccgcg
+            tttaatgacccacaaaaccgttatgcgttttgcctgacctgcgccaacatgcgttaa
+///

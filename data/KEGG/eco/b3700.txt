@@ -1,0 +1,57 @@
+ENTRY       b3700             CDS       T00007
+NAME        recF
+DEFINITION  (RefSeq) DNA repair protein RecF
+ORTHOLOGY   K03629  DNA replication and repair protein RecF
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03440 Homologous recombination
+                b3700 (recF)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b3700 (recF)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecFOR pathway proteins
+                 b3700 (recF)
+POSITION    complement(3880148..3881221)
+MOTIF       Pfam: SMC_N AAA_15 AAA_23 AAA_21 AAA_27 AAA_29 ABC_tran AAA_16 AAA_13
+DBLINKS     NCBI-GeneID: 948209
+            NCBI-ProteinID: NP_418155
+            Pasteur: recF
+            RegulonDB: ECK120000819
+            ECOCYC: EG10828
+            ASAP: ABE-0012095
+            UniProt: P0A7H0
+AASEQ       357
+            MSLTRLLIRDFRNIETADLALSPGFNFLVGANGSGKTSVLEAIYTLGHGRAFRSLQIGRV
+            IRHEQEAFVLHGRLQGEERETAIGLTKDKQGDSKVRIDGTDGHKVAELAHLMPMQLITPE
+            GFTLLNGGPKYRRAFLDWGCFHNEPGFFTAWSNLKRLLKQRNAALRQVTRYEQLRPWDKE
+            LIPLAEQISTWRAEYSAGIAADMADTCKQFLPEFSLTFSFQRGWEKETEYAEVLERNFER
+            DRQLTYTAHGPHKADLRIRADGAPVEDTLSRGQLKLLMCALRLAQGEFLTRESGRRCLYL
+            IDDFASELDDERRGLLASRLKATQSQVFVSAISAEHVIDMSDENSKMFTVEKGKITD
+NTSEQ       1074
+            atgtccctcacccgcttgttgatccgcgatttccgcaacattgaaaccgcggatctcgcc
+            ttatctcccggctttaactttctggtaggtgccaacggcagtggcaaaaccagcgtgctg
+            gaagccatctatacgctcggccatggtcgggcgtttcgcagtttgcagattggtcgcgtc
+            attcgccatgagcaggaggcgtttgttctccacgggcgattacagggcgaagagcgcgag
+            acagcgattggcttaaccaaagacaaacagggcgacagcaaagtccgcatcgacggtaca
+            gacgggcataaggtcgcggaactggcgcacctgatgccaatgcagttgataacgccagaa
+            gggtttactttactcaacggcggccccaaatacagaagagcattcctcgactggggatgc
+            tttcacaacgaacccggatttttcaccgcctggagcaatctcaagcgattgctcaagcag
+            cgcaatgcggcgctgcgccaggtgacacgttacgaacagctacgcccgtgggataaagag
+            ctgatcccgctggcggagcaaatcagcacctggcgcgcggagtatagcgccggtatcgcg
+            gccgatatggctgatacctgtaagcaatttctccctgagttttctctgactttctctttc
+            cagcgcggctgggagaaagagacagaatatgctgaggtgctggaacgtaattttgaacgc
+            gatcgccagctaacctacaccgcgcacggcccgcacaaagcggacttacgcattcgcgcc
+            gacggtgcgccggtggaagataccttatcgcgtgggcagcttaagctgttgatgtgcgcc
+            ttacgtctggcgcaaggagagttcctcacccgtgaaagcgggcggcggtgtctctacctg
+            atagatgattttgcctctgagcttgatgatgagcgtcgcgggctgcttgccagccgctta
+            aaagcgacgcaatcacaggtctttgtcagcgcgatcagtgctgaacacgttatagacatg
+            tcggacgaaaattcgaagatgtttaccgtggaaaagggtaaaataacggattaa
+///

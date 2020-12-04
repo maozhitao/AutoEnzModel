@@ -1,0 +1,39 @@
+ENTRY       b4249             CDS       T00007
+NAME        bdcA
+DEFINITION  (RefSeq) c-di-GMP-binding biofilm dispersal mediator protein
+ORTHOLOGY   K19336  cyclic-di-GMP-binding biofilm dispersal mediator protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09193 Unclassified: signaling and cellular processes
+               99995 Signaling proteins
+                b4249 (bdcA)
+POSITION    complement(4473340..4474053)
+MOTIF       Pfam: adh_short_C2 adh_short Epimerase NAD_binding_10 F420_oxidored KR Eno-Rase_NADH_b ZNRF_3_ecto NmrA
+DBLINKS     NCBI-GeneID: 948765
+            NCBI-ProteinID: NP_418670
+            Pasteur: yjgI
+            RegulonDB: ECK120004375
+            ECOCYC: G7880
+            ASAP: ABE-0013909
+            UniProt: P39333
+STRUCTURE   PDB: 5Z2L 4PCV
+AASEQ       237
+            MGAFTGKTVLILGGSRGIGAAIVRRFVTDGANVRFTYAGSKDAAKRLAQETGATAVFTDS
+            ADRDAVIDVVRKSGALDILVVNAGIGVFGEALELNADDIDRLFKINIHAPYHASVEAARQ
+            MPEGGRILIIGSVNGDRMPVAGMAAYAASKSALQGMARGLARDFGPRGITINVVQPGPID
+            TDANPANGPMRDMLHSLMAIKRHGQPEEVAGMVAWLAGPEASFVTGAMHTIDGAFGA
+NTSEQ       714
+            atgggcgcttttacaggtaagacagttctcatcctcggtggcagtcgtggtatcggtgcc
+            gctatcgtacgtcgtttcgtcaccgatggggccaatgtacgattcacctatgcggggtcg
+            aaagatgccgctaaacgcctggcacaagagactggagcgacagcagtattcacagatagt
+            gctgacagagacgctgtcattgatgtcgttcgtaagagcggcgcattggatatcctggtg
+            gtaaatgcaggtattggcgtctttggcgaggccctggaattaaatgccgacgatattgat
+            cgccttttcaaaatcaatattcatgctccttatcatgcctctgttgaagccgcccggcag
+            atgcccgaaggcgggcgcatcttaatcatcggctccgtgaatggcgatcgtatgcctgtt
+            gcaggcatggctgcttatgccgccagcaaatctgccctgcaaggcatggcgcgcgggctg
+            gcccgtgattttggaccgcgtgggatcaccattaacgtcgtccagccagggccaattgat
+            accgacgctaatcccgccaacgggccaatgcgcgatatgttgcatagtttgatggctatc
+            aaaagacatgggcaaccggaagaggtcgctggtatggtcgcatggttagcagggccagaa
+            gccagttttgttaccggcgcgatgcataccattgatggcgcgtttggcgcataa
+///

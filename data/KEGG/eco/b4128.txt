@@ -1,0 +1,35 @@
+ENTRY       b4128             CDS       T00007
+NAME        ghoS
+DEFINITION  (RefSeq) antitoxin of the GhoTS toxin-antitoxin system
+ORTHOLOGY   K18840  antitoxin GhoS
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4128 (ghoS)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type V TA system
+               GhoT-GhoS
+                b4128 (ghoS)
+POSITION    4352584..4352880
+MOTIF       Pfam: GhoS
+DBLINKS     NCBI-GeneID: 948646
+            NCBI-ProteinID: NP_418552
+            Pasteur: yjdK
+            RegulonDB: ECK120004327
+            ECOCYC: G7830
+            ASAP: ABE-0013518
+            UniProt: P0AF61
+STRUCTURE   PDB: 2LLZ
+AASEQ       98
+            MEGKNKFNTYVVSFDYPSSYSSVFLRLRSLMYDMNFSSIVADEYGIPRQLNENSFAITTS
+            LAASEIEDLIRLKCLDLPDIDFDLNIMTVDDYFRQFYK
+NTSEQ       297
+            atggaaggtaaaaacaagttcaatacttatgttgtttcttttgattatccatcatcttat
+            tcctcagtgttcttaagattaagatcattgatgtatgatatgaatttctcctctatcgtg
+            gctgatgaatatgggataccacgacaattgaatgaaaactccttcgcaataacgacatcg
+            ttagccgcaagtgaaatcgaagatttaatcaggctcaaatgcttagacttaccggatatt
+            gattttgacctcaacattatgacagttgatgactatttccgtcagttttacaagtag
+///

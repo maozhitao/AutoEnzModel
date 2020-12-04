@@ -1,0 +1,37 @@
+ENTRY       b1438             CDS       T00007
+NAME        hicB
+DEFINITION  (RefSeq) antitoxin of the HicA-HicB toxin-antitoxin system
+ORTHOLOGY   K18843  antitoxin HicB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b1438 (hicB)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               HicA-HicB
+                b1438 (hicB)
+POSITION    1509508..1509924
+MOTIF       Pfam: HicB_lk_antitox HTH_3 MarR_2 HicB-like_2 HTH_24
+DBLINKS     NCBI-GeneID: 946001
+            NCBI-ProteinID: NP_415955
+            RegulonDB: ECK120003338
+            ECOCYC: G6749
+            ASAP: ABE-0004796
+            UniProt: P67697
+STRUCTURE   PDB: 6U0I 6HPC 6HPB
+AASEQ       138
+            MRYPVTLTPAPEGGYMVSFVDIPEALTQGETVAEAMEAAKDALLTAFDFYFEDNELIPLP
+            SPLNSHDHFIEVPLSVASKVLLLNAFLQSEITQQELARRIGKPKQEITRLFNLHHATKID
+            AVQLAAKALGKELSLVMV
+NTSEQ       417
+            atgcgttatcccgtcactcttacacccgcgccggaaggcggttatatggtttcttttgtg
+            gatatccctgaagcgttgacccagggcgaaactgtcgctgaagcgatggaagcggcaaaa
+            gatgctttactgaccgcatttgatttttattttgaagataacgagcttatccctttacct
+            tcgccattaaatagtcacgatcactttattgaagtacctttgagcgtcgcctctaaggta
+            ttgctgttaaatgcttttttacagtcagaaatcactcagcaagagttagccaggcgaatt
+            ggcaaacctaaacaggagattactcgcctatttaacttgcatcatgcgacaaaaatcgac
+            gccgtccagctcgcggcaaaggcgcttggcaaagagttatcgctggtgatggtttaa
+///

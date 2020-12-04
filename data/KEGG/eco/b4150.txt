@@ -1,0 +1,70 @@
+ENTRY       b4150             CDS       T00007
+NAME        ampC
+DEFINITION  (RefSeq) beta-lactamase
+ORTHOLOGY   K01467  beta-lactamase class C [EC:3.5.2.6]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01501  beta-Lactam resistance
+            eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b4150 (ampC)
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01501 beta-Lactam resistance
+                b4150 (ampC)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.2  In cyclic amides
+                3.5.2.6  beta-lactamase
+                 b4150 (ampC)
+POSITION    complement(4377811..4378944)
+MOTIF       Pfam: Beta-lactamase
+DBLINKS     NCBI-GeneID: 948669
+            NCBI-ProteinID: NP_418574
+            Pasteur: ampC
+            RegulonDB: ECK120000036
+            ECOCYC: EG10040
+            ASAP: ABE-0013592
+            UniProt: P00811
+STRUCTURE   PDB: 2FFY 2HDS 4KZ5 4OKP 4KZB 1PI4 4LV3 4KZ4 4KZ7 4E3K 4E3L
+                 4E3M 4OLD 5GZW 4E3N 2HDU 1PI5 6DPZ 3FKW 1L0G 1L0D 1KVL
+                 6N9K 4KZA 4E3I 4E3O 3O86 3IXB 3O88 3IWI 4LV0 4LV2 4JXG
+                 1L0F 4KZ3 4KZ6 2ZJ9 4OLG 1O07 4KZ9 1MY8 1LLB 1KE4 4LV1
+                 5JOC 4KG6 1FSY 5GGW 5F1G 4JXV 3O87 6DPT 4E3J 3GV9 3GVB
+                 3GQZ 3GR2 2R9W 2P9V 1LL5 1MXO 1I5Q 3IWQ 3FKV 2PU2 1LL9
+                 4KG2 4KEN 6DPX 4JXS 3IWO 3GTC 2R9X 1L0E 1FSW 6DPY 1L2S
+                 1XGI 1XGJ 2RCX 2PU4 1IEL 2BLS 1KVM 3GSG 3BM6 2HDQ 1GA9
+                 4KG5 3IXG 1KE3 1KDS 2I72 2HDR 1FCO 1C3B 4KZ8 1KDW 4JXW
+                 3IXH 1KE0 1IEM 3BLS 1FCN 1FCM 3GRJ 3IXD
+AASEQ       377
+            MFKTTLCALLITASCSTFAAPQQINDIVHRTITPLIEQQKIPGMAVAVIYQGKPYYFTWG
+            YADIAKKQPVTQQTLFELGSVSKTFTGVLGGDAIARGEIKLSDPTTKYWPELTAKQWNGI
+            TLLHLATYTAGGLPLQVPDEVKSSSDLLRFYQNWQPAWAPGTQRLYANSSIGLFGALAVK
+            PSGLSFEQAMQTRVFQPLKLNHTWINVPPAEEKNYAWGYREGKAVHVSPGALDAEAYGVK
+            STIEDMARWVQSNLKPLDINEKTLQQGIQLAQSRYWQTGDMYQGLGWEMLDWPVNPDSII
+            NGSDNKIALAARPVKAITPPTPAVRASWVHKTGATGGFGSYVAFIPEKELGIVMLANKNY
+            PNPARVDAAWQILNALQ
+NTSEQ       1134
+            atgttcaaaacgacgctctgcgccttattaattaccgcctcttgctccacatttgctgcc
+            cctcaacaaatcaacgatattgtgcatcgcacaattaccccgcttatagagcaacaaaag
+            atcccgggtatggcggtggcggtaatttatcagggtaaaccttattactttacctggggc
+            tatgcggacatcgccaaaaagcagcccgtcacacagcaaacgttgtttgagttaggttcg
+            gtcagcaaaacatttactggcgtgcttggtggcgacgctattgctcgaggggaaatcaag
+            ttaagcgatcccacaacaaaatactggcctgaacttaccgctaaacagtggaatgggatc
+            acactattacatctcgcaacctacactgctggcggcctgccattgcaggtgccggatgag
+            gtgaaatcctcaagcgacttgctgcgcttctatcaaaactggcagcctgcatgggctcca
+            ggaacacaacgtctgtatgccaactccagtatcggtttgttcggcgcactggctgtgaag
+            ccgtctggtttgagttttgagcaggcgatgcaaactcgtgtcttccagccactcaaactc
+            aaccatacgtggattaatgtaccgcccgcagaagaaaagaattacgcctggggatatcgc
+            gaaggtaaggcagtgcatgtttcgcctggggcgttagatgctgaagcttatggtgtgaag
+            tcgaccattgaagatatggcccgctgggtgcaaagcaatttaaaaccccttgatatcaat
+            gagaaaacgcttcaacaagggatacaactggcacaatctcgctactggcaaaccggcgat
+            atgtatcagggcctgggctgggaaatgctggactggccggtaaatcctgacagcatcatt
+            aacggcagtgacaataaaattgcactggcagcacgccccgtaaaagcgattacgccccca
+            actcctgcagtacgcgcatcatgggtacataaaacaggggcgaccggcggatttggtagc
+            tatgtcgcgtttattccagaaaaagagctgggtatcgtgatgctggcaaacaaaaactat
+            cccaatccagcgagagtcgacgccgcctggcagattcttaacgctctacagtaa
+///

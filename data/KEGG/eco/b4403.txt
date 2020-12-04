@@ -1,0 +1,49 @@
+ENTRY       b4403             CDS       T00007
+NAME        yjtD
+DEFINITION  (RefSeq) putative rRNA methyltransferase
+ORTHOLOGY   K02533  tRNA/rRNA methyltransferase [EC:2.1.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b4403 (yjtD)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.-  
+                 b4403 (yjtD)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Methyltransferases
+                b4403 (yjtD)
+POSITION    4640942..4641628
+MOTIF       Pfam: SpoU_methylase OAM_dimer
+DBLINKS     NCBI-GeneID: 948924
+            NCBI-ProteinID: NP_418820
+            Pasteur: lasT
+            RegulonDB: ECK120002186
+            ECOCYC: EG12309
+            ASAP: ABE-0014442
+            UniProt: P37005
+AASEQ       228
+            MRITIILVAPARAENIGAAARAMKTMGFSDLRIVDSQAHLEPATRWVAHGSGDIIDNIKV
+            FPTLAESLHDVDFTVATTARSRAKYHYYATPVELVPLLEEKSSWMSHAALVFGREDSGLT
+            NEELALADVLTGVPMVADYPSLNLGQAVMVYCYQLATLIQQPAKSDATADQHQLQALRER
+            AMTLLTTLAVADDIKLVDWLQQRLGLLEQRDTAMLHRLLHDIEKNITK
+NTSEQ       687
+            atgcgtataacgattattctggtcgcacccgccagagcagaaaatattggggcagcggcg
+            cgggcaatgaaaacgatggggtttagcgatctgcggattgtcgatagtcaggcacacctg
+            gagccagccacccgctgggtcgcacatggatctggtgatattattgataatattaaagtt
+            ttcccgacattggctgaatcgttacacgatgtcgatttcactgtcgccaccactgcgcgc
+            agtcgggcgaaatatcattactacgccacgccagttgaactggtgccgctgttagaggaa
+            aaatcttcatggatgagccatgccgcgctggtgtttggtcgcgaagattccgggttgact
+            aacgaagagttagcgttggctgacgttcttactggtgtgccgatggtggcggattatcct
+            tcgctcaatctggggcaggcggtgatggtctattgctatcaattagcaacattaatacaa
+            caaccggcgaaaagtgatgcaacggcagaccaacatcaactgcaagctttacgcgaacga
+            gccatgacattgctgacgactctggcagtggcagatgacataaaactggtcgactggtta
+            caacaacgcctggggcttttagagcaacgagacacggcaatgttgcaccgtttgctgcat
+            gatattgaaaaaaatatcaccaaataa
+///

@@ -1,0 +1,35 @@
+ENTRY       b2597             CDS       T00007
+NAME        raiA
+DEFINITION  (RefSeq) stationary phase translation inhibitor and ribosome stability factor
+ORTHOLOGY   K05809  ribosome-associated inhibitor A
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b2597 (raiA)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              Other maturation factors
+               b2597 (raiA)
+POSITION    2737154..2737495
+MOTIF       Pfam: Ribosomal_S30AE DUF1690
+DBLINKS     NCBI-GeneID: 947129
+            NCBI-ProteinID: NP_417088
+            Pasteur: yfiA
+            RegulonDB: ECK120001134
+            ECOCYC: EG11151
+            ASAP: ABE-0008540
+            UniProt: P0AD49
+STRUCTURE   PDB: 1N3G 1L4S
+AASEQ       113
+            MTMNITSKQMEITPAIRQHVADRLAKLEKWQTHLINPHIILSKEPQGFVADATINTPNGV
+            LVASGKHEDMYTAINELINKLERQLNKLQHKGEARRAATSVKDANFVEEVEEE
+NTSEQ       342
+            atgacaatgaacattaccagcaaacaaatggaaattactccggccatccgccaacatgtc
+            gcagaccgtctcgccaaactggaaaaatggcaaacacatctgattaatccacatatcatt
+            ctgtccaaagagccacaagggtttgttgctgacgccacaatcaatacacctaacggcgtt
+            ctggttgccagtggtaaacatgaagatatgtacaccgcaattaacgaattgatcaacaag
+            ctggaacggcagctcaataaactgcagcacaaaggcgaagcacgtcgtgccgcaacatcg
+            gtgaaagacgccaacttcgtcgaagaagttgaagaagagtag
+///

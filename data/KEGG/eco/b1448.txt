@@ -1,0 +1,40 @@
+ENTRY       b1448             CDS       T00007
+NAME        mnaT
+DEFINITION  (RefSeq) L-amino acid N-acyltransferase
+ORTHOLOGY   K24217  L-amino acid N-acyltransferase [EC:2.3.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b1448 (mnaT)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.-  
+                 b1448 (mnaT)
+POSITION    complement(1518328..1518846)
+MOTIF       Pfam: Acetyltransf_1 Acetyltransf_4 Acetyltransf_10 Acetyltransf_3 Acetyltransf_7 FR47 GNAT_acetyltran Acetyltransf_CG Acetyltransf_9 Acetyltransf_15
+DBLINKS     NCBI-GeneID: 946010
+            NCBI-ProteinID: NP_415965
+            Pasteur: yncA
+            RegulonDB: ECK120003348
+            ECOCYC: G6759
+            ASAP: ABE-0004827
+            UniProt: P76112
+AASEQ       172
+            MSIRFARKADCAAIAEIYNHAVLYTAAIWNDQTVDADNRIAWFEARTLAGYPVLVSEENG
+            VVTGYASFGDWRSFDGFRHTVEHSVYVHPDHQGKGLGRKLLSRLIDEARDCGKHVMVAGI
+            ESQNQASLHLHQSLGFVVTAQMPQVGTKFGRWLDLTFMQLQLDERTEPDAIG
+NTSEQ       519
+            atgtccatccgttttgcccgcaaagccgactgtgctgccattgcggaaatttataaccac
+            gccgtgttgtatacggcggctatctggaatgaccaaacggtggatgctgataaccgcatt
+            gcctggtttgaagcgcggactttagcaggttatccagtgctggtgagcgaggaaaacggc
+            gtagtgacgggatatgcctcgtttggcgactggcgtagtttcgatggttttcgccatacc
+            gtggaacattcggtttatgtccatcccgatcatcagggcaaaggtctggggcgtaaattg
+            ttaagccgattgattgatgaagcgcgggattgcgggaagcatgtcatggtcgccgggatc
+            gaatcgcaaaatcaggcctcgctgcatctccaccagtcgctgggatttgtcgtcaccgcg
+            caaatgccgcaggtaggcactaaatttggtcgttggctggatctgacatttatgcagttg
+            caactcgacgagcgcactgaaccggacgcgattggatga
+///

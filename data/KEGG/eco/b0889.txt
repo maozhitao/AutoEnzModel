@@ -1,0 +1,47 @@
+ENTRY       b0889             CDS       T00007
+NAME        lrp
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator Lrp
+ORTHOLOGY   K03719  Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0889 (lrp)
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b0889 (lrp)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               Lrp/AsnC family
+                b0889 (lrp)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Nucleoid associated proteins
+               Other nucreoid associated proteins
+                b0889 (lrp)
+POSITION    932595..933089
+MOTIF       Pfam: AsnC_trans_reg HTH_24 HTH_AsnC-type MarR MarR_2 HTH_27 LexA_DNA_bind HTH_Crp_2 HTH_20 Fe_dep_repress
+DBLINKS     NCBI-GeneID: 949051
+            NCBI-ProteinID: NP_415409
+            Pasteur: lrp
+            RegulonDB: ECK120000540
+            ECOCYC: EG10547
+            ASAP: ABE-0003023
+            UniProt: P0ACJ0
+STRUCTURE   PDB: 2GQQ 2L4A
+AASEQ       164
+            MVDSKKRPGKDLDRIDRNILNELQKDGRISNVELSKRVGLSPTPCLERVRRLERQGFIQG
+            YTALLNPHYLDASLLVFVEITLNRGAPDVFEQFNTAVQKLEEIQECHLVSGDFDYLLKTR
+            VPDMSAYRKLLGETLLRLPGVNDTRTYVVMEEVKQSNRLVIKTR
+NTSEQ       495
+            atggtagatagcaagaagcgccctggcaaagatctcgaccgtatcgatcgtaacattctt
+            aatgagttgcaaaaggatgggcgtatttctaacgtcgagctttctaaacgtgtgggactt
+            tccccaacgccgtgccttgagcgtgtgcgtcggctggaaagacaagggtttattcagggc
+            tatacggcgctgcttaacccccattatctggatgcatcacttctggtattcgttgagatt
+            actctgaatcgtggcgcaccggatgtgtttgaacaattcaataccgctgtacaaaaactt
+            gaagaaattcaggagtgtcatttagtatccggtgatttcgactacctgttgaaaacacgc
+            gtgccggatatgtcagcctaccgtaagttgctgggggaaaccctgctgcgtctgcctggc
+            gtcaatgacacacggacatacgttgttatggaagaagtcaagcagagtaatcgtctggtt
+            attaagacgcgctaa
+///

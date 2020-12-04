@@ -1,0 +1,72 @@
+ENTRY       b3702             CDS       T00007
+NAME        dnaA
+DEFINITION  (RefSeq) chromosomal replication initiator protein DnaA
+ORTHOLOGY   K02313  chromosomal replication initiator protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b3702 (dnaA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b3702 (dnaA)
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b3702 (dnaA)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Initiation Factors
+               Initiation factors (bacterial)
+                b3702 (dnaA)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Nucleoid associated proteins
+               Other nucreoid associated proteins
+                b3702 (dnaA)
+POSITION    complement(3882326..3883729)
+MOTIF       Pfam: Bac_DnaA Bac_DnaA_C DnaA_N IstB_IS21 AAA Kinesin AAA_14 AAA_16 NACHT ATPase_2 BLOC1S3 RNA_helicase AAA_19
+DBLINKS     NCBI-GeneID: 948217
+            NCBI-ProteinID: NP_418157
+            Pasteur: dnaA
+            RegulonDB: ECK120000229
+            ECOCYC: EG10235
+            ASAP: ABE-0012103
+            UniProt: P03004
+STRUCTURE   PDB: 1J1V 2E0G
+AASEQ       467
+            MSLSLWQQCLARLQDELPATEFSMWIRPLQAELSDNTLALYAPNRFVLDWVRDKYLNNIN
+            GLLTSFCGADAPQLRFEVGTKPVTQTPQAAVTSNVAAPAQVAQTQPQRAAPSTRSGWDNV
+            PAPAEPTYRSNVNVKHTFDNFVEGKSNQLARAAARQVADNPGGAYNPLFLYGGTGLGKTH
+            LLHAVGNGIMARKPNAKVVYMHSERFVQDMVKALQNNAIEEFKRYYRSVDALLIDDIQFF
+            ANKERSQEEFFHTFNALLEGNQQIILTSDRYPKEINGVEDRLKSRFGWGLTVAIEPPELE
+            TRVAILMKKADENDIRLPGEVAFFIAKRLRSNVRELEGALNRVIANANFTGRAITIDFVR
+            EALRDLLALQEKLVTIDNIQKTVAEYYKIKVADLLSKRRSRSVARPRQMAMALAKELTNH
+            SLPEIGDAFGGRDHTTVLHACRKIEQLREESHDIKEDFSNLIRTLSS
+NTSEQ       1404
+            gtgtcactttcgctttggcagcagtgtcttgcccgattgcaggatgagttaccagccaca
+            gaattcagtatgtggatacgcccattgcaggcggaactgagcgataacacgctggccctg
+            tacgcgccaaaccgttttgtcctcgattgggtacgggacaagtaccttaataatatcaat
+            ggactgctaaccagtttctgcggagcggatgccccacagctgcgttttgaagtcggcacc
+            aaaccggtgacgcaaacgccacaagcggcagtgacgagcaacgtcgcggcccctgcacag
+            gtggcgcaaacgcagccgcaacgtgctgcgccttctacgcgctcaggttgggataacgtc
+            ccggccccggcagaaccgacctatcgttctaacgtaaacgtcaaacacacgtttgataac
+            ttcgttgaaggtaaatctaaccaactggcgcgcgcggcggctcgccaggtggcggataac
+            cctggcggtgcctataacccgttgttcctttatggcggcacgggtctgggtaaaactcac
+            ctgctgcatgcggtgggtaacggcattatggcgcgcaagccgaatgccaaagtggtttat
+            atgcactccgagcgctttgttcaggacatggttaaagccctgcaaaacaacgcgatcgaa
+            gagtttaaacgctactaccgttccgtagatgcactgctgatcgacgatattcagtttttt
+            gctaataaagaacgatctcaggaagagtttttccacaccttcaacgccctgctggaaggt
+            aatcaacagatcattctcacctcggatcgctatccgaaagagatcaacggcgttgaggat
+            cgtttgaaatcccgcttcggttggggactgactgtggcgatcgaaccgccagagctggaa
+            acccgtgtggcgatcctgatgaaaaaggccgacgaaaacgacattcgtttgccgggcgaa
+            gtggcgttctttatcgccaagcgtctacgatctaacgtacgtgagctggaaggggcgctg
+            aaccgcgtcattgccaatgccaactttaccggacgggcgatcaccatcgacttcgtgcgt
+            gaggcgctgcgcgacttgctggcattgcaggaaaaactggtcaccatcgacaatattcag
+            aagacggtggcggagtactacaagatcaaagtcgcggatctcctttccaagcgtcgatcc
+            cgctcggtggcgcgtccgcgccagatggcgatggcgctggcgaaagagctgactaaccac
+            agtctgccggagattggcgatgcgtttggtggccgtgaccacacgacggtgcttcatgcc
+            tgccgtaagatcgagcagttgcgtgaagagagccacgatatcaaagaagatttttcaaat
+            ttaatcagaacattgtcatcgtaa
+///

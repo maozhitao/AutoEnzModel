@@ -1,0 +1,51 @@
+ENTRY       b3204             CDS       T00007
+NAME        ptsN
+DEFINITION  (RefSeq) phosphotransferase system enzyme IIA(Ntr)
+ORTHOLOGY   K02806  nitrogen PTS system EIIA component [EC:2.7.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b3204 (ptsN)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3204 (ptsN)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.-  
+                 b3204 (ptsN)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               Nitrogen regulatory II component
+                b3204 (ptsN)
+POSITION    3346578..3347069
+MOTIF       Pfam: PTS_EIIA_2
+DBLINKS     NCBI-GeneID: 947721
+            NCBI-ProteinID: NP_417671
+            Pasteur: ptsN
+            RegulonDB: ECK120001625
+            ECOCYC: EG11682
+            ASAP: ABE-0010520
+            UniProt: P69829
+STRUCTURE   PDB: 1A6J
+AASEQ       163
+            MTNNDTTLQLSSVLNRECTRSRVHCQSKKRALEIISELAAKQLSLPPQVVFEAILTREKM
+            GSTGIGNGIAIPHGKLEEDTLRAVGVFVQLETPIAFDAIDNQPVDLLFALLVPADQTKTH
+            LHTLSLVAKRLADKTICRRLRAAQSDEELYQIITDTEGTPDEA
+NTSEQ       492
+            atgacaaataatgatacaactctacagcttagcagtgttcttaacagggaatgtacgcga
+            agccgcgtccactgtcagagcaaaaaacgcgccctggaaatcatcagcgagctggcggcg
+            aaacaacttagcctgccgcctcaggtggtttttgaagctatcctgacgcgggaaaaaatg
+            ggcagtaccggtatcggcaatggtattgccattccgcatggcaaactggaagaagatact
+            ctgcgcgccgttggcgttttcgttcagctcgaaacgcctatagctttcgatgccatcgac
+            aaccaaccggtggacttactttttgccctgctggtgccggcagaccaaactaaaacgcac
+            ctgcatactctgtcgctggtggcgaaacgtctggcggacaaaaccatctgccgccgttta
+            cgcgcagcccagagcgatgaagagctgtatcaaatcattacggataccgaaggtactccg
+            gatgaagcgtag
+///

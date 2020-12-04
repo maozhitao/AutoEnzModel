@@ -1,0 +1,62 @@
+ENTRY       b3176             CDS       T00007
+NAME        glmM
+DEFINITION  (RefSeq) phosphoglucosamine mutase
+ORTHOLOGY   K03431  phosphoglucosamine mutase [EC:5.4.2.10]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00520  Amino sugar and nucleotide sugar metabolism
+            eco01100  Metabolic pathways
+MODULE      eco_M00909  UDP-N-acetyl-D-glucosamine biosynthesis, prokaryotes, glucose => UDP-GlcNAc
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00520 Amino sugar and nucleotide sugar metabolism
+                b3176 (glmM)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.2  Phosphotransferases (phosphomutases)
+                5.4.2.10  phosphoglucosamine mutase
+                 b3176 (glmM)
+POSITION    complement(3322733..3324070)
+MOTIF       Pfam: PGM_PMM_I PGM_PMM_III PGM_PMM_II PGM_PMM_IV
+DBLINKS     NCBI-GeneID: 947692
+            NCBI-ProteinID: NP_417643
+            Pasteur: glmM
+            RegulonDB: ECK120001506
+            ECOCYC: EG11553
+            ASAP: ABE-0010439
+            UniProt: P31120
+AASEQ       445
+            MSNRKYFGTDGIRGRVGDAPITPDFVLKLGWAAGKVLARHGSRKIIIGKDTRISGYMLES
+            ALEAGLAAAGLSALFTGPMPTPAVAYLTRTFRAEAGIVISASHNPFYDNGIKFFSIDGTK
+            LPDAVEEAIEAEMEKEISCVDSAELGKASRIVDAAGRYIEFCKATFPNELSLSELKIVVD
+            CANGATYHIAPNVLRELGANVIAIGCEPNGVNINAEVGATDVRALQARVLAEKADLGIAF
+            DGDGDRVIMVDHEGNKVDGDQIMYIIAREGLRQGQLRGGAVGTLMSNMGLELALKQLGIP
+            FARAKVGDRYVLEKMQEKGWRIGAENSGHVILLDKTTTGDGIVAGLQVLAAMARNHMSLH
+            DLCSGMKMFPQILVNVRYTAGSGDPLEHESVKAVTAEVEAALGNRGRVLLRKSGTEPLIR
+            VMVEGEDEAQVTEFAHRIADAVKAV
+NTSEQ       1338
+            atgagtaatcgtaaatatttcggtaccgatgggattcgtggtcgtgtaggggatgcgccg
+            atcacacctgattttgtgcttaagctgggttgggccgcgggtaaagtgctggcgcgccac
+            ggctcccgtaagattattattggtaaagacacgcgtatttctggctatatgctggagtca
+            gcactggaagcgggtctggcggcagcgggcctttccgcactcttcactggcccgatgcca
+            acaccggccgtggcttatctgacgcgtaccttccgcgcagaggccggaattgtgatatct
+            gcatcgcataacccgttctacgataatggcattaaattcttctctatcgacggcaccaaa
+            ctgccggatgcggtagaagaggccatcgaagcggaaatggaaaaggagatcagctgcgtt
+            gattcggcagaactgggtaaagccagccgtatcgttgatgccgcgggtcgctatatcgag
+            ttttgcaaagccacgttcccgaacgaacttagcctcagtgaactgaagattgtggtggat
+            tgtgcaaacggtgcgacttatcacatcgcgccgaacgtgctgcgcgaactgggggcgaac
+            gttatcgctatcggttgtgagccaaacggtgtaaacatcaatgccgaagtgggggctacc
+            gacgttcgcgcgctccaggctcgtgtgctggctgaaaaagcggatctcggtattgccttc
+            gacggcgatggcgatcgcgtgattatggttgaccatgaaggcaataaagtcgatggcgat
+            cagatcatgtatatcatcgcgcgtgaaggtcttcgtcagggccagctgcgtggtggcgct
+            gtgggtacattgatgagcaacatggggcttgaactggcgctgaaacagttaggaattcca
+            tttgcgcgcgcgaaagtgggtgaccgctacgtactggaaaaaatgcaggagaaaggctgg
+            cgtatcggtgcagagaattccggtcatgtgatcctgctggataaaactactaccggtgac
+            ggcatcgttgctggcttgcaggtgctggcggcgatggcacgtaaccatatgagcctgcac
+            gacctttgcagcggcatgaaaatgttcccgcagattctggttaacgtacgttacaccgca
+            ggtagcggcgatccacttgagcatgagtcagttaaagccgtgaccgcagaggttgaagct
+            gcgctgggcaaccgtggacgcgtgttgctgcgtaaatccggcaccgaaccgttaattcgc
+            gtgatggtggaaggcgaagacgaagcgcaggtgactgaatttgcacaccgcatcgccgat
+            gcagtaaaagccgtttaa
+///

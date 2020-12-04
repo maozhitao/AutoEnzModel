@@ -1,0 +1,98 @@
+ENTRY       b4317             CDS       T00007
+NAME        fimD
+DEFINITION  (RefSeq) type I fimbriae usher protein
+ORTHOLOGY   K07347  outer membrane usher protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b4317 (fimD)
+               02044 Secretion system [BR:eco02044]
+                b4317 (fimD)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b4317 (fimD)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b4317 (fimD)
+            Secretion system [BR:eco02044]
+             Chaperone-usher system
+              Type 1 pilus assembly protein
+               b4317 (fimD)
+            Bacterial motility proteins [BR:eco02035]
+             Pilus system
+              Fimbrial proteins
+               b4317 (fimD)
+POSITION    4545096..4547732
+MOTIF       Pfam: Usher PapC_N PapC_C
+DBLINKS     NCBI-GeneID: 948844
+            NCBI-ProteinID: NP_418737
+            Pasteur: fimD
+            RegulonDB: ECK120000305
+            ECOCYC: EG10311
+            ASAP: ABE-0014151
+            UniProt: P30130
+STRUCTURE   PDB: 3BWU 1ZE3 3RFZ 3OHN 4J3O 6E14 6E15 1ZDV 1ZDX
+AASEQ       878
+            MSYLNLRLYQRNTQCLHIRKHRLAGFFVRLVVACAFAAQAPLSSADLYFNPRFLADDPQA
+            VADLSRFENGQELPPGTYRVDIYLNNGYMATRDVTFNTGDSEQGIVPCLTRAQLASMGLN
+            TASVAGMNLLADDACVPLTTMVQDATAHLDVGQQRLNLTIPQAFMSNRARGYIPPELWDP
+            GINAGLLNYNFSGNSVQNRIGGNSHYAYLNLQSGLNIGAWRLRDNTTWSYNSSDRSSGSK
+            NKWQHINTWLERDIIPLRSRLTLGDGYTQGDIFDGINFRGAQLASDDNMLPDSQRGFAPV
+            IHGIARGTAQVTIKQNGYDIYNSTVPPGPFTINDIYAAGNSGDLQVTIKEADGSTQIFTV
+            PYSSVPLLQREGHTRYSITAGEYRSGNAQQEKTRFFQSTLLHGLPAGWTIYGGTQLADRY
+            RAFNFGIGKNMGALGALSVDMTQANSTLPDDSQHDGQSVRFLYNKSLNESGTNIQLVGYR
+            YSTSGYFNFADTTYSRMNGYNIETQDGVIQVKPKFTDYYNLAYNKRGKLQLTVTQQLGRT
+            STLYLSGSHQTYWGTSNVDEQFQAGLNTAFEDINWTLSYSLTKNAWQKGRDQMLALNVNI
+            PFSHWLRSDSKSQWRHASASYSMSHDLNGRMTNLAGVYGTLLEDNNLSYSVQTGYAGGGD
+            GNSGSTGYATLNYRGGYGNANIGYSHSDDIKQLYYGVSGGVLAHANGVTLGQPLNDTVVL
+            VKAPGAKDAKVENQTGVRTDWRGYAVLPYATEYRENRVALDTNTLADNVDLDNAVANVVP
+            TRGAIVRAEFKARVGIKLLMTLTHNNKPLPFGAMVTSESSQSSGIVADNGQVYLSGMPLA
+            GKVQVKWGEEENAHCVANYQLPPESQQQLLTQLSAECR
+NTSEQ       2637
+            atgtcatatctgaatttaagactttaccagcgaaacacacaatgcttgcatattcgtaag
+            catcgtttggctggtttttttgtccgactcgttgtcgcctgtgcttttgccgcacaggca
+            cctttgtcatctgccgacctctattttaatccgcgctttttagcggatgatccccaggct
+            gtggccgatttatcgcgttttgaaaatgggcaagaattaccgccagggacgtatcgcgtc
+            gatatctatttgaataatggttatatggcaacgcgtgatgtcacatttaatacgggcgac
+            agtgaacaagggattgttccctgcctgacacgcgcgcaactcgccagtatggggctgaat
+            acggcttctgtcgccggtatgaatctgctggcggatgatgcctgtgtgccattaaccaca
+            atggtccaggacgctactgcgcatctggatgttggtcagcagcgactgaacctgacgatc
+            cctcaggcatttatgagtaatcgcgcgcgtggttatattcctcctgagttatgggatccc
+            ggtattaatgccggattgctcaattataatttcagcggaaatagtgtacagaatcggatt
+            gggggtaacagccattatgcatatttaaacctacagagtgggttaaatattggtgcgtgg
+            cgtttacgcgacaataccacctggagttataacagtagcgacagatcatcaggtagcaaa
+            aataaatggcagcatatcaatacctggcttgagcgagacataataccgttacgttcccgg
+            ctgacgctgggtgatggttatactcagggcgatattttcgatggtattaactttcgcggc
+            gcacaattggcctcagatgacaatatgttacccgatagtcaaagaggatttgccccggtg
+            atccacggtattgctcgtggtactgcacaggtcactattaaacaaaatgggtatgacatt
+            tataatagtacggtgccaccggggccttttaccatcaacgatatctatgccgcaggtaat
+            agtggtgacttgcaggtaacgatcaaagaggctgacggcagcacgcagatttttaccgta
+            ccctattcgtcagtcccgcttttgcaacgtgaagggcatactcgttattccattacggca
+            ggagaataccgtagtggaaatgcgcagcaggaaaaaacccgctttttccagagtacatta
+            ctccacggccttccggctggctggacaatatatggtggaacgcaactggcggatcgttat
+            cgtgcttttaatttcggtatcgggaaaaacatgggggcactgggcgctctgtctgtggat
+            atgacgcaggctaattccacacttcccgatgacagtcagcatgacggacaatcggtgcgt
+            tttctctataacaaatcgctcaatgaatcaggcacgaatattcagttagtgggttaccgt
+            tattcgaccagcggatattttaatttcgctgatacaacatacagtcgaatgaatggctac
+            aacatcgaaacacaggacggagttattcaggttaagccgaaattcaccgactattacaac
+            ctcgcttataacaaacgcgggaaattacaactcaccgttactcagcaactcgggcgcaca
+            tcaacactgtatttgagtggtagccatcaaacttattggggaacgagtaatgtcgatgag
+            caattccaggctggattaaatactgcgttcgaagatatcaactggacgctcagctatagc
+            ctgacgaaaaacgcctggcaaaaaggacgggatcagatgttagcgcttaacgtcaatatt
+            cctttcagccactggctgcgttctgacagtaaatctcagtggcgacatgccagtgccagc
+            tacagcatgtcacacgatctcaacggtcggatgaccaatctggctggtgtatacggtacg
+            ttgctggaagacaacaacctcagctatagcgtgcaaaccggctatgccgggggaggcgat
+            ggaaatagcggaagtacaggctacgccacgctgaattatcgcggtggttacggcaatgcc
+            aatatcggttacagccatagcgatgatattaagcagctctattacggagtcagcggtggg
+            gtactggctcatgccaatggcgtaacgctggggcagccgttaaacgatacggtggtgctt
+            gttaaagcgcctggcgcaaaagatgcaaaagtcgaaaaccagacgggggtgcgtaccgac
+            tggcgtggttatgccgtgctgccttatgccactgaatatcgggaaaatagagtggcgctg
+            gataccaataccctggctgataacgtcgatttagataacgcggttgctaacgttgttccc
+            actcgtggggcgatcgtgcgagcagagtttaaagcgcgcgttgggataaaactgctcatg
+            acgctgacccacaataataagccgctgccgtttggggcgatggtgacatcagagagtagc
+            cagagtagcggcattgttgcggataatggtcaggtttacctcagcggaatgcctttagcg
+            ggaaaagttcaggtgaaatggggagaagaggaaaatgctcactgtgtcgccaattatcaa
+            ctgccaccagagagtcagcagcagttattaacccagctatcagctgaatgtcgttaa
+///

@@ -1,0 +1,73 @@
+ENTRY       b1507             CDS       T00007
+NAME        hipA
+DEFINITION  (RefSeq) serine/threonine kinase HipA
+ORTHOLOGY   K07154  serine/threonine-protein kinase HipA [EC:2.7.11.1]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b1507 (hipA)
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b1507 (hipA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.1  non-specific serine/threonine protein kinase
+                 b1507 (hipA)
+            Protein kinases [BR:eco01001]
+             Serine/threonine kinases: Other
+              Bacterial family
+               b1507 (hipA)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               HipA-HipB
+                b1507 (hipA)
+POSITION    complement(1590854..1592176)
+MOTIF       Pfam: HipA_C Couple_hipA
+DBLINKS     NCBI-GeneID: 946064
+            NCBI-ProteinID: NP_416024
+            Pasteur: hipA
+            RegulonDB: ECK120000436
+            ECOCYC: EG10443
+            ASAP: ABE-0005022
+            UniProt: P23874
+STRUCTURE   PDB: 3TPD 3DNU 3DNT 3TPB 3TPE 3TPT 3TPV 2WIU 3DNV 3HZI 3FBR
+                 4YG7 5K98
+AASEQ       440
+            MPKLVTWMNNQRVGELTKLANGAHTFKYAPEWLASRYARPLSLSLPLQRGNITSDAVFNF
+            FDNLLPDSPIVRDRIVKRYHAKSRQPFDLLSEIGRDSVGAVTLIPEDETVTHPIMAWEKL
+            TEARLEEVLTAYKADIPLGMIREENDFRISVAGAQEKTALLRIGNDWCIPKGITPTTHII
+            KLPIGEIRQPNATLDLSQSVDNEYYCLLLAKELGLNVPDAEIIKAGNVRALAVERFDRRW
+            NAERTVLLRLPQEDMCQTFGLPSSVKYESDGGPGIARIMAFLMGSSEALKDRYDFMKFQV
+            FQWLIGATDGHAKNFSVFIQAGGSYRLTPFYDIISAFPVLGGTGIHISDLKLAMGLNASK
+            GKKTAIDKIYPRHFLATAKVLRFPEVQMHEILSDFARMIPAALDNVKTSLPTDFPENVVT
+            AVESNVLRLHGRLSREYGSK
+NTSEQ       1323
+            atgcctaaacttgtcacttggatgaacaaccagcgggtaggcgagttaacgaagttagcc
+            aacggcgcgcacacctttaagtatgcaccggagtggttagcaagccgttatgccagaccg
+            ttgtcactttcgctgccattgcagagggggaatatcacctctgatgccgtatttaacttc
+            ttcgataacctgttacccgatagcccgattgtacgtgaccggatcgttaaacgttatcat
+            gccaaatccagacaaccgtttgatttattgtcagaaatagggcgagacagcgttggtgcc
+            gtgacgttaatacccgaagacgaaaccgtaacgcatccgataatggcatgggaaaagctt
+            actgaagccagacttgaagaagtattaacggcttataaagcagatatcccgctaggcatg
+            attagagaagaaaatgactttcgcatctcggttgctggcgcacaggagaagacagcactg
+            ctcagaataggcaatgactggtgcattccgaaaggaataacgccgacgacgcacatcatt
+            aaattaccgattggcgaaatcaggcagcccaatgcgacgctcgatctcagccaaagcgtt
+            gataatgagtattactgtctgctgctggcgaaagaacttgggttgaatgttccggacgca
+            gaaatcattaaagcgggaaatgtgcgcgcgttagcggtcgaacgttttgacaggcgttgg
+            aatgctgagcgaacggttttacttcgcttgccacaggaggatatgtgtcagacattcggt
+            ttaccttcatcggtgaaatatgaatcagatggaggcccaggcatcgcgcggatcatggct
+            tttttgatggggtccagcgaggcgctgaaagatcgctatgattttatgaaattccaggtc
+            ttccagtggttgattggcgcaacggacggtcatgcaaaaaacttctccgtatttattcag
+            gctggcggcagttatcgactcacgccattttacgacatcatttcagcatttccggtcctt
+            ggcggtacgggaatacacatcagcgatctcaaactggcaatggggcttaacgcatccaaa
+            ggcaaaaaaacggcaatcgataaaatttatccgcgacattttttggcgacagcaaaggtg
+            ctgagattcccggaagtgcagatgcatgaaatcctgagtgactttgccagaatgattcca
+            gcagcactggataacgtgaagacttcattaccgacagattttccggagaacgtggtgacg
+            gcagttgaaagcaatgtgttgaggttgcatggacggttaagccgagaatacggtagtaag
+            tga
+///

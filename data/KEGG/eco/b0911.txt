@@ -1,0 +1,71 @@
+ENTRY       b0911             CDS       T00007
+NAME        rpsA
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S1
+ORTHOLOGY   K02945  small subunit ribosomal protein S1
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b0911 (rpsA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b0911 (rpsA)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Bacteria
+               Small subunit
+                b0911 (rpsA)
+POSITION    961995..963668
+MOTIF       Pfam: S1 PCB_OB DUF2097
+DBLINKS     NCBI-GeneID: 945536
+            NCBI-ProteinID: NP_415431
+            Pasteur: rpsA
+            RegulonDB: ECK120000891
+            ECOCYC: EG10900
+            ASAP: ABE-0003104
+            UniProt: P0AG67
+STRUCTURE   PDB: 2BH8 4Q7J 4R71 5XQ5 2MFL 2MFI 2KHI 2KHJ
+AASEQ       557
+            MTESFAQLFEESLKEIETRPGSIVRGVVVAIDKDVVLVDAGLKSESAIPAEQFKNAQGEL
+            EIQVGDEVDVALDAVEDGFGETLLSREKAKRHEAWITLEKAYEDAETVTGVINGKVKGGF
+            TVELNGIRAFLPGSLVDVRPVRDTLHLEGKELEFKVIKLDQKRNNVVVSRRAVIESENSA
+            ERDQLLENLQEGMEVKGIVKNLTDYGAFVDLGGVDGLLHITDMAWKRVKHPSEIVNVGDE
+            ITVKVLKFDRERTRVSLGLKQLGEDPWVAIAKRYPEGTKLTGRVTNLTDYGCFVEIEEGV
+            EGLVHVSEMDWTNKNIHPSKVVNVGDVVEVMVLDIDEERRRISLGLKQCKANPWQQFAET
+            HNKGDRVEGKIKSITDFGIFIGLDGGIDGLVHLSDISWNVAGEEAVREYKKGDEIAAVVL
+            QVDAERERISLGVKQLAEDPFNNWVALNKKGAIVTGKVTAVDAKGATVELADGVEGYLRA
+            SEASRDRVEDATLVLSVGDEVEAKFTGVDRKNRAISLSVRAKDEADEKDAIATVNKQEDA
+            NFSNNAMAEAFKAAKGE
+NTSEQ       1674
+            atgactgaatcttttgctcaactctttgaagagtccttaaaagaaatcgaaacccgcccg
+            ggttctatcgttcgtggcgttgttgttgctatcgacaaagacgtagtactggttgacgct
+            ggtctgaaatctgagtccgccatcccggctgagcagttcaaaaacgcccagggcgagctg
+            gaaatccaggtaggtgacgaagttgacgttgctctggacgcagtagaagacggcttcggt
+            gaaactctgctgtcccgtgagaaagctaaacgtcacgaagcctggatcacgctggaaaaa
+            gcttacgaagatgctgaaactgttaccggtgttatcaacggcaaagttaagggcggcttc
+            actgttgagctgaacggtattcgtgcgttcctgccaggttctctggtagacgttcgtccg
+            gtgcgtgacactctgcacctggaaggcaaagagcttgaatttaaagtaatcaagctggat
+            cagaagcgcaacaacgttgttgtttctcgtcgtgccgttatcgaatccgaaaacagcgca
+            gagcgcgatcagctgctggaaaacctgcaggaaggcatggaagttaaaggtatcgttaag
+            aacctcactgactacggtgcattcgttgatctgggcggcgttgacggcctgctgcacatc
+            actgacatggcctggaaacgcgttaagcatccgagcgaaatcgtcaacgtgggcgacgaa
+            atcactgttaaagtgctgaagttcgaccgcgaacgtacccgtgtatccctgggcctgaaa
+            cagctgggcgaagatccgtgggtagctatcgctaaacgttatccggaaggtaccaaactg
+            actggtcgcgtgaccaacctgaccgactacggctgcttcgttgaaatcgaagaaggcgtt
+            gaaggcctggtacacgtttccgaaatggactggaccaacaaaaacatccacccgtccaaa
+            gttgttaacgttggcgatgtagtggaagttatggttctggatatcgacgaagaacgtcgt
+            cgtatctccctgggtctgaaacagtgcaaagctaacccgtggcagcagttcgcggaaacc
+            cacaacaagggcgaccgtgttgaaggtaaaatcaagtctatcactgacttcggtatcttc
+            atcggcttggacggcggcatcgacggcctggttcacctgtctgacatctcctggaacgtt
+            gcaggcgaagaagcagttcgtgaatacaaaaaaggcgacgaaatcgctgcagttgttctg
+            caggttgacgcagaacgtgaacgtatctccctgggcgttaaacagctcgcagaagatccg
+            ttcaacaactgggttgctctgaacaagaaaggcgctatcgtaaccggtaaagtaactgca
+            gttgacgctaaaggcgcaaccgtagaactggctgacggcgttgaaggttacctgcgtgct
+            tctgaagcatcccgtgaccgcgttgaagacgctaccctggttctgagcgttggcgacgaa
+            gttgaagctaaattcaccggcgttgatcgtaaaaaccgcgcaatcagcctgtctgttcgt
+            gcgaaagacgaagctgacgagaaagatgcaatcgcaactgttaacaaacaggaagatgca
+            aacttctccaacaacgcaatggctgaagctttcaaagcagctaaaggcgagtaa
+///

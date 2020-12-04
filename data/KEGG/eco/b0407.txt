@@ -1,0 +1,50 @@
+ENTRY       b0407             CDS       T00007
+NAME        yajC
+DEFINITION  (RefSeq) Sec translocon accessory complex subunit YajC
+ORTHOLOGY   K03210  preprotein translocase subunit YajC
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02024  Quorum sensing
+            eco03060  Protein export
+            eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b0407 (yajC)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b0407 (yajC)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b0407 (yajC)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b0407 (yajC)
+            Secretion system [BR:eco02044]
+             Sec (secretion) system
+              Prokaryotic Sec-SRP core components
+               b0407 (yajC)
+POSITION    427287..427619
+MOTIF       Pfam: YajC Orf78 MreC CecR_C PIRT DUF1240
+DBLINKS     NCBI-GeneID: 945374
+            NCBI-ProteinID: NP_414941
+            Pasteur: yajC
+            RegulonDB: ECK120001084
+            ECOCYC: EG11096
+            ASAP: ABE-0001415
+            UniProt: P0ADZ7
+STRUCTURE   PDB: 2RDD
+AASEQ       110
+            MSFFISDAVAATGAPAQGSPMSLILMLVVFGLIFYFMILRPQQKRTKEHKKLMDSIAKGD
+            EVLTNGGLVGRVTKVAENGYIAIALNDTTEVVIKRDFVAAVLPKGTMKAL
+NTSEQ       333
+            atgagcttttttatttctgatgcggtagcggcaacgggtgcaccggcgcaaggtagcccg
+            atgtctttgattttgatgctggtggtattcggtctgattttctatttcatgatcctgcgt
+            ccacagcagaagcgcaccaaagaacacaaaaagctgatggactccattgccaaaggtgat
+            gaagttctgacgaacggtggcctggttggtcgcgtaaccaaagtagcggaaaacggctac
+            attgctatcgcgctgaatgacaccactgaagtagttattaaacgtgacttcgtagctgcc
+            gtcctgccgaaaggcaccatgaaggcgctgtaa
+///

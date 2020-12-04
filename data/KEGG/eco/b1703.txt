@@ -1,0 +1,50 @@
+ENTRY       b1703             CDS       T00007
+NAME        ppsR
+DEFINITION  (RefSeq) posphoenolpyruvate synthetase regulatory protein
+ORTHOLOGY   K09773  [pyruvate, water dikinase]-phosphate phosphotransferase / [pyruvate, water dikinase] kinase [EC:2.7.4.28 2.7.11.33]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b1703 (ppsR)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.4  Phosphotransferases with a phosphate group as acceptor
+                2.7.4.28  [pyruvate, water dikinase]-phosphate phosphotransferase
+                 b1703 (ppsR)
+               2.7.11  Protein-serine/threonine kinases
+                2.7.11.33  [pyruvate, water dikinase] kinase
+                 b1703 (ppsR)
+POSITION    1787445..1788278
+MOTIF       Pfam: Kinase-PPPase
+DBLINKS     NCBI-GeneID: 946207
+            NCBI-ProteinID: NP_416218
+            Pasteur: ydiA
+            RegulonDB: ECK120001116
+            ECOCYC: EG11132
+            ASAP: ABE-0005682
+            UniProt: P0A8A4
+AASEQ       277
+            MDNAVDRHVFYISDGTAITAEVLGHAVMSQFPVTISSITLPFVENESRARAVKDQIDAIY
+            HQTGVRPLVFYSIVLPEIRAIILQSEGFCQDIVQALVAPLQQEMKLDPTPIAHRTHGLNP
+            NNLNKYDARIAAIDYTLAHDDGISLRNLDQAQVILLGVSRCGKTPTSLYLAMQFGIRAAN
+            YPFIADDMDNLVLPASLKPLQHKLFGLTIDPERLAAIREERRENSRYASLRQCRMEVAEV
+            EALYRKNQIPWINSTNYSVEEIATKILDIMGLSRRMY
+NTSEQ       834
+            atggataatgctgttgatcgccacgttttttatatttctgatggtacggcaataactgcg
+            gaggtattaggacacgcagtaatgtcacaatttcccgtcactatcagcagcatcacgctg
+            ccgtttgtcgaaaatgagagccgtgcacgggcagtgaaggatcagattgacgcaatttat
+            caccagacaggcgtgcgcccgctggtcttctactccatcgtgttgccggagattcgcgcc
+            atcatcttgcaaagtgaaggcttttgccaggatatcgttcaggcgctggttgccccgcta
+            caacaagagatgaaactggatccaacgccgattgctcatcgtacccatggccttaaccct
+            aataatctcaataaatatgatgcgcgcattgcggcgattgattacaccctcgcccacgat
+            gacggcatttcgttgcgcaatctggaccaggctcaggtgatcctgctcggtgtttctcgc
+            tgtggtaaaacccccaccagtctgtatctggcaatgcagtttggtatccgcgcggcaaac
+            tacccctttattgccgacgatatggataatctggtgctacccgcgtcgctcaaaccgctt
+            cagcataaattgttcggcctgactatcgacccggaacgtctggcggcgattcgcgaggaa
+            cgtcgggagaacagtcgctatgcctcgcttcgtcagtgcaggatggaagtcgcggaagtg
+            gaagccttgtaccgtaaaaatcagatcccgtggattaacagtaccaattattcggtagaa
+            gagattgccaccaagatcctcgatatcatgggccttagtcgccgaatgtactag
+///

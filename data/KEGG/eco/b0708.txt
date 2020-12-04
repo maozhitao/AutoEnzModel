@@ -1,0 +1,68 @@
+ENTRY       b0708             CDS       T00007
+NAME        phr
+DEFINITION  (RefSeq) deoxyribodipyrimidine photolyase (photoreactivation)
+ORTHOLOGY   K01669  deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b0708 (phr)
+            Enzymes [BR:eco01000]
+             4. Lyases
+              4.1  Carbon-carbon lyases
+               4.1.99  Other carbon-carbon lyases
+                4.1.99.3  deoxyribodipyrimidine photo-lyase
+                 b0708 (phr)
+            DNA repair and recombination proteins [BR:eco03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               Direct repair
+                b0708 (phr)
+             Prokaryotic type
+                b0708 (phr)
+POSITION    739507..740925
+MOTIF       Pfam: FAD_binding_7 DNA_photolyase
+DBLINKS     NCBI-GeneID: 947005
+            NCBI-ProteinID: NP_415236
+            Pasteur: phrB
+            RegulonDB: ECK120000727
+            ECOCYC: EG10736
+            ASAP: ABE-0002417
+            UniProt: P00914
+STRUCTURE   PDB: 1DNP
+AASEQ       472
+            MTTHLVWFRQDLRLHDNLALAAACRNSSARVLALYIATPRQWATHNMSPRQAELINAQLN
+            GLQIALAEKGIPLLFREVDDFVASVEIVKQVCAENSVTHLFYNYQYEVNERARDVEVERA
+            LRNVVCEGFDDSVILPPGAVMTGNHEMYKVFTPFKNAWLKRLREGMPECVAAPKVRSSGS
+            IEPSPSITLNYPRQSFDTAHFPVEEKAAIAQLRQFCQNGAGEYEQQRDFPAVEGTSRLSA
+            SLATGGLSPRQCLHRLLAEQPQALDGGAGSVWLNELIWREFYRHLITYHPSLCKHRPFIA
+            WTDRVQWQSNPAHLQAWQEGKTGYPIVDAAMRQLNSTGWMHNRLRMITASFLVKDLLIDW
+            REGERYFMSQLIDGDLAANNGGWQWAASTGTDAAPYFRIFNPTTQGEKFDHEGEFIRQWL
+            PELRDVPGKVVHEPWKWAQKAGVTLDYPQPIVEHKEARVQTLAAYEAARKGK
+NTSEQ       1419
+            atgactacccatctggtctggtttcgccaggatttacgtctgcacgataatctcgcactg
+            gctgccgcctgccgcaattcgtctgcacgcgtgctggcgttgtatatcgctacaccacgc
+            cagtgggcgacgcataacatgtcgccgcgtcaggctgaacttatcaatgctcaactgaat
+            gggctacaaatagcgcttgcggaaaaaggtattcctttattgttccgtgaagtggatgac
+            tttgtcgccagtgtcgaaatagttaaacaggtgtgcgcggaaaacagcgttacccacctg
+            ttttataactatcagtatgaagtgaatgagcgggcgcgggatgtggaagttgaaagagcg
+            ctgcgtaacgtggtgtgtgaaggatttgatgacagcgtgatcctgccgcctggcgcggtg
+            atgaccggtaatcacgagatgtacaaagtctttacgccttttaagaatgcctggctgaaa
+            cggctgcgggaagggatgccggagtgcgtcgctgcgccaaaagttcgtagtagcggatcg
+            atagagccctcgccatccattacgctgaattatcctcgtcagtctttcgatactgcgcat
+            tttccggtggaagaaaaagcggcgattgcgcaattacgccagttttgccagaacggtgcc
+            ggagaatatgagcaacaacgagattttccggcagtggaaggcaccagccgtttgtcggcc
+            agcctggcaacgggcgggttatcgcctcgccagtgcttgcatcgcttgttggctgaacag
+            ccgcaggcgctggacggtggggccggtagtgtctggcttaatgagctgatctggcgcgag
+            ttttaccgtcacctgataacgtatcacccctcgttgtgtaaacatcgtccatttattgcc
+            tggacggatcgtgtacagtggcagagcaatcccgcacatttacaggcctggcaggaaggc
+            aaaacgggatacccgattgttgatgccgctatgcgtcagcttaacagcactggctggatg
+            cataacaggctacggatgattacagccagttttctggtgaaagatttattgatcgactgg
+            cgcgaaggcgagcgatatttcatgtcgcagctgattgatggtgatttggcagccaataac
+            ggtggctggcagtgggccgcttcaaccggaaccgatgcagcgccgtattttcgtattttc
+            aacccgacaacccagggcgagaaatttgatcatgagggcgagtttatccgccagtggcta
+            ccggaactgcgcgatgtgccagggaaagtggtgcatgagccgtggaagtgggcgcagaaa
+            gcaggtgtgacgctggattatccgcaaccgatagtcgagcacaaagaagcgagagtacaa
+            acgttggcagcgtatgaggcggcgcggaaggggaaataa
+///

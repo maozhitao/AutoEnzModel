@@ -1,0 +1,51 @@
+ENTRY       b1531             CDS       T00007
+NAME        marA
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator MarA
+ORTHOLOGY   K13632  AraC family transcriptional regulator, mar-sox-rob regulon activator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01503  Cationic antimicrobial peptide (CAMP) resistance
+MODULE      eco_M00746  Multidrug resistance, repression of porin OmpF
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b1531 (marA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1531 (marA)
+              09183 Protein families: signaling and cellular processes
+               01504 Antimicrobial resistance genes [BR:eco01504]
+                b1531 (marA)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               AraC family
+                b1531 (marA)
+            Antimicrobial resistance genes [BR:eco01504]
+             Gene sets
+              Multipdrug resistance modules
+               Multidrug resistance, repression of porin OmpF [MD:M00746]
+                b1531 (marA)
+POSITION    1619574..1619957
+MOTIF       Pfam: HTH_18 HTH_AraC Terminase_5 Ofd1_CTDD CPSase_L_D3
+DBLINKS     NCBI-GeneID: 947613
+            NCBI-ProteinID: NP_416048
+            RegulonDB: ECK120001398
+            ECOCYC: EG11434
+            ASAP: ABE-0005112
+            UniProt: P0ACH5
+STRUCTURE   PDB: 1BL0 1XS9
+AASEQ       127
+            MSRRNTDAITIHSILDWIEDNLESPLSLEKVSERSGYSKWHLQRMFKKETGHSLGQYIRS
+            RKMTEIAQKLKESNEPILYLAERYGFESQQTLTRTFKNYFDVPPHKYRMTNMQGESRFLH
+            PLNHYNS
+NTSEQ       384
+            atgtccagacgcaatactgacgctattaccattcatagcattttggactggatcgaggac
+            aacctggaatcgccactgtcactggagaaagtgtcagagcgttcgggttactccaaatgg
+            cacctgcaacggatgtttaaaaaagaaaccggtcattcattaggccaatacatccgcagc
+            cgtaagatgacggaaatcgcgcaaaagctgaaggaaagtaacgagccgatactctatctg
+            gcagaacgatatggcttcgagtcgcaacaaactctgacccgaaccttcaaaaattacttt
+            gatgttccgccgcataaataccggatgaccaatatgcagggcgaatcgcgctttttacat
+            ccattaaatcattacaacagctag
+///

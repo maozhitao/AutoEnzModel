@@ -1,0 +1,46 @@
+ENTRY       b3306             CDS       T00007
+NAME        rpsH
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S8
+ORTHOLOGY   K02994  small subunit ribosomal protein S8
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3306 (rpsH)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3306 (rpsH)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Bacteria
+               Small subunit
+                b3306 (rpsH)
+              Archaea
+                b3306 (rpsH)
+POSITION    complement(3446153..3446545)
+MOTIF       Pfam: Ribosomal_S8
+DBLINKS     NCBI-GeneID: 947802
+            NCBI-ProteinID: NP_417765
+            Pasteur: rpsH
+            RegulonDB: ECK120000898
+            ECOCYC: EG10907
+            ASAP: ABE-0010829
+            UniProt: P0A7W7
+STRUCTURE   PDB: 1S03 6NQB 6O7K 5NO2 5NO3 5NO4 5UZ4 5MY1 2YKR 5ME0 5ME1
+                 4ADV 3IY8 4A2I
+AASEQ       130
+            MSMQDPIADMLTRIRNGQAANKAAVTMPSSKLKVAIANVLKEEGFIEDFKVEGDTKPELE
+            LTLKYFQGKAVVESIQRVSRPGLRIYKRKDELPKVMAGLGIAVVSTSKGVMTDRAARQAG
+            LGGEIICYVA
+NTSEQ       393
+            atgagcatgcaagatccgatcgcggatatgctgacccgtatccgtaacggtcaggccgcg
+            aacaaagctgcggtcaccatgccttcctccaagctgaaagtggcaatcgccaacgtgctg
+            aaggaagaaggttttattgaagattttaaagttgaaggcgacaccaagcctgaactggaa
+            cttactctgaagtatttccagggcaaagctgttgtagaaagcattcagcgtgtcagccgc
+            ccaggtctgcgcatctataaacgtaaagatgagctgccgaaagttatggcgggtctgggt
+            atcgcagttgtttctacctctaaaggtgttatgactgatcgtgcagcgcgccaggctggt
+            cttggtggcgaaattatctgctacgtagcctaa
+///

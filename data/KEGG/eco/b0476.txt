@@ -1,0 +1,51 @@
+ENTRY       b0476             CDS       T00007
+NAME        aes
+DEFINITION  (RefSeq) acetylesterase
+ORTHOLOGY   K01066  acetyl esterase [EC:3.1.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0476 (aes)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.-  
+                 b0476 (aes)
+POSITION    complement(499014..499973)
+MOTIF       Pfam: Abhydrolase_3 Say1_Mug180 DLH Peptidase_S9 Abhydrolase_2
+DBLINKS     NCBI-GeneID: 947514
+            NCBI-ProteinID: NP_415009
+            Pasteur: aes
+            RegulonDB: ECK120001089
+            ECOCYC: EG11101
+            ASAP: ABE-0001651
+            UniProt: P23872
+STRUCTURE   PDB: 4KRX 4KRY
+AASEQ       319
+            MKPENKLPVLDLISAEMKTVVNTLQPDLPPWPATGTIAEQRQYYTLERRFWNAGAPEMAT
+            RAYMVPTKYGQVETRLFCPQPDSPATLFYLHGGGFILGNLDTHDRIMRLLASYSQCTVIG
+            IDYTLSPEARFPQAIEEIVAACCYFHQQAEDYQINMSRIGFAGDSAGAMLALASALWLRD
+            KQIDCGKVAGVLLWYGLYGLRDSVTRRLLGGVWDGLTQQDLQMYEEAYLSNDADRESPYY
+            CLFNNDLTREVPPCFIAGAEFDPLLDDSRLLYQTLAAHQQPCEFKLYPGTLHAFLHYSRM
+            MKTADEALRDGAQFFTAQL
+NTSEQ       960
+            atgaagccggaaaacaaactacctgttctggaccttatttctgctgaaatgaagaccgtt
+            gtgaatactcttcagccggatttaccgccctggcccgcaacgggaacgattgctgagcaa
+            cgacagtattacacgcttgagcgccgattctggaatgcgggcgctccagaaatggcaacc
+            agagcttacatggttccaacaaaatatgggcaggtggaaacacgtctcttttgtccgcag
+            ccagatagcccagcgacgctattttatttgcatggaggcggttttattctcggcaatctc
+            gatacccacgatcgcatcatgcgcctgctggcaagctacagccaatgtacggtgattggt
+            attgattacaccctttcacctgaagcgcgttttccgcaagcgatagaggaaattgtggct
+            gcttgttgttatttccaccagcaggcggaggattatcaaatcaatatgtcccgcattggc
+            tttgccggtgattccgcaggtgccatgctggcgctcgccagtgcgttgtggttgcgtgat
+            aaacagatcgattgcggtaaagttgcgggcgttttgctgtggtatgggctttacggatta
+            cgggattccgtgactcgtcgtctgttgggcggtgtctgggatggcttaacgcaacaggat
+            ttgcagatgtacgaagaggcatatttaagcaacgacgcggaccgcgagtcgccgtattac
+            tgtctgtttaataatgatctcactcgcgaagttccgccctgttttattgccggggcggag
+            ttcgatccgctgctggatgacagccgtctgctttaccagacgttagcggcgcatcagcag
+            ccctgtgagttcaaactctacccaggcacgctgcacgcctttttgcattattcacggatg
+            atgaaaaccgccgacgaggctcttcgcgacggcgctcagttctttaccgctcagctttag
+///

@@ -1,0 +1,49 @@
+ENTRY       b3641             CDS       T00007
+NAME        slmA
+DEFINITION  (RefSeq) nucleoid occlusion factor SlmA
+ORTHOLOGY   K05501  TetR/AcrR family transcriptional regulator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b3641 (slmA)
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b3641 (slmA)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               TetR/AcrR family
+                b3641 (slmA)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Inhibitors of FtsZ assembly
+                b3641 (slmA)
+POSITION    3814494..3815090
+MOTIF       Pfam: TetR_N TetR_C_6 TetR_C_15 TetR_C_16 MtrH
+DBLINKS     NCBI-GeneID: 948158
+            NCBI-ProteinID: NP_418098
+            Pasteur: ttk
+            RegulonDB: ECK120001172
+            ECOCYC: EG11191
+            ASAP: ABE-0011902
+            UniProt: P0C093
+STRUCTURE   PDB: 3NXC 5HBU 4GCL 5K58
+AASEQ       198
+            MAEKQTAKRNRREEILQSLALMLESSDGSQRITTAKLAASVGVSEAALYRHFPSKTRMFD
+            SLIEFIEDSLITRINLILKDEKDTTARLRLIVLLLLGFGERNPGLTRILTGHALMFEQDR
+            LQGRINQLFERIEAQLRQVLREKRMREGEGYTTDETLLASQILAFCEGMLSRFVRSEFKY
+            RPTDDFDARWPLIAAQLQ
+NTSEQ       597
+            atggcagaaaaacaaactgcgaaaaggaaccgtcgcgaggaaatacttcagtctctggcg
+            ctgatgctggaatccagcgatggaagccaacgtatcacgacggcaaaactggccgcctct
+            gtcggcgtttccgaagcggcactgtatcgccacttccccagtaagacccgcatgttcgat
+            agcctgattgagtttatcgaagatagcctgattactcgcatcaacctgattctgaaagat
+            gagaaagacaccacagcgcgcctgcgtctgattgtgttgctgcttctcggttttggtgag
+            cgtaatcctggcctgacccgcatcctcactggtcatgcgctaatgtttgaacaggatcgc
+            ctgcaagggcgcatcaaccagctgttcgagcgtattgaagcgcagctgcgccaggtattg
+            cgtgaaaagagaatgcgtgagggtgaaggttacaccaccgatgaaaccctgctggcaagc
+            cagatcctggccttctgtgaaggtatgctgtcacgttttgtccgcagcgaatttaaatac
+            cgcccgacggatgattttgacgcccgctggccgctaattgcggcacagttgcagtaa
+///

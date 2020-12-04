@@ -1,0 +1,47 @@
+ENTRY       b4124             CDS       T00007
+NAME        dcuR
+DEFINITION  (RefSeq) DNA-binding transcriptional activator DcuR
+ORTHOLOGY   K07703  two-component system, CitB family, response regulator DcuR
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b4124 (dcuR)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b4124 (dcuR)
+            Two-component system [BR:eco02022]
+             CitB family
+              DcuS-DcuR (C4-dicarboxylate metabolism)
+               b4124 (dcuR)
+POSITION    complement(4349315..4350034)
+MOTIF       Pfam: Response_reg CitT EcoRII-N HTH_11 DUF3530
+DBLINKS     NCBI-GeneID: 948640
+            NCBI-ProteinID: NP_418548
+            Pasteur: dcuR
+            RegulonDB: ECK120004323
+            ECOCYC: G7826
+            ASAP: ABE-0013507
+            UniProt: P0AD01
+AASEQ       239
+            MINVLIIDDDAMVAELNRRYVAQIPGFQCCGTASTLEKAKEIIFNSDTPIDLILLDIYMQ
+            KENGLDLLPVLHNARCKSDVIVISSAADAATIKDSLHYGVVDYLIKPFQASRFEEALTGW
+            RQKKMALEKHQYYDQAELDQLIHGSSSNEQDPRRLPKGLTPQTLRTLCQWIDAHQDYEFS
+            TDELANEVNISRVSCRKYLIWLVNCHILFTSIHYGVTGRPVYRYRIQAEHYSLLKQYCQ
+NTSEQ       720
+            atgatcaatgtattaattatcgatgacgacgcaatggtcgcggagctgaatcgccgatac
+            gtagcacaaatcccaggctttcaatgctgtggaacagcctcgacgctggagaaagccaaa
+            gagattatcttcaatagcgatacgcctatcgacctgatattgctcgatatctatatgcaa
+            aaagagaacgggctcgatttactgcctgtcctgcataacgcgcgttgcaaaagtgatgtg
+            attgtcatctcctccgcagccgatgcggcaaccattaaagattcgctgcattacggtgtc
+            gtggattacctgatcaaacccttccaggcttcccgctttgaagaggcgctcaccggctgg
+            cggcaaaagaaaatggcgctggaaaaacatcagtattatgaccaggccgagcttgatcag
+            ctaatccacggcagcagctccaacgaacaggatcctcgtcgcttgccaaaaggcttaacg
+            ccgcagacgttacgcacactgtgccagtggattgacgcgcatcaggactatgaattttca
+            accgacgagctagccaacgaggttaacatttcgcgtgtttcctgccgtaaatacctcatc
+            tggctggtcaactgccacatcttgttcaccagtatccattatggcgtcacggggcgtcca
+            gtttaccgttaccgtattcaggcagaacactactcactactgaaacaatattgccaataa
+///

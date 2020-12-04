@@ -1,0 +1,41 @@
+ENTRY       b3330             CDS       T00007
+NAME        gspI
+DEFINITION  (RefSeq) Type II secretion system protein GspI
+ORTHOLOGY   K02458  general secretion pathway protein I
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3330 (gspI)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3330 (gspI)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              General secretion pathway protein
+               b3330 (gspI)
+POSITION    3461974..3462351
+MOTIF       Pfam: T2SSI N_methyl PulG
+DBLINKS     NCBI-GeneID: 947833
+            NCBI-ProteinID: NP_417789
+            Pasteur: gspI
+            RegulonDB: ECK120004253
+            ECOCYC: G7708
+            ASAP: ABE-0010890
+            UniProt: P45760
+AASEQ       125
+            MNKQSGMTLLEVLLAMSIFTAVALTLMSSMQGQRNAIERMRNETLALWIADNQLQSQDSF
+            GEENTSSSGKELINGEEWNWRSDIHSSKDGTLLERTITVTLPSGQTTSLTRYQSIDNKSG
+            QAQDD
+NTSEQ       378
+            atgaacaaacaatcagggatgacactgcttgaagtcttactggcgatgagtattttcacc
+            gctgttgctctgactttaatgagcagtatgcaagggcaacgaaatgccatcgagcgaatg
+            cgtaacgagacgctggcattgtggatagcggataaccagcttcagtcacaagattcattc
+            ggcgaggaaaacacgtccagttctggcaaagagttaataaatggcgaagagtggaactgg
+            cgcagcgatatccactcaagcaaagacggcacgcttctggaacgcaccataacggtgaca
+            ttacccagcggtcagacaacctcgcttacgcgttatcaaagcatcgataataaatccggg
+            caggcacaagatgattaa
+///

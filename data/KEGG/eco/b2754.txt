@@ -1,0 +1,34 @@
+ENTRY       b2754             CDS       T00007
+NAME        cas2
+DEFINITION  (RefSeq) CRISPR-associated endoribonuclease Cas2
+ORTHOLOGY   K09951  CRISPR-associated protein Cas2
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b2754 (cas2)
+            Prokaryotic defense system [BR:eco02048]
+             CRISPR-Cas system
+              Universal Cas proteins
+               b2754 (cas2)
+POSITION    complement(2878569..2878853)
+MOTIF       Pfam: Cas_Cas2CT1978
+DBLINKS     NCBI-GeneID: 947213
+            NCBI-ProteinID: NP_417234
+            Pasteur: ygbF
+            RegulonDB: ECK120002398
+            ASAP: ABE-0009036
+            UniProt: P45956
+STRUCTURE   PDB: 4MAK 4P6I 5DLJ 5DQZ 4QDL 5VVK 5DS5 5DQT 5DS4 5VVL 5DS6
+                 5WFE 5VVJ 5DQU
+AASEQ       94
+            MSMLVVVTENVPPRLRGRLAIWLLEVRAGVYVGDVSAKIREMIWEQIAGLAEEGNVVMAW
+            ATNTETGFEFQTFGLNRRTPVDLDGLRLVSFLPV
+NTSEQ       285
+            atgagtatgttggtcgtggtcactgaaaatgtacctccgcgcttacgaggcagattagcc
+            atctggttgttggaggtacgtgcaggggtatatgtaggtgatgtatccgcaaaaattcgt
+            gaaatgatctgggaacaaatagctggactggcggaagaaggcaatgtagtgatggcatgg
+            gcaacgaatacggaaacgggatttgagttccagacatttgggttaaacaggcgtaccccg
+            gtagatttggatggtttaaggttggtgtcttttttacctgtttga
+///

@@ -1,0 +1,63 @@
+ENTRY       b3868             CDS       T00007
+NAME        glnG
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator NtrC
+ORTHOLOGY   K07712  two-component system, NtrC family, nitrogen regulation response regulator GlnG
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b3868 (glnG)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b3868 (glnG)
+            Two-component system [BR:eco02022]
+             NtrC family
+              GlnL-GlnG (nitrogen regulation)
+               b3868 (glnG)
+POSITION    complement(4053869..4055278)
+MOTIF       Pfam: Sigma54_activat Response_reg Sigma54_activ_2 HTH_8 AAA_5 AAA_2 AAA AAA_7 MCM FleQ AAA_16
+DBLINKS     NCBI-GeneID: 948361
+            NCBI-ProteinID: NP_418304
+            Pasteur: glnG
+            RegulonDB: ECK120000378
+            ECOCYC: EG10385
+            ASAP: ABE-0012632
+            UniProt: P0AFB8
+AASEQ       469
+            MQRGIVWVVDDDSSIRWVLERALAGAGLTCTTFENGAEVLEALASKTPDVLLSDIRMPGM
+            DGLALLKQIKQRHPMLPVIIMTAHSDLDAAVSAYQQGAFDYLPKPFDIDEAVALVERAIS
+            HYQEQQQPRNVQLNGPTTDIIGEAPAMQDVFRIIGRLSRSSISVLINGESGTGKELVAHA
+            LHRHSPRAKAPFIALNMAAIPKDLIESELFGHEKGAFTGANTIRQGRFEQADGGTLFLDE
+            IGDMPLDVQTRLLRVLADGQFYRVGGYAPVKVDVRIIAATHQNLEQRVQEGKFREDLFHR
+            LNVIRVHLPPLRERREDIPRLARHFLQVAARELGVEAKLLHPETEAALTRLAWPGNVRQL
+            ENTCRWLTVMAAGQEVLIQDLPGELFESTVAESTSQMQPDSWATLLAQWADRALRSGHQN
+            LLSEAQPELERTLLTTALRHTQGHKQEAARLLGWGRNTLTRKLKELGME
+NTSEQ       1410
+            atgcaacgagggatagtctgggtagtcgatgacgatagttccatccgttgggtgcttgaa
+            cgtgcgctcgctggggcaggtttaacctgtacgacgtttgagaacggcgcagaagtgctg
+            gaggcgctggcgagcaaaacgccggatgtgctgctttcagatatccgtatgccgggaatg
+            gacgggctggcgctgctcaagcagattaaacagcgccatccaatgcttccggtcatcatt
+            atgaccgcacattccgatctggatgctgccgtcagcgcctatcaacaaggggcgtttgat
+            tatctgcccaaaccgtttgatatcgacgaagcagtggcgctggttgagcgcgctatcagt
+            cattaccaggaacagcagcagccgcgtaatgttcagcttaacggcccaacgaccgatatc
+            atcggcgaagcgccagccatgcaggacgtgttccgtattatcggtcggctttcgcgttct
+            tctattagcgtgctgattaacggcgaatccggcaccggtaaagaactggtcgctcatgcc
+            ctgcatcgccacagtccgcgcgccaaagcgccgtttatcgcgctgaatatggcagctatc
+            ccaaaagatttgatcgaatcagaactgtttggccacgagaaaggcgcgtttactggcgcg
+            aataccattcgtcaggggcgttttgaacaggccgatggcggtacattattcctcgacgaa
+            attggtgatatgccgctggatgtgcagacgcgtttgctgcgcgtgctggcagacggtcag
+            ttttaccgcgttggcggctatgcgccggtgaaagtggatgtgcggattatcgctgccact
+            caccagaatctcgaacagcgagtgcaggaaggtaagttccgtgaggatctgttccaccgc
+            ctgaacgttatccgcgttcatctgccgccgctgcgcgaacgtcgggaagatattccccgt
+            ctggcgcgccattttttacaggttgccgcgcgcgaactgggcgtagaagcgaagttactg
+            catccggaaaccgaagctgctctgacgcgtctggcgtggccaggcaacgtgcgccagctg
+            gaaaacacctgccgctggctaacggtgatggccgccgggcaggaagtgttgattcaggat
+            ttgcccggcgaactgtttgaatcaacggttgcggagagtacttcgcaaatgcaaccggac
+            agctgggcgacgcttcttgcgcagtgggcagacagagcgctgcgttccggtcatcaaaat
+            ctgctttccgaagcgcagccagagctggagcggacgttactgacgaccgcgttgcgacat
+            acgcaggggcataaacaggaagcggcgcggctactcggctggggccgcaacaccctgacg
+            cgtaagttaaaagagctggggatggagtga
+///

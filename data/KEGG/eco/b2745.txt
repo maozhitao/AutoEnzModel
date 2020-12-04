@@ -1,0 +1,60 @@
+ENTRY       b2745             CDS       T00007
+NAME        truD
+DEFINITION  (RefSeq) tRNA pseudouridine(13) synthase
+ORTHOLOGY   K06176  tRNA pseudouridine13 synthase [EC:5.4.99.27]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b2745 (truD)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.99  Transferring other groups
+                5.4.99.27  tRNA pseudouridine13 synthase
+                 b2745 (truD)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              tRNA modification factors
+               Psudouridine synthases
+                b2745 (truD)
+             Prokaryotic type
+                b2745 (truD)
+POSITION    complement(2870255..2871304)
+MOTIF       Pfam: TruD
+DBLINKS     NCBI-GeneID: 947214
+            NCBI-ProteinID: NP_417225
+            Pasteur: ygbO
+            RegulonDB: ECK120003987
+            ECOCYC: G7422
+            ASAP: ABE-0009011
+            UniProt: Q57261
+STRUCTURE   PDB: 1SZW 1SI7 1SB7
+AASEQ       349
+            MIEFDNLTYLHGKPQGTGLLKANPEDFVVVEDLGFEPDGEGEHILVRILKNGCNTRFVAD
+            ALAKFLKIHAREVSFAGQKDKHAVTEQWLCARVPGKEMPDLSAFQLEGCQVLEYARHKRK
+            LRLGALKGNAFTLVLREVSNRDDVEQRLIDICVKGVPNYFGAQRFGIGGSNLQGAQRWAQ
+            TNTPVRDRNKRSFWLSAARSALFNQIVAERLKKADVNQVVDGDALQLAGRGSWFVATTEE
+            LAELQRRVNDKELMITAALPGSGEWGTQREALAFEQAAVAAETELQALLVREKVEAARRA
+            MLLYPQQLSWNWWDDVTVEIRFWLPAGSFATSVVRELINTTGDYAHIAE
+NTSEQ       1050
+            atgattgagtttgataatctcacttacctccacggtaaaccgcaaggcaccgggctgctg
+            aaagccaatccggaagactttgtggtggtggaagatttgggctttgagcctgatggtgaa
+            ggtgagcatattctggttagaatcctcaaaaacggctgcaatacccgttttgtggcggat
+            gcactggcgaaattcctgaaaattcatgcccgtgaagtcagcttcgctgggcaaaaagac
+            aaacatgctgttacggaacagtggttatgcgctcgcgtgccgggcaaggaaatgcccgat
+            ctgagcgcctttcaactggaaggctgccaggtgctggagtatgcgcggcacaagcgcaag
+            ctgcgtttaggcgcgctgaaaggtaacgcctttaccctggttctgcgcgaagtgagcaat
+            cgcgatgacgttgaacaacgtctgatcgatatttgcgtaaaaggtgtaccgaactacttc
+            ggtgcccaacgttttgggattggcggtagcaacttgcagggggcgcagcgctgggcgcaa
+            accaatactccggtgcgcgatcgcaataaacggagtttttggttgtcggcagcccgcagt
+            gcgttgtttaatcagattgttgctgagcgcctcaaaaaagcagacgttaatcaagttgtt
+            gacggcgatgcgctacaattagccggacgtggtagctggtttgtcgcaaccaccgaagaa
+            ctggcggaattacagcgtcgcgtcaacgataaagagttgatgataaccgccgcattgcca
+            ggcagtggcgaatggggaactcagcgtgaagcgctggcattcgaacaagcagctgtcgcc
+            gcagaaactgaattacaagctttactggtgcgcgaaaaagttgaagccgcgcgcagagcg
+            atgctgctgtatccgcaacaattaagctggaattggtgggatgacgtcaccgtagagatc
+            cgtttctggcttccggcgggtagttttgcaaccagcgttgtcagggaacttatcaacaca
+            acaggtgattatgcgcatattgctgagtaa
+///

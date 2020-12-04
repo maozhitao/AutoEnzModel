@@ -1,0 +1,52 @@
+ENTRY       b3259             CDS       T00007
+NAME        prmA
+DEFINITION  (RefSeq) methyltransferase for 50S ribosomal subunit protein L11
+ORTHOLOGY   K02687  ribosomal protein L11 methyltransferase [EC:2.1.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b3259 (prmA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.-  
+                 b3259 (prmA)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              ribosomal protein modification factors
+               b3259 (prmA)
+POSITION    3409070..3409951
+MOTIF       Pfam: PrmA MTS Methyltransf_31 Methyltransf_25 Methyltransf_23 Methyltransf_12 Methyltransf_11 Cons_hypoth95 N6_N4_Mtase Met_10 Methyltransf_32 Methyltransf_18 PCMT UPF0020 Methyltransf_9 CMAS Methyltransf_15 Ubie_methyltran
+DBLINKS     NCBI-GeneID: 947708
+            NCBI-ProteinID: NP_417725
+            Pasteur: prmA
+            RegulonDB: ECK120001453
+            ECOCYC: EG11497
+            ASAP: ABE-0010697
+            UniProt: P0A8T1
+AASEQ       293
+            MPWIQLKLNTTGANAEDLSDALMEAGAVSITFQDTHDTPVFEPLPGETRLWGDTDVIGLF
+            DAETDMNDVVAILENHPLLGAGFAHKIEQLEDKDWEREWMDNFHPMRFGERLWICPSWRD
+            VPDENAVNVMLDPGLAFGTGTHPTTSLCLQWLDSLDLTGKTVIDFGCGSGILAIAALKLG
+            AAKAIGIDIDPQAIQASRDNAERNGVSDRLELYLPKDQPEEMKADVVVANILAGPLRELA
+            PLISVLPVSGGLLGLSGILASQAESVCEAYADSFALDPVVEKEEWCRITGRKN
+NTSEQ       882
+            atgccttggatccaactgaaactgaacaccaccggcgcgaacgcggaagatcttagcgat
+            gcgctgatggaagcgggtgccgtttctatcacttttcaggatacccacgatacgccagta
+            tttgaaccgctgccgggcgaaacgcgcctgtggggcgacaccgatgtgattggtctgttc
+            gacgctgaaaccgatatgaacgacgtggtggcgattctggaaaaccatccgctgctcggc
+            gcaggcttcgcgcataaaatcgaacaactagaagataaagactgggagcgcgaatggatg
+            gataatttccacccgatgcgctttggtgaacgactgtggatctgccctagctggcgtgat
+            gtgccggacgaaaacgccgtcaacgtgatgttagatccagggctggcgtttggtacgggt
+            acccatccaaccacctctctgtgcctgcaatggctcgacagcctcgatttaaccggtaaa
+            acagtcatcgactttggctgtggttccggcattctggcgatcgcggcgctgaaactgggt
+            gcagcaaaagccattggtattgatatcgatccgcaggcgattcaggccagccgcgataac
+            gccgaacgtaatggcgtttctgaccgtctggaactctacttaccgaaagatcagccagaa
+            gaaatgaaagccgacgtggtggtcgctaacatccttgcaggcccattacgtgaactggca
+            ccgttaatcagcgtcctgccggtttcaggcggtttgctgggcctttccggtattctggca
+            agccaggcagagagcgtttgtgaagcttatgccgatagcttcgcactggacccggtcgtg
+            gaaaaagaagagtggtgccgtattaccggtcgtaagaattaa
+///

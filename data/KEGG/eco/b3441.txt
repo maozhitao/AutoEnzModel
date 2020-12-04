@@ -1,0 +1,44 @@
+ENTRY       b3441             CDS       T00007
+NAME        yhhY
+DEFINITION  (RefSeq) N-acetyltransferase YhhY
+ORTHOLOGY   K03825  L-phenylalanine/L-methionine N-acetyltransferase [EC:2.3.1.53 2.3.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00360  Phenylalanine metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09105 Amino acid metabolism
+               00360 Phenylalanine metabolism
+                b3441 (yhhY)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.53  phenylalanine N-acetyltransferase
+                 b3441 (yhhY)
+                2.3.1.-  
+                 b3441 (yhhY)
+POSITION    3581138..3581626
+MOTIF       Pfam: Acetyltransf_1 Acetyltransf_10 Acetyltransf_4 Acetyltransf_3 Acetyltransf_7 Acetyltransf_8 FR47 Acetyltransf_9
+DBLINKS     NCBI-GeneID: 947943
+            NCBI-ProteinID: NP_417898
+            Pasteur: yhhY
+            RegulonDB: ECK120004298
+            ECOCYC: G7758
+            ASAP: ABE-0011240
+            UniProt: P46854
+AASEQ       162
+            MSEIVIRHAETRDYEAIRQIHAQPEVYCNTLQVPHPSDHMWQERLADRPGIKQLVACIDG
+            DVVGHLTIDVQQRPRRSHVADFGICVDSRWKNRGVASALMREMIEMCDNWLRVDRIELTV
+            FVDNAPAIKVYKKYGFEIEGTGKKYALRNGEYVDAYYMARVK
+NTSEQ       489
+            atgagtgagatagtaatacgccacgcagaaacacgggattacgaggccatcaggcagatt
+            cacgcccagccggaggtgtattgcaacacactacaggtgcctcatccttccgatcatatg
+            tggcaggagcgactcgccgatcgtcccggcatcaagcaactcgtcgcctgtattgatgga
+            gacgtcgtgggccatctcaccattgacgtgcaacagcgcccacgccgcagtcatgttgcc
+            gattttggtatctgtgtcgactctcgttggaagaaccgcggcgtcgccagcgccctgatg
+            cgagagatgattgaaatgtgcgacaactggttgcgggtagatcgcattgaactaaccgtg
+            tttgtcgataacgccccggcaattaaggtctataaaaaatacggctttgaaattgaaggg
+            actggtaagaagtacgcattgcgtaatggtgaatatgtcgatgcatattatatggcgcgg
+            gtgaagtaa
+///

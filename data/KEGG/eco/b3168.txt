@@ -1,0 +1,97 @@
+ENTRY       b3168             CDS       T00007
+NAME        infB
+DEFINITION  (RefSeq) translation initiation factor IF-2
+ORTHOLOGY   K02519  translation initiation factor IF-2
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:eco03012]
+                b3168 (infB)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b3168 (infB)
+            Translation factors [BR:eco03012]
+             Eukaryotic type
+              Initiation factors
+               MTIFs
+                b3168 (infB)
+             Prokaryotic type
+               b3168 (infB)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Mitochondrial translation factors
+                b3168 (infB)
+POSITION    complement(3313342..3316014)
+MOTIF       Pfam: IF-2 GTP_EFTU IF2_N IF2_assoc GTP_EFTU_D2 MMR_HSR1 Arf Ras FeoB_N MeaB MMR_HSR1_Xtn Roc PduV-EutP SRPRB
+DBLINKS     NCBI-GeneID: 947684
+            NCBI-ProteinID: NP_417637
+            Pasteur: infB
+            RegulonDB: ECK120000498
+            ECOCYC: EG10505
+            ASAP: ABE-0010410
+            UniProt: P0A705
+STRUCTURE   PDB: 6O7K 5ME0 5ME1 1ZO1 1ND9
+AASEQ       890
+            MTDVTIKTLAAERQTSVERLVQQFADAGIRKSADDSVSAQEKQTLIDHLNQKNSGPDKLT
+            LQRKTRSTLNIPGTGGKSKSVQIEVRKKRTFVKRDPQEAERLAAEEQAQREAEEQARREA
+            EESAKREAQQKAEREAAEQAKREAAEQAKREAAEKDKVSNQQDDMTKNAQAEKARREQEA
+            AELKRKAEEEARRKLEEEARRVAEEARRMAEENKWTDNAEPTEDSSDYHVTTSQHARQAE
+            DESDREVEGGRGRGRNAKAARPKKGNKHAESKADREEARAAVRGGKGGKRKGSSLQQGFQ
+            KPAQAVNRDVVIGETITVGELANKMAVKGSQVIKAMMKLGAMATINQVIDQETAQLVAEE
+            MGHKVILRRENELEEAVMSDRDTGAAAEPRAPVVTIMGHVDHGKTSLLDYIRSTKVASGE
+            AGGITQHIGAYHVETENGMITFLDTPGHAAFTSMRARGAQATDIVVLVVAADDGVMPQTI
+            EAIQHAKAAQVPVVVAVNKIDKPEADPDRVKNELSQYGILPEEWGGESQFVHVSAKAGTG
+            IDELLDAILLQAEVLELKAVRKGMASGAVIESFLDKGRGPVATVLVREGTLHKGDIVLCG
+            FEYGRVRAMRNELGQEVLEAGPSIPVEILGLSGVPAAGDEVTVVRDEKKAREVALYRQGK
+            FREVKLARQQKSKLENMFANMTEGEVHEVNIVLKADVQGSVEAISDSLLKLSTDEVKVKI
+            IGSGVGGITETDATLAAASNAILVGFNVRADASARKVIEAESLDLRYYSVIYNLIDEVKA
+            AMSGMLSPELKQQIIGLAEVRDVFKSPKFGAIAGCMVTEGVVKRHNPIRVLRDNVVIYEG
+            ELESLRRFKDDVNEVRNGMECGIGVKNYNDVRTGDVIEVFEIIEIQRTIA
+NTSEQ       2673
+            atgacagatgtaacgattaaaacgctggccgcagagcgacagacctccgtggaacgcctg
+            gtacagcaatttgctgatgcaggtatccggaagtctgctgacgactctgtgtctgcacaa
+            gagaaacagactttgattgaccacctgaatcagaaaaattcaggcccggacaaattgacg
+            ctgcaacgtaaaacacgcagcacccttaacattcctggtaccggtggaaaaagcaaatcg
+            gtacaaatcgaagtccgcaagaaacgcacctttgtgaaacgcgatccgcaagaggctgaa
+            cgccttgcagcggaagagcaagcgcagcgtgaagcggaagagcaagcccgtcgtgaggca
+            gaagaatcggctaaacgcgaggcgcaacaaaaagctgaacgtgaggccgcagaacaagct
+            aagcgtgaagctgctgaacaagcgaaacgtgaagctgcggaaaaagacaaagtgagcaat
+            caacaagacgatatgactaaaaacgcccaggctgaaaaagcccgccgtgagcaggaagct
+            gcagagctcaagcgtaaagctgaagaagaagcgcgtcgtaaactcgaagaagaagcacgt
+            cgcgttgctgaagaagcacgtcgtatggcggaagaaaacaaatggactgataacgcggaa
+            ccgactgaagattccagcgattatcacgtcactacttctcaacatgctcgccaggcagaa
+            gacgaaagcgatcgtgaagtcgaaggcggccgtggccgtggtcgtaacgcgaaagcagcg
+            cgtccgaagaaaggcaacaaacacgctgaatcaaaagctgatcgtgaagaagcacgcgca
+            gcagtacgtggcggtaaaggcggaaaacgtaaaggttcttcgctgcagcaaggcttccag
+            aagcctgctcaggccgttaaccgtgacgttgtgatcggcgaaactatcaccgttggcgaa
+            ctggcgaacaagatggcggttaaaggctctcaggtcatcaaagcgatgatgaaactgggc
+            gcaatggcaaccatcaaccaggttatcgatcaggaaaccgcacagctggttgctgaagag
+            atgggccataaagttatcctgcgtcgtgaaaacgagctggaagaggcggtaatgagcgac
+            cgtgacacgggtgctgcggctgaaccgcgcgcgccggttgtgaccatcatgggtcacgtt
+            gaccacggtaaaacctctctgctggactacattcgttcaacgaaagtggcctctggcgaa
+            gcgggcggcattacccagcacattggtgcataccacgttgaaactgaaaacggcatgatc
+            accttcctggacaccccggggcacgccgcgtttacttcaatgcgtgctcgtggtgcgcag
+            gcaacggacatcgtagtcctggttgttgctgccgacgacggtgtgatgccgcagaccatc
+            gaagcaatccagcacgcgaaagcggcgcaggtaccggtggtggttgcagtgaacaagatc
+            gataaaccagaagctgatccggatcgcgttaagaacgaactctcccagtacggcatcctg
+            ccggaagagtggggcggtgaaagccagttcgtacacgtatctgcgaaagcgggtaccggt
+            atcgatgaactgctggacgctatcctgctgcaggcggaagttctggagctgaaagcggta
+            cgtaaaggtatggcgagcggtgcggttatcgaatccttcctcgataaaggtcgtggtccg
+            gttgctaccgttctggtacgtgaaggtactctgcacaagggcgatatcgttctgtgtggc
+            ttcgaatacggtcgtgttcgtgcgatgcgtaacgaactgggtcaggaagtgctggaagcg
+            ggtccgtccattccggtggaaatcctcggcctgtccggcgtaccggctgcgggtgatgaa
+            gttaccgttgtacgtgacgagaagaaagcgcgtgaagttgcactctatcgtcagggtaaa
+            ttccgcgaagttaaactggcgcgtcagcagaaatctaaactcgagaacatgttcgccaac
+            atgaccgaaggcgaagttcacgaagtgaatatcgtcctgaaggcagacgtacagggttct
+            gtcgaagcgatctccgactccttgctgaaactgtctactgacgaagttaaagtgaagatc
+            atcggttctggcgtaggtggtatcaccgaaaccgacgccaccctggctgcggcgtccaac
+            gccatcctggttggctttaacgtacgtgctgatgcctctgcacgtaaagtgattgaagcg
+            gaaagcctggatctgcgttactactccgtcatctataacctgattgacgaagtgaaagcg
+            gcgatgagcggtatgctgtctccggaactgaaacagcagattatcggtctggcggaagtt
+            cgtgacgtgttcaaatcgccgaaatttggtgccatcgcaggctgtatggttaccgaaggt
+            gtggttaaacgtcacaacccgatccgcgttctgcgtgacaacgtggttatctacgaaggc
+            gagctggagtccctgcgccgcttcaaagatgacgttaacgaagtccgtaacggtatggaa
+            tgtggtatcggcgttaagaactacaacgacgtccgcactggcgatgtgatcgaagtattc
+            gaaatcatcgagatccaacgtaccattgcttaa
+///

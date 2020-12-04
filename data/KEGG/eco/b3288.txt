@@ -1,0 +1,57 @@
+ENTRY       b3288             CDS       T00007
+NAME        fmt
+DEFINITION  (RefSeq) 10-formyltetrahydrofolate:L-methionyl-tRNA(fMet) N-formyltransferase
+ORTHOLOGY   K00604  methionyl-tRNA formyltransferase [EC:2.1.2.9]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00670  One carbon pool by folate
+            eco00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00670 One carbon pool by folate
+                b3288 (fmt)
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                b3288 (fmt)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.2  Hydroxymethyl-, formyl- and related transferases
+                2.1.2.9  methionyl-tRNA formyltransferase
+                 b3288 (fmt)
+POSITION    3434214..3435161
+MOTIF       Pfam: Formyl_trans_N Formyl_trans_C
+DBLINKS     NCBI-GeneID: 947779
+            NCBI-ProteinID: NP_417746
+            Pasteur: fmt
+            RegulonDB: ECK120001242
+            ECOCYC: EG11268
+            ASAP: ABE-0010781
+            UniProt: P23882
+STRUCTURE   PDB: 1FMT 2FMT
+AASEQ       315
+            MSESLRIIFAGTPDFAARHLDALLSSGHNVVGVFTQPDRPAGRGKKLMPSPVKVLAEEKG
+            LPVFQPVSLRPQENQQLVAELQADVMVVVAYGLILPKAVLEMPRLGCINVHGSLLPRWRG
+            AAPIQRSLWAGDAETGVTIMQMDVGLDTGDMLYKLSCPITAEDTSGTLYDKLAELGPQGL
+            ITTLKQLADGTAKPEVQDETLVTYAEKLSKEEARIDWSLSAAQLERCIRAFNPWPMSWLE
+            IEGQPVKVWKASVIDTATNAAPGTILEANKQGIQVATGDGILNLLSLQPAGKKAMSAQDL
+            LNSRREWFVPGNRLV
+NTSEQ       948
+            gtgtcagaatcactacgtattatttttgcgggtacacctgactttgcagcgcgtcatctc
+            gacgcgctgttgtcttctggtcataacgtcgttggcgtgttcacccagccagaccgaccg
+            gcaggacgcggtaaaaaactgatgcccagcccggttaaagttctggctgaggaaaaaggt
+            ctgcccgtttttcaacctgtttccctgcgtccacaagaaaaccagcaactggtcgccgaa
+            ctgcaggctgatgttatggtcgtcgtcgcctatggtttaattctgccgaaagcagtgctg
+            gagatgccgcgtcttggctgtatcaacgttcatggttcactgctgccacgctggcgcggt
+            gctgcaccaatccaacgctcactatgggcgggtgatgcagaaactggtgtgaccattatg
+            caaatggatgtcggtttagacaccggtgatatgctctataagctctcctgcccgattact
+            gcagaagataccagtggtacgctgtacgacaagctggcagagcttggcccacaagggctt
+            atcaccacgttgaaacaactggcagacggcacggcgaaaccagaagttcaggacgaaact
+            cttgtcacttacgccgagaagttgagtaaagaagaagcgcgtattgactggtcactttcg
+            gcagcacagcttgaacgctgcattcgcgctttcaatccatggccaatgagctggctggaa
+            attgaaggacagccggttaaagtctggaaagcatcggtcattgatacggcaaccaacgct
+            gcaccaggaacgatccttgaagccaacaaacaaggcattcaggttgcgactggtgatggc
+            atcctgaacctgctctcgttacaacctgcgggtaagaaagcgatgagcgcgcaagacctc
+            ctgaactctcgtcgggaatggtttgttccgggcaaccgtctggtctga
+///

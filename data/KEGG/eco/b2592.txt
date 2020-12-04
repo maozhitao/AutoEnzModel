@@ -1,0 +1,86 @@
+ENTRY       b2592             CDS       T00007
+NAME        clpB
+DEFINITION  (RefSeq) ClpB chaperone
+ORTHOLOGY   K03695  ATP-dependent Clp protease ATP-binding subunit ClpB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b2592 (clpB)
+            Chaperones and folding catalysts [BR:eco03110]
+             Heat shock proteins
+              HSP100
+               b2592 (clpB)
+POSITION    complement(2731600..2734173)
+MOTIF       Pfam: AAA_2 AAA_lid_9 ClpB_D2-small Clp_N AAA AAA_5 AAA_16 Sigma54_activat AAA_18 AAA_22 TniB RuvB_N IstB_IS21 AAA_7 AAA_14 Roc AAA_28 AAA_24 DUF815 NACHT T2SSE AAA_19 ATP_bind_1 PduV-EutP Torsin
+DBLINKS     NCBI-GeneID: 947077
+            NCBI-ProteinID: NP_417083
+            Pasteur: clpB
+            RegulonDB: ECK120000153
+            ECOCYC: EG10157
+            ASAP: ABE-0008527
+            UniProt: P63284
+STRUCTURE   PDB: 1JBK 1KHY 6OAX 6OG1 6OAY 4CIU 6QS7 6QS6 6QS8 6RN3 6OG2
+                 6OG3 6RN4 6QS4 5OG1 5OFO 6RN2 4D2U 4D2Q 4D2X
+AASEQ       857
+            MRLDRLTNKFQLALADAQSLALGHDNQFIEPLHLMSALLNQEGGSVSPLLTSAGINAGQL
+            RTDINQALNRLPQVEGTGGDVQPSQDLVRVLNLCDKLAQKRGDNFISSELFVLAALESRG
+            TLADILKAAGATTANITQAIEQMRGGESVNDQGAEDQRQALKKYTIDLTERAEQGKLDPV
+            IGRDEEIRRTIQVLQRRTKNNPVLIGEPGVGKTAIVEGLAQRIINGEVPEGLKGRRVLAL
+            DMGALVAGAKYRGEFEERLKGVLNDLAKQEGNVILFIDELHTMVGAGKADGAMDAGNMLK
+            PALARGELHCVGATTLDEYRQYIEKDAALERRFQKVFVAEPSVEDTIAILRGLKERYELH
+            HHVQITDPAIVAAATLSHRYIADRQLPDKAIDLIDEAASSIRMQIDSKPEELDRLDRRII
+            QLKLEQQALMKESDEASKKRLDMLNEELSDKERQYSELEEEWKAEKASLSGTQTIKAELE
+            QAKIAIEQARRVGDLARMSELQYGKIPELEKQLEAATQLEGKTMRLLRNKVTDAEIAEVL
+            ARWTGIPVSRMMESEREKLLRMEQELHHRVIGQNEAVDAVSNAIRRSRAGLADPNRPIGS
+            FLFLGPTGVGKTELCKALANFMFDSDEAMVRIDMSEFMEKHSVSRLVGAPPGYVGYEEGG
+            YLTEAVRRRPYSVILLDEVEKAHPDVFNILLQVLDDGRLTDGQGRTVDFRNTVVIMTSNL
+            GSDLIQERFGELDYAHMKELVLGVVSHNFRPEFINRIDEVVVFHPLGEQHIASIAQIQLK
+            RLYKRLEERGYEIHISDEALKLLSENGYDPVYGARPLKRAIQQQIENPLAQQILSGELVP
+            GKVIRLEVNEDRIVAVQ
+NTSEQ       2574
+            atgcgtctggatcgtcttactaataaattccagcttgctcttgccgatgcccaatcactt
+            gcactcgggcacgacaaccaatttatcgaaccacttcatttaatgagcgccctgctgaat
+            caggaagggggttcggttagtcctttattaacatccgctggcataaatgctggccagttg
+            cgcacagatatcaatcaggcattaaatcgtttaccgcaggttgaaggtactggtggtgat
+            gtccagccatcacaggatctggtgcgcgttcttaatctttgcgacaagctggcgcaaaaa
+            cgtggtgataactttatctcgtcagaactgttcgttctggcggcacttgagtctcgcggc
+            acgctggccgacatcctgaaagcagcaggggcgaccaccgccaacattactcaagcgatt
+            gaacaaatgcgtggaggtgaaagcgtgaacgatcaaggtgctgaagaccaacgtcaggct
+            ttgaaaaaatataccatcgaccttaccgaacgagccgaacagggcaaactcgatccggtg
+            attggtcgtgatgaagaaattcgccgtaccattcaggtgctgcaacgtcgtactaaaaat
+            aacccggtactgattggtgaacccggcgtcggtaaaactgccatcgttgaaggtctggcg
+            cagcgtattatcaacggcgaagtgccggaagggttgaaaggccgccgggtactggcgctg
+            gatatgggcgcgctggtggctggggcgaaatatcgcggtgagtttgaagaacgtttaaaa
+            ggcgtgcttaacgatcttgccaaacaggaaggcaacgtcatcctatttatcgacgaatta
+            cataccatggtcggcgcgggtaaagccgatggcgcaatggacgccggaaacatgctgaaa
+            ccggcgctggcgcgtggtgaattgcactgcgtaggtgccacgacgcttgacgaatatcgc
+            cagtacattgaaaaagatgctgcgctggaacgtcgtttccagaaagtgtttgttgccgag
+            ccttctgttgaagataccattgcgattctgcgtggcctgaaagaacgttacgaattgcac
+            caccatgtgcaaattactgacccggcaattgttgcagcggcgacgttgtctcatcgctac
+            attgctgaccgtcagctgccggataaagccatcgacctgatcgatgaagcagcatccagc
+            attcgtatgcagattgactcaaaaccagaagaactcgaccgactcgatcgtcgtatcatc
+            cagctcaaactggaacaacaggcgttaatgaaagagtctgatgaagccagtaaaaaacgt
+            ctggatatgctcaacgaagaactgagcgacaaagaacgtcagtactccgagttagaagaa
+            gagtggaaagcagagaaggcatcgctttctggtacgcagaccattaaagcggaactggaa
+            caggcgaaaatcgctattgaacaggctcgccgtgtgggggacctggcgcggatgtctgaa
+            ctgcaatacggcaaaatcccggaactggaaaagcaactggaagccgcaacgcagctcgaa
+            ggcaaaactatgcgtctgttgcgtaataaagtgaccgacgccgaaattgctgaagtgctg
+            gcgcgttggacggggattccggtttctcgcatgatggaaagcgagcgcgaaaaactgctg
+            cgtatggagcaagaactgcaccatcgcgtaattggtcagaacgaagcggttgatgcggta
+            tctaacgctattcgtcgtagccgtgcggggctggcggatccaaatcgcccgattggttca
+            ttcctgttcctcggcccaactggtgtggggaaaacagagctttgtaaggcgctggcgaac
+            tttatgtttgatagcgacgaggcgatggtccgtatcgatatgtccgagtttatggagaaa
+            cactcggtgtctcgtttggttggtgcgcctccgggatatgtcggttatgaagaaggtggc
+            tacctgaccgaagcggtgcgtcgtcgtccgtattccgtcatcctgctggatgaagtggaa
+            aaagcgcatccggatgtcttcaacattctgttgcaggtactggatgatgggcgtctgact
+            gacgggcaagggagaacggtcgacttccgtaatacggtcgtcattatgacctctaacctc
+            ggttccgatctgattcaggaacgcttcggtgaactggattatgcgcacatgaaagagctg
+            gtgctcggtgtggtaagccataacttccgtccggaattcattaaccgtatcgatgaagtg
+            gtggtcttccatccgctgggtgaacagcacattgcctcgattgcgcagattcagttgaaa
+            cgtctgtacaaacgtctggaagaacgtggttatgaaatccacatttctgacgaggcgctg
+            aaactgctgagcgagaacggttacgatccggtctatggtgcacgtcctctgaaacgtgca
+            attcagcagcagatcgaaaacccgctggcacagcaaatactgtctggtgaattggttccg
+            ggtaaagtgattcgcctggaagttaatgaagaccggattgtcgccgtccagtaa
+///

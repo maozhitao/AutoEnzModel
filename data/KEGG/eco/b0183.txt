@@ -1,0 +1,55 @@
+ENTRY       b0183             CDS       T00007
+NAME        rnhB
+DEFINITION  (RefSeq) RNase HII
+ORTHOLOGY   K03470  ribonuclease HII [EC:3.1.26.4]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b0183 (rnhB)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b0183 (rnhB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.26  Endoribonucleases producing 5'-phosphomonoesters
+                3.1.26.4  ribonuclease H
+                 b0183 (rnhB)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Elongation Factors
+               Elongation factors (bacterial)
+                RNase H
+                 b0183 (rnhB)
+               Elongation factors (archaeal)
+                 b0183 (rnhB)
+POSITION    204493..205089
+MOTIF       Pfam: RNase_HII
+DBLINKS     NCBI-GeneID: 944852
+            NCBI-ProteinID: NP_414725
+            Pasteur: rnhB
+            RegulonDB: ECK120000852
+            ECOCYC: EG10861
+            ASAP: ABE-0000622
+            UniProt: P10442
+AASEQ       198
+            MIEFVYPHTQLVAGVDEVGRGPLVGAVVTAAVILDPARPIAGLNDSKKLSEKRRLALYEE
+            IKEKALSWSLGRAEPHEIDELNILHATMLAMQRAVAGLHIAPEYVLIDGNRCPKLPMPAM
+            AVVKGDSRVPEISAASILAKVTRDAEMAALDIVFPQYGFAQHKGYPTAFHLEKLAEHGAT
+            EHHRRSFGPVKRALGLAS
+NTSEQ       597
+            atgatcgaatttgtttatccgcacacgcagctggttgcgggtgtggatgaagtcggacgc
+            gggccgttagttggcgcggtcgtcaccgctgcggtgatccttgacccggcgcgcccgatt
+            gccgggctgaatgattccaaaaagctgagcgaaaaacgccgtctggcgctctatgaagag
+            atcaaagagaaagcgttgagctggagtctgggccgcgcggaaccccacgaaatcgacgag
+            ctgaacattcttcatgcgaccatgctggcgatgcagcgtgccgtcgctgggctgcatatt
+            gcgccggaatatgtgttgattgatggtaaccgctgcccgaaattaccgatgcctgcgatg
+            gctgtggtgaaaggcgatagccgcgtaccggaaatcagtgccgcgtctatcctggcgaaa
+            gtgacgcgtgacgccgaaatggcggcgctggatattgttttcccgcaatatggttttgcc
+            caacacaaagggtacccaaccgcttttcatctggaaaaactggctgaacacggcgcgacc
+            gaacaccatcggcgcagctttgggcctgtcaaacgcgcactgggacttgcgtcctga
+///

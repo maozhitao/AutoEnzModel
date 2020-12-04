@@ -1,0 +1,42 @@
+ENTRY       b4202             CDS       T00007
+NAME        rpsR
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S18
+ORTHOLOGY   K02963  small subunit ribosomal protein S18
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b4202 (rpsR)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b4202 (rpsR)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Small subunit
+                b4202 (rpsR)
+              Bacteria
+                b4202 (rpsR)
+POSITION    4425839..4426066
+MOTIF       Pfam: Ribosomal_S18
+DBLINKS     NCBI-GeneID: 948721
+            NCBI-ProteinID: NP_418623
+            Pasteur: rpsR
+            RegulonDB: ECK120000908
+            ECOCYC: EG10917
+            ASAP: ABE-0013744
+            UniProt: P0A7T7
+STRUCTURE   PDB: 6NQB 6O7K 5NO2 5NO3 5NO4 5UZ4 5MY1 2YKR 5ME0 5ME1 4ADV
+                 3IY8 4A2I
+AASEQ       75
+            MARYFRRRKFCRFTAEGVQEIDYKDIATLKNYITESGKIVPSRITGTRAKYQRQLARAIK
+            RARYLSLLPYTDRHQ
+NTSEQ       228
+            atggcacgttatttccgtcgtcgcaagttctgccgtttcaccgcggaaggcgttcaagag
+            atcgactataaagatatcgctacgctgaaaaactacatcaccgaaagcggtaagattgtc
+            ccaagccgtatcaccggtacccgtgcaaaataccagcgtcagctggctcgcgctatcaaa
+            cgcgctcgctacctgtccctgctgccgtacactgatcgccatcagtaa
+///

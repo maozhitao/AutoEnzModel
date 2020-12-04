@@ -1,0 +1,63 @@
+ENTRY       b0801             CDS       T00007
+NAME        hcxB
+DEFINITION  (RefSeq) hydroxycarboxylate dehydrogenase B
+ORTHOLOGY   K13574  hydroxycarboxylate dehydrogenase B [EC:1.1.1.237 1.1.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00350  Tyrosine metabolism
+            eco00360  Phenylalanine metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09105 Amino acid metabolism
+               00350 Tyrosine metabolism
+                b0801 (hcxB)
+               00360 Phenylalanine metabolism
+                b0801 (hcxB)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.237  hydroxyphenylpyruvate reductase
+                 b0801 (hcxB)
+                1.1.1.-  
+                 b0801 (hcxB)
+POSITION    836351..837436
+MOTIF       Pfam: Ldh_2
+DBLINKS     NCBI-GeneID: 945412
+            NCBI-ProteinID: NP_415322
+            Pasteur: ybiC
+            RegulonDB: ECK120001533
+            ECOCYC: EG11581
+            ASAP: ABE-0002738
+            UniProt: P30178
+STRUCTURE   PDB: 2G8Y
+AASEQ       361
+            MESGHRFDAQTLHSFIQAVFRQMGSEEQEAKLVADHLIAANLAGHDSHGIGMIPSYVRSW
+            SQGHLQINHHAKTVKEAGAAVTLDGDRAFGQVAAHEAMALGIEKAHQHGIAAVALHNSHH
+            IGRIGYWAEQCAAAGFVSIHFVSVVGIPMVAPFHGRDSRFGTNPFCVVFPRKDNFPLLLD
+            YATSAIAFGKTRVAWHKGVPVPPGCLIDVNGVPTTNPAVMQESPLGSLLTFAEHKGYALA
+            AMCEILGGALSGGKTTHQETLQTSPDAILNCMTTIIINPELFGAPDCNAQTEAFAEWVKA
+            SPHDDDKPILLPGEWEVNTRRERQKQGIPLDAGSWQAICDAARQIGMPEETLQAFCQQLA
+            S
+NTSEQ       1086
+            atggaaagtggtcatcgctttgatgctcagacgctgcacagttttattcaggctgtattt
+            cgtcagatgggtagcgaggaacaagaagcgaaattagttgccgatcatttaatcgcggca
+            aacctggcagggcatgattcacatggtattggcatgatcccaagctatgtacgctcctgg
+            agtcaggggcacctgcaaattaaccatcatgccaaaaccgttaaagaggcgggggcggcg
+            gtcacgctcgatggcgatcgcgcatttggtcaggtcgcggcacatgaagcgatggcgctg
+            gggattgagaaagcgcatcagcacggtattgccgccgtggcgctacataactcgcatcat
+            atcggccgtatcggttactgggcggagcagtgtgcagcggcggggtttgtctctatccac
+            tttgttagcgtggtcggtattccaatggtcgcgccgttccacggtcgcgacagccgcttt
+            ggcaccaatccgttctgtgtggttttccctcgtaaagataatttcccgctgttgcttgat
+            tacgccaccagcgccattgcatttggcaaaacccgcgtcgcctggcataaaggcgtcccc
+            gtgccgccaggttgcctgattgacgttaacggcgtgccgacgaccaatccggcggtaatg
+            caggagtcgccgttgggttcgctgttgacctttgccgaacataaaggctacgcccttgca
+            gcgatgtgtgaaattcttggcggggcgctttccggcggtaaaacgacgcatcaggaaacg
+            ttacaaaccagtcccgatgccattcttaactgcatgaccactatcatcatcaacccggaa
+            ctcttcggcgcgccggattgtaacgcgcagaccgaagcctttgccgagtgggtgaaagcc
+            tcgccgcatgatgatgataagccgattttgctaccgggcgagtgggaagtgaacacgcgt
+            cgcgaacggcagaagcaggggattccactggatgcgggaagctggcaggccatttgtgat
+            gcagcgcggcagattggtatgccggaagagacgttgcaggctttctgtcagcagttagcc
+            agctaa
+///

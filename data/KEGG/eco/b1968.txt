@@ -1,0 +1,70 @@
+ENTRY       b1968             CDS       T00007
+NAME        hprS
+DEFINITION  (RefSeq) sensory histidine kinase HprS
+ORTHOLOGY   K02484  two-component system, OmpR family, sensor kinase [EC:2.7.13.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b1968 (hprS)
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b1968 (hprS)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 b1968 (hprS)
+            Protein kinases [BR:eco01001]
+             Histidine kinases
+              OmpR family
+               b1968 (hprS)
+            Two-component system [BR:eco02022]
+             OmpR family
+              Unclassified
+               b1968 (hprS)
+POSITION    complement(2036794..2038152)
+MOTIF       Pfam: HATPase_c HisKA HAMP HATPase_c_5 DUF5452
+DBLINKS     NCBI-GeneID: 946487
+            NCBI-ProteinID: NP_416477
+            Pasteur: yedV
+            RegulonDB: ECK120003642
+            ECOCYC: G7056
+            ASAP: ABE-0006531
+            UniProt: P76339
+AASEQ       452
+            MKRLSITVRLTLLFILLLSVAGAGIVWTLYNGLASELKWRDDTTLINRTAQIKQLLIDGV
+            NPDTLPVYFNRMMDVSQDILIIHGDSINKIVNRTNVSDGMLNNIPASETISAAGIYRSII
+            NDTEIDALRINIDEVSPSLTVTVAKLASARHNMLEQYKINSIIICIVAIVLCSVLSPLLI
+            RTGLREIKKLSGVTEALNYNDSREPVEVSALPRELKPLGQALNKMHHALVKDFERLSQFA
+            DDLAHELRTPINALLGQNQVTLSQTRSIAEYQKTIAGNIEELENISRLTENILFLARADK
+            NNVLVKLDSLSLNKEVENLLDYLEYLSDEKEICFKVECNQQIFADKILLQRMLSNLIVNA
+            IRYSPEKSRIHITSFLDTNSYLNIDIASPGTKINEPEKLFRRFWRGDNSRHSVGQGLGLS
+            LVKAIAELHGGSATYHYLNKHNVFRITLPQRN
+NTSEQ       1359
+            atgaaaagactatctataaccgtccgtttaaccttgctttttatattgctactgtctgtt
+            gctggcgccggaattgtctggactctctataatggcctggcaagtgagttgaaatggcgc
+            gatgatacaacactcattaaccggacagcgcagatcaagcagttgttaattgatggggta
+            aatccagatacgttacctgtgtactttaaccggatgatggatgttagtcaggatatcttg
+            attattcatggtgatagcatcaataaaattgttaaccggacaaatgtcagtgatggcatg
+            ttaaataacatacctgctagtgagacaatcagcgcagctggcatttacagaagcattatt
+            aatgatacagagatagatgctttacgaattaatattgatgaagtttcgccatcattaacg
+            gttactgtggctaaattggcttcagccagacataacatgcttgaacagtataaaattaat
+            agcattataatttgcattgtcgccattgtactttgctcagtattaagtccgctgttaatc
+            agaacgggattacgagagatcaaaaagttgagtggtgtaacggaagcgctgaattataac
+            gatagccgagagcctgttgaggttagcgcattaccgagagaactaaaacctcttgggcag
+            gcgttgaataaaatgcatcatgctttagtcaaagattttgagcgtctaagtcagtttgct
+            gacgatctcgctcatgaacttagaacgccaattaatgcattactgggtcagaatcaggtt
+            acgctcagtcaaaccagaagtatcgctgaatatcaaaaaacaattgccggaaacattgaa
+            gagctggaaaatatttcgcggttaacagagaacatactgtttcttgccagggcagataaa
+            aacaatgttttggtgaaactggactcgctttctctcaataaggaagtcgaaaatttgttg
+            gactatcttgaatacctttcagacgagaaagagatttgctttaaggtcgagtgcaatcag
+            caaatctttgcggataaaattttactacaacgaatgttatcgaatcttattgttaatgcc
+            attagatattcgccagaaaaatcgcgtattcatataaccagttttcttgataccaacagc
+            tatcttaatattgatatcgccagccctggaacgaaaattaatgagcctgaaaaactcttc
+            cgtagattttggcggggagataattcgcgtcattccgtaggtcagggactaggcctttct
+            ttagtcaaagcgattgccgaattgcatgggggaagtgctacgtatcactatctcaataag
+            cataatgtgttccggattacgttaccgcaaagaaattaa
+///

@@ -1,0 +1,52 @@
+ENTRY       b0653             CDS       T00007
+NAME        gltK
+DEFINITION  (RefSeq) glutamate/aspartate ABC transporter membrane subunit GltK
+ORTHOLOGY   K10002  glutamate/aspartate transport system permease protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+            eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b0653 (gltK)
+              09132 Signal transduction
+               02020 Two-component system
+                b0653 (gltK)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0653 (gltK)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Phosphate and amino acid transporters
+               Glutamate/aspartate transporter
+                b0653 (gltK)
+POSITION    complement(685255..685929)
+MOTIF       Pfam: BPD_transp_1
+DBLINKS     NCBI-GeneID: 947354
+            NCBI-ProteinID: NP_415186
+            Pasteur: gltK
+            RegulonDB: ECK120002350
+            ECOCYC: EG12662
+            ASAP: ABE-0002234
+            UniProt: P0AER5
+AASEQ       224
+            MYEFDWSSIVPSLPYLLDGLVITLKITVTAVVIGILWGTMLAVMRLSSFAPVAWFAKAYV
+            NVFRSIPLVMVLLWFYLIVPGFLQNVLGLSPKNDIRLISAMVAFSMFEAAYYSEIIRAGI
+            QSISRGQSSAALALGMTHWQSMKLIILPQAFRAMVPLLLTQGIVLFQDTSLVYVLSLADF
+            FRTASTIGERDGTQVEMILFAGFVYFVISLSASLLVSYLKRRTA
+NTSEQ       675
+            atgtacgagtttgactggagttccattgtcccttccctgccatatctgctcgacgggctg
+            gtgatcaccctgaaaatcaccgtcacggcggtagtgattggtattttgtggggcacgatg
+            ctggcggtgatgcgtttatccagctttgcgcccgtggcgtggtttgccaaagcctacgtt
+            aacgtattccgctcgattcctttagttatggttttgctgtggttttacctgatcgtgccg
+            ggttttctgcaaaacgtgctgggattatcgccaaaaaatgatatccgtttaatttcggcg
+            atggtggcgttttcgatgtttgaagcggcctactattcagagattatccgtgctggtatt
+            caaagtatttctcgtggtcaatcgagcgccgcgctggcgttgggaatgactcactggcag
+            tcgatgaaactgattattctgccgcaggcgttccgcgcgatggtgccgctgctgctcact
+            cagggcatcgtactgttccaggatacctcactggtgtatgtgttatccctggccgatttc
+            ttccgtaccgcctcaaccattggtgagcgtgatggtacgcaggttgagatgatcctgttt
+            gccggatttgtttatttcgttattagtcttagcgcgtcgttgttggtcagctacttgaaa
+            agaaggacagcataa
+///

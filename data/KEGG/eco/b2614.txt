@@ -1,0 +1,48 @@
+ENTRY       b2614             CDS       T00007
+NAME        grpE
+DEFINITION  (RefSeq) nucleotide exchange factor GrpE
+ORTHOLOGY   K03687  molecular chaperone GrpE
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b2614 (grpE)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b2614 (grpE)
+            Chaperones and folding catalysts [BR:eco03110]
+             Heat shock proteins
+              HSP24
+               b2614 (grpE)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial protein import machinery
+              Matrix
+               MMC/PAM proteins
+                b2614 (grpE)
+POSITION    complement(2750115..2750708)
+MOTIF       Pfam: GrpE Baculo_PEP_C
+DBLINKS     NCBI-GeneID: 947097
+            NCBI-ProteinID: NP_417104
+            Pasteur: grpE
+            RegulonDB: ECK120000409
+            ECOCYC: EG10416
+            ASAP: ABE-0008598
+            UniProt: P09372
+STRUCTURE   PDB: 1DKG
+AASEQ       197
+            MSSKEQKTPEGQAPEEIIMDQHEEIEAVEPEASAEQVDPRDEKVANLEAQLAEAQTRERD
+            GILRVKAEMENLRRRTELDIEKAHKFALEKFINELLPVIDSLDRALEVADKANPDMSAMV
+            EGIELTLKSMLDVVRKFGVEVIAETNVPLDPNVHQAIAMVESDDVAPGNVLGIMQKGYTL
+            NGRTIRAAMVTVAKAKA
+NTSEQ       594
+            atgagtagtaaagaacagaaaacgcctgaggggcaagccccggaagaaattatcatggat
+            cagcacgaagagattgaggcagttgagccagaagcttctgctgagcaggtggatccgcgc
+            gatgaaaaagttgcgaatctcgaagctcagctggctgaagcccagacccgtgaacgtgac
+            ggcattttgcgtgtaaaagccgaaatggaaaacctgcgtcgtcgtactgaactggatatt
+            gaaaaagcccacaaattcgcgctggagaaattcatcaacgaattgctgccggtgattgat
+            agcctggatcgtgcgctggaagtggctgataaagctaacccggatatgtctgcgatggtt
+            gaaggcattgagctgacgctgaagtcgatgctggatgttgtgcgtaagtttggcgttgaa
+            gtgatcgccgaaactaacgtcccactggacccgaatgtgcatcaggccatcgcaatggtg
+            gaatctgatgacgttgcgccaggtaacgtactgggcattatgcagaagggttatacgctg
+            aatggtcgtacgattcgtgcggcgatggttactgtagcgaaagcaaaagcttaa
+///

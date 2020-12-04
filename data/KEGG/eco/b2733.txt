@@ -1,0 +1,93 @@
+ENTRY       b2733             CDS       T00007
+NAME        mutS
+DEFINITION  (RefSeq) DNA mismatch repair protein MutS
+ORTHOLOGY   K03555  DNA mismatch repair protein MutS
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03430  Mismatch repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03430 Mismatch repair
+                b2733 (mutS)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2733 (mutS)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                Mismatch and loop recognition factors
+                 b2733 (mutS)
+POSITION    2857093..2859654
+MOTIF       Pfam: MutS_V MutS_I MutS_III MutS_II MutS_IV
+DBLINKS     NCBI-GeneID: 947206
+            NCBI-ProteinID: NP_417213
+            Pasteur: mutS
+            RegulonDB: ECK120000618
+            ECOCYC: EG10625
+            ASAP: ABE-0008977
+            UniProt: P23909
+STRUCTURE   PDB: 1WB9 3K0S 1E3M 1W7A 1WBD 1OH6 1WBB 1OH7 6I5F 1NG9 1OH5
+                 3ZLJ 2WTU 5AKB 5AKC 5AKD 1OH8
+AASEQ       853
+            MSAIENFDAHTPMMQQYLRLKAQHPEILLFYRMGDFYELFYDDAKRASQLLDISLTKRGA
+            SAGEPIPMAGIPYHAVENYLAKLVNQGESVAICEQIGDPATSKGPVERKVVRIVTPGTIS
+            DEALLQERQDNLLAAIWQDSKGFGYATLDISSGRFRLSEPADRETMAAELQRTNPAELLY
+            AEDFAEMSLIEGRRGLRRRPLWEFEIDTARQQLNLQFGTRDLVGFGVENAPRGLCAAGCL
+            LQYAKDTQRTTLPHIRSITMEREQDSIIMDAATRRNLEITQNLAGGAENTLASVLDCTVT
+            PMGSRMLKRWLHMPVRDTRVLLERQQTIGALQDFTAGLQPVLRQVGDLERILARLALRTA
+            RPRDLARMRHAFQQLPELRAQLETVDSAPVQALREKMGEFAELRDLLERAIIDTPPVLVR
+            DGGVIASGYNEELDEWRALADGATDYLERLEVRERERTGLDTLKVGFNAVHGYYIQISRG
+            QSHLAPINYMRRQTLKNAERYIIPELKEYEDKVLTSKGKALALEKQLYEELFDLLLPHLE
+            ALQQSASALAELDVLVNLAERAYTLNYTCPTFIDKPGIRITEGRHPVVEQVLNEPFIANP
+            LNLSPQRRMLIITGPNMGGKSTYMRQTALIALMAYIGSYVPAQKVEIGPIDRIFTRVGAA
+            DDLASGRSTFMVEMTETANILHNATEYSLVLMDEIGRGTSTYDGLSLAWACAENLANKIK
+            ALTLFATHYFELTQLPEKMEGVANVHLDALEHGDTIAFMHSVQDGAASKSYGLAVAALAG
+            VPKEVIKRARQKLRELESISPNAAATQVDGTQMSLLSVPEETSPAVEALENLDPDSLTPR
+            QALEWIYRLKSLV
+NTSEQ       2562
+            atgagtgcaatagaaaatttcgacgcccatacgcccatgatgcagcagtatctcaggctg
+            aaagcccagcatcccgagatcctgctgttttaccggatgggtgatttttatgaactgttt
+            tatgacgacgcaaaacgcgcgtcgcaactgctggatatttcactgaccaaacgcggtgct
+            tcggcgggagagccgatcccgatggcggggattccctaccatgcggtggaaaactatctc
+            gccaaactggtgaatcagggagagtccgttgccatctgcgaacaaattggcgatccggcg
+            accagcaaaggtccggttgagcgcaaagttgtgcgtatcgttacgccaggcaccatcagc
+            gatgaagccctgttgcaggagcgtcaggacaacctgctggcggctatctggcaggacagc
+            aaaggtttcggctacgcgacgctggatatcagttccgggcgttttcgcctgagcgaaccg
+            gctgaccgcgaaacgatggcggcagaactgcaacgcactaatcctgcggaactgctgtat
+            gcagaagattttgctgaaatgtcgttaattgaaggccgtcgcggcctgcgccgtcgcccg
+            ctgtgggagtttgaaatcgacaccgcgcgccagcagttgaatctgcaatttgggacccgc
+            gatctggtcggttttggcgtcgagaacgcgccgcgcggactttgtgctgccggttgtctg
+            ttgcagtatgcgaaagatacccaacgtacgactctgccgcatattcgttccatcaccatg
+            gaacgtgagcaggacagcatcattatggatgccgcgacgcgtcgtaatctggaaatcacc
+            cagaacctggcgggtggtgcggaaaatacgctggcttctgtgctcgactgcaccgtcacg
+            ccgatgggcagccgtatgctgaaacgctggctgcatatgccagtgcgcgatacccgcgtg
+            ttgcttgagcgccagcaaactattggcgcattgcaggatttcaccgccgggctacagccg
+            gtactgcgtcaggtcggcgacctggaacgtattctggcacgtctggctttacgaactgct
+            cgcccacgcgatctggcccgtatgcgccacgctttccagcaactgccggagctgcgtgcg
+            cagttagaaactgtcgatagtgcaccggtacaggcgctacgtgagaagatgggcgagttt
+            gccgagctgcgcgatctgctggagcgagcaatcatcgacacaccgccggtgctggtacgc
+            gacggtggtgttatcgcatcgggctataacgaagagctggatgagtggcgcgcgctggct
+            gacggcgcgaccgattatctggagcgtctggaagtccgcgagcgtgaacgtaccggcctg
+            gacacgctgaaagttggctttaatgcggtgcacggctactacattcaaatcagccgtggg
+            caaagccatctggcacccatcaactacatgcgtcgccagacgctgaaaaacgccgagcgc
+            tacatcattccagagctaaaagagtacgaagataaagttctcacctcaaaaggcaaagca
+            ctggcactggaaaaacagctttatgaagagctgttcgacctgctgttgccgcatctggaa
+            gcgttgcaacagagcgcgagcgcgctggcggaactcgacgtgctggttaacctggcggaa
+            cgggcctataccctgaactacacctgcccgaccttcattgataaaccgggcattcgcatt
+            accgaaggtcgccatccggtagttgaacaagtactgaatgagccatttatcgccaacccg
+            ctgaatctgtcgccgcagcgccgcatgttgatcatcaccggtccgaacatgggcggtaaa
+            agtacctatatgcgccagaccgcactgattgcgctgatggcctacatcggcagctatgta
+            ccggcacaaaaagtcgagattggacctatcgatcgcatctttacccgcgtaggcgcggca
+            gatgacctggcgtccgggcgctcaacctttatggtggagatgactgaaaccgccaatatt
+            ttacataacgccaccgaatacagtctggtgttaatggatgagatcgggcgtggaacgtcc
+            acctacgatggtctgtcgctggcgtgggcgtgcgcggaaaatctggcgaataagattaag
+            gcattgacgttatttgctacccactatttcgagctgacccagttaccggagaaaatggaa
+            ggcgtcgctaacgtgcatctcgatgcactggagcacggcgacaccattgcctttatgcac
+            agcgtgcaggatggcgcggcgagcaaaagctacggcctggcggttgcagctctggcaggc
+            gtgccaaaagaggttattaagcgcgcacggcaaaagctgcgtgagctggaaagcatttcg
+            ccgaacgccgccgctacgcaagtggatggtacgcaaatgtctttgctgtcagtaccagaa
+            gaaacttcgcctgcggtcgaagctctggaaaatcttgatccggattcactcaccccgcgt
+            caggcgctggagtggatttatcgcttgaagagcctggtgtaa
+///

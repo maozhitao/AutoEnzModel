@@ -1,0 +1,43 @@
+ENTRY       b1013             CDS       T00007
+NAME        rutR
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator RutR
+ORTHOLOGY   K09017  TetR/AcrR family transcriptional regulator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1013 (rutR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               TetR/AcrR family
+                b1013 (rutR)
+POSITION    1074242..1074880
+MOTIF       Pfam: TetR_C_3 TetR_N TetR_C_29
+DBLINKS     NCBI-GeneID: 945075
+            NCBI-ProteinID: NP_415533
+            Pasteur: ycdC
+            RegulonDB: ECK120002180
+            ECOCYC: EG12301
+            ASAP: ABE-0003422
+            UniProt: P0ACU2
+STRUCTURE   PDB: 4JYK 4XK4 4X1E 3LOC
+AASEQ       212
+            MTQGAVKTTGKRSRAVSAKKKAILSAALDTFSQFGFHGTRLEQIAELAGVSKTNLLYYFP
+            SKEALYIAVLRQILDIWLAPLKAFREDFAPLAAIKEYIRLKLEVSRDYPQASRLFCMEML
+            AGAPLLMDELTGDLKALIDEKSALIAGWVKSGKLAPIDPQHLIFMIWASTQHYADFAPQV
+            EAVTGATLRDEVFFNQTVENVQRIIIEGIRPR
+NTSEQ       639
+            atgacgcaaggcgcagtgaaaacaacgggtaaacgttcgcgcgcagtaagcgcgaagaaa
+            aaagcgattcttagcgcagcactggacactttttcacaattcggttttcacggcacaagg
+            ctggagcagatcgcagagttggcgggtgtttcaaaaaccaatctgctgtattactttccg
+            tcaaaagaggcgctgtatattgccgtgctgcggcagattctcgatatctggctggcaccg
+            ttaaaagcgtttcgtgaagatttcgccccgctggcggcgatcaaagagtacatccgtctg
+            aagctggaagtctcacgcgattatccgcaggcttcgcgcctgttctgtatggagatgctg
+            gcaggcgcgccgctgttaatggatgaactgacgggcgatttgaaggcattaattgatgag
+            aaatcggcgctgattgccggttgggtcaaaagcggcaaactcgcgccgattgatccgcag
+            catttgatttttatgatttgggcttccactcaacattacgccgatttcgcccctcaggtg
+            gaggcggtgacaggcgcgacgttgcgcgatgaggtatttttcaatcaaacggttgaaaac
+            gtgcagcggattattattgaggggattcgaccacgttaa
+///

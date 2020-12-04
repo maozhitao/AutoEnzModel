@@ -1,0 +1,48 @@
+ENTRY       b0995             CDS       T00007
+NAME        torR
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator TorR
+ORTHOLOGY   K07772  two-component system, OmpR family, torCAD operon response regulator TorR
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0995 (torR)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b0995 (torR)
+            Two-component system [BR:eco02022]
+             OmpR family
+              TorS-TorR (TMAO respiration)
+               b0995 (torR)
+POSITION    complement(1057262..1057954)
+MOTIF       Pfam: Response_reg Trans_reg_C
+DBLINKS     NCBI-GeneID: 946182
+            NCBI-ProteinID: NP_415515
+            Pasteur: torR
+            RegulonDB: ECK120002334
+            ECOCYC: EG12615
+            ASAP: ABE-0003362
+            UniProt: P38684
+STRUCTURE   PDB: 1ZGZ
+AASEQ       230
+            MPHHIVIVEDEPVTQARLQSYFTQEGYTVSVTASGAGLREIMQNQSVDLILLDINLPDEN
+            GLMLTRALRERSTVGIILVTGRSDRIDRIVGLEMGADDYVTKPLELRELVVRVKNLLWRI
+            DLARQAQPHTQDNCYRFAGYCLNVSRHTLERDGEPIKLTRAEYEMLVAFVTNPGEILSRE
+            RLLRMLSARRVENPDLRTVDVLIRRLRHKLSADLLVTQHGEGYFLAADVC
+NTSEQ       693
+            atgccacatcacattgttattgttgaagatgagccggttacccaggcgcgattacaatcc
+            tacttcactcaggaggggtataccgtttccgttacggcgagcggtgctgggctacgggaa
+            attatgcagaatcagtcggtagatttaattctgctggatatcaacttacccgatgaaaat
+            ggcctgatgttaacccgcgccctgcgagaacgctcaacggtggggattattctggttacc
+            ggacgcagcgatcggattgaccgtattgttgggctggaaatgggcgcagacgattacgtc
+            accaaaccgctggaactgcgcgaactggtagtacgggtgaaaaatctgctctggcgaatc
+            gacctcgcgcgacaagctcaaccgcacactcaggacaactgctatcgctttgccggttat
+            tgcctgaatgtgtcgcgccatacgctggagcgggatggcgagccgattaaactgacccgc
+            gcagagtatgaaatgttggtggcatttgtgacgaatccgggcgaaattctcagccgtgaa
+            cgtctgctacgtatgctttctgcgcgtcgggtggaaaaccctgacctgcgcaccgtcgat
+            gtgttaattcgtcgtttacgtcataaactcagcgcggatttactggtgacgcaacatggt
+            gaaggttatttcttagccgctgatgtgtgctga
+///

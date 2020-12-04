@@ -1,0 +1,38 @@
+ENTRY       b1105             CDS       T00007
+NAME        lpoB
+DEFINITION  (RefSeq) outer membrane lipoprotein - activator of MrcB activity
+ORTHOLOGY   K07337  penicillin-binding protein activator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09193 Unclassified: signaling and cellular processes
+               99993 Cell motility
+                b1105 (lpoB)
+POSITION    1162638..1163279
+MOTIF       Pfam: LpoB DUF3280
+DBLINKS     NCBI-GeneID: 948536
+            NCBI-ProteinID: NP_415623
+            Pasteur: ycfM
+            RegulonDB: ECK120003161
+            ECOCYC: G6565
+            ASAP: ABE-0003733
+            UniProt: P0AB38
+STRUCTURE   PDB: 4Q6Z 2MII
+AASEQ       213
+            MTKMSRYALITALAMFLAGCVGQREPAPVEEVKPAPEQPAEPQQPVPTVPSVPTIPQQPG
+            PIEHEDQTAPPAPHIRHYDWNGAMQPMVSKMLGADGVTAGSVLLVDSVNNRTNGSLNAAE
+            ATETLRNALANNGKFTLVSAQQLSMAKQQLGLSPQDSLGTRSKAIGIARNVGAHYVLYSS
+            ASGNVNAPTLQMQLMLVQTGEIIWSGKGAVSQQ
+NTSEQ       642
+            atgacaaaaatgagtcgctacgccttgattaccgcgctggcgatgtttctcgccgggtgt
+            gtggggcaacgtgaacctgcaccggtagaagaagtgaaaccagcgccggaacaaccagcc
+            gagccacaacagcctgtccccacagtgccctcggtgccgacgatcccgcagcagccaggc
+            ccaattgagcacgaagatcaaactgcaccgcctgcgccgcatattcgccattatgactgg
+            aatggcgcaatgcagccgatggtcagtaagatgcttggggctgacggggtgactgcgggt
+            agcgtcctgctggttgatagcgttaacaaccgtactaacggttcgctgaatgccgcagaa
+            gcgaccgaaacgctgcgaaatgcgctggctaataacgggaaatttaccctggtttccgcc
+            cagcaactgtcgatggcgaagcaacagttaggtttgtcgccgcaggacagtttaggcacc
+            cgtagtaaagccataggcattgcccgcaatgtcggcgctcattacgtgctgtactccagc
+            gcctctggcaacgttaacgctccgaccctacaaatgcagctgatgctggtgcagacgggc
+            gaaattatctggtcaggtaaaggtgccgtttcgcagcaataa
+///

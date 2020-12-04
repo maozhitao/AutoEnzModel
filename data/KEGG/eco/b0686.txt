@@ -1,0 +1,47 @@
+ENTRY       b0686             CDS       T00007
+NAME        ybfF
+DEFINITION  (RefSeq) esterase
+ORTHOLOGY   K01175  esterase [EC:3.1.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0686 (ybfF)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 b0686 (ybfF)
+POSITION    complement(712038..712802)
+MOTIF       Pfam: Abhydrolase_1 Abhydrolase_6 Hydrolase_4 PGAP1 Thioesterase DUF676 DUF915 Abhydrolase_4 Chlorophyllase2 Palm_thioest
+DBLINKS     NCBI-GeneID: 945288
+            NCBI-ProteinID: NP_415212
+            Pasteur: ybfF
+            RegulonDB: ECK120001710
+            ECOCYC: EG11776
+            ASAP: ABE-0002337
+            UniProt: P75736
+STRUCTURE   PDB: 3BF7 3BF8
+AASEQ       254
+            MKLNIRAQTAQNQHNNSPIVLVHGLFGSLDNLGVLARDLVNDHNIIQVDMRNHGLSPRDP
+            VMNYPAMAQDLVDTLDAQQIDKATFIGHSMGGKAVMALTALASDRIDKLVAIDIAPVDYH
+            VRRHDEIFAAINAVSESDAQTRQQAAAIMRQHLNEEGVIQFLLKSFVDGEWRFNVPVLWD
+            QYPHIVGWEKIPAWDHPALFIPGGNSPYVSEQYRDDLLAQFPQARAHVIAGAGHWVHAEK
+            PDAVLRAIRRYLND
+NTSEQ       765
+            atgaaattgaatatccgcgcgcaaactgcacaaaaccagcacaataattctcccatcgtt
+            cttgtccacggtctgtttggcagcctcgacaaccttggcgtactggctcgcgatctggta
+            aacgatcacaatatcatccaggttgatatgcgtaaccacggtctttcaccgagagatccg
+            gtaatgaattacccggcgatggcgcaggatcttgttgatactctggatgcacagcagatc
+            gacaaagcaacatttatcggtcactccatgggcggtaaagcggtaatggcacttactgca
+            ctagcctccgatcgcatcgataaactggtggcgatcgatatcgcgccggtcgactatcac
+            gtacgccgtcatgatgagatttttgcggctatcaacgcggtcagtgaatcggacgcacaa
+            actcgccagcaagcagcagcaataatgcgccagcatcttaatgaagaaggggtgattcag
+            tttctgctgaaatcttttgttgacggggagtggcgctttaacgtgccggtattgtgggat
+            cagtatccgcatattgtaggttgggagaaaatcccggcatgggatcaccctgccctgttt
+            atccctggcggcaattctccgtatgttagcgagcagtaccgtgatgatttactggctcaa
+            tttccacaggcacgggcgcatgtgattgcaggcgcgggtcactgggtccatgctgaaaaa
+            ccggatgcggtattacgcgctatccgtcgctatctcaatgattaa
+///

@@ -1,0 +1,72 @@
+ENTRY       b0449             CDS       T00007
+NAME        mdlB
+DEFINITION  (RefSeq) ABC transporter family protein MdlB
+ORTHOLOGY   K18890  ATP-binding cassette, subfamily B, multidrug efflux pump
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b0449 (mdlB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0449 (mdlB)
+            Transporters [BR:eco02000]
+             ABC transporters, eukaryotic type
+              ABCB (MDR/TAP) subfamily
+               ABCB-BAC subgroup
+                b0449 (mdlB)
+POSITION    470636..472417
+MOTIF       Pfam: ABC_membrane ABC_tran SMC_N AAA_16 AAA_22 AAA_25 AAA_29 RsgA_GTPase AAA_23 MMR_HSR1 DUF87 DEAD AAA_33 NB-ARC
+DBLINKS     NCBI-GeneID: 945088
+            NCBI-ProteinID: NP_414983
+            Pasteur: mdlB
+            RegulonDB: ECK120001570
+            ECOCYC: EG11622
+            ASAP: ABE-0001557
+            UniProt: P0AAG5
+AASEQ       593
+            MRSFSQLWPTLKRLLAYGSPWRKPLGIAVLMMWVAAAAEVSGPLLISYFIDNMVAKNNLP
+            LKVVAGLAAAYVGLQLFAAGLHYAQSLLFNRAAVGVVQQLRTDVMDAALRQPLSEFDTQP
+            VGQVISRVTNDTEVIRDLYVTVVATVLRSAALVGAMLVAMFSLDWRMALVAIMIFPVVLV
+            VMVIYQRYSTPIVRRVRAYLADINDGFNEIINGMSVIQQFRQQARFGERMGEASRSHYMA
+            RMQTLRLDGFLLRPLLSLFSSLILCGLLMLFGFSASGTIEVGVLYAFISYLGRLNEPLIE
+            LTTQQAMLQQAVVAGERVFELMDGPRQQYGNDDRPLQSGTIEVDNVSFAYRDDNLVLKNI
+            NLSVPSRNFVALVGHTGSGKSTLASLLMGYYPLTEGEIRLDGRPLSSLSHSALRQGVAMV
+            QQDPVVLADTFLANVTLGRDISEERVWQALETVQLAELARSMSDGIYTPLGEQGNNLSVG
+            QKQLLALARVLVETPQILILDEATASIDSGTEQAIQHALAAVREHTTLVVIAHRLSTIVD
+            ADTILVLHRGQAVEQGTHQQLLAAQGRYWQMYQLQLAGEELAASVREEESLSA
+NTSEQ       1782
+            atgcgtagttttagccaactgtggccgactctcaagcgcctgttagcgtacggttcgccg
+            tggcgtaaaccgctggggattgcggtcctgatgatgtgggttgcggcggcggcagaagtc
+            agtgggccgctgcttatcagctattttatcgacaatatggtagcgaaaaataacctgccg
+            ttgaaagtggttgcagggctggctgcggcgtatgttgggctgcaactgtttgccgccggg
+            ctacattacgcgcagtcgctgctgtttaatcgggcggcagtaggcgtagtgcaacagttg
+            cgtaccgacgtgatggatgctgcgttacgccagccattaagcgagtttgatacccaaccc
+            gtcgggcaggtgatttcccgcgtcactaatgacactgaagtgatccgcgatctctacgtt
+            accgtagtggcaactgtcctgcgcagtgccgcgctggtgggcgcgatgctggtggcgatg
+            ttcagcctcgactggcgaatggcactggtggcgataatgattttcccggtggtgctggtg
+            gtaatggtgatataccagcgttacagcacgccgattgtccgtcgtgtgcgcgcctatttg
+            gcggatatcaacgacggctttaacgaaatcatcaatggcatgagcgttatccagcagttt
+            cgtcagcaggcgcgatttggcgaacgtatgggggaggccagtcgttcacactatatggcg
+            aggatgcaaaccctgcgcctcgacggttttctgctgcgtccgctgctgagtctgttttca
+            tcgctcattctttgtggcttgttgatgctgtttggcttctccgccagcggcaccattgaa
+            gtgggcgtgctgtatgcgtttatcagctatcttgggcgacttaacgaaccattaatcgaa
+            ctgaccacgcaacaggcgatgctgcaacaggctgttgttgctggtgagcgcgtgtttgaa
+            ctgatggacggaccgcgccagcaatatggcaatgatgatcgcccgttacagagtggcacc
+            atcgaagtcgataacgtgtcatttgcttatcgcgatgacaatctggtgctaaagaacatt
+            aatctctctgtgccttcgcgcaattttgtggcgctggtcgggcataccggcagtggcaaa
+            agcaccctcgccagtttattgatgggctattacccgctaacggaaggtgagattcgcctt
+            gatggtcgtccattaagttcgctaagtcacagcgcgctgcgccagggcgtggcaatggtg
+            cagcaagatccggtggtgctggcggataccttcctcgccaacgtgacgctggggcgggat
+            atctccgaagaacgcgtctggcaggcgctggaaaccgtgcaactggcggagctggcgcgt
+            agcatgagcgacggtatttacacgccgctgggcgagcaggggaataatctctcagttggg
+            caaaagcaactgctggcactggcgcgcgtgctggtcgagacgccgcaaatcctgatcctt
+            gatgaggcaaccgccagcattgactccggtactgaacaggcgattcaacatgctctggcg
+            gcggtgcgtgaacataccacgctggtagtgattgctcaccgcttatcgaccattgttgat
+            gccgacaccattctggtgcttcatcgtgggcaagccgtggagcagggcactcaccagcaa
+            ctgctggcggcccagggacgctactggcagatgtatcaactgcaacttgcgggcgaagag
+            ctggcagccagcgtgcgtgaagaggaatcattgagcgcctga
+///

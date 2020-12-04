@@ -1,0 +1,54 @@
+ENTRY       b3499             CDS       T00007
+NAME        rlmJ
+DEFINITION  (RefSeq) 23S rRNA m(6)A2030 methyltransferase
+ORTHOLOGY   K07115  23S rRNA (adenine2030-N6)-methyltransferase [EC:2.1.1.266]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b3499 (rlmJ)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.266  23S rRNA (adenine2030-N6)-methyltransferase
+                 b3499 (rlmJ)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               23S rRNA modification factors
+                b3499 (rlmJ)
+POSITION    3645385..3646227
+MOTIF       Pfam: RsmJ Cons_hypoth95
+DBLINKS     NCBI-GeneID: 948012
+            NCBI-ProteinID: NP_417956
+            Pasteur: yhiR
+            RegulonDB: ECK120002118
+            ECOCYC: EG12234
+            ASAP: ABE-0011428
+            UniProt: P37634
+STRUCTURE   PDB: 6QE0 6QE5 4BLU 4BLW 4BLV 6QDX
+AASEQ       280
+            MLSYRHSFHAGNHADVLKHTVQSLIIESLKEKDKPFLYLDTHAGAGRYQLGSEHAERTGE
+            YLEGIARIWQQDDLPAELEAYINVVKHFNRSGQLRYYPGSPLIARLLLREQDSLQLTELH
+            PSDYPLLRSEFQKDSRARVEKADGFQQLKAKLPPVSRRGLILIDPPYEMKTDYQAVVSGI
+            AEGYKRFATGIYALWYPVVLRQQIKRMIHDLEATGIRKILQIELAVLPDSDRRGMTASGM
+            IVINPPWKLEQQMNNVLPWLHSKLVPAGTGHATVSWIVPE
+NTSEQ       843
+            atgctcagttatcgccacagctttcacgctggcaaccacgccgacgtccttaaacatacc
+            gttcagagcctgatcatcgagtcgctgaaagagaaagataaaccgtttctctatctcgac
+            acccacgcaggggccgggcgttatcagttaggcagcgaacatgccgagcgtaccggcgaa
+            tatctcgaaggcatcgcccgtatctggcagcaggacgatttgcccgcagaactggaggcg
+            tacatcaatgtggtaaaacacttcaaccgtagcggtcagttgcgttactaccccggttcg
+            ccgttgattgctcgcctgctactgcgtgaacaggacagcctgcaactgaccgaactgcac
+            ccgagcgattacccgttgttgcgttctgaatttcagaaagatagccgtgcgcgtgtcgaa
+            aaagccgacggtttccagcagcttaaggccaaactgccgccggtttcccgccgtggttta
+            atccttatcgacccgccgtatgaaatgaaaactgactatcaagcggtggtcagcgggata
+            gcagaaggttacaaacgtttcgccactggtatttacgcactgtggtatccggtggtgctg
+            cgtcagcaaattaagcgcatgatccacgatctggaagcgaccggtattcgcaaaattctg
+            caaattgaactggcggtactgccagacagcgatcgccgtggcatgaccgcttccggcatg
+            attgtgattaacccgccgtggaaactggaacaacagatgaataacgtgctgccgtggctg
+            cacagcaaactggttccggcaggcaccgggcacgccaccgtaagctggatcgtgccggag
+            taa
+///

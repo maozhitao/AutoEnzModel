@@ -1,0 +1,54 @@
+ENTRY       b1269             CDS       T00007
+NAME        rluB
+DEFINITION  (RefSeq) 23S rRNA pseudouridine(2605) synthase
+ORTHOLOGY   K06178  23S rRNA pseudouridine2605 synthase [EC:5.4.99.22]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b1269 (rluB)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.99  Transferring other groups
+                5.4.99.22  23S rRNA pseudouridine2605 synthase
+                 b1269 (rluB)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               23S rRNA modification factors
+                b1269 (rluB)
+POSITION    1326852..1327727
+MOTIF       Pfam: PseudoU_synth_2 S4 HEAT_EZ
+DBLINKS     NCBI-GeneID: 945840
+            NCBI-ProteinID: NP_415785
+            Pasteur: yciL
+            RegulonDB: ECK120002288
+            ECOCYC: EG12433
+            ASAP: ABE-0004259
+            UniProt: P37765
+STRUCTURE   PDB: 4LGT 4LAB
+AASEQ       291
+            MSEKLQKVLARAGHGSRREIESIIEAGRVSVDGKIAKLGDRVEVTPGLKIRIDGHLISVR
+            ESAEQICRVLAYYKPEGELCTRNDPEGRPTVFDRLPKLRGARWIAVGRLDVNTCGLLLFT
+            TDGELANRLMHPSREVEREYAVRVFGQVDDAKLRDLSRGVQLEDGPAAFKTIKFSGGEGI
+            NQWYNVTLTEGRNREVRRLWEAVGVQVSRLIRVRYGDIPLPKGLPRGGWTELDLAQTNYL
+            RELVELPPETSSKVAVEKDRRRMKANQIRRAVKRHSQVSGGRRSGGRNNNG
+NTSEQ       876
+            atgagcgaaaagctacagaaagtgctggcgcgtgccggccacggttctcgccgtgaaatc
+            gaatctattattgaagccggtcgtgtgagtgttgatggcaaaattgctaaactcggcgat
+            cgtgttgaagttacccctggattgaaaatccgtatcgatggtcacctgatttcggtacgt
+            gagtccgctgaacaaatttgtcgcgttctggcctattacaaaccggaaggtgagttgtgt
+            acccgtaacgatccggaaggacgtccaacggtgtttgaccgtctgccaaaactgcgtggc
+            gcacgctggattgccgtgggtcgcttggacgttaatacctgtggtctgctgctgttcacc
+            accgatggtgaactggcaaaccgtttaatgcacccaagccgtgaagttgaacgtgaatat
+            gccgtgcgtgtatttggtcaggttgacgacgcgaaactgcgtgatttgagtcgtggcgtg
+            cagttggaagatggtccggcagcttttaaaaccatcaagttcagcggcggcgaagggatc
+            aaccagtggtacaacgtgactctgaccgaaggccgtaaccgtgaagttcgtcgtctgtgg
+            gaagcggttggtgtgcaggtgagccgcctgatccgtgttcgttacggtgatatcccactg
+            ccaaaaggtctgccacgcggtggctggacggagctggacctcgcccagactaactatctg
+            cgcgaactggtggagctaccgccagaaaccagctctaaagtcgctgtagaaaaagaccgt
+            cgtcgcatgaaggcgaatcagattcgtcgtgcggtgaaacgtcacagtcaggtgagcggc
+            ggtcgtcgttctggcggacgtaataataacggttaa
+///

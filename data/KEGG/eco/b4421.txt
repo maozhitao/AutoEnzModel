@@ -1,0 +1,29 @@
+ENTRY       b4421             CDS       T00007
+NAME        ldrB
+DEFINITION  (RefSeq) small toxic polypeptide LdrB
+ORTHOLOGY   K18862  small toxic polypeptide LdrA/B/C/D
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4421 (ldrB)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               Ldr-Rdl
+                b4421 (ldrB)
+POSITION    complement(1269703..1269810)
+MOTIF       Pfam: Ldr_toxin
+DBLINKS     NCBI-GeneID: 2847735
+            NCBI-ProteinID: YP_025298
+            RegulonDB: ECK120002657
+            ECOCYC: G0-9605
+            ASAP: ABE-0047281
+            UniProt: Q6BF87
+AASEQ       35
+            MTLAQFAMTFWHDLAAPILAGIITAAIVGWWRNRK
+NTSEQ       108
+            atgacgctcgcgcagtttgccatgactttctggcacgacctggcggcaccgatcctggcg
+            ggaattattaccgcagcgattgtcggctggtggcgtaaccggaagtaa
+///

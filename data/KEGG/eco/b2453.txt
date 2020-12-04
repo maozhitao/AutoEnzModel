@@ -1,0 +1,53 @@
+ENTRY       b2453             CDS       T00007
+NAME        eutG
+DEFINITION  (RefSeq) putative alcohol dehydrogenase in ethanolamine utilization
+ORTHOLOGY   K04022  alcohol dehydrogenase
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00010  Glycolysis / Gluconeogenesis
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+            eco01120  Microbial metabolism in diverse environments
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                b2453 (eutG)
+POSITION    complement(2568324..2569511)
+MOTIF       Pfam: Fe-ADH Fe-ADH_2
+DBLINKS     NCBI-GeneID: 946233
+            NCBI-ProteinID: NP_416948
+            Pasteur: eutG
+            RegulonDB: ECK120003857
+            ECOCYC: G7283
+            ASAP: ABE-0008087
+            UniProt: P76553
+AASEQ       395
+            MQNELQTALFQAFDTLNLQRVKTFSVPPVTLCGPGSVSSCGQQAQTRGLKHLFVMADSFL
+            HQAGMTAGLTRSLTVKGIAMTLWPCPVGEPCITDVCAAVAQLRESGCDGVIAFGGGSVLD
+            AAKAVTLLVTNPDSTLAEMSETSVLQPRLPLIAIPTTAGTGSETTNVTVIIDAVSGRKQV
+            LAHASLMPDVAILDAALTEGVPSHVTAMTGIDALTHAIEAYSALNATPFTDSLAIGAIAM
+            IGKSLPKAVGYGHDLAARESMLLASCMAGMAFSSAGLGLCHAMAHQPGAALHIPHGLANA
+            MLLPTVMEFNRMVCRERFSQIGRALRTKKSDDRDAINAVSELIAEVGIGKRLGDVGATSA
+            HYGAWAQAALEDICLRSNPRTASLEQIVGLYAAAQ
+NTSEQ       1188
+            atgcaaaatgaattgcagaccgcgctctttcaggcgttcgataccctgaatctgcaacgg
+            gtaaaaacatttagcgttccaccggtgacgctttgcggtccgggctcggtgagcagttgc
+            ggacagcaagcgcaaacgcgtgggctgaaacatctgttcgtgatggcagacagctttttg
+            catcaggcagggatgaccgccgggctgacgcgtagcctgaccgttaaaggtatcgccatg
+            acgctctggccatgtccggtgggcgaaccgtgcattaccgacgtgtgtgcagccgtggcg
+            cagttgcgtgagtcaggctgtgatggggtgatcgcgtttggcggcggctcggtgctggat
+            gcggcgaaagccgtgacgttgctggtgacgaacccggatagcacgctggcagagatgtca
+            gaaaccagcgttctgcaaccgcgcttgccgctgattgccattccaactaccgccggaacc
+            ggctctgaaaccaccaatgtaacggtgattatcgacgcggtgagcgggcgcaagcaggtg
+            ttagcccatgcctcgctgatgccggatgtggcgatcctcgacgccgcattgaccgaaggt
+            gtgccgtcgcatgtcacggcgatgaccggcattgatgcgttaacccatgccattgaagca
+            tacagcgccctgaacgctacaccgtttaccgacagtctggcgattggtgccattgcgatg
+            attggcaaatcgctgccgaaagcggtgggctacggtcacgaccttgccgcgcgcgagagc
+            atgttgctggcttcatgtatggcgggaatggcgttttccagtgcgggtcttgggttgtgc
+            cacgcgatggcgcatcagccgggcgcggcgctgcatattccgcacggtctcgcgaacgcc
+            atgttgctgccaacggtgatggaatttaaccggatggtttgtcgtgaacgctttagtcag
+            attggtcgggcactgcgaactaaaaaatccgacgatcgtgacgctattaacgcggtaagt
+            gagctgattgcggaagttgggattggtaaacgactgggcgatgttggtgcgacatctgcg
+            cattacggcgcatgggcgcaggccgcgctggaagatatttgtctgcgcagtaacccgcgt
+            accgccagcctggagcagattgtcggcctgtacgcagcggcgcaataa
+///

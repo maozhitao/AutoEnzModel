@@ -1,0 +1,40 @@
+ENTRY       b0982             CDS       T00007
+NAME        etp
+DEFINITION  (RefSeq) phosphotyrosine-protein phosphatase
+ORTHOLOGY   K01104  protein-tyrosine phosphatase [EC:3.1.3.48]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0982 (etp)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.3  Phosphoric-monoester hydrolases
+                3.1.3.48  protein-tyrosine-phosphatase
+                 b0982 (etp)
+POSITION    complement(1044230..1044676)
+MOTIF       Pfam: LMWPc Ssu72
+DBLINKS     NCBI-GeneID: 945236
+            NCBI-ProteinID: NP_415502
+            Pasteur: yccY
+            RegulonDB: ECK120003103
+            ECOCYC: G6503
+            ASAP: ABE-0003312
+            UniProt: P0ACZ2
+AASEQ       148
+            MAQLKFNSILVVCTGNICRSPIGERLLRKRLPGVKVKSAGVHGLVKHPADATAADVAANH
+            GVSLEGHAGRKLTAEMARNYDLILAMESEHIAQVTAIAPEVRGKTMLFGQWLEQKEIPDP
+            YRKSQDAFEHVYGMLERASQEWAKRLSR
+NTSEQ       447
+            atggcccaactaaaatttaactcaatcctggtggtttgtaccggcaacatttgccgttcg
+            cccattggcgagcgcttgctgcgtaaacgtctgccgggcgtaaaagtcaaatcggcaggt
+            gttcatggtctggtaaaacaccctgcagatgcgacagcggcagatgttgccgctaatcat
+            ggcgtatctcttgaaggacatgccggacgtaagctcactgctgagatggcacgaaattac
+            gatctgattctggcaatggagtcggaacatattgctcaggttaccgcaattgctcccgag
+            gtccgcgggaagacaatgctgtttgggcaatggctggaacagaaagagatcccggatccc
+            tatcgtaaaagtcaggacgcatttgaacatgtctacggtatgttggagcgcgccagtcag
+            gaatgggcgaagcgcctcagccggtaa
+///

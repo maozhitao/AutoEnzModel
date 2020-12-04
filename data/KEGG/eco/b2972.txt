@@ -1,0 +1,73 @@
+ENTRY       b2972             CDS       T00007
+NAME        pppA
+DEFINITION  (RefSeq) prepilin peptidase
+ORTHOLOGY   K02654  leader peptidase (prepilin peptidase) / N-methyltransferase [EC:3.4.23.43 2.1.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b2972 (pppA)
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b2972 (pppA)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b2972 (pppA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.-  
+                 b2972 (pppA)
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.23  Aspartic endopeptidases
+                3.4.23.43  prepilin peptidase
+                 b2972 (pppA)
+            Peptidases and inhibitors [BR:eco01002]
+             Aspartic peptidases
+              Family A24: type IV prepilin peptidase family
+               b2972 (pppA)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              General secretion pathway protein
+               b2972 (pppA)
+              Pilin secretion/fimbrial assembly protein
+               b2972 (pppA)
+              Type IVa pilus homolog protein
+               b2972 (pppA)
+            Bacterial motility proteins [BR:eco02035]
+             Pilus system
+              Pilus assembly proteins
+               b2972 (pppA)
+POSITION    complement(3113543..3114352)
+MOTIF       Pfam: DiS_P_DiS Peptidase_A24 DUF2039 Ogr_Delta
+DBLINKS     NCBI-GeneID: 947467
+            NCBI-ProteinID: NP_417446
+            Pasteur: pppA
+            RegulonDB: ECK120004100
+            ECOCYC: G7539
+            ASAP: ABE-0009751
+            UniProt: Q46836
+AASEQ       269
+            MLFDVFQQYPTAMPVLATVGGLIIGSFLNVVIWRYPIMLRQQMAEFHGEMSSAQSKISLA
+            LPRSHCPHCQQTIRIRDNIPLFSWLMLKGRCRDCQAKISKRYPLVELLTALAFLLASLVW
+            PESGWGLAVMILSAWLIAASVIDLDHQWLPDVFTQGVLWTGLIAAWAQQSPLTLQDAVTG
+            VLVGFITFYSLRWIAGIVLRKEALGMGDVLLFAALGGWVGALSLPNVALIASCCGLIYAV
+            ITKRGSTTLPFGPCLSLGGIATLYLQALF
+NTSEQ       810
+            atgctttttgatgtttttcagcaataccccacggcgatgcccgtcctggcaaccgtcgga
+            ggattgatcatcggcagttttttgaatgtggtgatttggcgttacccaatcatgctgcgc
+            caacaaatggcggagtttcacggtgaaatgtcgagtgcgcagtcaaaaataagccttgcg
+            ctaccgcgttcgcactgcccacattgtcagcagaccatccggatacgtgacaatattccg
+            ctgttctcctggctgatgctcaaagggcgctgccgcgactgtcaggcgaaaatcagcaag
+            cgttatccgctggtggagttattgacagcacttgcttttttgctggcgagtctggtctgg
+            ccagaaagtggatgggggctggcggtgatgatattatccgcctggctgattgccgcgagt
+            gtcatcgacctcgatcaccaatggctgcccgatgtttttactcagggcgtattgtggaca
+            ggactgattgcggcatgggcgcagcagagtccgctcacgctacaagatgcagtcaccggc
+            gtcctggtgggatttatcactttttactctctgcgttggatagccggaatagttctgcgt
+            aaagaagcattaggcatgggcgatgtattacttttcgccgcgttaggtggctgggtgggg
+            gcattgtcgctgcccaatgttgctttaatcgcctcatgctgcggcctgatatatgccgtt
+            attacaaaaagaggatcaaccacactgccttttggaccgtgtttaagtctgggcggtata
+            gcaacactttatctacaggcattgttttaa
+///

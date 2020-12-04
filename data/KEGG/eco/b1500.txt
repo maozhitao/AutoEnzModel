@@ -1,0 +1,27 @@
+ENTRY       b1500             CDS       T00007
+NAME        safA
+DEFINITION  (RefSeq) two-component system connector SafA
+ORTHOLOGY   K23236  two-component-system connector protein SafA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1500 (safA)
+POSITION    complement(1583762..1583959)
+MOTIF       Pfam: SafA 7tm_2 PsbT SecE DUF3377 Ferlin_C
+DBLINKS     NCBI-GeneID: 946061
+            NCBI-ProteinID: NP_416017
+            RegulonDB: ECK120003379
+            ECOCYC: G6790
+            UniProt: P76136
+AASEQ       65
+            MHATTVKNKITQRDNYKEIMSAIVVVLLLTLTLIAIFSAIDQLSISEMGRIARDLTHFII
+            NSLQG
+NTSEQ       198
+            atgcatgcgaccacagtgaaaaacaaaatcacgcaaagagacaactataaagaaatcatg
+            tctgcaattgtggttgtcttattactgacacttacgttgatagccattttttcggcaatt
+            gatcagctgagtatttcagaaatgggtcgcattgcaagagatcttacacatttcattatc
+            aatagtttgcaaggctga
+///

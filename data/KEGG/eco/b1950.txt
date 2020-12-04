@@ -1,0 +1,57 @@
+ENTRY       b1950             CDS       T00007
+NAME        fliR
+DEFINITION  (RefSeq) flagellar biosynthesis protein FliR
+ORTHOLOGY   K02421  flagellar biosynthetic protein FliR
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1950 (fliR)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b1950 (fliR)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1950 (fliR)
+            Secretion system [BR:eco02044]
+             Type III secretion system
+              Flagellar export apparatus
+               b1950 (fliR)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Type-III secretion
+                b1950 (fliR)
+POSITION    2022893..2023678
+MOTIF       Pfam: Bac_export_1 TMC
+DBLINKS     NCBI-GeneID: 946464
+            NCBI-ProteinID: NP_416460
+            Pasteur: fliR
+            RegulonDB: ECK120001902
+            ECOCYC: EG11977
+            ASAP: ABE-0006479
+            UniProt: P33135
+AASEQ       261
+            MLQVTSEQWLSWLNLYFWPLLRVLALISTAPILSERSVPKRVKLGLAMMITFAIAPSLPA
+            NDVPVFSFFALWLAVQQILIGIALGFTMQFAFAAVRTAGEIIGLQMGLSFATFVDPASHL
+            NMPVLARIMDMLALLLFLTFNGHLWLISLLVDTFHTLPIGGEPLNSNAFLALTKAGSLIF
+            LNGLMLALPLITLLLTLNLALGLLNRMAPQLSIFVIGFPLTLTVGISLMAALMPLIAPFC
+            EHLFSEIFNLLADIISELPLI
+NTSEQ       786
+            atgttgcaggtgacaagcgaacaatggctatcctggttaaacctgtacttctggccgtta
+            ctgcgcgtgctggcgctgatctccaccgcgccgattctgagcgaacgcagcgtaccgaaa
+            cgggtaaaactgggtctggcaatgatgatcacgttcgccattgccccatcattacctgcc
+            aacgatgttcctgttttttcgttctttgctctgtggctggccgtgcagcagatcctgatc
+            ggcattgcgcttggttttaccatgcaatttgcctttgccgctgtgcgaaccgctggcgaa
+            attatcggtctgcaaatggggctgtcatttgcgacgtttgtcgatccggccagccatctt
+            aatatgcccgttttagcgcgtatcatggatatgctggcgttactgctgttcctgacattt
+            aacggtcatttatggttgatttcactgctggtcgatacctttcacaccctgccgattggt
+            ggcgaaccgttgaacagcaatgcgtttctggcactcaccaaagcagggagtttgattttc
+            cttaacgggctgatgctggcgttaccgctcattactctgctgctgacactgaatctggca
+            ttaggtttacttaatcgtatggccccgcaattatccatttttgttattggatttccatta
+            actctgactgtcggcatctctttaatggcggcattaatgccgttaattgcacctttttgc
+            gaacatttattcagtgaaatttttaatttgctggctgatattattagtgaattgccatta
+            atataa
+///

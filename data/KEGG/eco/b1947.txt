@@ -1,0 +1,48 @@
+ENTRY       b1947             CDS       T00007
+NAME        fliO
+DEFINITION  (RefSeq) flagellar biosynthesis protein FliO
+ORTHOLOGY   K02418  flagellar protein FliO/FliZ
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1947 (fliO)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b1947 (fliO)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1947 (fliO)
+            Secretion system [BR:eco02044]
+             Type III secretion system
+              Flagellar export apparatus
+               b1947 (fliO)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Type-III secretion
+                b1947 (fliO)
+POSITION    2021504..2021869
+MOTIF       Pfam: FliO OpcA_G6PD_assem
+DBLINKS     NCBI-GeneID: 946458
+            NCBI-ProteinID: NP_416457
+            Pasteur: fliO
+            RegulonDB: ECK120001202
+            ECOCYC: EG11224
+            ASAP: ABE-0006473
+            UniProt: P22586
+AASEQ       121
+            MNNHATVQSSAPVSAAPLLQVSGALIAIIALILAAAWLVKRLGFAPKRTGVNGLKISASA
+            SLGARERVVVVDVEDARLVLGVTAGQINLLHKLPPSAPTEEIPQTDFQSVMKNLLKRSGR
+            S
+NTSEQ       366
+            atgaataaccacgctactgtgcaatcttccgcgccggtttctgctgcgccactgctgcag
+            gtgagcggcgcactcatcgccattattgccctgatcctcgctgctgcctggctggtaaaa
+            cggttgggatttgcccctaaacgcactggcgttaacggtctgaaaattagcgccagtgct
+            tcactgggcgcgcgtgaaagggttgtggtggtcgatgtggaagatgcacggctggtgctc
+            ggcgttaccgcaggtcaaatcaatctgctgcataaacttcccccttctgcaccaacggaa
+            gagataccgcagaccgattttcagtcggtcatgaaaaatttgcttaagcgtagcgggaga
+            tcctga
+///

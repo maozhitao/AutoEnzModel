@@ -1,0 +1,35 @@
+ENTRY       b0245             CDS       T00007
+NAME        ykfI
+DEFINITION  (RefSeq) CP4-6 prophage; toxin of the YkfI-YafW toxin-antitoxin system
+ORTHOLOGY   K18837  cytoskeleton-binding toxin CbtA and related proteins
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b0245 (ykfI)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type IV TA system
+               YeeV-YeeU
+                b0245 (ykfI)
+POSITION    complement(263328..263669)
+MOTIF       Pfam: CbtA_toxin
+DBLINKS     NCBI-GeneID: 946726
+            NCBI-ProteinID: NP_414779
+            Pasteur: ykfI
+            RegulonDB: ECK120002740
+            ECOCYC: G6120
+            ASAP: ABE-0000836
+            UniProt: P77692
+AASEQ       113
+            MKTLPAITQRAVKPCLSPVAVWQMLLTRLLEQHYGLTINDTPFCNEAVIKEHIDAGITLA
+            DAVNFLVEKYELVRIDRKGFSWQEQSPYLRAADILRARQATGLLRQSRNNVVR
+NTSEQ       342
+            atgaaaactttacctgcaataactcagcgggcggtgaagccctgcctgtcacccgtggct
+            gtctggcaaatgttactgacacgtctgctggaacagcactatggtctgacaataaacgac
+            acgccattctgcaatgaggctgtgattaaggaacacatcgatgccggtatcaccctagcc
+            gatgccgtgaattttctggtagaaaaatacgagctggttcgtatcgacaggaagggattt
+            agctggcaggaacaatctccttatctccgggctgcagacattctgcgagcgcggcaggca
+            actggcttgttgcggcaaagccgtaacaacgtagtacgatga
+///

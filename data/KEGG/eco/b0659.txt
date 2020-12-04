@@ -1,0 +1,38 @@
+ENTRY       b0659             CDS       T00007
+NAME        ybeY
+DEFINITION  (RefSeq) endoribonuclease YbeY
+ORTHOLOGY   K07042  probable rRNA maturation factor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b0659 (ybeY)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              Other maturation factors
+               b0659 (ybeY)
+POSITION    complement(691874..692341)
+MOTIF       Pfam: UPF0054 DDE_1
+DBLINKS     NCBI-GeneID: 946430
+            NCBI-ProteinID: NP_415192
+            Pasteur: ybeY
+            RegulonDB: ECK120002969
+            ECOCYC: G6362
+            ASAP: ABE-0002255
+            UniProt: P0A898
+STRUCTURE   PDB: 1XM5
+AASEQ       155
+            MSQVILDLQLACEDNSGLPEESQFQTWLNAVIPQFQEESEVTIRVVDTAESHSLNLTYRG
+            KDKPTNVLSFPFEVPPGMEMSLLGDLVICRQVVEKEAQEQGKPLEAHWAHMVVHGSLHLL
+            GYDHIEDDEAEEMEALETEIMLALGYEDPYIAEKE
+NTSEQ       468
+            atgagtcaggtgatcctcgatttacaactggcatgtgaagataattccgggttaccggaa
+            gagagccagtttcagacatggctgaatgcggtgatcccgcagtttcaggaagaatcggaa
+            gtgacgattcgcgtggtcgataccgccgaaagccacagtctgaatctgacctatcgcggt
+            aaggataagccgaccaacgtgctctccttcccgtttgaagtgccgcctggcatggaaatg
+            tcgctactgggcgatctggttatctgccgtcaggtggttgagaaggaagctcaggagcaa
+            ggcaaaccactggaggcgcactgggcgcatatggtggtgcacggcagtctgcatttgtta
+            ggttacgatcacatcgaagatgacgaagcagaagaaatggaagccctcgaaacagagatt
+            atgcttgctctgggctatgaggatccgtacattgccgagaaagaataa
+///

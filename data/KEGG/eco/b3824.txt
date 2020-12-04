@@ -1,0 +1,40 @@
+ENTRY       b3824             CDS       T00007
+NAME        rhtB
+DEFINITION  (RefSeq) L-homoserine/L-homoserine lactone/L-threonine exporter
+ORTHOLOGY   K05834  homoserine/homoserine lactone efflux protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3824 (rhtB)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b3824 (rhtB)
+POSITION    complement(4008439..4009059)
+MOTIF       Pfam: LysE PTP_tm
+DBLINKS     NCBI-GeneID: 948316
+            NCBI-ProteinID: YP_026265
+            RegulonDB: ECK120001431
+            ECOCYC: EG11469
+            ASAP: ABE-0012490
+            UniProt: P0AG34
+AASEQ       206
+            MTLEWWFAYLLTSIILSLSPGSGAINTMTTSLNHGYRGAVASIAGLQTGLAIHIVLVGVG
+            LGTLFSRSVIAFEVLKWAGAAYLIWLGIQQWRAAGAIDLKSLASTQSRRHLFQRAVFVNL
+            TNPKSIVFLAALFPQFIMPQQPQLMQYIVLGVTTIVVDIIVMIGYATLAQRIALWIKGPK
+            QMKALNKIFGSLFMLVGALLASARHA
+NTSEQ       621
+            atgaccttagaatggtggtttgcctacctgctgacatcgatcattttaagcctgtcgcca
+            ggctctggtgcaatcaacactatgaccacctcgctcaaccacggttatcgcggcgcggtg
+            gcgtctattgctgggcttcagaccggactggcgattcatattgtgctggttggcgtgggg
+            ttggggacgctattttcccgctcagtgattgcgtttgaagtgttgaagtgggcaggcgcg
+            gcttacttgatttggctgggaatccagcagtggcgcgccgctggtgcaattgaccttaaa
+            tcgctggcctctactcaatcgcgtcgacatttgttccagcgcgcagtttttgtgaatctc
+            accaatcccaaaagtattgtgtttctggcggcgctatttccgcaattcatcatgccgcaa
+            cagccgcaactgatgcagtatatcgtgctcggcgtcaccactattgtggtcgatattatt
+            gtgatgatcggttacgccacccttgctcaacggattgctctatggattaaaggaccaaag
+            cagatgaaggcgctgaataagattttcggctcgttgtttatgctggtgggagcgctgtta
+            gcatcggcgaggcatgcgtga
+///

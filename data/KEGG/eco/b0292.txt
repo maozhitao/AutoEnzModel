@@ -1,0 +1,42 @@
+ENTRY       b0292             CDS       T00007
+NAME        ecpB
+DEFINITION  (RefSeq) putative fimbrial chaperone EcpB
+ORTHOLOGY   K21965  Mat/Ecp fimbriae periplasmic chaperone
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b0292 (ecpB)
+            Secretion system [BR:eco02044]
+             Chaperone-usher system
+              Mat/Ecp fimbriae assembly protein
+               b0292 (ecpB)
+POSITION    complement(309358..310026)
+MOTIF       Pfam: EcpB_C PapD_N
+DBLINKS     NCBI-GeneID: 948806
+            NCBI-ProteinID: NP_414826
+            Pasteur: yagY
+            RegulonDB: ECK120002783
+            ASAP: ABE-0001007
+            UniProt: P77188
+STRUCTURE   PDB: 5DFK
+AASEQ       222
+            MKKHLLPLALLFSGISPAQALDVGDISSFMNSDSSTLSKTIKNSTDSGRLINIRLERLSS
+            PLDDGQVISMDKPDELLLTPASLLLPAQASEVIRFFYKGPADEKERYYRIVWFDQALSDA
+            QRDNANRSAVATASARIGTILVVAPRQANYHFQYANGSLTNTGNATLRILAYGPCLKAAN
+            GKECKENYYLMPGKSRRFTRVDTADNKGRVALWQGDKFIPVK
+NTSEQ       669
+            atgaaaaagcaccttctgcctctcgctctgctgttttccggaatatctccggcccaggcg
+            ctggatgtcggcgatatatcatcgtttatgaacagtgacagcagcacgctgagcaaaacg
+            atcaaaaacagtaccgacagtggtcgccttatcaatatccgtctcgaacggctctcttca
+            ccgcttgacgacgggcaggttatctcaatggacaagccggatgagttgctactcactccc
+            gccagcttgctgctacccgcccaagccagcgaagtgatccgcttcttctataagggaccc
+            gcagatgaaaaagagcgctactaccgcattgtctggtttgatcaggccctcagtgatgcg
+            cagcgcgataatgccaaccgcagcgctgtggccactgcttccgcccgcatcggcaccatt
+            ctggtcgtcgcccctcgtcaggcgaactaccactttcagtacgccaacggctccctgaca
+            aatacaggaaatgcgacgctgcggatcctcgcctacggaccttgcctgaaagccgccaac
+            ggtaaggagtgtaaagagaattactacctgatgccgggcaagtcgcgtcgttttacccgc
+            gtggacactgcggataacaaaggacgggttgcactttggcagggtgataagttcattccc
+            gtgaaatag
+///

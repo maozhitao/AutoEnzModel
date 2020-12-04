@@ -1,0 +1,46 @@
+ENTRY       b1218             CDS       T00007
+NAME        chaC
+DEFINITION  (RefSeq) glutathione-specific gamma-glutamylcyclotransferase
+ORTHOLOGY   K07232  glutathione-specific gamma-glutamylcyclotransferase [EC:4.3.2.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00480  Glutathione metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09106 Metabolism of other amino acids
+               00480 Glutathione metabolism
+                b1218 (chaC)
+            Enzymes [BR:eco01000]
+             4. Lyases
+              4.3  Carbon-nitrogen lyases
+               4.3.2  Amidine-lyases
+                4.3.2.7  glutathione-specific gamma-glutamylcyclotransferase
+                 b1218 (chaC)
+POSITION    1272507..1273202
+MOTIF       Pfam: ChaC GGACT
+DBLINKS     NCBI-GeneID: 945793
+            NCBI-ProteinID: NP_415736
+            Pasteur: chaC
+            RegulonDB: ECK120002265
+            ECOCYC: EG12403
+            ASAP: ABE-0004089
+            UniProt: P39163
+AASEQ       231
+            MITRDFLMNADCKTAFGAIEESLLWSAEQRAASLAATLACRPDEGPVWIFGYGSLMWNPA
+            LEFTESCTGTLVGWHRAFCLRLTAGRGTAHQPGRMLALKEGGRTTGVAYRLPEETLEQEL
+            TLLWKREMITGCYLPTWCQLDLDDGRTVNAIVFIMDPRHPEYESDTRAQVIAPLIAAASG
+            PLGTNAQYLFSLEQELIKLGMQDDGLNDLLVSVKKLLAENFPDGVLRPGFA
+NTSEQ       696
+            gtgataacgcgtgatttcttgatgaatgccgattgtaaaacggcatttggtgccattgaa
+            gaatcactcttatggtcagcagaacaacgggcggcttcgctggcggcgacgctggcttgt
+            cgacctgatgagggaccggtgtggatcttcggctatggatcgttgatgtggaatccggca
+            ctggagtttaccgaatcgtgcaccggtacactggttggatggcatcgcgcattttgcctg
+            cgcctgaccgccgggcgcgggactgcgcaccagccgggacggatgcttgcactgaaagag
+            ggcggacgcaccacaggcgtcgcctatcgactgccagaagagacgctggagcaggaacta
+            accctgttgtggaagcgagagatgattaccggctgttatctgccaacctggtgtcagctt
+            gatcttgatgatggacgcacagtaaacgccattgtgtttattatggacccgcgacatcca
+            gaatatgaatctgatactcgcgctcaggtcatcgcgccgttgattgcggcggcgagcggt
+            ccgctgggaaccaacgcacaatacctgttttcactggaacaggagcttatcaaactggga
+            atgcaggacgatgggctgaatgatttgctggtatcggtaaaaaaactgctggcggagaat
+            tttccggatggtgtgttacgtccgggattcgcctga
+///

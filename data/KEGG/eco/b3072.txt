@@ -1,0 +1,72 @@
+ENTRY       b3072             CDS       T00007
+NAME        aer
+DEFINITION  (RefSeq) aerotaxis sensor receptor, flavoprotein
+ORTHOLOGY   K03776  aerotaxis receptor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02030  Bacterial chemotaxis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b3072 (aer)
+             09140 Cellular Processes
+              09142 Cell motility
+               02030 Bacterial chemotaxis
+                b3072 (aer)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b3072 (aer)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Chemotaxis proteins
+               MCPs
+                b3072 (aer)
+POSITION    complement(3217556..3219076)
+MOTIF       Pfam: MCPsignal PAS_3 PAS_9 PAS HAMP PAS_4 Mur_ligase_C TMP_2 Goodbye PAS_8 DUF948 DUF4131 UbiA Acyl-CoA_dh_C
+DBLINKS     NCBI-GeneID: 945301
+            NCBI-ProteinID: NP_417543
+            Pasteur: aer
+            RegulonDB: ECK120004149
+            ECOCYC: G7595
+            ASAP: ABE-0010087
+            UniProt: P50466
+AASEQ       506
+            MSSHPYVTQQNTPLADDTTLMSTTDLQSYITHANDTFVQVSGYTLQELQGQPHNMVRHPD
+            MPKAAFADMWFTLKKGEPWSGIVKNRRKNGDHYWVRANAVPMVREGKISGYMSIRTRATD
+            EEIAAVEPLYKALNAGRTSKRIHKGLVVRKGWLGKLPSLPLRWRARGVMTLMFILLAAML
+            WFVAAPVVTYILCALVVLLASACFEWQIVRPIENVAHQALKVATGERNSVEHLNRSDELG
+            LTLRAVGQLGLMCRWLINDVSSQVSSVRNGSETLAKGTDELNEHTQQTVDNVQQTVATMN
+            QMAASVKQNSATASAADKLSITASNAAVQGGEAMTTVIKTMDDIADSTQRIGTITSLIND
+            IAFQTNILALNAAVEAARAGEQGKGFAVVAGEVRHLASRSANAANDIRKLIDASADKVQS
+            GSQQVHAAGRTMEDIVAQVKNVTQLIAQISHSTLEQADGLSSLTRAVDELNLITQKNAEL
+            VEESAQVSAMVKHRASRLEDAVTVLH
+NTSEQ       1521
+            atgtcttctcatccgtatgtcacccagcaaaataccccgctggcggacgataccactctg
+            atgtccactaccgatctgcaaagctatatcactcatgctaatgacacttttgtgcaggtg
+            agcggctataccttgcaagagttacaagggcagccgcacaacatggtgcgtcacccggat
+            atgccaaaagcggcgtttgcggatatgtggttcaccctgaaaaaaggggagccctggagc
+            ggcatcgtgaaaaatcgccgcaaaaatggtgaccattattgggtgcgggccaatgcggta
+            ccgatggtgcgcgagggaaaaatcagtggctatatgtcgattcgtacccgggcgacggat
+            gaagagatcgcggcggtggagccgctgtacaaagcgttgaacgccggacgtaccagtaag
+            cgtattcataaaggcctggtggtgcgtaaaggctggctgggtaaactgccttcattaccg
+            cttcgctggcgggcgcgtggagtgatgaccctgatgtttatcttgctggcggccatgctt
+            tggtttgttgctgccccggtggtgacgtatatcctctgtgcgttagtggtattgttggca
+            agcgcctgttttgaatggcagattgtgcgcccgatagaaaatgttgcccatcaggcactg
+            aaggtggcgaccggagaacgtaatagtgttgagcatctgaatcgcagcgatgagctgggg
+            ctgacattacgtgcggtagggcaacttggcctgatgtgccgttggctaattaacgatgtc
+            tcaagccaggtgtccagtgtcagaaatggcagtgagacgctggcgaaaggcaccgatgaa
+            ctgaacgaacatacccagcagacagttgataacgttcagcaaacggtggcgaccatgaac
+            caaatggcggcgtcggtgaaacagaactctgccacggcgtcggctgccgataaactgtca
+            atcactgccagtaatgcggcagtgcagggtggggaggcgatgaccacggtgatcaagaca
+            atggacgatatcgccgacagtacccagcgcattggcaccattacttcgctgattaacgat
+            attgcgtttcagaccaatattctggccctgaatgcggcggtggaagcggcgcgtgccggc
+            gaacagggcaaaggttttgcagtggtggcaggggaagtgcgtcatttagccagccgcagc
+            gctaatgctgccaacgatattcgcaagctgattgatgccagtgctgataaggtgcaatcc
+            ggttcgcagcaggtacacgccgccggacggacgatggaagatattgtggcacaggtgaaa
+            aacgtcacccagttgatcgcccagattagccattcaacgctggaacaggccgatgggctt
+            tccagcctgacccgtgcagtggatgagcttaacctgatcacccagaaaaatgccgagctg
+            gtggaagagagtgcgcaggtgtcggcgatggtgaaacaccgcgccagccgactggaagac
+            gcggtgacggtactgcattaa
+///

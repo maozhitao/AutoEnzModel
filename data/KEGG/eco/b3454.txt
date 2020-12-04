@@ -1,0 +1,53 @@
+ENTRY       b3454             CDS       T00007
+NAME        livF
+DEFINITION  (RefSeq) branched chain amino acid/phenylalanine ABC transporter ATP binding subunit LivF
+ORTHOLOGY   K01996  branched-chain amino acid transport system ATP-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+            eco02024  Quorum sensing
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b3454 (livF)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b3454 (livF)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3454 (livF)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Phosphate and amino acid transporters
+               Branched-chain amino acid transporter
+                b3454 (livF)
+POSITION    complement(3592724..3593437)
+MOTIF       Pfam: ABC_tran AAA_21 AAA_29 RsgA_GTPase AAA_16 AAA_23 AAA_15 MMR_HSR1 BCA_ABC_TP_C AAA_25 Septin AAA_33 AAA_14 TsaE cobW AAA_13 NACHT AAA_30 AAA_28
+DBLINKS     NCBI-GeneID: 947961
+            NCBI-ProteinID: NP_417911
+            Pasteur: livF
+            RegulonDB: ECK120000529
+            ECOCYC: EG10536
+            ASAP: ABE-0011282
+            UniProt: P22731
+AASEQ       237
+            MEKVMLSFDKVSAHYGKIQALHEVSLHINQGEIVTLIGANGAGKTTLLGTLCGDPRATSG
+            RIVFDDKDITDWQTAKIMREAVAIVPEGRRVFSRMTVEENLAMGGFFAERDQFQERIKWV
+            YELFPRLHERRIQRAGTMSGGEQQMLAIGRALMSNPRLLLLDEPSLGLAPIIIQQIFDTI
+            EQLREQGMTIFLVEQNANQALKLADRGYVLENGHVVLSDTGDALLANEAVRSAYLGG
+NTSEQ       714
+            atggaaaaagtcatgttgtcctttgacaaagtcagcgcccactacggcaaaatccaggcg
+            ctgcatgaggtgagcctgcatatcaatcagggcgagattgtcacgctgattggcgcgaac
+            ggggcggggaaaaccaccttgctcggcacgttatgcggcgatccgcgtgccaccagcggg
+            cgaattgtgtttgatgataaagacattaccgactggcagacagcgaaaatcatgcgcgaa
+            gcggtggcgattgtcccggaagggcgtcgcgtcttctcgcggatgacggtggaagagaac
+            ctggcgatgggcggtttttttgctgaacgcgaccagttccaggagcgcataaagtgggtg
+            tatgagctgtttccacgtctgcatgagcgccgtattcagcgggcgggcaccatgtccggc
+            ggtgaacagcagatgctggcgattggtcgtgcgctgatgagcaacccgcgtttgctactg
+            cttgatgagccatcgctcggtcttgcgccgattatcatccagcaaattttcgacaccatc
+            gagcagctgcgcgagcaggggatgactatctttctcgtcgagcagaacgccaaccaggcg
+            ctaaagctggcggatcgcggctacgtgctggaaaacggccatgtagtgctttccgatact
+            ggtgatgcgctgctggcgaatgaagcggtgagaagtgcgtatttaggcgggtaa
+///

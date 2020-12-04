@@ -1,0 +1,52 @@
+ENTRY       b1159             CDS       T00007
+NAME        mcrA
+DEFINITION  (RefSeq) e14 prophage; 5-methylcytosine-specific restriction enzyme McrA
+ORTHOLOGY   K07451  5-methylcytosine-specific restriction enzyme A [EC:3.1.21.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b1159 (mcrA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.21  Endodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.21.-  
+                 b1159 (mcrA)
+            Prokaryotic defense system [BR:eco02048]
+             Restriction and modification system (R-M system)
+              Type IV R-M system
+               b1159 (mcrA)
+POSITION    1210346..1211179
+MOTIF       Pfam: HNH HNH_5 HNH_2
+DBLINKS     NCBI-GeneID: 945727
+            NCBI-ProteinID: NP_415677
+            Pasteur: mcrA
+            RegulonDB: ECK120000566
+            ECOCYC: EG10573
+            ASAP: ABE-0003891
+            UniProt: P24200
+STRUCTURE   PDB: 6T21 6T22 6R64 6GHC
+AASEQ       277
+            MHVFDNNGIELKAECSIGEEDGVYGLILESWGPGDRNKDYNIALDYIIERLVDSGVSQVV
+            VYLASSSVRKHMHSLDERKIHPGEYFTLIGNSPRDIRLKMCGYQAYFSRTGRKEIPSGNR
+            TKRILINVPGIYSDSFWASIIRGELSELSQPTDDESLLNMRVSKLIKKTLSQPEGSRKPV
+            EVERLQKVYVRDPMVKAWILQQSKGICENCGKNAPFYLNDGNPYLEVHHVIPLSSGGADT
+            TDNCVALCPNCHRELHYSKNAKELIEMLYVNINRLQK
+NTSEQ       834
+            atgcatgtttttgataataatggaattgaactgaaagctgagtgttcgataggtgaagag
+            gatggtgtttatggtctaatccttgagtcgtgggggccgggtgacagaaacaaagattac
+            aatatcgctcttgattatatcattgaacggttggttgattctggtgtatcccaagtcgta
+            gtatatctggcgtcatcatcagtcagaaaacatatgcattctttggatgaaagaaaaatc
+            catcctggtgaatattttactttgattggtaatagcccccgcgatatacgcttgaagatg
+            tgtggttatcaggcttattttagtcgtacggggagaaaggaaattccttccggcaataga
+            acgaaacgaatattgataaatgttccaggtatttatagtgacagtttttgggcgtctata
+            atacgtggagaactatcagagctttcacagcctacagatgatgaatcgcttctgaatatg
+            agggttagtaaattaattaagaaaacgttgagtcaacccgagggctccaggaaaccagtt
+            gaggtagaaagactacaaaaagtttatgtccgagacccgatggtaaaagcttggatttta
+            cagcaaagtaaaggtatatgtgaaaactgtggtaaaaatgctccgttttatttaaatgat
+            ggaaacccatatttggaagtacatcatgtaattcccctgtcttcaggtggtgctgataca
+            acagataactgtgttgccctttgtccgaattgccatagagaattgcactatagtaaaaat
+            gcaaaagaactaatcgagatgctttacgttaatataaaccgattacagaaataa
+///

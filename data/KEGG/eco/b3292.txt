@@ -1,0 +1,39 @@
+ENTRY       b3292             CDS       T00007
+NAME        zntR
+DEFINITION  (RefSeq) DNA-binding transcriptional activator ZntR
+ORTHOLOGY   K13638  MerR family transcriptional regulator, Zn(II)-responsive regulator of zntA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b3292 (zntR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               MerR family
+                b3292 (zntR)
+POSITION    complement(3438705..3439130)
+MOTIF       Pfam: MerR_1 MerR-DNA-bind MerR
+DBLINKS     NCBI-GeneID: 947786
+            NCBI-ProteinID: NP_417751
+            Pasteur: yhdM
+            RegulonDB: ECK120001894
+            ECOCYC: EG11969
+            ASAP: ABE-0010793
+            UniProt: P0ACS5
+STRUCTURE   PDB: 1Q08 1Q0A 1Q09
+AASEQ       141
+            MYRIGELAKMAEVTPDTIRYYEKQQMMEHEVRTEGGFRLYTESDLQRLKFIRHARQLGFS
+            LESIRELLSIRIDPEHHTCQESKGIVQERLQEVEARIAELQSMQRSLQRLNDACCGTAHS
+            SVYCSILEALEQGASGVKSGC
+NTSEQ       426
+            atgtatcgcattggtgagctggcaaaaatggcggaagtaacacccgacacgattcgttat
+            tacgaaaaacagcagatgatggagcatgaagtgcgtactgaaggtgggtttcgcctatat
+            accgaaagcgatctccagcgattgaaatttatccgccatgccagacaactaggtttcagt
+            ctggagtcgatccgcgagttgctgtcgatccgcatcgatcctgaacaccatacctgtcag
+            gagtcaaaaggcattgtgcaggaaagattgcaggaagtcgaagcacggatagccgagttg
+            cagagtatgcagcgttccttgcaacgccttaacgatgcctgttgtgggactgctcatagc
+            agtgtttattgttcgattcttgaagctcttgaacaaggggcgagtggcgttaagagtggt
+            tgttga
+///

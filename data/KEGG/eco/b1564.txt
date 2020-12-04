@@ -1,0 +1,42 @@
+ENTRY       b1564             CDS       T00007
+NAME        relB
+DEFINITION  (RefSeq) Qin prophage; antitoxin/DNA-binding transcriptional repressor RelB
+ORTHOLOGY   K18918  RHH-type transcriptional regulator, rel operon repressor / antitoxin RelB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1564 (relB)
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b1564 (relB)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Ribbon-helix-helix
+               Other families
+                b1564 (relB)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               RelE/StbE-RelB/StbD
+                b1564 (relB)
+POSITION    complement(1645633..1645872)
+MOTIF       Pfam: RelB
+DBLINKS     NCBI-GeneID: 948308
+            NCBI-ProteinID: NP_416082
+            Pasteur: relB
+            RegulonDB: ECK120000827
+            ECOCYC: EG10836
+            ASAP: ABE-0005224
+            UniProt: P0C079
+STRUCTURE   PDB: 4FXE 2KC8 2K29
+AASEQ       79
+            MGSINLRIDDELKARSYAALEKMGVTPSEALRLMLEYIADNERLPFKQTLLSDEDAELVE
+            IVKERLRNPKPVRVTLDEL
+NTSEQ       240
+            atgggtagcattaacctgcgtattgacgatgaacttaaagcgcgttcttacgccgcgctt
+            gaaaaaatgggtgtaactccttctgaagcgcttcgtctcatgctcgagtatatcgctgac
+            aatgaacgcttgccgttcaaacagacactcctgagtgatgaagatgctgaacttgtggag
+            atagtgaaagaacggcttcgtaatcctaagccagtacgtgtgacgctggatgaactctga
+///

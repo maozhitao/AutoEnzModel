@@ -1,0 +1,47 @@
+ENTRY       b1593             CDS       T00007
+NAME        ynfK
+DEFINITION  (RefSeq) putative dethiobiotin synthetase
+ORTHOLOGY   K01935  dethiobiotin synthetase [EC:6.3.3.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00780  Biotin metabolism
+            eco01100  Metabolic pathways
+MODULE      eco_M00123  Biotin biosynthesis, pimeloyl-ACP/CoA => biotin
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00780 Biotin metabolism
+                b1593 (ynfK)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.3  Cyclo-ligases
+                6.3.3.3  dethiobiotin synthase
+                 b1593 (ynfK)
+POSITION    complement(1666524..1667219)
+MOTIF       Pfam: AAA_26 CbiA DUF1611
+DBLINKS     NCBI-GeneID: 944927
+            NCBI-ProteinID: NP_416110
+            Pasteur: ynfK
+            RegulonDB: ECK120003440
+            ECOCYC: G6851
+            ASAP: ABE-0005319
+            UniProt: P0A6E9
+AASEQ       231
+            MLKRFFITGTDTSVGKTVVSRALLQALASQGKTVAGYKPVAKGSKETPEGLRNKDALVLQ
+            SVSTIELPYEAVNPIALSEEESSVAHSCPINYTLISNGLANLTEKVDHVVVEGTGGWRSL
+            MNDLRPLSEWVVQEQLPVLMVVGIQEGCINHALLTAQAIANDGLPLIGWVANRINPGLAH
+            YAEIIDVLGKKLPAPLIGELPYLPRAEQRELGQYIRLAMLRSVLAVDRVTV
+NTSEQ       696
+            atgctgaagcgtttctttattaccggtacagacacttctgtagggaaaacggtggtttcc
+            cgcgcattgctacaagcgttagcctcccagggaaaaacggttgcgggatataaacccgta
+            gcgaaggggagcaaagagacacccgaagggctgcgtaataaagatgccctggtgttgcag
+            agtgtttcaaccatcgaactgccttatgaagcagttaatcctatcgcgttaagcgaagaa
+            gaaagtagcgtggcgcacagttgcccaatcaattacaccctcatttcaaacggcctggca
+            aacctgaccgaaaaagtcgatcatgtcgtggtagaagggactggcggctggcgcagtctg
+            atgaatgatttgcgtccactctctgaatgggtagtgcaggaacaactgccggtgttgatg
+            gttgtcggtattcaggaaggttgcattaaccatgcactgctaacagctcaggcgatcgcc
+            aacgacgggctgccgctcattggctgggtggctaaccgaatcaacccaggactggcgcat
+            tatgcggaaatcattgatgtgctgggtaaaaaacttccggcaccgctcattggtgaactg
+            ccttatctgccgcgcgccgaacagcgtgaactggggcaatacatccgcttagctatgctg
+            cgcagtgtgctggcggtagatagagtcacggtgtaa
+///

@@ -1,0 +1,62 @@
+ENTRY       b2062             CDS       T00007
+NAME        wza
+DEFINITION  (RefSeq) outer membrane polysaccharide export protein Wza
+ORTHOLOGY   K01991  polysaccharide biosynthesis/export protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b2062 (wza)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b2062 (wza)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2062 (wza)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b2062 (wza)
+POSITION    complement(2136104..2137243)
+MOTIF       Pfam: Poly_export Wza_C SLBB
+DBLINKS     NCBI-GeneID: 946558
+            NCBI-ProteinID: NP_416566
+            Pasteur: wza
+            RegulonDB: ECK120003693
+            ECOCYC: G7107
+            ASAP: ABE-0006825
+            UniProt: P0A930
+AASEQ       379
+            MMKSKMKLMPLLVSVTLISGCTVLPGSNMSTMGKDVIKQQDADFDLDKMVNVYPLTPRLI
+            DQLRPRPNVARPNMTLESEIANYQYRVGPGDVLNVTVWDHPELTTPAGQYRSSSDTGNWV
+            QPDGTMFYPYIGKVHVVGKTLAEIRSDITGRLATYIADPQVDVNIAAFRSQKAYISGQVN
+            KSGQQAITNVPLTILDAINAAGGLTDTADWRNVVLTHNGREERISLQALMQNGDLNQNRL
+            LYPGDILYVPRNDDLKVFVMGEVKKQSTLKMDFSGMTLTEALGNAEGIDMTTSNASGIFV
+            IRPLKGEGGRNGKIANIYQLDMSDATSLVMATEFRLQPYDVVYVTTAPVSRWNRLINQLL
+            PTISGVRYMTDTASDIHNW
+NTSEQ       1140
+            atgatgaaatccaaaatgaaattgatgccattattggtgtcagtaaccttgataagcggt
+            tgcacagtacttccgggcagcaatatgtcgacgatgggcaaagacgtcatcaaacagcag
+            gacgctgatttcgatctcgacaaaatggtgaatgtttatccgctgaccccgcgcctgatt
+            gaccaattacgcccacgcccgaatgtagcgcgccccaatatgacgctggaaagtgagatc
+            gcgaattaccagtatcgcgtcgggccgggggacgttcttaatgtcaccgtctgggatcac
+            ccggaactcaccacgccagccggtcagtaccgcagctccagcgacaccggcaactgggta
+            cagcctgacggcactatgttttacccgtatatcggcaaggtccacgtagtcgggaaaacg
+            ctcgctgaaatccgcagtgatattaccgggcgcttagcgacgtacatcgctgacccgcag
+            gtggacgttaatatcgccgccttccgctcacaaaaggcctatatctccggtcaggtgaat
+            aaatccggtcaacaggcgatcaccaacgtgccactgactattctcgacgccatcaacgcc
+            gcaggtggcctgaccgacaccgctgactggcgcaacgtggtgctaacacacaatggtcgt
+            gaagagcgcatttctttgcaggcgctgatgcaaaacggcgacctcaaccagaatcgcctg
+            ctttaccccggcgatattctctacgtgccacgtaatgatgatctgaaagtatttgtgatg
+            ggtgaagtgaagaaacagagcaccctgaaaatggactttagcggcatgaccctgactgaa
+            gccctgggcaatgctgaaggcatcgacatgaccacctccaacgccagcggcatctttgtc
+            attcgtccgctgaaaggcgagggcgggcgtaacggcaagattgccaatatctaccagctg
+            gatatgtccgatgccacgtcgctggtgatggcgacagaattccgcctgcaaccttatgac
+            gtggtgtatgtcaccaccgccccggtttcccgctggaaccgtctgatcaatcagttgctg
+            ccaactattagcggtgtccgttacatgacggatacagccagcgacattcataactggtaa
+///

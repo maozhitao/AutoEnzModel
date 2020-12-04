@@ -1,0 +1,61 @@
+ENTRY       b2568             CDS       T00007
+NAME        lepB
+DEFINITION  (RefSeq) signal peptidase I
+ORTHOLOGY   K03100  signal peptidase I [EC:3.4.21.89]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03060  Protein export
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b2568 (lepB)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b2568 (lepB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.89  signal peptidase I
+                 b2568 (lepB)
+            Peptidases and inhibitors [BR:eco01002]
+             Serine peptidases
+              Family S26: signal peptidase I family
+               b2568 (lepB)
+POSITION    complement(2704335..2705309)
+MOTIF       Pfam: Peptidase_S26
+DBLINKS     NCBI-GeneID: 947040
+            NCBI-ProteinID: NP_417063
+            Pasteur: lepB
+            RegulonDB: ECK120000523
+            ECOCYC: EG10530
+            ASAP: ABE-0008450
+            UniProt: P00803
+STRUCTURE   PDB: 1B12 3IIQ 1KN9 6B88 3S04 1T7D
+AASEQ       324
+            MANMFALILVIATLVTGILWCVDKFFFAPKRRERQAAAQAAAGDSLDKATLKKVAPKPGW
+            LETGASVFPVLAIVLIVRSFIYEPFQIPSGSMMPTLLIGDFILVEKFAYGIKDPIYQKTL
+            IETGHPKRGDIVVFKYPEDPKLDYIKRAVGLPGDKVTYDPVSKELTIQPGCSSGQACENA
+            LPVTYSNVEPSDFVQTFSRRNGGEATSGFFEVPKNETKENGIRLSERKETLGDVTHRILT
+            VPIAQDQVGMYYQQPGQQLATWIVPPGQYFMMGDNRDNSADSRYWGFVPEANLVGRATAI
+            WMSFDKQEGEWPTGLRLSRIGGIH
+NTSEQ       975
+            atggcgaatatgtttgccctgattctggtgattgccacactggtgacgggcattttatgg
+            tgcgtggataaattctttttcgcacctaaacggcgggaacgtcaggcagcggcgcaggcg
+            gctgccggggactcactggataaagcaacgttgaaaaaggttgcgccgaagcctggctgg
+            ctggaaaccggtgcttctgtttttccggtactggctatcgtattgattgtgcgttcgttt
+            atttatgaaccgttccagatcccgtcaggttcgatgatgccgactctgttaattggtgat
+            tttattctggtagagaagtttgcttatggcattaaagatcctatctaccagaaaacgctg
+            atcgaaaccggtcatccgaaacgcggcgatatcgtggtctttaaatatccggaagatcca
+            aagcttgattacatcaagcgcgcggtgggtttaccgggcgataaagtcacttacgatccg
+            gtctcaaaagagctgacgattcaaccgggatgcagttccggccaggcgtgtgaaaacgcg
+            ctgccggtcacctactcaaacgtggaaccgagcgatttcgttcagaccttctcacgccgt
+            aatggtggggaagcgaccagcggattctttgaagtgccgaaaaacgaaaccaaagaaaat
+            ggaattcgtctttccgagcgtaaagagacactgggtgatgtgacgcaccgcattctgaca
+            gtgccgattgcgcaggatcaggtggggatgtattaccagcagccagggcaacaactggca
+            acctggattgttcctccgggacaatacttcatgatgggcgacaaccgcgacaacagcgcg
+            gacagccgttactggggctttgtgccggaagcgaatctggtcggtcgggcaacggctatc
+            tggatgagcttcgataagcaagaaggcgaatggccgactggtctgcgcttaagtcgcatt
+            ggcggcatccattaa
+///

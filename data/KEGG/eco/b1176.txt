@@ -1,0 +1,51 @@
+ENTRY       b1176             CDS       T00007
+NAME        minC
+DEFINITION  (RefSeq) Z-ring positioning protein MinC
+ORTHOLOGY   K03610  septum site-determining protein MinC
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b1176 (minC)
+              09183 Protein families: signaling and cellular processes
+               04812 Cytoskeleton proteins [BR:eco04812]
+                b1176 (minC)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Inhibitors of FtsZ assembly
+                b1176 (minC)
+            Cytoskeleton proteins [BR:eco04812]
+             Prokaryotic cytoskeleton proteins
+              MinD / ParA class of bacterial cytoskeletal proteins
+               b1176 (minC)
+POSITION    complement(1225385..1226080)
+MOTIF       Pfam: MinC_N MinC_C
+DBLINKS     NCBI-GeneID: 945744
+            NCBI-ProteinID: NP_415694
+            Pasteur: minC
+            RegulonDB: ECK120000589
+            ECOCYC: EG10596
+            ASAP: ABE-0003941
+            UniProt: P18196
+STRUCTURE   PDB: 4L1C 5XDM
+AASEQ       231
+            MSNTPIELKGSSFTLSVVHLHEAEPKVIHQALEDKIAQAPAFLKHAPVVLNVSALEDPVN
+            WSAMHKAVSATGLRVIGVSGCKDAQLKAEIEKMGLPILTEGKEKAPRPAPTPQAPAQNTT
+            PVTKTRLIDTPVRSGQRIYAPQCDLIVTSHVSAGAELIADGNIHVYGMMRGRALAGASGD
+            RETQIFCTNLMAELVSIAGEYWLSDQIPAEFYGKAARLQLVENALTVQPLN
+NTSEQ       696
+            atgtcaaacacgccaatcgagcttaaaggcagtagcttcactttatctgtggttcatctg
+            catgaggcagaacctaaggttatccatcaggcgctggaagacaaaatcgctcaggccccc
+            gcatttttaaaacatgcccccgttgtactcaacgtcagtgcactggaagacccggtaaac
+            tggtcagcgatgcataaggcggtttcggcaaccggtttgcgggttattggcgtaagtggc
+            tgcaaagatgcgcaacttaaagccgaaattgaaaagatggggctgcctatcctgacggaa
+            ggaaaggaaaaagcgccacgtccagctcccacaccgcaggctccagcgcaaaatacaacg
+            ccggtcacaaaaacgcgtttaatagataccccggtgcgttccggtcagcgtatttatgct
+            ccacaatgtgatctgattgttacaagccacgttagcgctggggccgaattgattgccgat
+            gggaacattcatgtctatggcatgatgcgcggtcgtgcgctggcaggggcaagtggtgac
+            cgggaaacgcaaatattttgtacgaacctgatggcggaactggtgtccatcgcaggtgaa
+            tactggctgagtgatcaaatcccagcagaattttatggcaaagcggcgcgactgcagtta
+            gtcgaaaacgctttgaccgttcaaccgttaaattga
+///

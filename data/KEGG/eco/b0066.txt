@@ -1,0 +1,54 @@
+ENTRY       b0066             CDS       T00007
+NAME        thiQ
+DEFINITION  (RefSeq) thiamine ABC transporter ATP binding subunit
+ORTHOLOGY   K02062  thiamine transport system ATP-binding protein [EC:7.6.2.15]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b0066 (thiQ)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0066 (thiQ)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.6  Catalysing the translocation of other compounds
+               7.6.2  Linked to the hydrolysis of a nucleoside triphosphate
+                7.6.2.15  ABC-type thiamine transporter
+                 b0066 (thiQ)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Mineral and organic ion transporters
+               Thiamine transporter
+                b0066 (thiQ)
+POSITION    complement(72229..72927)
+MOTIF       Pfam: ABC_tran AAA_21 SMC_N AAA_29 RsgA_GTPase AAA_16 MMR_HSR1 AAA_23 SbcCD_C AAA_22 NACHT Dynamin_N AAA_30 AAA_25 IstB_IS21 AAA_28 AAA_10 DUF87
+DBLINKS     NCBI-GeneID: 944785
+            NCBI-ProteinID: NP_414608
+            Pasteur: thiQ
+            RegulonDB: ECK120001524
+            ECOCYC: EG11572
+            ASAP: ABE-0000244
+            UniProt: P31548
+AASEQ       232
+            MLKLTDITWLYHHLPMRFSLTVERGEQVAILGPSGAGKSTLLNLIAGFLTPASGSLTIDG
+            VDHTTMPPSRRPVSMLFQENNLFSHLTVAQNIGLGLNPGLKLNAVQQGKMHAIARQMGID
+            NLMARLPGELSGGQRQRVALARCLVREQPILLLDEPFSALDPALRQEMLTLVSTSCQQQK
+            MTLLMVSHSVEDAARIATRSVVVADGRIAWQGMTNELLSGKASASALLGITG
+NTSEQ       699
+            atgttaaaactgactgatatcacctggctttaccaccatttgccgatgcgttttagctta
+            acggtggaacgcggcgagcaggtggcgatcctcgggccaagcggcgcgggtaaaagtacc
+            ctgctgaatttgatcgccggttttctgacgccagccagcggttcgctgactatcgatggc
+            gtagatcacacaactatgccgccgtcacgccgtccggtgtcgatgctgtttcaggagaac
+            aacctgttcagccacctgacggtcgcacagaacatcgggctggggctaaatccgggattg
+            aaactgaacgcggtacagcaggggaaaatgcacgctatcgcccgccagatggggattgat
+            aatttaatggcgcggttaccgggcgagctttccggcggtcagcgacagcgagtggcgtta
+            gcgcgttgtctggtacgcgaacagccgattttattgctcgatgaaccgttctctgcgctc
+            gatccggcgttacgtcaggagatgttgacgctggtgagcacgagctgccagcagcaaaaa
+            atgacgctattgatggtgtcgcacagcgtggaagatgcggcgcggatcgccacgcgctcg
+            gtagtagtcgccgacgggcgcatcgcctggcagggtatgaccaatgagttgttgagcggt
+            aaggcgagtgcttcggcactattggggattacgggttag
+///

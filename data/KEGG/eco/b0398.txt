@@ -1,0 +1,57 @@
+ENTRY       b0398             CDS       T00007
+NAME        sbcD
+DEFINITION  (RefSeq) ATP dependent, structure specific DNA nuclease - SbcD subunit
+ORTHOLOGY   K03547  DNA repair protein SbcD/Mre11
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b0398 (sbcD)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecBC pathway proteins
+                 b0398 (sbcD)
+POSITION    complement(415750..416952)
+MOTIF       Pfam: SbcD_C Metallophos Metallophos_2
+DBLINKS     NCBI-GeneID: 945049
+            NCBI-ProteinID: NP_414932
+            Pasteur: sbcD
+            RegulonDB: ECK120001082
+            ECOCYC: EG11094
+            ASAP: ABE-0001383
+            UniProt: P0AG76
+STRUCTURE   PDB: 4LTY 4M0V 4LU9 6S6V 6S85
+AASEQ       400
+            MRILHTSDWHLGQNFYSKSREAEHQAFLDWLLETAQTHQVDAIIVAGDVFDTGSPPSYAR
+            TLYNRFVVNLQQTGCHLVVLAGNHDSVATLNESRDIMAFLNTTVVASAGHAPQILPRRDG
+            TPGAVLCPIPFLRPRDIITSQAGLNGIEKQQHLLAAITDYYQQHYADACKLRGDQPLPII
+            ATGHLTTVGASKSDAVRDIYIGTLDAFPAQNFPPADYIALGHIHRAQIIGGMEHVRYCGS
+            PIPLSFDECGKSKYVHLVTFSNGKLESVENLNVPVTQPMAVLKGDLASITAQLEQWRDVS
+            QEPPVWLDIEITTDEYLHDIQRKIQALTESLPVEVLLVRRSREQRERVLASQQRETLSEL
+            SVEEVFNRRLALEELDESQQQRLQHLFTTTLHTLAGEHEA
+NTSEQ       1203
+            atgcgcatccttcacacctcagactggcatctcggccagaacttctacagtaaaagccgc
+            gaagctgaacatcaggcttttcttgactggctgctggagacagcacaaacccatcaggtg
+            gatgcgattattgttgccggtgatgttttcgataccggctcgccgcccagttacgcccgc
+            acgttatacaaccgttttgttgtcaatttacagcaaactggctgtcatctggtggtactg
+            gcaggaaaccatgactcggtcgccacgctgaatgaatcgcgcgatatcatggcgttcctc
+            aatactaccgtggtcgccagcgccggacatgcgccgcaaatcttgcctcgtcgcgacggg
+            acgccaggcgcagtgctgtgccccattccgtttttacgtccgcgtgacattattaccagc
+            caggcggggcttaacggtattgaaaaacagcagcatttactggcagcgattaccgattat
+            taccaacaacactatgccgatgcctgcaaactgcgcggcgatcagcctctgcccatcatc
+            gccacgggacatttaacgaccgtgggggccagtaaaagtgacgccgtgcgtgacatttat
+            attggcacgctggacgcgtttccggcacaaaactttccaccagccgactacatcgcgctc
+            gggcatattcaccgcgcacagattattggcggcatggaacatgttcgctattgcggctcc
+            cccattccactgagttttgatgaatgcggtaagagtaaatatgtccatctggtgacattt
+            tcaaacggcaaattagagagcgtggaaaacctgaacgtaccggtaacgcaacccatggca
+            gtgctgaaaggcgatctggcgtcgattaccgcacagctggaacagtggcgcgatgtatcg
+            caggagccacctgtctggctggatatcgaaatcactactgatgagtatctgcatgatatt
+            cagcgcaaaatccaggcattaaccgaatcattgcctgtcgaagtattgctggtacgtcgg
+            agtcgtgaacagcgcgagcgtgtgttagccagccaacagcgtgaaaccctcagcgaactc
+            agcgtcgaagaggtgttcaatcgccgtctggcactggaagaactggatgaatcgcagcag
+            caacgtctgcagcatcttttcaccacgacgttgcataccctcgccggagaacacgaagca
+            tga
+///

@@ -1,0 +1,42 @@
+ENTRY       b4002             CDS       T00007
+NAME        zraP
+DEFINITION  (RefSeq) zinc responsive, periplasmic protein with chaperone activity
+ORTHOLOGY   K07803  zinc resistance-associated protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b4002 (zraP)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b4002 (zraP)
+            Chaperones and folding catalysts [BR:eco03110]
+             Other chaperones and cochaperones
+              Others
+               b4002 (zraP)
+POSITION    complement(4201263..4201688)
+MOTIF       Pfam: Metal_resist LTXXQ Apolipoprotein DUF3450 BLOC1_2 MRP-L47 HMMR_C Myb_DNA-bind_5
+DBLINKS     NCBI-GeneID: 948507
+            NCBI-ProteinID: NP_418430
+            Pasteur: zra
+            RegulonDB: ECK120001846
+            ECOCYC: EG11918
+            ASAP: ABE-0013081
+            UniProt: P0AAA9
+AASEQ       141
+            MKRNTKIALVMMALSAMAMGSTSAFAHGGHGMWQQNAAPLTSEQQTAWQKIHNDFYAQSS
+            ALQQQLVTKRYEYNALLAANPPDSSKINAVAKEMENLRQSLDELRVKRDIAMAEAGIPRG
+            AGMGMGYGGCGGGGHMGMGHW
+NTSEQ       426
+            atgaaacggaacacgaaaattgccctggtaatgatggcgctttcagcaatggcgatggga
+            tcgacatctgcatttgctcacggcggacacggtatgtggcagcaaaatgccgcgcctttg
+            accagcgaacaacagacagcgtggcagaaaatccataatgacttttacgctcaaagcagc
+            gcactgcaacagcaactggtgacgaagcgttatgaatacaatgccctgttagccgcgaac
+            ccaccggatagcagcaaaattaacgcggtcgccaaagagatggagaatttgcgtcagtcg
+            ttagatgagttacgggtgaaacgagatatcgcgatggctgaagcgggtattccgcgcgga
+            gccggaatgggcatgggctacggcggctgcggtggtggcggtcatatgggtatgggccac
+            tggtaa
+///

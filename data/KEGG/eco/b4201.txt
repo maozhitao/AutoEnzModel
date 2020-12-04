@@ -1,0 +1,42 @@
+ENTRY       b4201             CDS       T00007
+NAME        priB
+DEFINITION  (RefSeq) primosomal replication protein N
+ORTHOLOGY   K02686  primosomal replication protein N
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03440 Homologous recombination
+                b4201 (priB)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b4201 (priB)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecBC pathway proteins
+                 b4201 (priB)
+POSITION    4425520..4425834
+MOTIF       Pfam: SSB
+DBLINKS     NCBI-GeneID: 948722
+            NCBI-ProteinID: NP_418622
+            Pasteur: priB
+            RegulonDB: ECK120000755
+            ECOCYC: EG10764
+            ASAP: ABE-0013742
+            UniProt: P07013
+STRUCTURE   PDB: 5WQV 1WOC 1TXY 2PNH 2CCZ 1V1Q
+AASEQ       104
+            MTNRLVLSGTVCRAPLRKVSPSGIPHCQFVLEHRSVQEEAGFHRQAWCQMPVIVSGHENQ
+            AITHSITVGSRITVQGFISCHKAKNGLSKMVLHAEQIELIDSGD
+NTSEQ       315
+            atgaccaaccgtctggtgttgtccggcaccgtgtgcagggctccccttcgaaaggtcagt
+            ccatcaggaattcctcactgccagttcgtgcttgagcatcgttctgtgcaggaggaagcc
+            ggctttcaccggcaggcgtggtgtcaaatgcccgttattgttagcggacacgaaaaccag
+            gccattactcacagtataacggtcggcagtcgcataaccgttcaggggttcatttcatgc
+            cacaaggcaaagaacggactgagcaaaatggttttgcatgccgagcagattgaattgata
+            gattctggagactag
+///

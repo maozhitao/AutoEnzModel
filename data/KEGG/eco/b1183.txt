@@ -1,0 +1,51 @@
+ENTRY       b1183             CDS       T00007
+NAME        umuD
+DEFINITION  (RefSeq) DNA polymerase V protein UmuD
+ORTHOLOGY   K03503  DNA polymerase V [EC:3.4.21.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b1183 (umuD)
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1183 (umuD)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.-  
+                 b1183 (umuD)
+            Peptidases and inhibitors [BR:eco01002]
+             Serine peptidases
+              Family S24: LexA family
+               b1183 (umuD)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              TLS (translesion DNA synthesis) factors
+               Y-family DNA polymerases
+                b1183 (umuD)
+POSITION    1230767..1231186
+MOTIF       Pfam: Peptidase_S24
+DBLINKS     NCBI-GeneID: 945746
+            NCBI-ProteinID: NP_415701
+            Pasteur: umuD
+            RegulonDB: ECK120001046
+            ECOCYC: EG11057
+            ASAP: ABE-0003974
+            UniProt: P0AG11
+STRUCTURE   PDB: 1UMU 1AY9 1I4V
+AASEQ       139
+            MLFIKPADLREIVTFPLFSDLVQCGFPSPAADYVEQRIDLNQLLIQHPSATYFVKASGDS
+            MIDGGISDGDLLIVDSAITASHGDIVIAAVDGEFTVKKLQLRPTVQLIPMNSAYSPITIS
+            SEDTLDVFGVVIHVVKAMR
+NTSEQ       420
+            atgttgtttatcaagcctgcggatctccgcgaaattgtgacttttccgctatttagcgat
+            cttgttcagtgtggctttccttcaccggcagcagattacgttgaacagcgcatcgatctg
+            aatcaactgttgatccagcatcccagcgcgacttacttcgtcaaagcaagtggtgattct
+            atgattgatggtggaattagtgacggtgatttactgattgtcgatagcgctattaccgcc
+            agccatggtgatattgtcatcgctgctgttgacggcgagtttacggtgaaaaaattgcaa
+            ctacgcccgacggtacagcttattcccatgaacagcgcgtactcgcccattaccatcagt
+            agtgaagatacgctggatgtctttggtgtggtgatccacgtcgttaaggcgatgcgctga
+///

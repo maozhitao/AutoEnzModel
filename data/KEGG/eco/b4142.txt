@@ -1,0 +1,42 @@
+ENTRY       b4142             CDS       T00007
+NAME        groS
+DEFINITION  (RefSeq) cochaperonin GroES
+ORTHOLOGY   K04078  chaperonin GroES
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b4142 (groS)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b4142 (groS)
+            Chaperones and folding catalysts [BR:eco03110]
+             Heat shock proteins
+              HSP10
+               b4142 (groS)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial protein import machinery
+              Matrix
+               Other matrix factors
+                b4142 (groS)
+POSITION    4370688..4370981
+MOTIF       Pfam: Cpn10
+DBLINKS     NCBI-GeneID: 948655
+            NCBI-ProteinID: NP_418566
+            Pasteur: groS
+            RegulonDB: ECK120000593
+            ECOCYC: EG10600
+            ASAP: ABE-0013566
+            UniProt: P0A6F9
+STRUCTURE   PDB: 1SVT 1PCQ 1PF9 1SX4 1AON 5OPX 4PKN 3WVL 4PKO 2C7C 2C7D
+                 3ZPZ 3ZQ0 1GRU 3ZQ1
+AASEQ       97
+            MNIRPLHDRVIVKRKEVETKSAGGIVLTGSAAAKSTRGEVLAVGNGRILENGEVKPLDVK
+            VGDIVIFNDGYGVKSEKIDNEEVLIMSESDILAIVEA
+NTSEQ       294
+            atgaatattcgtccattgcatgatcgcgtgatcgtcaagcgtaaagaagttgaaactaaa
+            tctgctggcggcatcgttctgaccggctctgcagcggctaaatccacccgcggcgaagtg
+            ctggctgtcggcaatggccgtatccttgaaaatggcgaagtgaagccgctggatgtgaaa
+            gttggcgacatcgttattttcaacgatggctacggtgtgaaatctgagaagatcgacaat
+            gaagaagtgttgatcatgtccgaaagcgacattctggcaattgttgaagcgtaa
+///

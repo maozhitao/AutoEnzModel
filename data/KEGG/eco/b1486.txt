@@ -1,0 +1,56 @@
+ENTRY       b1486             CDS       T00007
+NAME        ddpB
+DEFINITION  (RefSeq) putative D,D-dipeptide ABC transporter membrane subunit DdpB
+ORTHOLOGY   K02033  peptide/nickel transport system permease protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02024  Quorum sensing
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b1486 (ddpB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1486 (ddpB)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Peptide and nickel transporters
+               Peptides/nickel transporter
+                b1486 (ddpB)
+POSITION    complement(1559907..1560929)
+MOTIF       Pfam: BPD_transp_1
+DBLINKS     NCBI-GeneID: 946044
+            NCBI-ProteinID: NP_416003
+            Pasteur: yddR
+            RegulonDB: ECK120003369
+            ECOCYC: G6780
+            ASAP: ABE-0004955
+            UniProt: P77308
+AASEQ       340
+            MTFWSILRQRCWGLVLVVAGVCVITFIISHLIPGDPARLLAGDRASDAIVENIRQQLGLD
+            QPLYVQFYRYVSDLFHGDLGTSIRTGRPVLEELRIFFPATLELAFGALLLALLIGIPLGI
+            LSAVWRNRWLDHLVRIMAITGISTPAFWLGLGVIVLFYGHLQILPGGGRLDDWLDPPTHV
+            TGFYLLDALLEGNGEVFFNALQHLILPALTLAFVHLGIVARQIRSAMLEQLSEDYIRTAR
+            ASGLPGWYIVLCYALPNALIPSITVLGLALGDLLYGAVLTETVFAWPGMGAWVVTSIQAL
+            DFPAVMGFAVVVSFAYVLVNLVVDLLYLWIDPRIGRGGGE
+NTSEQ       1023
+            gtgaccttctggagtattttacgccaacgctgctgggggctggtgctcgtggtggcgggc
+            gtctgcgtgattacgtttattatctcgcatctgatccctggtgatccggcgcggttactg
+            gcgggtgaccgcgccagcgatgctatcgtggaaaatattcgccagcaactgggactggac
+            cagccactgtatgtacagttttaccgctacgtcagcgacctgtttcatggtgacctggga
+            acatccattcgtaccgggcgtccggtgctggaagagttgcgtatatttttcccggcgacg
+            ctggagctggcttttggtgccctgctgctggcactcctgattggcatcccgctgggcata
+            ctctctgcagtctggcgaaatcgctggctggatcatctggtgcgaataatggccattacc
+            ggaatctccacacctgcgttctggcttgggctgggcgtcattgtgctgttttatggtcat
+            ctgcaaattcttcccggcggcggaaggcttgatgactggctggatccaccaacgcacgtt
+            accggcttttatctgctcgatgcgctgcttgaaggcaacggtgaagtcttcttcaatgcg
+            ttgcaacatctcatcttaccggcattaacgctggcgttcgttcacctgggaattgtcgct
+            cgccagatccgctcagcgatgctggaacaattgagtgaagactacattcgtaccgcccgg
+            gccagcggcttgcccggctggtatatcgttttatgttatgcgctacccaatgcgttgatc
+            ccatcgattaccgtattgggtttggcgctgggcgatttgttgtatggcgcagtgctcacc
+            gaaaccgtttttgcctggcccggaatgggtgcatgggtagtaacatcaatacaggcgctc
+            gacttcccggcagtgatgggctttgccgtcgtggtttcatttgcttatgtgctggtcaac
+            ctggtggtggatttgctctatttgtggattgatccgcgtatcggacgtggaggtggtgaa
+            tga
+///

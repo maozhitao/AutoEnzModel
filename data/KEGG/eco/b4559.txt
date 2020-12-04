@@ -1,0 +1,30 @@
+ENTRY       b4559             CDS       T00007
+NAME        ghoT
+DEFINITION  (RefSeq) toxin of the GhoTS toxin-antitoxin system
+ORTHOLOGY   K18839  toxin GhoT
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4559 (ghoT)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type V TA system
+               GhoT-GhoS
+                b4559 (ghoT)
+POSITION    4352908..4353081
+MOTIF       Pfam: Toxin_GhoT_OrtT
+DBLINKS     NCBI-GeneID: 1450308
+            NCBI-ProteinID: YP_588474
+            RegulonDB: ECK120016324
+            ECOCYC: G0-10472
+            ASAP: ABE-0285080
+            UniProt: P64646
+AASEQ       57
+            MALFSKILIFYVIGVNISFVIIWFISHEKTHIRLLSAFLVGITWPMSLPVALLFSLF
+NTSEQ       174
+            atggcactattctctaaaatattaattttttatgtgattggtgtgaacatatcctttgtc
+            attatctggtttatctcacatgagaaaacacatattcgtttacttagtgcattcctggtc
+            ggaataacctggccaatgagtctgcctgtggcattacttttttctctcttttag
+///

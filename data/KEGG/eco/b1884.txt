@@ -1,0 +1,63 @@
+ENTRY       b1884             CDS       T00007
+NAME        cheR
+DEFINITION  (RefSeq) chemotaxis protein methyltransferase
+ORTHOLOGY   K00575  chemotaxis protein methyltransferase CheR [EC:2.1.1.80]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02030  Bacterial chemotaxis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1884 (cheR)
+             09140 Cellular Processes
+              09142 Cell motility
+               02030 Bacterial chemotaxis
+                b1884 (cheR)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1884 (cheR)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.80  protein-glutamate O-methyltransferase
+                 b1884 (cheR)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Chemotaxis proteins
+               Two component system proteins
+                b1884 (cheR)
+POSITION    complement(1968504..1969364)
+MOTIF       Pfam: CheR CheR_N Methyltransf_12 Methyltransf_25 Methyltransf_31 Methyltransf_11 Methyltransf_23 NodS
+DBLINKS     NCBI-GeneID: 946396
+            NCBI-ProteinID: NP_416398
+            Pasteur: cheR
+            RegulonDB: ECK120000144
+            ECOCYC: EG10148
+            ASAP: ABE-0006286
+            UniProt: P07364
+AASEQ       286
+            MTSSLPCGQTSLLLQMTERLALSDAHFRRISQLIYQRAGIVLADHKRDMVYNRLVRRLRS
+            LGLTDFGHYLNLLESNQHSGEWQAFINSLTTNLTAFFREAHHFPLLADHARRRSGEYRVW
+            SAAASTGEEPYSIAMTLADTLGTAPGRWKVFASDIDTEVLEKARSGIYRHEELKNLTPQQ
+            LQRYFMRGTGPHEGLVRVRQELANYVDFAPLNLLAKQYTVPGPFDAIFCRNVMIYFDQTT
+            QQEILRRFVPLLKPDGLLFAGHSENFSHLERRFTLRGQTVYALSKD
+NTSEQ       861
+            atgacttcatctctgccctgtgggcaaacgtctttattgttacagatgaccgagcgcctg
+            gcgctttccgacgcgcattttcggcggataagtcaattgatctatcaacgagccgggatc
+            gttctggctgaccataaacgcgacatggtttacaaccgactggttcgtcgtttgcgttcg
+            ctgggactgacggatttcggtcattatctgaacttgctggaatctaatcagcacagcggt
+            gagtggcaggcgtttatcaattcgctgaccacgaatctgacggcatttttccgtgaggca
+            catcatttccctctgctcgcggatcacgcacgtcgccgttctggcgagtatcgcgtatgg
+            agcgcggcggcttcgaccggcgaagagccgtacagcattgcgatgacgctggctgacaca
+            ttgggcaccgcgcccggacgctggaaagtgtttgccagtgatatcgacaccgaagtgctg
+            gaaaaagccagaagcggtatctatcgccatgaagagttgaaaaacctgacgccgcagcaa
+            ctgcaacggtatttcatgcgagggacggggccgcatgaagggctggtacgcgtgcgtcag
+            gagctggcgaactatgttgattttgccccgctgaatctactggcgaaacagtacaccgtg
+            ccggggccgtttgatgcgatcttctgtcgtaacgtcatgatctacttcgatcaaactacc
+            cagcaggagattttgcgccgctttgttccgctccttaaacccgacggattgctgtttgcg
+            ggtcactctgaaaactttagccaccttgagcgccgcttcacgctgcgtggtcagacggtg
+            tatgcgctaagtaaggattaa
+///

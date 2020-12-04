@@ -1,0 +1,43 @@
+ENTRY       b0597             CDS       T00007
+NAME        entH
+DEFINITION  (RefSeq) proofreading thioesterase in enterobactin biosynthesis
+ORTHOLOGY   K24147  proofreading thioesterase EntH
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01053  Biosynthesis of siderophore group nonribosomal peptides
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09109 Metabolism of terpenoids and polyketides
+               01053 Biosynthesis of siderophore group nonribosomal peptides
+                b0597 (entH)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01008 Polyketide biosynthesis proteins [BR:eco01008]
+                b0597 (entH)
+            Polyketide biosynthesis proteins [BR:eco01008]
+             Nonribosomal peptide synthetase (NRPS)
+              Iterative NRPS
+               Enterobactin synthetase
+                b0597 (entH)
+POSITION    629300..629713
+MOTIF       Pfam: 4HBT DUF4442
+DBLINKS     NCBI-GeneID: 945215
+            NCBI-ProteinID: NP_415129
+            Pasteur: ybdB
+            RegulonDB: ECK120001093
+            ECOCYC: EG11105
+            ASAP: ABE-0002057
+            UniProt: P0A8Y8
+STRUCTURE   PDB: 4K4C 1VH9 4K4D
+AASEQ       137
+            MIWKRHLTLDELNATSDNTMVAHLGIVYTRLGDDVLEAEMPVDTRTHQPFGLLHGGASAA
+            LAETLGSMAGFMMTRDGQCVVGTELNATHHRPVSEGKVRGVCQPLHLGRQNQSWEIVVFD
+            EQGRRCCTCRLGTAVLG
+NTSEQ       414
+            atgatctggaaacgccatttaacgctcgacgaactgaacgccaccagcgataacacaatg
+            gtggcgcatctgggaattgtgtatacccgtctgggcgatgatgtgctggaagccgaaatg
+            ccggttgatacccgtactcatcagccgttcggtttactacatggcggcgcgtcggcggcg
+            ctggcggaaacgctgggatcgatggccggatttatgatgacccgcgacggacagtgtgtg
+            gtaggcacagaacttaatgcaacacaccatcgcccggtgtctgagggaaaggtacgcggc
+            gtctgccagccgctgcatcttggtcggcaaaatcagagctgggaaatcgtcgttttcgat
+            gaacaggggcggcgttgctgcacttgtcggctgggtacggcagttttgggatga
+///

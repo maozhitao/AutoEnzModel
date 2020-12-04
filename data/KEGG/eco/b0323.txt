@@ -1,0 +1,62 @@
+ENTRY       b0323             CDS       T00007
+NAME        yahI
+DEFINITION  (RefSeq) carbamate kinase-like protein YahI
+ORTHOLOGY   K00926  carbamate kinase [EC:2.7.2.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00220  Arginine biosynthesis
+            eco00230  Purine metabolism
+            eco00910  Nitrogen metabolism
+            eco01100  Metabolic pathways
+            eco01120  Microbial metabolism in diverse environments
+            eco01200  Carbon metabolism
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00910 Nitrogen metabolism
+                b0323 (yahI)
+              09104 Nucleotide metabolism
+               00230 Purine metabolism
+                b0323 (yahI)
+              09105 Amino acid metabolism
+               00220 Arginine biosynthesis
+                b0323 (yahI)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.2  Phosphotransferases with a carboxy group as acceptor
+                2.7.2.2  carbamate kinase
+                 b0323 (yahI)
+POSITION    340165..341115
+MOTIF       Pfam: AA_kinase
+DBLINKS     NCBI-GeneID: 944984
+            NCBI-ProteinID: NP_414857
+            Pasteur: yahI
+            RegulonDB: ECK120002806
+            ECOCYC: G6188
+            ASAP: ABE-0001107
+            UniProt: P77624
+AASEQ       316
+            MKELVVVAIGGNSIIKDNASQSIEHQAEAVKAVADTVLEMLASDYDIVLTHGNGPQVGLD
+            LRRAEIAHKREGLPLTPLANCVADTQGGIGYLIQQALNNRLARHGEKKAVTVVTQVEVDK
+            NDPGFAHPTKPIGAFFSDSQRDELQKANPDWCFVEDAGRGYRRVVASPEPKRIVEAPAIK
+            ALIQQGFVVIGAGGGGIPVVRTDAGDYQSVDAVIDKDLSTALLAREIHADILVITTGVEK
+            VCIHFGKPQQQALDRVDIATMTRYMQEGHFPPGSMLPKIIASLTFLEQGGKEVIITTPEC
+            LPAALRGETGTHIIKT
+NTSEQ       951
+            atgaaagagcttgtggtcgttgccattggtggcaacagcattatcaaagataacgccagc
+            cagtcgattgagcatcaggcggaggcggtgaaagccgtcgccgatacggtgctggaaatg
+            ctggcttccgattacgacattgtgctgacccacggcaacgggccgcaggtcgggctggat
+            ttacgccgtgcggagattgcccacaagcgcgaagggctgcccttaacgccgctggcgaac
+            tgtgtggcagatacgcagggcggcatcggctatctgatccaacaggcgctgaataaccgg
+            ctggcgcgtcacggcgagaagaaagccgtcaccgtggtgactcaggtggaagtggataaa
+            aacgatccaggttttgcccatcccaccaagcccatcggcgcattctttagtgacagccag
+            cgtgacgaattacaaaaggcaaaccctgactggtgttttgttgaagatgccgggcggggc
+            tatcgccgcgtggtcgcctcgccggaaccgaaacgtattgtcgaagcacctgccattaaa
+            gcgctgatccaacaaggttttgtcgtaattggcgcgggcggcggtggaattccggtagtg
+            cgtactgacgcgggagattaccaaagcgtggacgcggttatcgacaaagatctctctacc
+            gcgctgctggcccgtgaaattcacgccgacattcttgtgatcaccactggcgtcgaaaaa
+            gtgtgtattcactttggcaaaccgcagcagcaggcgctcgatcgggtggatattgccacc
+            atgacccgctatatgcaggaagggcatttcccgcccggcagcatgttgccaaaaatcatc
+            gccagcctgacatttttagaacaaggcggcaaagaagtgattatcaccacgccggaatgc
+            ctgcctgcggcgctgcgcggcgaaacgggcactcatattattaaaacgtaa
+///

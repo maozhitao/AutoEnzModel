@@ -1,0 +1,72 @@
+ENTRY       b0215             CDS       T00007
+NAME        dnaQ
+DEFINITION  (RefSeq) DNA polymerase III subunit epsilon
+ORTHOLOGY   K02342  DNA polymerase III subunit epsilon [EC:2.7.7.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+            eco03430  Mismatch repair
+            eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b0215 (dnaQ)
+               03430 Mismatch repair
+                b0215 (dnaQ)
+               03440 Homologous recombination
+                b0215 (dnaQ)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b0215 (dnaQ)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b0215 (dnaQ)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 b0215 (dnaQ)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Elongation Factors
+               Elongation factors (bacterial)
+                DNA polymerase III holoenzyme
+                 b0215 (dnaQ)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                DNA polymerase III holoenzyme
+                 b0215 (dnaQ)
+POSITION    236067..236798
+MOTIF       Pfam: RNase_T DUF5051 DNA_pol_A_exo1 DUF5817 vATP-synt_AC39
+DBLINKS     NCBI-GeneID: 946441
+            NCBI-ProteinID: NP_414751
+            Pasteur: dnaQ
+            RegulonDB: ECK120000237
+            ECOCYC: EG10243
+            ASAP: ABE-0000722
+            UniProt: P03007
+STRUCTURE   PDB: 2GUI 1J54 1J53 2IDO 5M1S 5FKW 5FKV 5FKU 2XY8
+AASEQ       243
+            MSTAITRQIVLDTETTGMNQIGAHYEGHKIIEIGAVEVVNRRLTGNNFHVYLKPDRLVDP
+            EAFGVHGIADEFLLDKPTFAEVADEFMDYIRGAELVIHNAAFDIGFMDYEFSLLKRDIPK
+            TNTFCKVTDSLAVARKMFPGKRNSLDALCARYEIDNSKRTLHGALLDAQILAEVYLAMTG
+            GQTSMAFAMEGETQQQQGEATIQRIVRQASKLRVVFATDEEIAAHEARLDLVQKKGGSCL
+            WRA
+NTSEQ       732
+            atgagcactgcaattacacgccagatcgttctcgataccgaaaccaccggtatgaaccag
+            attggtgcgcactatgaaggccacaagatcattgagattggtgccgttgaagtggtgaac
+            cgtcgcctgacgggcaataacttccatgtttatctcaaacccgatcggctggtggatccg
+            gaagcctttggcgtacatggtattgccgatgaatttttgctcgataagcccacgtttgcc
+            gaagtagccgatgagttcatggactatattcgcggcgcggagttggtgatccataacgca
+            gcgttcgatatcggctttatggactacgagttttcgttgcttaagcgcgatattccgaag
+            accaatactttctgtaaggtcaccgatagccttgcggtggcgaggaaaatgtttcccggt
+            aagcgcaacagcctcgatgcgttatgtgctcgctacgaaatagataacagtaaacgaacg
+            ctgcacggggcattactcgatgcccagatccttgcggaagtttatctggcgatgaccggt
+            ggtcaaacgtcgatggcttttgcgatggaaggagagacacaacagcaacaaggtgaagca
+            acaattcagcgcattgtacgtcaggcaagtaagttacgcgttgtttttgcgacagatgaa
+            gagattgcagctcatgaagcccgtctcgatctggtgcagaagaaaggcggaagttgcctc
+            tggcgagcataa
+///

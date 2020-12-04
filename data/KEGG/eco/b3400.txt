@@ -1,0 +1,37 @@
+ENTRY       b3400             CDS       T00007
+NAME        hslR
+DEFINITION  (RefSeq) heat shock protein Hsp15
+ORTHOLOGY   K04762  ribosome-associated heat shock protein Hsp15
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b3400 (hslR)
+            Chaperones and folding catalysts [BR:eco03110]
+             Heat shock proteins
+              HSP15
+               b3400 (hslR)
+POSITION    3529348..3529749
+MOTIF       Pfam: S4
+DBLINKS     NCBI-GeneID: 947912
+            NCBI-ProteinID: NP_417859
+            Pasteur: yrfH
+            RegulonDB: ECK120004286
+            ECOCYC: G7743
+            ASAP: ABE-0011094
+            UniProt: P0ACG8
+STRUCTURE   PDB: 1DM9 3BBU
+AASEQ       133
+            MKEKPAVEVRLDKWLWAARFYKTRALAREMIEGGKVHYNGQRSKPSKIVELNATLTLRQG
+            NDERTVIVKAITEQRRPASEAALLYEETAESVEKREKMALARKLNALTMPHPDRRPDKKE
+            RRDLLRFKHGDSE
+NTSEQ       402
+            atgaaagagaaacctgctgttgaggttcgactggataaatggctatgggctgcccgtttt
+            tataaaacccgcgcgctggcccgtgaaatgattgaaggcggtaaggtgcattacaacggg
+            cagcgcagcaagccgagcaaaatcgtcgagctgaatgccacgctcactctgcgccaggga
+            aatgacgaacgcacggtgattgtaaaggcgattactgaacagcgtcgccccgccagcgag
+            gcagccttgctgtatgaagagactgcggaaagtgtagagaaacgcgaaaaaatggcgctg
+            gcacgtaaacttaatgccttaaccatgccgcacccggaccgacgcccggacaaaaaagag
+            cgccgcgacctgttacgatttaaacacggcgacagtgaataa
+///

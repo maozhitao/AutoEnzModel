@@ -1,0 +1,44 @@
+ENTRY       b2336             CDS       T00007
+NAME        yfcS
+DEFINITION  (RefSeq) putative fimbrial chaperone YfcS
+ORTHOLOGY   K12519  chaperone protein PapD
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b2336 (yfcS)
+            Secretion system [BR:eco02044]
+             Chaperone-usher system
+              P pilus assembly protein
+               b2336 (yfcS)
+POSITION    complement(2451584..2452336)
+MOTIF       Pfam: PapD_N PapD_C
+DBLINKS     NCBI-GeneID: 946418
+            NCBI-ProteinID: NP_416839
+            Pasteur: yfcS
+            RegulonDB: ECK120003782
+            ECOCYC: G7207
+            ASAP: ABE-0007709
+            UniProt: P77599
+AASEQ       250
+            MSDLLCSAKLGAMTLALLLSATSLSALASVTPDRTRLIFNESDKSISVTLRNNDPKLPYL
+            AQSWIEDEKGNKITSPLTVLPPVQRIDSMMNGQVKVQGMPDINKLPADRESMFYFNVREI
+            PPKSNKPNTLQIALQTRIKLFWRPKALEKVSMKSPWQHKVTLTRSGQAFTVNNPTPYYVI
+            ISNASAQKNGNPAAGFSPLVIEPKTTVPLNVKMDSVPVLTYVNDFGARMPLFFQCNGNSC
+            QVDEEQSRKG
+NTSEQ       753
+            atgtctgatttactttgctctgccaaattgggtgctatgacgctggcgttactgcttagc
+            gctaccagtttgtctgccctggcgtctgtaacgccagatcgtacccgtttgatatttaat
+            gaaagcgacaaatcaatcagcgtgacgctgcgtaataacgatccgaaactcccttatctg
+            gctcaaagctggattgaagatgaaaagggtaacaagatcacctcgccgttaactgtgctg
+            ccgccagtgcaacgcatcgattcaatgatgaacgggcaggtaaaagtgcagggaatgccg
+            gatatcaacaaattgccagccgatcgtgaaagcatgttctactttaacgtgcgcgagatc
+            ccgccaaaatcaaacaaacccaataccctgcaaatcgcgctgcaaacgcgtatcaagttg
+            ttctggcgaccaaaggcgctggaaaaggtcagtatgaaaagtccgtggcagcacaaggtg
+            acgctcacccgcagcggtcaggcatttaccgtcaataacccaacgccgtactacgtgatt
+            atcagcaacgccagtgcgcagaaaaacggtaatccagctgcagggttctcgcctctggtc
+            attgagccgaaaaccacggtaccgctgaatgtgaaaatggatagcgtaccggtgctgact
+            tacgtcaacgactttggcgcacggatgccgctgttcttccagtgcaatggcaacagctgc
+            caggtggatgaagagcagagccgcaaaggctga
+///

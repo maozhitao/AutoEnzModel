@@ -1,0 +1,91 @@
+ENTRY       b0177             CDS       T00007
+NAME        bamA
+DEFINITION  (RefSeq) outer membrane protein assembly factor BamA
+ORTHOLOGY   K07277  outer membrane protein insertion porin family
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b0177 (bamA)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0177 (bamA)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial protein import machinery
+              Outer membrane
+               TOB/SAM complex
+                b0177 (bamA)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b0177 (bamA)
+POSITION    197928..200360
+MOTIF       Pfam: Omp85 POTRA POTRA_1 POTRA_2
+DBLINKS     NCBI-GeneID: 944870
+            NCBI-ProteinID: NP_414719
+            Pasteur: yaeT
+            RegulonDB: ECK120002713
+            ECOCYC: G6093
+            ASAP: ABE-0000605
+            UniProt: P0A940
+STRUCTURE   PDB: 3Q6B 6QGW 4XGA 6QGX 2QDF 6QGY 6FSU 4N75 3OG5 2QCZ 5D0O
+                 4C4V 3EFC 5EKQ 5D0Q 5AYW 5LJO 2V9H
+AASEQ       810
+            MAMKKLLIASLLFSSATVYGAEGFVVKDIHFEGLQRVAVGAALLSMPVRTGDTVNDEDIS
+            NTIRALFATGNFEDVRVLRDGDTLLVQVKERPTIASITFSGNKSVKDDMLKQNLEASGVR
+            VGESLDRTTIADIEKGLEDFYYSVGKYSASVKAVVTPLPRNRVDLKLVFQEGVSAEIQQI
+            NIVGNHAFTTDELISHFQLRDEVPWWNVVGDRKYQKQKLAGDLETLRSYYLDRGYARFNI
+            DSTQVSLTPDKKGIYVTVNITEGDQYKLSGVEVSGNLAGHSAEIEQLTKIEPGELYNGTK
+            VTKMEDDIKKLLGRYGYAYPRVQSMPEINDADKTVKLRVNVDAGNRFYVRKIRFEGNDTS
+            KDAVLRREMRQMEGAWLGSDLVDQGKERLNRLGFFETVDTDTQRVPGSPDQVDVVYKVKE
+            RNTGSFNFGIGYGTESGVSFQAGVQQDNWLGTGYAVGINGTKNDYQTYAELSVTNPYFTV
+            DGVSLGGRLFYNDFQADDADLSDYTNKSYGTDVTLGFPINEYNSLRAGLGYVHNSLSNMQ
+            PQVAMWRYLYSMGEHPSTSDQDNSFKTDDFTFNYGWTYNKLDRGYFPTDGSRVNLTGKVT
+            IPGSDNEYYKVTLDTATYVPIDDDHKWVVLGRTRWGYGDGLGGKEMPFYENFYAGGSSTV
+            RGFQSNTIGPKAVYFPHQASNYDPDYDYECATQDGAKDLCKSDDAVGGNAMAVASLEFIT
+            PTPFISDKYANSVRTSFFWDMGTVWDTNWDSSQYSGYPDYSDPSNIRMSAGIALQWMSPL
+            GPLVFSYAQPFKKYDGDKAEQFQFNIGKTW
+NTSEQ       2433
+            atggcgatgaaaaagttgctcatagcgtcgctgctgtttagcagcgccaccgtatacggt
+            gctgaagggttcgtagtgaaagatattcatttcgaaggccttcagcgtgtcgccgttggt
+            gcggccctcctcagtatgccggtgcgcacaggcgacacggttaatgatgaagatatcagt
+            aataccattcgcgctctgtttgctaccggcaactttgaggatgttcgcgtccttcgtgat
+            ggtgatacccttctggttcaggtaaaagaacgtccgaccattgccagcattactttctcc
+            ggtaacaaatcggtgaaagatgacatgctgaagcaaaacctcgaggcttctggtgtgcgt
+            gtgggcgaatccctcgatcgcaccaccattgccgatatcgagaaaggtctggaagacttc
+            tactacagcgtcggtaaatatagcgccagcgtaaaagctgtcgtgaccccgctgccgcgc
+            aaccgtgttgacctaaaactggtgttccaggaaggtgtgtcagctgaaatccagcaaatt
+            aacattgttggtaaccatgctttcaccaccgacgaactgatctctcatttccaactgcgt
+            gacgaagtgccgtggtggaacgtggtaggcgatcgtaaataccagaaacagaaactggcg
+            ggcgaccttgaaaccctgcgcagctactatctggatcgcggttatgcccgtttcaacatc
+            gactctacccaggtcagtctgacgccagataaaaaaggtatttacgtcacggtgaacatc
+            accgaaggcgatcagtacaagctttctggcgttgaagtgagcggcaaccttgccgggcac
+            tccgctgaaattgagcagctgactaagatcgagccgggtgagctgtataacggcaccaaa
+            gtgaccaagatggaagatgacatcaaaaagcttctcggtcgctatggttatgcctatccg
+            cgcgtacagtcgatgcccgaaattaacgatgccgacaaaaccgttaaattacgtgtgaac
+            gttgatgcgggtaaccgtttctacgtgcgtaagatccgttttgaaggtaacgatacctcg
+            aaagatgccgtcctgcgtcgcgaaatgcgtcagatggaaggtgcatggctggggagcgat
+            ctggtcgatcagggtaaggagcgtctgaatcgtctgggcttctttgaaactgtcgatacc
+            gatacccaacgtgttccgggtagcccggaccaggttgatgtcgtctacaaggtaaaagag
+            cgcaacaccggtagcttcaactttggtattggttacggtactgaaagtggcgtgagcttc
+            caggctggtgtgcagcaggataactggttaggtacaggttatgctgttggtatcaacggg
+            accaaaaacgattaccagacctatgctgaactgtcggtaaccaacccgtacttcaccgta
+            gatggcgtaagcctcggtggtcgtctcttctataatgacttccaggcagatgacgccgac
+            ctgtccgactataccaacaagagttatggtacagacgtgacgttgggcttcccgattaac
+            gaatataactcgctgcgtgcaggtctgggttatgtacataactccctgtccaacatgcag
+            cctcaggttgcgatgtggcgttatctgtactctatgggtgaacatccgagcacctctgat
+            caggataacagcttcaaaacggacgacttcacgttcaactatggttggacctataacaag
+            cttgaccgtggttacttcccgacagatggttcacgtgtcaacctgaccggtaaagtgacc
+            attcctggatcggataacgaatactacaaagtgacgttagacacggcgacttatgtgccg
+            atcgatgacgatcacaaatgggttgttctggggcgtacccgctggggttatggtgatggt
+            ttaggcggcaaagagatgccgttctacgagaacttctatgccggtggttccagcaccgtg
+            cgtggcttccagtccaataccattggtccgaaagcagtttacttcccgcatcaggccagt
+            aattatgatccggactatgattacgaatgtgcgactcaggacggcgcgaaagacctgtgt
+            aaatcggatgatgctgtaggcggtaacgccatggcggttgccagcctcgagttcatcacc
+            ccgacgccgtttattagcgataagtatgctaactcggttcgtacttccttcttctgggat
+            atgggtaccgtttgggatacaaactgggattccagccaatattctggatatccggactat
+            agtgatccaagcaatatccgtatgtctgcgggtatcgcattacaatggatgtccccattg
+            gggccgttggtgttctcctacgcccagccgttcaaaaagtacgatggagacaaggcagaa
+            cagttccagtttaacatcggtaaaacctggtaa
+///

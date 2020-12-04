@@ -1,0 +1,68 @@
+ENTRY       b1737             CDS       T00007
+NAME        chbC
+DEFINITION  (RefSeq) N,N'-diacetylchitobiose-specific PTS enzyme IIC component
+ORTHOLOGY   K02761  cellobiose PTS system EIIC component
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00500  Starch and sucrose metabolism
+            eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00500 Starch and sucrose metabolism
+                b1737 (chbC)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b1737 (chbC)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1737 (chbC)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               Cellobiose-specific II component
+                b1737 (chbC)
+POSITION    complement(1819856..1821214)
+MOTIF       Pfam: PTS_EIIC
+DBLINKS     NCBI-GeneID: 945982
+            NCBI-ProteinID: NP_416251
+            Pasteur: chbC
+            RegulonDB: ECK120000137
+            ECOCYC: EG10141
+            ASAP: ABE-0005795
+            UniProt: P17334
+AASEQ       452
+            MSNVIASLEKVLLPFAVKIGKQPHVNAIKNGFIRLMPLTLAGAMFVLINNVFLSFGEGSF
+            FYSLGIRLDASTIETLNGLKGIGGNVYNGTLGIMSLMAPFFIGMALAEERKVDALAAGLL
+            SVAAFMTVTPYSVGEAYAVGANWLGGANIISGIIIGLVVAEMFTFIVRRNWVIKLPDSVP
+            ASVSRSFSALIPGFIILSVMGIIAWALNTWGTNFHQIIMDTISTPLASLGSVVGWAYVIF
+            VPLLWFFGIHGALALTALDNGIMTPWALENIATYQQYGSVEAALAAGKTFHIWAKPMLDS
+            FIFLGGSGATLGLILAIFIASRRADYRQVAKLALPSGIFQINEPILFGLPIIMNPVMFIP
+            FVLVQPILAAITLAAYYMGIIPPVTNIAPWTMPTGLGAFFNTNGSVAALLVALFNLGIAT
+            LIYLPFVVVANKAQNAIDKEESEEDIANALKF
+NTSEQ       1359
+            atgagtaatgttattgcatcgcttgaaaaggtactcctcccttttgcagttaaaatagga
+            aagcagccacacgttaatgcaatcaaaaatggctttattcgcttaatgccgttaaccctt
+            gcgggggccatgtttgtattaattaacaacgtttttctaagctttggggaggggtcgttt
+            ttttattccttaggtattcgcctcgacgcctcaaccattgaaacacttaatggtctgaaa
+            ggtattggcggcaacgtatataacggaacattaggaataatgtctttaatggcaccgttc
+            tttattggcatggcgctggcagaagagcgtaaagtcgatgcgctggcggctgggttgtta
+            tccgttgcagcatttatgaccgtcaccccatatagtgtcggtgaggcctatgcggttggt
+            gcaaactggttaggtggggcgaatatcatctccgggattattattggcctggtggtggca
+            gaaatgtttacctttattgtccgccgcaattgggtcattaaactgcccgacagcgtacct
+            gcttcagtatcgcgttccttctcggcattaattcccggctttattattctttccgtgatg
+            gggattattgcctgggcgttgaatacctggggcaccaacttccatcagatcattatggat
+            accatctcaaccccactggcatcgttgggtagcgtggtgggctgggcctatgtgatcttt
+            gttccactgctctggttcttcggtattcatggcgcgctggcgctgaccgcactggacaac
+            ggcattatgacgccgtgggcactggaaaatatcgcgacctatcagcaatatggttccgtc
+            gaagcggcgctggcagccggtaagaccttccatatctgggccaagccgatgctggactcc
+            tttattttccttgggggcagtggtgcgactttaggcctgatcctggctatctttatcgcc
+            tctcgccgtgctgattatcgtcaggtggcaaaactggcgctgccgtccggcatcttccag
+            attaacgaaccgattctgtttggtctgccaattatcatgaacccggtgatgtttatcccg
+            tttgtactggtacaaccgattctggcggcaatcaccctcgcagcgtactacatgggcatt
+            attcctccggtgaccaatattgcaccgtggaccatgccaaccggtctgggagccttcttt
+            aacaccaacggtagcgtcgccgcattgctggtcgcactcttcaaccttggcatcgcaacg
+            ttaatttatctgccctttgttgtggtggctaacaaagcacaaaatgcgattgataaagaa
+            gagagcgaagaagatatcgctaacgccctgaaattttaa
+///

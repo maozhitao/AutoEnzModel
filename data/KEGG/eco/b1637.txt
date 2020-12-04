@@ -1,0 +1,85 @@
+ENTRY       b1637             CDS       T00007
+NAME        tyrS
+DEFINITION  (RefSeq) tyrosine--tRNA ligase
+ORTHOLOGY   K01866  tyrosyl-tRNA synthetase [EC:6.1.1.1]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                b1637 (tyrS)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:eco01007]
+                b1637 (tyrS)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b1637 (tyrS)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b1637 (tyrS)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.1  tyrosine---tRNA ligase
+                 b1637 (tyrS)
+            Amino acid related enzymes [BR:eco01007]
+             Aminoacyl-tRNA synthetase
+              Class I (A)
+               b1637 (tyrS)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                b1637 (tyrS)
+             Prokaryotic type
+                b1637 (tyrS)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Other mitochondrial DNA transcription and translation factors
+                b1637 (tyrS)
+POSITION    complement(1715948..1717222)
+MOTIF       Pfam: tRNA-synt_1b S4
+DBLINKS     NCBI-GeneID: 948855
+            NCBI-ProteinID: NP_416154
+            Pasteur: tyrS
+            RegulonDB: ECK120001032
+            ECOCYC: EG11043
+            ASAP: ABE-0005477
+            UniProt: P0AGJ9
+STRUCTURE   PDB: 2YXN 6HB5 6I5Y 6HB7 6HB6 1WQ3 1WQ4 1X8X 4OUD 1VBM 1VBN
+AASEQ       424
+            MASSNLIKQLQERGLVAQVTDEEALAERLAQGPIALYCGFDPTADSLHLGHLVPLLCLKR
+            FQQAGHKPVALVGGATGLIGDPSFKAAERKLNTEETVQEWVDKIRKQVAPFLDFDCGENS
+            AIAANNYDWFGNMNVLTFLRDIGKHFSVNQMINKEAVKQRLNREDQGISFTEFSYNLLQG
+            YDFACLNKQYGVVLQIGGSDQWGNITSGIDLTRRLHQNQVFGLTVPLITKADGTKFGKTE
+            GGAVWLDPKKTSPYKFYQFWINTADADVYRFLKFFTFMSIEEINALEEEDKNSGKAPRAQ
+            YVLAEQVTRLVHGEEGLQAAKRITECLFSGSLSALSEADFEQLAQDGVPMVEMEKGADLM
+            QALVDSELQPSRGQARKTIASNAITINGEKQSDPEYFFKEEDRLFGRFTLLRRGKKNYCL
+            ICWK
+NTSEQ       1275
+            atggcaagcagtaacttgattaaacaattgcaagagcgggggctggtagcccaggtgacg
+            gacgaggaagcgttagcagagcgactggcgcaaggcccgatcgcgctctattgcggcttc
+            gatcctaccgctgacagcttgcatttggggcatcttgttccattgttatgcctgaaacgc
+            ttccagcaggcgggccacaagccggttgcgctggtaggcggcgcgacgggtctgattggc
+            gacccgagcttcaaagctgccgagcgtaagctgaacaccgaagaaactgttcaggagtgg
+            gtggacaaaatccgtaagcaggttgccccgttcctcgatttcgactgtggagaaaactct
+            gctatcgcggcgaacaactatgactggttcggcaatatgaatgtgctgaccttcctgcgc
+            gatattggcaaacacttctccgttaaccagatgatcaacaaagaagcggttaagcagcgt
+            ctcaaccgtgaagatcaggggatttcgttcactgagttttcctacaacctgttgcagggt
+            tatgacttcgcctgtctgaacaaacagtacggtgtggtgctgcaaattggtggttctgac
+            cagtggggtaacatcacttctggtatcgacctgacccgtcgtctgcatcagaatcaggtg
+            tttggcctgaccgttccgctgatcactaaagcagatggcaccaaatttggtaaaactgaa
+            ggcggcgcagtctggttggatccgaagaaaaccagcccgtacaaattctaccagttctgg
+            atcaacactgcggatgccgacgtttaccgcttcctgaagttcttcacctttatgagcatt
+            gaagagatcaacgccctggaagaagaagataaaaacagcggtaaagcaccgcgcgcccag
+            tatgtactggcggagcaggtgactcgtctggttcacggtgaagaaggtttacaggcggca
+            aaacgtattaccgaatgcctgttcagcggttctttgagtgcgctgagtgaagcggacttc
+            gaacagctggcgcaggacggcgtaccgatggttgagatggaaaagggcgcagacctgatg
+            caggcactggtcgattctgaactgcaaccttcccgtggtcaggcacgtaaaactatcgcc
+            tccaatgccatcaccattaacggtgaaaaacagtccgatcctgaatacttctttaaagaa
+            gaagatcgtctgtttggtcgttttaccttactgcgtcgcggtaaaaagaattactgtctg
+            atttgctggaaataa
+///

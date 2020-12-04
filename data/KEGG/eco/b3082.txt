@@ -1,0 +1,46 @@
+ENTRY       b3082             CDS       T00007
+NAME        higA
+DEFINITION  (RefSeq) antitoxin/DNA-binding transcriptional repressor HigA
+ORTHOLOGY   K18831  HTH-type transcriptional regulator / antitoxin HigA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b3082 (higA)
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b3082 (higA)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               Other families
+                b3082 (higA)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               HigB-HigA
+                b3082 (higA)
+POSITION    complement(3233728..3234144)
+MOTIF       Pfam: HTH_3 HrpB2
+DBLINKS     NCBI-GeneID: 947593
+            NCBI-ProteinID: NP_417553
+            Pasteur: ygjM
+            RegulonDB: ECK120004154
+            ECOCYC: G7601
+            ASAP: ABE-0010126
+            UniProt: P67701
+STRUCTURE   PDB: 6JQ4 5IFG
+AASEQ       138
+            MIAIADILQAGEKLTAVAPFLAGIQNEEQYTQALELVDHLLLNDPENPLLDLVCAKITAW
+            EESAPEFAEFNAMAQAMPGGIAVIRTLMDQYGLTLSDLPEIGSKSMVSRVLSGKRKLTLE
+            HAKKLATRFGISPALFID
+NTSEQ       417
+            atgattgcgattgccgacatcttgcaagcaggagaaaagctaactgctgtggcacctttt
+            ctggcgggtattcagaacgaggaacaatacacccaggcgctggaactggtagatcatctg
+            ctgctcaacgatcctgaaaaccccttgctggatctggtgtgtgccaaaataaccgcgtgg
+            gaagaatcagcgcccgaatttgcggaatttaatgccatggctcaagccatgcctggcggt
+            atagccgtgattcgtacccttatggatcaatatggtttaaccctttccgatctgccggaa
+            attggcagtaaatctatggtgtcacgcgttttgagcgggaagaggaaattaacgctggaa
+            cacgctaaaaaattggcaacgcgattcggcatttctcccgccttgtttattgattaa
+///

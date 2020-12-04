@@ -1,0 +1,64 @@
+ENTRY       b2576             CDS       T00007
+NAME        srmB
+DEFINITION  (RefSeq) ATP-dependent RNA helicase SrmB
+ORTHOLOGY   K05590  ATP-dependent RNA helicase SrmB [EC:3.6.4.13]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b2576 (srmB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.13  RNA helicase
+                 b2576 (srmB)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA helicases
+               b2576 (srmB)
+POSITION    2712896..2714230
+MOTIF       Pfam: DEAD Helicase_C ResIII AAA_19 AAA_22 CMS1
+DBLINKS     NCBI-GeneID: 947055
+            NCBI-ProteinID: NP_417071
+            Pasteur: srmB
+            RegulonDB: ECK120000964
+            ECOCYC: EG10975
+            ASAP: ABE-0008478
+            UniProt: P21507
+STRUCTURE   PDB: 2YJT
+AASEQ       444
+            MTVTTFSELELDESLLEALQDKGFTRPTAIQAAAIPPALDGRDVLGSAPTGTGKTAAYLL
+            PALQHLLDFPRKKSGPPRILILTPTRELAMQVSDHARELAKHTHLDIATITGGVAYMNHA
+            EVFSENQDIVVATTGRLLQYIKEENFDCRAVETLILDEADRMLDMGFAQDIEHIAGETRW
+            RKQTLLFSATLEGDAIQDFAERLLEDPVEVSANPSTRERKKIHQWYYRADDLEHKTALLV
+            HLLKQPEATRSIVFVRKRERVHELANWLREAGINNCYLEGEMVQGKRNEAIKRLTEGRVN
+            VLVATDVAARGIDIPDVSHVFNFDMPRSGDTYLHRIGRTARAGRKGTAISLVEAHDHLLL
+            GKVGRYIEEPIKARVIDELRPKTRAPSEKQTGKPSKKVLAKRAEKKKAKEKEKPRVKKRH
+            RDTKNIGKRRKPSGTGVPPQTTEE
+NTSEQ       1335
+            atgactgtaacgactttttccgaacttgaactcgacgaaagcctgctggaagccctccag
+            gataaaggtttcactcgcccgaccgccattcaggctgccgccattccgcctgcgctcgat
+            ggccgtgatgtactcggttctgcgccgacaggcaccggtaaaacggcggcgtatctgctg
+            ccagcgttgcagcacctgctcgatttcccgcgtaagaaatccggtccgccgcgtattttg
+            atcctcaccccaactcgcgagctggcgatgcaggtgtccgatcatgcccgcgaactggcg
+            aaacatacgcatctggatatcgccaccatcaccggcggcgtagcctatatgaaccacgcg
+            gaagtgttcagcgaaaatcaggacatcgtggtcgccacgaccggacgtctgctgcaatac
+            ataaaagaagagaacttcgattgccgcgcggttgaaacgctgatcctcgacgaagcagac
+            cgtatgctggatatgggcttcgctcaggatatcgaacatattgctggcgaaacgcgctgg
+            cgtaaacagaccctgctcttttcggcaacgctggaaggcgatgcgattcaggactttgcc
+            gagcgtctgctggaagatccggtggaagtttctgccaatccctccacccgtgagcgcaaa
+            aaaattcatcagtggtattaccgcgccgatgatcttgagcataaaaccgcgttgctggtg
+            catctgttaaaacagccggaagcgacccgctcaattgtgtttgtgcgtaagcgtgagcgt
+            gtgcatgagctggcaaactggctgcgcgaagcgggcatcaacaactgctatctcgaaggt
+            gagatggtacagggcaagcgtaacgaagcgatcaagcgtttgaccgaaggtcgcgtaaac
+            gtactggtcgcaaccgatgttgccgcgcgcggtatcgacattcctgacgtcagccacgtc
+            tttaacttcgatatgccgcgcagtggcgatacttatttgcaccgtatcggacgtaccgcg
+            cgcgccggtcgtaaaggcaccgcaatttcgctggtggaagcccatgaccatctgctgctg
+            ggtaaagtaggccgctatattgaagagccaattaaagctcgcgttattgatgagttacgc
+            ccgaaaacgcgtgcgccaagcgaaaagcagaccggcaagccatcgaagaaagtactggct
+            aaacgtgctgagaagaaaaaagctaaagagaaagagaagccgcgggtgaaaaaacgccat
+            cgcgacaccaaaaatattggtaagcgccgtaaaccaagcggaacgggcgtgccaccgcaa
+            acgacagaagagtaa
+///

@@ -1,0 +1,53 @@
+ENTRY       b3984             CDS       T00007
+NAME        rplA
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L1
+ORTHOLOGY   K02863  large subunit ribosomal protein L1
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3984 (rplA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3984 (rplA)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b3984 (rplA)
+              Bacteria
+                b3984 (rplA)
+              Archaea
+                b3984 (rplA)
+POSITION    4178879..4179583
+MOTIF       Pfam: Ribosomal_L1
+DBLINKS     NCBI-GeneID: 948483
+            NCBI-ProteinID: NP_418411
+            Pasteur: rplA
+            RegulonDB: ECK120000855
+            ECOCYC: EG10864
+            ASAP: ABE-0013031
+            UniProt: P0A7L0
+STRUCTURE   PDB: 5ADY 3J8G 4CSU 3J5S 2RDO 3J46
+AASEQ       234
+            MAKLTKRMRVIREKVDATKQYDINEAIALLKELATAKFVESVDVAVNLGIDARKSDQNVR
+            GATVLPHGTGRSVRVAVFTQGANAEAAKAAGAELVGMEDLADQIKKGEMNFDVVIASPDA
+            MRVVGQLGQVLGPRGLMPNPKVGTVTPNVAEAVKNAKAGQVRYRNDKNGIIHTTIGKVDF
+            DADKLKENLEALLVALKKAKPTQAKGVYIKKVSISTTMGAGVAVDQAGLSASVN
+NTSEQ       705
+            atggctaaactgaccaagcgcatgcgtgttatccgcgagaaagttgatgcaaccaaacag
+            tacgacatcaacgaagctatcgcactgctgaaagagctggcgactgctaaattcgtagaa
+            agcgtggacgtagctgttaacctcggcatcgacgctcgtaaatctgaccagaacgtacgt
+            ggtgcaactgtactgccgcacggtactggccgttccgttcgcgtagccgtatttacccaa
+            ggtgcaaacgctgaagctgctaaagctgcaggcgcagaactggtaggtatggaagatctg
+            gctgaccagatcaagaaaggcgaaatgaactttgacgttgttattgcttctccggatgca
+            atgcgcgttgttggccagctgggccaggttctgggtccgcgcggcctgatgccaaacccg
+            aaagtgggtactgtaacaccgaacgttgctgaagcggttaaaaacgctaaagctggccag
+            gttcgttaccgtaacgacaaaaacggcatcatccacaccaccatcggtaaagtggacttt
+            gacgctgacaaactgaaagaaaacctggaagctctgctggttgcgctgaaaaaagcaaaa
+            ccgactcaggcgaaaggcgtgtacatcaagaaagttagcatctccaccaccatgggtgca
+            ggtgttgcagttgaccaggctggcctgagcgcttctgtaaactaa
+///

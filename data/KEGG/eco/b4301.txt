@@ -1,0 +1,43 @@
+ENTRY       b4301             CDS       T00007
+NAME        sgcE
+DEFINITION  (RefSeq) KpLE2 phage-like element; putative epimerase SgcE
+ORTHOLOGY   K14587  protein sgcE [EC:5.1.3.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b4301 (sgcE)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.1  Racemases and epimerases
+               5.1.3  Acting on carbohydrates and derivatives
+                5.1.3.-  
+                 b4301 (sgcE)
+POSITION    complement(4526905..4527537)
+MOTIF       Pfam: Ribul_P_3_epim TMP-TENI
+DBLINKS     NCBI-GeneID: 948829
+            NCBI-ProteinID: NP_418721
+            Pasteur: sgcE
+            RegulonDB: ECK120004409
+            ECOCYC: G7914
+            ASAP: ABE-0014097
+            UniProt: P39362
+AASEQ       210
+            MILHPSLASANPLHYGRELTALDNLDFGSLHLDIEDSSFINNITFGMKTVQAVARQTPHP
+            LSFHFMLARPQRWFNALAEIRPAWIFVHAETLDYPSETLTEIRHTGARAGLVFNPATPID
+            AWRYLASELDGVMVMTSEPDGQGQRFIPSMCEKIQKVRTAFPQTECWADGGITLAAAQQL
+            AAAGAQHMVIGRALFSSSDYRATLAQFATL
+NTSEQ       633
+            atgatcctgcacccttctctcgccagcgcaaatcctctgcactatggtcgtgagctgacg
+            gcattggacaatctggattttgggagcctgcatctggatattgaggacagcagcttcatt
+            aacaacattacgtttgggatgaaaacggtgcaggccgtcgccagacagacgcctcatccc
+            ttgtcctttcatttcatgcttgcccggccacagcgctggtttaacgcgctggctgaaatc
+            agacccgcgtggatcttcgttcatgcagaaacgctggactatccttcggaaacgttaact
+            gagatccgccataccggcgcacgagccggactggtatttaatccggcaaccccgatcgac
+            gcctggcgatatctggcgtctgagctggacggagtgatggtgatgaccagtgagcccgat
+            gggcagggacagcggtttattccctccatgtgcgagaaaatccaaaaagtacgcacggct
+            tttcctcagaccgagtgctgggccgacggtggaattacgctggcagctgcacagcaactg
+            gcagcagctggggcgcaacatatggtgattgggcgcgccctgttctcttcatctgactat
+            cgcgcgaccttagctcaattcgccaccctgtaa
+///

@@ -1,0 +1,42 @@
+ENTRY       b0286             CDS       T00007
+NAME        paoA
+DEFINITION  (RefSeq) aldehyde dehydrogenase, Fe-S subunit
+ORTHOLOGY   K13483  xanthine dehydrogenase YagT iron-sulfur-binding subunit
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00230  Purine metabolism
+            eco01100  Metabolic pathways
+            eco01120  Microbial metabolism in diverse environments
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09104 Nucleotide metabolism
+               00230 Purine metabolism
+                b0286 (paoA)
+POSITION    complement(301884..302573)
+MOTIF       Pfam: Fer2_2 Fer2 Fer2_3 TAT_signal Fer2_4
+DBLINKS     NCBI-GeneID: 945330
+            NCBI-ProteinID: NP_414820
+            Pasteur: yagT
+            RegulonDB: ECK120002777
+            ECOCYC: G6157
+            ASAP: ABE-0000992
+            UniProt: P77165
+STRUCTURE   PDB: 5G5G 5G5H
+AASEQ       229
+            MSNQGEYPEDNRVGKHEPHDLSLTRRDLIKVSAATAATAVVYPHSTLAASVPAATPAPEI
+            MPLTLKVNGKTEQLEVDTRTTLLDTLRENLHLIGTKKGCDHGQCGACTVLVNGRRLNACL
+            TLAVMHQGAEITTIEGLGSPDNLHPMQAAFIKHDGFQCGYCTSGQICSSVAVLKEIQDGI
+            PSHVTVDLVSAPETTADEIRERMSGNICRCGAYANILAAIEDAAGEIKS
+NTSEQ       690
+            atgagcaaccaaggcgaataccccgaagataatcgggttgggaagcacgagccgcacgat
+            ttaagtttgacccgtcgcgatctgattaaagtgagcgccgcaacagcggcgaccgccgtg
+            gtttatcctcattctacgctggcggcaagcgttccggcagctacacccgcgccagagata
+            atgcccctgacactgaaggtgaacggcaaaaccgagcagcttgaggtggatacccgaacc
+            acgctactggacactttgcgtgaaaatctgcatttgatcggtaccaagaaaggttgcgat
+            cacggacagtgcggagcctgtaccgtgctggtcaatggtcgcaggcttaatgcctgcctg
+            acgcttgcagtcatgcatcagggggccgagatcaccaccattgaaggcctgggttcgcca
+            gataatcttcaccccatgcaggcggcctttatcaagcatgatggcttccagtgcggctac
+            tgcacctccgggcaaatttgctcatcagtagcggtgctaaaagagattcaggacggcatt
+            cccagtcacgtcacggtcgatttggtttccgctccagaaacaactgccgatgagatccgt
+            gaacgtatgagcggcaacatctgtcgctgtggtgcatacgctaacatccttgccgccatt
+            gaagatgctgcgggggagataaaatcatga
+///

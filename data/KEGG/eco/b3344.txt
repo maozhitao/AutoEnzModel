@@ -1,0 +1,41 @@
+ENTRY       b3344             CDS       T00007
+NAME        tusC
+DEFINITION  (RefSeq) sulfurtransferase complex subunit TusC
+ORTHOLOGY   K07236  tRNA 2-thiouridine synthesizing protein C
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco04122  Sulfur relay system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04122 Sulfur relay system
+                b3344 (tusC)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3344 (tusC)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Thiolation factors
+                b3344 (tusC)
+POSITION    complement(3474973..3475332)
+MOTIF       Pfam: DrsE Ribosomal_L5
+DBLINKS     NCBI-GeneID: 947853
+            NCBI-ProteinID: NP_417803
+            Pasteur: yheM
+            RegulonDB: ECK120004258
+            ECOCYC: G7713
+            ASAP: ABE-0010928
+            UniProt: P45531
+STRUCTURE   PDB: 2D1P
+AASEQ       119
+            MKRIAFVFSTAPHGTAAGREGLDALLATSALTDDLAVFFIADGVFQLLPGQKPDAVLARD
+            YIATFKLLGLYDIEQCWVCAASLRERGLDPQTPFVVEATPLEADALRRELANYDVILRF
+NTSEQ       360
+            atgaaacgaattgcgtttgttttttctactgcacctcatggtacagccgcaggccgggaa
+            ggtttagatgctttactggcaacttccgcattaactgacgatctggctgtcttctttata
+            gctgatggcgtttttcagctgctgccaggacaaaagcccgatgcagtgctggcgcgtgat
+            tacattgccacttttaaattgttgggtctgtacgacattgaacagtgctgggtttgtgcg
+            gcttcactgcgcgaacgcgggttagatccgcagacaccctttgttgtcgaagccacgccg
+            ctcgaagcagatgccttacgccgcgaactcgccaactacgatgttattttgaggttttga
+///

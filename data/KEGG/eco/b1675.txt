@@ -1,0 +1,41 @@
+ENTRY       b1675             CDS       T00007
+NAME        fumD
+DEFINITION  (RefSeq) fumarase D
+ORTHOLOGY   K01675  fumarate hydratase D [EC:4.2.1.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00020  Citrate cycle (TCA cycle)
+            eco00620  Pyruvate metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+            eco01120  Microbial metabolism in diverse environments
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                b1675 (fumD)
+               00620 Pyruvate metabolism
+                b1675 (fumD)
+            Enzymes [BR:eco01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.2  fumarate hydratase
+                 b1675 (fumD)
+POSITION    complement(1754932..1755141)
+MOTIF       Pfam: DUF2767
+DBLINKS     NCBI-GeneID: 946180
+            NCBI-ProteinID: NP_416190
+            Pasteur: ydhZ
+            RegulonDB: ECK120003492
+            ECOCYC: G6903
+            ASAP: ABE-0005591
+            UniProt: P0ACX5
+AASEQ       69
+            MGNRTKEDELYREMCRVVGKVVLEMRDLGQEPKHIVIAGVLRTALANKRIQRSELEKQAM
+            ETVINALVK
+NTSEQ       210
+            atgggaaatcggacaaaagaggatgaactgtaccgagaaatgtgcagagttgtcggtaaa
+            gttgtgctggaaatgcgcgatctggggcaggaaccaaagcatattgttatcgcaggcgta
+            ttacgtacagcattagccaataaacgcattcagcgcagtgagctggaaaagcaggcgatg
+            gaaaccgtcattaacgcactggtaaaatga
+///

@@ -1,0 +1,46 @@
+ENTRY       b1037             CDS       T00007
+NAME        csgG
+DEFINITION  (RefSeq) curli secretion channel
+ORTHOLOGY   K06214  curli production assembly/transport component CsgG
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b1037 (csgG)
+            Secretion system [BR:eco02044]
+             Extracellular nucleation-precipitation pathway
+              Curli assembly protein
+               b1037 (csgG)
+POSITION    complement(1100851..1101684)
+MOTIF       Pfam: CsgG FlgO
+DBLINKS     NCBI-GeneID: 945619
+            NCBI-ProteinID: NP_415555
+            Pasteur: csgG
+            RegulonDB: ECK120003139
+            ECOCYC: G6543
+            ASAP: ABE-0003516
+            UniProt: P0AEA2
+STRUCTURE   PDB: 4UV2 3X2R 4Q79 4UV3
+AASEQ       277
+            MQRLFLLVAVMLLSGCLTAPPKEAARPTLMPRAQSYKDLTHLPAPTGKIFVSVYNIQDET
+            GQFKPYPASNFSTAVPQSATAMLVTALKDSRWFIPLERQGLQNLLNERKIIRAAQENGTV
+            AINNRIPLQSLTAANIMVEGSIIGYESNVKSGGVGARYFGIGADTQYQLDQIAVNLRVVN
+            VSTGEILSSVNTSKTILSYEVQAGVFRFIDYQRLLEGEVGYTSNEPVMLCLMSAIETGVI
+            FLINDGIDRGLWDLQNKAERQNDILVKYRHMSVPPES
+NTSEQ       834
+            atgcagcgcttatttcttttggttgccgtcatgttactgagcggatgcttaaccgccccg
+            cctaaagaagccgccagaccgacattaatgcctcgtgctcagagctacaaagatttgacc
+            catctgccagcgccgacgggtaaaatctttgtttcggtatacaacattcaggacgaaacc
+            gggcaatttaaaccctacccggcaagtaacttctccactgctgttccgcaaagcgccacg
+            gcaatgctggtcacggcactgaaagattctcgctggtttataccgctggagcgccagggc
+            ttacaaaacctgcttaacgagcgcaagattattcgtgcggcacaagaaaacggcacggtt
+            gccattaataaccgaatcccgctgcaatctttaacggcggcaaatatcatggttgaaggt
+            tcgattatcggttatgaaagcaacgtcaaatctggcggggttggggcaagatattttggc
+            atcggtgccgacacgcaataccagctcgatcagattgccgtgaacctgcgcgtcgtcaat
+            gtgagtaccggcgagatcctttcttcggtgaacaccagtaagacgatactttcctatgaa
+            gttcaggccggggttttccgctttattgactaccagcgcttgcttgaaggggaagtgggt
+            tacacctcgaacgaacctgttatgctgtgcctgatgtcggctatcgaaacaggggtcatt
+            ttcctgattaatgatggtatcgaccgtggtctgtgggatttgcaaaataaagcagaacgg
+            cagaatgacattctggtgaaataccgccatatgtcggttccaccggaatcctga
+///

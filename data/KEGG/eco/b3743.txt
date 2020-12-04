@@ -1,0 +1,39 @@
+ENTRY       b3743             CDS       T00007
+NAME        asnC
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator AsnC
+ORTHOLOGY   K03718  Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b3743 (asnC)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               Lrp/AsnC family
+                b3743 (asnC)
+POSITION    complement(3926545..3927003)
+MOTIF       Pfam: AsnC_trans_reg HTH_24 HTH_AsnC-type HTH_20 MarR_2 HTH_11 B-block_TFIIIC HTH_5 HTH_IclR HTH_28 HTH_10 Sigma70_r4_2 HTH_34 MarR HTH_Crp_2 HTH_PafC HTH_41
+DBLINKS     NCBI-GeneID: 948259
+            NCBI-ProteinID: NP_418199
+            Pasteur: asnC
+            RegulonDB: ECK120000089
+            ECOCYC: EG10093
+            ASAP: ABE-0012237
+            UniProt: P0ACI6
+STRUCTURE   PDB: 2CG4
+AASEQ       152
+            MENYLIDNLDRGILEALMGNARTAYAELAKQFGVSPGTIHVRVEKMKQAGIITGARIDVS
+            PKQLGYDVGCFIGIILKSAKDYPSALAKLESLDEVTEAYYTTGHYSIFIKVMCRSIDALQ
+            HVLINKIQTIDEIQSTETLIVLQNPIMRTIKP
+NTSEQ       459
+            atggaaaattatctgatcgacaatctggaccgtggcatcctggaagcattaatgggcaat
+            gcgcgcaccgcttacgccgaactggcgaaacaatttggcgtcagtccggggacgattcac
+            gttcgagtagagaaaatgaagcaggcggggatcattaccggggcgcgtattgatgtcagc
+            ccgaagcagctcggttatgacgtaggctgctttatcggcattatattaaagagcgccaaa
+            gactacccttccgcgctggcaaagctggaaagccttgatgaagtcactgaagcctattac
+            acaaccggccactacagcatctttataaaagtgatgtgccgttcgatcgacgctctccag
+            catgtacttatcaacaagatccaaacaattgatgaaattcagtccaccgagacattgatc
+            gtcctgcaaaacccgatcatgcgtaccatcaagccctga
+///

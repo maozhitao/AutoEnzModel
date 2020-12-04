@@ -1,0 +1,41 @@
+ENTRY       b3703             CDS       T00007
+NAME        rpmH
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L34
+ORTHOLOGY   K02914  large subunit ribosomal protein L34
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3703 (rpmH)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3703 (rpmH)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b3703 (rpmH)
+              Bacteria
+                b3703 (rpmH)
+POSITION    3884336..3884476
+MOTIF       Pfam: Ribosomal_L34
+DBLINKS     NCBI-GeneID: 948216
+            NCBI-ProteinID: NP_418158
+            Pasteur: rpmH
+            RegulonDB: ECK120000883
+            ECOCYC: EG10892
+            ASAP: ABE-0012115
+            UniProt: P0A7P5
+STRUCTURE   PDB: 6QUL 6S0K 6I0Y 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH 4UY8
+                 3J7Z 6GC4 6GC6 6GC7 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L 2J28
+                 2RDO 3BBX
+AASEQ       46
+            MKRTFQPSVLKRNRSHGFRARMATKNGRQVLARRRAKGRARLTVSK
+NTSEQ       141
+            atgaaacgcacttttcaaccgtctgtactgaagcgcaaccgttctcacggcttccgtgct
+            cgtatggctactaaaaatggtcgtcaggttctggcacgtcgtcgtgctaaaggccgcgct
+            cgtctgaccgtttctaagtaa
+///

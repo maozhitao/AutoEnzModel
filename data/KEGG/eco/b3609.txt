@@ -1,0 +1,60 @@
+ENTRY       b3609             CDS       T00007
+NAME        secB
+DEFINITION  (RefSeq) SecB chaperone
+ORTHOLOGY   K03071  preprotein translocase subunit SecB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02024  Quorum sensing
+            eco03060  Protein export
+            eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b3609 (secB)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3609 (secB)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b3609 (secB)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b3609 (secB)
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3609 (secB)
+            Chaperones and folding catalysts [BR:eco03110]
+             Other chaperones and cochaperones
+              SecB
+               b3609 (secB)
+            Secretion system [BR:eco02044]
+             Sec (secretion) system
+              Prokaryotic Sec-SRP core components
+               b3609 (secB)
+POSITION    complement(3783661..3784128)
+MOTIF       Pfam: SecB
+DBLINKS     NCBI-GeneID: 948123
+            NCBI-ProteinID: NP_418066
+            Pasteur: secB
+            RegulonDB: ECK120000926
+            ECOCYC: EG10937
+            ASAP: ABE-0011798
+            UniProt: P0AG86
+STRUCTURE   PDB: 1QYN 5JTL 5JTM 5JTN 5JTO 5JTP 5JTQ 5JTR
+AASEQ       155
+            MSEQNNTEMTFQIQRIYTKDISFEAPNAPHVFQKDWQPEVKLDLDTASSQLADDVYEVVL
+            RVTVTASLGEETAFLCEVQQGGIFSIAGIEGTQMAHCLGAYCPNILFPYARECITSMVSR
+            GTFPQLNLAPVNFDALFMNYLQQQAGEGTEEHQDA
+NTSEQ       468
+            atgtcagaacaaaacaacactgaaatgactttccagatccaacgtatttataccaaggat
+            atctctttcgaagcgccgaacgcgccgcacgttttccagaaagattggcaaccagaagtt
+            aaacttgatctggatacggcatcttcccaactggcagatgacgtatacgaagtggtactg
+            cgtgttaccgtaacggcctctttgggcgaagaaaccgcgttcctgtgtgaagttcagcag
+            ggcggtattttctccatcgcgggtatcgaaggcacccagatggcgcattgcctgggagca
+            tactgcccgaacattctgttcccgtatgctcgtgagtgcatcaccagcatggtatcccgc
+            ggtacattcccgcaactgaaccttgcgccggttaacttcgatgcgctgttcatgaactat
+            ttgcagcagcaggctggcgaaggtactgaagaacatcaggatgcctga
+///

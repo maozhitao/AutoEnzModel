@@ -1,0 +1,64 @@
+ENTRY       b1126             CDS       T00007
+NAME        potA
+DEFINITION  (RefSeq) spermidine preferential ABC transporter ATP binding subunit
+ORTHOLOGY   K11072  spermidine/putrescine transport system ATP-binding protein [EC:7.6.2.11]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b1126 (potA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1126 (potA)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.6  Catalysing the translocation of other compounds
+               7.6.2  Linked to the hydrolysis of a nucleoside triphosphate
+                7.6.2.11  ABC-type polyamine transporter
+                 b1126 (potA)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Mineral and organic ion transporters
+               Spermidine/putrescine transporter
+                b1126 (potA)
+POSITION    complement(1184458..1185594)
+MOTIF       Pfam: ABC_tran TOBE_2 TniB AAA_21 AAA_22 SMC_N AAA Rad17 AAA_16 AAA_5 AAA_25 ABC_ATPase RsgA_GTPase AAA_18 AAA_14 sCache_3_2 AAA_23
+DBLINKS     NCBI-GeneID: 946323
+            NCBI-ProteinID: NP_415644
+            Pasteur: potA
+            RegulonDB: ECK120000740
+            ECOCYC: EG10749
+            ASAP: ABE-0003796
+            UniProt: P69874
+AASEQ       378
+            MGQSKKLNKQPSSLSPLVQLAGIRKCFDGKEVIPQLDLTINNGEFLTLLGPSGCGKTTVL
+            RLIAGLETVDSGRIMLDNEDITHVPAENRYVNTVFQSYALFPHMTVFENVAFGLRMQKTP
+            AAEITPRVMEALRMVQLETFAQRKPHQLSGGQQQRVAIARAVVNKPRLLLLDESLSALDY
+            KLRKQMQNELKALQRKLGITFVFVTHDQEEALTMSDRIVVMRDGRIEQDGTPREIYEEPK
+            NLFVAGFIGEINMFNATVIERLDEQRVRANVEGRECNIYVNFAVEPGQKLHVLLRPEDLR
+            VEEINDDNHAEGLIGYVRERNYKGMTLESVVELENGKMVMVSEFFNEDDPDFDHSLDQKM
+            AINWVESWEVVLADEEHK
+NTSEQ       1137
+            atgggacagagtaaaaaattgaataaacaaccgagttcgctttcaccgctggtgcaattg
+            gcgggaattcgcaaatgctttgatggtaaagaggtcattccccagctggatctgactatc
+            aacaatggcgagttcctcacgctgcttggcccttctggctgcggtaaaacaaccgttctt
+            cgcctgattgcaggtctggaaactgttgattccggacgcatcatgctggataacgaggac
+            atcacccacgttccggcggaaaaccgctatgtgaacactgttttccaaagctacgcactt
+            ttcccccacatgaccgtgttcgaaaatgtggcctttgggttgcgcatgcaaaaaaccccc
+            gctgctgaaattacgccccgcgtgatggaagccctgcggatggtgcagttggaaaccttc
+            gctcaacgcaaaccgcatcagctctctggtggtcaacagcaacgcgtcgccattgctcgc
+            gcggtggttaacaagcctcgtctgttgttgctggatgagtcgctctcagcgctggattac
+            aaactgcgtaagcaaatgcagaacgagctgaaagcgttacagcgtaagcttggcattaca
+            ttcgtctttgtgactcacgaccaggaagaagcactcaccatgtcagacaggattgtggtg
+            atgcgcgatggtcgcattgagcaagacggcacgccgcgtgaaatctacgaagagccgaaa
+            aacctgtttgttgccggcttcattggcgaaatcaatatgtttaacgccactgtcatcgaa
+            cgtctagacgagcagcgcgtacgcgccaacgttgaaggccgcgaatgtaatatctacgtt
+            aacttcgccgttgaaccggggcaaaaactgcatgttctgctgcgcccggaagacttacgt
+            gttgaagagattaacgacgacaaccacgctgaagggctgattggttacgttcgcgagcgt
+            aactacaaaggcatgacgctggagtcggttgttgaactggaaaatggcaagatggtgatg
+            gtcagcgaattcttcaatgaagacgatcctgactttgaccactctctcgaccaaaaaatg
+            gccattaattgggtagaaagctgggaggtcgtactggctgatgaagaacacaagtaa
+///

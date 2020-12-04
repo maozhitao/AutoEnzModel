@@ -1,0 +1,46 @@
+ENTRY       b3304             CDS       T00007
+NAME        rplR
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L18
+ORTHOLOGY   K02881  large subunit ribosomal protein L18
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3304 (rplR)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3304 (rplR)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b3304 (rplR)
+              Bacteria
+                b3304 (rplR)
+              Archaea
+                b3304 (rplR)
+POSITION    complement(3445244..3445597)
+MOTIF       Pfam: Ribosomal_L18p Ribosomal_L5e
+DBLINKS     NCBI-GeneID: 947804
+            NCBI-ProteinID: NP_417763
+            Pasteur: rplR
+            RegulonDB: ECK120000870
+            ECOCYC: EG10879
+            ASAP: ABE-0010825
+            UniProt: P0C018
+STRUCTURE   PDB: 6QUL 6S0K 6I0Y 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH 4UY8
+                 3J7Z 6GC4 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L 2J28 2RDO 3BBX
+AASEQ       117
+            MDKKSARIRRATRARRKLQELGATRLVVHRTPRHIYAQVIAPNGSEVLVAASTVEKAIAE
+            QLKYTGNKDAAAAVGKAVAERALEKGIKDVSFDRSGFQYHGRVQALADAAREAGLQF
+NTSEQ       354
+            atggataagaaatctgctcgtatccgtcgtgcgacccgcgcacgccgcaagctccaggag
+            ctgggcgcaactcgcctggtggtacatcgtaccccgcgtcacatttacgcacaggtaatt
+            gcaccgaacggttctgaagttctggtagctgcttctactgtagaaaaagctatcgctgaa
+            caactgaagtacaccggtaacaaagacgcggctgcagctgtgggtaaagctgtcgctgaa
+            cgcgctctggaaaaaggcatcaaagatgtatcctttgaccgttccgggttccaatatcat
+            ggtcgtgtccaggcactggcagatgctgcccgtgaagctggccttcagttctaa
+///

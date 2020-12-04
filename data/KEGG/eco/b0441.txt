@@ -1,0 +1,77 @@
+ENTRY       b0441             CDS       T00007
+NAME        ppiD
+DEFINITION  (RefSeq) periplasmic folding chaperone
+ORTHOLOGY   K03770  peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b0441 (ppiD)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.2  cis-trans-Isomerases
+               5.2.1  cis-trans Isomerases (only sub-subclass identified to date)
+                5.2.1.8  peptidylprolyl isomerase
+                 b0441 (ppiD)
+            Chaperones and folding catalysts [BR:eco03110]
+             Protein folding catalysts
+              Peptidyl prolyl isomerase
+               Cyclophilin
+                b0441 (ppiD)
+POSITION    461915..463786
+MOTIF       Pfam: SurA_N_3 SurA_N_2 Rotamase_2 Rotamase Rotamase_3 SurA_N DUF4214
+DBLINKS     NCBI-GeneID: 946056
+            NCBI-ProteinID: NP_414975
+            Pasteur: ppiD
+            RegulonDB: ECK120002853
+            ECOCYC: G6242
+            ASAP: ABE-0001531
+            UniProt: P0ADY1
+STRUCTURE   PDB: 2KGJ
+AASEQ       623
+            MMDSLRTAANSLVLKIIFGIIIVSFILTGVSGYLIGGGNNYAAKVNDQEISRGQFENAFN
+            SERNRMQQQLGDQYSELAANEGYMKTLRQQVLNRLIDEALLDQYARELKLGISDEQVKQA
+            IFATPAFQVDGKFDNSRYNGILNQMGMTADQYAQALRNQLTTQQLINGVAGTDFMLKGET
+            DELAALVAQQRVVREATIDVNALAAKQPVTEQEIASYYEQNKNNFMTPEQFRVSYIKLDA
+            ATMQQPVSDADIQSYYDQHQDQFTQPQRTRYSIIQTKTEDEAKAVLDELNKGGDFAALAK
+            EKSADIISARNGGDMGWLEDATIPDELKNAGLKEKGQLSGVIKSSVGFLIVRLDDIQPAK
+            VKSLDEVRDDIAAKVKHEKALDAYYALQQKVSDAASNDTESLAGAEQAAGVKATQTGWFS
+            KDNLPEELNFKPVADAIFNGGLVGENGAPGINSDIITVDGDRAFVLRISEHKPEAVKPLA
+            DVQEQVKALVQHNKAEQQAKVDAEKLLVDLKAGKGAEAMQAAGLKFGEPKTLSRSGRDPI
+            SQAAFALPLPAKDKPSYGMATDMQGNVVLLALDEVKQGSMPEDQKKAMVQGITQNNAQIV
+            FEALMSNLRKEAKIKIGDALEQQ
+NTSEQ       1872
+            atgatggacagcttacgcacggctgcaaacagtctcgtgctcaagattattttcggtatc
+            attatcgtgtcgttcatattgaccggcgtgagtggttacctgattggcggaggcaataac
+            tacgccgcaaaagtgaatgaccaggaaatcagccgtgggcaattcgagaacgccttcaac
+            agcgagcgtaatcgcatgcagcaacagctgggcgatcaatactccgagctggcagcgaac
+            gaaggctatatgaaaaccctgcgtcaacaggtgctgaatcgtctgatcgacgaggcgctg
+            ctggatcagtacgcacgtgagctgaaactgggtatcagcgatgagcaggttaaacaggcg
+            attttcgcgaccccagccttccaggttgacggcaaatttgataacagccgctataacggt
+            atcctcaaccagatggggatgaccgccgatcagtacgcccaggcgctgcgtaaccagctc
+            actacccaacagctgattaacggcgttgccggtaccgattttatgctgaaaggtgaaacc
+            gacgagctggcggcactggtcgcgcaacaacgcgtggtgcgtgaggcgactatcgatgtt
+            aacgcgctggcggcgaagcagcctgtgaccgaacaggagattgccagctactacgaacaa
+            aacaaaaacaatttcatgacgccggaacaattccgcgtgagttacatcaagctggatgcc
+            gcaacgatgcagcaaccggttagcgatgcggatatccagagctactacgaccagcatcag
+            gatcaattcacccagccgcagcgtacccgctacagcatcatccagaccaaaactgaagat
+            gaagcgaaagcggtacttgatgagctgaataaaggcggtgattttgctgcattagccaaa
+            gaaaaatctgccgatattatctctgctcgtaacggcggcgatatgggttggttagaagat
+            gccactatcccggacgaactgaaaaatgctggtctgaaagaaaaaggccaactgtctggt
+            gtcatcaaatcttcggtcggtttcctgattgtacgtctggacgacattcagccagcgaaa
+            gtgaaatcgttagacgaagtacgtgacgacattgcggcgaaagtgaaacacgaaaaagcc
+            ctcgatgcgtactacgcgctgcagcagaaagtgagcgatgcggcaagcaacgacaccgag
+            tctctggccggtgcagagcaagctgccggcgttaaagccactcagacgggttggttcagc
+            aaagataacctgccggaagagttgaacttcaagccggttgccgacgctatctttaacggc
+            ggtctggtaggtgaaaacggcgcgccgggcatcaactctgacatcatcaccgtagacggc
+            gaccgcgcattcgtgctgcgcatcagcgagcacaaaccggaagcggtgaaaccgttggca
+            gatgttcaggaacaagttaaggcattggttcagcacaacaaagctgaacaacaggcgaaa
+            gtggatgctgagaaactgctggttgatttgaaagccggcaaaggtgcggaagctatgcag
+            gctgccggtctgaaatttggcgagccgaaaaccttaagccgttccggtcgtgacccgatt
+            agccaggcggcgtttgcactgccactgccagcgaaagacaaaccgagctacggtatggcg
+            accgatatgcaaggtaatgtggttctgctggcgctggatgaagtgaaacaaggttcaatg
+            ccggaagatcagaaaaaagcgatggtgcagggtatcacccagaacaacgcacaaatcgtc
+            tttgaagctctgatgagtaacctgcgtaaagaggcgaaaatcaaaattggcgatgcgctg
+            gaacagcaataa
+///

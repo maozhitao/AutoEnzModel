@@ -1,0 +1,67 @@
+ENTRY       b3560             CDS       T00007
+NAME        glyQ
+DEFINITION  (RefSeq) glycine--tRNA ligase subunit alpha
+ORTHOLOGY   K01878  glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                b3560 (glyQ)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:eco01007]
+                b3560 (glyQ)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3560 (glyQ)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.14  glycine---tRNA ligase
+                 b3560 (glyQ)
+            Amino acid related enzymes [BR:eco01007]
+             Aminoacyl-tRNA synthetase
+              Class II (C/G)
+               b3560 (glyQ)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                b3560 (glyQ)
+POSITION    complement(3724407..3725318)
+MOTIF       Pfam: tRNA-synt_2e
+DBLINKS     NCBI-GeneID: 948079
+            NCBI-ProteinID: NP_418017
+            Pasteur: glyQ
+            RegulonDB: ECK120000402
+            ECOCYC: EG10409
+            ASAP: ABE-0011626
+            UniProt: P00960
+AASEQ       303
+            MQKFDTRTFQGLILTLQDYWARQGCTIVQPLDMEVGAGTSHPMTCLRELGPEPMAAAYVQ
+            PSRRPTDGRYGENPNRLQHYYQFQVVIKPSPDNIQELYLGSLKELGMDPTIHDIRFVEDN
+            WENPTLGAWGLGWEVWLNGMEVTQFTYFQQVGGLECKPVTGEITYGLERLAMYIQGVDSV
+            YDLVWSDGPLGKTTYGDVFHQNEVEQSTYNFEYADVDFLFTCFEQYEKEAQQLLALENPL
+            PLPAYERILKAAHSFNLLDARKAISVTERQRYILRIRTLTKAVAEAYYASREALGFPMCN
+            KDK
+NTSEQ       912
+            atgcaaaagtttgataccaggaccttccagggcttgatcctgaccttacaggattactgg
+            gctcgccagggctgcaccattgttcaaccattggacatggaagtcggcgcgggaacctct
+            cacccaatgacctgtctgcgcgagctggggccagaaccgatggcggctgcttatgttcag
+            ccttctcgtcgcccgaccgatggtcgctacggcgaaaaccccaaccgtttacagcactac
+            tatcagttccaggtggtcattaagccatcgccggacaatattcaggagctgtacctcggt
+            tctctgaaagagctgggcatggacccgactattcacgacatccgtttcgtggaagataac
+            tgggaaaacccgacgctgggtgcctggggactgggctgggaagtgtggctgaacggcatg
+            gaagtgacgcagttcacttacttccagcaggttggtggtctggagtgtaaaccggttacc
+            ggcgagatcacctacggtctggaacgtctggccatgtacattcagggcgtagacagcgtt
+            tacgacctggtctggagcgacggcccgctgggtaaaaccacctacggcgacgtgttccat
+            cagaacgaagtggagcagtccacttacaacttcgaatacgcggatgtggacttcctgttc
+            acctgcttcgagcagtacgagaaagaagcgcagcagctgctggcgctggaaaatccgctg
+            ccgctgccagcctacgagcgtattctgaaagccgcccacagcttcaacctgctggatgcg
+            cgtaaagccatctccgtcaccgagcgtcagcgctacattctgcgcattcgcaccctgacc
+            aaagcagtggcagaagcatactacgcttcccgtgaagccctcggcttcccgatgtgcaac
+            aaagataagtaa
+///

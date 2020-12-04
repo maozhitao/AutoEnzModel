@@ -1,0 +1,42 @@
+ENTRY       b1073             CDS       T00007
+NAME        flgB
+DEFINITION  (RefSeq) flagellar basal-body rod protein FlgB
+ORTHOLOGY   K02387  flagellar basal-body rod protein FlgB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1073 (flgB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1073 (flgB)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Rod,hook and filament
+                b1073 (flgB)
+POSITION    1131018..1131434
+MOTIF       Pfam: Flg_bb_rod Mito_fiss_reg Flagellin_C
+DBLINKS     NCBI-GeneID: 945678
+            NCBI-ProteinID: NP_415591
+            Pasteur: flgB
+            RegulonDB: ECK120002679
+            ECOCYC: G358
+            ASAP: ABE-0003641
+            UniProt: P0ABW9
+AASEQ       138
+            MLDKLDAALRFQQEALNLRAQRQEVLAANIANADTPGYQARDIDFASELKKVMQRGRDAT
+            SVVALTMTSTQHIPAQALTPPTAELQYRIPDQPSLDGNTVDMDRERTQFADNSLQYQMSL
+            SALSGQIKGMMNVLQSGN
+NTSEQ       417
+            atgctcgataagctcgacgccgccttacgttttcaacaagaggcgctcaatctgcgcgcc
+            cagcgtcaggaagtgctggcagcaaacatcgccaatgccgatacccctggttatcaggcg
+            cgcgatatcgattttgccagtgaacttaaaaaagtcatgcaacgtggacgggatgcaacc
+            agtgtggttgcactgacgatgacctcaacgcaacacattccggcgcaggcgctgacgcct
+            cctaccgcagaactgcaataccgtattccggaccagccttcgcttgacggtaataccgtc
+            gatatggatcgcgaacgcacccagtttgccgataacagcctgcaataccagatgagcctt
+            agcgcgttgagcgggcaaatcaaaggcatgatgaacgttttacagagcggaaattaa
+///

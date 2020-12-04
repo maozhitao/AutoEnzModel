@@ -1,0 +1,35 @@
+ENTRY       b2897             CDS       T00007
+NAME        sdhE
+DEFINITION  (RefSeq) FAD assembly factor
+ORTHOLOGY   K09159  antitoxin CptB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b2897 (sdhE)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type IV TA system
+               CptA-CptB
+                b2897 (sdhE)
+POSITION    complement(3040804..3041070)
+MOTIF       Pfam: Sdh5 YbjN RE_XamI
+DBLINKS     NCBI-GeneID: 947382
+            NCBI-ProteinID: NP_417373
+            Pasteur: ygfY
+            RegulonDB: ECK120004072
+            ECOCYC: G7510
+            ASAP: ABE-0009507
+            UniProt: P64559
+STRUCTURE   PDB: 1X6I 1X6J 6C12 6B58
+AASEQ       88
+            MDINNKARIHWACRRGMRELDISIMPFFEHEYDSLSDDEKRIFIRLLECDDPDLFNWLMN
+            HGKPADAELEMMVRLIQTRNRERGPVAI
+NTSEQ       267
+            atggacattaacaacaaagcccgcattcattgggcatgccgccgtggtatgcgcgaactc
+            gatatttcaatcatgccgtttttcgaacatgagtacgacagcttaagcgatgacgaaaaa
+            cgcatctttattcgtctgctggaatgtgacgatccggacctgtttaactggctgatgaat
+            cacggtaaaccggccgatgcagaactggaaatgatggtccgactcatccagacacggaac
+            cgggaacgtggtcctgtggcaatctga
+///

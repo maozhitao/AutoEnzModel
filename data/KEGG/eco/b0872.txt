@@ -1,0 +1,51 @@
+ENTRY       b0872             CDS       T00007
+NAME        hcr
+DEFINITION  (RefSeq) NADH oxidoreductase
+ORTHOLOGY   K11933  NADH oxidoreductase Hcr [EC:1.-.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0872 (hcr)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.-  
+               1.-.-  
+                1.-.-.-  
+                 b0872 (hcr)
+POSITION    complement(911182..912150)
+MOTIF       Pfam: Fer2 NAD_binding_1 FAD_binding_6 Fer2_3
+DBLINKS     NCBI-GeneID: 947660
+            NCBI-ProteinID: NP_415393
+            Pasteur: ybjV
+            RegulonDB: ECK120003056
+            ECOCYC: G6456
+            ASAP: ABE-0002960
+            UniProt: P75824
+AASEQ       322
+            MTMPTNQCPWRMQVHHITQETPDVWTISLICHDYYPYRAGQYALVSVRNSAETLRAYTIS
+            STPGVSEYITLTVRRIDDGVGSQWLTRDVKRGDYLWLSDAMGEFTCDDKAEDKFLLLAAG
+            CGVTPIMSMRRWLAKNRPQADVRVIYNVRTPQDVIFADEWRNYPVTLVAENNVTEGFIAG
+            RLTRELLAGVPDLASRTVMTCGPAPYMDWVEQEVKALGVTRFFKEKFFTPVAEAATSGLK
+            FTKLQPAREFYAPVGTTLLEALESNNVPVVAACRAGVCGCCKTKVVSGEYTVSSTMTLTD
+            AEIAEGYVLACSCHPQGDLVLA
+NTSEQ       969
+            atgacgatgccaacgaatcaatgcccgtggcggatgcaggttcatcacattacgcaagaa
+            acgccggatgtgtggacgatttccctgatttgccacgattactacccatatcgcgccggg
+            caatatgcactggtcagcgtgcgaaactcagcggaaacgctgcgtgcttacaccatttcc
+            tccacgccaggcgtgagtgaatatatcaccctgaccgtgcggcggattgatgacggtgtc
+            ggctcccagtggctgacgcgcgatgtaaaacgcggtgattatctctggctttcggacgcg
+            atgggggaatttacctgcgacgataaagcagaagataaattcctgttgctggcggcaggc
+            tgcggcgtcacgccgattatgtcgatgcgtcgctggcttgcgaagaaccgtccacaggcc
+            gatgtgcgggtgatctacaacgtgcgtacgccgcaggatgttattttcgccgatgagtgg
+            cgtaactatccggtaacgctggtggcagaaaataacgttaccgaaggctttatcgctggt
+            cgtctcactcgcgaactgctggcaggtgtacctgacttagcttcacgtaccgtgatgacc
+            tgcggcccggctccgtatatggattgggtagagcaggaagtgaaagcgctcggcgtgacg
+            cgtttctttaaagagaaattcttcaccccagtagcagaagcggcgaccagcggtctgaaa
+            ttcaccaaactgcaaccggcacgagaattttacgccccggttggcaccacgctactggag
+            gcgctggaaagcaataacgttccggttgtcgctgcctgccgtgcgggtgtttgcggctgc
+            tgtaagacaaaagtggtttccggtgaatatacggtgagcagcacaatgacgctgaccgac
+            gccgaaatcgctgaaggttacgtactggcctgctcctgccatccgcagggggatttggtt
+            ctcgcataa
+///

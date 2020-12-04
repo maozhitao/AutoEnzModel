@@ -1,0 +1,40 @@
+ENTRY       b2531             CDS       T00007
+NAME        iscR
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator IscR
+ORTHOLOGY   K13643  Rrf2 family transcriptional regulator, iron-sulfur cluster assembly transcription factor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b2531 (iscR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               Rrf2 family
+                b2531 (iscR)
+POSITION    complement(2661643..2662131)
+MOTIF       Pfam: Rrf2 HrcA_DNA-bdg MarR_2 HTH_24 HTH_47 HTH_AraC
+DBLINKS     NCBI-GeneID: 945279
+            NCBI-ProteinID: NP_417026
+            Pasteur: yfhP
+            RegulonDB: ECK120003898
+            ECOCYC: G7326
+            ASAP: ABE-0008326
+            UniProt: P0AGK8
+STRUCTURE   PDB: 4HF0 4HF1 4CHU 4HF2
+AASEQ       162
+            MRLTSKGRYAVTAMLDVALNSEAGPVPLADISERQGISLSYLEQLFSRLRKNGLVSSVRG
+            PGGGYLLGKDASSIAVGEVISAVDESVDATRCQGKGGCQGGDKCLTHALWRDLSDRLTGF
+            LNNITLGELVNNQEVLDVSGRQHTHDAPRTRTQDAIDVKLRA
+NTSEQ       489
+            atgagactgacatctaaagggcgctatgccgtgaccgcaatgcttgacgttgcgctcaac
+            tctgaagcgggcccggtaccgttggctgatatttccgaacgtcagggaatttccctttct
+            tatctggaacaactgttttcccgtctgcgtaaaaatggtctggtttccagcgtacgtgga
+            ccaggcggtggttatctgttaggcaaagatgccagcagcatcgccgttggcgaagtaatt
+            agcgccgttgacgaatctgtagatgccacccgttgtcagggtaaaggcggctgccagggc
+            ggcgataaatgcctgacccacgcgctgtggcgtgatttgagcgaccgtctcaccggtttt
+            ctcaacaacattactttaggcgaactggttaataaccaggaagtgctggatgtgtctggt
+            cgtcagcatactcacgacgcgccacgcacccgcacacaagacgcgatcgacgttaagtta
+            cgcgcttaa
+///

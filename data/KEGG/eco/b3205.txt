@@ -1,0 +1,48 @@
+ENTRY       b3205             CDS       T00007
+NAME        rapZ
+DEFINITION  (RefSeq) RNase adaptor protein
+ORTHOLOGY   K06958  RNase adapter protein RapZ
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:eco03019]
+                b3205 (rapZ)
+            Messenger RNA biogenesis [BR:eco03019]
+             Prokaryotic type
+              Bacterial mRNA degradation factors
+               Other RNA degradation factors
+                Others
+                 b3205 (rapZ)
+POSITION    3347115..3347969
+MOTIF       Pfam: ATP_bind_2 AAA_28 AAA_18 AAA_16 FtsK_SpoIIIE AAA_22
+DBLINKS     NCBI-GeneID: 947727
+            NCBI-ProteinID: NP_417672
+            Pasteur: yhbJ
+            RegulonDB: ECK120002046
+            ASAP: ABE-0010522
+            UniProt: P0A894
+STRUCTURE   PDB: 5O5S 5O5Q 5O5O
+AASEQ       284
+            MVLMIVSGRSGSGKSVALRALEDMGFYCVDNLPVVLLPDLARTLADREISAAVSIDVRNM
+            PESPEIFEQAMSNLPDAFSPQLLFLDADRNTLIRRYSDTRRLHPLSSKNLSLESAIDKES
+            DLLEPLRSRADLIVDTSEMSVHELAEMLRTRLLGKRERELTMVFESFGFKHGIPIDADYV
+            FDVRFLPNPHWDPKLRPMTGLDKPVAAFLDRHTEVHNFIYQTRSYLELWLPMLETNNRSY
+            LTVAIGCTGGKHRSVYIAEQLADYFRSRGKNVQSRHRTLEKRKP
+NTSEQ       855
+            atggtactgatgatcgtcagcggacgttcaggttcaggtaaatctgtcgccctgcgtgcg
+            ctggaagatatgggtttttactgcgtggataaccttcccgtagtgttgttacccgatctg
+            gctcgaaccctggccgatcgcgagatttctgccgccgtcagcattgatgttcgtaatatg
+            ccggagtcaccagaaatattcgaacaggcgatgagtaacctgcctgacgctttctcaccg
+            caactcctgttcctggatgccgaccgtaataccttaattcgtcgttacagtgacacgcgc
+            cgactgcatccgctttccagcaaaaacctgtcgctggaaagtgctatcgacaaagaaagc
+            gatttgctggagcctctgcgttcgcgagcggatctgattgtcgatacctcagaaatgtcc
+            gttcacgagctggctgaaatgctgcgtacccgtctgctgggtaaacgtgaacgcgaactg
+            accatggtctttgagtctttcggcttcaaacacggtatccctatcgatgcagattacgtc
+            tttgacgtgcgcttcttgccgaacccgcactgggatccgaaactgcgtccaatgacaggt
+            cttgataaacctgtcgccgcgttcctcgaccgccacacagaagtacacaattttatctac
+            cagacgcgaagctatcttgagctatggttacctatgctggaaaccaacaaccgtagctac
+            ttgacggtcgccattggttgtaccggcgggaagcaccgttcggtgtatattgcagagcaa
+            ctggcagactacttccgctcgcgcggtaaaaacgtccagtcacgccatcgtacgctggaa
+            aaacgtaaaccatga
+///

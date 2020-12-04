@@ -1,0 +1,39 @@
+ENTRY       b4149             CDS       T00007
+NAME        blc
+DEFINITION  (RefSeq) outer membrane lipoprotein Blc
+ORTHOLOGY   K03098  apolipoprotein D and lipocalin family protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:eco04147]
+                b4149 (blc)
+            Exosome [BR:eco04147]
+             Exosomal proteins
+              Exosomal proteins of other cancer cells
+               b4149 (blc)
+POSITION    complement(4377189..4377722)
+MOTIF       Pfam: Lipocalin_2 Lipocalin
+DBLINKS     NCBI-GeneID: 948670
+            NCBI-ProteinID: NP_418573
+            Pasteur: blc
+            RegulonDB: ECK120004333
+            ECOCYC: G7837
+            ASAP: ABE-0013590
+            UniProt: P0A901
+STRUCTURE   PDB: 1QWD 2ACO 3MBT
+AASEQ       177
+            MRLLPLVAAATAAFLVVACSSPTPPRGVTVVNNFDAKRYLGTWYEIARFDHRFERGLEKV
+            TATYSLRDDGGLNVINKGYNPDRGMWQQSEGKAYFTGAPTRAALKVSFFGPFYGGYNVIA
+            LDREYRHALVCGPDRDYLWILSRTPTISDEVKQEMLAVATREGFDVSKFIWVQQPGS
+NTSEQ       534
+            atgcgcctgctccctctcgttgccgcagcgacagctgcatttctggtcgttgcctgcagt
+            tctcctacgccgccgcgtggcgtgaccgtagtaaataatttcgacgccaaacgttatctc
+            ggtacctggtatgagattgcccgttttgatcaccgctttgaacgtggactggaaaaagtc
+            accgcaacatacagcctgcgtgatgacggcggcctgaatgtcattaataaaggctataac
+            cctgacagaggaatgtggcagcagagtgaagggaaagcgtactttaccggcgcaccaact
+            cgcgctgcgctgaaagtgtcattctttggtcctttctatggcggttataacgttattgca
+            ctcgatcgggaataccgccatgcgctggtttgcggcccggaccgcgactacctgtggata
+            ctctcccgcacgccaaccatttctgacgaagtgaaacaggagatgctggcagtcgcgacc
+            cgggaagggtttgatgtcagtaaatttatttgggtacagcagcctggtagttag
+///

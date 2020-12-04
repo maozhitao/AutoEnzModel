@@ -1,0 +1,42 @@
+ENTRY       b0531             CDS       T00007
+NAME        sfmC
+DEFINITION  (RefSeq) putative fimbrial chaperone SfmC
+ORTHOLOGY   K07353  fimbrial chaperone protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b0531 (sfmC)
+            Bacterial motility proteins [BR:eco02035]
+             Pilus system
+              Fimbrial proteins
+               b0531 (sfmC)
+POSITION    558974..559666
+MOTIF       Pfam: PapD_N PapD_C
+DBLINKS     NCBI-GeneID: 945367
+            NCBI-ProteinID: NP_415064
+            Pasteur: sfmC
+            RegulonDB: ECK120002899
+            ECOCYC: G6291
+            ASAP: ABE-0001828
+            UniProt: P77249
+AASEQ       230
+            MMTKIKLLMLIIFYLIISASAHAAGGIALGATRIIYPADAKQTAVWIRNSHTNERFLVNS
+            WIENSSGVKEKSFIITPPLFVSEPKSENTLRIIYTGPPLAADRESLFWMNVKTIPSVDKN
+            ALNGRNVLQLAILSRMKLFLRPIQLQELPAEAPDTLKFSRSGNYINVHNPSPFYVTLVNL
+            QVGSQKLGNAMAAPRVNSQIPLPSGVQGKLKFQTVNDYGSVTPVREVNLN
+NTSEQ       693
+            atgatgactaaaataaagttattgatgctcattatattttatttaatcatttcggccagc
+            gcccatgctgccggagggatcgcattaggtgccacgcgtattatttatcccgctgatgct
+            aaacagactgcggtatggattagaaatagccataccaatgagcgctttctggtcaattcg
+            tggattgaaaacagcagcggtgtaaaagaaaagtcattcatcattacaccgccactgttt
+            gttagtgaacccaaaagcgaaaatactttgcgtattatttacaccggtccaccgctggca
+            gcagatcgtgagtctctgttctggatgaatgttaagacgatcccttcggtagataaaaat
+            gcattgaacggcaggaatgttttgcaactggcgattttatcgcgcatgaaattatttctc
+            cgtccaattcaattacaagaattacccgcagaagcgccggacacactcaagttttcgcga
+            tccggtaactatatcaatgttcataatccatcacctttttatgtcaccctggttaactta
+            caagtgggcagccaaaagttggggaatgctatggctgcacccagagttaattcacaaatt
+            cccttaccctcaggagtgcagggaaagctgaaatttcagaccgttaatgattatggttca
+            gtaactccggtcagagaagtgaacttaaactaa
+///

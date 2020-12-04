@@ -1,0 +1,52 @@
+ENTRY       b1630             CDS       T00007
+NAME        rsxD
+DEFINITION  (RefSeq) SoxR [2Fe-2S] reducing system protein RsxD
+ORTHOLOGY   K03614  Na+-translocating ferredoxin:NAD+ oxidoreductase subunit D [EC:7.2.1.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b1630 (rsxD)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.2  Catalysing the translocation of inorganic cations
+               7.2.1  Linked to oxidoreductase reactions
+                7.2.1.2  ferredoxin---NAD+ oxidoreductase (Na+-transporting)
+                 b1630 (rsxD)
+POSITION    1709142..1710200
+MOTIF       Pfam: NQR2_RnfD_RnfE
+DBLINKS     NCBI-GeneID: 946134
+            NCBI-ProteinID: NP_416147
+            Pasteur: ydgO
+            RegulonDB: ECK120003463
+            ECOCYC: G6874
+            ASAP: ABE-0005457
+            UniProt: P76182
+AASEQ       352
+            MVFRIASSPYTHNQRQTSRIMLLVLLAAVPGIAAQLWFFGWGTLVQILLASVSALLAEAL
+            VLKLRKQSVAATLKDNSALLTGLLLAVSIPPLAPWWMVVLGTVFAVIIAKQLYGGLGQNP
+            FNPAMIGYVVLLISFPVQMTSWLPPHEIAVNIPGFIDAIQVIFSGHTASGGDMNTLRLGI
+            DGISQATPLDTFKTSVRAGHSVEQIMQYPIYSGILAGAGWQWVNLAWLAGGVWLLWQKAI
+            RWHIPLSFLVTLALCAMLGWLFSPETLAAPQIHLLSGATMLGAFFILTDPVTASTTNRGR
+            LIFGALAGLLVWLIRSFGGYPDGVAFAVLLANITVPLIDYYTRPRVYGHRKG
+NTSEQ       1059
+            atggtattcagaatagctagctccccttatacccataaccagcgccagacatcgcgcatt
+            atgctgttggtgttgctcgcagccgtgccaggaatcgcagcgcaactgtggttttttggt
+            tggggtactctcgttcagatcctgttggcatcggttagtgctctgttagccgaagctctc
+            gtactcaaactacgcaagcagtcggtagccgcaacgttgaaagataactcagcattgctg
+            acaggcttattgctggcggtaagtattccccccctcgcgccatggtggatggtcgtgctg
+            ggtacggtgtttgcggtgatcatcgctaaacagttgtatggcggtctgggacaaaacccg
+            tttaatccggcaatgattggttatgtggtcttactgatctccttccccgtgcagatgacc
+            agctggttaccgccacatgaaattgcggtcaacatccctggttttatcgacgccatccag
+            gttatttttagcggtcataccgccagtggtggtgatatgaacacactacgcttaggtatt
+            gatggcattagtcaggcgacaccgctggatacatttaaaacctctgtccgtgccggtcat
+            tcggttgaacagattatgcaatatccgatctacagcggtattctggcgggcgctggttgg
+            caatgggtaaatctcgcctggctggctggcggcgtatggttgctatggcagaaagcgatt
+            cgctggcatattcccctcagcttcttagtaacgctggcgttatgcgcaatgttgggctgg
+            ttgttctcaccagaaacactggcagcaccgcaaattcatctgctgtctggagcgaccatg
+            ctcggcgcattctttattttgactgacccggttaccgcttctacgaccaatcgtggtcgt
+            cttattttcggcgcgcttgcgggcttattagtctggttgatccgcagtttcggcggctat
+            cctgacggcgtggcttttgccgtcctgctggcgaacatcacggttcctctgatcgattac
+            tacacgcgtccgcgcgtctacggccatcgcaaagggtaa
+///

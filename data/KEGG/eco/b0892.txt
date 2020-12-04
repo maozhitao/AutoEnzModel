@@ -1,0 +1,54 @@
+ENTRY       b0892             CDS       T00007
+NAME        rarA
+DEFINITION  (RefSeq) recombination factor
+ORTHOLOGY   K07478  putative ATPase
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09192 Unclassified: genetic information processing
+               99976 Replication and repair
+                b0892 (rarA)
+POSITION    937994..939337
+MOTIF       Pfam: MgsA_C AAA_assoc_2 AAA RuvB_N AAA_5 AAA_16 Mg_chelatase Sigma54_activat AAA_22 AAA_19 AAA_3 AAA_30 AAA_2 AAA_14 RNA_helicase ResIII Sigma54_activ_2 DNA_pol3_delta2 ABC_tran ATP-synt_ab AAA_28 DUF815 AAA_33 IstB_IS21 AAA_24 AAA_18 AAA_11 NACHT AAA_25 TsaE TniB Resolvase T2SSE NTPase_1 DUF2075 AAA_17 cobW TIP49 RsgA_GTPase AAA_7 Parvo_NS1
+DBLINKS     NCBI-GeneID: 945505
+            NCBI-ProteinID: NP_415412
+            Pasteur: ycaJ
+            RegulonDB: ECK120002355
+            ECOCYC: EG12690
+            ASAP: ABE-0003034
+            UniProt: P0AAZ4
+STRUCTURE   PDB: 3PVS
+AASEQ       447
+            MSNLSLDFSDNTFQPLAARMRPENLAQYIGQQHLLAAGKPLPRAIEAGHLHSMILWGPPG
+            TGKTTLAEVIARYANADVERISAVTSGVKEIREAIERARQNRNAGRRTILFVDEVHRFNK
+            SQQDAFLPHIEDGTITFIGATTENPSFELNSALLSRARVYLLKSLSTEDIEQVLTQAMED
+            KTRGYGGQDIVLPDETRRAIAELVNGDARRALNTLEMMADMAEVDDSGKRVLKPELLTEI
+            AGERSARFDNKGDRFYDLISALHKSVRGSAPDAALYWYARIITAGGDPLYVARRCLAIAS
+            EDVGNADPRAMQVAIAAWDCFTRVGPAEGERAIAQAIVYLACAPKSNAVYTAFKAALADA
+            RERPDYDVPVHLRNAPTKLMKEMGYGQEYRYAHDEANAYAAGEVYFPPEIAQTRYYFPTN
+            RGLEGKIGEKLAWLAEQDQNSPIKRYR
+NTSEQ       1344
+            gtgagcaatctgtcgctcgatttttcggataatacttttcaacctctggccgcgcgtatg
+            cggccagaaaatttagcacagtatatcggccagcaacatttgctggctgcggggaagccg
+            ttgccgcgcgctatcgaagccgggcatttacattctatgatcctctgggggccgccgggt
+            accggcaaaacaactctcgctgaagtgattgcccgctatgcgaacgctgatgtggaacgt
+            atttctgccgtcacctctggcgtgaaagagattcgcgaggcgatcgagcgcgcccggcaa
+            aaccgcaatgcaggtcgccgcactattctttttgttgacgaagttcaccgtttcaacaaa
+            agccagcaggatgcatttctgccacatattgaagacggcaccatcacttttattggcgca
+            accactgaaaacccgtcgtttgagcttaattcggcactgctttcccgtgcccgtgtctat
+            ctgttgaaatccctgagtacagaggatattgagcaagtactaactcaggcgatggaagac
+            aaaacccgtggctatggtggtcaggatattgttctgccagatgaaacacgacgcgccatt
+            gctgaactggtgaatggcgacgcgcgccgggcgttaaatacgctggaaatgatggcggat
+            atggccgaagtcgatgatagcggtaagcgggtcctgaagcctgaattactgaccgaaatc
+            gccggtgaacgtagcgcccgctttgataacaaaggcgatcgcttttacgatctgatttcc
+            gcactgcataagtcggtacgtggtagcgcacccgatgcggcgctgtactggtatgcgcga
+            attattaccgctggtggcgatccgttatatgtcgcgcgtcgctgtctggcgattgcgtct
+            gaagacgtcggtaatgccgatccacgggcgatgcaggtggcaattgcggcctgggattgc
+            tttactcgcgttggcccggcggaaggtgaacgcgccattgctcaggcgattgtttacctg
+            gcctgcgcgccaaaaagcaacgctgtctacactgcgtttaaagccgcgctggccgatgct
+            cgcgaacgcccggattatgacgtgccggttcatttgcgtaatgcgccgacgaaattaatg
+            aaggaaatgggctacgggcaggaatatcgttacgctcatgatgaagcaaacgcttatgct
+            gccggtgaggtttacttcccgccggaaatagcacaaacacgctattatttcccgacaaac
+            aggggccttgaaggcaagattggcgaaaagctcgcctggctggctgaacaggatcaaaat
+            agccccataaaacgctaccgttaa
+///

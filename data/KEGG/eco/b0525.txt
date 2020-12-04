@@ -1,0 +1,46 @@
+ENTRY       b0525             CDS       T00007
+NAME        ppiB
+DEFINITION  (RefSeq) peptidyl-prolyl cis-trans isomerase B
+ORTHOLOGY   K03768  peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b0525 (ppiB)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.2  cis-trans-Isomerases
+               5.2.1  cis-trans Isomerases (only sub-subclass identified to date)
+                5.2.1.8  peptidylprolyl isomerase
+                 b0525 (ppiB)
+            Chaperones and folding catalysts [BR:eco03110]
+             Protein folding catalysts
+              Peptidyl prolyl isomerase
+               Cyclophilin
+                b0525 (ppiB)
+POSITION    complement(553943..554437)
+MOTIF       Pfam: Pro_isomerase
+DBLINKS     NCBI-GeneID: 949038
+            NCBI-ProteinID: NP_415058
+            Pasteur: ppiB
+            RegulonDB: ECK120000749
+            ECOCYC: EG10758
+            ASAP: ABE-0001806
+            UniProt: P23869
+STRUCTURE   PDB: 1LOP 2NUL 2RS4
+AASEQ       164
+            MVTFHTNHGDIVIKTFDDKAPETVKNFLDYCREGFYNNTIFHRVINGFMIQGGGFEPGMK
+            QKATKEPIKNEANNGLKNTRGTLAMARTQAPHSATAQFFINVVDNDFLNFSGESLQGWGY
+            CVFAEVVDGMDVVDKIKGVATGRSGMHQDVPKEDVIIESVTVSE
+NTSEQ       495
+            atggttactttccacaccaatcacggcgatattgtcatcaaaacttttgacgataaagca
+            cctgaaacagttaaaaacttcctggactactgccgcgaaggtttttacaacaacaccatt
+            ttccaccgtgttatcaacggctttatgattcagggcggcggttttgaaccgggcatgaaa
+            caaaaagccaccaaagaaccgatcaaaaacgaagccaacaacggcctgaaaaatacccgt
+            ggtacgctggcaatggcacgtactcaggctccgcactctgcaactgcacagttcttcatc
+            aacgtggttgataacgacttcctgaacttctctggcgaaagcctgcaaggttggggctac
+            tgcgtgtttgctgaagtggttgacggcatggacgtggtagacaaaatcaaaggtgttgca
+            accggtcgtagcggtatgcaccaggacgtgccaaaagaagacgttatcattgaaagcgtg
+            accgttagcgagtaa
+///

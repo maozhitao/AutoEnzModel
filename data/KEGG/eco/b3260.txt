@@ -1,0 +1,57 @@
+ENTRY       b3260             CDS       T00007
+NAME        dusB
+DEFINITION  (RefSeq) tRNA-dihydrouridine synthase B
+ORTHOLOGY   K05540  tRNA-dihydrouridine synthase B [EC:1.-.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3260 (dusB)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.-  
+               1.-.-  
+                1.-.-.-  
+                 b3260 (dusB)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Dihydorouridine synthases
+                b3260 (dusB)
+POSITION    3410280..3411245
+MOTIF       Pfam: Dus DHO_dh His_biosynth NanE PEP_mutase Pterin_bind Radical_SAM ThiG NMO
+DBLINKS     NCBI-GeneID: 947707
+            NCBI-ProteinID: NP_417726
+            Pasteur: yhdG
+            RegulonDB: ECK120001282
+            ECOCYC: EG11311
+            ASAP: ABE-0010700
+            UniProt: P0ABT5
+STRUCTURE   PDB: 6EI9
+AASEQ       321
+            MRIGQYQLRNRLIAAPMAGITDRPFRTLCYEMGAGLTVSEMMSSNPQVWESDKSRLRMVH
+            IDEPGIRTVQIAGSDPKEMADAARINVESGAQIIDINMGCPAKKVNRKLAGSALLQYPDV
+            VKSILTEVVNAVDVPVTLKIRTGWAPEHRNCEEIAQLAEDCGIQALTIHGRTRACLFNGE
+            AEYDSIRAVKQKVSIPVIANGDITDPLKARAVLDYTGADALMIGRAAQGRPWIFREIQHY
+            LDTGELLPPLPLAEVKRLLCAHVRELHDFYGPAKGYRIARKHVSWYLQEHAPNDQFRRTF
+            NAIEDASEQLEALEAYFENFA
+NTSEQ       966
+            atgcgcatcggacaatatcagctcagaaatcgcctgatcgcagcgcccatggctggcatt
+            acagacagaccttttcggacgttgtgctacgagatgggagccggattgacagtatccgag
+            atgatgtcttctaacccacaggtttgggaaagcgacaaatctcgtttacggatggtgcac
+            attgatgaacccggtattcgcaccgtgcaaattgctggtagcgatccgaaagaaatggca
+            gatgcagcacgtattaacgtggaaagcggtgcccagattattgatatcaatatgggttgc
+            ccggctaaaaaagtgaatcgcaagctcgcaggttcagccctcttgcagtacccggatgtc
+            gttaaatcgatccttaccgaggtcgtcaatgcagtggacgttcctgttaccctgaagatt
+            cgcaccggctgggcaccggaacaccgtaactgcgaagagattgcccaactggctgaagac
+            tgtggcattcaggctctgaccattcatggccgtacacgcgcctgtttgttcaatggagaa
+            gctgagtacgacagtattcgggcagttaagcagaaagtttccattccggttatcgcgaat
+            ggcgacattactgacccgcttaaagccagagctgtgctcgactatacaggggcggatgcc
+            ctgatgataggccgcgcagctcagggaagaccctggatctttcgggaaatccagcattat
+            ctggacactggggagttgctgcccccgctgcctttggcagaggttaagcgcttgctttgc
+            gcgcacgttcgggaactgcatgacttttatggtccggcaaaagggtaccgaattgcacgt
+            aaacacgtttcctggtatctccaggaacacgctccaaatgaccagtttcggcgcacattc
+            aacgccattgaggatgccagcgaacagctggaggcgttggaggcatacttcgaaaatttt
+            gcgtaa
+///

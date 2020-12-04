@@ -1,0 +1,47 @@
+ENTRY       b3887             CDS       T00007
+NAME        dtd
+DEFINITION  (RefSeq) D-aminoacyl-tRNA deacylase
+ORTHOLOGY   K07560  D-aminoacyl-tRNA deacylase [EC:3.1.1.96]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3887 (dtd)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.96  D-aminoacyl-tRNA deacylase
+                 b3887 (dtd)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Trans-editing factors
+                b3887 (dtd)
+             Prokaryotic type
+                b3887 (dtd)
+POSITION    4077015..4077452
+MOTIF       Pfam: Tyr_Deacylase
+DBLINKS     NCBI-GeneID: 948378
+            NCBI-ProteinID: NP_418323
+            Pasteur: yihZ
+            RegulonDB: ECK120001783
+            ECOCYC: EG11852
+            ASAP: ABE-0012690
+            UniProt: P0A6M4
+STRUCTURE   PDB: 1JKE
+AASEQ       145
+            MIALIQRVTRASVTVEGEVTGEIGAGLLVLLGVEKDDDEQKANRLCERVLGYRIFSDAEG
+            KMNLNVQQAGGSVLVVSQFTLAADTERGMRPSFSKGASPDRAEALYDYFVERCRQQEMNT
+            QTGRFAADMQVSLVNDGPVTFWLQV
+NTSEQ       438
+            atgattgcattaattcaacgcgtaacccgtgccagcgtcaccgtggagggagaagtgacg
+            ggcgaaattggcgcgggacttttggtgttattgggtgtcgaaaaggatgacgacgaacag
+            aaagcaaaccgtctgtgcgagcgtgtgctcggctaccgcatctttagcgatgccgaaggc
+            aagatgaatctcaacgtgcaacaggcgggcggcagtgtgctggtggtttcccagtttacc
+            ctcgccgcagataccgaacgggggatgcgcccaagtttctccaaaggtgcatcaccggat
+            cgcgcagaggcgttatatgactatttcgtcgaacgctgccgtcagcaagagatgaacacg
+            caaacaggacgcttcgctgcggatatgcaggtatcgctggtcaatgatggccccgtgaca
+            ttctggttgcaggtatga
+///

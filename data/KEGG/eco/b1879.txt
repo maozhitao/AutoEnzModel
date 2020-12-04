@@ -1,0 +1,85 @@
+ENTRY       b1879             CDS       T00007
+NAME        flhA
+DEFINITION  (RefSeq) flagellar biosynthesis protein FlhA
+ORTHOLOGY   K02400  flagellar biosynthesis protein FlhA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1879 (flhA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b1879 (flhA)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1879 (flhA)
+            Secretion system [BR:eco02044]
+             Type III secretion system
+              Flagellar export apparatus
+               b1879 (flhA)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Type-III secretion
+                b1879 (flhA)
+POSITION    complement(1962972..1965050)
+MOTIF       Pfam: FHIPEP
+DBLINKS     NCBI-GeneID: 946390
+            NCBI-ProteinID: NP_416393
+            Pasteur: flhA
+            RegulonDB: ECK120002690
+            ECOCYC: G370
+            ASAP: ABE-0006272
+            UniProt: P76298
+AASEQ       692
+            MSNLAAMLRLPANLKSTQWQILAGPILILLILSMMVLPLPAFILDLLFTFNIALSIMVLL
+            VAMFTQRTLEFAAFPTILLFTTLLRLALNVASTRIILMEGHTGAAAAGKVVEAFGHFLVG
+            GNFAIGIVVFVILVIINFMVITKGAGRIAEVGARFVLDGMPGKQMAIDADLNAGLIGEDE
+            AKKRRSEVTQEADFYGSMDGASKFVRGDAIAGILIMVINIVGGLLVGVLQHGMSMGHAAE
+            SYTLLTIGDGLVAQIPALVISTAAGVIVTRVSTDQDVGEQMVNQLFSNPSVMLLSAAVLG
+            LLGLVPGMPNLVFLLFTAGLLGLAWWIRGREQKAPAEPKPVKMAENNTVVEATWNDVQLE
+            DSLGMEVGYRLIPMVDFQQDGELLGRIRSIRKKFAQEMGFLPPVVHIRDNMDLQPARYRI
+            LMKGVEIGSGDAYPGRWLAINPGTAAGTLPGEATVDPAFGLNAIWIESALKEQAQIQGYT
+            VVEASTVVATHLNHLISQHAAELFGRQEAQQLLDRVAQEMPKLTEDLVPGVVTLTTLHKV
+            LQNLLDEKVPIRDMRTILETLAEHAPIQSDPHELTAVVRVALGRAITQQWFPGKDEVHVI
+            GLDTPLERLLLQALQGGGGLEPGLADRLLAQTQEALSRQEMLGAPPVLLVNHALRPLLSR
+            FLRRSLPQLVVLSNLELSDNRHIRMTATIGGK
+NTSEQ       2079
+            atgagtaatctggccgcgatgctgcgcctgcccgcaaacctgaaatcgacacaatggcag
+            atccttgccggaccgattttgatcctgttgatcttgtcgatgatggtgctgccactgccc
+            gcattcatactcgacctgttgtttaccttcaatattgccttgtcgatcatggtgttgctg
+            gtggcgatgtttacccagcgcacgcttgagtttgctgcgtttccgaccattctgttgttt
+            accacgctgttgcgtctggcacttaacgtggcttcaacccgtatcattttaatggaaggg
+            cataccggcgcggcggcggcagggaaggtggtcgaagcgttcggtcacttcctcgttggt
+            ggcaatttcgctatcggtatcgtggtgtttgtcattctcgtgatcatcaactttatggtc
+            attaccaaaggtgccgggcgtatcgcagaagtgggtgcgcgctttgttctcgatggtatg
+            ccgggtaagcagatggcgattgacgccgaccttaacgccggattgattggtgaagatgag
+            gcgaaaaaacgccgctccgaagtgactcaggaagccgatttttacggctcaatggacggg
+            gcaagtaagtttgttcgcggcgatgccatcgccgggatcctcatcatggtcattaacatt
+            gtcggcgggttgctggtcggcgtgctgcaacatggcatgagcatgggacacgcggcggaa
+            agttatacgctattgaccattggcgacggtctggtggcacaaattccggcgctggtgatt
+            tctaccgccgcgggggtcatcgttacgcgtgtcagcaccgatcaggatgttggcgagcag
+            atggtgaatcagcttttcagtaacccaagcgttatgttgttaagcgccgccgtgctcggt
+            ttactcggcctggtgcctggaatgccgaacctggtatttttgctgttcactgccggattg
+            ctcgggctggcctggtggatacgcggacgcgaacaaaaagcgcctgccgaacccaaaccg
+            gtaaaaatggcagagaataataccgttgtcgaagcgacgtggaacgatgtacaactggaa
+            gattctctgggaatggaagtgggttatcgactgatcccgatggtcgatttccagcaggat
+            ggtgagttgttgggccgtatacgcagtatccgcaagaaatttgcccaggagatgggattt
+            ctgccgccagtggtgcacattcgcgacaatatggatctgcaacctgcccgctatcgcatt
+            ttgatgaaaggcgtggagattggcagtggtgatgcttatccggggcgctggctggcgatt
+            aaccctggaaccgctgccgggacgttacctggtgaggcgaccgtcgatccggcatttggc
+            ctgaatgctatctggattgaaagtgcgctaaaagaacaggcgcagattcaggggtacaca
+            gtggttgaggccagcacggtggtagcaacgcatcttaaccacctcattagccagcatgcc
+            gcagagctgtttggtcgtcaggaggcgcaacagctgttggatcgcgtcgcccaggagatg
+            ccaaagctgacggaagatctcgttcctggcgtcgtcacgctcaccacactgcataaagtg
+            ctgcaaaatctcctcgatgaaaaagtaccgattcgcgatatgcgcaccattctcgaaacg
+            ctggcggaacatgcgcccatccaaagcgatccacatgaattaaccgccgtcgtgcgcgtg
+            gcgttgggacgggcgattacccagcagtggtttcctggcaaagatgaagtccatgttatt
+            ggcctcgatacaccgctggaacgtttgttactacaggcgctgcagggcgggggaggactg
+            gagccagggctggcggatcgtttactggcgcaaactcaggaagcgctatcccgtcaggag
+            atgctgggtgcgccgccagtattgttggtgaaccacgcgctgcgaccattattgtctcgc
+            ttcctgcgccgcagcttgccgcagttagtggtcctgtcgaatctggaactgtctgataac
+            cgacatatccgcatgacggcgacaattggcggcaaataa
+///

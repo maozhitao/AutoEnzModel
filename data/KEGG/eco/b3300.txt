@@ -1,0 +1,73 @@
+ENTRY       b3300             CDS       T00007
+NAME        secY
+DEFINITION  (RefSeq) Sec translocon subunit SecY
+ORTHOLOGY   K03076  preprotein translocase subunit SecY
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02024  Quorum sensing
+            eco03060  Protein export
+            eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b3300 (secY)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3300 (secY)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b3300 (secY)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3300 (secY)
+            Secretion system [BR:eco02044]
+             Sec (secretion) system
+              Prokaryotic Sec-SRP core components
+               b3300 (secY)
+POSITION    complement(3442766..3444097)
+MOTIF       Pfam: SecY Orf78 DUF2140
+DBLINKS     NCBI-GeneID: 947799
+            NCBI-ProteinID: NP_417759
+            Pasteur: secY
+            RegulonDB: ECK120000757
+            ECOCYC: EG10766
+            ASAP: ABE-0010814
+            UniProt: P0AGA2
+STRUCTURE   PDB: 5GAE 6R7L 5ABB 3J45 3BO0 3BO1 3J46 5MG3 2AKH 2AKI
+AASEQ       443
+            MAKQPGLDFQSAKGGLGELKRRLLFVIGALIVFRIGSFIPIPGIDAAVLAKLLEQQRGTI
+            IEMFNMFSGGALSRASIFALGIMPYISASIIIQLLTVVHPTLAEIKKEGESGRRKISQYT
+            RYGTLVLAIFQSIGIATGLPNMPGMQGLVINPGFAFYFTAVVSLVTGTMFLMWLGEQITE
+            RGIGNGISIIIFAGIVAGLPPAIAHTIEQARQGDLHFLVLLLVAVLVFAVTFFVVFVERG
+            QRRIVVNYAKRQQGRRVYAAQSTHLPLKVNMAGVIPAIFASSIILFPATIASWFGGGTGW
+            NWLTTISLYLQPGQPLYVLLYASAIIFFCFFYTALVFNPRETADNLKKSGAFVPGIRPGE
+            QTAKYIDKVMTRLTLVGALYITFICLIPEFMRDAMKVPFYFGGTSLLIVVVVIMDFMAQV
+            QTLMMSSQYESALKKANLKGYGR
+NTSEQ       1332
+            atggctaaacaaccgggattagattttcaaagtgccaaaggtggcttaggcgagctgaaa
+            cgcagactgctgtttgttatcggtgcgctgattgtgttccgtattggctcttttattccg
+            atccctggtattgatgccgctgtacttgccaaactgcttgagcaacagcgaggcaccatc
+            attgagatgtttaacatgttctctggtggtgctctcagccgtgcttctatctttgctctg
+            gggatcatgccgtatatttcggcgtcgatcattatccagctgctgacggtggttcaccca
+            acgttggcagaaattaagaaagaaggggagtctggtcgtcgtaagatcagccagtacacc
+            cgctacggtactctggtgctggcaatattccagtcgatcggtattgctaccggtctgccg
+            aatatgcctggtatgcaaggcctggtgattaacccgggctttgcattctacttcaccgct
+            gttgtaagtctggtcacaggaaccatgttcctgatgtggttgggcgaacagattactgaa
+            cgaggtatcggcaacggtatttcaatcattatcttcgccggtattgtcgcgggactcccg
+            ccagccattgcccatactatcgagcaagcgcgtcaaggcgacctgcacttcctcgtgttg
+            ctgttggttgcagtattagtatttgcagtgacgttctttgttgtatttgttgagcgtggt
+            caacgccgcattgtggtaaactacgcgaaacgtcagcaaggtcgtcgtgtctatgctgca
+            cagagcacacatttaccgctgaaagtgaatatggcgggggtaatcccggcaatcttcgct
+            tccagtattattctgttcccggcgaccatcgcgtcatggttcgggggcggtactggttgg
+            aactggctgacaacaatttcgctgtatttgcagcctgggcaaccgctttatgtgttactc
+            tatgcgtctgcaatcatcttcttctgtttcttctacacggcgttggttttcaacccgcgt
+            gaaacagcagataacctgaagaagtccggtgcatttgtaccaggaattcgtccgggagag
+            caaacggcgaagtatatcgataaagtaatgacccgcctgaccctggttggtgcgctgtat
+            attacctttatctgcctgatcccggagttcatgcgtgatgcaatgaaagtaccgttctac
+            ttcggtgggacctcactgcttatcgttgttgtcgtgattatggactttatggctcaagtg
+            caaactctgatgatgtccagtcagtatgagtctgcattgaagaaggcgaacctgaaaggc
+            tacggccgataa
+///

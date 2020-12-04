@@ -1,0 +1,51 @@
+ENTRY       b3193             CDS       T00007
+NAME        mlaD
+DEFINITION  (RefSeq) intermembrane phospholipid transport system, substrate binding protein MlaD
+ORTHOLOGY   K02067  phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b3193 (mlaD)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3193 (mlaD)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Saccharide, polyol, and lipid transporters
+               gamma-Hexachlorocyclohexane transporter
+                b3193 (mlaD)
+               Phospholipid transporter
+                b3193 (mlaD)
+               Mce system transporter
+                b3193 (mlaD)
+POSITION    complement(3337910..3338461)
+MOTIF       Pfam: MlaD
+DBLINKS     NCBI-GeneID: 947712
+            NCBI-ProteinID: NP_417660
+            Pasteur: yrbD
+            RegulonDB: ECK120002386
+            ECOCYC: EG12799
+            ASAP: ABE-0010493
+            UniProt: P64604
+STRUCTURE   PDB: 5UW8 5UW2
+AASEQ       183
+            MQTKKNEIWVGIFLLAALLAALFVCLKAANVTSIRTEPTYTLYATFDNIGGLKARSPVSI
+            GGVVVGRVADITLDPKTYLPRVTLEIEQRYNHIPDTSSLSIRTSGLLGEQYLALNVGFED
+            PELGTAILKDGDTIQDTKSAMVLEDLIGQFLYGSKGDDNKNSGDAPAAAPGNNETTEPVG
+            TTK
+NTSEQ       552
+            atgcaaacgaaaaaaaatgaaatttgggtgggtatctttttattagcagcactgctggcg
+            gcgctgtttgtttgcctgaaggcggcgaacgtgacgtccatacgtactgaaccgacctac
+            acgctttatgcgacgttcgataacattggcggcctgaaagcgcgctctccggtcagtatt
+            ggtggcgttgttgtgggtcgggtggcggatattacgctggacccgaaaacctatctgccg
+            cgcgtaacgctggaaattgaacaacgttataaccacattccagataccagttcgctgagc
+            attcgtacttccggcctgctgggggaacaatatctggcattaaacgtcggttttgaagac
+            ccggaactggggactgctatcctgaaggatggcgatacaattcaggacactaagtctgcg
+            atggtgctggaagatctcattggtcagttcctttacggtagtaaaggcgatgacaataag
+            aatagtggcgatgcgccagctgctgcgccaggtaataatgaaaccactgaacctgtgggt
+            acaacgaaataa
+///

@@ -1,0 +1,46 @@
+ENTRY       b0492             CDS       T00007
+NAME        cnoX
+DEFINITION  (RefSeq) chaperedoxin
+ORTHOLOGY   K05838  putative thioredoxin
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b0492 (cnoX)
+            Chaperones and folding catalysts [BR:eco03110]
+             Protein folding catalysts
+              Protein disulfide isomerase
+               b0492 (cnoX)
+POSITION    complement(517425..518279)
+MOTIF       Pfam: TPR_20 Thioredoxin TPR_19 ANAPC3 TraF OST3_OST6 Thioredoxin_8 TPR_4 Thioredoxin_6 TetR_C_31 HyaE Thioredoxin_2 HrpB1_HrpK TPR_5 BTAD
+DBLINKS     NCBI-GeneID: 947119
+            NCBI-ProteinID: NP_415025
+            RegulonDB: ECK120002876
+            ECOCYC: G6268
+            ASAP: ABE-0001707
+            UniProt: P77395
+STRUCTURE   PDB: 3QOU
+AASEQ       284
+            MSVENIVNINESNLQQVLEQSMTTPVLFYFWSERSQHCLQLTPILESLAAQYNGQFILAK
+            LDCDAEQMIAAQFGLRAIPTVYLFQNGQPVDGFQGPQPEEAIRALLDKVLPREEELKAQQ
+            AMQLMQESNYTDALPLLKDAWQLSNQNGEIGLLLAETLIALNRSEDAEAVLKTIPLQDQD
+            TRYQGLVAQIELLKQAADTPEIQQLQQQVAENPEDAALATQLALQLHQVGRNEEALELLF
+            GHLRKDLTAADGQTRKTFQEILAALGTGDALASKYRRQLYALLY
+NTSEQ       855
+            atgtccgtagaaaatattgtcaacattaacgaatctaacctgcaacaggttcttgaacag
+            tcgatgaccactccggtgctgttctatttttggtctgaacgtagccagcactgtttgcag
+            ttaaccccaattctggaaagcctcgcggcgcagtacaacgggcaatttattctggcgaag
+            ctggactgcgacgcggagcagatgattgccgcgcagtttggtctgcgtgcgattccgacc
+            gtgtatctgttccagaacgggcaaccggtagatggcttccaggggccgcaaccggaagag
+            gcgatccgcgccctgctggataaagtgctgccgcgcgaagaagagctgaaagcgcagcag
+            gcgatgcaactgatgcaggaaagcaattacaccgatgccctgccattgctgaaagacgcc
+            tggcagttgtcgaatcagaacggggagatcggcctgctgctggcagaaacgctgattgcg
+            ctgaaccgttctgaagatgcggaagcggtgctgaaaaccattccgttgcaggatcaggac
+            acccgctaccaggggctggtggcgcaaatcgaactgctgaagcaggcggctgatacgccg
+            gaaattcaacagttgcaacagcaggtggcggagaatccagaagatgccgcactggcgacg
+            caactggcgctgcaactgcatcaggttgggcgcaatgaagaggcgctggagttgctgttc
+            gggcatctgcgtaaagatctcaccgccgcagacggtcagacgcgtaaaacgttccaggag
+            atcctcgctgcgctgggtacgggtgatgcactggcgtcgaagtatcgccgccagctgtat
+            gcattgttgtattga
+///

@@ -1,0 +1,64 @@
+ENTRY       b4372             CDS       T00007
+NAME        holD
+DEFINITION  (RefSeq) DNA polymerase III subunit psi
+ORTHOLOGY   K02344  DNA polymerase III subunit psi [EC:2.7.7.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+            eco03430  Mismatch repair
+            eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b4372 (holD)
+               03430 Mismatch repair
+                b4372 (holD)
+               03440 Homologous recombination
+                b4372 (holD)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b4372 (holD)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b4372 (holD)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 b4372 (holD)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Elongation Factors
+               Elongation factors (bacterial)
+                DNA polymerase III holoenzyme
+                 b4372 (holD)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                DNA polymerase III holoenzyme
+                 b4372 (holD)
+POSITION    4607803..4608216
+MOTIF       Pfam: DNA_III_psi CSTF_C
+DBLINKS     NCBI-GeneID: 948890
+            NCBI-ProteinID: NP_418789
+            Pasteur: holD
+            RegulonDB: ECK120001380
+            ECOCYC: EG11414
+            ASAP: ABE-0014340
+            UniProt: P28632
+STRUCTURE   PDB: 3SXU 1EM8 3GLI
+AASEQ       137
+            MTSRRDWQLQQLGITQWSLRRPGALQGEIAIAIPAHVRLVMVANDLPALTDPLVSDVLRA
+            LTVSPDQVLQLTPEKIAMLPQGSHCNSWRLGTDEPLSLEGAQVASPALTDLRANPTARAA
+            LWQQICTYEHDFFPRND
+NTSEQ       414
+            atgacatcccgacgagactggcagttacagcaactgggcattacccagtggtcgctgcgt
+            cgccctggcgcgttgcagggggagattgccattgcgatcccggcacacgtccgtctggtg
+            atggtggcaaacgatcttcccgccctgactgatcctttagtgagcgatgttctgcgcgca
+            ttaaccgtcagccccgaccaggtgctgcaactgacgccagaaaaaatcgcgatgctgccg
+            caaggcagtcactgcaacagttggcggttgggtactgacgaaccgctatcactggaaggc
+            gctcaggtggcatcaccggcgctcaccgatttacgggcaaacccaacggcacgcgccgcg
+            ttatggcaacaaatttgcacatatgaacacgatttcttccctcgaaacgactga
+///

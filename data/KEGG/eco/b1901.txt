@@ -1,0 +1,56 @@
+ENTRY       b1901             CDS       T00007
+NAME        araF
+DEFINITION  (RefSeq) arabinose ABC transporter periplasmic binding protein
+ORTHOLOGY   K10537  L-arabinose transport system substrate-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b1901 (araF)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1901 (araF)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Saccharide, polyol, and lipid transporters
+               L-Arabinose transporter
+                b1901 (araF)
+POSITION    complement(1985139..1986128)
+MOTIF       Pfam: Peripla_BP_1 Peripla_BP_4 DUF1651
+DBLINKS     NCBI-GeneID: 946409
+            NCBI-ProteinID: NP_416414
+            Pasteur: araF
+            RegulonDB: ECK120000053
+            ECOCYC: EG10057
+            ASAP: ABE-0006330
+            UniProt: P02924
+STRUCTURE   PDB: 8ABP 6ABP 7ABP 1ABE 1BAP 1APB 5ABP 1ABF 9ABP 2WRZ
+AASEQ       329
+            MHKFTKALAAIGLAAVMSQSAMAENLKLGFLVKQPEEPWFQTEWKFADKAGKDLGFEVIK
+            IAVPDGEKTLNAIDSLAASGAKGFVICTPDPKLGSAIVAKARGYDMKVIAVDDQFVNAKG
+            KPMDTVPLVMMAATKIGERQGQELYKEMQKRGWDVKESAVMAITANELDTARRRTTGSMD
+            ALKAAGFPEKQIYQVPTKSNDIPGAFDAANSMLVQHPEVKHWLIVGMNDSTVLGGVRATE
+            GQGFKAADIIGIGINGVDAVSELSKAQATGFYGSLLPSPDVHGYKSSEMLYNWVAKDVEP
+            PKFTEVTDVVLITRDNFKEELEKKGLGGK
+NTSEQ       990
+            atgcacaaatttactaaagccctggcagccattggtctggcagccgttatgtcacaatcc
+            gctatggcggagaacctgaagctcggttttctggtgaagcaaccggaagagccgtggttc
+            cagaccgaatggaagtttgccgataaagccgggaaggatttagggtttgaggttattaag
+            attgccgtgccggatggcgaaaaaacattgaacgcgatcgacagcctggctgccagtggc
+            gcaaaaggtttcgttatttgtactccggaccccaaactcggctctgccatcgtcgcgaaa
+            gcgcgtggctacgatatgaaagtcattgccgtggatgaccagtttgttaacgccaaaggt
+            aagccaatggataccgttccgctggtgatgatggcggcgactaaaattggcgaacgtcag
+            ggccaggaactgtataaagagatgcagaaacgtggctgggatgtcaaagaaagcgcggtg
+            atggcgattaccgccaacgaactggataccgcccgccgccgtactacgggatctatggat
+            gcgctgaaagcggccggattcccggaaaaacaaatttatcaggtacctaccaaatctaac
+            gacatcccgggggcatttgacgctgccaactcaatgctggttcaacatccggaagttaaa
+            cattggctgatcgtcggtatgaacgacagcaccgtgctgggcggcgtacgcgcgacggaa
+            ggtcagggctttaaagcggccgatatcatcggcattggcattaacggtgtggatgcggtg
+            agcgaactgtctaaagcacaggcaaccggcttctacggttccctgctgccaagcccggac
+            gtacatggctataaatccagcgaaatgctttacaactgggtagcaaaagacgttgaaccg
+            ccaaaatttaccgaagttaccgacgtggtactgatcacgcgtgacaactttaaagaagaa
+            ctggagaaaaaaggtttaggcggtaagtaa
+///

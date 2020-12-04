@@ -1,0 +1,45 @@
+ENTRY       b0636             CDS       T00007
+NAME        rlmH
+DEFINITION  (RefSeq) 23S rRNA m(3)psi1915 methyltransferase
+ORTHOLOGY   K00783  23S rRNA (pseudouridine1915-N3)-methyltransferase [EC:2.1.1.177]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b0636 (rlmH)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.177  23S rRNA (pseudouridine1915-N3)-methyltransferase
+                 b0636 (rlmH)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               23S rRNA modification factors
+                b0636 (rlmH)
+POSITION    complement(668248..668715)
+MOTIF       Pfam: SPOUT_MTase
+DBLINKS     NCBI-GeneID: 945239
+            NCBI-ProteinID: NP_415169
+            Pasteur: ybeA
+            RegulonDB: ECK120001229
+            ECOCYC: EG11254
+            ASAP: ABE-0002180
+            UniProt: P0A8I8
+STRUCTURE   PDB: 1NS5 5ZYO 5TWK 5TWJ
+AASEQ       155
+            MKLQLVAVGTKMPDWVQTGFTEYLRRFPKDMPFELIEIPAGKRGKNADIKRILDKEGEQM
+            LAAAGKNRIVTLDIPGKPWDTPQLAAELERWKLDGRDVSLLIGGPEGLSPACKAAAEQSW
+            SLSALTLPHPLVRVLVAESLYRAWSITTNHPYHRE
+NTSEQ       468
+            gtgaagctgcaacttgtcgccgtgggaacgaaaatgccggactgggtacaaaccggtttt
+            accgagtacctgcgtcgttttccgaaagatatgcccttcgagctgattgaaattccggcc
+            ggaaaacgcggcaagaatgcggacatcaagcgcatactcgacaaagagggtgagcagatg
+            ttggcggccgcaggcaaaaaccgcattgtcaccctcgatattccaggcaagccctgggat
+            acgccgcagttagccgctgagctggaacgctggaagctggatggtcgcgacgtcagtcta
+            ctgattggcgggcctgaagggttgtcgcctgcctgtaaagcggcggctgagcagagctgg
+            tcgctgtcggcgcttaccctcccccatccgctggttcgcgtgctggtcgcagagagtctg
+            taccgggcgtggagcatcaccaccaaccatccttatcaccgtgagtga
+///

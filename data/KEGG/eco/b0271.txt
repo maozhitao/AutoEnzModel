@@ -1,0 +1,66 @@
+ENTRY       b0271             CDS       T00007
+NAME        yagH
+DEFINITION  (RefSeq) CP4-6 prophage; putative xylosidase/arabinosidase
+ORTHOLOGY   K01198  xylan 1,4-beta-xylosidase [EC:3.2.1.37]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00520  Amino sugar and nucleotide sugar metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00520 Amino sugar and nucleotide sugar metabolism
+                b0271 (yagH)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.37  xylan 1,4-beta-xylosidase
+                 b0271 (yagH)
+POSITION    286789..288399
+MOTIF       Pfam: Glyco_hydro_43 GH43_C2 DUF1349
+DBLINKS     NCBI-GeneID: 944949
+            NCBI-ProteinID: NP_414805
+            Pasteur: yagH
+            RegulonDB: ECK120002763
+            ECOCYC: G6143
+            ASAP: ABE-0000931
+            UniProt: P77713
+AASEQ       536
+            MEITNPILTGFNPDPSLCRQGEDYYIATSTFEWFPGVRIYHSRDLKNWSLVSTPLDRVSM
+            LDMKGNPDSGGIWAPCLSYADGKFWLLYTDVKIVDSPWKNGRNFLVTAPSIEGPWSEPIP
+            MGNGGFDPSLFHDDDGRKYYIYRPWGPRHHSNPHNTIVLQAFDPQTGTLSPERKTLFTGT
+            PLCYTEGAHLYRHAGWYYLMAAEGGTSYEHAVVVLRSKNIDGPYELHPDVTMMTSWHLPE
+            NPLQKSGHGSLLQTHTGEWYMAYLTSRPLRLPGVPLLASGGRGYCPLGRETGIARIEWRD
+            GWPYVEGGKHAQLTVKGPQVAEQPAAVPGNWRDDFDASSLDPELQTLRIPFDDTLGSLTA
+            RPGFLRLYGNDSLNSTFTQSTVARRWQHFAFRAETRMEFSPVHFQQSAGLTCYYNSKNWS
+            YCFVDYEEGQGRTIKVIQLDHNVPSWPLHEQPIPVPEHAESVWLRVDVDTLVYRYSYSFD
+            GETWHTVPVTYEAWKLSDDYIGGRGFFTGAFVGLHCEDISGDGCYADFDYFTYEPV
+NTSEQ       1611
+            atggaaatcactaacccgatactcaccggcttcaacccggacccgtccctgtgccgccag
+            ggcgaggactactacatcgccacctcgaccttcgagtggttcccgggcgtgcgcatctac
+            cactcccgtgacctgaaaaactggtcgctggtcagcaccccgttggaccgcgtgtcgatg
+            ctggacatgaagggcaacccggactccggcggcatctgggcgccgtgcctgagctacgcc
+            gacggtaaattctggctgctctacaccgacgtgaagattgtcgactcgccgtggaaaaac
+            ggccgcaacttcctcgtcaccgcgccctccatcgaggggccatggagcgagccaatcccg
+            atgggcaacggcgggtttgacccgtccctgttccacgacgacgatggccgcaaatactat
+            atctaccgcccgtgggggccgcgccaccacagcaacccgcacaacaccatcgtgttacag
+            gcgtttgacccgcagaccggcacgctctcgcccgagcgcaaaacgctgtttaccggcacg
+            ccgctctgctacaccgaaggcgcgcacctgtatcgccacgcgggatggtactacctgatg
+            gccgccgagggcggcaccagctacgagcacgccgtcgtggtgctgcgttccaaaaatatc
+            gacgggccgtacgagctgcacccggacgtaacgatgatgaccagctggcacctgccggag
+            aacccgctgcagaagagcggccacggctcgctgctgcagacgcatacgggtgaatggtac
+            atggcctacctcaccagccgcccgctgcgcctgcccggcgtgccgctgctggcctccggc
+            ggacgcggctactgcccgctggggcgcgagaccggcatcgcccgcattgaatggcgcgac
+            ggctggccgtacgtggaaggcggcaagcacgcgcagctgaccgtgaaaggcccgcaagta
+            gccgagcagcctgcagccgttccgggcaactggcgggacgatttcgacgccagttcgctt
+            gacccggagctgcagaccctgcgcattccgttcgacgacaccctcggctcgctcaccgcg
+            cgcccgggcttcttacggctctatggcaacgactcgctcaattcgaccttcacccaatcg
+            accgtggcgcgccgctggcagcacttcgccttccgggcagaaacgcggatggagttctcg
+            ccggtgcacttccagcagagcgcggggctgacctgctactacaacagcaaaaactggagc
+            tactgctttgtggactacgaggagggacagggtagaaccatcaaagttatccagctcgac
+            cacaacgtgccgtcgtggccgctgcacgagcagcccattccggtgccggaacatgcggag
+            agcgtctggctgcgggtggacgtggatacgctggtctaccgctacagctactcgtttgat
+            ggcgagacgtggcacaccgtgccggtgacgtatgaggcgtggaagctgtcggacgactac
+            atcggcgggcgcggcttcttcaccggcgcgtttgtgggcctgcactgcgaggacatcagc
+            ggcgacggctgctacgcggacttcgactacttcacctacgagccggtctaa
+///

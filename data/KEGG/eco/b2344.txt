@@ -1,0 +1,58 @@
+ENTRY       b2344             CDS       T00007
+NAME        fadL
+DEFINITION  (RefSeq) long-chain fatty acid outer membrane channel/bacteriophage T2 receptor
+ORTHOLOGY   K06076  long-chain fatty acid transport protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2344 (fadL)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b2344 (fadL)
+POSITION    2461306..2462646
+MOTIF       Pfam: Toluene_X YadA_anchor DUF2490
+DBLINKS     NCBI-GeneID: 946820
+            NCBI-ProteinID: NP_416846
+            RegulonDB: ECK120000274
+            ECOCYC: EG10280
+            ASAP: ABE-0007740
+            UniProt: P10384
+STRUCTURE   PDB: 3PGU 3PGS 3DWN 3PGR 2R88 1T16 3PF1 1T1L 2R4P 2R8A 2R4N
+                 2R4L 2R89 2R4O
+AASEQ       446
+            MSQKTLFTKSALAVAVALISTQAWSAGFQLNEFSSSGLGRAYSGEGAIADDAGNVSRNPA
+            LITMFDRPTFSAGAVYIDPDVNISGTSPSGRSLKADNIAPTAWVPNMHFVAPINDQFGWG
+            ASITSNYGLATEFNDTYAGGSVGGTTDLETMNLNLSGAYRLNNAWSFGLGFNAVYARAKI
+            ERFAGDLGQLVAGQIMQSPAGQTQQGQALAATANGIDSNTKIAHLNGNQWGFGWNAGILY
+            ELDKNNRYALTYRSEVKIDFKGNYSSDLNRAFNNYGLPIPTATGGATQSGYLTLNLPEMW
+            EVSGYNRVDPQWAIHYSLAYTSWSQFQQLKATSTSGDTLFQKHEGFKDAYRIALGTTYYY
+            DDNWTFRTGIAFDDSPVPAQNRSISIPDQDRFWLSAGTTYAFNKDASVDVGVSYMHGQSV
+            KINEGPYQFESEGKAWLFGTNFNYAF
+NTSEQ       1341
+            atgagccagaaaaccctgtttacaaagtctgctctcgcagtcgcagtggcacttatctcc
+            acccaggcctggtcggcaggctttcagttaaacgaattttcttcctctggcctgggccgg
+            gcttattcaggggaaggcgcaattgccgatgatgcaggtaacgtcagccgtaaccccgca
+            ttgattactatgtttgaccgcccgacattttctgcgggtgcggtttatattgacccggat
+            gtaaatatcagcggaacgtctccatctggtcgtagcctgaaagccgataacatcgcgcct
+            acggcatgggttccgaacatgcactttgttgcaccgattaacgaccaatttggttggggc
+            gcttctattacctctaactatggtctggctacagagtttaacgatacttatgcaggcggc
+            tctgtcgggggtacaaccgaccttgaaaccatgaacctgaacttaagcggtgcgtatcgc
+            ttaaataatgcatggagctttggtcttggtttcaacgccgtctacgctcgcgcgaaaatt
+            gaacgtttcgcaggcgatctggggcagttggttgctggccaaattatgcaatctcctgct
+            ggccaaactcagcaagggcaagcattggcagctaccgccaacggtattgacagtaatacc
+            aaaatcgctcatctgaacggtaaccagtggggctttggctggaacgccggaatcctgtat
+            gaactggataaaaataaccgctatgcactgacctaccgttctgaagtgaaaattgacttc
+            aaaggtaactacagcagcgatcttaatcgtgcgtttaataactacggtttgccaattcct
+            accgcgacaggtggcgcaacgcaatcgggttatctgacgctgaacctgcctgaaatgtgg
+            gaagtgtcaggttataaccgtgttgatccacagtgggcgattcactatagcctggcttac
+            accagctggagtcagttccagcagctgaaagcgacctcaaccagtggcgacacgctgttc
+            cagaaacatgaaggctttaaagatgcttaccgcatcgcgttgggtaccacttattactac
+            gatgataactggaccttccgtaccggtatcgcctttgatgacagcccagttcctgcacag
+            aatcgttctatctccattccggaccaggaccgtttctggctgagtgcaggtacgacttac
+            gcatttaataaagatgcttcagtcgacgttggtgtttcttatatgcacggtcagagcgtg
+            aaaattaacgaaggcccataccagttcgagtctgaaggtaaagcctggctgttcggtact
+            aactttaactacgcgttctga
+///

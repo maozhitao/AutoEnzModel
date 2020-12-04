@@ -1,0 +1,56 @@
+ENTRY       b4155             CDS       T00007
+NAME        epmA
+DEFINITION  (RefSeq) EF-P-lysine lysyltransferase
+ORTHOLOGY   K04568  elongation factor P--(R)-beta-lysine ligase [EC:6.3.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:eco03012]
+                b4155 (epmA)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.1  Acid-D-ammonia (or amine) ligases (amide synthases)
+                6.3.1.-  
+                 b4155 (epmA)
+            Translation factors [BR:eco03012]
+             Prokaryotic type
+              Elongation factors
+               b4155 (epmA)
+POSITION    4382643..4383620
+MOTIF       Pfam: tRNA-synt_2
+DBLINKS     NCBI-GeneID: 948672
+            NCBI-ProteinID: NP_418579
+            Pasteur: yjeA
+            RegulonDB: ECK120001191
+            ECOCYC: EG11211
+            ASAP: ABE-0013610
+            UniProt: P0A8N7
+STRUCTURE   PDB: 3A5Y 3A5Z
+AASEQ       325
+            MSETASWQPSASIPNLLKRAAIMAEIRRFFADRGVLEVETPCMSQATVTDIHLVPFETRF
+            VGPGHSQGMNLWLMTSPEYHMKRLLVAGCGPVFQLCRSFRNEEMGRYHNPEFTMLEWYRP
+            HYDMYRLMNEVDDLLQQVLDCPAAESLSYQQAFLRYLEIDPLSADKTQLREVAAKLDLSN
+            VADTEEDRDTLLQLLFTFGVEPNIGKEKPTFVYHFPASQASLAQISTEDHRVAERFEVYY
+            KGIELANGFHELTDAREQQQRFEQDNRKRAARGLPQHPIDQNLIEALKVGMPDCSGVALG
+            VDRLVMLALGAETLAEVIAFSVDRA
+NTSEQ       978
+            atgagcgaaacggcatcctggcagccgagcgcatccattcctaacttattaaaacgcgcg
+            gcgattatggcggagatccgtcgtttctttgccgatcgtggagtgctggaggtggagacg
+            ccttgtatgagccaggcgacggtaaccgatattcatttggtcccgtttgagacacgtttc
+            gttggccccgggcattcgcaggggatgaatctctggttaatgaccagcccggaataccat
+            atgaaacgcctgctggttgccggttgtgggccggtattccagctgtgccgcagcttccgt
+            aatgaagagatggggcgttatcacaaccctgagttcactatgctggagtggtatcgaccg
+            cactatgatatgtaccggttgatgaacgaggtggacgatctcttacaacaggtgctggac
+            tgcccggcagcagaaagcctttcttatcaacaagctttcttgcgttatctggaaattgac
+            ccgctctctgccgacaaaacgcaactgcgggaagtcgcagcgaaactggatttgagcaat
+            gttgctgataccgaagaagaccgcgacacgctgctacaattgctgtttacctttggcgta
+            gagccaaatattggcaaagaaaaaccgacctttgtgtaccactttccagccagccaggca
+            tcactggcgcaaatcagtaccgaagatcatcgggtcgctgaacgctttgaggtttattat
+            aaaggtattgagctggcgaatggtttccatgaattgacggatgcccgtgagcagcaacaa
+            cgctttgaacaagataaccgtaagcgcgcggcgcgcggtttgccgcagcaccccattgac
+            cagaatctgattgaagccttgaaagtcggtatgcctgactgttccggcgtggcattaggt
+            gttgatcgtctggtgatgttggcgctgggcgcggagacactggctgaagtcatcgccttt
+            agcgttgaccgggcataa
+///

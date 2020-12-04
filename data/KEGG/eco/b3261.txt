@@ -1,0 +1,54 @@
+ENTRY       b3261             CDS       T00007
+NAME        fis
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator Fis
+ORTHOLOGY   K03557  Fis family transcriptional regulator, factor for inversion stimulation protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b3261 (fis)
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b3261 (fis)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b3261 (fis)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               Other families
+                b3261 (fis)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Nucleoid associated proteins
+               Other nucreoid associated proteins
+                b3261 (fis)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               NHEJ (non-homologous end-joining)
+                SHDIR (short-homology-dependent illegitimate recombination)
+                 Facilitator
+                  b3261 (fis)
+POSITION    3411271..3411567
+MOTIF       Pfam: HTH_8 Phage_NinH DUF3333 HTH_30 Inhibitor_I24
+DBLINKS     NCBI-GeneID: 947697
+            NCBI-ProteinID: NP_417727
+            Pasteur: fis
+            RegulonDB: ECK120000311
+            ECOCYC: EG10317
+            ASAP: ABE-0010703
+            UniProt: P0A6R3
+STRUCTURE   PDB: 1ETO 1ETX 1FIP 1ETV 1ETW 1ETY 1FIA 1ETK 3FIS 4FIS 5DS9
+                 5DTD 1F36 5E3L 5E3N 6P0S 4IHW 4IHV 5E3O 4IHX 1ETQ 3JRH
+                 5E3M 4IHY 3JR9 3IV5 3JRF 3JRC 3JRB 3JRD 3JRA 3JRG 3JRI
+                 3JRE 6P0U 6P0T
+AASEQ       98
+            MFEQRVNSDVLTVSTVNSQDQVTQKPLRDSVKQALKNYFAQLNGQDVNDLYELVLAEVEQ
+            PLLDMVMQYTRGNQTRAALMMGINRGTLRKKLKKYGMN
+NTSEQ       297
+            atgttcgaacaacgcgtaaattctgacgtactgaccgtttctaccgttaactctcaggat
+            caggtaacccaaaaacccctgcgtgactcggttaaacaggcactgaagaactattttgct
+            caactgaatggtcaggatgtgaatgacctctatgagctggtactggctgaagtagaacag
+            cccctgttggacatggtgatgcaatacacccgtggtaaccagacccgtgctgcgctgatg
+            atgggcatcaaccgtggtacgctgcgtaaaaaattgaaaaaatacggcatgaactaa
+///

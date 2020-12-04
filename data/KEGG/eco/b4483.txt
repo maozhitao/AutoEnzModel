@@ -1,0 +1,47 @@
+ENTRY       b4483             CDS       T00007
+NAME        tatD
+DEFINITION  (RefSeq) 3' -> 5' ssDNA/RNA exonuclease TatD
+ORTHOLOGY   K03424  TatD DNase family protein [EC:3.1.21.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b4483 (tatD)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.21  Endodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.21.-  
+                 b4483 (tatD)
+POSITION    4023554..4024336
+MOTIF       Pfam: TatD_DNase DRTGG
+DBLINKS     NCBI-GeneID: 2847752
+            NCBI-ProteinID: YP_026271
+            RegulonDB: ECK120001439
+            ECOCYC: EG11481
+            ASAP: ABE-0174116
+            UniProt: P27859
+STRUCTURE   PDB: 4P5U 1XWY 4PE8
+AASEQ       260
+            MFDIGVNLTSSQFAKDRDDVVACAFDAGVNGLLITGTNLRESQQAQKLARQYSSCWSTAG
+            VHPHDSSQWQAATEEAIIELAAQPEVVAIGECGLDFNRNFSTPEEQERAFVAQLRIAADL
+            NMPVFMHCRDAHERFMTLLEPWLDKLPGAVLHCFTGTREEMQACVAHGIYIGITGWVCDE
+            RRGLELRELLPLIPAEKLLIETDAPYLLPRDLTPKPSSRRNEPAHLPHILQRIAHWRGED
+            AAWLAATTDANVKTLFGIAF
+NTSEQ       783
+            atgtttgatatcggcgttaatttgaccagttcgcaatttgcgaaagaccgtgatgatgtt
+            gtagcgtgcgcttttgacgcgggagttaatgggctactcatcaccggcactaacctgcgt
+            gaaagccagcaggcgcaaaagctggcgcgtcagtattcgtcctgttggtcaacggcgggc
+            gtacatcctcacgacagcagccagtggcaagctgcgactgaagaagcgattattgagctg
+            gccgcgcagccagaagtggtggcgattggtgaatgtggtctcgactttaaccgcaacttt
+            tcgacgccggaagagcaggaacgcgcttttgttgcccagctacgcattgccgcagattta
+            aacatgccggtatttatgcactgtcgcgatgcccacgagcggtttatgacattgctggag
+            ccgtggctggataaactgcctggtgcggttcttcattgctttaccggcacacgcgaagag
+            atgcaggcgtgcgtggcgcatggaatttatatcggcattaccggttgggtttgcgatgaa
+            cgacgcggactggagctgcgggaacttttgccgttgattccggcggaaaaattactgatc
+            gaaactgatgcgccgtatctgctccctcgcgatctcacgccaaagccatcatcccggcgc
+            aacgagccagcccatctgccccatattttgcaacgtattgcgcactggcgtggagaagat
+            gccgcatggctggctgccaccacggatgctaatgtcaaaacactgtttgggattgcgttt
+            tag
+///

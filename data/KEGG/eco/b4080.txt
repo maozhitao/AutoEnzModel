@@ -1,0 +1,60 @@
+ENTRY       b4080             CDS       T00007
+NAME        mdtP
+DEFINITION  (RefSeq) putative multidrug efflux pump outer membrane channel
+ORTHOLOGY   K15550  outer membrane protein, multidrug efflux system
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b4080 (mdtP)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b4080 (mdtP)
+POSITION    complement(4299564..4301030)
+MOTIF       Pfam: OEP
+DBLINKS     NCBI-GeneID: 948583
+            NCBI-ProteinID: NP_418504
+            Pasteur: yjcP
+            RegulonDB: ECK120001879
+            ECOCYC: EG11952
+            ASAP: ABE-0013366
+            UniProt: P32714
+AASEQ       488
+            MINRQLSRLLLCSILGSTTLISGCALVRKDSAPHQQLKPEQIKLADDIHLASSGWPQAQW
+            WKQLNDPQLDALIQRTLSGSHTLAEAKLREEKAQSQADLLDAGSQLQVAALGMLNRQRVS
+            ANGFLSPYSMDAPALGMDGPYYTEATVGLFAGLDLDLWGVHRSAVAAAIGAHNAALAETA
+            AVELSLATGVAQLYYSMQASYQMLDLLEQTHDVIDYAVKAHQSKVAHGLEAQVPFHGARA
+            QILAVDKQIVAVKGQITETRESLRALIGAGASDMPEIRPVALPQVQTGIPATLSYELLAR
+            RPDLQAMRWYVQASLDQVDSARALFYPSFDIKAFFGLDSIHLHTLFKKTSRQFNFIPGLK
+            LPLFDGGRLNANLEGTRAASNMMIERYNQSVLNAVRDVAVNGTRLQTLNDEREMQAERVE
+            ATRFTQRAAEAAYQRGLTSRLQATEARLPVLAEEMSLLMLDSRRVIQSIQLMKSLGGGYQ
+            AGPVVEKK
+NTSEQ       1467
+            atgatcaatcgtcaactttcacgtctgctgttgtgcagcattctcggcagcacgacgctg
+            atttccggctgtgccctggtacgtaaggattctgcacctcatcaacagctcaaaccggaa
+            caaatcaaactggccgacgatattcatcttgccagctccggctggccgcaggcgcagtgg
+            tggaaacaactcaatgacccgcagctggatgcgctgatccaacggacgctaagtggttca
+            cacaccctcgccgaagcgaaactgcgggaagaaaaagcgcagtcccaggccgatttgtta
+            gatgccggttcacaattacaggtcgcagcgttagggatgctcaaccgccaacgtgtctcg
+            gcgaacggctttttaagcccttattcaatggatgcgccagcactgggtatggacgggccg
+            tactatacggaagccacagtaggtttgtttgccggactggatcttgatttgtggggtgtg
+            catcgctcagcggttgccgccgccattggcgcgcataatgccgcgctggcagaaaccgca
+            gcagtagagctatcgctggccacgggcgtagcgcagctttattacagtatgcaggccagc
+            tatcagatgctcgatctgttagaacaaactcacgatgtgattgattacgcggtgaaagcg
+            caccagagtaaagtggcgcacggtctggaagcgcaagtgcctttccacggcgcgcgggca
+            cagattctggcggtcgataaacaaattgttgccgtcaaagggcaaatcaccgaaacgcga
+            gaatctctgcgtgcattgattggcgcgggagccagcgatatgccggagatcagaccggtg
+            gcattaccgcaagtccagaccggcattccggcgacactctcttatgagttgctcgccaga
+            cgcccggatctgcaagccatgcgctggtatgttcaggcgtcattagatcaggtggattcc
+            gcgcgggcgttgttctatccgagctttgatatcaaagcgtttttcggtctggactccatc
+            catctgcataccttattcaaaaaaaccagtcgccagttcaacttcatcccgggtctgaaa
+            ttgccgctgtttgacggtggacggttgaatgccaatctcgaaggcacgcgcgccgccagc
+            aacatgatgattgaacgttacaaccagtcagtactgaacgcggtgcgtgacgttgccgtc
+            aacggcacgcgtctgcaaacgctcaacgacgagcgagaaatgcaggctgaacgcgtggaa
+            gccacgcgctttacccagcgcgctgccgaggccgcctatcagcgcggcttaaccagccgc
+            ttacaggccaccgaagcccggttgccagtgcttgccgaagagatgtcattactgatgctg
+            gacagccgccgggtgatccaaagcattcagttgatgaaatcgctgggcggcgggtatcag
+            gcaggtcccgtcgtcgagaaaaaataa
+///

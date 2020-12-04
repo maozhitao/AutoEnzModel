@@ -1,0 +1,83 @@
+ENTRY       b0879             CDS       T00007
+NAME        macB
+DEFINITION  (RefSeq) ABC-type tripartite efflux pump ATP binding/membrane subunit
+ORTHOLOGY   K05685  macrolide transport system ATP-binding/permease protein [EC:3.6.3.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b0879 (macB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0879 (macB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.3  Catalysing transmembrane movement of substances
+                3.6.3.-  
+                 b0879 (macB)
+            Transporters [BR:eco02000]
+             ABC transporters, eukaryotic type
+              Other subfamilies
+               Macrolide exporter
+                b0879 (macB)
+POSITION    920347..922293
+MOTIF       Pfam: MacB_PCD ABC_tran FtsX SMC_N AAA_21 AAA_30 AAA_29 AAA_22 AAA_16 RsgA_GTPase ABC2_membrane_3 AAA_33 MMR_HSR1 DUF4396 AAA_28 AAA_23 Mlf1IP DUF87 AAA_24 Glyco_transf_4 DUF4064
+DBLINKS     NCBI-GeneID: 945164
+            NCBI-ProteinID: NP_415400
+            Pasteur: ybjZ
+            RegulonDB: ECK120003062
+            ECOCYC: G6462
+            ASAP: ABE-0002989
+            UniProt: P75831
+STRUCTURE   PDB: 5LJ8 5LJ9 5LJA 5C59 5NIK 5NIL
+AASEQ       648
+            MTPLLELKDIRRSYPAGDEQVEVLKGISLDIYAGEMVAIVGASGSGKSTLMNILGCLDKA
+            TSGTYRVAGQDVATLDADALAQLRREHFGFIFQRYHLLSHLTAEQNVEVPAVYAGLERKQ
+            RLLRAQELLQRLGLEDRTEYYPAQLSGGQQQRVSIARALMNGGQVILADEPTGALDSHSG
+            EEVMAILHQLRDRGHTVIIVTHDPQVAAQAERVIEIRDGEIVRNPPAIEKVNVTGGTEPV
+            VNTVSGWRQFVSGFNEALTMAWRALAANKMRTLLTMLGIIIGIASVVSIVVVGDAAKQMV
+            LADIRSIGTNTIDVYPGKDFGDDDPQYQQALKYDDLIAIQKQPWVASATPAVSQNLRLRY
+            NNVDVAASANGVSGDYFNVYGMTFSEGNTFNQEQLNGRAQVVVLDSNTRRQLFPHKADVV
+            GEVILVGNMPARVIGVAEEKQSMFGSSKVLRVWLPYSTMSGRVMGQSWLNSITVRVKEGF
+            DSAEAEQQLTRLLSLRHGKKDFFTWNMDGVLKTVEKTTRTLQLFLTLVAVISLVVGGIGV
+            MNIMLVSVTERTREIGIRMAVGARASDVLQQFLIEAVLVCLVGGALGITLSLLIAFTLQL
+            FLPGWEIGFSPLALLLAFLCSTVTGILFGWLPARNAARLDPVDALARE
+NTSEQ       1947
+            atgacgcctttgctcgaattaaaggatattcgtcgcagctatcctgccggtgatgagcag
+            gttgaggtgctgaagggcatcagcctcgatatttatgcgggtgagatggtcgcgattgtt
+            ggcgcttcgggttccggtaaatcgaccctgatgaatattctcggctgtctggataaggcc
+            accagcggcacctatcgcgtcgccggtcaggatgttgccacgctggacgccgatgcgctg
+            gcgcaactgcgccgcgagcatttcggctttattttccagcgttaccatttgctttcgcat
+            ttaaccgccgagcagaacgttgaagtacccgccgtctatgctggtcttgagcggaaacag
+            cgactgcttcgtgcccaggagttgctgcaacggctggggctggaagaccgtacagagtat
+            tatccggcacagctttcgggtggtcagcaacagcgcgtcagcatcgcgcgggcattgatg
+            aacggtggtcaggtaattcttgccgatgaaccaaccggcgcactggacagccattctggc
+            gaagaggtgatggcgatcctgcatcagctgcgcgatcgtgggcatacggtgattatcgtc
+            acccacgatccgcaggtcgctgctcaggccgagcgggtgatcgaaattcgcgacggcgaa
+            attgtgcgcaatcctcccgccattgaaaaagtgaatgttactggcgggacggaacctgtt
+            gtcaacacggtgtctggctggcggcagtttgtcagcggttttaacgaggcgctgacgatg
+            gcatggcgggcgctggcagcgaataaaatgcgtactttactgaccatgctggggattatt
+            atcggtattgcgtcggtggtttccattgtcgtggtgggtgacgccgccaaacaaatggtg
+            ctggcggatattcgttctattggtacgaatactattgatgtctatcccgggaaagatttt
+            ggcgatgacgatccgcaatatcagcaggcgctgaagtacgacgacttaatcgccatccaa
+            aaacaaccgtgggtcgcctcagccacacctgccgtctcgcaaaacctgcgcctgcgttat
+            aacaatgttgatgttgctgccagtgccaatggcgtgagcggcgattattttaatgtctat
+            ggcatgaccttcagtgaaggaaacacctttaatcaggagcagctgaacggtcgtgcgcag
+            gtcgtggttctcgacagtaatactcgccgccagcttttcccccataaagcagatgtggtt
+            ggcgaggtgattctggtcggcaatatgcccgccagagtcattggtgtggcggaagaaaaa
+            cagtcgatgtttggtagcagtaaagtgctgcgtgtctggctaccttacagcacgatgtcc
+            gggcgagttatgggccagtcgtggcttaactccattactgtcagggtgaaagaaggattt
+            gacagcgccgaggcggaacagcaactcacgcgtttactttcactgcgccacggaaagaag
+            gatttctttacctggaacatggacggcgtcttgaaaactgttgaaaagaccacacgtact
+            ttacaactgtttctgacgctggtggcggtgatttcgctggtggtgggcggtattggtgta
+            atgaatattatgctggtgtcagtgaccgagcggacgcgggaaattggcattcgcatggct
+            gtaggtgcgcgagcaagcgatgttttgcaacagttcctgatcgaagccgtactggtttgc
+            ctggtcggtggcgcgttgggaataacactgtcactgttaattgctttcaccttgcagctt
+            ttcttacccggctgggagattggtttttcaccgttggcgctgctgctggcgtttctctgc
+            tcgacggtcaccgggattttatttggctggttacccgcacgaaatgcggcacgactggat
+            ccagtagatgctctggcacgagagtaa
+///

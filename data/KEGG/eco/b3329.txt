@@ -1,0 +1,44 @@
+ENTRY       b3329             CDS       T00007
+NAME        gspH
+DEFINITION  (RefSeq) Type II secretion system protein GspH
+ORTHOLOGY   K02457  general secretion pathway protein H
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3329 (gspH)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3329 (gspH)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              General secretion pathway protein
+               b3329 (gspH)
+POSITION    3461468..3461977
+MOTIF       Pfam: GspH N_methyl
+DBLINKS     NCBI-GeneID: 947834
+            NCBI-ProteinID: NP_417788
+            Pasteur: gspH
+            RegulonDB: ECK120004252
+            ECOCYC: G7707
+            ASAP: ABE-0010888
+            UniProt: P41443
+STRUCTURE   PDB: 2KNQ
+AASEQ       169
+            MNQQRGFTLLEMMLVLALVAITASVVLFTYGREDVASTRARETAARFTAALELAIDRATL
+            SGQPVGIHFSDSAWRIMVPGKTPSAWRWVPLQEDAADESQNDWDEELSIHLQPFKPDDSN
+            QPQVVILADGQITPFSLLMANAGTGEPLLTLVCSGSWPLDQTLARDTRP
+NTSEQ       510
+            atgaatcagcaacgcgggtttaccctgctggagatgatgctggtgctggcgctggtcgct
+            atcacggcaagcgtggtgctcttcacatatggccgggaggatgtcgccagcactcgtgcg
+            cgcgaaacagcggcgcggtttaccgctgcacttgaattagccatcgaccgcgccacgctc
+            agtggtcagcctgtcggtatccatttctctgattcagcatggcgcattatggtaccgggc
+            aaaacaccatcagcctggcgctgggttccattacaagaagatgccgcagacgagagccaa
+            aatgactgggatgaagaactctcaattcatcttcagccatttaaacctgatgacagcaac
+            cagccacaggttgtgattctggccgacggacaaatcacgcccttctctttgttgatggct
+            aacgccgggaccggtgagccgctcctgacgttagtctgttcaggctcatggcccctggat
+            caaacgctcgccagagatacccgcccatga
+///

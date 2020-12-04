@@ -1,0 +1,47 @@
+ENTRY       b0424             CDS       T00007
+NAME        yajL
+DEFINITION  (RefSeq) protein/nucleic acid deglycase 3
+ORTHOLOGY   K03152  protein deglycase [EC:3.5.1.124]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b0424 (yajL)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.124  protein deglycase
+                 b0424 (yajL)
+            Peptidases and inhibitors [BR:eco01002]
+             Cysteine peptidases
+              Family C56: PfpI endopeptidase family
+               b0424 (yajL)
+POSITION    complement(443051..443641)
+MOTIF       Pfam: DJ-1_PfpI GATase_3
+DBLINKS     NCBI-GeneID: 945066
+            NCBI-ProteinID: NP_414958
+            Pasteur: yajL
+            RegulonDB: ECK120002673
+            ECOCYC: G198
+            ASAP: ABE-0001472
+            UniProt: Q46948
+STRUCTURE   PDB: 5SY4 2AB0
+AASEQ       196
+            MSASALVCLAPGSEETEAVTTIDLLVRGGIKVTTASVASDGNLAITCSRGVKLLADAPLV
+            EVADGEYDVIVLPGGIKGAECFRDSTLLVETVKQFHRSGRIVAAICAAPATVLVPHDIFP
+            IGNMTGFPTLKDKIPAEQWLDKRVVWDARVKLLTSQGPGTAIDFGLKIIDLLVGREKAHE
+            VASQLVMAAGIYNYYE
+NTSEQ       591
+            atgagcgcatcggcactggtttgcctcgcccctggtagtgaagagactgaagccgtcacc
+            actatcgatctgctggttcgcggcggtatcaaagtcaccactgccagcgtcgccagcgat
+            ggtaacctggcgattacctgctcgcgcggcgtgaagctgctggcggatgcgccgctggtc
+            gaagtggctgatggcgaatatgacgtgatcgtgctgcctggtggcattaaaggcgcggag
+            tgttttcgcgatagcactctgctggttgaaaccgttaaacagttccaccgttccgggcgt
+            atcgtcgcggctatttgcgccgcgccagccaccgtgctggtgccgcacgatatcttcccg
+            attggtaatatgaccggcttcccgacgctgaaagacaaaattcccgccgaacaatggctg
+            gacaagcgcgtcgtctgggatgcacgggtaaaattgctgaccagccaggggccgggtaca
+            gctatcgactttggtctgaaaattatcgacctgttggttgggcgtgaaaaagcccatgaa
+            gtggcatcacaactggtgatggcggcagggatttataattattacgagtag
+///

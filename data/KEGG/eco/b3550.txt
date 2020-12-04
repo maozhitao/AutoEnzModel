@@ -1,0 +1,39 @@
+ENTRY       b3550             CDS       T00007
+NAME        yiaC
+DEFINITION  (RefSeq) putative acyltransferase with acyl-CoA N-acyltransferase domain
+ORTHOLOGY   K03826  putative acetyltransferase [EC:2.3.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b3550 (yiaC)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.-  
+                 b3550 (yiaC)
+POSITION    3713652..3714092
+MOTIF       Pfam: Acetyltransf_1 Acetyltransf_10 Acetyltransf_7 FR47 Acetyltransf_4 Acetyltransf_18 Acetyltransf_9 PanZ
+DBLINKS     NCBI-GeneID: 946460
+            NCBI-ProteinID: NP_418006
+            Pasteur: yiaC
+            RegulonDB: ECK120002151
+            ECOCYC: EG12270
+            ASAP: ABE-0011595
+            UniProt: P37664
+AASEQ       146
+            MIREAQRSELPAILELWLESTTWGHPFIKANYWRDCIPLVRDAYLANAQNWVWEEDGKLL
+            GFVSIMEGRFLAAMFVAPKAVRRGIGKALMQYVQQRHPHLMLEVYQKNQPAINFYQAQGF
+            HIVDCAWQDETQLPTWIMSWPVVQTL
+NTSEQ       441
+            atgattcgggaagcgcaacgttcagaactccccgcgatcctcgaactgtggctggaaagt
+            acaacctgggggcatccctttataaaagcgaattactggcgtgactgcattccgctggtg
+            cgggatgcctatcttgccaacgcgcaaaactgggtctgggaagaagacggtaagcttctc
+            ggttttgtcagcattatggaaggccgatttctggcagcgatgtttgtcgcaccgaaggcc
+            gtcaggcgcggtattggtaaggcgctgatgcagtatgtgcagcagcgccatccccacctg
+            atgctggaggtttatcaaaaaaatcaaccggcgataaatttttaccaggcacagggtttt
+            cacattgtcgattgcgcatggcaggatgaaacccaactacccacatggattatgagctgg
+            ccggtggttcaaacgctgtaa
+///

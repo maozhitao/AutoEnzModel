@@ -1,0 +1,47 @@
+ENTRY       b4398             CDS       T00007
+NAME        creB
+DEFINITION  (RefSeq) DNA-binding transcriptional regulator CreB
+ORTHOLOGY   K07663  two-component system, OmpR family, catabolic regulation response regulator CreB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b4398 (creB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b4398 (creB)
+            Two-component system [BR:eco02022]
+             OmpR family
+              CreC-CreB (phosphate regulation)
+               b4398 (creB)
+POSITION    4636007..4636696
+MOTIF       Pfam: Response_reg Trans_reg_C HTH_11
+DBLINKS     NCBI-GeneID: 948922
+            NCBI-ProteinID: NP_418815
+            Pasteur: creB
+            RegulonDB: ECK120001197
+            ECOCYC: EG11218
+            ASAP: ABE-0014428
+            UniProt: P08368
+AASEQ       229
+            MQRETVWLVEDEQGIADTLVYMLQQEGFAVEVFERGLPVLDKARKQVPDVMILDVGLPDI
+            SGFELCRQLLALHPALPVLFLTARSEEVDRLLGLEIGADDYVAKPFSPREVCARVRTLLR
+            RVKKFSTPSPVIRIGHFELNEPAAQISWFDTPLALTRYEFLLLKTLLKSPGRVWSRQQLM
+            DSVWEDAQDTYDRTVDTHIKTLRAKLRAINPDLSPINTHRGMGYSLRGL
+NTSEQ       690
+            atgcaacgggaaacggtctggttagtggaagatgagcaagggatagccgacacgctggtc
+            tacatgttgcagcaggaaggttttgccgtcgaggtctttgagcgaggcttgccggtgctg
+            gataaagctcgcaagcaggtacccgacgtcatgattctcgatgttggtctgccggatatt
+            agcggctttgaattgtgccgccagttactggcgctccatccggcgttacctgtactgttc
+            ctgacggcccgaagtgaagaggtcgatcgcctgcttgggctggaaattggtgctgacgac
+            tacgtggctaaaccgttttcaccccgcgaagtgtgcgccagggtgcgcaccttactgcgt
+            cgggtgaagaagttctcgacgccgtctcccgtcatccgtattggacattttgaattgaat
+            gaacccgcggcgcagatcagctggtttgacacgccattagcgctgactcggtatgagttt
+            ttattgttgaagacgttactcaagtcaccgggccgcgtctggtcccgccagcaactgatg
+            gatagcgtatgggaagatgcgcaggacacctacgatcgcaccgtcgatacccacattaaa
+            acgctgcgtgccaagctgcgcgccatcaaccccgatctttcaccgattaatactcatcgc
+            ggcatgggatatagcctgaggggcctgtaa
+///

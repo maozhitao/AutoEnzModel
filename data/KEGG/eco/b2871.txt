@@ -1,0 +1,56 @@
+ENTRY       b2871             CDS       T00007
+NAME        ygeX
+DEFINITION  (RefSeq) 2,3-diaminopropionate ammonia-lyase
+ORTHOLOGY   K01751  diaminopropionate ammonia-lyase [EC:4.3.1.15]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b2871 (ygeX)
+            Enzymes [BR:eco01000]
+             4. Lyases
+              4.3  Carbon-nitrogen lyases
+               4.3.1  Ammonia-lyases
+                4.3.1.15  diaminopropionate ammonia-lyase
+                 b2871 (ygeX)
+POSITION    3007510..3008706
+MOTIF       Pfam: PALP Polysacc_deac_2
+DBLINKS     NCBI-GeneID: 947012
+            NCBI-ProteinID: NP_417347
+            Pasteur: ygeX
+            RegulonDB: ECK120004053
+            ECOCYC: G7490
+            ASAP: ABE-0009428
+            UniProt: P66899
+STRUCTURE   PDB: 4D9I 4D9K 4D9G 4D9M 4D9N
+AASEQ       398
+            MSVFSLKIDIADNKFFNGETSPLFSQSQAKLARQFHQKIAGYRPTPLCALDDLANLFGVK
+            KILVKDESKRFGLNAFKMLGGAYAIAQLLCEKYHLDIETLSFEHLKNAIGEKMTFATTTD
+            GNHGRGVAWAAQQLGQNAVIYMPKGSAQERVDAILNLGAECIVTDMNYDDTVRLTMQHAQ
+            QHGWEVVQDTAWEGYTKIPTWIMQGYATLADEAVEQMREMGVTPTHVLLQAGVGAMAGGV
+            LGYLVDVYSPQNLHSIIVEPDKADCIYRSGVKGDIVNVGGDMATIMAGLACGEPNPLGWE
+            ILRNCATQFISCQDSVAALGMRVLGNPYGNDPRIISGESGAVGLGVLAAVHYHPQRQSLM
+            EKLALNKDAVVLVISTEGDTDVKHYREVVWEGKHAVAP
+NTSEQ       1197
+            atgtccgttttctcattgaagattgatatcgccgataacaaatttttcaacggcgaaaca
+            tcaccgctcttttcgcaaagccaggccaaactggcgcgccagttccaccagaaaatagct
+            ggttatcgcccaacaccgctttgtgcgctggacgatctcgcaaacctttttggtgtgaag
+            aaaattctcgtcaaagacgaatcaaaacgattcggtctgaacgccttcaaaatgcttggc
+            ggtgcgtacgccatcgctcaattattgtgtgaaaaatatcatcttgatatcgaaacgctg
+            tcatttgagcacctgaaaaatgccatcggcgaaaaaatgactttcgcgaccaccaccgac
+            ggcaaccacgggcgcggtgtggcgtgggcagcacagcaactcggacagaatgcggtgatt
+            tacatgccgaaaggttctgctcaggaacgcgttgacgccattctgaacctcggtgccgag
+            tgcatcgtcacggatatgaactatgacgataccgttcgcctgaccatgcaacacgcgcag
+            cagcacggctgggaagtggtacaggacacggcatgggaaggttacaccaaaatcccaacc
+            tggatcatgcaaggctacgcaaccctggcagatgaagccgtcgagcaaatgcgtgaaatg
+            ggcgtaaccccgacgcacgttctgctgcaagccggtgtcggagcaatggccggtggtgtg
+            ctgggttatctggtcgacgtctatagcccgcaaaatctgcacagcattattgttgaacct
+            gacaaagctgactgtatttatcgctccggcgtcaaaggcgacatcgtcaacgttggcggt
+            gatatggccaccatcatggcaggcctggcctgtggcgaacctaacccgctgggctgggaa
+            atcctacgtaactgcgccacccaattcatctcctgccaggacagcgttgccgcattaggt
+            atgcgcgtgctgggtaatccgtacggcaacgacccgcgcatcatctccggtgaatccggc
+            gctgtcggtttgggcgttctcgcagcggttcattatcacccgcaacgtcaaagcctgatg
+            gaaaaactggcgctgaacaaagatgccgtggtgctggttatcagcactgaaggcgacacc
+            gacgtgaagcactaccgcgaagttgtctgggaaggcaaacacgctgtagcaccttaa
+///

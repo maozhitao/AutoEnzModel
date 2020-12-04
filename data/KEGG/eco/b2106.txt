@@ -1,0 +1,45 @@
+ENTRY       b2106             CDS       T00007
+NAME        rcnA
+DEFINITION  (RefSeq) Ni(2(+))/Co(2(+)) exporter
+ORTHOLOGY   K08970  nickel/cobalt transporter (NicO) family protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2106 (rcnA)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b2106 (rcnA)
+POSITION    2185917..2186741
+MOTIF       Pfam: NicO DsbD_2 SfLAP Abhydrolase_9_N
+DBLINKS     NCBI-GeneID: 949078
+            NCBI-ProteinID: NP_416609
+            Pasteur: yohM
+            RegulonDB: ECK120003720
+            ECOCYC: G7138
+            ASAP: ABE-0006968
+            UniProt: P76425
+AASEQ       274
+            MTEFTTLLQQGNAWFFIPSAILLGALHGLEPGHSKTMMAAFIIAIKGTIKQAVMLGLAAT
+            ISHTAVVWLIAFGGMVISKRFTAQSAEPWLQLISAVIIISTAFWMFWRTWRGERNWLENM
+            HGHDYEHHHHDHEHHHDHGHHHHHEHGEYQDAHARAHANDIKRRFDGREVTNWQILLFGL
+            TGGLIPCPAAITVLLICIQLKALTLGATLVVSFSIGLALTLVTVGVGAAISVQQVAKRWS
+            GFNTLAKRAPYFSSLLIGLVGVYMGVHGFMGIMR
+NTSEQ       825
+            atgaccgaatttacaactcttcttcagcaaggaaacgcctggttcttcatccccagcgcc
+            atcttacttggtgcgcttcatggcctggaaccagggcactcaaaaacgatgatggcggcg
+            tttatcatcgccatcaaaggcaccattaaacaagcggtgatgctcggactggcagcaact
+            atttcgcataccgcagtggtctggttaattgcctttggcgggatggtgatcagcaagcgc
+            tttactgctcaatcagcagaaccgtggctccagctgatttccgcagtgatcattattagc
+            accgcgttctggatgttctggcgtacctggcgcggcgaacgcaactggctggagaatatg
+            cacgggcatgattatgagcatcatcatcacgatcacgaacatcaccacgaccatggacat
+            catcaccatcacgaacatggcgagtatcaggatgcccatgcacgagcccatgccaatgac
+            attaaacgacgctttgatggtagagaggtcaccaactggcaaattttgttatttggctta
+            accggtggccttatcccctgcccggcagcaattaccgtgctgttgatatgcattcagttg
+            aaagccctgacactgggcgcaacactggtcgtcagtttcagcattggcctggcgttaacg
+            cttgtcaccgtaggcgttggcgcagcaatcagcgttcagcaggtcgcaaaacgctggagc
+            ggatttaacactctcgctaaacgcgccccctatttttccagtctgttgattggcttagtc
+            ggtgtgtatatgggcgtacatggcttcatgggcataatgcgataa
+///

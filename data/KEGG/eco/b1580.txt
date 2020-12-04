@@ -1,0 +1,54 @@
+ENTRY       b1580             CDS       T00007
+NAME        rspB
+DEFINITION  (RefSeq) putative zinc-binding dehydrogenase RspB
+ORTHOLOGY   K08322  L-gulonate 5-dehydrogenase [EC:1.1.1.380]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00040  Pentose and glucuronate interconversions
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00040 Pentose and glucuronate interconversions
+                b1580 (rspB)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.380  L-gulonate 5-dehydrogenase
+                 b1580 (rspB)
+POSITION    complement(1652896..1653915)
+MOTIF       Pfam: ADH_N ADH_zinc_N Glu_dehyd_C ADH_zinc_N_2 TrkA_N Sacchrp_dh_NADP 2-Hacid_dh_C NADH_4Fe-4S Shikimate_DH
+DBLINKS     NCBI-GeneID: 946127
+            NCBI-ProteinID: NP_416097
+            Pasteur: rspB
+            RegulonDB: ECK120003427
+            ECOCYC: G6838
+            ASAP: ABE-0005272
+            UniProt: P38105
+STRUCTURE   PDB: 4ILK
+AASEQ       339
+            MKSILIEKPNQLAIVEREIPTPSAGEVRVKVKLAGICGSDSHIYRGHNPFAKYPRVIGHE
+            FFGVIDAVGEGVESARVGERVAVDPVVSCGHCYPCSIGKPNVCTTLAVLGVHADGGFSEY
+            AVVPAKNAWKIPEAVADQYAVMIEPFTIAANVTGHGQPTENDTVLVYGAGPIGLTIVQVL
+            KGVYNVKNVIVADRIDERLEKAKESGADWAINNSQTPLGEIFTEKGIKPTLIIDAACHPS
+            ILKEAVTLASPAARIVLMGFSSEPSEVIQQGITGKELSIFSSRLNANKFPIVIDWLSKGL
+            IKPEKLITHTFDFQHVADAISLFEQDQKHCCKVLLTFSE
+NTSEQ       1020
+            atgaaaagcatattaattgaaaaaccgaatcaactggcgattgtcgaacgtgaaataccc
+            accccgtcagcgggtgaagtacgagtaaaagtgaaacttgccggaatttgtggttcagat
+            agccatatttatcgtgggcataatccttttgcgaaatatccgcgcgtcattggtcatgaa
+            ttctttggcgtcattgatgcagtgggtgaaggcgtggaaagcgccagagtcggtgaacgt
+            gttgctgtcgatccggtggtcagctgtgggcattgctatccgtgctctataggtaaaccg
+            aacgtttgtacgacactggctgtattaggtgtgcacgctgacggtggtttcagtgaatat
+            gccgtggttccggcaaaaaatgcgtggaaaattcctgaagcagtggccgatcaatatgcg
+            gtaatgatcgaaccttttaccattgcggctaacgtaaccggacatggtcaaccgactgaa
+            aatgataccgttctggtttatggtgccggtccaatcggcctgacgatcgttcaggtatta
+            aaaggcgtctataacgttaaaaatgtgattgttgccgatcgcattgatgaacgactggaa
+            aaagcgaaagagagcggggctgactgggcgattaataacagccagacaccgcttggcgag
+            attttcactgaaaaaggcatcaagccgacattaattatcgatgcggcttgtcatccttct
+            atcctgaaagaggccgtaacgctggcttctccagcggcacgtattgtattgatggggttc
+            tccagtgaaccgtctgaagtgattcagcaaggaattaccggaaaagaactctctattttc
+            tcttcacgcttaaatgcaaataaattcccgatcgttatcgactggttaagtaaagggtta
+            attaaaccagaaaaattaattacccatacgtttgatttccagcatgttgctgatgccatt
+            agtttatttgaacaggatcaaaaacattgctgcaaagtcttactcactttttctgaataa
+///

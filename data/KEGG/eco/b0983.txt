@@ -1,0 +1,62 @@
+ENTRY       b0983             CDS       T00007
+NAME        gfcE
+DEFINITION  (RefSeq) putative exopolysaccharide export lipoprotein GfcE
+ORTHOLOGY   K01991  polysaccharide biosynthesis/export protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0983 (gfcE)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b0983 (gfcE)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0983 (gfcE)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b0983 (gfcE)
+POSITION    complement(1044664..1045803)
+MOTIF       Pfam: Poly_export Wza_C SLBB
+DBLINKS     NCBI-GeneID: 945586
+            NCBI-ProteinID: NP_415503
+            Pasteur: yccZ
+            RegulonDB: ECK120003104
+            ECOCYC: G6504
+            ASAP: ABE-0003317
+            UniProt: P0A932
+AASEQ       379
+            MKKNIFKFSVLTLAVLSLTACTLVPGQNLSTSNKDVIELPDNQYDLDKMVNIYPVTPGLI
+            DQLRAKPIMSQANPELEQQIANYEYRIGIGDVLMVTVWDHPELTTPAGQYRSASDTGNWV
+            NADGAIFYPYIGRLKVAGKTLTQVRNEITARLDSVIESPQVDVSVAAFRSQKAYVTGEVS
+            KSGQQPITNIPLTIMDAINAAGGLTADADWRNVVLTQNGVKTKVNLYALMQRGDLRQNKL
+            LHPGDILFIPRNDDLKVFVMGEVGKQSTLKMDRSGMTLAEALGNAEGMNQDVADATGIFV
+            IRATQNKQNGKIANIYQLNAKDASAMILGTEFQLEPYDIVYVTTAPLARWNRVISLLVPT
+            ISGVHDLTETSRWIQTWPN
+NTSEQ       1140
+            atgaaaaagaacatttttaagttttcggtactgacattggctgttctgtctttgacagca
+            tgtacccttgttcctggtcagaatttatcgaccagtaacaaggatgtcattgaactacct
+            gacaatcagtatgacctggacaaaatggtcaatatctatcccgtcacgccaggattgatt
+            gatcagttgcgcgccaaaccgattatgtcgcaggctaacccggagctggagcagcaaatc
+            gcaaactatgaatatcgtatcgggattggtgatgtgttgatggttacggtctgggatcac
+            ccggaactaaccacccccgcagggcaataccgtagcgccagtgataccggcaactgggtt
+            aacgccgatggtgcgattttctacccctatattggtcgcctgaaagtggccgggaaaaca
+            cttacccaggtacgcaacgagattacagcgcgtctcgattcagtcattgaaagcccgcaa
+            gtcgatgtcagcgtcgcggcgttccgatcgcaaaaagcgtacgtcaccggcgaagtcagc
+            aaatcgggtcagcagccgattaccaatattcctctgaccatcatggatgcgattaacgcc
+            gcgggcggtctgaccgcagatgcagactggcgcaacgtggtgctcacccagaatggcgta
+            aagaccaaagtgaacctctatgcgctgatgcagcgtggcgacttgcgccagaacaaactg
+            ctgcacccgggcgatattttatttattccgcgcaacgatgatctgaaagtcttcgtgatg
+            ggtgaagtgggtaaacagagcacgctgaaaatggaccgcagcggtatgaccctggcggaa
+            gcgctgggtaacgctgagggtatgaatcaggatgtcgctgatgcgacggggatttttgtt
+            attcgtgcaacgcaaaacaagcagaatggcaaaatcgccaatatttatcagctgaatgcg
+            aaggacgcatcggcaatgatactcggaacggaattccagcttgaaccttacgacattgtt
+            tatgtcactaccgcgccgctggctcgttggaaccgtgtgatttctctgctggtaccgacg
+            atttccggggtgcatgacctgacagagacttcacggtggattcaaacatggcccaactaa
+///

@@ -1,0 +1,54 @@
+ENTRY       b1736             CDS       T00007
+NAME        chbA
+DEFINITION  (RefSeq) N,N'-diacetylchitobiose-specific PTS enzyme IIA component
+ORTHOLOGY   K02759  cellobiose PTS system EIIA component [EC:2.7.1.196 2.7.1.205]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00500  Starch and sucrose metabolism
+            eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00500 Starch and sucrose metabolism
+                b1736 (chbA)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b1736 (chbA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1736 (chbA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.196  protein-Npi-phosphohistidine---N,N'-diacetylchitobiose phosphotransferase
+                 b1736 (chbA)
+                2.7.1.205  protein-Npi-phosphohistidine---cellobiose phosphotransferase
+                 b1736 (chbA)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               Cellobiose-specific II component
+                b1736 (chbA)
+POSITION    complement(1819455..1819805)
+MOTIF       Pfam: PTS_IIA
+DBLINKS     NCBI-GeneID: 946244
+            NCBI-ProteinID: NP_416250
+            Pasteur: chbA
+            RegulonDB: ECK120000138
+            ECOCYC: EG10142
+            ASAP: ABE-0005792
+            UniProt: P69791
+STRUCTURE   PDB: 2LRK 2LRL 2WY2 2WWV 1WCR
+AASEQ       116
+            MMDLDNIPDTQTEAEELEEVVMGLIINSGQARSLAYAALKQAKQGDFAAAKAMMDQSRMA
+            LNEAHLVQTKLIEGDAGEGKMKVSLVLVHAQDHLMTSMLARELITELIELHEKLKA
+NTSEQ       351
+            atgatggatctcgataacattcccgatacgcaaacggaagctgaagagctggaagaagtg
+            gtgatggggctgatcatcaactccggacaagcgcgcagcctggcgtatgcggcactgaaa
+            caggcgaagcagggcgattttgccgcagcaaaagccatgatggatcagtcacggatggca
+            ttgaatgaagcgcatctggtacagacgaaactgattgaaggcgatgcgggcgaaggtaag
+            atgaaagtgagtctggtgctggtccacgctcaggatcatttaatgacgtccatgcttgcg
+            cgtgaactgattactgaattaattgagcttcatgaaaaactgaaggcataa
+///

@@ -1,0 +1,46 @@
+ENTRY       b3307             CDS       T00007
+NAME        rpsN
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S14
+ORTHOLOGY   K02954  small subunit ribosomal protein S14
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3307 (rpsN)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3307 (rpsN)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Small subunit
+                b3307 (rpsN)
+              Bacteria
+                b3307 (rpsN)
+              Archaea
+                b3307 (rpsN)
+POSITION    complement(3446579..3446884)
+MOTIF       Pfam: Ribosomal_S14
+DBLINKS     NCBI-GeneID: 947801
+            NCBI-ProteinID: NP_417766
+            Pasteur: rpsN
+            RegulonDB: ECK120000904
+            ECOCYC: EG10913
+            ASAP: ABE-0010831
+            UniProt: P0AG59
+STRUCTURE   PDB: 6NQB 6O7K 5NO2 5NO3 5NO4 5UZ4 5MY1 2YKR 5ME0 5ME1 4ADV
+                 4A2I
+AASEQ       101
+            MAKQSMKAREVKRVALADKYFAKRAELKAIISDVNASDEDRWNAVLKLQTLPRDSSPSRQ
+            RNRCRQTGRPHGFLRKFGLSRIKVREAAMRGEIPGLKKASW
+NTSEQ       306
+            atggctaagcaatcaatgaaagcacgcgaagtaaaacgcgtagctttagctgataaatac
+            ttcgcgaaacgcgctgaactgaaagcgatcatctctgatgtgaacgcttccgacgaagat
+            cgttggaacgctgttctcaagctgcagactctgccgcgtgattccagcccgtctcgtcag
+            cgtaaccgctgccgtcaaacaggtcgtccgcatggtttcctgcggaagttcgggttgagc
+            cgtattaaggtccgtgaagccgctatgcgcggtgaaatcccgggtctgaaaaaggctagc
+            tggtaa
+///

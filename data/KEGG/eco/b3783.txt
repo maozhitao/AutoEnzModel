@@ -1,0 +1,71 @@
+ENTRY       b3783             CDS       T00007
+NAME        rho
+DEFINITION  (RefSeq) transcription termination factor Rho
+ORTHOLOGY   K03628  transcription termination factor Rho
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03018  RNA degradation
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03018 RNA degradation
+                b3783 (rho)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:eco03021]
+                b3783 (rho)
+               03019 Messenger RNA biogenesis [BR:eco03019]
+                b3783 (rho)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               Other transcription-related factors
+                Transcription termination factor
+                 b3783 (rho)
+            Messenger RNA biogenesis [BR:eco03019]
+             Prokaryotic type
+              Bacterial mRNA degradation factors
+               RNA degradosome components
+                Other RNA degradosome components
+                 b3783 (rho)
+POSITION    3966417..3967676
+MOTIF       Pfam: Rho_RNA_bind ATP-synt_ab Rho_N NACHT OB_RNB AAA AAA_25 AAA_22 DnaB_C FtsK_SpoIIIE
+DBLINKS     NCBI-GeneID: 948297
+            NCBI-ProteinID: NP_418230
+            Pasteur: rho
+            RegulonDB: ECK120000836
+            ECOCYC: EG10845
+            ASAP: ABE-0012362
+            UniProt: P0AG30
+STRUCTURE   PDB: 1A62 1A8V 5JJI 3ICE 1PVO 1PV4 1XPU 5JJK 1XPO 1XPR 5JJL
+                 2HT1 6DUQ 1A63
+AASEQ       419
+            MNLTELKNTPVSELITLGENMGLENLARMRKQDIIFAILKQHAKSGEDIFGDGVLEILQD
+            GFGFLRSADSSYLAGPDDIYVSPSQIRRFNLRTGDTISGKIRPPKEGERYFALLKVNEVN
+            FDKPENARNKILFENLTPLHANSRLRMERGNGSTEDLTARVLDLASPIGRGQRGLIVAPP
+            KAGKTMLLQNIAQSIAYNHPDCVLMVLLIDERPEEVTEMQRLVKGEVVASTFDEPASRHV
+            QVAEMVIEKAKRLVEHKKDVIILLDSITRLARAYNTVVPASGKVLTGGVDANALHRPKRF
+            FGAARNVEEGGSLTIIATALIDTGSKMDEVIYEEFKGTGNMELHLSRKIAEKRVFPAIDY
+            NRSGTRKEELLTTQEELQKMWILRKIIHPMGEIDAMEFLINKLAMTKTNDDFFEMMKRS
+NTSEQ       1260
+            atgaatcttaccgaattaaagaatacgccggtttctgagctgatcactctcggcgaaaat
+            atggggctggaaaacctggctcgtatgcgtaagcaggacattatttttgccatcctgaag
+            cagcacgcaaagagtggcgaagatatctttggtgatggcgtactggagatattgcaggat
+            ggatttggtttcctccgttccgcagacagctcctacctcgccggtcctgatgacatctac
+            gtttcccctagccaaatccgccgtttcaacctccgcactggtgataccatctctggtaag
+            attcgcccgccgaaagaaggtgaacgctattttgcgctgctgaaagttaacgaagttaac
+            ttcgacaaacctgaaaacgcccgcaacaaaatcctctttgagaacttaaccccgctgcac
+            gcaaactctcgtctgcgtatggaacgtggtaacggttctactgaagatttaactgctcgc
+            gtactggatctggcatcacctatcggtcgtggtcagcgtggtctgattgtggcaccgccg
+            aaagccggtaaaaccatgctgctgcagaacattgctcagagcattgcttacaaccacccg
+            gattgtgtgctgatggttctgctgatcgacgaacgtccggaagaagtaaccgagatgcag
+            cgtctggtaaaaggtgaagttgttgcttctacctttgacgaacccgcatctcgccacgtt
+            caggttgcggaaatggtgatcgagaaggccaaacgcctggttgagcacaagaaagacgtt
+            atcattctgctcgactccatcactcgtctggcgcgcgcttacaacaccgttgttccggcg
+            tcaggtaaagtgttgaccggtggtgtggatgccaacgccctgcatcgtccgaaacgcttc
+            tttggtgcggcgcgtaacgtggaagagggcggcagcctgaccattatcgcgacggcgctt
+            atcgataccggttctaaaatggacgaagttatctacgaagagtttaaaggtacaggcaac
+            atggaactgcacctctctcgtaagatcgctgaaaaacgcgtcttcccggctatcgactac
+            aaccgttctggtacccgtaaagaagagctgctcacgactcaggaagaactgcagaaaatg
+            tggatcctgcgcaaaatcattcacccgatgggcgaaatcgatgcaatggaattcctcatt
+            aataaactggcaatgaccaagaccaatgacgatttcttcgaaatgatgaaacgctcataa
+///

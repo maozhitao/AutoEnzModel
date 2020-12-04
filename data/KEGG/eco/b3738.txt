@@ -1,0 +1,60 @@
+ENTRY       b3738             CDS       T00007
+NAME        atpB
+DEFINITION  (RefSeq) ATP synthase Fo complex subunit a
+ORTHOLOGY   K02108  F-type H+-transporting ATPase subunit a
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00190  Oxidative phosphorylation
+            eco01100  Metabolic pathways
+MODULE      eco_M00157  F-type ATPase, prokaryotes and chloroplasts
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                b3738 (atpB)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               00194 Photosynthesis proteins [BR:eco00194]
+                b3738 (atpB)
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b3738 (atpB)
+            Photosynthesis proteins [BR:eco00194]
+             Photosystem and electron transport system
+              F-type ATPase [OT]
+               b3738 (atpB)
+            Chaperones and folding catalysts [BR:eco03110]
+             Other chaperones and cochaperones
+              PapD
+               b3738 (atpB)
+POSITION    complement(3921236..3922051)
+MOTIF       Pfam: ATP-synt_A CHD5
+DBLINKS     NCBI-GeneID: 948252
+            NCBI-ProteinID: NP_418194
+            Pasteur: atpB
+            RegulonDB: ECK120000095
+            ECOCYC: EG10099
+            ASAP: ABE-0012222
+            UniProt: P0AB98
+STRUCTURE   PDB: 5T4O 5T4P 5T4Q 1C17
+AASEQ       271
+            MASENMTPQDYIGHHLNNLQLDLRTFSLVDPQNPPATFWTINIDSMFFSVVLGLLFLVLF
+            RSVAKKATSGVPGKFQTAIELVIGFVNGSVKDMYHGKSKLIAPLALTIFVWVFLMNLMDL
+            LPIDLLPYIAEHVLGLPALRVVPSADVNVTLSMALGVFILILFYSIKMKGIGGFTKELTL
+            QPFNHWAFIPVNLILEGVSLLSKPVSLGLRLFGNMYAGELIFILIAGLLPWWSQWILNVP
+            WAIFHILIITLQAFIFMVLTIVYLSMASEEH
+NTSEQ       816
+            atggcttcagaaaatatgacgccgcaggattacataggacaccacctgaataaccttcag
+            ctggacctgcgtacattctcgctggtggatccacaaaaccccccagccaccttctggaca
+            atcaatattgactccatgttcttctcggtggtgctgggtctgttgttcctggttttattc
+            cgtagcgtagccaaaaaggcgaccagcggtgtgccaggtaagtttcagaccgcgattgag
+            ctggtgatcggctttgttaatggtagcgtgaaagacatgtaccatggcaaaagcaagctg
+            attgctccgctggccctgacgatcttcgtctgggtattcctgatgaacctgatggattta
+            ctgcctatcgacctgctgccgtacattgctgaacatgtactgggtctgcctgcactgcgt
+            gtggttccgtctgcggacgtgaacgtaacgctgtctatggcactgggcgtatttatcctg
+            attctgttctacagcatcaaaatgaaaggcatcggcggcttcacgaaagagttgacgctg
+            cagccgttcaatcactgggcgttcattcctgtcaacttaatccttgaaggggtaagcctg
+            ctgtccaaaccagtttcactcggtttgcgactgttcggtaacatgtatgccggtgagctg
+            attttcattctgattgctggtctgttgccgtggtggtcacagtggatcctgaatgtgccg
+            tgggccattttccacatcctgatcattacgctgcaagccttcatcttcatggttctgacg
+            atcgtctatctgtcgatggcgtctgaagaacattaa
+///

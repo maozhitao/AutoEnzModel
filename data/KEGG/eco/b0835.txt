@@ -1,0 +1,63 @@
+ENTRY       b0835             CDS       T00007
+NAME        rimO
+DEFINITION  (RefSeq) ribosomal protein S12 methylthiotransferase RimO
+ORTHOLOGY   K14441  ribosomal protein S12 methylthiotransferase [EC:2.8.4.4]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b0835 (rimO)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.8  Transferring sulfur-containing groups
+               2.8.4  Transferring alkylthio groups
+                2.8.4.4  [ribosomal protein S12] (aspartate89-C3)-methylthiotransferase
+                 b0835 (rimO)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              ribosomal protein modification factors
+               b0835 (rimO)
+POSITION    complement(876710..878035)
+MOTIF       Pfam: Radical_SAM UPF0004 TRAM_2 CLP1_P Methyltransf_2
+DBLINKS     NCBI-GeneID: 945465
+            NCBI-ProteinID: NP_415356
+            Pasteur: yliG
+            RegulonDB: ECK120003035
+            ECOCYC: G6435
+            ASAP: ABE-0002843
+            UniProt: P0AEI4
+AASEQ       441
+            MSKVTPQPKIGFVSLGCPKNLVDSERILTELRTEGYDVVPSYDDADMVIVNTCGFIDSAV
+            QESLEAIGEALNENGKVIVTGCLGAKEDQIREVHPKVLEITGPHSYEQVLEHVHHYVPKP
+            KHNPFLSLVPEQGVKLTPRHYAYLKISEGCNHRCTFCIIPSMRGDLVSRPIGEVLSEAKR
+            LVDAGVKEILVISQDTSAYGVDVKHRTGFHNGEPVKTSMVSLCEQLSKLGIWTRLHYVYP
+            YPHVDDVIPLMAEGKILPYLDIPLQHASPRILKLMKRPGSVDRQLARIKQWREICPELTL
+            RSTFIVGFPGETEEDFQMLLDFLKEARLDRVGCFKYSPVEGADANALPDQVPEEVKEERW
+            NRFMQLQQQISAERLQEKVGREILVIIDEVDEEGAIGRSMADAPEIDGAVYLNGETNVKP
+            GDILRVKVEHADEYDLWGSRV
+NTSEQ       1326
+            atgagcaaagtaactccccagccgaaaatcggctttgtttcccttggctgtccgaaaaac
+            cttgttgattcagagcgtattctcaccgaactccgcactgaaggttatgacgtggtaccg
+            agctatgacgatgcggacatggtgatcgtcaacacctgcggctttattgacagcgcggta
+            caagaatcactggaagccattggtgaagcgttgaatgaaaacggcaaggttattgtgacc
+            ggttgtctgggggcaaaagaagatcagatccgcgaagtccacccgaaagtgctggaaatc
+            accgggcctcatagctatgagcaggttctggagcacgttcatcactacgtgccaaaaccg
+            aaacacaacccattcctgagcctggtgccagaacaaggtgtgaaactgacgccgcgtcat
+            tatgcctatctgaaaatttctgaaggctgtaatcaccgctgcaccttctgcattattccg
+            tctatgcgcggcgacctggtgagccgtccgattggcgaagtgttaagtgaagcgaaacgt
+            ctggtagatgcgggcgttaaagagattctggtgatctcgcaggatacttccgcctatggc
+            gttgatgttaaacatcgtactggcttccacaacggcgagccggtaaaaaccagcatggtc
+            agcctgtgcgaacagttatcgaaactggggatctggacacgtctgcactacgtttaccct
+            tatccgcatgtggacgacgtcatcccactgatggcagaaggcaaaatcctgccgtatctg
+            gacattccgttgcagcacgccagcccgcgcattctcaaactgatgaagcgtccgggttct
+            gtagatcgccaactggcgcgcatcaaacagtggcgcgaaatctgcccggaactgacccta
+            cgctcaacctttattgtcggcttccctggcgagacagaagaagatttccagatgctactc
+            gacttcctgaaagaagcgcgtctggatcgcgttggctgctttaaatacagcccggttgaa
+            ggtgcagacgccaatgccctgcctgaccaggttccggaagaagttaaagaagaacgctgg
+            aaccgtttcatgcagctgcagcagcagatttccgccgagcgcctgcaagagaaagtgggc
+            cgtgaaattctggtgattatcgacgaagtggacgaagaaggcgcgattggtcgcagcatg
+            gcagatgcaccggaaatcgacggcgcggtttatctcaatggtgaaaccaacgttaagccg
+            ggtgatatcctgcgtgtgaaagtcgagcacgccgatgagtacgatttgtggggtagccgg
+            gtttaa
+///

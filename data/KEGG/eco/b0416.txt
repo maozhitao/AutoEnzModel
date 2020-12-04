@@ -1,0 +1,45 @@
+ENTRY       b0416             CDS       T00007
+NAME        nusB
+DEFINITION  (RefSeq) transcription antitermination protein NusB
+ORTHOLOGY   K03625  transcription antitermination protein NusB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:eco03021]
+                b0416 (nusB)
+               03009 Ribosome biogenesis [BR:eco03009]
+                b0416 (nusB)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               Other transcription-related factors
+                RNA polymerase-associated proteins
+                 b0416 (nusB)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA transcription factors
+               b0416 (nusB)
+POSITION    435137..435556
+MOTIF       Pfam: NusB
+DBLINKS     NCBI-GeneID: 945054
+            NCBI-ProteinID: NP_414950
+            Pasteur: nusB
+            RegulonDB: ECK120000659
+            ECOCYC: EG10666
+            ASAP: ABE-0001447
+            UniProt: P0A780
+STRUCTURE   PDB: 3D3B 3IMQ 3D3C 5LM7 6GOV 5MS0 1EY1
+AASEQ       139
+            MKPAARRRARECAVQALYSWQLSQNDIADVEYQFLAEQDVKDVDVLYFRELLAGVATNTA
+            YLDGLMKPYLSRLLEELGQVEKAVLRIALYELSKRSDVPYKVAINEAIELAKSFGAEDSH
+            KFVNGVLDKAAPVIRPNKK
+NTSEQ       420
+            gtgaaacctgctgctcgtcgccgcgctcgtgagtgtgccgtccaggcgctctactcctgg
+            cagttgtcccagaacgacatcgctgatgttgaataccagttcctggctgaacaggatgta
+            aaagacgttgacgtcctgtacttccgtgagctgctggccggggtggcgactaataccgca
+            tacctcgacggactgatgaagccatacctgtcccgcctgctggaagaactgggacaggta
+            gaaaaagcagtactgcgcattgcgctgtacgaactgtctaaacgtagcgatgtgccatac
+            aaagtggccattaacgaagcgatcgaactggcgaaatcgttcggcgcagaagacagccat
+            aagttcgtcaacggcgtactcgataaagcagcacctgtgattcgccctaacaaaaagtga
+///

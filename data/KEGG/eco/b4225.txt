@@ -1,0 +1,41 @@
+ENTRY       b4225             CDS       T00007
+NAME        chpB
+DEFINITION  (RefSeq) endoribonuclease toxin ChpB
+ORTHOLOGY   K18841  mRNA interferase ChpB [EC:3.1.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4225 (chpB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 b4225 (chpB)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               ChpB-ChpS
+                b4225 (chpB)
+POSITION    4448692..4449042
+MOTIF       Pfam: PemK_toxin
+DBLINKS     NCBI-GeneID: 948747
+            NCBI-ProteinID: NP_418646
+            Pasteur: chpB
+            RegulonDB: ECK120002001
+            ECOCYC: EG12096
+            ASAP: ABE-0013822
+            UniProt: P33647
+AASEQ       116
+            MVKKSEFERGDIVLVGFDPASGHEQQGAGRPALVLSVQAFNQLGMTLVAPITQGGNFARY
+            AGFSVPLHCEEGDVHGVVLVNQVRMMDLHARLAKRIGLAADEVVEEALLRLQAVVE
+NTSEQ       351
+            atggtaaagaaaagtgaatttgaacggggagacattgtgctggttggctttgatccagca
+            agcggccatgaacagcaaggtgctggtcgacctgcgcttgtgctctccgttcaagccttt
+            aatcaactgggaatgacgctggtggcccccattacgcagggcggaaattttgcccgttat
+            gccggatttagcgttcctttacattgcgaagaaggcgatgtgcacggcgtggtgctggtg
+            aatcaggtgcggatgatggatctacacgcccggctggcaaagcgtattggtctggctgcg
+            gatgaggtggtggaagaggcgttattacgcttgcaggcggtggtggaataa
+///

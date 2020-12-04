@@ -1,0 +1,60 @@
+ENTRY       b0600             CDS       T00007
+NAME        ybdL
+DEFINITION  (RefSeq) methionine-oxo-acid transaminase, PLP-dependent
+ORTHOLOGY   K14287  methionine transaminase [EC:2.6.1.88]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:eco01007]
+                b0600 (ybdL)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.6  Transferring nitrogenous groups
+               2.6.1  Transaminases
+                2.6.1.88  methionine transaminase
+                 b0600 (ybdL)
+            Amino acid related enzymes [BR:eco01007]
+             Aminotransferase (transaminase)
+              Class I
+               b0600 (ybdL)
+POSITION    633586..634746
+MOTIF       Pfam: Aminotran_1_2 Cys_Met_Meta_PP Aminotran_5 DegT_DnrJ_EryC1
+DBLINKS     NCBI-GeneID: 945211
+            NCBI-ProteinID: NP_415133
+            Pasteur: ybdL
+            RegulonDB: ECK120002936
+            ECOCYC: G6329
+            ASAP: ABE-0002069
+            UniProt: P77806
+STRUCTURE   PDB: 1U08
+AASEQ       386
+            MTNNPLIPQSKLPQLGTTIFTQMSALAQQHQAINLSQGFPDFDGPRYLQERLAHHVAQGA
+            NQYAPMTGVQALREAIAQKTERLYGYQPDADSDITVTAGATEALYAAITALVRNGDEVIC
+            FDPSYDSYAPAIALSGGIVKRMALQPPHFRVDWQEFAALLSERTRLVILNTPHNPSATVW
+            QQADFAALWQAIAGHEIFVISDEVYEHINFSQQGHASVLAHPQLRERAVAVSSFGKTYHM
+            TGWKVGYCVAPAPISAEIRKVHQYLTFSVNTPAQLALADMLRAEPEHYLALPDFYRQKRD
+            ILVNALNESRLEILPCEGTYFLLVDYSAVSTLDDVEFCQWLTQEHGVAAIPLSVFCADPF
+            PHKLIRLCFAKKESTLLAAAERLRQL
+NTSEQ       1161
+            atgacaaataaccctctgattccacaaagcaaacttccacaacttggcaccactattttc
+            acccagatgagcgcgctggcgcagcaacaccaggcgattaacctgtcgcaaggctttcct
+            gattttgatggtccgcgctatttacaggagcggctggcgcaccacgttgcacagggggca
+            aaccaatacgcgcccatgaccggcgtgcaggccttgcgcgaggcgattgctcagaaaacg
+            gaacgtttgtatggctatcaaccagatgccgatagcgatatcaccgtaacggcaggggcg
+            acggaagcgttatacgcggcgattaccgcactggtgcgcaatggcgatgaagtgatttgt
+            tttgatcccagctatgacagttacgcccccgccatcgcgctttctgggggaatagtgaag
+            cgtatggcactgcaaccaccgcattttcgcgttgactggcaggaatttgccgcattatta
+            agcgagcgcaccagactggtgatcctcaacactccgcataaccccagtgcaactgtctgg
+            cagcaggctgatttcgccgctttgtggcaggcgatcgccgggcacgagatttttgtcatt
+            agcgatgaagtctacgagcacatcaacttttcacaacagggccatgccagtgtgctggcg
+            catccgcagctgcgtgagcgggcagtggcggtttcttcatttggcaagacctatcatatg
+            accggctggaaagtgggttattgtgttgcgccagcgcccatcagcgccgaaattcgcaag
+            gtacatcagtatctgaccttttcggtgaataccccggcacagctggcgcttgctgatatg
+            ctacgtgcagaacctgagcattatcttgcgttaccggacttttatcgccagaagcgcgat
+            attctggtgaatgctttaaatgaaagccggctggagattttaccgtgtgaaggtacatac
+            tttttgctggtggattacagcgcggtttctaccctggatgatgttgagttttgccagtgg
+            ctgacgcaggagcacggcgtagcggcgattccgctgtcggtgttttgcgccgatcccttc
+            ccacataaactgattcgtctctgttttgccaagaaggaatcgacgttgctggcagcagct
+            gaacgcctgcgccagctttag
+///

@@ -1,0 +1,71 @@
+ENTRY       b4052             CDS       T00007
+NAME        dnaB
+DEFINITION  (RefSeq) replicative DNA helicase
+ORTHOLOGY   K02314  replicative DNA helicase [EC:3.6.4.12]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b4052 (dnaB)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b4052 (dnaB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.12  DNA helicase
+                 b4052 (dnaB)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Initiation Factors
+               Initiation factors (bacterial)
+                b4052 (dnaB)
+POSITION    4264314..4265729
+MOTIF       Pfam: DnaB_C DnaB AAA_25 AAA_33 ATPase AAA_22
+DBLINKS     NCBI-GeneID: 948555
+            NCBI-ProteinID: NP_418476
+            Pasteur: dnaB
+            RegulonDB: ECK120000230
+            ECOCYC: EG10236
+            ASAP: ABE-0013269
+            UniProt: P0ACB0
+STRUCTURE   PDB: 1B79 6QEM 6QEL 6BBM 1JWE
+AASEQ       471
+            MAGNKPFNKQQAEPRERDPQVAGLKVPPHSIEAEQSVLGGLMLDNERWDDVAERVVADDF
+            YTRPHRHIFTEMARLQESGSPIDLITLAESLERQGQLDSVGGFAYLAELSKNTPSAANIS
+            AYADIVRERAVVREMISVANEIAEAGFDPQGRTSEDLLDLAESRVFKIAESRANKDEGPK
+            NIADVLDATVARIEQLFQQPHDGVTGVNTGYDDLNKKTAGLQPSDLIIVAARPSMGKTTF
+            AMNLVENAAMLQDKPVLIFSLEMPSEQIMMRSLASLSRVDQTKIRTGQLDDEDWARISGT
+            MGILLEKRNIYIDDSSGLTPTEVRSRARRIAREHGGIGLIMIDYLQLMRVPALSDNRTLE
+            IAEISRSLKALAKELNVPVVALSQLNRSLEQRADKRPVNSDLRESGSIEQDADLIMFIYR
+            DEVYHENSDLKGIAEIIIGKQRNGPIGTVRLTFNGQWSRFDNYAGPQYDDE
+NTSEQ       1416
+            atggcaggaaataaacccttcaacaaacagcaggctgaaccccgcgaacgcgatccacaa
+            gttgccgggctgaaagtgcctccgcactcgatcgaagcggagcagtcggtgttgggcggt
+            ttaatgctagataacgaacgctgggatgatgtagccgagcgtgtggtagcagacgatttt
+            tacacccgcccacaccgtcatatctttactgaaatggcgcgtttgcaggaaagcggtagc
+            cctatcgatctgattactcttgcggaatcgctggaacgccaggggcaactcgatagcgtc
+            ggtggttttgcttatctggcagagctgtcaaaaaatacgccaagtgcggctaacatcagt
+            gcctatgcggacatcgtgcgtgaacgtgccgttgtccgtgagatgatctcggttgcgaat
+            gagattgccgaagctggttttgatccgcaggggcgtaccagcgaagatctgctggatctg
+            gctgaatcccgcgtctttaaaattgccgaaagtcgtgcgaacaaagacgaagggccgaag
+            aacatcgccgatgtgctcgacgcaaccgtggcgcgtattgagcagttgtttcagcagcca
+            cacgatggcgttaccggggtaaacaccggttatgacgatctcaacaaaaaaaccgctggc
+            ttgcagccgtcggatttgatcatcgtcgccgcgcgtccgtcgatgggtaaaacaacattt
+            gcgatgaacctcgtcgaaaacgcggcgatgttgcaggataaaccggtacttatcttctcg
+            ctggagatgccatcagaacagatcatgatgcgttctctggcgtcgctgtcgcgcgttgac
+            cagactaaaatccgtaccgggcagctcgatgacgaagactgggcgcgcatttccggcacc
+            atgggtattttgctcgaaaaacgcaatatctatatcgatgactcctccggcctgacgcca
+            acggaagtgcgttcccgcgcacgccgtattgcccgtgaacacggcggcatcgggcttatc
+            atgatcgactacctgcaactgatgcgcgtaccggcgctttccgataaccgtacgctggaa
+            attgcagaaatctctcgctcgctgaaagcactggcgaaagaactgaacgtgccggtggtg
+            gcgctgtcccagttgaaccgttctctggaacaacgtgccgacaaacgcccggtcaactcc
+            gacctgcgtgaatctggctctatcgagcaggatgcggacttgatcatgtttatctatcgt
+            gatgaggtgtatcacgaaaacagtgatttaaaaggcatcgcggaaattattatcggtaaa
+            caacgtaacggcccaatcgggacggtacgcctgacctttaacggtcaatggtcgcgcttc
+            gacaactatgcggggccgcagtacgacgacgaataa
+///

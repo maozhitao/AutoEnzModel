@@ -1,0 +1,27 @@
+ENTRY       b4668             CDS       T00007
+NAME        ibsB
+DEFINITION  (RefSeq) putative toxic peptide IbsB
+ORTHOLOGY   K19150  small toxic protein IbsB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4668 (ibsB)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               Ibs-Sib
+                b4668 (ibsB)
+POSITION    complement(2153681..2153737)
+MOTIF       Pfam: Ibs_toxin
+DBLINKS     NCBI-GeneID: 7751626
+            NCBI-ProteinID: YP_002791248
+            RegulonDB: ECK120035074
+            ECOCYC: G0-10632
+            UniProt: C1P608
+AASEQ       18
+            MMKLLIIVVLLVISFPAY
+NTSEQ       57
+            atgatgaagctactcatcatcgtggtgctcttagtcataagcttccccgcttactaa
+///

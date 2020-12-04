@@ -1,0 +1,46 @@
+ENTRY       b0487             CDS       T00007
+NAME        cueR
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator CueR
+ORTHOLOGY   K19591  MerR family transcriptional regulator, copper efflux regulator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0487 (cueR)
+              09183 Protein families: signaling and cellular processes
+               01504 Antimicrobial resistance genes [BR:eco01504]
+                b0487 (cueR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               MerR family
+                b0487 (cueR)
+            Antimicrobial resistance genes [BR:eco01504]
+             Gene sets
+              Multipdrug resistance modules
+               Multidrug resistance, efflux pump MexPQ-OpmE [MD:M00769]
+                b0487 (cueR)
+POSITION    513993..514400
+MOTIF       Pfam: MerR_1 MerR MerR-DNA-bind Phytochelatin DUF1836
+DBLINKS     NCBI-GeneID: 945332
+            NCBI-ProteinID: NP_415020
+            Pasteur: ybbI
+            RegulonDB: ECK120002871
+            ECOCYC: G6263
+            ASAP: ABE-0001693
+            UniProt: P0A9G4
+STRUCTURE   PDB: 1Q06 4WLS 1Q05 1Q07 4WLW
+AASEQ       135
+            MNISDVAKITGLTSKAIRFYEEKGLVTPPMRSENGYRTYTQQHLNELTLLRQARQVGFNL
+            EESGELVNLFNDPQRHSADVKRRTLEKVAEIERHIEELQSMRDQLLALANACPGDDSADC
+            PIIENLSGCCHHRAG
+NTSEQ       408
+            atgaacatcagcgatgtagcaaaaattaccggcctgaccagcaaagccattcgcttctat
+            gaagagaaggggctggtgacgccgccgatgcgcagcgaaaacggttatcgcacctacacg
+            cagcagcatctcaacgaactgaccttactgcgccaggcacggcaggtgggctttaacctg
+            gaagagagcggcgagctggtgaatctgtttaacgacccgcagcggcacagcgccgacgtc
+            aaacggcgcacgctggagaaggtggcggagatcgaacgacacattgaggagctgcaatcc
+            atgcgcgaccagctgctggcactggcgaatgcctgccctggcgatgacagcgccgactgc
+            ccgattatcgaaaatctctccggctgctgtcatcatcgggcagggtga
+///

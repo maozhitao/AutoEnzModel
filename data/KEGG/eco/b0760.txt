@@ -1,0 +1,66 @@
+ENTRY       b0760             CDS       T00007
+NAME        modF
+DEFINITION  (RefSeq) ABC family protein ModF
+ORTHOLOGY   K05776  molybdate transport system ATP-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b0760 (modF)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0760 (modF)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Mineral and organic ion transporters
+               Molybdate transporter
+                b0760 (modF)
+POSITION    complement(792316..793788)
+MOTIF       Pfam: ABC_tran AAA_21 AAA_29 SMC_N AAA_16 RsgA_GTPase AAA_22 AAA_23 AAA_33 AAA_7 MMR_HSR1 AAA_15 AAA SbcCD_C Mg_chelatase NACHT Ploopntkinase1
+DBLINKS     NCBI-GeneID: 945368
+            NCBI-ProteinID: NP_415281
+            Pasteur: modF
+            RegulonDB: ECK120001620
+            ECOCYC: EG11677
+            ASAP: ABE-0002582
+            UniProt: P31060
+AASEQ       490
+            MSSLQILQGTFRLSDTKTLQLPQLTLNAGDSWAFVGSNGSGKSALARALAGELPLLKGER
+            QSQFSHITRLSFEQLQKLVSDEWQRNNTDMLGPGEDDTGRTTAEIIQDEVKDAPRCMQLA
+            QQFGITALLDRRFKYLSTGETRKTLLCQALMSEPDLLILDEPFDGLDVASRQQLAERLAS
+            LHQSGITLVLVLNRFDEIPEFVQFAGVLADCTLAETGAKEELLQQALVAQLAHSEQLEGV
+            QLPEPDEPSARHALPANEPRIVLNNGVVSYNDRPILNNLSWQVNPGEHWQIVGPNGAGKS
+            TLLSLVTGDHPQGYSNDLTLFGRRRGSGETIWDIKKHIGYVSSSLHLDYRVSTTVRNVIL
+            SGYFDSIGIYQAVSDRQQKLVQQWLDILGIDKRTADAPFHSLSWGQQRLALIVRALVKHP
+            TLLILDEPLQGLDPLNRQLIRRFVDVLISEGETQLLFVSHHAEDAPACITHRLEFVPDGG
+            LYRYVLTKIY
+NTSEQ       1473
+            atgtcatcgttgcaaattttgcaaggcacgtttcgtcttagcgacacaaaaacgctgcaa
+            ttgcctcagctaacgttaaacgcgggtgatagttgggcgtttgtcggttcgaatggaagc
+            gggaaatcggccctggcccgcgcgctggcgggggaacttccgcttttgaaaggtgaacgg
+            caaagccagttttcccacatcactcgtctctccttcgagcaattgcaaaaactcgtcagc
+            gacgaatggcagcggaataacaccgatatgctcggccctggcgaagatgacaccggacgc
+            actacggctgagatcattcaggatgaagtaaaggatgcaccgcgttgcatgcaactggcg
+            cagcagttcggtattaccgccctcctcgaccgacgctttaaatacctttccactggcgag
+            acgcgaaaaaccctgctgtgtcaggcgctgatgtcggagcctgacttgttgattcttgat
+            gagccgttcgatggcctggatgttgcctcacgtcagcagctggctgagcgactcgcctcg
+            ttacatcagtccggtattactctggtactggtgctcaatcgcttcgatgagatcccggag
+            tttgtccagtttgctggcgtgctggcggattgcacgttagcggaaactggcgctaaagag
+            gaactgctccaacaagcactcgtcgcgcaactggcgcatagtgaacagcttgaaggtgtg
+            caactgccggagccggatgaaccttcagcacgtcacgccttacccgccaacgaaccgcgc
+            attgtgctgaacaatggcgtggtttcttataacgatcgccccattcttaataaccttagc
+            tggcaggtgaatccaggcgaacactggcaaattgtcgggccaaatggtgcaggaaaatcg
+            acgttattaagcctggttactggcgatcatccgcaaggttacagcaacgatttgacgctt
+            ttcggacgacgtcgcggcagcggcgaaaccatctgggatatcaaaaagcatatcggttac
+            gtcagcagtagtttgcatctggattaccgggtcagcactaccgtgcgtaatgtgattctt
+            tctggctattttgattcgattggcatttatcaggccgtttcggatcgccagcaaaaactg
+            gtgcagcagtggctggatattctcggcattgataaacgcacggctgacgctccgttccat
+            agtctttcctggggacagcagcgtctggcgctgattgtccgcgcactggtgaaacatccg
+            acgttgcttattctcgatgaaccactacaggggcttgatccgctgaatcgccagcttatc
+            cgccgttttgttgatgtgctgattagcgaaggtgaaacgcaattgttgtttgtttcgcac
+            cacgctgaagatgcgcctgcctgtattacccatcgtcttgagttcgtgccggacggtgga
+            ctctatcgctatgtgctgacaaaaatatattga
+///

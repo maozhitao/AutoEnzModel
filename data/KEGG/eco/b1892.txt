@@ -1,0 +1,52 @@
+ENTRY       b1892             CDS       T00007
+NAME        flhD
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator FlhD
+ORTHOLOGY   K02403  flagellar transcriptional activator FlhD
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02024  Quorum sensing
+            eco02026  Biofilm formation - Escherichia coli
+            eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1892 (flhD)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b1892 (flhD)
+               02026 Biofilm formation - Escherichia coli
+                b1892 (flhD)
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1892 (flhD)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1892 (flhD)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Regulation
+                b1892 (flhD)
+POSITION    complement(1977847..1978197)
+MOTIF       Pfam: FlhD DUF2857
+DBLINKS     NCBI-GeneID: 945442
+            NCBI-ProteinID: NP_416406
+            RegulonDB: ECK120000314
+            ECOCYC: EG10320
+            ASAP: ABE-0006303
+            UniProt: P0A8S9
+STRUCTURE   PDB: 1G8E 4ES4 2AVU
+AASEQ       116
+            MHTSELLKHIYDINLSYLLLAQRLIVQDKASAMFRLGINEEMATTLAALTLPQMVKLAET
+            NQLVCHFRFDSHQTITQLTQDSRVDDLQQIHTGIMLSTRLLNDVNQPEEALRKKRA
+NTSEQ       351
+            atgcatacctccgagttgctgaaacacatttatgacatcaacttgtcatatttactactt
+            gcacagcgtttgattgttcaggacaaagcgtccgctatgtttcgtctcggcataaatgaa
+            gaaatggcgacaacgttagcggcactgactcttccgcaaatggttaagctggcagaaacc
+            aatcaactggtttgtcacttccgttttgacagccaccagacgattactcagttgacgcaa
+            gattcccgcgttgacgatctccagcaaattcataccggcatcatgctctcaacacgcttg
+            ctgaatgatgttaatcagcctgaagaagcgctgcgcaagaaaagggcctga
+///

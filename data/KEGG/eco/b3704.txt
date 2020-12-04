@@ -1,0 +1,42 @@
+ENTRY       b3704             CDS       T00007
+NAME        rnpA
+DEFINITION  (RefSeq) RNase P protein component
+ORTHOLOGY   K03536  ribonuclease P protein component [EC:3.1.26.5]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3704 (rnpA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.26  Endoribonucleases producing 5'-phosphomonoesters
+                3.1.26.5  ribonuclease P
+                 b3704 (rnpA)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              5'processing factors
+               Ribonucrease P
+                b3704 (rnpA)
+POSITION    3884493..3884852
+MOTIF       Pfam: Ribonuclease_P
+DBLINKS     NCBI-GeneID: 948215
+            NCBI-ProteinID: NP_418159
+            Pasteur: rnpA
+            RegulonDB: ECK120000853
+            ECOCYC: EG10862
+            ASAP: ABE-0012117
+            UniProt: P0A7Y8
+STRUCTURE   PDB: 2LJP
+AASEQ       119
+            MVKLAFPRELRLLTPSQFTFVFQQPQRAGTPQITILGRLNSLGHPRIGLTVAKKNVRRAH
+            ERNRIKRLTRESFRLRQHELPAMDFVVVAKKGVADLDNRALSEALEKLWRRHCRLARGS
+NTSEQ       360
+            gtggttaagctcgcatttcccagggagttacgcttgttaactcccagtcaattcacattc
+            gtcttccagcagccacaacgggctggcacgccgcaaattaccattctcggccgcctgaat
+            tcgctggggcatccccgtatcggtcttacagtcgccaagaaaaacgttcgacgcgcccat
+            gaacgcaatcggattaaacgtctgacgcgtgaaagcttccgtctgcgccaacatgaactc
+            ccggctatggatttcgtggtggtggcgaaaaaaggggttgccgacctcgataaccgtgct
+            ctctcggaagcgttggaaaaattatggcgccgccactgtcgcctggctcgcgggtcctga
+///

@@ -1,0 +1,71 @@
+ENTRY       b1817             CDS       T00007
+NAME        manX
+DEFINITION  (RefSeq) mannose-specific PTS enzyme IIAB component
+ORTHOLOGY   K02794  mannose PTS system EIIAB component [EC:2.7.1.191]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00051  Fructose and mannose metabolism
+            eco00520  Amino sugar and nucleotide sugar metabolism
+            eco01100  Metabolic pathways
+            eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00051 Fructose and mannose metabolism
+                b1817 (manX)
+               00520 Amino sugar and nucleotide sugar metabolism
+                b1817 (manX)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b1817 (manX)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1817 (manX)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.191  protein-Npi-phosphohistidine---D-mannose phosphotransferase
+                 b1817 (manX)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               Mannose-specific II component
+                b1817 (manX)
+POSITION    1902048..1903019
+MOTIF       Pfam: PTSIIB_sorb EIIA-man
+DBLINKS     NCBI-GeneID: 946334
+            NCBI-ProteinID: NP_416331
+            Pasteur: manX
+            RegulonDB: ECK120000560
+            ECOCYC: EG10567
+            ASAP: ABE-0006054
+            UniProt: P69797
+STRUCTURE   PDB: 1PDO 1VSQ 2JZN 2JZO 2JZH 1VRC
+AASEQ       323
+            MTIAIVIGTHGWAAEQLLKTAEMLLGEQENVGWIDFVPGENAETLIEKYNAQLAKLDTTK
+            GVLFLVDTWGGSPFNAASRIVVDKEHYEVIAGVNIPMLVETLMARDDDPSFDELVALAVE
+            TGREGVKALKAKPVEKAAPAPAAAAPKAAPTPAKPMGPNDYMVIGLARIDDRLIHGQVAT
+            RWTKETNVSRIIVVSDEVAADTVRKTLLTQVAPPGVTAHVVDVAKMIRVYNNPKYAGERV
+            MLLFTNPTDVERLVEGGVKITSVNVGGMAFRQGKTQVNNAVSVDEKDIEAFKKLNARGIE
+            LEVRKVSTDPKLKMMDLISKIDK
+NTSEQ       972
+            gtgaccattgctattgttataggcacacatggttgggctgcagagcagttgcttaaaacg
+            gcagaaatgctgttaggcgagcaggaaaacgtcggctggatcgatttcgttccaggtgaa
+            aatgccgaaacgctgattgaaaagtacaacgctcagttggcaaaactcgacaccactaaa
+            ggcgtgctgtttctcgttgatacatggggaggcagcccgttcaatgctgccagccgcatt
+            gtcgtcgacaaagagcattatgaagtcattgcaggcgttaacattccaatgctcgtggaa
+            acgttaatggcccgtgatgatgacccaagctttgatgaactggtggcactggcagtagaa
+            acaggccgtgaaggcgtgaaagcactgaaagccaaaccggttgaaaaagccgcgccagca
+            cccgctgccgcagcaccaaaagcggctccaactccggcaaaaccaatggggccaaacgac
+            tacatggttattggccttgcgcgtatcgacgaccgtctgattcacggtcaggtcgccacc
+            cgctggaccaaagaaaccaatgtctcccgtattattgttgttagtgatgaagtggctgcg
+            gataccgttcgtaagacactgctcacccaggttgcacctccgggcgtaacagcacacgta
+            gttgatgttgccaaaatgattcgcgtctacaacaacccgaaatatgctggcgaacgcgta
+            atgctgttatttaccaacccaacagatgtagagcgtctcgttgaaggcggcgtgaaaatc
+            acctctgttaacgtcggtggtatggcattccgtcagggtaaaacccaggtgaataacgcg
+            gtttcggttgatgaaaaagatatcgaggcgttcaagaaactgaatgcgcgcggtattgag
+            ctggaagtccgtaaggtttccaccgatccgaaactgaaaatgatggatctgatcagcaaa
+            atcgataagtaa
+///

@@ -1,0 +1,48 @@
+ENTRY       b0399             CDS       T00007
+NAME        phoB
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator PhoB
+ORTHOLOGY   K07657  two-component system, OmpR family, phosphate regulon response regulator PhoB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0399 (phoB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b0399 (phoB)
+            Two-component system [BR:eco02022]
+             OmpR family
+              PhoR-PhoB (phosphate starvation response)
+               b0399 (phoB)
+POSITION    417142..417831
+MOTIF       Pfam: Response_reg Trans_reg_C
+DBLINKS     NCBI-GeneID: 945046
+            NCBI-ProteinID: NP_414933
+            Pasteur: phoB
+            RegulonDB: ECK120000719
+            ECOCYC: EG10728
+            ASAP: ABE-0001389
+            UniProt: P0AFJ5
+STRUCTURE   PDB: 2JBA 2JB9 1B00 1ZES 1GXQ 2IYN 3T72 2Z33 1GXP 1QQI
+AASEQ       229
+            MARRILVVEDEAPIREMVCFVLEQNGFQPVEAEDYDSAVNQLNEPWPDLILLDWMLPGGS
+            GIQFIKHLKRESMTRDIPVVMLTARGEEEDRVRGLETGADDYITKPFSPKELVARIKAVM
+            RRISPMAVEEVIEMQGLSLDPTSHRVMAGEEPLEMGPTEFKLLHFFMTHPERVYSREQLL
+            NHVWGTNVYVEDRTVDVHIRRLRKALEPGGHDRMVQTVRGTGYRFSTRF
+NTSEQ       690
+            atggcgagacgtattctggtcgtagaagatgaagctccaattcgcgaaatggtctgcttc
+            gtgctcgaacaaaatggctttcagccggtcgaagcggaagattatgacagtgctgtgaat
+            caactgaatgaaccctggccggatttaattctcctcgactggatgttacctggcggctcc
+            ggtatccagttcatcaaacacctcaagcgcgagtcgatgacccgggatattccagtggtg
+            atgttgaccgccagaggggaagaagaagatcgcgtgcgcggccttgaaaccggcgcggat
+            gactatatcaccaagccgttttcgccgaaggagctggtggcgcgaatcaaagcggtaatg
+            cgccgtatttcgccaatggcggtggaagaggtgattgagatgcagggattaagtctcgac
+            ccgacatctcaccgagtgatggcgggcgaagagccgctggagatggggccgacagaattt
+            aaactgctgcacttttttatgacgcatcctgagcgcgtgtacagccgcgagcagctgtta
+            aaccacgtctggggaactaacgtgtatgtggaagaccgcacggtcgatgtccacattcgt
+            cgcctgcgtaaagcactggagcccggcgggcatgaccgcatggtgcagaccgtgcgcggt
+            acaggatatcgtttttcaacccgcttttaa
+///

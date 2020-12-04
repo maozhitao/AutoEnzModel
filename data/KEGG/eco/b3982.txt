@@ -1,0 +1,49 @@
+ENTRY       b3982             CDS       T00007
+NAME        nusG
+DEFINITION  (RefSeq) transcription termination factor NusG
+ORTHOLOGY   K02601  transcription termination/antitermination protein NusG
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:eco03021]
+                b3982 (nusG)
+               03009 Ribosome biogenesis [BR:eco03009]
+                b3982 (nusG)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               Other transcription-related factors
+                RNA polymerase-associated proteins
+                 b3982 (nusG)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA transcription factors
+               b3982 (nusG)
+POSITION    4177743..4178288
+MOTIF       Pfam: NusG KOW
+DBLINKS     NCBI-GeneID: 948485
+            NCBI-ProteinID: NP_418409
+            Pasteur: nusG
+            RegulonDB: ECK120000660
+            ECOCYC: EG10667
+            ASAP: ABE-0013026
+            UniProt: P0AFG0
+STRUCTURE   PDB: 6DUQ 6GOV 6C6U 5TBZ 5MS0 2KVQ 2K06 2JVV
+AASEQ       181
+            MSEAPKKRWYVVQAFSGFEGRVATSLREHIKLHNMEDLFGEVMVPTEEVVEIRGGQRRKS
+            ERKFFPGYVLVQMVMNDASWHLVRSVPRVMGFIGGTSDRPAPISDKEVDAIMNRLQQVGD
+            KPRPKTLFEPGEMVRVNDGPFADFNGVVEEVDYEKSRLKVSVSIFGRATPVELDFSQVEK
+            A
+NTSEQ       546
+            atgtctgaagctcctaaaaagcgctggtacgtcgttcaggcgttttccggttttgaaggc
+            cgcgtagcaacgtcgctgcgtgagcatatcaaattacacaacatggaagatttgtttggt
+            gaagtcatggtaccaaccgaagaagtggttgaaatccgtggcggtcagcgtcgcaaaagc
+            gaacgtaaattcttccctggctacgtcctcgttcagatggtgatgaacgacgcgagctgg
+            cacctggtgcgcagcgtaccgcgtgtgatgggcttcatcggcggtacttccgatcgtcct
+            gcgccaatcagcgataaagaagtcgatgcgattatgaaccgcctgcagcaggttggtgat
+            aagccgcgtccgaaaacgctgtttgaaccgggtgaaatggtccgtgttaatgatggtccg
+            ttcgctgacttcaacggtgttgttgaagaagtggattacgagaaatctcgtctgaaagtg
+            tctgtttctatcttcggtcgtgcgaccccggtagagctggacttcagccaggttgaaaaa
+            gcctaa
+///

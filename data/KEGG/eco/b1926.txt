@@ -1,0 +1,42 @@
+ENTRY       b1926             CDS       T00007
+NAME        fliT
+DEFINITION  (RefSeq) flagellar biosynthesis protein FliT
+ORTHOLOGY   K02423  flagellar protein FliT
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1926 (fliT)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1926 (fliT)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Chaperones
+                b1926 (fliT)
+POSITION    2005713..2006078
+MOTIF       Pfam: FliT CdvA
+DBLINKS     NCBI-GeneID: 946433
+            NCBI-ProteinID: NP_416436
+            Pasteur: fliT
+            RegulonDB: ECK120001356
+            ECOCYC: EG11389
+            ASAP: ABE-0006411
+            UniProt: P0ABY2
+AASEQ       121
+            MNHAPHLYFAWQQLVEKSQLMLRLATEEQWDELIASEMAYVNAVQEIAHLTEEVDPSTTM
+            QEQLRPMLRLILDNESKVKQLLQIRMDELAKLVGQSSVQKSVLSAYGDQGGFVLAPQDNL
+            F
+NTSEQ       366
+            atgaaccatgcaccgcatttatatttcgcctggcaacaactcgtcgaaaaaagccagctc
+            atgttacgcctggcaacggaagaacaatgggacgaactcatcgccagcgaaatggcgtat
+            gtgaatgcggtgcaggagattgcacatttgactgaagaggttgacccgtccaccacgatg
+            caggagcagctccgcccgatgctgcgcctgattctcgacaacgaaagcaaggtaaagcag
+            ttattacagattcggatggatgaactggcgaaactggtcggtcagtcatcggtgcaaaaa
+            tcggtgttaagtgcctatggcgatcagggcggctttgtgctggctccgcaggataacctc
+            ttttga
+///

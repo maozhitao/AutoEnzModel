@@ -1,0 +1,29 @@
+ENTRY       b4423             CDS       T00007
+NAME        ldrC
+DEFINITION  (RefSeq) small toxic polypeptide LdrC
+ORTHOLOGY   K18862  small toxic polypeptide LdrA/B/C/D
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4423 (ldrC)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               Ldr-Rdl
+                b4423 (ldrC)
+POSITION    complement(1270238..1270345)
+MOTIF       Pfam: Ldr_toxin DUF4396
+DBLINKS     NCBI-GeneID: 2847775
+            NCBI-ProteinID: YP_025299
+            RegulonDB: ECK120002659
+            ECOCYC: G0-9607
+            ASAP: ABE-0047282
+            UniProt: P0DPD0 P0DPD1
+AASEQ       35
+            MTLAQFAMIFWHDLAAPILAGIITAAIVSWWRNRK
+NTSEQ       108
+            atgacgctcgcgcagtttgccatgattttctggcacgacctggcagcaccgatcctggcg
+            ggaattattaccgcagcgattgtcagctggtggcgtaaccggaagtaa
+///

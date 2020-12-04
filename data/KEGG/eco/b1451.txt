@@ -1,0 +1,74 @@
+ENTRY       b1451             CDS       T00007
+NAME        yncD
+DEFINITION  (RefSeq) putative TonB-dependent outer membrane receptor
+ORTHOLOGY   K02014  iron complex outermembrane recepter protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1451 (yncD)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b1451 (yncD)
+POSITION    complement(1520963..1523065)
+MOTIF       Pfam: TonB_dep_Rec Plug OMP_b-brl_3
+DBLINKS     NCBI-GeneID: 946015
+            NCBI-ProteinID: NP_415968
+            Pasteur: yncD
+            RegulonDB: ECK120003351
+            ECOCYC: G6762
+            ASAP: ABE-0004839
+            UniProt: P76115
+AASEQ       700
+            MKIFSVRQTVLPALLVLSPVVFAADEQTMIVSAAPQVVSELDTPAAVSVVDGEEMRLATP
+            RINLSESLTGVPGLQVQNRQNYAQDLQLSIRGFGSRSTYGIRGIRLYVDGIPATMPDGQG
+            QTSNIDLSSVQNVEVLRGPFSALYGNASGGVMNVTTQTGQQPPTIEASSYYGSFGSWRYG
+            LKATGATGDGTQPGDVDYTVSTTRFTTHGYRDHSGAQKNLANAKLGVRIDEASKLSLIFN
+            SVDIKADDPGGLTKAEWKANPQQAPRAEQYDTRKTIKQTQAGLRYERSLSSRDDMSVMMY
+            AGERETTQYQSIPMAPQLNPSHAGGVITLQRHYQGIDSRWTHRGELGVPVTFTTGLNYEN
+            MSENRKGYNNFRLNSGMPEYGQKGELRRDERNLMWNIDPYLQTQWQLSEKLSLDAGVRYS
+            SVWFDSNDHYVTPGNGDDSGDASYHKWLPAGSLKYAMTDAWNIYLAAGRGFETPTINELS
+            YRADGQSGMNLGLKPSTNDTIEIGSKTRIGDGLLSLALFQTDTDDEIVVDSSSGGRTTYK
+            NAGKTRRQGAELAWDQRFAGDFRVNASWTWLDATYRSNVCNEQDCNGNRMPGIARNMGFA
+            SIGYVPEDGWYAGTEARYMGDIMADDENTAKAPSYTLVGLFTGYKYNYHNLTVDLFGRVD
+            NLFDKEYVGSVIVNESNGRYYEPSPGRNYGVGMNIAWRFE
+NTSEQ       2103
+            atgaagattttttccgtccgacagaccgttttgcccgcactgcttgtcctttcccccgtt
+            gtttttgccgctgatgaacagactatgattgtcagtgccgcaccgcaggtggtttcagaa
+            ctggataccccagcagcagtaagcgtggtggatggcgaggagatgcgcctggcaacaccg
+            cgcattaacttgtccgaatcactgaccggcgtgcctggtttgcaggtacaaaaccggcag
+            aactatgcgcaagatttacagctgtcgattcgcggatttggctcccgctccacttacggt
+            attcgcggtattcgcctgtatgtggacggtattcccgccaccatgcccgacgggcaaggg
+            caaacatccaacatcgatttaagcagtgtgcaaaatgtggaagtgctgcgtggccccttc
+            tctgccctgtatggcaacgcgtctggtggggtaatgaatgtcaccacccagaccggacaa
+            cagccaccaaccattgaagccagtagttactacggcagttttggcagctggcgctatggg
+            ctgaaagcaacgggcgcaacgggagacggcacacagcctggcgatgtcgattacaccgtc
+            tcaaccacgcgttttacgacccacggctatcgtgaccatagtggcgcacagaaaaattta
+            gccaatgccaaactgggcgtacgcattgatgaagccagcaaattaagtctgattttcaat
+            agtgtggatatcaaagcagatgacccaggtgggctaaccaaagcagaatggaaggctaat
+            ccacaacaagcgcctcgtgcagaacagtacgacacgcgaaaaaccatcaagcaaactcag
+            gctgggttgcgctatgagcgtagcctgagttcgcgggatgatatgagtgtgatgatgtat
+            gccggagagcgagaaacgacccagtaccagtcaatacccatggcaccacaacttaacccg
+            tcacatgcgggcggcgtgattaccctgcaacgccattaccagggaatagacagccgctgg
+            acacaccgtggtgaactgggcgttccggtcacgttcactaccggcctgaactacgaaaac
+            atgagtgaaaaccgcaagggctacaataacttccgcctgaatagcggcatgccggagtac
+            gggcaaaaaggtgagttgcgtcgcgacgaacgcaatctgatgtggaacatcgatccctat
+            ttacagacgcagtggcagctgagcgaaaaactgtcgctggatgctggcgtgcgctacagc
+            tccgtgtggtttgattccaacgaccattacgttactccgggtaacggcgatgacagcggt
+            gatgccagttatcataaatggctacctgccggttcgttaaaatatgcaatgaccgatgcc
+            tggaatatctatctggcagccgggcgaggttttgaaacgccgacgattaatgagctgtct
+            tatcgtgctgatgggcaaagcggtatgaacttaggtttaaaaccatccaccaacgataca
+            attgagatcggcagtaaaacgcgtattggtgatgggctgcttagtctcgcattgtttcag
+            accgacactgatgatgaaattgttgtcgatagcagtagcggtgggcgtacgacttacaaa
+            aatgccggaaagacccgtcgtcaaggcgctgaactggcatgggatcaacgtttcgcagga
+            gattttcgcgtaaacgcgtcctggacctggcttgatgcgacctatcgcagcaatgtttgc
+            aatgaacaggattgtaacggtaatcggatgccagggatcgcccgtaatatgggctttgcg
+            tcgataggttatgtaccggaagatggttggtatgcaggcacggaagcgcgttatatgggc
+            gatattatggcagatgatgaaaatacggcaaaagcgccgtcttatactctcgtcggctta
+            ttcaccgggtataaatacaattaccacaatttaactgtggatttatttggtcgtgtcgat
+            aatttattcgataaagaatacgttggttctgtcattgtcaatgagtcaaacgggcgatat
+            tacgaaccttcgcccggacgaaattatggtgtcggcatgaatattgcgtggagatttgag
+            taa
+///

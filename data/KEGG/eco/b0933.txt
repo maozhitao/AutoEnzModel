@@ -1,0 +1,61 @@
+ENTRY       b0933             CDS       T00007
+NAME        ssuB
+DEFINITION  (RefSeq) aliphatic sulfonate ABC transporter ATP binding subunit
+ORTHOLOGY   K15555  sulfonate transport system ATP-binding protein [EC:7.6.2.14]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00920  Sulfur metabolism
+            eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00920 Sulfur metabolism
+                b0933 (ssuB)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b0933 (ssuB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0933 (ssuB)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.6  Catalysing the translocation of other compounds
+               7.6.2  Linked to the hydrolysis of a nucleoside triphosphate
+                7.6.2.14  ABC-type aliphatic sulfonate transporter
+                 b0933 (ssuB)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Mineral and organic ion transporters
+               Sulfonate transporter
+                b0933 (ssuB)
+POSITION    complement(993277..994044)
+MOTIF       Pfam: ABC_tran AAA_22 AAA_33 AAA_28 AAA_21 SMC_N RsgA_GTPase MMR_HSR1 AAA_16 AAA_30 AAA_29 AAA_25 NB-ARC DLIC
+DBLINKS     NCBI-GeneID: 947220
+            NCBI-ProteinID: NP_415453
+            Pasteur: ycbE
+            RegulonDB: ECK120002226
+            ECOCYC: EG12358
+            ASAP: ABE-0003173
+            UniProt: P0AAI1
+AASEQ       255
+            MNTARLNQGTPLLLNAVSKHYAENIVLNQLDLHIPAGQFVAVVGRSGGGKSTLLRLLAGL
+            ETPTAGDVLAGTTPLAEIQEDTRMMFQDARLLPWKSVIDNVGLGLKGQWRDAARRALAAV
+            GLENRAGEWPAALSGGQKQRVALARALIHRPGLLLLDEPLGALDALTRLEMQDLIVSLWQ
+            EHGFTVLLVTHDVSEAVAMADRVLLIEEGKIGLDLTVDIPRPRRLGSVRLAELEAEVLQR
+            VMQRGESETRLRKQG
+NTSEQ       768
+            atgaatactgctcgtctgaaccagggcacgccattgttgctcaatgcagtaagcaaacat
+            tacgcggaaaatatcgtcctgaaccaactggatttacatattccggcaggtcagtttgtg
+            gcggtggtgggccgcagcggtggtggcaaaagtaccctgctgcgcctgctggcaggtctg
+            gaaacgccaaccgcaggcgatgtgttagcgggcaccacaccgctggctgaaattcaggaa
+            gacacgcgaatgatgtttcaggatgcgcgtctgctaccgtggaaatcggtgattgataac
+            gttgggttaggccttaaaggccagtggcgcgatgccgcacgtcgagcgttggctgcggta
+            ggactggagaatcgcgcaggggaatggcctgccgcactttctggcgggcagaaacagcga
+            gtggcgctggcaagagcgttgattcatcgaccgggattattgttgcttgatgaaccgctc
+            ggggcgctggacgccttaacgcgactcgagatgcaggatttgattgtgtcactttggcag
+            gagcacggctttaccgtactgttggtgacgcatgatgtgagcgaagcggtagcgatggct
+            gaccgggtgctgttaattgaagagggaaaaattggtctggatttgacagtggatatcccc
+            cgtccgcgtcgattagggtcggtgcgattagcggagctggaagcggaggtgttgcaacgg
+            gtgatgcaacgtggtgaatctgaaactcgcctgagaaaacaggggtaa
+///

@@ -1,0 +1,57 @@
+ENTRY       b1871             CDS       T00007
+NAME        cmoB
+DEFINITION  (RefSeq) tRNA U34 carboxymethyltransferase
+ORTHOLOGY   K15257  tRNA (mo5U34)-methyltransferase [EC:2.1.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b1871 (cmoB)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.-  
+                 b1871 (cmoB)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Methyltransferases
+                b1871 (cmoB)
+POSITION    1953442..1954413
+MOTIF       Pfam: Methyltransf_9 Methyltransf_23 Methyltransf_31 Methyltransf_25 Methyltransf_11 CMAS Methyltransf_12 PCMT
+DBLINKS     NCBI-GeneID: 946387
+            NCBI-ProteinID: NP_416385
+            Pasteur: yecP
+            RegulonDB: ECK120003608
+            ECOCYC: G7021
+            ASAP: ABE-0006241
+            UniProt: P76291
+STRUCTURE   PDB: 4QNU 4QNX 4QNV
+AASEQ       323
+            MIDFGNFYSLIAKNHLSHWLETLPAQIANWQREQQHGLFKQWSNAVEFLPEIKPYRLDLL
+            HSVTAESEEPLSAGQIKRIETLMRNLMPWRKGPFSLYGVNIDTEWRSDWKWDRVLPHLSD
+            LTGRTILDVGCGSGYHMWRMIGAGAHLAVGIDPTQLFLCQFEAVRKLLGNDQRAHLLPLG
+            IEQLPALKAFDTVFSMGVLYHRRSPLEHLWQLKDQLVNEGELVLETLVIDGDENTVLVPG
+            DRYAQMRNVYFIPSALALKNWLKKCGFVDIRIADVSVTTTEEQRRTEWMVTESLADFLDP
+            HDPGKTVEGYPAPKRAVLIARKP
+NTSEQ       972
+            atgatcgactttggtaacttttattctctgattgccaaaaatcatctttcacactggctc
+            gaaacgctgcccgcgcagattgctaactggcagcgcgagcagcagcacgggttgtttaag
+            cagtggtcaaatgcggtggagtttctacctgaaattaaaccgtatcgtcttgatttattg
+            catagcgttacggcagaaagcgaagagccactgagcgcagggcaaattaaacgcattgaa
+            acgctgatgcgcaacctgatgccgtggcgcaaagggccgttctcactgtatggcgtcaac
+            atcgataccgaatggcgttccgactggaaatgggatcgtgttctgccccatctttctgat
+            ttaaccggacgcaccattctggatgtcggctgcggcagcggttatcacatgtggcgcatg
+            attggcgcaggcgcgcacctcgcggtggggatcgaccctacgcaactgtttctgtgccag
+            tttgaagcggtgcgtaaactactgggtaatgatcagcgcgcgcatttgttaccgttaggt
+            attgaacaacttccggcactgaaagcctttgataccgtcttttcgatgggcgtgctttac
+            catcgccgttcaccgctggagcatctatggcagttgaaagatcaactggtcaatgaaggt
+            gaactggtgctggaaacgctggttattgatggtgatgagaacacggtgctggtaccaggc
+            gatcgttacgcgcaaatgcgtaatgtctatttcatcccttccgcgctggcgctgaaaaac
+            tggctgaagaagtgtggttttgtagatatccgcattgcggatgtgagcgttaccaccaca
+            gaagagcagcgacgcaccgaatggatggttaccgaatcgctggccgatttcctcgaccca
+            catgatccgggtaaaacggtggaaggttatccggcacctaaacgcgcggtgctgattgcg
+            cgcaagccgtaa
+///

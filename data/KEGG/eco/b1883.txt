@@ -1,0 +1,77 @@
+ENTRY       b1883             CDS       T00007
+NAME        cheB
+DEFINITION  (RefSeq) protein-glutamate methylesterase/protein glutamine deamidase
+ORTHOLOGY   K03412  two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02030  Bacterial chemotaxis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1883 (cheB)
+             09140 Cellular Processes
+              09142 Cell motility
+               02030 Bacterial chemotaxis
+                b1883 (cheB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b1883 (cheB)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1883 (cheB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.61  protein-glutamate methylesterase
+                 b1883 (cheB)
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.44  protein-glutamine glutaminase
+                 b1883 (cheB)
+            Two-component system [BR:eco02022]
+             CheA family
+              CheA-CheYBV (chemotaxis)
+               b1883 (cheB)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Chemotaxis proteins
+               Two component system proteins
+                b1883 (cheB)
+POSITION    complement(1967452..1968501)
+MOTIF       Pfam: CheB_methylest Response_reg
+DBLINKS     NCBI-GeneID: 946394
+            NCBI-ProteinID: NP_416397
+            Pasteur: cheB
+            RegulonDB: ECK120000143
+            ECOCYC: EG10147
+            ASAP: ABE-0006284
+            UniProt: P07330
+AASEQ       349
+            MSKIRVLSVDDSALMRQIMTEIINSHSDMEMVATAPDPLVARDLIKKFNPDVLTLDVEMP
+            RMDGLDFLEKLMRLRPMPVVMVSSLTGKGSEVTLRALELGAIDFVTKPQLGIREGMLAYN
+            EMIAEKVRTAAKASLAAHKPLSAPTTLKAGPLLSSEKLIAIGASTGGTEAIRHVLQPLPL
+            SSPALLITQHMPPGFTRSFADRLNKLCQIGVKEAEDGERVLPGHAYIAPGDRHMELSRSG
+            ANYQIKIHDGPAVNRHRPSVDVLFHSVAKQAGRNAVGVILTGMGNDGAAGMLAMRQAGAW
+            TLAQNEASCVVFGMPREAINMGGVCEVVDLSQVSQQMLAKISAGQAIRI
+NTSEQ       1050
+            atgagcaaaatcagggtgttatctgtcgatgattcggcactgatgcgccagatcatgaca
+            gaaatcatcaacagccatagcgacatggaaatggtggcgaccgcgcctgatccgctggtc
+            gcgcgtgacttgattaagaaattcaatcccgatgtgctgacgctggatgttgaaatgccg
+            cggatggacggactggatttcctcgaaaaattaatgcgtttgcgtccaatgcccgttgtg
+            atggtttcttccctgaccggcaaagggtcagaagtcacgctgcgcgcgctggagctgggg
+            gcgatagattttgtcaccaaaccgcaactgggtattcgcgaaggtatgctggcgtataac
+            gaaatgattgctgaaaaggtgcgtacggcagcaaaggcgagccttgcagcacataagcca
+            ttgtcggcaccgacaacgctgaaggcggggccgttgttgagttctgaaaaactgattgcg
+            attggtgcttcaacgggtggaactgaggcaattcgtcacgtactgcaaccgttgccgctt
+            tccagcccggcactgttaattacccagcatatgccgcccggtttcacccgctcttttgcc
+            gacagacttaataagctttgccagatcggggttaaagaagccgaagacggagaacgtgtc
+            ttgccggggcatgcctatattgcgccgggcgatcggcatatggagctgtcgcgtagtggc
+            gcaaattaccaaatcaaaattcacgatggcccggcggttaaccgtcatcggccttcggta
+            gatgtgttgttccattctgtcgccaaacaggcggggcgtaatgcggttggggtgatcctg
+            accggtatgggcaacgacggcgcggcgggaatgttggcgatgcgtcaggcgggggcatgg
+            acccttgcgcaaaacgaagcaagttgcgtggtgttcggcatgccgcgcgaggccatcaat
+            atgggtggtgtctgcgaagtggtcgatcttagccaggtaagccagcaaatgttggcaaaa
+            attagtgccggacaggcgatacgtatttaa
+///

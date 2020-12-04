@@ -1,0 +1,42 @@
+ENTRY       b3039             CDS       T00007
+NAME        ygiD
+DEFINITION  (RefSeq) 4,5-DOPA dioxygenase extradiol
+ORTHOLOGY   K15777  4,5-DOPA dioxygenase extradiol [EC:1.13.11.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.13  Acting on single donors with incorporation of molecular oxygen (oxygenases)
+               1.13.11  With incorporation of two atoms of oxygen
+                1.13.11.-  
+                 b3039 (ygiD)
+POSITION    complement(3181619..3182434)
+MOTIF       Pfam: LigB
+DBLINKS     NCBI-GeneID: 946447
+            NCBI-ProteinID: NP_417511
+            RegulonDB: ECK120001149
+            ECOCYC: EG11166
+            ASAP: ABE-0009973
+            UniProt: P24197
+STRUCTURE   PDB: 2PW6
+AASEQ       271
+            MTPLVKDIIMSSTRMPALFLGHGSPMNVLEDNLYTRSWQKLGMTLPRPQAIVVVSAHWFT
+            RGTGVTAMETPPTIHDFGGFPQALYDTHYPAPGSPALAQRLVELLAPIPVTLDKEAWGFD
+            HGSWGVLIKMYPDADIPMVQLSIDSSKPAAWHFEMGRKLAALRDEGIMLVASGNVVHNLR
+            TVKWHGDSSPYPWATSFNEYVKANLTWQGPVEQHPLVNYLDHEGGTLSNPTPEHYLPLLY
+            VLGAWDGQEPITIPVEGIEMGSLSMLSVQIG
+NTSEQ       816
+            atgacacctttagttaaggatatcatcatgtcttcaacacgtatgccagcattgttttta
+            ggtcacggtagtccgatgaacgtgctggaagataatttgtatacccgcagctggcagaag
+            ttggggatgacattgccacgcccgcaagcgattgtggtggtttcggctcactggtttacc
+            cgtggaacaggagtgaccgcgatggagacgccgcccacgattcatgactttggtggcttc
+            ccgcaggcgctgtacgatacgcattatcctgctccgggttcgcctgcgctggcacagcgt
+            ctggttgagctgttagcgccgatcccggtgacgctggataaagaagcctggggctttgac
+            cacggctcgtggggcgtgctgattaagatgtatcctgacgctgatatcccgatggtgcag
+            ttgagtatcgacagtagcaaacctgccgcctggcatttcgaaatggggcgcaaactggca
+            gcgctgcgagatgaaggaataatgttggtcgccagcggtaacgtggtgcataacctgcgc
+            acagtgaagtggcacggtgatagttcaccgtatccgtgggcgacgtcgtttaatgagtat
+            gtgaaagcgaatctgacgtggcaagggccagtggaacaacatcctctggtgaattacctc
+            gaccatgaaggtggcacgttatcgaacccaacgccagagcattatttgccgttgttgtat
+            gtgttaggtgcgtgggatgggcaggagccaattaccattccggttgagggtatagaaatg
+            ggcagcctgagtatgctgtcggtgcagataggctaa
+///

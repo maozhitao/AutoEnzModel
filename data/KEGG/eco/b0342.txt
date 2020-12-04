@@ -1,0 +1,44 @@
+ENTRY       b0342             CDS       T00007
+NAME        lacA
+DEFINITION  (RefSeq) galactoside O-acetyltransferase
+ORTHOLOGY   K00633  galactoside O-acetyltransferase [EC:2.3.1.18]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0342 (lacA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.18  galactoside O-acetyltransferase
+                 b0342 (lacA)
+POSITION    complement(361249..361860)
+MOTIF       Pfam: Hexapep Hexapep_2 Mac
+DBLINKS     NCBI-GeneID: 945674
+            NCBI-ProteinID: NP_414876
+            Pasteur: lacA
+            RegulonDB: ECK120000517
+            ECOCYC: EG10524
+            ASAP: ABE-0001177
+            UniProt: P07464
+STRUCTURE   PDB: 1KRR 1KRU 1KRV 1KQA
+AASEQ       203
+            MNMPMTERIRAGKLFTDMCEGLPEKRLRGKTLMYEFNHSHPSEVEKRESLIKEMFATVGE
+            NAWVEPPVYFSYGSNIHIGRNFYANFNLTIVDDYTVTIGDNVLIAPNVTLSVTGHPVHHE
+            LRKNGEMYSFPITIGNNVWIGSHVVINPGVTIGDNSVIGAGSIVTKDIPPNVVAAGVPCR
+            VIREINDRDKHYYFKDYKVESSV
+NTSEQ       612
+            ttgaacatgccaatgaccgaaagaataagagcaggcaagctatttaccgatatgtgcgaa
+            ggcttaccggaaaaaagacttcgtgggaaaacgttaatgtatgagtttaatcactcgcat
+            ccatcagaagttgaaaaaagagaaagcctgattaaagaaatgtttgccacggtaggggaa
+            aacgcctgggtagaaccgcctgtctatttctcttacggttccaacatccatataggccgc
+            aatttttatgcaaatttcaatttaaccattgtcgatgactacacggtaacaatcggtgat
+            aacgtactgattgcacccaacgttactctttccgttacgggacaccctgtacaccatgaa
+            ttgagaaaaaacggcgagatgtactcttttccgataacgattggcaataacgtctggatc
+            ggaagtcatgtggttattaatccaggcgtcaccatcggggataattctgttattggcgcg
+            ggtagtatcgtcacaaaagacattccaccaaacgtcgtggcggctggcgttccttgtcgg
+            gttattcgcgaaataaacgaccgggataagcactattatttcaaagattataaagttgaa
+            tcgtcagtttaa
+///

@@ -1,0 +1,51 @@
+ENTRY       b1078             CDS       T00007
+NAME        flgG
+DEFINITION  (RefSeq) flagellar basal-body rod protein FlgG
+ORTHOLOGY   K02392  flagellar basal-body rod protein FlgG
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1078 (flgG)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1078 (flgG)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Rod,hook and filament
+                b1078 (flgG)
+POSITION    1134729..1135511
+MOTIF       Pfam: Flg_bbr_C Flg_bb_rod DUF4115 Acetyltransf_19
+DBLINKS     NCBI-GeneID: 945647
+            NCBI-ProteinID: NP_415596
+            Pasteur: flgG
+            RegulonDB: ECK120002685
+            ECOCYC: G363
+            ASAP: ABE-0003652
+            UniProt: P0ABX5
+AASEQ       260
+            MISSLWIAKTGLDAQQTNMDVIANNLANVSTNGFKRQRAVFEDLLYQTIRQPGAQSSEQT
+            TLPSGLQIGTGVRPVATERLHSQGNLSQTNNSKDVAIKGQGFFQVMLPDGSSAYTRDGSF
+            QVDQNGQLVTAGGFQVQPAITIPANALSITIGRDGVVSVTQQGQAAPVQVGQLNLTTFMN
+            DTGLESIGENLYTETQSSGAPNESTPGLNGAGLLYQGYVETSNVNVAEELVNMIQVQRAY
+            EINSKAVSTTDQMLQKLTQL
+NTSEQ       783
+            atgatcagttcattatggatcgccaaaacgggccttgacgcccagcaaaccaatatggac
+            gtcattgccaacaacctggcaaacgtcagtactaacggttttaagcgtcagcgcgcggtg
+            tttgaagatctgctttatcaaaccattcgccagccgggggcacagtcttccgaacaaacc
+            accttaccctccggattacaaatcggcacgggggtacgcccggtcgccactgaacgctta
+            cacagccagggaaacctgtcgcagaccaacaacagcaaagatgtcgcgattaaagggcag
+            ggctttttccaggtgatgttgccagatggttcatcagcctatacccgtgacggctctttc
+            caggtggatcagaacgggcagctggtgacggctggtggttttcaggtgcagccagcgatc
+            accattccggcgaatgcgttaagtatcaccatcggtcgtgatggcgtggtcagcgtaacc
+            caacaaggccaggcagctccggttcaggttgggcagctcaatctcaccacctttatgaat
+            gacaccgggctggagagcattggcgaaaacctctacaccgaaacgcaatcctctggtgca
+            ccgaacgaaagcacgccgggcctgaacggcgcgggactgctgtatcaagggtatgttgaa
+            acgtctaacgtcaacgtggcggaagaactggtcaatatgattcaggtgcaacgcgcttac
+            gaaatcaacagtaaagcggtgtccaccaccgatcagatgctgcaaaaactgacgcaactc
+            taa
+///

@@ -1,0 +1,56 @@
+ENTRY       b3136             CDS       T00007
+NAME        agaS
+DEFINITION  (RefSeq) putative galactosamine-6-phosphate deaminase/isomerase
+ORTHOLOGY   K02082  tagatose-6-phosphate ketose/aldose isomerase [EC:5.-.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b3136 (agaS)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.-  
+               5.-.-  
+                5.-.-.-  
+                 b3136 (agaS)
+POSITION    3281976..3283130
+MOTIF       Pfam: SIS PDH
+DBLINKS     NCBI-GeneID: 947645
+            NCBI-ProteinID: NP_417605
+            Pasteur: agaS
+            RegulonDB: ECK120004184
+            ECOCYC: G7634
+            ASAP: ABE-0010305
+            UniProt: P42907
+STRUCTURE   PDB: 3C3J
+AASEQ       384
+            MPENYTPAAAATGTWTEEEIRHQPRAWIRSLTNIDALRSALNNFLEPLLRKENLRIILTG
+            AGTSAFIGDIIAPWLASHTGKNFSAVPTTDLVTNPMDYLNPAHPLLLISFGRSGNSPESV
+            AAVELANQFVPECYHLPITCNEAGALYQNAINSDNAFALLMPAETHDRGFAMTSSITTMM
+            ASCLAVFAPETINSQTFRDVADRCQAILTSLGDFSEGVFGYAPWKRIVYLGSGGLQGAAR
+            ESALKVLELTAGKLAAFYDSPTGFRHGPKSLVDDETLVVVFVSSHPYTRQYDLDLLAELR
+            RDNQAMRVIAIAAESSDIVAAGPHIILPPSRHFIDVEQAFCFLMYAQTFALMQSLHMGNT
+            PDTPSASGTVNRVVQGVIIHPWQA
+NTSEQ       1155
+            atgccagaaaattacacccctgctgccgccgcaaccggtacatggactgaagaagagatc
+            cgccatcagcctcgcgcatggatccgttcactcaccaacatcgacgcgctacgttccgcg
+            ctcaataacttccttgaaccgttactgcgcaaagagaatctgcggatcatcctgaccgga
+            gccggaacgtcggcatttatcggtgacatcatcgcgccgtggctcgccagccataccggt
+            aaaaacttcagcgccgtaccgaccaccgatctggtcaccaatccgatggactacctgaac
+            ccagctcatccgctgctgttgatctccttcggtcgatccggcaacagcccggaaagcgtc
+            gcagccgtggaactggcaaatcaatttgtaccggaatgctatcacctgccgatcacctgc
+            aacgaagcgggcgctctttaccaaaacgcgatcaacagcgataacgcgtttgccctgctg
+            atgcccgcagaaacgcacgatcgcggctttgcgatgaccagcagcattaccaccatgatg
+            gccagctgcctcgcggttttcgcacctgagacgatcaacagccaaaccttccgcgacgtg
+            gcggatcgttgccaggcgatcctgacctcactgggcgatttcagcgaaggtgtgtttggt
+            tacgcaccgtggaaacggatcgtttatctcggtagcggtggcttacagggcgcagcacgc
+            gagtcggcgctgaaagtgctggaactgacggcgggtaaactggcggccttttatgattct
+            ccaaccggattccgtcatggaccaaaatcgctggtcgatgacgaaacgctggtggtggta
+            tttgtctccagccacccttacacccgtcagtatgatcttgatctgctggctgaacttcgc
+            cgtgacaaccaggcaatgcgtgtaatcgccatcgccgcggaaagcagcgacatcgtcgct
+            gccggtccacatatcatcctgccaccgtcacgtcactttatcgacgttgagcaggcattt
+            tgcttcctgatgtacgcccagacgtttgcactgatgcagtcgctgcacatgggcaatacg
+            ccggataccccatcagccagtggcaccgttaaccgcgtggtgcaaggcgtaatcattcat
+            ccgtggcaggcataa
+///

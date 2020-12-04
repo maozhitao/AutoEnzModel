@@ -1,0 +1,77 @@
+ENTRY       b0893             CDS       T00007
+NAME        serS
+DEFINITION  (RefSeq) serine--tRNA ligase
+ORTHOLOGY   K01875  seryl-tRNA synthetase [EC:6.1.1.11]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                b0893 (serS)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:eco01007]
+                b0893 (serS)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b0893 (serS)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.11  serine---tRNA ligase
+                 b0893 (serS)
+            Amino acid related enzymes [BR:eco01007]
+             Aminoacyl-tRNA synthetase
+              Class II (C/G)
+               b0893 (serS)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                b0893 (serS)
+             Prokaryotic type
+                b0893 (serS)
+POSITION    939428..940720
+MOTIF       Pfam: tRNA-synt_2b Seryl_tRNA_N Filament CENP-F_leu_zip Spc7 UPF0242 Cep57_CLD_2
+DBLINKS     NCBI-GeneID: 945506
+            NCBI-ProteinID: NP_415413
+            Pasteur: serS
+            RegulonDB: ECK120000936
+            ECOCYC: EG10947
+            ASAP: ABE-0003038
+            UniProt: P0A8L1
+AASEQ       430
+            MLDPNLLRNEPDAVAEKLARRGFKLDVDKLGALEERRKVLQVKTENLQAERNSRSKSIGQ
+            AKARGEDIEPLRLEVNKLGEELDAAKAELDALQAEIRDIALTIPNLPADEVPVGKDENDN
+            VEVSRWGTPREFDFEVRDHVTLGEMHSGLDFAAAVKLTGSRFVVMKGQIARMHRALSQFM
+            LDLHTEQHGYSENYVPYLVNQDTLYGTGQLPKFAGDLFHTRPLEEEADTSNYALIPTAEV
+            PLTNLVRGEIIDEDDLPIKMTAHTPCFRSEAGSYGRDTRGLIRMHQFDKVEMVQIVRPED
+            SMAALEEMTGHAEKVLQLLGLPYRKIILCTGDMGFGACKTYDLEVWIPAQNTYREISSCS
+            NVWDFQARRMQARCRSKSDKKTRLVHTLNGSGLAVGRTLVAVMENYQQADGRIEVPEVLR
+            PYMNGLEYIG
+NTSEQ       1293
+            atgctcgatcccaatctgctgcgtaatgagccagacgcagtcgctgaaaaactggcacgc
+            cggggctttaagctggatgtagataagctgggcgctcttgaagagcgtcgtaaagtattg
+            caggtcaaaacggaaaacctgcaagcggagcgtaactcccgatcgaaatccattggccag
+            gcgaaagcgcgcggggaagatatcgagcctttacgtctggaagtgaacaaactgggcgaa
+            gagctggatgcagcaaaagccgagctggatgctttacaggctgaaattcgcgatatcgcg
+            ctgaccatccctaacctgcctgcagatgaagtgccggtaggtaaagacgaaaatgacaac
+            gttgaagtcagccgctggggtaccccgcgtgagtttgactttgaagttcgtgaccacgtg
+            acgctgggtgaaatgcactctggcctcgactttgcagctgcagttaagctgactggttcc
+            cgctttgtggtaatgaaagggcagattgctcgcatgcaccgcgcactgtcgcagtttatg
+            ctggatctgcataccgaacagcatggctacagtgagaactatgttccgtacctggttaac
+            caggacacgctgtacggtacgggtcaactgccgaaatttgctggcgatctgttccatact
+            cgtccgctggaagaagaagcagacaccagtaactatgcgctgatcccaacggcagaagtt
+            ccgctgactaacctggtgcgcggtgaaatcatcgatgaagatgatctgccaattaagatg
+            accgcccacaccccatgcttccgttctgaagccggttcatatggtcgtgacacccgtggt
+            ctgatccgtatgcaccagttcgacaaagttgaaatggtgcagatcgtgcgcccagaagac
+            tcaatggcggcgctggaagagatgactggtcatgcagaaaaagtcctgcagttgctgggc
+            ctgccgtaccgtaaaatcatcctttgcactggcgacatgggctttggcgcttgcaaaact
+            tacgacctggaagtatggatcccggcacagaacacctaccgtgagatctcttcctgctcc
+            aacgtttgggatttccaggcacgtcgtatgcaggcacgttgccgcagcaagtcggacaag
+            aaaacccgtctggttcataccctgaacggttctggtctggctgttggtcgtacgctggtt
+            gcagtaatggaaaactatcagcaggctgatggtcgtattgaagtaccagaagttctgcgt
+            ccgtatatgaacggactggaatatattggctaa
+///

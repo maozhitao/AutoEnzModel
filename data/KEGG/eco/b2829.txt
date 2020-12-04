@@ -1,0 +1,90 @@
+ENTRY       b2829             CDS       T00007
+NAME        ptsP
+DEFINITION  (RefSeq) phosphoenolpyruvate-protein phosphotransferase PtsP
+ORTHOLOGY   K08484  phosphotransferase system, enzyme I, PtsP [EC:2.7.3.9]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b2829 (ptsP)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2829 (ptsP)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.3  Phosphotransferases with a nitrogenous group as acceptor
+                2.7.3.9  phosphoenolpyruvate---protein phosphotransferase
+                 b2829 (ptsP)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme I and HPr
+               Enzyme I [TC:8.A.7]
+                b2829 (ptsP)
+POSITION    complement(2966188..2968434)
+MOTIF       Pfam: PEP-utilizers_C PEP-utilisers_N PEP-utilizers GAF GAF_2 GAF_3
+DBLINKS     NCBI-GeneID: 947301
+            NCBI-ProteinID: NP_417306
+            Pasteur: ptsP
+            RegulonDB: ECK120002077
+            ECOCYC: EG12188
+            ASAP: ABE-0009274
+            UniProt: P37177
+STRUCTURE   PDB: 5T12 5T1O
+AASEQ       748
+            MLTRLREIVEKVASAPRLNEALNILVTDICLAMDTEVCSVYLADHDRRCYYLMATRGLKK
+            PRGRTVTLAFDEGIVGLVGRLAEPINLADAQKHPSFKYIPSVKEERFRAFLGVPIIQRRQ
+            LLGVLVVQQRELRQYDESEESFLVTLATQMAAILSQSQLTALFGQYRQTRIRALPAAPGV
+            AIAEGWQDATLPLMEQVYQASTLDPALERERLTGALEEAANEFRRYSKRFAAGAQKETAA
+            IFDLYSHLLSDTRLRRELFAEVDKGSVAEWAVKTVIEKFAEQFAALSDNYLKERAGDLRA
+            LGQRLLFHLDDANQGPNAWPERFILVADELSATTLAELPQDRLVGVVVRDGAANSHAAIM
+            VRALGIPTVMGADIQPSVLHRRTLIVDGYRGELLVDPEPVLLQEYQRLISEEIELSRLAE
+            DDVNLPAQLKSGERIKVMLNAGLSPEHEEKLGSRIDGIGLYRTEIPFMLQSGFPSEEEQV
+            AQYQGMLQMFNDKPVTLRTLDVGADKQLPYMPISEENPCLGWRGIRITLDQPEIFLIQVR
+            AMLRANAATGNLNILLPMVTSLDEVDEARRLIERAGREVEEMIGYEIPKPRIGIMLEVPS
+            MVFMLPHLAKRVDFISVGTNDLTQYILAVDRNNTRVANIYDSLHPAMLRALAMIAREAEI
+            HGIDLRLCGEMAGDPMCVAILIGLGYRHLSMNGRSVARAKYLLRRIDYAEAENLAQRSLE
+            AQLATEVRHQVAAFMERRGMGGLIRGGL
+NTSEQ       2247
+            atgctcactcgcctgcgcgaaatagtcgaaaaggtagccagcgcaccacgcctgaatgag
+            gcgttaaatattctggttaccgacatctgtcttgcgatggataccgaggtctgttcggtc
+            tacctggccgatcatgatcgacgttgttactacctgatggcgacccgggggctgaaaaaa
+            ccacgcggtcgcactgtaacgctcgcgtttgatgaagggatcgtcggcctggttggcagg
+            ctggcggaaccgataaaccttgcagatgcgcaaaagcaccccagcttcaaatacatcccc
+            tccgtaaaagaagaacgtttccgcgcgtttttaggcgtaccaattattcaacgtcgccag
+            ttgcttggtgtactggtggtacagcaacgagagttgcgccagtatgacgaaagtgaagaa
+            tccttcctggtgacgcttgccacccagatggcagctattctttctcagtcgcagttgact
+            gccttgtttgggcaatatcgccagacgcgaatccgcgcattaccggcagcacctggtgtg
+            gcgattgccgaaggctggcaggatgccacgttacctttaatggaacaggtgtatcaggca
+            tcaacgctggatccggctctggaacgcgaacgactgaccggggcgctggaagaagcggca
+            aacgagtttcgccgctacagcaaacgctttgccgccggtgcacaaaaagaaacggcggct
+            attttcgatctttactcgcacctgctttcggacacccggctgcgtcgcgaattgtttgcc
+            gaggttgataaaggctcggtggcagagtgggcggtaaaaacggtcattgaaaaatttgcc
+            gaacagtttgccgcgctaagtgataactatctcaaagagcgggctggcgatttacgtgcg
+            ctgggtcagcgattgctgtttcatcttgatgacgctaatcaagggccgaacgcctggccg
+            gaacgtttcattctggtggcagatgaactgtcagcgacaacgcttgctgagctgccccag
+            gatcgcttagtcggtgttgtcgtgcgagatggcgcagccaactcccatgctgcgatcatg
+            gtacgtgcgctggggatccctaccgtgatgggcgcggatattcagccttcggtgctgcat
+            cgtaggacgctgatcgttgatggctatcgcggtgaattgctggtcgatccggagccggta
+            ctgctgcaagaatatcagcggctaattagtgaagagattgagcttagccgtctggcggaa
+            gatgacgtcaatttacccgcgcagttaaaaagcggtgagcgtataaaagtcatgctcaat
+            gctggtttaagcccggaacatgaagaaaaactgggcagccgtattgatggcatcggtctt
+            tatcgcactgaaatcccattcatgctgcaaagtggtttcccgtcggaagaagaacaggtg
+            gcgcagtatcaggggatgctgcaaatgttcaatgataaacccgtcaccttgcgtacgctg
+            gatgtcggagcagataagcagctgccttacatgccgatcagcgaagagaatccatgcctg
+            ggttggcgtgggattcgcattacgctcgatcagccggagatcttcttgatccaggtgcgg
+            gcgatgctgcgtgctaatgccgctacgggcaacctgaatattctgttgccgatggtcaca
+            agcctcgatgaagttgatgaagcacgccgcctgattgaacgtgccggacgtgaagtcgag
+            gagatgatcggttacgaaattcccaaaccacgtatcggcatcatgctggaagtgccgtca
+            atggtatttatgctgccgcatctggcaaagcgggtcgatttcatctctgttggcaccaac
+            gatctgactcaatacattctggccgttgatcgcaacaatacccgggtggcgaacatttat
+            gacagtcttcatcctgcaatgttacgagctctggcgatgatcgcccgggaagcggaaata
+            catggaatcgatctccgtttgtgcggtgaaatggcgggcgatcccatgtgcgtggcaatc
+            ctcattgggcttgggtatcgccatctgtctatgaacggacgttctgtagcgcgggcaaaa
+            tacctgctgcggcgcattgattatgccgaagcagaaaatcttgcgcagcgtagtctggaa
+            gcgcaactggcgaccgaagttcgccatcaggttgcagcctttatggagcgtcgcggcatg
+            ggcgggctgattcgcggagggttatag
+///

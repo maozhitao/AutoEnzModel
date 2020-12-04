@@ -1,0 +1,49 @@
+ENTRY       b1120             CDS       T00007
+NAME        cobB
+DEFINITION  (RefSeq) protein-lysine deacetylase/desuccinylase
+ORTHOLOGY   K12410  NAD-dependent deacetylase [EC:2.3.1.286]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00760  Nicotinate and nicotinamide metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00760 Nicotinate and nicotinamide metabolism
+                b1120 (cobB)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.286  protein acetyllysine N-acetyltransferase
+                 b1120 (cobB)
+POSITION    1179520..1180359
+MOTIF       Pfam: SIR2 Glyco_transf_28 TPP_enzyme_M
+DBLINKS     NCBI-GeneID: 945687
+            NCBI-ProteinID: NP_415638
+            RegulonDB: ECK120003173
+            ECOCYC: G6577
+            ASAP: ABE-0003781
+            UniProt: P75960
+STRUCTURE   PDB: 1S5P
+AASEQ       279
+            MLSRRGHRLSRFRKNKRRLRERLRQRIFFRDKVVPEAMEKPRVLVLTGAGISAESGIRTF
+            RAADGLWEEHRVEDVATPEGFDRDPELVQAFYNARRRQLQQPEIQPNAAHLALAKLQDAL
+            GDRFLLVTQNIDNLHERAGNTNVIHMHGELLKVRCSQSGQVLDWTGDVTPEDKCHCCQFP
+            APLRPHVVWFGEMPLGMDEIYMALSMADIFIAIGTSGHVYPAAGFVHEAKLHGAHTVELN
+            LEPSQVGNEFAEKYYGPASQVVPEFVEKLLKGLKAGSIA
+NTSEQ       840
+            atgctgtcgcgtcggggtcatcggttaagtcgttttcgtaaaaataaacgccgcctgcgc
+            gagcgtttgcgtcagcgtatttttttcagagataaagtggtgccggaagcaatggaaaaa
+            ccaagagtactcgtactgacaggggcaggaatttctgcggaatcaggtattcgtaccttt
+            cgcgccgcagatggcctgtgggaagaacatcgggttgaagatgtggcaacgccggaaggt
+            ttcgatcgcgatcctgaactggtgcaagcgttttataacgcccgtcgtcgacagctgcag
+            cagccagaaattcagcctaacgccgcgcatcttgcgctggctaaactgcaagacgccctc
+            ggcgatcgctttttgctggtgacgcagaatatcgacaacctgcatgaacgcgcaggtaat
+            accaatgtgattcatatgcatggggaactgctgaaagtgcgttgttcacaaagtggtcag
+            gttctcgactggacaggagacgttaccccagaagataaatgccattgttgccagtttccg
+            gcacccttgcgcccgcacgtagtgtggtttggcgaaatgccactcggcatggatgaaatt
+            tatatggcgttgtcgatggccgatattttcattgccattggcacatccgggcatgtttat
+            ccggcggctgggtttgttcacgaagcgaaactgcatggcgcgcacaccgtggaactgaat
+            cttgaaccgagtcaggttggtaatgaatttgccgagaaatattacggcccggcaagccag
+            gtggtgcctgagtttgttgaaaagttgctgaagggattaaaagcgggaagcattgcctga
+///

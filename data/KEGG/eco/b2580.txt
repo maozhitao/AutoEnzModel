@@ -1,0 +1,59 @@
+ENTRY       b2580             CDS       T00007
+NAME        ung
+DEFINITION  (RefSeq) uracil-DNA glycosylase
+ORTHOLOGY   K03648  uracil-DNA glycosylase [EC:3.2.2.27]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03410  Base excision repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03410 Base excision repair
+                b2580 (ung)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2580 (ung)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.2  Hydrolysing N-glycosyl compounds
+                3.2.2.27  uracil-DNA glycosylase
+                 b2580 (ung)
+            DNA repair and recombination proteins [BR:eco03400]
+             Eukaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                DNA glycosylases
+                 b2580 (ung)
+             Prokaryotic type
+                 b2580 (ung)
+POSITION    2716754..2717443
+MOTIF       Pfam: UDG
+DBLINKS     NCBI-GeneID: 947067
+            NCBI-ProteinID: NP_417075
+            Pasteur: ung
+            RegulonDB: ECK120001047
+            ECOCYC: EG11058
+            ASAP: ABE-0008495
+            UniProt: P12295
+STRUCTURE   PDB: 3UF7 4EUG 3EUG 2EUG 5EUG 1EUG 1FLZ 1UUG 2UUG 1LQG 1LQM
+                 1EUI 1LQJ
+AASEQ       229
+            MANELTWHDVLAEEKQQPYFLNTLQTVASERQSGVTIYPPQKDVFNAFRFTELGDVKVVI
+            LGQDPYHGPGQAHGLAFSVRPGIAIPPSLLNMYKELENTIPGFTRPNHGYLESWARQGVL
+            LLNTVLTVRAGQAHSHASLGWETFTDKVISLINQHREGVVFLLWGSHAQKKGAIIDKQRH
+            HVLKAPHPSPLSAHRGFFGCNHFVLANQWLEQRGETPIDWMPVLPAESE
+NTSEQ       690
+            atggctaacgaattaacctggcatgacgtgctggctgaagagaagcagcaaccctatttt
+            cttaatacccttcagaccgtcgccagcgagcggcagtccggcgtcactatctacccacca
+            caaaaagatgtctttaacgcgttccgctttacagagttgggtgacgttaaagtggtgatt
+            ctcggccaggatccttatcacggaccgggacaggcgcatggtctggcattttccgttcgt
+            cccggcattgccattcctccgtcattattgaatatgtataaagagctggaaaatactatt
+            ccgggcttcacccgccctaatcatggttatcttgaaagctgggcgcgtcagggcgttctg
+            ctactcaatactgtgttgacggtacgcgcaggtcaggcgcattcccacgccagcctcggc
+            tgggaaaccttcaccgataaagtgatcagcctgattaaccagcatcgcgaaggcgtggtg
+            tttttgttgtggggatcgcatgcgcaaaagaaaggggcgattatagataagcaacgccat
+            catgtactgaaagcaccgcatccgtcgccgctttcggcgcatcgtggattctttggctgc
+            aaccattttgtgctggcaaatcagtggctggaacaacgtggcgagacgccgattgactgg
+            atgccagtattaccggcagagagtgagtaa
+///

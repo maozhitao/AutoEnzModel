@@ -1,0 +1,65 @@
+ENTRY       b0661             CDS       T00007
+NAME        miaB
+DEFINITION  (RefSeq) isopentenyl-adenosine A37 tRNA methylthiolase
+ORTHOLOGY   K06168  tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC:2.8.4.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b0661 (miaB)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.8  Transferring sulfur-containing groups
+               2.8.4  Transferring alkylthio groups
+                2.8.4.3  tRNA-2-methylthio-N6-dimethylallyladenosine synthase
+                 b0661 (miaB)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Methylthiotransferases
+                b0661 (miaB)
+POSITION    complement(693531..694955)
+MOTIF       Pfam: UPF0004 Radical_SAM TRAM TRAM_2 B12-binding
+DBLINKS     NCBI-GeneID: 945260
+            NCBI-ProteinID: NP_415194
+            Pasteur: yleA
+            RegulonDB: ECK120002971
+            ECOCYC: G6364
+            ASAP: ABE-0002260
+            UniProt: P0AEI1
+AASEQ       474
+            MTKKLHIKTWGCQMNEYDSSKMADLLDATHGYQLTDVAEEADVLLLNTCSIREKAQEKVF
+            HQLGRWKLLKEKNPDLIIGVGGCVASQEGEHIRQRAHYVDIIFGPQTLHRLPEMINSVRG
+            DRSPVVDISFPEIEKFDRLPEPRAEGPTAFVSIMEGCNKYCTYCVVPYTRGEEVSRPSDD
+            ILFEIAQLAAQGVREVNLLGQNVNAWRGENYDGTTGSFADLLRLVAAIDGIDRIRFTTSH
+            PIEFTDDIIEVYRDTPELVSFLHLPVQSGSDRILNLMGRTHTALEYKAIIRKLRAARPDI
+            QISSDFIVGFPGETTEDFEKTMKLIADVNFDMSYSFIFSARPGTPAADMVDDVPEEEKKQ
+            RLYILQERINQQAMAWSRRMLGTTQRILVEGTSRKSIMELSGRTENNRVVNFEGTPDMIG
+            KFVDVEITDVYPNSLRGKVVRTEDEMGLRVAETPESVIARTRKENDLGVGYYQP
+NTSEQ       1425
+            atgaccaaaaaactccatattaaaacctggggctgtcagatgaacgagtacgattcatcg
+            aagatggccgatctgctggatgccacccacggctatcaactgaccgacgtggcggaagaa
+            gcggatgtgctgctgctgaacacctgctcaatccgcgagaaggctcaggaaaaagtcttc
+            catcagttgggtcgctggaaactgttaaaagagaagaatccagacctgattatcggcgtc
+            ggtggctgcgtggcatcgcaagaaggcgagcacattcgccagcgcgcccactatgtcgat
+            attatttttgggccgcaaacgctgcaccgtctgccggagatgatcaactccgtgcgtggc
+            gaccgcagcccggttgtagatatcagcttcccggaaatcgagaagtttgaccgtctaccg
+            gaaccgcgcgccgaagggccgaccgcgtttgtctccatcatggaaggctgcaataaatat
+            tgcacctactgcgtggtgccttacacccgtggtgaagaggtaagccgtccgtccgacgat
+            attctgtttgagattgcccagcttgcggctcagggcgtgcgtgaagtcaacctgctcggt
+            cagaacgtgaacgcctggcgtggtgaaaactacgacggcaccaccggatcgtttgccgat
+            ctgctgcgtctggttgctgcgatcgacgggatcgatcgtattcgctttaccaccagccat
+            ccgatcgaattcaccgacgatatcatcgaagtgtatcgcgacacgccggagctggtgagc
+            ttcctgcatctgccggtacagagcggttccgatcgcattctgaacctgatgggccgtacc
+            catacggcgctggagtacaaagcgatcatccgtaaactgcgtgcggcgcgtccagatatt
+            cagatcagttctgatttcatcgttggcttccctggcgaaaccaccgaagacttcgagaaa
+            acgatgaagctgattgccgacgtcaatttcgacatgagctacagctttatcttctctgca
+            cgtccgggtacaccagccgccgatatggttgatgatgttccggaagaagagaagaagcag
+            cgtctgtatattctgcaagagcgcattaatcagcaagcgatggcgtggagccgccggatg
+            ctcggcaccacccagcgtattctggtagaaggtacatcgcgtaagagcatcatggagctt
+            tccgggcgtacggaaaataaccgcgtggtcaacttcgaaggcacgccggatatgatcggt
+            aaattcgtcgatgtagaaattaccgacgtctacccgaactctctgcgcggtaaagtggtg
+            cgtactgaagatgaaatgggtctgcgcgtggcagaaacaccggaatcagtgattgcccgt
+            acccgcaaagaaaacgaccttggcgtgggttattatcagccgtaa
+///

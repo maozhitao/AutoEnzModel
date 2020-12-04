@@ -1,0 +1,65 @@
+ENTRY       b1924             CDS       T00007
+NAME        fliD
+DEFINITION  (RefSeq) flagellar filament capping protein
+ORTHOLOGY   K02407  flagellar hook-associated protein 2
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1924 (fliD)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1924 (fliD)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Rod,hook and filament
+                b1924 (fliD)
+POSITION    2003872..2005278
+MOTIF       Pfam: FliD_C FliD_N PE Apo-CIII RSS_P20 Sec34
+DBLINKS     NCBI-GeneID: 946428
+            NCBI-ProteinID: NP_416434
+            Pasteur: fliD
+            RegulonDB: ECK120000832
+            ECOCYC: EG10841
+            ASAP: ABE-0006407
+            UniProt: P24216
+STRUCTURE   PDB: 5H5W 5H5V
+AASEQ       468
+            MASISSLGVGSGLDLSSILDSLTAAQKATLTPISNQQSSFTAKLSAYGTLKSALTTFQTA
+            NTALSKADLFSATSTTSSTTAFSATTAGNAIAGKYTISVTHLAQAQTLTTRTTRDDTKTA
+            IATSDSKLTIQQGGDKDPITIDISAANSSLSGIRDAINNAKAGVSASIINVGNGEYRLSV
+            TSNDTGLDNAMTLSVSGDDALQSFMGYDASASSNGMEVSVAAQNAQLTVNNVAIENSSNT
+            ISDALENITLNLNDVTTGNQTLTITQDTSKAQTAIKDWVNAYNSLIDTFSSLTKYTAVDA
+            GADSQSSSNGALLGDSTLRTIQTQLKSMLSNTVSSSSYKTLAQIGITTDPSDGKLELDAD
+            KLTAALKKDASGVGALIVGDGKKTGITTTIGSNLTSWLSTTGIIKAATDGVSKTLNKLTK
+            DYNAASDRIDAQVARYKEQFTQLDVLMTSLNSTSSYLTQQFENNSNSK
+NTSEQ       1407
+            atggcaagtatttcatcgctgggagtcgggtcaggtctggatttaagttccatccttgat
+            agcctcaccgccgcgcaaaaagcgacgctaacccccatttcaaatcagcaatcgtcgttt
+            accgctaaacttagcgcctacggtacgctgaaaagcgcgctgacgactttccagaccgcc
+            aatactgcattgtctaaagccgatcttttttccgccaccagcaccaccagcagcaccacc
+            gcgttcagtgccaccactgcgggtaacgccatcgccgggaaatacaccatcagcgtcacc
+            catctggcgcaggcgcaaaccctgaccacgcgcaccaccagagacgatacgaaaacggcg
+            atcgccaccagcgacagtaaactcaccattcaacaaggcggcgacaaagatccgattacc
+            attgatatcagcgcggctaactcatcgttaagcgggatccgtgatgccatcaacaacgca
+            aaagcaggcgtaagcgcaagcatcattaacgtgggtaacggtgaatatcgtctgtcagtc
+            acatcaaatgacaccggccttgataatgcgatgacactctcggtcagcggtgatgatgcg
+            ctacaaagttttatgggctatgacgccagtgccagcagcaacggtatggaggtctcggtt
+            gccgcccagaatgcgcagctgacagtcaacaacgtcgccatcgagaacagcagcaacacc
+            atcagcgacgcgctggaaaacatcaccctgaacctgaacgatgtcaccacgggcaaccag
+            acgctaaccatcactcaggacacctccaaagcgcaaacggcgattaaagactgggtgaat
+            gcctacaactcgctaatagataccttcagcagcctgaccaaatacaccgccgtagatgcg
+            ggagctgatagccagagttctagcaatggtgcactgctcggcgactccacgctgcggacg
+            attcagacgcagttgaaatcgatgctgagtaataccgtcagttcttccagctataaaacg
+            ttggcgcagattggtatcacgaccgatcccagcgatggcaaactggaactggatgccgac
+            aaactcaccgctgcactgaaaaaagatgccagcggcgtaggtgcattgattgttggcgat
+            ggtaaaaaaaccggcatcacgaccaccatcggcagcaacctgaccagttggctttcgaca
+            acgggcattattaaagccgctaccgatggcgttagtaagaccctgaataaattaactaaa
+            gactacaacgccgccagcgatcgcattgatgcgcaggtcgctcgctacaaagaacaattt
+            acccaactggacgttttaatgacctcgttaaacagcaccagcagctacttaacgcagcag
+            ttcgaaaacaacagtaattccaagtaa
+///

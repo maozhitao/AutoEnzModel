@@ -1,0 +1,54 @@
+ENTRY       b2808             CDS       T00007
+NAME        gcvA
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator GcvA
+ORTHOLOGY   K03566  LysR family transcriptional regulator, glycine cleavage system transcriptional activator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b2808 (gcvA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b2808 (gcvA)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               LysR family
+                b2808 (gcvA)
+POSITION    complement(2941650..2942567)
+MOTIF       Pfam: LysR_substrate HTH_1 HTH_30 MarR_2
+DBLINKS     NCBI-GeneID: 947278
+            NCBI-ProteinID: NP_417288
+            Pasteur: gcvA
+            RegulonDB: ECK120001729
+            ECOCYC: EG11795
+            ASAP: ABE-0009202
+            UniProt: P0A9F6
+AASEQ       305
+            MSKRLPPLNALRVFDAAARHLSFTRAAEELFVTQAAVSHQIKSLEDFLGLKLFRRRNRSL
+            LLTEEGQSYFLDIKEIFSQLTEATRKLQARSAKGALTVSLLPSFAIHWLVPRLSSFNSAY
+            PGIDVRIQAVDRQEDKLADDVDVAIFYGRGNWPGLRVEKLYAEYLLPVCSPLLLTGEKPL
+            KTPEDLAKHTLLHDASRRDWQTYTRQLGLNHINVQQGPIFSHSAMVLQAAIHGQGVALAN
+            NVMAQSEIEAGRLVCPFNDVLVSKNAFYLVCHDSQAELGKIAAFRQWILAKAAAEQEKFR
+            FRYEQ
+NTSEQ       918
+            atgtctaaacgattaccaccgctaaatgccttacgagtttttgatgccgcagcacgccat
+            ttaagtttcactcgcgcagcagaagagctttttgtgacccaagccgcagtaagtcatcaa
+            atcaagtctcttgaggattttttggggctaaaactgttccgccgccgtaatcgttcactc
+            ctgctgaccgaggaagggcaaagctatttcctcgatatcaaagagatattttcgcaatta
+            accgaagcgacgcgtaaactccaggcccgtagcgccaagggggcgttgacggtcagttta
+            ctccccagtttcgccattcattggttggttccgcgactttccagctttaattcagcttat
+            ccgggaattgacgttcgaatccaggcggttgatcgtcaggaagataagctggcggatgat
+            gttgatgtggcgatattttatggtcggggcaactggccggggctacgggtggaaaaactg
+            tacgccgaatatttattgccggtgtgttcgccgctactgctgactggcgaaaaacccttg
+            aagacaccggaagatctggctaaacatacgttattacatgatgcttcgcgccgtgactgg
+            cagacatatacccgacagttggggttaaatcatatcaacgttcagcaagggccaattttt
+            agccatagcgccatggtgctgcaagcggctatccacgggcagggagtggcgctggcaaat
+            aacgtgatggcgcaatctgaaatcgaggccggacgtcttgtttgcccgtttaatgatgtt
+            ctggtcagtaaaaatgctttttatctggtttgtcatgacagtcaggcagaactgggtaaa
+            atagccgcctttcgccaatggatcctggcgaaagccgctgctgaacaagaaaaattccgc
+            tttcgttatgaacaataa
+///

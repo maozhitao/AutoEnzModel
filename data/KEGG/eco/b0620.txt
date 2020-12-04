@@ -1,0 +1,46 @@
+ENTRY       b0620             CDS       T00007
+NAME        dpiA
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator DpiA
+ORTHOLOGY   K07702  two-component system, CitB family, response regulator CitB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0620 (dpiA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b0620 (dpiA)
+            Two-component system [BR:eco02022]
+             CitB family
+              CitA-CitB (citrate fermentation)
+               b0620 (dpiA)
+POSITION    653862..654542
+MOTIF       Pfam: Response_reg CitT HTH_11 HTH_31 HTH_22
+DBLINKS     NCBI-GeneID: 947008
+            NCBI-ProteinID: NP_415153
+            Pasteur: dpiA
+            RegulonDB: ECK120002953
+            ASAP: ABE-0002131
+            UniProt: P0AEF4
+AASEQ       226
+            MTAPLTLLIVEDETPLAEMHAEYIRHIPGFSQILLAGNLAQARMMIERFKPGLILLDNYL
+            PDGRGINLLHELVQAHYPGDVVFTTAASDMETVSEAVRCGVFDYLIKPIAYERLGQTLTR
+            FRQRKHMLESIDSASQKQIDEMFNAYARGEPKDELPTGIDPLTLNAVRKLFKEPGVQHTA
+            ETVAQALTISRTTARRYLEYCASRHLIIAEIVHGKVGRPQRIYHSG
+NTSEQ       681
+            atgacagctccattaaccctattgatcgttgaggacgaaacgccgctggcagagatgcat
+            gcggaatatattcgtcacattcccggattcagtcagatattactggcgggaaatctggcg
+            caggcccgaatgatgatcgagcgttttaagccggggctaatcttgctcgataactatctt
+            cctgacggtagagggattaatttactgcatgaactggtgcaggcgcattatcccggcgac
+            gtggtgtttaccactgcagccagcgatatggaaacggtgtctgaagccgtacgttgtggt
+            gtatttgattatctcattaagcccattgcctatgaacggctggggcaaacgctaacccgt
+            ttccgccagcgtaaacatatgctggaaagtattgatagcgccagccagaagcaaattgat
+            gagatgtttaatgcttatgctcgcggtgaacctaaggacgagctaccgaccggcattgac
+            cccttgacgctaaacgcggtgcgaaaactgtttaaagagcctggtgtgcaacatacggca
+            gaaacggtggcgcaggcactgaccatcagccgcaccactgccaggcgttatcttgaatat
+            tgcgccagccgccatctgattattgctgaaattgttcacggcaaagttggcagaccacaa
+            cgcatataccacagtgggtga
+///

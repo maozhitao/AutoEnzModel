@@ -1,0 +1,49 @@
+ENTRY       b3985             CDS       T00007
+NAME        rplJ
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L10
+ORTHOLOGY   K02864  large subunit ribosomal protein L10
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3985 (rplJ)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3985 (rplJ)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b3985 (rplJ)
+              Bacteria
+                b3985 (rplJ)
+              Archaea
+                b3985 (rplJ)
+POSITION    4179996..4180493
+MOTIF       Pfam: Ribosomal_L10 DUF349
+DBLINKS     NCBI-GeneID: 948490
+            NCBI-ProteinID: NP_418412
+            Pasteur: rplJ
+            RegulonDB: ECK120000862
+            ECOCYC: EG10871
+            ASAP: ABE-0013035
+            UniProt: P0A7J3
+STRUCTURE   PDB: 6S0K 6I0Y 5GAE 5GAD 5GAG 5GAH 4UY8 3J7Z 5GAF 5ADY
+AASEQ       165
+            MALNLQDKQAIVAEVSEVAKGALSAVVADSRGVTVDKMTELRKAGREAGVYMRVVRNTLL
+            RRAVEGTPFECLKDAFVGPTLIAYSMEHPGAAARLFKEFAKANAKFEVKAAAFEGELIPA
+            SQIDRLATLPTYEEAIARLMATMKEASAGKLVRTLAAVRDAKEAA
+NTSEQ       498
+            atggctttaaatcttcaagacaaacaagcgattgttgctgaagtcagcgaagtagccaaa
+            ggcgcgctgtctgcagtagttgcggattcccgtggcgtaactgtagataaaatgactgaa
+            ctgcgtaaagcaggtcgcgaagctggcgtatacatgcgtgttgttcgtaacaccctgctg
+            cgccgtgctgttgaaggtactccgttcgagtgcctgaaagacgcgtttgttggtccgacc
+            ctgattgcatactctatggaacacccgggcgctgctgctcgtctgttcaaagagttcgcg
+            aaagcgaatgcaaaatttgaggtcaaagccgctgcctttgaaggtgagctgatcccggcg
+            tctcagatcgaccgcctggcaactctgccgacctacgaagaagcaattgcacgcctgatg
+            gcaaccatgaaagaagcttcggctggcaaactggttcgtactctggctgctgtacgcgat
+            gcgaaagaagctgcttaa
+///

@@ -1,0 +1,51 @@
+ENTRY       b3998             CDS       T00007
+NAME        nfi
+DEFINITION  (RefSeq) endonuclease V
+ORTHOLOGY   K05982  deoxyribonuclease V [EC:3.1.21.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b3998 (nfi)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.21  Endodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.21.7  deoxyribonuclease V
+                 b3998 (nfi)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                AP endonucleases
+                 b3998 (nfi)
+POSITION    4198790..4199461
+MOTIF       Pfam: Endonuclease_5 UvrC_HhH_N DUF1580
+DBLINKS     NCBI-GeneID: 948502
+            NCBI-ProteinID: NP_418426
+            Pasteur: nfi
+            RegulonDB: ECK120001843
+            ECOCYC: EG11915
+            ASAP: ABE-0013068
+            UniProt: P68739
+STRUCTURE   PDB: 4XPU
+AASEQ       223
+            MDLASLRAQQIELASSVIREDRLDKDPPDLIAGADVGFEQGGEVTRAAMVLLKYPSLELV
+            EYKVARIATTMPYIPGFLSFREYPALLAAWEMLSQKPDLVFVDGHGISHPRRLGVASHFG
+            LLVDVPTIGVAKKRLCGKFEPLSSEPGALAPLMDKGEQLAWVWRSKARCNPLFIATGHRV
+            SVDSALAWVQRCMKGYRLPEPTRWADAVASERPAFVRYTANQP
+NTSEQ       672
+            atggatctcgcgtcattacgcgctcaacaaatcgaactggcttcttctgtgatccgcgag
+            gatcgactcgataaagatccaccggatctgatcgccggagccgatgtcgggtttgagcag
+            ggcggagaagtgacgcgagcggcgatggtgctgctgaaatatccctcgcttgagctggtc
+            gagtataaagttgcccgcatcgccaccaccatgccttacattccaggttttctttccttc
+            cgcgaatatcctgcgctgctggcagcgtgggagatgctgtcgcaaaagccggatttagtg
+            tttgtcgatggtcatgggatctcgcatcctcgccgtcttggcgtcgccagccattttggc
+            ttattggtggatgtgccgaccattggcgtggcgaaaaaacggctctgcggtaaattcgaa
+            ccgctctccagcgaaccgggcgcgctggccccactgatggataaaggcgagcagctggcc
+            tgggtctggcgcagcaaagcgcgctgtaacccgttgtttatcgctaccggccatcgggtc
+            agcgtggacagcgcgctggcgtgggtacaacgctgcatgaaaggctatcgtctgccggag
+            ccaacgcgctgggcggacgcggtggcctcggaacgtccggcgttcgtgcgctatacagca
+            aatcagccctaa
+///

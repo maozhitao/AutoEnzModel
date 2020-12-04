@@ -1,0 +1,47 @@
+ENTRY       b2929             CDS       T00007
+NAME        fumE
+DEFINITION  (RefSeq) fumarase E
+ORTHOLOGY   K01774  fumarate hydratase E [EC:4.2.1.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00020  Citrate cycle (TCA cycle)
+            eco00620  Pyruvate metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+            eco01120  Microbial metabolism in diverse environments
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00020 Citrate cycle (TCA cycle)
+                b2929 (fumE)
+               00620 Pyruvate metabolism
+                b2929 (fumE)
+            Enzymes [BR:eco01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.2  fumarate hydratase
+                 b2929 (fumE)
+POSITION    complement(3074686..3075195)
+MOTIF       Pfam: MtlR
+DBLINKS     NCBI-GeneID: 946861
+            NCBI-ProteinID: NP_417404
+            Pasteur: yggD
+            RegulonDB: ECK120001145
+            ECOCYC: EG11162
+            ASAP: ABE-0009612
+            UniProt: P11663
+AASEQ       169
+            MATLTEDDVLEQLDAQDNLFSFMKTAHTILLQGIRQFLPSLFVDNDEEIVEYAVKPLLAQ
+            SGPLDDIDVALRLIYALGKMDKWLYADITHFSQFWHYLNEQDETPGFADDMTWDFISNVN
+            SITRNAMLYDALKAMKFADFSVWSEARFSGMVKTALTLAVTTTLKELTP
+NTSEQ       510
+            atggcgacgctgacagaagatgatgtgcttgagcaactggatgcacaggacaatttattt
+            tcatttatgaaaactgcgcataccattttgctccaggggatacgccagtttctgccgtcg
+            ctgtttgtcgataacgatgaagagatcgtggaatatgcagtgaagccgttactcgcccaa
+            agcggcccgcttgacgatattgatgttgcactgcgtttgatttatgcgttggggaaaatg
+            gataaatggttgtacgccgatatcacgcatttttcccagttctggcattacctgaacgaa
+            caggatgaaacgcccggatttgccgatgacatgacctgggattttatcagcaacgtcaat
+            agcataacccgcaatgcgatgctctatgacgcgttaaaagcgatgaagttcgctgatttc
+            tccgtctggtcagaggcgcgttttagcggaatggtcaaaacggcgctgacgctggcagta
+            acgaccaccttaaaggaattaacgccgtga
+///

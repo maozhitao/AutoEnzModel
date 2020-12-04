@@ -1,0 +1,44 @@
+ENTRY       b0730             CDS       T00007
+NAME        mngR
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor MngR
+ORTHOLOGY   K11922  GntR family transcriptional regulator, mannosyl-D-glycerate transport/metabolism system repressor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0730 (mngR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               GntR family
+                b0730 (mngR)
+POSITION    complement(765153..765875)
+MOTIF       Pfam: UTRA GntR HTH_DeoR HTH_11 HTH_41 Rrf2 HTH_Crp_2
+DBLINKS     NCBI-GeneID: 945371
+            NCBI-ProteinID: NP_415258
+            Pasteur: farR
+            RegulonDB: ECK120001095
+            ECOCYC: EG11109
+            ASAP: ABE-0002487
+            UniProt: P13669
+AASEQ       240
+            MGHKPLYRQIADRIREQIARGELKPGDALPTESALQTEFGVSRVTVRQALRQLVEQQILE
+            SIQGSGTYVKEERVNYDIFQLTSFDEKLSDRHVDTHSEVLIFEVIPADDFLQQQLQITPQ
+            DRVWHVKRVRYRKQKPMALEETWMPLALFPDLTWQVMENSKYHFIEEVKKMVIDRSEQEI
+            IPLMPTEEMSRLLNISQTKPILEKVSRGYLVDGRVFEYSRNAFNTDDYKFTLIAQRKSSR
+NTSEQ       723
+            atgggacacaagcccttataccggcagattgccgatcgcattcgtgaacaaattgcgcgt
+            ggcgagcttaaacctggcgatgcgttacccactgaatcagcgctacaaacagagtttggc
+            gtcagccgggttacggtgcgtcaggctttgcgccagctagtcgagcagcagatcctcgaa
+            agcattcagggcagcgggacttacgtcaaagaagagcgggtcaattacgatatttttcag
+            ttaaccagttttgatgaaaaactgtcggaccgtcacgtcgatacacacagtgaagttctg
+            atattcgaagtgattccggctgacgattttcttcagcaacagctacaaatcaccccgcag
+            gatcgtgtgtggcatgtgaagcgcgtgcgctatcgcaagcaaaagccaatggcgctggaa
+            gaaacctggatgccgcttgcgttgttcccggatctcacctggcaggtcatggaaaattcg
+            aaatatcactttatcgaagaagtgaagaaaatggttatcgatcgtagcgaacaggaaatc
+            attcctctgatgccaaccgaagagatgagccgtctgcttaatatcagccagacaaagccg
+            attcttgaaaaagtatcgcgtggatatttagttgatggtcgggtgtttgaatatagccgc
+            aacgcttttaataccgatgactataaatttaccctgatagcgcagcgaaaatcatcgcga
+            taa
+///

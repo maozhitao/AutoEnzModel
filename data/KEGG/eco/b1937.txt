@@ -1,0 +1,40 @@
+ENTRY       b1937             CDS       T00007
+NAME        fliE
+DEFINITION  (RefSeq) flagellar basal-body protein FliE
+ORTHOLOGY   K02408  flagellar hook-basal body complex protein FliE
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1937 (fliE)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1937 (fliE)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Rod,hook and filament
+                b1937 (fliE)
+POSITION    complement(2012700..2013014)
+MOTIF       Pfam: FliE
+DBLINKS     NCBI-GeneID: 946446
+            NCBI-ProteinID: NP_416447
+            Pasteur: fliE
+            RegulonDB: ECK120001317
+            ECOCYC: EG11346
+            ASAP: ABE-0006447
+            UniProt: P0A8T5
+AASEQ       104
+            MSAIQGIEGVISQLQATAMSARAQESLPQPTISFAGQLHAALDRISDTQTAARTQAEKFT
+            LGEPGVALNDVMTDMQKASVSMQMGIQVRNKLVAAYQEVMSMQV
+NTSEQ       315
+            atgtcagcgatacaggggattgaaggggttatcagccagttacaggctacggcgatgagt
+            gcgcgtgcgcaggaatcactgccgcaaccgaccattagttttgccgggcagctgcacgcc
+            gcgctcgatcgcattagtgatacacaaacagctgcccgcacgcaggcagaaaaattcact
+            ctcggtgaacccggcgtggcgttaaacgatgtgatgaccgatatgcaaaaagcctcagtt
+            tctatgcaaatggggattcaggtgcgtaataagctggtggcggcgtatcaggaagtgatg
+            agcatgcaggtgtag
+///

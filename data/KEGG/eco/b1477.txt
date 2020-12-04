@@ -1,0 +1,35 @@
+ENTRY       b1477             CDS       T00007
+NAME        yddM
+DEFINITION  (RefSeq) putative DNA-binding transcriptional regulator YddM
+ORTHOLOGY   K21498  antitoxin HigA-1
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b1477 (yddM)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               HigB-HigA
+                b1477 (yddM)
+POSITION    complement(1552398..1552682)
+MOTIF       Pfam: HTH_3 Sigma54_DBD HTH_31 CENP-B_N HTH_26 HTH_37 HTH_IclR HTH_19
+DBLINKS     NCBI-GeneID: 946040
+            NCBI-ProteinID: NP_415994
+            Pasteur: yddM
+            RegulonDB: ECK120003363
+            ECOCYC: G6774
+            ASAP: ABE-0004925
+            UniProt: P67699
+STRUCTURE   PDB: 2ICT 2ICP
+AASEQ       94
+            MKMANHPRPGDIIQESLDELNVSLREFARAMEIAPSTASRLLTGKAALTPEMAIKLSVVI
+            GSSPQMWLNLQNAWSLAEAEKTVDVSRLRRLVTQ
+NTSEQ       285
+            atgaaaatggccaatcatccccgcccgggggacattattcaggaatcactggacgaactt
+            aatgtcagcctgcgcgagtttgccagagcaatggaaattgctccctcaacggcaagccga
+            ttgctgacaggaaaagcagctttgacgccagaaatggcgattaaactttccgtggtgatc
+            ggcagttcgccgcaaatgtggctgaatctgcaaaacgcctggagtctggcagaggcagaa
+            aaaacagtggatgtgtcgcgattacgccgtctggttacgcaataa
+///

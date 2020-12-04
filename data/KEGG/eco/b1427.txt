@@ -1,0 +1,44 @@
+ENTRY       b1427             CDS       T00007
+NAME        rimL
+DEFINITION  (RefSeq) ribosomal-protein-L12-serine acetyltransferase
+ORTHOLOGY   K03817  ribosomal-protein-serine acetyltransferase [EC:2.3.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b1427 (rimL)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.-  
+                 b1427 (rimL)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              ribosomal protein modification factors
+               b1427 (rimL)
+POSITION    1498938..1499477
+MOTIF       Pfam: Acetyltransf_3 Acetyltransf_1 Acetyltransf_4 Acetyltransf_8 Acetyltransf_10 Acetyltransf_7
+DBLINKS     NCBI-GeneID: 945998
+            NCBI-ProteinID: NP_415944
+            Pasteur: rimL
+            RegulonDB: ECK120000844
+            ECOCYC: EG10853
+            ASAP: ABE-0004763
+            UniProt: P13857
+AASEQ       179
+            MTETIKVSESLELHAVAENHVKPLYQLICKNKTWLQQSLNWPQFVQSEEDTRKTVQGNVM
+            LHQRGYAKMFMIFKEDELIGVISFNRIEPLNKTAEIGYWLDESHQGQGIISQALQALIHH
+            YAQSGELRRFVIKCRVDNPQSNQVALRNGFILEGCLKQAEFLNDAYDDVNLYARIIDSQ
+NTSEQ       540
+            atgactgaaacgataaaagtaagcgaatcacttgaattacatgctgttgcagaaaatcac
+            gtcaaacctctttatcagttaatctgtaaaaataaaacctggttacagcagtcgctaaac
+            tggccgcagtttgttcaaagtgaagaggacacgcgaaaaacggtgcagggtaatgtgatg
+            ttgcatcaacgcggctatgccaaaatgttcatgattttcaaagaagatgaacttatcggc
+            gttatctcgtttaatcgtattgaaccactgaataaaaccgctgaaataggctactggctg
+            gacgaatctcatcaggggcaggggatcatttctcaggcgctgcaggcattgattcatcat
+            tacgcccagtctggtgaacttagacgcttcgtgatcaaatgtcgggtggacaatccgcaa
+            agcaaccaggtcgctttgcgcaatggttttatccttgaaggttgcctgaaacaggctgag
+            ttcctgaatgatgcctatgatgatgtgaacttatacgcgcgtattatcgattcacaataa
+///

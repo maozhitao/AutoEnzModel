@@ -1,0 +1,52 @@
+ENTRY       b2532             CDS       T00007
+NAME        trmJ
+DEFINITION  (RefSeq) tRNA Cm32/Um32 methyltransferase
+ORTHOLOGY   K15396  tRNA (cytidine32/uridine32-2'-O)-methyltransferase [EC:2.1.1.200]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b2532 (trmJ)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.200  tRNA (cytidine32/uridine32-2'-O)-methyltransferase
+                 b2532 (trmJ)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Methyltransferases
+                b2532 (trmJ)
+POSITION    complement(2662583..2663323)
+MOTIF       Pfam: SpoU_methylase Methyltrn_RNA_4 DUF531
+DBLINKS     NCBI-GeneID: 948610
+            NCBI-ProteinID: NP_417027
+            Pasteur: yfhQ
+            RegulonDB: ECK120003899
+            ECOCYC: G7327
+            ASAP: ABE-0008332
+            UniProt: P0AE01
+STRUCTURE   PDB: 4CND 4CNE 4XBO
+AASEQ       246
+            MLQNIRIVLVETSHTGNMGSVARAMKTMGLTNLWLVNPLVKPDSQAIALAAGASDVIGNA
+            HIVDTLDEALAGCSLVVGTSARSRTLPWPMLDPRECGLKSVAEAANTPVALVFGRERVGL
+            TNEELQKCHYHVAIAANPEYSSLNLAMAVQVIAYEVRMAWLATQENGEQVEHEETPYPLV
+            DDLERFYGHLEQTLLATGFIRENHPGQVMNKLRRLFTRARPESQELNILRGILASIEQQN
+            KGNKAE
+NTSEQ       741
+            atgctgcaaaatattcgaattgtgctggtggagacgtcacacaccggcaatatgggttct
+            gttgcccgtgccatgaaaacaatgggattaaccaatctgtggctggttaatccactggtg
+            aaacccgactcccaggcgattgccctggcagcaggggccagcgatgtgattggtaatgct
+            cacatcgtcgatacgctcgacgaagcgttagccggttgtagcctggtggtgggcaccagc
+            gcacgttcccgcacgctgccatggccgatgctcgacccgcgcgaatgcggcctgaaaagc
+            gtcgctgaagcggcaaataccccggtggcgctggtgtttggtcgcgagcgcgtcggcttg
+            accaatgaagagttgcagaaatgccattatcatgtcgcgattgcggctaacccggaatac
+            agctcgctgaacctggcgatggcggttcaggttattgcctatgaagtgcgcatggcctgg
+            ctggcaactcaggaaaacggcgagcaggtcgagcatgaagagacgccgtatccgctggtc
+            gatgatctggagcgtttttatggtcatctggaacaaacgctgctggcaaccggttttatc
+            cgtgaaaaccatccggggcaggtgatgaataaattgcgccgtctgtttacccgtgcgcgc
+            ccggaaagccaggagttgaatatcctgcgcgggattctggcttctattgagcagcagaat
+            aaaggtaacaaggccgaataa
+///

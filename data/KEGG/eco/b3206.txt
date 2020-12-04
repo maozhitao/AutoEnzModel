@@ -1,0 +1,40 @@
+ENTRY       b3206             CDS       T00007
+NAME        npr
+DEFINITION  (RefSeq) phosphorelay protein Npr
+ORTHOLOGY   K08485  phosphocarrier protein NPr
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b3206 (npr)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3206 (npr)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme I and HPr
+               Phosphocarrier protein HPr [TC:8.A.8]
+                b3206 (npr)
+POSITION    3347966..3348238
+MOTIF       Pfam: PTS-HPr
+DBLINKS     NCBI-GeneID: 947914
+            NCBI-ProteinID: NP_417673
+            Pasteur: npr
+            RegulonDB: ECK120002047
+            ECOCYC: EG12147
+            ASAP: ABE-0010524
+            UniProt: P0A9N0
+STRUCTURE   PDB: 5T1N 5T1O 5T17
+AASEQ       90
+            MTVKQTVEITNKLGMHARPAMKLFELMQGFDAEVLLRNDEGTEAEANSVIALLMLDSAKG
+            RQIEVEATGPQEEEALAAVIALFNSGFDED
+NTSEQ       273
+            atgaccgtcaagcaaactgttgaaatcacaaacaagctgggcatgcatgcccggcctgca
+            atgaagctgtttgaattaatgcagggttttgacgctgaagtgctcttacgtaatgacgaa
+            ggcaccgaggctgaagccaacagcgttattgcgctgctgatgttggattctgccaaagga
+            cggcagattgaagttgaagcgaccggtccacaggaagaggaagcactggccgccgttatc
+            gccctctttaattctggttttgatgaagattaa
+///

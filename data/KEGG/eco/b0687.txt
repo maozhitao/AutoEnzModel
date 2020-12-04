@@ -1,0 +1,49 @@
+ENTRY       b0687             CDS       T00007
+NAME        seqA
+DEFINITION  (RefSeq) SeqA, negative modulator of initiation of replication
+ORTHOLOGY   K03645  negative modulator of initiation of replication
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b0687 (seqA)
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b0687 (seqA)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Termination Factors
+               Prevention of re-replication factors
+                b0687 (seqA)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Other chromosome partitioning proteins
+                b0687 (seqA)
+POSITION    712987..713532
+MOTIF       Pfam: SeqA SeqA_N VAPB_antitox
+DBLINKS     NCBI-GeneID: 945272
+            NCBI-ProteinID: NP_415213
+            Pasteur: seqA
+            RegulonDB: ECK120002086
+            ECOCYC: EG12197
+            ASAP: ABE-0002343
+            UniProt: P0AFY8
+STRUCTURE   PDB: 1XRX 1J3E 1LRR 3FMT 1IU3
+AASEQ       181
+            MKTIEVDDELYSYIASHTKHIGESASDILRRMLKFSAASQPAAPVTKEVRVASPAIVEAK
+            PVKTIKDKVRAMRELLLSDEYAEQKRAVNRFMLLLSTLYSLDAQAFAEATESLHGRTRVY
+            FAADEQTLLKNGNQTKPKHVPGTPYWVITNTNTGRKCSMIEHIMQSMQFPAELIEKVCGT
+            I
+NTSEQ       546
+            atgaaaacgattgaagttgatgatgaactctacagctatattgccagccacactaagcat
+            atcggcgagagcgcatccgacattttacggcgtatgttgaaattttccgccgcatcacag
+            cctgctgctccggtgacgaaagaggttcgcgttgcgtcacctgctatcgtcgaagcgaag
+            ccggtcaaaacgattaaagacaaggttcgcgcaatgcgtgaacttctgctttcggatgaa
+            tacgcagagcaaaagcgagcggtcaatcgctttatgctgctgttgtctacactatattct
+            cttgacgcccaggcgtttgccgaagcaacggaatcgttgcacggtcgtacacgcgtttac
+            tttgcggcagatgaacaaacgctgctgaaaaatggtaatcagaccaagccgaaacatgtg
+            ccaggcacgccgtattgggtgatcaccaacaccaacaccggccgtaaatgcagcatgatc
+            gaacacatcatgcagtcgatgcaattcccggcggaattgattgagaaggtttgcggaact
+            atctaa
+///

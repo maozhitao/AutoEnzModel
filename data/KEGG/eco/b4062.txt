@@ -1,0 +1,35 @@
+ENTRY       b4062             CDS       T00007
+NAME        soxS
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator SoxS
+ORTHOLOGY   K13631  AraC family transcriptional regulator, mar-sox-rob regulon activator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b4062 (soxS)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               AraC family
+                b4062 (soxS)
+POSITION    complement(4277060..4277383)
+MOTIF       Pfam: HTH_18 HTH_AraC
+DBLINKS     NCBI-GeneID: 948567
+            NCBI-ProteinID: NP_418486
+            Pasteur: soxS
+            RegulonDB: ECK120000947
+            ECOCYC: EG10958
+            ASAP: ABE-0013311
+            UniProt: P0A9E2
+AASEQ       107
+            MSHQKIIQDLIAWIDEHIDQPLNIDVVAKKSGYSKWYLQRMFRTVTHQTLGDYIRQRRLL
+            LAAVELRTTERPIFDIAMDLGYVSQQTFSRVFRRQFDRTPSDYRHRL
+NTSEQ       324
+            atgtcccatcagaaaattattcaggatcttatcgcatggattgacgagcatattgaccag
+            ccgcttaacattgatgtagtcgcaaaaaaatcaggctattcaaagtggtacttgcaacga
+            atgttccgcacggtgacgcatcagacgcttggcgattacattcgccaacgccgcctgtta
+            ctggccgccgttgagttgcgcaccaccgagcgtccgatttttgatatcgcaatggacctg
+            ggttatgtctcgcagcagaccttctcccgcgttttccgtcggcagtttgatcgcactccc
+            agcgattatcgccaccgcctgtaa
+///

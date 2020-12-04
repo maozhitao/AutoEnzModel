@@ -1,0 +1,38 @@
+ENTRY       b4252             CDS       T00007
+NAME        tabA
+DEFINITION  (RefSeq) DUF386 domain-containing toxin-antitoxin biofilm protein TabA
+ORTHOLOGY   K19334  biofilm protein TabA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4252 (tabA)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               Type II TA system related factors
+                b4252 (tabA)
+POSITION    4474862..4475314
+MOTIF       Pfam: DUF386 Cupin_2 Cupin_3
+DBLINKS     NCBI-GeneID: 948777
+            NCBI-ProteinID: NP_418673
+            Pasteur: yjgK
+            RegulonDB: ECK120004378
+            ECOCYC: G7883
+            ASAP: ABE-0013921
+            UniProt: P0AF96
+AASEQ       150
+            MIIGNIHNLQPWLPQELRQAIEHIKAHVTAETPKGKHDIEGNRLFYLISEDMTEPYEARR
+            AEYHARYLDIQIVLKGQEGMTFSTQPAGAPDTDWLADKDIAFLPEGVDEKTVILNEGDFV
+            VFYPGEVHKPLCAVGAPAQVRKAVVKMLMA
+NTSEQ       453
+            atgatcatcggaaatattcataatcttcagccgtggctaccccaggagttacgccaggcg
+            attgagcatatcaaagcacacgttacggcagaaacgccaaagggcaagcacgatatcgaa
+            ggcaatcgactgttttatcttatctcggaagatatgaccgagccgtacgaagctcgccgt
+            gcggagtaccatgcccgctatcttgacattcagattgtgttaaaaggtcaggaaggcatg
+            accttcagcacgcaacctgcaggcgcgccggataccgactggttagctgataaagacatc
+            gcatttttgccggaaggcgttgatgagaaaacagttattctaaatgaaggtgattttgtt
+            gtgttttatccgggggaagtgcataaaccgctgtgcgcagtgggcgcgccagcccaggtt
+            cgcaaagcagtagtgaagatgctgatggcgtga
+///

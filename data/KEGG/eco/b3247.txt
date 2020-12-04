@@ -1,0 +1,74 @@
+ENTRY       b3247             CDS       T00007
+NAME        rng
+DEFINITION  (RefSeq) RNase G
+ORTHOLOGY   K08301  ribonuclease G [EC:3.1.26.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:eco03019]
+                b3247 (rng)
+               03009 Ribosome biogenesis [BR:eco03009]
+                b3247 (rng)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.26  Endoribonucleases producing 5'-phosphomonoesters
+                3.1.26.-  
+                 b3247 (rng)
+            Messenger RNA biogenesis [BR:eco03019]
+             Prokaryotic type
+              Bacterial mRNA degradation factors
+               RNA degradosome components
+                Ribonucreases
+                 b3247 (rng)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA processing factors
+               b3247 (rng)
+POSITION    complement(3396326..3397795)
+MOTIF       Pfam: RNase_E_G S1 HARE-HTH
+DBLINKS     NCBI-GeneID: 947744
+            NCBI-ProteinID: NP_417713
+            Pasteur: cafA
+            RegulonDB: ECK120001272
+            ECOCYC: EG11299
+            ASAP: ABE-0010651
+            UniProt: P0A9J0
+AASEQ       489
+            MTAELLVNVTPSETRVAYIDGGILQEIHIEREARRGIVGNIYKGRVSRVLPGMQAAFVDI
+            GLDKAAFLHASDIMPHTECVAGEEQKQFTVRDISELVRQGQDLMVQVVKDPLGTKGARLT
+            TDITLPSRYLVFMPGASHVGVSQRIESESERERLKKVVAEYCDEQGGFIIRTAAEGVGEA
+            ELASDAAYLKRVWTKVMERKKRPQTRYQLYGELALAQRVLRDFADAELDRIRVDSRLTYE
+            ALLEFTSEYIPEMTSKLEHYTGRQPIFDLFDVENEIQRALERKVELKSGGYLIIDQTEAM
+            TTVDINTGAFVGHRNLDDTIFNTNIEATQAIARQLRLRNLGGIIIIDFIDMNNEDHRRRV
+            LHSLEQALSKDRVKTSVNGFSALGLVEMTRKRTRESIEHVLCNECPTCHGRGTVKTVETV
+            CYEIMREIVRVHHAYDSDRFLVYASPAVAEALKGEESHSLAEVEIFVGKQVKVQIEPLYN
+            QEQFDVVMM
+NTSEQ       1470
+            atgacggctgaattgttagtaaacgtaacgccttcggaaacgcgagtggcgtatattgat
+            ggcggtattctgcaggaaattcatattgaacgtgaggcgcgacgcggaatagtaggcaat
+            atctacaagggtcgtgtaagtcgtgtacttccgggtatgcaggcggcttttgtagatatt
+            gggctggataaagccgcgtttcttcatgcatccgacatcatgccgcacaccgaatgtgtg
+            gcgggtgaagaacaaaagcaattcacggtgcgcgacatctcggaactggttcgtcagggg
+            caagatctgatggtgcaggtggtgaaagatccgcttggcactaaaggtgcgcgcctgacc
+            accgatatcacgctcccttctcgctatctggtgtttatgccaggggcttctcacgttggg
+            gtttcccaacgtattgaaagcgaatcagaacgtgaacgcctgaaaaaagtggtcgcagag
+            tattgcgacgagcagggcgggtttatcatccgtaccgcagcggaaggggttggcgaggct
+            gaactggcctccgatgccgcttatctgaaacgcgtctggaccaaagttatggagcgtaaa
+            aaacgcccgcagacccgttatcagctgtacggcgaactggcgctggcgcagcgtgttctg
+            cgtgatttcgccgatgccgaactggaccgcattcgcgttgactcacgcctgacttacgaa
+            gcgttacttgagttcacctcggagtacattcccgagatgacaagcaagctggagcattac
+            acaggacgccagccgattttcgatctctttgatgtcgaaaacgaaatccagcgagcgctg
+            gaacgcaaagtagaactgaaatccggtggttatctcattatcgaccagaccgaagcgatg
+            accaccgtggacatcaataccggagcgtttgtcggtcatcgcaatctggacgacaccatt
+            ttcaataccaatattgaagcgacgcaggctatcgctcgccagttacggttgcgtaatctg
+            ggcgggattatcattattgatttcatcgatatgaataatgaagatcaccgccgccgagtg
+            ctgcactcgctggagcaggcgttgagcaaagaccgggtgaaaaccagcgttaatggtttt
+            tcggcgctggggctggtggagatgacgcgtaaacgcacccgcgaaagcattgagcacgta
+            ctgtgtaacgaatgcccaacctgccacggtcgcggaacggtgaaaaccgtggaaacggta
+            tgctatgaaatcatgcgcgagattgttcgtgtccaccatgcttacgactccgaccgtttc
+            ctggtctatgcttctccggcagtagctgaagccttgaaaggcgaagagtcacactcgctg
+            gcggaagtggaaattttcgttggcaaacaggttaaagtacaaattgaaccgctctataac
+            caggagcagtttgacgtcgtaatgatgtaa
+///

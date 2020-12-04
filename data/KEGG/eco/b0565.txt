@@ -1,0 +1,55 @@
+ENTRY       b0565             CDS       T00007
+NAME        ompT
+DEFINITION  (RefSeq) outer membrane protease VII (outer membrane protein 3b)
+ORTHOLOGY   K01355  omptin [EC:3.4.23.49]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b0565 (ompT)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.23  Aspartic endopeptidases
+                3.4.23.49  omptin
+                 b0565 (ompT)
+            Peptidases and inhibitors [BR:eco01002]
+             Aspartic peptidases
+              Family A26: omptin family
+               b0565 (ompT)
+POSITION    complement(584680..585633)
+MOTIF       Pfam: Omptin
+DBLINKS     NCBI-GeneID: 945185
+            NCBI-ProteinID: NP_415097
+            Pasteur: ompT
+            RegulonDB: ECK120000666
+            ECOCYC: EG10673
+            ASAP: ABE-0001931
+            UniProt: P09169
+STRUCTURE   PDB: 1I78
+AASEQ       317
+            MRAKLLGIVLTTPIAISSFASTETLSFTPDNINADISLGTLSGKTKERVYLAEEGGRKVS
+            QLDWKFNNAAIIKGAINWDLMPQISIGAAGWTTLGSRGGNMVDQDWMDSSNPGTWTDESR
+            HPDTQLNYANEFDLNIKGWLLNEPNYRLGLMAGYQESRYSFTARGGSYIYSSEEGFRDDI
+            GSFPNGERAIGYKQRFKMPYIGLTGSYRYEDFELGGTFKYSGWVESSDNDEHYDPGKRIT
+            YRSKVKDQNYYSVAVNAGYYVTPNAKVYVEGAWNRVTNKKGNTSLYDHNNNTSDYSKNGA
+            GIENYNFITTAGLKYTF
+NTSEQ       954
+            atgcgggcgaaacttctgggaatagtcctgacaacccctattgcgatcagctcttttgct
+            tctaccgagactttatcgtttactcctgacaacataaatgcggacattagtcttggaact
+            ctgagcggaaaaacaaaagagcgtgtttatctagccgaagaaggaggccgaaaagtcagt
+            caactcgactggaaattcaataacgctgcaattattaaaggtgcaattaattgggatttg
+            atgccccagatatctatcggggctgctggctggacaactctcggcagccgaggtggcaat
+            atggtcgatcaggactggatggattccagtaaccccggaacctggacggatgaaagtaga
+            caccctgatacacaactcaattatgccaacgaatttgatctgaatatcaaaggctggctc
+            ctcaacgaacccaattaccgcctgggactcatggccggatatcaggaaagccgttatagc
+            tttacagccagaggtggttcctatatctacagttctgaggagggattcagagatgatatc
+            ggctccttcccgaatggagaaagagcaatcggctacaaacaacgttttaaaatgccctac
+            attggcttgactggaagttatcgttatgaagattttgaactcggtggcacatttaaatac
+            agcggctgggtggaatcatctgataacgatgaacactatgacccgggaaaaagaatcact
+            tatcgcagtaaggtcaaagaccaaaattactattctgttgcagtcaatgcaggttattac
+            gtcacacctaacgcaaaagtttatgttgaaggcgcatggaatcgggttacgaataaaaaa
+            ggtaatacttcactttatgatcacaataataacacttcagactacagcaaaaatggagca
+            ggtatagaaaactataacttcatcactactgctggtcttaagtacacattttaa
+///

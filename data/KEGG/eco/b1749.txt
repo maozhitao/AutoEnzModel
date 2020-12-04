@@ -1,0 +1,59 @@
+ENTRY       b1749             CDS       T00007
+NAME        xthA
+DEFINITION  (RefSeq) exodeoxyribonuclease III
+ORTHOLOGY   K01142  exodeoxyribonuclease III [EC:3.1.11.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03410  Base excision repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03410 Base excision repair
+                b1749 (xthA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1749 (xthA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.11  Exodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.11.2  exodeoxyribonuclease III
+                 b1749 (xthA)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                AP endonucleases
+                 b1749 (xthA)
+POSITION    1832428..1833234
+MOTIF       Pfam: Exo_endo_phos Exo_endo_phos_2
+DBLINKS     NCBI-GeneID: 946254
+            NCBI-ProteinID: NP_416263
+            Pasteur: xthA
+            RegulonDB: ECK120001062
+            ECOCYC: EG11073
+            ASAP: ABE-0005829
+            UniProt: P09030
+STRUCTURE   PDB: 1AKO
+AASEQ       268
+            MKFVSFNINGLRARPHQLEAIVEKHQPDVIGLQETKVHDDMFPLEEVAKLGYNVFYHGQK
+            GHYGVALLTKETPIAVRRGFPGDDEEAQRRIIMAEIPSLLGNVTVINGYFPQGESRDHPI
+            KFPAKAQFYQNLQNYLETELKRDNPVLIMGDMNISPTDLDIGIGEENRKRWLRTGKCSFL
+            PEEREWMDRLMSWGLVDTFRHANPQTADRFSWFDYRSKGFDDNRGLRIDLLLASQPLAEC
+            CVETGIDYEIRSMEKPSDHAPVWATFRR
+NTSEQ       807
+            atgaaatttgtctcttttaatatcaacggcctgcgcgccagacctcaccagcttgaagcc
+            atcgtcgaaaagcaccaaccggatgtgattggcctgcaggagacaaaagttcatgacgat
+            atgtttccgctcgaagaggtggcgaagctcggctacaacgtgttttatcacgggcagaaa
+            ggccattatggcgtggcgctgctgaccaaagagacgccgattgccgtgcgtcgcggcttt
+            cccggtgacgacgaagaggcgcagcggcggattattatggcggaaatcccctcactgctg
+            ggtaatgtcaccgtgatcaacggttacttcccgcagggtgaaagccgcgaccatccgata
+            aaattcccggcaaaagcgcagttttatcagaatctgcaaaactacctggaaaccgaactc
+            aaacgtgataatccggtactgattatgggcgatatgaatatcagccctacagatctggat
+            atcggcattggcgaagaaaaccgtaagcgctggctgcgtaccggtaaatgctctttcctg
+            ccggaagagcgcgaatggatggacaggctgatgagctgggggttggtcgataccttccgc
+            catgcgaatccgcaaacagcagatcgtttctcatggtttgattaccgctcaaaaggtttt
+            gacgataaccgtggtctgcgcatcgacctgctgctcgccagccaaccgctggcagaatgt
+            tgcgtagaaaccggcatcgactatgaaatccgcagcatggaaaaaccgtccgatcacgcc
+            cccgtctgggcgaccttccgccgctaa
+///

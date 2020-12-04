@@ -1,0 +1,74 @@
+ENTRY       b2817             CDS       T00007
+NAME        amiC
+DEFINITION  (RefSeq) N-acetylmuramoyl-L-alanine amidase C
+ORTHOLOGY   K01448  N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01503  Cationic antimicrobial peptide (CAMP) resistance
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b2817 (amiC)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01011 Peptidoglycan biosynthesis and degradation proteins [BR:eco01011]
+                b2817 (amiC)
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b2817 (amiC)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.28  N-acetylmuramoyl-L-alanine amidase
+                 b2817 (amiC)
+            Peptidoglycan biosynthesis and degradation proteins [BR:eco01011]
+             Peptidoglycan biosynthesis and degradation
+              Amidase
+               b2817 (amiC)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Divisome proteins
+                b2817 (amiC)
+POSITION    complement(2947757..2949010)
+MOTIF       Pfam: Amidase_3 AMIN
+DBLINKS     NCBI-GeneID: 947293
+            NCBI-ProteinID: NP_417294
+            Pasteur: amiC
+            RegulonDB: ECK120004021
+            ECOCYC: G7458
+            ASAP: ABE-0009238
+            UniProt: P63883
+STRUCTURE   PDB: 4BIN
+AASEQ       417
+            MSGSNTAISRRRLLQGAGAMWLLSVSQVSLAAVSQVVAVRVWPASSYTRVTVESNRQLKY
+            KQFALSNPERVVVDIEDVNLNSVLKGMAAQIRADDPFIKSARVGQFDPQTVRMVFELKQN
+            VKPQLFALAPVAGFKERLVMDLYPANAQDMQDPLLALLEDYNKGDLEKQVPPAQSGPQPG
+            KAGRDRPIVIMLDPGHGGEDSGAVGKYKTREKDVVLQIARRLRSLIEKEGNMKVYMTRNE
+            DIFIPLQVRVAKAQKQRADLFVSIHADAFTSRQPSGSSVFALSTKGATSTAAKYLAQTQN
+            ASDLIGGVSKSGDRYVDHTMFDMVQSLTIADSLKFGKAVLNKLGKINKLHKNQVEQAGFA
+            VLKAPDIPSILVETAFISNVEEERKLKTATFQQEVAESILAGIKAYFADGATLARRG
+NTSEQ       1254
+            atgtcaggatccaacactgcaatcagccgtcgtcgtttactgcaaggcgcgggtgccatg
+            tggctattgagcgtaagtcaggtcagtctggctgcggtcagccaggtcgtggcggtgcgc
+            gtctggcctgcgtccagctacacccgcgtgacggtggaatcaaatcgtcagctgaaatat
+            aagcagttcgcgttgagtaaccctgaacgcgtggtggtggatatcgaagatgtaaacctg
+            aactcggtactcaaggggatggcggcacaaattcgtgcagacgacccgttcatcaagtcg
+            gcgcgcgtcgggcaatttgacccgcaaaccgtacggatggtttttgaattaaagcaaaac
+            gtaaaaccgcagctgtttgcccttgcgccggtcgccgggtttaaagagcgtctggtgatg
+            gacctctatccggccaatgcacaggatatgcaggacccgctgctggcgctgctggaggat
+            tacaacaaaggcgacctcgaaaagcaggtgccgccagcgcaaagtggtccacaaccgggt
+            aaagcagggcgcgatcgtccgattgtcattatgcttgaccctggccacggtggcgaagac
+            tccggtgcggtggggaaatacaaaacgcgcgaaaaagatgtggtattgcaaatagctcgc
+            cgtttgcgctctctgatcgagaaagagggcaatatgaaggtgtacatgacgcgcaatgaa
+            gacatcttcattccattgcaagtgcgcgtagcaaaagcccagaaacagcgtgctgacctg
+            tttgtctctatccatgccgacgcctttaccagtcgtcagccgagcggttcctctgtgttt
+            gcgctctcaaccaaaggtgcaaccagtactgcggcaaaatatctggcacaaacccagaac
+            gcctcggacttgattggtggcgtgagcaaaagcggtgaccgctatgtcgaccacaccatg
+            ttcgatatggtacagtcgctgaccattgccgacagcctgaagtttggtaaagcggtactg
+            aataagctcggtaaaatcaacaagctgcataaaaatcaagttgaacaggccgggtttgcc
+            gtactaaaggcaccagatattccctccattctggtcgaaacggcgtttatcagtaacgtt
+            gaggaagagcgtaaactgaaaacggcgactttccagcaggaagttgcggagtctattctt
+            gcggggattaaagcgtattttgccgatggggcgacgctggcgagaaggggatga
+///

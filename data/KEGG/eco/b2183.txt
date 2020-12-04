@@ -1,0 +1,50 @@
+ENTRY       b2183             CDS       T00007
+NAME        rsuA
+DEFINITION  (RefSeq) 16S rRNA pseudouridine(516) synthase
+ORTHOLOGY   K06183  16S rRNA pseudouridine516 synthase [EC:5.4.99.19]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b2183 (rsuA)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.99  Transferring other groups
+                5.4.99.19  16S rRNA pseudouridine516 synthase
+                 b2183 (rsuA)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               16S rRNA modification factors
+                b2183 (rsuA)
+POSITION    complement(2279788..2280483)
+MOTIF       Pfam: PseudoU_synth_2 S4
+DBLINKS     NCBI-GeneID: 945378
+            NCBI-ProteinID: NP_416688
+            Pasteur: rsuA
+            RegulonDB: ECK120001960
+            ECOCYC: EG12044
+            ASAP: ABE-0007223
+            UniProt: P0AA43
+STRUCTURE   PDB: 1KSK 1KSL 1KSV
+AASEQ       231
+            MRLDKFIAQQLGVSRAIAGREIRGNRVTVDGEIVRNAAFKLLPEHDVAYDGNPLAQQHGP
+            RYFMLNKPQGYVCSTDDPDHPTVLYFLDEPVAWKLHAAGRLDIDTTGLVLMTDDGQWSHR
+            ITSPRHHCEKTYLVTLESPVADDTAEQFAKGVQLHNEKDLTKPAVLEVITPTQVRLTISE
+            GRYHQVKRMFAAVGNHVVELHRERIGGITLDADLAPGEYRPLTEEEIASVV
+NTSEQ       696
+            atgcgacttgataaatttatcgcacagcaactcggcgttagccgtgctattgccgggcgt
+            gaaatccgcggcaatcgtgtcaccgtcgatggcgaaatcgtccgtaatgcagcgttcaaa
+            ctgcttcctgaacatgatgtcgcttacgatggcaacccgctggcgcagcaacacggtcca
+            cgttacttcatgctcaataagcctcagggctatgtttgctccacggacgaccctgatcac
+            ccaacggtgctctattttcttgatgaaccggtagcgtggaaactgcatgcggcggggcgg
+            ttggatattgataccaccggtctggtgctgatgactgatgatggtcagtggtcgcaccgc
+            attacttctccgcgccatcattgcgagaagacctatctggtgacactggaatcacctgta
+            gctgacgatacggcagagcaatttgctaaaggcgtgcagctgcataacgaaaaagatctc
+            actaagcctgcggtgctggaagtgattaccccaacgcaggttcgtctgaccatcagcgaa
+            gggcgttatcatcaggtgaaacgcatgttcgccgccgtgggtaaccacgtggttgagctg
+            catcgtgaacgtattggcggtattacgctggatgctgatttagcccccggtgaatatcgt
+            ccgttaactgaagaagaaattgccagcgtcgtctaa
+///

@@ -1,0 +1,42 @@
+ENTRY       b1174             CDS       T00007
+NAME        minE
+DEFINITION  (RefSeq) Z-ring positioning protein MinE
+ORTHOLOGY   K03608  cell division topological specificity factor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b1174 (minE)
+              09183 Protein families: signaling and cellular processes
+               04812 Cytoskeleton proteins [BR:eco04812]
+                b1174 (minE)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Inhibitors of FtsZ assembly
+                b1174 (minE)
+            Cytoskeleton proteins [BR:eco04812]
+             Prokaryotic cytoskeleton proteins
+              MinD / ParA class of bacterial cytoskeletal proteins
+               b1174 (minE)
+POSITION    complement(1224279..1224545)
+MOTIF       Pfam: MinE DUF4364 Spore_III_AF PFam54_60
+DBLINKS     NCBI-GeneID: 945740
+            NCBI-ProteinID: NP_415692
+            Pasteur: minE
+            RegulonDB: ECK120000591
+            ECOCYC: EG10598
+            ASAP: ABE-0003935
+            UniProt: P0A734
+STRUCTURE   PDB: 3R9I 3R9J 1EV0
+AASEQ       88
+            MALLDFFLSRKKNTANIAKERLQIIVAERRRSDAEPHYLPQLRKDILEVICKYVQIDPEM
+            VTVQLEQKDGDISILELNVTLPEAEELK
+NTSEQ       267
+            atggcattactcgatttctttctctcgcggaagaaaaacacagccaacattgcaaaagaa
+            cggctgcagattattgttgctgaacgccgtcgcagcgatgcagaaccgcattatctgccg
+            cagttgcgtaaagatattcttgaggtcatttgtaaatacgtacaaattgatcctgagatg
+            gtaaccgtacagcttgagcaaaaagatggcgatatttctattcttgagctgaacgtgacc
+            ttaccggaagcagaagagctgaaataa
+///

@@ -1,0 +1,48 @@
+ENTRY       b3230             CDS       T00007
+NAME        rpsI
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S9
+ORTHOLOGY   K02996  small subunit ribosomal protein S9
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3230 (rpsI)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3230 (rpsI)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Small subunit
+                b3230 (rpsI)
+              Bacteria
+                b3230 (rpsI)
+              Archaea
+                b3230 (rpsI)
+POSITION    complement(3377815..3378207)
+MOTIF       Pfam: Ribosomal_S9 Flg_hook
+DBLINKS     NCBI-GeneID: 949000
+            NCBI-ProteinID: NP_417697
+            Pasteur: rpsI
+            RegulonDB: ECK120000899
+            ECOCYC: EG10908
+            ASAP: ABE-0010597
+            UniProt: P0A7X3
+STRUCTURE   PDB: 6O7K 5NO2 5NO3 5NO4 5UZ4 5MY1 2YKR 5ME0 5ME1 4ADV 3IY8
+                 4A2I
+AASEQ       130
+            MAENQYYGTGRRKSSAARVFIKPGNGKIVINQRSLEQYFGRETARMVVRQPLELVDMVEK
+            LDLYITVKGGGISGQAGAIRHGITRALMEYDESLRSELRKAGFVTRDARQVERKKVGLRK
+            ARRRPQFSKR
+NTSEQ       393
+            atggctgaaaatcaatactacggcactggtcgccgcaaaagttccgcagctcgcgttttc
+            atcaaaccgggcaacggtaaaatcgtaatcaaccaacgttctctggaacagtacttcggt
+            cgtgaaactgcccgcatggtagttcgtcagccgctggaactggtcgacatggttgagaaa
+            ctggacctgtacatcaccgttaaaggtggtggtatctctggtcaggctggtgcgatccgt
+            cacggtatcacccgcgctctgatggaatacgacgagtccctgcgttctgaactgcgtaaa
+            gctggcttcgttactcgtgacgctcgtcaggttgaacgtaagaaagtcggtctgcgtaaa
+            gcacgtcgtcgtccgcagttctccaaacgttaa
+///

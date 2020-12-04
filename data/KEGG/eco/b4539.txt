@@ -1,0 +1,41 @@
+ENTRY       b4539             CDS       T00007
+NAME        yoeB
+DEFINITION  (RefSeq) ribosome-dependent mRNA interferase toxin YoeB
+ORTHOLOGY   K19158  toxin YoeB [EC:3.1.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4539 (yoeB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 b4539 (yoeB)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               YoeB-YefM
+                b4539 (yoeB)
+POSITION    complement(2089211..2089465)
+MOTIF       Pfam: YoeB_toxin ParE_toxin
+DBLINKS     NCBI-GeneID: 1450274
+            NCBI-ProteinID: YP_588458
+            Pasteur: yoeB
+            RegulonDB: ECK120002629
+            ECOCYC: G0-9121
+            ASAP: ABE-0285060
+            UniProt: P69348
+STRUCTURE   PDB: 2A6S 2A6Q 2A6R 6NY6
+AASEQ       84
+            MKLIWSEESWDDYLYWQETDKRIVKKINELIKDTRRTPFEGKGKPEPLKHNLSGFWSRRI
+            TEEHRLVYAVTDDSLLIAACRYHY
+NTSEQ       255
+            gtgaaactaatctggtctgaggaatcatgggacgattatctgtactggcaggaaacagat
+            aagcgaattgttaaaaagatcaatgaacttatcaaagatacccgcagaacgccatttgaa
+            ggtaaggggaagccagaacccctgaaacataatttgtcaggtttctggtcccgacgcatt
+            acagaggagcaccgtctggtatacgcggttaccgacgattcactgctcattgcagcatgt
+            cgttatcattattga
+///

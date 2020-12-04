@@ -1,0 +1,57 @@
+ENTRY       b0180             CDS       T00007
+NAME        fabZ
+DEFINITION  (RefSeq) 3-hydroxy-acyl-[acyl-carrier-protein] dehydratase
+ORTHOLOGY   K02372  3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00061  Fatty acid biosynthesis
+            eco00780  Biotin metabolism
+            eco01100  Metabolic pathways
+            eco01212  Fatty acid metabolism
+MODULE      eco_M00083  Fatty acid biosynthesis, elongation
+            eco_M00572  Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09103 Lipid metabolism
+               00061 Fatty acid biosynthesis
+                b0180 (fabZ)
+              09108 Metabolism of cofactors and vitamins
+               00780 Biotin metabolism
+                b0180 (fabZ)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01004 Lipid biosynthesis proteins [BR:eco01004]
+                b0180 (fabZ)
+            Enzymes [BR:eco01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.59  3-hydroxyacyl-[acyl-carrier-protein] dehydratase
+                 b0180 (fabZ)
+            Lipid biosynthesis proteins [BR:eco01004]
+             Fatty acid synthase
+              Component type
+               b0180 (fabZ)
+POSITION    202101..202556
+MOTIF       Pfam: FabA 4HBT MaoC_dehydratas PS-DH
+DBLINKS     NCBI-GeneID: 944888
+            NCBI-ProteinID: NP_414722
+            Pasteur: fabZ
+            RegulonDB: ECK120001257
+            ECOCYC: EG11284
+            ASAP: ABE-0000613
+            UniProt: P0A6Q6
+STRUCTURE   PDB: 6N3P
+AASEQ       151
+            MTTNTHTLQIEEILELLPHRFPFLLVDRVLDFEEGRFLRAVKNVSVNEPFFQGHFPGKPI
+            FPGVLILEAMAQATGILAFKSVGKLEPGELYYFAGIDEARFKRPVVPGDQMIMEVTFEKT
+            RRGLTRFKGVALVDGKVVCEATMMCARSREA
+NTSEQ       456
+            ttgactactaacactcatactctgcagattgaagagattttagaacttctgccgcaccgt
+            ttcccgttcttactggtggatcgcgtgctggattttgaagaaggtcgttttctgcgcgca
+            gtaaaaaatgtctctgtcaatgagccattcttccagggccatttccctggaaaaccgatt
+            ttcccgggtgtgctgattctggaagcaatggcacaggcaacaggtattctggcgtttaaa
+            agcgtaggaaaactggaaccgggtgagctgtactacttcgctggtattgacgaagcgcgc
+            ttcaagcgcccggtcgtgcctggcgatcaaatgatcatggaagtcactttcgaaaaaacg
+            cgccgcggcctgacccgttttaaaggggttgctctggtcgatggtaaagtagtttgcgaa
+            gcaacgatgatgtgtgctcgtagccgggaggcctga
+///

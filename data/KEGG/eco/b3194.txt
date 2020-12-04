@@ -1,0 +1,55 @@
+ENTRY       b3194             CDS       T00007
+NAME        mlaE
+DEFINITION  (RefSeq) intermembrane phospholipid transport system, integral membrane subunit MlaE
+ORTHOLOGY   K02066  phospholipid/cholesterol/gamma-HCH transport system permease protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b3194 (mlaE)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3194 (mlaE)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Saccharide, polyol, and lipid transporters
+               gamma-Hexachlorocyclohexane transporter
+                b3194 (mlaE)
+               Phospholipid transporter
+                b3194 (mlaE)
+               Mce system transporter
+                b3194 (mlaE)
+POSITION    complement(3338466..3339248)
+MOTIF       Pfam: MlaE
+DBLINKS     NCBI-GeneID: 947732
+            NCBI-ProteinID: NP_417661
+            Pasteur: yrbE
+            RegulonDB: ECK120002387
+            ECOCYC: EG12800
+            ASAP: ABE-0010495
+            UniProt: P64606
+AASEQ       260
+            MLLNALASLGHKGIKTLRTFGRAGLMLFNALVGKPEFRKHAPLLVRQLYNVGVLSMLIIV
+            VSGVFIGMVLGLQGYLVLTTYSAETSLGMLVALSLLRELGPVVAALLFAGRAGSALTAEI
+            GLMRATEQLSSMEMMAVDPLRRVISPRFWAGVISLPLLTVIFVAVGIWGGSLVGVSWKGI
+            DSGFFWSAMQNAVDWRMDLVNCLIKSVVFAITVTWISLFNGYDAIPTSAGISRATTRTVV
+            HSSLAVLGLDFVLTALMFGN
+NTSEQ       783
+            atgctgttaaatgcgctggcgtcgctcggacataaagggattaaaaccctgagaacgttc
+            gggcgggccgggttaatgttattcaatgcgctggtcggcaaaccggaatttcgcaaacat
+            gcgccgctgctggtgcgccagctctataatgtcggcgtcctgtcgatgctgattattgtg
+            gtttctggcgtgttcatcggaatggtgttggggctgcaaggttatctggttctgaccact
+            tatagtgcggaaaccagtctgggtatgctggtggcgttatcgctactgcgtgaactgggg
+            ccggtggttgccgcgttgttgtttgccgggcgtgctggttcggcgctaaccgcagaaatc
+            ggcctgatgcgcgctacagagcaactctccagtatggagatgatggcggtggatccgctg
+            cgtcgggttatttctccccgtttctgggctggggttatttcattaccactgttgacggtt
+            attttcgtcgccgtggggatctggggcggatctctggtcggcgtcagttggaaaggcatt
+            gatagcgggttcttctggtcggcaatgcaaaatgccgtcgactggcgtatggatctggtc
+            aactgtctgattaagagcgtggtgttcgccatcacggtgacgtggatttcgttgtttaac
+            ggctacgacgccatcccgacgtctgccgggattagccgggcaaccactcgcaccgttgtc
+            cactcgtctctggctgttctggggctggattttgtgctgaccgcattgatgtttgggaat
+            tga
+///

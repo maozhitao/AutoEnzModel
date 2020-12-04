@@ -1,0 +1,34 @@
+ENTRY       b0460             CDS       T00007
+NAME        hha
+DEFINITION  (RefSeq) hemolysin expression modulating protein
+ORTHOLOGY   K05839  haemolysin expression modulating protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b0460 (hha)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               Hha-TomB
+                b0460 (hha)
+POSITION    complement(480090..480308)
+MOTIF       Pfam: HHA
+DBLINKS     NCBI-GeneID: 945098
+            NCBI-ProteinID: NP_414993
+            Pasteur: hha
+            RegulonDB: ECK120000432
+            ECOCYC: EG10439
+            ASAP: ABE-0001594
+            UniProt: P0ACE3
+STRUCTURE   PDB: 2MW2 1JW2
+AASEQ       72
+            MSEKPLTKTDYLMRLRRCQTIDTLERVIEKNKYELSDNELAVFYSAADHRLAELTMNKLY
+            DKIPSSVWKFIR
+NTSEQ       219
+            atgtccgaaaaacctttaacgaaaaccgattatttaatgcgtttacgtcgttgccagaca
+            attgacacgctggagcgtgttatcgagaaaaataaatacgaattatcagataatgaactg
+            gcggtattttactcagccgcagatcaccgcctcgccgaattgaccatgaataaactgtac
+            gacaagatcccttcctcagtatggaaatttattcgctaa
+///

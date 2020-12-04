@@ -1,0 +1,53 @@
+ENTRY       b0694             CDS       T00007
+NAME        kdpE
+DEFINITION  (RefSeq) DNA-binding transcriptional activator KdpE
+ORTHOLOGY   K07667  two-component system, OmpR family, KDP operon response regulator KdpE
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02024  Quorum sensing
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0694 (kdpE)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b0694 (kdpE)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b0694 (kdpE)
+            Two-component system [BR:eco02022]
+             OmpR family
+              KdpD-KdpE (potassium transport)
+               b0694 (kdpE)
+POSITION    complement(721056..721733)
+MOTIF       Pfam: Response_reg Trans_reg_C MarR_2
+DBLINKS     NCBI-GeneID: 945302
+            NCBI-ProteinID: NP_415222
+            Pasteur: kdpE
+            RegulonDB: ECK120000510
+            ECOCYC: EG10517
+            ASAP: ABE-0002366
+            UniProt: P21866
+STRUCTURE   PDB: 1ZH2 4L85 1ZH4 3ZQ7 4KFC 4KNY
+AASEQ       225
+            MTNVLIVEDEQAIRRFLRTALEGDGMRVFEAETLQRGLLEAATRKPDLIILDLGLPDGDG
+            IEFIRDLRQWSAVPVIVLSARSEESDKIAALDAGADDYLSKPFGIGELQARLRVALRRHS
+            ATTAPDPLVKFSDVTVDLAARVIHRGEEEVHLTPIEFRLLAVLLNNAGKVLTQRQLLNQV
+            WGPNAVEHSHYLRIYMGHLRQKLEQDPARPRHFITETGIGYRFML
+NTSEQ       678
+            gtgacaaacgttctgattgttgaagatgaacaggctattcgtcgctttctgcgcacggcg
+            ctggagggcgacgggatgcgcgtctttgaggccgaaacgctgcaacgcggcttgctggaa
+            gcggcaacccgtaagccagatttgattattctcgatctcggcctgcccgatggtgatggg
+            attgagtttatccgcgacctgcgccagtggagcgcggtgccggtgattgtgctttccgca
+            cgcagcgaagagagcgacaaaatcgccgcgctggatgccggagcggatgattatctgagt
+            aagccgtttggcattggcgaattgcaggcccgtctgcgcgtcgcattacgccgccactct
+            gccaccaccgcgcccgatccgctggtaaaattttccgatgttaccgtcgatttagccgcc
+            cgcgtgattcaccggggtgaggaagaggtgcatctcacaccaattgagttccgcctgctg
+            gcggtgctgctcaacaatgccggaaaagtactcacccagcgccagctccttaaccaggtg
+            tgggggccaaacgcggtcgaacacagtcactatttgcgtatttatatgggacatctgcga
+            caaaaactggaacaggatcccgcccgcccacgccatttcattactgaaaccggtattggc
+            tatcggtttatgctttga
+///

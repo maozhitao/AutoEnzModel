@@ -1,0 +1,48 @@
+ENTRY       b1100             CDS       T00007
+NAME        ycfH
+DEFINITION  (RefSeq) putative metal-dependent hydrolase YcfH
+ORTHOLOGY   K03424  TatD DNase family protein [EC:3.1.21.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b1100 (ycfH)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.21  Endodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.21.-  
+                 b1100 (ycfH)
+POSITION    1156777..1157574
+MOTIF       Pfam: TatD_DNase
+DBLINKS     NCBI-GeneID: 945656
+            NCBI-ProteinID: NP_415618
+            Pasteur: ycfH
+            RegulonDB: ECK120002182
+            ECOCYC: EG12303
+            ASAP: ABE-0003719
+            UniProt: P0AFQ7
+STRUCTURE   PDB: 1YIX
+AASEQ       265
+            MFLVDSHCHLDGLDYESLHKDVDDVLAKAAARDVKFCLAVATTLPGYLHMRDLVGERDNV
+            VFSCGVHPLNQNDPYDVEDLRRLAAEEGVVALGETGLDYYYTPETKVRQQESFIHHIQIG
+            RELNKPVIVHTRDARADTLAILREEKVTDCGGVLHCFTEDRETAGKLLDLGFYISFSGIV
+            TFRNAEQLRDAARYVPLDRLLVETDSPYLAPVPHRGKENQPAMVRDVAEYMAVLKGVAVE
+            ELAQVTTDNFARLFHIDASRLQSIR
+NTSEQ       798
+            atgtttttagtcgactcacactgccatctcgatggtctggattatgaatctttgcataag
+            gacgtggatgacgttctggcgaaagccgccgcacgcgatgtgaaattttgtctggcagtc
+            gccacaacattaccgggttatttacatatgcgggatctggtaggcgaacgtgacaacgtc
+            gtattttcttgtggcgtgcatccactcaaccagaatgatccctacgatgtagaagattta
+            cgccgtctggcggcagaagagggtgttgtagcgctgggtgaaaccgggctggattattat
+            tacacgccggaaactaaagtacgtcagcaagagtccttcatccatcatatccagattggt
+            cgtgaactgaacaagccggttatcgtccatacccgtgacgcccgtgccgatacgctggca
+            attctgcgcgaagaaaaagtgacggattgcggtggcgtactacactgttttacagaggac
+            agagaaacggcgggtaaattactggatctcggattttacatctccttttccggcattgtg
+            accttccgtaatgcggagcaactgcgcgatgctgcgcgttatgtccccctggatcggtta
+            ctggtggaaactgactcaccttaccttgcgccggtaccgcatcgaggaaaagagaatcaa
+            cctgcgatggttcgtgacgttgcagaatacatggctgtgttgaaaggtgttgccgttgaa
+            gaactggcgcaggtaaccaccgataacttcgcccgtctgtttcacatcgacgcttcccgc
+            cttcaatccatccgttga
+///

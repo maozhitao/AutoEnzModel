@@ -1,0 +1,45 @@
+ENTRY       b3606             CDS       T00007
+NAME        trmL
+DEFINITION  (RefSeq) tRNA (cytidine/uridine-2'-O)-ribose methyltransferase
+ORTHOLOGY   K03216  tRNA (cytidine/uridine-2'-O-)-methyltransferase [EC:2.1.1.207]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3606 (trmL)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.207  tRNA (cytidine34-2'-O)-methyltransferase
+                 b3606 (trmL)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Methyltransferases
+                b3606 (trmL)
+POSITION    3781215..3781688
+MOTIF       Pfam: SpoU_methylase Malate_DH
+DBLINKS     NCBI-GeneID: 948119
+            NCBI-ProteinID: NP_418063
+            Pasteur: yibK
+            RegulonDB: ECK120001818
+            ECOCYC: EG11888
+            ASAP: ABE-0011790
+            UniProt: P0AGJ7
+STRUCTURE   PDB: 4JAK 4JAL 4KDZ
+AASEQ       157
+            MLNIVLYEPEIPPNTGNIIRLCANTGFRLHIIEPMGFAWDDKRLRRAGLDYHEFTAVTRH
+            HDYRAFLEAENPQRLFALTTKGTPAHSAVSYQDGDYLMFGPETRGLPASILDALPAEQKI
+            RIPMVPDSRSMNLSNAVSVVVYEAWRQLGYPGAVLRD
+NTSEQ       474
+            atgctaaacatcgtactttacgaaccagaaattccgccaaatactggcaacatcatccgt
+            ctttgcgctaataccggctttcgtctgcatatcatcgaaccgatgggatttgcctgggac
+            gataagcgcctgcgccgcgcggggctggactatcacgagtttaccgccgttacgcgtcat
+            catgactatcgcgcgttcctcgaagcagaaaatccccagcgcctgttcgccctcaccacg
+            aaaggtacacctgctcacagcgccgtaagctatcaggatggcgattatctgatgttcggc
+            ccggaaacacgcggcctgccagcgagcattcttgatgccctgcccgctgaacaaaaaatt
+            cgcattccgatggtgccggacagccgcagcatgaatctgtccaatgcggtgtcggtagtg
+            gtgtatgaagcctggcggcagttggggtatccgggagcggtattgagagattag
+///

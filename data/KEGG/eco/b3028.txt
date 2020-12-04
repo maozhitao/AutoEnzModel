@@ -1,0 +1,43 @@
+ENTRY       b3028             CDS       T00007
+NAME        mdaB
+DEFINITION  (RefSeq) NADPH:quinone oxidoreductase MdaB
+ORTHOLOGY   K03923  NADPH dehydrogenase (quinone) [EC:1.6.5.10]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b3028 (mdaB)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.6  Acting on NADH or NADPH
+               1.6.5  With a quinone or similar compound as acceptor
+                1.6.5.10  NADPH dehydrogenase (quinone)
+                 b3028 (mdaB)
+POSITION    3172530..3173111
+MOTIF       Pfam: Flavodoxin_2 FMN_red
+DBLINKS     NCBI-GeneID: 947512
+            NCBI-ProteinID: NP_417500
+            Pasteur: mdaB
+            RegulonDB: ECK120002346
+            ECOCYC: EG12656
+            ASAP: ABE-0009946
+            UniProt: P0AEY5
+STRUCTURE   PDB: 2AMJ 2B3D
+AASEQ       193
+            MSNILIINGAKKFAHSNGQLNDTLTEVADGTLRDLGHDVRIVRADSDYDVKAEVQNFLWA
+            DVVIWQMPGWWMGAPWTVKKYIDDVFTEGHGTLYASDGRTRKDPSKKYGSGGLVQGKKYM
+            LSLTWNAPMEAFTEKDQFFHGVGVDGVYLPFHKANQFLGMEPLPTFIANDVIKMPDVPRY
+            TEEYRKHLVEIFG
+NTSEQ       582
+            atgagcaacatcctgattatcaacggcgcgaaaaaattcgcccactccaatggtcaactg
+            aacgacaccctgaccgaagtcgcggatggcacactgcgcgaccttgggcatgatgtccgc
+            atcgttcgcgccgacagcgactacgatgtcaaagcggaagtacaaaactttctctgggct
+            gatgtggtgatctggcagatgccaggctggtggatgggcgcgccgtggacagtgaaaaaa
+            tacattgatgatgtattcaccgaaggtcacgggacgctgtatgccagcgatggtcgtacc
+            cgcaaagatccgtcgaaaaaatacggttccggcggcctggtacagggcaaaaaatatatg
+            ctttctctgacctggaacgcaccaatggaagccttcaccgaaaaagatcagttcttccac
+            ggcgttggcgttgacggtgtgtatctgccgttccataaagcaaaccaattcctcggtatg
+            gaaccgctgccgacatttatcgctaatgacgtgataaaaatgcctgatgttccccgctat
+            actgaagaatatcgcaagcatcttgtggaaatttttggttaa
+///

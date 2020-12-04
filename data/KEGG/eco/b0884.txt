@@ -1,0 +1,33 @@
+ENTRY       b0884             CDS       T00007
+NAME        infA
+DEFINITION  (RefSeq) translation initiation factor IF-1
+ORTHOLOGY   K02518  translation initiation factor IF-1
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:eco03012]
+                b0884 (infA)
+            Translation factors [BR:eco03012]
+             Prokaryotic type
+              Initiation factors
+               b0884 (infA)
+POSITION    complement(926225..926443)
+MOTIF       Pfam: eIF-1a RsgA_N RNase_II_C_S1 S1
+DBLINKS     NCBI-GeneID: 945500
+            NCBI-ProteinID: NP_415404
+            Pasteur: infA
+            RegulonDB: ECK120000497
+            ECOCYC: EG10504
+            ASAP: ABE-0003005
+            UniProt: P69222
+STRUCTURE   PDB: 1AH9
+AASEQ       72
+            MAKEDNIEMQGTVLETLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVELTPY
+            DLSKGRIVFRSR
+NTSEQ       219
+            atggccaaagaagacaatattgaaatgcaaggtaccgttcttgaaacgttgcctaatacc
+            atgttccgcgtagagttagaaaacggtcacgtggttactgcacacatctccggtaaaatg
+            cgcaaaaactacatccgcatcctgacgggcgacaaagtgactgttgaactgaccccgtac
+            gacctgagcaaaggccgcattgtcttccgtagtcgctga
+///

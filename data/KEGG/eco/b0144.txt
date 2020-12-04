@@ -1,0 +1,62 @@
+ENTRY       b0144             CDS       T00007
+NAME        gluQ
+DEFINITION  (RefSeq) glutamyl-Q tRNA(Asp) synthetase
+ORTHOLOGY   K01894  glutamyl-Q tRNA(Asp) synthetase [EC:6.1.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:eco01007]
+                b0144 (gluQ)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b0144 (gluQ)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.-  
+                 b0144 (gluQ)
+            Amino acid related enzymes [BR:eco01007]
+             Aminoacyl-tRNA synthetase
+              Class I (A)
+               b0144 (gluQ)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                b0144 (gluQ)
+POSITION    complement(159186..160112)
+MOTIF       Pfam: tRNA-synt_1c
+DBLINKS     NCBI-GeneID: 944846
+            NCBI-ProteinID: NP_414686
+            RegulonDB: ECK120001331
+            ECOCYC: EG11362
+            ASAP: ABE-0000497
+            UniProt: P27305
+STRUCTURE   PDB: 1NZJ 4A91
+AASEQ       308
+            MLPPYFLFKEMTDTQYIGRFAPSPSGELHFGSLIAALGSYLQARARQGRWLVRIEDIDPP
+            REVPGAAETILRQLEHYGLHWDGDVLWQSQRHDAYREALAWLHEQGLSYYCTCTRARIQS
+            IGGIYDGHCRVLHHGPDNAAVRIRQQHPVTQFTDQLRGIIHADEKLAREDFIIHRRDGLF
+            AYNLAVVVDDHFQGVTEIVRGADLIEPTVRQISLYQLFGWKVPDYIHLPLALNPQGAKLS
+            KQNHAPALPKGDPRPVLIAALQFLGQQAEAHWQDFSVEQILQSAVKNWRLTAVPESAIVN
+            STFSNASC
+NTSEQ       927
+            atgctcccgccttattttttgttcaaagagatgacagacacacagtatattggccgcttc
+            gccccctctccttccggcgagcttcattttggctctctgatcgccgcgctcggcagctat
+            ttgcaggctcgcgcccggcaaggtcgctggctggtacgcatagaagatatcgacccgcct
+            cgtgaagttcccggtgccgcagaaactatcctgcgccagctggaacattacggtctgcac
+            tgggacggcgatgttctctggcaatcgcaacgtcacgacgcctatcgtgaagcactcgcc
+            tggttacatgaacaaggactaagttattactgcacctgtacgcgtgcgcgtattcaaagc
+            attggcggtatttacgacggtcattgccgggtgttgcatcatggaccagacaacgccgca
+            gtgcgtatccgccagcagcatccggtcacgcaatttactgaccagctgcgcggcattatt
+            cacgccgacgaaaaactggcacgggaagattttatcattcatcgccgtgatgggttgttc
+            gcctacaacctggctgttgtggttgatgatcatttccagggcgttacagaaatagtgcgt
+            ggggctgatctgattgaaccaacagtaaggcaaatctcgctgtaccagctttttggctgg
+            aaagtgccagattacattcatctgccgctggcgcttaatccacaaggcgctaaactttcc
+            aagcagaatcatgcgcctgcgttgccgaaaggcgatccacgcccggtactaatcgcggca
+            cttcaatttctggggcagcaggcagaagcacactggcaggatttcagcgtcgagcaaatc
+            cttcagtcagccgtcaaaaactggcggcttaccgccgtgcccgagtcggcaattgtaaat
+            tcaacattctcaaatgcgtcatgctga
+///

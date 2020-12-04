@@ -1,0 +1,60 @@
+ENTRY       b0015             CDS       T00007
+NAME        dnaJ
+DEFINITION  (RefSeq) chaperone protein DnaJ
+ORTHOLOGY   K03686  molecular chaperone DnaJ
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b0015 (dnaJ)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b0015 (dnaJ)
+            Chaperones and folding catalysts [BR:eco03110]
+             Heat shock proteins
+              HSP40 / DNAJ
+               b0015 (dnaJ)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial protein import machinery
+              Matrix
+               Other matrix factors
+                b0015 (dnaJ)
+POSITION    14168..15298
+MOTIF       Pfam: DnaJ_C DnaJ DnaJ_CXXCXGXG Anti-TRAP DUF5351 Cytochrome_C7 TackOD1
+DBLINKS     NCBI-GeneID: 944753
+            NCBI-ProteinID: NP_414556
+            Pasteur: dnaJ
+            RegulonDB: ECK120000234
+            ECOCYC: EG10240
+            ASAP: ABE-0000054
+            UniProt: P08622
+STRUCTURE   PDB: 5NRO 1EXK 1BQ0 1BQZ 1XBL
+AASEQ       376
+            MAKQDYYEILGVSKTAEEREIRKAYKRLAMKYHPDRNQGDKEAEAKFKEIKEAYEVLTDS
+            QKRAAYDQYGHAAFEQGGMGGGGFGGGADFSDIFGDVFGDIFGGGRGRQRAARGADLRYN
+            MELTLEEAVRGVTKEIRIPTLEECDVCHGSGAKPGTQPQTCPTCHGSGQVQMRQGFFAVQ
+            QTCPHCQGRGTLIKDPCNKCHGHGRVERSKTLSVKIPAGVDTGDRIRLAGEGEAGEHGAP
+            AGDLYVQVQVKQHPIFEREGNNLYCEVPINFAMAALGGEIEVPTLDGRVKLKVPGETQTG
+            KLFRMRGKGVKSVRGGAQGDLLCRVVVETPVGLNERQKQLLQELQESFGGPTGEHNSPRS
+            KSFFDGVKKFFDDLTR
+NTSEQ       1131
+            atggctaagcaagattattacgagattttaggcgtttccaaaacagcggaagagcgtgaa
+            atcagaaaggcctacaaacgcctggccatgaaataccacccggaccgtaaccagggtgac
+            aaagaggccgaggcgaaatttaaagagatcaaggaagcttatgaagttctgaccgactcg
+            caaaaacgtgcggcatacgatcagtatggtcatgctgcgtttgagcaaggtggcatgggc
+            ggcggcggttttggcggcggcgcagacttcagcgatatttttggtgacgttttcggcgat
+            atttttggcggcggacgtggtcgtcaacgtgcggcgcgcggtgctgatttacgctataac
+            atggagctcaccctcgaagaagctgtacgtggcgtgaccaaagagatccgcattccgact
+            ctggaagagtgtgacgtttgccacggtagcggtgcaaaaccaggtacacagccgcagact
+            tgtccgacctgtcatggttctggtcaggtgcagatgcgccagggattcttcgctgtacag
+            cagacctgtccacactgtcagggccgcggtacgctgatcaaagatccgtgcaacaaatgt
+            catggtcatggtcgtgttgagcgcagcaaaacgctgtccgttaaaatcccggcaggggtg
+            gacactggagaccgcatccgtcttgcgggcgaaggtgaagcgggcgagcatggcgcaccg
+            gcaggcgatctgtacgttcaggttcaggttaaacagcacccgattttcgagcgtgaaggc
+            aacaacctgtattgcgaagtcccgatcaacttcgctatggcggcgctgggtggcgaaatc
+            gaagtaccgacccttgatggtcgcgtcaaactgaaagtgcctggcgaaacccagaccggt
+            aagctattccgtatgcgcggtaaaggcgtcaagtctgtccgcggtggcgcacagggtgat
+            ttgctgtgccgcgttgtcgtcgaaacaccggtaggcctgaacgaaaggcagaaacagctg
+            ctgcaagagctgcaagaaagcttcggtggcccaaccggcgagcacaacagcccgcgctca
+            aagagcttctttgatggtgtgaagaagttttttgacgacctgacccgctaa
+///

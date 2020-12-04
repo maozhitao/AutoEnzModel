@@ -1,0 +1,64 @@
+ENTRY       b0053             CDS       T00007
+NAME        surA
+DEFINITION  (RefSeq) peptidyl-prolyl cis-trans isomerase SurA
+ORTHOLOGY   K03771  peptidyl-prolyl cis-trans isomerase SurA [EC:5.2.1.8]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b0053 (surA)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.2  cis-trans-Isomerases
+               5.2.1  cis-trans Isomerases (only sub-subclass identified to date)
+                5.2.1.8  peptidylprolyl isomerase
+                 b0053 (surA)
+            Chaperones and folding catalysts [BR:eco03110]
+             Protein folding catalysts
+              Peptidyl prolyl isomerase
+               Parvulin
+                b0053 (surA)
+POSITION    complement(53416..54702)
+MOTIF       Pfam: Rotamase Rotamase_3 SurA_N Rotamase_2 SurA_N_3 SurA_N_2 Trigger_C DUF503
+DBLINKS     NCBI-GeneID: 944812
+            NCBI-ProteinID: NP_414595
+            Pasteur: surA
+            RegulonDB: ECK120000974
+            ECOCYC: EG10985
+            ASAP: ABE-0000180
+            UniProt: P0ABZ6
+STRUCTURE   PDB: 2PV1 2PV2 1M5Y 2PV3
+AASEQ       428
+            MKNWKTLLLGIAMIANTSFAAPQVVDKVAAVVNNGVVLESDVDGLMQSVKLNAAQARQQL
+            PDDATLRHQIMERLIMDQIILQMGQKMGVKISDEQLDQAIANIAKQNNMTLDQMRSRLAY
+            DGLNYNTYRNQIRKEMIISEVRNNEVRRRITILPQEVESLAQQVGNQNDASTELNLSHIL
+            IPLPENPTSDQVNEAESQARAIVDQARNGADFGKLAIAHSADQQALNGGQMGWGRIQELP
+            GIFAQALSTAKKGDIVGPIRSGVGFHILKVNDLRGESKNISVTEVHARHILLKPSPIMTD
+            EQARVKLEQIAADIKSGKTTFAAAAKEFSQDPGSANQGGDLGWATPDIFDPAFRDALTRL
+            NKGQMSAPVHSSFGWHLIELLDTRNVDKTDAAQKDRAYRMLMNRKFSEEAASWMQEQRAS
+            AYVKILSN
+NTSEQ       1287
+            atgaagaactggaaaacgctgcttctcggtatcgccatgatcgcgaataccagtttcgct
+            gccccccaggtagtcgataaagtcgcagccgtcgtcaataacggcgtcgtgctggaaagc
+            gacgttgatggattaatgcagtcggtaaaactgaacgctgctcaggcaaggcagcaactt
+            cctgatgacgcgacgctgcgccaccaaatcatggaacgtttgatcatggatcaaatcatc
+            ctgcagatggggcagaaaatgggagtgaaaatctccgatgagcagctggatcaggcgatt
+            gctaacatcgcgaaacagaacaacatgacgctggatcagatgcgcagccgtctggcttac
+            gatggactgaactacaacacctatcgtaaccagatccgcaaagagatgattatctctgaa
+            gtgcgtaacaacgaggtgcgtcgtcgcatcaccatcctgccgcaggaagtcgaatccctg
+            gcgcagcaggtgggtaaccaaaacgacgccagcactgagctgaacctgagccacatcctg
+            atcccgctgccggaaaacccgacctctgatcaggtgaacgaagcggaaagccaggcgcgc
+            gccattgtcgatcaggcgcgtaacggcgctgatttcggtaagctggcgattgctcattct
+            gccgaccagcaggcgctgaacggcggccagatgggctggggccgtattcaggagttgccc
+            gggatcttcgcccaggcattaagcaccgcgaagaaaggcgacattgttggcccgattcgt
+            tccggcgttggcttccatattctgaaagttaacgacctgcgcggcgaaagcaaaaatatc
+            tcggtgaccgaagttcatgctcgccatattctgctgaaaccgtcgccgatcatgactgac
+            gaacaggcccgtgtgaaactggaacagattgctgctgatatcaagagtggtaaaacgact
+            tttgctgccgcagcgaaagagttctctcaggatccaggctctgctaaccagggcggcgat
+            ctcggctgggctacaccagatattttcgatccggccttccgtgacgccctgactcgcctg
+            aacaaaggtcaaatgagtgcaccggttcactcttcattcggctggcatttaatcgaactg
+            ctggatacccgtaatgtcgataaaaccgacgctgcgcagaaagatcgtgcataccgcatg
+            ctgatgaaccgtaagttctcggaagaagcagcaagctggatgcaggaacaacgtgccagc
+            gcctacgttaaaatcctgagcaactaa
+///

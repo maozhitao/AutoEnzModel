@@ -1,0 +1,40 @@
+ENTRY       b2698             CDS       T00007
+NAME        recX
+DEFINITION  (RefSeq) RecA inhibitor RecX
+ORTHOLOGY   K03565  regulatory protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2698 (recX)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              TLS (translesion DNA synthesis) factors
+               Other SOS response factors
+                b2698 (recX)
+POSITION    complement(2822139..2822639)
+MOTIF       Pfam: RecX
+DBLINKS     NCBI-GeneID: 947172
+            NCBI-ProteinID: NP_417178
+            Pasteur: oraA
+            RegulonDB: ECK120001986
+            ECOCYC: EG12080
+            ASAP: ABE-0008872
+            UniProt: P33596
+STRUCTURE   PDB: 3C1D
+AASEQ       166
+            MTESTSRRPAYARLLDRAVRILAVRDHSEQELRRKLAAPIMGKNGPEEIDATAEDYERVI
+            AWCHEHGYLDDSRFVARFIASRSRKGYGPARIRQELNQKGISREATEKAMRECDIDWCAL
+            ARDQATRKYGEPLPTVFSEKVKIQRFLLYRGYLMEDIQEIWRNFAD
+NTSEQ       501
+            atgacagaatcaacatcccgtcgcccggcatatgctcgcctgttggatcgtgcggtacgc
+            attctggcggtgcgcgatcacagtgagcaagaactgcgacgtaaactcgcggcaccgatt
+            atgggcaaaaatggcccagaagagattgatgctacggcagaagattacgagcgcgttatt
+            gcctggtgccatgaacatggctatctcgatgacagccgatttgttgcgcgctttatcgcc
+            agccgtagccgcaaaggttatggacctgcgcgtattcgccaggaactgaatcagaaaggt
+            atttcccgcgaagcgacagaaaaagcgatgcgtgaatgtgacatcgactggtgcgcactg
+            gcgcgcgatcaggcgacgcgaaaatatggcgaacctttgccaactgtcttttcagaaaaa
+            gttaagatccagcgttttctgctctatcgtggctatctgatggaagatatccaggagatt
+            tggcgaaattttgccgactga
+///

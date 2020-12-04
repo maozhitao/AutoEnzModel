@@ -1,0 +1,56 @@
+ENTRY       b1000             CDS       T00007
+NAME        cbpA
+DEFINITION  (RefSeq) curved DNA-binding protein
+ORTHOLOGY   K05516  curved DNA-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b1000 (cbpA)
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b1000 (cbpA)
+            Chaperones and folding catalysts [BR:eco03110]
+             Heat shock proteins
+              HSP40 / DNAJ
+               b1000 (cbpA)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Nucleoid associated proteins
+               Other nucreoid associated proteins
+                b1000 (cbpA)
+POSITION    complement(1062855..1063775)
+MOTIF       Pfam: DnaJ_C DnaJ
+DBLINKS     NCBI-GeneID: 947572
+            NCBI-ProteinID: NP_415520
+            Pasteur: cbpA
+            RegulonDB: ECK120002082
+            ECOCYC: EG12193
+            ASAP: ABE-0003379
+            UniProt: P36659
+STRUCTURE   PDB: 3UCS 2KQX
+AASEQ       306
+            MELKDYYAIMGVKPTDDLKTIKTAYRRLARKYHPDVSKEPDAEARFKEVAEAWEVLSDEQ
+            RRAEYDQMWQHRNDPQFNRQFHHGDGQSFNAEDFDDIFSSIFGQHARQSRQRPATRGHDI
+            EIEVAVFLEETLTEHKRTISYNLPVYNAFGMIEQEIPKTLNVKIPAGVGNGQRIRLKGQG
+            TPGENGGPNGDLWLVIHIAPHPLFDIVGQDLEIVVPVSPWEAALGAKVTVPTLKESILLT
+            IPPGSQAGQRLRVKGKGLVSKKQTGDLYAVLKIVMPPKPDENTAALWQQLADAQSSFDPR
+            KDWGKA
+NTSEQ       921
+            atggaattaaaggattattacgccatcatgggcgtgaaaccgacggacgatctcaagaca
+            atcaagaccgcctatcgtcgacttgcccgcaaataccatcctgatgtcagcaaagaaccg
+            gatgccgaagcccgcttcaaagaggtcgctgaagcctgggaagtgttaagtgatgaacaa
+            cgtcgcgctgagtatgatcagatgtggcaacatcgcaacgatccgcaatttaaccgtcag
+            ttccaccatggcgacggtcagagttttaacgccgaagattttgacgatatcttctcgtca
+            attttcggtcagcatgcccgccagagccgtcaacgccccgccacacgcggccacgatatt
+            gaaatcgaagtggcggtattcctcgaagaaacgcttactgagcataagcgtaccatcagc
+            tataacctgccggtttataacgcctttggcatgatcgaacaggaaattccgaaaacgctg
+            aatgtgaagatcccggcgggcgtcggcaatggtcaacgcatccgtctgaaaggccagggg
+            acgccgggcgaaaacggcggtccaaatggcgatttgtggctggtgattcatattgcgcca
+            catccgctgtttgatattgtcggccaggatctggaaattgtggtgccggttagcccgtgg
+            gaagcggcgctgggtgctaaagtcaccgttccaacactgaaagaaagcattttgctgact
+            atcccgccaggcagccaggccgggcaacgattgcgcgttaaaggcaaaggtctggtgagc
+            aaaaaacagaccggcgatctgtatgcggtactgaaaatcgtgatgccgccgaaaccggat
+            gaaaacactgccgcgctgtggcagcaactggcagacgcccagtcgtcttttgatccacgt
+            aaagattgggggaaagcataa
+///

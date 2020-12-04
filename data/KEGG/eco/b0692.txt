@@ -1,0 +1,56 @@
+ENTRY       b0692             CDS       T00007
+NAME        potE
+DEFINITION  (RefSeq) putrescine:H(+) symporter/putrescine:ornithine antiporter PotE
+ORTHOLOGY   K03756  putrescine:ornithine antiporter
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0692 (potE)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b0692 (potE)
+POSITION    complement(716946..718265)
+MOTIF       Pfam: AA_permease_2 AA_permease
+DBLINKS     NCBI-GeneID: 945422
+            NCBI-ProteinID: NP_415219
+            Pasteur: potE
+            RegulonDB: ECK120000744
+            ECOCYC: EG10753
+            ASAP: ABE-0002360
+            UniProt: P0AAF1
+AASEQ       439
+            MSQAKSNKMGVVQLTILTMVNMMGSGIIMLPTKLAEVGTISIISWLVTAVGSMALAWAFA
+            KCGMFSRKSGGMGGYAEYAFGKSGNFMANYTYGVSLLIANVAIAISAVGYGTELLGASLS
+            PVQIGLATIGVLWICTVANFGGARITGQISSITVWGVIIPVVGLCIIGWFWFSPTLYVDS
+            WNPHHAPFFSAVGSSIAMTLWAFLGLESACANTDVVENPERNVPIAVLGGTLGAAVIYIV
+            STNVIAGIVPNMELANSTAPFGLAFAQMFTPEVGKVIMALMVMSCCGSLLGWQFTIAQVF
+            KSSSDEGYFPKIFSRVTKVDAPVQGMLTIVIIQSGLALMTISPSLNSQFNVLVNLAVVTN
+            IIPYILSMAALVIIQKVANVPPSKAKVANFVAFVGAMYSFYALYSSGEEAMLYGSIVTFL
+            GWTLYGLVSPRFELKNKHG
+NTSEQ       1320
+            atgagtcaggctaaatcgaacaaaatgggcgtcgttcagttaaccatactgacgatggtc
+            aacatgatgggctccggtatcatcatgctgccgacaaagcttgccgaagtcgggacaatc
+            tcaattatctcctggctggtgacagccgtaggctcaatggcactggcatgggcattcgca
+            aaatgcggtatgttcagccgtaaatcaggcggtatgggcggttatgccgagtatgctttc
+            ggtaaatccggtaactttatggcgaactatacctacggcgtctcactgctgattgctaac
+            gtcgcgattgctatttcggcggttggttacggcaccgaactgctcggcgcgagtttgtcg
+            ccagtgcagattggtcttgcgaccatcggggtgctgtggatttgtaccgtggctaacttt
+            ggtggtgcgcgcattaccgggcaaatcagtagcattaccgtgtggggggtcattattccg
+            gtcgtcggtctgtgcattattggctggttctggtttagcccgacgctgtacgttgattcc
+            tggaatccgcatcatgcaccgttcttcagtgcggtaggttcttccatcgctatgacgctg
+            tgggcttttcttggtctggagtctgcgtgtgcgaatactgatgtagtggaaaacccggaa
+            cgtaatgtgccaatcgcggtactcggcggtacgttaggtgcggcggtgatttatatcgtc
+            tccaccaacgtgattgccgggattgtgccaaatatggagctggcaaattcaacggcacca
+            tttggtctggccttcgcgcagatgttcacgccggaagtgggtaaagtcattatggcgctg
+            atggtgatgtcctgctgcggttcgctacttggctggcagttcaccattgcccaggtgttt
+            aaatcttcatctgatgaaggctacttccctaaaattttctcccgtgtaaccaaagtggat
+            gcaccggtgcagggaatgttgaccattgtgattattcagagtggattggcactgatgacc
+            attagcccgtcgctaaacagtcagttcaacgtgctggttaacctggccgtggtgaccaat
+            atcattccgtatattctgtcaatggcggcattagtcattattcagaaggtcgctaatgtg
+            cccccctcaaaagcgaaagttgcaaactttgttgcttttgttggcgcgatgtatagcttt
+            tatgcgctgtactcatccggggaagaagccatgctgtacggttccatcgtgaccttcctt
+            ggttggacactgtatggtctggtatcaccacgctttgaactgaaaaataaacacggttaa
+///

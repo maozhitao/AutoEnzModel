@@ -1,0 +1,78 @@
+ENTRY       b1286             CDS       T00007
+NAME        rnb
+DEFINITION  (RefSeq) RNase II
+ORTHOLOGY   K01147  exoribonuclease II [EC:3.1.13.1]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b1286 (rnb)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.13  Exoribonucleases producing 5'-phosphomonoesters
+                3.1.13.1  exoribonuclease II
+                 b1286 (rnb)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              3'processing and CCA adding factors
+               3'processing factors
+                b1286 (rnb)
+POSITION    complement(1346978..1348912)
+MOTIF       Pfam: RNB OB_RNB S1 CSD2 OSR1_C PilZ
+DBLINKS     NCBI-GeneID: 945864
+            NCBI-ProteinID: NP_415802
+            Pasteur: rnb
+            RegulonDB: ECK120001568
+            ECOCYC: EG11620
+            ASAP: ABE-0004320
+            UniProt: P30850
+STRUCTURE   PDB: 2ID0 2IX0 2IX1
+AASEQ       644
+            MFQDNPLLAQLKQQLHSQTPRAEGVVKATEKGFGFLEVDAQKSYFIPPPQMKKVMHGDRI
+            IAVIHSEKERESAEPEELVEPFLTRFVGKVQGKNDRLAIVPDHPLLKDAIPCRAARGLNH
+            EFKEGDWAVAEMRRHPLKGDRSFYAELTQYITFGDDHFVPWWVTLARHNLEKEAPDGVAT
+            EMLDEGLVREDLTALDFVTIDSASTEDMDDALFAKALPDDKLQLIVAIADPTAWIAEGSK
+            LDKAAKIRAFTNYLPGFNIPMLPRELSDDLCSLRANEVRPVLACRMTLSADGTIEDNIEF
+            FAATIESKAKLVYDQVSDWLENTGDWQPESEAIAEQVRLLAQICQRRGEWRHNHALVFKD
+            RPDYRFILGEKGEVLDIVAEPRRIANRIVEEAMIAANICAARVLRDKLGFGIYNVHMGFD
+            PANADALAALLKTHGLHVDAEEVLTLDGFCKLRRELDAQPTGFLDSRIRRFQSFAEISTE
+            PGPHFGLGLEAYATWTSPIRKYGDMINHRLLKAVIKGETATRPQDEITVQMAERRRLNRM
+            AERDVGDWLYARFLKDKAGTDTRFAAEIVDISRGGMRVRLVDNGAIAFIPAPFLHAVRDE
+            LVCSQENGTVQIKGETVYKVTDVIDVTIAEVRMETRSIIARPVA
+NTSEQ       1935
+            atgtttcaggacaacccgctgctagcgcagcttaaacagcaactgcattcccagacgcca
+            cgcgctgaaggggtggtaaaagccacagaaaaaggctttggcttcctggaagtcgacgcg
+            caaaaaagttatttcattccgccgccgcagatgaaaaaagtcatgcatggcgaccgaatt
+            atcgcggtgatccacagtgaaaaagaacgtgaatccgcagagccagaagaactggttgaa
+            ccgttcctgactcgtttcgtgggtaaggttcagggcaaaaatgaccgtctggccatcgtt
+            cctgatcatccactcttaaaagacgccattccttgccgcgcagcccgtggcctgaaccac
+            gagtttaaagaaggcgactgggcggttgccgaaatgcgccgtcatccgctgaaaggcgat
+            cgttctttctatgcagaactgacacaatacatcacttttggtgacgatcactttgtaccg
+            tggtgggttacccttgcacgccataatctggaaaaagaagcaccagacggcgtcgctacc
+            gaaatgctcgatgaaggtctggttcgtgaagatctgaccgcgctggattttgtcaccatc
+            gacagtgccagcacagaagatatggatgacgcccttttcgctaaggcgttgccggatgac
+            aaacttcagctgattgtggcgattgccgatccaaccgcgtggattgctgaaggcagcaag
+            ctggacaaagccgcgaaaattcgcgcattcaccaactatctgcctggcttcaacatccct
+            atgctgcctcgcgagctttctgacgatctctgctcactgcgcgccaatgaagtccgcccg
+            gtactggcatgccgcatgacgctctccgctgatggcaccattgaagataatatcgaattc
+            tttgccgccaccatcgaatccaaagcaaagctggtgtatgaccaggtttctgactggctg
+            gaaaataccggtgactggcagcctgaaagtgaagcaattgccgaacaagtccgtttgcta
+            gcgcaaatttgccaacgccgcggcgagtggcgtcataaccacgcactggtgtttaaagat
+            cgcccggattaccgctttattctcggtgaaaaaggtgaagtgctggatatcgtcgccgag
+            cctcgtcgcattgccaaccgtatcgtcgaagaagcgatgattgccgctaacatttgtgcg
+            gcccgcgtactgcgcgataagctcggttttggcatctataacgtgcatatgggctttgat
+            ccggcgaatgccgacgcgctggcagcgttgctgaaaacgcacggtctgcatgtcgatgcc
+            gaagaagtgctcacgctggacggtttctgcaaactgcgtcgtgaactggacgcgcaacca
+            actggtttcctcgacagccgcattcgtcgcttccagtcatttgctgaaattagcactgaa
+            cccggtcctcactttggcctcggtctggaagcatacgccacctggacttcgccgatccgt
+            aaatatggcgacatgatcaaccaccgtctgctgaaagcggttatcaaaggcgaaactgcg
+            acgcgcccacaggatgaaatcactgtccaaatggccgagcgtcgccgtctcaaccggatg
+            gcagaacgtgatgttggtgactggttatacgcacgcttcctgaaagacaaagccgggacc
+            gacacccgtttcgcagcggaaattgtcgatatcagccgtggcggcatgcgtgttcgtttg
+            gttgataacggcgctatcgcctttattccggcacctttcttacacgctgtgcgcgatgaa
+            ctggtttgcagccaggaaaacggcactgtacaaattaaaggtgaaacggtttacaaagtg
+            actgacgttattgacgtcactattgccgaagtccgcatggaaacccgcagcattattgcg
+            cgcccggtcgcgtaa
+///

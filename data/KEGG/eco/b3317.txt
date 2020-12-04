@@ -1,0 +1,58 @@
+ENTRY       b3317             CDS       T00007
+NAME        rplB
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L2
+ORTHOLOGY   K02886  large subunit ribosomal protein L2
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3317 (rplB)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3317 (rplB)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b3317 (rplB)
+              Bacteria
+                b3317 (rplB)
+              Archaea
+                b3317 (rplB)
+POSITION    complement(3450543..3451364)
+MOTIF       Pfam: Ribosomal_L2_C Ribosomal_L2 GFO_IDH_MocA_C
+DBLINKS     NCBI-GeneID: 947820
+            NCBI-ProteinID: NP_417776
+            Pasteur: rplB
+            RegulonDB: ECK120000856
+            ECOCYC: EG10865
+            ASAP: ABE-0010854
+            UniProt: P60422
+STRUCTURE   PDB: 6QUL 6S0K 6C4H 6I0Y 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH
+                 4UY8 3J7Z 6GC4 6GC6 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L 2J28
+                 2RDO 3BBX
+AASEQ       273
+            MAVVKCKPTSPGRRHVVKVVNPELHKGKPFAPLLEKNSKSGGRNNNGRITTRHIGGGHKQ
+            AYRIVDFKRNKDGIPAVVERLEYDPNRSANIALVLYKDGERRYILAPKGLKAGDQIQSGV
+            DAAIKPGNTLPMRNIPVGSTVHNVEMKPGKGGQLARSAGTYVQIVARDGAYVTLRLRSGE
+            MRKVEADCRATLGEVGNAEHMLRVLGKAGAARWRGVRPTVRGTAMNPVDHPHGGGEGRNF
+            GKHPVTPWGVQTKGKKTRSNKRTDKFIVRRRSK
+NTSEQ       822
+            atggcagttgttaaatgtaaaccgacatctccgggtcgtcgccacgtagttaaagtggtt
+            aaccctgagctgcacaagggcaaaccttttgctccgttgctggaaaaaaacagcaaatcc
+            ggtggtcgtaacaacaatggccgtatcaccactcgtcatatcggtggtggccacaagcag
+            gcttaccgtattgttgacttcaaacgcaacaaagacggtatcccggcagttgttgaacgt
+            cttgagtacgatccgaaccgttccgcgaacatcgcgctggttctgtacaaagacggtgaa
+            cgccgttacatcctggcccctaaaggcctgaaagctggcgaccagattcagtctggcgtt
+            gatgctgcaatcaaaccaggtaacaccctgccgatgcgcaacatcccggttggttctact
+            gttcataacgtagaaatgaaaccaggtaaaggcggtcagctggcacgttccgctggtact
+            tacgttcagatcgttgctcgtgatggtgcttatgtcaccctgcgtctgcgttctggtgaa
+            atgcgtaaagtagaagcagactgccgtgcaactctgggcgaagttggcaatgctgagcat
+            atgctgcgcgttctgggtaaagcaggtgctgcacgctggcgtggtgttcgtccgaccgtt
+            cgcggtaccgcgatgaacccggtagaccacccacatggtggtggtgaaggtcgtaacttt
+            ggtaagcacccggtaactccgtggggcgttcagaccaaaggtaagaagacccgcagcaac
+            aagcgtactgataaattcatcgtacgtcgccgtagcaaataa
+///

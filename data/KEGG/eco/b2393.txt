@@ -1,0 +1,54 @@
+ENTRY       b2393             CDS       T00007
+NAME        nupC
+DEFINITION  (RefSeq) nucleoside:H(+) symporter NupC
+ORTHOLOGY   K11535  nucleoside transport protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2393 (nupC)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b2393 (nupC)
+POSITION    2513042..2514244
+MOTIF       Pfam: Nucleos_tra2_C Nucleos_tra2_N Gate
+DBLINKS     NCBI-GeneID: 946895
+            NCBI-ProteinID: NP_416894
+            Pasteur: nupC
+            RegulonDB: ECK120001896
+            ECOCYC: EG11971
+            ASAP: ABE-0007893
+            UniProt: P0AFF2
+AASEQ       400
+            MDRVLHFVLALAVVAILALLVSSDRKKIRIRYVIQLLVIEVLLAWFFLNSDVGLGFVKGF
+            SEMFEKLLGFANEGTNFVFGSMNDQGLAFFFLKVLCPIVFISALIGILQHIRVLPVIIRA
+            IGFLLSKVNGMGKLESFNAVSSLILGQSENFIAYKDILGKISRNRMYTMAATAMSTVSMS
+            IVGAYMTMLEPKYVVAALVLNMFSTFIVLSLINPYRVDASEENIQMSNLHEGQSFFEMLG
+            EYILAGFKVAIIVAAMLIGFIALIAALNALFATVTGWFGYSISFQGILGYIFYPIAWVMG
+            VPSSEALQVGSIMATKLVSNEFVAMMDLQKIASTLSPRAEGIISVFLVSFANFSSIGIIA
+            GAVKGLNEEQGNVVSRFGLKLVYGSTLVSVLSASIAALVL
+NTSEQ       1203
+            atggaccgcgtccttcattttgtactggcacttgccgttgttgcgattctcgcactgctg
+            gtaagcagcgaccgcaaaaaaattcgtatccgttatgttattcaactgcttgttatcgaa
+            gtgttactggcgtggttcttcctgaactccgacgttggtttaggcttcgtgaaaggcttc
+            tccgaaatgttcgaaaaactgctcggatttgccaacgaagggactaacttcgtctttggt
+            agcatgaatgatcaaggcctggcattcttcttcctgaaagtgctgtgcccaatcgtcttt
+            atctctgcactgatcggtattctccagcacattcgcgtgttgccggtgatcatccgcgca
+            attggtttcctgctctccaaagtcaacggcatgggcaaactggaatcctttaacgccgtc
+            agctccctgattctgggtcagtctgaaaactttattgcctataaagatatcctcggcaaa
+            atctcccgtaatcgtatgtacaccatggctgccacggcaatgtccaccgtgtcgatgtcc
+            atcgttggtgcatacatgaccatgctggaaccgaaatacgtcgttgctgcgctggtactg
+            aacatgttcagcacctttatcgtgctgtcgctgatcaatccttaccgtgttgatgccagt
+            gaagaaaacatccagatgtccaacctgcacgaaggtcagagcttcttcgaaatgctgggt
+            gaatacattctggcaggtttcaaagttgccattatcgttgccgcgatgctgattggcttt
+            atcgccctgatcgccgcgctgaacgcactgtttgccaccgttactggctggtttggctac
+            agcatctccttccagggcatcctgggctacatcttctatccgattgcatgggtgatgggt
+            gttccttccagtgaagcactgcaagtgggcagtatcatggcgaccaaactggtttccaac
+            gagttcgttgcgatgatggatctgcagaaaattgcttccacgctctctccgcgtgctgaa
+            ggcatcatctctgtgttcctggtttccttcgctaacttctcttcaatcgggattatcgca
+            ggtgcagttaaaggcctgaatgaagagcaaggtaacgtggtttctcgcttcggtctgaag
+            ctggtttacggctctaccctggtgagtgtgctgtctgcgtcaatcgcagcactggtgctg
+            taa
+///

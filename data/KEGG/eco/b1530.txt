@@ -1,0 +1,38 @@
+ENTRY       b1530             CDS       T00007
+NAME        marR
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor MarR
+ORTHOLOGY   K03712  MarR family transcriptional regulator, multiple antibiotic resistance protein MarR
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1530 (marR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               MarR family
+                b1530 (marR)
+POSITION    1619120..1619554
+MOTIF       Pfam: MarR MarR_2 HTH_27 HTH_24 TrmB FeoC HNH_5 AbiEi_4
+DBLINKS     NCBI-GeneID: 945825
+            NCBI-ProteinID: NP_416047
+            RegulonDB: ECK120001399
+            ECOCYC: EG11435
+            ASAP: ABE-0005110
+            UniProt: P27245
+STRUCTURE   PDB: 1JGS 4JBA 3VOD 3VOE 3VB2 5H3R
+AASEQ       144
+            MKSTSDLFNEIIPLGRLIHMVNQKKDRLLNEYLSPLDITAAQFKVLCSIRCAACITPVEL
+            KKVLSVDLGALTRMLDRLVCKGWVERLPNPNDKRGVLVKLTTGGAAICEQCHQLVGQDLH
+            QELTKNLTADEVATLEYLLKKVLP
+NTSEQ       435
+            gtgaaaagtaccagcgatctgttcaatgaaattattccattgggtcgcttaatccatatg
+            gttaatcagaagaaagatcgcctgcttaacgagtatctgtctccgctggatattaccgcg
+            gcacagtttaaggtgctctgctctatccgctgcgcggcgtgtattactccggttgaactg
+            aaaaaggtattgtcggtcgacctgggagcactgacccgtatgctggatcgcctggtctgt
+            aaaggctgggtggaaaggttgccgaacccgaatgacaagcgcggcgtactggtaaaactt
+            accaccggcggcgcggcaatatgtgaacaatgccatcaattagttggccaggacctgcac
+            caagaattaacaaaaaacctgacggcggacgaagtggcaacacttgagtatttgcttaag
+            aaagtcctgccgtaa
+///

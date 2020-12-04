@@ -1,0 +1,58 @@
+ENTRY       b1916             CDS       T00007
+NAME        sdiA
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator SdiA
+ORTHOLOGY   K07782  LuxR family transcriptional regulator, quorum-sensing system regulator SdiA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02024  Quorum sensing
+            eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1916 (sdiA)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b1916 (sdiA)
+               02026 Biofilm formation - Escherichia coli
+                b1916 (sdiA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1916 (sdiA)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               LuxR family
+                b1916 (sdiA)
+POSITION    complement(1996110..1996832)
+MOTIF       Pfam: Autoind_bind GerE Sigma70_r4_2 HTH_20 HTH_38 Sigma70_r4 HTH_10
+DBLINKS     NCBI-GeneID: 946421
+            NCBI-ProteinID: NP_416426
+            Pasteur: sdiA
+            RegulonDB: ECK120000924
+            ECOCYC: EG10935
+            ASAP: ABE-0006381
+            UniProt: P07026
+STRUCTURE   PDB: 4LFU 4LGW 4Y15 4Y17 4Y13 2AVX
+AASEQ       240
+            MQDKDFFSWRRTMLLRFQRMETAEEVYHEIELQAQQLEYDYYSLCVRHPVPFTRPKVAFY
+            TNYPEAWVSYYQAKNFLAIDPVLNPENFSQGHLMWNDDLFSEAQPLWEAARAHGLRRGVT
+            QYLMLPNRALGFLSFSRCSAREIPILSDELQLKMQLLVRESLMALMRLNDEIVMTPEMNF
+            SKREKEILRWTAEGKTSAEIAMILSISENTVNFHQKNMQKKINAPNKTQVACYAAATGLI
+NTSEQ       723
+            atgcaggataaggattttttcagctggcgtcgcacgatgctgttgcgttttcagaggatg
+            gagaccgcagaagaggtctaccatgaaattgagcttcaggctcagcagctggagtacgat
+            tactattcgttatgtgtccgccacccggtaccattcactcgacctaaagtggctttttac
+            accaattaccctgaggcgtgggttagttattatcaggcaaaaaactttctcgcaattgat
+            ccggtgctgaaccctgaaaactttagtcagggccatttaatgtggaatgatgacttattc
+            agcgaagcacagccgttatgggaagccgcgcgcgcacatggtttacgccgcggtgtcact
+            cagtatttaatgctgccaaaccgggcgctgggctttttgtccttttcccgttgcagcgcg
+            cgcgaaatacccattcttagtgatgaactgcaattaaaaatgcagttactggtgcgcgaa
+            agtctgatggctctgatgcgtttaaatgatgaaatagtgatgacgccagagatgaatttc
+            agcaagcgcgaaaaagaaattctgaggtggacggcggaagggaaaacatcagcagagata
+            gcgatgattttgtcaatctctgagaatacggtcaatttccaccagaaaaacatgcagaaa
+            aaaattaatgcaccaaataagacccaggttgcctgttacgcggccgctactggcttaatt
+            tga
+///

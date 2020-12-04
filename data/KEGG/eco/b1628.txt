@@ -1,0 +1,42 @@
+ENTRY       b1628             CDS       T00007
+NAME        rsxB
+DEFINITION  (RefSeq) SoxR [2Fe-2S] reducing system protein RsxB
+ORTHOLOGY   K03616  Na+-translocating ferredoxin:NAD+ oxidoreductase subunit B [EC:7.2.1.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b1628 (rsxB)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.2  Catalysing the translocation of inorganic cations
+               7.2.1  Linked to oxidoreductase reactions
+                7.2.1.2  ferredoxin---NAD+ oxidoreductase (Na+-transporting)
+                 b1628 (rsxB)
+POSITION    1706348..1706926
+MOTIF       Pfam: Fer4_21 Fer4 FeS Fer4_7 Fer4_16 Fer4_9 Fer4_2 Fer4_6 Fer4_10 Fer4_17 Fer4_3 Fer4_22 Fer4_4 Fer4_13 Fer4_15
+DBLINKS     NCBI-GeneID: 946146
+            NCBI-ProteinID: NP_416145
+            Pasteur: ydgM
+            RegulonDB: ECK120003461
+            ECOCYC: G6872
+            ASAP: ABE-0005452
+            UniProt: P77223
+AASEQ       192
+            MNAIWIAVAAVSLLGLAFGAILGYASRRFAVEDDPVVEKIDEILPQSQCGQCGYPGCRPY
+            AEAISCNGEKINRCAPGGEAVMLKIAELLNVEPQPLDGEAQEITPARMVAVIDENNCIGC
+            TKCIQACPVDAIVGATRAMHTVMSDLCTGCNLCVDPCPTHCISLQPVAETPDSWKWDLNT
+            IPVRIIPVEHHA
+NTSEQ       579
+            atgaatgctatctggattgccgttgccgccgtgagcctgctgggcctggcgtttggcgcc
+            attctgggttatgcctcccgccgttttgcggtggaagacgatccggtcgttgagaaaatt
+            gacgaaatcttaccgcagagccagtgtggtcagtgcggttatcccggctgtcgcccctac
+            gcggaagccatcagctgtaacggtgaaaaaatcaaccgttgcgccccaggtggcgaagct
+            gtgatgctaaaaattgccgagttgcttaatgtcgagccgcagccgctggatggcgaagcg
+            caagagataacgcctgcgcggatggtggcggttattgatgaaaataactgtattggctgc
+            actaaatgtattcaggcgtgtccggtagacgccatcgttggcgctacccgtgccatgcat
+            acggtaatgagtgatctctgtacgggctgcaatttatgtgttgatccgtgcccgacgcac
+            tgcatctcgttgcaaccggtcgcagaaacacctgactcctggaaatgggatctgaacacc
+            attcccgtgcgtatcattcccgtggaacaccatgcttaa
+///

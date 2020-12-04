@@ -1,0 +1,56 @@
+ENTRY       b4476             CDS       T00007
+NAME        gntU
+DEFINITION  (RefSeq) low-affinity gluconate transporter
+ORTHOLOGY   K06156  Gnt-I system low-affinity gluconate transporter
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b4476 (gntU)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b4476 (gntU)
+POSITION    complement(3575721..3577061)
+MOTIF       Pfam: GntP_permease CitMHS Na_H_antiport_2
+DBLINKS     NCBI-GeneID: 2847760
+            NCBI-ProteinID: YP_026221
+            RegulonDB: ECK120002343
+            ECOCYC: EG12631
+            ASAP: ABE-0174105
+            UniProt: P0AC96
+AASEQ       446
+            MTTLTLVLTAVGSVLLLLFLVMKARMHAFLALMVVSMGAGLFSGMPLDKIAATMEKGMGG
+            TLGFLAVVVALGAMFGKILHETGAVDQIAVKMLKSFGHSRAHYAIGLAGLVCALPLFFEV
+            AIVLLISVAFSMARHTGTNLVKLVIPLFAGVAAAAAFLVPGPAPMLLASQMNADFGWMIL
+            IGLCAAIPGMIIAGPLWGNFISRYVELHIPDDISEPHLGEGKMPSFGFSLSLILLPLVLV
+            GLKTIAARFVPEGSTAYEWFEFIGHPFTAILVACLVAIYGLAMRQGMPKDKVMEICGHAL
+            QPAGIILLVIGAGGVFKQVLVDSGVGPALGEALTGMGLPIAITCFVLAAAVRIIQGSATV
+            ACLTAVGLVMPVIEQLNYSGAQMAALSICIAGGSIVVSHVNDAGFWLFGKFTGATEAETL
+            KTWTMMETILGTVGAIVGMIAFQLLS
+NTSEQ       1341
+            gtgactacattaacgcttgttttaacagcagtagggtctgttttactgctgctgttttta
+            gtcatgaaggcgcgtatgcacgctttcctggctttaatggtggtgtccatgggggctggc
+            cttttttctggtatgccgctcgataaaatcgcagcgacgatggaaaaagggatgggaggc
+            accctcggcttcctggcggtggttgtcgccctgggagctatgtttggcaagatcttacat
+            gaaaccggcgcagtcgatcagattgccgtcaaaatgctcaaatccttcggtcacagccgc
+            gcgcattatgccatcggccttgcggggctggtctgtgcgctaccgctgttctttgaagtg
+            gcgatagttctgctgattagcgttgctttctcaatggcgcgccacaccggtacgaacctg
+            gtgaagctggtaatcccattatttgcaggcgtggcggcagcggcggcatttctggtgcct
+            ggaccagcgccgatgctgctggcatcgcagatgaatgccgactttggctggatgatcctg
+            attggcctgtgtgcggcaattccgggaatgattattgccgggccgctgtggggtaacttc
+            atcagccgttacgttgagctgcatattcctgacgacatcagcgaaccgcatctcggcgaa
+            ggcaaaatgccatctttcggattcagcctgtcgctgatcctgctgccgctggtgctggta
+            gggctgaaaaccattgccgcgcgttttgtgccggaaggatcaactgcttacgaatggttt
+            gagtttatcggtcatccgtttaccgcgattctggttgcttgtctggtggcgatttacggt
+            ctggcaatgcgtcagggcatgccaaaagacaaagtgatggagatttgcggtcacgcgctg
+            caaccggcggggatcattctgctggtgattggtgcgggcggcgtgttcaaacaggtgctg
+            gttgactctggcgtaggtccggcactgggcgaagcgttaaccggcatgggcctgccgatt
+            gctatcacctgcttcgtgctggcagctgcagtgcgcatcattcagggttctgccaccgta
+            gcctgtttaacggcggtaggactggtgatgccggttattgaacaactgaactactccggt
+            gcgcaaatggcggcgctgtcgatttgtatcgctggtggttcgattgttgtcagccacgtt
+            aacgacgccggtttctggttgttcggtaaatttaccggcgcgaccgaagccgaaacgctg
+            aaaacctggaccatgatggaaaccatcctcggcactgtcggtgccatcgttgggatgatt
+            gcgttccagctgttgagttaa
+///

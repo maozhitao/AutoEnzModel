@@ -1,0 +1,64 @@
+ENTRY       b1815             CDS       T00007
+NAME        pdeD
+DEFINITION  (RefSeq) putative c-di-GMP phosphodiesterase PdeD
+ORTHOLOGY   K21090  c-di-GMP phosphodiesterase [EC:3.1.4.52]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b1815 (pdeD)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.4  Phosphoric-diester hydrolases
+                3.1.4.52  cyclic-guanylate-specific phosphodiesterase
+                 b1815 (pdeD)
+POSITION    1898427..1900025
+MOTIF       Pfam: EAL CSS-motif MSC
+DBLINKS     NCBI-GeneID: 946336
+            NCBI-ProteinID: NP_416329
+            Pasteur: yoaD
+            RegulonDB: ECK120003583
+            ASAP: ABE-0006043
+            UniProt: P76261
+AASEQ       532
+            MQKAQRIIKTYRRNRMIVCTICALVTLASTLSVRFISQRNLNQQRVVQFANHAVEELDKV
+            LLPLQAGSEVLLPLIGLPCSVAHLPLRKQAAKLQTVRSIGLVQDGTLYCSSIFGYRNVPV
+            VDILAELPAPQPLLRLTIDRALIKGSPVLIQWTPAAGSSNAGVMEMINIDLLTAMLLEPQ
+            LPQISSASLTVDKRHLLYGNGLVDSLPQPEDNENYQVSSQRFPFTINVNGPGATALAWHY
+            LPTQLPLAVLLSLLVGYIAWLATAYRMSFSREINLGLAQHEFELFCQPLLNARSQQCIGV
+            EILLRWNNPRQGWISPDVFIPIAEEHHLIVPLTRYVMAETIRQRHVFPMSSQFHVGINVA
+            PSHFRRGVLIKDLNQYWFSAHPIQQLILEITERDALLDVDYRIARELHRKNVKLAIDDFG
+            TGNSSFSWLETLRPDVLKIDKSFTAAIGSDAVNSTVTDIIIALGQRLNIELVAEGVETQE
+            QAKYLRRHGVHILQGYLYAQPMPLRDFPKWLAGSQPPPARHNGHITPIMPLR
+NTSEQ       1599
+            atgcaaaaagcacaacggatcattaaaacctatcgtcgtaatcgaatgattgtttgtacg
+            atttgcgcactcgttacgctcgcttcgaccctgagcgtgcgatttatttcacagcgtaac
+            ttaaatcaacaacgggtagtacaattcgccaatcacgctgtagaggaattagataaagta
+            ctgcttcccctacaggcaggtagcgaagtcttgcttccgctgattggtctgccctgctct
+            gtcgcccatttgccattacgtaaacaggcggcaaaactccaaactgtgcgatccattggc
+            ctggtgcaagacggcacactttattgctccagcatttttggttatcgcaatgtgcccgtc
+            gtggacattctggctgaacttcctgcaccgcaaccacttttacgcctgacgatcgaccgt
+            gccctgattaaaggcagtccggttttgattcaatggacgcctgcagcgggcagtagcaat
+            gctggggtcatggagatgattaacatcgacttactgacggcaatgctgcttgagccacaa
+            ctgccgcaaatcagtagcgccagcctgacggtggacaaacggcatttgctctatggtaat
+            gggctggtagattcccttccgcaacctgaagacaatgaaaactatcaggtttcttcgcaa
+            cgctttccttttaccattaacgttaatggtccgggggctacggcgctggcatggcactat
+            cttccaacacaattaccgctggcggtgctgctaagtttactggtgggctacatcgcctgg
+            ctggcgaccgcttaccgaatgagcttttcccgcgaaatcaatctgggcctggcgcaacat
+            gagttcgaattgttctgtcagcctttgcttaatgcgcgcagccagcaatgtattggtgta
+            gagattttgctgcgctggaacaatccgcgtcagggctggatttcaccggatgtgtttatt
+            cctatcgcggaagaacatcatttaattgtgccactgacccgctatgtgatggcagaaacc
+            attcgtcagcgccatgttttcccgatgagtagtcagtttcatgttggcattaacgtcgca
+            cccagccattttcgccgtggtgtgctgataaaagatctcaatcagtactggtttagcgct
+            cacccgattcagcaactgatcctcgaaatcaccgaacgcgatgccttactggatgttgat
+            tatcggattgcccgcgagctgcatcgtaaaaacgtcaaactggcgattgatgacttcggc
+            accggcaacagctcgttttcctggcttgaaacattacgtcctgacgtgctgaaaattgat
+            aagtcatttaccgcagctataggttctgacgcggttaactcgacggtgaccgatatcatc
+            atcgcgctggggcaaagactgaatattgaactggtggcggagggcgtggaaacgcaagaa
+            caggcgaagtatttgcgccgtcatggcgtgcatattttgcaagggtatttgtacgcacag
+            ccgatgccgctacgtgattttcccaaatggctggcgggcagccaaccgccgcccgcccgg
+            cataatggacatatcacgcccattatgccgttacgttaa
+///

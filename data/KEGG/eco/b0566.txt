@@ -1,0 +1,45 @@
+ENTRY       b0566             CDS       T00007
+NAME        envY
+DEFINITION  (RefSeq) DNA-binding transcriptional activator EnvY
+ORTHOLOGY   K11920  AraC family transcriptional regulator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0566 (envY)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               AraC family
+                b0566 (envY)
+POSITION    complement(586147..586908)
+MOTIF       Pfam: HTH_AraC HTH_18 PUL HTH_Tnp_ISL3
+DBLINKS     NCBI-GeneID: 949114
+            NCBI-ProteinID: NP_415098
+            Pasteur: envY
+            RegulonDB: ECK120000262
+            ECOCYC: EG10268
+            ASAP: ABE-0001935
+            UniProt: P10805
+AASEQ       253
+            MQLSSSEPCVVILTEKEVEVSVNNHATFTLPKNYLAAFACNNNVIELSTLNHVLITHINR
+            NIINDYLLFLNKNLTCVKPWSRLATPVIACHSRTPEVFRLAANHSKQQPSRPCEAELTRA
+            LLFTVLSNFLEQSRFIALLMYILRSSVRDSVCRIIQSDIQHYWNLRIVASSLCLSPSLLK
+            KKLKNENTSYSQIVTECRMRYAVQMLLMDNKNITQVAQLCGYSSTSYFISVFKAFYGLTP
+            LNYLAKQRQKVMW
+NTSEQ       762
+            atgcaattgagcagcagtgaaccttgcgtggtgatcctgaccgaaaaagaggtagaggta
+            agcgtcaataaccatgctacgtttacccttccgaaaaactacctggccgccttcgcgtgc
+            aacaataacgtcattgaactctcaacgttaaatcacgtattaatcacccacatcaaccgt
+            aacatcatcaacgattatctgttgtttttaaataagaacttaacctgtgtaaagccctgg
+            tcgcggctggcaaccccggttatcgcttgtcatagccgtacaccggaagtgttccggcta
+            gccgccaaccacagcaagcagcaacccagcagaccctgcgaagcggagttgacgcgcgca
+            ttgctttttaccgtattgtctaactttcttgagcaatcgcggtttattgccctactgatg
+            tatatcttacgcagcagcgtccgcgacagcgtctgccgcattattcaaagcgatattcag
+            cattactggaatctgcgaattgtcgccagttcgctatgtttaagccccagcctgctcaaa
+            aagaaattaaaaaacgaaaataccagctatagccagattgtcacagagtgtcgtatgcgt
+            tacgccgtacagatgttattgatggataacaaaaatatcactcaggtggcgcaattatgt
+            ggctatagcagcacgtcgtactttatctctgtttttaaggcgttttacggcctgacaccg
+            ttgaattatctcgccaaacagcgacaaaaagtgatgtggtga
+///

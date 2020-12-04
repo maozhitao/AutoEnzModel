@@ -1,0 +1,49 @@
+ENTRY       b1344             CDS       T00007
+NAME        ttcA
+DEFINITION  (RefSeq) tRNA cytosine(32) 2-sulfurtransferase TtcA
+ORTHOLOGY   K14058  tRNA 2-thiocytidine biosynthesis protein TtcA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b1344 (ttcA)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Thiolation factors
+                b1344 (ttcA)
+POSITION    complement(1411013..1411948)
+MOTIF       Pfam: ATP_bind_3 PAPS_reduct
+DBLINKS     NCBI-GeneID: 948967
+            NCBI-ProteinID: NP_415860
+            Pasteur: ydaO
+            RegulonDB: ECK120003270
+            ECOCYC: G6675
+            ASAP: ABE-0004514
+            UniProt: P76055
+AASEQ       311
+            MQENQQITKKEQYNLNKLQKRLRRNVGEAIADFNMIEEGDRIMVCLSGGKDSYTMLEILR
+            NLQQSAPINFSLVAVNLDQKQPGFPEHVLPEYLEKLGVEYKIVEENTYGIVKEKIPEGKT
+            TCSLCSRLRRGILYRTATELGATKIALGHHRDDILQTLFLNMFYGGKMKGMPPKLMSDDG
+            KHIVIRPLAYCREKDIQRFADAKAFPIIPCNLCGSQPNLQRQVIADMLRDWDKRYPGRIE
+            TMFSAMQNVVPSHLCDTNLFDFKGITHGSEVVNGGDLAFDREEIPLQPACWQPEEDENQL
+            DELRLNVVEVK
+NTSEQ       936
+            atgcaagaaaatcaacaaattacaaagaaagaacaatacaacctgaacaaattacaaaaa
+            cgtctgcgtcgtaacgtgggcgaagccattgctgacttcaatatgattgaagaaggcgat
+            cgcatcatggtttgcctctccgggggtaaagacagctataccatgctggagattctgcgc
+            aatttgcagcaaagcgcgccaatcaatttttcgctggtggctgttaacctcgatcaaaag
+            caaccgggcttcccggaacacgttctgcccgagtatcttgaaaagctgggcgttgagtac
+            aagattgttgaagagaatacttacggtatcgtgaaagagaagattccagagggcaaaacc
+            acttgctcactgtgttctcgccttcgtcgcggtatcctttatcgtaccgcaacggaactg
+            ggggcgacgaagatcgcgttgggtcaccatcgtgacgatatcctgcaaacgttgttctta
+            aatatgttctacggcggtaagatgaaaggtatgcctccgaaactgatgagcgatgatggc
+            aaacatatcgttattcgtccgctggcctactgccgcgagaaagatattcagcgatttgcc
+            gatgcaaaagcgttcccgattattccgtgcaacctgtgcggttcacagcctaacctgcaa
+            cgtcaggtgattgctgacatgttgcgtgactgggataaacgttatccagggcgtatcgag
+            acgatgttcagcgcgatgcagaatgtggtgccgtcgcatctgtgcgataccaacctgttc
+            gatttcaaaggcatcacccacggttctgaagtggttaacgggggtgatctggcgtttgat
+            cgcgaagagatcccactacaaccggcgtgctggcagccagaagaagatgaaaatcagttg
+            gatgagttacggctgaatgtggttgaagtgaaataa
+///

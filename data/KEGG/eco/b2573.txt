@@ -1,0 +1,43 @@
+ENTRY       b2573             CDS       T00007
+NAME        rpoE
+DEFINITION  (RefSeq) RNA polymerase sigma E factor
+ORTHOLOGY   K03088  RNA polymerase sigma-70 factor, ECF subfamily
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:eco03021]
+                b2573 (rpoE)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               RNA polymerase
+                Sigma factors
+                 b2573 (rpoE)
+POSITION    complement(2709437..2710012)
+MOTIF       Pfam: Sigma70_r4_2 Sigma70_r2 Sigma70_r4 Sigma70_ECF HTH_23
+DBLINKS     NCBI-GeneID: 947050
+            NCBI-ProteinID: NP_417068
+            Pasteur: rpoE
+            RegulonDB: ECK120001827
+            ECOCYC: EG11897
+            ASAP: ABE-0008467
+            UniProt: P0AGB6
+STRUCTURE   PDB: 4LUP 1OR7 2H27 6JBQ 2MAO 2MAP
+AASEQ       191
+            MSEQLTDQVLVERVQKGDQKAFNLLVVRYQHKVASLVSRYVPSGDVPDVVQEAFIKAYRA
+            LDSFRGDSAFYTWLYRIAVNTAKNYLVAQGRRPPSSDVDAIEAENFESGGALKEISNPEN
+            LMLSEELRQIVFRTIESLPEDLRMAITLRELDGLSYEEIAAIMDCPVGTVRSRIFRAREA
+            IDNKVQPLIRR
+NTSEQ       576
+            atgagcgagcagttaacggaccaggtcctggttgaacgggtccagaagggagatcagaaa
+            gcctttaacttactggtagtgcgctatcagcataaagtggcgagtctggtttcccgctat
+            gtgccgtcgggtgatgttcccgatgtggtacaagaagcttttattaaagcctatcgtgcg
+            ctggattcgttccggggagatagcgctttttatacatggctgtatcggattgctgtaaat
+            acagcgaaaaattacctggttgctcaggggcgtcgtccaccttccagtgatgtggatgcc
+            attgaagctgaaaacttcgaaagtggcggcgcgttgaaagaaatttcgaaccctgagaac
+            ttaatgttgtcagaagaactgagacagatagttttccgaactattgagtccctcccggaa
+            gatttacgcatggcaataaccttgcgggagctggatggcctgagctatgaagagatagcc
+            gctatcatggattgtccggtaggtacggtgcgttcacgtatcttccgagcgagggaagct
+            attgataacaaagttcaaccgcttatcaggcgttga
+///

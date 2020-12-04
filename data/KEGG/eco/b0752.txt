@@ -1,0 +1,48 @@
+ENTRY       b0752             CDS       T00007
+NAME        zitB
+DEFINITION  (RefSeq) Zn(2(+))/Cd(2(+))/Ni(2(+))/Cu(2(+)) exporter
+ORTHOLOGY   K16264  cobalt-zinc-cadmium efflux system protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0752 (zitB)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b0752 (zitB)
+POSITION    complement(783882..784823)
+MOTIF       Pfam: Cation_efflux ZT_dimer OPT
+DBLINKS     NCBI-GeneID: 945348
+            NCBI-ProteinID: NP_415273
+            Pasteur: ybgR
+            RegulonDB: ECK120002993
+            ECOCYC: G6393
+            ASAP: ABE-0002549
+            UniProt: P75757
+AASEQ       313
+            MAHSHSHTSSHLPEDNNARRLLYAFGVTAGFMLVEVVGGFLSGSLALLADAGHMLTDTAA
+            LLFALLAVQFSRRPPTIRHTFGWLRLTTLAAFVNAIALVVITILIVWEAIERFRTPRPVE
+            GGMMMAIAVAGLLANILSFWLLHHGSEEKNLNVRAAALHVLGDLLGSVGAIIAALIIIWT
+            GWTPADPILSILVSLLVLRSAWRLLKDSVNELLEGAPVSLDIAELKRRMCREIPEVRNVH
+            HVHVWMVGEKPVMTLHVQVIPPHDHDALLDQIQHYLMDHYQIEHATIQMEYQPCHGPDCH
+            LNEGVSGHSHHHH
+NTSEQ       942
+            atggcgcactcacactcacacacgtcctcacacctgccagaagataataatgctcgtcgc
+            ttgttgtatgctttcggcgtgactgccgggtttatgctggtagaagtcgttggtggtttt
+            ctttctggttctctggcattgctggccgatgcgggtcatatgttgaccgatactgccgcc
+            ctgcttttcgccctactcgccgtgcaattttcacgtcgtcctcccaccattcgccacact
+            ttcggttggctaagactgaccacgctcgcggcgtttgtgaatgccatagccctcgtggta
+            attaccattttgattgtctgggaggcgatagaacgcttccgcacgccgcgtccggtcgag
+            ggcggcatgatgatggcaattgccgtggctgggttgctggcaaatatactttctttctgg
+            ttacttcatcacggcagcgaagagaaaaacctcaacgtacgagcagcggcactgcatgtg
+            ctcggggacctgctgggttcggttggggctattattgccgcgttgattattatctggact
+            ggctggacacctgctgaccccattctctcgatactggtgtcgcttctggttctgcgtagc
+            gcgtggcgactgttgaaagatagcgtgaatgaattacttgaaggtgcaccggtatcgctg
+            gatatcgctgaactgaagcgtcgtatgtgccgggaaatcccggaagtccgcaatgtgcac
+            catgtacatgtatggatggtaggcgagaagccggtgatgacgttgcatgtgcaggtgatc
+            ccgccacacgatcacgatgccttgttggatcagatccaacactacctgatggatcactat
+            cagattgagcacgccaccattcagatggaatatcaaccttgtcatgggccagactgccac
+            ctgaatgaaggggtgtctggccattcacatcatcaccattaa
+///

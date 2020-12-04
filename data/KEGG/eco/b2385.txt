@@ -1,0 +1,59 @@
+ENTRY       b2385             CDS       T00007
+NAME        ypdF
+DEFINITION  (RefSeq) aminopeptidase
+ORTHOLOGY   K08326  aminopeptidase [EC:3.4.11.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b2385 (ypdF)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.11  Aminopeptidases
+                3.4.11.-  
+                 b2385 (ypdF)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M24
+               b2385 (ypdF)
+POSITION    complement(2505547..2506632)
+MOTIF       Pfam: Peptidase_M24 Creatinase_N BetaGal_dom3
+DBLINKS     NCBI-GeneID: 946853
+            NCBI-ProteinID: NP_416886
+            Pasteur: ypdF
+            RegulonDB: ECK120003823
+            ECOCYC: G7248
+            ASAP: ABE-0007869
+            UniProt: P76524
+STRUCTURE   PDB: 5CNX
+AASEQ       361
+            MTLLASLRDWLKAQQLDAVLLSSRQNKQPHLGISTGSGYVVISRESAHILVDSRYYVEVE
+            ARAQGYQLHLLDATNTLTTIVNQIIADEQLQTLGFEGQQVSWETAHRWQSELNAKLVSAT
+            PDVLRQIKTPEEVEKIRLACGIADRGAEHIRRFIQAGMSEREIAAELEWFMRQQGAEKAS
+            FDTIVASGWRGALPHGKASDKIVAAGEFVTLDFGALYQGYCSDMTRTLLVNGEGVSAESH
+            LLFNVYQIVLQAQLAAISAIRPGVRCQQVDDAARRVITEAGYGDYFGHNTGHAIGIEVHE
+            DPRFSPRDTTTLQPGMLLTVEPGIYLPGQGGVRIEDVVLVTPQGAEVLYAMPKTVLLTGE
+            A
+NTSEQ       1086
+            atgacattactcgcttcgctgcgcgactggcttaaggcgcaacaactggatgcagtgctt
+            ctctcctcacggcagaacaaacagccgcatctggggatctccaccggatcaggttatgtg
+            gtgattagccgtgaaagtgcgcacattctggtggattcgcgctattacgttgaggtggaa
+            gcccgtgcgcaaggctaccagctgcatttgcttgacgcgacgaacacgcttaccactatc
+            gtcaatcaaatcattgccgatgaacagttgcaaacgctcggttttgagggccagcaggtg
+            agttgggaaaccgcgcaccgctggcagtctgaactcaatgcgaaactggttagcgccacg
+            ccggatgtgctgcggcaaatcaaaacgccagaggaggtggagaaaatccgcctcgcctgt
+            gggattgctgatcgcggtgcagagcatattcgccgctttattcaggcggggatgagcgag
+            cgcgagatagccgctgaactggagtggtttatgcgccagcagggcgcagaaaaagcctct
+            tttgacaccattgtcgccagtggctggcgtggggcgctgccgcacggcaaagccagcgac
+            aagattgttgcagcgggcgagtttgtcactctcgatttcggtgcgctgtatcagggctac
+            tgctctgatatgacgcgcaccttgctggtgaatggcgaaggggtgagcgccgaatctcac
+            ctgctgtttaacgtctatcaaattgtcctgcaggcacagctcgcagcaatctccgcgatt
+            cgccccggcgtgcgctgccagcaggttgacgatgccgcgcgccgggtcattacagaagca
+            ggttatggcgactatttcggtcataacaccggtcacgctatcggcattgaagttcatgaa
+            gatccgcgtttttcaccgcgggacaccacgacgctacagccaggcatgttactgaccgtg
+            gagccggggatttatttgccagggcaagggggcgtgcgcatcgaagatgttgtgctggtt
+            accccgcaaggcgcagaagtgctctacgccatgccgaaaacagtgttgctcacgggagag
+            gcataa
+///

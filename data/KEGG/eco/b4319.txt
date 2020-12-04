@@ -1,0 +1,45 @@
+ENTRY       b4319             CDS       T00007
+NAME        fimG
+DEFINITION  (RefSeq) type 1 fimbriae minor subunit FimG
+ORTHOLOGY   K07349  minor fimbrial subunit
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b4319 (fimG)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b4319 (fimG)
+            Secretion system [BR:eco02044]
+             Chaperone-usher system
+              Type 1 pilus assembly protein
+               b4319 (fimG)
+            Bacterial motility proteins [BR:eco02035]
+             Pilus system
+              Fimbrial proteins
+               b4319 (fimG)
+POSITION    4548285..4548788
+MOTIF       Pfam: Big_3_5
+DBLINKS     NCBI-GeneID: 948846
+            NCBI-ProteinID: NP_418739
+            Pasteur: fimG
+            RegulonDB: ECK120000308
+            ECOCYC: EG10314
+            ASAP: ABE-0014155
+            UniProt: P08190
+STRUCTURE   PDB: 5IQN 5IQO 3BFQ 5IQM 3BFW 3JWN 4J3O 6E14 6E15
+AASEQ       167
+            MKWCKRGYVLAAILALASATIQAADVTITVNGKVVAKPCTVSTTNATVDLGDLYSFSLMS
+            AGAASAWHDVALELTNCPVGTSRVTASFSGAADSTGYYKNQGTAQNIQLELQDDSGNTLN
+            TGATKTVQVDDSSQSAHFPLQVRALTVNGGATQGTIQAVISITYTYS
+NTSEQ       504
+            atgaaatggtgcaaacgtgggtatgtattggcggcaatattggcgctcgcaagtgcgacg
+            atacaggcagccgatgtcaccatcacggtgaacggtaaggtcgtcgccaaaccgtgtacg
+            gtttccaccaccaatgccacggttgatctcggcgatctttattctttcagtcttatgtct
+            gccggggcggcatcggcctggcatgatgttgcgcttgagttgactaattgtccggtggga
+            acgtcgagggtcactgccagcttcagcggggcagccgacagtaccggatattataaaaac
+            caggggaccgcgcaaaacatccagttagagctacaggatgacagtggcaacacattgaat
+            actggcgcaaccaaaacagttcaggtggatgattcctcacaatcagcgcacttcccgtta
+            caggtcagagcattgacagtaaatggcggagccactcagggaaccattcaggcagtgatt
+            agcatcacctatacctacagctga
+///

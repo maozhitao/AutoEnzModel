@@ -1,0 +1,48 @@
+ENTRY       b0097             CDS       T00007
+NAME        secM
+DEFINITION  (RefSeq) SecA translation regulator
+ORTHOLOGY   K13301  secretion monitor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03060  Protein export
+            eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b0097 (secM)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b0097 (secM)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b0097 (secM)
+            Secretion system [BR:eco02044]
+             Sec (secretion) system
+              Prokaryotic Sec-SRP core components
+               b0097 (secM)
+POSITION    107705..108217
+MOTIF       Pfam: SecM DUF2547 Omp28
+DBLINKS     NCBI-GeneID: 944831
+            NCBI-ProteinID: NP_414639
+            Pasteur: srrA
+            RegulonDB: ECK120001075
+            ECOCYC: EG11087
+            ASAP: ABE-0000340
+            UniProt: P62395
+AASEQ       170
+            MSGILTRWRQFGKRYFWPHLLLGMVAASLGLPALSNAAEPNAPAKATTRNHEPSAKVNFG
+            QLALLEANTRRPNSNYSVDYWHQHAIRTVIRHLSFAMAPQTLPVAEESLPLQAQHLALLD
+            TLSALLTQEGTPSEKGYRIDYAHFTPQAKFSTPVWISQAQGIRAGPQRLT
+NTSEQ       513
+            gtgagtggaatactgacgcgctggcgacagtttggtaaacgctacttctggccgcatctc
+            ttattagggatggttgcggcgagtttaggtttgcctgcgctcagcaacgccgccgaacca
+            aacgcgcccgcaaaagcgacaacccgcaaccacgagccttcagccaaagttaactttggt
+            caattggccttgctggaagcgaacacacgccgcccgaattcgaactattccgttgattac
+            tggcatcaacatgccattcgcacggtaatccgtcatctttctttcgcaatggcaccgcaa
+            acactgcccgttgctgaagaatctttgcctcttcaggcgcaacatcttgcattactggat
+            acgctcagcgcgctgctgacccaggaaggcacgccgtctgaaaagggttatcgcattgat
+            tatgcgcattttaccccacaagcaaaattcagcacgcccgtctggataagccaggcgcaa
+            ggcatccgtgctggccctcaacgcctcacctaa
+///

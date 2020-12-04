@@ -1,0 +1,84 @@
+ENTRY       b3701             CDS       T00007
+NAME        dnaN
+DEFINITION  (RefSeq) beta sliding clamp
+ORTHOLOGY   K02338  DNA polymerase III subunit beta [EC:2.7.7.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+            eco03430  Mismatch repair
+            eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b3701 (dnaN)
+               03430 Mismatch repair
+                b3701 (dnaN)
+               03440 Homologous recombination
+                b3701 (dnaN)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b3701 (dnaN)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b3701 (dnaN)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 b3701 (dnaN)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Elongation Factors
+               Elongation factors (bacterial)
+                DNA polymerase III holoenzyme
+                 b3701 (dnaN)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                DNA polymerase III holoenzyme
+                 b3701 (dnaN)
+POSITION    complement(3881221..3882321)
+MOTIF       Pfam: DNA_pol3_beta_2 DNA_pol3_beta DNA_pol3_beta_3
+DBLINKS     NCBI-GeneID: 948218
+            NCBI-ProteinID: NP_418156
+            Pasteur: dnaN
+            RegulonDB: ECK120000236
+            ECOCYC: EG10242
+            ASAP: ABE-0012098
+            UniProt: P0A988
+STRUCTURE   PDB: 4K3L 4MJR 6FVM 3D1G 1OK7 4N96 4N98 4N94 4MJQ 4K3S 3F1V
+                 4N95 4MJP 4K3M 4K3Q 4K3K 1MMI 4PNV 4K3R 4OVG 4PNU 4N9A
+                 3QSB 2XUR 3D1E 1UNN 3BEP 3Q4L 4N97 6FVL 4PNW 4K3O 3D1F
+                 4OVF 4K3P 3PWE 4OVH 4N99 3Q4J 4K74 1JQL 2POL 3Q4K 1JQJ
+                 5X06 5M1S 5FKW 5FKV 5FKU
+AASEQ       366
+            MKFTVEREHLLKPLQQVSGPLGGRPTLPILGNLLLQVADGTLSLTGTDLEMEMVARVALV
+            QPHEPGATTVPARKFFDICRGLPEGAEIAVQLEGERMLVRSGRSRFSLSTLPAADFPNLD
+            DWQSEVEFTLPQATMKRLIEATQFSMAHQDVRYYLNGMLFETEGEELRTVATDGHRLAVC
+            SMPIGQSLPSHSVIVPRKGVIELMRMLDGGDNPLRVQIGSNNIRAHVGDFIFTSKLVDGR
+            FPDYRRVLPKNPDKHLEAGCDLLKQAFARAAILSNEKFRGVRLYVSENQLKITANNPEQE
+            EAEEILDVTYSGAEMEIGFNVSYVLDVLNALKCENVRMMLTDSVSSVQIEDAASQSAAYV
+            VMPMRL
+NTSEQ       1101
+            atgaaatttaccgtagaacgtgagcatttattaaaaccgctacaacaggtgagcggtccg
+            ttaggtggtcgtcctacgctaccgattctcggtaatctgctgttacaggttgctgacggt
+            acgttgtcgctgaccggtactgatctcgagatggaaatggtggcacgtgttgcgctggtt
+            cagccacacgagccaggagcgacgaccgttccggcgcgcaaattctttgatatctgccgt
+            ggtctgcctgaaggcgcggaaattgccgtgcagctggaaggtgaacggatgctggtacgc
+            tccgggcgtagccgtttttcgctgtctaccctgccagcggcggatttcccgaacctcgat
+            gactggcagagtgaagtcgaatttaccctgccgcaggcaacgatgaagcgtctgattgaa
+            gcgacccagttttctatggcgcatcaggacgttcgctattacttaaatggtatgctgttt
+            gaaaccgaaggtgaagaactgcgcaccgtggcaaccgacggccaccgtctggcggtctgt
+            tcaatgccaattggtcaatctttgccaagccattcggtgatcgtaccgcgtaaaggcgtg
+            attgaactgatgcgtatgctcgacggcggcgacaatccgctgcgcgtacagattggcagc
+            aacaacattcgcgcccacgttggcgactttatcttcacctccaaactggtggatggtcgc
+            ttcccggattatcgccgcgttctgccgaagaacccggacaaacatctggaagctggctgc
+            gatctgctcaagcaggcgtttgctcgcgcggcgattctctctaacgagaaattccgcggc
+            gtacgtctttatgtcagcgaaaaccagctgaaaatcaccgccaacaacccggaacaggaa
+            gaagcggaagagatcctcgacgttacctatagcggtgcggagatggaaatcggcttcaac
+            gtcagttatgtgctggatgttctgaacgcgctgaaatgcgaaaacgtccgcatgatgctg
+            accgattcggtttccagcgtgcagattgaagatgcggccagccagagcgcggcttatgtt
+            gtcatgccaatgagactgtaa
+///

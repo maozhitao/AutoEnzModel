@@ -1,0 +1,48 @@
+ENTRY       b4021             CDS       T00007
+NAME        pepE
+DEFINITION  (RefSeq) peptidase E
+ORTHOLOGY   K05995  dipeptidase E [EC:3.4.13.21]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b4021 (pepE)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.13  Dipeptidases
+                3.4.13.21  dipeptidase E
+                 b4021 (pepE)
+            Peptidases and inhibitors [BR:eco01002]
+             Serine peptidases
+              Family S51
+               b4021 (pepE)
+POSITION    complement(4229453..4230142)
+MOTIF       Pfam: Peptidase_S51 BPL_N nos_propeller_2 DUF5325
+DBLINKS     NCBI-GeneID: 948520
+            NCBI-ProteinID: NP_418445
+            Pasteur: pepE
+            RegulonDB: ECK120001848
+            ECOCYC: EG11920
+            ASAP: ABE-0013146
+            UniProt: P0A7C6
+AASEQ       229
+            MELLLLSNSTLPGKAWLEHALPLIAEQLQGRRSAVFIPFAGVTQTWDDYTAKTAAVLAPL
+            GVSVTGIHSVVDPVAAIENAEIVIVGGGNTFQLLKQCRERGLLAPITDVVKRGALYIGWS
+            AGANLACPTIRTTNDMPIVDPQGFDALNLFPLQINPHFTNALPEGHKGETREQRIRELLV
+            VAPELTIIGLPEGNWITVSKGHATLGGPNTTYVFKAGEEAVPLEAGHRF
+NTSEQ       690
+            atggaactgcttttattgagtaactcgacgctgccgggtaaagcctggctggaacatgca
+            ctgccgctaattgctgaacagttgcagggtcgccgctcagcggtgtttatccctttcgct
+            ggcgtaacgcagacctgggatgattacacagcgaaaacggctgcggttctcgctccgctg
+            ggtgtttctgtcaccggtattcatagcgttgtcgatcccgttgccgcgattgaaaatgct
+            gagatcgtgattgtcggcggcgggaatactttccagttgctgaaacagtgccgcgagcgc
+            gggctgctggcaccaattactgacgtggttaaacgtggcgctctgtatattggctggagc
+            gcaggcgctaaccttgcttgcccaactattcgtaccaccaacgatatgccgattgtcgat
+            ccgcaaggtttcgatgcgctaaatctgttcccgctgcaaatcaacccgcacttcaccaac
+            gcgctgccggaaggccataaaggtgaaacccgtgagcagcgtattcgcgaactgctggtc
+            gtcgcgccagaactgacgattattggtctaccggaaggtaactggatcacagtgagtaaa
+            ggtcacgctacgctgggtggcccgaacaccacttatgtgtttaaggctggtgaagaagcg
+            gttccgctggaagctggtcaccgtttttaa
+///

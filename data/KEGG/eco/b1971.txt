@@ -1,0 +1,51 @@
+ENTRY       b1971             CDS       T00007
+NAME        msrP
+DEFINITION  (RefSeq) periplasmic protein-L-methionine sulfoxide reductase catalytic subunit
+ORTHOLOGY   K07147  methionine sulfoxide reductase catalytic subunit [EC:1.8.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b1971 (msrP)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.8  Acting on a sulfur group of donors
+               1.8.-  Acting on a sulfur group of donors
+                1.8.-.-  
+                 b1971 (msrP)
+POSITION    2039478..2040482
+MOTIF       Pfam: Oxidored_molyb
+DBLINKS     NCBI-GeneID: 946484
+            NCBI-ProteinID: NP_416480
+            Pasteur: yedY
+            RegulonDB: ECK120003645
+            ASAP: ABE-0006540
+            UniProt: P76342
+STRUCTURE   PDB: 1XDY 1XDQ
+AASEQ       334
+            MKKNQFLKESDVTAESVFFMKRRQVLKALGISATALSLPHAAHADLLSWFKGNDRPPAPA
+            GKALEFSKPAAWQNNLPLTPADKVSGYNNFYEFGLDKADPAANAGSLKTDPWTLKISGEV
+            AKPLTLDHDDLTRRFPLEERIYRMRCVEAWSMVVPWIGFPLHKLLALAEPTSNAKYVAFE
+            TIYAPEQMPGQQDRFIGGGLKYPYVEGLRLDEAMHPLTLMTVGVYGKALPPQNGAPVRLI
+            VPWKYGFKGIKSIVSIKLTRERPPTTWNLAAPDEYGFYANVNPYVDHPRWSQATERFIGS
+            GGILDVQRQPTLLFNGYAAQVASLYRGLDLRENF
+NTSEQ       1005
+            atgaaaaagaatcaatttttaaaagaatcagatgttacggccgagtcggtattctttatg
+            aagcgtcggcaggtgttaaaagcactgggcatcagtgcaactgcactttctttgcctcac
+            gctgcgcatgccgatctgcttagctggtttaaagggaacgatcgcccgcccgcccccgcc
+            ggaaaagcgctggagttcagcaagcctgccgcctggcaaaataacctgccactgacgcca
+            gcagataaagtttccggttataataacttctatgaattcgggctggataaagccgatccc
+            gccgctaatgctggtagcctgaaaaccgatccatggacactgaaaatcagcggcgaagtg
+            gcaaaaccattgaccctcgatcatgatgacttaacccgtcgcttcccgctggaagagcgt
+            atttatcgtatgcgctgcgtggaagcgtggtcgatggtggtgccgtggattggttttccg
+            ctgcacaaattgctggcgcttgccgaacctaccagcaatgcgaagtatgtcgctttcgaa
+            acaatttatgcaccggaacagatgccaggccagcaggaccgctttatcggcggtgggctg
+            aaatatccttatgtcgaaggattgcgtctcgacgaagcaatgcatccgctcacactgatg
+            accgtaggtgtttatggcaaggcgttaccgccacaaaatggcgcgccggtgcgactgatt
+            gtgccgtggaaatatggctttaaagggattaaatcgatagtcagtattaagctgacccgc
+            gagcgtccgccaaccacctggaatctggcagcgcctgacgaatacggtttttacgccaac
+            gttaatccgtatgttgatcacccgcgctggtcacaggctaccgaacgatttattggttca
+            ggcggcatcctcgatgtacagcgccagccaacgctactgtttaatggttacgccgcccag
+            gtggcatcgctgtatcgtggcctggatttgcgggagaatttctaa
+///

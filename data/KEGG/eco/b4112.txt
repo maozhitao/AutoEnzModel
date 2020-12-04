@@ -1,0 +1,75 @@
+ENTRY       b4112             CDS       T00007
+NAME        basS
+DEFINITION  (RefSeq) sensory histidine kinase BasS
+ORTHOLOGY   K07643  two-component system, OmpR family, sensor histidine kinase BasS [EC:2.7.13.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01503  Cationic antimicrobial peptide (CAMP) resistance
+            eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b4112 (basS)
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b4112 (basS)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b4112 (basS)
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b4112 (basS)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 b4112 (basS)
+            Protein kinases [BR:eco01001]
+             Histidine kinases
+              OmpR family
+               b4112 (basS)
+            Two-component system [BR:eco02022]
+             OmpR family
+              BasS-BasR (antimicrobial peptide resistance)
+               b4112 (basS)
+POSITION    complement(4332181..4333272)
+MOTIF       Pfam: HATPase_c HisKA HAMP PepSY_TM SH3_16 HEPN_DZIP3 HATPase_c_2
+DBLINKS     NCBI-GeneID: 948632
+            NCBI-ProteinID: NP_418536
+            Pasteur: basS
+            RegulonDB: ECK120001562
+            ECOCYC: EG11614
+            ASAP: ABE-0013464
+            UniProt: P30844 G1E6H3
+AASEQ       363
+            MHFLRRPISLRQRLILTIGAILLVFELISVFWLWHESTEQIQLFEQALRDNRNNDRHIMR
+            EIREAVASLIVPGVFMVSLTLFICYQAVRRITRPLAELQKELEARTADNLTPIAIHSATL
+            EIEAVVSALNDLVSRLTSTLDNERLFTADVAHELRTPLAGVRLHLELLAKTHHIDVAPLV
+            ARLDQMMESVSQLLQLARAGQSFSSGNYQHVKLLEDVILPSYDELSTMLDQRQQTLLLPE
+            SAADITVQGDATLLRMLLRNLVENAHRYSPQGSNIMIKLQEDDGAVMAVEDEGPGIDESK
+            CGELSKAFVRMDSRYGGIGLGLSIVSRITQLHHGQFFLQNRQETSGTRAWVRLKKDQYVA
+            NQI
+NTSEQ       1092
+            atgcattttctgcgccgaccaatatcgctgcgccaacggctgatattgaccatcggggcc
+            attttgttggtgtttgagctgatcagcgtcttctggctatggcatgaaagtaccgagcag
+            attcagctgtttgagcaggcgctacgcgacaatcgcaacaacgatcgccacatcatgcgt
+            gagatccgcgaggcggtcgccagcctgattgtccccggcgtctttatggtcagcctgacg
+            ctatttatctgctatcaggcggtacgccgcatcacccgcccgctggcggagctgcaaaaa
+            gagctggaagcgcgcaccgccgacaacttaacgcccattgccattcacagcgccaccctc
+            gaaatcgaagcggtggtttcggcgttaaacgatctggtcagtcgcctgaccagcacgctg
+            gataacgaaaggttgtttaccgctgacgtcgcgcacgaactgcgaacgccactggcgggg
+            gtgcgtttgcatctggaactgctggcgaaaacgcatcacattgatgtagcaccgttagtg
+            gcacggcttgatcagatgatggagagcgtctcccagctgctgcaactggcgcgtgccgga
+            cagtcattttcttccggtaattatcaacatgtaaaactgctggaagatgtcattctcccc
+            tcgtatgacgaactcagtaccatgctcgaccagcgacagcaaaccctgctattgccagag
+            agcgccgccgacatcaccgttcagggtgatgcaaccctgctgcggatgttattgcgaaac
+            ctggtagaaaacgcccatcgttacagcccgcaaggcagcaacattatgattaagctgcaa
+            gaagatgacggagcggtcatggcagttgaagatgaaggaccaggtattgatgagagtaaa
+            tgcggggagttgagtaaagcgtttgtacgtatggacagccgttatggcgggattggtctg
+            gggttaagtattgtcagccgcattacacagttgcatcacgggcagtttttcctgcaaaac
+            cggcaagagacttccggcacgcgggcctgggtacggctgaagaaagatcagtacgtggca
+            aaccagatataa
+///

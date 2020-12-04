@@ -1,0 +1,60 @@
+ENTRY       b1076             CDS       T00007
+NAME        flgE
+DEFINITION  (RefSeq) flagellar hook protein FlgE
+ORTHOLOGY   K02390  flagellar hook protein FlgE
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1076 (flgE)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1076 (flgE)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Rod,hook and filament
+                b1076 (flgE)
+POSITION    1132574..1133782
+MOTIF       Pfam: Flg_bbr_C FlaE Flg_bb_rod
+DBLINKS     NCBI-GeneID: 945636
+            NCBI-ProteinID: NP_415594
+            Pasteur: flgE
+            RegulonDB: ECK120002683
+            ECOCYC: G361
+            ASAP: ABE-0003647
+            UniProt: P75937
+AASEQ       402
+            MAFSQAVSGLNAAATNLDVIGNNIANSATYGFKSGTASFADMFAGSKVGLGVKVAGITQD
+            FTDGTTTNTGRGLDVAISQNGFFRLVDSNGSVFYSRNGQFKLDENRNLVNMQGLQLTGYP
+            ATGTPPTIQQGANPTNISIPNTLMAAKTTTTASMQINLNSSDPLPTVTPFSASNADSYNK
+            KGSVTVFDSQGNAHDMSVYFVKTGDNNWQVYTQDSSDPNSIAKTATTLEFNANGTLVDGA
+            MANNIATGAINGAEPATFSLSFLNSMQQNTGANNIVATTQNGYKPGDLVSYQINDDGTVV
+            GNYSNEQTQLLGQIVLANFANNEGLASEGDNVWSATQSSGVALLGTAGTGNFGTLTNGAL
+            EASNVDLSKELVNMIVAQRNYQSNAQTIKTQDQILNTLVNLR
+NTSEQ       1209
+            atggccttttctcaagcggttagcggattaaacgctgccgccaccaacctcgatgttatt
+            ggcaacaatatcgccaactccgccacctacggctttaaatcaggcacggcctcttttgcc
+            gatatgtttgccggttcgaaagtgggactgggggtaaaagttgccggtatcactcaggac
+            tttaccgatggcacgaccaccaacaccgggcgaggtctggacgttgctatcagccagaac
+            ggttttttccgtctggtagacagcaacggttcggtgttctacagccgtaacggacaattt
+            aagctggatgaaaaccgtaacctggtgaatatgcaaggtttacagctgacgggttacccg
+            gcaaccggtacgccgccgactattcagcaaggggcgaatccgaccaatatttcgatcccg
+            aataccctgatggcagcgaaaactaccaccacggcatcgatgcagatcaacctgaattcc
+            agtgatccgcttcctactgttacgccattcagcgccagcaatgcggatagctataacaaa
+            aaaggttcggtgactgttttcgacagtcagggtaatgctcatgacatgagcgtctacttt
+            gtgaagaccggggataataactggcaggtctacacccaggatagcagtgatccaaacagc
+            attgcgaagacagcgacaacactggaatttaatgctaatggcacattagtggatggtgcg
+            atggcgaataatatcgcaaccggcgcaattaacggtgcagaacccgccacgtttagtctg
+            agcttcctcaactccatgcagcaaaataccggcgctaacaatattgtggcaaccacccag
+            aacggctacaaaccgggcgatctggtgagttatcaaatcaatgatgacggtacggttgtc
+            ggcaactattccaacgaacaaacccaactgctggggcagattgtactggcgaactttgcc
+            aacaacgaaggtctggcatccgaaggcgacaacgtctggtctgcgacgcaatcttctggc
+            gtggcgctgttggggacagccgggacgggaaactttggcaccctgaccaacggtgcgctg
+            gaagcgtccaacgtcgatctcagtaaagaactggtcaatatgatcgttgcccagcgtaac
+            tatcagtctaacgcccagaccatcaaaacccaggaccagatcctcaacacgctggttaac
+            ttacgctaa
+///

@@ -1,0 +1,49 @@
+ENTRY       b4468             CDS       T00007
+NAME        glcE
+DEFINITION  (RefSeq) glycolate dehydrogenase, putative FAD-binding subunit
+ORTHOLOGY   K11472  glycolate oxidase FAD binding subunit
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00630  Glyoxylate and dicarboxylate metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+            eco01120  Microbial metabolism in diverse environments
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00630 Glyoxylate and dicarboxylate metabolism
+                b4468 (glcE)
+POSITION    complement(3125470..3126522)
+MOTIF       Pfam: FAD_binding_4 FAD-oxidase_C
+DBLINKS     NCBI-GeneID: 2847718
+            NCBI-ProteinID: YP_026191
+            RegulonDB: ECK120004104
+            ECOCYC: G7544
+            ASAP: ABE-0174098
+            UniProt: P52073
+AASEQ       350
+            MLRECDYSQALLEQVNQAISDKTPLVIQGSNSKAFLGRPVTGQTLDVRCHRGIVNYDPTE
+            LVITARVGTPLVTIEAALESAGQMLPCEPPHYGEEATWGGMVACGLAGPRRPWSGSVRDF
+            VLGTRIITGAGKHLRFGGEVMKNVAGYDLSRLMVGSYGCLGVLTEISMKVLPRPRASLSL
+            RREISLQEAMSEIAEWQLQPLPISGLCYFDNALWIRLEGGEGSVKAARELLGGEEVAGQF
+            WQQLREQQLPFFSLPGTLWRISLPSDAPMMDLPGEQLIDWGGALRWLKSTAEDNQIHRIA
+            RNAGGHATRFSAGDGGFAPLSAPLFRYHQQLKQQLDPCGVFNPGRMYAEL
+NTSEQ       1053
+            atgctacgcgagtgtgattacagccaggcgctgctggagcaggtgaatcaggcgattagc
+            gataaaacgccgctggtgattcagggcagcaatagcaaagcctttttaggtcgccctgtc
+            accgggcaaacgctggatgttcgttgtcatcgcggcattgttaattacgacccgaccgag
+            ctggtgataaccgcgcgtgtcggaacgccgctggtgacaattgaagcggcgctggaaagc
+            gcggggcaaatgctcccctgtgagccgccgcattatggtgaagaagccacctggggcggg
+            atggtcgcctgcgggctggcggggccgcgtcgcccgtggagcggttcggtccgcgatttt
+            gtcctcggcacgcgcatcattaccggcgctggaaaacatctgcgttttggtggcgaagtg
+            atgaaaaacgttgccggatacgatctctcacggttaatggtcggaagctacggttgtctt
+            ggcgtgctcactgaaatctcaatgaaagtgttaccgcgaccgcgcgcctccctgagcctg
+            cgtcgggaaatcagcctgcaagaagccatgagtgaaatcgccgagtggcaactccagcca
+            ttacccattagtggcttatgttacttcgacaatgcgttgtggatccgccttgagggcggc
+            gaaggatcggtaaaagcagcgcgtgaactgctgggtggcgaagaggttgccggtcagttc
+            tggcagcaattgcgtgaacaacaactgccgttcttctcgttaccaggtaccttatggcgc
+            atttcattacccagtgatgcgccgatgatggatttacccggcgagcaactgatcgactgg
+            ggcggggcgttacgctggctgaaatcgacagccgaggacaatcaaatccatcgcatcgcc
+            cgcaacgctggcggtcatgcgacccgctttagtgccggagatggtggctttgccccgcta
+            tcggctcctttattccgctatcaccagcagcttaaacagcagctcgacccttgcggcgtg
+            tttaaccccggtcgcatgtacgcggaactttga
+///

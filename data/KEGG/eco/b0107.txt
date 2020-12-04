@@ -1,0 +1,58 @@
+ENTRY       b0107             CDS       T00007
+NAME        hofB
+DEFINITION  (RefSeq) T2SSE family protein
+ORTHOLOGY   K02504  protein transport protein HofB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b0107 (hofB)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              Type IVa pilus homolog protein
+               b0107 (hofB)
+POSITION    complement(115714..117099)
+MOTIF       Pfam: T2SSE T2SSE_N AAA_16 AAA_7 AAA_30 AAA_22 AAA_11 AAA_14 AAA_19 AAA_29 ResIII PhoH AAA_23 AAA NTPase_1 DUF2075
+DBLINKS     NCBI-GeneID: 947481
+            NCBI-ProteinID: NP_414649
+            Pasteur: hofB
+            RegulonDB: ECK120002011
+            ECOCYC: EG12106
+            ASAP: ABE-0000370
+            UniProt: P36645
+AASEQ       461
+            MNIPQLTALCLRYHGVLLDASEEVVHVAVVDAPSHELLDALHFATTKRIEITCWTRQQME
+            GHASRTQQTLPVAVQEKHQPKAELLTRTLQSALEQRASDIHIEPADNAYRIRLRIDGVLH
+            PLPDVSPDAGVALTARLKVLGNLDIAEHRLPQDGQFTVELAGNAVSFRIATLPCRGGEKV
+            VLRLLQQVGQALDVNTLGMQPLQLADFAHALQQPQGLVLVTGPTGSGKTVTLYSALQKLN
+            TADINICSVEDPVEIPIAGLNQTQIHPRAGLTFQGVLRALLRQDPDVIMIGEIRDGETAE
+            IAIKAAQTGHLVLSTLHTNSTCETLVRLQQMGVARWMLSSALTLVIAQRLVRKLCPHCRR
+            QQGEPIHIPDNVWPSPLPHWQAPGCVHCYHGFYGRTALFEVLPITPVIRQLISANTDVES
+            LETHARQAGMRTLFENGCLAVEQGLTTFEELIRVLGMPHGE
+NTSEQ       1386
+            atgaatattccacagctcactgccctgtgtctgcgttatcatggagtcttgctggatgcc
+            agcgaagaggtggttcatgttgcggtagtcgatgcaccttcgcatgagctactggacgca
+            ttgcatttcgctaccaccaaacgtattgagatcacctgctggacgcgccaacaaatggaa
+            ggtcacgccagtcgcacacaacagacattgcccgtagctgttcaggagaagcatcagccc
+            aaagcagagttgctaactcgaacgttacaatctgcgctggaacaacgcgcgtctgatatt
+            catatcgaaccagcggacaatgcctaccgcatccgcttgcgtatcgacggcgtattgcat
+            cctttaccggatgtttcaccggatgccggagtcgcattaaccgccagattaaaagtgctg
+            ggaaacctggatattgcggaacatcgcctgccgcaggacgggcaattcactgtcgaactg
+            gcaggaaacgccgtctcatttcgtattgcgaccttaccatgtcggggtggtgaaaaggtg
+            gtattaaggttgttacagcaggtgggtcaggcactggatgtcaacacgcttggaatgcag
+            ccgttacaactggcggactttgctcatgccttgcaacaaccacagggactggtgctggta
+            actggccctaccggcagcggcaaaacggtcacgctttatagtgccctgcaaaagctgaat
+            accgctgacattaatatttgtagcgtcgaagatccagttgagatccccatagccggacta
+            aaccagacgcaaatccatccgcgtgccggactcacctttcagggcgttttgcgtgcgtta
+            ttgcgccaggatcctgacgtcatcatgatcggagagatccgcgatggcgaaacagcagag
+            atcgctattaaagcggcgcaaactggtcacctggtgttgtctaccctacacactaattcc
+            acctgcgaaacgctggtacgtttacagcaaatgggggtcgcccgctggatgctatcatcg
+            gcgcttacgctggtaatagcccagcgtctggtacgcaaactttgcccacattgtcgccgg
+            cagcaaggggagcccatccacattccagacaatgtatggccatcgccgctgccccactgg
+            caggcacccggttgtgtacattgctaccacggtttttatggtcgtacggccttatttgaa
+            gttctgcccataacgccggtcattcgtcagcttatttccgctaataccgacgttgaatcg
+            ctggaaacgcacgcacgacaggcgggtatgcgtacgctttttgaaaacggctgcctggcc
+            gtagagcaaggcttaaccacctttgaagagttaatccgcgtactggggatgccgcatggc
+            gagtaa
+///

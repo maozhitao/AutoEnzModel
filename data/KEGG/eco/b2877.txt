@@ -1,0 +1,43 @@
+ENTRY       b2877             CDS       T00007
+NAME        mocA
+DEFINITION  (RefSeq) molybdenum cofactor cytidylyltransferase
+ORTHOLOGY   K07141  molybdenum cofactor cytidylyltransferase [EC:2.7.7.76]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00790  Folate biosynthesis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00790 Folate biosynthesis
+                b2877 (mocA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.76  molybdenum cofactor cytidylyltransferase
+                 b2877 (mocA)
+POSITION    3015160..3015738
+MOTIF       Pfam: NTP_transf_3 IspD
+DBLINKS     NCBI-GeneID: 947356
+            NCBI-ProteinID: NP_417353
+            Pasteur: ygfJ
+            RegulonDB: ECK120004059
+            ECOCYC: G7496
+            ASAP: ABE-0009447
+            UniProt: Q46810
+AASEQ       192
+            MSAIDCIITAAGLSSRMGQWKMMLPWEQGTILDTSIKNALQFCSRIILVTGYRGNELHER
+            YANQSNITIIHNPDYAQGLLTSVKAAVPAVQTEHCFLTHGDMPTLTIDIFRKIWSLRNDG
+            AILPLHNGIPGHPILVSKPCLMQAIQRPNVTNMRQALLMGDHYSVEIENAEIILDIDTPD
+            DFITAKERYTEI
+NTSEQ       579
+            atgtcagccatcgactgtataattaccgctgccggattatcatcaagaatggggcaatgg
+            aaaatgatgttaccctgggaacagggaacaattcttgatacaagtatcaaaaatgcgttg
+            cagttttgtagccgaattattttagtcaccggctatcgtggtaatgaactgcacgaacgt
+            tatgcgaaccagagcaatatcactattattcacaacccagattatgcgcagggtttacta
+            acatccgtcaaggccgcagtacccgcagtgcaaacagaacattgttttctcacccacggt
+            gacatgccaaccctcaccatcgatatttttagaaaaatctggtcgttacgaaatgatggc
+            gcaatactgccactccataatggcatccccggccatccgattttagtgtcaaaaccatgc
+            ctgatgcaggcaatccaacgacccaatgtcaccaatatgcgtcaggcactccttatggga
+            gatcattattccgtcgaaatagaaaatgcagaaataattttagatattgatactccggac
+            gactttattacagcgaaggaaaggtatactgaaatttag
+///

@@ -1,0 +1,71 @@
+ENTRY       b3384             CDS       T00007
+NAME        trpS
+DEFINITION  (RefSeq) tryptophan--tRNA ligase
+ORTHOLOGY   K01867  tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                b3384 (trpS)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:eco01007]
+                b3384 (trpS)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3384 (trpS)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.2  tryptophan---tRNA ligase
+                 b3384 (trpS)
+            Amino acid related enzymes [BR:eco01007]
+             Aminoacyl-tRNA synthetase
+              Class I (G)
+               b3384 (trpS)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                b3384 (trpS)
+             Prokaryotic type
+                b3384 (trpS)
+POSITION    complement(3512634..3513638)
+MOTIF       Pfam: tRNA-synt_1b
+DBLINKS     NCBI-GeneID: 947894
+            NCBI-ProteinID: NP_417843
+            Pasteur: trpS
+            RegulonDB: ECK120001019
+            ECOCYC: EG11030
+            ASAP: ABE-0011056
+            UniProt: P00954
+STRUCTURE   PDB: 5V0I
+AASEQ       334
+            MTKPIVFSGAQPSGELTIGNYMGALRQWVNMQDDYHCIYCIVDQHAITVRQDAQKLRKAT
+            LDTLALYLACGIDPEKSTIFVQSHVPEHAQLGWALNCYTYFGELSRMTQFKDKSARYAEN
+            INAGLFDYPVLMAADILLYQTNLVPVGEDQKQHLELSRDIAQRFNALYGEIFKVPEPFIP
+            KSGARVMSLLEPTKKMSKSDDNRNNVIGLLEDPKSVVKKIKRAVTDSDEPPVVRYDVQNK
+            AGVSNLLDILSAVTGQSIPELEKQFEGKMYGHLKGEVADAVSGMLTELQERYHRFRNDEA
+            FLQQVMKDGAEKASAHASRTLKAVYEAIGFVAKP
+NTSEQ       1005
+            atgactaagcccatcgtttttagtggcgcacagccctcaggtgaattgaccattggtaac
+            tacatgggtgcgctgcgtcagtgggtaaacatgcaggatgactaccattgcatttactgt
+            atcgttgaccaacacgcgatcaccgtgcgccaggatgcacagaagctgcgtaaagcgacg
+            ctggatacgctggccttgtatctggcttgtggtatcgatcctgagaaaagcaccattttt
+            gttcagtcccacgtgccggaacatgcacagttaggctgggcactgaactgctatacctac
+            ttcggcgaactgagtcgcatgacgcagtttaaagataaatctgcgcgttatgccgagaac
+            atcaacgctggtctgtttgactatccggtgctgatggcagcggacatcctgctgtatcaa
+            actaatctggtaccggtgggtgaagaccagaaacagcacctcgaactgagccgcgatatt
+            gcccagcgtttcaacgcgctgtatggcgagatctttaaggtgccggagccgtttattccg
+            aaatctggcgcgcgcgtaatgtcgctgctggagccgaccaagaagatgtccaagtctgac
+            gataatcgcaataacgttatcggcctgctggaagatccgaaatcggtagtgaagaaaatc
+            aaacgtgcggtcactgactccgacgagccgccggtagttcgctacgatgtgcagaacaaa
+            gcgggcgtttccaacctgttggatatcctttcagcggtaacgggccagagcatcccagaa
+            ctggaaaaacagttcgaaggcaagatgtatggtcatctgaaaggtgaagtggctgatgcc
+            gtttccggtatgctgactgaattgcaggaacgctatcaccgtttccgcaacgatgaagcc
+            ttcctgcaacaggtgatgaaagatggcgcggaaaaagccagcgcgcacgcttcccgtacg
+            ctaaaagcggtgtacgaagcgattggttttgtggcgaagccgtaa
+///

@@ -1,0 +1,75 @@
+ENTRY       b3980             CDS       T00007
+NAME        tufB
+DEFINITION  (RefSeq) translation elongation factor Tu 2
+ORTHOLOGY   K02358  elongation factor Tu
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:eco03012]
+                b3980 (tufB)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b3980 (tufB)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:eco04147]
+                b3980 (tufB)
+            Translation factors [BR:eco03012]
+             Eukaryotic type
+              Elongation factors
+               b3980 (tufB)
+             Prokaryotic type
+               b3980 (tufB)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Mitochondrial translation factors
+                b3980 (tufB)
+            Exosome [BR:eco04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               b3980 (tufB)
+              Exosomal proteins of breast cancer cells
+               b3980 (tufB)
+              Exosomal proteins of colorectal cancer cells
+               b3980 (tufB)
+POSITION    4175944..4177128
+MOTIF       Pfam: GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 MMR_HSR1 cobW
+DBLINKS     NCBI-GeneID: 948482
+            NCBI-ProteinID: NP_418407
+            Pasteur: tufB
+            RegulonDB: ECK120001026
+            ECOCYC: EG11037
+            ASAP: ABE-0013020
+            UniProt: P0CE48
+STRUCTURE   PDB: 1EFC 2HCJ 2BVN 6EZE 3MMP 1DG1 1EFU 1EFM 2HDN 4R71 5I4R
+                 1OB2 3EQ3 3EP2 1QZD 3EQ4 1LS2
+AASEQ       394
+            MSKEKFERTKPHVNVGTIGHVDHGKTTLTAAITTVLAKTYGGAARAFDQIDNAPEEKARG
+            ITINTSHVEYDTPTRHYAHVDCPGHADYVKNMITGAAQMDGAILVVAATDGPMPQTREHI
+            LLGRQVGVPYIIVFLNKCDMVDDEELLELVEMEVRELLSQYDFPGDDTPIVRGSALKALE
+            GDAEWEAKILELAGFLDSYIPEPERAIDKPFLLPIEDVFSISGRGTVVTGRVERGIIKVG
+            EEVEIVGIKETQKSTCTGVEMFRKLLDEGRAGENVGVLLRGIKREEIERGQVLAKPGTIK
+            PHTKFESEVYILSKDEGGRHTPFFKGYRPQFYFRTTDVTGTIELPEGVEMVMPGDNIKMV
+            VTLIHPIAMDDGLRFAIREGGRTVGAGVVAKVLS
+NTSEQ       1185
+            atgtctaaagaaaagtttgaacgtacaaaaccgcacgttaacgtcggtactatcggccac
+            gttgaccatggtaaaacaacgctgaccgctgcaatcactaccgtactggctaaaacctac
+            ggcggtgctgctcgcgcattcgaccagatcgataacgcgccggaagaaaaagctcgtggt
+            atcaccatcaacacttctcacgttgaatacgacaccccgacccgtcactacgcacacgta
+            gactgcccggggcacgccgactatgttaaaaacatgatcaccggtgctgcgcagatggac
+            ggcgcgatcctggtagttgctgcgactgacggcccgatgccgcagactcgtgagcacatc
+            ctgctgggtcgtcaggtaggcgttccgtacatcatcgtgttcctgaacaaatgcgacatg
+            gttgatgacgaagagctgctggaactggttgaaatggaagttcgtgaacttctgtctcag
+            tacgacttcccgggcgacgacactccgatcgttcgtggttctgctctgaaagcgctggaa
+            ggcgacgcagagtgggaagcgaaaatcctggaactggctggcttcctggattcttacatt
+            ccggaaccagagcgtgcgattgacaagccgttcctgctgccgatcgaagacgtattctcc
+            atctccggtcgtggtaccgttgttaccggtcgtgtagaacgcggtatcatcaaagttggt
+            gaagaagttgaaatcgttggtatcaaagagactcagaagtctacctgtactggcgttgaa
+            atgttccgcaaactgctggacgaaggccgtgctggtgagaacgtaggtgttctgctgcgt
+            ggtatcaaacgtgaagaaatcgaacgtggtcaggtactggctaagccgggcaccatcaag
+            ccgcacaccaagttcgaatctgaagtgtacattctgtccaaagatgaaggcggccgtcat
+            actccgttcttcaaaggctaccgtccgcagttctacttccgtactactgacgtgactggt
+            accatcgaactgccggaaggcgtagagatggtaatgccgggcgacaacatcaaaatggtt
+            gttaccctgatccacccgatcgcgatggacgacggtctgcgtttcgcaatccgtgaaggc
+            ggccgtaccgttggcgcgggcgttgtagcaaaagttctgagctaa
+///

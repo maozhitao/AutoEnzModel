@@ -1,0 +1,62 @@
+ENTRY       b3667             CDS       T00007
+NAME        uhpC
+DEFINITION  (RefSeq) inner membrane protein sensing glucose-6-phosphate
+ORTHOLOGY   K07783  MFS transporter, OPA family, sugar phosphate sensor protein UhpC
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b3667 (uhpC)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3667 (uhpC)
+            Transporters [BR:eco02000]
+             Major facilitator superfamily (MFS)
+              Phosphate and organophosphate transporters
+               Organophosphate:Pi antiporter (OPA) family [TC:2.A.1.4]
+                b3667 (uhpC)
+POSITION    complement(3847305..3848624)
+MOTIF       Pfam: MFS_1
+DBLINKS     NCBI-GeneID: 948184
+            NCBI-ProteinID: NP_418123
+            Pasteur: uhpC
+            RegulonDB: ECK120001042
+            ECOCYC: EG11053
+            ASAP: ABE-0011990
+            UniProt: P09836
+AASEQ       439
+            MLPFLKAPADAPLMTDKYEIDARYRYWRRHILLTIWLGYALFYFTRKSFNAAVPEILANG
+            VLSRSDIGLLATLFYITYGVSKFVSGIVSDRSNARYFMGIGLIATGIINILFGFSTSLWA
+            FAVLWVLNAFFQGWGSPVCARLLTAWYSRTERGGWWALWNTAHNVGGALIPIVMAAAALH
+            YGWRAGMMIAGCMAIVVGIFLCWRLRDRPQALGLPAVGEWRHDALEIAQQQEGAGLTRKE
+            ILTKYVLLNPYIWLLSFCYVLVYVVRAAINDWGNLYMSETLGVDLVTANTAVTMFELGGF
+            IGALVAGWGSDKLFNGNRGPMNLIFAAGILLSVGSLWLMPFASYVMQATCFFTIGFFVFG
+            PQMLIGMAAAECSHKEAAGAATGFVGLFAYLGASLAGWPLAKVLDTWHWSGFFVVISIAA
+            GISALLLLPFLNAQTPREA
+NTSEQ       1320
+            atgttgccgtttctgaaagcgcctgccgatgcgccattaatgactgataaatatgaaatt
+            gatgcccgctatcgctactggcgtcggcatattctgctgaccatctggctgggttacgcg
+            ctgttttacttcacgcggaaaagttttaacgccgccgtaccagaaatccttgctaacggc
+            gtgctcagccgtagcgatatcggcctgttagcgaccctgttttacattacctatggcgtg
+            tcgaagtttgtctccggcattgtcagcgatcgctcaaatgcccgttattttatggggata
+            gggcttatcgccacgggcattatcaacattctgtttggcttctcgacgtcgctatgggcg
+            tttgccgtgctctgggtgctgaacgcctttttccagggctggggttcaccggtgtgtgcg
+            cgtctgttaacggcctggtattcacgtaccgagcgcggcggttggtgggcattatggaac
+            acggcgcataacgtcggcggcgcactcattcccattgtgatggcagcggctgcgctgcat
+            tacggctggcgtgccgggatgatgattgctggttgtatggcgatagtcgtggggattttt
+            ctctgctggcggctacgcgatcgcccgcaggcgttaggtttaccggcggtcggtgaatgg
+            cgacacgacgcgctggaaattgctcaacaacaagaaggggcagggttgacgcgtaaagag
+            atcctcaccaaatatgtgttgctgaatccgtatatctggctgctttcgttttgctatgtg
+            ctggtctatgtggtccgggcggcgatcaacgactggggcaatttgtatatgtccgagaca
+            ctgggcgtcgatctggtcacggcgaatacggcagtgacgatgtttgaactgggcggattt
+            atcggtgcgctggtagccggttggggctcggacaaattgtttaacggcaaccgagggccg
+            atgaatttgattttcgccgccggaattttgctttcagtcggctccctgtggctgatgcca
+            tttgccagctacgtgatgcaggcaacctgcttcttcaccattggtttttttgtctttggc
+            ccacagatgttaatcggtatggcggcggcagagtgttcccacaaagaggcggcaggggcg
+            gcgacggggtttgtcggcttgtttgcttatctgggggcgtcgcttgctggttggccgctg
+            gcgaaagtactcgatacctggcactggagcggattttttgtggttatctctatcgccgcc
+            gggatttccgcactgctgttactgccctttttgaacgcccagacaccgcgcgaagcgtga
+///

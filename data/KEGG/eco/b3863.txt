@@ -1,0 +1,124 @@
+ENTRY       b3863             CDS       T00007
+NAME        polA
+DEFINITION  (RefSeq) DNA polymerase I
+ORTHOLOGY   K02335  DNA polymerase I [EC:2.7.7.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+            eco03410  Base excision repair
+            eco03420  Nucleotide excision repair
+            eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b3863 (polA)
+               03410 Base excision repair
+                b3863 (polA)
+               03420 Nucleotide excision repair
+                b3863 (polA)
+               03440 Homologous recombination
+                b3863 (polA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b3863 (polA)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b3863 (polA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 b3863 (polA)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Elongation Factors
+               Elongation factors (bacterial)
+                Other elongation factors
+                 b3863 (polA)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                DNA polymerase I
+                 b3863 (polA)
+               NER (nucleotide excision repair)
+                GGR (global genome repair) factors
+                 b3863 (polA)
+POSITION    4046966..4049752
+MOTIF       Pfam: DNA_pol_A 5_3_exonuc_N DNA_pol_A_exo1 5_3_exonuc HHH Prok-E2_E HHH_5
+DBLINKS     NCBI-GeneID: 948356
+            NCBI-ProteinID: NP_418300
+            Pasteur: polA
+            RegulonDB: ECK120000737
+            ECOCYC: EG10746
+            ASAP: ABE-0012618
+            UniProt: P00582
+STRUCTURE   PDB: 2KFZ 2KFN 1D8Y 1KFS 1D9D 1QSL 1KRP 2KZZ 1KSP 2KZM 1DPI
+                 1D9F 1KLN 1KFD
+AASEQ       928
+            MVQIPQNPLILVDGSSYLYRAYHAFPPLTNSAGEPTGAMYGVLNMLRSLIMQYKPTHAAV
+            VFDAKGKTFRDELFEHYKSHRPPMPDDLRAQIEPLHAMVKAMGLPLLAVSGVEADDVIGT
+            LAREAEKAGRPVLISTGDKDMAQLVTPNITLINTMTNTILGPEEVVNKYGVPPELIIDFL
+            ALMGDSSDNIPGVPGVGEKTAQALLQGLGGLDTLYAEPEKIAGLSFRGAKTMAAKLEQNK
+            EVAYLSYQLATIKTDVELELTCEQLEVQQPAAEELLGLFKKYEFKRWTADVEAGKWLQAK
+            GAKPAAKPQETSVADEAPEVTATVISYDNYVTILDEETLKAWIAKLEKAPVFAFDTETDS
+            LDNISANLVGLSFAIEPGVAAYIPVAHDYLDAPDQISRERALELLKPLLEDEKALKVGQN
+            LKYDRGILANYGIELRGIAFDTMLESYILNSVAGRHDMDSLAERWLKHKTITFEEIAGKG
+            KNQLTFNQIALEEAGRYAAEDADVTLQLHLKMWPDLQKHKGPLNVFENIEMPLVPVLSRI
+            ERNGVKIDPKVLHNHSEELTLRLAELEKKAHEIAGEEFNLSSTKQLQTILFEKQGIKPLK
+            KTPGGAPSTSEEVLEELALDYPLPKVILEYRGLAKLKSTYTDKLPLMINPKTGRVHTSYH
+            QAVTATGRLSSTDPNLQNIPVRNEEGRRIRQAFIAPEDYVIVSADYSQIELRIMAHLSRD
+            KGLLTAFAEGKDIHRATAAEVFGLPLETVTSEQRRSAKAINFGLIYGMSAFGLARQLNIP
+            RKEAQKYMDLYFERYPGVLEYMERTRAQAKEQGYVETLDGRRLYLPDIKSSNGARRAAAE
+            RAAINAPMQGTAADIIKRAMIAVDAWLQAEQPRVRMIMQVHDELVFEVHKDDVDAVAKQI
+            HQLMENCTRLDVPLLVEVGSGENWDQAH
+NTSEQ       2787
+            atggttcagatcccccaaaatccacttatccttgtagatggttcatcttatctttatcgc
+            gcatatcacgcgtttcccccgctgactaacagcgcaggcgagccgaccggtgcgatgtat
+            ggtgtcctcaacatgctgcgcagtctgatcatgcaatataaaccgacgcatgcagcggtg
+            gtctttgacgccaagggaaaaacctttcgtgatgaactgtttgaacattacaaatcacat
+            cgcccgccaatgccggacgatctgcgtgcacaaatcgaacccttgcacgcgatggttaaa
+            gcgatgggactgccgctgctggcggtttctggcgtagaagcggacgacgttatcggtact
+            ctggcgcgcgaagccgaaaaagccgggcgtccggtgctgatcagcactggcgataaagat
+            atggcgcagctggtgacgccaaatattacgcttatcaataccatgacgaataccatcctc
+            ggaccggaagaggtggtgaataagtacggcgtgccgccagaactgatcatcgatttcctg
+            gcgctgatgggtgactcctctgataacattcctggcgtaccgggcgtcggtgaaaaaacc
+            gcgcaggcattgctgcaaggtcttggcggactggatacgctgtatgccgagccagaaaaa
+            attgctgggttgagcttccgtggcgcgaaaacaatggcagcgaagctcgagcaaaacaaa
+            gaagttgcttatctctcataccagctggcgacgattaaaaccgacgttgaactggagctg
+            acctgtgaacaactggaagtgcagcaaccggcagcggaagagttgttggggctgttcaaa
+            aagtatgagttcaaacgctggactgctgatgtcgaagcgggcaaatggttacaggccaaa
+            ggggcaaaaccagccgcgaagccacaggaaaccagtgttgcagacgaagcaccagaagtg
+            acggcaacggtgatttcttatgacaactacgtcaccatccttgatgaagaaacactgaaa
+            gcgtggattgcgaagctggaaaaagcgccggtatttgcatttgataccgaaaccgacagc
+            cttgataacatctctgctaacctggtcgggctttcttttgctatcgagccaggcgtagcg
+            gcatatattccggttgctcatgattatcttgatgcgcccgatcaaatctctcgcgagcgt
+            gcactcgagttgctaaaaccgctgctggaagatgaaaaggcgctgaaggtcgggcaaaac
+            ctgaaatacgatcgcggtattctggcgaactacggcattgaactgcgtgggattgcgttt
+            gataccatgctggagtcctacattctcaatagcgttgccgggcgtcacgatatggacagc
+            ctcgcggaacgttggttgaagcacaaaaccatcacttttgaagagattgctggtaaaggc
+            aaaaatcaactgacctttaaccagattgccctcgaagaagccggacgttacgccgccgaa
+            gatgcagatgtcaccttgcagttgcatctgaaaatgtggccggatctgcaaaaacacaaa
+            gggccgttgaacgtcttcgagaatatcgaaatgccgctggtgccggtgctttcacgcatt
+            gaacgtaacggtgtgaagatcgatccgaaagtgctgcacaatcattctgaagagctcacc
+            cttcgtctggctgagctggaaaagaaagcgcatgaaattgcaggtgaggaatttaacctt
+            tcttccaccaagcagttacaaaccattctctttgaaaaacagggcattaaaccgctgaag
+            aaaacgccgggtggcgcgccgtcaacgtcggaagaggtactggaagaactggcgctggac
+            tatccgttgccaaaagtgattctggagtatcgtggtctggcgaagctgaaatcgacctac
+            accgacaagctgccgctgatgatcaacccgaaaaccgggcgtgtgcatacctcttatcac
+            caggcagtaactgcaacgggacgtttatcgtcaaccgatcctaacctgcaaaacattccg
+            gtgcgtaacgaagaaggtcgtcgtatccgccaggcgtttattgcgccagaggattatgtg
+            attgtctcagcggactactcgcagattgaactgcgcattatggcgcatctttcgcgtgac
+            aaaggcttgctgaccgcattcgcggaaggaaaagatatccaccgggcaacggcggcagaa
+            gtgtttggtttgccactggaaaccgtcaccagcgagcaacgccgtagcgcgaaagcgatc
+            aactttggtctgatttatggcatgagtgctttcggtctggcgcggcaattgaacattcca
+            cgtaaagaagcgcagaagtacatggacctttacttcgaacgctaccctggcgtgctggag
+            tatatggaacgcacccgtgctcaggcgaaagagcagggctacgttgaaacgctggacgga
+            cgccgtctgtatctgccggatatcaaatccagcaatggtgctcgtcgtgcagcggctgaa
+            cgtgcagccattaacgcgccaatgcagggaaccgccgccgacattatcaaacgggcgatg
+            attgccgttgatgcgtggttacaggctgagcaaccgcgtgtacgtatgatcatgcaggta
+            cacgatgaactggtatttgaagttcataaagatgatgttgatgccgtcgcgaagcagatt
+            catcaactgatggaaaactgtacccgtctggatgtgccgttgctggtggaagtggggagt
+            ggcgaaaactgggatcaggcgcactaa
+///

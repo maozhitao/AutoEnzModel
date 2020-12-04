@@ -1,0 +1,50 @@
+ENTRY       b2936             CDS       T00007
+NAME        loiP
+DEFINITION  (RefSeq) metalloprotease LoiP
+ORTHOLOGY   K07387  metalloprotease [EC:3.4.24.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b2936 (loiP)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.-  
+                 b2936 (loiP)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M48: Ste24 endopeptidase family
+               b2936 (loiP)
+POSITION    3081913..3082671
+MOTIF       Pfam: Peptidase_M48 PhageMetallopep
+DBLINKS     NCBI-GeneID: 945173
+            NCBI-ProteinID: NP_417411
+            Pasteur: yggG
+            RegulonDB: ECK120001264
+            ECOCYC: EG11291
+            ASAP: ABE-0009629
+            UniProt: P25894
+AASEQ       252
+            MKIRALLVAMSVATVLTGCQNMDSNGLLSSGAEAFQAYSLSDAQVKTLSDQACQEMDSKA
+            TIAPANSEYAKRLTTIANALGNNINGQPVNYKVYMAKDVNAFAMANGCIRVYSGLMDMMT
+            DNEVEAVIGHEMGHVALGHVKKGMQVALGTNAVRVAAASAGGIVGSLSQSQLGNLGEKLV
+            NSQFSQRQEAEADDYSYDLLRQRGISPAGLATSFEKLAKLEEGRQSSMFDDHPASAERAQ
+            HIRDRMSADGIK
+NTSEQ       759
+            atgaaaattcgcgccttattggtagcaatgagcgtggcaacggtactgactggttgccag
+            aatatggactccaacggactgctctcatcaggagcggaagcttttcaggcttacagtttg
+            agtgatgcgcaggtgaaaaccctgagcgatcaggcatgtcaggagatggacagcaaggcg
+            acgattgcgccagccaatagcgaatacgctaaacgtctgacaactattgccaatgcgcta
+            ggcaacaatatcaacggtcagccggtaaattacaaagtgtatatggcgaaggatgtgaac
+            gcctttgcaatggctaacggctgtatccgcgtctatagcgggctgatggatatgatgacg
+            gataacgaagtcgaagcggtgatcggtcacgaaatggggcacgtggcgttaggccatgtg
+            aaaaaaggaatgcaggtggcacttggtacaaatgccgtgcgagtagctgcggcctctgcg
+            ggcgggattgtcggaagtttatctcaatcacaacttggtaatctgggcgagaaattagtc
+            aattcgcaattctcccagcgccaggaagcagaagccgatgattattcttacgatcttctg
+            cgccaacgcggcatcagcccggcaggtcttgccaccagctttgaaaaactggcaaaactg
+            gaagaaggtcgccaaagctcaatgtttgacgaccatcctgcatccgccgaacgcgcccag
+            catattcgcgatcgcatgagcgcggatgggattaagtaa
+///

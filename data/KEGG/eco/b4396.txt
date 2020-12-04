@@ -1,0 +1,55 @@
+ENTRY       b4396             CDS       T00007
+NAME        rob
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator Rob
+ORTHOLOGY   K05804  AraC family transcriptional regulator, mar-sox-rob regulon activator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b4396 (rob)
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b4396 (rob)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               AraC family
+                b4396 (rob)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Nucleoid associated proteins
+               Other nucreoid associated proteins
+                b4396 (rob)
+POSITION    complement(4634441..4635310)
+MOTIF       Pfam: GyrI-like HTH_18 HTH_AraC Cass2
+DBLINKS     NCBI-GeneID: 948916
+            NCBI-ProteinID: NP_418813
+            Pasteur: rob
+            RegulonDB: ECK120001334
+            ECOCYC: EG11366
+            ASAP: ABE-0014420
+            UniProt: P0ACI0
+STRUCTURE   PDB: 1D5Y
+AASEQ       289
+            MDQAGIIRDLLIWLEGHLDQPLSLDNVAAKAGYSKWHLQRMFKDVTGHAIGAYIRARRLS
+            KSAVALRLTARPILDIALQYRFDSQQTFTRAFKKQFAQTPALYRRSPEWSAFGIRPPLRL
+            GEFTMPEHKFVTLEDTPLIGVTQSYSCSLEQISDFRHEMRYQFWHDFLGNAPTIPPVLYG
+            LNETRPSQDKDDEQEVFYTTALAQDQADGYVLTGHPVMLQGGEYVMFTYEGLGTGVQEFI
+            LTVYGTCMPMLNLTRRKGQDIERYYPAEDAKAGDRPINLRCELLIPIRR
+NTSEQ       870
+            atggatcaggccggcattattcgcgaccttttaatctggctggaaggtcatctggatcag
+            cccctgtcgctcgacaatgtagcggcgaaagcaggttattccaagtggcacttacagaga
+            atgtttaaagatgtcactggccatgctattggcgcgtatattcgtgctcgtcgtttgtcg
+            aaatcggcggtcgcactacgcctgactgcgcgtccgattctggacatcgcgctgcaatac
+            cgcttcgactctcaacagacatttacccgcgcattcaagaagcagtttgcccagactcct
+            gcactttaccgccgttctcctgaatggagcgcctttggtattcgcccgccgctacgcctg
+            ggtgaattcactatgccagagcacaaatttgtcaccctggaagatacgccgctgattggt
+            gttacccagagctactcctgttcgctggagcaaatctctgatttccgccatgaaatgcgt
+            tatcagttctggcacgattttctcggcaacgcgccgaccattccgccggtgctctacggc
+            ctgaatgaaacgcgtccgagtcaggataaagacgacgagcaagaggtattctataccacc
+            gcgttagcccaggatcaggcagatggctatgtactgacggggcatccggtgatgctgcag
+            ggcggcgaatatgtgatgtttacctatgaaggtctgggaaccggcgtgcaggagtttatc
+            ctgacggtatacggaacgtgcatgccaatgctcaacctgacgcgccgtaaaggtcaggat
+            attgagcgatactacccggcagaagatgccaaagcgggagatcgcccaattaatctacgc
+            tgtgaactgctgattccgatccgtcgttaa
+///

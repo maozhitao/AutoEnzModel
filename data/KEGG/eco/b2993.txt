@@ -1,0 +1,45 @@
+ENTRY       b2993             CDS       T00007
+NAME        hybD
+DEFINITION  (RefSeq) putative hydrogenase 2 maturation protease
+ORTHOLOGY   K03605  hydrogenase maturation protease [EC:3.4.23.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b2993 (hybD)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.23  Aspartic endopeptidases
+                3.4.23.-  
+                 b2993 (hybD)
+            Peptidases and inhibitors [BR:eco01002]
+             Aspartic peptidases
+              Family A31: HybD endopeptidase family
+               b2993 (hybD)
+POSITION    complement(3140792..3141286)
+MOTIF       Pfam: HycI MAF_flag10
+DBLINKS     NCBI-GeneID: 948982
+            NCBI-ProteinID: NP_417467
+            Pasteur: hybD
+            RegulonDB: ECK120001736
+            ECOCYC: EG11802
+            ASAP: ABE-0009826
+            UniProt: P37182
+STRUCTURE   PDB: 1CFZ 2KML
+AASEQ       164
+            MRILVLGVGNILLTDEAIGVRIVEALEQRYILPDYVEILDGGTAGMELLGDMANRDHLII
+            ADAIVSKKNAPGTMMILRDEEVPALFTNKISPHQLGLADVLSALRFTGEFPKKLTLVGVI
+            PESLEPHIGLTPTVEAMIEPALEQVLAALRESGVEAIPREAIHD
+NTSEQ       495
+            atgcgtattttagtcttaggggtcggcaatattttgctgaccgatgaagccatcggtgtg
+            cggattgtcgaagcgttagagcaacgatacattctgccggattatgttgagatcctcgat
+            ggcggcacggcgggaatggagctgcttggcgacatggcaaatcgcgatcatttgattatt
+            gcggatgccattgtctcgaaaaagaacgcgccgggaacgatgatgatcctgcgggatgaa
+            gaagttccggcgttgtttaccaacaaaatctctccgcatcagcttggcctggccgacgtc
+            ttgtcggccctgcgcttcaccggcgagtttccgaaaaagctgaccctggtcggcgtgatc
+            ccggaatcgctggagccacacatcggcttaacgccgacggttgaagcaatgattgaacct
+            gcgcttgagcaggttctggctgcgctgcgtgaatctggcgtggaagccatcccacgggag
+            gcgattcatgactga
+///

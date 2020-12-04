@@ -1,0 +1,35 @@
+ENTRY       b3928             CDS       T00007
+NAME        zapB
+DEFINITION  (RefSeq) cell division factor ZapB
+ORTHOLOGY   K09892  cell division protein ZapB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b3928 (zapB)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Divisome proteins
+                b3928 (zapB)
+POSITION    4118515..4118760
+MOTIF       Pfam: ZapB DHR10 DUF3450 PspA_IM30 Seryl_tRNA_N KASH_CCD Leu_zip YabA Uso1_p115_C Herpes_UL6 ADIP CENP-F_leu_zip CtIP_N Filament betaPIX_CC UPF0242 DUF4140 APG6_N BRE1 DUF4763 HAUS-augmin3 Cep57_CLD_2 She9_MDM33 dCache_2 Ufd2P_core DUF4201 Spc7 DUF4164 GIT_CC DUF4407 TMF_TATA_bd Sec34 DUF2205 COG6 ERM Atg14 DUF4757 FlaC_arch DctP Jnk-SapK_ap_N CENP-H Tox-ODYAM1 Occludin_ELL MCC-bdg_PDZ DUF1664 CP12 DivIC DUF2203 Ax_dynein_light V_ATPase_I Tho2 bZIP_2 TMPIT
+DBLINKS     NCBI-GeneID: 948420
+            NCBI-ProteinID: NP_418363
+            Pasteur: yiiU
+            RegulonDB: ECK120001808
+            ECOCYC: EG11878
+            ASAP: ABE-0012835
+            UniProt: P0AF36
+STRUCTURE   PDB: 2JEE
+AASEQ       81
+            MTMSLEVFEKLEAKVQQAIDTITLLQMEIEELKEKNNSLSQEVQNAQHQREELERENNHL
+            KEQQNGWQERLQALLGRMEEV
+NTSEQ       246
+            atgacaatgtcattagaagtgtttgagaaactggaagcaaaagtacagcaggcgattgat
+            accatcactctgttgcagatggaaatcgaagagctgaaagaaaaaaacaactcactgtcg
+            caggaagttcaaaatgcccagcatcagcgcgaagagctggagcgtgagaacaaccatctg
+            aaagaacagcagaacggctggcaggaacgtctgcaggccctgctgggtcgcatggaagag
+            gtctga
+///

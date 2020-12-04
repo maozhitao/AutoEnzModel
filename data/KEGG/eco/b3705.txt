@@ -1,0 +1,88 @@
+ENTRY       b3705             CDS       T00007
+NAME        yidC
+DEFINITION  (RefSeq) membrane protein insertase YidC
+ORTHOLOGY   K03217  YidC/Oxa1 family membrane protein insertase
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02024  Quorum sensing
+            eco03060  Protein export
+            eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b3705 (yidC)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3705 (yidC)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b3705 (yidC)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b3705 (yidC)
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3705 (yidC)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial quality control factors
+              Mitochondrial respiratory chain complex assembly factors
+               Complex-IV assembly factors
+                b3705 (yidC)
+            Secretion system [BR:eco02044]
+             Sec (secretion) system
+              Prokaryotic Sec-SRP core components
+               b3705 (yidC)
+POSITION    3885076..3886722
+MOTIF       Pfam: YidC_periplas 60KD_IMP
+DBLINKS     NCBI-GeneID: 948214
+            NCBI-ProteinID: NP_418161
+            Pasteur: yidC
+            RegulonDB: ECK120001178
+            ECOCYC: EG11197
+            ASAP: ABE-0012120
+            UniProt: P25714
+STRUCTURE   PDB: 3BS6 3BLC 6AL2 3WVF 5M5H 4UTQ 5MG3
+AASEQ       548
+            MDSQRNLLVIALLFVSFMIWQAWEQDKNPQPQAQQTTQTTTTAAGSAADQGVPASGQGKL
+            ISVKTDVLDLTINTRGGDVEQALLPAYPKELNSTQPFQLLETSPQFIYQAQSGLTGRDGP
+            DNPANGPRPLYNVEKDAYVLAEGQNELQVPMTYTDAAGNTFTKTFVLKRGDYAVNVNYNV
+            QNAGEKPLEISSFGQLKQSITLPPHLDTGSSNFALHTFRGAAYSTPDEKYEKYKFDTIAD
+            NENLNISSKGGWVAMLQQYFATAWIPHNDGTNNFYTANLGNGIAAIGYKSQPVLVQPGQT
+            GAMNSTLWVGPEIQDKMAAVAPHLDLTVDYGWLWFISQPLFKLLKWIHSFVGNWGFSIII
+            ITFIVRGIMYPLTKAQYTSMAKMRMLQPKIQAMRERLGDDKQRISQEMMALYKAEKVNPL
+            GGCFPLLIQMPIFLALYYMLMGSVELRQAPFALWIHDLSAQDPYYILPILMGVTMFFIQK
+            MSPTTVTDPMQQKIMTFMPVIFTVFFLWFPSGLVLYYIVSNLVTIIQQQLIYRGLEKRGL
+            HSREKKKS
+NTSEQ       1647
+            atggattcgcaacgcaatcttttagtcatcgctttgctgttcgtgtctttcatgatctgg
+            caagcctgggagcaggataaaaacccgcaacctcaggcccaacagaccacgcagacaacg
+            accaccgcagcgggtagcgccgccgaccagggcgtaccggccagtggccaggggaaactg
+            atctcggttaagaccgacgtgcttgatctgaccatcaacacccgtggtggtgatgttgag
+            caagctctgctgcctgcttacccgaaagagctgaactctacccagccgttccagctgttg
+            gaaacttcaccgcagtttatttatcaggcacagagcggtctgaccggtcgtgatggcccg
+            gataacccggctaacggcccgcgtccgctgtataacgttgaaaaagacgcttatgtgctg
+            gctgaaggtcaaaacgaactgcaggtgccgatgacgtataccgacgcggcaggcaacacg
+            tttaccaaaacgtttgtcctgaaacgtggtgattacgctgtcaacgtcaactacaacgtg
+            cagaacgctggcgagaaaccgctggaaatctcctcgtttggtcagttgaagcaatccatc
+            actctgccaccgcatctcgataccggaagcagcaacttcgcactgcacaccttccgtggc
+            gcggcgtactccacgcctgacgagaagtatgagaaatacaagttcgataccattgccgat
+            aacgaaaacctgaacatctcttcgaaaggtggttgggtggcgatgctgcaacagtatttc
+            gcgacggcgtggatcccgcataacgacggtaccaacaacttctataccgctaatctgggt
+            aacggcatcgccgctatcggctataaatctcagccggtactggttcagcctggtcagact
+            ggcgcgatgaacagcaccctgtgggttggcccggaaatccaggacaaaatggcagctgtt
+            gctccgcacctggatctgaccgttgattacggttggttgtggttcatctctcagccgctg
+            ttcaaactgctgaaatggatccatagctttgtgggtaactggggcttctccattatcatc
+            atcacctttatcgttcgtggcatcatgtacccgctgaccaaagcgcagtacacctccatg
+            gcgaagatgcgtatgttgcagccgaagattcaggcaatgcgtgagcgtctgggcgatgac
+            aaacagcgtatcagccaggaaatgatggcgctgtacaaagctgagaaggttaacccgctg
+            ggcggctgcttcccgctgctgatccagatgccaatcttcctggcgttgtactacatgctg
+            atgggttccgttgaactgcgtcaggcaccgtttgcactgtggatccacgacctgtcggca
+            caggacccgtactacatcctgccgatcctgatgggcgtaacgatgttcttcattcagaag
+            atgtcgccgaccacagtgaccgacccgatgcagcagaagatcatgacctttatgccggtc
+            atcttcaccgtgttcttcctgtggttcccgtcaggtctggtgctgtactatatcgtcagc
+            aacctggtaaccattattcagcagcagctgatttaccgtggtctggaaaaacgtggcctg
+            catagccgcgagaagaaaaaatcctga
+///

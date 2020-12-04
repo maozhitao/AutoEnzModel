@@ -1,0 +1,99 @@
+ENTRY       b3019             CDS       T00007
+NAME        parC
+DEFINITION  (RefSeq) DNA topoisomerase IV subunit A
+ORTHOLOGY   K02621  topoisomerase IV subunit A [EC:5.6.2.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b3019 (parC)
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b3019 (parC)
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b3019 (parC)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.6  Isomerases altering macromolecular conformation
+               5.6.2  Enzymes altering nucleic acid conformation
+                5.6.2.2  DNA topoisomerase (ATP-hydrolysing)
+                 b3019 (parC)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Topoisomerases
+               b3019 (parC)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Other chromosome partitioning proteins
+                b3019 (parC)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               Type II TA system related factors
+                b3019 (parC)
+POSITION    complement(3163715..3165973)
+MOTIF       Pfam: DNA_topoisoIV DNA_gyraseA_C DUF4890 SWIRM-assoc_1
+DBLINKS     NCBI-GeneID: 947499
+            NCBI-ProteinID: NP_417491
+            Pasteur: parC
+            RegulonDB: ECK120000679
+            ECOCYC: EG10686
+            ASAP: ABE-0009916
+            UniProt: P0AFI2
+STRUCTURE   PDB: 1ZVT 4MN4 1ZVU
+AASEQ       752
+            MSDMAERLALHEFTENAYLNYSMYVIMDRALPFIGDGLKPVQRRIVYAMSELGLNASAKF
+            KKSARTVGDVLGKYHPHGDSACYEAMVLMAQPFSYRYPLVDGQGNWGAPDDPKSFAAMRY
+            TESRLSKYSELLLSELGQGTADWVPNFDGTLQEPKMLPARLPNILLNGTTGIAVGMATDI
+            PPHNLREVAQAAIALIDQPKTTLDQLLDIVQGPDYPTEAEIITSRAEIRKIYENGRGSVR
+            MRAVWKKEDGAVVISALPHQVSGARVLEQIAAQMRNKKLPMVDDLRDESDHENPTRLVIV
+            PRSNRVDMDQVMNHLFATTDLEKSYRINLNMIGLDGRPAVKNLLEILSEWLVFRRDTVRR
+            RLNYRLEKVLKRLHILEGLLVAFLNIDEVIEIIRNEDEPKPALMSRFGLTETQAEAILEL
+            KLRHLAKLEEMKIRGEQSELEKERDQLQGILASERKMNNLLKKELQADAQAYGDDRRSPL
+            QEREEAKAMSEHDMLPSEPVTIVLSQMGWVRSAKGHDIDAPGLNYKAGDSFKAAVKGKSN
+            QPVVFVDSTGRSYAIDPITLPSARGQGEPLTGKLTLPPGATVDHMLMESDDQKLLMASDA
+            GYGFVCTFNDLVARNRAGKALITLPENAHVMPPVVIEDASDMLLAITQAGRMLMFPVSDL
+            PQLSKGKGNKIINIPSAEAARGEDGLAQLYVLPPQSTLTIHVGKRKIKLRPEELQKVTGE
+            RGRRGTLMRGLQRIDRVEIDSPRRASSGDSEE
+NTSEQ       2259
+            atgagcgatatggcagagcgccttgcgctacatgaatttacggaaaacgcctacttaaac
+            tactccatgtacgtgatcatggaccgtgcgttgccgtttattggtgatggtctgaaacct
+            gttcagcgccgcattgtgtatgcgatgtctgaactgggcctgaatgccagcgccaaattt
+            aaaaaatcggcccgtaccgtcggtgacgtactgggtaaataccatccgcacggcgatagc
+            gcctgttatgaagcgatggtcctgatggcgcaaccgttctcttaccgttatccgctggtt
+            gatggtcaggggaactggggcgcgccggacgatccgaaatcgttcgcggcaatgcgttac
+            accgaatcccggttgtcgaaatattccgagctgctattgagcgagctggggcaggggacg
+            gctgactgggtgccaaacttcgacggcactttgcaggagccgaaaatgctacctgcccgt
+            ctgccaaacattttgcttaacggcaccaccggtattgccgtcggcatggcgaccgatatt
+            ccaccgcataacctgcgtgaagtggctcaggcggcaatcgcattaatcgaccagccgaaa
+            accacgctcgatcagctgctggatatcgtgcaggggccggattatccgactgaagcggaa
+            attatcacttcgcgcgccgagatccgtaaaatctacgagaacggacgtggttcagtgcgt
+            atgcgcgcggtgtggaagaaagaagatggcgcggtggttatcagcgcattgccgcatcag
+            gtttcaggtgcgcgcgtactggagcaaattgctgcgcaaatgcgcaacaaaaagctgccg
+            atggttgacgatctgcgcgatgaatctgaccacgagaacccgacccgcctggtgattgtg
+            ccgcgttccaaccgcgtggatatggatcaggtgatgaaccacctcttcgctaccaccgat
+            ctggaaaagagctatcgtattaaccttaatatgatcggtctggatggtcgtccggcggtg
+            aaaaacctgctggaaatcctctccgaatggctggtgttccgccgcgataccgtgcgccgc
+            cgactgaactatcgtctggagaaagtcctcaagcgcctgcatatcctcgaaggtttgctg
+            gtggcgtttctcaatatcgacgaagtgattgagatcattcgtaatgaagatgaaccgaaa
+            ccggcgctgatgtcgcggtttggccttacggaaacccaggcggaagcgatcctcgaactg
+            aaactgcgtcatcttgccaaactggaagagatgaagattcgcggtgagcagagtgaactg
+            gaaaaagagcgcgaccagttgcagggcattttggcttccgagcgtaaaatgaataacctg
+            ctgaagaaagaactgcaggcagacgcgcaagcctacggtgacgatcgtcgttcgccgttg
+            caggaacgcgaagaagcgaaagcgatgagcgagcacgacatgctgccgtctgaacctgtc
+            accattgtgctgtcgcagatgggctgggtacgcagcgctaaaggccatgatatcgacgcg
+            ccgggcctgaattataaagcgggtgatagcttcaaagcggcggtgaaaggtaagagcaac
+            caaccggtagtgtttgttgattccaccggtcgtagctatgccattgacccgattacgctg
+            ccgtcggcgcgtggtcagggcgagccgctcaccggcaaattaacgttgccgcctggggcg
+            accgttgaccatatgctgatggaaagcgacgatcagaaactgctgatggcttccgatgcg
+            ggttacggtttcgtctgcacctttaacgatctggtggcgcgtaaccgtgcaggtaaggct
+            ttgatcaccttaccggaaaatgcccatgttatgccgccggtggtgattgaagatgcttcc
+            gatatgctgctggcaatcactcaggcaggccgtatgttgatgttcccggtaagtgatctg
+            ccgcagctgtcgaagggcaaaggcaacaagattatcaacattccatcggcagaagccgcg
+            cgtggagaagatggtctggcgcaattgtacgttctgccgccgcaaagcacgctgaccatt
+            catgttgggaaacgcaaaattaaactgcgcccggaagagttacagaaagtcactggcgaa
+            cgtggacgccgcggtacgttgatgcgcggtttgcagcgtatcgatcgtgttgagatcgac
+            tctcctcgccgtgccagcagcggtgatagcgaagagtaa
+///

@@ -1,0 +1,87 @@
+ENTRY       b2060             CDS       T00007
+NAME        wzc
+DEFINITION  (RefSeq) protein-tyrosine kinase Wzc
+ORTHOLOGY   K16692  tyrosine-protein kinase Etk/Wzc [EC:2.7.10.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b2060 (wzc)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b2060 (wzc)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.10  Protein-tyrosine kinases
+                2.7.10.-  
+                 b2060 (wzc)
+            Protein kinases [BR:eco01001]
+             Non-receptor tyrosine kinases
+              Bacterial
+               b2060 (wzc)
+POSITION    complement(2133490..2135652)
+MOTIF       Pfam: GNVR Wzz AAA_31 CbiA AAA_26 ParA CBP_BcsQ SRP54 ArsA_ATPase Fer4_NifH DnaB_C
+DBLINKS     NCBI-GeneID: 946567
+            NCBI-ProteinID: NP_416564
+            Pasteur: wzc
+            RegulonDB: ECK120003691
+            ECOCYC: G7105
+            ASAP: ABE-0006819
+            UniProt: P76387
+STRUCTURE   PDB: 3LA6
+AASEQ       720
+            MTEKVKQHAAPVTGSDEIDIGRLVGTVIEARWWVIGITTVFALCAVVYTFFATPIYSADA
+            LVQIEQNSGNSLVQDIGSALANKPPASDAEIQLIRSRLVLGKTVDDLDLDIAVSKNTFPI
+            FGAGWDRLMGRQNETVKVTTFNRPKEMADQVFTLNVLDNKNYTLSSDGGFSARGQAGQML
+            KKEGVTLMVEAIHASPGSEFTVTKYSTLGMINQLQNSLTVTENGKDAGVLSLTYTGEDRE
+            QIRDILNSIARNYQEQNIERKSAEASKSLAFLAQQLPEVRSRLDVAENKLNAFRQDKDSV
+            DLPLEAKAVLDSMVNIDAQLNELTFKEAEISKLYTKVHPAYRTLLEKRQALEDEKAKLNG
+            RVTAMPKTQQEIVRLTRDVESGQQVYMQLLNKEQELKITEASTVGDVRIVDPAITQPGVL
+            KPKKGLIILGAIILGLMLSIVGVLLRSLFNRGIESPQVLEEHGISVYASIPLSEWQKARD
+            SVKTIKGIKRYKQSQLLAVGNPTDLAIEAIRSLRTSLHFAMMQAQNNVLMMTGVSPSIGK
+            TFVCANLAAVISQTNKRVLLIDCDMRKGYTHELLGTNNVNGLSEILIGQGDITTAAKPTS
+            IAKFDLIPRGQVPPNPSELLMSERFAELVNWASKNYDLVLIDTPPILAVTDAAIVGRHVG
+            TTLMVARYAVNTLKEVETSLSRFEQNGIPVKGVILNSIFRRASAYQDYGYYEYEYKSDAK
+NTSEQ       2163
+            atgacagaaaaagtaaaacaacatgccgctccggtaacgggcagtgatgaaatcgatatt
+            ggtcgcctggtcggcaccgtcattgaagcgcgctggtgggtgattggcatcaccaccgta
+            ttcgccctctgtgccgtggtttacaccttcttcgccacgccgatttatagtgccgacgca
+            ctggtacaaatcgagcaaaacagcggcaattcgttagtgcaggacattggttcggcatta
+            gccaacaaaccgcctgcatcggacgccgagatccagttgattcgttcgcgtctggtgctt
+            ggtaaaacggtggacgatctcgacctcgatattgcagtgagcaaaaacacgttcccgatt
+            ttcggtgcgggctgggatcgcctgatgggacgtcagaacgagacggtgaaagtgaccacc
+            tttaaccgcccgaaagagatggcggatcaggtgtttacgcttaatgtgctggacaacaaa
+            aactacaccctgagcagcgacggcggctttagcgcccgggggcaagcgggccagatgctg
+            aaaaaagaaggcgtcacgctgatggttgaagccattcacgccagcccgggcagtgagttt
+            accgtcaccaaatactccacgctggggatgatcaaccaactgcaaaacagcctgacggta
+            acggagaacggcaaagacgctggcgttttgagcctgacttataccggtgaagatcgtgaa
+            cagatccgcgacattcttaacagcatcgcccgtaactatcaggaacaaaatattgagcgc
+            aaatcggcggaagcgtcgaaaagcctcgccttcctcgcgcaacagttaccggaagtacgt
+            agccgcttggatgttgccgaaaacaaactgaatgccttccgtcaggataaagattctgtt
+            gatctgccgctggaagcaaaagcggtgctcgattcgatggtgaacatcgatgcgcagttg
+            aacgaactgacctttaaagaggcggaaatctccaagctgtacaccaaagttcacccggcg
+            taccgcacgctgctggagaaacgtcaggcgctggaagacgaaaaagccaaacttaacggt
+            cgcgtaacggcgatgccgaaaacccagcaggagattgtccgtctgacccgcgatgtcgag
+            tctggtcagcaggtctatatgcaactgctgaataaagagcaggagctgaaaatcaccgag
+            gccagcaccgtcggcgatgtgcgcattgttgacccggcaatcactcagcctggcgtgctg
+            aaaccgaagaaagggctgattatcctcggcgcgattatccttggcctgatgctttctatc
+            gtgggtgtgctgctgcgctcgttgtttaatcgcggcattgaaagcccgcaagtactggaa
+            gaacacggtattagcgtctatgccagcatcccgctgtcggaatggcagaaagcgcgtgat
+            agcgtcaaaaccatcaaagggattaaacgctataaacagagccagctactggcggtgggg
+            aatccaaccgatctggcgattgaagccatccgtagtctgcgtaccagtttgcacttcgcg
+            atgatgcaggcacagaacaatgtgttgatgatgaccggggttagcccgtcaattggtaaa
+            acctttgtctgcgccaacctggcggcggtgatcagccagaccaataaacgcgtgttgttg
+            atcgactgcgatatgcgcaaaggctacacccacgagctgttgggcactaataacgttaat
+            ggcctgtcggaaattctgattggtcagggcgatattactaccgctgctaaaccgacctct
+            attgccaaatttgacctgatcccgcgcggtcaggtgccgccaaatccttctgaactgttg
+            atgagcgaacgctttgccgaactggtgaactgggcgagtaaaaactatgacctggtgttg
+            attgatacgccgccgattctggcagtgaccgatgcggcaattgttggtcgtcatgtcgga
+            accacgttaatggtggcgcgttatgcggtcaacacattgaaagaagtggaaaccagtctg
+            agccgctttgagcaaaacggtattccggtgaaaggggtgattctgaactccatcttccgc
+            cgcgccagcgcgtatcaggattatggctattacgaatacgaatataagtcggatgcgaaa
+            taa
+///

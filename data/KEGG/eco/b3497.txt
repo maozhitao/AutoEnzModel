@@ -1,0 +1,52 @@
+ENTRY       b3497             CDS       T00007
+NAME        rsmJ
+DEFINITION  (RefSeq) 16S rRNA m(2)G1516 methyltransferase
+ORTHOLOGY   K15984  16S rRNA (guanine1516-N2)-methyltransferase [EC:2.1.1.242]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b3497 (rsmJ)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.242  16S rRNA (guanine1516-N2)-methyltransferase
+                 b3497 (rsmJ)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               16S rRNA modification factors
+                b3497 (rsmJ)
+POSITION    complement(3642380..3643132)
+MOTIF       Pfam: SAM_MT
+DBLINKS     NCBI-GeneID: 948005
+            NCBI-ProteinID: NP_417954
+            Pasteur: yhiQ
+            RegulonDB: ECK120002117
+            ECOCYC: EG12233
+            ASAP: ABE-0011419
+            UniProt: P68567
+STRUCTURE   PDB: 2PGX
+AASEQ       250
+            MKICLIDETGTGDGALSVLAARWGLEHDEDNLMALVLTPEHLELRKRDEPKLGGIFVDFV
+            GGAMAHRRKFGGGRGEAVAKAVGIKGDYLPDVVDATAGLGRDAFVLASVGCRVRMLERNP
+            VVAALLDDGLARGYADAEIGGWLQERLQLIHASSLTALTDITPRPQVVYLDPMFPHKQKS
+            ALVKKEMRVFQSLVGPDLDADGLLEPARLLATKRVVVKRPDYAPPLANVATPNAVVTKGH
+            RFDIYAGTPV
+NTSEQ       753
+            gtgaaaatctgcttaattgatgaaacaggcaccggagacggtgccttatctgttctggcg
+            gcccgctgggggctggagcacgatgaagacaacctgatggcgctggtgttaacgccggaa
+            catctggaattgcgcaagcgtgatgagccaaaacttggcggcatctttgttgattttgtt
+            ggcggagcgatggcgcaccgacgcaaattcggcggtggtcgcggtgaggcggtggcgaaa
+            gcggtgggcattaaaggcgattatttgccggatgtggtggatgccactgcaggacttggg
+            cgcgatgcctttgtactggcttcagtcggctgccgcgtgcggatgctggagcgtaatcca
+            gtggttgccgcgctactcgacgacggcctggcgcgtggttatgcggatgcggaaatcggc
+            ggctggttgcaggagcggttgcagttaattcacgcctccagcctgacggcgctgactgat
+            attaccccgcgcccgcaggtggtttatctcgacccgatgttcccgcataagcagaaaagc
+            gcgctagtgaaaaaagagatgcgtgtctttcagtcgctggtgggaccggatcttgatgcc
+            gatggattactggagcctgcacgcttgctggcgaccaaacgcgtggtggtaaagcgcccg
+            gactacgcgccaccgctggcgaatgtcgccacgccaaacgcggtagtcactaaagggcat
+            cgctttgatatctatgcaggtacgccagtgtaa
+///

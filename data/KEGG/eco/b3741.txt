@@ -1,0 +1,80 @@
+ENTRY       b3741             CDS       T00007
+NAME        mnmG
+DEFINITION  (RefSeq) 5-carboxymethylaminomethyluridine-tRNA synthase subunit MnmG
+ORTHOLOGY   K03495  tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3741 (mnmG)
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b3741 (mnmG)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              tRNA modification factors
+               Other tRNA modification factors
+                b3741 (mnmG)
+             Prokaryotic type
+                b3741 (mnmG)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Other chromosome partitioning proteins
+                b3741 (mnmG)
+POSITION    complement(3923744..3925633)
+MOTIF       Pfam: GIDA GIDA_assoc FAD_oxidored FAD_binding_2 Pyr_redox_2 AlaDh_PNT_C DAO HI0933_like Thi4 Pyr_redox MarR_2 FAD_binding_3 Pyr_redox_3 NAD_binding_9
+DBLINKS     NCBI-GeneID: 948248
+            NCBI-ProteinID: NP_418197
+            Pasteur: gidA
+            RegulonDB: ECK120000368
+            ECOCYC: EG10375
+            ASAP: ABE-0012231
+            UniProt: P0A6U3
+STRUCTURE   PDB: 3CES 3CP2 3G05
+AASEQ       629
+            MFYPDPFDVIIIGGGHAGTEAAMAAARMGQQTLLLTHNIDTLGQMSCNPAIGGIGKGHLV
+            KEVDALGGLMAKAIDQAGIQFRILNASKGPAVRATRAQADRVLYRQAVRTALENQPNLMI
+            FQQAVEDLIVENDRVVGAVTQMGLKFRAKAVVLTVGTFLDGKIHIGLDNYSGGRAGDPPS
+            IPLSRRLRELPLRVGRLKTGTPPRIDARTIDFSVLAQQHGDNPMPVFSFMGNASQHPQQV
+            PCYITHTNEKTHDVIRSNLDRSPMYAGVIEGVGPRYCPSIEDKVMRFADRNQHQIFLEPE
+            GLTSNEIYPNGISTSLPFDVQMQIVRSMQGMENAKIVRPGYAIEYDFFDPRDLKPTLESK
+            FIQGLFFAGQINGTTGYEEAAAQGLLAGLNAARLSADKEGWAPARSQAYLGVLVDDLCTL
+            GTKEPYRMFTSRAEYRLMLREDNADLRLTEIGRELGLVDDERWARFNEKLENIERERQRL
+            KSTWVTPSAEAAAEVNAHLTAPLSREASGEDLLRRPEMTYEKLTTLTPFAPALTDEQAAE
+            QVEIQVKYEGYIARQQDEIEKQLRNENTLLPATLDYRQVSGLSNEVIAKLNDHKPASIGQ
+            ASRISGVTPAAISILLVWLKKQGMLRRSA
+NTSEQ       1890
+            atgttttatccggatccttttgacgtcatcatcattggcgggggtcatgcaggcaccgag
+            gccgcgatggccgcggcgcgtatgggtcaacagactctgcttttgacacacaatatcgac
+            actctggggcagatgagctgcaacccggcgatcggcggtattgggaagggacatctggta
+            aaagaagtggatgcactcggcggtctgatggcgaaagcgatcgatcaggcgggtatccag
+            tttaggatactaaacgcaagcaaaggaccggcggttcgcgctacccgagctcaggcggat
+            cgtgtgctctaccgtcaggcggtacgtacggcgctggagaaccaaccgaacctgatgatc
+            ttccagcaggcggttgaagatcttattgtcgaaaacgatcgcgtggtcggtgctgttacc
+            caaatgggactgaagttccgtgccaaagccgtcgtgctcaccgttgggacgttcctcgac
+            ggtaaaattcatatcggtctggataattacagcggtggccgtgctggtgatccgccgtcc
+            attccgctttctcgccgtttgcgtgaactgccgctgcgcgttggtcgtctgaaaaccggg
+            acaccaccgcgtattgatgctcgaaccatcgactttagcgtactggcgcaacagcatggc
+            gataacccaatgccggtattctcgtttatgggcaatgcgtcccagcatccccagcaggtg
+            ccgtgttatatcactcataccaacgagaaaacccatgatgtgatccgcagtaacctcgat
+            cgtagcccaatgtacgcaggggtgatcgaaggtgtcggcccacgctactgcccgtcgatc
+            gaagacaaagtcatgcgcttcgccgacagaaatcagcatcagatcttccttgaaccggaa
+            ggactgacctctaatgaaatttatccgaacggtatctccaccagcctgccgttcgatgtg
+            cagatgcaaatcgtccgctctatgcaggggatggaaaacgcgaagatcgtgcgtccgggt
+            tatgccattgagtatgacttcttcgatcctcgcgacctgaaaccgacgctggagagcaag
+            tttatccaggggctgttctttgctggtcagattaacggcactaccggttacgaagaagcc
+            gctgcgcaaggtttgctggccggtcttaacgctgcccgtctgtctgctgacaaagaaggt
+            tgggctccggcacgttctcaggcgtatctcggcgtactagttgatgacctgtgcacttta
+            ggaaccaaagaaccgtatcgtatgtttacttcgcgcgcagaatatcgtctgatgctacgc
+            gaagataatgcggatctgcgtttgactgaaatcggtcgtgaactgggcctggtggatgac
+            gaacgttgggcgcgctttaacgagaaacttgagaatatcgagcgtgagcgtcagcgtctg
+            aaatcgacctgggtaaccccgtcggcggaagctgcagccgaagtgaatgctcacctgact
+            gcgccgctttcccgtgaagccagtggtgaagatctgctgcgtcgtccggaaatgacttat
+            gaaaaattaaccacgctgacgccgtttgcccctgcgttgacagacgaacaggcggcggaa
+            caggttgagattcaggttaaatacgaaggttatatcgcgcgccagcaagatgagatcgaa
+            aagcagctgcgtaacgagaacaccctgctacccgcgacactggattaccgccaggtatcc
+            ggtctttctaacgaagtgatcgccaaacttaacgatcacaaaccagcctctatcggccaa
+            gcttcgcgtatttctggcgtcacgcctgcggccatctccattctgctggtgtggctgaaa
+            aaacagggtatgctgcgtcgtagcgcataa
+///

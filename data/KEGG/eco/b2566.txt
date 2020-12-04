@@ -1,0 +1,59 @@
+ENTRY       b2566             CDS       T00007
+NAME        era
+DEFINITION  (RefSeq) 30S ribosomal subunit maturation GTPase Era
+ORTHOLOGY   K03595  GTPase
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b2566 (era)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b2566 (era)
+            Ribosome biogenesis [BR:eco03009]
+             Eukaryotic type
+              Other ribosome biogenesis factors
+               b2566 (era)
+             Prokaryotic type
+              GTPases
+               b2566 (era)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Other mitochondrial DNA transcription and translation factors
+                b2566 (era)
+POSITION    complement(2702481..2703386)
+MOTIF       Pfam: MMR_HSR1 KH_2 FeoB_N GTP_EFTU RsgA_GTPase Dynamin_N AIG1 PduV-EutP AAA_22 Ras Roc MMR_HSR1_Xtn SRPRB NB-ARC ABC_tran
+DBLINKS     NCBI-GeneID: 947036
+            NCBI-ProteinID: NP_417061
+            Pasteur: era
+            RegulonDB: ECK120000264
+            ECOCYC: EG10270
+            ASAP: ABE-0008440
+            UniProt: P06616
+STRUCTURE   PDB: 1EGA 3IEU 1X1L
+AASEQ       301
+            MSIDKSYCGFIAIVGRPNVGKSTLLNKLLGQKISITSRKAQTTRHRIVGIHTEGAYQAIY
+            VDTPGLHMEEKRAINRLMNKAASSSIGDVELVIFVVEGTRWTPDDEMVLNKLREGKAPVI
+            LAVNKVDNVQEKADLLPHLQFLASQMNFLDIVPISAETGLNVDTIAAIVRKHLPEATHHF
+            PEDYITDRSQRFMASEIIREKLMRFLGAELPYSVTVEIERFVSNERGGYDINGLILVERE
+            GQKKMVIGNKGAKIKTIGIEARKDMQEMFEAPVHLELWVKVKSGWADDERALRSLGYVDD
+            L
+NTSEQ       906
+            atgagcatcgataaaagttactgcggatttattgccatcgtcggacgtccgaacgttggc
+            aaatccacattgttgaacaaactgctggggcagaaaatctccatcacttcccgcaaggcg
+            cagacaactcgtcaccgcattgtggggatccatactgaaggcgcgtatcaggcgatctac
+            gtcgatacaccgggcctgcatatggaagaaaaacgcgccattaaccgcctgatgaacaaa
+            gcggcgagcagctctattggcgatgttgagctggtgatttttgtcgttgaaggcacccgc
+            tggacgccggacgacgaaatggtgctcaacaaactgcgcgaaggcaaagcgccggtaatc
+            ctcgcggtgaacaaagtggacaacgtgcaggagaaagccgatctgctgccgcacctgcag
+            ttcctggcaagccagatgaacttcctcgatatcgtgccaatctctgccgaaaccgggctg
+            aatgttgacactattgcggcaatcgtgcgtaagcatctacctgaagcgactcatcacttc
+            ccggaagattacatcaccgatcgctcacagcgttttatggcgtctgaaatcatccgcgaa
+            aaactgatgcgtttcctcggcgctgaactgccgtactccgtgaccgtggagatcgaacgt
+            ttcgtctctaacgaacgcggtggttatgacatcaacggtttgattctcgttgagcgtgaa
+            gggcagaagaagatggtcattggcaacaaaggggccaagatcaaaaccatcgggattgaa
+            gcgcgtaaagacatgcaggaaatgttcgaagcgcctgttcaccttgaactgtgggtaaaa
+            gtgaaatccggttgggccgacgacgaacgcgcactgcgcagtctcggttacgttgacgat
+            ctttaa
+///

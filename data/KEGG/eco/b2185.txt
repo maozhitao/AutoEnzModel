@@ -1,0 +1,42 @@
+ENTRY       b2185             CDS       T00007
+NAME        rplY
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L25
+ORTHOLOGY   K02897  large subunit ribosomal protein L25
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b2185 (rplY)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b2185 (rplY)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Bacteria
+               Large subunit
+                b2185 (rplY)
+POSITION    2282517..2282801
+MOTIF       Pfam: Ribosomal_L25p
+DBLINKS     NCBI-GeneID: 945618
+            NCBI-ProteinID: NP_416690
+            Pasteur: rplY
+            RegulonDB: ECK120000876
+            ECOCYC: EG10885
+            ASAP: ABE-0007231
+            UniProt: P68919
+STRUCTURE   PDB: 1DFU 6QUL 6S0K 6I0Y 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH
+                 4UY8 3J7Z 6GC4 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L 487D 2J28
+                 2RDO 3BBX 1ML5 1D6K 1B75
+AASEQ       94
+            MFTINAEVRKEQGKGASRRLRAANKFPAIIYGGKEAPLAIELDHDKVMNMQAKAEFYSEV
+            LTIVVDGKEIKVKAQDVQRHPYKPKLQHIDFVRA
+NTSEQ       285
+            atgtttactatcaacgcagaagtacgtaaagagcagggtaagggtgcgagccgccgcctg
+            cgtgccgctaacaagttcccggcaatcatctacggtggcaaagaagcgccgctggctatc
+            gagctggatcacgacaaagtcatgaacatgcaagctaaagctgaattctacagcgaagtt
+            ctgaccatcgttgttgacggtaaagaaatcaaagttaaagctcaggacgtacagcgtcac
+            ccgtacaaaccgaagctgcagcacatcgacttcgttcgcgcttaa
+///

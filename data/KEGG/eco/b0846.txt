@@ -1,0 +1,40 @@
+ENTRY       b0846             CDS       T00007
+NAME        rcdA
+DEFINITION  (RefSeq) DNA-binding transcriptional regulator RcdA
+ORTHOLOGY   K23778  TetR/AcrR family transcriptional regulator, regulator of biofilm formation and stress response
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0846 (rcdA)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               TetR/AcrR family
+                b0846 (rcdA)
+POSITION    887423..887959
+MOTIF       Pfam: TetR_N TetR_C_31 TetR_C_6 TetR_C_28 TetR_C_11
+DBLINKS     NCBI-GeneID: 945473
+            NCBI-ProteinID: NP_415367
+            Pasteur: ybjK
+            RegulonDB: ECK120003044
+            ECOCYC: G6444
+            ASAP: ABE-0002885
+            UniProt: P75811
+STRUCTURE   PDB: 5X5I
+AASEQ       178
+            MRRANDPQRREKIIQATLEAVKLYGIHAVTHRKIATLAGVPLGSMTYYFSGIDELLLEAF
+            SSFTEIMSRQYQAFFSDVSDAPGACQAITDMIYSSQVATPDNMELMYQLYALASRKPLLK
+            TVMQNWMQRSQQTLEQWFEPGTARALDAFIEGMTLHFVTDRKPLSREEILRMVERVAG
+NTSEQ       537
+            atgcgtcgcgctaacgatccgcaacggcgagaaaaaattatccaggccacgctggaggcg
+            gtgaaactttacggaatacatgctgttacgcaccgcaaaattgctacccttgccggggta
+            ccgttgggatcgatgacctactatttttcaggaattgatgagttgttactggaggcgttc
+            agcagttttactgagatcatgtcccggcaatatcaggcattttttagcgatgttagtgat
+            gctccgggcgcatgccaggctatcaccgatatgatctacagctcacaggttgcaacgccg
+            gataacatggagctgatgtaccagctctacgcgctggctagccgaaaaccgctattaaaa
+            acggtaatgcaaaactggatgcagcgcagtcagcaaacgctcgaacaatggtttgaaccc
+            ggaaccgcccgcgcgcttgatgcgtttattgaggggatgacgctgcattttgtcaccgac
+            cgtaagccgctatcgcgcgaggagattttgaggatggttgagagggttgcagggtag
+///

@@ -1,0 +1,52 @@
+ENTRY       b3934             CDS       T00007
+NAME        cytR
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor CytR
+ORTHOLOGY   K05499  LacI family transcriptional regulator, repressor for deo operon, udp, cdd, tsx, nupC, and nupG
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b3934 (cytR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               LacI family
+                b3934 (cytR)
+POSITION    complement(4123431..4124456)
+MOTIF       Pfam: Peripla_BP_3 Peripla_BP_1 LacI Peripla_BP_4 HTH_Tnp_ISL3
+DBLINKS     NCBI-GeneID: 948427
+            NCBI-ProteinID: NP_418369
+            Pasteur: cytR
+            RegulonDB: ECK120000194
+            ECOCYC: EG10200
+            ASAP: ABE-0012853
+            UniProt: P0ACN7
+STRUCTURE   PDB: 2LCV 2L8N
+AASEQ       341
+            MKAKKQETAATMKDVALKAKVSTATVSRALMNPDKVSQATRNRVEKAAREVGYLPQPMGR
+            NVKRNESRTILVIVPDICDPFFSEIIRGIEVTAANHGYLVLIGDCAHQNQQEKTFIDLII
+            TKQIDGMLLLGSRLPFDASIEEQRNLPPMVMANEFAPELELPTVHIDNLTAAFDAVNYLY
+            EQGHKRIGCIAGPEEMPLCHYRLQGYVQALRRCGIMVDPQYIARGDFTFEAGSKAMQQLL
+            DLPQPPTAVFCHSDVMALGALSQAKRQGLKVPEDLSIIGFDNIDLTQFCDPPLTTIAQPR
+            YEIGREAMLLLLDQMQGQHVGSGSRLMDCELIIRGSTRALP
+NTSEQ       1026
+            gtgaaagcgaagaagcaggaaactgccgcgaccatgaaagacgttgccctcaaggcaaaa
+            gtctctacagcgaccgtctcccgagcattaatgaatcccgataaagtctcccaggccacc
+            cgtaatcgggttgaaaaagcggcccgggaagtgggttatttaccgcagcctatggggcgc
+            aacgtcaagcgtaatgaatcccgcaccattctggtgattgtcccggatatctgcgatccc
+            ttctttagcgaaattattcgcggtatcgaagttacggcggcaaatcacggatatctggtg
+            ctgattggcgactgtgcgcatcaaaatcagcaggaaaaaacctttatcgatttgatcatc
+            accaagcaaattgatggcatgttgttgctgggttcaaggctgccgtttgatgccagcatt
+            gaggaacagcgtaatctgccgccgatggtgatggcgaacgaatttgcaccggagctggag
+            ctgcctacagttcatatcgacaatctgaccgccgcatttgatgcagtaaattatttatat
+            gagcaagggcataaacggattggctgtatagccggtcccgaagagatgccgctgtgtcac
+            taccgcctgcaaggctatgttcaggcgctgcgtcgctgcggcattatggttgatccgcaa
+            tacatcgcccgtggcgacttcaccttcgaagccggaagcaaagcgatgcagcagctgctt
+            gatcttccacaaccgcctactgctgtcttctgccatagcgatgtgatggcgctcggcgca
+            ctttctcaggcaaaacgccaggggctgaaagtcccggaagacctttccataatcggtttt
+            gataacatcgacctgacgcaattttgtgatccgccgctgacaaccatcgcgcagccgcgt
+            tacgaaatcggtcgggaagctatgctgttattgcttgatcaaatgcaggggcaacacgtt
+            ggcagtggctctcgtttaatggactgcgaacttatcatccggggatcaacacgcgcgtta
+            ccttaa
+///

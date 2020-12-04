@@ -1,0 +1,60 @@
+ENTRY       b1842             CDS       T00007
+NAME        holE
+DEFINITION  (RefSeq) DNA polymerase III subunit theta
+ORTHOLOGY   K02345  DNA polymerase III subunit theta [EC:2.7.7.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+            eco03430  Mismatch repair
+            eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b1842 (holE)
+               03430 Mismatch repair
+                b1842 (holE)
+               03440 Homologous recombination
+                b1842 (holE)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b1842 (holE)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1842 (holE)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 b1842 (holE)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Elongation Factors
+               Elongation factors (bacterial)
+                DNA polymerase III holoenzyme
+                 b1842 (holE)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                DNA polymerase III holoenzyme
+                 b1842 (holE)
+POSITION    1925108..1925338
+MOTIF       Pfam: DNA_pol3_theta MMM1 DUF3283
+DBLINKS     NCBI-GeneID: 947471
+            NCBI-ProteinID: NP_416356
+            Pasteur: holE
+            RegulonDB: ECK120001461
+            ECOCYC: EG11505
+            ASAP: ABE-0006126
+            UniProt: P0ABS8
+STRUCTURE   PDB: 5M1S 2XY8 2AXD 2AE9 1DU2
+AASEQ       76
+            MLKNLAKLDQTEMDKVNVDLAAAGVAFKERYNMPVIAEAVEREQPEHLRSWFRERLIAHR
+            LASVNLSRLPYEPKLK
+NTSEQ       231
+            atgctgaagaatctggctaaactggatcaaacagaaatggataaagtgaatgtcgatttg
+            gcggcggccggggtggcatttaaagaacgctacaatatgccggtgatcgctgaagcggtt
+            gaacgtgaacagcctgaacatttgcgcagctggtttcgcgagcggcttattgcccaccgt
+            ttggcttcggtcaatctgtcacgtttaccttacgagcccaaacttaaataa
+///

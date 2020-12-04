@@ -1,0 +1,79 @@
+ENTRY       b3066             CDS       T00007
+NAME        dnaG
+DEFINITION  (RefSeq) DNA primase
+ORTHOLOGY   K02316  DNA primase [EC:2.7.7.101]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b3066 (dnaG)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b3066 (dnaG)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.101  DNA primase DnaG
+                 b3066 (dnaG)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Initiation Factors
+               Initiation factors (bacterial)
+                b3066 (dnaG)
+POSITION    3211107..3212852
+MOTIF       Pfam: Toprim_N zf-CHC2 DnaG_DnaB_bind Toprim_2 Toprim_4 DnaB_bind Toprim Toprim_3
+DBLINKS     NCBI-GeneID: 947570
+            NCBI-ProteinID: NP_417538
+            Pasteur: dnaG
+            RegulonDB: ECK120000233
+            ECOCYC: EG10239
+            ASAP: ABE-0010065
+            UniProt: P0ABS5
+STRUCTURE   PDB: 6CBR 1DD9 1DDE 6CBS 6CBT 3B39 1T3W 1EQN 2HAJ
+AASEQ       581
+            MAGRIPRVFINDLLARTDIVDLIDARVKLKKQGKNFHACCPFHNEKTPSFTVNGEKQFYH
+            CFGCGAHGNAIDFLMNYDKLEFVETVEELAAMHNLEVPFEAGSGPSQIERHQRQTLYQLM
+            DGLNTFYQQSLQQPVATSARQYLEKRGLSHEVIARFAIGFAPPGWDNVLKRFGGNPENRQ
+            SLIDAGMLVTNDQGRSYDRFRERVMFPIRDKRGRVIGFGGRVLGNDTPKYLNSPETDIFH
+            KGRQLYGLYEAQQDNAEPNRLLVVEGYMDVVALAQYGINYAVASLGTSTTADHIQLLFRA
+            TNNVICCYDGDRAGRDAAWRALETALPYMTDGRQLRFMFLPDGEDPDTLVRKEGKEAFEA
+            RMEQAMPLSAFLFNSLMPQVDLSTPDGRARLSTLALPLISQVPGETLRIYLRQELGNKLG
+            ILDDSQLERLMPKAAESGVSRPVPQLKRTTMRILIGLLVQNPELATLVPPLENLDENKLP
+            GLGLFRELVNTCLSQPGLTTGQLLEHYRGTNNAATLEKLSMWDDIADKNIAEQTFTDSLN
+            HMFDSLLELRQEELIARERTHGLSNEERLELWTLNQELAKK
+NTSEQ       1746
+            atggctggacgaatcccacgcgtattcattaatgatctgctggcacgcactgacatcgtc
+            gatctgatcgatgcccgtgtgaagctgaaaaagcagggcaagaatttccacgcgtgttgt
+            ccattccacaacgagaaaaccccgtccttcaccgttaacggtgagaaacagttttaccac
+            tgctttggatgtggcgcgcacggcaacgcgatcgacttcctgatgaactacgacaagctc
+            gagttcgtcgaaacggtcgaagagctggcagcaatgcacaatcttgaagtgccatttgaa
+            gcaggcagcggccccagccagatcgagcgccatcagaggcaaacgctttatcagttgatg
+            gacggtctgaatacgttttaccaacaatctttacaacaacctgttgccacgtctgcgcgc
+            cagtatctggaaaaacgcggattaagccacgaggttatcgctcgctttgcgattggtttt
+            gcgccccccggctgggacaacgtcctgaagcggtttggcggcaatccagaaaatcgccag
+            tcattgattgatgcggggatgttggtcactaacgatcagggacgcagttacgatcgtttc
+            cgcgagcgggtgatgttccccattcgcgataaacgcggtcgggtgattggttttggcggg
+            cgcgtgctgggcaacgatacccccaaatacctgaactcgccggaaacagacattttccat
+            aaaggccgccagctttacggtctttatgaagcgcagcaggataacgctgaacccaatcgt
+            ctgcttgtggtcgaaggctatatggacgtggtggcgctggcgcaatacggcattaattac
+            gccgttgcgtcgttaggtacgtcaaccaccgccgatcacatacaactgttgttccgcgcg
+            accaacaatgtcatttgctgttatgacggcgaccgtgcaggccgcgatgccgcctggcga
+            gcgctggaaacggcgctgccttacatgacagacggccgtcagctacgctttatgtttttg
+            cctgatggcgaagaccctgacacgctagtacgaaaagaaggtaaagaagcgtttgaagcg
+            cggatggagcaggcgatgccactctccgcatttctgtttaacagtctgatgccgcaagtt
+            gatctgagtacccctgacgggcgcgcacgtttgagtacgctggcactaccattgatatcg
+            caagtgccgggcgaaacgctgcgaatatatcttcgtcaggaattaggcaacaaattaggc
+            atacttgatgacagccagcttgaacgattaatgccaaaagcggcagagagcggcgtttct
+            cgccctgttccgcagctaaaacgcacgaccatgcgtatacttatagggttgctggtgcaa
+            aatccagaattagcgacgttggtcccgccgcttgagaatctggatgaaaataagctccct
+            ggacttggcttattcagagaactggtcaacacttgtctctcccagccaggtctgaccacc
+            gggcaacttttagagcactatcgtggtacaaataatgctgccacccttgaaaaactgtcg
+            atgtgggacgatatagcagataagaatattgctgagcaaaccttcaccgactcactcaac
+            catatgtttgattcgctgcttgaactgcgccaggaagagttaatcgctcgtgagcgcacg
+            catggtttaagcaacgaagaacgcctggagctctggacattaaaccaggagctggcgaaa
+            aagtga
+///

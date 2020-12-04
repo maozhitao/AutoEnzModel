@@ -1,0 +1,39 @@
+ENTRY       b1743             CDS       T00007
+NAME        spy
+DEFINITION  (RefSeq) ATP-independent periplasmic chaperone
+ORTHOLOGY   K06006  periplasmic protein CpxP/Spy
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b1743 (spy)
+            Chaperones and folding catalysts [BR:eco03110]
+             Other chaperones and cochaperones
+              Others
+               b1743 (spy)
+POSITION    complement(1825140..1825625)
+MOTIF       Pfam: LTXXQ Metal_resist DUF4890 Rota_VP2 CPDase
+DBLINKS     NCBI-GeneID: 946253
+            NCBI-ProteinID: NP_416257
+            Pasteur: spy
+            RegulonDB: ECK120003527
+            ECOCYC: G6939
+            ASAP: ABE-0005812
+            UniProt: P77754
+STRUCTURE   PDB: 6BIE 5WO2 5WNW 5WO1 5WO3 6OWZ 6OWX 6OWY 3O39 3OEO
+AASEQ       161
+            MRKLTALFVASTLALGAANLAHAADTTTAAPADAKPMMHHKGKFGPHQDMMFKDLNLTDA
+            QKQQIREIMKGQRDQMKRPPLEERRAMHDIIASDTFDKVKAEAQIAKMEEQRKANMLAHM
+            ETQNKIYNILTPEQKKQFNANFEKRLTERPAAKGKMPATAE
+NTSEQ       486
+            atgcgtaaattaactgcactgtttgttgcctctaccctggctcttggcgcggctaacctg
+            gcccatgccgcagacaccactaccgcagcaccggctgacgcgaagccgatgatgcaccac
+            aaaggcaagttcggtccgcatcaggacatgatgttcaaagacctgaacctgaccgacgcg
+            cagaaacagcagatccgcgaaatcatgaaaggccagcgtgaccagatgaaacgtccgccg
+            ctggaagaacgccgcgcaatgcatgacatcattgccagcgataccttcgataaagtaaaa
+            gctgaagcgcagatcgcaaaaatggaagaacagcgcaaagctaacatgctggcgcacatg
+            gaaacccagaacaaaatttacaacatcctgacgccggaacagaaaaagcaatttaatgct
+            aattttgagaagcgtctgacagaacgtccagcggcaaaaggtaaaatgcctgcaactgct
+            gaataa
+///

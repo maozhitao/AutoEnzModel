@@ -1,0 +1,76 @@
+ENTRY       b1913             CDS       T00007
+NAME        uvrC
+DEFINITION  (RefSeq) excision nuclease subunit C
+ORTHOLOGY   K03703  excinuclease ABC subunit C
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03420  Nucleotide excision repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03420 Nucleotide excision repair
+                b1913 (uvrC)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1913 (uvrC)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                GGR (global genome repair) factors
+                 b1913 (uvrC)
+POSITION    complement(1992874..1994706)
+MOTIF       Pfam: UvrC_HhH_N GIY-YIG HHH UVR HHH_5 HHH_3 HHH_2
+DBLINKS     NCBI-GeneID: 947203
+            NCBI-ProteinID: NP_416423
+            Pasteur: uvrC
+            RegulonDB: ECK120001052
+            ECOCYC: EG11063
+            ASAP: ABE-0006370
+            UniProt: P0A8G0
+STRUCTURE   PDB: 1KFT
+AASEQ       610
+            MSDQFDAKAFLKTVTSQPGVYRMYDAGGTVIYVGKAKDLKKRLSSYFRSNLASRKTEALV
+            AQIQQIDVTVTHTETEALLLEHNYIKLYQPRYNVLLRDDKSYPFIFLSGDTHPRLAMHRG
+            AKHAKGEYFGPFPNGYAVRETLALLQKIFPIRQCENSVYRNRSRPCLQYQIGRCLGPCVE
+            GLVSEEEYAQQVEYVRLFLSGKDDQVLTQLISRMETASQNLEFEEAARIRDQIQAVRRVT
+            EKQFVSNTGDDLDVIGVAFDAGMACVHVLFIRQGKVLGSRSYFPKVPGGTELSEVVETFV
+            GQFYLQGSQMRTLPGEILLDFNLSDKTLLADSLSELAGRKINVQTKPRGDRARYLKLART
+            NAATALTSKLSQQSTVHQRLTALASVLKLPEVKRMECFDISHTMGEQTVASCVVFDANGP
+            LRAEYRRYNITGITPGDDYAAMNQVLRRRYGKAIDDSKIPDVILIDGGKGQLAQAKNVFA
+            ELDVSWDKNHPLLLGVAKGADRKAGLETLFFEPEGEGFSLPPDSPALHVIQHIRDESHDH
+            AIGGHRKKRAKVKNTSSLETIEGVGPKRRQMLLKYMGGLQGLRNASVEEIAKVPGISQGL
+            AEKIFWSLKH
+NTSEQ       1833
+            gtgagtgatcagtttgacgcaaaagcgtttttaaaaaccgtaaccagccagccaggcgtt
+            tatcgcatgtacgatgctggtggtacggttatctatgtcggcaaagcgaaagacctgaaa
+            aaacggctttccagctatttccgtagcaacctcgcttcgcgcaaaaccgaagcgctggtc
+            gcccagatccagcaaattgatgtaacggttactcacacagaaaccgaagcgctgttgctg
+            gaacacaactacatcaaactctatcagccgcgttacaacgttttgctacgcgatgataaa
+            tcatatccttttatcttcctgagtggtgatacccacccgcgtctggcgatgcatcgtggt
+            gcgaagcatgccaaaggtgaatatttcggcccgttcccgaatggctatgccgtacgtgaa
+            acactggcgctactgcaaaagattttccccattcgccagtgcgaaaatagtgtttatcgc
+            aatcgctcgcgtccgtgtctgcaataccagatagggcgctgtctgggaccgtgcgttgaa
+            ggactggtgagtgaagaagaatacgctcagcaggtcgagtatgtgcgcctgtttttgtct
+            ggcaaagatgatcaggtgcttacgcaactcattagtcgtatggaaactgccagccagaat
+            ctggagtttgaagaagctgcacgtattcgcgaccaaattcaggcggtgcgacgcgtcacc
+            gaaaaacaattcgtttccaataccggcgacgacctcgacgttattggtgtggcgttcgat
+            gcgggcatggcttgtgtccacgtattgttcattcgtcagggcaaagtgctcggcagccgc
+            agctatttcccgaaagtgcctggcggtacggaactgagcgaggtggtagaaaccttcgta
+            ggccagttctatttacaaggcagccagatgcgcaccttaccgggtgagatcctgctcgat
+            tttaatcttagcgataaaacgctgctcgccgattccctttcagaactggcgggacgcaag
+            attaatgttcaaaccaaacctcgcggcgatagggcgcgttatctgaaactcgcgcgcacc
+            aatgcggcgacggccttaaccagcaaactttcgcagcaatctaccgttcaccagcgactg
+            accgcgcttgccagcgtgttgaaattgccggaagtgaagcggatggagtgctttgacatc
+            agccataccatgggcgaacaaaccgtcgcttcctgtgtggtgtttgatgctaacggcccg
+            ctgcgtgcggagtatcggcgctataacattacaggcatcacgccgggcgatgattatgcg
+            gcgatgaatcaggtgctgcgtcggcgttatggtaaagccattgacgacagtaagatcccg
+            gatgtgatccttatcgacggcggcaaaggccagcttgcgcaggcgaaaaatgtcttcgcc
+            gaactggatgtctcatgggataaaaatcatccgctgctacttggcgttgccaaaggagca
+            gatcgtaaggctggactggaaacgctgttctttgagccggaaggtgagggatttagtttg
+            ccgccagattcacccgcgctgcatgttatccagcatattcgcgatgaatcacatgatcac
+            gcgattggcgggcaccgtaaaaaacgggcgaaggtcaaaaataccagttccctggaaacc
+            attgaaggcgtcgggccaaaacgtcggcaaatgttgttgaaatatatgggcggtttgcaa
+            ggtttacgtaacgccagcgtcgaggaaattgcaaaagtgccgggtatttcgcaaggtctg
+            gcagaaaagatcttctggtcgttgaaacattga
+///

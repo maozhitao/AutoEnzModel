@@ -1,0 +1,52 @@
+ENTRY       b0268             CDS       T00007
+NAME        yagE
+DEFINITION  (RefSeq) CP4-6 prophage; putative 2-keto-3-deoxygluconate aldolase
+ORTHOLOGY   K22397  2-dehydro-3-deoxy-D-pentonate aldolase [EC:4.1.2.28]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00040  Pentose and glucuronate interconversions
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00040 Pentose and glucuronate interconversions
+                b0268 (yagE)
+            Enzymes [BR:eco01000]
+             4. Lyases
+              4.1  Carbon-carbon lyases
+               4.1.2  Aldehyde-lyases
+                4.1.2.28  2-dehydro-3-deoxy-D-pentonate aldolase
+                 b0268 (yagE)
+POSITION    282278..283186
+MOTIF       Pfam: DHDPS PA
+DBLINKS     NCBI-GeneID: 944925
+            NCBI-ProteinID: NP_414802
+            RegulonDB: ECK120002760
+            ECOCYC: G6140
+            ASAP: ABE-0000921
+            UniProt: P75682
+STRUCTURE   PDB: 4PTN 4OE7 2V9D 3NEV 3N2X 4ONV 4U4M 2V8Z
+AASEQ       302
+            MPQSALFTGIIPPVSTIFTADGQLDKPGTAALIDDLIKAGVDGLFFLGSGGEFSQLGAEE
+            RKAIARFAIDHVDRRVPVLIGTGGTNARETIELSQHAQQAGADGIVVINPYYWKVSEANL
+            IRYFEQVADSVTLPVMLYNFPALTGQDLTPALVKTLADSRSNIIGIKDTIDSVAHLRSMI
+            HTVKGAHPHFTVLCGYDDHLFNTLLLGGDGAISASGNFAPQVSVNLLKAWRDGDVAKAAG
+            YHQTLLQIPQMYQLDTPFVNVIKEAIVLCGRPVSTHVLPPASPLDEPRKAQLKTLLQQLK
+            LC
+NTSEQ       909
+            atgccgcagtccgcgttgttcacgggaatcattccccctgtctccaccatttttaccgcc
+            gacggccagctcgataagccgggcaccgccgcgctgatcgacgatctgatcaaagcaggc
+            gttgacggcctgttcttcctgggcagcggtggcgagttctcccagctcggcgccgaagag
+            cgtaaagccattgcccgctttgctatcgatcatgtcgatcgtcgcgtgccggtgctgatc
+            ggcaccggcggcaccaacgcccgggaaaccatcgaactcagccagcacgcgcagcaggcg
+            ggcgcggacggcatcgtggtgatcaacccctactactggaaagtgtcggaagcgaacctg
+            atccgctatttcgagcaggtggccgacagcgtcacgctgccggtgatgctctataacttc
+            ccggcgctgaccgggcaggatctgactccggcgctggtgaaaaccctcgccgactcgcgc
+            agcaatattatcggcatcaaagacaccatcgactccgtcgcccacctgcgcagcatgatc
+            cataccgtcaaaggtgcccatccgcacttcaccgtgctctgcggctacgacgatcatctg
+            ttcaataccctgctgctcggcggcgacggggcgatatcggcgagcggcaactttgccccg
+            caggtgtcggtgaatcttctgaaagcctggcgcgacggggacgtggcgaaagcggccggg
+            tatcatcagaccttgctgcaaattccgcagatgtatcagctggatacgccgtttgtgaac
+            gtgattaaagaggcgatcgtgctctgcggtcgtcctgtctccacgcacgtgctgccgccc
+            gcctcgccgctggacgagccgcgcaaggcgcagctgaaaaccctgctgcaacagctcaag
+            ctttgctga
+///

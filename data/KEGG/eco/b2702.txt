@@ -1,0 +1,52 @@
+ENTRY       b2702             CDS       T00007
+NAME        srlA
+DEFINITION  (RefSeq) sorbitol-specific PTS enzyme IIC2 component
+ORTHOLOGY   K02783  glucitol/sorbitol PTS system EIIC component
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00051  Fructose and mannose metabolism
+            eco01100  Metabolic pathways
+            eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00051 Fructose and mannose metabolism
+                b2702 (srlA)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b2702 (srlA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2702 (srlA)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               Glucitol/sorbitol-specific II component
+                b2702 (srlA)
+POSITION    2825832..2826395
+MOTIF       Pfam: EII-GUT
+DBLINKS     NCBI-GeneID: 947575
+            NCBI-ProteinID: YP_026180
+            Pasteur: srlA
+            RegulonDB: ECK120004460
+            ECOCYC: G8210
+            ASAP: ABE-0008890
+            UniProt: P56579
+AASEQ       187
+            MIETITHGAEWFIGLFQKGGEVFTGMVTGILPLLISLLVIMNALINFIGQHRIERFAQRC
+            AGNPVSRYLLLPCIGTFVFCNPMTLSLGRFMPEKYKPSYYAAASYSCHSMNGLFPHINPG
+            ELFVYLGIASGLTTLNLPLGPLAVSYLLVGLVTNFFRGWVTDLTTAIFEKKMGIQLEQKV
+            HLAGATS
+NTSEQ       564
+            atgatagaaaccattactcatggtgcagagtggtttatcgggctgttccaaaagggcgga
+            gaggtgtttaccgggatggtgaccggcattcttccgctgttgattagcctgctggttatc
+            atgaacgcactgattaattttatcggtcagcatcgtattgaacgttttgctcaacgttgc
+            gccggtaaccctgtttcccgttacctactgttaccgtgcattggcacgtttgtcttttgc
+            aatccgatgaccctaagcctgggtcgctttatgccggaaaagtacaaacccagctactac
+            gcggcggcctcttatagctgccactcaatgaatggcctcttcccccatatcaaccctggc
+            gaactgtttgtttatcttggcattgccagcggtctgacaacgctgaacctgccacttggc
+            ccactggcggtgagttatctgctggttggtctggtcaccaatttcttccgcggctgggtg
+            accgatctgaccaccgccatttttgagaaaaagatgggcattcaacttgaacaaaaagtt
+            cacctggcaggagcaacatcatga
+///

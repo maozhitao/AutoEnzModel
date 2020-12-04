@@ -1,0 +1,60 @@
+ENTRY       b1804             CDS       T00007
+NAME        rnd
+DEFINITION  (RefSeq) RNase D
+ORTHOLOGY   K03684  ribonuclease D [EC:3.1.13.5]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b1804 (rnd)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.13  Exoribonucleases producing 5'-phosphomonoesters
+                3.1.13.5  ribonuclease D
+                 b1804 (rnd)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              3'processing and CCA adding factors
+               3'processing factors
+                b1804 (rnd)
+POSITION    complement(1886864..1887991)
+MOTIF       Pfam: DNA_pol_A_exo1 HRDC
+DBLINKS     NCBI-GeneID: 946328
+            NCBI-ProteinID: NP_416318
+            Pasteur: rnd
+            RegulonDB: ECK120000849
+            ECOCYC: EG10858
+            ASAP: ABE-0006003
+            UniProt: P09155
+STRUCTURE   PDB: 1YT3
+AASEQ       375
+            MNYQMITTDDALASLCEAVRAFPAIALDTEFVRTRTYYPQLGLIQLFDGEHLALIDPLGI
+            TDWSPLKAILRDPSITKFLHAGSEDLEVFLNVFGELPQPLIDTQILAAFCGRPMSWGFAS
+            MVEEYSGVTLDKSESRTDWLARPLTERQCEYAAADVWYLLPITAKLMVETEASGWLPAAL
+            DECRLMQMRRQEVVAPEDAWRDITNAWQLRTRQLACLQLLADWRLRKARERDLAVNFVVR
+            EEHLWSVARYMPGSLGELDSLGLSGSEIRFHGKTLLALVEKAQTLPEDALPQPMLNLMDM
+            PGYRKAFKAIKSLITDVSETHKISAELLASRRQINQLLNWHWKLKPQNNLPELISGWRGE
+            LMAEALHNLLQEYPQ
+NTSEQ       1128
+            ttgaattaccaaatgattaccacggacgatgcgctggcttctttgtgtgaagccgtccgt
+            gcctttccggcgatagccctggatactgaatttgttcgtacgcgcacttattacccgcag
+            ctggggttgattcaacttttcgatggcgagcatctggcgctaatcgatccactcgggatc
+            accgactggtcaccgctgaaagcgatcctgcgcgatccgtccatcacaaaatttctccat
+            gcaggcagtgaagatctggaagtgttcctcaatgtctttggcgaattaccacaacccttg
+            attgacacgcaaatccttgctgccttctgcggacgcccgatgtcatggggtttcgcttcc
+            atggtggaagagtattccggcgttacgctggacaagagtgaatcgcgcaccgactggctg
+            gccagaccgctgaccgaacgtcagtgtgaatacgcagcggcggatgtctggtatctgtta
+            ccgatcaccgccaagcttatggtagaaacggaggcctccggctggctacctgcggcgctg
+            gatgaatgccgcctgatgcaaatgcgtcgtcaggaagtcgttgcgccggaagatgcctgg
+            cgtgatatcaccaatgcctggcaattacgcacacgccaactggcctgtctgcaactgtta
+            gccgactggcgactgcgcaaggcgcgagagcgcgatctggcggtgaactttgtcgtgcgt
+            gaagagcatttgtggtcggtagcgcgttatatgccgggaagtttaggcgaactggacagc
+            ctgggtttatccggtagcgaaatccgctttcacggtaaaacgctgctagcgctggtggaa
+            aaagcgcagacattgccggaagatgccttaccgcagccgatgcttaacctgatggacatg
+            ccgggttatcgtaaagcgtttaaagcgattaagtcgctgattactgacgtgagcgaaacg
+            cataagatcagcgccgaattgctggcatcgcgtcggcaaatcaaccaactgctgaactgg
+            cactggaaactgaaaccgcagaacaatttgccggagctgatttccggctggcgtggtgag
+            ctgatggcggaagcattacacaatttattgcaggaatatccgcagtaa
+///

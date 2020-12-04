@@ -1,0 +1,70 @@
+ENTRY       b2509             CDS       T00007
+NAME        xseA
+DEFINITION  (RefSeq) exodeoxyribonuclease VII subunit XseA
+ORTHOLOGY   K03601  exodeoxyribonuclease VII large subunit [EC:3.1.11.6]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03430  Mismatch repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03430 Mismatch repair
+                b2509 (xseA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2509 (xseA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.11  Exodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.11.6  exodeoxyribonuclease VII
+                 b2509 (xseA)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                DNA exonucleases
+                 b2509 (xseA)
+POSITION    2634232..2635602
+MOTIF       Pfam: Exonuc_VII_L tRNA_anti_2 tRNA_anti-codon CDC24_OB3 HTH_57 AAA_23
+DBLINKS     NCBI-GeneID: 946988
+            NCBI-ProteinID: NP_417004
+            Pasteur: xseA
+            RegulonDB: ECK120001061
+            ECOCYC: EG11072
+            ASAP: ABE-0008263
+            UniProt: P04994
+AASEQ       456
+            MLPSQSPAIFTVSRLNQTVRLLLEHEMGQVWISGEISNFTQPASGHWYFTLKDDTAQVRC
+            AMFRNSNRRVTFRPQHGQQVLVRANITLYEPRGDYQIIVESMQPAGEGLLQQKYEQLKAK
+            LQAEGLFDQQYKKPLPSPAHCVGVITSKTGAALHDILHVLKRRDPSLPVIIYPAAVQGDD
+            APGQIVRAIELANQRNECDVLIVGRGGGSLEDLWSFNDERVARAIFTSRIPVVSAVGHET
+            DVTIADFVADLRAPTPSAAAEVVSRNQQELLRQVQSTRQRLEMAMDYYLANRTRRFTQIH
+            HRLQQQHPQLRLARQQTMLERLQKRMSFALENQLKRTGQQQQRLTQRLNQQNPQPKIHRA
+            QTRIQQLEYRLAETLRAQLSATRERFGNAVTHLEAVSPLSTLARGYSVTTATDGNVLKKV
+            KQVKAGEMLTTRLEDGWIESEVKNIQPVKKSRKKVH
+NTSEQ       1371
+            atgttaccttctcaatcccctgcaatttttaccgttagtcgcctgaatcaaacggttcgt
+            ctgctgcttgagcatgagatgggacaggtttggatcagcggcgaaatttctaatttcacg
+            caaccagcttccggtcactggtactttacactcaaagacgacaccgcccaggtacgctgc
+            gcgatgttccgcaacagcaaccgccgggtgaccttccgcccacagcatgggcaacaagtt
+            ttagttcgcgccaatattacgctctacgagccgcgcggcgactaccagataatcgttgag
+            agtatgcagccggccggtgaagggctgctgcaacagaagtacgaacagctcaaagcgaag
+            ttgcaggctgaaggtttgttcgatcagcaatacaaaaaaccacttccctcccctgcgcat
+            tgcgttggtgtgatcacctcaaaaaccggtgctgcgctacatgatattttgcatgtgtta
+            aaacgtcgcgatccttctctgccggtgatcatctaccctgccgccgttcagggcgatgac
+            gcgccggggcaaattgttcgcgccattgaactggcgaatcagcgcaatgagtgcgacgta
+            ttgatcgtcgggcgcggcggcggttcgctggaagatttatggagttttaacgacgaacgc
+            gtagcgcgggcgatttttaccagccgcattccggttgtcagcgccgtcgggcatgagacg
+            gatgtgaccattgccgattttgttgccgatctgcgtgcgccaacgccgtctgccgccgct
+            gaagtagtgagccgtaatcagcaagagttactgcgccaggtgcaatcgacccgtcaacgg
+            ctggagatggcgatggattattatctcgccaaccgcacacgtcgctttacgcaaattcat
+            caccgattacagcaacagcatccgcagctccggctggcacgccagcaaaccatgcttgag
+            cgcctgcaaaagcgaatgagctttgcgctggaaaatcaacttaagcgtaccgggcaacag
+            cagcagcggttaacacagcggctgaatcagcaaaatccacagccgaagattcatcgcgcg
+            caaacgcgcattcagcaactggaatatcgtttagcagaaaccctgcgcgcacagcttagc
+            gccacgcgtgaacgtttcggtaatgcagtaacgcacctcgaagccgtaagcccactgtca
+            acgctggcgcgtggatacagcgttactactgctactgacggcaatgtactgaaaaaagtg
+            aagcaagttaaagcgggtgaaatgctaaccacacgtctggaagacggctggatagaaagt
+            gaagtaaaaaacatccagccagtaaaaaaatcgcgtaaaaaggtgcattaa
+///

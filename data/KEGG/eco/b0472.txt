@@ -1,0 +1,52 @@
+ENTRY       b0472             CDS       T00007
+NAME        recR
+DEFINITION  (RefSeq) DNA repair protein RecR
+ORTHOLOGY   K06187  recombination protein RecR
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03440 Homologous recombination
+                b0472 (recR)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b0472 (recR)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecFOR pathway proteins
+                 b0472 (recR)
+               NHEJ (non-homologous end-joining)
+                SHDIR (short-homology-dependent illegitimate recombination)
+                 RecET pathway
+                  b0472 (recR)
+POSITION    494405..495010
+MOTIF       Pfam: Toprim_4 RecR Toprim FYVE_2 HHH Toprim_2 HHH_5 DZR_2
+DBLINKS     NCBI-GeneID: 945100
+            NCBI-ProteinID: NP_415005
+            Pasteur: recR
+            RegulonDB: ECK120000825
+            ECOCYC: EG10834
+            ASAP: ABE-0001638
+            UniProt: P0A7H6
+AASEQ       201
+            MQTSPLLTQLMEALRCLPGVGPKSAQRMAFTLLQRDRSGGMRLAQALTRAMSEIGHCADC
+            RTFTEQEVCNICSNPRRQENGQICVVESPADIYAIEQTGQFSGRYFVLMGHLSPLDGIGP
+            DDIGLDRLEQRLAEEKITEVILATNPTVEGEATANYIAELCAQYDVEASRIAHGVPVGGE
+            LEMVDGTTLSHSLAGRHKIRF
+NTSEQ       606
+            atgcaaaccagcccgctgttaacacagcttatggaagcactgcgctgtctgccgggcgtt
+            ggcccgaagtcggcgcagcgtatggcgttcacgctgcttcagcgcgatcgtagcggcggg
+            atgcgtctggcgcaggcgctcacccgggcgatgtcggaaatcggccactgcgccgattgc
+            cgcactttcaccgaacaggaagtctgtaacatctgttcgaatccgcgtcgtcaggaaaac
+            ggtcaaatctgcgtggtggagagtccggcggacatctacgccattgagcagacggggcag
+            ttttcaggtcgttattttgtgttgatggggcatctgtcaccgctggacggcatcggtccg
+            gatgatatcgggcttgatcgtctggaacagcgtctggcagaggaaaaaatcactgaagtg
+            atcctcgccaccaaccccacggttgaaggtgaagctaccgctaactacattgccgagctt
+            tgcgcgcaatatgacgtggaagccagccgaatcgctcatggcgttccggttggcggcgag
+            ctggaaatggtcgacggcaccacgttgtcacactcccttgccgggcgtcataagattcgt
+            ttttaa
+///

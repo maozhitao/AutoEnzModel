@@ -1,0 +1,60 @@
+ENTRY       b4389             CDS       T00007
+NAME        radA
+DEFINITION  (RefSeq) DNA recombination protein
+ORTHOLOGY   K04485  DNA repair protein RadA/Sms
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b4389 (radA)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecFOR pathway proteins
+                 b4389 (radA)
+POSITION    4625912..4627294
+MOTIF       Pfam: ATPase AAA_25 Rubredoxin_2 ChlI DnaB_C Lon_C Rad51 RecA GvpD DUF2075 ABC_tran AAA_16 AAA_14 AAA_24 AAA_22 Zeta_toxin cobW AAA AAA_30 NTPase_1 AAA_29 AAA_5 Herpes_Helicase PAXNEB DZR Viral_helicase1 NACHT
+DBLINKS     NCBI-GeneID: 948912
+            NCBI-ProteinID: NP_418806
+            Pasteur: radA
+            RegulonDB: ECK120001269
+            ECOCYC: EG11296
+            ASAP: ABE-0014395
+            UniProt: P24554
+AASEQ       460
+            MAKAPKRAFVCNECGADYPRWQGQCSACHAWNTITEVRLAASPMVARNERLSGYAGSAGV
+            AKVQKLSDISLEELPRFSTGFKEFDRVLGGGVVPGSAILIGGNPGAGKSTLLLQTLCKLA
+            QQMKTLYVTGEESLQQVAMRAHRLGLPTDNLNMLSETSIEQICLIAEEEQPKLMVIDSIQ
+            VMHMADVQSSPGSVAQVRETAAYLTRFAKTRGVAIVMVGHVTKDGSLAGPKVLEHCIDCS
+            VLLDGDADSRFRTLRSHKNRFGAVNELGVFAMTEQGLREVSNPSAIFLSRGDEVTSGSSV
+            MVVWEGTRPLLVEIQALVDHSMMANPRRVAVGLEQNRLAILLAVLHRHGGLQMADQDVFV
+            NVVGGVKVTETSADLALLLAMVSSLRDRPLPQDLVVFGEVGLAGEIRPVPSGQERISEAA
+            KHGFRRAIVPAANVPKKAPEGMQIFGVKKLSDALSVFDDL
+NTSEQ       1383
+            gtggcaaaagctccaaaacgcgcctttgtttgtaatgaatgcggggccgattatccgcgc
+            tggcaggggcagtgcagtgcctgtcatgcctggaacaccatcaccgaggtgcgtcttgct
+            gcgtcgccaatggtggcgcgtaacgagcgtctcagcggctatgccggtagcgccggggtg
+            gcaaaagtccagaaactctccgatatcagccttgaagagctgccgcgtttttccaccgga
+            tttaaagagttcgaccgcgtactaggcggcggcgtggtgccaggaagtgccattctgatt
+            ggcggtaaccctggtgcggggaaatccacgctgctactgcaaacgctgtgcaaactggcc
+            cagcagatgaaaacgctgtatgtcaccggcgaagagtcgctgcaacaggtggcaatgcgc
+            gctcatcgccttggcctgccgactgacaatctcaatatgttgtcggaaaccagcatcgaa
+            cagatctgcctgattgccgaagaagagcaaccgaagctgatggtaattgactcgatccag
+            gtgatgcatatggcggatgtacagtcatcgcctggtagcgtggcgcaggtgcgtgaaacg
+            gcggcttatttgacacgcttcgccaaaacgcgcggtgtggcgattgtcatggtggggcac
+            gtaaccaaagatggttcgctggctggcccgaaagtgctggaacactgtatcgactgttcg
+            gtgcttttggatggcgatgccgactcccgttttcgcaccttgcgcagccataaaaaccgc
+            ttcggcgcggtgaatgagctgggcgtcttcgcgatgaccgaacaggggctgcgtgaagtc
+            agcaacccttcggcaattttcttaagtcgcggcgatgaagtgacctccggtagctcagtg
+            atggtggtatgggaaggaacgcgtccactgctggtggagattcaggcgctggtcgatcac
+            tcgatgatggcgaacccacgccgcgtggcagtggggctggaacaaaaccgtctggcaatc
+            ctgctggctgtgttgcaccgtcacggtggtctgcaaatggccgatcaggatgtgtttgtg
+            aacgtggtcggcggcgtgaaggtaaccgaaaccagtgccgacttagcgttactgctggcg
+            atggtttccagcctgcgcgacagaccgctgccgcaggatctggtggtgtttggtgaagtc
+            gggctggcaggggagatccgcccggtgcccagcggtcaggaacgaatctctgaagcggcg
+            aaacacggttttcgccgggcgattgttccggcggctaacgtgccgaaaaaagcgccggaa
+            gggatgcagatttttggcgttaaaaaactctccgacgcgcttagcgtgttcgacgactta
+            taa
+///

@@ -1,0 +1,57 @@
+ENTRY       b1655             CDS       T00007
+NAME        mepH
+DEFINITION  (RefSeq) peptidoglycan DD-endopeptidase MepH
+ORTHOLOGY   K19303  murein DD-endopeptidase [EC:3.4.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b1655 (mepH)
+               01011 Peptidoglycan biosynthesis and degradation proteins [BR:eco01011]
+                b1655 (mepH)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.-  Acting on peptide bonds (peptidases)
+                3.4.-.-  
+                 b1655 (mepH)
+            Peptidases and inhibitors [BR:eco01002]
+             Cysteine peptidases
+              Family C40
+               b1655 (mepH)
+            Peptidoglycan biosynthesis and degradation proteins [BR:eco01011]
+             Peptidoglycan biosynthesis and degradation
+              Endopeptidase
+               b1655 (mepH)
+POSITION    1734435..1735250
+MOTIF       Pfam: NLPC_P60 Peptidase_C92 Presenilin Amidase_6 CHAP DDHD Ycf1 Macoilin NPR3 LRAT Ndc1_Nup
+DBLINKS     NCBI-GeneID: 945210
+            NCBI-ProteinID: NP_416172
+            Pasteur: ydhO
+            RegulonDB: ECK120003481
+            ECOCYC: G6892
+            ASAP: ABE-0005533
+            UniProt: P76190
+AASEQ       271
+            MARINRISITLCALLFTTLPLTPMAHASKQARESSATTHITKKADKKKSTATTKKTQKTA
+            KKAASKSTTKSKTASSVKKSSITASKNAKTRSKHAVNKTASASFTEKCTKRKGYKSHCVK
+            VKNAASGTLADAHKAKVQKATKVAMNKLMQQIGKPYRWGGSSPRTGFDCSGLVYYAYKDL
+            VKIRIPRTANEMYHLRDAAPIERSELKNGDLVFFRTQGRGTADHVGVYVGNGKFIQSPRT
+            GQEIQITSLSEDYWQRHYVGARRVMTPKTLR
+NTSEQ       816
+            gtggcgcggataaaccgtatttcgatcacgctctgtgctttactttttaccaccctgcct
+            ttaacgcctatggcccatgcttcaaagcaagccagggagagttctgctaccactcatatc
+            accaaaaaagcagataaaaagaaaagcacggcaaccaccaaaaagacccagaaaacagcg
+            aaaaaagccgccagtaaaagtacgaccaaaagcaaaaccgcttcttccgttaaaaaatct
+            tccattaccgcttctaaaaacgccaaaactcgcagcaaacacgccgtcaataaaacggcc
+            tcagccagctttaccgaaaagtgtaccaaacgtaagggctataaatcgcattgtgtgaaa
+            gtcaaaaatgccgcgtcaggaactcttgccgacgcgcacaaagcgaaggtgcaaaaagct
+            acgaaagtggcaatgaataaactgatgcagcaaattggtaagccatatcgttggggtggc
+            agctcaccgcgtaccggttttgattgcagcggcctggtttattacgcttataaagatttg
+            gtgaaaattcgtattccgcgtacggcgaatgaaatgtatcacctgcgtgatgcagcgcca
+            atcgaacgtagtgaactgaaaaacggcgacctggtctttttccgtactcagggacgcggc
+            acagccgatcatgtcggcgtgtatgtcggcaacggcaaatttattcagtcaccgcgcaca
+            ggtcaggaaattcaaatcacttctctcagtgaagactactggcagcgccactatgttggc
+            gctcgtcgggtaatgaccccaaaaacacttcgctaa
+///

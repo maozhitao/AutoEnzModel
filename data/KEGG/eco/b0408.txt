@@ -1,0 +1,79 @@
+ENTRY       b0408             CDS       T00007
+NAME        secD
+DEFINITION  (RefSeq) Sec translocon accessory complex subunit SecD
+ORTHOLOGY   K03072  preprotein translocase subunit SecD
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03060  Protein export
+            eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b0408 (secD)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b0408 (secD)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b0408 (secD)
+            Secretion system [BR:eco02044]
+             Sec (secretion) system
+              Prokaryotic Sec-SRP core components
+               b0408 (secD)
+POSITION    427647..429494
+MOTIF       Pfam: SecD-TM1 SecD_SecF MMPL Sec_GG
+DBLINKS     NCBI-GeneID: 949133
+            NCBI-ProteinID: NP_414942
+            Pasteur: secD
+            RegulonDB: ECK120000927
+            ECOCYC: EG10938
+            ASAP: ABE-0001417
+            UniProt: P0AG90
+STRUCTURE   PDB: 5MG3
+AASEQ       615
+            MLNRYPLWKYVMLIVVIVIGLLYALPNLFGEDPAVQITGARGVAASEQTLIQVQKTLQEE
+            KITAKSVALEEGAILARFDSTDTQLRAREALMGVMGDKYVVALNLAPATPRWLAAIHAEP
+            MKLGLDLRGGVHFLMEVDMDTALGKLQEQNIDSLRSDLREKGIPYTTVRKENNYGLSITF
+            RDAKARDEAIAYLSKRHPDLVISSQGSNQLRAVMSDARLSEAREYAVQQNINILRNRVNQ
+            LGVAEPVVQRQGADRIVVELPGIQDTARAKEILGATATLEFRLVNTNVDQAAAASGRVPG
+            DSEVKQTREGQPVVLYKRVILTGDHITDSTSSQDEYNQPQVNISLDSAGGNIMSNFTKDN
+            IGKPMATLFVEYKDSGKKDANGRAVLVKQEEVINIANIQSRLGNSFRITGINNPNEARQL
+            SLLLRAGALIAPIQIVEERTIGPTLGMQNIEQGLEACLAGLLVSILFMIIFYKKFGLIAT
+            SALIANLILIVGIMSLLPGATLSMPGIAGIVLTLAVAVDANVLINERIKEELSNGRTVQQ
+            AIDEGYRGAFSSIFDANITTLIKVIILYAVGTGAIKGFAITTGIGVATSMFTAIVGTRAI
+            VNLLYGGKRVKKLSI
+NTSEQ       1848
+            gtgttaaaccgttatcctttgtggaagtacgtcatgctgatcgtggtgattgtcatcggt
+            ctgctgtatgcgcttcccaacctgtttggtgaggatccggctgttcagatcactggtgcg
+            cgcggagtcgccgccagtgagcaaacgctgatccaggtccagaaaacgttacaagaagaa
+            aaaataactgctaagtctgtggcactggaagagggcgctattcttgcgcgcttcgactcc
+            actgacacccagttgcgcgctcgtgaagcattaatgggcgttatgggtgacaaatacgtc
+            gtggcgcttaaccttgccccggcaacgccgcgctggctggcagctattcacgctgagccg
+            atgaagctcggccttgacctgcgtggcggcgttcacttcctgatggaagtggatatggac
+            accgcgcttggcaaactccaggaacaaaatatcgatagcctacgcagtgacctgcgcgaa
+            aagggcatcccgtataccactgttcgtaaagaaaacaactacggcctgagcatcactttc
+            cgcgatgctaaagctcgtgatgaagccattgcgtatctgagcaagcgccatccggacctg
+            gtgattagcagccagggcagcaaccagctgcgtgcggtaatgagcgatgctcgtctgagt
+            gaagcgcgtgaatatgcggtgcagcagaacattaatatcctgcgtaaccgtgtaaaccaa
+            cttggcgtggcggagccggtggttcagcgtcagggtgctgaccgtatcgttgttgaactg
+            ccaggtattcaggacactgcgcgtgcgaaagagattctgggtgcgacggcaacgctggaa
+            ttccgtctggtaaacaccaacgttgaccaggccgctgcggcatccggtcgcgtaccgggc
+            gactctgaagtgaaacagacccgcgaaggtcagccagttgtgctgtacaaacgcgtaatt
+            ctgaccggtgaccatatcaccgactccacttccagccaggacgaatacaaccaaccgcag
+            gttaacatctcgctcgatagcgctggtggtaacatcatgtctaacttcactaaggacaac
+            atcggcaaaccgatggcaaccctgtttgtggagtacaaagacagcggtaagaaagatgca
+            aatggtcgtgcggttctggtgaaacaggaagaggtgattaacatcgccaacatccagtct
+            cgtctgggtaacagcttccgtatcaccggcatcaacaacccgaacgaagcccgtcagctg
+            tcactgctgctgcgtgccggtgcgttgatcgcgccgattcagattgttgaagaacgtacc
+            attggcccaaccctgggtatgcagaacattgaacaggggctggaggcttgccttgccggt
+            ctgctggtttctattctgttcatgatcatcttctataagaagtttggtctgattgcgacc
+            agtgctctgattgccaacttgatcttaatcgtcggcattatgtcgctgttgccaggcgca
+            acgctgagtatgccaggtatcgcgggtatcgtcttaacccttgcggtggcggtcgatgcg
+            aacgtactgatcaacgaacgtattaaagaagagttgagcaacggacgtactgttcaacag
+            gcaattgatgaaggttatcgtggcgcattcagttctatcttcgatgcgaacatcaccacg
+            ctgattaaagtcatcatcctgtacgcagtgggtaccggggcaattaaagggttcgcgatt
+            actaccggtatcggtgtggcgacgtcgatgtttaccgcgattgtcggtacgcgtgccatc
+            gtaaacctgctatatggcggcaagcgcgtcaagaagctgtcaatctga
+///

@@ -1,0 +1,44 @@
+ENTRY       b3130             CDS       T00007
+NAME        yhaV
+DEFINITION  (RefSeq) ribosome-dependent mRNA interferase toxin YhaV
+ORTHOLOGY   K19155  toxin YhaV [EC:3.1.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b3130 (yhaV)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 b3130 (yhaV)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               YhaV-PrlF
+                b3130 (yhaV)
+POSITION    3277337..3277801
+MOTIF       Pfam: Toxin_YhaV Flexi_CP DUF2911 ParE_toxin
+DBLINKS     NCBI-GeneID: 947638
+            NCBI-ProteinID: NP_417599
+            Pasteur: yhaV
+            RegulonDB: ECK120004179
+            ECOCYC: G7629
+            ASAP: ABE-0010289
+            UniProt: P64594
+AASEQ       154
+            MDFPQRVNGWALYAHPCFQETYDALVAEVETLKGKDPENYQRKAATKLLAVVHKVIEEHI
+            TVNPSSPAFRHGKSLGSGKNKDWSRVKFGAGRYRLFFRYSEKEKVIILGWMNDENTLRTY
+            GKKTDAYTVFSKMLKRGHPPADWETLTRETEETH
+NTSEQ       465
+            atggattttccacaaagggttaatggttgggcgctatatgctcatccctgttttcaggaa
+            acctacgacgctttagttgccgaagtcgagacattaaagggaaaagatcctgaaaattat
+            cagagaaaagccgccacaaagttattggcggtagtccataaagtgattgaggagcatatc
+            acggtcaatccatcatcaccggcattccgtcatggcaagtcgttaggctctgggaaaaat
+            aaagactggtcacgggtaaaatttggtgctggtcgttatcgtctcttctttcgttatagt
+            gaaaaagagaaagtcatcattctgggatggatgaacgatgaaaacactctgcgcacctac
+            ggtaaaaaaacagatgcctataccgtattcagcaaaatgttaaaaagaggacatcctcct
+            gccgactgggaaaccctcacccgagaaacagaagaaacccattga
+///

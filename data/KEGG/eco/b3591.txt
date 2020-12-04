@@ -1,0 +1,67 @@
+ENTRY       b3591             CDS       T00007
+NAME        selA
+DEFINITION  (RefSeq) selenocysteine synthase
+ORTHOLOGY   K01042  L-seryl-tRNA(Ser) seleniumtransferase [EC:2.9.1.1]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00450  Selenocompound metabolism
+            eco00970  Aminoacyl-tRNA biosynthesis
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09106 Metabolism of other amino acids
+               00450 Selenocompound metabolism
+                b3591 (selA)
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                b3591 (selA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.9  Transferring selenium-containing groups
+               2.9.1  Selenotransferases
+                2.9.1.1  L-seryl-tRNASec selenium transferase
+                 b3591 (selA)
+POSITION    complement(3759858..3761249)
+MOTIF       Pfam: SelA Se-cys_synth_N Aminotran_5 Cys_Met_Meta_PP
+DBLINKS     NCBI-GeneID: 948124
+            NCBI-ProteinID: NP_418048
+            Pasteur: selA
+            RegulonDB: ECK120000930
+            ECOCYC: EG10941
+            ASAP: ABE-0011731
+            UniProt: P0A821
+AASEQ       463
+            MTTETRSLYSQLPAIDRLLRDSSFLSLRDTYGHTRVVELLRQMLDEAREVIRGSQTLPAW
+            CENWAQEVDARLTKEAQSALRPVINLTGTVLHTNLGRALQAEAAVEAVAQAMRSPVTLEY
+            DLDDAGRGHRDRALAQLLCRITGAEDACIVNNNAAAVLLMLAATASGKEVVVSRGELVEI
+            GGAFRIPDVMRQAGCTLHEVGTTNRTHANDYRQAVNENTALLMKVHTSNYSIQGFTKAID
+            EAELVALGKELDVPVVTDLGSGSLVDLSQYGLPKEPMPQELIAAGVSLVSFSGDKLLGGP
+            QAGIIVGKKEMIARLQSHPLKRALRADKMTLAALEATLRLYLHPEALSEKLPTLRLLTRS
+            AEVIQIQAQRLQAPLAAHYGAEFAVQVMPCLSQIGSGSLPVDRLPSAALTFTPHDGRGSH
+            LESLAARWRELPVPVIGRIYDGRLWLDLRCLEDEQRFLEMLLK
+NTSEQ       1392
+            atgacaaccgaaacgcgttccctctatagtcaacttccggctattgatcgcttattgcgc
+            gatagctccttcctttctttgcgtgatacttatggtcacacccgcgtggtggaattgttg
+            cgtcagatgctcgacgaagcgcgagaagtgattcgtggcagccagacgctgcctgcgtgg
+            tgtgaaaactgggcgcaagaagtcgatgcccggttgacgaaagaagcgcagagcgcgctg
+            cgtccggtgatcaacctgacgggaaccgtgctgcataccaaccttgggcgagctttacag
+            gcggaagccgcggtggaagccgttgcgcaggctatgcgttcgccagtgaccctcgagtat
+            gatctggacgacgccggacgcggacatcgcgatcgggcgctggcgcagctgctgtgccgt
+            attacgggggcggaagatgcctgtatcgtcaataacaatgcggcggcggtgttattgatg
+            ttggcggccactgccagcggaaaagaggtggtggtatctcgcggcgaactggtggagatt
+            ggcggcgcgtttcgtattcccgatgttatgcgtcaggcaggctgcaccctacacgaagta
+            gggaccaccaaccgcacgcacgcgaatgattatcgtcaggcggtgaatgaaaataccgca
+            ctgttgatgaaagtacataccagtaactacagcattcaggggttcaccaaagcgatagat
+            gaagcggaactggtggcgctcggcaaagagctggatgttcccgtagtgactgatttaggc
+            agtggctcgctggtcgatcttagccagtacggtttgccgaaagagccaatgccgcaggag
+            ttgattgcggcgggcgtcagtctggtgagtttctccggcgacaagttgttaggcgggccg
+            caggcaggaattattgttggtaaaaaagagatgatcgcccgcctgcaaagccacccgctg
+            aagcgtgcattacgcgcggataaaatgaccctcgcggcgctggaagccacgttgcgtctt
+            tatttacaccctgaagctctgagtgaaaaattaccgaccctgcgcctgcttacccgcagc
+            gcagaggtcattcaaatccaggcacaacgtttacaggccccccttgccgcacattacggc
+            gcggagtttgcggtacaggttatgccatgtctttcgcagattggcagtggttcgctgccg
+            gttgatcgcctgccgagcgcggcattaacgtttacaccccatgatggacgcggtagccac
+            cttgagtcattagccgcccgctggcgtgaattgccagtgccggtgattggtcgtatttat
+            gacggacgattgtggctggatttacgctgccttgaagatgagcaacggtttttggagatg
+            ttgttgaaatga
+///

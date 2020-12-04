@@ -1,0 +1,77 @@
+ENTRY       b2715             CDS       T00007
+NAME        ascF
+DEFINITION  (RefSeq) beta-glucoside specific PTS enzyme IIBC component
+ORTHOLOGY   K02753  beta-glucoside (arbutin/salicin/cellobiose) PTS system EIICB component [EC:2.7.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00010  Glycolysis / Gluconeogenesis
+            eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                b2715 (ascF)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b2715 (ascF)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2715 (ascF)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.-  
+                 b2715 (ascF)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               Beta-glucoside (arbutin/salicin/cellobiose)-specific II component
+                b2715 (ascF)
+POSITION    2839524..2840981
+MOTIF       Pfam: PTS_EIIC PTS_EIIB
+DBLINKS     NCBI-GeneID: 947154
+            NCBI-ProteinID: YP_026182
+            Pasteur: ascF
+            RegulonDB: ECK120000082
+            ECOCYC: EG10086
+            ASAP: ABE-0008926
+            UniProt: P24241
+AASEQ       485
+            MAKNYAALARSVIAALGGVDNISAVTHCMTRLRFVIKDDALIDSPTLKTIPGVLGVVRSD
+            NQCQVIIGNTVSQAFQEVVSLLPGDMQPAQPVGKPKLTLRRIGAGILDALIGTMSPLIPA
+            IIGGSMVKLLAMILEMSGVLTKGSPTLTILNVIGDGAFFFLPLMVAASAAIKFKTNMSLA
+            IAIAGVLVHPSFIELMAKAAQGEHVEFALIPVTAVKYTYTVIPALVMTWCLSYIERWVDS
+            ITPAVTKNFLKPMLIVLIAAPLAILLIGPIGIWIGSAISALVYTIHGYLGWLSVAIMGAL
+            WPLLVMTGMHRVFTPTIIQTIAETGKEGMVMPSEIGANLSLGGSSLAVAWKTKNPELRQT
+            ALAAAASAIMAGISEPALYGVAIRLKRPLIASLISGFICGAVAGMAGLASHSMAAPGLFT
+            SVQFFDPANPMSIVWVFAVMALAVVLSFILTLLLGFEDIPVEEAAAQARKYQSVQPTVAK
+            EVSLN
+NTSEQ       1458
+            atggccaaaaattatgcggcgctggcacgctcggtgatagcggcactgggcggcgttgat
+            aacatctcggcggtcacgcactgtatgacgcggttgcgctttgttatcaaagatgatgca
+            cttatcgacagcccgacgttaaaaaccatccccggcgtgctcggcgtggtacgtagtgac
+            aaccagtgtcaggtgattatcggcaataccgtttcacaagcctttcaggaagtcgtcagc
+            ctgctgccgggagatatgcagcccgcacagcccgtgggtaaacccaaactcacgctacgt
+            cgcattggtgcggggatcctcgatgcgctgatcggcaccatgtcaccgctgatcccggcg
+            attatcggcggatcgatggtcaaactgctggcaatgatcctcgagatgagcggcgtgctg
+            acaaaaggatcgccgaccttaaccattctgaatgtgattggtgacggtgctttcttcttc
+            ctgccgctgatggtcgcggcatctgccgccatcaaatttaaaaccaatatgtcgctggcg
+            attgccatcgcgggtgtgctggtacatccgagttttattgaactgatggcgaaagcggcc
+            cagggtgaacatgtcgaatttgccctgattccggtcaccgcggtgaaatacacctacacg
+            gtgatcccggcgctggtgatgacctggtgcctgtcatatatcgaacgctgggtggacagc
+            attacaccggcggtgaccaaaaacttcctcaaaccaatgctgattgtgttgattgccgca
+            ccgctggcaatcctgctgattggcccgattggtatctggatcggtagcgccatttcggcg
+            ctggtttacaccattcatggttatctgggctggctttcagtcgccattatgggcgcgctg
+            tggcctctgctggtaatgaccgggatgcaccgcgtctttacgccaaccatcattcagacc
+            attgccgaaaccggcaaagaagggatggtcatgccgtcagagatcggcgctaacctgtcg
+            ctgggcggttcatcactggcagtggcgtggaaaacgaaaaacccggaactgcgtcagacg
+            gcgctggctgcggcggcatcagccattatggcggggatttccgaaccggcgttatatggc
+            gtggcgatccgcctgaaacgtccgcttatcgccagtcttatcagcggttttatttgcggc
+            gcggttgccggtatggcggggcttgccagccactcaatggcagcgccggggctatttacc
+            agcgtgcagttcttcgatccggcgaatccaatgagcatcgtctgggtgttcgcggtcatg
+            gcgctggcggtggtgctgtcgtttatcctcacactgttgctcggctttgaggatattcct
+            gttgaggaagcggctgcccaggcgcgaaagtatcagagcgtacaaccgaccgtcgccaaa
+            gaagtaagtcttaattga
+///

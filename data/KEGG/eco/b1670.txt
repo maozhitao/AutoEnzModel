@@ -1,0 +1,52 @@
+ENTRY       b1670             CDS       T00007
+NAME        ydhU
+DEFINITION  (RefSeq) putative cytochrome YdhU
+ORTHOLOGY   K08354  thiosulfate reductase cytochrome b subunit
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00920  Sulfur metabolism
+            eco01100  Metabolic pathways
+            eco01120  Microbial metabolism in diverse environments
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00920 Sulfur metabolism
+                b1670 (ydhU)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1670 (ydhU)
+            Transporters [BR:eco02000]
+             Other transporters
+              Transmembrane electron carriers [TC:5]
+               b1670 (ydhU)
+POSITION    complement(1749563..1750348)
+MOTIF       Pfam: Ni_hydr_CYTB COX14
+DBLINKS     NCBI-GeneID: 945608
+            NCBI-ProteinID: NP_416185
+            Pasteur: ydhU
+            RegulonDB: ECK120003487
+            ECOCYC: G6898
+            ASAP: ABE-0005579
+            UniProt: P77409
+AASEQ       261
+            MNPSQHAEQFQSQLANYVPQFTPEFWPVWLIIAGVLLVGMWLVLGLHALLRARGVKKSAT
+            DHGEKIYLYSKAVRLWHWSNALLFVLLLASGLINHFAMVGATAVKSLVAVHEVCGFLLLA
+            CWLGFVLINAVGDNGHHYRIRRQGWLERAAKQTRFYLFGIMQGEEHPFPATTQSKFNPLQ
+            QVAYVGVMYGLLPLLLLTGLLCLYPQAVGDVFPGVRYWLLQTHFALAFISLFFIFGHLYL
+            CTTGRTPHETFKSMVDGYHRH
+NTSEQ       786
+            atgaacccgtcgcaacatgctgaacagtttcagagccagttagcgaactatgtgccacag
+            ttcactcccgaattttggccggtgtggttgatcattgccggagtattgctggttgggatg
+            tggttggtgctggggctgcatgccttgcttcgtgctcgtggcgtgaagaaatcagccacc
+            gatcatggtgagaagatttatctttacagcaaagcggtcagattatggcactggtcgaat
+            gcgttactctttgtattgttgctggccagtgggctgataaatcactttgcgatggtgggc
+            gcaactgcggttaaaagtctggttgcggtgcatgaagtttgcggatttttgttactggca
+            tgctggctcggctttgtgctgatcaatgccgttggggataatggtcaccactatcgcatt
+            cgtcgtcaggggtggctggaacgagcggcaaaacaaacgcgattttatttgtttggcatt
+            atgcagggggaagaacatcctttcccggcaacaacccagtctaaatttaatcccttacag
+            caggtcgcctatgttggtgtcatgtatggattgctgccgttgttactattgacggggctg
+            ctgtgtctctatccgcaagccgtgggagatgtgtttcctggcgtaagatactggttattg
+            cagacacattttgctctggcatttataagcctcttttttatcttcggtcatctttatctt
+            tgcaccacggggcgtacgccacacgaaacctttaaaagcatggtcgatggctatcaccgg
+            cactaa
+///

@@ -1,0 +1,35 @@
+ENTRY       b2617             CDS       T00007
+NAME        bamE
+DEFINITION  (RefSeq) outer membrane protein assembly factor BamE
+ORTHOLOGY   K06186  outer membrane protein assembly factor BamE
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2617 (bamE)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b2617 (bamE)
+POSITION    2753605..2753946
+MOTIF       Pfam: SmpA_OmlA Sulfolobus_pRN
+DBLINKS     NCBI-GeneID: 945583
+            NCBI-ProteinID: NP_417107
+            Pasteur: smpA
+            RegulonDB: ECK120000941
+            ECOCYC: EG10952
+            ASAP: ABE-0008614
+            UniProt: P0A937
+STRUCTURE   PDB: 2YH9 5D0O 5EKQ 5D0Q 5AYW 5LJO 2KXX 2KM7
+AASEQ       113
+            MRCKTLTAAAAVLLMLTAGCSTLERVVYRPDINQGNYLTANDVSKIRVGMTQQQVAYALG
+            TPLMSDPFGTNTWFYVFRQQPGHEGVTQQTLTLTFNSSGVLTNIDNKPALSGN
+NTSEQ       342
+            atgcgctgtaaaacgctgactgctgcagcagcagtactattgatgttgaccgcaggctgt
+            tccactctggagcgagtggtttaccgtcctgacatcaaccaggggaactatctgaccgct
+            aacgacgtatccaaaatacgtgttggcatgacgcaacaacaagttgcgtacgcattgggt
+            acaccgctgatgtccgatccatttggtacgaatacctggttctatgtcttccgccagcaa
+            ccaggtcatgaaggtgtaactcagcaaacgctgacgctgacctttaacagtagcggtgtg
+            ttgaccaatattgataacaaacctgcgctgagtggtaactaa
+///

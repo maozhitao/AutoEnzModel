@@ -1,0 +1,42 @@
+ENTRY       b1070             CDS       T00007
+NAME        flgN
+DEFINITION  (RefSeq) flagellar biosynthesis protein FlgN
+ORTHOLOGY   K02399  flagella synthesis protein FlgN
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1070 (flgN)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1070 (flgN)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Chaperones
+                b1070 (flgN)
+POSITION    complement(1129414..1129830)
+MOTIF       Pfam: FlgN CorA DUF745
+DBLINKS     NCBI-GeneID: 945634
+            NCBI-ProteinID: NP_415588
+            Pasteur: flgN
+            RegulonDB: ECK120003158
+            ECOCYC: G6562
+            ASAP: ABE-0003632
+            UniProt: P43533
+AASEQ       138
+            MTRLAEILDQMSAVLNDLKTVMDQEQQHLSMGQINGSQLQWITEQKSSLLATLDYLEQLR
+            RKEPNTANSVDISQRWQEITVKTQQLRQMNQHNGWLLEGQIERNQQALEMLKPHQEPTLY
+            GANGQTSTTHRGGKKISI
+NTSEQ       417
+            atgacacgtcttgcagagatcctcgaccagatgtccgctgtgcttaacgatctcaaaacg
+            gtaatggatcaagagcagcaacatctctctatggggcagatcaacggcagccagttgcaa
+            tggattacagaacaaaaaagctcactgctggcgacgctggattacctcgaacagttacgc
+            aggaaagaacccaatacagcaaatagcgttgatattagtcaacgctggcaggaaattact
+            gtgaaaacgcagcaactacgccaaatgaatcaacataacggctggttactggaaggacag
+            attgagcgcaatcaacaggcgctggaaatgttgaaaccgcatcaggaaccgacgctatat
+            ggggcgaacggtcagacctcaacaacccatcgcggcggtaaaaagatttcgatctga
+///

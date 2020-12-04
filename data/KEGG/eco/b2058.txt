@@ -1,0 +1,40 @@
+ENTRY       b2058             CDS       T00007
+NAME        wcaB
+DEFINITION  (RefSeq) putative colanic acid biosynthesis acyl transferase
+ORTHOLOGY   K03819  putative colanic acid biosynthesis acetyltransferase WcaB [EC:2.3.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b2058 (wcaB)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.-  
+                 b2058 (wcaB)
+POSITION    complement(2132067..2132555)
+MOTIF       Pfam: Hexapep Hexapep_2
+DBLINKS     NCBI-GeneID: 946573
+            NCBI-ProteinID: NP_416562
+            Pasteur: wcaB
+            RegulonDB: ECK120003689
+            ECOCYC: G7103
+            ASAP: ABE-0006813
+            UniProt: P0ACC9
+AASEQ       162
+            MLEDLRANSWSLRPCCMVLAYRVAHFCSVWRKKNVLNNLWAAPLLVLYRIITECFFGYEI
+            QAAATIGRRFTIHHGYAVVINKNVVAGDDFTIRHGVTIGNRGADNMACPHIGNGVELGAN
+            VIILGDITLGNNVTVGAGSVVLDSVPDNALVVGEKARVKVIK
+NTSEQ       489
+            atgctggaagatctgcgcgccaacagctggagtttacgcccgtgctgcatggttcttgcc
+            tatcgtgttgctcatttttgttcggtgtggcgcaaaaagaacgtcctcaacaatctgtgg
+            gcggccccgctgctggtgctgtatcgcattatcaccgaatgctttttcggttatgaaatc
+            caggctgccgcgaccattggccgccgctttactatccatcacggttacgccgtcgtgatc
+            aataaaaacgtggtagcgggggatgattttaccattcgccacggcgtcactatcggcaat
+            cgtggtgccgataacatggcatgtccacacattggcaacggcgtcgaactcggtgccaac
+            gtcattattcttggtgatatcacgcttggtaacaacgtcaccgtgggcgcgggcagcgtg
+            gtgctcgactctgtcccggacaacgcgctggtggtgggagaaaaagcgcgagtgaaggta
+            attaaatga
+///

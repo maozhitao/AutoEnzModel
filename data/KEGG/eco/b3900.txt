@@ -1,0 +1,44 @@
+ENTRY       b3900             CDS       T00007
+NAME        frvA
+DEFINITION  (RefSeq) putative PTS enzyme IIA component FrvA
+ORTHOLOGY   K11201  fructose-like PTS system EIIA component [EC:2.7.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3900 (frvA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.-  
+                 b3900 (frvA)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               Fructose-specific II-like component
+                b3900 (frvA)
+POSITION    complement(4092377..4092823)
+MOTIF       Pfam: PTS_EIIA_2
+DBLINKS     NCBI-GeneID: 948391
+            NCBI-ProteinID: NP_418336
+            Pasteur: frvA
+            RegulonDB: ECK120001795
+            ECOCYC: EG11864
+            ASAP: ABE-0012727
+            UniProt: P32155
+AASEQ       148
+            MAALTASCIDLNIQGNGAYSVLKQLATIALQNGFITDSHQFLQTLLLREKMHSTGFGSGV
+            AVPHGKSACVKQPFVLFARKAQAIDWKASDGEDVNCWICLGVPQSGEEDQVKIIGTLCRK
+            IIHKEFIHQLQQGDTDQVLALLNQTLSS
+NTSEQ       447
+            atggcagctcttactgcaagctgtattgacctgaatattcagggcaatggcgcttattcc
+            gttctgaagcagttggcgacaatagcgttacaaaacggttttatcaccgactcacaccag
+            ttcctgcaaaccctgctgctgcgcgaaaaaatgcactctactggatttggttccggtgtc
+            gccgtgccgcacggtaaaagcgcctgcgttaaacaaccgttcgtattattcgcccgcaaa
+            gcgcaggctattgactggaaagccagcgatggcgaagacgtcaattgctggatctgcctc
+            ggcgtgccgcaaagcggcgaagaggatcaggtcaaaatcatcggcacactgtgtcgcaaa
+            attattcacaaggaatttattcatcaactgcaacagggcgataccgaccaggtgcttgcc
+            ttgttaaatcaaaccctcagctcataa
+///

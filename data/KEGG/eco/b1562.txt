@@ -1,0 +1,31 @@
+ENTRY       b1562             CDS       T00007
+NAME        hokD
+DEFINITION  (RefSeq) Qin prophage; toxic protein HokD
+ORTHOLOGY   K18919  protein HokC/D
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b1562 (hokD)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               Hok-Sok
+                b1562 (hokD)
+POSITION    complement(1645119..1645274)
+MOTIF       Pfam: HOK_GEF
+DBLINKS     NCBI-GeneID: 948616
+            NCBI-ProteinID: NP_416080
+            Pasteur: relF
+            RegulonDB: ECK120001114
+            ECOCYC: EG11130
+            ASAP: ABE-0005219
+            UniProt: P0ACG6
+AASEQ       51
+            MKQQKAMLIALIVICLTVIVTALVTRKDLCEVRIRTGQTEVAVFTAYEPEE
+NTSEQ       156
+            atgaagcagcaaaaggcgatgttaatcgccctgatcgtcatctgtttaaccgtcatagtg
+            acggcactggtaacgaggaaagacctctgcgaggtacgaatccgaaccggccagacggag
+            gtcgctgtcttcacagcttacgaacctgaggagtaa
+///

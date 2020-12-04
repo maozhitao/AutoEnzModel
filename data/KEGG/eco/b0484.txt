@@ -1,0 +1,79 @@
+ENTRY       b0484             CDS       T00007
+NAME        copA
+DEFINITION  (RefSeq) Cu(+) exporting P-type ATPase
+ORTHOLOGY   K17686  P-type Cu+ transporter [EC:7.2.2.8]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       Enzymes [BR:eco01000]
+             7. Translocases
+              7.2  Catalysing the translocation of inorganic cations
+               7.2.2  Linked to the hydrolysis of a nucleoside triphosphate
+                7.2.2.8  P-type Cu+ transporter
+                 b0484 (copA)
+POSITION    complement(508875..511379)
+MOTIF       Pfam: E1-E2_ATPase Hydrolase HMA Hydrolase_3 HAD HAD_2 DNA_photolyase
+DBLINKS     NCBI-GeneID: 946106
+            NCBI-ProteinID: NP_415017
+            Pasteur: ybaR
+            RegulonDB: ECK120002868
+            ECOCYC: G6260
+            ASAP: ABE-0001681
+            UniProt: Q59385
+AASEQ       834
+            MSQTIDLTLDGLSCGHCVKRVKESLEQRPDVEQADVSITEAHVTGTASAEQLIETIKQAG
+            YDASVSHPKAKPLAESSIPSEALTAVSEALPAATADDDDSQQLLLSGMSCASCVTRVQNA
+            LQSVPGVTQARVNLAERTALVMGSASPQDLVQAVEKAGYGAEAIEDDAKRRERQQETAVA
+            TMKRFRWQAIVALAVGIPVMVWGMIGDNMMVTADNRSLWLVIGLITLAVMVFAGGHFYRS
+            AWKSLLNGAATMDTLVALGTGVAWLYSMSVNLWPQWFPMEARHLYYEASAMIIGLINLGH
+            MLEARARQRSSKALEKLLDLTPPTARLVTDEGEKSVPLAEVQPGMLLRLTTGDRVPVDGE
+            ITQGEAWLDEAMLTGEPIPQQKGEGDSVHAGTVVQDGSVLFRASAVGSHTTLSRIIRMVR
+            QAQSSKPEIGQLADKISAVFVPVVVVIALVSAAIWYFFGPAPQIVYTLVIATTVLIIACP
+            CALGLATPMSIISGVGRAAEFGVLVRDADALQRASTLDTVVFDKTGTLTEGKPQVVAVKT
+            FADVDEAQALRLAAALEQGSSHPLARAILDKAGDMQLPQVNGFRTLRGLGVSGEAEGHAL
+            LLGNQALLNEQQVGTKAIEAEITAQASQGATPVLLAVDGKAVALLAVRDPLRSDSVAALQ
+            RLHKAGYRLVMLTGDNPTTANAIAKEAGIDEVIAGVLPDGKAEAIKHLQSEGRQVAMVGD
+            GINDAPALAQADVGIAMGGGSDVAIETAAITLMRHSLMGVADALAISRATLHNMKQNLLG
+            AFIYNSIGIPVAAGILWPFTGTLLNPVVAGAAMALSSITVVSNANRLLRFKPKE
+NTSEQ       2505
+            atgtcacaaactatcgacctgaccctggacggcctgtcctgcggtcactgcgttaaacgc
+            gtgaaagaaagtcttgaacagcgtccggatgttgagcaggcggatgtgtctatcactgaa
+            gcgcacgttaccgggactgccagtgcagaacagctgatcgaaaccatcaaacaagcgggt
+            tatgacgcatctgtaagccacccaaaggctaaaccgctggcggagtcatcaatcccgtcg
+            gaagcactgacagcggtttctgaggcgcttccggcagcgaccgccgatgacgatgacagc
+            cagcagttgctgctgagcggcatgagctgcgccagctgtgtcacccgcgtacaaaatgcg
+            ctgcaaagcgtaccgggcgtcactcaggcacgggtaaacctggcggagcgtactgcgctg
+            gtgatgggcagtgcctccccacaagatttagtgcaggcggtggaaaaagcgggctacggc
+            gcggaagcgattgaagatgacgctaaacgccgcgagcgccagcaagaaaccgccgtcgct
+            acgatgaagcgcttccgctggcaggcaattgtcgcactggcggtgggtatcccggtgatg
+            gtctgggggatgatcggcgataacatgatggtcaccgctgacaaccgcagcctgtggttg
+            gttatcggcctgataaccctggcagtgatggttttcgccggcggccatttttaccgcagt
+            gcatggaaaagcctgctgaacggtgcggcgacgatggatacgctggtggcgctgggtact
+            ggcgtggcgtggctctattcgatgagcgtcaacctgtggccgcagtggttcccgatggaa
+            gcgcgacatctttattacgaagccagcgcgatgattatcggtctgatcaatctcggccat
+            atgctggaagcgcgcgcacgccagcgttcttctaaggcgctggaaaagttactcgattta
+            accccgccgacggcacgcctggttactgacgaaggtgaaaaaagcgtgcctctggcagaa
+            gtgcagccaggtatgttgctgcgcctgacgaccggcgatcgcgtgccggtagatggcgag
+            attacccagggcgaagcatggctggatgaagcgatgctgacgggcgaaccaatcccgcag
+            caaaaaggcgaaggcgatagcgtccatgccgggacagtggtacaggacggcagtgtgctg
+            tttcgtgccagtgcggttggcagccatactacgctgtcacgaatcattcgcatggtgcgc
+            caggcccagagcagcaagccagaaatcggtcagctggcggataaaatctcagccgtattt
+            gtgccggtagtggtggttattgcgcttgtcagtgcggcaatctggtatttctttggtccg
+            gcaccgcagattgtctataccctggtgattgccaccacggtactgattattgcctgtccg
+            tgtgcgctggggctggcgacgccgatgtcgattatttccggcgtcgggcgggcggctgag
+            tttggcgtgctggtgcgggacgctgacgcgctgcaacgcgccagtacactcgacactgta
+            gtgttcgataaaaccgggacgctgactgaagggaagccgcaggttgtcgcagtgaaaaca
+            tttgctgatgttgatgaagcgcaggcattgcgtctggcggcggcactggagcaaggttcc
+            agccatccgctggcacgagcgatcctcgataaagcaggtgatatgcagctaccgcaggtc
+            aacggtttccgcacattgcgcgggctgggcgtgagcggtgaagctgaaggtcatgcgtta
+            ttgctgggcaatcaggcgctgttaaatgagcaacaggttggtaccaaagctatcgaagcg
+            gagattactgctcaggcatcgcaaggggcaacgcctgtgctgctggcggttgacgggaaa
+            gcggtagccctgctggcagtacgcgatccgttgcgtagtgatagcgtggcggcgctgcaa
+            cgcctgcataaagcgggatatcgtctggtgatgttgaccggggataacccaaccaccgcc
+            aatgcgatcgccaaagaagcagggattgatgaggtgatcgccggggtgctgccggacggt
+            aaagccgaagcgatcaaacatctgcaaagtgaaggacgtcaggtggcaatggtgggcgac
+            ggcattaacgacgcgccagcgctggctcaggcggatgtcggcattgcgatgggtggcggc
+            agtgatgttgccattgaaaccgcggcgattaccctgatgcgccatagcctgatgggcgtt
+            gcggatgcgctcgctatttcccgcgcaacgctgcacaacatgaagcagaacctgctcggt
+            gcgtttatctacaacagtatcggtattccggtcgccgccggtattttgtggccgttcact
+            ggaacactgcttaacccggtagttgccggagcggcaatggcgctctcgtcgattaccgta
+            gtgagtaacgccaaccggttgctgcggtttaaaccgaaggaataa
+///

@@ -1,0 +1,43 @@
+ENTRY       b0233             CDS       T00007
+NAME        yafO
+DEFINITION  (RefSeq) ribosome-dependent mRNA interferase toxin YafO
+ORTHOLOGY   K19160  mRNA interferase YafO [EC:3.1.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b0233 (yafO)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 b0233 (yafO)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               YafO-YafN
+                b0233 (yafO)
+POSITION    252301..252699
+MOTIF       Pfam: YafO_toxin
+DBLINKS     NCBI-GeneID: 944916
+            NCBI-ProteinID: NP_414768
+            Pasteur: yafO
+            RegulonDB: ECK120002737
+            ECOCYC: G6117
+            ASAP: ABE-0000795
+            UniProt: Q47157
+AASEQ       132
+            MRVFKTKLIRLQLTAEELDALTADFISYKRDGVLPDIFGRDALYDDSFTWPLIKFERVAH
+            IHLANENNPFPPQLRQFSRTNDEAHLVYCQGAFDEQAWLLIAILKPEPHKLARDNNQMHK
+            IGKMAEAFRMRF
+NTSEQ       399
+            atgcgggtattcaaaacaaaacttattcgcctgcaacttacagcagaggaacttgatgcg
+            ttaacggcggattttatttcctataagcgtgacggtgttttgccagatatatttggtcgc
+            gatgcactctacgacgactcctttacctggccattaatcaaatttgagcgagttgctcat
+            attcatctggcaaatgagaataatccatttccgccacagttgcgccaattcagcagaacg
+            aatgacgaagcgcatttggtatattgtcagggggcgtttgatgagcaagcatggttgctc
+            attgccattctgaaacctgaacctcataaactggctcgagataacaaccaaatgcataaa
+            attgggaaaatggcagaagcgtttcgcatgcgtttttga
+///

@@ -1,0 +1,75 @@
+ENTRY       b3387             CDS       T00007
+NAME        dam
+DEFINITION  (RefSeq) DNA adenine methyltransferase
+ORTHOLOGY   K06223  DNA adenine methylase [EC:2.1.1.72]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03430  Mismatch repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03430 Mismatch repair
+                b3387 (dam)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b3387 (dam)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b3387 (dam)
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b3387 (dam)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.72  site-specific DNA-methyltransferase (adenine-specific)
+                 b3387 (dam)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Termination Factors
+               DNA methylation enzymes
+                b3387 (dam)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                Other MMR factors
+                 b3387 (dam)
+            Prokaryotic defense system [BR:eco02048]
+             Restriction and modification system (R-M system)
+              Type II R-M system
+               DNA methyltransferases
+                b3387 (dam)
+POSITION    complement(3515077..3515913)
+MOTIF       Pfam: MethyltransfD12
+DBLINKS     NCBI-GeneID: 947893
+            NCBI-ProteinID: NP_417846
+            Pasteur: dam
+            RegulonDB: ECK120000198
+            ECOCYC: EG10204
+            ASAP: ABE-0011063
+            UniProt: P0AEE8
+STRUCTURE   PDB: 2G1P 4RTK 4RTJ 4RTQ 4RTL 4RTP 4RTR 4GOM 4RTS 4RTM 4GOL
+                 4RTN 4GBE 4RTO 4GOO 4GON 2ORE
+AASEQ       278
+            MKKNRAFLKWAGGKYPLLDDIKRHLPKGECLVEPFVGAGSVFLNTDFSRYILADINSDLI
+            SLYNIVKMRTDEYVQAARELFVPETNCAEVYYQFREEFNKSQDPFRRAVLFLYLNRYGYN
+            GLCRYNLRGEFNVPFGRYKKPYFPEAELYHFAEKAQNAFFYCESYADSMARADDASVVYC
+            DPPYAPLSATANFTAYHTNSFTLEQQAHLAEIAEGLVERHIPVLISNHDTMLTREWYQRA
+            KLHVVKVRRSISSNGGTRKKVDELLALYKPGVVSPAKK
+NTSEQ       837
+            atgaagaaaaatcgcgcttttttgaagtgggcagggggcaagtatcccctgcttgatgat
+            attaaacggcatttgcccaagggcgaatgtctggttgagccttttgtaggtgccgggtcg
+            gtgtttctcaacaccgacttttctcgttatatccttgccgatatcaatagcgacctgatc
+            agtctctataacattgtgaagatgcgtactgatgagtacgtacaggccgcacgcgagctg
+            tttgttcccgaaacaaattgcgccgaggtttactatcagttccgcgaagagttcaacaaa
+            agccaggatccgttccgtcgggcggtactgtttttatatttgaaccgctacggttacaac
+            ggcctgtgtcgttacaatctgcgcggtgagtttaacgtgccgttcggccgctacaaaaaa
+            ccctatttcccggaagcagagttgtatcacttcgctgaaaaagcgcagaatgcctttttc
+            tattgtgagtcttacgccgatagcatggcgcgcgcagatgatgcatccgtcgtctattgc
+            gatccgccttatgcaccgctgtctgcgaccgccaactttacggcgtatcacacaaacagt
+            tttacgcttgaacaacaagcgcatctggcggagatcgccgaaggtctggttgagcgccat
+            attccagtgctgatctccaatcacgatacgatgttaacgcgtgagtggtatcagcgcgca
+            aaattgcatgtcgtcaaagttcgacgcagtataagcagcaacggcggcacacgtaaaaag
+            gtggacgaactgctggctttgtacaaaccaggagtcgtttcacccgcgaaaaaataa
+///

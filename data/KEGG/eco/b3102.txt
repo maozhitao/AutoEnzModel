@@ -1,0 +1,52 @@
+ENTRY       b3102             CDS       T00007
+NAME        yqjG
+DEFINITION  (RefSeq) glutathionyl-hydroquinone reductase YqjG
+ORTHOLOGY   K07393  glutathionyl-hydroquinone reductase [EC:1.8.5.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b3102 (yqjG)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.8  Acting on a sulfur group of donors
+               1.8.5  With a quinone or similar compound as acceptor
+                1.8.5.7  glutathionyl-hydroquinone reductase
+                 b3102 (yqjG)
+POSITION    3251024..3252010
+MOTIF       Pfam: GST_N_2 GST_C_2 GST_C GST_C_3 GST_N_3 GST_C_6
+DBLINKS     NCBI-GeneID: 947615
+            NCBI-ProteinID: NP_417573
+            Pasteur: yqjG
+            RegulonDB: ECK120004169
+            ECOCYC: G7616
+            ASAP: ABE-0010203
+            UniProt: P42620
+STRUCTURE   PDB: 4G0I 3R3E 4G0K 4G0L
+AASEQ       328
+            MGQLIDGVWHDTWYDTKSTGGKFQRSASAFRNWLTADGAPGPTGTGGFIAEKDRYHLYVS
+            LACPWAHRTLIMRKLKGLEPFISVSVVNPLMLENGWTFDDSFPGATGDTLYQNEFLYQLY
+            LHADPHYSGRVTVPVLWDKKNHTIVSNESAEIIRMFNTAFDALGAKAGDYYPPALQTKID
+            ELNGWIYDTVNNGVYKAGFATSQEAYDEAVAKVFESLARLEQILGQHRYLTGNQLTEADI
+            RLWTTLVRFDPVYVTHFKCDKHRISDYLNLYGFLRDIYQMPGIAETVNFDHIRNHYFRSH
+            KTINPTGIISIGPWQDLDEPHGRDVRFG
+NTSEQ       987
+            atgggtcaactgattgacggcgtctggcatgacacctggtacgataccaaatctaccggc
+            ggtaaatttcaacgttcagcttccgcatttcgtaactggctcactgccgatggcgctcct
+            ggccccactggcacaggcggttttatcgcagagaaagatcgttatcatctctatgtttca
+            ctcgcctgcccgtgggcgcaccgcacgctgatcatgcgcaaactcaaaggactggaaccg
+            tttatttccgtttccgtagtgaacccgctgatgctggaaaacggttggacctttgatgac
+            agttttccgggagcaaccggagacacgctctatcaaaatgaatttctgtatcagctttat
+            ctccacgccgatccacactacagcggacgagttactgttcccgtgctgtgggacaaaaag
+            aaccacaccatcgtcagcaacgaatcagcagaaatcatccgcatgttcaataccgcgttt
+            gatgcgctgggcgcgaaagcgggtgattactaccctccagccctgcaaacaaaaattgac
+            gaacttaacggctggatttatgacaccgttaacaacggcgtgtataaagctggttttgcc
+            accagccaggaagcttacgacgaggcggtggcgaaagtgtttgaatcgctggcacgactg
+            gagcagattttaggccagcatcgttacctgaccggcaaccagctaaccgaagccgatatt
+            cgcctgtggactacgctggtgcgttttgatccggtgtatgtgacccacttcaagtgtgat
+            aagcaccgcatcagcgattacctgaatctgtacggttttctgcgcgatatctaccagatg
+            ccggggatcgccgaaacagtcaatttcgatcatatccgtaatcattacttccgcagccat
+            aagaccatcaaccctacggggattatttcaattggtccgtggcaggatctcgatgaaccg
+            catggacgagatgttcgcttcggttaa
+///

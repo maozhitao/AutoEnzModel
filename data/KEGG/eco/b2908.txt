@@ -1,0 +1,66 @@
+ENTRY       b2908             CDS       T00007
+NAME        pepP
+DEFINITION  (RefSeq) proline aminopeptidase P II
+ORTHOLOGY   K01262  Xaa-Pro aminopeptidase [EC:3.4.11.9]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b2908 (pepP)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.11  Aminopeptidases
+                3.4.11.9  Xaa-Pro aminopeptidase
+                 b2908 (pepP)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M24
+               b2908 (pepP)
+POSITION    complement(3053515..3054840)
+MOTIF       Pfam: Peptidase_M24 AMP_N
+DBLINKS     NCBI-GeneID: 947385
+            NCBI-ProteinID: NP_417384
+            Pasteur: pepP
+            RegulonDB: ECK120000689
+            ECOCYC: EG10697
+            ASAP: ABE-0009549
+            UniProt: P15034
+STRUCTURE   PDB: 2V3Z 2V3Y 2V3X 2BWV 2BWX 2BWS 1WL9 1W7V 1WL6 1WLR 2BWU
+                 1WBQ 1N51 1A16 2BWY 2BN7 2BHC 2BHA 2BH3 1W2M 1M35 2BHB
+                 2BHD 2BWW 1JAW 2BWT
+AASEQ       441
+            MSEISRQEFQRRRQALVEQMQPGSAALIFAAPEVTRSADSEYPYRQNSDFWYFTGFNEPE
+            AVLVLIKSDDTHNHSVLFNRVRDLTAEIWFGRRLGQDAAPEKLGVDRALAFSEINQQLYQ
+            LLNGLDVVYHAQGEYAYADVIVNSALEKLRKGSRQNLTAPATMIDWRPVVHEMRLFKSPE
+            EIAVLRRAGEITAMAHTRAMEKCRPGMFEYHLEGEIHHEFNRHGARYPSYNTIVGSGENG
+            CILHYTENECEMRDGDLVLIDAGCEYKGYAGDITRTFPVNGKFTQAQREIYDIVLESLET
+            SLRLYRPGTSILEVTGEVVRIMVSGLVKLGILKGDVDELIAQNAHRPFFMHGLSHWLGLD
+            VHDVGVYGQDRSRILEPGMVLTVEPGLYIAPDAEVPEQYRGIGIRIEDDIVITETGNENL
+            TASVVKKPEEIEALMVAARKQ
+NTSEQ       1326
+            atgagtgagatatcccggcaagagtttcagcgtcgccgtcaggccctggtggagcaaatg
+            caacccggcagcgccgcgctgatttttgctgcaccagaagtaacacgtagcgccgacagc
+            gaatacccctatcgtcagaacagtgacttctggtacttcaccggctttaacgaaccggaa
+            gcggtgctggtgctgattaaaagcgatgacactcataaccacagcgttctgtttaaccgc
+            gttcgcgacctgacggcggagatctggtttggccgtcgcttaggccaggatgccgcgcca
+            gagaaactgggcgttgaccgcgcactggcattcagcgaaatcaatcagcaactttatcaa
+            ctacttaacggcctggatgtggtttaccatgcccagggcgaatatgcatatgctgatgta
+            atcgtgaacagtgcgctggaaaaactgcgtaaaggttcgcggcaaaatctcaccgcaccg
+            gcaacgatgatcgactggcgtcctgttgttcatgaaatgcgcctgttcaaatcgccagaa
+            gagattgccgtactccgccgcgcgggagaaatcaccgccatggcacatacacgggcgatg
+            gaaaaatgccgtccgggaatgttcgagtaccatctggaaggcgaaattcaccacgaattt
+            aaccgccacggtgcgcgctatccgtcctataacaccattgtcggcagcggtgaaaacggc
+            tgcattctgcactacaccgaaaacgagtgtgaaatgcgcgacggcgacctggtgttgatt
+            gacgcgggttgtgaatacaaaggttacgctggcgatattacccgcaccttcccggtcaac
+            ggcaaattcacccaggcccagcgtgaaatctacgacattgtgctggagtctctcgaaacc
+            agcctgcgcctgtatcgtccgggaacttccattctggaagtcactggtgaagtggtgcgc
+            atcatggttagcggcctggtaaaactcggcatcctgaaaggtgatgttgatgaactgatc
+            gctcagaacgcccatcgtcctttctttatgcatggccttagccactggttaggactggat
+            gtccatgacgtgggtgtttatggtcaggatcgctcgcgcattctggaaccgggcatggta
+            ctgaccgtagagccagggctgtatattgcgccggatgcagaagtgccagaacaatatcgc
+            ggtatcggcattcgtattgaagacgacattgtgattaccgaaaccggtaacgaaaacctc
+            accgccagcgtggtgaaaaagccggaagaaatcgaagcgttgatggttgctgcgagaaag
+            caatga
+///

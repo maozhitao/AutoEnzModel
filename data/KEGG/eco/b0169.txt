@@ -1,0 +1,55 @@
+ENTRY       b0169             CDS       T00007
+NAME        rpsB
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S2
+ORTHOLOGY   K02967  small subunit ribosomal protein S2
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b0169 (rpsB)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b0169 (rpsB)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Small subunit
+                b0169 (rpsB)
+              Bacteria
+                b0169 (rpsB)
+              Archaea
+                b0169 (rpsB)
+POSITION    189874..190599
+MOTIF       Pfam: Ribosomal_S2
+DBLINKS     NCBI-GeneID: 947874
+            NCBI-ProteinID: NP_414711
+            Pasteur: rpsB
+            RegulonDB: ECK120000892
+            ECOCYC: EG10901
+            ASAP: ABE-0000575
+            UniProt: P0A7V0
+STRUCTURE   PDB: 6NQB 6O7K 5NO3 5UZ4 5MY1 2YKR 5ME0 5ME1 4ADV 4A2I
+AASEQ       241
+            MATVSMRDMLKAGVHFGHQTRYWNPKMKPFIFGARNKVHIINLEKTVPMFNEALAELNKI
+            ASRKGKILFVGTKRAASEAVKDAALSCDQFFVNHRWLGGMLTNWKTVRQSIKRLKDLETQ
+            SQDGTFDKLTKKEALMRTRELEKLENSLGGIKDMGGLPDALFVIDADHEHIAIKEANNLG
+            IPVFAIVDTNSDPDGVDFVIPGNDDAIRAVTLYLGAVAATVREGRSQDLASQAEESFVEA
+            E
+NTSEQ       726
+            atggcaactgtttccatgcgcgacatgctcaaggctggtgttcacttcggtcaccagacc
+            cgttactggaacccgaaaatgaagccgttcatcttcggtgcgcgtaacaaagttcacatc
+            atcaaccttgagaaaactgtaccgatgttcaacgaagctctggctgaactgaacaagatt
+            gcttctcgcaaaggtaaaatccttttcgttggtactaaacgcgctgcaagcgaagcggtg
+            aaagacgctgctctgagctgcgaccagttcttcgtgaaccatcgctggctgggcggtatg
+            ctgactaactggaaaaccgttcgtcagtccatcaaacgtctgaaagacctggaaactcag
+            tctcaggacggtactttcgacaagctgaccaagaaagaagcgctgatgcgcactcgtgag
+            ctggagaaactggaaaacagcctgggcggtatcaaagacatgggcggtctgccggacgct
+            ctgtttgtaatcgatgctgaccacgaacacattgctatcaaagaagcaaacaacctgggt
+            attccggtatttgctatcgttgataccaactctgatccggacggtgttgacttcgttatc
+            ccgggtaacgacgacgcaatccgtgctgtgaccctgtacctgggcgctgttgctgcaacc
+            gtacgtgaaggccgttctcaggatctggcttcccaggcggaagaaagcttcgtagaagct
+            gagtaa
+///

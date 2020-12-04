@@ -1,0 +1,92 @@
+ENTRY       b2892             CDS       T00007
+NAME        recJ
+DEFINITION  (RefSeq) ssDNA-specific exonuclease RecJ
+ORTHOLOGY   K07462  single-stranded-DNA-specific exonuclease [EC:3.1.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03410  Base excision repair
+            eco03430  Mismatch repair
+            eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03410 Base excision repair
+                b2892 (recJ)
+               03430 Mismatch repair
+                b2892 (recJ)
+               03440 Homologous recombination
+                b2892 (recJ)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2892 (recJ)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 b2892 (recJ)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                RecJ
+                 b2892 (recJ)
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecFOR pathway proteins
+                 b2892 (recJ)
+               NHEJ (non-homologous end-joining)
+                SHDIR (short-homology-dependent illegitimate recombination)
+                 RecET pathway
+                  b2892 (recJ)
+POSITION    complement(3036373..3038106)
+MOTIF       Pfam: DHHA1 RecJ_OB DHH PEP-utilizers
+DBLINKS     NCBI-GeneID: 947367
+            NCBI-ProteinID: NP_417368
+            Pasteur: recJ
+            RegulonDB: ECK120000821
+            ECOCYC: EG10830
+            ASAP: ABE-0009492
+            UniProt: P21893
+AASEQ       577
+            MKQQIQLRRREVDETADLPAELPPLLRRLYASRGVRSAQELERSVKGMLPWQQLSGVEKA
+            VEILYNAFREGTRIIVVGDFDADGATSTALSVLAMRSLGCSNIDYLVPNRFEDGYGLSPE
+            VVDQAHARGAQLIVTVDNGISSHAGVEHARSLGIPVIVTDHHLPGDTLPAAEAIINPNLR
+            DCNFPSKSLAGVGVAFYLMLALRTFLRDQGWFDERNIAIPNLAELLDLVALGTVADVVPL
+            DANNRILTWQGMSRIRAGKCRPGIKALLEVANRDAQKLAASDLGFALGPRLNAAGRLDDM
+            SVGVALLLCDNIGEARVLANELDALNQTRKEIEQGMQIEALTLCEKLERSRDTLPGGLAM
+            YHPEWHQGVVGILASRIKERFHRPVIAFAPAGDGTLKGSGRSIQGLHMRDALERLDTLYP
+            GMMLKFGGHAMAAGLSLEEDKFKLFQQRFGELVTEWLDPSLLQGEVVSDGPLSPAEMTME
+            VAQLLRDAGPWGQMFPEPLFDGHFRLLQQRLVGERHLKVMVEPVGGGPLLDGIAFNVDTA
+            LWPDNGVREVQLAYKLDINEFRGNRSLQIIIDNIWPI
+NTSEQ       1734
+            gtgaaacaacagatacaacttcgtcgccgtgaagtcgatgaaacggcagacttgcccgct
+            gaattgcctcccttgctgcgccgtttatacgccagccggggagtacgcagtgcgcaagaa
+            ctggaacgcagtgttaaaggtatgctgccctggcagcaactgagcggcgtcgaaaaggcc
+            gttgagatcctttacaacgcttttcgcgaaggaacgcggattattgtggtcggtgatttc
+            gacgccgacggcgcgaccagcacggctctaagcgtgctggcgatgcgctcgcttggttgc
+            agcaatatcgactacctggtaccaaaccgtttcgaagacggttacggcttaagcccggaa
+            gtggtcgatcaggcccatgcccgtggcgcgcagttaattgtcacggtggataacggtatt
+            tcctcccatgcgggggttgagcacgctcgctcgttgggcatcccggttattgttaccgat
+            caccatttgccaggcgacacattacccgcagcggaagcgatcattaaccctaacttgcgc
+            gactgtaatttcccgtcgaaatcactggcaggcgtgggtgtggcgttttatctgatgctg
+            gcgctgcgcacctttttgcgcgatcagggctggtttgatgagcgtaacatcgcaattcct
+            aacctggcagaactgctggatctggtcgcgctggggacagtggcggacgtcgtgccgctg
+            gacgctaataatcgcattctgacctggcaggggatgagtcgcatccgagccggaaagtgc
+            cgtccggggattaaagcgctgcttgaagtggcaaaccgtgatgcacaaaaactcgccgcc
+            agcgatttaggttttgcgctggggccacgtctcaatgctgccggacgactggacgatatg
+            tccgtcggtgtggcgctgttgttgtgcgacaacatcggcgaagcgcgcgtgctggcaaat
+            gaactcgatgcgctaaaccagacgcgaaaagagatcgaacaaggaatgcaaattgaagcc
+            ctgaccctgtgcgagaaactggagcgcagccgtgacacgctacccggcgggctggcaatg
+            tatcaccccgaatggcatcagggcgttgtcggtattctggcttcgcgcatcaaagagcgt
+            tttcaccgtccggttatcgcgtttgcgccagcaggtgacggtacgctgaaaggttccggt
+            cgctccattcaggggctgcatatgcgtgatgcgctggagcgattagacacactctaccct
+            ggcatgatgctgaagtttggcggtcatgcgatggcggcgggtttgtcgctggaagaggat
+            aaattcaaactctttcaacaacggtttggcgaactggttactgagtggctggacccttcg
+            ctattgcaaggcgaagtggtatcagacggtccgttaagcccggccgaaatgaccatggaa
+            gtggcgcagctgctgcgcgatgctggcccgtgggggcagatgttcccggagccgctgttt
+            gacggtcatttccgtctgctgcaacagcggctggtgggcgaacgtcatttgaaggtgatg
+            gtcgaaccggtcggcggcggtccactgctggatggtattgcttttaatgtcgataccgcc
+            ctctggccggataacggcgtgcgcgaagtgcaactggcttataagctcgatatcaacgag
+            tttcgcggcaaccgcagcctgcaaattatcatcgacaatatctggccaatttag
+///

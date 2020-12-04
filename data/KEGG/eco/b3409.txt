@@ -1,0 +1,79 @@
+ENTRY       b3409             CDS       T00007
+NAME        feoB
+DEFINITION  (RefSeq) Fe(2(+)) transporter FeoB
+ORTHOLOGY   K04759  ferrous iron transport protein B
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3409 (feoB)
+            Transporters [BR:eco02000]
+             Other transporters
+              Others
+               b3409 (feoB)
+POSITION    3540407..3542728
+MOTIF       Pfam: FeoB_N Gate MMR_HSR1 FeoB_C FeoB_Cyto SRPRB GTP_EFTU Dynamin_N RsgA_GTPase ATP_bind_1 AIG1 NADHdh_A3
+DBLINKS     NCBI-GeneID: 947919
+            NCBI-ProteinID: NP_417868
+            Pasteur: feoB
+            RegulonDB: ECK120002007
+            ECOCYC: EG12102
+            ASAP: ABE-0011126
+            UniProt: P33650
+STRUCTURE   PDB: 3I8S 4Q00 3HYR 4R98 3I8X 3HYT 4Q5I 3I92
+AASEQ       773
+            MKKLTIGLIGNPNSGKTTLFNQLTGSRQRVGNWAGVTVERKEGQFSTTDHQVTLVDLPGT
+            YSLTTISSQTSLDEQIACHYILSGDADLLINVVDASNLERNLYLTLQLLELGIPCIVALN
+            MLDIAEKQNIRIEIDALSARLGCPVIPLVSTRGRGIEALKLAIDRYKANENVELVHYAQP
+            LLNEADSLAKVMPSDIPLKQRRWLGLQMLEGDIYSRAYAGEASQHLDAALARLRNEMDDP
+            ALHIADARYQCIAAICDVVSNTLTAEPSRFTTAVDKIVLNRFLGLPIFLFVMYLMFLLAI
+            NIGGALQPLFDVGSVALFVHGIQWIGYTLHFPDWLTIFLAQGLGGGINTVLPLVPQIGMM
+            YLFLSFLEDSGYMARAAFVMDRLMQALGLPGKSFVPLIVGFGCNVPSVMGARTLDAPRER
+            LMTIMMAPFMSCGARLAIFAVFAAAFFGQNGALAVFSLYMLGIVMAVLTGLMLKYTIMRG
+            EATPFVMELPVYHVPHVKSLIIQTWQRLKGFVLRAGKVIIIVSIFLSAFNSFSLSGKIVD
+            NINDSALASVSRVITPVFKPIGVHEDNWQATVGLFTGAMAKEVVVGTLNTLYTAENIQDE
+            EFNPAEFNLGEELFSAIDETWQSLKDTFSLSVLMNPIEASKGDGEMGTGAMGVMDQKFGS
+            AAAAYSYLIFVLLYVPCISVMGAIARESSRGWMGFSILWGLNIAYSLATLFYQVASYSQH
+            PTYSLVCILAVILFNIVVIGLLRRARSRVDIELLATRKSVSSCCAASTTGDCH
+NTSEQ       2322
+            atgaaaaaattaaccattggcttaattggtaatccaaattctggcaagacaacgttattt
+            aaccagctcactggctcacgtcagcgtgtaggtaactgggctggcgttaccgtcgaacgt
+            aaagaagggcaattctccaccaccgatcatcaggtcacgctggtggacctgcccggcacc
+            tattctctgaccaccatctcatcgcagacctcgctcgatgagcaaatcgcctgtcactac
+            attttgagtggcgacgccgacctgctgattaacgtggtggatgcgtctaaccttgagcgt
+            aacctgtacctgacgctacaactgctggaactcggcattccctgcattgtggcactgaac
+            atgctcgacattgccgagaagcaaaatattcgtattgaaattgatgctctgtcggcgcgt
+            ctgggctgtccggtgatcccgctggtttcaacccgtggtcgcggtattgaagcgctcaag
+            ctggcgattgatcgctataaagctaacgagaatgtggaactggtgcattacgcacagccg
+            ctgctcaacgaagcagattcactggcaaaagtgatgccttccgacatcccgctgaaacaa
+            cgtcgctggctgggcctgcaaatgctggaaggcgatatctacagccgcgcctacgccggt
+            gaagcgtcgcagcatctggatgccgccctcgcccgtctgcgtaatgagatggacgatccg
+            gcgctgcacattgccgatgcgcgttaccagtgcattgctgccatctgtgatgtggtaagc
+            aacaccctgacggcagaacccagccgtttcaccactgcggtagataaaatcgtgctcaac
+            cgtttcctcggtctgccgattttcctctttgtgatgtacctgatgttcctgctggctatc
+            aacatcggcggggcgttacagccgctgtttgacgtcggctccgtggcgctatttgtgcat
+            ggtattcaatggattggctacacgctccacttcccggactggctgactatcttcctcgcc
+            cagggcctgggtggcggcattaacaccgtgctgccactggtgccgcagattggcatgatg
+            tacctgttcctctccttccttgaggactccgggtatatggcgcgtgcggcgtttgtgatg
+            gaccgtctgatgcaggcgctgggcttgccggggaaatcctttgtgccgctgatcgtcggt
+            ttcggttgtaacgtaccgtcggtaatgggtgcacgtacgcttgatgcaccgcgtgaacgt
+            ctgatgaccatcatgatggcaccgtttatgtcctgcggcgcgcgtctggctatcttcgca
+            gtattcgcggctgccttcttcgggcagaacggtgcgctggcggtcttctcgctgtatatg
+            ctgggtattgtgatggcggtgctgactggcctgatgctcaagtacaccatcatgcgcggt
+            gaagcgacgccgtttgtcatggagttgccggtctatcatgtaccacacgttaaaagcctg
+            attatccagacctggcagcgtctgaaaggcttcgttctgcgtgctggtaaagtgatcatc
+            atcgtcagcattttcctgagcgctttcaacagcttctcgctgagcgggaaaatcgtcgat
+            aacatcaacgactcggcgctggcgtccgtcagccgggtgatcaccccggtcttcaagcca
+            attggcgtgcatgaagataactggcaggcaacggttggcctgtttacaggtgccatggcg
+            aaagaagtggtagtgggtacgctcaacaccctctacaccgcagaaaatattcaggacgaa
+            gagttcaatccggcagaatttaacctcggtgaagagctgttcagtgcgatagatgaaacc
+            tggcagagcctgaaagacaccttcagccttagcgtactgatgaaccccattgaagccagc
+            aaaggcgacggcgaaatgggtaccggggcgatgggcgtgatggatcagaaattcggtagc
+            gcagcagcagcttacagctacctgattttcgtcctgctgtatgtaccatgtatctcggtg
+            atgggggctatcgcccgtgaatcaagccgtggctggatgggcttctccatcctgtggggg
+            ctgaatatcgcttactcactggcaacattgttctatcaggtcgccagctacagtcagcat
+            ccaacttacagcctggtgtgcattctggcggttatcctgtttaacatcgtggttatcggt
+            ctgctgcgccgcgcgcgtagccgggtggatatcgaactgctggcaacccgcaagtcggta
+            agcagttgctgcgcagccagcaccaccggtgattgccattaa
+///

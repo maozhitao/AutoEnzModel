@@ -1,0 +1,55 @@
+ENTRY       b2131             CDS       T00007
+NAME        osmF
+DEFINITION  (RefSeq) glycine betaine ABC transporter periplasmic binding protein OsmF
+ORTHOLOGY   K05845  osmoprotectant transport system substrate-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b2131 (osmF)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2131 (osmF)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Mineral and organic ion transporters
+               Osmoprotectant transporter
+                b2131 (osmF)
+POSITION    complement(2218564..2219481)
+MOTIF       Pfam: OpuAC
+DBLINKS     NCBI-GeneID: 946681
+            NCBI-ProteinID: NP_416635
+            Pasteur: yehZ
+            RegulonDB: ECK120001931
+            ECOCYC: EG12012
+            ASAP: ABE-0007040
+            UniProt: P33362
+STRUCTURE   PDB: 4WEP
+AASEQ       305
+            MPLLKLWAGSLVMLAAVSLPLQAASPVKVGSKIDTEGALLGNIILQVLESHGVPTVNKVQ
+            LGTTPVVRGAITSGELDIYPEYTGNGAFFFKDENDAAWKNAQQGYEKVKKLDSEHNKLIW
+            LTPAPANNTWTIAVRQDVAEKNKLTSLADLSRYLQEGGTFKLAASAEFIERADALPAFEK
+            AYGFKLGQDQLLSLAGGDTAVTIKAAAQQTSGVNAAMAYGTDGPVAALGLQTLSDPQGVQ
+            PIYAPAPVVRESVLREYPQMAQWLQPVFASLDAKTLQQLNASIAVEGLDAKKVAADYLKQ
+            KGWTK
+NTSEQ       918
+            atgccactcttaaagctctgggcaggttcactggttatgttggcagccgtgagcctgccg
+            ctacaggcggcttcccccgttaaagtcggttcaaaaatcgataccgaaggtgcgctactc
+            ggcaatatcattttgcaggtgctggaaagccacggcgtaccgacggtgaataaagtgcaa
+            ctcggaacgactcctgtggtgcgcggggcgattacttccggtgaactggatatctatccg
+            gaatataccggcaatggcgctttcttctttaaagatgaaaacgatgcagcgtggaaaaac
+            gcgcagcaaggttacgagaaagtcaaaaagctcgattcggagcacaacaagttaatctgg
+            ctgacgcccgcgcctgcaaataacacctggactatcgccgtgcgtcaggatgtggcagag
+            aaaaataaactcacttcgcttgccgacctgagtcgttatctgcaagagggcggcaccttc
+            aaactggcagcctcggcagagtttatcgaacgcgccgatgcgttacccgcgtttgaaaaa
+            gcctatggctttaagctcggtcaggatcagttgctgtcactggctggtggcgacacggcg
+            gtgacgatcaaagccgctgcccagcaaacctctggcgttaatgctgcaatggcttacggc
+            actgacggcccggtagcggcgctggggctgcaaaccttaagcgatccgcaaggtgtgcaa
+            cctatctacgcgcctgcaccagtggtgcgtgagtcggtgttgagggagtatccgcaaatg
+            gcacagtggctacagccagtcttcgccagcctcgatgcaaaaacattgcagcaactgaat
+            gccagcattgctgtggaaggactggatgccaaaaaagtggctgccgactacctgaaacaa
+            aaagggtggacgaagtaa
+///

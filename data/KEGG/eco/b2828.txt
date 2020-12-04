@@ -1,0 +1,49 @@
+ENTRY       b2828             CDS       T00007
+NAME        lgt
+DEFINITION  (RefSeq) phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+ORTHOLOGY   K13292  phosphatidylglycerol---prolipoprotein diacylglyceryl transferase [EC:2.5.1.145]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b2828 (lgt)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.145  phosphatidylglycerol---prolipoprotein diacylglyceryl transferase
+                 b2828 (lgt)
+POSITION    complement(2965162..2966037)
+MOTIF       Pfam: LGT
+DBLINKS     NCBI-GeneID: 947303
+            NCBI-ProteinID: NP_417305
+            Pasteur: lgt
+            RegulonDB: ECK120002030
+            ECOCYC: EG12128
+            ASAP: ABE-0009270
+            UniProt: P60955
+STRUCTURE   PDB: 5AZB 5AZC
+AASEQ       291
+            MTSSYLHFPEFDPVIFSIGPVALHWYGLMYLVGFIFAMWLATRRANRPGSGWTKNEVENL
+            LYAGFLGVFLGGRIGYVLFYNFPQFMADPLYLFRVWDGGMSFHGGLIGVIVVMIIFARRT
+            KRSFFQVSDFIAPLIPFGLGAGRLGNFINGELWGRVDPNFPFAMLFPGSRTEDILLLQTN
+            PQWQSIFDTYGVLPRHPSQLYELLLEGVVLFIILNLYIRKPRPMGAVSGLFLIGYGAFRI
+            IVEFFRQPDAQFTGAWVQYISMGQILSIPMIVAGVIMMVWAYRRSPQQHVS
+NTSEQ       876
+            atgaccagtagctatctgcattttccggagtttgatccggtcattttctcaataggaccc
+            gtggcgcttcactggtacggcctgatgtatctggtgggtttcatttttgcaatgtggctg
+            gcaacacgacgggcgaatcgtccgggcagcggctggaccaaaaatgaagttgaaaactta
+            ctctatgcgggcttcctcggcgtcttcctcgggggacgtattggttatgttctgttctac
+            aatttcccgcagtttatggccgatccgctgtatctgttccgtgtctgggacggcggcatg
+            tctttccacggcggcctgattggcgttatcgtggtgatgattatcttcgcccgccgtact
+            aaacgttccttcttccaggtctctgattttatcgcaccactcattccgtttggtcttggt
+            gccgggcgtctgggcaactttattaacggtgaattgtggggccgcgttgacccgaacttc
+            ccgtttgccatgctgttccctggctcccgtacagaagatattttgctgctgcaaaccaac
+            ccgcagtggcaatccattttcgacacttacggtgtgctgccgcgccacccatcacagctt
+            tacgagctgctgctggaaggtgtggtgctgtttattatcctcaacctgtatattcgtaaa
+            ccacgcccaatgggagctgtctcaggtttgttcctgattggttacggcgcgtttcgcatc
+            attgttgagtttttccgccagcccgacgcgcagtttaccggtgcctgggtgcagtacatc
+            agcatggggcaaattctttccatcccgatgattgtcgcgggtgtgatcatgatggtctgg
+            gcatatcgtcgcagcccacagcaacacgtttcctga
+///

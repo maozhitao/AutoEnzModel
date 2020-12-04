@@ -1,0 +1,55 @@
+ENTRY       b4310             CDS       T00007
+NAME        nanM
+DEFINITION  (RefSeq) N-acetylneuraminate mutarotase
+ORTHOLOGY   K17948  N-acetylneuraminate epimerase [EC:5.1.3.24]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b4310 (nanM)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.1  Racemases and epimerases
+               5.1.3  Acting on carbohydrates and derivatives
+                5.1.3.24  N-acetylneuraminate epimerase
+                 b4310 (nanM)
+POSITION    complement(4537659..4538765)
+MOTIF       Pfam: Kelch_6 Kelch_4 Kelch_1 Kelch_2 Kelch_5 Kelch_3
+DBLINKS     NCBI-GeneID: 949106
+            NCBI-ProteinID: NP_418730
+            Pasteur: yjhT
+            RegulonDB: ECK120004415
+            ECOCYC: G7920
+            ASAP: ABE-0014132
+            UniProt: P39371
+STRUCTURE   PDB: 2UVK
+AASEQ       368
+            MNKTITALAIMMASFAANASVLPETPVPFKSGTGAIDNDTVYIGLGSAGTAWYKLDTQAK
+            DKKWTALAAFPGGPRDQATSAFIDGNLYVFGGIGKNSEGLTQVFNDVHKYNPKTNSWVKL
+            MSHAPMGMAGHVTFVHNGKAYVTGGVNQNIFNGYFEDLNEAGKDSTAIDKINAHYFDKKA
+            EDYFFNKFLLSFDPSTQQWSYAGESPWYGTAGAAVVNKGDKTWLINGEAKPGLRTDAVFE
+            LDFTGNNLKWNKLAPVSSPDGVAGGFAGISNDSLIFAGGAGFKGSRENYQNGKNYAHEGL
+            KKSYSTDIHLWHNGKWDKSGELSQGRAYGVSLPWNNSLLIIGGETAGGKAVTDSVLITVK
+            DNKVTVQN
+NTSEQ       1107
+            atgaataaaacaataacggcgcttgctatcatgatggcttcatttgccgcaaacgcgtct
+            gtattaccggaaactcctgtgccatttaaaagtggtaccggagcaattgataacgacact
+            gtctacattggtttaggtagcgcaggtacggcatggtacaagctggatacacaggccaaa
+            gataaaaaatggacagcgttagctgcattccctggcggaccaagagatcaagcaacctct
+            gcatttattgatggcaatctgtatgtgtttggcggcattggcaaaaacagcgagggcttg
+            actcaggtatttaatgacgtacacaaatacaaccccaaaaccaatagttgggttaaattg
+            atgtcgcacgcgccgatgggcatggcgggccatgtgacttttgtacacaacggcaaggct
+            tatgttactggtggtgttaaccagaatatcttcaatggctattttgaagatctcaacgag
+            gctggaaaagattcaaccgctatagataaaatcaatgctcactattttgacaaaaaagca
+            gaagattatttcttcaataagtttctgttgtcttttgatccctcaacacagcaatggagt
+            tacgctggcgaatcgccctggtacggaacggctggtgcggcggttgtgaataaaggtgat
+            aaaacctggcttattaatggcgaagccaaaccaggattgcgaacggatgccgtatttgaa
+            cttgatttcaccggtaataatttaaaatggaataagcttgctcccgtctcatcaccagat
+            ggcgtagctggcggttttgcggggataagcaatgattctcttatatttgccggaggggcc
+            ggattcaaaggttcacgagaaaattaccagaacggtaagaactatgcgcatgaaggcctg
+            aaaaaatcatatagcactgatattcatctttggcataacgggaaatgggataaatcgggt
+            gaattatcgcaaggtcgggcctacggagtatcattgccctggaataatagtctattgatt
+            attggcggtgaaactgcaggcggcaaagcggtgacggattcagttttgatcactgtgaag
+            gataataaagtcacagtacaaaactaa
+///

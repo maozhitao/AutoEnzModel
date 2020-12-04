@@ -1,0 +1,35 @@
+ENTRY       b2438             CDS       T00007
+NAME        eutK
+DEFINITION  (RefSeq) putative structural protein, ethanolamine utilization microcompartment
+ORTHOLOGY   K04025  ethanolamine utilization protein EutK
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99985 Amino acid metabolism
+                b2438 (eutK)
+POSITION    complement(2555228..2555728)
+MOTIF       Pfam: EutK_C BMC HTH_IclR FaeA TrmB HTH_20 EAP30 HTH_PafC
+DBLINKS     NCBI-GeneID: 946912
+            NCBI-ProteinID: NP_416933
+            Pasteur: eutK
+            RegulonDB: ECK120003844
+            ECOCYC: G7270
+            ASAP: ABE-0008039
+            UniProt: P76540
+STRUCTURE   PDB: 3I71
+AASEQ       166
+            MINALGLLEVDGMVAAIDAADAMLKAANVRLLSHEVLDPGRLTLVVEGDLAACRAALDAG
+            CAAAMRTGRVISRKEIGRPDDDTQWLVTGFNRQPKQPVREPDAPVIVAESADELLALLTS
+            VRQGMTAGEVAAHFGWPLEKARNALEQLFSAGTLRKRSSRYRLKPH
+NTSEQ       501
+            atgatcaatgcactgggattgctggaagtggacggcatggtcgccgcgatagatgcagcg
+            gatgccatgctcaaagcagctaacgttcgtctgctcagtcacgaagtgcttgaccctggt
+            cgcttaacgctggtggtggaaggcgatctggcggcgtgtcgtgcggcgctggacgcaggt
+            tgtgctgccgcgatgcgtaccgggcgtgtcatcagccgcaaggagatcggtcggccagac
+            gatgacacccagtggctggttactggctttaaccgccagccgaagcaacccgtaagggaa
+            cccgacgcgccagttatcgtcgcggaatctgctgacgagttgttggcgctgttaacatca
+            gtacgtcagggaatgacggcaggagaagtggctgcccactttggctggccgctggaaaaa
+            gccagaaatgcgctcgaacagctcttttctgccgggacgttacgtaaacgcagtagtcgt
+            tatcgtctcaagccccattaa
+///

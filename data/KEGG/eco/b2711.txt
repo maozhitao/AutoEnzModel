@@ -1,0 +1,54 @@
+ENTRY       b2711             CDS       T00007
+NAME        norW
+DEFINITION  (RefSeq) NADH:flavorubredoxin reductase
+ORTHOLOGY   K12265  nitric oxide reductase FlRd-NAD(+) reductase [EC:1.18.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b2711 (norW)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.18  Acting on iron-sulfur proteins as donors
+               1.18.1  With NAD+ or NADP+ as acceptor
+                1.18.1.-  
+                 b2711 (norW)
+POSITION    2833912..2835045
+MOTIF       Pfam: Pyr_redox_2 Rbx_binding Pyr_redox Pyr_redox_3 K_oxygenase DAO NAD_binding_7 HI0933_like NAD_binding_9 3HCDH_N TrkA_N FAD_binding_3 ThiF FAD_oxidored GIDA NAD_binding_8 ApbA
+DBLINKS     NCBI-GeneID: 947088
+            NCBI-ProteinID: NP_417191
+            Pasteur: ygbD
+            RegulonDB: ECK120002302
+            ECOCYC: EG12450
+            ASAP: ABE-0008912
+            UniProt: P37596
+AASEQ       377
+            MSNGIVIIGSGFAARQLVKNIRKQDATIPLTLIAADSMDEYNKPDLSHVISQGQRADDLT
+            RQTAGEFAEQFNLHLFPQTWVTDIDAEARVVKSQNNQWQYDKLVLATGASAFVPPVPGRE
+            LMLTLNSQQEYRACETQLRDARRVLIVGGGLIGSELAMDFCRAGKAVTLIDNAASILASL
+            MPPEVSSRLQHRLTEMGVHLLLKSQLQGLEKTDSGIQATLDRQRNIEVDAVIAATGLRPE
+            TALARRAGLTINRGVCVDSYLQTSNTDIYALGDCAEINGQVLPFLQPIQLSAMVLAKNLL
+            GNNTPLKLPAMLVKIKTPELPLHLAGETQRQDLRWQINTERQGMVARGVDDADQLRAFVV
+            SEDRMKEAFGLLKTLPM
+NTSEQ       1134
+            atgagtaacggcattgtgatcatcggttcgggcttcgccgcccgccaactggtgaaaaat
+            attcgcaaacaggacgccactattccattaaccctgattgccgccgacagcatggatgag
+            tacaacaaacctgacctcagccatgttatcagtcaggggcaacgtgccgatgaccttacc
+            cgccagacggcgggtgaatttgccgagcagtttaatctgcacctgtttccacaaacctgg
+            gtgacggatatcgatgccgaagcccgtgtggtgaaaagccagaataatcagtggcaatac
+            gacaagctagtactggcaaccggtgccagtgcctttgtcccgcctgtgcctgggcgtgag
+            ttaatgctgacgttaaatagtcagcaagagtatcgcgcctgtgaaacgcaactgcgggat
+            gcccgacgcgtgttgattgttggcggtggtttgattggtagcgaactggcgatggatttt
+            tgtcgtgcaggcaaagcggtcacgctaatcgacaacgctgccagtattctggcgtcgtta
+            atgccaccggaagtaagcagccgcttgcagcatcggttgacggagatgggcgttcatctg
+            ctgttgaaatctcagttacaggggctggaaaaaacggattctggcattcaggcaacgctg
+            gaccgccagcgcaatatcgaagtggatgcggtaattgccgccaccggactgcgcccggaa
+            accgccctggcacgacgcgccgggctgacgattaatcgcggcgtttgcgtcgatagttat
+            ctgcaaaccagtaataccgatatttacgcgctgggcgattgcgcggaaattaacggtcag
+            gtattgccgttcctccagccgattcaacttagcgcgatggtgctggcaaaaaatcttctc
+            ggcaataacacgccgctgaaactcccggcgatgctggtgaaaatcaaaacgccggaatta
+            ccgctgcatctggcaggcgaaacccagcgtcaggatttacgctggcaaattaataccgaa
+            cgccagggaatggtggcgcgcggcgttgacgatgctgaccagcttcgcgcctttgtggtc
+            agtgaggatcggatgaaagaggcatttggattgttgaaaacattgccgatgtag
+///

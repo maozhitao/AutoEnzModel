@@ -1,0 +1,56 @@
+ENTRY       b2777             CDS       T00007
+NAME        queE
+DEFINITION  (RefSeq) putative 7-carboxy-7-deazaguanine synthase QueE
+ORTHOLOGY   K10026  7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00790  Folate biosynthesis
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00790 Folate biosynthesis
+                b2777 (queE)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b2777 (queE)
+            Enzymes [BR:eco01000]
+             4. Lyases
+              4.3  Carbon-nitrogen lyases
+               4.3.99  Other carbon-nitrogen lyases
+                4.3.99.3  7-carboxy-7-deazaguanine synthase
+                 b2777 (queE)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Other tRNA modification factors
+                b2777 (queE)
+POSITION    complement(2904747..2905418)
+MOTIF       Pfam: Fer4_14 Radical_SAM Fer4_12
+DBLINKS     NCBI-GeneID: 947527
+            NCBI-ProteinID: NP_417257
+            Pasteur: ygcF
+            RegulonDB: ECK120004006
+            ECOCYC: G7443
+            ASAP: ABE-0009101
+            UniProt: P64554
+STRUCTURE   PDB: 6NHL
+AASEQ       223
+            MQYPINEMFQTLQGEGYFTGVPAIFIRLQGCPVGCAWCDTKHTWEKLEDREVSLFSILAK
+            TKESDKWGAASSEDLLAVIGRQGYTARHVVITGGEPCIHDLLPLTDLLEKNGFSCQIETS
+            GTHEVRCTPNTWVTVSPKLNMRGGYEVLSQALERANEIKHPVGRVRDIEALDELLATLTD
+            DKPRVIALQPISQKDDATRLCIETCIARNWRLSMQTHKYLNIA
+NTSEQ       672
+            atgcagtacccgattaacgagatgttccagaccctgcaaggtgagggttactttaccggc
+            gttcccgccatttttattcgtttacagggatgcccggttggctgtgcctggtgcgacacc
+            aaacacacctgggaaaagcttgaggatcgggaagtctcccttttcagcattctggcgaag
+            accaaagagagtgataagtggggggctgcgagcagtgaagatttgctggctgtcattggt
+            cgccagggatacaccgcgcggcatgtggtgattacgggtggtgagccttgcattcatgat
+            ttgctgccactgactgatctgctcgaaaagaacggttttagctgccagatcgaaaccagt
+            ggtactcatgaggtacgctgcacaccgaatacctgggttaccgtatcgccaaagctgaac
+            atgcgcggcggctatgaagtgttgtcacaggcactggagcgagccaacgaaatcaagcat
+            ccagtggggcgcgtacgcgatattgaagcactggatgaactactggcaacgctgaccgat
+            gataaaccgcgagtcattgcactgcagccgattagccaaaaggatgatgccacacgtttg
+            tgcattgaaacctgcattgcgcgtaattggcgtttgtcgatgcaaacacataaatatcta
+            aatattgcctga
+///

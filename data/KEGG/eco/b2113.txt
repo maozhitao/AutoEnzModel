@@ -1,0 +1,59 @@
+ENTRY       b2113             CDS       T00007
+NAME        mrp
+DEFINITION  (RefSeq) P-loop NTPase family protein
+ORTHOLOGY   K03593  ATP-binding protein involved in chromosome partitioning
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b2113 (mrp)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b2113 (mrp)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Other chromosome partitioning proteins
+                b2113 (mrp)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial quality control factors
+              Mitochondrial respiratory chain complex assembly factors
+               Complex-I assembly factors
+                b2113 (mrp)
+POSITION    complement(2193059..2194168)
+MOTIF       Pfam: ParA CbiA AAA_31 MipZ Fer4_NifH ArsA_ATPase VirC1 FeS_assembly_P CBP_BcsQ AAA_25 CLP1_P MeaB DUF563
+DBLINKS     NCBI-GeneID: 946627
+            NCBI-ProteinID: NP_416616
+            RegulonDB: ECK120000604
+            ECOCYC: EG10611
+            ASAP: ABE-0006987
+            UniProt: P0AF08
+AASEQ       369
+            MNEQSQAKSPEALRAMVAGTLANFQHPTLKHNLTTLKALHHVAWMDDTLHVELVMPFVWH
+            SAFEELKEQCSAELLRITGAKAIDWKLSHNIATLKRVKNQPGINGVKNIIAVSSGKGGVG
+            KSSTAVNLALALAAEGAKVGILDADIYGPSIPTMLGAENQRPTSPDGTHMAPIMSHGLAT
+            NSIGYLVTDDNAMVWRGPMASKALMQMLQETLWPDLDYLVLDMPPGTGDIQLTLAQNIPV
+            TGAVVVTTPQDIALIDAKKGIVMFEKVEVPVLGIVENMSVHICSNCGHHEPIFGTGGAEK
+            LAEKYHTQLLGQMPLHISLREDLDKGTPTVISRPESEFTAIYRQLADRVAAQLYWQGEVI
+            PGEISFRAV
+NTSEQ       1110
+            atgaacgaacaatcccaggccaaatcaccagaagccttgcgcgcaatggtcgccgggaca
+            ctggccaattttcagcacccaaccctgaagcataacctcaccacgctgaaagcgttgcac
+            catgtcgcctggatggacgacacgttgcatgtggaactggttatgccgtttgtctggcat
+            agcgcgttcgaagagttaaaagagcaatgtagcgccgaactgctgcgcatcaccggggcg
+            aaagctatcgactggaaactgtcgcataacatagccactctgaaacgcgtgaagaatcag
+            ccgggaattaacggtgtgaagaacattatcgcggtgagttccggtaaaggcggcgtgggt
+            aaatcgtccacggcggtaaacctggcactggcgctggcggcagaaggggcgaaagtcggc
+            attctggacgccgatatctacggcccatcaatcccaacaatgttgggcgcagaaaatcag
+            cgtccaacttcgccggacggtacccatatggcaccgattatgtctcatggcctggcaacc
+            aattcaattggttatctggtcactgacgacaatgcgatggtgtggcgtggaccgatggcg
+            agcaaggcgttaatgcagatgttgcaggaaaccttgtggccggatctcgactatctggtg
+            cttgatatgccgccaggcaccggtgacattcaattgacgctggcgcaaaacattccagta
+            accggtgcagtcgtggtcaccaccccgcaggacatcgcgctgatcgatgcgaaaaaaggc
+            attgtgatgttcgagaaagtcgaggttccggtgctcggtattgtcgagaacatgagtgtg
+            catatttgcagtaactgtggtcaccatgaaccgattttcggtaccggtggtgcagagaaa
+            ctggctgaaaaataccatacacagctgctggggcagatgccgttacacatctccttacgt
+            gaggatctcgataaaggtacgccaacggttatcagccgtccggagagcgaatttaccgct
+            atctaccgccagctggctgaccgcgttgcagctcagctctactggcagggtgaagtcatt
+            ccaggcgagatttccttccgcgcggtctaa
+///

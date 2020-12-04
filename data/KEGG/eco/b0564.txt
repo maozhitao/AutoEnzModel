@@ -1,0 +1,50 @@
+ENTRY       b0564             CDS       T00007
+NAME        appY
+DEFINITION  (RefSeq) DNA-binding transcriptional activator AppY
+ORTHOLOGY   K07780  AraC family transcriptional regulator, transcriptional regulator required for anaerobic and stationary phase induction of genes
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0564 (appY)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0564 (appY)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               AraC family
+                b0564 (appY)
+POSITION    583681..584430
+MOTIF       Pfam: HTH_18 HTH_AraC
+DBLINKS     NCBI-GeneID: 948797
+            NCBI-ProteinID: NP_415096
+            Pasteur: appY
+            RegulonDB: ECK120000046
+            ECOCYC: EG10050
+            ASAP: ABE-0001929
+            UniProt: P05052
+AASEQ       249
+            MDYVCSVVFICQSFDLIINRRVISFKKNSLFIVSDKIRRELPVCPSKLRIVDIDKKTCLS
+            FFIDVNNELPGKFTLDKNGYIAEEEPPLSLVFSLFEGIKIADSHSLWLKERLCISLLAMF
+            KKRESVNSFILTNINTFTCKITGIISFNIERQWHLKDIAELIYTSESLIKKRLRDEGTSF
+            TEILRDTRMRYAKKLITSNSYSINVVAQKCGYNSTSYFICAFKDYYGVTPSHYFEKIIGV
+            TDGINKTID
+NTSEQ       750
+            atggattatgtttgctccgtagttttcatctgtcaatcatttgatttaattataaacagg
+            agagttatctcgttcaaaaaaaattcattgtttattgtaagcgacaaaattagaagggag
+            ttaccagtatgcccctctaaactaagaattgttgatatagataagaaaacatgtttatcc
+            ttttttatcgacgtgaataatgagctgcctggcaaatttactcttgataagaatggctat
+            attgctgaagaggaacctccattatcgcttgttttttctctgtttgaagggattaaaata
+            gcagactcacactccctttggttaaaagaaagactatgtatatccttacttgccatgttc
+            aaaaaacgcgaaagtgtaaattcatttatactaacaaatataaatacatttacctgtaaa
+            attactggaataatcagttttaatattgagcggcaatggcatttaaaagatattgcggaa
+            ttgatttatacgagtgaaagtttaataaaaaaaagattaagggatgaaggaacgtcattt
+            actgaaatattgagagatactaggatgaggtatgcaaaaaaactcataacttcaaactct
+            tattctatcaatgtcgtagcccagaaatgtggctataacagtacttcatatttcatatgt
+            gcatttaaagattattatggtgtcacgccatctcattattttgagaaaataatcggcgtc
+            acagatggaataaacaaaacaattgactga
+///

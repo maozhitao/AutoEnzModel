@@ -1,0 +1,62 @@
+ENTRY       b4004             CDS       T00007
+NAME        zraR
+DEFINITION  (RefSeq) DNA-binding transcriptional activator ZraR
+ORTHOLOGY   K07713  two-component system, NtrC family, response regulator HydG
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b4004 (zraR)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b4004 (zraR)
+            Two-component system [BR:eco02022]
+             NtrC family
+              HydH-HydG (metal tolerance)
+               b4004 (zraR)
+POSITION    4203320..4204645
+MOTIF       Pfam: Sigma54_activat Response_reg Sigma54_activ_2 HTH_8 AAA_5 AAA FleQ AAA_19 HTH_30 AAA_16 Mg_chelatase HTH_23 HTH_28 AAA_2 HTH_50 Phage_NinH HTH_29 TIP49 AAA_3 HTH_1
+DBLINKS     NCBI-GeneID: 948505
+            NCBI-ProteinID: NP_418432
+            Pasteur: hydG
+            RegulonDB: ECK120000475
+            ECOCYC: EG10482
+            ASAP: ABE-0013093
+            UniProt: P14375
+AASEQ       441
+            MTHDNIDILVVDDDISHCTILQALLRGWGYNVALANSGRQALEQVREQVFDLVLCDVRMA
+            EMDGIATLKEIKALNPAIPVLIMTAYSSVETAVEALKTGALDYLIKPLDFDNLQATLEKA
+            LAHTHSIDAETPAVTASQFGMVGKSPAMQHLLSEIALVAPSEATVLIHGDSGTGKELVAR
+            AIHASSARSEKPLVTLNCAALNESLLESELFGHEKGAFTGADKRREGRFVEADGGTLFLD
+            EIGDISPMMQVRLLRAIQEREVQRVGSNQIISVDVRLIAATHRDLAAEVNAGRFRQDLYY
+            RLNVVAIEVPSLRQRREDIPLLAGHFLQRFAERNRKAVKGFTPQAMDLLIHYDWPGNIRE
+            LENAVERAVVLLTGEYISERELPLAIASTPIPLGQSQDIQPLVEVEKEVILAALEKTGGN
+            KTEAARQLGITRKTLLAKLSR
+NTSEQ       1326
+            atgacgcacgataatatcgatattctggtggtggatgatgacattagccactgcactatt
+            ttgcaggctttactgcgcggctggggctataacgtcgcgctggcgaacagcgggcgacag
+            gcgttggagcaggtgcgggaacaggtttttgatcttgtgctttgcgatgtgcgaatggcg
+            gagatggacggcatcgccacgctgaaagagatcaaagcgttaaacccggcaattccggtg
+            ctgattatgactgcgtactccagcgtcgagacggcggtagaggcactgaaaactggggcg
+            ctggattatctcatcaagccgctggatttcgataacctacaggcgacgctggaaaaagcg
+            ctcgcgcatacgcacagtattgatgctgaaacacctgcggtgactgccagccagttcggt
+            atggtcggtaaaagcccggcgatgcaacacctgctcagtgaaatcgccctcgtcgcgcca
+            tcggaagccacggtactgatccacggcgattccggcaccggtaaagagctggtcgccagg
+            gcgattcacgccagtagcgcacgtagcgaaaaaccgctggtaacgctcaactgtgcggca
+            ctcaacgaatccttgctggaatctgaattgttcggtcacgaaaaaggggcgtttactgga
+            gccgataaacgccgggaagggcgctttgttgaggcggacggcggcacgctgtttctcgat
+            gaaattggcgatatctcgccgatgatgcaggtgcgtctgctgcgtgcgattcaggagcgc
+            gaagttcagcgtgtcggtagcaaccagattatctcggttgatgtccggctgattgcggcg
+            acccatcgcgatcttgccgcagaggtgaatgccgggcgttttcgccaggatctctactat
+            cgcctgaatgtggtggcgattgaagtaccatcgctgcggcaacggcgggaagatatccct
+            ctgctggctggccattttctgcagcgctttgccgagcgtaatcgcaaggcggtaaaaggt
+            tttacgccccaggcgatggatctgttgattcattacgactggccgggaaatattcgtgag
+            ctggaaaacgcggtggaacgggcagtggtgctgctgaccggggaatatatttccgaacgc
+            gagctgccgctggcgattgccagtacgccgatcccgctgggacaaagtcaggatattcag
+            ccgttggtggaagtggaaaaagaggtgattctggcggcgctggagaaaacgggcggcaac
+            aaaaccgaagccgcccgtcagttagggatcacgcgcaaaacgctattggcaaaactgtcg
+            cgttag
+///

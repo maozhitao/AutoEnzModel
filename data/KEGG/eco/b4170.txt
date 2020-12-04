@@ -1,0 +1,76 @@
+ENTRY       b4170             CDS       T00007
+NAME        mutL
+DEFINITION  (RefSeq) DNA mismatch repair protein MutL
+ORTHOLOGY   K03572  DNA mismatch repair protein MutL
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03430  Mismatch repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03430 Mismatch repair
+                b4170 (mutL)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b4170 (mutL)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                Molecular matchmaker
+                 b4170 (mutL)
+POSITION    4397412..4399259
+MOTIF       Pfam: DNA_mis_repair MutL_C HATPase_c_3 HATPase_c
+DBLINKS     NCBI-GeneID: 948691
+            NCBI-ProteinID: NP_418591
+            Pasteur: mutL
+            RegulonDB: ECK120001254
+            ECOCYC: EG11281
+            ASAP: ABE-0013655
+            UniProt: P23367
+STRUCTURE   PDB: 1B63 1NHI 1X9Z 1B62 1NHJ 1NHH 1BKN 5AKB 5AKC 5AKD
+AASEQ       615
+            MPIQVLPPQLANQIAAGEVVERPASVVKELVENSLDAGATRIDIDIERGGAKLIRIRDNG
+            CGIKKDELALALARHATSKIASLDDLEAIISLGFRGEALASISSVSRLTLTSRTAEQQEA
+            WQAYAEGRDMNVTVKPAAHPVGTTLEVLDLFYNTPARRKFLRTEKTEFNHIDEIIRRIAL
+            ARFDVTINLSHNGKIVRQYRAVPEGGQKERRLGAICGTAFLEQALAIEWQHGDLTLRGWV
+            ADPNHTTPALAEIQYCYVNGRMMRDRLINHAIRQACEDKLGADQQPAFVLYLEIDPHQVD
+            VNVHPAKHEVRFHQSRLVHDFIYQGVLSVLQQQLETPLPLDDEPQPAPRSIPENRVAAGR
+            NHFAEPAAREPVAPRYTPAPASGSRPAAPWPNAQPGYQKQQGEVYRQLLQTPAPMQKLKA
+            PEPQEPALAANSQSFGRVLTIVHSDCALLERDGNISLLSLPVAERWLRQAQLTPGEAPVC
+            AQPLLIPLRLKVSAEEKSALEKAQSALAELGIDFQSDAQHVTIRAVPLPLRQQNLQILIP
+            ELIGYLAKQSVFEPGNIAQWIARNLMSEHAQWSMAQAITLLADVERLCPQLVKTPPGGLL
+            QSVDLHPAIKALKDE
+NTSEQ       1848
+            atgccaattcaggtcttaccgccacaactggcgaaccagattgccgcaggtgaggtggtc
+            gagcgacctgcgtcggtagtcaaagaactagtggaaaacagcctcgatgcaggtgcgacg
+            cgtatcgatattgatatcgaacgcggtggggcgaaacttatccgcattcgtgataacggc
+            tgcggtatcaaaaaagatgagctggcgctggcgctggctcgtcatgccaccagtaaaatc
+            gcctctctggacgatctcgaagccattatcagcctgggctttcgcggtgaggcgctggcg
+            agtatcagttcggtttcccgcctgacgctcacttcacgcaccgcagaacagcaggaagcc
+            tggcaggcctatgccgaagggcgcgatatgaacgtgacggtaaaaccggcggcgcatcct
+            gtggggacgacgctggaggtgctggatctgttctacaacaccccggcgcggcgcaaattc
+            ctgcgcaccgagaaaaccgaatttaaccacattgatgagatcatccgccgcattgcgctg
+            gcgcgtttcgacgtcacgatcaacctgtcgcataacggtaaaattgtgcgtcagtaccgc
+            gcagtgccggaaggcgggcaaaaagaacggcgcttaggcgcgatttgcggcaccgctttt
+            cttgaacaagcgctggcgattgaatggcaacacggcgatctcacgctacgcggctgggtg
+            gccgatccaaatcacaccacgcccgcactggcagaaattcagtattgctacgtgaacggt
+            cgcatgatgcgcgatcgcctgatcaatcacgcgatccgccaggcctgcgaagacaaactg
+            ggggccgatcagcaaccggcatttgtgttgtatctggagatcgacccacatcaggtggac
+            gtcaacgtgcaccccgccaaacacgaagtgcgtttccatcagtcgcgtctggtgcatgat
+            tttatctatcagggcgtgctgagcgtgctacaacagcaactggaaacgccgctaccgctg
+            gacgatgaaccccaacctgcaccgcgttccattccggaaaaccgcgtggcggcggggcgc
+            aatcactttgcagaaccggcagctcgtgagccggtagctccgcgctacactcctgcgcca
+            gcatcaggcagtcgtccggctgccccctggccgaatgcgcagccaggctaccagaaacag
+            caaggtgaagtgtatcgccagcttttgcaaacgcccgcgccgatgcaaaaattaaaagcg
+            ccggaaccgcaggaacctgcacttgcggcgaacagtcagagttttggtcgggtactgact
+            atcgtccattccgactgtgcgttgctggagcgcgacggcaacatttcacttttatccttg
+            ccagtggcagaacgttggctgcgtcaggcacaattgacgccgggtgaagcgcccgtttgc
+            gcccagccgctgctgattccgttgcggctaaaagtttctgccgaagaaaaatcggcatta
+            gaaaaagcgcagtctgccctggcggaattgggtattgatttccagtcagatgcacagcat
+            gtgaccatcagggcagtgcctttacccttacgccaacaaaatttacaaatcttgattcct
+            gaactgataggctacctggcgaagcagtccgtattcgaacctggcaatattgcgcagtgg
+            attgcacgaaatctgatgagcgaacatgcgcagtggtcaatggcacaggccataaccctg
+            ctggcggacgtggaacggttatgtccgcaacttgtgaaaacgccgccgggtggtctgtta
+            caatctgttgatttacatccggcgataaaagccctgaaagatgagtga
+///

@@ -1,0 +1,45 @@
+ENTRY       b3165             CDS       T00007
+NAME        rpsO
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S15
+ORTHOLOGY   K02956  small subunit ribosomal protein S15
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3165 (rpsO)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3165 (rpsO)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Small subunit
+                b3165 (rpsO)
+              Bacteria
+                b3165 (rpsO)
+              Archaea
+                b3165 (rpsO)
+POSITION    complement(3311415..3311684)
+MOTIF       Pfam: Ribosomal_S15 FliJ Stirrup
+DBLINKS     NCBI-GeneID: 947686
+            NCBI-ProteinID: NP_417634
+            Pasteur: rpsO
+            RegulonDB: ECK120000905
+            ECOCYC: EG10914
+            ASAP: ABE-0010401
+            UniProt: P0ADZ4
+STRUCTURE   PDB: 4A5U 6NQB 6O7K 5NO2 5NO3 5NO4 5UZ4 5MY1 2YKR 2VAZ 5ME0
+                 5ME1 4ADV 3IY8 4A2I
+AASEQ       89
+            MSLSTEATAKIVSEFGRDANDTGSTEVQVALLTAQINHLQGHFAEHKKDHHSRRGLLRMV
+            SQRRKLLDYLKRKDVARYTQLIERLGLRR
+NTSEQ       270
+            atgtctctaagtactgaagcaacagctaaaatcgtttctgagtttggtcgtgacgcaaac
+            gacaccggttctaccgaagttcaggtagcactgctgactgcacagatcaaccacctgcag
+            ggccactttgcagagcacaaaaaagatcaccacagccgtcgtggtctgctgcgcatggtt
+            tctcagcgtcgtaaactgctcgactacctgaaacgtaaagacgtagcacgttacacccag
+            ctcatcgagcgcctgggtctgcgtcgctaa
+///

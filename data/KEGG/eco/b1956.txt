@@ -1,0 +1,67 @@
+ENTRY       b1956             CDS       T00007
+NAME        dgcQ
+DEFINITION  (RefSeq) putative diguanylate cyclase DgcQ
+ORTHOLOGY   K21085  diguanylate cyclase [EC:2.7.7.65]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b1956 (dgcQ)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.65  diguanylate cyclase
+                 b1956 (dgcQ)
+POSITION    complement(2026323..2028017)
+MOTIF       Pfam: CHASE7 GGDEF RRM_2 GGDEF_2
+DBLINKS     NCBI-GeneID: 946471
+            NCBI-ProteinID: NP_416465
+            Pasteur: yedQ
+            RegulonDB: ECK120003635
+            ASAP: ABE-0006495
+            UniProt: P76330
+AASEQ       564
+            MQHETKMENQSWLKKLARRLGPGHVVNLCFIVVLLFSTLLTWREVVVLEDAYISSQRNHL
+            ENVANALDKHLQYNVDKLIFLRNGMREALVAPLDFTSLRDAVTEFEQHRDEHAWKIELNR
+            RRTLPVNGVSDALVSEGNLLSRENESLDNEITAALEVGYLLRLAHNSSSMVEQAMYVSRA
+            GFYVSTQPTLFTRNVPTRYYGYVTQPWFIGHSQRENRHRAVRWFTSQPEHASNTEPQVTV
+            SVPVDSNNYWYGVLGMSIPVRTMQQFLRNAIDKNLDGEYQLYDSKLRFLTSSNPDHPTGN
+            IFDPRELALLAQAMEHDTRGGIRMDSRYVSWERLDHFDGVLVRVHTLSEGVRGDFGSISI
+            ALTLLWALFTTMLLISWYVIRRMVSNMYVLQSSLQWQAWHDTLTRLYNRGALFEKARPLA
+            KLCQTHQHPFSVIQVDLDHFKAINDRFGHQAGDRVLSHAAGLISSSLRAQDVAGRVGGEE
+            FCVILPGASLTEAAEVAERIRLKLNEKEMLIAKSTTIRISASLGVSSSEETGDYDFEQLQ
+            SLADRRLYLAKQAGRNRVFASDNA
+NTSEQ       1695
+            gtgcagcacgagacaaaaatggaaaaccagagctggttgaaaaaactcgcacgccgcctg
+            gggcctggtcatgtcgttaatctctgctttatcgtggtattgcttttttccaccttgctc
+            acctggcgtgaagtggtggtgctggaagatgcctatatctccagccagcgtaatcatctg
+            gaaaacgttgccaacgcgctcgataagcatttgcagtataacgtcgacaaactgatcttt
+            ttacgtaatggcatgcgcgaagctctcgtagcgccactggatttcacctctctgcgtgat
+            gctgtaaccgagttcgaacagcatcgcgacgagcacgcctggaaaatcgaactcaaccga
+            cgacgcactctgccagttaatggtgtgtcggatgcattagtcagcgaggggaatctcctg
+            tctcgcgaaaatgaaagcctcgacaatgaaattaccgctgcactggaagttggttacttg
+            ctgcgactagcgcacaactcctcgtcgatggttgaacaggcgatgtatgtctcgcgtgcc
+            ggattttacgtttcgacgcagccgaccttgtttacgcgcaatgttccaacgcgttattac
+            ggctatgtcacccaaccctggtttattggccattcacaacgagaaaatcgtcaccgcgcg
+            gtacgctggttcacttcgcaaccggaacacgccagcaatactgaaccgcaggttaccgtc
+            agtgttccggtagacagtaataactactggtatggcgtgctggggatgagtattcccgtg
+            cgtactatgcagcaatttttaagaaacgccatcgataaaaacctcgatggtgagtatcag
+            ctctatgacagtaagctgagatttttgacctcttccaatcctgaccatccaacagggaat
+            atttttgatcctcgtgaactggccttgctggcgcaggcaatggaacatgacacgcggggc
+            ggcattcgtatggacagtcgctatgttagctgggaacgtctggaccatttcgacggtgtg
+            ctggtgcgtgtccatacgttaagcgaaggcgtgcgcggcgatttcggcagtatcagcatt
+            gcattaaccctgctgtgggcgctctttaccaccatgttactcatctcctggtatgtgatt
+            cgccggatggttagcaacatgtatgttctgcaaagctcgttgcagtggcaggcgtggcac
+            gacaccttaacgcgtttatataaccgtggcgcactgttcgaaaaagcccgtccgctcgct
+            aaattgtgtcagacgcaccaacatcctttttctgtcattcaggtcgatcttgaccatttt
+            aaagcgattaatgaccgctttggtcatcaggcgggcgaccgtgttctttctcatgctgcc
+            ggattaattagcagttccttgcgtgcgcaggacgttgccgggcgggtcggtggtgaggag
+            ttttgtgtgattctgccaggcgcgagtctgacggaggctgcggaggtcgcagaacgtatt
+            cgactgaaattaaatgaaaaagagatgttgatcgccaagagtacgacgatacgcatcagt
+            gcctcgctgggggtaagcagcagcgaggaaaccggtgattatgattttgaacaactccag
+            tcactggccgaccgtcggctttatctcgctaaacaggctgggcgtaatcgggtattcgcg
+            agcgataacgcttaa
+///

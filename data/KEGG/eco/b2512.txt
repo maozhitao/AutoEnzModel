@@ -1,0 +1,55 @@
+ENTRY       b2512             CDS       T00007
+NAME        bamB
+DEFINITION  (RefSeq) outer membrane protein assembly factor BamB
+ORTHOLOGY   K17713  outer membrane protein assembly factor BamB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2512 (bamB)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b2512 (bamB)
+POSITION    complement(2637474..2638652)
+MOTIF       Pfam: PQQ_2 PQQ PQQ_3 WD40_like Flavodoxin_4
+DBLINKS     NCBI-GeneID: 946982
+            NCBI-ProteinID: NP_417007
+            Pasteur: yfgL
+            RegulonDB: ECK120003892
+            ECOCYC: G7320
+            ASAP: ABE-0008272
+            UniProt: P77774
+STRUCTURE   PDB: 3Q7M 3Q7N 3PRW 3Q54 3Q7O 2YMS 4XGA 2YH3 3P1L 5D0O 4PK1
+                 5AYW 5LJO
+AASEQ       392
+            MQLRKLLLPGLLSVTLLSGCSLFNSEEDVVKMSPLPTVENQFTPTTAWSTSVGSGIGNFY
+            SNLHPALADNVVYAADRAGLVKALNADDGKEIWSVSLAEKDGWFSKEPALLSGGVTVSGG
+            HVYIGSEKAQVYALNTSDGTVAWQTKVAGEALSRPVVSDGLVLIHTSNGQLQALNEADGA
+            VKWTVNLDMPSLSLRGESAPTTAFGAAVVGGDNGRVSAVLMEQGQMIWQQRISQATGSTE
+            IDRLSDVDTTPVVVNGVVFALAYNGNLTALDLRSGQIMWKRELGSVNDFIVDGNRIYLVD
+            QNDRVMALTIDGGVTLWTQSDLLHRLLTSPVLYNGNLVVGDSEGYLHWINVEDGRFVAQQ
+            KVDSSGFQTEPVAADGKLLIQAKDGTVYSITR
+NTSEQ       1179
+            atgcaattgcgtaaattactgctgccaggactgctttccgttacccttttaagcggctgt
+            tcgctgtttaacagcgaagaagatgtggtaaagatgtccccattgccaaccgttgaaaac
+            cagtttacgccgaccacggcgtggagcacttccgttggtagcggcattggcaacttctat
+            tccaatcttcatccggcactggcggacaacgttgtctatgcagcggaccgcgctggttta
+            gtaaaagcgctgaatgcggatgatggcaaagaaatctggtctgtcagcctggccgagaaa
+            gatggctggttctctaaagagcctgcattactttctggcggtgtgaccgtgtctggtggg
+            catgtctacattggcagcgaaaaggcgcaggtttacgcgctgaataccagcgatggtact
+            gtggcatggcaaactaaagtcgcgggtgaagcactttcgcgcccggtggtcagcgacggt
+            ctggtgttaatccacaccagtaacggtcagttacaagcgctgaacgaagctgacggcgct
+            gtcaaatggacagttaacctcgatatgccttcgctctctttgcgtggcgagtctgcgccg
+            acaacggcttttggtgcggccgtcgtggggggcgataatggtcgcgtcagcgcagtgctg
+            atggaacagggccagatgatttggcagcagcgtatttcccaggcgaccggttctaccgaa
+            attgaccgtctgagcgatgttgacacgactcccgtcgttgttaacggcgttgttttcgcg
+            ctggcctataatggtaacctgacggcgcttgatctgcgcagtggtcagattatgtggaaa
+            cgcgaactgggttcggtgaatgatttcatcgtcgacggcaatcgcatctatctggtcgat
+            caaaatgaccgggtgatggcgttgaccattgatggcggcgttacgctgtggacacaaagc
+            gatctgctgcatcgcctgctgacttctccggtgctgtataatggcaacctggtggtcggt
+            gacagtgaaggttatctgcactggattaacgtcgaagatggtcgtttcgttgcccagcaa
+            aaagttgatagttccggtttccagactgaaccggttgccgctgacggcaaactgctgatc
+            caggcaaaagacggaaccgtgtactctattacacgttaa
+///

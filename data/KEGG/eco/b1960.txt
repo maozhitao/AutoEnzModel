@@ -1,0 +1,46 @@
+ENTRY       b1960             CDS       T00007
+NAME        vsr
+DEFINITION  (RefSeq) DNA mismatch endonuclease of the very short patch (VSP) mismatch repair pathway
+ORTHOLOGY   K07458  DNA mismatch endonuclease, patch repair protein [EC:3.1.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1960 (vsr)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 b1960 (vsr)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                Other MMR factors
+                 b1960 (vsr)
+POSITION    complement(2030448..2030918)
+MOTIF       Pfam: Vsr
+DBLINKS     NCBI-GeneID: 946476
+            NCBI-ProteinID: NP_416469
+            Pasteur: vsr
+            RegulonDB: ECK120001057
+            ECOCYC: EG11068
+            ASAP: ABE-0006507
+            UniProt: P09184
+STRUCTURE   PDB: 1VSR 1CW0 1ODG
+AASEQ       156
+            MADVHDKATRSKNMRAIATRDTAIEKRLASLLTGQGLAFRVQDASLPGRPDFVVDEYRCV
+            IFTHGCFWHHHHCYLFKVPATRTEFWLEKIGKNVERDRRDISRLQELGWRVLIVWECALR
+            GREKLTDEALTERLEEWICGEGASAQIDTQGIHLLA
+NTSEQ       471
+            atggccgacgttcacgataaggccactcgcagcaaaaatatgcgcgcgattgccacgcgt
+            gatacggcgatagagaagcgcctcgccagtctgttaaccgggcagggcctggcatttcgc
+            gttcaggacgccagtctgcccggacgtccggattttgtcgttgatgaatatcgctgcgtg
+            atatttacccatggctgcttctggcatcatcatcactgctatctgtttaaagtgcctgcg
+            actcgaaccgagttctggctggagaagataggtaaaaatgttgagcgcgatcgccgcgat
+            atcagtcgcttgcaggaactcggctggcgcgtattgattgtctgggagtgcgcgttacgt
+            gggcgcgagaagctgacggatgaagcgcttaccgagcgtctggaagagtggatctgcggc
+            gaaggtgccagcgcgcagatcgacacgcaggggattcatttactcgcttga
+///

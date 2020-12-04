@@ -1,0 +1,57 @@
+ENTRY       b2741             CDS       T00007
+NAME        rpoS
+DEFINITION  (RefSeq) RNA polymerase, sigma S (sigma 38) factor
+ORTHOLOGY   K03087  RNA polymerase nonessential primary-like sigma factor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b2741 (rpoS)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:eco03021]
+                b2741 (rpoS)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               RNA polymerase
+                Sigma factors
+                 b2741 (rpoS)
+POSITION    complement(2866559..2867551)
+MOTIF       Pfam: Sigma70_r3 Sigma70_r2 Sigma70_r4 Sigma70_r1_2
+DBLINKS     NCBI-GeneID: 947210
+            NCBI-ProteinID: NP_417221
+            Pasteur: rpoS
+            RegulonDB: ECK120000503
+            ECOCYC: EG10510
+            ASAP: ABE-0009001
+            UniProt: P13445
+STRUCTURE   PDB: 5IPL 5IPM 5IPN 6FI7
+AASEQ       330
+            MSQNTLKVHDLNEDAEFDENGVEVFDEKALVEQEPSDNDLAEEELLSQGATQRVLDATQL
+            YLGEIGYSPLLTAEEEVYFARRALRGDVASRRRMIESNLRLVVKIARRYGNRGLALLDLI
+            EEGNLGLIRAVEKFDPERGFRFSTYATWWIRQTIERAIMNQTRTIRLPIHIVKELNVYLR
+            TARELSHKLDHEPSAEEIAEQLDKPVDDVSRMLRLNERITSVDTPLGGDSEKALLDILAD
+            EKENGPEDTTQDDDMKQSIVKWLFELNAKQREVLARRFGLLGYEAATLEDVGREIGLTRE
+            RVRQIQVEGLRRLREILQTQGLNIEALFRE
+NTSEQ       993
+            atgagtcagaatacgctgaaagttcatgatttaaatgaagatgcggaatttgatgagaac
+            ggagttgaggtttttgacgaaaaggccttagtagaacaggaacccagtgataacgatttg
+            gccgaagaggaactgttatcgcagggagccacacagcgtgtgttggacgcgactcagctt
+            taccttggtgagattggttattcaccactgttaacggccgaagaagaagtttattttgcg
+            cgtcgcgcactgcgtggagatgtcgcctctcgccgccggatgatcgagagtaacttgcgt
+            ctggtggtaaaaattgcccgccgttatggcaatcgtggtctggcgttgctggaccttatc
+            gaagagggcaacctggggctgatccgcgcggtagagaagtttgacccggaacgtggtttc
+            cgcttctcaacatacgcaacctggtggattcgccagacgattgaacgggcgattatgaac
+            caaacccgtactattcgtttgccgattcacatcgtaaaggagctgaacgtttacctgcga
+            accgcacgtgagttgtcccataagctggaccatgaaccaagtgcggaagagatcgcagag
+            caactggataagccagttgatgacgtcagccgtatgcttcgtcttaacgagcgcattacc
+            tcggtagacaccccgctgggtggtgattccgaaaaagcgttgctggacatcctggccgat
+            gaaaaagagaacggtccggaagataccacgcaagatgacgatatgaagcagagcatcgtc
+            aaatggctgttcgagctgaacgccaaacagcgtgaagtgctggcacgtcgattcggtttg
+            ctggggtacgaagcggcaacactggaagatgtaggtcgtgaaattggcctcacccgtgaa
+            cgtgttcgccagattcaggttgaaggcctgcgccgtttgcgcgaaatcctgcaaacgcag
+            gggctgaatatcgaagcgctgttccgcgagtaa
+///

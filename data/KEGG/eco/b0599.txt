@@ -1,0 +1,54 @@
+ENTRY       b0599             CDS       T00007
+NAME        hcxA
+DEFINITION  (RefSeq) hydroxycarboxylate dehydrogenase A
+ORTHOLOGY   K08317  hydroxycarboxylate dehydrogenase A [EC:1.1.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0599 (hcxA)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.1  With NAD+ or NADP+ as acceptor
+                1.1.1.-  
+                 b0599 (hcxA)
+POSITION    complement(632389..633477)
+MOTIF       Pfam: Fe-ADH Fe-ADH_2 DHQ_synthase GlutR_N
+DBLINKS     NCBI-GeneID: 945212
+            NCBI-ProteinID: NP_415132
+            Pasteur: ybdH
+            RegulonDB: ECK120002357
+            ECOCYC: EG12692
+            ASAP: ABE-0002065
+            UniProt: P45579
+AASEQ       362
+            MPHNPIRVVVGPANYFSHPGSFNHLHDFFTDEQLSRAVWIYGKRAIAAAQTKLPPAFGLP
+            GAKHILFRGHCSESDVQQLAAESGDDRSVVIGVGGGALLDTAKALARRLGLPFVAVPTIA
+            ATCAAWTPLSVWYNDAGQALHYEIFDDANFMVLVEPEIILNAPQQYLLAGIGDTLAKWYE
+            AVVLAPQPETLPLTVRLGINNAQAIRDVLLNSSEQALSDQQNQQLTQSFCDVVDAIIAGG
+            GMVGGLGDRFTRVAAAHAVHNGLTVLPQTEKFLHGTKVAYGILVQSALLGQDDVLAQLTG
+            AYQRFHLPTTLAELEVDINNQAEIDKVIAHTLRPVESIHYLPVTLTPDTLRAAFKKVESF
+            KA
+NTSEQ       1089
+            atgcctcacaatcctatccgcgtggtcgtcggcccggctaactacttttcacatccagga
+            agtttcaatcacctgcacgattttttcactgatgaacaactttctcgcgcggtgtggatc
+            tacggcaaacgcgccattgctgcggcgcaaaccaaacttccgccagcgtttggactgcca
+            ggggcaaagcatattttgtttcgcggtcattgcagcgaaagcgatgtacaacaactggcg
+            gctgagtccggtgacgaccgcagcgtggtgattggcgtcggtggcggtgcactgctcgac
+            accgcgaaagccctcgcccgccgtctcggtctgccgtttgttgccgttccgacgatcgcc
+            gccacctgcgccgcctggacaccgctctccgtctggtataatgatgccggacaggcgctg
+            cattatgagattttcgacgacgccaattttatggtgctggtggaaccggagattatcctc
+            aatgcaccgcaacaatatctgctggcggggatcggtgacacgctggcgaaatggtatgaa
+            gcggtggtgctggctccgcaaccagaaacgttgccgctaaccgtgcgactggggatcaat
+            aatgcgcaagccattcgcgacgtcttgttaaacagtagcgaacaggcgctgagcgatcag
+            caaaatcaacagttaacgcaatcattttgcgatgtggtggatgctattattgctggtggt
+            gggatggttggtggtctgggcgatcgttttacgcgtgtggcggcagctcatgccgtgcat
+            aacggtctgaccgtgctgccgcaaaccgagaagtttctccacggcaccaaagtcgcctac
+            ggaattctggtgcaaagcgccttgctgggtcaggatgatgtgctggcgcaattaactgga
+            gcgtatcagcgttttcatctgccgactacactggcggagctggaagtggatatcaataat
+            caggcggagatcgacaaagtgattgcccacaccctgcgtccggtggagtccattcattac
+            ctgccagtcacgctgacaccagatacgttgcgtgcagcgttcaaaaaagtggaatcgttt
+            aaagcctga
+///

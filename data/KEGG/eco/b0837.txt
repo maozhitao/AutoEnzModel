@@ -1,0 +1,55 @@
+ENTRY       b0837             CDS       T00007
+NAME        yliI
+DEFINITION  (RefSeq) aldose sugar dehydrogenase YliI
+ORTHOLOGY   K21430  aldose sugar dehydrogenase [EC:1.1.5.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0837 (yliI)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.5  With a quinone or similar compound as acceptor
+                1.1.5.-  
+                 b0837 (yliI)
+POSITION    878742..879857
+MOTIF       Pfam: GSDH DDE_Tnp_4
+DBLINKS     NCBI-GeneID: 945467
+            NCBI-ProteinID: NP_415358
+            Pasteur: yliI
+            RegulonDB: ECK120003037
+            ECOCYC: G6437
+            ASAP: ABE-0002852
+            UniProt: P75804
+STRUCTURE   PDB: 2G8S
+AASEQ       371
+            MHRQSFFLVPLICLSSALWAAPATVNVEVLQDKLDHPWALAFLPDNHGMLITLRGGELRH
+            WQAGKGLSAPLSGVPDVWAHGQGGLLDVVLAPDFAQSRRIWLSYSEVGDDGKAGTAVGYG
+            RLSDDLSKVTDFRTVFRQMPKLSTGNHFGGRLVFDGKGYLFIALGENNQRPTAQDLDKLQ
+            GKLVRLTDQGEIPDDNPFIKESGARAEIWSYGIRNPQGMAMNPWSNALWLNEHGPRGGDE
+            INIPQKGKNYGWPLATWGINYSGFKIPEAKGEIVAGTEQPVFYWKDSPAVSGMAFYNSDK
+            FPQWQQKLFIGALKDKDVIVMSVNGDKVTEDGRILTDRGQRIRDVRTGPDGYLYVLTDES
+            SGELLKVSPRN
+NTSEQ       1116
+            atgcatcgacaatcctttttccttgtgccccttatttgtctttcttccgctctctgggcg
+            gctcctgcaacggtaaatgtcgaagtactgcaagacaaactcgaccatccctgggcactg
+            gcctttttacccgataatcacggtatgttaatcactctgcgcggcggcgagttgcgtcac
+            tggcaagcaggaaaaggattatctgcgccgctttccggagttccggacgtttgggcgcac
+            gggcagggcggcctgctggacgtggttttagcgcctgattttgctcagtctcgccgcatc
+            tggttaagttattccgaagttggcgatgatggcaaagccggaactgctgtgggttatggc
+            cgcttaagtgatgatctctcaaaagtgaccgacttccgcaccgtctttcgccagatgcca
+            aaactgtctaccggcaaccattttggcgggcggctggtattcgacggtaaaggttatctt
+            tttattgctctgggcgaaaacaatcagcgcccgacggcgcaggatctggataaattacag
+            ggcaaactggtgcgtctgaccgaccagggcgaaatcccggatgataatccttttataaag
+            gaatccggtgcgcgcgccgagatctggtcttatggcattcgtaatccgcaaggaatggcg
+            atgaatccgtggagtaatgcactgtggctgaatgaacatggcccgcgcggtggtgatgaa
+            attaatatcccgcaaaaaggcaaaaactacggctggccgctggcaacctggggaatcaac
+            tattcaggctttaagataccggaagcgaaaggggagatcgtcgccgggaccgagcaacct
+            gttttttactggaaagattcgcccgctgtgagcggcatggccttctataacagcgataaa
+            ttcccccagtggcagcaaaaattatttattggcgcgctgaaagataaagatgtcattgtg
+            atgagcgtcaacggcgacaaagtgacagaagatggccgtattttaacggacagagggcag
+            cgaattcgtgatgttcgcactggacccgacggttatttatacgttctcaccgacgagtcc
+            agtggggaattacttaaagttagcccacgcaattag
+///

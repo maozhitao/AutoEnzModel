@@ -1,0 +1,55 @@
+ENTRY       b2410             CDS       T00007
+NAME        yfeH
+DEFINITION  (RefSeq) putative solute:Na(+) symporter
+ORTHOLOGY   K14347  solute carrier family 10 (sodium/bile acid cotransporter), member 7
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2410 (yfeH)
+               04147 Exosome [BR:eco04147]
+                b2410 (yfeH)
+            Transporters [BR:eco02000]
+             Solute carrier family (SLC)
+              SLC10: Sodium bile salt cotransporter
+               b2410 (yfeH)
+            Exosome [BR:eco04147]
+             Exosomal proteins
+              Exosomal proteins of hepatic cells
+               b2410 (yfeH)
+POSITION    2526946..2527944
+MOTIF       Pfam: SBF_like SBF
+DBLINKS     NCBI-GeneID: 946874
+            NCBI-ProteinID: NP_416905
+            Pasteur: yfeH
+            RegulonDB: ECK120002244
+            ECOCYC: EG12376
+            ASAP: ABE-0007936
+            UniProt: P39836
+AASEQ       332
+            MKLFRILDPFTLTLITVVLLASFFPARGDFVPFFENLTTAAIALLFFMHGAKLSREAIIA
+            GGGHWRLHLWVMCSTFVLFPILGVLFAWWKPVNVDPMLYSGFLYLCILPATVQSAIAFTS
+            MAGGNVAAAVCSASASSLLGIFLSPLLVGLVMNVHGAGGSLEQVGKIMLQLLLPFVLGHL
+            SRPWIGDWVSRNKKWIAKTDQTSILLVVYTAFSEAVVNGIWHKVGWGSLLFIVVVSCVLL
+            AIVIVVNVFMARRLSFNKADEITIVFCGSKKSLANGIPMANILFPTSVIGMMVLPLMIFH
+            QIQLMVCAVLARRYKRQTEQLQAQQESSADKA
+NTSEQ       999
+            atgaaactttttcgtatcctcgatcctttcaccttaaccctgatcacggtggtgttgctg
+            gcctctttctttccggccagaggcgatttcgtccccttctttgaaaatctgaccaccgca
+            gctattgccctgctgttctttatgcacggcgcgaagttgtcgcgtgaggcgattattgct
+            ggcggtggtcactggcgactgcatttgtgggtaatgtgcagcaccttcgtgctgtttccg
+            attctgggtgtactgtttgcctggtggaaaccggtaaatgtcgacccgatgctctactcc
+            ggttttctctacttgtgcattctcccggctaccgtgcagtctgcaatcgccttcacgtca
+            atggcgggcggtaacgtcgcggcagcggtttgttctgcgtcggcatccagcctgctgggg
+            attttcctttcaccattgctggttggtctggtgatgaatgttcacggtgcagggggcagc
+            cttgagcaggtcggtaaaattatgctgcaactgctgctgccgtttgtgttggggcatctt
+            tcccggccgtggattggtgactgggtgtcgcgcaataaaaaatggattgcgaaaactgac
+            cagacgtccattctgttggtggtttatacagcgttcagcgaagccgtcgttaatggtatc
+            tggcataaagttggctggggatcattgctgtttatcgtggtggtcagctgcgttcttctg
+            gctatcgtgattgtagttaacgtctttatggcacgccgactgagcttcaataaggcagat
+            gaaattactatcgtcttttgtggttcgaaaaagagtctggcaaatggcatcccgatggca
+            aacattctgttccccacatcggtgatcggtatgatggtgctgcccctgatgattttccat
+            cagatccaattgatggtctgtgcggtgctggcgcgtcgatacaaacgccagaccgaacag
+            ttacaggcgcagcaggaaagcagcgccgataaagcttaa
+///

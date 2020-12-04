@@ -1,0 +1,58 @@
+ENTRY       b1945             CDS       T00007
+NAME        fliM
+DEFINITION  (RefSeq) flagellar motor switch protein FliM
+ORTHOLOGY   K02416  flagellar motor switch protein FliM
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02030  Bacterial chemotaxis
+            eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02030 Bacterial chemotaxis
+                b1945 (fliM)
+               02040 Flagellar assembly
+                b1945 (fliM)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1945 (fliM)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               C-ring
+                b1945 (fliM)
+POSITION    2020087..2021091
+MOTIF       Pfam: FliM FliMN_C
+DBLINKS     NCBI-GeneID: 946442
+            NCBI-ProteinID: NP_416455
+            Pasteur: fliM
+            RegulonDB: ECK120000317
+            ECOCYC: EG10323
+            ASAP: ABE-0006469
+            UniProt: P06974
+AASEQ       334
+            MGDSILSQAEIDALLNGDSEVKDEPTASVSGESDIRPYDPNTQRRVVRERLQALEIINER
+            FARHFRMGLFNLLRRSPDITVGAIRIQPYHEFARNLPVPTNLNLIHLKPLRGTGLVVFSP
+            SLVFIAVDNLFGGDGRFPTKVEGREFTHTEQRVINRMLKLALEGYSDAWKAINPLEVEYV
+            RSEMQVKFTNITTSPNDIVVNTPFHVEIGNLTGEFNICLPFSMIEPLRELLVNPPLENSR
+            NEDQNWRDNLVRQVQHSQLELVANFADISLRLSQILKLNPGDVLPIEKPDRIIAHVDGVP
+            VLTSQYGTLNGQYALRIEHLINPILNSLNEEQPK
+NTSEQ       1005
+            atgggcgatagtattctttctcaagctgaaattgatgcgctgttgaatggtgacagcgaa
+            gtcaaagacgaaccgacagccagtgttagcggcgaaagtgacattcgtccgtacgatccg
+            aatacccaacgacgggttgtgcgcgaacgtttgcaggcgctggaaatcattaatgagcgc
+            tttgcccgccattttcgtatggggctgttcaacctgctgcgtcgtagcccggatataacc
+            gtcggggccatccgcattcagccgtaccatgaatttgcccgcaacctgccggtgccgacc
+            aacctgaaccttatccatctgaaaccgctgcgcggcactgggctggtggtgttctcaccg
+            agtctggtgtttatcgccgtggataacctgtttggcggcgatggacgcttcccgaccaaa
+            gtggaaggtcgcgagtttacccataccgaacagcgcgtcatcaaccgcatgttgaaactg
+            gcgcttgaaggctatagcgacgcctggaaggcgattaatccgctggaagttgagtacgtg
+            cgttcggaaatgcaggtgaaatttaccaatatcaccacctcgccgaacgacattgtggtt
+            aacacgccgttccatgtggagattggcaacctgaccggcgaatttaatatctgcctgcca
+            ttcagcatgatcgagccgctacgggaattgttggttaacccgccgctggaaaactcgcgt
+            aatgaagatcagaactggcgcgataacctggtgcgccaggtgcagcattcacagctggag
+            ctggtcgccaactttgccgatatctcgctacgcctgtcgcagattttaaaactgaacccc
+            ggcgacgtcctgccgatagaaaaacccgatcgcatcatcgcccatgttgacggcgtcccg
+            gtgctgaccagtcagtatggcaccctcaacggtcagtatgcgttacggatagaacatttg
+            attaacccgattttaaattctctgaacgaggaacagcccaaatga
+///

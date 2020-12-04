@@ -1,0 +1,46 @@
+ENTRY       b3321             CDS       T00007
+NAME        rpsJ
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S10
+ORTHOLOGY   K02946  small subunit ribosomal protein S10
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3321 (rpsJ)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3321 (rpsJ)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Small subunit
+                b3321 (rpsJ)
+              Bacteria
+                b3321 (rpsJ)
+              Archaea
+                b3321 (rpsJ)
+POSITION    complement(3452959..3453270)
+MOTIF       Pfam: Ribosomal_S10
+DBLINKS     NCBI-GeneID: 947816
+            NCBI-ProteinID: NP_417780
+            Pasteur: rpsJ
+            RegulonDB: ECK120000900
+            ECOCYC: EG10909
+            ASAP: ABE-0010862
+            UniProt: P0A7R5
+STRUCTURE   PDB: 3D3B 3W1Y 3IMQ 3D3C 5LM7 6GOV 6NQB 6O7K 5NO2 5NO3 5NO4
+                 5UZ4 5MY1 5MS0 2YKR 5ME0 5ME1 4ADV 4A2I 2KVQ
+AASEQ       103
+            MQNQRIRIRLKAFDHRLIDQATAEIVETAKRTGAQVRGPIPLPTRKERFTVLISPHVNKD
+            ARDQYEIRTHLRLVDIVEPTEKTVDALMRLDLAAGVDVQISLG
+NTSEQ       312
+            atgcagaaccaaagaatccgtatccgcctgaaagcgtttgatcatcgtctgatcgatcaa
+            gcaaccgcggaaatcgtcgagactgccaagcgcactggtgcgcaggtccgtggtccgatc
+            ccgctgccgacacgcaaagagcgcttcactgttctgatctccccgcacgtcaacaaagac
+            gcgcgcgatcagtacgaaatccgtactcacttgcgtctggttgacatcgttgagccaacc
+            gagaaaaccgttgatgctctgatgcgtctggatctggctgccggtgtagacgtgcagatc
+            agcctgggttaa
+///

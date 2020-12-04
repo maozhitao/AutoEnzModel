@@ -1,0 +1,57 @@
+ENTRY       b0405             CDS       T00007
+NAME        queA
+DEFINITION  (RefSeq) tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase
+ORTHOLOGY   K07568  S-adenosylmethionine:tRNA ribosyltransferase-isomerase [EC:2.4.99.17]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b0405 (queA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.99  Transferring other glycosyl groups
+                2.4.99.17  S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+                 b0405 (queA)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Other tRNA modification factors
+                b0405 (queA)
+POSITION    425011..426081
+MOTIF       Pfam: Queuosine_synth
+DBLINKS     NCBI-GeneID: 944905
+            NCBI-ProteinID: NP_414939
+            Pasteur: queA
+            RegulonDB: ECK120000803
+            ECOCYC: EG10812
+            ASAP: ABE-0001411
+            UniProt: P0A7F9
+AASEQ       356
+            MRVTDFSFELPESLIAHYPMPERSSCRLLSLDGPTGALTHGTFTDLLDKLNPGDLLVFNN
+            TRVIPARLFGRKASGGKIEVLVERMLDDKRILAHIRASKAPKPGAELLLGDDESINATMT
+            ARHGALFEVEFNDERSVLDILNSIGHMPLPPYIDRPDEDADRELYQTVYSEKPGAVAAPT
+            AGLHFDEPLLEKLRAKGVEMAFVTLHVGAGTFQPVRVDTIEDHIMHSEYAEVPQDVVDAV
+            LAAKARGNRVIAVGTTSVRSLESAAQAAKNDLIEPFFDDTQIFIYPGFQYKVVDALVTNF
+            HLPESTLIMLVSAFAGYQHTMNAYKAAVEEKYRFFSYGDAMFITYNPQAINERVGE
+NTSEQ       1071
+            atgcgcgttaccgatttctcctttgaattgcccgaatccctgattgcccactatcccatg
+            cctgaacgcagtagctgtcgtttactgtcgctggacgggccgacgggcgcgctgacgcac
+            ggtactttcaccgatttacttgataagctcaaccccggcgatcttctggtttttaataat
+            acccgcgtgatcccggcgcgcctgtttgggcgtaaagccagcggcggcaagattgaagtg
+            ctggttgaacggatgctcgacgacaaacgcattcttgcgcatattcgcgcctcgaaagcg
+            ccaaaacctggcgcagaactgctgctgggcgatgacgaaagtattaacgcaacaatgacc
+            gcgcgccacggcgcactgtttgaagtcgaatttaatgatgaacgctcggtgctggatatt
+            ctcaacagcatcggccatatgccgctgccgccgtatatcgaccgtccggacgaagacgct
+            gaccgcgaactttatcaaaccgtttatagcgaaaaaccgggcgcggttgcagccccgacc
+            gcaggtctgcattttgacgagcctttgctggaaaaattgcgcgccaaaggcgtggagatg
+            gcgtttgtgacgttgcacgttggtgcgggcaccttccagccggtgcgcgtcgacaccatt
+            gaagatcacatcatgcactcggaatacgctgaagtaccgcaggatgtggtagacgcggta
+            ctggcggcgaaagcgcgcggtaaccgggtgattgcggttggcaccacttcagtacgttcg
+            ctggaaagcgcggctcaggcagcgaaaaacgatctcattgaaccgttcttcgacgatacc
+            caaatctttatctatccgggcttccagtacaaagtggtcgatgcgctggtgacgaacttc
+            cacttgccagagtcgacgctgattatgctggtttcggcctttgccggttatcaacacacc
+            atgaacgcctataaagcagcggtagaagagaaatatcgcttttttagttacggtgatgcg
+            atgtttatcacgtacaatccgcaggcaattaatgagcgcgtcggggagtaa
+///

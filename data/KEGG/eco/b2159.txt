@@ -1,0 +1,60 @@
+ENTRY       b2159             CDS       T00007
+NAME        nfo
+DEFINITION  (RefSeq) endonuclease IV
+ORTHOLOGY   K01151  deoxyribonuclease IV [EC:3.1.21.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03410  Base excision repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03410 Base excision repair
+                b2159 (nfo)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2159 (nfo)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.21  Endodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.21.2  deoxyribonuclease IV
+                 b2159 (nfo)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                AP endonucleases
+                 b2159 (nfo)
+POSITION    2250840..2251697
+MOTIF       Pfam: AP_endonuc_2 Flagellin_IN
+DBLINKS     NCBI-GeneID: 946669
+            NCBI-ProteinID: NP_416664
+            Pasteur: nfo
+            RegulonDB: ECK120000644
+            ECOCYC: EG10651
+            ASAP: ABE-0007146
+            UniProt: P0A6C1
+STRUCTURE   PDB: 1QTW 2NQH 2NQ9 1QUM 4K1G 2NQJ
+AASEQ       285
+            MKYIGAHVSAAGGLANAAIRAAEIDATAFALFTKNQRQWRAAPLTTQTIDEFKAACEKYH
+            YTSAQILPHDSYLINLGHPVTEALEKSRDAFIDEMQRCEQLGLSLLNFHPGSHLMQISEE
+            DCLARIAESINIALDKTQGVTAVIENTAGQGSNLGFKFEHLAAIIDGVEDKSRVGVCIDT
+            CHAFAAGYDLRTPAECEKTFADFARTVGFKYLRGMHLNDAKSTFGSRVDRHHSLGEGNIG
+            HDAFRWIMQDDRFDGIPLILETINPDIWAEEIAWLKAQQTEKAVA
+NTSEQ       858
+            atgaaatacattggagcgcacgttagtgctgctggcggtctggcaaatgccgcaattcgc
+            gccgccgaaatcgacgcaaccgcgtttgccttgttcaccaaaaaccaacgtcagtggcgt
+            gccgcaccgctcacgacgcaaaccatcgatgaattcaaagccgcctgtgaaaaatatcac
+            tacacatcggcgcaaattcttccccacgacagttatctgattaacctcggacatccggtc
+            actgaagctctggaaaaatcgcgcgatgcctttatagatgaaatgcagcgttgcgaacag
+            ctggggctttctttgctcaacttccaccctggcagccatctgatgcagatttcagaagag
+            gattgccttgcgcgtattgccgaatccatcaacattgcgctggataaaactcaaggtgtg
+            acagcggtgatagaaaacaccgccggtcagggcagtaacttagggtttaaattcgaacat
+            ctcgcggcgattatcgacggcgtggaagataaatcccgcgtcggcgtctgcattgatacc
+            tgccatgctttcgctgccgggtatgatttgcgtactccagccgaatgcgagaaaacattc
+            gcggattttgcccgtactgtcggctttaagtatctgcgcgggatgcaccttaacgatgcg
+            aaaagcacctttggcagccgcgttgaccgccatcatagcctcggtgaaggcaatatcggt
+            catgatgcgttccgctggatcatgcaggacgaccgtttcgacggcattccgctgatcctc
+            gaaaccatcaacccggatatctgggcagaagagatcgcctggctgaaagcgcaacaaact
+            gaaaaagcggtagcctga
+///

@@ -1,0 +1,42 @@
+ENTRY       b3637             CDS       T00007
+NAME        rpmB
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L28
+ORTHOLOGY   K02902  large subunit ribosomal protein L28
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3637 (rpmB)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3637 (rpmB)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b3637 (rpmB)
+              Bacteria
+                b3637 (rpmB)
+POSITION    complement(3811438..3811674)
+MOTIF       Pfam: Ribosomal_L28
+DBLINKS     NCBI-GeneID: 946941
+            NCBI-ProteinID: NP_418094
+            Pasteur: rpmB
+            RegulonDB: ECK120000877
+            ECOCYC: EG10886
+            ASAP: ABE-0011885
+            UniProt: P0A7M2
+STRUCTURE   PDB: 6QUL 6S0K 6I0Y 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH 4UY8
+                 3J7Z 6GC4 5GAF 5ADY 3J8G 4CSU 3J5L
+AASEQ       78
+            MSRVCQVTGKRPVTGNNRSHALNATKRRFLPNLHSHRFWVESEKRFVTLRVSAKGMRVID
+            KKGIDTVLAELRARGEKY
+NTSEQ       237
+            atgtcccgagtctgccaagttactggcaagcgtccggtgaccggtaacaaccgttcccac
+            gcactgaacgcgactaaacgccgtttcctgccgaacctgcactctcaccgtttctgggtt
+            gagagcgagaagcgttttgtcaccctgcgcgtatctgctaaaggtatgcgtgtaatcgat
+            aaaaaaggcatcgatacagttctggctgaactgcgtgcccgtggcgaaaagtactaa
+///

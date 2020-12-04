@@ -1,0 +1,58 @@
+ENTRY       b0438             CDS       T00007
+NAME        clpX
+DEFINITION  (RefSeq) ATP-dependent Clp protease ATP-binding subunit ClpX
+ORTHOLOGY   K03544  ATP-dependent Clp protease ATP-binding subunit ClpX
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b0438 (clpX)
+            Chaperones and folding catalysts [BR:eco03110]
+             Heat shock proteins
+              HSP100
+               b0438 (clpX)
+POSITION    457426..458700
+MOTIF       Pfam: AAA_2 zf-C4_ClpX ClpB_D2-small AAA Mg_chelatase AAA_5 AAA_22 MCM RuvB_N AAA_16 AAA_7 Sigma54_activat AAA_18 AAA_14 TIP49 Sigma54_activ_2 AAA_24 T2SSE ABC_tran NACHT AAA_21 IstB_IS21 AAA_33 AAA_29 TsaE ResIII DUF1296 AAA_28 DEAD AAA_PrkA RNA_helicase AAA_25
+DBLINKS     NCBI-GeneID: 945083
+            NCBI-ProteinID: NP_414972
+            Pasteur: clpX
+            RegulonDB: ECK120000155
+            ECOCYC: EG10159
+            ASAP: ABE-0001517
+            UniProt: P0A6H1
+STRUCTURE   PDB: 2DS5 2DS8 2DS6 2DS7 3HWS 4I4L 4I81 3HTE 4I34 4I5O 4I9K
+                 4I63 1OVX
+AASEQ       424
+            MTDKRKDGSGKLLYCSFCGKSQHEVRKLIAGPSVYICDECVDLCNDIIREEIKEVAPHRE
+            RSALPTPHEIRNHLDDYVIGQEQAKKVLAVAVYNHYKRLRNGDTSNGVELGKSNILLIGP
+            TGSGKTLLAETLARLLDVPFTMADATTLTEAGYVGEDVENIIQKLLQKCDYDVQKAQRGI
+            VYIDEIDKISRKSDNPSITRDVSGEGVQQALLKLIEGTVAAVPPQGGRKHPQQEFLQVDT
+            SKILFICGGAFAGLDKVISHRVETGSGIGFGATVKAKSDKASEGELLAQVEPEDLIKFGL
+            IPEFIGRLPVVATLNELSEEALIQILKEPKNALTKQYQALFNLEGVDLEFRDEALDAIAK
+            KAMARKTGARGLRSIVEAALLDTMYDLPSMEDVEKVVIDESVIDGQSKPLLIYGKPEAQQ
+            ASGE
+NTSEQ       1275
+            atgacagataaacgcaaagatggctcaggcaaattgctgtattgctctttttgcggcaaa
+            agccagcatgaagtgcgcaagctgattgccggtccatccgtgtatatctgcgacgaatgt
+            gttgatttatgtaacgacatcattcgcgaagagattaaagaagttgcaccgcatcgtgaa
+            cgcagtgcgctaccgacgccgcatgaaattcgcaaccacctggacgattacgttatcggc
+            caggaacaggcgaaaaaagtgctggcggtcgcggtatacaaccattacaaacgtctgcgc
+            aacggcgataccagcaatggcgtcgagttgggcaaaagtaacattctgctgatcggtccg
+            accggttccggtaaaacgctgctggctgaaacgctggcgcgcctgctggatgttccgttc
+            accatggccgacgcgactacactgaccgaagccggttatgtgggtgaagacgttgaaaac
+            atcattcagaagctgttgcagaaatgcgactacgatgtccagaaagcacagcgtggtatt
+            gtctacatcgatgaaatcgacaagatttctcgtaagtcagacaacccgtccattacccga
+            gacgtttccggtgaaggcgtacagcaggcactgttgaaactgatcgaaggtacggtagct
+            gctgttccaccgcaaggtgggcgtaaacatccgcagcaggaattcttgcaggttgatacc
+            tctaagatcctgtttatttgtggcggtgcgtttgccggtctggataaagtgatttcccac
+            cgtgtagaaaccggctccggcattggttttggcgcgacggtaaaagcgaagtccgacaaa
+            gcaagcgaaggcgagctgctggcgcaggttgaaccggaagatctgatcaagtttggtctt
+            atccctgagtttattggtcgtctgccggttgtcgcaacgttgaatgaactgagcgaagaa
+            gctctgattcagatcctcaaagagccgaaaaacgccctgaccaagcagtatcaggcgctg
+            tttaatctggaaggcgtggatctggaattccgtgacgaggcgctggatgctatcgctaag
+            aaagcgatggcgcgtaaaaccggtgcccgtggcctgcgttccatcgtagaagccgcactg
+            ctcgataccatgtacgatctgccgtccatggaagacgtcgaaaaagtggttatcgacgag
+            tcggtaattgatggtcaaagcaaaccgttgctgatttatggcaagccggaagcgcaacag
+            gcatctggtgaataa
+///

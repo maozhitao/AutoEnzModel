@@ -1,0 +1,35 @@
+ENTRY       b3510             CDS       T00007
+NAME        hdeA
+DEFINITION  (RefSeq) HdeA monomer, chaperone active form
+ORTHOLOGY   K19777  acid stress chaperone HdeA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b3510 (hdeA)
+            Chaperones and folding catalysts [BR:eco03110]
+             Other chaperones and cochaperones
+              Others
+               b3510 (hdeA)
+POSITION    complement(3656408..3656740)
+MOTIF       Pfam: HdeA
+DBLINKS     NCBI-GeneID: 948025
+            NCBI-ProteinID: NP_417967
+            Pasteur: hdeA
+            RegulonDB: ECK120001364
+            ECOCYC: EG11398
+            ASAP: ABE-0011464
+            UniProt: P0AES9
+STRUCTURE   PDB: 1DJ8 1BG8 5WYO
+AASEQ       110
+            MKKVLGVILGGLLLLPVVSNAADAQKAADNKKPVNSWTCEDFLAVDESFQPTAVGFAEAL
+            NNKDKPEDAVLDVQGIATVTPAIVQACTQDKQANFKDKVKGEWDKIKKDM
+NTSEQ       333
+            atgaaaaaagtattaggcgttattcttggtggtctgcttcttctgccagttgtgagcaat
+            gcagcggatgcgcaaaaagcagctgataacaaaaaaccggtcaactcctggacctgtgaa
+            gatttcctggctgtggacgaatccttccagccaactgcagttggttttgctgaagcgctg
+            aacaacaaagataaaccagaagatgcggttttagatgttcagggtattgcaaccgtaacc
+            ccagctatcgttcaggcttgtactcaggataaacaagccaactttaaagataaagttaaa
+            ggcgaatgggacaaaattaagaaagatatgtaa
+///

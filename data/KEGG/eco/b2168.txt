@@ -1,0 +1,57 @@
+ENTRY       b2168             CDS       T00007
+NAME        fruK
+DEFINITION  (RefSeq) 1-phosphofructokinase
+ORTHOLOGY   K00882  1-phosphofructokinase [EC:2.7.1.56]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00051  Fructose and mannose metabolism
+            eco01100  Metabolic pathways
+            eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00051 Fructose and mannose metabolism
+                b2168 (fruK)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b2168 (fruK)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.56  1-phosphofructokinase
+                 b2168 (fruK)
+POSITION    complement(2261427..2262365)
+MOTIF       Pfam: PfkB Phos_pyr_kin
+DBLINKS     NCBI-GeneID: 946676
+            NCBI-ProteinID: NP_416673
+            Pasteur: fruK
+            RegulonDB: ECK120000331
+            ECOCYC: EG10337
+            ASAP: ABE-0007174
+            UniProt: P0AEW9
+AASEQ       312
+            MSRRVATITLNPAYDLVGFCPEIERGEVNLVKTTGLHAAGKGINVAKVLKDLGIDVTVGG
+            FLGKDNQDGFQQLFSELGIANRFQVVQGRTRINVKLTEKDGEVTDFNFSGFEVTPADWER
+            FVTDSLSWLGQFDMVCVSGSLPSGVSPEAFTDWMTRLRSQCPCIIFDSSREALVAGLKAA
+            PWLVKPNRRELEIWAGRKLPEMKDVIEAAHALREQGIAHVVISLGAEGALWVNASGEWIA
+            KPPSVDVVSTVGAGDSMVGGLIYGLLMRESSEHTLRLATAVAALAVSQSNVGITDRPQLA
+            AMMARVDLQPFN
+NTSEQ       939
+            atgagcagacgtgttgctactatcacccttaatccggcttatgaccttgttggtttctgc
+            ccggaaattgaacgcggcgaagtgaacctggtgaaaaccaccggtctgcatgcggcgggt
+            aaaggcatcaacgtggccaaagtattaaaagacctgggaattgatgtcaccgttggcggc
+            ttcctgggtaaagacaatcaggatggttttcagcaactgttcagcgagctgggcattgcc
+            aaccgtttccaggttgtacaggggcgcacccgaattaacgttaagctgacggaaaaagac
+            ggcgaagtgaccgacttcaacttctcgggttttgaagtcacccccgccgactgggaacgc
+            tttgtgactgattctctgagctggctcggtcagttcgatatggtctgtgtcagcggaagc
+            ttaccgtcaggcgtcagcccggaagcgttcaccgactggatgactcgcctgcgtagtcag
+            tgtccttgcattatctttgatagtagccgtgaagcgttagtagcaggtttgaaagcggca
+            ccgtggctggtgaaacctaaccgccgcgagctggaaatctgggcaggccgtaaactgcct
+            gaaatgaaagatgtgattgaagctgcacatgcgctacgtgaacaaggcatcgcgcatgtt
+            gttatttcactgggtgccgaaggcgcgctttgggttaatgcctccggcgaatggatcgcc
+            aaaccaccgtcagtcgatgtcgtaagcaccgttggcgcaggggattctatggttggtggc
+            ctgatttatggcttgctgatgcgtgaatccagtgaacacacactgcgtctggcgacagct
+            gttgcagccctggcggtaagtcaaagcaatgtgggtattaccgatcgtccgcagttggcc
+            gcaatgatggcgcgcgtcgacttacaaccttttaactga
+///

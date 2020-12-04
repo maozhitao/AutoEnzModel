@@ -1,0 +1,60 @@
+ENTRY       b4320             CDS       T00007
+NAME        fimH
+DEFINITION  (RefSeq) type 1 fimbriae D-mannose specific adhesin
+ORTHOLOGY   K07350  minor fimbrial subunit
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b4320 (fimH)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b4320 (fimH)
+            Secretion system [BR:eco02044]
+             Chaperone-usher system
+              Type 1 pilus assembly protein
+               b4320 (fimH)
+            Bacterial motility proteins [BR:eco02035]
+             Pilus system
+              Fimbrial proteins
+               b4320 (fimH)
+POSITION    4548808..4549710
+MOTIF       Pfam: FimH_man-bind Fimbrial
+DBLINKS     NCBI-GeneID: 948847
+            NCBI-ProteinID: NP_418740
+            Pasteur: fimH
+            RegulonDB: ECK120000309
+            ECOCYC: EG10315
+            ASAP: ABE-0014157
+            UniProt: P08191
+STRUCTURE   PDB: 4X5P 4CSS 4CST 4X5Q 4XO9 4XOD 3ZL2 4ATT 5AAP 4AV5 5FS5
+                 4XOC 4LOV 4AUJ 3ZL1 5MCA 5JCQ 5CGB 4AUU 4X5R 5F2F 1UWF
+                 5JCR 4XO8 6GTZ 5F3F 1ZE3 6GTY 5L4T 5L4W 5L4X 5L4Y 5FX3
+                 4AV4 5JQI 5AB1 4X50 6GTV 6G2R 5L4U 4AVH 4AVJ 4AV0 4AUY
+                 2VCO 1TR7 5FWR 6G2S 4BUQ 5ABZ 4XOE 4AVI 4AVK 5AAL 6GTW
+                 6GTX 6GU0 4XOA 5MUC 5MTS 5JR4 3JWN 1KLF 3RFZ 1QUN 4CA4
+                 3MCY 5L4V 4XOB 1KIU 4J3O 6E14 6E15 3ZPD
+AASEQ       300
+            MKRVITLFAVLLMGWSVNAWSFACKTANGTAIPIGGGSANVYVNLAPVVNVGQNLVVDLS
+            TQIFCHNDYPETITDYVTLQRGSAYGGVLSNFSGTVKYSGSSYPFPTTSETPRVVYNSRT
+            DKPWPVALYLTPVSSAGGVAIKAGSLIAVLILRQTNNYNSDDFQFVWNIYANNDVVVPTG
+            GCDVSARDVTVTLPDYPGSVPIPLTVYCAKSQNLGYYLSGTTADAGNSIFTNTASFSPAQ
+            GVGVQLTRNGTIIPANNTVSLGAVGTSAVSLGLTANYARTGGQVTAGNVQSIIGVTFVYQ
+NTSEQ       903
+            atgaaacgagttattaccctgtttgctgtactgctgatgggctggtcggtaaatgcctgg
+            tcattcgcctgtaaaaccgccaatggtaccgctatccctattggcggtggcagcgccaat
+            gtttatgtaaaccttgcgcccgtcgtgaatgtggggcaaaacctggtcgtggatctttcg
+            acgcaaatcttttgccataacgattatccggaaaccattacagactatgtcacactgcaa
+            cgaggctcggcttatggcggcgtgttatctaatttttccgggaccgtaaaatatagtggc
+            agtagctatccatttcctaccaccagcgaaacgccgcgcgttgtttataattcgagaacg
+            gataagccgtggccggtggcgctttatttgacgcctgtgagcagtgcgggcggggtggcg
+            attaaagctggctcattaattgccgtgcttattttgcgacagaccaacaactataacagc
+            gatgatttccagtttgtgtggaatatttacgccaataatgatgtggtggtgcctactggc
+            ggctgcgatgtttctgctcgtgatgtcaccgttactctgccggactaccctggttcagtg
+            ccaattcctcttaccgtttattgtgcgaaaagccaaaacctggggtattacctctccggc
+            acaaccgcagatgcgggcaactcgattttcaccaataccgcgtcgttttcacctgcacag
+            ggcgtcggcgtacagttgacgcgcaacggtacgattattccagcgaataacacggtatcg
+            ttaggagcagtagggacttcggcggtgagtctgggattaacggcaaattatgcacgtacc
+            ggagggcaggtgactgcagggaatgtgcaatcgattattggcgtgacttttgtttatcaa
+            taa
+///

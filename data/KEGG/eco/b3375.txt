@@ -1,0 +1,45 @@
+ENTRY       b3375             CDS       T00007
+NAME        frlR
+DEFINITION  (RefSeq) putative DNA-binding transcriptional regulator FrlR
+ORTHOLOGY   K10711  GntR family transcriptional regulator, frlABCD operon transcriptional regulator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b3375 (frlR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               GntR family
+                b3375 (frlR)
+POSITION    3504052..3504783
+MOTIF       Pfam: UTRA GntR HTH_DeoR HTH_11 HTH_41 HTH_Mga HTH_36
+DBLINKS     NCBI-GeneID: 947885
+            NCBI-ProteinID: NP_417834
+            Pasteur: yhfR
+            RegulonDB: ECK120004270
+            ECOCYC: G7727
+            ASAP: ABE-0011031
+            UniProt: P45544
+AASEQ       243
+            MSATDRYSHQLLYATVRQRLLDDIAQGVYQAGQQIPTENELCTQYNVSRITIRKAISDLV
+            ADGVLIRWQGKGTFVQSQKVENALLTVSGFTDFGVSQGKATKEKVIEQERVSAAPFCEKL
+            NIPGNSEVFHLCRVMYLDKEPLFIDSSWIPLSRYPDFDEIYVEGSSTYQLFQERFDTRVV
+            SDKKTIDIFAATRPQAKWLKCELGEPLFRISKIAFDQNDKPVHVSELFCRANRITLTIDN
+            KRH
+NTSEQ       732
+            atgtcagctacggaccgctactctcatcaactcctctacgctaccgtccgccagcgactg
+            ctggatgatatcgcgcagggggtttaccaggccgggcaacagatccctaccgaaaacgag
+            ctttgtacacaatataacgtcagccgcattaccattcgcaaagccatcagcgacttagtg
+            gcagacggcgtactgatccgctggcagggaaaaggcacctttgtacaaagccagaaagtt
+            gaaaacgccctgcttactgtcagtggttttaccgattttggcgtctcacaaggcaaggcg
+            acgaaagagaaagtgatcgaacaggaacgggtcagcgccgcgccgttttgcgaaaagctg
+            aacatccccggaaacagcgaagtgttccatctctgccgggtgatgtatctcgataaagag
+            ccgctgtttattgatagttcatggatcccgctgtcgcgttatcctgactttgatgagatt
+            tacgtcgaaggaagctccacctatcagttatttcaggagcgttttgacacgcgagtggtc
+            agcgacaaaaagaccatcgatatctttgccgccacccgcccgcaggcaaaatggctgaaa
+            tgcgaactgggcgaaccgttgtttcgcatcagcaaaatcgcctttgatcagaatgacaaa
+            ccggtgcacgtctccgaactcttctgccgcgccaatcgcatcaccttaactattgataat
+            aaaagacattaa
+///

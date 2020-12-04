@@ -1,0 +1,38 @@
+ENTRY       b2004             CDS       T00007
+NAME        cbeA
+DEFINITION  (RefSeq) CP4-44 prophage; cytoskeleton bundling-enhancing antitoxin CbeA
+ORTHOLOGY   K18838  cytoskeleton bundling-enhancing protein CbeA and related proteins
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b2004 (cbeA)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type IV TA system
+               YeeV-YeeU
+                b2004 (cbeA)
+POSITION    2077112..2077480
+MOTIF       Pfam: CbeA_antitoxin Nucleotid_trans
+DBLINKS     NCBI-GeneID: 946510
+            NCBI-ProteinID: NP_416508
+            Pasteur: yeeU
+            RegulonDB: ECK120003670
+            ECOCYC: G7084
+            ASAP: ABE-0006656
+            UniProt: P76364
+STRUCTURE   PDB: 2H28
+AASEQ       122
+            MSDTLPGTTLPDDNHDRPWWGLPCTVTPCFGARLVQEGNRLHYLADRAGIRGLFSDADAY
+            HLDQAFPLLMKQLELMLTSGELNPRHQHTVTLYAKGLTCKADTLSSCDYVYLAVYPTPEM
+            KN
+NTSEQ       369
+            gtgtcagacacactccccgggacaacacttcccgacgacaatcacgaccgcccctggtgg
+            gggctgccctgcaccgtgacgccctgtttcggggcacgtctggtgcaggagggtaaccgg
+            ttgcattaccttgccgaccgcgccggtatcagaggcctgttcagcgatgcagatgcgtac
+            cacctggaccaggcctttccgctgctgatgaaacaactggaactcatgctcaccagcggt
+            gaactgaatccccgccatcagcataccgtcacgctgtatgcaaaagggctgacctgcaaa
+            gccgataccctcagcagttgtgattacgtttatctggctgtttatccgacgcccgaaatg
+            aaaaattaa
+///

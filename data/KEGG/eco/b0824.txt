@@ -1,0 +1,47 @@
+ENTRY       b0824             CDS       T00007
+NAME        ybiY
+DEFINITION  (RefSeq) putative pyruvate formate-lyase activating enzyme YbiY
+ORTHOLOGY   K04069  pyruvate formate lyase activating enzyme [EC:1.97.1.4]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0824 (ybiY)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.97  Other oxidoreductases
+               1.97.1  Sole sub-subclass for oxidoreductases that do not belong in the other subclasses
+                1.97.1.4  [formate-C-acetyltransferase]-activating enzyme
+                 b0824 (ybiY)
+POSITION    complement(862612..863511)
+MOTIF       Pfam: Radical_SAM Fer4_12 Fer4_14 G3P_antiterm Fer4_13 Fer4_15
+DBLINKS     NCBI-GeneID: 945445
+            NCBI-ProteinID: NP_415345
+            RegulonDB: ECK120003027
+            ECOCYC: G6427
+            ASAP: ABE-0002812
+            UniProt: P75794
+AASEQ       299
+            MIFNIQRYSTHDGPGIRTVVFLKGCSLGCRWCQNPESRARTQDLLYDARLCLEGCELCAK
+            AAPEVIERALNGLLIHREKLTPEHLTALTDCCPTQALTVCGEVKSVEEIMTTVLRDKPFY
+            DRSGGGLTLSGGEPFMQPEMAMALLQASHEAGIHTAVETCLHVPWKYIAPSLPYIDLFLA
+            DLKHVADAPFKQWTDGNAARVLDNLKKLAAAGKKIIIRVPLIQGFNADETSVKAITDFAA
+            DELHVGEIHFLPYHTLGINKYHLLNLPYDAPEKPLDAPELLDFAQQYACQKGLTATLRG
+NTSEQ       900
+            atgattttcaatattcagcgctactcgacccatgatggccccggtatccgcacggtcgta
+            tttcttaaaggctgttcgctgggctgccgctggtgtcagaacccggaaagccgcgcccgc
+            acgcaggatctgctgtatgacgcacgactgtgtctggaaggctgcgagctgtgcgctaag
+            gccgcgccggaagtgattgagcgcgcgctgaatggtttgcttattcatcgggaaaagtta
+            accccggagcatctgacggcgttaaccgactgctgtccgacacaggcattaaccgtgtgt
+            ggtgaagtgaaaagcgttgaggagatcatgacgaccgttctgcgcgataaaccgttttac
+            gatcgcagcggcggcggtttaacgctttcgggtggtgagccctttatgcagccggaaatg
+            gcgatggcgctactgcaagccagccacgaggcaggcattcatactgcggtagaaacctgt
+            ctgcatgtgccgtggaaatatatcgccccttctctgccctatatcgatctgtttcttgcc
+            gatttaaaacacgttgccgacgcgccgtttaaacagtggaccgacggtaacgccgccaga
+            gtgctggataacctgaaaaaactcgccgcagcgggcaaaaaaatcattatccgcgtgccg
+            ctgattcagggctttaatgccgacgaaacctctgtaaaagccattaccgattttgccgcc
+            gacgagctgcacgttggcgaaattcattttctgccctaccacacgctgggcatcaacaaa
+            tatcacttacttaatctgccctatgacgccccggaaaaaccgcttgatgcgccagaactg
+            ctcgactttgcccagcagtatgcctgccagaaagggttaaccgcgaccttacgaggataa
+///

@@ -1,0 +1,46 @@
+ENTRY       b0969             CDS       T00007
+NAME        tusE
+DEFINITION  (RefSeq) sulfur transfer protein TusE
+ORTHOLOGY   K11179  tRNA 2-thiouridine synthesizing protein E [EC:2.8.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco04122  Sulfur relay system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04122 Sulfur relay system
+                b0969 (tusE)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b0969 (tusE)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.8  Transferring sulfur-containing groups
+               2.8.1  Sulfurtransferases
+                2.8.1.-  
+                 b0969 (tusE)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Thiolation factors
+                b0969 (tusE)
+POSITION    complement(1030339..1030668)
+MOTIF       Pfam: DsrC Staph_opine_DH
+DBLINKS     NCBI-GeneID: 945023
+            NCBI-ProteinID: NP_415489
+            Pasteur: yccK
+            RegulonDB: ECK120002415
+            ECOCYC: EG12876
+            ASAP: ABE-0003278
+            UniProt: P0AB18
+AASEQ       109
+            MLIFEGKEIETDTEGYLKESSQWSEPLAVVIAENEGISLSPEHWEVVRFVRDFYLEFNTS
+            PAIRMLVKAMANKFGEEKGNSRYLYRLFPKGPAKQATKIAGLPKPVKCI
+NTSEQ       330
+            atgctgatcttcgaaggtaaagagatagaaacggataccgaaggctatctcaaagaaagc
+            agccagtggagtgagccgctggctgtggtgattgcagagaacgaagggatttcgctgtca
+            ccggaacactgggaagtggtgcgttttgtgcgtgatttctatctggaattcaatacttct
+            ccggcgattcgtatgctggtaaaagcgatggcgaataaatttggcgaagaaaaaggtaac
+            agccgctatttataccgactgtttccgaaaggtccggctaagcaagccaccaaaattgct
+            ggcctgccaaaaccggtaaaatgtatttaa
+///

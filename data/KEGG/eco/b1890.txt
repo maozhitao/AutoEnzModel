@@ -1,0 +1,66 @@
+ENTRY       b1890             CDS       T00007
+NAME        motA
+DEFINITION  (RefSeq) motility protein A
+ORTHOLOGY   K02556  chemotaxis protein MotA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02030  Bacterial chemotaxis
+            eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1890 (motA)
+             09140 Cellular Processes
+              09142 Cell motility
+               02030 Bacterial chemotaxis
+                b1890 (motA)
+               02040 Flagellar assembly
+                b1890 (motA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1890 (motA)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1890 (motA)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b1890 (motA)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Motor/switch
+                b1890 (motA)
+POSITION    complement(1976252..1977139)
+MOTIF       Pfam: MotA_ExbB YopD SpoVAB DUF2231
+DBLINKS     NCBI-GeneID: 947564
+            NCBI-ProteinID: NP_416404
+            Pasteur: motA
+            RegulonDB: ECK120000594
+            ECOCYC: EG10601
+            ASAP: ABE-0006299
+            UniProt: P09348
+AASEQ       295
+            MLILLGYLVVLGTVFGGYLMTGGSLGALYQPAELVIIAGAGIGSFIVGNNGKAIKGTLKA
+            LPLLFRRSKYTKAMYMDLLALLYRLMAKSRQMGMFSLERDIENPRESEIFASYPRILADS
+            VMLDFIVDYLRLIISGHMNTFEIEALMDEEIETHESEAEVPANSLALVGDSLPAFGIVAA
+            VMGVVHALGSADRPAAELGALIAHAMVGTFLGILLAYGFISPLATVLRQKSAETSKMMQC
+            VKVTLLSNLNGYAPPIAVEFGRKTLYSSERPSFIELEEHVRAVKNPQQQTTTEEA
+NTSEQ       888
+            gtgcttatcttattaggttacctggttgttctcggtacagttttcggcggttatttgatg
+            accggtggaagccttggagcactctatcaacccgctgaactggtgattattgccggtgca
+            gggattgggtcgtttatcgtcggcaataatggcaaagcgattaaaggcacgctgaaggcg
+            ctgccgttgctgtttcgtcgctccaaatacaccaaagcaatgtatatggatctgctggct
+            ctgctttatcggttgatggcgaaatcgcggcagatggggatgttttcgctggaacgtgat
+            attgaaaatccccgtgagagcgagatcttcgccagctacccacgcatcctcgcggatagc
+            gtcatgcttgattttatcgtcgattatctgcgcctgattatcagcggtcacatgaacacc
+            ttcgaaatcgaagctctgatggatgaagagattgagacgcacgaaagcgaggcagaagtc
+            ccggcgaacagtctggcgctggtcggggactcacttccggcgtttggtattgttgcggct
+            gtaatgggggtcgttcacgcgttaggttcagccgatcgtcctgccgccgagctgggtgcg
+            cttatcgcacatgcgatggtggggactttcctcggcattttattggcttacggatttatt
+            tccccattagcgactgttttacgtcagaaaagcgccgaaaccagcaaaatgatgcagtgc
+            gtcaaagtcactctgctttctaatctgaacggttacgcaccgcctatcgccgttgagttt
+            ggtcgcaaaacgctctattccagcgaacgtccgtcgtttattgaactggaagagcatgtg
+            cgtgcggtgaaaaatccgcaacaacagacgacaaccgaggaagcatga
+///

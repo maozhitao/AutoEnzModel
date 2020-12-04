@@ -1,0 +1,51 @@
+ENTRY       b3661             CDS       T00007
+NAME        nlpA
+DEFINITION  (RefSeq) lipoprotein-28
+ORTHOLOGY   K02073  D-methionine transport system substrate-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b3661 (nlpA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3661 (nlpA)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Phosphate and amino acid transporters
+               D-Methionine transporter
+                b3661 (nlpA)
+POSITION    complement(3839175..3839993)
+MOTIF       Pfam: Lipoprotein_9 OpuAC
+DBLINKS     NCBI-GeneID: 948175
+            NCBI-ProteinID: NP_418117
+            Pasteur: nlpA
+            RegulonDB: ECK120000650
+            ECOCYC: EG10657
+            ASAP: ABE-0011964
+            UniProt: P04846
+AASEQ       272
+            MKLTTHHLRTGAALLLAGILLAGCDQSSSDAKHIKVGVINGAEQDVAEVAKKVAKEKYGL
+            DVELVGFSGSLLPNDATNHGELDANVFQHRPFLEQDNQAHGYKLVAVGNTFVFPMAGYSK
+            KIKTVAQIKEGATVAIPNDPTNLGRALLLLQKEKLITLKEGKGLLPTALDITDNPRHLQI
+            MELEGAQLPRVLDDPKVDVAIISTTYIQQTGLSPVHDSVFIEDKNSPYVNILVAREDNKN
+            AENVKEFLQSYQSPEVAKAAETIFNGGAVPGW
+NTSEQ       819
+            atgaaactgacaacacatcatctacggacaggggccgcattattgctggccggaattctg
+            ctggcaggttgcgaccagagtagcagcgatgcaaaacacattaaagttggcgttataaat
+            ggcgcagaacaagatgtcgcggaagtcgctaaaaaggtggcaaaagagaaatatggcctc
+            gatgttgaactggtaggatttagcggttcgttgctaccgaacgatgcgacaaatcatggc
+            gaacttgatgcgaatgtcttccagcatcgaccctttcttgaacaagataatcaggcgcat
+            ggttataaactggtagcggtgggaaatacgtttgtcttccctatggcgggttattccaaa
+            aaaatcaaaaccgtggcgcaaataaaagaaggcgcgacagtggcgatccccaacgacccg
+            accaaccttggtcgcgcacttttactgttgcaaaaagagaagctaattactctgaaagag
+            ggaaaagggttattacctaccgcgctggatataaccgataatcctcgtcatttgcagatt
+            atggaactcgagggggcgcagctcccgcgcgtactggatgatcccaaagttgatgtagcg
+            attatcagcaccacttacattcagcagaccgggctttctccggtgcacgacagcgtattt
+            attgaagataagaattcgccgtatgtgaatattttggtggcacgggaagataataagaat
+            gcagaaaacgtgaaggaatttctgcaatcttatcaatcacccgaagtcgctaaagcggca
+            gaaaccatttttaacggtggcgcggtgcctggctggtaa
+///

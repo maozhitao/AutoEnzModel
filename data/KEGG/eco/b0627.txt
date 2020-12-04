@@ -1,0 +1,42 @@
+ENTRY       b0627             CDS       T00007
+NAME        tatE
+DEFINITION  (RefSeq) twin arginine protein translocation system - TatE protein
+ORTHOLOGY   K03425  sec-independent protein translocase protein TatE
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03060  Protein export
+            eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b0627 (tatE)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b0627 (tatE)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b0627 (tatE)
+            Secretion system [BR:eco02044]
+             Twin-arginine translocation (Tat) system
+              Twin-arginine translocation (Tat) pathway protein
+               b0627 (tatE)
+POSITION    658947..659150
+MOTIF       Pfam: TatA_B_E
+DBLINKS     NCBI-GeneID: 945228
+            NCBI-ProteinID: NP_415160
+            Pasteur: tatE
+            RegulonDB: ECK120001278
+            ECOCYC: EG11305
+            ASAP: ABE-0002153
+            UniProt: P0A843
+AASEQ       67
+            MGEISITKLLVVAALVVLLFGTKKLRTLGGDLGAAIKGFKKAMNDDDAAAKKGADVDLQA
+            EKLSHKE
+NTSEQ       204
+            atgggtgagattagtattaccaaactgctggtagttgcggcgctggtcgttctgctgttt
+            gggactaagaagttacgtacgctgggcggagaccttggagcggccattaaagggttcaag
+            aaggcgatgaatgatgacgatgctgcggcgaaaaaaggcgcagacgttgatcttcaggct
+            gaaaagctctctcataaagagtga
+///

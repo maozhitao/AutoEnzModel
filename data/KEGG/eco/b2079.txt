@@ -1,0 +1,49 @@
+ENTRY       b2079             CDS       T00007
+NAME        baeR
+DEFINITION  (RefSeq) DNA-binding transcriptional activator BaeR
+ORTHOLOGY   K07664  two-component system, OmpR family, response regulator BaeR
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b2079 (baeR)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b2079 (baeR)
+            Two-component system [BR:eco02022]
+             OmpR family
+              BaeS-BaeR (envelope stress response)
+               b2079 (baeR)
+POSITION    2164276..2164998
+MOTIF       Pfam: Response_reg Trans_reg_C
+DBLINKS     NCBI-GeneID: 946605
+            NCBI-ProteinID: NP_416583
+            Pasteur: baeR
+            RegulonDB: ECK120001566
+            ECOCYC: EG11618
+            ASAP: ABE-0006884
+            UniProt: P69228
+STRUCTURE   PDB: 4B09
+AASEQ       240
+            MTELPIDENTPRILIVEDEPKLGQLLIDYLRAASYAPTLISHGDQVLPYVRQTPPDLILL
+            DLMLPGTDGLTLCREIRRFSDIPIVMVTAKIEEIDRLLGLEIGADDYICKPYSPREVVAR
+            VKTILRRCKPQRELQQQDAESPLIIDEGRFQASWRGKMLDLTPAEFRLLKTLSHEPGKVF
+            SREQLLNHLYDDYRVVTDRTIDSHIKNLRRKLESLDAEQSFIRAVYGVGYRWEADACRIV
+NTSEQ       723
+            atgaccgagttaccaatcgacgaaaacacaccgcgtattttgatcgtggaagatgaaccg
+            aagctggggcagttgctcattgattatctgcgtgctgcgagctatgcgccgacgcttatc
+            agccacggcgatcaggtactgccgtatgtgcgccagacaccaccggatctgatcctgtta
+            gatctgatgctccctggcaccgatggcctgacgctgtgccgggaaattcgtcgtttttct
+            gacattccgatcgtgatggtgacggcaaaaatcgaagagatcgatcgcctgctggggctg
+            gagattggcgcagatgattatatctgtaagccgtacagcccacgggaagtggtagcgcgc
+            gtcaaaaccattttgcgccgttgcaaaccgcagcgcgagttgcagcaacaggatgctgaa
+            agcccgttgattatcgacgaaggtcgttttcaggcttcatggcgcggtaaaatgcttgac
+            ctgacgcctgcggaatttcgtctgctgaaaacgctctctcacgaaccaggaaaagtgttc
+            tcccgcgagcaattgctcaatcatctttatgacgactaccgcgtagtaaccgaccgcacc
+            atcgacagccacattaaaaacctgcgccgcaagctggaatctctcgacgccgaacagtca
+            tttatccgcgccgtttatggcgtcggttaccgctgggaagccgacgcctgccgcatcgtt
+            tag
+///

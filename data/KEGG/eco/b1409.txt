@@ -1,0 +1,52 @@
+ENTRY       b1409             CDS       T00007
+NAME        ynbB
+DEFINITION  (RefSeq) putative CDP-diglyceride synthase
+ORTHOLOGY   K00981  phosphatidate cytidylyltransferase [EC:2.7.7.41]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00564  Glycerophospholipid metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+MODULE      eco_M00093  Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09103 Lipid metabolism
+               00564 Glycerophospholipid metabolism
+                b1409 (ynbB)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.41  phosphatidate cytidylyltransferase
+                 b1409 (ynbB)
+POSITION    1478226..1479122
+MOTIF       Pfam: CTP_transf_1 CarS-like
+DBLINKS     NCBI-GeneID: 945972
+            NCBI-ProteinID: NP_415927
+            Pasteur: ynbB
+            RegulonDB: ECK120003321
+            ECOCYC: G6728
+            ASAP: ABE-0004706
+            UniProt: P76091
+AASEQ       298
+            MLEKSLATLFALLILATLINRFLLWRLPERKGGEVTLRIRTWWGIVICFSMVISGPRWMT
+            LTFFALISFLALKEYCTLISVHFPRWLYWGIPLNYLLIGFNCFELFLLFIPLAGFLILAT
+            GQVLVGDPSGFLHTVSAIFWGWIMTVFALSHAAWLLMLPTTNIQGGALLVLFLLALTESN
+            DIAQYLWGKSCGRRKVVPKVSPGKTLEGLMGGVITIMIASLIIGPLLTPLNTLQALLAGL
+            LIGISGFCGDVVMSAIKRDIGVKDSGKLLPGHGGLLDRIDSLIFTAPVFFYFIRYCCY
+NTSEQ       897
+            atgctggaaaaatctctggcaacacttttcgcgttgttaattttagcaacgctgataaac
+            cgttttctgctatggcggttaccggagagaaaagggggtgaggttacattacgtattcgt
+            acctggtggggcatcgtcatttgtttttcaatggtgatttcaggtccacgctggatgacg
+            ttgacgttttttgcgctgataagttttctggcattgaaagaatattgtacgcttatatct
+            gtacattttccgcgttggttatattggggtattcctcttaactatttgcttatcggtttt
+            aattgctttgagctgtttctgttatttatacctttggctgggtttctgatattagccacc
+            gggcaagttttagtgggtgacccctctggttttctgcataccgtgagcgccattttttgg
+            ggctggataatgaccgttttcgccttgagtcatgccgcctggttattaatgttgccaacc
+            acaaatatccagggcggggcgttactggtgttatttcttttggcattaaccgagtcaaac
+            gatattgcacagtatttatggggaaaatcctgcggcagaagaaaagtggtccctaaagtc
+            agcccgggaaaaacattggaaggtctgatgggcggcgtcatcaccatcatgattgcgtca
+            ctgattatcggaccgttactgacaccgctaaatacattacaggcattattagcgggtttg
+            ttaattggtattagtggtttttgcggcgatgtcgtgatgtcagccatcaaacgagatatt
+            ggtgttaaagatagcggaaaactattgccaggacatggcggactccttgacaggattgac
+            tcattaattttcaccgctccggtatttttttattttatacgctactgctgttactga
+///

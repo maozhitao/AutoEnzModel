@@ -1,0 +1,53 @@
+ENTRY       b1791             CDS       T00007
+NAME        nimT
+DEFINITION  (RefSeq) 2-nitroimidazole exporter
+ORTHOLOGY   K03449  MFS transporter, CP family, cyanate transporter
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1791 (nimT)
+            Transporters [BR:eco02000]
+             Major facilitator superfamily (MFS)
+              Organic acid transporters
+               Cyanate porter (CP) family [TC:2.A.1.17]
+                b1791 (nimT)
+POSITION    1875673..1876854
+MOTIF       Pfam: MFS_1
+DBLINKS     NCBI-GeneID: 946309
+            NCBI-ProteinID: NP_416305
+            Pasteur: yeaN
+            RegulonDB: ECK120003564
+            ASAP: ABE-0005962
+            UniProt: P76242
+AASEQ       393
+            MTCSTSLSGKNRIVLIAGILMIATTLRVTFTGAAPLLDTIRSAYSLTTAQTGLLTTLPLL
+            AFALISPLAAPVARRFGMERSLFAALLLICAGIAIRSLPSPYLLFGGTAVIGGGIALGNV
+            LLPGLIKRDFPHSVARLTGAYSLTMGAAAALGSAMVVPLALNGFGWQGALLMLMCFPLLA
+            LFLWLPQWRSQQHANLSTSRALHTRGIWRSPLAWQVTLFLGINSLVYYVIIGWLPAILIS
+            HGYSEAQAGSLHGLLQLATAAPGLLIPLFLHHVKDQRGIAAFVALMCAVGAVGLCFMPAH
+            AITWTLLFGFGSGATMILGLTFIGLRASSAHQAAALSGMAQSVGYLLAACGPPLMGKIHD
+            ANGNWSVPLMGVAILSLLMAIFGLCAGRDKEIR
+NTSEQ       1182
+            atgacctgttcaacttcattaagcggcaaaaacaggattgtccttatcgctggcattctg
+            atgattgccacaacattacgcgtcacctttaccggcgcagcaccgttactggatacgatt
+            cgttccgcttactcgctgacgacagcgcaaaccggcttattgaccaccctgccattattg
+            gcctttgcgctaatctcacctttggctgccccggtagcgcgacgttttggtatggaacgt
+            agcctgtttgccgcgttacttttgatctgtgctggtatcgcaattcgctctctcccttcg
+            ccttacttattatttggcggtacagcggtcattggcggtgggattgcattaggcaatgtc
+            ttactgccaggattaattaaacgcgatttccctcattccgtcgccagacttaccggcgca
+            tattccctgacaatgggagctgcagcggcactgggatcggctatggtcgtgccgctggct
+            ttgaacggttttggctggcaaggcgcgttgctcatgctgatgtgttttcctctgctggct
+            ctttttttatggctgccacagtggcgaagtcaacaacatgcaaatttgagtacctcgcgc
+            gccttacatactcggggtatctggcgttcaccgcttgcctggcaggtcacattgtttctt
+            gggatcaactcactggtctattacgtgattattggctggcttccggcgatcctcatcagt
+            cacggctatagcgaagcacaggcgggttcactgcatggtttgctgcaactagccacagca
+            gcacccggtttgctgatcccacttttcttacatcatgtgaaagatcagcgtggtattgca
+            gcgttcgttgccttgatgtgcgcagtgggcgcggttgggctctgctttatgccagcgcac
+            gcgatcacctggactctgcttttcggttttggttccggcgcaacaatgatactggggttg
+            acgttcattggtctgcgggctagttctgcgcatcaggcggcggcactctcggggatggca
+            caatccgtcgggtatttgttggcagcctgtgggccgccgctgatgggtaaaatacacgat
+            gctaacggtaactggtctgtaccacttatgggtgttgccatactttcactactgatggcg
+            attttcggactttgcgccgggagagacaaagaaattcgctaa
+///

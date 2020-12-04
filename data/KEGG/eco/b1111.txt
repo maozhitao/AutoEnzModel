@@ -1,0 +1,41 @@
+ENTRY       b1111             CDS       T00007
+NAME        comR
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor ComR
+ORTHOLOGY   K22041  TetR/AcrR family transcriptional regulator, copper-responsive repressor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1111 (comR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               TetR/AcrR family
+                b1111 (comR)
+POSITION    complement(1168200..1168832)
+MOTIF       Pfam: TetR_N TetR_C_17 TetR_C_11 TetR_C_13 FOXP-CC Sec7 HTH_Tnp_1_2
+DBLINKS     NCBI-GeneID: 947425
+            NCBI-ProteinID: NP_415629
+            Pasteur: ycfQ
+            RegulonDB: ECK120003165
+            ASAP: ABE-0003754
+            UniProt: P75952
+AASEQ       210
+            MATDSTQCVKKSRGRPKVFDRDAALDKAMKLFWQHGYEATSLADLVEATGAKAPTLYAEF
+            TNKEGLFRAVLDRYIDRFAAKHEAQLFCEEKSVESALADYFAAIANCFTSKDTPAGCFMI
+            NNCTTLSPDSGDIANTLKSRHAMQERTLQQFLCQRQARGEIPPHCDVTHLAEFLNCIIQG
+            MSISAREGASLEKLMQIAGTTLRLWPELVK
+NTSEQ       633
+            atggcaactgactcaacacaatgtgtaaaaaaaagccgtggccgcccaaaagtgttcgac
+            agggatgccgcgcttgataaggccatgaaattgttctggcaacacggttatgaagcgact
+            tctcttgcggacctcgtcgaagcgaccggagccaaagcgcccacgctatacgcggaattt
+            accaacaaagaggggttatttcgtgccgttctcgaccgctatatcgatcgttttgccgct
+            aagcatgaagcacagctgttttgtgaagagaaaagcgtggagtctgcgctggctgactat
+            tttgctgccatcgccaactgctttaccagcaaagacaccccggcaggctgcttcatgatc
+            aacaactgcaccaccctctccccagattcaggagatatcgccaatacgttgaaatcacgc
+            catgcgatgcaagagcgcactttgcagcagtttttatgtcaacgacaagcgcgcggggaa
+            atcccgccccactgtgacgtgacacatctggcagaattccttaattgtattattcagggg
+            atgtcgatcagcgcacgcgaaggtgcatcgctggaaaaactgatgcagattgccggaacg
+            actttgcgtttatggcccgaactggtgaaataa
+///

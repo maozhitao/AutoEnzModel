@@ -1,0 +1,47 @@
+ENTRY       b2812             CDS       T00007
+NAME        tcdA
+DEFINITION  (RefSeq) tRNA threonylcarbamoyladenosine dehydratase
+ORTHOLOGY   K22132  tRNA threonylcarbamoyladenosine dehydratase
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b2812 (tcdA)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Other tRNA modification factors
+                b2812 (tcdA)
+POSITION    complement(2945036..2945842)
+MOTIF       Pfam: ThiF UDPG_MGDP_dh_N Sacchrp_dh_NADP DAO NAD_binding_7 3HCDH_N ELFV_dehydrog ApbA
+DBLINKS     NCBI-GeneID: 947291
+            NCBI-ProteinID: NP_417292
+            Pasteur: ygdL
+            RegulonDB: ECK120004019
+            ECOCYC: G7456
+            ASAP: ABE-0009223
+            UniProt: Q46927
+STRUCTURE   PDB: 4D79 4D7A 4YED 4RDI 4RDH
+AASEQ       268
+            MSVVISDAWRQRFGGTARLYGEKALQLFADAHICVVGIGGVGSWAAEALARTGIGAITLI
+            DMDDVCVTNTNRQIHALRDNVGLAKAEVMAERIRQINPECRVTVVDDFVTPDNVAQYMSV
+            GYSYVIDAIDSVRPKAALIAYCRRNKIPLVTTGGAGGQIDPTQIQVTDLAKTIQDPLAAK
+            LRERLKSDFGVVKNSKGKLGVDCVFSTEALVYPQSDGTVCAMKATAEGPKRMDCASGFGA
+            ATMVTATFGFVAVSHALKKMMAKAARQG
+NTSEQ       807
+            atgtctgtggtaattagtgatgcatggcgtcagcgttttggtggcacagcgcgtctgtat
+            ggtgaaaaagcgttgcaactgtttgctgacgcgcatatttgtgtggttggtatcggtggt
+            gtcggttcctgggcggcggaagcgctggcgcgcacggggattggcgcaatcacgcttatc
+            gatatggatgatgtgtgcgtcaccaataccaatcggcaaattcatgccctgcgcgataac
+            gttgggctggcaaaagcggaagttatggcggagcgtattcgccagattaacccggagtgc
+            cgtgtaacggtggtggatgatttcgtgacgccggataacgtagcgcagtatatgagcgtg
+            ggttattcgtacgtgattgatgccattgatagtgtacggcccaaagcggcgctgattgct
+            tattgtcggcgcaataaaatcccactggtcacaaccggtggcgcgggtgggcagattgat
+            ccgacgcagattcaggttaccgatctggcgaaaacgattcaggacccgctggcggcgaag
+            ttgcgcgagcgcctgaaaagcgattttggcgtagtgaaaaacagtaaaggtaagctcggc
+            gtggattgcgtgttttctactgaagcgctggtgtacccgcagtcagacggtacggtgtgt
+            gcgatgaaagccacggcagaagggccgaagcggatggattgtgcatctggatttggcgcg
+            gcaacgatggtgaccgccacctttgggtttgttgcggtttctcatgcgctgaagaagatg
+            atggcgaaagcggcgcgtcagggttaa
+///

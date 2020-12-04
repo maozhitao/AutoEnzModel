@@ -1,0 +1,55 @@
+ENTRY       b3961             CDS       T00007
+NAME        oxyR
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator OxyR
+ORTHOLOGY   K04761  LysR family transcriptional regulator, hydrogen peroxide-inducible genes activator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b3961 (oxyR)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b3961 (oxyR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               LysR family
+                b3961 (oxyR)
+POSITION    4158490..4159407
+MOTIF       Pfam: LysR_substrate HTH_1 HTH_30
+DBLINKS     NCBI-GeneID: 948462
+            NCBI-ProteinID: NP_418396
+            Pasteur: oxyR
+            RegulonDB: ECK120000674
+            ECOCYC: EG10681
+            ASAP: ABE-0012973
+            UniProt: P0ACQ4
+STRUCTURE   PDB: 1I6A 1I69
+AASEQ       305
+            MNIRDLEYLVALAEHRHFRRAADSCHVSQPTLSGQIRKLEDELGVMLLERTSRKVLFTQA
+            GMLLVDQARTVLREVKVLKEMASQQGETMSGPLHIGLIPTVGPYLLPHIIPMLHQTFPKL
+            EMYLHEAQTHQLLAQLDSGKLDCVILALVKESEAFIEVPLFDEPMLLAIYEDHPWANREC
+            VPMADLAGEKLLMLEDGHCLRDQAMGFCFEAGADEDTHFRATSLETLRNMVAAGSGITLL
+            PALAVPPERKRDGVVYLPCIKPEPRRTIGLVYRPGSPLRSRYEQLAEAIRARMDGHFDKV
+            LKQAV
+NTSEQ       918
+            atgaatattcgtgatcttgagtacctggtggcattggctgaacaccgccattttcggcgt
+            gcggcagattcctgccacgttagccagccgacgcttagcgggcaaattcgtaagctggaa
+            gatgagctgggcgtgatgttgctggagcggaccagccgtaaagtgttgttcacccaggcg
+            ggaatgctgctggtggatcaggcgcgtaccgtgctgcgtgaggtgaaagtccttaaagag
+            atggcaagccagcagggcgagacgatgtccggaccgctgcacattggtttgattcccaca
+            gttggaccgtacctgctaccgcatattatccctatgctgcaccagacctttccaaagctg
+            gaaatgtatctgcatgaagcacagacccaccagttactggcgcaactggacagcggcaaa
+            ctcgattgcgtgatcctcgcgctggtgaaagagagcgaagcattcattgaagtgccgttg
+            tttgatgagccaatgttgctggctatctatgaagatcacccgtgggcgaaccgcgaatgc
+            gtaccgatggccgatctggcaggggaaaaactgctgatgctggaagatggtcactgtttg
+            cgcgatcaggcaatgggtttctgttttgaagccggggcggatgaagatacacacttccgc
+            gcgaccagcctggaaactctgcgcaacatggtggcggcaggtagcgggatcactttactg
+            ccagcgctggctgtgccgccggagcgcaaacgcgatggggttgtttatctgccgtgcatt
+            aagccggaaccacgccgcactattggcctggtttatcgtcctggctcaccgctgcgcagc
+            cgctatgagcagctggcagaggccatccgcgcaagaatggatggccatttcgataaagtt
+            ttaaaacaggcggtttaa
+///

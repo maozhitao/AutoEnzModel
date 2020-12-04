@@ -1,0 +1,81 @@
+ENTRY       b3911             CDS       T00007
+NAME        cpxA
+DEFINITION  (RefSeq) sensory histidine kinase CpxA
+ORTHOLOGY   K07640  two-component system, OmpR family, sensor histidine kinase CpxA [EC:2.7.13.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01503  Cationic antimicrobial peptide (CAMP) resistance
+            eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b3911 (cpxA)
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b3911 (cpxA)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b3911 (cpxA)
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b3911 (cpxA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 b3911 (cpxA)
+            Protein kinases [BR:eco01001]
+             Histidine kinases
+              OmpR family
+               b3911 (cpxA)
+            Two-component system [BR:eco02022]
+             OmpR family
+              CpxA-CpxR (envelope stress response)
+               b3911 (cpxA)
+POSITION    complement(4103602..4104975)
+MOTIF       Pfam: HATPase_c HisKA CpxA_peri HAMP HATPase_c_3 HATPase_c_2 HATPase_c_5
+DBLINKS     NCBI-GeneID: 948405
+            NCBI-ProteinID: NP_418347
+            Pasteur: cpxA
+            RegulonDB: ECK120000159
+            ECOCYC: EG10163
+            ASAP: ABE-0012772
+            UniProt: P0AE82
+STRUCTURE   PDB: 4BIX 4BIZ 4BIW 5LFK 4CB0 4BIY 4BIV 4BIU
+AASEQ       457
+            MIGSLTARIFAIFWLTLALVLMLVLMLPKLDSRQMTELLDSEQRQGLMIEQHVEAELAND
+            PPNDLMWWRRLFRAIDKWAPPGQRLLLVTTEGRVIGAERSEMQIIRNFIGQADNADHPQK
+            KKYGRVELVGPFSVRDGEDNYQLYLIRPASSSQSDFINLLFDRPLLLLIVTMLVSTPLLL
+            WLAWSLAKPARKLKNAADEVAQGNLRQHPELEAGPQEFLAAGASFNQMVTALERMMTSQQ
+            RLLSDISHELRTPLTRLQLGTALLRRRSGESKELERIETEAQRLDSMINDLLVMSRNQQK
+            NALVSETIKANQLWSEVLDNAAFEAEQMGKSLTVNFPPGPWPLYGNPNALESALENIVRN
+            ALRYSHTKIEVGFAVDKDGITITVDDDGPGVSPEDREQIFRPFYRTDEARDRESGGTGLG
+            LAIVETAIQQHRGWVKAEDSPLGGLRLVIWLPLYKRS
+NTSEQ       1374
+            atgataggcagcttaaccgcgcgcatcttcgccatcttctggctgacgctggcgctggtg
+            ttgatgttggttttgatgttacccaagctcgattcacgccagatgaccgagcttctggat
+            agcgaacagcgtcaggggctgatgattgagcagcatgtcgaagcggagctggcgaacgat
+            ccgcccaacgatttaatgtggtggcggcgtctgttccgggcgattgataagtgggcaccg
+            ccaggacagcgtttgttattggtgaccaccgaaggccgcgtgatcggcgctgaacgcagc
+            gaaatgcagatcattcgtaactttattggtcaggccgataacgccgatcatccgcagaag
+            aaaaagtatggccgcgtggaactggtcggtccgttctccgtgcgtgatggcgaagataat
+            taccaactttatctgattcgtccggccagcagttctcaatccgatttcattaacttactg
+            tttgaccgcccgctattactgctgattgtcaccatgttggtcagtacgccgctgctgttg
+            tggttggcctggagtctggcaaaaccggcgcgtaagctgaaaaacgctgccgatgaagtt
+            gcccagggaaacttacgccagcacccggaactggaagcggggccacaggaattccttgcc
+            gcaggtgccagttttaaccagatggtcaccgcgctggagcgcatgatgacctctcagcag
+            cgtctgctttctgatatctctcacgagctgcgcaccccgctgacgcgtctgcaactgggt
+            acggcgttactgcgccgtcgtagcggtgaaagcaaggaactggagcgtattgaaaccgaa
+            gcgcaacgtctggacagcatgatcaacgatctgttggtgatgtcacgtaatcagcaaaaa
+            aacgcgctggttagcgaaaccatcaaagccaaccagttgtggagtgaagtgctggataac
+            gcggcgttcgaagccgagcaaatgggcaagtcgttgacagttaacttcccgcctgggccg
+            tggccgctgtacggcaatccgaacgccctggaaagtgcgctggaaaacattgttcgtaat
+            gctctgcgttattcccatacgaagattgaagtgggctttgcggtagataaagacggtatc
+            accattacggtggacgacgatggtcctggcgttagcccggaagatcgcgaacagattttc
+            cgtccgttctatcgtaccgatgaagcacgcgatcgtgaatctggcggtacaggtttgggg
+            ctggcgattgttgaaaccgccattcagcagcatcgtggctgggtgaaggcagaagacagc
+            ccgctgggcggtttacggctggtgatttggttgccgctgtataagcggagttaa
+///

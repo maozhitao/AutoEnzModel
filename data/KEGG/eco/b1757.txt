@@ -1,0 +1,60 @@
+ENTRY       b1757             CDS       T00007
+NAME        ynjE
+DEFINITION  (RefSeq) molybdopterin synthase sulfurtransferase
+ORTHOLOGY   K21028  molybdopterin synthase sulfurtransferase [EC:2.8.1.11]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco04122  Sulfur relay system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04122 Sulfur relay system
+                b1757 (ynjE)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.8  Transferring sulfur-containing groups
+               2.8.1  Sulfurtransferases
+                2.8.1.11  molybdopterin synthase sulfurtransferase
+                 b1757 (ynjE)
+POSITION    1839467..1840774
+MOTIF       Pfam: Rhodanese Ish1
+DBLINKS     NCBI-GeneID: 946505
+            NCBI-ProteinID: NP_416271
+            Pasteur: ynjE
+            RegulonDB: ECK120003540
+            ECOCYC: G6952
+            ASAP: ABE-0005848
+            UniProt: P78067
+STRUCTURE   PDB: 2WLR 2WLX 3IPO 3IPP
+AASEQ       435
+            MKRVSQMTALAMALGLACASSWAAELAKPLTLDQLQQQNGKAIDTRPSAFYNGWPQTLNG
+            PSGHELAALNLSASWLDKMSTEQLNAWIKQHNLKTDAPVALYGNDKDVDAVKTRLQKAGL
+            THISILSDALSEPSRLQKLPHFEQLVYPQWLHDLQQGKEVTAKPAGDWKVIEAAWGAPKL
+            YLISHIPGADYIDTNEVESEPLWNKVSDEQLKAMLAKHGIRHDTTVILYGRDVYAAARVA
+            QIMLYAGVKDVRLLDGGWQTWSDAGLPVERGTPPKVKAEPDFGVKIPAQPQLMLDMEQAR
+            GLLHRQDASLVSIRSWPEFIGTTSGYSYIKPKGEIAGARWGHAGSDSTHMEDFHNPDGTM
+            RSADDITAMWKAWNIKPEQQVSFYCGTGWRASETFMYARAMGWKNVSVYDGGWYEWSSDP
+            KNPVATGERGPDSSK
+NTSEQ       1308
+            atgaaacgtgtttctcaaatgaccgcgctggcaatggctttagggctggcttgcgcttct
+            tcgtgggccgctgaactggcgaagcctcttacacttgaccagcttcaacaacaaaatggc
+            aaagcgatagatactcgccccagcgcgttttataacggctggccacaaaccttaaatggc
+            ccttctggtcatgaacttgccgccttaaacctctctgccagctggcttgacaaaatgagc
+            accgaacagctcaacgcgtggatcaagcaacataacctgaaaaccgatgctccggtggcg
+            ctgtacggtaatgacaaagatgtcgacgccgtcaaaacgcgactgcaaaaagcaggttta
+            acgcatatctccatcctgagtgacgcgctaagcgaaccttcccgtctgcaaaaactgccg
+            cattttgagcagctggtttatccgcaatggctgcacgacctgcaacaaggtaaagaggtt
+            acggcgaaacctgccggtgactggaaagtcattgaagcggcctggggcgctcctaagctt
+            taccttatcagccatattcccggcgctgactacatcgataccaacgaagtggaaagtgaa
+            ccgctgtggaacaaagtttctgatgaacaactaaaagcgatgctggcaaaacacggcatt
+            cgccatgacaccacggtcattctgtatgggcgtgacgtatacgctgcagcgcgtgtggcg
+            cagattatgctttatgctggcgtgaaagatgtgcgcctgctggatggcggctggcaaacc
+            tggtccgacgcgggactgcctgttgagcgcggaacgccaccgaaagtgaaagcggaaccg
+            gatttcggcgtgaagatcccggcacaaccgcagttgatgctcgatatggaacaggcccgt
+            ggactgctgcatcgccaggatgcatcgctggtgagcattcgttcgtggccagaatttatc
+            ggtacgaccagcggttacagctatattaaaccaaaaggtgaaatagccggcgcacgttgg
+            ggacacgctggtagcgactcgacgcatatggaagattttcataacccggatggcaccatg
+            cgcagcgccgatgatattaccgctatgtggaaagcgtggaatatcaaaccagagcagcaa
+            gtttcattctactgcggcaccggctggcgcgcgtccgaaacctttatgtacgcacgcgcc
+            atgggttggaagaatgtttccgtgtatgacggcggctggtacgaatggagcagcgatcca
+            aaaaatccggtagcaaccggtgaacgcggcccggacagtagcaaataa
+///

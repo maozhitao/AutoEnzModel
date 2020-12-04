@@ -1,0 +1,75 @@
+ENTRY       b1421             CDS       T00007
+NAME        trg
+DEFINITION  (RefSeq) methyl-accepting chemotaxis protein Trg
+ORTHOLOGY   K05876  methyl-accepting chemotaxis protein III, ribose and galactose sensor receptor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02030  Bacterial chemotaxis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1421 (trg)
+             09140 Cellular Processes
+              09142 Cell motility
+               02030 Bacterial chemotaxis
+                b1421 (trg)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1421 (trg)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Chemotaxis proteins
+               MCPs
+                b1421 (trg)
+POSITION    1492470..1494110
+MOTIF       Pfam: MCPsignal TarH HAMP 4HB_MCP_1 Atg14 DUF2062 HAMP_2
+DBLINKS     NCBI-GeneID: 945995
+            NCBI-ProteinID: NP_415938
+            Pasteur: trg
+            RegulonDB: ECK120001007
+            ECOCYC: EG11018
+            ASAP: ABE-0004744
+            UniProt: P05704
+AASEQ       546
+            MNTTPSQRLGFLHHIRLVPLFACILGGILVLFALSSALAGYFLWQADRDQRDVTAEIEIR
+            TGLANSSDFLRSARINMIQAGAASRIAEMEAMKRNIAQAESEIKQSQQGYRAYQNRPVKT
+            PADEALDTELNQRFQAYITGMQPMLKYAKNGMFEAIINHESEQIRPLDNAYTDILNKAVK
+            IRSTRANQLAELAHQRTRLGGMFMIGAFVLALVMTLITFMVLRRIVIRPLQHAAQRIEKI
+            ASGDLTMNDEPAGRNEIGRLSRHLQQMQHSLGMTVGTVRQGAEEIYRGTSEISAGNADLS
+            SRTEEQAAAIEQTAASMEQLTATVKQNADNAHHASKLAQEASIKASDGGQTVSGVVKTMG
+            AISTSSKKISEITAVINSIAFQTNILALNAAVEAARAGEQGRGFAVVASEVRTLASRSAQ
+            AAKEIEGLISESVRLIDLGSDEVATAGKTMSTIVDAVASVTHIMQEIAAASDEQSRGITQ
+            VSQAISEMDKVTQQNASLVEEASAAAVSLEEQAARLTEAVDVFRLHKHSVSAEPRGAGEP
+            VSFATV
+NTSEQ       1641
+            atgaatacaactccctcacagcgattaggttttttgcatcacatcaggttggttccgtta
+            tttgcctgcattctaggcggtatcttagttctattcgcattaagttcagccctggctggc
+            tatttcctctggcaggccgatcgcgatcagcgtgatgttactgcggagattgagattcgg
+            accgggttagcgaacagttcagattttttgcgttcagcccggatcaatatgattcaggcc
+            ggggctgcgagtcgtattgcggaaatggaagcaatgaagcgaaatattgcgcaagccgaa
+            tcggagattaaacagtcgcagcaaggttatcgtgcttatcagaatcgaccggtgaaaaca
+            cctgctgatgaagccctcgacactgaattaaatcaacgctttcaggcttatatcacgggt
+            atgcaacctatgttgaaatatgccaaaaatggcatgtttgaagcgattatcaatcatgaa
+            agtgagcagatccgaccgctggataatgcttataccgatattttgaacaaagccgttaag
+            atacgtagcaccagagccaaccaactggcggaactggcccatcagcgcacccgcctgggt
+            gggatgttcatgattggcgcgtttgtgcttgccctggtcatgacgctgataacatttatg
+            gtgctacgtcggatcgtcattcgtccactgcaacatgccgcacaacggattgaaaaaatc
+            gccagtggcgatctgacgatgaatgatgaaccggcgggtcgtaatgaaatcggtcgctta
+            agtcgtcatttacagcaaatgcagcattcactggggatgacagtagggactgttcgacag
+            ggcgcggaagagatttatcgtggcaccagcgaaatttcagctggcaatgcggacctgtca
+            tctcgcaccgaagaacaagcggcggctatcgaacaaactgccgccagcatggagcaactc
+            actgcgacggtgaaacagaatgcggataacgcgcatcatgccagcaaactggcgcaagag
+            gcttctattaaagccagcgatggcgggcagacggtttccggtgtagtaaaaacgatgggc
+            gctatctccacgagttcgaagaaaatttctgagatcaccgccgtcatcaacagtattgct
+            ttccagacgaatattctggcactgaatgctgccgttgaagccgcgcgagcgggtgagcaa
+            gggcgtggatttgccgttgtcgccagcgaagtacggacactcgcaagtcgcagcgctcag
+            gcggcgaaagagattgaaggcttgatcagtgaatcagtcaggttaattgacctggggtcg
+            gatgaggtggcaacggccgggaaaaccatgagcactattgttgatgccgtcgcgagtgtc
+            acacatatcatgcaggaaatcgccgccgcctcggatgaacaaagtagaggcataacgcag
+            gttagccaggcgatttctgaaatggataaggtgacgcaacagaatgcttctctggtagaa
+            gaggcctcagcggcggcggtgtcccttgaagaacaggcggcacgattaactgaggcggtg
+            gatgtattccgtctgcacaaacattctgtgtcggcagaacctcgcggagcgggtgaacca
+            gttagtttcgctacggtgtga
+///

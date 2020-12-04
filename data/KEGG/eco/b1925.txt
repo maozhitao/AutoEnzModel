@@ -1,0 +1,42 @@
+ENTRY       b1925             CDS       T00007
+NAME        fliS
+DEFINITION  (RefSeq) flagellar biosynthesis protein FliS
+ORTHOLOGY   K02422  flagellar secretion chaperone FliS
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1925 (fliS)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1925 (fliS)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Chaperones
+                b1925 (fliS)
+POSITION    2005303..2005713
+MOTIF       Pfam: FliS DUF4924 PRD
+DBLINKS     NCBI-GeneID: 946429
+            NCBI-ProteinID: NP_416435
+            Pasteur: fliS
+            RegulonDB: ECK120001355
+            ECOCYC: EG11388
+            ASAP: ABE-0006409
+            UniProt: P26608
+AASEQ       136
+            MYAAKGTQAYAQIGVESAVMSASQQQLVTMLFDGVLSALVRASLFMQDNNQQGKGVSLSK
+            AINIIENGLRVSLDEESKDELTQNLIALYSYMVRRLLQANLRNDVSAVEEVEALMRNIAD
+            AWKESLLSPSLIQDPV
+NTSEQ       411
+            atgtacgcggcaaaaggcacccaggcctatgcacaaattggcgtcgaaagcgccgtaatg
+            agcgccagccagcagcagctggtcaccatgctatttgatggagtgctgagcgcactggtt
+            agagcgagcctgtttatgcaggacaacaatcagcaaggcaaaggcgtctctttgtcaaaa
+            gcgatcaacatcattgagaacggactgcgggtgagtcttgatgaagagagcaaagacgaa
+            ctaacccaaaacttgattgctctttatagctatatggtcaggcgcttgctgcaagccaat
+            ttacgcaacgatgtctccgcagtcgaagaagtggaagcattaatgcgcaatattgccgat
+            gcctggaaagagtcgttactctccccttctttgattcaggacccagtctga
+///

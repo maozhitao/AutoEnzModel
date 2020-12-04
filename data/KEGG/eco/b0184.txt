@@ -1,0 +1,133 @@
+ENTRY       b0184             CDS       T00007
+NAME        dnaE
+DEFINITION  (RefSeq) DNA polymerase III subunit alpha
+ORTHOLOGY   K02337  DNA polymerase III subunit alpha [EC:2.7.7.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+            eco03430  Mismatch repair
+            eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b0184 (dnaE)
+               03430 Mismatch repair
+                b0184 (dnaE)
+               03440 Homologous recombination
+                b0184 (dnaE)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b0184 (dnaE)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b0184 (dnaE)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 b0184 (dnaE)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Elongation Factors
+               Elongation factors (bacterial)
+                DNA polymerase III holoenzyme
+                 b0184 (dnaE)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                DNA polymerase III holoenzyme
+                 b0184 (dnaE)
+POSITION    205126..208608
+MOTIF       Pfam: DNA_pol3_alpha DNA_pol3_finger PHP HHH_6 tRNA_anti-codon
+DBLINKS     NCBI-GeneID: 944877
+            NCBI-ProteinID: NP_414726
+            Pasteur: dnaE
+            RegulonDB: ECK120000232
+            ECOCYC: EG10238
+            ASAP: ABE-0000624
+            UniProt: P10443
+STRUCTURE   PDB: 4GX8 4GX9 2HNH 2HQA 4JOM 5M1S 5FKW 5FKV 5FKU
+AASEQ       1160
+            MSEPRFVHLRVHSDYSMIDGLAKTAPLVKKAAALGMPALAITDFTNLCGLVKFYGAGHGA
+            GIKPIVGADFNVQCDLLGDELTHLTVLAANNTGYQNLTLLISKAYQRGYGAAGPIIDRDW
+            LIELNEGLILLSGGRMGDVGRSLLRGNSALVDECVAFYEEHFPDRYFLELIRTGRPDEES
+            YLHAAVELAEARGLPVVATNDVRFIDSSDFDAHEIRVAIHDGFTLDDPKRPRNYSPQQYM
+            RSEEEMCELFADIPEALANTVEIAKRCNVTVRLGEYFLPQFPTGDMSTEDYLVKRAKEGL
+            EERLAFLFPDEEERLKRRPEYDERLETELQVINQMGFPGYFLIVMEFIQWSKDNGVPVGP
+            GRGSGAGSLVAYALKITDLDPLEFDLLFERFLNPERVSMPDFDVDFCMEKRDQVIEHVAD
+            MYGRDAVSQIITFGTMAAKAVIRDVGRVLGHPYGFVDRISKLIPPDPGMTLAKAFEAEPQ
+            LPEIYEADEEVKALIDMARKLEGVTRNAGKHAGGVVIAPTKITDFAPLYCDEEGKHPVTQ
+            FDKSDVEYAGLVKFDFLGLRTLTIINWALEMINKRRAKNGEPPLDIAAIPLDDKKSFDML
+            QRSETTAVFQLESRGMKDLIKRLQPDCFEDMIALVALFRPGPLQSGMVDNFIDRKHGREE
+            ISYPDVQWQHESLKPVLEPTYGIILYQEQVMQIAQVLSGYTLGGADMLRRAMGKKKPEEM
+            AKQRSVFAEGAEKNGINAELAMKIFDLVEKFAGYGFNKSHSAAYALVSYQTLWLKAHYPA
+            EFMAAVMTADMDNTEKVVGLVDECWRMGLKILPPDINSGLYHFHVNDDGEIVYGIGAIKG
+            VGEGPIEAIIEARNKGGYFRELFDLCARTDTKKLNRRVLEKLIMSGAFDRLGPHRAALMN
+            SLGDALKAADQHAKAEAIGQADMFGVLAEEPEQIEQSYASCQPWPEQVVLDGERETLGLY
+            LTGHPINQYLKEIERYVGGVRLKDMHPTERGKVITAAGLVVAARVMVTKRGNRIGICTLD
+            DRSGRLEVMLFTDALDKYQQLLEKDRILIVSGQVSFDDFSGGLKMTAREVMDIDEAREKY
+            ARGLAISLTDRQIDDQLLNRLRQSLEPHRSGTIPVHLYYQRADARARLRFGATWRVSPSD
+            RLLNDLRGLIGSEQVELEFD
+NTSEQ       3483
+            atgtctgaaccacgtttcgtacacctgcgggtgcacagcgactactcgatgatcgatggc
+            ctggccaaaaccgcaccgttggtaaaaaaggcggcggcgttgggtatgccagcactggcg
+            atcaccgatttcaccaacctttgtggtctggtgaagttctacggagcgggacatggcgca
+            gggattaagcctatcgtcggggcagattttaacgtccagtgcgacctgctgggtgatgag
+            ttaacccacctgacggtactggcggcgaacaataccggctatcagaatctgacgttgctg
+            atctcaaaagcgtatcagcgcgggtacggtgccgccgggccgatcatcgatcgcgactgg
+            cttatcgaattaaacgaagggttgatccttctttccggcggacgcatgggcgacgtcgga
+            cgcagtcttttgcgtggtaacagcgcgctggtagatgagtgtgtcgcgttttatgaagaa
+            cacttcccggatcgctattttctcgagctgatccgcaccggcaggccggatgaagaaagc
+            tatctgcacgcggcggtggaactggcggaagcgcgcggtttgcccgtcgtggcgaccaac
+            gacgtgcgctttatcgacagcagcgactttgacgcacacgaaatccgcgtcgcgatccac
+            gacggctttaccctcgacgatcctaaacgcccgcgtaactattcgccgcagcaatatatg
+            cgtagcgaagaggagatgtgtgagctgtttgccgacatccccgaagcccttgccaacacc
+            gttgagatcgccaaacgctgtaacgtaaccgtgcgtcttggtgaatacttcctgccgcag
+            ttcccgaccggggacatgagcaccgaagattatctggtcaagcgtgcaaaagagggcctg
+            gaagagcgtctggcctttttattccctgatgaggaagaacgtcttaagcgccgcccggaa
+            tatgacgaacgtctggagactgaacttcaggttatcaaccagatgggcttcccgggctac
+            ttcctcatcgttatggaatttatccagtggtcgaaagataacggcgtaccggtagggcca
+            ggccgtggctccggtgcgggttcactggtggcctacgcgctgaaaatcaccgacctcgat
+            ccgctggaatttgacctgctgttcgaacgtttccttaacccggaacgtgtctccatgcct
+            gacttcgacgttgacttctgtatggagaaacgcgatcaggttatcgagcacgtagcggac
+            atgtacggtcgtgatgcggtatcgcagatcatcaccttcggtacaatggcggcgaaagcg
+            gtgatccgcgacgtaggccgcgtgctggggcatccgtacggctttgtcgatcgtatctcg
+            aaactgatcccgcccgatccggggatgacgctggcgaaagcgtttgaagccgagccgcag
+            ctgccggaaatctacgaagcggatgaagaagttaaggcgctgatcgacatggcgcgcaaa
+            ctggaaggggtcacccgtaacgccggtaagcacgccggtggggtggttatcgcgccgacc
+            aaaattaccgattttgcgccgctttactgcgatgaagagggcaaacatccggtcacccag
+            tttgataaaagcgacgttgaatacgccggactggtgaagttcgacttccttggtttgcgt
+            acgctcaccatcatcaactgggcgctggagatgatcaacaagcggcgggcgaagaatggc
+            gagccgccgctggatatcgctgcgatcccgctggatgataagaaaagcttcgacatgctg
+            caacgctcggaaaccacggcggtattccagcttgaatcgcgcggcatgaaggacctgatc
+            aagcgtctacaacctgactgcttcgaagatatgatcgccctagtggcactgttccgcccc
+            ggtccgttgcaatcagggatggtggataactttatcgaccgtaaacatggtcgtgaagag
+            atctcctatccggacgtacagtggcagcatgaaagcctgaaaccggtactggagccaacc
+            tacggcattatcctgtatcaggaacaggtcatgcagattgcgcaggtgctttctggttat
+            accctcggtggcgcggatatgctgcgtcgtgcgatgggtaagaaaaagccggaagagatg
+            gctaagcaacgttctgtatttgctgaaggtgcagaaaagaacggaatcaacgctgaactg
+            gcgatgaaaatcttcgacctggtggagaaattcgctggttacggatttaacaaatcgcac
+            tctgcggcctatgctttggtgtcatatcaaacgttatggctgaaagcgcactatcctgcg
+            gagtttatggcggcggtaatgaccgccgatatggacaacaccgagaaggtggtgggtctg
+            gtggatgagtgctggcggatggggctgaaaatcctgccaccagatataaactccggtctt
+            taccatttccacgtcaacgacgacggcgaaatcgtgtatggtattggcgcgatcaaaggg
+            gtcggtgaaggtccgattgaggccatcatcgaagcccgtaataaaggcggctacttccgc
+            gaactgtttgatctctgcgcccgtaccgacaccaaaaagttgaaccgtcgcgtgctggaa
+            aaactgatcatgtccggggcgtttgaccgtcttgggccacatcgcgcagcgctgatgaac
+            tcgctgggcgatgcgttaaaagcggcagatcaacacgcgaaagcggaagctatcggtcag
+            gccgatatgttcggcgtgctggccgaagagccggaacaaattgaacaatcctacgccagc
+            tgccaaccgtggccggagcaggtggtattagatggggaacgtgaaacgttaggcctgtac
+            ctgaccggacaccctatcaaccagtatttaaaagagattgagcgttatgtcggaggcgta
+            aggctgaaagacatgcacccgacagaacgtggtaaagtcatcacggctgcggggctcgtt
+            gttgccgcgcgggttatggtcaccaagcgcggcaatcgtatcggtatctgcacgctggat
+            gaccgttccgggcggctggaagtgatgttgtttactgacgccctggataaataccagcaa
+            ttgctggaaaaagaccgcatacttatcgtcagcggacaggtcagctttgatgacttcagc
+            ggtgggcttaaaatgaccgctcgcgaagtgatggatattgacgaagcccgggaaaaatat
+            gctcgcgggcttgctatctcgctgacggacaggcaaattgatgaccagcttttaaaccga
+            ctccgtcagtctctggaaccccaccgctctgggacaattccagtacatctctactatcag
+            agggcggatgcacgcgcgcggttgcgttttggcgcgacgtggcgtgtctctccgagcgat
+            cgtttattaaacgatctccgtggcctcattggttcggagcaggtggaactggagtttgac
+            taa
+///

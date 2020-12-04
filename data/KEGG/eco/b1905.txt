@@ -1,0 +1,41 @@
+ENTRY       b1905             CDS       T00007
+NAME        ftnA
+DEFINITION  (RefSeq) ferritin iron storage protein
+ORTHOLOGY   K02217  ferritin [EC:1.16.3.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b1905 (ftnA)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.16  Oxidizing metal ions
+               1.16.3  With oxygen as acceptor
+                1.16.3.2  bacterial non-heme ferritin
+                 b1905 (ftnA)
+POSITION    1988716..1989213
+MOTIF       Pfam: Ferritin
+DBLINKS     NCBI-GeneID: 946410
+            NCBI-ProteinID: NP_416418
+            Pasteur: ftn
+            RegulonDB: ECK120000912
+            ECOCYC: EG10921
+            ASAP: ABE-0006342
+            UniProt: P0A998
+STRUCTURE   PDB: 4ZTT 1EUM 4XGS 4REU
+AASEQ       165
+            MLKPEMIEKLNEQMNLELYSSLLYQQMSAWCSYHTFEGAAAFLRRHAQEEMTHMQRLFDY
+            LTDTGNLPRINTVESPFAEYSSLDELFQETYKHEQLITQKINELAHAAMTNQDYPTFNFL
+            QWYVSEQHEEEKLFKSIIDKLSLAGKSGEGLYFIDKELSTLDTQN
+NTSEQ       498
+            atgctgaaaccagaaatgattgaaaaacttaatgagcagatgaacctggaactgtactct
+            tcactgctttatcagcaaatgagcgcctggtgcagctatcataccttcgaaggtgctgcc
+            gcgttcctgcgccgtcacgcccaggaagagatgacgcatatgcagcgtctgtttgattac
+            ctgactgataccggcaatttaccgcgtattaataccgttgaatctccgtttgctgaatat
+            tcctcacttgatgaattattccaggaaacctataaacacgaacaattaatcacccagaaa
+            attaacgaactggctcatgctgcaatgaccaatcaggactacccaacatttaatttcctg
+            caatggtatgtttctgagcagcatgaagaagagaaactgttcaaatcgattattgataaa
+            ttaagcctggcaggcaaaagcggcgaaggtctgtattttatcgacaaagaactctctacc
+            ctcgacacacaaaactaa
+///

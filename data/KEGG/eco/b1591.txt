@@ -1,0 +1,42 @@
+ENTRY       b1591             CDS       T00007
+NAME        dmsD
+DEFINITION  (RefSeq) redox enzyme maturation protein DmsD
+ORTHOLOGY   K23349  putative dimethyl sulfoxide reductase chaperone
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b1591 (dmsD)
+            Chaperones and folding catalysts [BR:eco03110]
+             Other chaperones and cochaperones
+              Others
+               b1591 (dmsD)
+POSITION    1664506..1665120
+MOTIF       Pfam: Nitrate_red_del
+DBLINKS     NCBI-GeneID: 945987
+            NCBI-ProteinID: NP_416108
+            Pasteur: ynfI
+            RegulonDB: ECK120003438
+            ECOCYC: G6849
+            ASAP: ABE-0005314
+            UniProt: P69853
+STRUCTURE   PDB: 3EFP 3CW0 3U41
+AASEQ       204
+            MTHFSQQDNFSVAARVLGALFYYAPESAEAAPLVAVLTSDGWETQWPLPEASLAPLVTAF
+            QTQCEETHAQAWQRLFVGPWALPSPPWGSVWLDRESVLFGDSTLALRQWMREKGIQFEMK
+            QNEPEDHFGSLLLMAAWLAENGRQTECEELLAWHLFPWSTRFLDVFIEKAEHPFYRALGE
+            LARLTLAQWQSQLLIPVAVKPLFR
+NTSEQ       615
+            atgacccatttttcacagcaagataatttttctgtcgcggcgcgcgtgttgggcgcgctg
+            ttttattacgctccagagagtgcggaagccgcacctctggttgcggtactcaccagtgac
+            ggctgggaaactcagtggcctctaccagaagcgtcattagcgccgctggtgacggctttt
+            cagacacagtgtgaagagactcacgcccaggcctggcagcgtttgtttgtcggcccgtgg
+            gcactgccgtctccgccgtgggggtcggtctggctggatcgcgaatctgtgctgtttggc
+            gattcaacattggcacttcgtcagtggatgcgcgagaaaggcattcagtttgaaatgaag
+            caaaacgaaccggaagatcattttggttcactgctgttgatggctgcgtggttggcggag
+            aatggtcgccagacagaatgcgaagaattgctggcatggcacctttttccgtggtcaaca
+            cgttttcttgatgtttttatcgaaaaagcagaacaccctttctaccgtgcactgggtgaa
+            ctggctcgcttaacgctggcgcaatggcaatcacaactgttaattcctgtcgcggttaaa
+            ccgctgtttcgatag
+///

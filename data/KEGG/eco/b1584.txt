@@ -1,0 +1,45 @@
+ENTRY       b1584             CDS       T00007
+NAME        speG
+DEFINITION  (RefSeq) spermidine N-acetyltransferase
+ORTHOLOGY   K00657  diamine N-acetyltransferase [EC:2.3.1.57]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00330  Arginine and proline metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09105 Amino acid metabolism
+               00330 Arginine and proline metabolism
+                b1584 (speG)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.3  Acyltransferases
+               2.3.1  Transferring groups other than aminoacyl groups
+                2.3.1.57  diamine N-acetyltransferase
+                 b1584 (speG)
+POSITION    1656184..1656744
+MOTIF       Pfam: Acetyltransf_3 Acetyltransf_1 Acetyltransf_7 Acetyltransf_8 Acetyltransf_10 FR47 Acetyltransf_4 GNAT_acetyltran Acetyltransf_15 Acetyltransf_CG
+DBLINKS     NCBI-GeneID: 946117
+            NCBI-ProteinID: NP_416101
+            Pasteur: speG
+            RegulonDB: ECK120003431
+            ECOCYC: G6842
+            ASAP: ABE-0005286
+            UniProt: P0A951
+STRUCTURE   PDB: 6CY6 3WR7 4R9M
+AASEQ       186
+            MPSAHSVKLRPLEREDLRYVHQLDNNASVMRYWFEEPYEAFVELSDLYDKHIHDQSERRF
+            VVECDGEKAGLVELVEINHVHRRAEFQIIISPEYQGKGLATRAAKLAMDYGFTVLNLYKL
+            YLIVDKENEKAIHIYRKLGFSVEGELMHEFFINGQYRNAIRMCIFQHQYLAEHKTPGQTL
+            LKPTAQ
+NTSEQ       561
+            atgccaagcgcccacagtgttaagctacgcccgctggagcgtgaagatttacgctatgta
+            catcaactcgacaataacgccagtgtgatgcgttactggtttgaggaaccctacgaagcc
+            tttgttgaactctctgatctgtatgataagcatattcacgatcagagcgaacggcgcttt
+            gtggtggaatgtgacggcgaaaaagccggtctggtggagctggtggaaattaaccatgtt
+            catcgccgcgcagaatttcagataattatctccccggagtatcaggggaaaggtctggca
+            acccgtgccgccaaattagcaatggactatggctttaccgttctcaatctctataagctg
+            tatctgatcgttgataaagagaatgaaaaagcgattcacatttaccgcaagcttggcttt
+            tcggttgaaggtgaattgatgcacgagttctttattaatggtcaatatcgtaatgccatt
+            cgcatgtgtatattccagcatcagtatctggcagagcacaaaacaccgggtcagactctc
+            ctgaagccgaccgcacaatag
+///

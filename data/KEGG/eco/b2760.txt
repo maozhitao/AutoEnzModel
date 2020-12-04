@@ -1,0 +1,63 @@
+ENTRY       b2760             CDS       T00007
+NAME        casA
+DEFINITION  (RefSeq) type I-E CRISPR system Cascade subunit CasA
+ORTHOLOGY   K19123  CRISPR system Cascade subunit CasA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b2760 (casA)
+            Prokaryotic defense system [BR:eco02048]
+             CRISPR-Cas system
+              Type I CRISPR-Cas system
+               Subtype I-E factors
+                b2760 (casA)
+POSITION    complement(2882630..2884138)
+MOTIF       Pfam: CRISPR_Cse1 UPF0167
+DBLINKS     NCBI-GeneID: 947222
+            NCBI-ProteinID: NP_417240
+            Pasteur: ygcL
+            RegulonDB: ECK120003995
+            ECOCYC: G7430
+            ASAP: ABE-0009050
+            UniProt: Q46901
+STRUCTURE   PDB: 5H9F 4U7U 4QYZ 5CD4 5H9E
+AASEQ       502
+            MNLLIDNWIPVRPRNGGKVQIINLQSLYCSRDQWRLSLPRDDMELAALALLVCIGQIIAP
+            AKDDVEFRHRIMNPLTEDEFQQLIAPWIDMFYLNHAEHPFMQTKGVKANDVTPMEKLLAG
+            VSGATNCAFVNQPGQGEALCGGCTAIALFNQANQAPGFGGGFKSGLRGGTPVTTFVRGID
+            LRSTVLLNVLTLPRLQKQFPNESHTENQPTWIKPIKSNESIPASSIGFVRGLFWQPAHIE
+            LCDPIGIGKCSCCGQESNLRYTGFLKEKFTFTVNGLWPHPHSPCLVTVKKGEVEEKFLAF
+            TTSAPSWTQISRVVVDKIIQNENGNRVAAVVNQFRNIAPQSPLELIMGGYRNNQASILER
+            RHDVLMFNQGWQQYGNVINEIVTVGLGYKTALRKALYTFAEGFKNKDFKGAGVSVHETAE
+            RHFYRQSELLIPDVLANVNFSQADEVIADLRDKLHQLCEMLFNQSVAPYAHHPKLISTLA
+            LARATLYKHLRELKPQGGPSNG
+NTSEQ       1509
+            atgaatttgcttattgataactggatccctgtacgcccgcgaaacggggggaaagtccaa
+            atcataaatctgcaatcgctatactgcagtagagatcagtggcgattaagtttgccccgt
+            gacgatatggaactggccgctttagcactgctggtttgcattgggcaaattatcgccccg
+            gcaaaagatgacgttgaatttcgacatcgcataatgaatccgctcactgaagatgagttt
+            caacaactcatcgcgccgtggatagatatgttctaccttaatcacgcagaacatcccttt
+            atgcagaccaaaggtgtcaaagcaaatgatgtgactccaatggaaaaactgttggctggg
+            gtaagcggcgcgacgaattgtgcatttgtcaatcaaccggggcagggtgaagcattatgt
+            ggtggatgcactgcgattgcgttattcaaccaggcgaatcaggcaccaggttttggtggt
+            ggttttaaaagcggtttacgtggaggaacacctgtaacaacgttcgtacgtgggatcgat
+            cttcgttcaacggtgttactcaatgtcctcacattacctcgtcttcaaaaacaatttcct
+            aatgaatcacatacggaaaaccaacctacctggattaaacctatcaagtccaatgagtct
+            atacctgcttcgtcaattgggtttgtccgtggtctattctggcaaccagcgcatattgaa
+            ttatgcgatcccattgggattggtaaatgttcttgctgtggacaggaaagcaatttgcgt
+            tataccggttttcttaaggaaaaatttacctttacagttaatgggctatggccccatccg
+            cattccccttgtctggtaacagtcaagaaaggggaggttgaggaaaaatttcttgctttc
+            accacctccgcaccatcatggacacaaatcagccgagttgtggtagataagattattcaa
+            aatgaaaatggaaatcgcgtggcggcggttgtgaatcaattcagaaatattgcgccgcaa
+            agtcctcttgaattgattatggggggatatcgtaataatcaagcatctattcttgaacgg
+            cgtcatgatgtgttgatgtttaatcaggggtggcaacaatacggcaatgtgataaacgaa
+            atagtgactgttggtttgggatataaaacagccttacgcaaggcgttatatacctttgca
+            gaagggtttaaaaataaagacttcaaaggggccggagtctctgttcatgagactgcagaa
+            aggcatttctatcgacagagtgaattattaattcccgatgtactggcgaatgttaatttt
+            tcccaggctgatgaggtaatagctgatttacgagacaaacttcatcaattgtgtgaaatg
+            ctatttaatcaatctgtagctccctatgcacatcatcctaaattaataagcacattagcg
+            cttgcccgcgccacgctatacaaacatttacgggagttaaaaccgcaaggagggccatca
+            aatggctga
+///

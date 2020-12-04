@@ -1,0 +1,76 @@
+ENTRY       b3339             CDS       T00007
+NAME        tufA
+DEFINITION  (RefSeq) translation elongation factor Tu 1
+ORTHOLOGY   K02358  elongation factor Tu
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:eco03012]
+                b3339 (tufA)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b3339 (tufA)
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:eco04147]
+                b3339 (tufA)
+            Translation factors [BR:eco03012]
+             Eukaryotic type
+              Elongation factors
+               b3339 (tufA)
+             Prokaryotic type
+               b3339 (tufA)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Mitochondrial translation factors
+                b3339 (tufA)
+            Exosome [BR:eco04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               b3339 (tufA)
+              Exosomal proteins of breast cancer cells
+               b3339 (tufA)
+              Exosomal proteins of colorectal cancer cells
+               b3339 (tufA)
+POSITION    complement(3470145..3471329)
+MOTIF       Pfam: GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 MMR_HSR1 cobW
+DBLINKS     NCBI-GeneID: 947838
+            NCBI-ProteinID: NP_417798
+            Pasteur: tufA
+            RegulonDB: ECK120001025
+            ECOCYC: EG11036
+            ASAP: ABE-0010912
+            UniProt: P0CE47
+STRUCTURE   PDB: 4PC3 4PC1 5JBQ 3U6B 2HCJ 4P3Y 5MI8 4PC2 4PC6 4G5G 5I4Q
+                 1D8T 3U6K 3U2Q 5OPD 5MI3 2HDN 4Q7J 1ETU 5MI9 5I4R 2FX3
+                 4PC7
+AASEQ       394
+            MSKEKFERTKPHVNVGTIGHVDHGKTTLTAAITTVLAKTYGGAARAFDQIDNAPEEKARG
+            ITINTSHVEYDTPTRHYAHVDCPGHADYVKNMITGAAQMDGAILVVAATDGPMPQTREHI
+            LLGRQVGVPYIIVFLNKCDMVDDEELLELVEMEVRELLSQYDFPGDDTPIVRGSALKALE
+            GDAEWEAKILELAGFLDSYIPEPERAIDKPFLLPIEDVFSISGRGTVVTGRVERGIIKVG
+            EEVEIVGIKETQKSTCTGVEMFRKLLDEGRAGENVGVLLRGIKREEIERGQVLAKPGTIK
+            PHTKFESEVYILSKDEGGRHTPFFKGYRPQFYFRTTDVTGTIELPEGVEMVMPGDNIKMV
+            VTLIHPIAMDDGLRFAIREGGRTVGAGVVAKVLG
+NTSEQ       1185
+            gtgtctaaagaaaaatttgaacgtacaaaaccgcacgttaacgttggtactatcggccac
+            gttgaccacggtaaaactactctgaccgctgcaatcaccaccgtactggctaaaacctac
+            ggcggtgctgctcgtgcattcgaccagatcgataacgcgccggaagaaaaagctcgtggt
+            atcaccatcaacacttctcacgttgaatacgacaccccgacccgtcactacgcacacgta
+            gactgcccggggcacgccgactatgttaaaaacatgatcaccggtgctgctcagatggac
+            ggcgcgatcctggtagttgctgcgactgacggcccgatgccgcagactcgtgagcacatc
+            ctgctgggtcgtcaggtaggcgttccgtacatcatcgtgttcctgaacaaatgcgacatg
+            gttgatgacgaagagctgctggaactggttgaaatggaagttcgtgaacttctgtctcag
+            tacgacttcccgggcgacgacactccgatcgttcgtggttctgctctgaaagcgctggaa
+            ggcgacgcagagtgggaagcgaaaatcctggaactggctggcttcctggattcttatatt
+            ccggaaccagagcgtgcgattgacaagccgttcctgctgccgatcgaagacgtattctcc
+            atctccggtcgtggtaccgttgttaccggtcgtgtagaacgcggtatcatcaaagttggt
+            gaagaagttgaaatcgttggtatcaaagagactcagaagtctacctgtactggcgttgaa
+            atgttccgcaaactgctggacgaaggccgtgctggtgagaacgtaggtgttctgctgcgt
+            ggtatcaaacgtgaagaaatcgaacgtggtcaggtactggctaagccgggcaccatcaag
+            ccgcacaccaagttcgaatctgaagtgtacattctgtccaaagatgaaggcggccgtcat
+            actccgttcttcaaaggctaccgtccgcagttctacttccgtactactgacgtgactggt
+            accatcgaactgccggaaggcgtagagatggtaatgccgggcgacaacatcaaaatggtt
+            gttaccctgatccacccgatcgcgatggacgacggtctgcgtttcgcaatccgtgaaggc
+            ggccgtaccgttggcgcgggcgttgttgctaaagttctgggctaa
+///

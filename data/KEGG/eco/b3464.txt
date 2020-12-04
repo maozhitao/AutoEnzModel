@@ -1,0 +1,77 @@
+ENTRY       b3464             CDS       T00007
+NAME        ftsY
+DEFINITION  (RefSeq) signal recognition particle receptor
+ORTHOLOGY   K03110  fused signal recognition particle receptor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02024  Quorum sensing
+            eco03060  Protein export
+            eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b3464 (ftsY)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3464 (ftsY)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b3464 (ftsY)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3464 (ftsY)
+            Secretion system [BR:eco02044]
+             Sec (secretion) system
+              Prokaryotic Sec-SRP core components
+               b3464 (ftsY)
+POSITION    complement(3602750..3604243)
+MOTIF       Pfam: SRP54 SRP54_N Zeta_toxin AAA_30 AAA_33 AAA_17 AAA_22 APS_kinase CbiA AAA_16 ABC_tran DUF2075 AAA AAA_24 AAA_31 MeaB NTPase_1 AAA_14 Thymidylate_kin AAA_5 Ploopntkinase3 AAA_7 MMR_HSR1 KTI12
+DBLINKS     NCBI-GeneID: 947978
+            NCBI-ProteinID: NP_417921
+            Pasteur: ftsY
+            RegulonDB: ECK120000340
+            ECOCYC: EG10346
+            ASAP: ABE-0011318
+            UniProt: P10121
+STRUCTURE   PDB: 6N9B 6N5J 6CQP 6N5I 6NC1 6NC4 2YHS 5NIY 6CS8 6CVD 6DLX
+                 6N6N 2QY9 6FPK 6FQD 1FTS 4C7O 6FPR 5GAD 2XXA 3ZN8
+AASEQ       497
+            MAKEKKRGFFSWLGFGQKEQTPEKETEVQNEQPVVEEIVQAQEPVKASEQAVEEQPQAHT
+            EAEAETFAADVVEVTEQVAESEKAQPEAEVVAQPEPVVEETPEPVAIEREELPLPEDVNA
+            EAVSPEEWQAEAETVEIVEAAEEEAAKEEITDEELETALAAEAAEEAVMVVPPAEEEQPV
+            EEIAQEQEKPTKEGFFARLKRSLLKTKENLGSGFISLFRGKKIDDDLFEELEEQLLIADV
+            GVETTRKIITNLTEGASRKQLRDAEALYGLLKEEMGEILAKVDEPLNVEGKAPFVILMVG
+            VNGVGKTTTIGKLARQFEQQGKSVMLAAGDTFRAAAVEQLQVWGQRNNIPVIAQHTGADS
+            ASVIFDAIQAAKARNIDVLIADTAGRLQNKSHLMEELKKIVRVMKKLDVEAPHEVMLTID
+            ASTGQNAVSQAKLFHEAVGLTGITLTKLDGTAKGGVIFSVADQFGIPIRYIGVGERIEDL
+            RPFKADDFIEALFARED
+NTSEQ       1494
+            atggcgaaagaaaaaaaacgtggctttttttcctggctgggctttggtcaaaaagagcag
+            accccggaaaaagagacagaagttcagaatgaacaaccggttgtagaagaaatcgttcag
+            gcgcaagagcctgtgaaggcctctgaacaagccgttgaagagcagccgcaagcgcatact
+            gaagccgaggcggaaacttttgctgccgacgttgtggaagtcactgaacaggttgctgaa
+            agtgaaaaagcgcagcctgaagcggaagtcgttgcacagccggaaccggtcgtagaagaa
+            acgccggagccagtggctatcgaacgtgaagagctgccgttgccggaagacgtcaacgcc
+            gaagcggtttcgccagaagagtggcaggctgaagcggaaaccgtagagattgtcgaagcg
+            gcggaagaagaagcggctaaagaagaaattaccgacgaagagctggaaacggcgctggct
+            gccgaagcggcagaagaggcggtgatggtggttcctccggcagaagaagagcagccggtg
+            gaagaaatcgctcaggagcaggaaaaaccgaccaaagaaggttttttcgcgcgcctgaaa
+            cgcagcctgttaaaaaccaaagaaaatctcggttccggatttatcagcctgttccgcggt
+            aaaaaaatcgacgatgatctgtttgaggagctggaagagcagcttttgatcgccgatgtg
+            ggtgtggaaaccacacgtaaaattatcaccaatctgacggaaggcgcatcccgcaagcag
+            cttcgtgacgccgaggcgctctatggcctgctgaaagaagagatgggcgagattctggcg
+            aaagtcgatgagccgctgaatgttgaaggcaaagcgccgtttgtgatcctgatggtgggc
+            gtcaacggtgtgggtaaaaccacgacgattggtaagctggcgcgtcagtttgagcagcag
+            ggtaaatcggtgatgctggcggcgggtgatactttccgtgcagctgcggttgaacagctt
+            caggtctggggtcagcgcaacaatattccggtgattgcccagcataccggggcggattcc
+            gcctctgttatcttcgacgccattcaggcagctaaagcgcgtaatatcgacgtcctgatt
+            gccgatacagccggacgcctgcagaacaaatcgcacctgatggaagagttgaagaaaatc
+            gtccgcgtgatgaagaaactcgacgttgaagcgccgcatgaagttatgctgactattgat
+            gccagcaccgggcagaacgcggtaagccaggccaaactgttccatgaagccgttggctta
+            accggcatcacgctaacgaaactggacggcacggcgaaaggcggggtaattttctcggtg
+            gctgaccagtttggtatccctatccgctacattggtgtcggcgaacgtattgaggatttg
+            cgtccgtttaaggcggacgactttatagaggcactttttgcccgagaggattaa
+///

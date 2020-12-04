@@ -1,0 +1,27 @@
+ENTRY       b4667             CDS       T00007
+NAME        ibsA
+DEFINITION  (RefSeq) toxic peptide IbsA
+ORTHOLOGY   K19149  small toxic protein IbsA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4667 (ibsA)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               Ibs-Sib
+                b4667 (ibsA)
+POSITION    complement(2153349..2153408)
+MOTIF       Pfam: Ibs_toxin
+DBLINKS     NCBI-GeneID: 7751625
+            NCBI-ProteinID: YP_002791247
+            RegulonDB: ECK120035075
+            ECOCYC: G0-10633
+            UniProt: C1P607
+AASEQ       19
+            MMKHVIILVILLVISFQAY
+NTSEQ       60
+            atgatgaagcacgtcatcatactggtgatactcttagtgattagcttccaggcttactaa
+///

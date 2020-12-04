@@ -1,0 +1,54 @@
+ENTRY       b0898             CDS       T00007
+NAME        ycaD
+DEFINITION  (RefSeq) putative transporter YcaD
+ORTHOLOGY   K08219  MFS transporter, UMF2 family, putative MFS family transporter protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0898 (ycaD)
+            Transporters [BR:eco02000]
+             Major facilitator superfamily (MFS)
+              Unknown transporters
+               Unknown major facilitator-2 (UMF2) [TC:2.A.1.26]
+                b0898 (ycaD)
+POSITION    945871..947019
+MOTIF       Pfam: MFS_1 MFS_4 Sugar_tr MFS_1_like Nterm_IS4 MFS_2
+DBLINKS     NCBI-GeneID: 945515
+            NCBI-ProteinID: NP_415418
+            Pasteur: ycaD
+            RegulonDB: ECK120001219
+            ECOCYC: EG11242
+            ASAP: ABE-0003056
+            UniProt: P21503
+AASEQ       382
+            MSTYTQPVMLLLSGLLLLTLAIAVLNTLVPLWLAQEHMSTWQVGVVSSSYFTGNLVGTLL
+            TGYVIKRIGFNRSYYLASFIFAAGCAGLGLMIGFWSWLAWRFVAGVGCAMIWVVVESALM
+            CSGTSRNRGRLLAAYMMVYYVGTFLGQLLVSKVSTELMSVLPWVTGLTLAGILPLLFTRV
+            LNQQAENHDSTSITSMLKLRQARLGVNGCIISGIVLGSLYGLMPLYLNHKGVSNASIGFW
+            MAVLVSAGILGQWPIGRLADKFGRLLVLRVQVFVVILGSIAMLSQAAMAPALFILGAAGF
+            TLYPVAMAWACEKVEHHQLVAMNQALLLSYTVGSLLGPSFTAMLMQNFSDNLLFIMIASV
+            SFIYLLMLLRNAGHTPKPVAHV
+NTSEQ       1149
+            atgtccacgtatacccagcctgtcatgcttttgctgtctggcctgcttttgttgactctg
+            gcgattgcggtgttaaatacactcgtgccgctttggctcgcccaggaacacatgtccaca
+            tggcaggtaggcgttgtcagctcatcctattttaccggcaaccttgtcggtacattgctg
+            acagggtatgtcattaagcgcattggctttaaccgcagctattatctggcctccttcatt
+            tttgccgctggctgtgccggccttggcctgatgattggattctggagctggttggcttgg
+            cgttttgtcgcgggcgtcggctgtgccatgatttgggtggttgttgagagcgcgctgatg
+            tgcagtgggacgtcacgtaaccgtgggcgtttgcttgctgcgtatatgatggtttattac
+            gtgggaacgtttttaggccagttactggtcagcaaagtttcaaccgagctgatgtccgta
+            ttgccgtgggttacaggtttgacgttggcagggatcttaccgctgttgtttacgcgtgtg
+            ctgaatcagcaggctgaaaaccatgattcgacgtcaattacgtcaatgctaaaactccgt
+            caggcgcggcttggcgtgaatggctgcattatctcaggaatcgttctgggatctctatat
+            ggcctgatgccgctgtacctcaatcacaaaggggtgagcaatgccagcattggtttctgg
+            atggcggtactggtcagtgcgggtatccttggacaatggccgattggacgtctggcggat
+            aagtttggtcgactgctggtgttgcgtgttcaggtctttgtcgtcattctcggcagtatc
+            gcgatgcttagccaggcggcgatggccccagcgttattcatcctcggtgccgctggcttt
+            acgctatatccggtggcgatggcatgggcttgcgagaaagttgaacatcatcaactggtg
+            gcgatgaaccaggccttactgttgagctatactgtgggaagtctgcttggcccgtcattt
+            accgctatgctaatgcagaatttctccgataatttattgtttatcatgatcgccagcgta
+            tcgtttatctatttgctgatgctgctgcgcaacgccggtcatacgccgaaacccgttgct
+            cacgtgtaa
+///

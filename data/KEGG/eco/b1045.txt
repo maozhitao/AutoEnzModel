@@ -1,0 +1,41 @@
+ENTRY       b1045             CDS       T00007
+NAME        ymdB
+DEFINITION  (RefSeq) 2'-O-acetyl-ADP-ribose deacetylase, regulator of RNase III activity
+ORTHOLOGY   K23518  O-acetyl-ADP-ribose deacetylase [EC:3.1.1.106]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b1045 (ymdB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.106  O-acetyl-ADP-ribose deacetylase
+                 b1045 (ymdB)
+POSITION    1105820..1106353
+MOTIF       Pfam: Macro
+DBLINKS     NCBI-GeneID: 946987
+            NCBI-ProteinID: NP_415563
+            Pasteur: ymdB
+            RegulonDB: ECK120003146
+            ECOCYC: G6550
+            ASAP: ABE-0003549
+            UniProt: P0A8D6
+STRUCTURE   PDB: 5CB3 1SPV 5CB5 5CMS
+AASEQ       177
+            MKTRIHVVQGDITKLAVDVIVNAANPSLMGGGGVDGAIHRAAGPALLDACLKVRQQQGDC
+            PTGHAVITLAGDLPAKAVVHTVGPVWRGGEQNEDQLLQDAYLNSLRLVAANSYTSVAFPA
+            ISTGVYGYPRAAAAEIAVKTVSEFITRHALPEQVYFVCYDEENAHLYERLLTQQGDE
+NTSEQ       534
+            atgaaaacgcgtattcatgttgtgcagggtgatattaccaaactggccgttgatgtgatt
+            gtgaatgcggctaatccgtcattaatgggaggcggcggcgtcgatggggccattcatcgc
+            gcagcgggtccggccctgctggatgcttgtttaaaagtcaggcaacagcagggcgattgc
+            cctacggggcatgccgttattacgcttgcaggcgatcttcccgctaaagccgtagtgcac
+            accgtcgggccagtctggcgtggtggtgaacaaaacgaagaccagcttttgcaggatgcc
+            tatctcaatagcctacgactggtggcggcaaacagctatacgtcagtggcttttcctgca
+            atcagtactggggtttatggttaccctcgtgcggcagcggctgaaatcgcagtaaaaacc
+            gtttcagaatttattacccgtcacgctttacccgaacaggtatactttgtctgttatgat
+            gaagaaaacgcccacctctacgaaagactccttacccaacaaggagatgaatga
+///

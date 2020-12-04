@@ -1,0 +1,72 @@
+ENTRY       b1513             CDS       T00007
+NAME        lsrA
+DEFINITION  (RefSeq) Autoinducer-2 ABC transporter ATP binding subunit
+ORTHOLOGY   K10558  AI-2 transport system ATP-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+            eco02024  Quorum sensing
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b1513 (lsrA)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b1513 (lsrA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1513 (lsrA)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Saccharide, polyol, and lipid transporters
+               AI-2 transporter
+                b1513 (lsrA)
+POSITION    1601490..1603025
+MOTIF       Pfam: ABC_tran AAA_21 RsgA_GTPase AAA_29 AAA_30 AAA_23 MukB AAA_27
+DBLINKS     NCBI-GeneID: 945680
+            NCBI-ProteinID: NP_416030
+            Pasteur: ego
+            RegulonDB: ECK120003389
+            ECOCYC: G6800
+            ASAP: ABE-0005056
+            UniProt: P77257
+AASEQ       511
+            MQTSDTRALPLLCARSVYKQYSGVNVLKGIDFTLHQGEVHALLGGNGAGKSTLMKIIAGI
+            TPADSGTLEIEGNNYVRLTPVHAHQLGIYLVPQEPLLFPSLSIKENILFGLAKKQLSMQK
+            MKNLLAALGCQFDLHSLAGSLDVADRQMVEILRGLMRDSRILILDEPTASLTPAETERLF
+            SRLQELLATGVGIVFISHKLPEIRQIADRISVMRDGTIALSGKTSELSTDDIIQAITPAV
+            REKSLSASQKLWLELPGNRPQHAAGTPVLTLENLTGEGFRNVSLTLNAGEILGLAGLVGA
+            GRTELAETLYGLRTLRGGRIMLNGKEINKLSTGERLLRGLVYLPEDRQSSGLNLDASLAW
+            NVCALTHNLRGFWAKTAKDNATLERYRRALNIKFNQPEQAARTLSGGNQQKILIAKCLEA
+            SPQVLIVDEPTRGVDVSARNDIYQLLRSIAAQNVAVLLISSDLEEIELMADRVYVMHQGE
+            ITHSALTERDINVETIMRVAFGDSQRQEASC
+NTSEQ       1536
+            atgcaaacgagtgatacccgcgcgttaccgctactttgcgcccgctcggtttataaacag
+            tattcaggggtcaatgtcctgaaaggcatcgattttacgttgcatcagggggaggtccac
+            gccctgctcggcggcaatggtgccggtaaatcgacgttaatgaagattattgccggtatt
+            acccctgctgatagcggtacgctggagattgagggcaacaactacgtcagattaacgcca
+            gttcatgctcatcagctgggtatttatctcgttccccaggaaccgctgcttttcccaagc
+            ctgtcgataaaagaaaacatcctgtttgggctggcaaaaaaacagctctccatgcagaaa
+            atgaagaacttgctggcggcgctgggctgccagtttgatctgcatagtctggcaggatcg
+            ctggatgtcgccgatcgccaaatggtggaaatcctccgcgggctgatgcgcgactcgcgg
+            attctgatcctcgatgaacctaccgcctcgcttacccctgcggaaaccgaacgcttgttt
+            agtcgcttgcaagagctgcttgctactggcgtgggtattgtttttatctcgcataagctg
+            ccggaaattcgccagattgccgatcgaattagcgtgatgcgcgacggaaccatcgcctta
+            agcggcaaaaccagcgaactgtctaccgacgacattattcaggccatcaccccagcggta
+            cgggaaaaatcgctctctgccagccaaaaattatggctggagttacctggtaaccgccca
+            caacatgccgccggaacgccggtgctgacactggaaaatctgaccggcgaaggtttcagg
+            aatgtcagcctgacgctcaatgccggagaaattctgggcctggctgggctggtgggggcc
+            ggacgcacagaactggccgagacgctctatggtctgcgtactttgcgtggcggacgcatt
+            atgctgaatggtaaagagatcaataaattatccactggagaacgtttactgcgcggtctg
+            gtttatctgccggaagatcgccagtcatccggactgaatctcgatgcttcgctggcctgg
+            aacgtctgcgcccttactcataaccttcgtggattctgggcgaaaaccgcgaaagataat
+            gccaccctggaacgttatcgtcgggcgctgaatattaaattcaaccaaccggaacaagct
+            gcacggacattatccggtggcaaccagcaaaaaatcctcattgccaaatgcttggaagct
+            tcgccgcaagtattgattgtcgatgagccgacgcgcggcgtggatgtctcggcccgtaat
+            gatatctaccagctgttgcgcagcatcgccgcacaaaatgtggctgtgctgcttatctcc
+            tccgacctggaagagatcgaactgatggcagatcgtgtgtatgtgatgcatcagggcgaa
+            attacccactctgcactgaccgagcgcgatattaatgtcgagactattatgcgcgttgcc
+            ttcggcgatagtcagcgtcaggaggcgtcatgctga
+///

@@ -1,0 +1,52 @@
+ENTRY       b3068             CDS       T00007
+NAME        mug
+DEFINITION  (RefSeq) stationary phase mismatch/uracil DNA glycosylase
+ORTHOLOGY   K03649  double-stranded uracil-DNA glycosylase [EC:3.2.2.28]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03410  Base excision repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03410 Base excision repair
+                b3068 (mug)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b3068 (mug)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.2  Hydrolysing N-glycosyl compounds
+                3.2.2.28  double-stranded uracil-DNA glycosylase
+                 b3068 (mug)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                DNA glycosylases
+                 b3068 (mug)
+POSITION    complement(3214967..3215473)
+MOTIF       Pfam: UDG
+DBLINKS     NCBI-GeneID: 947560
+            NCBI-ProteinID: NP_417540
+            Pasteur: mug
+            RegulonDB: ECK120002372
+            ECOCYC: EG12717
+            ASAP: ABE-0010073
+            UniProt: P0A9H1
+STRUCTURE   PDB: 1MUG 1MWI 1MTL 1MWJ
+AASEQ       168
+            MVEDILAPGLRVVFCGINPGLSSAGTGFPFAHPANRFWKVIYQAGFTDRQLKPQEAQHLL
+            DYRCGVTKLVDRPTVQANEVSKQELHAGGRKLIEKIEDYQPQALAILGKQAYEQGFSQRG
+            AQWGKQTLTIGSTQIWVLPNPSGLSRVSLEKLVEAYRELDQALVVRGR
+NTSEQ       507
+            atggttgaggatattttggctccagggttacgggtcgtgttttgcggtatcaaccctggg
+            ctttcatccgccgggactggttttccctttgctcatccggcaaatcgcttctggaaggtg
+            atatatcaggccgggtttaccgaccgtcagttgaagccgcaggaggcacagcatctgctg
+            gattatcgttgtggcgtcaccaaactggtagaccgtccaacggtgcaagccaatgaagtt
+            tcaaagcaggagctacacgcaggcgggcgtaagctgattgaaaaaattgaagattatcag
+            ccgcaggcgttggcgattctgggcaaacaagcatatgaacagggattcagccagcgcggt
+            gcacagtgggggaaacaaacgctcaccattggttcgacgcagatttgggtgctgccaaat
+            cccagcggtttaagtcgcgtttcactggagaaactggttgaagcgtatcgcgagctggac
+            caggcgctggtagtgcgtgggcgataa
+///

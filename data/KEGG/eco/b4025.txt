@@ -1,0 +1,96 @@
+ENTRY       b4025             CDS       T00007
+NAME        pgi
+DEFINITION  (RefSeq) glucose-6-phosphate isomerase
+ORTHOLOGY   K01810  glucose-6-phosphate isomerase [EC:5.3.1.9]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00010  Glycolysis / Gluconeogenesis
+            eco00030  Pentose phosphate pathway
+            eco00500  Starch and sucrose metabolism
+            eco00520  Amino sugar and nucleotide sugar metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+            eco01120  Microbial metabolism in diverse environments
+            eco01200  Carbon metabolism
+MODULE      eco_M00001  Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+            eco_M00004  Pentose phosphate pathway (Pentose phosphate cycle)
+            eco_M00909  UDP-N-acetyl-D-glucosamine biosynthesis, prokaryotes, glucose => UDP-GlcNAc
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                b4025 (pgi)
+               00030 Pentose phosphate pathway
+                b4025 (pgi)
+               00500 Starch and sucrose metabolism
+                b4025 (pgi)
+               00520 Amino sugar and nucleotide sugar metabolism
+                b4025 (pgi)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               04147 Exosome [BR:eco04147]
+                b4025 (pgi)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.3  Intramolecular oxidoreductases
+               5.3.1  Interconverting aldoses and ketoses, and related compounds
+                5.3.1.9  glucose-6-phosphate isomerase
+                 b4025 (pgi)
+            Exosome [BR:eco04147]
+             Exosomal proteins
+              Exosomal proteins of haemopoietic cells  (B-cell, T-cell, DC-cell, reticulocyte, and mast cell)
+               b4025 (pgi)
+              Exosomal proteins of other body fluids (saliva and urine)
+               b4025 (pgi)
+              Exosomal proteins of colorectal cancer cells
+               b4025 (pgi)
+POSITION    4233758..4235407
+MOTIF       Pfam: PGI
+DBLINKS     NCBI-GeneID: 948535
+            NCBI-ProteinID: NP_418449
+            Pasteur: pgi
+            RegulonDB: ECK120000694
+            ECOCYC: EG10702
+            ASAP: ABE-0013163
+            UniProt: P0A6T1
+STRUCTURE   PDB: 3NBU
+AASEQ       549
+            MKNINPTQTAAWQALQKHFDEMKDVTIADLFAKDGDRFSKFSATFDDQMLVDYSKNRITE
+            ETLAKLQDLAKECDLAGAIKSMFSGEKINRTENRAVLHVALRNRSNTPILVDGKDVMPEV
+            NAVLEKMKTFSEAIISGEWKGYTGKAITDVVNIGIGGSDLGPYMVTEALRPYKNHLNMHF
+            VSNVDGTHIAEVLKKVNPETTLFLVASKTFTTQETMTNAHSARDWFLKAAGDEKHVAKHF
+            AALSTNAKAVGEFGIDTANMFEFWDWVGGRYSLWSAIGLSIVLSIGFDNFVELLSGAHAM
+            DKHFSTTPAEKNLPVLLALIGIWYNNFFGAETEAILPYDQYMHRFAAYFQQGNMESNGKY
+            VDRNGNVVDYQTGPIIWGEPGTNGQHAFYQLIHQGTKMVPCDFIAPAITHNPLSDHHQKL
+            LSNFFAQTEALAFGKSREVVEQEYRDQGKDPATLDYVVPFKVFEGNRPTNSILLREITPF
+            SLGALIALYEHKIFTQGVILNIFTFDQWGVELGKQLANRILPELKDDKEISSHDSSTNGL
+            INRYKAWRG
+NTSEQ       1650
+            atgaaaaacatcaatccaacgcagaccgctgcctggcaggcactacagaaacacttcgat
+            gaaatgaaagacgttacgatcgccgatctttttgctaaagacggcgatcgtttttctaag
+            ttctccgcaaccttcgacgatcagatgctggtggattactccaaaaaccgcatcactgaa
+            gagacgctggcgaaattacaggatctggcgaaagagtgcgatctggcgggcgcgattaag
+            tcgatgttctctggcgagaagatcaaccgcactgaaaaccgcgccgtgctgcacgtagcg
+            ctgcgtaaccgtagcaataccccgattttggttgatggcaaagacgtaatgccggaagtc
+            aacgcggtgctggagaagatgaaaaccttctcagaagcgattatttccggtgagtggaaa
+            ggttataccggcaaagcaatcactgacgtagtgaacatcgggatcggcggttctgacctc
+            ggcccatacatggtgaccgaagctctgcgtccgtacaaaaaccacctgaacatgcacttt
+            gtttctaacgtcgatgggactcacatcgcggaagtgctgaaaaaagtaaacccggaaacc
+            acgctgttcttggtagcatctaaaaccttcaccactcaggaaactatgaccaacgcccat
+            agcgcgcgtgactggttcctgaaagcggcaggtgatgaaaaacacgttgcaaaacacttt
+            gcggcgctttccaccaatgccaaagccgttggcgagtttggtattgatactgccaacatg
+            ttcgagttctgggactgggttggcggccgttactctttgtggtcagcgattggcctgtcg
+            attgttctctccatcggctttgataacttcgttgaactgctttccggcgcacacgcgatg
+            gacaagcatttctccaccacgcctgccgagaaaaacctgcctgtactgctggcgctgatt
+            ggcatctggtacaacaatttctttggtgcggaaactgaagcgattctgccgtatgaccag
+            tatatgcaccgtttcgcggcgtacttccagcagggcaatatggagtccaacggtaagtat
+            gttgaccgtaacggtaacgttgtggattaccagactggcccgattatctggggtgaacca
+            ggcactaacggtcagcacgcgttctaccagctgatccaccagggaaccaaaatggtaccg
+            tgcgatttcatcgctccggctatcacccataacccgctctctgatcatcaccagaaactg
+            ctgtctaacttcttcgcccagaccgaagcgctggcgtttggtaaatcccgcgaagtggtt
+            gagcaggaatatcgtgatcagggtaaagatccggcaacgcttgactacgtggtgccgttc
+            aaagtattcgaaggtaaccgcccgaccaactccatcctgctgcgtgaaatcactccgttc
+            agcctgggtgcgttgattgcgctgtatgagcacaaaatctttactcagggcgtgatcctg
+            aacatcttcaccttcgaccagtggggcgtggaactgggtaaacagctggcgaaccgtatt
+            ctgccagagctgaaagatgataaagaaatcagcagccacgatagctcgaccaatggtctg
+            attaaccgctataaagcgtggcgcggttaa
+///

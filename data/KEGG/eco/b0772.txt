@@ -1,0 +1,66 @@
+ENTRY       b0772             CDS       T00007
+NAME        ybhC
+DEFINITION  (RefSeq) outer membrane lipoprotein YhbC
+ORTHOLOGY   K01051  pectinesterase [EC:3.1.1.11]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00040  Pentose and glucuronate interconversions
+            eco01100  Metabolic pathways
+            eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00040 Pentose and glucuronate interconversions
+                b0772 (ybhC)
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0772 (ybhC)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.11  pectinesterase
+                 b0772 (ybhC)
+POSITION    complement(805998..807281)
+MOTIF       Pfam: Pectinesterase
+DBLINKS     NCBI-GeneID: 945381
+            NCBI-ProteinID: NP_415293
+            Pasteur: ybhC
+            RegulonDB: ECK120002414
+            ECOCYC: EG12875
+            ASAP: ABE-0002629
+            UniProt: P46130
+STRUCTURE   PDB: 3GRH
+AASEQ       427
+            MNTFSVSRLALALAFGVTLTACSSTPPDQRPSDQTAPGTSSRPILSAKEAQNFDAQHYFA
+            SLTPGAAAWNPSPITLPAQPDFVVGPAGTQGVTHTTIQAAVDAAIIKRTNKRQYIAVMPG
+            EYQGTVYVPAAPGGITLYGTGEKPIDVKIGLSLDGGMSPADWRHDVNPRGKYMPGKPAWY
+            MYDSCQSKRSDSIGVLCSAVFWSQNNGLQLQNLTIENTLGDSVDAGNHPAVALRTDGDQV
+            QINNVNILGRQNTFFVTNSGVQNRLETNRQPRTLVTNSYIEGDVDIVSGRGAVVFDNTEF
+            RVVNSRTQQEAYVFAPATLSNIYYGFLAVNSRFNAFGDGVAQLGRSLDVDANTNGQVVIR
+            DSAINEGFNTAKPWADAVISNRPFAGNTGSVDDNDEIQRNLNDTNYNRMWEYNNRGVGSK
+            VVAEAKK
+NTSEQ       1284
+            gtgaacacattttcagtttcccgtctggcgctggcattggcttttggcgtgacgctgacc
+            gcctgtagctcaaccccgcccgatcaacgtccttctgatcaaaccgcgcctggtacctct
+            tctcgcccgattctgtcggcaaaagaagcgcagaatttcgatgctcaacactattttgca
+            tccctgacaccaggtgctgcagcgtggaatccttccccgattaccctgcctgcgcaacct
+            gactttgttgtcggcccggcgggcactcaaggtgtaacgcataccacgattcaggcggcg
+            gtagatgcggcaattatcaagcgtaccaacaagcgccagtatattgccgtgatgcctggt
+            gagtatcagggaacggtatatgtccctgccgctccgggtggaattactctgtacggtaca
+            ggtgaaaaaccgattgatgtgaagattgggctttcccttgatggtggcatgagccctgcc
+            gactggcgtcacgacgtcaacccgcgcggcaaatatatgccaggtaaaccagcgtggtat
+            atgtacgatagctgccagagcaaacgcagcgacagtatcggtgttctctgctctgcggtc
+            ttctggtcacaaaacaatggcctgcaactgcaaaatctgaccatcgaaaacacgctgggc
+            gatagcgtagatgcaggtaaccatccggcggtggcactgcgtactgatggtgaccaggta
+            cagattaacaacgttaacattctcggtcgtcagaacaccttctttgtcaccaacagcggt
+            gtgcagaaccgtctggaaacgaatcgtcagccgcgtacgctggtgaccaacagctacatt
+            gaaggggatgtggatatcgtttctggtcgcggcgcagtggtgttcgataacaccgaattc
+            cgcgtggtgaactcacgtactcagcaagaagcgtatgtgtttgcaccggctacgctgtcc
+            aacatttactacggtttcctcgccgtaaacagccgtttcaatgctttcggtgatggtgtg
+            gcgcaactgggccgctcgctggatgttgatgccaataccaacggtcaggtggtgatccgt
+            gatagcgccatcaacgaaggttttaacacggctaaaccgtgggccgatgcggtgatctct
+            aatcgtccgtttgcgggtaataccggcagcgtagatgataacgacgaaatacagcgcaat
+            ctgaatgacactaactacaaccgcatgtgggaatacaataaccgcggcgtgggtagtaaa
+            gtggttgcagaggcgaagaagtaa
+///

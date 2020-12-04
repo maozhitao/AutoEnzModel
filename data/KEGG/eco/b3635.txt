@@ -1,0 +1,64 @@
+ENTRY       b3635             CDS       T00007
+NAME        mutM
+DEFINITION  (RefSeq) DNA-formamidopyrimidine glycosylase
+ORTHOLOGY   K10563  formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03410  Base excision repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03410 Base excision repair
+                b3635 (mutM)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b3635 (mutM)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.2  Hydrolysing N-glycosyl compounds
+                3.2.2.23  DNA-formamidopyrimidine glycosylase
+                 b3635 (mutM)
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.99  Other carbon-oxygen lyases
+                4.2.99.18  DNA-(apurinic or apyrimidinic site) lyase
+                 b3635 (mutM)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               BER (base exicision repair)
+                DNA glycosylases
+                 b3635 (mutM)
+POSITION    complement(3810343..3811152)
+MOTIF       Pfam: H2TH Fapy_DNA_glyco zf-FPG_IleRS Auto_anti-p27 zf-dskA_traR
+DBLINKS     NCBI-GeneID: 946765
+            NCBI-ProteinID: NP_418092
+            Pasteur: mutM
+            RegulonDB: ECK120000323
+            ECOCYC: EG10329
+            ASAP: ABE-0011877
+            UniProt: P05523
+STRUCTURE   PDB: 1K82
+AASEQ       269
+            MPELPEVETSRRGIEPHLVGATILHAVVRNGRLRWPVSEEIYRLSDQPVLSVQRRAKYLL
+            LELPEGWIIIHLGMSGSLRILPEELPPEKHDHVDLVMSNGKVLRYTDPRRFGAWLWTKEL
+            EGHNVLTHLGPEPLSDDFNGEYLHQKCAKKKTAIKPWLMDNKLVVGVGNIYASESLFAAG
+            IHPDRLASSLSLAECELLARVIKAVLLRSIEQGGTTLKDFLQSDGKPGYFAQELQVYGRK
+            GEPCRVCGTPIVATKHAQRATFYCRQCQK
+NTSEQ       810
+            atgcctgaattacccgaagttgaaaccagccgccgcggcatagaaccgcatctcgttggt
+            gcaaccattcttcatgcagtggtgcgcaacggacgcttgcgctggccggtttcagaagag
+            atctaccgtttaagcgaccaaccagtgcttagcgtgcagcggcgggctaaatatctgctg
+            ctggagctgcctgagggctggattatcattcatttagggatgtctggcagcctgcgcatc
+            cttccagaagaacttccccctgaaaagcatgaccatgtggatttggtgatgagcaacggc
+            aaagtgctgcgctacaccgatccgcgccgctttggtgcctggctgtggaccaaagagctg
+            gaagggcataatgtgctgacccatcttggaccggagccgcttagcgacgatttcaatggt
+            gagtatctgcatcagaagtgcgcgaagaaaaaaacggcgattaaaccgtggctgatggat
+            aacaagctggtggtaggggtagggaatatctatgccagcgaatcactgtttgcggcgggg
+            atccatccggatcggctggcgtcatcactgtcgctggcagagtgtgaattgttagctcgg
+            gtgattaaagcggtgttgctgcgttcgattgagcagggtggtacaacgctgaaagatttt
+            ctgcaaagtgatggtaaaccgggctatttcgctcaggaattgcaggtttacgggcgaaaa
+            ggtgagccgtgtcgggtgtgcggtacgccgattgtggcgactaaacatgcgcagcgggca
+            acgttttattgtcggcagtgccagaagtaa
+///

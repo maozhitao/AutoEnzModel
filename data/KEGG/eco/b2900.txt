@@ -1,0 +1,37 @@
+ENTRY       b2900             CDS       T00007
+NAME        yqfB
+DEFINITION  (RefSeq) PUA-like domain-containing protein YqfB
+ORTHOLOGY   K09900  N4-acetylcytidine amidohydrolase [EC:3.5.1.135]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b2900 (yqfB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.135  N4-acetylcytidine amidohydrolase
+                 b2900 (yqfB)
+POSITION    complement(3043312..3043623)
+MOTIF       Pfam: ASCH DUF3850 PK
+DBLINKS     NCBI-GeneID: 947380
+            NCBI-ProteinID: NP_417376
+            Pasteur: yqfB
+            RegulonDB: ECK120004075
+            ECOCYC: G7513
+            ASAP: ABE-0009518
+            UniProt: P67603
+STRUCTURE   PDB: 1TE7
+AASEQ       103
+            MQPNDITFFQRFQDDILAGRKTITIRDESESHFKTGDVLRVGRFEDDGYFCTIEVTATST
+            VTLDTLTEKHAEQENMTLTELKKVIADIYPGQTQFYVIEFKCL
+NTSEQ       312
+            atgcagccaaacgacatcactttttttcaacgtttccaggatgacattctggctgggcgt
+            aaaaccatcaccatccgcgacgagtctgaatcgcacttcaaaacgggtgatgtgcttcgt
+            gtcggacgttttgaagatgacggttatttttgcacgattgaagtcaccgcaacctcaacc
+            gtaacgctggatacgctgactgaaaaacatgcagagcaggaaaatatgaccctgactgaa
+            ctgaaaaaagtcattgctgacatctatcccggtcagacacaattttatgtgattgaattt
+            aaatgtctttaa
+///

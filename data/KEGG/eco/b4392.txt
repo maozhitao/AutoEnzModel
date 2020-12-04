@@ -1,0 +1,77 @@
+ENTRY       b4392             CDS       T00007
+NAME        slt
+DEFINITION  (RefSeq) soluble lytic murein transglycosylase
+ORTHOLOGY   K08309  soluble lytic murein transglycosylase [EC:4.2.2.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01011 Peptidoglycan biosynthesis and degradation proteins [BR:eco01011]
+                b4392 (slt)
+            Enzymes [BR:eco01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.2  Acting on polysaccharides
+                4.2.2.-  
+                 b4392 (slt)
+            Peptidoglycan biosynthesis and degradation proteins [BR:eco01011]
+             Peptidoglycan biosynthesis and degradation
+              Lytic transglycosylase
+               b4392 (slt)
+POSITION    4630733..4632670
+MOTIF       Pfam: SLT SLT_L Cucumo_coat TPR_19
+DBLINKS     NCBI-GeneID: 948908
+            NCBI-ProteinID: NP_418809
+            Pasteur: slt
+            RegulonDB: ECK120000939
+            ECOCYC: EG10950
+            ASAP: ABE-0014404
+            UniProt: P0AGC3
+STRUCTURE   PDB: 1QSA 1QTE 1SLY
+AASEQ       645
+            MEKAKQVTWRLLAAGVCLLTVSSVARADSLDEQRSRYAQIKQAWDNRQMDVVEQMMPGLK
+            DYPLYPYLEYRQITDDLMNQPAVTVTNFVRANPTLPPARTLQSRFVNELARREDWRGLLA
+            FSPEKPGTTEAQCNYYYAKWNTGQSEEAWQGAKELWLTGKSQPNACDKLFSVWRASGKQD
+            PLAYLERIRLAMKAGNTGLVTVLAGQMPADYQTIASAIISLANNPNTVLTFARTTGATDF
+            TRQMAAVAFASVARQDAENARLMIPSLAQAQQLNEDQIQELRDIVAWRLMGNDVTDEQAK
+            WRDDAIMRSQSTSLIERRVRMALGTGDRRGLNTWLARLPMEAKEKDEWRYWQADLLLERG
+            REAEAKEILHQLMQQRGFYPMVAAQRIGEEYELKIDKAPQNVDSALTQGPEMARVRELMY
+            WNLDNTARSEWANLVKSKSKTEQAQLARYAFNNQWWDLSVQATIAGKLWDHLEERFPLAY
+            NDLFKRYTSGKEIPQSYAMAIARQESAWNPKVKSPVGASGLMQIMPGTATHTVKMFSIPG
+            YSSPGQLLDPETNINIGTSYLQYVYQQFGNNRIFSSAAYNAGPGRVRTWLGNSAGRIDAV
+            AFVESIPFSETRGYVKNVLAYDAYYRYFMGDKPTLMSATEWGRRY
+NTSEQ       1938
+            gtggaaaaagccaaacaagttacctggcggctgttggctgccggtgtctgtctgctgacg
+            gtcagcagcgtggcgcgagccgactcactggatgagcagcgtagtcgttacgcgcaaatc
+            aagcaggcctgggataatcgacaaatggatgtggtcgaacaaatgatgcctggactgaag
+            gattatccgctttatccctacctggaataccgccagatcaccgatgatctgatgaatcaa
+            ccggcggtgacggtcactaactttgttcgcgctaaccccacgcttcctcccgctcgcacg
+            ctgcaatctcgtttcgtcaatgaactggcgcggcgtgaagactggcgtggcttgttagcc
+            tttagcccggaaaagcccggaactaccgaagcgcaatgtaattactactatgcgaaatgg
+            aacaccgggcagagtgaagaagcctggcaaggggcgaaagagctgtggctaaccggcaag
+            agccagcctaacgcctgtgacaagttatttagcgtctggcgtgcgtcaggtaaacaagat
+            ccgctggcgtatttagagcgtatccgtctggcgatgaaagcgggtaacacaggcctggta
+            acagtgctggcagggcagatgcctgccgattaccagactatcgcctcggcaatcatttca
+            ctggcgaacaaccctaatacggtactgaccttcgcgcgtacaactggcgcgaccgatttt
+            acccgtcaaatggcggcggtggcgtttgccagtgtggcgcggcaggatgctgagaatgca
+            cggctgatgatcccatcgcttgcccaggcgcagcagcttaatgaagatcagattcaggag
+            ctgcgcgatatcgtcgcctggcgtttgatgggcaacgatgtcaccgacgagcaggcgaaa
+            tggcgcgatgacgccattatgcgctcgcaatctacttcgcttattgaacgccgtgtacga
+            atggcgcttggcaccggcgatcgtcgcggcctgaatacctggctggcgcgtctgcctatg
+            gaagcgaaagagaaagatgaatggcgttactggcaggcggatttattgctggaacgcgga
+            cgtgaagctgaagcaaaagagattttgcatcaactcatgcaacagcgtggtttctacccg
+            atggttgcagcacaacgcatcggcgaagagtatgagctgaagattgataaagcgccgcag
+            aatgttgacagcgccctgactcaggggccggagatggcgcgcgtgcgcgagttgatgtac
+            tggaatctcgataataccgcgcgtagcgagtgggccaatctggtgaagagcaagtcaaaa
+            acagagcaggctcaactggcgcggtatgctttcaacaaccaatggtgggatcttagcgtt
+            caggcaacgatcgccgggaagctgtgggatcatctggaagagcgattcccgctggcttac
+            aacgatcttttcaaacgctacaccagcggtaaggagatcccgcaaagctatgcgatggcg
+            attgctcgtcaggagagcgcctggaatccgaaagtgaaatcaccggtaggggccagcggc
+            ttgatgcagattatgcctggtacagcgacccatacggtgaagatgttctctattcccggt
+            tatagcagtcctgggcaattgctggatccggaaacgaatatcaacattggcaccagttac
+            ctgcaatatgtttatcagcagtttggcaataatcgtattttctcctcagcagcttataac
+            gccggaccagggcgggtgcgaacctggcttggcaacagcgccgggcgtatcgacgcagtg
+            gcatttgtcgagagtattccattctccgagacgcgcggttatgtgaagaacgtgctggct
+            tatgacgcttactaccgctatttcatgggggataaaccgacgttgatgagcgccacggaa
+            tggggacgtcgttactga
+///

@@ -1,0 +1,56 @@
+ENTRY       b4105             CDS       T00007
+NAME        phnD
+DEFINITION  (RefSeq) phosphonate ABC transporter periplasmic binding protein
+ORTHOLOGY   K02044  phosphonate transport system substrate-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b4105 (phnD)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b4105 (phnD)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Phosphate and amino acid transporters
+               Phosphonate transporter
+                b4105 (phnD)
+POSITION    complement(4323336..4324352)
+MOTIF       Pfam: Phosphonate-bd SBP_bac_3 YukC NMT1_3
+DBLINKS     NCBI-GeneID: 948624
+            NCBI-ProteinID: NP_418529
+            Pasteur: phnD
+            RegulonDB: ECK120000706
+            ECOCYC: EG10714
+            ASAP: ABE-0013442
+            UniProt: P16682
+STRUCTURE   PDB: 3P7I 3QUJ 3QK6 3S4U
+AASEQ       338
+            MNAKIIASLAFTSMFSLSTLLSPAHAEEQEKALNFGIISTESQQNLKPQWTPFLQDMEKK
+            LGVKVNAFFAPDYAGIIQGMRFNKVDIAWYGNLSAMEAVDRANGQVFAQTVAADGSPGYW
+            SVLIVNKDSPINNLNDLLAKRKDLTFGNGDPNSTSGFLVPGYYVFAKNNISASDFKRTVN
+            AGHETNALAVANKQVDVATNNTENLDKLKTSAPEKLKELKVIWKSPLIPGDPIVWRKNLS
+            ETTKDKIYDFFMNYGKTPEEKAVLERLGWAPFRASSDLQLVPIRQLALFKEMQGVKSNKG
+            LNEQDKLAKTTEIQAQLDDLDRLNNALSAMSSVSKAVQ
+NTSEQ       1017
+            atgaacgctaagataattgcctcgctggccttcaccagcatgttcagcctcagcaccctg
+            ttaagcccggcgcacgccgaagagcaggaaaaggcgttgaatttcggcattatttcaacg
+            gaatcacagcaaaacctgaaaccgcaatggacgccgttcttgcaggatatggagaagaag
+            ctgggcgtgaaggtcaacgccttctttgccccggactacgcgggcattatccaggggatg
+            cgcttcaataaagtggatatcgcctggtacggcaatctgtcggcgatggaagcggtggat
+            cgcgccaatggccaggtcttcgcccagacggtcgcggcggatggatcgccgggttactgg
+            agcgtgttgatcgtcaacaaagacagtccgatcaacaacctgaacgatctgctggcgaag
+            cggaaagatctcacctttggcaatggcgatcctaactccacctctggcttcctcgtcccc
+            ggctactacgtcttcgccaaaaacaatatctccgccagcgacttcaagcgcaccgtcaac
+            gccgggcatgaaaccaacgcgctggccgtcgccaacaagcaggtggatgttgccaccaac
+            aacaccgaaaacctcgacaagctgaaaacctccgcgccagagaagctgaaagaactgaag
+            gtgatctggaagtcgccgctgatcccaggcgatccgatcgtctggcgcaagaatctttcc
+            gaaaccaccaaagacaagatctacgacttctttatgaactacggcaaaacgccggaagaa
+            aaagcggtgctggaacgcctgggctgggcgccattccgcgcttccagcgacctgcaactg
+            gtgccgattcgccagctcgcgctgtttaaagagatgcagggcgtgaaaagcaataaagga
+            ctgaatgagcaggacaagctggcaaaaaccaccgagattcaggcgcagctggatgacctg
+            gaccgcctgaacaacgcgctaagcgcgatgagttcggtgagtaaagcggtgcagtaa
+///

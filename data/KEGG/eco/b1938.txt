@@ -1,0 +1,76 @@
+ENTRY       b1938             CDS       T00007
+NAME        fliF
+DEFINITION  (RefSeq) flagellar basal-body MS-ring and collar protein
+ORTHOLOGY   K02409  flagellar M-ring protein FliF
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1938 (fliF)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b1938 (fliF)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1938 (fliF)
+            Secretion system [BR:eco02044]
+             Type III secretion system
+              Flagellar export apparatus
+               b1938 (fliF)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               M,S,P and L rings
+                b1938 (fliF)
+POSITION    2013229..2014887
+MOTIF       Pfam: YscJ_FliF YscJ_FliF_C Mt_ATP-synt_B
+DBLINKS     NCBI-GeneID: 946448
+            NCBI-ProteinID: NP_416448
+            Pasteur: fliF
+            RegulonDB: ECK120001318
+            ECOCYC: EG11347
+            ASAP: ABE-0006454
+            UniProt: P25798
+AASEQ       552
+            MNATAAQTKSLEWLNRLRANPKIPLIVAGSAAVAVMVALILWAKAPDYRTLFSNLSDQDG
+            GAIVSQLTQMNIPYRFSEASGAIEVPADKVHELRLRLAQQGLPKGGAVGFELLDQEKFGI
+            SQFSEQVNYQRALEGELSRTIETIGPVKGARVHLAMPKPSLFVREQKSPSASVTVNLLPG
+            RALDEGQISAIVHLVSSAVAGLPPGNVTLVDQGGHLLTQSNTSGRDLNDAQLKYASDVEG
+            RIQRRIEAILSPIVGNGNIHAQVTAQLDFASKEQTEEQYRPNGDESHAALRSRQLNESEQ
+            SGSGYPGGVPGALSNQPAPANNAPISTPPANQNNRQQQASTTSNSGPRSTQRNETSNYEV
+            DRTIRHTKMNVGDVQRLSVAVVVNYKTLPDGKPLPLSNEQMKQIEDLTREAMGFSEKRGD
+            SLNVVNSPFNSSDESGGELPFWQQQAFIDQLLAAGRWLLVLLVAWLLWRKAVRPQLTRRA
+            EAMKAVQQQAQAREEVEDAVEVRLSKDEQLQQRRANQRLGAEVMSQRIREMSDNDPRVVA
+            LVIRQWINNDHE
+NTSEQ       1659
+            atgaatgcgactgcagcccagacaaaatctcttgagtggcttaatcgcctgcgtgcgaat
+            ccgaaaattccattgattgttgccggttccgcggcagtggcggtcatggtcgcactgatc
+            ctgtgggcgaaagcccccgactaccgcacattattcagcaatctttccgatcaggatggt
+            ggcgcaattgtcagccaactgacgcaaatgaatattccttaccgcttcagcgaagccagc
+            ggcgctattgaagttccggcagataaagttcacgaactgcgtctgcgcctggcacaacaa
+            ggtttgccaaaaggcggcgcggtcggtttcgaactgcttgatcaggaaaagtttggtatc
+            agccagttcagcgaacaggtgaattatcagcgggcgctggaaggcgagctttctcgtacc
+            atcgaaactatcggcccggtaaaaggggcgcgcgtacatctggcaatgccgaaaccgtct
+            ttattcgtccgtgaacaaaaatccccttctgcatcggtgacggtaaatctgttacccggc
+            cgcgcactcgatgaagggcaaattagcgccattgtgcatctggtttccagcgccgttgct
+            ggtctgccgccgggaaacgtcacgctggtggatcagggcggacatctgttaacccagtcc
+            aataccagcgggcgcgatcttaatgacgctcagttgaaatatgccagcgatgtcgaaggc
+            cgtattcagcggcgtattgaagcgatcctgtcgcctattgttggtaacggtaatattcac
+            gcccaggttacggcgcagctggacttcgccagtaaagaacaaacggaagaacagtatcgc
+            cctaacggtgatgaatctcatgcggcgcttcgttcacgccagcttaatgagagcgagcaa
+            agcggttccggttatccgggcggcgtaccgggggcgttgtcgaatcaaccggcacctgcg
+            aataacgcgccaatcagcacgcctccggcaaatcaaaataaccgccagcagcaggcgagc
+            accaccagcaatagtgggccgcgtagcacacagcggaatgaaaccagtaactacgaagtc
+            gatcgcaccattcgtcataccaaaatgaacgtgggcgatgtgcaacgtctgtcagtcgcg
+            gtcgtggtgaattacaaaaccttgccagatggcaaaccgttgcctctcagcaacgaacag
+            atgaagcaaattgaagatctgacccgcgaggcgatgggcttttctgaaaaacgcggtgac
+            tcgctcaatgtcgttaactcgccgttcaatagcagtgacgaaagcggcggagaactgcca
+            ttctggcaacagcaagcgtttatcgatcagttacttgctgccggtcgctggttgctggta
+            ctgctggtggcgtggctgctgtggcggaaagcggtacgtccgcagctaacacgtcgcgct
+            gaggcgatgaaagctgtacagcaacaggcgcaggcccgcgaggaagtggaagatgcggtg
+            gaagtccgcctgagcaaagacgaacaactacaacaacggcgcgctaaccaacgtctgggg
+            gcagaagtcatgagccagcgtatccgtgaaatgtctgataacgatccgcgcgtggtggcg
+            ctggtcattcgccagtggataaataacgatcatgagtaa
+///

@@ -1,0 +1,55 @@
+ENTRY       b3540             CDS       T00007
+NAME        dppF
+DEFINITION  (RefSeq) dipeptide ABC transporter ATP binding subunit DppF
+ORTHOLOGY   K12372  dipeptide transport system ATP-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b3540 (dppF)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3540 (dppF)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Peptide and nickel transporters
+               Dipeptide transporter
+                b3540 (dppF)
+POSITION    complement(3701864..3702868)
+MOTIF       Pfam: ABC_tran oligo_HPY SMC_N RsgA_GTPase AAA_22 AAA_16 AAA_29 IstB_IS21 AAA_23 ATPase
+DBLINKS     NCBI-GeneID: 948056
+            NCBI-ProteinID: NP_417997
+            Pasteur: dppF
+            RegulonDB: ECK120002340
+            ECOCYC: EG12628
+            ASAP: ABE-0011564
+            UniProt: P37313
+AASEQ       334
+            MSTQEATLQQPLLQAIDLKKHYPVKKGMFAPERLVKALDGVSFNLERGKTLAVVGESGCG
+            KSTLGRLLTMIEMPTGGELYYQGQDLLKHDPQAQKLRRQKIQIVFQNPYGSLNPRKKVGQ
+            ILEEPLLINTSLSKEQRREKALSMMAKVGLKTEHYDRYPHMFSGGQRQRIAIARGLMLDP
+            DVVIADEPVSALDVSVRAQVLNLMMDLQQELGLSYVFISHDLSVVEHIADEVMVMYLGRC
+            VEKGTKDQIFNNPRHPYTQALLSATPRLNPDDRRERIKLSGELPSPLNPPPGCAFNARCR
+            RRFGPCTQLQPQLKDYGGQLVACFAVDQDENPQR
+NTSEQ       1005
+            atgagtacgcaagaggccaccctgcaacaaccgctgttgcaggctatcgacctgaaaaaa
+            cattatccggtgaagaaaggcatgttcgcgccggaacgtctggttaaagcgctggatggc
+            gtttcgtttaaccttgaacgtggcaaaacgctggcagtagtgggcgaatctggctgcggt
+            aaatcgaccctcggtcggttgctgacgatgattgaaatgcccaccggtggcgagctgtat
+            taccaggggcaggatctgcttaagcacgatccgcaggcgcagaagctgcgtcggcagaaa
+            atccagatcgtcttccagaacccttacggttcgctgaatccgcgtaaaaaagtcgggcaa
+            attcttgaagagccgctgctgatcaacaccagcttaagcaaagaacagcgtcgggaaaaa
+            gccctgtcgatgatggcgaaagtcggcctgaaaaccgagcactatgaccgctatccgcat
+            atgttctccggcggtcagcgtcagcgtatcgccatcgcccgtggtctgatgctcgacccg
+            gatgtggtgattgccgatgaaccggtttccgcgctggatgtttcagtgcgcgcgcaggtg
+            ctgaatctgatgatggatttgcagcaggagttggggctgtcttatgtctttatctcccac
+            gacctgtcggtggtggagcacattgctgatgaagtgatggtgatgtacctgggccgctgc
+            gtggagaagggaacgaaagaccaaatcttcaataacccgcgccatccgtacactcaggcg
+            ctactttccgcgacgccgcgcctgaacccggacgatcgccgcgagcgcatcaagctcagc
+            ggtgaactaccaagcccactgaatccaccgccgggttgcgccttcaacgcccgctgtcgt
+            cggcgcttcggcccctgcacccagttgcagccgcagctaaaagactacggcggtcaactg
+            gtagcttgttttgctgttgatcaggatgaaaatccgcagcgttaa
+///

@@ -1,0 +1,102 @@
+ENTRY       b2114             CDS       T00007
+NAME        metG
+DEFINITION  (RefSeq) methionine--tRNA ligase
+ORTHOLOGY   K01874  methionyl-tRNA synthetase [EC:6.1.1.10]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00450  Selenocompound metabolism
+            eco00970  Aminoacyl-tRNA biosynthesis
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09106 Metabolism of other amino acids
+               00450 Selenocompound metabolism
+                b2114 (metG)
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                b2114 (metG)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:eco01007]
+                b2114 (metG)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b2114 (metG)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.10  methionine---tRNA ligase
+                 b2114 (metG)
+            Amino acid related enzymes [BR:eco01007]
+             Aminoacyl-tRNA synthetase
+              Class I (U)
+               b2114 (metG)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Multi-aminoacyl-tRNA synthetase complex (MSC)
+                b2114 (metG)
+             Prokaryotic type
+               Other AARSs
+                b2114 (metG)
+POSITION    2194300..2196333
+MOTIF       Pfam: tRNA-synt_1g tRNA_bind tRNA-synt_1 tRNA-synt_1e tRNA-synt_1f Anticodon_1
+DBLINKS     NCBI-GeneID: 946643
+            NCBI-ProteinID: NP_416617
+            Pasteur: metG
+            RegulonDB: ECK120000579
+            ECOCYC: EG10586
+            ASAP: ABE-0006991
+            UniProt: P00959
+STRUCTURE   PDB: 3H99 3H9C 3H9B 3H97 1PFV 1PG2 1PFW 1P7P 1F4L 1PG0 1PFU
+                 1PFY 1QQT 1MEA 1MED
+AASEQ       677
+            MTQVAKKILVTCALPYANGSIHLGHMLEHIQADVWVRYQRMRGHEVNFICADDAHGTPIM
+            LKAQQLGITPEQMIGEMSQEHQTDFAGFNISYDNYHSTHSEENRQLSELIYSRLKENGFI
+            KNRTISQLYDPEKGMFLPDRFVKGTCPKCKSPDQYGDNCEVCGATYSPTELIEPKSVVSG
+            ATPVMRDSEHFFFDLPSFSEMLQAWTRSGALQEQVANKMQEWFESGLQQWDISRDAPYFG
+            FEIPNAPGKYFYVWLDAPIGYMGSFKNLCDKRGDSVSFDEYWKKDSTAELYHFIGKDIVY
+            FHSLFWPAMLEGSNFRKPSNLFVHGYVTVNGAKMSKSRGTFIKASTWLNHFDADSLRYYY
+            TAKLSSRIDDIDLNLEDFVQRVNADIVNKVVNLASRNAGFINKRFDGVLASELADPQLYK
+            TFTDAAEVIGEAWESREFGKAVREIMALADLANRYVDEQAPWVVAKQEGRDADLQAICSM
+            GINLFRVLMTYLKPVLPKLTERAEAFLNTELTWDGIQQPLLGHKVNPFKALYNRIDMRQV
+            EALVEASKEEVKAAAAPVTGPLADDPIQETITFDDFAKVDLRVALIENAEFVEGSDKLLR
+            LTLDLGGEKRNVFSGIRSAYPDPQALIGRHTIMVANLAPRKMRFGISEGMVMAAGPGGKD
+            IFLLSPDAGAKPGHQVK
+NTSEQ       2034
+            atgactcaagtcgcgaagaaaattctggtgacgtgcgcactgccgtacgctaacggctca
+            atccacctcggccatatgctggagcacatccaggctgatgtctgggtccgttaccagcga
+            atgcgcggccacgaggtcaacttcatctgcgccgacgatgcccacggtacaccgatcatg
+            ctgaaagctcagcagcttggtatcaccccggagcagatgattggcgaaatgagtcaggag
+            catcagactgatttcgcaggctttaacatcagctatgacaactatcactcgacgcacagc
+            gaagagaaccgccagttgtcagaacttatctactctcgcctgaaagaaaacggttttatt
+            aaaaaccgcaccatctctcagctgtacgatccggaaaaaggcatgttcctgccggaccgt
+            tttgtgaaaggcacctgcccgaaatgtaaatccccggatcaatacggcgataactgcgaa
+            gtctgcggcgcgacctacagcccgactgaactgatcgagccgaaatcggtggtttctggc
+            gctacgccggtaatgcgtgattctgaacacttcttctttgatctgccctctttcagcgaa
+            atgttgcaggcatggacccgcagcggtgcgttgcaggagcaggtggcaaataaaatgcag
+            gagtggtttgaatctggcctgcaacagtgggatatctcccgcgacgccccttacttcggt
+            tttgaaattccgaacgcgccgggcaaatatttctacgtctggctggacgcaccgattggc
+            tacatgggttctttcaagaatctgtgcgacaagcgcggcgacagcgtaagcttcgatgaa
+            tactggaagaaagactccaccgccgagctgtaccacttcatcggtaaagatattgtttac
+            ttccacagcctgttctggcctgccatgctggaaggcagcaacttccgcaagccgtccaac
+            ctgtttgttcatggctatgtgacggtgaacggcgcaaagatgtccaagtctcgcggcacc
+            tttattaaagccagcacctggctgaatcattttgacgcagacagcctgcgttactactac
+            actgcgaaactctcttcgcgcattgatgatatcgatctcaacctggaagatttcgttcag
+            cgtgtgaatgccgatatcgttaacaaagtggttaacctggcctcccgtaatgcgggcttt
+            atcaacaagcgttttgacggcgtgctggcaagcgaactggctgacccgcagttgtacaaa
+            accttcactgatgccgctgaagtgattggtgaagcgtgggaaagccgtgaatttggtaaa
+            gccgtgcgcgaaatcatggcgctggctgatctggctaaccgctatgtcgatgaacaggct
+            ccgtgggtggtggcgaaacaggaaggccgcgatgccgacctgcaggcaatttgctcaatg
+            ggcatcaacctgttccgcgtgctgatgacttacctgaagccggtactgccgaaactgacc
+            gagcgtgcagaagcattcctcaatacggaactgacctgggatggtatccagcaaccgctg
+            ctgggccacaaagtgaatccgttcaaggcgctgtataaccgcatcgatatgaggcaggtt
+            gaagcactggtggaagcctctaaagaagaagtaaaagccgctgccgcgccggtaactggc
+            ccgctggcagatgatccgattcaggaaaccatcacctttgacgacttcgctaaagttgac
+            ctgcgcgtggcgctgattgaaaacgcagagtttgttgaaggttctgacaaactgctgcgc
+            ctgacgctggatctcggcggtgaaaaacgcaatgtcttctccggtattcgttctgcttac
+            ccggatccgcaggcactgattggtcgtcacaccattatggtggctaacctggcaccacgt
+            aaaatgcgcttcggtatctctgaaggcatggtgatggctgccggtcctggcgggaaagat
+            attttcctgctaagcccggatgccggtgctaaaccgggtcatcaggtgaaataa
+///

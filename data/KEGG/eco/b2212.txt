@@ -1,0 +1,52 @@
+ENTRY       b2212             CDS       T00007
+NAME        alkB
+DEFINITION  (RefSeq) DNA oxidative demethylase
+ORTHOLOGY   K03919  DNA oxidative demethylase [EC:1.14.11.33]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2212 (alkB)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.11  With 2-oxoglutarate as one donor, and incorporation of one atom of oxygen into each donor
+                1.14.11.33  DNA oxidative demethylase
+                 b2212 (alkB)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               Direct repair
+                b2212 (alkB)
+POSITION    complement(2308691..2309341)
+MOTIF       Pfam: 2OG-FeII_Oxy_2
+DBLINKS     NCBI-GeneID: 946708
+            NCBI-ProteinID: NP_416716
+            Pasteur: alkB
+            RegulonDB: ECK120000034
+            ECOCYC: EG10037
+            ASAP: ABE-0007308
+            UniProt: P05050
+STRUCTURE   PDB: 4JHT 4ZHN 4NIH 3I3Q 3O1T 4RFR 3I3M 3O1P 4NIG 3O1U 4NID
+                 3O1S 3I49 4NII 3T4H 3BKZ 3BIE 3I2O 3T4V 3O1M 3O1R 2FDI
+                 3O1V 3BI3 3O1O 3T3Y 2FDH 2FDJ 2FDF 3KHC 2FDG 2FDK 2FD8
+                 3KHB
+AASEQ       216
+            MLDLFADAEPWQEPLAAGAVILRRFAFNAAEQLIRDINDVASQSPFRQMVTPGGYTMSVA
+            MTNCGHLGWTTHRQGYLYSPIDPQTNKPWPAMPQSFHNLCQRAATAAGYPDFQPDACLIN
+            RYAPGAKLSLHQDKDEPDLRAPIVSVSLGLPAIFQFGGLKRNDPLKRLLLEHGDVVVWGG
+            ESRLFYHGIQPLKAGFHPLTIDCRYNLTFRQAGKKE
+NTSEQ       651
+            atgttggatctgtttgccgatgctgaaccgtggcaagagccactggcggctggtgcggta
+            attttacggcgttttgcttttaacgctgcggagcaactgatccgcgatattaatgacgtt
+            gccagccagtcgccgtttcgccagatggtcacccccgggggatataccatgtcggtggcg
+            atgaccaactgtgggcatctgggctggacgacccatcggcaaggttatctctattcgccc
+            attgatccgcaaacaaataaaccgtggcccgccatgccacagagttttcataatttatgt
+            caacgtgcggctacggcggcgggctatccagatttccagccagatgcttgtcttatcaac
+            cgctacgctcctggcgcgaaactgtcgctgcatcaggataaagacgaaccggatctgcgc
+            gcgccaattgtttctgtttctctgggcttacccgcgatttttcaatttggcggcctgaaa
+            cgaaatgatccgctcaaacgtttgttgttggaacatggcgatgtggtggtatggggcggt
+            gaatcgcggctgttttatcacggtattcaaccgttgaaagcggggtttcatccactcacc
+            atcgactgccgctacaacctgacattccgtcaggcaggtaaaaaagaataa
+///

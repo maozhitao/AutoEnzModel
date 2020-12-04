@@ -1,0 +1,42 @@
+ENTRY       b0796             CDS       T00007
+NAME        cecR
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator CecR
+ORTHOLOGY   K23777  TetR/AcrR family transcriptional regulator, regulator of cefoperazone and chloramphenicol sensitivity
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0796 (cecR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               TetR/AcrR family
+                b0796 (cecR)
+POSITION    complement(829972..830643)
+MOTIF       Pfam: CecR_C TetR_N Metal_resist
+DBLINKS     NCBI-GeneID: 945421
+            NCBI-ProteinID: NP_415317
+            Pasteur: ybiH
+            RegulonDB: ECK120002268
+            ASAP: ABE-0002711
+            UniProt: P0ACU0
+AASEQ       223
+            MNNPAMTIKGEQAKKQLIAAALAQFGEYGMNATTREIAAQAGQNIAAITYYFGSKEDLYL
+            ACAQWIADFIGEQFRPHAEEAERLFAQPQPDRAAIRELILRACRNMIKLLTQDDTVNLSK
+            FISREQLSPTAAYHLVHEQVISPLHSHLTRLIAAWTGCDANDTRMILHTHALIGEILAFR
+            LGKETILLRTGWTAFDEEKTELINQTVTCHIDLILQGLSQRSL
+NTSEQ       672
+            atgaataatcctgccatgacaatcaagggtgaacaggcgaaaaaacagctgattgctgcc
+            gcactggcgcagtttggtgaatatggaatgaacgccaccactcgcgagatagccgcccag
+            gccgggcagaatatcgctgccatcacctactacttcggttcgaaagaagatttgtacctc
+            gcctgcgcccagtggattgccgattttattggcgagcagttccgtccgcatgccgaggaa
+            gccgaacgcttgttcgcgcaaccacagcctgatcgggctgccatccgtgaactgatcctt
+            cgcgcctgcaggaacatgattaagctgctcacccaggatgacaccgtcaacctcagcaag
+            tttatctcccgtgagcagctctctcccacggcagcctaccacctggtgcacgaacaggtg
+            attagtccgctacacagccacctgacacgcctgattgccgcctggaccggctgcgacgcc
+            aatgacacccgcatgatccttcatacccatgcgttgattggtgagattctggcgttccgt
+            cttggcaaagaaacaattctgttacgtaccggctggaccgcgttcgatgaagaaaagacc
+            gaactgatcaaccagacggtgacctgtcatatcgacctgattttgcaaggattatcgcaa
+            aggagtttgtag
+///

@@ -1,0 +1,42 @@
+ENTRY       b1756             CDS       T00007
+NAME        ynjD
+DEFINITION  (RefSeq) putative ABC transporter ATP-binding protein YnjD
+ORTHOLOGY   K05779  putative thiamine transport system ATP-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1756 (ynjD)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Mineral and organic ion transporters
+               Putative thiamine transporter
+                b1756 (ynjD)
+POSITION    1838747..1839400
+MOTIF       Pfam: ABC_tran AAA_21 AAA_16 AAA_29 AAA_25 RsgA_GTPase SbcCD_C AAA_22 RNA_helicase Rad17 NACHT AAA_33 AAA_23 NB-ARC MMR_HSR1
+DBLINKS     NCBI-GeneID: 944965
+            NCBI-ProteinID: NP_416270
+            Pasteur: ynjD
+            RegulonDB: ECK120003539
+            ECOCYC: G6951
+            ASAP: ABE-0005845
+            UniProt: P76909
+AASEQ       217
+            MLCVKNVSLRLPESRLLTNVNFTVDKGDIVTLMGPSGCGKSTLFSWMIGALAEQFSCTGE
+            LWLNEQRIDILPTAQRQIGILFQDALLFDQFSVGQNLLLALPATLKGNARRNAVNDALER
+            SGLEGAFHQDPATLSGGQRARVALLRALLAQPKALLLDEPFSRLDVALRDNFRQWVFSEV
+            RALAIPVVQVTHDLQDVPADSSVLDMAQWSENYNKLR
+NTSEQ       654
+            atgctctgcgtgaaaaatgtttcgctacgtttaccagaaagccgcttgctgacaaacgtt
+            aactttacggtggataaaggtgacattgtcacgttaatggggccgtctggctgtggaaaa
+            tccactctgttttcatggatgattggtgcactggccgaacagttttcttgtacaggtgag
+            ctatggctcaatgagcaacggattgacatcctacccaccgcacagcgtcagattggcatt
+            ctttttcaggatgcactgttatttgaccagttcagtgtcgggcaaaatttactgctggcg
+            ctaccggcgacacttaaagggaatgcccgacgtaatgccgtgaatgatgcacttgagcgt
+            tcaggccttgagggagctttccatcaggatcctgccactttgtctggcggtcagcgagcg
+            cgcgttgctctactacgcgcccttctcgcccaaccaaaagcgttactcctggatgagcca
+            ttcagccgtcttgatgtggctctgcgcgataattttcgccagtgggtgttcagcgaagtt
+            cgcgccctggcgatccccgtcgttcaggtaacgcacgatctccaggatgttcctgctgat
+            agttctgttctggatatggcgcagtggtcagaaaattacaacaaactgcgataa
+///

@@ -1,0 +1,73 @@
+ENTRY       b2491             CDS       T00007
+NAME        hyfR
+DEFINITION  (RefSeq) DNA-binding transcriptional activator HyfR
+ORTHOLOGY   K12146  hydrogenase-4 transcriptional activator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b2491 (hyfR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               Other families
+                b2491 (hyfR)
+POSITION    2611900..2613912
+MOTIF       Pfam: Sigma54_activat Sigma54_activ_2 GAF GAF_2 AAA_5 AAA Mg_chelatase GAF_3 HTH_8 MCM AAA_7 AAA_30 T2SSE AAA_22 IstB_IS21 AAA_16 AAA_3 ResIII AAA_2 HTH_50 Parvo_NS1
+DBLINKS     NCBI-GeneID: 948886
+            NCBI-ProteinID: NP_416986
+            Pasteur: hyfR
+            RegulonDB: ECK120003880
+            ECOCYC: G7308
+            ASAP: ABE-0008204
+            UniProt: P71229
+AASEQ       670
+            MAMSDEAMFAPPQGITIEAVNGMLAERLAQKHGKASLLRAFIPLPPPFSPVQLIELHVLK
+            SNFYYRYHDDGSDVTATTEYQGEMVDYSRHAVLLGSSGMAELRFIRTHGSRFTSQDCTLF
+            NWLARIITPVLQSWLNDEEQQVALRLLEKDRDHHRVLVDITNAVLSHLDLDDLIADVARE
+            IHHFFGLASVSMVLGDHRKNEKFSLWCSDLSASHCACLPRCMPGESVLLTQTLQTRQPTL
+            THRADDLFLWQRDPLLLLLASNGCESALLIPLTFGNHTPGALLLAHTSSTLFSEENCQLL
+            QHIADRIAIAVGNADAWRSMTDLQESLQQENHQLSEQLLSNLGIGDIIYQSQAMEDLLQQ
+            VDIVAKSDSTVLICGETGTGKEVIARAIHQLSPRRDKPLVKINCAAIPASLLESELFGHD
+            KGAFTGAINTHRGRFEIADGGTLFLDEIGDLPLELQPKLLRVLQEREIERLGGSRTIPVN
+            VRVIAATNRDLWQMVEDRQFRSDLFYRLNVFPLELPPLRDRPEDIPLLAKHFTQKMARHM
+            NRAIDAIPTEALRQLMSWDWPGNVRELENVIERAVLLTRGNSLNLHLNVRQSRLLPTLNE
+            DSALRSSMAQLLHPTTPENDEEERQRIVQVLRETNGIVAGPRGAATRLGMKRTTLLSRMQ
+            RLGISVREVL
+NTSEQ       2013
+            atggctatgtcagacgaggcgatgtttgccccgccacaaggaataacaattgaagcggta
+            aacggaatgctcgcggagcggttagcacagaaacacggcaaggcgtctttattacgcgcc
+            ttcatcccgctgccgccgccgttcagcccggtacaacttattgaactgcatgttctcaaa
+            agcaacttctattaccgctaccatgatgatggcagcgatgtgacggcaacaacagagtat
+            cagggcgagatggtcgattattcgcgtcacgccgtccttctcggcagtagtggaatggcg
+            gagctacgctttattcgcacccacggcagtcgttttacttcccaggattgcacactgttt
+            aactggctggcgcggataatcaccccggttctgcaatcatggctcaatgatgaagaacag
+            caggtggcgctgcgtttgctggagaaagatcgcgatcatcatcgggtactggttgatatt
+            actaatgcagtgctgtcacatcttgatctcgacgatctgatcgctgacgtcgctcgtgag
+            atccatcattttttcggtctggcttcagtcagtatggtactgggcgatcatcgaaagaac
+            gagaagttcagcctgtggtgcagcgatctttctgcctcacattgtgcgtgtctgccacgc
+            tgtatgcctggcgaaagtgtattgctgacacaaacgctacaaacccgacaaccgaccttg
+            acgcaccgtgcagatgatctgtttctctggcaacgcgacccgttattactcttacttgca
+            tctaacggctgcgaatctgcgctccttataccgcttacctttggcaaccatacaccgggt
+            gcattgttgctggcgcatacctcttccactctctttagtgaggaaaactgccagctacta
+            caacacatagccgatcgcatcgctattgccgttggcaatgccgatgcctggcgtagcatg
+            accgatttgcaggaaagtttgcagcaagaaaaccaccagcttagcgagcagctcctttcg
+            aatctgggcatcggtgacattatctatcaaagccaggcaatggaagacctgctccagcag
+            gtagatattgtggcgaagagcgacagtacggtgttgatttgtggtgaaaccggaactggc
+            aaagaggtgatcgccagagcgatccatcaacttagcccgcgacgcgacaagccgctggtc
+            aaaatcaactgcgctgccatccccgccagtcttctggaaagtgagttattcggtcatgac
+            aaaggggcgtttactggtgcgattaatacccatcgtggtcgttttgaaattgccgatggc
+            ggcacgttgtttctcgatgaaattggcgatctgccgttagaacttcagcctaaactgctg
+            cgcgtattgcaggagcgggagattgagcgtctcggcgggagtagaacgatcccggtgaat
+            gtcagagtcattgccgccaccaaccgtgatttgtggcaaatggttgaagatcgccagttt
+            cgcagcgatctcttttatcgcctgaatgtcttcccactggaattgccgccgctacgcgac
+            cgtccggaagatatccctcttttagcaaaacatttcacgcaaaaaatggcgcgccatatg
+            aatcgcgcaattgacgccatcccgaccgaggcactacgccagttgatgtcgtgggattgg
+            ccgggcaacgtgcgcgagctggaaaacgtgattgagcgggcggtactgttgactcgtggt
+            aacagtctgaatttacatctaaatgtccgacaaagccgtttactgccgacgctaaatgaa
+            gattcagcgcttcgcagttcaatggcgcagttactgcacccgacgacgccagagaatgac
+            gaagaagaacgtcagcgcattgttcaggtattgcgagaaaccaatggcattgttgccggg
+            ccccgtggcgcagcgacgcgattagggatgaagcgcaccacgctgctgtcacgaatgcag
+            cggctggggatctcggttcgcgaggtgttgtaa
+///

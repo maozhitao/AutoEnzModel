@@ -1,0 +1,63 @@
+ENTRY       b0174             CDS       T00007
+NAME        ispU
+DEFINITION  (RefSeq) undecaprenyl diphosphate synthase
+ORTHOLOGY   K00806  undecaprenyl diphosphate synthase [EC:2.5.1.31]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00550  Peptidoglycan biosynthesis
+            eco00900  Terpenoid backbone biosynthesis
+            eco01110  Biosynthesis of secondary metabolites
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09107 Glycan biosynthesis and metabolism
+               00550 Peptidoglycan biosynthesis
+                b0174 (ispU)
+              09109 Metabolism of terpenoids and polyketides
+               00900 Terpenoid backbone biosynthesis
+                b0174 (ispU)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01006 Prenyltransferases [BR:eco01006]
+                b0174 (ispU)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.31  ditrans,polycis-undecaprenyl-diphosphate synthase [(2E,6E)-farnesyl-diphosphate specific]
+                 b0174 (ispU)
+            Prenyltransferases [BR:eco01006]
+             Terpene biosynthesis
+              Prenyl diphosphate synthase
+               b0174 (ispU)
+POSITION    194903..195664
+MOTIF       Pfam: Prenyltransf
+DBLINKS     NCBI-GeneID: 944874
+            NCBI-ProteinID: NP_414716
+            Pasteur: yaeS
+            RegulonDB: ECK120002712
+            ECOCYC: G6092
+            ASAP: ABE-0000595
+            UniProt: P60472
+STRUCTURE   PDB: 3SGV 3QAS 1UEH 4H2M 1JP3 4H2J 3SH0 3SGT 1X09 2E98 1X06
+                 1X08 4H3C 4H38 4H3A 2E99 2E9C 3WYJ 2E9A 3TH8 4H2O 5CQJ
+                 5ZHE 5CQB 1X07 1V7U 3SGX 2E9D
+AASEQ       253
+            MMLSATQPLSEKLPAHGCRHVAIIMDGNGRWAKKQGKIRAFGHKAGAKSVRRAVSFAANN
+            GIEALTLYAFSSENWNRPAQEVSALMELFVWALDSEVKSLHRHNVRLRIIGDTSRFNSRL
+            QERIRKSEALTAGNTGLTLNIAANYGGRWDIVQGVRQLAEKVQQGNLQPDQIDEEMLNQH
+            VCMHELAPVDLVIRTGGEHRISNFLLWQIAYAELYFTDVLWPDFDEQDFEGALNAFANRE
+            RRFGGTEPGDETA
+NTSEQ       762
+            gtgatgttgtctgctactcaaccacttagcgaaaaattgccagcgcatggctgccgtcat
+            gttgcgatcattatggacggcaatggccgctgggcaaaaaagcaagggaagattcgtgcc
+            tttgggcataaagccggggcaaaatccgtccgccgggctgtctcttttgcggccaacaac
+            ggtattgaggcgttaacgctgtatgcctttagtagtgaaaactggaaccgaccagcgcag
+            gaagtcagtgcgttaatggaactgtttgtgtgggcgctcgatagcgaagtaaaaagtctg
+            caccgacataacgtgcgtctgcgtattattggcgataccagtcgctttaactcgcgtttg
+            caagaacgtattcgtaaatctgaagcgctaacagccgggaataccggtctgacgctgaat
+            attgcggcgaactacggtggacgttgggatatagtccagggagtcaggcaactggctgaa
+            aaggtgcagcaaggaaacctgcaaccagatcagatagatgaagagatgctaaaccagcat
+            gtctgtatgcatgaactggcccctgtagatttagtaattaggactgggggggagcatcgc
+            attagtaactttttgctttggcaaattgcctatgccgaactttactttacagatgttctc
+            tggcccgatttcgatgaacaagactttgaaggggcgttaaatgcctttgctaatcgagag
+            cgtcgtttcggcggcaccgagcccggtgatgaaacagcctga
+///

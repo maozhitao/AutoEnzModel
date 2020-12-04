@@ -1,0 +1,64 @@
+ENTRY       b1860             CDS       T00007
+NAME        ruvB
+DEFINITION  (RefSeq) Holliday junction branch migration complex subunit RuvB
+ORTHOLOGY   K03551  holliday junction DNA helicase RuvB [EC:3.6.4.12]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03440 Homologous recombination
+                b1860 (ruvB)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1860 (ruvB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.12  DNA helicase
+                 b1860 (ruvB)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecBC pathway proteins
+                 b1860 (ruvB)
+                RecFOR pathway proteins
+                 b1860 (ruvB)
+POSITION    complement(1944346..1945356)
+MOTIF       Pfam: RuvB_N AAA_lid_4 RuvB_C AAA AAA_5 AAA_22 Mg_chelatase AAA_3 Rad17 TIP49 AAA_18 AAA_16 AAA_14 NTPase_1 RNA_helicase Bac_DnaA AAA_24 AAA_17 NB-ARC TsaE IstB_IS21 T2SSE AAA_33 ABC_tran Sigma54_activ_2
+DBLINKS     NCBI-GeneID: 946371
+            NCBI-ProteinID: NP_416374
+            Pasteur: ruvB
+            RegulonDB: ECK120004476
+            ECOCYC: RUVB
+            ASAP: ABE-0006204
+            UniProt: P0A812
+AASEQ       336
+            MIEADRLISAGTTLPEDVADRAIRPKLLEEYVGQPQVRSQMEIFIKAAKLRGDALDHLLI
+            FGPPGLGKTTLANIVANEMGVNLRTTSGPVLEKAGDLAAMLTNLEPHDVLFIDEIHRLSP
+            VVEEVLYPAMEDYQLDIMIGEGPAARSIKIDLPPFTLIGATTRAGSLTSPLRDRFGIVQR
+            LEFYQVPDLQYIVSRSARFMGLEMSDDGALEVARRARGTPRIANRLLRRVRDFAEVKHDG
+            TISADIAAQALDMLNVDAEGFDYMDRKLLLAVIDKFFGGPVGLDNLAAAIGEERETIEDV
+            LEPYLIQQGFLQRTPRGRMATTRAWNHFGITPPEMP
+NTSEQ       1011
+            atgattgaagcagaccgtctgatttctgccggtaccactttgccggaagatgtagcagat
+            cgcgccattcgccccaaattactggaagagtatgttggtcagccgcaggttcgttcacag
+            atggagattttcatcaaagcagcgaaactgcgcggcgatgccctcgatcatttgttgatt
+            tttggtcctccggggttgggtaaaactacgcttgccaacattgtcgccaatgaaatgggc
+            gttaatttacgcacgacttctggtccggtgctggaaaaggcgggcgatttggctgcgatg
+            ctcactaaccttgaaccgcatgacgtgctgtttattgatgagatccaccgtctatcgcca
+            gttgttgaagaagtgctgtacccggcaatggaagactaccaactggatatcatgattggt
+            gaaggtccggcggcacgctccattaaaattgatttgccgccgtttaccctgattggtgca
+            accacgcgcgcaggttcgctgacatcaccgttgcgcgaccgttttggtattgtgcaacgt
+            ctggagttttatcaggtgccggatctgcaatatatcgtcagtcgcagcgcacgctttatg
+            gggcttgagatgagtgatgacggcgcgctggaagttgctcgtcgcgctcgcggtacgccg
+            cgcattgccaaccgtctgctgcgtcgagtgcgtgatttcgccgaagtgaagcacgatggc
+            accatctcggcagatatcgctgctcaggcgctggatatgttgaatgtcgatgctgaaggt
+            ttcgattatatggaccgcaaattgttgctggcggtaatcgataagttctttggtggacct
+            gtaggtctggataacctggcggcagccattggcgaagaacgtgaaaccattgaggatgtg
+            ctggaaccttatttgattcagcaaggctttttgcagcgtacaccgcgtgggcgtatggcg
+            acgacgcgggcgtggaatcactttggcataacgccgccagaaatgccgtaa
+///

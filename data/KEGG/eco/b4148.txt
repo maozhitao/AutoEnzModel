@@ -1,0 +1,34 @@
+ENTRY       b4148             CDS       T00007
+NAME        gdx
+DEFINITION  (RefSeq) guanidinium exporter
+ORTHOLOGY   K11741  quaternary ammonium compound-resistance protein SugE
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b4148 (gdx)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b4148 (gdx)
+POSITION    4376875..4377192
+MOTIF       Pfam: Multi_Drug_Res EamA YhhN
+DBLINKS     NCBI-GeneID: 948671
+            NCBI-ProteinID: NP_418572
+            Pasteur: sugE
+            RegulonDB: ECK120001564
+            ECOCYC: EG11616
+            ASAP: ABE-0013588
+            UniProt: P69937
+AASEQ       105
+            MSWIILVIAGLLEVVWAVGLKYTHGFSRLTPSVITVTAMIVSMALLAWAMKSLPVGTAYA
+            VWTGIGAVGAAITGIVLLGESANPMRLASLALIVLGIIGLKLSTH
+NTSEQ       318
+            atgtcctggattatcttagttattgctggtctgctggaagtggtatgggccgttggcctg
+            aaatatacccacggctttagtcgtttgacgccgagtgttattactgtgacggcgatgatt
+            gtcagtatggcgctacttgcctgggcgatgaaatcgttaccagtagggacggcttatgcc
+            gtgtggacgggtattggcgcagtcggcgcggccataaccggcattgtgctgctcggtgag
+            tccgctaacccgatgcgcctggcgagtctggcgttaatcgtattggggattattggtctg
+            aaactcagcactcactaa
+///

@@ -1,0 +1,45 @@
+ENTRY       b4318             CDS       T00007
+NAME        fimF
+DEFINITION  (RefSeq) type 1 fimbriae minor subunit FimF
+ORTHOLOGY   K07348  minor fimbrial subunit
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b4318 (fimF)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b4318 (fimF)
+            Secretion system [BR:eco02044]
+             Chaperone-usher system
+              Type 1 pilus assembly protein
+               b4318 (fimF)
+            Bacterial motility proteins [BR:eco02035]
+             Pilus system
+              Fimbrial proteins
+               b4318 (fimF)
+POSITION    4547742..4548272
+MOTIF       Pfam: Fimbrial FimA
+DBLINKS     NCBI-GeneID: 948845
+            NCBI-ProteinID: NP_418738
+            Pasteur: fimF
+            RegulonDB: ECK120000307
+            ECOCYC: EG10313
+            ASAP: ABE-0014153
+            UniProt: P08189
+STRUCTURE   PDB: 3BWU 3JWN 4J3O 6E14 6E15 2JMR
+AASEQ       176
+            MRNKPFYLLCAFLWLAVSHALAADSTITIRGYVRDNGCSVAAESTNFTVDLMENAAKQFN
+            NIGATTPVVPFRILLSPCGNAVSAVKVGFTGVADSHNANLLALENTVSAASGLGIQLLNE
+            QQNQIPLNAPSSALSWTTLTPGKPNTLNFYARLMATQVPVTAGHINATATFTLEYQ
+NTSEQ       531
+            atgagaaacaaacctttttatcttctgtgcgcttttttgtggctggcggtgagtcacgct
+            ttggctgcggatagcacgattactatccgcggctatgtcagggataacggctgtagtgtg
+            gccgctgaatcaaccaattttactgttgatctgatggaaaacgcggcgaagcaatttaac
+            aacattggcgcgacgactcctgttgttccatttcgtattttgctgtcaccctgtggtaat
+            gccgtttctgccgtaaaggttgggtttactggcgttgcagatagccacaatgccaacctg
+            cttgcacttgaaaatacggtgtcagcggcttcgggactgggaatacagcttctgaatgag
+            cagcaaaatcaaataccccttaatgctccatcgtccgcgctttcgtggacgaccctgacg
+            ccgggtaaaccaaatacgctgaatttttacgcccggctaatggcgacacaggtgcctgtc
+            actgcggggcatatcaatgccacggctaccttcactcttgaatatcagtaa
+///

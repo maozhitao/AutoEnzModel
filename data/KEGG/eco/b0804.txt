@@ -1,0 +1,44 @@
+ENTRY       b0804             CDS       T00007
+NAME        ybiX
+DEFINITION  (RefSeq) PKHD-type hydroxylase YbiX
+ORTHOLOGY   K07336  PKHD-type hydroxylase [EC:1.14.11.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0804 (ybiX)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.11  With 2-oxoglutarate as one donor, and incorporation of one atom of oxygen into each donor
+                1.14.11.-  
+                 b0804 (ybiX)
+POSITION    complement(838530..839207)
+MOTIF       Pfam: PKHD_C 2OG-FeII_Oxy_3 2OG-FeII_Oxy 2OG-FeII_Oxy_5 MOR2-PAG1_N
+DBLINKS     NCBI-GeneID: 947502
+            NCBI-ProteinID: NP_415325
+            Pasteur: ybiX
+            RegulonDB: ECK120003013
+            ECOCYC: G6413
+            ASAP: ABE-0002746
+            UniProt: P75779
+AASEQ       225
+            MMYHIPGVLSPQDVARFREQLEQAEWVDGRVTTGAQGAQVKNNQQVDTRSTLYAALQNEV
+            LNAVNQHALFFAAALPRTLSTPLFNRYQNNETYGFHVDGAVRSHPQNGWMRTDLSATLFL
+            SDPQSYDGGELVVNDTFGQHRVKLPAGDLVLYPSSSLHCVTPVTRGVRVASFMWIQSMIR
+            DDKKRAMLFELDNNIQSLKSRYGESEEILSLLNLYHNLLREWSEI
+NTSEQ       678
+            atgatgtaccacattcccggcgtgttatcgccacaggacgtcgctcgttttcgcgaacaa
+            ctggaacaagccgaatgggtggatggacgcgtcaccaccggcgcacaaggtgcgcaagtt
+            aagaacaatcaacaggtcgacacccgcagcacgttatacgccgccctgcaaaatgaggtg
+            ctgaacgcggttaaccaacatgctttattctttgccgcggccttgccgcgtaccctttcc
+            acgccgctgtttaatcgctatcagaacaatgaaacctatggtttccatgtggatggcgca
+            gtacgcagccatccacaaaacggctggatgcgtactgacctttctgccacgctgttttta
+            agcgatccacaaagctacgacggcggcgaactggtcgttaatgacaccttcggacaacat
+            cgggtaaaactcccggcaggcgatctcgtgttgtatccctccagcagcctgcattgcgtg
+            acacccgtaacccgcggcgtacgagtggcatcatttatgtggatccagtcgatgatccgc
+            gatgataaaaagcgcgccatgctgtttgaactggacaacaatattcagtcgctgaaaagc
+            cgctacggcgaaagtgaagagatcctgtcgctgcttaatctttatcataatctgctgcgg
+            gaatggtcggagatctga
+///

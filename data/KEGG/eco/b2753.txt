@@ -1,0 +1,56 @@
+ENTRY       b2753             CDS       T00007
+NAME        iap
+DEFINITION  (RefSeq) alkaline phosphatase isozyme conversion protein
+ORTHOLOGY   K09612  alkaline phosphatase isozyme conversion protein [EC:3.4.11.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b2753 (iap)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.11  Aminopeptidases
+                3.4.11.-  
+                 b2753 (iap)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M28: aminopeptidase Y family
+               b2753 (iap)
+POSITION    2876581..2877618
+MOTIF       Pfam: Peptidase_M28 Peptidase_M42 Peptidase_M20
+DBLINKS     NCBI-GeneID: 947215
+            NCBI-ProteinID: NP_417233
+            Pasteur: iap
+            RegulonDB: ECK120000481
+            ECOCYC: EG10488
+            ASAP: ABE-0009033
+            UniProt: P10423
+AASEQ       345
+            MFSALRHRTAALALGVCFILPVHASSPKPGDFANTQARHIATFFPGRMTGTPAEMLSADY
+            IRQQFQQMGYRSDIRTFNSRYIYTARDNRKSWHNVTGSTVIAAHEGKAPQQIIIMAHLDT
+            YAPLSDADADANLGGLTLQGMDDNAAGLGVMLELAERLKNTPTEYGIRFVATSGEEEGKL
+            GAENLLKRMSDTEKKNTLLVINLDNLIVGDKLYFNSGVKTPEAVRKLTRDRALAIARSHG
+            IAATTNPGLNKNYPKGTGCCNDAEIFDKAGIAVLSVEATNWNLGNKDGYQQRAKTPAFPA
+            GNSWHDVRLDNHQHIDKALPGRIERRCRDVMRIMLPLVKELAKAS
+NTSEQ       1038
+            atgttttccgcattgcgccaccgtaccgctgccctggcgctcggcgtatgctttattctc
+            cccgtacacgcctcgtcacctaaacctggcgattttgctaatactcaggcacgacatatt
+            gctactttctttccgggacgcatgaccggaactcctgcagaaatgttatctgccgattat
+            attcgccaacagtttcagcaaatgggttatcgcagtgatattcggacatttaatagtcgg
+            tatatttataccgcccgcgataatcgtaagagctggcataacgtgacgggaagtacggtg
+            attgccgctcatgaaggcaaagcgccgcagcagatcatcattatggcgcatctggatact
+            tacgccccgctgagcgatgctgacgccgatgccaatctcggcgggctgacgttacaagga
+            atggatgataacgccgcaggtttaggtgtcatgctggaattggcagaacgcctgaaaaat
+            acgcctaccgagtatggtattcgatttgtggcgaccagcggcgaagaggaagggaaatta
+            ggcgctgagaatttactcaagcggatgagtgacaccgaaaagaaaaatacgctgctggtg
+            attaatctcgataacttaattgttggcgataaattgtatttcaacagcggtgtaaaaacc
+            cctgaggcagtaaggaaattaacgcgcgacagggcgctggcaattgcgcgcagtcacgga
+            atagccgcaacgaccaatccgggtttgaataaaaattatccgaaaggcactgggtgttgt
+            aatgacgcagaaatattcgacaaagcgggcattgctgtactttcggtggaagcgactaac
+            tggaatcttgggaataaggatggttatcagcaacgcgcaaaaacacctgccttcccggcg
+            ggaaatagctggcatgacgtaagactggataatcaccaacatattgataaggctcttcct
+            ggaagaatagaacgtcgctgccgtgacgttatgcggataatgctacctctggtgaaggag
+            ttggcgaaggcgtcttga
+///

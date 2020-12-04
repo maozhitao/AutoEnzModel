@@ -1,0 +1,49 @@
+ENTRY       b3179             CDS       T00007
+NAME        rlmE
+DEFINITION  (RefSeq) 23S rRNA 2'-O-ribose U2552 methyltransferase
+ORTHOLOGY   K02427  23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b3179 (rlmE)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.166  23S rRNA (uridine2552-2'-O)-methyltransferase
+                 b3179 (rlmE)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               23S rRNA modification factors
+                b3179 (rlmE)
+POSITION    complement(3327035..3327664)
+MOTIF       Pfam: FtsJ Reovirus_L2 Methyltr_RsmB-F
+DBLINKS     NCBI-GeneID: 947689
+            NCBI-ProteinID: NP_417646
+            Pasteur: ftsJ
+            RegulonDB: ECK120001463
+            ECOCYC: EG11507
+            ASAP: ABE-0010447
+            UniProt: P0C0R7
+STRUCTURE   PDB: 1EJ0 1EIZ
+AASEQ       209
+            MTGKKRSASSSRWLQEHFSDKYVQQAQKKGLRSRAWFKLDEIQQSDKLFKPGMTVVDLGA
+            APGGWSQYVVTQIGGKGRIIACDLLPMDPIVGVDFLQGDFRDELVMKALLERVGDSKVQV
+            VMSDMAPNMSGTPAVDIPRAMYLVELALEMCRDVLAPGGSFVVKVFQGEGFDEYLREIRS
+            LFTKVKVRKPDSSRARSREVYIVATGRKP
+NTSEQ       630
+            atgacaggtaagaagcgttctgccagctccagccgctggcttcaggaacactttagcgat
+            aaatatgttcaacaggcacagaaaaaggggttacgttcccgtgcctggtttaaacttgat
+            gaaatacagcaaagtgacaaactctttaaaccgggaatgacggttgtcgaccttggtgct
+            gctccgggtggttggtcacaatatgtggtcacccaaattggcggcaaaggccgcatcatc
+            gcttgcgatcttttacctatggatcctatcgttggtgtggactttcttcagggcgatttt
+            cgtgatgaactggtgatgaaagcactgctggagcgcgttggcgacagcaaagtccaggtt
+            gtcatgtccgatatggcaccaaacatgagcggaacaccggcggtggatatcccccgtgcc
+            atgtatctggtggaactggcgctagaaatgtgtcgtgatgtattagcgccaggtggcagt
+            tttgtagtgaaggtgttccagggcgaaggtttcgatgagtatctaagggaaattcgctcc
+            ctgtttacgaaggtcaaagttcgtaagccggactcttctcgtgcacgttcgcgggaagtg
+            tatattgtagcgaccgggcgtaaaccctaa
+///

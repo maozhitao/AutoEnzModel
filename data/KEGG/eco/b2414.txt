@@ -1,0 +1,63 @@
+ENTRY       b2414             CDS       T00007
+NAME        cysK
+DEFINITION  (RefSeq) O-acetylserine sulfhydrylase A
+ORTHOLOGY   K01738  cysteine synthase [EC:2.5.1.47]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00270  Cysteine and methionine metabolism
+            eco00920  Sulfur metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+            eco01120  Microbial metabolism in diverse environments
+            eco01200  Carbon metabolism
+            eco01230  Biosynthesis of amino acids
+MODULE      eco_M00021  Cysteine biosynthesis, serine => cysteine
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00920 Sulfur metabolism
+                b2414 (cysK)
+              09105 Amino acid metabolism
+               00270 Cysteine and methionine metabolism
+                b2414 (cysK)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.47  cysteine synthase
+                 b2414 (cysK)
+POSITION    2532409..2533380
+MOTIF       Pfam: PALP DFP PG_isomerase_N ADH_zinc_N
+DBLINKS     NCBI-GeneID: 946877
+            NCBI-ProteinID: NP_416909
+            Pasteur: cysK
+            RegulonDB: ECK120000187
+            ECOCYC: EG10192
+            ASAP: ABE-0007957
+            UniProt: P0ABK5
+STRUCTURE   PDB: 5J43 5J5V
+AASEQ       323
+            MSKIFEDNSLTIGHTPLVRLNRIGNGRILAKVESRNPSFSVKCRIGANMIWDAEKRGVLK
+            PGVELVEPTSGNTGIALAYVAAARGYKLTLTMPETMSIERRKLLKALGANLVLTEGAKGM
+            KGAIQKAEEIVASNPEKYLLLQQFSNPANPEIHEKTTGPEIWEDTDGQVDVFIAGVGTGG
+            TLTGVSRYIKGTKGKTDLISVAVEPTDSPVIAQALAGEEIKPGPHKIQGIGAGFIPANLD
+            LKLVDKVIGITNEEAISTARRLMEEEGILAGISSGAAVAAALKLQEDESFTNKNIVVILP
+            SSGERYLSTALFADLFTEKELQQ
+NTSEQ       972
+            atgagtaagatttttgaagataactcgctgactatcggtcacacgccgctggttcgcctg
+            aatcgcatcggtaacggacgcattctggcgaaggtggaatctcgtaaccccagcttcagc
+            gttaagtgccgtatcggtgccaacatgatttgggatgccgaaaagcgcggcgtgctgaaa
+            ccaggcgttgaactggttgaaccgaccagcggtaataccgggattgcactggcctatgta
+            gctgccgctcgcggttacaaactcaccctgaccatgccagaaaccatgagtattgaacgc
+            cgcaagctgctgaaagcgttaggtgcaaacctggtgctgacggaaggtgctaaaggcatg
+            aaaggcgcaatccaaaaagcagaagaaattgtcgccagcaatccagagaaatacctgctg
+            ctgcaacaattcagcaatccggcaaaccctgaaattcacgaaaagaccaccggtccggag
+            atatgggaagataccgacggtcaggttgatgtatttattgctggcgttgggactggcggt
+            acgctgactggcgtcagccgctacattaaaggcaccaaaggcaagaccgatcttatctct
+            gtcgccgttgagccaaccgattctccagttatcgcccaggcgctggcaggtgaagagatt
+            aaacctggcccgcataaaattcagggtattggcgctggttttatcccggctaacctcgat
+            ctcaagctggtcgataaagtcattggcatcaccaatgaagaagcgatttctaccgcgcgt
+            cgtctgatggaagaagaaggtattcttgcaggtatctcttctggagcagctgttgccgcg
+            gcgttgaaactacaagaagatgaaagctttaccaacaagaatattgtggttattctacca
+            tcatcgggtgagcgttatttaagcaccgcattgtttgccgatctcttcactgagaaagaa
+            ttgcaacagtaa
+///

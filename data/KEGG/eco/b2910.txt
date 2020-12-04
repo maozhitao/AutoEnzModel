@@ -1,0 +1,36 @@
+ENTRY       b2910             CDS       T00007
+NAME        zapA
+DEFINITION  (RefSeq) cell division protein ZapA
+ORTHOLOGY   K09888  cell division protein ZapA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b2910 (zapA)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Divisome proteins
+                b2910 (zapA)
+POSITION    3055612..3055941
+MOTIF       Pfam: ZapA DUF3482 Bac_rhamnosid6H PEP-utilisers_N YtxH
+DBLINKS     NCBI-GeneID: 947404
+            NCBI-ProteinID: NP_417386
+            Pasteur: ygfE
+            RegulonDB: ECK120002417
+            ECOCYC: EG12878
+            ASAP: ABE-0009554
+            UniProt: P0ADS2
+STRUCTURE   PDB: 4P1M
+AASEQ       109
+            MSAQPVDIQIFGRSLRVNCPPDQRDALNQAADDLNQRLQDLKERTRVTNTEQLVFIAALN
+            ISYELAQEKAKTRDYAASMEQRIRMLQQTIEQALLEQGRITEKTNQNFE
+NTSEQ       330
+            atgtctgcacaacccgtcgatatccaaatttttggccgttcactgcgtgtgaactgcccg
+            cctgaccaaagggatgcgttgaatcaggcagcggacgatctgaaccaacggttgcaagat
+            ctgaaagaacgcactagagtcacaaatactgaacagttggtcttcattgccgcattgaat
+            atcagctatgagttagcgcaagaaaaagcaaagactcgtgactacgcggcaagtatggaa
+            cagcgtattcggatgctgcagcagaccatagaacaagcgttacttgaacaaggtcgcatc
+            accgaaaaaactaaccaaaactttgaatga
+///

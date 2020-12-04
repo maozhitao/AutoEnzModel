@@ -1,0 +1,86 @@
+ENTRY       b1961             CDS       T00007
+NAME        dcm
+DEFINITION  (RefSeq) DNA-cytosine methyltransferase
+ORTHOLOGY   K00558  DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00270  Cysteine and methionine metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09105 Amino acid metabolism
+               00270 Cysteine and methionine metabolism
+                b1961 (dcm)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b1961 (dcm)
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b1961 (dcm)
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b1961 (dcm)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.37  DNA (cytosine-5-)-methyltransferase
+                 b1961 (dcm)
+            DNA replication proteins [BR:eco03032]
+             Eukaryotic type
+              DNA Replication Termination Factors
+               DNA methylation enzymes
+                b1961 (dcm)
+            Chromosome and associated proteins [BR:eco03036]
+             Eukaryotic type
+              Heterochromatin formation proteins
+               Other heterochromatin formation proteins
+                b1961 (dcm)
+            Prokaryotic defense system [BR:eco02048]
+             Restriction and modification system (R-M system)
+              Type II R-M system
+               DNA methyltransferases
+                b1961 (dcm)
+POSITION    complement(2030899..2032317)
+MOTIF       Pfam: DNA_methylase DNA_meth_N
+DBLINKS     NCBI-GeneID: 946479
+            NCBI-ProteinID: NP_416470
+            Pasteur: dcm
+            RegulonDB: ECK120000205
+            ECOCYC: EG10211
+            ASAP: ABE-0006509
+            UniProt: P0AED9
+AASEQ       472
+            MQENISVTDSYSTGNAAQAMLEKLLQIYDVKTLVAQLNGVGENHWSAAILKRALANDSAW
+            HRLSEKEFAHLQTLLPKPPAHHPHYAFRFIDLFAGIGGIRRGFESIGGQCVFTSEWNKHA
+            VRTYKANHYCDPATHHFNEDIRDITLSHKEGVSDEAAAEHIRQHIPEHDVLLAGFPCQPF
+            SLAGVSKKNSLGRAHGFACDTQGTLFFDVVRIIDARRPAMFVLENVKNLKSHDQGKTFRI
+            IMQTLDELGYDVADAEDNGPDDPKIIDGKHFLPQHRERIVLVGFRRDLNLKADFTLRDIS
+            ECFPAQRVTLAQLLDPMVEAKYILTPVLWKYLYRYAKKHQARGNGFGYGMVYPNNPQSVT
+            RTLSARYYKDGAEILIDRGWDMATGEKDFDDPLNQQHRPRRLTPRECARLMGFEAPGEAK
+            FRIPVSDTQAYRQFGNSVVVPVFAAVAKLLEPKIKQAVALRQQEAQHGRRSR
+NTSEQ       1419
+            atgcaggaaaatatatcagtaaccgattcatacagcaccgggaatgccgcacaggcaatg
+            ctggagaaactgctgcaaatttatgatgttaaaacgttggtggcgcagcttaatggtgta
+            ggtgagaatcactggagcgcggcaattttaaaacgtgcgctggcgaatgactcggcatgg
+            caccgtttaagtgagaaagagttcgcccatctgcaaacgttattacccaaaccaccggca
+            catcatccgcattatgcgtttcgctttatcgatctattcgccggaattggcggcatccgt
+            cgcggttttgaatcgattggcggacagtgcgtgtttaccagcgaatggaacaaacatgcg
+            gtacgcacttataaagccaaccattattgcgatccggcgacgcatcattttaatgaagat
+            atccgcgacatcaccctcagccataaagaaggcgtgagtgatgaggcggcggcggaacat
+            attcgtcaacacattcctgaacacgatgttttactggccggtttcccttgtcagccattt
+            tcgctggctggcgtatcgaaaaagaactcgctcgggcgggcgcacggttttgcctgcgat
+            acccagggcacgctgttttttgatgtggtacgcattatcgacgcgcgtcgtccggcgatg
+            tttgtgctcgaaaacgtcaaaaacctgaaaagtcacgaccagggtaaaacgttccgcatc
+            atcatgcagacgctggacgaactgggctatgacgtggctgatgcagaagataatgggcca
+            gacgatccgaaaatcatcgacggcaaacattttctgccgcagcaccgtgaacgcatcgtg
+            ctggtgggttttcgtcgcgatctgaatctgaaagccgattttaccctgcgtgatatcagc
+            gaatgtttccctgcgcagcgagtgacgctggcgcagctgttggacccgatggtcgaggcg
+            aaatatatcctgacgccggtgctgtggaagtacctctatcgatatgcgaaaaaacatcag
+            gcgcgcggtaacggcttcggttatggaatggtttatccgaacaatccgcaaagcgtcacg
+            cgtacgctgtctgcgcgttattacaaagatggcgcggaaattttaatcgatcgcggctgg
+            gatatggccacgggtgagaaagactttgacgatccgctgaatcagcaacatcgtccacgt
+            cggttaacgcctcgggaatgcgcgcgcttaatgggttttgaagcgccgggagaagcgaaa
+            ttccgtattccggtttcggacactcaggcctatcgccagttcggtaactcggtggtcgtg
+            ccggtctttgccgcggtggcaaaactgcttgagccaaaaatcaaacaggcggtggcgttg
+            cgtcagcaagaggcacaacatggccgacgttcacgataa
+///

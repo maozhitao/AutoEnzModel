@@ -1,0 +1,40 @@
+ENTRY       b1482             CDS       T00007
+NAME        osmC
+DEFINITION  (RefSeq) osmotically inducible peroxiredoxin
+ORTHOLOGY   K04063  lipoyl-dependent peroxiredoxin [EC:1.11.1.28]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b1482 (osmC)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.11  Acting on a peroxide as acceptor
+               1.11.1  Peroxidases
+                1.11.1.28  lipoyl-dependent peroxiredoxin
+                 b1482 (osmC)
+POSITION    1556625..1557056
+MOTIF       Pfam: OsmC
+DBLINKS     NCBI-GeneID: 946043
+            NCBI-ProteinID: NP_415999
+            Pasteur: osmC
+            RegulonDB: ECK120000673
+            ECOCYC: EG10680
+            ASAP: ABE-0004944
+            UniProt: P0C0L2
+STRUCTURE   PDB: 1QWI 1NYE
+AASEQ       143
+            MTIHKKGQAHWEGDIKRGKGTVSTESGVLNQQPYGFNTRFEGEKGTNPEELIGAAHAACF
+            SMALSLMLGEAGFTPTSIDTTADVSLDKVDAGFAITKIALKSEVAVPGIDASTFDGIIQK
+            AKAGCPVSQVLKAEITLDYQLKS
+NTSEQ       432
+            atgacaatccataagaaaggtcaggcacactgggaaggcgatatcaaacgcgggaaggga
+            acagtatccaccgagagtggcgtgctgaaccaacagccgtatggatttaacacgcgtttt
+            gaaggcgaaaaaggaaccaaccctgaagaactgattggcgcagcgcatgccgcatgtttc
+            tcaatggcgctttcattaatgctgggggaagcgggattcacgccaacatcgattgatacc
+            accgccgatgtgtcgctggataaagtggatgccggttttgcgattacgaaaatcgcactg
+            aagagtgaagttgcggtgccgggtattgatgcctctacctttgacggcataatccagaaa
+            gcaaaagcaggatgcccggtctctcaggtactgaaagcggaaattacgctggattaccag
+            ttgaaatcgtaa
+///

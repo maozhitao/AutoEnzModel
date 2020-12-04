@@ -1,0 +1,45 @@
+ENTRY       b0535             CDS       T00007
+NAME        fimZ
+DEFINITION  (RefSeq) putative LuxR family transcriptional regulator FimZ
+ORTHOLOGY   K07688  two-component system, NarL family, response regulator, fimbrial Z protein, FimZ
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0535 (fimZ)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b0535 (fimZ)
+            Two-component system [BR:eco02022]
+             NarL family
+              EvgS-EvgA (acid and drug tolerance)
+               b0535 (fimZ)
+POSITION    complement(563848..564480)
+MOTIF       Pfam: Response_reg GerE Sigma70_r4_2 HTH_24 Sigma70_r4 Sigma70_ECF
+DBLINKS     NCBI-GeneID: 947079
+            NCBI-ProteinID: NP_415068
+            Pasteur: fimZ
+            RegulonDB: ECK120001091
+            ASAP: ABE-0001836
+            UniProt: P0AEL8
+AASEQ       210
+            MKPTSVIIMDTHPIIRMSIEVLLQKNSELQIVLKTDDYRITIDYLRTRPVDLIIMDIDLP
+            GTDGFTFLKRIKQIQSTVKVLFLSSKSECFYAGRAIQAGANGFVSKCNDQNDIFHAVQMI
+            LSGYTFFPSETLNYIKSNKCSTNSSTVTVLSNREVTILRYLVSGLSNKEIADKLLLSNKT
+            VSAHKSNIYGKLGLHSIVELIDYAKLYELI
+NTSEQ       633
+            atgaaaccaacgtcggtgatcattatggatactcatcctatcatcagaatgtctattgaa
+            gttctgttgcaaaaaaacagtgaattgcagattgtcctgaaaacggatgattatcgcata
+            accatcgattatctccgaacccgtcctgttgatttaatcattatggatatagacttgccc
+            ggaacagacggttttaccttcctgaaaaggatcaaacaaatccagagcacagtgaaagtg
+            ttatttttatcatcgaaatcagaatgcttttatgctggcagagcgatacaagctggtgct
+            aacggttttgtcagtaaatgcaatgatcagaatgatatttttcatgccgttcagatgatc
+            ctctccggatacacgttttttcccagcgaaacgcttaactatataaaaagcaataaatgt
+            agtacgaatagttcaacggtcactgtgctatctaatcgtgaagtgaccatattacgttat
+            ctggttagcggattatctaataaagaaattgccgataagttattacttagcaataaaaca
+            gttagtgcgcataaatctaatatttatggcaagctaggtttgcattcaattgtagagctt
+            atcgactacgccaaattatacgaattaatataa
+///

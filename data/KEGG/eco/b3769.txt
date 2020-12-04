@@ -1,0 +1,53 @@
+ENTRY       b3769             CDS       T00007
+NAME        ilvM
+DEFINITION  (RefSeq) acetolactate synthase II subunit IlvM
+ORTHOLOGY   K11258  acetolactate synthase II small subunit [EC:2.2.1.6]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00290  Valine, leucine and isoleucine biosynthesis
+            eco00650  Butanoate metabolism
+            eco00660  C5-Branched dibasic acid metabolism
+            eco00770  Pantothenate and CoA biosynthesis
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+            eco01210  2-Oxocarboxylic acid metabolism
+            eco01230  Biosynthesis of amino acids
+MODULE      eco_M00019  Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine
+            eco_M00570  Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00650 Butanoate metabolism
+                b3769 (ilvM)
+               00660 C5-Branched dibasic acid metabolism
+                b3769 (ilvM)
+              09105 Amino acid metabolism
+               00290 Valine, leucine and isoleucine biosynthesis
+                b3769 (ilvM)
+              09108 Metabolism of cofactors and vitamins
+               00770 Pantothenate and CoA biosynthesis
+                b3769 (ilvM)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.2  Transferring aldehyde or ketonic groups
+               2.2.1  Transketolases and transaldolases
+                2.2.1.6  acetolactate synthase
+                 b3769 (ilvM)
+POSITION    3952201..3952464
+MOTIF       Pfam: ACT_5 ACT_4
+DBLINKS     NCBI-GeneID: 948279
+            NCBI-ProteinID: NP_418217
+            Pasteur: ilvM
+            RegulonDB: ECK120000494
+            ECOCYC: EG10501
+            ASAP: ABE-0012313
+            UniProt: P0ADG1
+AASEQ       87
+            MMQHQVNVSARFNPETLERVLRVVRHRGFHVCSMNMAAASDAQNINIELTVASPRSVDLL
+            FSQLNKLVDVAHVAICQSTTTSQQIRA
+NTSEQ       264
+            atgatgcaacatcaggtcaatgtatcggctcgcttcaatccagaaaccttagaacgtgtt
+            ttacgcgtggtgcgtcatcgtggtttccacgtctgctcaatgaatatggccgccgccagc
+            gatgcacaaaatataaatatcgaattgaccgttgccagcccacggtcggtcgacttactg
+            tttagtcagttaaataaactggtggacgtcgcacacgttgccatctgccagagcacaacc
+            acatcacaacaaatccgcgcctga
+///

@@ -1,0 +1,45 @@
+ENTRY       b4293             CDS       T00007
+NAME        fecI
+DEFINITION  (RefSeq) RNA polymerase sigma factor FecI
+ORTHOLOGY   K23514  RNA polymerase sigma-19 factor, ECF subfamily
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b4293 (fecI)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:eco03021]
+                b4293 (fecI)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               RNA polymerase
+                Sigma factors
+                 b4293 (fecI)
+POSITION    complement(4517714..4518235)
+MOTIF       Pfam: Sigma70_r4_2 Sigma70_r2 Sigma70_r4 Sigma70_ECF HTH_24 HTH_23 PCI GerE HTH_36 HTH_28 HTH_40 HTH_11 TnsD HTH_3 HTH_Mga HTH_IclR MarR_2 HTH_10
+DBLINKS     NCBI-GeneID: 946839
+            NCBI-ProteinID: NP_418713
+            Pasteur: fecI
+            RegulonDB: ECK120000285
+            ECOCYC: EG10291
+            ASAP: ABE-0014072
+            UniProt: P23484
+AASEQ       173
+            MSDRATTTASLTFESLYGTHHGWLKSWLTRKLQSAFDADDIAQDTFLRVMVSETLSTIRD
+            PRSFLCTIAKRVMVDLFRRNALEKAYLEMLALMPEGGAPSPEERESQLETLQLLDSMLDG
+            LNGKTREAFLLSQLDGLTYSEIAHKLGVSISSVKKYVAKAVEHCLLFRLEYGL
+NTSEQ       522
+            atgtctgaccgcgccactaccacagcttccttaacgttcgagtcgctttatggcacacat
+            cacggctggttgaaaagctggctgacgcgcaaactccagtctgcttttgatgcagatgac
+            attgcccaggacacttttttgcgggtaatggtcagcgaaacgctctcgacgatccgcgat
+            cctcgctccttcctctgcactatcgccaaacgcgtgatggtggacctgtttcgccgaaac
+            gcgctggaaaaagcgtatctggagatgctggcgcttatgccggaggggggagcgccttca
+            cctgaggaacgcgaaagccaactcgagaccctacaactcctcgacagcatgctggacggg
+            ctaaacggcaaaacacgtgaagcgtttctgctttcgcaactggatggtctgacatacagc
+            gagattgcgcacaaactcggtgtttccatcagctccgtgaaaaaatacgtggcgaaagcc
+            gtcgagcactgcctgctgttccgtctggagtatgggttatga
+///

@@ -1,0 +1,95 @@
+ENTRY       b1350             CDS       T00007
+NAME        recE
+DEFINITION  (RefSeq) Rac prophage; exonuclease VIII, ds DNA exonuclease, 5' --> 3' specific
+ORTHOLOGY   K10906  exodeoxyribonuclease VIII [EC:3.1.11.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1350 (recE)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.11  Exodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.11.-  
+                 b1350 (recE)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               NHEJ (non-homologous end-joining)
+                SHDIR (short-homology-dependent illegitimate recombination)
+                 RecET pathway
+                  b1350 (recE)
+POSITION    complement(1414786..1417386)
+MOTIF       Pfam: Exonuc_VIII DUF3799
+DBLINKS     NCBI-GeneID: 945918
+            NCBI-ProteinID: NP_415866
+            Pasteur: recE
+            RegulonDB: ECK120000818
+            ECOCYC: EG10827
+            ASAP: ABE-0004531
+            UniProt: P15032
+STRUCTURE   PDB: 3H4R
+AASEQ       866
+            MSTKPLFLLRKAKKSSGEPDVVLWASNDFESTCATLDYLIVKSGKKLSSYFKAVATNFPV
+            VNDLPAEGEIDFTWSERYQLSKDSMTWELKPGAAPDNAHYQGNTNVNGEDMTEIEENMLL
+            PISGQELPIRWLAQHGSEKPVTHVSRDGLQALHIARAEELPAVTALAVSHKTSLLDPLEI
+            RELHKLVRDTDKVFPNPGNSNLGLITAFFEAYLNADYTDRGLLTKEWMKGNRVSHITRTA
+            SGANAGGGNLTDRGEGFVHDLTSLARDVATGVLARSMDLDIYNLHPAHAKRIEEIIAENK
+            PPFSVFRDKFITMPGGLDYSRAIVVASVKEAPIGIEVIPAHVTEYLNKVLTETDHANPDP
+            EIVDIACGRSSAPMPQRVTEEGKQDDEEKPQPSGTTAVEQGEAETMEPDATEHHQDTQPL
+            DAQSQVNSVDAKYQELRAELHEARKNIPSKNPVDDDKLLAASRGEFVDGISDPNDPKWVK
+            GIQTRDCVYQNQPETEKTSPDMNQPEPVVQQEPEIACNACGQTGGDNCPDCGAVMGDATY
+            QETFDEESQVEAKENDPEEMEGAEHPHNENAGSDPHRDCSDETGEVADPVIVEDIEPGIY
+            YGISNENYHAGPGISKSQLDDIADTPALYLWRKNAPVDTTKTKTLDLGTAFHCRVLEPEE
+            FSNRFIVAPEFNRRTNAGKEEEKAFLMECASTGKTVITAEEGRKIELMYQSVMALPLGQW
+            LVESAGHAESSIYWEDPETGILCRCRPDKIIPEFHWIMDVKTTADIQRFKTAYYDYRYHV
+            QDAFYSDGYEAQFGVQPTFVFLVASTTIECGRYPVEIFMMGEEAKLAGQQEYHRNLRTLS
+            DCLNTDEWPAIKTLSLPRWAKEYAND
+NTSEQ       2601
+            atgagcacaaaaccactcttcctgttacggaaagcgaaaaaatcatccggtgaacctgac
+            gtcgtcctgtgggcaagcaacgattttgaatcgacctgtgccactctggactacctgatc
+            gttaagtcaggtaaaaaactgagcagctattttaaagctgttgccacgaattttcctgtc
+            gttaatgacctgcccgctgaaggtgagatcgattttacctggagtgaacgctatcaactc
+            agcaaagactccatgacatgggaactaaaaccgggagcagcaccagacaacgctcactat
+            caaggcaataccaacgtcaacggcgaagacatgactgagattgaggagaatatgctactc
+            ccaatttctggccaggaactgcccattcgttggcttgctcaacacggcagcgaaaaaccg
+            gtaacgcacgtttcacgcgacggactccaggcattacacattgctcgggctgaagaacta
+            ccggctgttactgccctggctgtttcccacaaaaccagcctgctcgacccgctggaaatt
+            cgcgaactccacaaactggttcgtgacactgacaaagttttccctaatcctggtaattca
+            aacctgggactgataactgcttttttcgaagcatacctgaacgctgactacaccgatcga
+            ggactgctgacaaaagagtggatgaagggtaatcgtgtttcacacatcactcgcacggct
+            tccggtgctaatgctggcggcggaaacctcaccgatcgcggcgaaggtttcgtacacgat
+            ctgacgtcactggcgcgcgacgtagccactggcgtactggcccgttcaatggatctggac
+            atctataaccttcatccggcacacgctaaacgcattgaggaaattatcgctgaaaataaa
+            ccgcccttttctgttttccgcgacaaattcatcaccatgcctggcgggctggattattcc
+            cgcgccatcgtggttgcgtccgtaaaagaagcaccaattgggatcgaggtcatccccgcg
+            cacgtcactgaatatctgaacaaagtactgactgaaaccgatcatgccaaccctgatccg
+            gaaatcgtggatattgcctgcggtcgctcctctgccccgatgccgcagcgagtaacagaa
+            gaaggaaaacaggatgatgaagaaaaaccgcaaccatctggaacaacggcagttgaacag
+            ggagaggctgaaacaatggaaccggacgcaactgaacatcatcaggacacgcagccgctg
+            gatgctcagtcacaggtaaattctgttgatgcgaaatatcaggaactgcgggcagaactc
+            catgaagcccggaaaaacattccatcaaaaaatcctgtcgatgacgataaattgcttgct
+            gcatcacgtggtgaatttgttgacggaattagcgacccgaacgatccgaaatgggtaaag
+            gggatccagactcgcgattgtgtgtaccagaaccagccagaaacggaaaaaaccagccca
+            gatatgaatcaacctgagccagtagtgcaacaggaaccggaaatagcctgcaatgcctgc
+            ggccagactggcggggataactgccctgactgtggtgcggtgatgggcgacgcaacatac
+            caggaaacattcgatgaagagagtcaggttgaagctaaggaaaatgatccggaggaaatg
+            gaaggcgctgaacatccgcacaatgagaatgctggcagcgatccgcatcgcgattgcagt
+            gatgaaactggcgaagtcgcagatcccgtaatcgtagaagacatagagccaggtatttat
+            tacggaatttcgaatgagaattaccacgcgggtcccggtatcagtaagtctcagctcgat
+            gacattgctgatactccggcactatatttgtggcgtaaaaatgcccccgtggacaccaca
+            aagacaaaaacgctcgatttaggaactgctttccactgccgggtacttgaaccggaagaa
+            ttcagtaaccgctttatcgtagcacctgaatttaaccgccgtacaaacgccggaaaagaa
+            gaagagaaagcgtttctgatggaatgcgcaagcacaggaaaaacggttatcactgcggaa
+            gaaggccggaaaattgaactcatgtatcaaagcgttatggctttgccgctggggcaatgg
+            cttgttgaaagcgccggacacgctgaatcatcaatttactgggaagatcctgaaacagga
+            attttgtgtcggtgccgtccggacaaaattatccctgaatttcactggatcatggacgtg
+            aaaactacggcggatattcaacgattcaaaaccgcttattacgactaccgctatcacgtt
+            caggatgcattctacagtgacggttatgaagcacagtttggagtgcagccaactttcgtt
+            tttctggttgccagcacaactattgaatgcggacgttatccggttgaaattttcatgatg
+            ggcgaagaagcaaaactggcaggtcaacaggaatatcaccgcaatctgcgaaccctgtct
+            gactgcctgaataccgatgaatggccagctattaagacattatcactgccccgctgggct
+            aaggaatatgcaaatgactaa
+///

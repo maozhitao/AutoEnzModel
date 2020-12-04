@@ -1,0 +1,65 @@
+ENTRY       b4259             CDS       T00007
+NAME        holC
+DEFINITION  (RefSeq) DNA polymerase III subunit chi
+ORTHOLOGY   K02339  DNA polymerase III subunit chi [EC:2.7.7.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+            eco03430  Mismatch repair
+            eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b4259 (holC)
+               03430 Mismatch repair
+                b4259 (holC)
+               03440 Homologous recombination
+                b4259 (holC)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b4259 (holC)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b4259 (holC)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.7  DNA-directed DNA polymerase
+                 b4259 (holC)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Elongation Factors
+               Elongation factors (bacterial)
+                DNA polymerase III holoenzyme
+                 b4259 (holC)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                DNA polymerase III holoenzyme
+                 b4259 (holC)
+POSITION    complement(4483837..4484280)
+MOTIF       Pfam: DNA_pol3_chi
+DBLINKS     NCBI-GeneID: 948787
+            NCBI-ProteinID: NP_418680
+            Pasteur: holC
+            RegulonDB: ECK120001379
+            ECOCYC: EG11413
+            ASAP: ABE-0013948
+            UniProt: P28905
+STRUCTURE   PDB: 3SXU 1EM8
+AASEQ       147
+            MKNATFYLLDNDTTVDGLSAVEQLVCEIAAERWRSGKRVLIACEDEKQAYRLDEALWARP
+            AESFVPHNLAGEGPRGGAPVEIAWPQKRSSSRRDILISLRTSFADFATAFTEVVDFVPYE
+            DSLKQLARERYKAYRVAGFNLNTATWK
+NTSEQ       444
+            atgaaaaacgcgacgttctaccttctggacaatgacaccaccgtcgatggcttaagcgcc
+            gttgagcaactggtgtgtgaaattgccgcagaacgttggcgcagcggtaagcgcgtgctc
+            atcgcctgtgaagatgaaaagcaggcttaccggctggatgaagccctgtgggcgcgtccg
+            gcagaaagctttgttccgcataatttagcgggagaaggaccgcgcggcggtgcaccggtg
+            gagatcgcctggccgcaaaagcgtagcagcagccggcgcgatatattgattagtctgcga
+            acaagctttgcagattttgccaccgctttcacagaagtggtagacttcgttccttatgaa
+            gattctctgaaacaactggcgcgcgaacgctataaagcctaccgcgtggctggtttcaac
+            ctgaatacggcaacctggaaataa
+///

@@ -1,0 +1,79 @@
+ENTRY       b1845             CDS       T00007
+NAME        ptrB
+DEFINITION  (RefSeq) oligopeptidase B
+ORTHOLOGY   K01354  oligopeptidase B [EC:3.4.21.83]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b1845 (ptrB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.83  oligopeptidase B
+                 b1845 (ptrB)
+            Peptidases and inhibitors [BR:eco01002]
+             Serine peptidases
+              Family S9: prolyl oligopeptidase family
+               b1845 (ptrB)
+POSITION    complement(1926779..1928839)
+MOTIF       Pfam: Peptidase_S9_N Peptidase_S9 DUF4833 Tannase
+DBLINKS     NCBI-GeneID: 946358
+            NCBI-ProteinID: NP_416359
+            Pasteur: ptrB
+            RegulonDB: ECK120000993
+            ECOCYC: EG11004
+            ASAP: ABE-0006133
+            UniProt: P24555
+AASEQ       686
+            MLPKAARIPHAMTLHGDTRIDNYYWLRDDTRSQPEVLDYLQQENSYGHRVMASQQALQDR
+            ILKEIIDRIPQREVSAPYIKNGYRYRHIYEPGCEYAIYQRQSAFSEEWDEWETLLDANKR
+            AAHSEFYSMGGMAITPDNTIMALAEDFLSRRQYGIRFRNLETGNWYPELLDNVEPSFVWA
+            NDSWIFYYVRKHPVTLLPYQVWRHAIGTPASQDKLIYEEKDDTYYVSLHKTTSKHYVVIH
+            LASATTSEVRLLDAEMADAEPFVFLPRRKDHEYSLDHYQHRFYLRSNRHGKNFGLYRTRM
+            RDEQQWEELIPPRENIMLEGFTLFTDWLVVEERQRGLTSLRQINRKTREVIGIAFDDPAY
+            VTWIAYNPEPETARLRYGYSSMTTPDTLFELDMDTGERRVLKQTEVPGFYAANYRSEHLW
+            IVARDGVEVPVSLVYHRKHFRKGHNPLLVYGYGSYGASIDADFSFSRLSLLDRGFVYAIV
+            HVRGGGELGQQWYEDGKFLKKKNTFNDYLDACDALLKLGYGSPSLCYAMGGSAGGMLMGV
+            AINQRPELFHGVIAQVPFVDVVTTMLDESIPLTTGEFEEWGNPQDPQYYEYMKSYSPYDN
+            VTAQAYPHLLVTTGLHDSQVQYWEPAKWVAKLRELKTDDHLLLLCTDMDSGHGGKSGRFK
+            SYEGVAMEYAFLVALAQGTLPATPAD
+NTSEQ       2061
+            atgctaccaaaagccgcccgcattccccacgccatgacgcttcatggcgatacgcgcatc
+            gataattactactggctgcgggacgatacgcgttctcagccagaagtcctggactacctg
+            caacaagaaaatagttacggtcatcgggtgatggcctcacaacaagccttgcaggatcgc
+            atcttaaaggaaatcatcgaccgcattccgcaacgagaagtttctgcgccctacatcaaa
+            aatggctaccgctatcggcatatttatgaaccaggctgtgaatatgctatctaccagcgt
+            caatcggcattcagtgaagagtgggatgagtgggaaacattgctcgatgccaataagcgc
+            gcagctcatagtgagttttattcgatgggcggaatggcgattacgcccgataacaccatt
+            atggcgctggcagaagattttctttcccgacgccagtacggcattcgttttcgtaatctg
+            gaaactggtaactggtacccggaactgctggataacgttgaacccagctttgtctgggca
+            aatgactcctggattttctactatgttcgcaagcatccggtgacgctgctgccttatcag
+            gtctggcgtcacgccatcggtacgccagcatcgcaagataaactgatctacgaagaaaaa
+            gacgatacctattacgtcagcctgcataaaacgacctcgaagcactatgtagtcattcat
+            ttggccagcgccaccaccagtgaagttcgcctgctggacgcggaaatggccgatgccgag
+            ccgtttgtttttctgccgcgccgcaaagatcacgaatacagccttgatcactaccagcat
+            cgtttttatctgcgttccaaccgccacggcaaaaactttggcttataccgtacccgtatg
+            cgtgatgagcaacagtgggaagagttaattccgccacgcgaaaacatcatgctggaaggg
+            tttacgctgtttaccgactggctggtggttgaagagcgtcagcgcgggttaaccagtttg
+            cgccaaattaaccgcaagacccgggaagtcattggtattgcctttgatgatccggcctat
+            gtgacctggattgcctacaatccagaacctgaaaccgcgcgattgcgttatggttattct
+            tccatgactacaccagacactttgtttgaactggatatggataccggtgagcgtcgtgta
+            ttaaaacaaacggaagttcctggtttttatgcggcgaattaccgcagtgaacacctgtgg
+            atagtcgcccgtgatggcgtcgaagttccggtttcgttggtctaccatcgcaaacatttt
+            cgcaaaggacacaacccgttgctggtgtatggctatggttcttacggcgcaagtattgat
+            gccgatttcagttttagccgcttgagtttgttagatcgtggctttgtctacgccattgtc
+            catgttcgcggcggtggtgagctggggcaacaatggtacgaagacggaaaatttctgaag
+            aagaaaaatacgtttaatgattatcttgatgcctgcgatgcattgttaaaactgggctat
+            ggctctccttcgctttgttatgcgatgggcgggagtgcggggggcatgttgatgggcgtt
+            gcaattaatcaacgcccggaattattccacggcgttatcgcccaggtaccgtttgttgat
+            gttgtaacaacgatgcttgatgaatcaattcctcttaccactggtgagtttgaagagtgg
+            ggtaacccgcaggatccgcaatattacgagtacatgaaaagctacagcccgtatgacaac
+            gtcaccgcacaggcttatccgcatttactggtaacgaccggtttgcacgattctcaggtg
+            caatattgggaaccggcaaaatgggtcgctaaattgcgcgagctgaaaaccgatgaccat
+            cttttattgctctgtaccgacatggactcaggccatggcggtaaatctggtcgctttaaa
+            tcgtacgaaggcgtagcgatggaatatgcttttctggtcgcgctggcgcagggaacatta
+            cccgctacgcctgcggactaa
+///

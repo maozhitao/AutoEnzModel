@@ -1,0 +1,39 @@
+ENTRY       b3077             CDS       T00007
+NAME        ebgC
+DEFINITION  (RefSeq) DUF386 domain-containing evolved beta-D-galactosidase subunit beta
+ORTHOLOGY   K12112  evolved beta-galactosidase subunit beta
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00052  Galactose metabolism
+            eco00511  Other glycan degradation
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00052 Galactose metabolism
+                b3077 (ebgC)
+              09107 Glycan biosynthesis and metabolism
+               00511 Other glycan degradation
+                b3077 (ebgC)
+POSITION    3225722..3226171
+MOTIF       Pfam: DUF386 AraC_binding_2
+DBLINKS     NCBI-GeneID: 947581
+            NCBI-ProteinID: NP_417548
+            Pasteur: ebgC
+            RegulonDB: ECK120000247
+            ECOCYC: EG10253
+            ASAP: ABE-0010106
+            UniProt: P0AC73
+AASEQ       149
+            MRIIDNLEQFRQIYASGKKWQRCVEAIENIDNIQPGVAHSIGDSLTYRVETDSATDALFT
+            GHRRYFEVHYYLQGQQKIEYAPKETLQVVEYYRDETDREYLKGCGETVEVHEGQIVICDI
+            HEAYRFICNNAVKKVVLKVTIEDGYFHNK
+NTSEQ       450
+            atgaggatcatcgataacttagaacagttccgccagatttacgcctctggcaagaagtgg
+            caacgctgcgttgaagcgattgaaaatatcgacaacattcagcctggcgtcgcccactcc
+            atcggtgactcattgacttaccgcgtggagacagactccgcgaccgatgcgctatttacc
+            gggcatcgacgctattttgaagtgcattactacctgcaagggcagcaaaaaattgaatat
+            gcgccgaaagagacattacaggtagtggaatattatcgtgatgaaactgaccgtgaatat
+            ttaaaaggctgcggagaaaccgttgaggtccacgaagggcaaatcgttatttgcgatatc
+            catgaagcgtatcggtttatctgcaataacgcggtcaaaaaagtggttctcaaagtcacc
+            atcgaagatggttatttccataacaaataa
+///

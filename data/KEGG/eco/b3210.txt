@@ -1,0 +1,101 @@
+ENTRY       b3210             CDS       T00007
+NAME        arcB
+DEFINITION  (RefSeq) sensory histidine kinase ArcB
+ORTHOLOGY   K07648  two-component system, OmpR family, aerobic respiration control sensor histidine kinase ArcB [EC:2.7.13.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b3210 (arcB)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b3210 (arcB)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b3210 (arcB)
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b3210 (arcB)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 b3210 (arcB)
+            Protein kinases [BR:eco01001]
+             Histidine kinases
+              OmpR family
+               b3210 (arcB)
+            Two-component system [BR:eco02022]
+             OmpR family
+              ArcB-ArcA (anoxic redox control)
+               b3210 (arcB)
+POSITION    complement(3350689..3353025)
+MOTIF       Pfam: HATPase_c HKR_ArcB_TM Response_reg PAS HisKA PAS_4 Hpt HATPase_c_3 PAS_9 CCB1 PAS_8 SLATT_4 HATPase_c_5 DUF3810 Spc7
+DBLINKS     NCBI-GeneID: 947887
+            NCBI-ProteinID: YP_026207
+            RegulonDB: ECK120000058
+            ECOCYC: EG10062
+            ASAP: ABE-0010537
+            UniProt: P0AEC3
+STRUCTURE   PDB: 2A0B 1A0B 1BDJ 2KSD 1FR0
+AASEQ       778
+            MKQIRLLAQYYVDLMMKLGLVRFSMLLALALVVLAIVVQMAVTMVLHGQVESIDVIRSIF
+            FGLLITPWAVYFLSVVVEQLEESRQRLSRLVQKLEEMRERDLSLNVQLKDNIAQLNQEIA
+            VREKAEAELQETFGQLKIEIKEREETQIQLEQQSSFLRSFLDASPDLVFYRNEDKEFSGC
+            NRAMELLTGKSEKQLVHLKPADVYSPEAAAKVIETDEKVFRHNVSLTYEQWLDYPDGRKA
+            CFEIRKVPYYDRVGKRHGLMGFGRDITERKRYQDALERASRDKTTFISTISHELRTPLNG
+            IVGLSRILLDTELTAEQEKYLKTIHVSAVTLGNIFNDIIDMDKMERRKVQLDNQPVDFTS
+            FLADLENLSALQAQQKGLRFNLEPTLPLPHQVITDGTRLRQILWNLISNAVKFTQQGQVT
+            VRVRYDEGDMLHFEVEDSGIGIPQDELDKIFAMYYQVKDSHGGKPATGTGIGLAVSRRLA
+            KNMGGDITVTSEQGKGSTFTLTIHAPSVAEEVDDAFDEDDMPLPALNVLLVEDIELNVIV
+            ARSVLEKLGNSVDVAMTGKAALEMFKPGEYDLVLLDIQLPDMTGLDISRELTKRYPREDL
+            PPLVALTANVLKDKQEYLNAGMDDVLSKPLSVPALTAMIKKFWDTQDDEESTVTTEENSK
+            SEALLDIPMLEQYLELVGPKLITDGLAVFEKMMPGYVSVLESNLTAQDKKGIVEEGHKIK
+            GAAGSVGLRHLQQLGQQIQSPDLPAWEDNVGEWIEEMKEEWRHDVEVLKAWVAKATKK
+NTSEQ       2337
+            atgaagcaaattcgtctgctggcgcagtattatgttgacctgatgatgaagttaggtctg
+            gtgcgcttctcaatgttgctggcgctggccctcgtcgttcttgccattgtggtacaaatg
+            gcggtaaccatggtgctgcatggtcaggtcgaaagcattgatgttattcgttctatcttc
+            tttggtttgctgattacgccgtgggcggtctactttctatcggtggtcgtcgagcaactg
+            gaggagtcacgacaacgtctgtcacggctggtgcaaaaactggaggagatgcgcgagcgc
+            gatttgagcctcaacgttcagttaaaagataatattgcccagctaaatcaggaaattgcc
+            gttcgtgaaaaagcggaagcagaactgcaggaaaccttcggccaactgaaaattgaaatc
+            aaagagcgcgaagagacacaaattcagctcgagcagcaatcctcattcttacgttccttc
+            cttgatgcttcacccgacctggttttttatcgtaacgaagataaagagttttccggctgt
+            aaccgcgcgatggagctgctgaccggaaaaagcgaaaaacaactggttcacctgaaacct
+            gctgatgtttactcaccggaagccgccgcaaaagtcattgaaaccgatgaaaaagtgttc
+            cgtcataatgtgtcactgacctatgaacagtggctggattacccggacgggcgcaaagcc
+            tgctttgaaatccgtaaagtgccgtactacgaccgcgtgggtaaacgtcacggtttgatg
+            ggctttggtcgcgacattaccgagcgtaagcggtatcaggatgcgcttgaacgggccagc
+            cgcgacaaaacgacgtttatctccaccatcagtcacgaattgcgtacaccgctgaacggt
+            atcgtcggtctgagccgcattctgctggataccgaactcaccgccgagcaggaaaaatat
+            ctcaagaccatccatgtttcggccgtcacgctggggaatatctttaacgatattatcgac
+            atggataagatggaacggcgcaaggtccagcttgataatcaaccggttgatttcaccagc
+            ttccttgccgatctggaaaatctctccgcattgcaggcgcaacaaaaaggattgcgcttt
+            aacctggagccgacgctgccattaccgcatcaggtcattaccgacgggacgcgtttacgg
+            cagatcctgtggaacctcatcagtaacgccgtcaaattcacccagcaaggccaggttacc
+            gtgcgcgtgcgctacgatgaaggcgatatgctgcattttgaagtggaagactctggtatc
+            ggcattccgcaggatgagctggataaaattttcgccatgtattaccaggtgaaagacagt
+            catggcggtaaacctgccaccggcaccggtattggtctggccgtttctcgtcgtctggcg
+            aaaaatatgggcggcgatattacggttaccagcgaacagggcaaaggttcaacctttacg
+            ttgacgatccacgcaccgtcggtagcagaagaggtcgatgatgcgtttgatgaagacgat
+            atgcctttaccggcgctgaatgtgctgctggtggaagacattgaactgaacgtgattgtt
+            gcgcgttctgtgctggaaaaattaggtaacagcgttgatgtcgccatgaccggcaaggcg
+            gcgctggagatgtttaaaccgggcgaatacgacctggtgttgctggatattcagttgcca
+            gatatgaccgggctggatatctctcgtgaactgacgaaacgttatccgcgcgaggattta
+            ccgccgctggtggccttaaccgctaacgtgctgaaagacaaacaagagtacctcaatgct
+            ggaatggatgatgtgctgagtaagccgctttctgttccggcgctaaccgcgatgatcaag
+            aaattctgggatacccaggatgatgaggagagtacggtgacgacagaagagaacagtaaa
+            tcagaagcattgctcgatattcccatgctggaacagtatctcgaacttgtaggaccgaag
+            ctgatcaccgacgggttagcggtgtttgagaagatgatgccgggctatgtcagcgtgctg
+            gagtcgaatctgacggcgcaggataaaaaaggcattgttgaggaaggacataaaattaaa
+            ggtgcggcggggtcagtggggttacgccatctgcaacagctgggtcagcaaattcagtct
+            cctgaccttccggcctgggaagataacgtcggtgaatggattgaagagatgaaagaagag
+            tggcgtcacgacgtagaagtgctgaaagcgtgggtggcaaaagccactaaaaaatga
+///

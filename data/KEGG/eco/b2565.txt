@@ -1,0 +1,56 @@
+ENTRY       b2565             CDS       T00007
+NAME        recO
+DEFINITION  (RefSeq) DNA repair protein RecO
+ORTHOLOGY   K03584  DNA repair protein RecO (recombination protein O)
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03440 Homologous recombination
+                b2565 (recO)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2565 (recO)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecFOR pathway proteins
+                 b2565 (recO)
+               NHEJ (non-homologous end-joining)
+                SHDIR (short-homology-dependent illegitimate recombination)
+                 RecET pathway
+                  b2565 (recO)
+POSITION    complement(2701741..2702469)
+MOTIF       Pfam: RecO_C RecO_N
+DBLINKS     NCBI-GeneID: 947038
+            NCBI-ProteinID: NP_417060
+            Pasteur: recO
+            RegulonDB: ECK120000823
+            ECOCYC: EG10832
+            ASAP: ABE-0008438
+            UniProt: P0A7H3
+STRUCTURE   PDB: 3Q8D
+AASEQ       242
+            MEGWQRAFVLHSRPWSETSLMLDVFTEESGRVRLVAKGARSKRSTLKGALQPFTPLLLRF
+            GGRGEVKTLRSAEAVSLALPLSGITLYSGLYINELLSRVLEYETRFSELFFDYLHCIQSL
+            AGVTGTPEPALRRFELALLGHLGYGVNFTHCAGSGEPVDDTMTYRYREEKGFIASVVIDN
+            KTFTGRQLKALNAREFPDADTLRAAKRFTRMALKPYLGGKPLKSRELFRQFMPKRTVKTH
+            YE
+NTSEQ       729
+            atggaaggctggcagcgcgcatttgtcctgcatagtcgcccgtggagcgaaaccagcctg
+            atgctggacgtcttcacggaggaatcggggcgcgtgcgtctggttgccaaaggcgcacgc
+            tctaaacgctctaccctgaaaggtgcattacagcctttcacccctctcttgctacgtttt
+            ggcgggcgtggcgaagtcaaaacgctgcgcagtgctgaagccgtctcgctggcgctgcca
+            ttaagcggtatcacgctttacagcggtctgtacatcaacgaacttctctcccgcgtactg
+            gaatacgagacgcgcttctctgaactttttttcgattacttgcactgcattcagtctctt
+            gcaggggtcactggtacgccagaacccgcgctgcgccgctttgaactggcactgctcggg
+            catctgggttatggcgtcaattttacccattgtgcgggtagcggcgagccggtagatgac
+            accatgacgtatcgttatcgcgaagaaaaagggtttatcgcaagcgtcgttatcgacaat
+            aaaacgttcaccggaaggcagttaaaagcgttaaacgcacgggaatttcctgacgcagac
+            acactgcgcgccgcgaaacgctttacccgcatggcgcttaagccgtatcttggcggtaaa
+            cctttaaagagcagggaactgttccggcagtttatgcctaagcgaacggtgaaaacacat
+            tatgaatga
+///

@@ -1,0 +1,52 @@
+ENTRY       b4180             CDS       T00007
+NAME        rlmB
+DEFINITION  (RefSeq) 23S rRNA 2'-O-ribose G2251 methyltransferase
+ORTHOLOGY   K03218  23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b4180 (rlmB)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.185  23S rRNA (guanosine2251-2'-O)-methyltransferase
+                 b4180 (rlmB)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               23S rRNA modification factors
+                b4180 (rlmB)
+POSITION    4409275..4410006
+MOTIF       Pfam: SpoU_methylase SpoU_sub_bind
+DBLINKS     NCBI-GeneID: 948694
+            NCBI-ProteinID: NP_418601
+            Pasteur: yjfH
+            RegulonDB: ECK120004341
+            ECOCYC: G7845
+            ASAP: ABE-0013684
+            UniProt: P63177
+STRUCTURE   PDB: 1GZ0
+AASEQ       243
+            MSEMIYGIHAVQALLERAPERFQEVFILKGREDKRLLPLIHALESQGVVIQLANRQYLDE
+            KSDGAVHQGIIARVKPGRQYQENDLPDLIASLDQPFLLILDGVTDPHNLGACLRSADAAG
+            VHAVIVPKDRSAQLNATAKKVACGAAESVPLIRVTNLARTMRMLQEENIWIVGTAGEADH
+            TLYQSKMTGRLALVMGAEGEGMRRLTREHCDELISIPMAGSVSSLNVSVATGICLFEAVR
+            QRS
+NTSEQ       732
+            atgagcgaaatgatttacggcatccacgcagtgcaggccctgctggagcgcgcccctgaa
+            cgttttcaggaagtctttattttaaaaggccgtgaagataaacgtctgttaccgctgatt
+            cacgcccttgagtctcagggcgtggttatccagttggcaaaccgccaatatctcgacgag
+            aaaagcgacggtgccgtgcatcagggcattatcgcccgcgtgaagccaggacgtcagtat
+            caggaaaacgatctgccggatctgatcgcttcgctcgatcaaccgttcctgctgatcctc
+            gacggcgtaaccgatccgcacaacctcggcgcgtgcctgcgtagtgcggacgccgcaggc
+            gttcatgcggtgattgtgccgaaagatcgctccgcacagctcaacgctacggcgaaaaaa
+            gtagcctgcggcgcggcagaaagcgttccgctgattcgggtgactaaccttgcgcgcacc
+            atgcgtatgttgcaggaagagaatatctggatcgtcggtacggcaggcgaggcggatcat
+            acactctatcagagcaaaatgaccggacgcctggcgctggtgatgggtgcggaaggtgaa
+            ggtatgcgtcgcctgactcgtgaacattgcgatgagttgatcagcatcccgatggctgga
+            agcgtttcttccctgaacgtttcggttgcgaccggaatttgcttatttgaagcggtgcgc
+            cagcgcagctaa
+///

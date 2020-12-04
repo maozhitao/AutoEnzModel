@@ -1,0 +1,77 @@
+ENTRY       b1763             CDS       T00007
+NAME        topB
+DEFINITION  (RefSeq) DNA topoisomerase III
+ORTHOLOGY   K03169  DNA topoisomerase III [EC:5.6.2.1]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b1763 (topB)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.6  Isomerases altering macromolecular conformation
+               5.6.2  Enzymes altering nucleic acid conformation
+                5.6.2.1  DNA topoisomerase
+                 b1763 (topB)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Topoisomerases
+               b1763 (topB)
+POSITION    complement(1844999..1846960)
+MOTIF       Pfam: Topoisom_bac Toprim FYRC Toprim_4
+DBLINKS     NCBI-GeneID: 946141
+            NCBI-ProteinID: NP_416277
+            Pasteur: topB
+            RegulonDB: ECK120001003
+            ECOCYC: EG11014
+            ASAP: ABE-0005869
+            UniProt: P14294
+STRUCTURE   PDB: 1I7D 2O5C 2O19 2O54 2O59 2O5E 1D6M
+AASEQ       653
+            MRLFIAEKPSLARAIADVLPKPHRKGDGFIECGNGQVVTWCIGHLLEQAQPDAYDSRYAR
+            WNLADLPIVPEKWQLQPRPSVTKQLNVIKRFLHEASEIVHAGDPDREGQLLVDEVLDYLQ
+            LAPEKRQQVQRCLINDLNPQAVERAIDRLRSNSEFVPLCVSALARARADWLYGINMTRAY
+            TILGRNAGYQGVLSVGRVQTPVLGLVVRRDEEIENFVAKDFFEVKAHIVTPADERFTAIW
+            QPSEACEPYQDEEGRLLHRPLAEHVVNRISGQPAIVTSYNDKRESESAPLPFSLSALQIE
+            AAKRFGLSAQNVLDICQKLYETHKLITYPRSDCRYLPEEHFAGRHAVMNAISVHAPDLLP
+            QPVVDPDIRNRCWDDKKVDAHHAIIPTARSSAINLTENEAKVYNLIARQYLMQFCPDAVF
+            RKCVIELDIAKGKFVAKARFLAEAGWRTLLGSKERDEENDGTPLPVVAKGDELLCEKGEV
+            VERQTQPPRHFTDATLLSAMTGIARFVQDKDLKKILRATDGLGTEATRAGIIELLFKRGF
+            LTKKGRYIHSTDAGKALFHSLPEMATRPDMTAHWESVLTQISEKQCRYQDFMQPLVGTLY
+            QLIDQAKRTPVRQFRGIVAPGSGGSADKKKAAPRKRSAKKSPPADEVGSGAIA
+NTSEQ       1962
+            atgcggttgtttattgccgaaaaaccgagtctggcgcgcgccattgctgatgtcctgccc
+            aaaccgcaccggaaaggcgatggctttatcgagtgcggtaatggtcaggtggtgacctgg
+            tgtatcggtcacctgcttgagcaggcgcagccagacgcctacgacagccgctatgcgcgc
+            tggaatcttgcggatttgccgattgtcccggaaaagtggcaattacagccccgaccctcc
+            gtgaccaaacaacttaacgtcatcaaacggttcctgcatgaagccagcgaaatcgttcac
+            gccggggacccggatcgtgaagggcaattgctggtggatgaagtgctggactatctgcaa
+            ctggcaccggaaaagcgccagcaggtacagcgttgcttgataaacgacctgaacccgcag
+            gcggttgagcgggcgatcgaccgtcttcgttccaacagtgagtttgtaccgctgtgcgtt
+            tctgcgctggcgcgagcgcgtgccgactggctgtacggcatcaatatgacccgtgcgtat
+            accattctcggtcgcaatgccggttatcagggcgtactttccgtgggacgcgtgcagacg
+            cccgtgcttgggctggtggtgcgccgcgatgaagagattgaaaacttcgtggcgaaagac
+            ttctttgaagtcaaagcacatatcgtgacacctgccgatgagcggtttaccgctatctgg
+            caaccgagcgaagcgtgtgaaccgtaccaggatgaagaagggcgcttgttacatcgtcca
+            ctggcggagcatgtggttaaccgcattagtggtcaaccggctattgtcaccagctataac
+            gataaacgggaatcagaatccgcgccgctgcctttttcgctttcagcgttgcagattgaa
+            gcggcaaaacgttttggtctgagtgcgcagaacgtgcttgatatctgccagaaactgtac
+            gaaacgcacaagctaatcacttatccgcgttctgattgtcgctatttgccagaagaacat
+            tttgccggacgccacgcggtgatgaatgccatcagtgttcatgcaccggatctgttgccg
+            cagccagtggtagatccagatatacgcaaccgctgttgggatgacaaaaaggtcgatgcg
+            caccacgccatcattccgaccgcacggagttctgcgatcaacctgacggagaacgaagcg
+            aaggtctataacctgattgcccgtcagtatctgatgcaattctgcccggatgcggtgttc
+            cgcaagtgtgttatcgaactggacattgccaaaggcaaatttgtcgctaaagcgcgtttt
+            cttgctgaagcaggctggcgcacgctgttaggcagcaaagagcgcgatgaagaaaacgac
+            ggcacgccactgcctgtggtggcgaaaggcgatgagttgctgtgtgaaaaaggtgaagtg
+            gtagagcggcaaacccagccgccgcgccattttaccgatgcaacactgctttcggcgatg
+            accgggatcgcgcgctttgtgcaggataaagatctgaaaaagatcctccgtgcgaccgat
+            ggtctggggacagaggcaacgcgtgccgggattattgaactgttgttcaagcgtggtttc
+            ctgaccaaaaaagggcgctatatccactccaccgacgccggaaaagcgctattccattcg
+            ctgccggagatggcgacgcgaccggacatgaccgcgcactgggaatcggtgctgacgcaa
+            atcagcgaaaagcagtgtcgctatcaggactttatgcagccgctggtggggacgctatat
+            cagcttattgatcaagccaaacgtacgccggtgcggcagtttcgcggcattgtggctccg
+            ggcagtggtggcagtgctgataagaaaaaggctgcaccgcgtaaacgtagtgcgaaaaaa
+            agtccgccagcagatgaagtcggaagcggggcgatagcgtaa
+///

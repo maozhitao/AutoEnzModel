@@ -1,0 +1,35 @@
+ENTRY       b0189             CDS       T00007
+NAME        rof
+DEFINITION  (RefSeq) modulator of Rho-dependent transcription termination
+ORTHOLOGY   K19000  Rho-binding antiterminator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:eco03021]
+                b0189 (rof)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               Other transcription-related factors
+                Transcription termination factor
+                 b0189 (rof)
+POSITION    complement(213678..213932)
+MOTIF       Pfam: ROF
+DBLINKS     NCBI-GeneID: 944891
+            NCBI-ProteinID: NP_414731
+            RegulonDB: ECK120002717
+            ECOCYC: G6097
+            ASAP: ABE-0000641
+            UniProt: P0AFW8
+STRUCTURE   PDB: 1SG5
+AASEQ       84
+            MNDTYQPINCDDYDNLELACQHHLMLTLELKDGEKLQAKASDLVSRKNVEYLVVEAAGET
+            RELRLDKITSFSHPEIGTVVVSES
+NTSEQ       255
+            atgaatgatacgtatcaaccaatcaattgtgatgattacgataatcttgagctcgcctgc
+            cagcatcatttaatgctgacacttgagctgaaagatggcgaaaaattgcaggcaaaagcc
+            agtgatttagtctcccgcaaaaatgtggagtacctggtcgtcgaggccgctggcgaaacc
+            cgcgagctgcgtctggataaaattaccagctttagccacccggaaatcggtacggtggtg
+            gtaagcgaatcctga
+///

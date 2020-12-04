@@ -1,0 +1,54 @@
+ENTRY       b1212             CDS       T00007
+NAME        prmC
+DEFINITION  (RefSeq) protein-(glutamine-N(5)) methyltransferase
+ORTHOLOGY   K02493  release factor glutamine methyltransferase [EC:2.1.1.297]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:eco03012]
+                b1212 (prmC)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.297  peptide chain release factor N5-glutamine methyltransferase
+                 b1212 (prmC)
+            Translation factors [BR:eco03012]
+             Eukaryotic type
+              Release factors
+               b1212 (prmC)
+             Prokaryotic type
+               b1212 (prmC)
+POSITION    1266094..1266927
+MOTIF       Pfam: PrmC_N Methyltransf_31 MTS Methyltransf_25 Methyltransf_4 PrmA Methyltransf_23 Cons_hypoth95 PCMT Methyltransf_11 Methyltransf_16 Methyltransf_12 UPF0020 Methyltransf_2 Methyltransf_15 TehB N6_Mtase Methyltransf_32 Ubie_methyltran GidB Methyltransf_18 DUF938 Ala_racemase_N Methyltr_RsmB-F
+DBLINKS     NCBI-GeneID: 945779
+            NCBI-ProteinID: NP_415730
+            Pasteur: hemK
+            RegulonDB: ECK120002282
+            ECOCYC: EG12424
+            ASAP: ABE-0004068
+            UniProt: P0ACC1
+STRUCTURE   PDB: 2B3T 1T43
+AASEQ       277
+            MEYQHWLREAISQLQASESPRRDAEILLEHVTGRGRTFILAFGETQLTDEQCQQLDALLT
+            RRRDGEPIAHLTGVREFWSLPLFVSPATLIPRPDTECLVEQALARLPEQPCRILDLGTGT
+            GAIALALASERPDCEIIAVDRMPDAVSLAQRNAQHLAIKNIHILQSDWFSALAGQQFAMI
+            VSNPPYIDEQDPHLQQGDVRFEPLTALVAADSGMADIVHIIEQSRNALVSGGFLLLEHGW
+            QQGEAVRQAFILAGYHDVETCRDYGDNERVTLGRYYQ
+NTSEQ       834
+            atggaatatcaacactggttacgtgaagcaataagccaacttcaggcgagcgaaagcccg
+            cggcgtgatgctgaaatcctgctggagcatgttaccggcagagggcgtacttttattctc
+            gcctttggtgaaacgcagctgactgacgaacaatgtcagcaacttgatgcgctactgaca
+            cgtcgtcgcgatggtgaacccattgctcatttaaccggggtgcgagaattctggtcgttg
+            ccgttatttgtttcgccagcgaccttaattccgcgcccggatacggagtgtctggtggag
+            caggcactggcgcggttgcctgaacaaccttgccgtattctcgatctcgggacgggtacc
+            ggggcgattgcgcttgcgctggctagcgagcgcccggactgcgaaattatcgctgtagat
+            cgtatgcctgatgctgtctccctggcacaacgtaatgcccagcatctggcgatcaaaaat
+            atccacattctgcaaagcgactggtttagcgcgctagccgggcagcagtttgcgatgatt
+            gtcagcaatccgccgtatattgacgagcaggaccctcatcttcaacaaggcgatgtccgc
+            tttgagccgctcactgcgctggttgcggcagacagtggaatggcagacatcgtgcatatc
+            atcgaacagtcgcgtaacgcgctggtatccggcggctttctgcttctggaacatggctgg
+            cagcagggcgaagcggtgcgacaagcatttatcctcgcggggtatcatgacgtcgaaacc
+            tgccgtgactatggtgataacgagcgcgtaacgctcggccgctattatcaatga
+///

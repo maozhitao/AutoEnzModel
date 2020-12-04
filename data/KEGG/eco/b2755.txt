@@ -1,0 +1,58 @@
+ENTRY       b2755             CDS       T00007
+NAME        cas1
+DEFINITION  (RefSeq) multifunctional nuclease Cas1
+ORTHOLOGY   K15342  CRISP-associated protein Cas1
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2755 (cas1)
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b2755 (cas1)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                Other HR factor
+                 b2755 (cas1)
+            Prokaryotic defense system [BR:eco02048]
+             CRISPR-Cas system
+              Universal Cas proteins
+               b2755 (cas1)
+POSITION    complement(2878855..2879772)
+MOTIF       Pfam: Cas_Cas1 MgtC
+DBLINKS     NCBI-GeneID: 947228
+            NCBI-ProteinID: NP_417235
+            Pasteur: ygbT
+            RegulonDB: ECK120003990
+            ASAP: ABE-0009038
+            UniProt: Q46896
+STRUCTURE   PDB: 3NKE 3NKD 4P6I 5DLJ 5DQZ 4QDL 5VVK 5DS5 5DQT 5DS4 5VVL
+                 5DS6 5WFE 5VVJ 5DQU
+AASEQ       305
+            MTWLPLNPIPLKDRVSMIFLQYGQIDVIDGAFVLIDKTGIRTHIPVGSVACIMLEPGTRV
+            SHAAVRLAAQVGTLLVWVGEAGVRVYASGQPGGARSDKLLYQAKLALDEDLRLKVVRKMF
+            ELRFGEPAPARRSVEQLRGIEGSRVRATYALLAKQYGVTWNGRRYDPKDWEKGDTINQCI
+            SAATSCLYGVTEAAILAAGYAPAIGFVHTGKPLSFVYDIADIIKFDTVVPKAFEIARRNP
+            GEPDREVRLACRDIFRSSKTLAKLIPLIEDVLAAGEIQPPAPPEDAQPVAIPLPVSLGDA
+            GHRSS
+NTSEQ       918
+            atgacctggcttccccttaatcccattccactcaaagatcgcgtctccatgatctttctg
+            caatatgggcagatcgatgtaatagatggcgcgtttgtacttatcgacaagacagggatc
+            cgcactcatattcctgttggctcggttgcctgcatcatgctggaacctggtacacgggtt
+            tcgcatgcagctgtacgcctggctgcgcaagttggaacattgttggtatgggtgggggaa
+            gcgggcgttcgtgtttatgcttctggtcagcctggaggtgcgcgttcagataagctgctc
+            tatcaggcaaaacttgctctggatgaagatttgcgtctgaaggtcgtacgtaaaatgttt
+            gaacttcggtttggagaacctgcgcctgcccggcgctccgtagagcaactcagaggtata
+            gaaggcagtcgcgtgcgggcaacctacgcacttctggcgaagcaatacggcgtgacatgg
+            aatggacgtcgctacgatccgaaagactgggaaaagggcgatacgatcaaccaatgcatt
+            agcgctgcaacttcctgtttatacggcgtaactgaagcggcgatacttgcagctggttat
+            gcaccagctattgggtttgtgcatacaggaaagcctctttcctttgtttacgatattgca
+            gacatcattaaatttgacactgttgtaccgaaagcttttgagatagcgcgtcgtaaccct
+            ggtgagccggaccgggaagtccgtttggcgtgcagggatatttttcgcagtagtaaaaca
+            ttagccaaattgattccgcttatagaggacgtgcttgccgctggagaaatacaaccgccg
+            gccccacctgaagatgcacagcctgttgccattccgcttcctgtttcactgggagatgca
+            ggccatcggagtagctga
+///

@@ -1,0 +1,66 @@
+ENTRY       b1922             CDS       T00007
+NAME        fliA
+DEFINITION  (RefSeq) RNA polymerase, sigma 28 (sigma F) factor
+ORTHOLOGY   K02405  RNA polymerase sigma factor for flagellar operon FliA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02026  Biofilm formation - Escherichia coli
+            eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1922 (fliA)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b1922 (fliA)
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1922 (fliA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:eco03021]
+                b1922 (fliA)
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1922 (fliA)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               RNA polymerase
+                Sigma factors
+                 b1922 (fliA)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Regulation
+                b1922 (fliA)
+POSITION    complement(2001070..2001789)
+MOTIF       Pfam: Sigma70_r3 Sigma70_r4 Sigma70_r2 Sigma70_r4_2 UPF0147 UPF0122 ThiD2 TFIIE_alpha
+DBLINKS     NCBI-GeneID: 948824
+            NCBI-ProteinID: NP_416432
+            Pasteur: fliA
+            RegulonDB: ECK120001324
+            ECOCYC: EG11355
+            ASAP: ABE-0006396
+            UniProt: P0AEM6
+AASEQ       239
+            MNSLYTAEGVMDKHSLWQRYVPLVRHEALRLQVRLPASVELDDLLQAGGIGLLNAVERYD
+            ALQGTAFTTYAVQRIRGAMLDELRSRDWVPRSVRRNAREVAQAIGQLEQELGRNATETEV
+            AERLGIDIADYRQMLLDTNNSQLFSYDEWREEHGDSIELVTDDHQRENPLQQLLDSNLRQ
+            RVMEAIETLPEREKLVLTLYYQEELNLKEIGAVLEVGESRVSQLHSQAIKRLRTKLGKL
+NTSEQ       720
+            gtgaattcactctataccgctgaaggtgtaatggataaacactcgctgtggcagcgttat
+            gtcccgctggtgcgtcacgaagcattgcgcctgcaggttcgactgcccgcgagcgtggaa
+            cttgacgatctgctacaggcgggcggcattgggttacttaatgccgtcgaacgctatgac
+            gccctacaaggaacggcatttacaacttacgcagtgcagcgtatccgtggcgctatgctg
+            gatgaacttcgcagccgtgactgggtgccgcgcagcgtgcgacgcaacgcgcgtgaagtg
+            gcacaggcaatagggcaactggagcaggaacttggccgcaacgccacggaaactgaggta
+            gcggaacgtttagggatcgatattgccgattatcgccaaatgttgctcgacaccaataac
+            agccagctcttctcctacgatgagtggcgcgaagagcacggcgatagcatcgaactggtt
+            actgatgatcatcagcgagaaaacccgctacaacaactactggacagtaatctgcgccag
+            cgggtgatggaagccatcgaaacgttgccggagcgcgaaaaactggtattaaccctctat
+            taccaggaagagctgaatctcaaagagattggcgcggtgctggaggtcggggaatcgcgg
+            gtcagtcagttacacagccaggctattaaacggttacgcactaaactgggtaagttataa
+///

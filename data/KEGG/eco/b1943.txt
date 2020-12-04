@@ -1,0 +1,58 @@
+ENTRY       b1943             CDS       T00007
+NAME        fliK
+DEFINITION  (RefSeq) flagellar hook-length control protein
+ORTHOLOGY   K02414  flagellar hook-length control protein FliK
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1943 (fliK)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1943 (fliK)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Rod,hook and filament
+                b1943 (fliK)
+POSITION    2018386..2019513
+MOTIF       Pfam: Flg_hook Lipoprotein_16
+DBLINKS     NCBI-GeneID: 946449
+            NCBI-ProteinID: NP_416453
+            Pasteur: fliK
+            RegulonDB: ECK120002694
+            ECOCYC: G379
+            ASAP: ABE-0006464
+            UniProt: P52614
+AASEQ       375
+            MIRLAPLITADVDTTTLPGGKASDAAQDFLALLSEALAGETTTDKAAPQLLVATDKPTTK
+            GEPLISDIVSDAQQANLLIPVDETPPVINDEQSTSTPLTTAQTMALAAVADKNTTKDEKA
+            DDLNEDVTASLSALFAMLPGFDNTPKVTDAPSTVLPTEKPTLFTKLTSEQLTTAQPDDAP
+            GTPAQPLTPLVAEAQSKAEVISTPSPVTAAASPLITPHQTQPLPTVAAPVLSAPLGSHEW
+            QQSLSQHISLFTRQGQQSAELRLHPQDLGEVQISLKVDDNQAQIQMVSPHQHVRAALEAA
+            LPVLRTQLAESGIQLGQSNISGESFSGQQQAASQQQQSQRTANHEPLAGEDDDTLPVPVS
+            LQGRVTGNSGVDIFA
+NTSEQ       1128
+            atgattcgcttagcgcccttgattaccgccgacgttgacaccaccacattgcctggcggc
+            aaagccagcgatgctgcacaagattttctcgcgttgttgagcgaagcattagcaggcgag
+            acaactaccgacaaagcggccccccagttgctggtggcaacagataagcccacgacaaaa
+            ggcgagccgctgatcagcgatattgtttccgacgcgcaacaagctaatttactgatccct
+            gtggatgaaacaccgcctgtcatcaacgacgaacaatccacatcaacaccgttaaccacc
+            gctcagacgatggcgttggctgcggtggctgacaaaaatacgacaaaagacgaaaaagcg
+            gatgatctgaatgaagacgtcaccgcaagcctgagcgccctttttgcgatgttgccgggt
+            tttgacaatacgcccaaagtgactgatgcgccgtcaaccgtgttaccgacagagaaacca
+            acgctcttcacaaaactgacttctgagcaactcacaacagcacagcctgatgacgccccc
+            ggcacaccagctcagccattaacaccgctggtagcagaagcccagagtaaagcggaagtc
+            atcagcacaccttcaccggtgaccgctgccgccagcccgctaatcactccacaccagaca
+            cagccactgcccaccgtcgccgcacctgttttgagtgcaccgctgggttctcacgaatgg
+            caacaatcattaagccagcatatttcgctgttcacccgccaggggcaacaaagtgcagag
+            ttgcgtctgcacccgcaggatttaggtgaagtgcaaatctccctcaaagtggatgataac
+            caggcgcaaatccagatggtttcaccgcatcagcatgtacgcgccgccctggaagcagcg
+            ctgccggtactgcgcacgcagctggccgaaagtggcattcagttagggcaaagcaacatc
+            agtggcgaaagctttagtggtcagcagcaggccgcttcccagcaacagcaaagccaacgc
+            acagcaaaccatgaacctctggcgggggaagacgacgatacgcttccggttcccgtctct
+            ttacaagggcgtgtaacaggcaacagcggcgttgatattttcgcctaa
+///

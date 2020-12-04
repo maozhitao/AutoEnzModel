@@ -1,0 +1,74 @@
+ENTRY       b1609             CDS       T00007
+NAME        rstB
+DEFINITION  (RefSeq) sensory histidine kinase RstB
+ORTHOLOGY   K07639  two-component system, OmpR family, sensor histidine kinase RstB [EC:2.7.13.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1609 (rstB)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b1609 (rstB)
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b1609 (rstB)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 b1609 (rstB)
+            Protein kinases [BR:eco01001]
+             Histidine kinases
+              OmpR family
+               b1609 (rstB)
+            Two-component system [BR:eco02022]
+             OmpR family
+              RstB-RstA
+               b1609 (rstB)
+POSITION    1682882..1684183
+MOTIF       Pfam: HATPase_c HAMP HisKA HATPase_c_2 HATPase_c_3
+DBLINKS     NCBI-GeneID: 948870
+            NCBI-ProteinID: NP_416126
+            Pasteur: rstB
+            RegulonDB: ECK120001211
+            ECOCYC: EG11233
+            ASAP: ABE-0005372
+            UniProt: P18392
+AASEQ       433
+            MKKLFIQFYLLLFVCFLVMSLLVGLVYKFTAERAGKQSLDDLMNSSLYLMRSELREIPPH
+            DWGKTLKEMDLNLSFDLRVEPLSKYHLDDISMHRLRGGEIVALDDQYTFLQRIPRSHYVL
+            AVGPVPYLYYLHQMRLLDIALIAFIAISLAFPVFIWMRPHWQDMLKLEAAAQRFGDGHLN
+            ERIHFDEGSSFERLGVAFNQMADNINALIASKKQLIDGIAHELRTPLVRLRYRLEMSDNL
+            SAAESQALNRDISQLEALIEELLTYARLDRPQNELHLSEPDLPLWLSTHLADIQAVTPDK
+            TVRIKTLVQGHYAALDMRLMERVLDNLLNNALRYCHSTVETSLLLSGNRATLIVEDDGPG
+            IAPENREHIFEPFVRLDPSRDRSTGGCGLGLAIVHSIALAMGGTVNCDTSELGGARFSFS
+            WPLWHNIPQFTSA
+NTSEQ       1302
+            atgaaaaaactgtttatccagttttacctgttattgtttgtctgcttccttgtgatgtct
+            ctgctggttgggctggtgtacaaatttaccgccgaacgcgcgggcaaacagtcgctggat
+            gatttgatgaacagttcgctgtatctgatgcgcagcgaattgcgtgagatccccccacac
+            gactggggtaaaactctgaaagagatggatttaaatctctctttcgatctgcgtgtcgag
+            ccactgagtaaataccatcttgatgatatttccatgcaccgactgcgtggcggcgaaatt
+            gtcgccctggacgatcagtacacgtttttgcagcgtatcccgcgcagccactacgtgctg
+            gcagttggtcctgttccttatctttattatctccatcagatgcgattgctggatatcgcc
+            ctgatcgcttttattgctatttccctcgcctttccggtgtttatctggatgcgtccgcac
+            tggcaggatatgttaaaactggaagcagcggcgcaacgatttggcgatgggcatctcaat
+            gaacgtatccactttgatgagggttcgagctttgaacgacttggcgtcgcatttaaccag
+            atggcggacaatatcaacgccttaattgccagcaaaaaacagcttattgacggtatcgct
+            cacgaactgcgaacaccgttagtgcgcctgcgttatcgactggagatgagcgataacctg
+            agcgccgccgaatcccaggcgttgaatcgtgatatcagtcaacttgaagctttaattgaa
+            gagctgctgacttatgcccgactcgatcgcccacaaaacgagcttcatcttagcgaacca
+            gacctgccgttgtggctgtcaacgcatctggcagatattcaggcagtaacgcccgataaa
+            acggtacggataaaaacgctcgtgcaaggccattatgcggcgttggatatgcgcttaatg
+            gagcgcgtgctggataatttgctcaataacgccctgcggtactgccattcaacggttgaa
+            accagcctgctactgtcggggaatagagcgacattaattgttgaggatgatggcccaggg
+            attgccccagaaaaccgcgaacatatctttgaaccttttgttcgcctcgatcccagccgg
+            gatcgctcaaccggcggctgcgggctggggctggcaattgtccactctatagcactggca
+            atgggcggtacggttaattgtgacaccagcgaactgggtggtgcccgcttctcgtttagc
+            tggccgttatggcataacatcccgcaatttacctctgcctga
+///

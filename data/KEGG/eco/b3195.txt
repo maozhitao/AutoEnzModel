@@ -1,0 +1,55 @@
+ENTRY       b3195             CDS       T00007
+NAME        mlaF
+DEFINITION  (RefSeq) intermembrane phospholipid transport system, ATP binding subunit MlaF
+ORTHOLOGY   K02065  phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b3195 (mlaF)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3195 (mlaF)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Saccharide, polyol, and lipid transporters
+               gamma-Hexachlorocyclohexane transporter
+                b3195 (mlaF)
+               Phospholipid transporter
+                b3195 (mlaF)
+               Mce system transporter
+                b3195 (mlaF)
+POSITION    complement(3339256..3340065)
+MOTIF       Pfam: ABC_tran AAA_21 RsgA_GTPase AAA_16 AAA_25 ABC_ATPase AAA_22 AAA_29 AAA_23 AAA_3 AAA_24 AAA_14 NACHT AAA
+DBLINKS     NCBI-GeneID: 947729
+            NCBI-ProteinID: NP_417662
+            Pasteur: yrbF
+            RegulonDB: ECK120002388
+            ECOCYC: EG12801
+            ASAP: ABE-0010498
+            UniProt: P63386
+AASEQ       269
+            MEQSVANLVDMRDVSFTRGNRCIFDNISLTVPRGKITAIMGPSGIGKTTLLRLIGGQIAP
+            DHGEILFDGENIPAMSRSRLYTVRKRMSMLFQSGALFTDMNVFDNVAYPLREHTQLPAPL
+            LHSTVMMKLEAVGLRGAAKLMPSELSGGMARRAALARAIALEPDLIMFDEPFVGQDPITM
+            GVLVKLISELNSALGVTCVVVSHDVPEVLSIADHAWILADKKIVAHGSAQALQANPDPRV
+            RQFLDGIADGPVPFRYPAGDYHADLLPGS
+NTSEQ       810
+            atggagcagtctgtggcgaatttagtcgatatgcgcgatgtcagttttacgcgtggcaat
+            cgctgcatcttcgataatatttccctgaccgtgccgcgagggaagatcacggcgatcatg
+            gggccatcgggcatcggtaaaacgacgctactccgtctgattggcgggcaaatcgcacca
+            gatcatggtgagatccttttcgatggtgagaatattccggcgatgtctcgttcgcgcctg
+            tatacagtgcgcaaacggatgagcatgttatttcagtccggggcgttgttcactgatatg
+            aacgtatttgacaacgtcgcctatccactgcgcgaacatacccaacttcccgcgccattg
+            ttgcatagtacggtgatgatgaagctggaggccgtggggctgcgtggagcggctaaacta
+            atgccttctgaactttccggtgggatggcgcggcgtgcagcgctggcgcgtgcgattgcg
+            ctggagccggatctcatcatgtttgatgaaccttttgttgggcaagatcccatcaccatg
+            ggcgtactggtgaagctgatttctgagctgaacagcgcgctgggcgtgacttgtgtggtg
+            gtttctcacgatgtgccggaagtgttaagtattgcggatcacgcctggatcctggcggac
+            aaaaaaattgtcgctcatggcagtgcccaggcgttgcaggcgaatcctgatccgcgcgta
+            cgtcagtttctggacgggatagctgacgggcctgttccgttccgctatcctgccggcgat
+            tatcacgctgatcttttaccagggagttaa
+///

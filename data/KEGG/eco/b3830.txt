@@ -1,0 +1,55 @@
+ENTRY       b3830             CDS       T00007
+NAME        ysgA
+DEFINITION  (RefSeq) putative dienelactone hydrolase
+ORTHOLOGY   K01061  carboxymethylenebutenolidase [EC:3.1.1.45]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00361  Chlorocyclohexane and chlorobenzene degradation
+            eco00364  Fluorobenzoate degradation
+            eco00623  Toluene degradation
+            eco01100  Metabolic pathways
+            eco01120  Microbial metabolism in diverse environments
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09111 Xenobiotics biodegradation and metabolism
+               00364 Fluorobenzoate degradation
+                b3830 (ysgA)
+               00361 Chlorocyclohexane and chlorobenzene degradation
+                b3830 (ysgA)
+               00623 Toluene degradation
+                b3830 (ysgA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.45  carboxymethylenebutenolidase
+                 b3830 (ysgA)
+POSITION    complement(4015354..4016169)
+MOTIF       Pfam: DLH BAAT_C Abhydrolase_1 Peptidase_S9 Hydrolase_4 Abhydrolase_2 Abhydrolase_6 Abhydrolase_4 Abhydrolase_5 AXE1
+DBLINKS     NCBI-GeneID: 948320
+            NCBI-ProteinID: YP_026268
+            RegulonDB: ECK120004313
+            ECOCYC: G7804
+            ASAP: ABE-0012522
+            UniProt: P56262
+AASEQ       271
+            MATTQQSGFAPAASPLASTIVQTPDDAIVAGFTSIPSQGDNMPAYHARPKQSDGPLPVVI
+            VVQEIFGVHEHIRDICRRLALEGYLAIAPELYFREGDPNDFADIPTLLSGLVAKVPDSQV
+            LADLDHVASWASRNGGDVHRLMITGFCWGGRITWLYAAHNPQLKAAVAWYGKLTGDKSLN
+            SPKQPVDIATDLNAPILGLYGGQDNSIPQESVETMRQALRAANAKAEIIVYPDAGHAFNA
+            DYRPSYHAASAEDGWQRMLEWFKQYGGKKSL
+NTSEQ       816
+            atggcaacaacacaacaatctggatttgcacctgctgcatcgcctctcgcttcgaccatc
+            gttcagaccccggacgacgcgattgtggcgggcttcacctctatcccttcacaaggggat
+            aacatgcctgcttaccatgccagaccaaagcaaagcgatggcccactgccagtggtcatt
+            gtagtgcaggaaatttttggcgtgcatgaacatatccgcgacatttgtcgccgtctggcg
+            ctggaggggtatctggctatcgcacctgaactttacttccgcgaaggcgatccgaatgat
+            tttgccgatatccccacgttgcttagcggtctggtagcaaaagtgcctgactcgcaggtg
+            ctggccgatctcgatcatgtcgccagttgggcttcccgcaacggcggcgatgttcatcgt
+            ttaatgatcaccggattctgctggggtggacgtatcacctggctgtatgccgcgcataat
+            ccacagctaaaagccgcagtggcgtggtacggcaaactgacgggcgacaagtcgctgaat
+            tcaccgaaacaacctgttgatatcgcaaccgatcttaacgcgccgattctcggcttatat
+            ggtggtcaggataacagcattccgcaggagagcgttgaaaccatgcgccaggcgctgcgg
+            gctgctaatgcgaaagcagagattatcgtgtacccggacgccgggcatgcattcaacgct
+            gattatcgcccgagctatcatgccgcatctgcagaagatggctggcagcgtatgctggaa
+            tggtttaagcagtatggtgggaagaagtcgctgtaa
+///

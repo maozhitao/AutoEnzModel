@@ -1,0 +1,66 @@
+ENTRY       b4391             CDS       T00007
+NAME        ettA
+DEFINITION  (RefSeq) energy-dependent translational throttle protein EttA
+ORTHOLOGY   K06020  energy-dependent translational throttle protein EttA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b4391 (ettA)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA transport factors
+               tRNA export factors
+                b4391 (ettA)
+POSITION    complement(4628855..4630522)
+MOTIF       Pfam: ABC_tran AAA_21 ABC_tran_Xtn SMC_N MMR_HSR1 AAA_23 AAA_29 AAA_22 RsgA_GTPase AAA_16 AAA_27 ATP-synt_ab AAA_13 AAA_28 HAUS4 NB-ARC Dynamin_N
+DBLINKS     NCBI-GeneID: 948909
+            NCBI-ProteinID: NP_418808
+            Pasteur: yjjK
+            RegulonDB: ECK120002218
+            ECOCYC: EG12343
+            ASAP: ABE-0014400
+            UniProt: P0A9W3
+STRUCTURE   PDB: 4FIN 3J5S
+AASEQ       555
+            MAQFVYTMHRVGKVVPPKRHILKNISLSFFPGAKIGVLGLNGAGKSTLLRIMAGIDKDIE
+            GEARPQPDIKIGYLPQEPQLNPEHTVRESIEEAVSEVVNALKRLDEVYALYADPDADFDK
+            LAAEQGRLEEIIQAHDGHNLNVQLERAADALRLPDWDAKIANLSGGERRRVALCRLLLEK
+            PDMLLLDEPTNHLDAESVAWLERFLHDFEGTVVAITHDRYFLDNVAGWILELDRGEGIPW
+            EGNYSSWLEQKDQRLAQEASQEAARRKSIEKELEWVRQGTKGRQSKGKARLARFEELNST
+            EYQKRNETNELFIPPGPRLGDKVLEVSNLRKSYGDRLLIDDLSFSIPKGAIVGIIGPNGA
+            GKSTLFRMISGQEQPDSGTITLGETVKLASVDQFRDSMDNSKTVWEEVSGGLDIMKIGNT
+            EMPSRAYVGRFNFKGVDQGKRVGELSGGERGRLHLAKLLQVGGNMLLLDEPTNDLDIETL
+            RALENALLEFPGCAMVISHDRWFLDRIATHILDYQDEGKVEFFEGNFTEYEEYKKRTLGA
+            DALEPKRIKYKRIAK
+NTSEQ       1668
+            gtggctcaattcgtttataccatgcatcgtgtcggcaaagttgttccgccgaaacgtcat
+            attttgaaaaacatctctctgagtttcttccctggggcaaaaattggtgtcctgggtctg
+            aatggcgcgggtaagtccaccctgctgcgcattatggcgggcattgataaagacatcgaa
+            ggtgaagcgcgtccgcagccagacatcaagattggttatctgccgcaggaaccgcagctg
+            aacccggaacacaccgtgcgtgagtccattgaagaagcggtttcagaagtggttaacgcc
+            ctgaaacgcctggatgaagtgtatgcgctgtacgccgatccggatgccgattttgacaag
+            ctggccgctgaacaaggccgtctggaagagatcattcaggctcacgacggtcataatctg
+            aacgtacagctggagcgtgcggcggatgcgctacgtctgccggactgggacgcgaaaatc
+            gctaacctctccggtggtgaacgtcgtcgcgtagcgttgtgccgcctgctgctggaaaaa
+            ccagacatgctgctgctcgacgaaccgaccaaccacctggatgccgaatccgtggcctgg
+            ctggaacgcttcctgcacgacttcgaaggcaccgttgtggcgattacccacgaccgttac
+            ttcctcgataacgttgcaggctggatcctcgaacttgaccgcggtgaaggtattccgtgg
+            gaaggtaactactcctcctggctggagcagaaagatcagcgcctggcgcaggaagcttca
+            caagaagcggcgcgtcgtaagtcgattgagaaagagctggaatgggtacgtcaaggtact
+            aaaggccgtcagtcgaaaggtaaagcacgtctggcgcgctttgaagaactgaacagcacc
+            gaatatcagaaacgtaacgaaaccaacgaactgtttattccacctggaccgcgtctgggc
+            gataaagtgctggaagtcagcaacctgcgtaaatcctatggcgatcgtctgctgattgat
+            gacctgagcttctcgatcccgaaaggagcgatcgtcgggatcatcggtccgaacggtgcg
+            ggtaaatcgaccctgttccgtatgatctctggtcaggaacagccggacagcggcaccatc
+            actttgggtgaaacggtgaaactggcgtcggttgatcagttccgtgactcaatggataac
+            agcaaaaccgtttgggaagaagtttccggcgggctggatatcatgaagatcggcaacacc
+            gagatgccaagccgcgcctacgttggccgctttaactttaaaggggttgatcagggtaaa
+            cgcgttggtgaactctccggtggtgagcgcggtcgtctgcatctggcgaagctgctgcag
+            gttggcggcaacatgctgctgctcgacgaaccaaccaacgacctggatatcgaaaccctg
+            cgcgcgctggaaaacgccctgctggagttcccgggctgtgcgatggttatctcgcacgac
+            cgttggttcctcgaccgtatcgccacgcacattctggattaccaggatgaaggtaaagtt
+            gagttcttcgaaggtaactttaccgagtacgaagagtacaagaaacgcacgctgggcgca
+            gacgcgctggagccgaagcgtatcaagtacaagcgtattgcgaagtaa
+///

@@ -1,0 +1,51 @@
+ENTRY       b4475             CDS       T00007
+NAME        rtcA
+DEFINITION  (RefSeq) RNA 3'-terminal phosphate cyclase
+ORTHOLOGY   K01974  RNA 3'-terminal phosphate cyclase (ATP) [EC:6.5.1.4]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b4475 (rtcA)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.5  Forming phosphoric-ester bonds
+               6.5.1  Ligases that form phosphoric-ester bonds (only sub-subclass identified to date)
+                6.5.1.4  RNA 3'-terminal-phosphate cyclase (ATP)
+                 b4475 (rtcA)
+POSITION    complement(3555833..3556849)
+MOTIF       Pfam: RTC RTC_insert
+DBLINKS     NCBI-GeneID: 2847707
+            NCBI-ProteinID: YP_026219
+            RegulonDB: ECK120004292
+            ECOCYC: G7750
+            ASAP: ABE-0174104
+            UniProt: P46849
+STRUCTURE   PDB: 3TUT 3KGD 3TUX 3TV1 3TW3 1QMH 1QMI
+AASEQ       338
+            MKRMIALDGAQGEGGGQILRSALSLSMITGQPFTITSIRAGRAKPGLLRQHLTAVKAATE
+            ICGATVEGAELGSQRLLFRPGTVRGGDYRFAIGSAGSCTLVLQTVLPALWFADGPSRVEV
+            SGGTDNPSAPPADFIRRVLEPLLAKIGIHQQTTLLRHGFYPAGGGVVATEVSPVASFNTL
+            QLGERGNIVQMRGEVLLAGVPRHVAEREIATLAGSFSLHEQNIHNLPRDQGPGNTVSLEV
+            ESENITERFFVVGEKRVSAEVVAAQLVKEVKRYLASTAAVGEYLADQLVLPMALAGAGEF
+            TVAHPSCHLLTNIAVVERFLPVRFSLIETDGVTRVSIE
+NTSEQ       1017
+            atgaaaaggatgattgcgctggatggcgcacagggcgaaggtggcgggcagatcctgcgc
+            tcggcgctgagcctgtcgatgataaccggccagccatttaccatcaccagcattcgtgcc
+            gggcgggcgaaaccggggctgttgcgccagcatctgaccgcggtaaaggcggcgacggaa
+            atttgcggagcaaccgtggaaggcgcggagctggggtcgcagcgtctgctcttccggccc
+            ggcaccgtgcgcggcggcgattaccgctttgctatcggtagcgccggaagttgtacgctg
+            gtgctgcaaacggtgctgcccgcgctgtggtttgccgatggaccttcgcgtgttgaagtg
+            agcggcggcaccgataacccgtcggcgccgcctgcggattttatccgccgggtgctggag
+            ccgctgctggcgaaaataggaattcatcagcaaaccacgctgttacgccacggtttttac
+            cctgccggaggcggtgtggtggcaacggaagtctcgcccgtggcatcgtttaacaccttg
+            caacttggcgagcgcgggaacattgtgcagatgcgtggagaagttctattagctggtgtg
+            ccgcgccatgttgctgagcgtgaaatcgctacactggcggggagtttttccctgcatgaa
+            cagaatattcataacctgccgcgcgaccaggggccgggtaataccgtctcgcttgaagtc
+            gaaagtgaaaatatcaccgaacgcttttttgtcgtcggtgaaaagcgcgtcagtgccgag
+            gtggttgcggcacagttggtgaaagaggtgaaacgctacctggcaagcacggcggcggtg
+            ggggaatatcttgctgaccaactggtgctaccgatggcgctggcgggcgcgggggaattt
+            acggtcgcccatccctcatgccatctgctgaccaatatcgcggtggtggagcgtttcttg
+            ccggtgcggtttagtttgatagaaacagatggcgtaacgcgggtgagcattgaatga
+///

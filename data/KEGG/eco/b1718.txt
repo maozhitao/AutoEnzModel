@@ -1,0 +1,50 @@
+ENTRY       b1718             CDS       T00007
+NAME        infC
+DEFINITION  (RefSeq) translation initiation factor IF-3
+ORTHOLOGY   K02520  translation initiation factor IF-3
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:eco03012]
+                b1718 (infC)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b1718 (infC)
+            Translation factors [BR:eco03012]
+             Eukaryotic type
+              Initiation factors
+               MTIFs
+                b1718 (infC)
+             Prokaryotic type
+               b1718 (infC)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Mitochondrial translation factors
+                b1718 (infC)
+POSITION    complement(1800096..1800638)
+MOTIF       Pfam: IF3_C IF3_N DUF2303
+DBLINKS     NCBI-GeneID: 946225
+            NCBI-ProteinID: NP_416233
+            Pasteur: infC
+            RegulonDB: ECK120000499
+            ECOCYC: EG10506
+            ASAP: ABE-0005734
+            UniProt: P0A707
+STRUCTURE   PDB: 5ME0 5ME1 2IFE
+AASEQ       180
+            MKGGKRVQTARPNRINGEIRAQEVRLTGLEGEQLGIVSLREALEKAEEAGVDLVEISPNA
+            EPPVCRIMDYGKFLYEKSKSSKEQKKKQKVIQVKEIKFRPGTDEGDYQVKLRSLIRFLEE
+            GDKAKITLRFRGREMAHQQIGMEVLNRVKDDLQELAVVESFPTKIEGRQMIMVLAPKKKQ
+NTSEQ       543
+            attaaaggcggaaaacgagttcaaacggcgcgccctaaccgtatcaatggcgaaattcgc
+            gcccaggaagttcgcttaacaggtctggaaggcgagcagcttggtattgtgagtctgaga
+            gaagctctggagaaagcagaagaagccggagtagacttagtcgagatcagccctaacgcc
+            gagccgccggtttgtcgtataatggattacggcaaattcctctatgaaaagagcaagtct
+            tctaaggaacagaagaaaaagcaaaaagttatccaggttaaggaaattaaattccgtcct
+            ggtacagatgaaggcgactatcaggtaaaactccgcagcctgattcgctttctcgaagag
+            ggtgataaagccaaaatcacgctgcgtttccgcggtcgtgagatggcgcaccagcaaatc
+            ggtatggaagtgcttaatcgcgtgaaagacgatttgcaagaactggcagtggtcgaatcc
+            ttcccaacgaagatcgaaggccgccagatgatcatggtgctcgctcctaagaagaaacag
+            taa
+///

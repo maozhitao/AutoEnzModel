@@ -1,0 +1,76 @@
+ENTRY       b2933             CDS       T00007
+NAME        cmtA
+DEFINITION  (RefSeq) mannitol-specific PTS enzyme IICB component CmtA
+ORTHOLOGY   K02800  mannitol PTS system EIICBA or EIICB component [EC:2.7.1.197]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00051  Fructose and mannose metabolism
+            eco01100  Metabolic pathways
+            eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00051 Fructose and mannose metabolism
+                b2933 (cmtA)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b2933 (cmtA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2933 (cmtA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.197  protein-Npi-phosphohistidine---D-mannitol phosphotransferase
+                 b2933 (cmtA)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               Mannitol-specific II component
+                b2933 (cmtA)
+POSITION    complement(3077471..3078859)
+MOTIF       Pfam: PTS_EIIC PTS_IIB DUF1846
+DBLINKS     NCBI-GeneID: 945256
+            NCBI-ProteinID: NP_417408
+            Pasteur: cmtA
+            RegulonDB: ECK120001726
+            ECOCYC: EG11792
+            ASAP: ABE-0009621
+            UniProt: P69826
+AASEQ       462
+            MENKSARAKVQAFGGFLTAMVIPNIGAFIAWGFITALFIPTGWLPNEHFAKIVGPMITYL
+            LPVMIGSTGGHLVGGKRGAVMGGIGTIGVIVGAEIPMFLGSMIMGPLGGLVIKYVDKALE
+            KRIPAGFEMVINNFSLGIAGMLLCLLGFEVIGPAVLIANTFVKECIEALVHAGYLPLLSV
+            INEPAKVLFLNNAIDQGVYYPLGMQQASVNGKSIFFMVASNPGPGLGLLLAFTLFGKGMS
+            KRSAPGAMIIHFLGGIHELYFPYVLMKPLTIIAMIAGGMSGTWMFNLLDGGLVAGPSPGS
+            IFAYLALTPKGSFLATIAGVTVGTLVSFAITSLILKMEKTVETESEDEFAQSANAVKAMK
+            QEGAFSLSRVKRIAFVCDAGMGSSAMGATTFRKRLEKAGLAIEVKHYAIENVPADADIVV
+            THASLEGRVKRVTDKPLILINNYIGDPKLDTLFNQLTAEHKH
+NTSEQ       1389
+            atggaaaacaagtctgctcgtgcaaaggtccaggcttttgggggctttttgactgcaatg
+            gtcatccccaatattggtgcttttattgcctggggttttattactgcgttatttattccc
+            accggttggctgcctaacgaacatttcgccaaaattgtcggcccgatgattacctattta
+            ttgcccgtgatgattggttctacaggtggtcatctggtcggcggtaaacgcggggcggtc
+            atgggcggaataggtactattggtgtgatcgttggcgcagagatcccgatgttccttggc
+            tcaatgatcatggggccgctcggtgggttggtcataaaatatgtcgataaggcactggaa
+            aaacgcatacctgccggttttgagatggttatcaataacttctcattaggtatcgcgggg
+            atgctcctttgtctgctgggttttgaagttatcggcccggcggtgttaattgccaatact
+            ttcgtcaaagagtgtattgaggcgctggtacatgcgggttatctgccattgttgtcagtc
+            atcaatgaaccggcgaaagtgcttttcctcaataatgcgatcgatcagggcgtctattat
+            ccgctgggaatgcaacaggcttcggttaacggtaaatccatcttctttatggtggcctct
+            aacccaggtccgggcctggggctgctgctggcgtttaccttgtttggtaaagggatgagt
+            aaacgttctgcgcccggggcgatgattattcacttcctcggtgggatccacgaactgtat
+            ttcccgtatgtgctgatgaagccgctgaccattattgccatgattgcgggcggtatgtct
+            ggcacctggatgtttaacttactggacggtggtctggtggctggcccaagtccggggtct
+            atctttgcttacctggcactgacgccgaaaggctcgttcctggcgacaattgccggtgtt
+            acggtaggtaccctggtgtcctttgctattacttcgctgatactgaagatggaaaaaacg
+            gtggaaacggagagcgaagatgagtttgctcagtcagccaatgcggttaaggcgatgaaa
+            caagagggtgcattctcgttaagcagggttaagcgtatcgcctttgtttgcgatgcgggg
+            atgggctccagtgcgatgggcgcgaccaccttccgtaaacgcctggaaaaagcggggctg
+            gcaattgaagtaaaacattacgccatagaaaacgtgcctgcggatgcggatatcgtcgtt
+            actcatgccagtctggaagggcgcgtgaaacgtgtgacggataaaccactgatattgatt
+            aataactatattggcgatccaaaactcgacactttatttaatcaattaaccgccgaacat
+            aaacactga
+///

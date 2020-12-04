@@ -1,0 +1,55 @@
+ENTRY       b2369             CDS       T00007
+NAME        evgA
+DEFINITION  (RefSeq) DNA-binding transcriptional activator EvgA
+ORTHOLOGY   K07690  two-component system, NarL family, response regulator EvgA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+MODULE      eco_M00697  Multidrug resistance, efflux pump MdtEF-TolC
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b2369 (evgA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b2369 (evgA)
+               01504 Antimicrobial resistance genes [BR:eco01504]
+                b2369 (evgA)
+            Two-component system [BR:eco02022]
+             NarL family
+              EvgS-EvgA (acid and drug tolerance)
+               b2369 (evgA)
+            Antimicrobial resistance genes [BR:eco01504]
+             Gene sets
+              Multipdrug resistance modules
+               Multidrug resistance, efflux pump MdtEF-TolC [MD:M00697]
+                b2369 (evgA)
+POSITION    2483755..2484369
+MOTIF       Pfam: Response_reg GerE Sigma70_r4_2 HTH_24 B12-binding Sigma70_r4
+DBLINKS     NCBI-GeneID: 946841
+            NCBI-ProteinID: NP_416870
+            Pasteur: evgA
+            RegulonDB: ECK120001557
+            ECOCYC: EG11609
+            ASAP: ABE-0007817
+            UniProt: P0ACZ4
+STRUCTURE   PDB: 3F6C
+AASEQ       204
+            MNAIIIDDHPLAIAAIRNLLIKNDIEILAELTEGGSAVQRVETLKPDIVIIDVDIPGVNG
+            IQVLETLRKRQYSGIIIIVSAKNDHFYGKHCADAGANGFVSKKEGMNNIIAAIEAAKNGY
+            CYFPFSLNRFVGSLTSDQQKLDSLSKQEISVMRYILDGKDNNDIAEKMFISNKTVSTYKS
+            RLMEKLECKSLMDLYTFAQRNKIG
+NTSEQ       615
+            atgaacgcaataattattgatgaccatcctcttgctatcgcagcaattcgtaatttattg
+            atcaaaaacgatattgaaatcttagcagagttgactgaaggcggaagtgccgttcagcgg
+            gtggaaacacttaagcctgatatcgtcatcattgatgtcgatatccccggagttaacggt
+            atccaggtgttagaaacgctgaggaagcgccaatatagcggaattattattatcgtctcc
+            gctaaaaatgaccatttttacgggaaacattgtgctgatgctggcgctaatggtttcgtg
+            agtaaaaaagaaggcatgaacaatatcattgcggctattgaagctgcaaaaaatggctac
+            tgctatttccccttctctctcaaccggtttgttggaagtttaacgtccgaccagcaaaaa
+            ctcgactccttatcgaaacaagaaattagtgtcatgcggtatattcttgatggcaaggat
+            aataatgacattgctgaaaaaatgttcatcagcaacaaaactgtcagcacttataaaagt
+            cgcctgatggaaaaattagaatgtaaatcactgatggatctttacacattcgcacaacgt
+            aacaaaatcggctaa
+///

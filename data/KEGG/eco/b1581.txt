@@ -1,0 +1,60 @@
+ENTRY       b1581             CDS       T00007
+NAME        rspA
+DEFINITION  (RefSeq) mandelate racemase/muconate lactonizing enzyme family protein RspA
+ORTHOLOGY   K08323  mannonate dehydratase [EC:4.2.1.8]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00040  Pentose and glucuronate interconversions
+            eco01100  Metabolic pathways
+MODULE      eco_M00061  D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00040 Pentose and glucuronate interconversions
+                b1581 (rspA)
+            Enzymes [BR:eco01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.8  mannonate dehydratase
+                 b1581 (rspA)
+POSITION    complement(1653927..1655141)
+MOTIF       Pfam: MR_MLE_C MR_MLE_N Enolase_N
+DBLINKS     NCBI-GeneID: 946126
+            NCBI-ProteinID: NP_416098
+            Pasteur: rspA
+            RegulonDB: ECK120003428
+            ECOCYC: G6839
+            ASAP: ABE-0005275
+            UniProt: P38104
+STRUCTURE   PDB: 4IL2
+AASEQ       404
+            MKIVKAEVFVTCPGRNFVTLKITTEDGITGLGDATLNGRELSVASYLQDHLCPQLIGRDA
+            HRIEDIWQFFYKGAYWRRGPVTMSAISAVDMALWDIKAKAANMPLYQLLGGASREGVMVY
+            CHTTGHSIDEALDDYARHQELGFKAIRVQCGIPGMKTTYGMSKGKGLAYEPATKGQWPEE
+            QLWSTEKYLDFMPKLFDAVRNKFGFNEHLLHDMHHRLTPIEAARFGKSIEDYRMFWMEDP
+            TPAENQECFRLIRQHTVTPIAVGEVFNSIWDCKQLIEEQLIDYIRTTLTHAGGITGMRRI
+            ADFASLYQVRTGSHGPSDLSPVCMAAALHFDLWVPNFGVQEYMGYSEQMLEVFPHNWTFD
+            NGYMHPGDKPGLGIEFDEKLAAKYPYEPAYLPVARLEDGTLWNW
+NTSEQ       1215
+            atgaagatcgtaaaggctgaagtttttgttacctgtccggggcgtaatttcgtcacatta
+            aaaatcaccactgaggacggtattacgggccttggggatgccaccctcaatggacgtgag
+            ctttccgtggcctcttatttgcaggatcacctttgtccgcagcttattggtcgcgatgcg
+            caccgtatcgaagatatctggcagtttttctataaaggtgcttactggcgtcgcggtccg
+            gttacgatgtcggccatttcagcggttgatatggcgctgtgggatattaaagccaaagct
+            gccaacatgccgctttaccagttactcggcggcgcgtctcgtgaaggggtgatggtttat
+            tgccataccaccggtcacagtattgatgaagctctggatgattatgcccgtcatcaagag
+            cttggattcaaagccatccgcgtgcagtgcggaatccctggtatgaaaaccacctacggc
+            atgtcgaaaggtaaaggtctggcttatgaacccgcaaccaaaggacagtggccggaagag
+            cagctgtggtcgacggagaaatacctcgatttcatgccgaaattgtttgacgcggtacgt
+            aacaagtttggttttaatgaacatttgctgcatgacatgcaccatcgcttaacgcctatt
+            gaagcggcgcgctttggtaaaagcattgaagattatcgcatgttctggatggaagacccg
+            acgcctgcggaaaaccaggaatgcttccgtctcattcgccaacataccgtcacacccatc
+            gcagtgggtgaagtcttcaacagcatctgggactgcaaacaactgattgaagagcaactc
+            atcgattatatccgcaccacgctgacccatgcaggcggaattaccggtatgcgccggatt
+            gccgattttgcttcgctgtatcaggtacgtactggctcacacggtccttccgatttgtca
+            ccagtctgcatggctgcggcgctgcactttgatctgtgggtccccaatttcggtgtccag
+            gaatacatgggttattccgaacaaatgctcgaagtcttcccgcacaactggactttcgat
+            aacggctatatgcatccgggagacaaaccgggtcttggtatcgaattcgatgaaaagctg
+            gcggcgaaatatccctatgaacctgcttatctaccagtcgcacgtctggaagatggcacg
+            ctgtggaactggtaa
+///

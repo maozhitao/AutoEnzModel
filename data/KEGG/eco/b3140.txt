@@ -1,0 +1,57 @@
+ENTRY       b3140             CDS       T00007
+NAME        agaD
+DEFINITION  (RefSeq) galactosamine-specific PTS enzyme IID component
+ORTHOLOGY   K10986  galactosamine PTS system EIID component
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00052  Galactose metabolism
+            eco01100  Metabolic pathways
+            eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00052 Galactose metabolism
+                b3140 (agaD)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b3140 (agaD)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3140 (agaD)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               Galactosamine-specific II component
+                b3140 (agaD)
+POSITION    3285478..3286269
+MOTIF       Pfam: EIID-AGA Keratin_assoc
+DBLINKS     NCBI-GeneID: 947649
+            NCBI-ProteinID: NP_417609
+            Pasteur: agaD
+            RegulonDB: ECK120004185
+            ECOCYC: G7635
+            ASAP: ABE-0010314
+            UniProt: P42911
+AASEQ       263
+            MGSEISKKDITRLGFRSSLLQASFNYERMQAGGFTWAMLPILKKIYKDDKPGLSAAMKDN
+            LEFINTHPNLVGFLMGLLISMEEKGENRDTIKGLKVALFGPIAGIGDAIFWFTLLPIMAG
+            ICSSFASQGNLLGPILFFAVYLLIFFLRVGWTHVGYSVGVKAIDKVRENSQMIARSATIL
+            GITVIGGLIASYVHINVVTSFAIDNTHSVALQQDFFDKVFPNILPMAYTLLMYYFLRVKK
+            AHPVLLIGVTFVLSIVCSAFGIL
+NTSEQ       792
+            atgggatctgaaatcagtaaaaaagatatcacccgtctgggctttcgttcgtcgctgctg
+            caagcgagctttaactacgaaaggatgcaggcgggcggttttacctgggcgatgttgccg
+            atcctgaaaaagatttataaggacgacaaaccgggcttaagcgcggcgatgaaagataac
+            ctcgaatttattaatacccacccgaatctggtcggattcctgatggggttattaatttcg
+            atggaagaaaaaggagaaaaccgcgacaccattaaaggcctcaaagtggcactgtttggc
+            ccaatcgccgggattggcgatgcgattttctggtttactttgttgccgattatggcggga
+            atttgctcatcatttgccagccagggaaacctgctggggccgattctatttttcgccgtt
+            tacctgcttatctttttcctgcgcgtcggctggacccacgtcggttattcagtcggcgtg
+            aaggcgatcgataaagtgcgagagaactcgcagatgattgcccgttcggcaaccatcctc
+            gggatcacggtaatcggcgggctgatcgcttcgtatgtgcatattaacgtggtgacatcg
+            tttgccatcgacaatacccacagcgttgcgctgcagcaggatttcttcgataaagtcttc
+            ccgaacattttaccgatggcctacaccctgctgatgtattacttcctgcgggtgaaaaaa
+            gcgcatccggtgctgttaatcggcgtgacttttgtgctctctattgtttgttccgcattc
+            ggcattttgtaa
+///

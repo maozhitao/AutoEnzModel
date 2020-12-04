@@ -1,0 +1,68 @@
+ENTRY       b3706             CDS       T00007
+NAME        mnmE
+DEFINITION  (RefSeq) 5-carboxymethylaminomethyluridine-tRNA synthase GTPase subunit
+ORTHOLOGY   K03650  tRNA modification GTPase [EC:3.6.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3706 (mnmE)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.-  Acting on acid anhydrides
+                3.6.-.-  
+                 b3706 (mnmE)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              tRNA modification factors
+               Other tRNA modification factors
+                b3706 (mnmE)
+             Prokaryotic type
+               Methyltransferases
+                b3706 (mnmE)
+POSITION    3886828..3888192
+MOTIF       Pfam: MnmE_helical TrmE_N MMR_HSR1 FeoB_N Dynamin_N Ras RsgA_GTPase AIG1 ABC_tran Roc AAA_28 Arf SRPRB Gtr1_RagA
+DBLINKS     NCBI-GeneID: 948222
+            NCBI-ProteinID: NP_418162
+            Pasteur: trmE
+            RegulonDB: ECK120000986
+            ECOCYC: EG10997
+            ASAP: ABE-0012123
+            UniProt: P25522
+STRUCTURE   PDB: 2GJ8 2GJA 2GJ9 1RFL
+AASEQ       454
+            MSDNDTIVAQATPPGRGGVGILRISGFKAREVAETVLGKLPKPRYADYLPFKDADGSVLD
+            QGIALWFPGPNSFTGEDVLELQGHGGPVILDLLLKRILTIPGLRIARPGEFSERAFLNDK
+            LDLAQAEAIADLIDASSEQAARSALNSLQGAFSARVNHLVEALTHLRIYVEAAIDFPDEE
+            IDFLSDGKIEAQLNDVIADLDAVRAEARQGSLLREGMKVVIAGRPNAGKSSLLNALAGRE
+            AAIVTDIAGTTRDVLREHIHIDGMPLHIIDTAGLREASDEVERIGIERAWQEIEQADRVL
+            FMVDGTTTDAVDPAEIWPEFIARLPAKLPITVVRNKADITGETLGMSEVNGHALIRLSAR
+            TGEGVDVLRNHLKQSMGFDTNMEGGFLARRRHLQALEQAAEHLQQGKAQLLGAWAGELLA
+            EELRLAQQNLSEITGEFTSDDLLGRIFSSFCIGK
+NTSEQ       1365
+            atgagcgataatgacactatcgtagcccaggccacgcctccgggacgtggcggcgttggc
+            atcctgcgcatctccggcttcaaagcccgtgaagttgccgaaaccgtgctgggtaaactg
+            cctaagccgcgctacgccgattatcttccgtttaaagacgccgacggcagcgtgctcgat
+            caggggattgcgctatggttccctggcccgaactcgttcaccggcgaagatgtgctggaa
+            ctgcaaggtcatggcggtccggtgatcctcgacctgctgttaaaacgcattctgaccatt
+            cccggcctgcggattgctcgccctggtgagttttccgaacgcgcgtttcttaacgataaa
+            cttgacttagcccaggccgaggcgattgccgatcttatcgacgccagttcggaacaggcg
+            gcccgttcggcacttaactcgctgcaaggcgcattctccgcacgggttaatcatctggta
+            gaagccctcacccacttgcgcatttacgtcgaagcggcaattgatttccccgatgaagag
+            atcgatttcctctccgacggaaaaattgaagcccagctcaatgacgttattgccgatctt
+            gatgcagtgcgtgctgaagcacgtcagggtagtttgttgcgcgaagggatgaaagtggtg
+            attgccggacgtcctaacgccggtaaatcgagcctgttaaacgcgctggcggggcgtgaa
+            gcggcaatcgtaaccgatatcgccggaactacgcgtgacgtgctgcgtgagcatatccac
+            attgacggaatgccgctgcatatcatcgataccgccgggctacgtgaagccagtgacgaa
+            gtagaacgtattggtatcgagcgcgcgtggcaggaaattgaacaggccgaccgcgtgctg
+            tttatggtcgatggcaccacaacagacgccgtggatccggcagagatctggccggaattt
+            attgcccgtctgccagcgaaactgccgatcaccgtggtgcgcaataaagccgatatcacc
+            ggcgaaacgctgggaatgagtgaagtgaacggtcacgcgttaattcgtctctcggcaagg
+            actggtgaaggcgtggacgtgctgcgtaaccatctcaaacagagcatgggctttgacacc
+            aacatggaaggcggcttcctggcgcgtcgtcgccacctacaggcgctggaacaggcagcg
+            gaacatctacaacagggcaaagcgcaactgttgggagcctgggcaggtgaactgctggcg
+            gaagagttgcgtctggcacagcagaacttaagcgaaatcaccggggaatttacttcagac
+            gacctgctggggcggattttctccagcttctgtattggtaagtaa
+///

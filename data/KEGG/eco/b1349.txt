@@ -1,0 +1,48 @@
+ENTRY       b1349             CDS       T00007
+NAME        recT
+DEFINITION  (RefSeq) Rac prophage; recombinase, DNA renaturation
+ORTHOLOGY   K07455  recombination protein RecT
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1349 (recT)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               NHEJ (non-homologous end-joining)
+                SHDIR (short-homology-dependent illegitimate recombination)
+                 RecET pathway
+                  b1349 (recT)
+POSITION    complement(1413984..1414793)
+MOTIF       Pfam: RecT
+DBLINKS     NCBI-GeneID: 945917
+            NCBI-ProteinID: NP_415865
+            Pasteur: recT
+            RegulonDB: ECK120001828
+            ECOCYC: EG11899
+            ASAP: ABE-0004529
+            UniProt: P33228
+AASEQ       269
+            MTKQPPIAKADLQKTQGNRAPAAVKNSDVISFINQPSMKEQLAAALPRHMTAERMIRIAT
+            TEIRKVPALGNCDTMSFVSAIVQCSQLGLEPGSALGHAYLLPFGNKNEKSGKKNVQLIIG
+            YRGMIDLARRSGQIASLSARVVREGDEFSFEFGLDEKLIHRPGENEDAPVTHVYAVARLK
+            DGGTQFEVMTRKQIELVRSLSKAGNNGPWVTHWEEMAKKTAIRRLFKYLPVSIEIQRAVS
+            MDEKEPLTIDPADSSVLTGEYSVIDNSEE
+NTSEQ       810
+            atgactaagcaaccaccaatcgcaaaagccgatctgcaaaaaactcagggaaaccgtgca
+            ccagcagcagttaaaaatagcgacgtgattagttttattaaccagccatcaatgaaagag
+            caactggcagcagctcttccacgccatatgacggctgaacgtatgatccgtatcgccacc
+            acagaaattcgtaaagttccggcgttaggaaactgtgacactatgagttttgtcagtgcg
+            atcgtacagtgttcacagctcggacttgagccaggtagcgccctcggtcatgcatattta
+            ctgccttttggtaataaaaacgaaaagagcggtaaaaagaacgttcagctaatcattggc
+            tatcgcggcatgattgatctggctcgccgttctggtcaaatcgccagcctgtcagcccgt
+            gttgtccgtgaaggtgacgagtttagcttcgaatttggccttgatgaaaagttaatacac
+            cgcccgggagaaaacgaagatgccccggttacccacgtctatgctgtcgcaagactgaaa
+            gacggaggtactcagtttgaagttatgacgcgcaaacagattgagctggtgcgcagcctg
+            agtaaagctggtaataacgggccgtgggtaactcactgggaagaaatggcaaagaaaacg
+            gctattcgtcgcctgttcaaatatttgcccgtatcaattgagatccagcgtgcagtatca
+            atggatgaaaaggaaccactgacaatcgatcctgcagattcctctgtattaaccggggaa
+            tacagtgtaatcgataattcagaggaataa
+///

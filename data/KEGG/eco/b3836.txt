@@ -1,0 +1,44 @@
+ENTRY       b3836             CDS       T00007
+NAME        tatA
+DEFINITION  (RefSeq) twin arginine protein translocation system - TatA protein
+ORTHOLOGY   K03116  sec-independent protein translocase protein TatA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03060  Protein export
+            eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b3836 (tatA)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3836 (tatA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3836 (tatA)
+            Secretion system [BR:eco02044]
+             Twin-arginine translocation (Tat) system
+              Twin-arginine translocation (Tat) pathway protein
+               b3836 (tatA)
+POSITION    4021945..4022214
+MOTIF       Pfam: TatA_B_E DUF1980 DUF4834
+DBLINKS     NCBI-GeneID: 948321
+            NCBI-ProteinID: NP_418280
+            Pasteur: tatA
+            RegulonDB: ECK120004314
+            ECOCYC: G7806
+            ASAP: ABE-0012541
+            UniProt: P69428
+STRUCTURE   PDB: 2MN6 2MN7 2LZR 2LZS
+AASEQ       89
+            MGGISIWQLLIIAVIVVLLFGTKKLGSIGSDLGASIKGFKKAMSDDEPKQDKTSQDADFT
+            AKTIADKQADTNQEQAKTEDAKRHDKEQV
+NTSEQ       270
+            atgggtggtatcagtatttggcagttattgattattgccgtcatcgttgtactgcttttt
+            ggcaccaaaaagctcggctccatcggttccgatcttggtgcgtcgatcaaaggctttaaa
+            aaagcaatgagcgatgatgaaccaaagcaggataaaaccagtcaggatgctgattttact
+            gcgaaaactatcgccgataagcaggcggatacgaatcaggaacaggctaaaacagaagac
+            gcgaagcgccacgataaagagcaggtgtaa
+///

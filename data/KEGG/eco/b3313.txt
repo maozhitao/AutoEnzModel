@@ -1,0 +1,46 @@
+ENTRY       b3313             CDS       T00007
+NAME        rplP
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L16
+ORTHOLOGY   K02878  large subunit ribosomal protein L16
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3313 (rplP)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3313 (rplP)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b3313 (rplP)
+              Bacteria
+                b3313 (rplP)
+POSITION    complement(3448759..3449169)
+MOTIF       Pfam: Ribosomal_L16
+DBLINKS     NCBI-GeneID: 947806
+            NCBI-ProteinID: NP_417772
+            Pasteur: rplP
+            RegulonDB: ECK120000868
+            ECOCYC: EG10877
+            ASAP: ABE-0010846
+            UniProt: P0ADY7
+STRUCTURE   PDB: 6QUL 6S0K 6C4H 6I0Y 5GAE 5GAD 6GC8 6GBZ 5GAG 5GAH 4UY8
+                 3J7Z 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L 2J28 2RDO 3BBX
+AASEQ       136
+            MLQPKRTKFRKMHKGRNRGLAQGTDVSFGSFGLKAVGRGRLTARQIEAARRAMTRAVKRQ
+            GKIWIRVFPDKPITEKPLAVRMGKGKGNVEYWVALIQPGKVLYEMDGVPEELAREAFKLA
+            AAKLPIKTTFVTKTVM
+NTSEQ       411
+            atgttacaaccaaagcgtacaaaattccgtaaaatgcacaaaggccgtaaccgcggtctg
+            gcgcagggtacggatgttagcttcggcagcttcggtctgaaagctgttggccgtggtcgt
+            ctgactgcccgtcagatcgaagcagcacgtcgtgctatgacccgtgcagttaagcgtcaa
+            ggtaagatctggatccgtgtgttcccggacaaaccgatcactgaaaagccgctggcagtg
+            cgtatgggtaaaggtaaaggtaacgtggagtattgggttgccttgattcagccgggtaaa
+            gtcctgtatgaaatggacggtgttccggaagagctggcccgtgaagcattcaagctggca
+            gcagcgaaactgccgattaaaaccacctttgtaactaagacggtgatgtaa
+///

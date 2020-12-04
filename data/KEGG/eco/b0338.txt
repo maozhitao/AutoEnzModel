@@ -1,0 +1,47 @@
+ENTRY       b0338             CDS       T00007
+NAME        cynR
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator CynR
+ORTHOLOGY   K11921  LysR family transcriptional regulator, cyn operon transcriptional activator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0338 (cynR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               LysR family
+                b0338 (cynR)
+POSITION    complement(357791..358690)
+MOTIF       Pfam: LysR_substrate HTH_1 HTH_30 HTH_5 MarR_2 HTH_28 P22_Cro
+DBLINKS     NCBI-GeneID: 945001
+            NCBI-ProteinID: NP_414872
+            RegulonDB: ECK120001385
+            ECOCYC: EG11421
+            ASAP: ABE-0001165
+            UniProt: P27111
+STRUCTURE   PDB: 2HXR 3HFU
+AASEQ       299
+            MLSRHINYFLAVAEHGSFTRAASALHVSQPALSQQIRQLEESLGVPLFDRSGRTIRLTDA
+            GEVWRQYASRALQELGAGKRAIHDVADLTRGSLRIAVTPTFTSYFIGPLMADFYARYPSI
+            TLQLQEMSQEKIEDMLCRDELDVGIAFAPVHSPELEAIPLLTESLALVVAQHHPLAVHEQ
+            VALSRLHDEKLVLLSAEFATREQIDHYCEKAGLHPQVVIEANSISAVLELIRRTSLSTLL
+            PAAIATQHDGLKAISLAPPLLERTAVLLRRKNSWQTAAAKAFLHMALDKCAVVGGNESR
+NTSEQ       900
+            atgctctctcgacatatcaattattttcttgccgtggctgaacatggcagcttcacccgt
+            gccgccagtgcgttgcacgtctcccaacctgcgctttcccagcagattcgccagttagag
+            gagagtttaggcgtgccgctgtttgaccgtagcgggcgaacgattcgtctcactgatgca
+            ggagaagtctggcgacagtacgccagccgggcgttacaggaactgggggcgggtaaacgg
+            gcgattcatgatgttgccgatctgacgcgaggatcgctgcgtatcgccgtcacccccacc
+            tttacgagctactttatcggccccttaatggcggatttctatgcgcgctatcccagcatc
+            acgctccagctacaggaaatgtcgcaggagaaaatcgaggatatgctttgccgcgacgag
+            ttggacgttgggattgccttcgcgcctgtgcattcgccggagctggaggcaattccttta
+            ctgacagaaagtttagcgttagtcgtggcgcaacatcatccgctggccgtccatgaacag
+            gtggcgttgagtcgcttgcatgatgaaaaactggtcctgctcagcgcggaatttgccacc
+            agagagcaaattgaccactactgcgagaaagcggggctacatccacaggtggtcattgag
+            gcgaactcaattagcgcggttctggagctgattcgccgcacttccctttccacattgtta
+            ccagcagcgattgccacacaacatgacgggcttaaagctatttctcttgccccgccacta
+            ctggagagaacggcggttttgttgcggcggaaaaatagctggcagacagccgccgcgaag
+            gcatttttgcacatggcgttggataaatgcgcggttgttggcggaaatgaatcacggtag
+///

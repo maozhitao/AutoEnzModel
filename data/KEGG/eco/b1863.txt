@@ -1,0 +1,54 @@
+ENTRY       b1863             CDS       T00007
+NAME        ruvC
+DEFINITION  (RefSeq) crossover junction endodeoxyribonuclease RuvC
+ORTHOLOGY   K01159  crossover junction endodeoxyribonuclease RuvC [EC:3.1.22.4]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03440 Homologous recombination
+                b1863 (ruvC)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1863 (ruvC)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.22  Endodeoxyribonucleases producing 3'-phosphomonoesters
+                3.1.22.4  crossover junction endodeoxyribonuclease
+                 b1863 (ruvC)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecBC pathway proteins
+                 b1863 (ruvC)
+                RecFOR pathway proteins
+                 b1863 (ruvC)
+POSITION    complement(1946855..1947376)
+MOTIF       Pfam: RuvC DUF3882 NeuB
+DBLINKS     NCBI-GeneID: 946378
+            NCBI-ProteinID: NP_416377
+            Pasteur: ruvC
+            RegulonDB: ECK120000914
+            ECOCYC: EG10925
+            ASAP: ABE-0006215
+            UniProt: P0A814
+STRUCTURE   PDB: 1HJR
+AASEQ       173
+            MAIILGIDPGSRVTGYGVIRQVGRQLSYLGSGCIRTKVDDLPSRLKLIYAGVTEIITQFQ
+            PDYFAIEQVFMAKNADSALKLGQARGVAIVAAVNQELPVFEYAARQVKQTVVGIGSAEKS
+            QVQHMVRTLLKLPANPQADAADALAIAITHCHVSQNAMQMSESRLNLARGRLR
+NTSEQ       522
+            atggctattattctcggcattgatccgggttcgcgcgtgaccggctacggcgtcatccgc
+            caggtaggtaggcaactgtcctacctgggtagcggatgcatccgcaccaaagtggatgat
+            ttaccgtctcgtctgaaactcatctatgcgggcgtgacggaaatcatcacccagttccag
+            cctgattatttcgccattgaacaagtctttatggcaaagaacgctgactcagccctgaaa
+            ctgggccaggcgcgcggcgtggcgattgtggcggcggtgaatcaggagttgccagtattt
+            gaatacgcggcacgtcaggtaaagcaaacggtggtaggtattggcagtgccgaaaaaagc
+            caggtgcagcatatggtccgcaccttgctgaaactgcccgctaatccacaggcggatgcc
+            gccgatgcgctggcgattgctatcacccactgccacgttagtcagaatgcgatgcagatg
+            agcgaatcgcggctgaacctggcgagagggcgactgcgttaa
+///

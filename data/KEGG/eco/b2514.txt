@@ -1,0 +1,78 @@
+ENTRY       b2514             CDS       T00007
+NAME        hisS
+DEFINITION  (RefSeq) histidine--tRNA ligase
+ORTHOLOGY   K01892  histidyl-tRNA synthetase [EC:6.1.1.21]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                b2514 (hisS)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:eco01007]
+                b2514 (hisS)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b2514 (hisS)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.21  histidine---tRNA ligase
+                 b2514 (hisS)
+            Amino acid related enzymes [BR:eco01007]
+             Aminoacyl-tRNA synthetase
+              Class II (A)
+               b2514 (hisS)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Other AARSs
+                b2514 (hisS)
+             Prokaryotic type
+                b2514 (hisS)
+POSITION    complement(2639301..2640575)
+MOTIF       Pfam: tRNA-synt_His tRNA-synt_2b HGTP_anticodon tRNA-synt_2 tRNA-synt_2d Amidohydro_2
+DBLINKS     NCBI-GeneID: 946989
+            NCBI-ProteinID: NP_417009
+            Pasteur: hisS
+            RegulonDB: ECK120000446
+            ECOCYC: EG10453
+            ASAP: ABE-0008278
+            UniProt: P60906
+STRUCTURE   PDB: 1KMM 1HTT 2EL9 1KMN
+AASEQ       424
+            MAKNIQAIRGMNDYLPGETAIWQRIEGTLKNVLGSYGYSEIRLPIVEQTPLFKRAIGEVT
+            DVVEKEMYTFEDRNGDSLTLRPEGTAGCVRAGIEHGLLYNQEQRLWYIGPMFRHERPQKG
+            RYRQFHQLGCEVFGLQGPDIDAELIMLTARWWRALGISEHVTLELNSIGSLEARANYRDA
+            LVAFLEQHKEKLDEDCKRRMYTNPLRVLDSKNPEVQALLNDAPALGDYLDEESREHFAGL
+            CKLLESAGIAYTVNQRLVRGLDYYNRTVFEWVTNSLGSQGTVCAGGRYDGLVEQLGGRAT
+            PAVGFAMGLERLVLLVQAVNPEFKADPVVDIYLVASGADTQSAAMALAERLRDELPGVKL
+            MTNHGGGNFKKQFARADKWGARVAVVLGESEVANGTAVVKDLRSGEQTAVAQDSVAAHLR
+            TLLG
+NTSEQ       1275
+            gtggcaaaaaacattcaagccattcgcggcatgaacgattacctgcctggcgaaacggcc
+            atctggcagcgcattgaaggcacactgaaaaacgtgctcggcagctacggttacagtgaa
+            atccgcttgccgattgtagagcagaccccgctattcaaacgtgcgattggtgaagtcacc
+            gacgtggttgaaaaagagatgtacacctttgaggatcgcaatggcgacagcctgactctg
+            cgccctgaagggacggcgggctgtgtacgcgccggcatcgagcatggtcttctgtacaat
+            caggaacagcgtctgtggtatatcgggccgatgttccgtcacgagcgtccgcagaaaggg
+            cgttatcgtcagttccatcagttgggctgcgaagttttcggtctgcaaggtccggatatc
+            gacgctgaactgattatgctcactgcccgctggtggcgcgcgctgggtatttccgagcac
+            gtaactcttgagctgaactctatcggttcgctggaagcacgcgccaattaccgcgatgcg
+            ctggtggcattccttgagcagcataaagaaaagctggacgaagactgcaaacgccgcatg
+            tacactaacccgctgcgcgtgctggattcaaaaaatccggaagtgcaggcgcttctcaac
+            gacgctccggcattaggtgactatctggacgaggaatctcgtgagcattttgccggtctg
+            tgcaaactgctggagagcgcggggatcgcttacaccgtaaaccagcgtctggtgcgtggt
+            ctggattactacaaccgtaccgttttcgagtgggtgactaacagtctcggctcccagggc
+            accgtgtgtgcaggcggtcgttatgacggtcttgtggaacaactgggcggtcgtgcaaca
+            ccggctgtcggttttgctatgggcctcgaacgtcttgtattgttagtacaggccgttaat
+            ccggaatttaaagccgatcctgttgtcgatatatacctggtggcttcaggtgctgataca
+            caatctgcggctatggcattagctgagcgtctgcgtgatgaattaccgggcgtgaaattg
+            atgaccaaccacggcggcggcaactttaagaaacagtttgcccgtgctgataaatggggt
+            gcccgcgttgctgtggtgctgggtgagtctgaagtggctaacggcacagcagtagtgaag
+            gatttgcgctctggtgagcaaacggcagttgcgcaggatagcgtagccgcgcatttgcgc
+            acgttactgggttaa
+///

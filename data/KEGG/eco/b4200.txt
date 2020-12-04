@@ -1,0 +1,53 @@
+ENTRY       b4200             CDS       T00007
+NAME        rpsF
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S6
+ORTHOLOGY   K02990  small subunit ribosomal protein S6
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b4200 (rpsF)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b4200 (rpsF)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b4200 (rpsF)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Small subunit
+                b4200 (rpsF)
+              Bacteria
+                b4200 (rpsF)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Other mitochondrial DNA transcription and translation factors
+                b4200 (rpsF)
+POSITION    4425118..4425513
+MOTIF       Pfam: Ribosomal_S6 DUF2313
+DBLINKS     NCBI-GeneID: 948723
+            NCBI-ProteinID: NP_418621
+            Pasteur: rpsF
+            RegulonDB: ECK120000896
+            ECOCYC: EG10905
+            ASAP: ABE-0013740
+            UniProt: P02358
+STRUCTURE   PDB: 6NQB 6O7K 5NO2 5NO3 5NO4 5UZ4 5MY1 2YKR 5ME0 5ME1 4ADV
+                 3IY8 4A2I
+AASEQ       131
+            MRHYEIVFMVHPDQSEQVPGMIERYTAAITGAEGKIHRLEDWGRRQLAYPINKLHKAHYV
+            LMNVEAPQEVIDELETTFRFNDAVIRSMVMRTKHAVTEASPMVKAKDERRERRDDFANET
+            ADDAEAGDSEE
+NTSEQ       396
+            atgcgtcattacgaaatcgtttttatggtccatcctgaccagagcgaacaggttccgggc
+            atgatcgagcgctacactgctgccatcactggtgcagaaggcaagatccaccgtctggaa
+            gactggggccgccgtcagctggcttacccgatcaacaaactgcacaaagcacactacgtt
+            ctgatgaatgttgaagctccgcaggaagtgatcgatgagctggaaactaccttccgcttc
+            aacgatgccgttatccgcagcatggttatgcgtaccaagcacgctgttaccgaagcatct
+            ccgatggttaaagcgaaagacgagcgccgtgagcgtcgcgatgatttcgcaaacgaaacc
+            gctgatgatgctgaagctggggattctgaagagtaa
+///

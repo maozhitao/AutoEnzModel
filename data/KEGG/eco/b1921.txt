@@ -1,0 +1,46 @@
+ENTRY       b1921             CDS       T00007
+NAME        fliZ
+DEFINITION  (RefSeq) DNA-binding transcriptional regulator FliZ
+ORTHOLOGY   K02425  regulator of sigma S factor FliZ
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b1921 (fliZ)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1921 (fliZ)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Chaperones
+                b1921 (fliZ)
+POSITION    complement(2000473..2001024)
+MOTIF       Pfam: Phage_int_SAM_1
+DBLINKS     NCBI-GeneID: 946833
+            NCBI-ProteinID: NP_416431
+            Pasteur: fliZ
+            RegulonDB: ECK120001325
+            ECOCYC: EG11356
+            ASAP: ABE-0006394
+            UniProt: P52627
+AASEQ       183
+            MMVQHLKRRPLSRYLKDFKHSQTHCAHCRKLLDRITLVRDGKIVNKIEISRLDTLLDENG
+            WQTEQKSWAALCRFCGDLHCKTQSDFFDIIGFKQFLFEQTEMSPGTVREYVVRLRRLGNH
+            LHEQNISLDQLQDGFLDEILAPWLPTTSTNNYRIALRKYQHYQRQTCTRLVQKSSSLPSS
+            DIY
+NTSEQ       552
+            atgatggtgcagcacctgaaaagacggccattaagccgctatcttaaagactttaaacac
+            agccagacccattgcgcgcattgccgtaaattactcgatcgcattaccttagttcgcgac
+            ggcaaaatagtgaataaaatcgagatttcccgcctggacacgctgcttgatgaaaatggc
+            tggcaaacggaacaaaaatcatgggcggcattgtgccgattttgcggtgatttacattgc
+            aaaacgcagagtgattttttcgatattatcggctttaagcaatttctttttgagcaaact
+            gaaatgagcccaggtacggtgcgtgaatatgtcgttcgtttgcgccgtttggggaatcat
+            ctacacgagcaaaatatttccctcgatcagctgcaggacggtttccttgatgaaatcctc
+            gccccgtggctgcccaccaccagcaccaacaattaccgcatcgcgttacggaagtatcaa
+            cactatcagcgccaaacctgtaccagacttgtgcagaaatcctccagcctgccttcttct
+            gatatatattaa
+///

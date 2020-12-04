@@ -1,0 +1,37 @@
+ENTRY       b1642             CDS       T00007
+NAME        slyA
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator SlyA
+ORTHOLOGY   K06075  MarR family transcriptional regulator, transcriptional regulator for hemolysin
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1642 (slyA)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               MarR family
+                b1642 (slyA)
+POSITION    complement(1720390..1720824)
+MOTIF       Pfam: MarR MarR_2 HTH_27 HTH_Crp_2 HTH_20 B-block_TFIIIC HxlR HTH_5 HTH_24 TrmB LexA_DNA_bind HTH_36 GntR GlnD_UR_UTase Uso1_p115_C RsbU_N Fe_dep_repress
+DBLINKS     NCBI-GeneID: 946167
+            NCBI-ProteinID: NP_416159
+            RegulonDB: ECK120003471
+            ECOCYC: G6882
+            ASAP: ABE-0005495
+            UniProt: P0A8W2
+AASEQ       144
+            MESPLGSDLARLVRIWRALIDHRLKPLELTQTHWVTLHNIHQLPPDQSQIQLAKAIGIEQ
+            PSLVRTLDQLEEKGLISRQTCASDRRAKRIKLTEKAEPLISEMEAVINKTRAEILHGISA
+            EELEQLITLIAKLEHNIIELQAKG
+NTSEQ       435
+            ttggaatcgccactaggttctgatctggcacggttggtgcgcatatggcgtgctctgata
+            gaccatcgcctgaaaccgctggagttaacacaaacccattgggttacgttacacaatatc
+            catcagttacctccagaccagtcgcaaattcaactggcaaaagcgattggcatcgagcag
+            ccatcactggtccgtactctggaccaactggaagaaaaagggttaatttcgcgtcaaact
+            tgtgccagcgatcgtcgggctaaacgtattaaactgacggaaaaggcagagccgctgatc
+            agcgaaatggaagctgttattaacaaaacccgcgcggaaatattacatggcatctccgca
+            gaggaactggagcaactgattacgctcatcgcaaaacttgagcataatatcattgagtta
+            caggccaaagggtga
+///

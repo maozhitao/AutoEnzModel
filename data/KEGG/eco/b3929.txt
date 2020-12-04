@@ -1,0 +1,41 @@
+ENTRY       b3929             CDS       T00007
+NAME        rraA
+DEFINITION  (RefSeq) ribonuclease E inhibitor protein A
+ORTHOLOGY   K02553  regulator of ribonuclease activity A
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:eco03019]
+                b3929 (rraA)
+            Messenger RNA biogenesis [BR:eco03019]
+             Prokaryotic type
+              Bacterial mRNA degradation factors
+               Other RNA degradation factors
+                Others
+                 b3929 (rraA)
+POSITION    complement(4118845..4119330)
+MOTIF       Pfam: RraA-like
+DBLINKS     NCBI-GeneID: 948419
+            NCBI-ProteinID: NP_418364
+            Pasteur: menG
+            RegulonDB: ECK120001809
+            ECOCYC: EG11879
+            ASAP: ABE-0012837
+            UniProt: P0A8R0
+STRUCTURE   PDB: 1Q5X 2YJV 2YJT
+AASEQ       161
+            MKYDTSELCDIYQEDVNVVEPLFSNFGGRASFGGQIITVKCFEDNGLLYDLLEQNGRGRV
+            LVVDGGGSVRRALVDAELARLAVQNEWEGLVIYGAVRQVDDLEELDIGIQAMAAIPVGAA
+            GEGIGESDVRVNFGGVTFFSGDHLYADNTGIILSEDPLDIE
+NTSEQ       486
+            atgaaatacgatacttccgagctttgtgacatctatcaagaagatgttaacgtcgtggaa
+            ccgctgttctccaactttggcggacgggcgtcgtttggcggacaaataatcacggtaaaa
+            tgtttcgaggacaacgggttgctgtacgatctgctcgaacagaatggccgtggtcgtgtt
+            cttgtcgtcgatggcggtggttctgttcgtcgcgcactggtcgatgctgaactggcgcgt
+            ctggcagtacaaaatgaatgggaaggtctggtcatttacggcgcggtgcgtcaggtagat
+            gacctggaagagttggatatcggcatccaggcgatggcggcaattccggttggtgccgct
+            ggcgaaggcattggcgaaagcgatgtccgcgtcaattttggcggtgtcaccttcttctcc
+            ggcgaccatctttatgccgacaataccgggattattctttcagaagatccgctggatatt
+            gaatga
+///

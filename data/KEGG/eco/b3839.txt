@@ -1,0 +1,54 @@
+ENTRY       b3839             CDS       T00007
+NAME        tatC
+DEFINITION  (RefSeq) twin arginine protein translocation system - TatC protein
+ORTHOLOGY   K03118  sec-independent protein translocase protein TatC
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03060  Protein export
+            eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b3839 (tatC)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3839 (tatC)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3839 (tatC)
+            Secretion system [BR:eco02044]
+             Twin-arginine translocation (Tat) system
+              Twin-arginine translocation (Tat) pathway protein
+               b3839 (tatC)
+POSITION    4022736..4023512
+MOTIF       Pfam: TatC TMEM208_SND2
+DBLINKS     NCBI-GeneID: 948328
+            NCBI-ProteinID: NP_418282
+            Pasteur: tatC
+            RegulonDB: ECK120001438
+            ECOCYC: EG11479
+            ASAP: ABE-0012547
+            UniProt: P69423
+AASEQ       258
+            MSVEDTQPLITHLIELRKRLLNCIIAVIVIFLCLVYFANDIYHLVSAPLIKQLPQGSTMI
+            ATDVASPFFTPIKLTFMVSLILSAPVILYQVWAFIAPALYKHERRLVVPLLVSSSLLFYI
+            GMAFAYFVVFPLAFGFLANTAPEGVQVSTDIASYLSFVMALFMAFGVSFEVPVAIVLLCW
+            MGITSPEDLRKKRPYVLVGAFVVGMLLTPPDVFSQTLLAIPMYCLFEIGVFFSRFYVGKG
+            RNREEENDAEAESEKTEE
+NTSEQ       777
+            atgtctgtagaagatactcaaccgcttatcacgcatctgattgagctgcgtaagcgtctg
+            ctgaactgcattatcgcggtgatcgtgatattcctgtgtctggtctatttcgccaatgac
+            atctatcacctggtatccgcgccattgatcaagcagttgccgcaaggttcaacgatgatc
+            gccaccgacgtggcctcgccgttctttacgccgatcaagctgacctttatggtgtcgctg
+            attctgtcagcgccggtgattctctatcaggtgtgggcatttatcgccccagcgctgtat
+            aagcatgaacgtcgcctggtggtgccgctgctggtttccagctctctgctgttttatatc
+            ggcatggcattcgcctactttgtggtctttccgctggcatttggcttccttgccaatacc
+            gcgccggaaggggtgcaggtatccaccgacatcgccagctatttaagcttcgttatggcg
+            ctgtttatggcgtttggtgtctcctttgaagtgccggtagcaattgtgctgctgtgctgg
+            atggggattacctcgccagaagacttacgcaaaaaacgcccgtatgtgctggttggtgca
+            ttcgttgtcgggatgttgctgacgccgccggatgtcttctcgcaaacgctgttggcgatc
+            ccgatgtactgtctgtttgaaatcggtgtcttcttctcacgcttttacgttggtaaaggg
+            cgaaatcgggaagaggaaaacgacgctgaagcagaaagcgaaaaaactgaagaataa
+///

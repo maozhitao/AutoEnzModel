@@ -1,0 +1,32 @@
+ENTRY       b4550             CDS       T00007
+NAME        arfA
+DEFINITION  (RefSeq) alternative ribosome-rescue factor A
+ORTHOLOGY   K09890  alternative ribosome-rescue factor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:eco03012]
+                b4550 (arfA)
+            Translation factors [BR:eco03012]
+             Prokaryotic type
+              Release factors
+               b4550 (arfA)
+POSITION    complement(3438431..3438649)
+MOTIF       Pfam: ArfA
+DBLINKS     NCBI-GeneID: 1450289
+            NCBI-ProteinID: YP_588467
+            RegulonDB: ECK120016317
+            ECOCYC: G0-10465
+            ASAP: ABE-0285071
+            UniProt: P36675
+STRUCTURE   PDB: 5U4J
+AASEQ       72
+            MSRYQHTKGQIKDNAIEALLHDPLFRQRVEKNKKGKGSYMRKGKHGNRGNWEASGKKVNH
+            FFTTGLLLSGAC
+NTSEQ       219
+            atgagtcgatatcagcatactaaagggcagataaaggataatgcgatagaagcattacta
+            catgatcccttattccgacagcgcgtagagaaaaataagaaggggaaaggcagttacatg
+            cgaaaaggaaaacatggcaatcgggggaactgggaggccagtggcaagaaagtaaatcac
+            ttttttaccactggtcttctgctttcaggcgcttgttaa
+///

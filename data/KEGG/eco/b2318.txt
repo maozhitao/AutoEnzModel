@@ -1,0 +1,55 @@
+ENTRY       b2318             CDS       T00007
+NAME        truA
+DEFINITION  (RefSeq) tRNA pseudouridine(38-40) synthase
+ORTHOLOGY   K06173  tRNA pseudouridine38-40 synthase [EC:5.4.99.12]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b2318 (truA)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.99  Transferring other groups
+                5.4.99.12  tRNA pseudouridine38-40 synthase
+                 b2318 (truA)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              tRNA modification factors
+               Psudouridine synthases
+                b2318 (truA)
+             Prokaryotic type
+                b2318 (truA)
+POSITION    complement(2434824..2435636)
+MOTIF       Pfam: PseudoU_synth_1
+DBLINKS     NCBI-GeneID: 946793
+            NCBI-ProteinID: NP_416821
+            Pasteur: truA
+            RegulonDB: ECK120000447
+            ECOCYC: EG10454
+            ASAP: ABE-0007657
+            UniProt: P07649
+STRUCTURE   PDB: 1DJ0 2NQP 2NR0 2NRE
+AASEQ       270
+            MSDQQQPPVYKIALGIEYDGSKYYGWQRQNEVRSVQEKLEKALSQVANEPITVFCAGRTD
+            AGVHGTGQVVHFETTALRKDAAWTLGVNANLPGDIAVRWVKTVPDDFHARFSATARRYRY
+            IIYNHRLRPAVLSKGVTHFYEPLDAERMHRAAQCLLGENDFTSFRAVQCQSRTPWRNVMH
+            INVTRHGPYVVVDIKANAFVHHMVRNIVGSLMEVGAHNQPESWIAELLAAKDRTLAAATA
+            KAEGLYLVAVDYPDRYDLPKPPMGPLFLAD
+NTSEQ       813
+            atgtccgaccagcaacaaccgccagtttataaaattgcgctgggcattgagtacgacggc
+            agtaagtattacggctggcaacggcagaacgaagtccgcagtgtgcaggagaagctggaa
+            aaggcgctctcccaggtggcgaacgaacccatcaccgtcttctgcgccgggcgtactgac
+            gcaggggtacacggtaccgggcaggttgtgcatttcgaaacaaccgcgctgcgcaaagac
+            gcggcgtggaccttgggcgtaaatgcgaatttacctggtgacatcgctgtgcgttgggtt
+            aaaactgtacctgatgattttcatgcccgatttagcgccacggctcgccgttatcgctac
+            atcatctacaatcatcggctgcgcccggcggtactgagtaaaggggtaacccatttttac
+            gaaccgctggacgctgaacggatgcatcgggctgcgcaatgcttgctgggcgagaatgat
+            ttcacctcgttccgtgcggtgcagtgccagtcccgaaccccgtggcgcaacgttatgcat
+            attaatgtcacgcgtcacggtccttatgtggtggtagatattaaagcgaatgcttttgta
+            catcatatggtcaggaatattgtcggcagcctgatggaagtcggtgcccacaaccagccg
+            gagagctggatagcagagttgctggcggcaaaggacagaacgctggcggcagcaacggca
+            aaagcggaagggctgtatctggtcgcggtggattaccctgaccggtatgatcttccaaaa
+            ccgccaatgggcccgctatttctggcggactaa
+///

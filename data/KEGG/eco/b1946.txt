@@ -1,0 +1,51 @@
+ENTRY       b1946             CDS       T00007
+NAME        fliN
+DEFINITION  (RefSeq) flagellar motor switch protein FliN
+ORTHOLOGY   K02417  flagellar motor switch protein FliN
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02030  Bacterial chemotaxis
+            eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02030 Bacterial chemotaxis
+                b1946 (fliN)
+               02040 Flagellar assembly
+                b1946 (fliN)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b1946 (fliN)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1946 (fliN)
+            Secretion system [BR:eco02044]
+             Type III secretion system
+              Flagellar export apparatus
+               b1946 (fliN)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               C-ring
+                b1946 (fliN)
+POSITION    2021088..2021501
+MOTIF       Pfam: FliMN_C FliN_N p450
+DBLINKS     NCBI-GeneID: 946423
+            NCBI-ProteinID: NP_416456
+            Pasteur: fliN
+            RegulonDB: ECK120000318
+            ECOCYC: EG10324
+            ASAP: ABE-0006471
+            UniProt: P15070
+AASEQ       137
+            MSDMNNPADDNNGAMDDLWAEALSEQKSTSSKSAAETVFQQFGGGDVSGTLQDIDLIMDI
+            PVKLTVELGRTRMTIKELLRLTQGSVVALDGLAGEPLDILINGYLIAQGEVVVVADKYGV
+            RITDIITPSERMRRLSR
+NTSEQ       414
+            atgagtgacatgaataatccggccgatgacaacaacggcgcaatggacgatctgtgggct
+            gaagcgttgagcgaacaaaaatcaaccagcagcaaaagcgctgccgagacggtgttccag
+            caatttggcggtggtgatgtcagcggaacgttgcaggatatcgacctgattatggatatt
+            ccggtcaagctgaccgtcgagctgggccgtacgcggatgaccatcaaagagctgttgcgt
+            ctgacgcaagggtccgtcgtggcgctggacggtctggcgggcgaaccactggatattctg
+            atcaacggttatttaatcgcccagggcgaagtggtggtcgttgccgataaatatggcgtg
+            cggatcaccgatatcattactccgtctgagcgaatgcgccgcctgagccgttag
+///

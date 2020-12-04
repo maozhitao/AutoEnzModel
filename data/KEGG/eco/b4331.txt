@@ -1,0 +1,47 @@
+ENTRY       b4331             CDS       T00007
+NAME        kptA
+DEFINITION  (RefSeq) RNA 2'-phosphotransferase
+ORTHOLOGY   K07559  putative RNA 2'-phosphotransferase [EC:2.7.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b4331 (kptA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.-  
+                 b4331 (kptA)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA spricing factors
+               Other tRNA splicing factors
+                b4331 (kptA)
+POSITION    4560930..4561484
+MOTIF       Pfam: PTS_2-RNA PARP
+DBLINKS     NCBI-GeneID: 948858
+            NCBI-ProteinID: NP_418751
+            Pasteur: kptA
+            RegulonDB: ECK120004423
+            ECOCYC: G7928
+            ASAP: ABE-0014204
+            UniProt: P39380
+AASEQ       184
+            MAKYNEKELADTSKFLSFVLRHKPEAIGIVLDREGWADIDKLILCAQKAGKRLTRALLDT
+            VVATSDKKRFSYSSDGRCIRAVQGHSTSQVAISFAEKTPPQFLYHGTASRFLDEIKKQGL
+            IAGERHYVHLSADEATARKVGARHGSPVILTVKAQEMAKRGLPFWQAENGVWLTSTVAVE
+            FLEW
+NTSEQ       555
+            atggcaaagtacaacgaaaaagagctggcggatacgagcaagtttttaagttttgtcctc
+            cgacacaaaccggaggcgattggtatcgtactggaccgtgaaggatgggcggatatcgat
+            aagctcatactttgtgcccaaaaagcgggcaagcggttaacccgtgcattgctggatact
+            gtggttgccaccagcgataaaaagcgttttagttattccagtgatggtaggtgcatccgc
+            gcggttcaggggcattcgacttcgcaggtcgctatttcctttgccgaaaaaacaccgcca
+            cagtttctctaccacggtacggcaagccgtttccttgacgagataaaaaaacaggggctg
+            attgcaggtgagcgtcactacgtacatctctctgctgatgaagcaacggcacgcaaagtg
+            ggagcaagacacggatcgccggttattttaaccgtcaaagcacaggaaatggcgaaacga
+            ggcctccctttctggcaagcggaaaacggggtctggctgacatcaacggttgcggttgag
+            tttcttgagtggtaa
+///

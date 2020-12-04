@@ -1,0 +1,45 @@
+ENTRY       b3153             CDS       T00007
+NAME        yhbO
+DEFINITION  (RefSeq) protein/nucleic acid deglycase 2
+ORTHOLOGY   K05520  protease I [EC:3.5.1.124]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b3153 (yhbO)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.124  protein deglycase
+                 b3153 (yhbO)
+            Peptidases and inhibitors [BR:eco01002]
+             Cysteine peptidases
+              Family C56: PfpI endopeptidase family
+               b3153 (yhbO)
+POSITION    3298974..3299492
+MOTIF       Pfam: DJ-1_PfpI GATase Peptidase_C26 GATase_3 SNO GATase_5
+DBLINKS     NCBI-GeneID: 947666
+            NCBI-ProteinID: NP_417622
+            Pasteur: yhbO
+            RegulonDB: ECK120004197
+            ECOCYC: G7647
+            ASAP: ABE-0010361
+            UniProt: P45470
+STRUCTURE   PDB: 1OI4
+AASEQ       172
+            MSKKIAVLITDEFEDSEFTSPADEFRKAGHEVITIEKQAGKTVKGKKGEASVTIDKSIDE
+            VTPAEFDALLLPGGHSPDYLRGDNRFVTFTRDFVNSGKPVFAICHGPQLLISADVIRGRK
+            LTAVKPIIIDVKNAGAEFYDQEVVVDKDQLVTSRTPDDLPAFNREALRLLGA
+NTSEQ       519
+            atgagtaagaaaattgccgttttaatcactgatgaatttgaggattcagaatttacttca
+            cccgcagacgagttccgtaaagccggacacgaagtgattaccattgaaaaacaagcgggt
+            aaaacggtgaaaggcaaaaaaggagaagccagcgtgaccatcgataaatccatcgatgaa
+            gtgacgcctgcggagtttgatgccctgctgctaccgggcggccattcaccggattatctg
+            cgtggggacaaccgttttgtcacctttacccgtgattttgtgaatagtggcaaaccggtg
+            tttgccatctgtcacggcccgcagttgctgatcagcgccgatgtgattcgggggcgcaaa
+            ctgaccgcagttaaaccgatcattattgatgttaaaaatgcgggcgcggaattttacgat
+            caggaagtcgtggttgataaagatcagctggttaccagccggacaccggacgatctgcca
+            gcgtttaaccgcgaggcgttacgcctgctcggtgcctga
+///

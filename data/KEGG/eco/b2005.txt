@@ -1,0 +1,37 @@
+ENTRY       b2005             CDS       T00007
+NAME        cbtA
+DEFINITION  (RefSeq) CP4-44 prophage; cytoskeleton-binding toxin CbtA
+ORTHOLOGY   K18837  cytoskeleton-binding toxin CbtA and related proteins
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b2005 (cbtA)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type IV TA system
+               YeeV-YeeU
+                b2005 (cbtA)
+POSITION    2077569..2077943
+MOTIF       Pfam: CbtA_toxin
+DBLINKS     NCBI-GeneID: 946534
+            NCBI-ProteinID: NP_416509
+            Pasteur: yeeV
+            RegulonDB: ECK120003671
+            ECOCYC: G7085
+            ASAP: ABE-0006659
+            UniProt: P64524
+AASEQ       124
+            MKTLPVLPGQAASSRPSPVEIWQILLSRLLDQHYGLTLNDTPFADERVIEQHIEAGISLC
+            DAVNFLVEKYALVRTDQPGFSACTRSQLINSIDILRARRATGLMTRDNYRTVNNITLGKY
+            PEAK
+NTSEQ       375
+            atgaaaacattacctgtattacccgggcaggcggccagttctcgcccgtctcctgttgaa
+            atctggcagatactgctgtcccgactgctggaccagcactatggcctcacactgaatgac
+            acaccttttgccgatgaacgtgtgattgagcagcatattgaggcaggcatttcactgtgt
+            gatgcggtgaactttctcgtggaaaaatacgcgctggtgcgtaccgaccagccgggattc
+            agcgcctgtacccgctctcagttaataaacagcatcgatatcctccgggctcgcagggcg
+            accggcctgatgacccgcgacaattacagaacggtaaataacattaccctgggtaagtat
+            ccggaggcgaaatga
+///

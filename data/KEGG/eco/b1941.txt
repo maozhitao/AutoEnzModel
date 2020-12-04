@@ -1,0 +1,75 @@
+ENTRY       b1941             CDS       T00007
+NAME        fliI
+DEFINITION  (RefSeq) flagellum-specific ATP synthase FliI
+ORTHOLOGY   K02412  flagellum-specific ATP synthase [EC:7.4.2.8]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1941 (fliI)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b1941 (fliI)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1941 (fliI)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.4  Catalysing the translocation of amino acids and peptides
+               7.4.2  Linked to the hydrolysis of a nucleoside triphosphate
+                7.4.2.8  protein-secreting ATPase
+                 b1941 (fliI)
+            Secretion system [BR:eco02044]
+             Type III secretion system
+              Flagellar export apparatus
+               b1941 (fliI)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Type-III secretion
+                b1941 (fliI)
+POSITION    2016554..2017927
+MOTIF       Pfam: ATP-synt_ab T3SS_ATPase_C ABC_tran DUF4174
+DBLINKS     NCBI-GeneID: 946457
+            NCBI-ProteinID: NP_416451
+            Pasteur: fliI
+            RegulonDB: ECK120002692
+            ECOCYC: G377
+            ASAP: ABE-0006460
+            UniProt: P52612
+AASEQ       457
+            MTTRLTRWLTTLDNFEAKMAQLPAVRRYGRLTRATGLVLEATGLQLPLGATCVIERQNGS
+            ETHEVESEVVGFNGQRLFLMPLEEVEGVLPGARVYAKNISAEGLQSGKQLPLGPALLGRV
+            LDGSGKPLDGLPSPDTTETGALITPPFNPLQRTPIEHVLDTGVRPINALLTVGRGQRMGL
+            FAGSGVGKSVLLGMMARYTRADVIVVGLIGERGREVKDFIENILGAEGRARSVVIAAPAD
+            VSPLLRMQGAAYATRIAEDFRDRGQHVLLIMDSLTRYAMAQREIALAIGEPPATKGYPPS
+            VFAKLPALVERAGNGISGGGSITAFYTVLTEGDDQQDPIADSARAILDGHIVLSRRLAEA
+            GHYPAIDIEASISRAMTALISEQHYARVRTFKQLLSSFQRNRDLVSVGAYAKGSDPMLDK
+            AIALWPQLEGYLQQGIFERADWEASLQGLERIFPTVS
+NTSEQ       1374
+            atgaccacgcgcctgactcgctggctaaccacgctggataactttgaagccaaaatggcg
+            cagttgcctgcggtacgtcgctacgggcgattaacccgcgctaccgggctggtgctggaa
+            gccaccggattacaattgccgctcggcgcaacctgtgtcattgagcgccagaacggcagc
+            gaaacgcacgaagtagaaagcgaagtcgttggctttaacggtcaacggctgtttttaatg
+            ccgctggaggaagtcgaaggtgtcctgcccggcgcgcgtgtttatgccaaaaacatttcg
+            gcagaagggctgcaaagcggcaagcagttgccgctcggtccggcgttattaggtcgcgtt
+            ctggacggcagcggtaaaccgctcgatggcctgccctcccccgatacgacggaaaccggt
+            gcgctgattaccccgccatttaacccgttgcaacgtacaccgattgaacatgtgctggac
+            accggcgtgcgcccaatcaatgccctgcttaccgttgggcgtgggcagcgtatggggctg
+            tttgccgggtccggcgttggtaaaagtgtgctgctggggatgatggcacgttacacccgc
+            gccgatgtcattgtcgtgggtttgattggtgaacgtgggcgcgaagtaaaagattttatt
+            gagaacatcctcggtgccgaagggcgtgcacgctcagtggtgattgccgctccggcggat
+            gtttctccgctcctgcgaatgcagggtgccgcctatgccacgcgcattgccgaagatttt
+            cgcgatcgtggtcagcatgtgttgctgattatggactccctcacccgctacgcgatggcc
+            cagcgtgaaattgcgctggcgattggcgaaccccccgccaccaaaggttatccaccgtcg
+            gtgtttgccaaattaccggcactggtcgagcgtgccggaaatggcattagcggcggcggc
+            tcgattaccgcgttttataccgtgctcactgaaggcgatgaccagcaggatccgattgcc
+            gactccgcgcgggcgatcctcgacggtcacattgtgctgtctcgccgactggcggaagcc
+            gggcactatccggctatcgatattgaagcgtcgatcagccgcgcaatgacggcgttgatc
+            agtgagcaacattacgcgcgagtgcgcaccttcaaacagctgttgtcgagttttcagcgt
+            aaccgcgatctggttagcgtcggcgcgtatgccaaaggcagcgatccgatgctcgataaa
+            gccatcgccctgtggccgcagctggagggctatttgcaacaaggcatttttgaacgcgcg
+            gactgggaagcgtctctccaggggctggagcgtattttcccgacagtgtcataa
+///

@@ -1,0 +1,52 @@
+ENTRY       b2217             CDS       T00007
+NAME        rcsB
+DEFINITION  (RefSeq) DNA-binding transcriptional activator RcsB
+ORTHOLOGY   K07687  two-component system, NarL family, captular synthesis response regulator RcsB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b2217 (rcsB)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b2217 (rcsB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b2217 (rcsB)
+            Two-component system [BR:eco02022]
+             NarL family
+              RcsC-RcsD-RcsB (capsule synthesis)
+               b2217 (rcsB)
+POSITION    2316177..2316827
+MOTIF       Pfam: Response_reg GerE Sigma70_r4_2 Sigma70_r4 HTH_38 HTH_23 HTH_29
+DBLINKS     NCBI-GeneID: 947441
+            NCBI-ProteinID: NP_416721
+            Pasteur: rcsB
+            RegulonDB: ECK120000812
+            ECOCYC: EG10821
+            ASAP: ABE-0007333
+            UniProt: P0DMC7
+STRUCTURE   PDB: 5I4C 5W43 5VXN
+AASEQ       216
+            MNNMNVIIADDHPIVLFGIRKSLEQIEWVNVVGEFEDSTALINNLPKLDAHVLITDLSMP
+            GDKYGDGITLIKYIKRHFPSLSIIVLTMNNNPAILSAVLDLDIEGIVLKQGAPTDLPKAL
+            AALQKGKKFTPESVSRLLEKISAGGYGDKRLSPKESEVLRLFAEGFLVTEIAKKLNRSIK
+            TISSQKKSAMMKLGVENDIALLNYLSSVTLSPADKD
+NTSEQ       651
+            atgaacaatatgaacgtaattattgccgatgaccatccgatagtcttgttcggtattcgc
+            aaatcacttgagcaaattgagtgggtgaatgttgtcggcgaatttgaagactctacagca
+            ctgatcaacaacctgccgaaactggatgcgcatgtgttgattaccgatctctccatgcct
+            ggcgataagtacggcgatggcattaccttaatcaagtacatcaagcgccatttcccaagc
+            ctgtcgatcattgttctgactatgaacaacaacccggcgattcttagtgcggtattggat
+            ctggatatcgaagggatcgtgctgaaacaaggtgcaccgaccgatctgccgaaagctctc
+            gccgcgctgcagaaagggaagaaatttaccccggaaagcgtttctcgcctgttggaaaaa
+            atcagtgctggtggttacggtgacaagcgtctctcgccaaaagagagtgaagttctgcgc
+            ctgtttgcggaaggcttcctggtgaccgagatcgctaaaaagctgaaccgcagtattaaa
+            accatcagtagccagaagaaatctgcgatgatgaagctgggtgtcgagaacgatatcgcc
+            ctgctgaattatctctcttcagtgaccttaagtccggcagataaagactaa
+///

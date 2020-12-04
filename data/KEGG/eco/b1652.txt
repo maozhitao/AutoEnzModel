@@ -1,0 +1,50 @@
+ENTRY       b1652             CDS       T00007
+NAME        rnt
+DEFINITION  (RefSeq) RNase T
+ORTHOLOGY   K03683  ribonuclease T [EC:3.1.13.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b1652 (rnt)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.13  Exoribonucleases producing 5'-phosphomonoesters
+                3.1.13.-  
+                 b1652 (rnt)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              3'processing and CCA adding factors
+               3'processing factors
+                b1652 (rnt)
+POSITION    1728347..1728994
+MOTIF       Pfam: RNase_T DUF5051
+DBLINKS     NCBI-GeneID: 946159
+            NCBI-ProteinID: NP_416169
+            Pasteur: rnt
+            RegulonDB: ECK120001501
+            ECOCYC: EG11547
+            ASAP: ABE-0005523
+            UniProt: P30014
+STRUCTURE   PDB: 3V9W 4KB1 3V9Z 4KAZ 3V9X 4KB0 3V9S 3NGZ 3NH1 3VA0 3NGY
+                 3V9U 3NH0 3NH2 3VA3 2IS3
+AASEQ       215
+            MSDNAQLTGLCDRFRGFYPVVIDVETAGFNAKTDALLEIAAITLKMDEQGWLMPDTTLHF
+            HVEPFVGANLQPEALAFNGIDPNDPDRGAVSEYEALHEIFKVVRKGIKASGCNRAIMVAH
+            NANFDHSFMMAAAERASLKRNPFHPFATFDTAALAGLALGQTVLSKACQTAGMDFDSTQA
+            HSALYDTERTAVLFCEIVNRWKRLGGWPLSAAEEV
+NTSEQ       648
+            atgtccgataacgctcaacttaccggtctgtgcgaccgttttcgtggtttttatcctgtt
+            gtgatcgatgttgaaacagccggatttaacgccaaaaccgatgcgctgcttgagattgcc
+            gccatcaccctgaaaatggatgaacaaggctggctgatgccggacaccacattacatttc
+            cacgtcgaaccatttgtcggcgcaaatttgcaaccagaagccctcgccttcaacggcatt
+            gacccgaacgatcccgatcgcggcgcggtcagcgaatacgaggcgctgcacgaaattttt
+            aaagttgtacgtaaaggtattaaagcgagcggctgtaaccgcgccattatggtggcgcac
+            aatgccaattttgatcacagctttatgatggccgccgcagaacgcgcctcactgaaacgt
+            aacccgttccaccctttcgccacttttgacactgctgcactggccgggctggcactcgga
+            caaaccgtattgtcaaaggcttgccagaccgctggcatggacttcgacagcacccaggcg
+            cactccgcgctgtacgacaccgaacgcactgctgtgctgttttgtgaaatcgtcaaccgc
+            tggaaacgtctgggaggctggccgctatctgccgccgaagaggtgtaa
+///

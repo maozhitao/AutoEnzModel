@@ -1,0 +1,47 @@
+ENTRY       b1237             CDS       T00007
+NAME        hns
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator H-NS
+ORTHOLOGY   K03746  DNA-binding protein H-NS
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b1237 (hns)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1237 (hns)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Nucleoid associated proteins
+               HNS (histone-like nucleoid structuring protein)
+                b1237 (hns)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               NHEJ (non-homologous end-joining)
+                SHDIR (short-homology-dependent illegitimate recombination)
+                 Supressor
+                  b1237 (hns)
+POSITION    complement(1292509..1292922)
+MOTIF       Pfam: Histone_HNS DUF3037 TetR_C_24 PaaX_C HAUS-augmin3 Swi5
+DBLINKS     NCBI-GeneID: 945829
+            NCBI-ProteinID: NP_415753
+            Pasteur: hns
+            RegulonDB: ECK120000450
+            ECOCYC: EG10457
+            ASAP: ABE-0004152
+            UniProt: P0ACF8
+STRUCTURE   PDB: 2MW2 1NI8 1LR1 1HNR 1HNS
+AASEQ       137
+            MSEALKILNNIRTLRAQARECTLETLEEMLEKLEVVVNERREEESAAAAEVEERTRKLQQ
+            YREMLIADGIDPNELLNSLAAVKSGTKAKRAQRPAKYSYVDENGETKTWTGQGRTPAVIK
+            KAMDEQGKSLDDFLIKQ
+NTSEQ       414
+            atgagcgaagcacttaaaattctgaacaacatccgtactcttcgtgcgcaggcaagagaa
+            tgtacacttgaaacgctggaagaaatgctggaaaaattagaagttgttgttaacgaacgt
+            cgcgaagaagaaagcgcggctgctgctgaagttgaagagcgcactcgtaaactgcagcaa
+            tatcgcgaaatgctgatcgctgacggtattgacccgaacgaactgctgaatagccttgct
+            gccgttaaatctggcaccaaagctaaacgtgctcagcgtccggcaaaatatagctacgtt
+            gacgaaaacggcgaaactaaaacctggactggccaaggccgtactccagctgtaatcaaa
+            aaagcaatggatgagcaaggtaaatccctcgacgatttcctgatcaagcaataa
+///

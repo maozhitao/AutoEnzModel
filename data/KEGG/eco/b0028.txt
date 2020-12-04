@@ -1,0 +1,45 @@
+ENTRY       b0028             CDS       T00007
+NAME        fkpB
+DEFINITION  (RefSeq) peptidyl-prolyl cis-trans isomerase FkpB
+ORTHOLOGY   K03774  FKBP-type peptidyl-prolyl cis-trans isomerase SlpA [EC:5.2.1.8]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b0028 (fkpB)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.2  cis-trans-Isomerases
+               5.2.1  cis-trans Isomerases (only sub-subclass identified to date)
+                5.2.1.8  peptidylprolyl isomerase
+                 b0028 (fkpB)
+            Chaperones and folding catalysts [BR:eco03110]
+             Protein folding catalysts
+              Peptidyl prolyl isomerase
+               FKBP
+                b0028 (fkpB)
+POSITION    25826..26275
+MOTIF       Pfam: FKBP_C DUF5666 ProQ_C
+DBLINKS     NCBI-GeneID: 944807
+            NCBI-ProteinID: NP_414569
+            Pasteur: fkpB
+            RegulonDB: ECK120001068
+            ECOCYC: EG11080
+            ASAP: ABE-0000101
+            UniProt: P0AEM0
+STRUCTURE   PDB: 4DT4 2M2A
+AASEQ       149
+            MSESVQSNSAVLVHFTLKLDDGTTAESTRNNGKPALFRLGDASLSEGLEQHLLGLKVGDK
+            TTFSLEPDAAFGVPSPDLIQYFSRREFMDAGEPEIGAIMLFTAMDGSEMPGVIREINGDS
+            ITVDFNHPLAGQTVHFDIEVLEIDPALEA
+NTSEQ       450
+            atgtctgaatctgtacagagcaatagcgccgtcctggtgcacttcacgctaaaactcgac
+            gatggcaccaccgccgagtctacccgcaacaacggtaaaccggcgctgttccgcctgggt
+            gatgcttctctttctgaagggctggagcaacacctgttggggctgaaagtgggcgataaa
+            accaccttctcgttggagccagatgcggcgtttggcgtgccgtcaccggacctgattcag
+            tacttctcccgccgtgaatttatggatgcaggcgagccagaaattggcgcaatcatgctt
+            tttaccgcaatggatggcagtgagatgcctggcgtgatccgcgaaattaacggcgactcc
+            attaccgttgatttcaaccatccgctggccgggcagaccgttcattttgatattgaagtg
+            ctggaaatcgatccggcactggaggcgtaa
+///

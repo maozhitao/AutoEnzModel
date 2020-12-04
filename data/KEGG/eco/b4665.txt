@@ -1,0 +1,27 @@
+ENTRY       b4665             CDS       T00007
+NAME        ibsC
+DEFINITION  (RefSeq) toxic peptide IbsC
+ORTHOLOGY   K19151  small toxic protein IbsC
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4665 (ibsC)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               Ibs-Sib
+                b4665 (ibsC)
+POSITION    complement(3056890..3056949)
+MOTIF       Pfam: Ibs_toxin Defensin_propep
+DBLINKS     NCBI-GeneID: 7751627
+            NCBI-ProteinID: YP_002791255
+            RegulonDB: ECK120035073
+            ECOCYC: G0-10631
+            UniProt: C1P615
+AASEQ       19
+            MMRLVIILIVLLLISFSAY
+NTSEQ       60
+            atgatgcgacttgtcatcatactgattgtactgttactcataagtttcagcgcttattaa
+///

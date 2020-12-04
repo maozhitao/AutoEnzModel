@@ -1,0 +1,34 @@
+ENTRY       b2991             CDS       T00007
+NAME        hybF
+DEFINITION  (RefSeq) hydrogenase maturation protein HybF
+ORTHOLOGY   K04651  hydrogenase nickel incorporation protein HypA/HybF
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b2991 (hybF)
+            Chaperones and folding catalysts [BR:eco03110]
+             Other chaperones and cochaperones
+              Others
+               b2991 (hybF)
+POSITION    complement(3139977..3140318)
+MOTIF       Pfam: HypA zinc_ribbon_9 DnaJ_CXXCXGXG Zn-ribbon_8 DUF5315
+DBLINKS     NCBI-GeneID: 948004
+            NCBI-ProteinID: NP_417465
+            Pasteur: hybF
+            RegulonDB: ECK120001738
+            ECOCYC: EG11804
+            ASAP: ABE-0009818
+            UniProt: P0A703
+AASEQ       113
+            MHELSLCQSAVEIIQRQAEQHDVKRVTAVWLEIGALSCVEESAVRFSFEIVCHGTVAQGC
+            DLHIVYKPAQAWCWDCSQVVEIHQHDAQCPLCHGERLRVDTGDSLIVKSIEVE
+NTSEQ       342
+            atgcatgagttgtctctttgccagagcgccgttgaaattatccaacggcaggcggagcag
+            cacgatgttaagcgcgtcaccgccgtgtggctggaaattggcgcgctctcctgcgttgag
+            gagagcgccgtccgttttagttttgaaattgtctgccacggaacggtggcgcaagggtgc
+            gatttacatatcgtctataaacccgcccaggcttggtgctgggattgcagccaggtggtg
+            gagattcatcagcacgatgcgcagtgtccgctctgtcacggcgagcggttgcgtgtcgat
+            accggcgattcgctgatcgtcaaaagtattgaagttgaataa
+///

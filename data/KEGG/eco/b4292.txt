@@ -1,0 +1,45 @@
+ENTRY       b4292             CDS       T00007
+NAME        fecR
+DEFINITION  (RefSeq) regulator for fec operon, periplasmic
+ORTHOLOGY   K07165  transmembrane sensor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b4292 (fecR)
+POSITION    complement(4516764..4517717)
+MOTIF       Pfam: FecR DUF4880 DUF4974
+DBLINKS     NCBI-GeneID: 949104
+            NCBI-ProteinID: NP_418712
+            Pasteur: fecR
+            RegulonDB: ECK120000286
+            ECOCYC: EG10292
+            ASAP: ABE-0014070
+            UniProt: P23485
+AASEQ       317
+            MNPLLTDSRRQALRSASHWYAVLSGERVSPQQEARWQQWYEQDQDNQWAWQQVENLRNQL
+            GGVPGDVASRALHDTRLTRRHVMKGLLLLLGAGGGWQLWQSETGEGLRADYRTAKGTVSR
+            QQLEDGSLLTLNTQSAADVRFDAHQRTVRLWYGEIAITTAKDALQRPFRVLTRQGQLTAL
+            GTEFTVRQQDNFTQLDVQQHAVEVLLASAPAQKRIVNAGESLQFSASEFGAVKPLDDEST
+            SWTKDILSFSDKPLGEVIATLTRYRNGVLRCDPAVAGLRLSGTFPLKNTDAILNVIAQTL
+            PVKIQSITRYWINISPL
+NTSEQ       954
+            atgaatcctttgttaaccgattcccgccgtcaggcgctgcgttcagcttcccactggtat
+            gccgtgctaagcggcgagcgcgtcagcccacaacaggaagcgcgctggcaacagtggtat
+            gaacaggatcaggataaccagtgggcctggcagcaggttgaaaacctgcgcaaccagctt
+            ggcggtgtgcctggcgacgttgccagccgggcgttgcacgatacccgcctcacccgccgt
+            cacgtgatgaaaggattactgctgttgctcggcgctggcggaggctggcagctctggcag
+            tcggaaaccggcgaaggtctgcgggcagattaccgcaccgccaaaggcacagtcagccgt
+            cagcaactggaagatggctccctgctcacgctgaatacccaaagcgcggcggatgtgcgt
+            tttgatgcgcatcagcgcaccgtccggctctggtacggtgaaatcgccattactaccgcg
+            aaagatgccctgcaacgccccttccgtgtcctgacccgtcagggccagctcactgcttta
+            gggacagaatttaccgtccgccagcaggataatttcacgcagcttgacgtgcagcagcac
+            gctgtggaagtgcttctcgccagtgcccccgcgcaaaaacgcatcgtgaacgctggtgaa
+            agcctgcagttcagcgcctctgagtttggcgcagtgaaaccgctggatgacgagagtaca
+            agctggacgaaggacatcctgagcttcagcgataaaccgctgggtgaggtgatagccacg
+            ctaacccgttaccgcaacggcgtgctgcgctgcgatcccgccgttgccgggctgcgcctg
+            agcgggacgttcccgctgaaaaataccgatgcgatcctgaacgttatcgcgcaaacgctt
+            cccgttaaaattcagtctattacgcggtactggataaacatttcaccactgtaa
+///

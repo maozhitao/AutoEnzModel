@@ -1,0 +1,68 @@
+ENTRY       b2567             CDS       T00007
+NAME        rnc
+DEFINITION  (RefSeq) RNase III
+ORTHOLOGY   K03685  ribonuclease III [EC:3.1.26.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03019 Messenger RNA biogenesis [BR:eco03019]
+                b2567 (rnc)
+               03009 Ribosome biogenesis [BR:eco03009]
+                b2567 (rnc)
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b2567 (rnc)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.26  Endoribonucleases producing 5'-phosphomonoesters
+                3.1.26.3  ribonuclease III
+                 b2567 (rnc)
+            Messenger RNA biogenesis [BR:eco03019]
+             Prokaryotic type
+              Bacterial mRNA degradation factors
+               RNA degradosome components
+                Ribonucreases
+                 b2567 (rnc)
+            Ribosome biogenesis [BR:eco03009]
+             Eukaryotic type
+              90S particles
+               RNase
+                b2567 (rnc)
+             Prokaryotic type
+              rRNA processing factors
+               b2567 (rnc)
+            Chromosome and associated proteins [BR:eco03036]
+             Eukaryotic type
+              Gene silencing
+               microRNA pathway
+                Microprocessor complex
+                 b2567 (rnc)
+POSITION    complement(2703383..2704063)
+MOTIF       Pfam: Ribonucleas_3_3 Ribonuclease_3 dsrm DND1_DSRM
+DBLINKS     NCBI-GeneID: 947033
+            NCBI-ProteinID: NP_417062
+            Pasteur: rnc
+            RegulonDB: ECK120000848
+            ECOCYC: EG10857
+            ASAP: ABE-0008448
+            UniProt: P0A7Y0
+AASEQ       226
+            MNPIVINRLQRKLGYTFNHQELLQQALTHRSASSKHNERLEFLGDSILSYVIANALYHRF
+            PRVDEGDMSRMRATLVRGNTLAELAREFELGECLRLGPGELKSGGFRRESILADTVEALI
+            GGVFLDSDIQTVEKLILNWYQTRLDEISPGDKQKDPKTRLQEYLQGRHLPLPTYLVVQVR
+            GEAHDQEFTIHCQVSGLSEPVVGTGSSRRKAEQAAAEQALKKLELE
+NTSEQ       681
+            atgaaccccatcgtaattaatcggcttcaacggaagctgggctacacttttaatcatcag
+            gaactgttgcagcaggcattaactcatcgtagtgccagcagtaaacataacgagcgttta
+            gaatttttaggcgactctattctgagctacgttatcgccaatgcgctttatcaccgtttc
+            cctcgtgtggatgaaggcgatatgagccggatgcgcgccacgctggtccgtggcaatacg
+            ctggcggaactggcgcgcgaatttgagttaggcgagtgcttacgtttagggccaggtgaa
+            cttaaaagcggtggatttcgtcgtgagtcaattctcgccgacaccgtcgaagcattaatt
+            ggtggcgtattcctcgacagtgatattcaaaccgtcgagaaattaatcctcaactggtat
+            caaactcgtttggacgaaattagcccaggcgataaacaaaaagatccgaaaacgcgcttg
+            caagaatatttgcagggtcgccatctgccgctgccgacttatctggtagtccaggtacgt
+            ggcgaagcgcacgatcaggaatttactatccactgccaggtcagcggcctgagtgaaccg
+            gtggttggcacaggttcaagccgtcgtaaggctgagcaggctgccgccgaacaggcgttg
+            aaaaaactggagctggaatga
+///

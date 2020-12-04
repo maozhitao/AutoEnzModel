@@ -1,0 +1,52 @@
+ENTRY       b2891             CDS       T00007
+NAME        prfB
+DEFINITION  (RefSeq) peptide chain release factor RF2
+ORTHOLOGY   K02836  peptide chain release factor 2
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:eco03012]
+                b2891 (prfB)
+            Translation factors [BR:eco03012]
+             Prokaryotic type
+              Release factors
+               b2891 (prfB)
+POSITION    complement(join(3035184..3036206,3036208..3036282))
+MOTIF       Pfam: PCRF RF-1 ABC_tran_CTD MCU
+DBLINKS     NCBI-GeneID: 947369
+            NCBI-ProteinID: NP_417367
+            RegulonDB: ECK120000753
+            ECOCYC: EG10762
+            ASAP: ABE-0009488
+            UniProt: P07012
+STRUCTURE   PDB: 1GQE 6C4H 5U4J 1MI6 1ML5
+AASEQ       365
+            MFEINPVNNRIQDLTERSDVLRGYLDYDAKKERLEEVNAELEQPDVWNEPERAQALGKER
+            SSLEAVVDTLDQMKQGLEDVSGLLELAVEADDEETFNEAVAELDALEEKLAQLEFRRMFS
+            GEYDSADCYLDIQAGSGGTEAQDWASMLERMYLRWAESRGFKTEIIEESEGEVAGIKSVT
+            IKISGDYAYGWLRTETGVHRLVRKSPFDSGGRRHTSFSSAFVYPEVDDDIDIEINPADLR
+            IDVYRTSGAGGQHVNRTESAVRITHIPTGIVTQCQNDRSQHKNKDQAMKQMKAKLYELEM
+            QKKNAEKQAMEDNKSDIGWGSQIRSYVLDDSRIKDLRTGVETRNTQAVLDGSLDQFIEAS
+            LKAGL
+NTSEQ       1098
+            atgtttgaaattaatccggtaaataatcgcattcaggacctcacggaacgctccgacgtt
+            cttagggggtatcttgactacgacgccaagaaagagcgtctggaagaagtaaacgccgag
+            ctggaacagccggatgtctggaacgaacccgaacgcgcacaggcgctgggtaaagagcgt
+            tcctccctcgaagccgttgtcgacaccctcgaccaaatgaaacaggggctggaagatgtt
+            tctggtctgctggaactggctgtagaagctgacgacgaagaaacctttaacgaagccgtt
+            gctgaactcgacgccctggaagaaaaactggcgcagcttgagttccgccgtatgttctct
+            ggcgaatatgacagcgccgactgctacctcgatattcaggcggggtctggcggtacggaa
+            gcacaggactgggcgagcatgcttgagcgtatgtatctgcgctgggcagaatcgcgtggt
+            ttcaaaactgaaatcatcgaagagtcggaaggtgaagtggcgggtattaaatccgtgacg
+            atcaaaatctccggcgattacgcttacggctggctgcgtacagaaaccggcgttcaccgc
+            ctggtgcgtaaaagcccgtttgactccggcggtcgtcgccacacgtcgttcagctccgcg
+            tttgtttatccggaagttgatgatgatattgatatcgaaatcaacccggcggatctgcgc
+            attgacgtttatcgcacgtccggcgcgggcggtcagcacgttaaccgtaccgaatctgcg
+            gtgcgtattacccacatcccgaccgggatcgtgacccagtgccagaacgaccgttcccag
+            cacaagaacaaagatcaggccatgaagcagatgaaagcgaagctttatgaactggagatg
+            cagaagaaaaatgccgagaaacaggcgatggaagataacaaatccgacatcggctggggc
+            agccagattcgttcttatgtccttgatgactcccgcattaaagatctgcgcaccggggta
+            gaaacccgcaacacgcaggccgtgctggacggcagcctggatcaatttatcgaagcaagt
+            ttgaaagcagggttatga
+///

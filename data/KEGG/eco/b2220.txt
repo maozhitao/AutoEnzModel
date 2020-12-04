@@ -1,0 +1,63 @@
+ENTRY       b2220             CDS       T00007
+NAME        atoC
+DEFINITION  (RefSeq) DNA-binding transcriptional activator/ornithine decarboxylase inhibitor AtoC
+ORTHOLOGY   K07714  two-component system, NtrC family, response regulator AtoC
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b2220 (atoC)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b2220 (atoC)
+            Two-component system [BR:eco02022]
+             NtrC family
+              AtoS-AtoC (cPHB biosynthesis)
+               b2220 (atoC)
+POSITION    2321866..2323251
+MOTIF       Pfam: Sigma54_activat Response_reg Sigma54_activ_2 HTH_8 AAA_5 AAA HTH_50 Mg_chelatase AAA_3 AAA_16 AAA_2 FleQ HPIH ATPase AAA_22
+DBLINKS     NCBI-GeneID: 947444
+            NCBI-ProteinID: NP_416724
+            Pasteur: atoC
+            RegulonDB: ECK120001611
+            ECOCYC: EG11668
+            ASAP: ABE-0007343
+            UniProt: Q06065
+AASEQ       461
+            MTAINRILIVDDEDNVRRMLSTAFALQGFETHCANNGRTALHLFADIHPDVVLMDIRMPE
+            MDGIKALKEMRSHETRTPVILMTAYAEVETAVEALRCGAFDYVIKPFDLDELNLIVQRAL
+            QLQSMKKEIRHLHQALSTSWQWGHILTNSPAMMDICKDTAKIALSQASVLISGESGTGKE
+            LIARAIHYNSRRAKGPFIKVNCAALPESLLESELFGHEKGAFTGAQTLRQGLFERANEGT
+            LLLDEIGEMPLVLQAKLLRILQEREFERIGGHQTIKVDIRIIAATNRDLQAMVKEGTFRE
+            DLFYRLNVIHLILPPLRDRREDISLLANHFLQKFSSENQRDIIDIDPMAMSLLTAWSWPG
+            NIRELSNVIERAVVMNSGPIIFSEDLPPQIRQPVCNAGEVKTAPVGERNLKEEIKRVEKR
+            IIMEVLEQQEGNRTRTALMLGISRRALMYKLQEYGIDPADV
+NTSEQ       1386
+            atgactgctattaatcgcatccttattgtggatgatgaagataatgttcgccgtatgctg
+            agcaccgcttttgcactacaaggattcgaaacacattgtgcgaacaacggacgcacagca
+            ttacacctgtttgccgatattcaccctgatgtggtgttgatggatatccgcatgccagag
+            atggacggcatcaaggcactaaaggagatgcgcagccatgagacccggacacccgttatt
+            ctgatgacggcctatgcggaagtggaaaccgccgtcgaagcgctacgctgcggagccttc
+            gactatgttattaaaccgtttgatctcgatgagttgaatttaatcgttcagcgcgcttta
+            caactccagtcaatgaaaaaagagatccgtcatctgcaccaggcactgagcaccagctgg
+            caatgggggcacattctcaccaacagcccggcgatgatggacatctgcaaagacaccgcc
+            aaaattgccctttctcaggccagcgtcttgattagcggtgaaagcggcaccgggaaagag
+            ttgattgccagagcgattcactacaattcgcggcgggcaaaggggccgttcattaaagtc
+            aactgcgcggcgctgccggaatcgttgctcgaaagtgaactgtttggtcatgaaaaaggt
+            gcatttactggtgcacaaaccttgcgtcagggattatttgaacgagccaacgaaggtact
+            ctgctcctcgacgaaattggcgaaatgccgctggtactacaagccaaattactacgcatt
+            ctacaggaacgggaatttgaacggattggcggccatcagaccataaaagttgatatccgc
+            atcattgctgccaccaaccgcgacttgcaggcaatggtaaaagaaggcaccttccgtgaa
+            gatctcttttatcgccttaacgttattcatttaatactgccgcctctgcgcgatcgccgg
+            gaagatatttccctgttagctaatcactttttgcaaaaattcagtagtgagaatcagcgc
+            gatattatcgacatcgatccgatggcaatgtcactgcttaccgcctggtcatggccggga
+            aatattcgagagctttccaacgttattgaacgcgccgtcgtgatgaattcaggcccgatc
+            attttttctgaggatcttccgccacagattcgtcagccagtctgtaatgctggcgaggta
+            aaaacagcccctgtcggtgagcgtaatttaaaagaggaaattaaacgcgtcgaaaaacgc
+            atcattatggaagtgctggaacaacaagaaggaaaccgaacccgcactgctttaatgctg
+            ggcatcagtcgccgtgcattgatgtataaactccaggaatacggtatcgatccggcggat
+            gtataa
+///

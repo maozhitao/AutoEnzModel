@@ -1,0 +1,46 @@
+ENTRY       b0422             CDS       T00007
+NAME        xseB
+DEFINITION  (RefSeq) exodeoxyribonuclease VII subunit XseB
+ORTHOLOGY   K03602  exodeoxyribonuclease VII small subunit [EC:3.1.11.6]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03430  Mismatch repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03430 Mismatch repair
+                b0422 (xseB)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b0422 (xseB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.11  Exodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.11.6  exodeoxyribonuclease VII
+                 b0422 (xseB)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                DNA exonucleases
+                 b0422 (xseB)
+POSITION    complement(441101..441343)
+MOTIF       Pfam: Exonuc_VII_S KxDL
+DBLINKS     NCBI-GeneID: 945069
+            NCBI-ProteinID: NP_414956
+            Pasteur: xseB
+            RegulonDB: ECK120001086
+            ECOCYC: EG11098
+            ASAP: ABE-0001466
+            UniProt: P0A8G9
+AASEQ       80
+            MPKKNEAPASFEKALSELEQIVTRLESGDLPLEEALNEFERGVQLARQGQAKLQQAEQRV
+            QILLSDNEDASLTPFTPDNE
+NTSEQ       243
+            atgccgaagaaaaatgaggcgcccgccagctttgaaaaggcgctgagcgagctggaacag
+            attgtaacccgtctggaaagtggcgacctgccgctggaagaggcgctgaacgagttcgaa
+            cgcggcgtgcagctggcacgtcaggggcaggccaaattacaacaagccgaacagcgcgta
+            caaattctgctgtctgacaatgaagacgcctctctaaccccttttacaccggacaatgag
+            taa
+///

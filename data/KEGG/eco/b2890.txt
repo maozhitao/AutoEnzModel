@@ -1,0 +1,84 @@
+ENTRY       b2890             CDS       T00007
+NAME        lysS
+DEFINITION  (RefSeq) lysine--tRNA ligase, constitutive
+ORTHOLOGY   K04567  lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                b2890 (lysS)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:eco01007]
+                b2890 (lysS)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b2890 (lysS)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.6  lysine---tRNA ligase
+                 b2890 (lysS)
+            Amino acid related enzymes [BR:eco01007]
+             Aminoacyl-tRNA synthetase
+              Class II (A)
+               b2890 (lysS)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Multi-aminoacyl-tRNA synthetase complex (MSC)
+                b2890 (lysS)
+             Prokaryotic type
+               Other AARSs
+                b2890 (lysS)
+POSITION    complement(3033657..3035174)
+MOTIF       Pfam: tRNA-synt_2 tRNA_anti-codon tRNA-synt_2d
+DBLINKS     NCBI-GeneID: 947372
+            NCBI-ProteinID: NP_417366
+            Pasteur: lysS
+            RegulonDB: ECK120000545
+            ECOCYC: EG10552
+            ASAP: ABE-0009486
+            UniProt: P0A8N3
+STRUCTURE   PDB: 1BBU 1BBW 1KRS 1KRT
+AASEQ       505
+            MSEQHAQGADAVVDLNNELKTRREKLANLREQGIAFPNDFRRDHTSDQLHAEFDGKENEE
+            LEALNIEVAVAGRMMTRRIMGKASFVTLQDVGGRIQLYVARDDLPEGVYNEQFKKWDLGD
+            ILGAKGKLFKTKTGELSIHCTELRLLTKALRPLPDKFHGLQDQEARYRQRYLDLISNDES
+            RNTFKVRSQILSGIRQFMVNRGFMEVETPMMQVIPGGAAARPFITHHNALDLDMYLRIAP
+            ELYLKRLVVGGFERVFEINRNFRNEGISVRHNPEFTMMELYMAYADYKDLIELTESLFRT
+            LAQDILGKTEVTYGDVTLDFGKPFEKLTMREAIKKYRPETDMADLDNFDSAKAIAESIGI
+            HVEKSWGLGRIVTEIFEEVAEAHLIQPTFITEYPAEVSPLARRNDVNPEITDRFEFFIGG
+            REIGNGFSELNDAEDQAQRFLDQVAAKDAGDDEAMFYDEDYVTALEHGLPPTAGLGIGID
+            RMVMLFTNSHTIRDVILFPAMRPVK
+NTSEQ       1518
+            atgtctgaacaacacgcacagggcgctgacgcggtagtcgatcttaacaatgaactgaaa
+            acgcgtcgtgagaagctggcgaacctgcgcgagcaggggattgccttcccgaacgatttc
+            cgtcgcgatcatacctctgaccaattgcacgcagaattcgacggcaaagagaacgaagaa
+            ctggaagcgctgaacatcgaagtcgccgttgctggccgcatgatgacccgtcgtattatg
+            ggtaaagcgtctttcgttaccctgcaggacgttggcggtcgcattcagctgtacgttgcc
+            cgtgacgatctcccggaaggcgtttataacgagcagttcaaaaaatgggacctcggcgac
+            atcctcggcgcgaaaggtaagctgttcaaaaccaaaaccggcgaactgtctatccactgc
+            accgagttgcgtctgctgaccaaagcactgcgtccgctgccggataaattccacggcttg
+            caggatcaggaagcgcgctatcgtcagcgttatctcgatctcatctccaacgatgaatcc
+            cgcaacacctttaaagtgcgctcgcagatcctctctggtattcgccagttcatggtgaac
+            cgcggctttatggaagttgaaacgccgatgatgcaggtgatccctggcggtgccgctgcg
+            cgtccgtttatcacccaccataacgcgctggatctcgacatgtacctgcgtatcgcgccg
+            gaactgtacctcaagcgtctggtggttggtggcttcgagcgtgtattcgaaatcaaccgt
+            aacttccgtaacgaaggtatttccgtacgtcataacccagagttcaccatgatggaactc
+            tacatggcttacgcagattacaaagatctgatcgagctgaccgaatcgctgttccgtact
+            ctggcacaggatattctcggtaagacggaagtgacctacggcgacgtgacgctggacttc
+            ggtaaaccgttcgaaaaactgaccatgcgtgaagcgatcaagaaatatcgcccggaaacc
+            gacatggcggatctggacaacttcgactctgcgaaagcaattgctgaatctatcggcatc
+            cacgttgagaagagctggggtctgggccgtatcgttaccgagatcttcgaagaagtggca
+            gaagcacatctgattcagccgaccttcattactgaatatccggcagaagtttctccgctg
+            gcgcgtcgtaacgacgttaacccggaaatcacagaccgctttgagttcttcattggtggt
+            cgtgaaatcggtaacggctttagcgagctgaatgacgcggaagatcaggcgcaacgcttc
+            ctggatcaggttgccgcgaaagacgcaggtgacgacgaagcgatgttctacgatgaagat
+            tacgtcaccgcactggaacatggcttaccgccgacagcaggtctgggaattggtatcgac
+            cgtatggtaatgctgttcaccaacagccataccatccgcgacgttattctgttcccggcg
+            atgcgtccggtaaaataa
+///

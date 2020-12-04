@@ -1,0 +1,50 @@
+ENTRY       b3229             CDS       T00007
+NAME        sspA
+DEFINITION  (RefSeq) stringent starvation protein A
+ORTHOLOGY   K03599  stringent starvation protein A
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:eco03021]
+                b3229 (sspA)
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3229 (sspA)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               Other transcription-related factors
+                RNA polymerase-associated proteins
+                 b3229 (sspA)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b3229 (sspA)
+POSITION    complement(3376782..3377420)
+MOTIF       Pfam: GST_N GST_N_3 GST_C GST_N_2 GST_C_2 GST_C_5 Glutaredoxin
+DBLINKS     NCBI-GeneID: 944744
+            NCBI-ProteinID: NP_417696
+            Pasteur: sspA
+            RegulonDB: ECK120000966
+            ECOCYC: EG10977
+            ASAP: ABE-0010594
+            UniProt: P0ACA3
+AASEQ       212
+            MAVAANKRSVMTLFSGPTDIYSHQVRIVLAEKGVSFEIEHVEKDNPPQDLIDLNPNQSVP
+            TLVDRELTLWESRIIMEYLDERFPHPPLMPVYPVARGESRLYMHRIEKDWYTLMNTIING
+            SASEADAARKQLREELLAIAPVFGQKPYFLSDEFSLVDCYLAPLLWRLPQLGIEFSGPGA
+            KELKGYMTRVFERDSFLASLTEAEREMRLGRS
+NTSEQ       639
+            atggctgtcgctgccaacaaacgttcggtaatgacgctgttttccggtcctactgacatc
+            tatagccatcaggtccgcattgtgctggctgagaaaggtgtaagtttcgagatcgaacac
+            gtggaaaaggacaatccgcctcaggatctgattgacctcaacccgaatcagagcgttccg
+            accctggtggatcgtgagctgaccctgtgggaatctcgcatcattatggaatatctggat
+            gagcgtttcccgcatccgccactgatgcctgtttacccggtagctcgcggtgaaagccgt
+            ctgtacatgcatcgcatcgaaaaagactggtacacgctgatgaacaccatcatcaacggt
+            tcagcttctgaagcagatgccgcacgtaagcaactgcgcgaagaactgctggcgattgcg
+            ccggtcttcggtcagaagccgtacttcctgagcgatgagttcagcctggtcgattgctat
+            cttgctccgctgctgtggcgtctgccgcaactgggcatcgagttcagcggcccgggtgcg
+            aaagagctgaaaggctatatgacccgcgtctttgagcgtgactctttccttgcttcttta
+            actgaagcagaacgtgaaatgcgtctgggccggagttaa
+///

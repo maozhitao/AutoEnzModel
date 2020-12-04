@@ -1,0 +1,38 @@
+ENTRY       b3481             CDS       T00007
+NAME        nikR
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor NikR
+ORTHOLOGY   K07722  CopG family transcriptional regulator, nickel-responsive regulator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b3481 (nikR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Ribbon-helix-helix
+               CopG family
+                b3481 (nikR)
+POSITION    3618588..3618989
+MOTIF       Pfam: NikR_C RHH_1 RHH_8 RHH_5 RHH_3
+DBLINKS     NCBI-GeneID: 947995
+            NCBI-ProteinID: NP_417938
+            Pasteur: yhhG
+            RegulonDB: ECK120001473
+            ECOCYC: EG11519
+            ASAP: ABE-0011366
+            UniProt: P0A6Z6
+STRUCTURE   PDB: 1Q5Y 3BKT 3BKF 3BKU 2HZA 1Q5V 3OD2 2HZV
+AASEQ       133
+            MQRVTITLDDDLLETLDSLSQRRGYNNRSEAIRDILRSALAQEATQQHGTQGFAVLSYVY
+            EHEKRDLASRIVSTQHHHHDLSVATLHVHINHDDCLEIAVLKGDMGDVQHFADDVIAQRG
+            VRHGHLQCLPKED
+NTSEQ       402
+            atgcaacgagtcaccatcacgcttgatgacgatttactggagacgctggacagcctgagc
+            cagcgtcgtggttataacaaccgttccgaagctatccgcgacattctgcgtagcgccctg
+            gcgcaagaggccacccagcagcacggcacgcaaggtttcgcggtgctgtcgtatgtgtat
+            gaacacgaaaaacgcgacttagccagccgcattgtctccacccagcatcatcaccacgac
+            ctctccgtcgccacgctgcatgtgcacatcaaccacgacgactgtctggaaatcgccgtg
+            ttgaaaggtgacatgggtgacgtgcagcattttgccgatgacgttatcgcccagcgcggc
+            gtgcggcacgggcatttgcagtgcttgccgaaggaagattga
+///

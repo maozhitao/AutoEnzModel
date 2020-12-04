@@ -1,0 +1,37 @@
+ENTRY       b0836             CDS       T00007
+NAME        bssR
+DEFINITION  (RefSeq) regulator of biofilm formation
+ORTHOLOGY   K19688  biofilm regulator BssR
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b0836 (bssR)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               Type II TA system related factors
+                b0836 (bssR)
+POSITION    878248..878631
+MOTIF       Pfam: YliH
+DBLINKS     NCBI-GeneID: 945466
+            NCBI-ProteinID: NP_415357
+            Pasteur: yliH
+            RegulonDB: ECK120003036
+            ECOCYC: G6436
+            ASAP: ABE-0002849
+            UniProt: P0AAY1
+AASEQ       127
+            MFVDRQRIDLLNRLIDARVDLAAYVQLRKAKGYMSVSESNHLRDNFFKLNRELHDKSLRL
+            NLHLDQEEWSALHHAEEALATAAVCLMSGHHDCPTVITVNADKLENCLMSLTLSIQSLQK
+            HAMLEKA
+NTSEQ       384
+            atgttcgttgacagacagcgaatcgatctgctgaaccggttgatcgacgcacgcgttgac
+            ctcgccgcatacgtgcaactgaggaaggcaaaaggatacatgtccgtcagcgaaagcaat
+            catctacgagataacttttttaaactgaatcgcgaactgcacgataaatcgctgcggttg
+            aatcttcatctggatcaggaagagtggagtgctcttcatcatgctgaagaagcattagcg
+            acagccgcagtatgtttgatgagtgggcaccatgattgcccgactgttattaccgtcaac
+            gccgataagcttgaaaattgtctgatgagcttaacgctgagtatccagagcctgcagaag
+            cacgccatgcttgagaaggcctga
+///

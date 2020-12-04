@@ -1,0 +1,63 @@
+ENTRY       b3649             CDS       T00007
+NAME        rpoZ
+DEFINITION  (RefSeq) RNA polymerase subunit omega
+ORTHOLOGY   K03060  DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03020  RNA polymerase
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03020 RNA polymerase
+                b3649 (rpoZ)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:eco03021]
+                b3649 (rpoZ)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b3649 (rpoZ)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.6  DNA-directed RNA polymerase
+                 b3649 (rpoZ)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               RNA polymerase
+                Core subunits
+                 b3649 (rpoZ)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                TCR (transcription coupled repair) factors
+                 DNA-directed RNA polymerase complex (RNAP)
+                  b3649 (rpoZ)
+POSITION    3822106..3822381
+MOTIF       Pfam: RNA_pol_Rpb6
+DBLINKS     NCBI-GeneID: 948160
+            NCBI-ProteinID: NP_418106
+            Pasteur: rpoZ
+            RegulonDB: ECK120000890
+            ECOCYC: EG10899
+            ASAP: ABE-0011933
+            UniProt: P0A800
+STRUCTURE   PDB: 6N61 6OMF 6RIP 6GH5 5UAG 6P18 6C6T 4YFK 4LJZ 6RH3 6BYU
+                 5UAQ 5IPL 6N60 4XSZ 4KN7 6RIN 6RI9 6GOV 6GFW 6C6S 6C6U
+                 6ALG 4YG2 5NWT 5UI8 5BYH 5VT0 6K4Y 4LLG 6P19 6N62 6ASX
+                 5NSR 5UAC 5W1S 4YFN 4YFX 4LK1 4KMU 5UAL 6RI7 6B6H 4MEX
+                 4JK1 4LK0 5UAJ 4MEY 4KN4 4ZH4 6JBQ 6JNX 4ZH3 6GH6 6CUX
+                 6FLP 6FLQ 6ALF 5UAH 5IPM 4ZH2 4JKR 4JK2 6C9Y 5VSW 6ALH
+                 5W1T 5IPN 4S20 6BJS 4YLN 4YLP 6CA0 5NSS 4YLO 5MY1 5EZK
+                 5MS0 3LU0 3IYD
+AASEQ       91
+            MARVTVQDAVEKIGNRFDLVLVAARRARQMQVGGKDPLVPEENDKTTVIALREIEEGLIN
+            NQILDVRERQEQQEQEAAELQAVTAIAEGRR
+NTSEQ       276
+            atggcacgcgtaactgttcaggacgctgtagagaaaattggtaaccgttttgacctggta
+            ctggtcgccgcgcgtcgcgctcgtcagatgcaggtaggcggaaaggatccgctggtaccg
+            gaagaaaacgataaaaccactgtaatcgcgctgcgcgaaatcgaagaaggtctgatcaac
+            aaccagatcctcgacgttcgcgaacgccaggaacagcaagagcaggaagccgctgaatta
+            caagccgttaccgctattgctgaaggtcgtcgttaa
+///

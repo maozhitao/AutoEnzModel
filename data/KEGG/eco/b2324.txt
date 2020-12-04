@@ -1,0 +1,85 @@
+ENTRY       b2324             CDS       T00007
+NAME        mnmC
+DEFINITION  (RefSeq) fused 5-methylaminomethyl-2-thiouridine-forming methyltransferase and FAD-dependent demodification enzyme
+ORTHOLOGY   K15461  tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein [EC:2.1.1.61 1.5.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b2324 (mnmC)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.5  Acting on the CH-NH group of donors
+               1.5.-  Acting on the CH-NH group of donors
+                1.5.-.-  
+                 b2324 (mnmC)
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.61  tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+                 b2324 (mnmC)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Other tRNA modification factors
+                b2324 (mnmC)
+POSITION    2441764..2443770
+MOTIF       Pfam: Methyltransf_30 DAO NAD_binding_8
+DBLINKS     NCBI-GeneID: 946800
+            NCBI-ProteinID: NP_416827
+            Pasteur: yfcK
+            RegulonDB: ECK120003774
+            ECOCYC: G7199
+            ASAP: ABE-0007681
+            UniProt: P77182
+STRUCTURE   PDB: 2QY6 3PS9 3AWI
+AASEQ       668
+            MKHYSIQPANLEFNAEGTPVSRDFDDVYFSNDNGLEETRYVFLGGNQLEVRFPEHPHPLF
+            VVAESGFGTGLNFLTLWQAFDQFREAHPQAQLQRLHFISFEKFPLTRADLALAHQHWPEL
+            APWAEQLQAQWPMPLPGCHRLLLDEGRVTLDLWFGDINELTSQLDDSLNQKVDAWFLDGF
+            APAKNPDMWTQNLFNAMARLARPGGTLATFTSAGFVRRGLQDAGFTMQKRKGFGRKREML
+            CGVMEQTLPLPCSAPWFNRTGSSKREAAIIGGGIASALLSLALLRRGWQVTLYCADEAPA
+            LGASGNRQGALYPLLSKHDEALNRFFSNAFTFARRFYDQLPVKFDHDWCGVTQLGWDEKS
+            QHKIAQMLSMDLPAELAVAVEANAVEQITGVATNCSGITYPQGGWLCPAELTRNVLELAQ
+            QQGLQIYYQYQLQNLSRKDDCWLLNFAGDQQATHSVVVLANGHQISRFSQTSTLPVYSVA
+            GQVSHIPTTPELAELKQVLCYDGYLTPQNPANQHHCIGASYHRGSEDTAYSEDDQQQNRQ
+            RLIDCFPQAQWAKEVDVSDKEARCGVRCATRDHLPMVGNVPDYEATLVEYASLAEQKDEA
+            VSAPVFDDLFMFAALGSRGLCSAPLCAEILAAQMSDEPIPMDASTLAALNPNRLWVRKLL
+            KGKAVKAG
+NTSEQ       2007
+            gtgaaacactactccatacaacctgccaacctcgaatttaatgctgagggtacacctgtt
+            tcccgagattttgacgatgtctatttttccaacgataacgggctggaagagacgcgttat
+            gtttttctgggaggcaaccaattagaggtacgctttcctgagcatccacatcctctgttt
+            gtggtagcagagagcggcttcggcaccggattaaacttcctgacgctatggcaggcattt
+            gatcagtttcgcgaagcgcatccgcaagcgcaattacaacgcttacatttcattagtttt
+            gagaaatttcccctcacccgtgcggatttagccttagcgcatcaacactggccggaactg
+            gctccgtgggcagaacaacttcaggcgcagtggccaatgcccttgcccggttgccatcgt
+            ttattgctcgatgaaggccgcgtgacgctggatttatggtttggcgatattaacgaactg
+            accagccaactggacgattcgctaaatcaaaaagtagatgcctggtttctggacggcttt
+            gcgccagcgaaaaacccggatatgtggacgcaaaatctgtttaacgccatggcaaggttg
+            gcgcgtccgggcggcacgctggcgacatttacgtctgccggttttgtccgccgcggtttg
+            caggacgccggattcacgatgcaaaaacgtaagggctttgggcgcaaacgggaaatgctt
+            tgcggggtgatggaacagacattaccgctcccctgctccgcgccgtggtttaaccgcacg
+            ggcagcagcaaacgggaagcggcgattatcggcggtggtattgccagcgcgttgttgtcg
+            ctggcgctattacggcgcggctggcaggtaacgctttattgcgcggatgaggcccccgca
+            ctgggtgcttccggcaatcgccagggggcgctgtatccgttattaagcaaacacgatgag
+            gcgctaaaccgctttttctctaatgcgtttacttttgctcgtcggttttacgaccaatta
+            cccgttaaatttgatcatgactggtgcggcgtcacgcagttaggctgggatgagaaaagc
+            cagcataaaatcgcacagatgttgtcaatggatttacccgcagaactggctgtagccgtt
+            gaggcaaatgcggttgaacaaattacgggcgttgcgacaaattgcagcggcattacttat
+            ccgcaaggtggttggctgtgcccagcagaactgacccgtaatgtgctggaactggcgcaa
+            cagcagggtttgcagatttattatcaatatcagttacagaatttatcccgtaaggatgac
+            tgttggttgttgaattttgcaggagatcagcaagcaacacacagcgtagtggtactggcg
+            aacgggcatcaaatcagccgattcagccaaacgtcgactctcccggtgtattcggttgcc
+            gggcaggtcagccatattccgacaacgccggaattggcagagctgaagcaggtgctgtgc
+            tatgacggttatctcacgccacaaaatccggcgaatcaacatcattgtattggtgccagt
+            tatcatcgcggcagcgaagatacggcgtacagtgaggacgatcagcagcagaatcgccag
+            cggttgattgattgtttcccgcaggcacagtgggcaaaagaggttgatgtcagtgataaa
+            gaggcgcgctgcggtgtgcgttgtgccacccgcgatcatctgccaatggtaggcaatgtt
+            cccgattatgaggcaacactcgtggaatatgcgtcgttggcggagcagaaagatgaggcg
+            gtaagcgcgccggtttttgacgatctctttatgtttgcggctttaggttctcgcggtttg
+            tgttctgccccgctgtgtgccgagattctggcggcgcagatgagcgacgaaccgattccg
+            atggatgccagtacgctggcggcgttaaacccgaatcggttatgggtgcggaaattgttg
+            aagggtaaagcggttaaggcggggtaa
+///

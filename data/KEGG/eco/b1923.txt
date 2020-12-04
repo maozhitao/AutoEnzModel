@@ -1,0 +1,71 @@
+ENTRY       b1923             CDS       T00007
+NAME        fliC
+DEFINITION  (RefSeq) flagellar filament structural protein
+ORTHOLOGY   K02406  flagellin
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1923 (fliC)
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1923 (fliC)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1923 (fliC)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Rod,hook and filament
+                b1923 (fliC)
+POSITION    complement(2002110..2003606)
+MOTIF       Pfam: Flagellin_N Flagellin_C Flagellin_D3 Phage_connect_1
+DBLINKS     NCBI-GeneID: 949101
+            NCBI-ProteinID: NP_416433
+            Pasteur: fliC
+            RegulonDB: ECK120000315
+            ECOCYC: EG10321
+            ASAP: ABE-0006402
+            UniProt: P04949
+AASEQ       498
+            MAQVINTNSLSLITQNNINKNQSALSSSIERLSSGLRINSAKDDAAGQAIANRFTSNIKG
+            LTQAARNANDGISVAQTTEGALSEINNNLQRVRELTVQATTGTNSESDLSSIQDEIKSRL
+            DEIDRVSGQTQFNGVNVLAKNGSMKIQVGANDNQTITIDLKQIDAKTLGLDGFSVKNNDT
+            VTTSAPVTAFGATTTNNIKLTGITLSTEAATDTGGTNPASIEGVYTDNGNDYYAKITGGD
+            NDGKYYAVTVANDGTVTMATGATANATVTDANTTKATTITSGGTPVQIDNTAGSATANLG
+            AVSLVKLQDSKGNDTDTYALKDTNGNLYAADVNETTGAVSVKTITYTDSSGAASSPTAVK
+            LGGDDGKTEVVDIDGKTYDSADLNGGNLQTGLTAGGEALTAVANGKTTDPLKALDDAIAS
+            VDKFRSSLGAVQNRLDSAVTNLNNTTTNLSEAQSRIQDADYATEVSNMSKAQIIQQAGNS
+            VLAKANQVPQQVLSLLQG
+NTSEQ       1497
+            atggcacaagtcattaataccaacagcctctcgctgatcactcaaaataatatcaacaag
+            aaccagtctgcgctgtcgagttctatcgagcgtctgtcttctggcttgcgtattaacagc
+            gcgaaggatgacgcagcgggtcaggcgattgctaaccgtttcacctctaacattaaaggc
+            ctgactcaggcggcccgtaacgccaacgacggtatctccgttgcgcagaccaccgaaggc
+            gcgctgtccgaaatcaacaacaacttacagcgtgtgcgtgaactgacggtacaggccact
+            accggtactaactctgagtctgatctgtcttctatccaggacgaaattaaatcccgtctg
+            gatgaaattgaccgcgtatctggtcagacccagttcaacggcgtgaacgtgctggcaaaa
+            aatggctccatgaaaatccaggttggcgcaaatgataaccagactatcactatcgatctg
+            aagcagattgatgctaaaactcttggccttgatggttttagcgttaaaaataacgataca
+            gttaccactagtgctccagtaactgcttttggtgctaccaccacaaacaatattaaactt
+            actggaattaccctttctacggaagcagccactgatactggcggaactaacccagcttca
+            attgagggtgtttatactgataatggtaatgattactatgcgaaaatcaccggtggtgat
+            aacgatgggaagtattacgcagtaacagttgctaatgatggtacagtgacaatggcgact
+            ggagcaacggcaaatgcaactgtaactgatgcaaatactactaaagctacaactatcact
+            tcaggcggtacacctgttcagattgataatactgcaggttccgcaactgccaaccttggt
+            gctgttagcttagtaaaactgcaggattccaagggtaatgataccgatacatatgcgctt
+            aaagatacaaatggcaatctttacgctgcggatgtgaatgaaactactggtgctgtttct
+            gttaaaactattacctatactgactcttccggtgccgccagttctccaaccgcggtcaaa
+            ctgggcggagatgatggcaaaacagaagtggtcgatattgatggtaaaacatacgattct
+            gccgatttaaatggcggtaatctgcaaacaggtttgactgctggtggtgaggctctgact
+            gctgttgcaaatggtaaaaccacggatccgctgaaagcgctggacgatgctatcgcatct
+            gtagacaaattccgttcttccctcggtgcggtgcaaaaccgtctggattccgcggttacc
+            aacctgaacaacaccactaccaacctgtctgaagcgcagtcccgtattcaggacgccgac
+            tatgcgaccgaagtgtccaatatgtcgaaagcgcagatcatccagcaggccggtaactcc
+            gtgttggcaaaagctaaccaggtaccgcagcaggttctgtctctgctgcagggttaa
+///

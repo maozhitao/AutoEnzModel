@@ -1,0 +1,69 @@
+ENTRY       b0978             CDS       T00007
+NAME        appC
+DEFINITION  (RefSeq) cytochrome bd-II ubiquinol oxidase subunit I
+ORTHOLOGY   K00425  cytochrome bd ubiquinol oxidase subunit I [EC:7.1.1.7]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00190  Oxidative phosphorylation
+            eco02020  Two-component system
+MODULE      eco_M00153  Cytochrome bd ubiquinol oxidase
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                b0978 (appC)
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0978 (appC)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.1  Catalysing the translocation of hydrons
+               7.1.1  Linked to oxidoreductase reactions
+                7.1.1.7  quinol oxidase (electrogenic, proton-motive force generating)
+                 b0978 (appC)
+POSITION    1037740..1039284
+MOTIF       Pfam: Cyt_bd_oxida_I
+DBLINKS     NCBI-GeneID: 945585
+            NCBI-ProteinID: NP_415497
+            Pasteur: appC
+            RegulonDB: ECK120001348
+            ASAP: ABE-0003300
+            UniProt: P26459
+AASEQ       514
+            MWDVIDLSRWQFALTALYHFLFVPLTLGLIFLLAIMETIYVVTGKTIYRDMTRFWGKLFG
+            INFALGVATGLTMEFQFGTNWSFYSNYVGDIFGAPLAMEALMAFFLESTFVGLFFFGWQR
+            LNKYQHLLVTWLVAFGSNLSALWILNANGWMQYPTGAHFDIDTLRMEMTSFSELVFNPVS
+            QVKFVHTVMAGYVTGAMFIMAISAWYLLRGRERNVALRSFAIGSVFGTLAIIGTLQLGDS
+            SAYEVAQVQPVKLAAMEGEWQTEPAPAPFHVVAWPEQDQERNAFALKIPALLGILATHSL
+            DKPVPGLKNLMAETYPRLQRGRMAWLLMQEISQGNREPHVLQAFRGLEGDLGYGMLLSRY
+            APDMNHVTAAQYQAAMRGAIPQVAPVFWSFRIMVGCGSLLLLVMLIALVQTLRGKIDQHR
+            WVLKMALWSLPLPWIAIEAGWFMTEFGRQPWAIQDILPTYSAHSALTTGQLAFSLIMIVG
+            LYTLFLIAEVYLMQKYARLGPSAMQSEQPTQQQG
+NTSEQ       1545
+            atgtgggatgtcattgatttatcgcgctggcagtttgctctgaccgcgctgtatcacttt
+            ttatttgtaccccttaccctggggctgatttttttgctggctattatggaaaccatttac
+            gtggtcaccggcaaaacaatctaccgcgatatgacgcgcttctggggtaagctcttcggt
+            atcaattttgctcttggcgtggctaccggcctgaccatggagtttcagtttggtactaac
+            tggtcattctattccaactatgtgggcgatatttttggcgcaccgctggcgatggaagca
+            ttaatggccttcttcctcgaatccacctttgtcgggctgttcttcttcggctggcaacgg
+            ctgaataaataccagcacctgctggtgacgtggctggtggcgttcggttcaaatctctct
+            gcgttgtggatattgaatgccaacggttggatgcaatacccgaccggtgcgcattttgat
+            atcgacaccctgcgtatggagatgaccagcttcagcgagctggtctttaatccggtcagc
+            caggtgaaatttgtgcacaccgtaatggcgggctacgtgaccggggccatgtttattatg
+            gcgatcagcgcctggtatttactgcgcggacgggagcgcaatgtcgcattacgctcgttt
+            gccatcggttccgtcttcggtactctggcgattatcggtaccctgcaactcggagacagt
+            tctgcgtatgaagtcgcgcaagtacaaccggtaaaactggcggcgatggaaggggagtgg
+            caaacggaacctgcacctgcaccgttccatgtggttgcctggccggaacaggatcaagag
+            cgtaacgcctttgccctcaaaattcccgcgctgctagggatcctcgccactcactcatta
+            gataaacccgtgccgggtctgaagaatttgatggctgaaacctacccacgcttgcaacgc
+            ggacgtatggcctggctgttaatgcaggaaatatcgcaaggcaatcgtgagccgcatgtg
+            ttgcaggcattccggggactggaaggtgacctgggctacggcatgttgctctcccgctat
+            gcgccggatatgaatcatgtcacagccgcacagtaccaggcggcgatgcgtggcgcgata
+            cctcaggttgcgccggtattctggagtttccgcatcatggtgggctgtggttccctgctg
+            ctactggtgatgctgattgcgcttgtccagacgctgcgtggcaaaatcgaccagcatcgc
+            tgggtgctgaaaatggcgctctggagtttgccgttgccgtggattgcgattgaagccggg
+            tggtttatgaccgagtttggtcgtcagccgtgggcgatacaggacatcttaccgacatac
+            tccgcgcactccgctttaaccacaggacaactggctttctcactgatcatgatcgtaggg
+            ctttacaccctgttcttaatcgccgaagtctacctgatgcagaaatatgcccgtctgggg
+            ccgagcgcgatgcagagtgaacaaccgacgcagcaacaggggtaa
+///

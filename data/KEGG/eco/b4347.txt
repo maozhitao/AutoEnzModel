@@ -1,0 +1,34 @@
+ENTRY       b4347             CDS       T00007
+NAME        symE
+DEFINITION  (RefSeq) toxic protein SymE
+ORTHOLOGY   K19048  toxic protein SymE
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4347 (symE)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               SymE-SymR
+                b4347 (symE)
+POSITION    complement(4579499..4579840)
+MOTIF       Pfam: SymE_toxin
+DBLINKS     NCBI-GeneID: 949088
+            NCBI-ProteinID: NP_418767
+            RegulonDB: ECK120004434
+            ECOCYC: G7940
+            ASAP: ABE-0014253
+            UniProt: P39394
+AASEQ       113
+            MTDTHSIAQPFEAEVSPANNRHVTVGYASRYPDYSRIPAITLKGQWLEAAGFATGTAVDV
+            KVMEGCIVLTAQPPAAEESELMQSLRQVCKLSARKQKQVQAFIGVIAGKQKVA
+NTSEQ       342
+            atgactgacacgcattctattgcacaaccgttcgaagcagaagtctccccggcaaataac
+            cgtcatgtcaccgtcggttatgcgagtcgctacccggattacagccgtattcccgccatc
+            accctgaaaggtcagtggctggaagccgccggttttgccactggcacggcggtagatgtc
+            aaagtgatggaaggctgtattgtcctcaccgcccaaccacccgccgccgaggagagcgaa
+            ctgatgcagtcgctacgccaggtgtgcaaactgtcggcgcgtaaacaaaagcaggtgcag
+            gcgtttattggagtgattgccggtaaacagaaagtcgcgtaa
+///

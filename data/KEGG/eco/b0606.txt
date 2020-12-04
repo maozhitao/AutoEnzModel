@@ -1,0 +1,65 @@
+ENTRY       b0606             CDS       T00007
+NAME        ahpF
+DEFINITION  (RefSeq) alkyl hydroperoxide reductase, AhpF component
+ORTHOLOGY   K03387  NADH-dependent peroxiredoxin subunit F [EC:1.8.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0606 (ahpF)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.8  Acting on a sulfur group of donors
+               1.8.1  With NAD+ or NADP+ as acceptor
+                1.8.1.-  
+                 b0606 (ahpF)
+POSITION    639753..641318
+MOTIF       Pfam: Pyr_redox_2 Pyr_redox_3 Pyr_redox GIDA Thioredoxin_3 FAD_binding_2 FAD_oxidored HI0933_like FAD_binding_3 Thi4 NAD_binding_8 AlaDh_PNT_C K_oxygenase Glutaredoxin DAO FMO-like
+DBLINKS     NCBI-GeneID: 947540
+            NCBI-ProteinID: NP_415139
+            Pasteur: ahpF
+            RegulonDB: ECK120001352
+            ECOCYC: EG11385
+            ASAP: ABE-0002093
+            UniProt: P35340
+STRUCTURE   PDB: 1FL2 4O5Q 4XVG 4YKG 4YKF 4O5U
+AASEQ       521
+            MLDTNMKTQLKAYLEKLTKPVELIATLDDSAKSAEIKELLAEIAELSDKVTFKEDNSLPV
+            RKPSFLITNPGSNQGPRFAGSPLGHEFTSLVLALLWTGGHPSKEAQSLLEQIRHIDGDFE
+            FETYYSLSCHNCPDVVQALNLMSVLNPRIKHTAIDGGTFQNEITDRNVMGVPAVFVNGKE
+            FGQGRMTLTEIVAKIDTGAEKRAAEELNKRDAYDVLIVGSGPAGAAAAIYSARKGIRTGL
+            MGERFGGQILDTVDIENYISVPKTEGQKLAGALKVHVDEYDVDVIDSQSASKLIPAAVEG
+            GLHQIETASGAVLKARSIIVATGAKWRNMNVPGEDQYRTKGVTYCPHCDGPLFKGKRVAV
+            IGGGNSGVEAAIDLAGIVEHVTLLEFAPEMKADQVLQDKLRSLKNVDIILNAQTTEVKGD
+            GSKVVGLEYRDRVSGDIHNIELAGIFVQIGLLPNTNWLEGAVERNRMGEIIIDAKCETNV
+            KGVFAAGDCTTVPYKQIIIATGEGAKASLSAFDYLIRTKTA
+NTSEQ       1566
+            atgctcgacacaaatatgaaaactcaactcaaggcttaccttgagaaattgaccaagcct
+            gttgagttaattgccacgctggatgacagcgctaaatcggcagaaatcaaggaactgttg
+            gctgaaatcgcagaactgtcagacaaagtcacctttaaagaagataacagcttgccggtg
+            cgtaagccgtctttcctgatcaccaacccaggttccaaccaggggccacgttttgcaggc
+            tccccgctgggccacgagttcacctcgctggtactggcgttgctgtggaccggtggtcat
+            ccgtcgaaagaagcgcagtctctgctggagcagattcgccatattgacggtgattttgaa
+            ttcgaaacctattactcgctctcttgccacaactgcccggacgtggtgcaggcgctgaac
+            ctgatgagcgtactgaacccgcgcatcaagcacactgcaattgacggcggcaccttccag
+            aacgaaatcaccgatcgcaacgtgatgggcgttccggcagtgttcgtaaacgggaaagag
+            tttggtcagggccgcatgacgttgactgaaatcgttgccaaaattgatactggcgcggaa
+            aaacgtgcggcagaagagctgaacaagcgtgatgcttatgacgtattaatcgtcggttcc
+            ggcccggcgggtgcagcggcagcaatttactccgcacgtaaaggcatccgtaccggtctg
+            atgggcgaacgttttggtggtcagatcctcgataccgttgatatcgaaaactacatttct
+            gtaccgaagactgaagggcagaagctggcaggcgcactgaaagttcacgttgatgaatac
+            gacgttgatgtgatcgacagccagagcgccagcaaactgatcccagcagcagttgaaggt
+            ggtctgcatcagattgaaacagcttctggcgcggtactgaaagcacgcagcattatcgtg
+            gcgaccggtgcaaaatggcgcaacatgaacgttccgggcgaagatcagtatcgcaccaaa
+            ggcgtgacctactgcccgcactgcgacggcccgctgtttaaaggtaaacgcgtagcggtt
+            atcggcggcggtaactccggcgtggaagcggcaattgacctggcgggtatcgttgagcac
+            gtaacgctgctggaatttgcgccagaaatgaaagccgaccaggttctgcaggacaaactg
+            cgcagcctgaaaaacgtcgacattattctgaatgcgcaaaccacggaagtgaaaggcgac
+            ggcagcaaagtcgttggtctggaatatcgagatcgtgtcagcggcgatattcacaacatc
+            gaactggccggtattttcgtccagattggtctgctgccgaacaccaactggctcgaaggc
+            gcagtcgaacgtaaccgcatgggcgagattatcattgatgcgaaatgcgaaaccaacgtg
+            aaaggcgtgttcgcagcgggtgactgtacgacggttccgtacaagcagatcatcatcgcc
+            actggcgaaggtgccaaagcctctctgagtgcttttgactacctgattcgcaccaaaact
+            gcataa
+///

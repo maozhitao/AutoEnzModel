@@ -1,0 +1,50 @@
+ENTRY       b2609             CDS       T00007
+NAME        rpsP
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S16
+ORTHOLOGY   K02959  small subunit ribosomal protein S16
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b2609 (rpsP)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b2609 (rpsP)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b2609 (rpsP)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Small subunit
+                b2609 (rpsP)
+              Bacteria
+                b2609 (rpsP)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Other mitochondrial DNA transcription and translation factors
+                b2609 (rpsP)
+POSITION    complement(2745937..2746185)
+MOTIF       Pfam: Ribosomal_S16 AAA_26
+DBLINKS     NCBI-GeneID: 947103
+            NCBI-ProteinID: NP_417100
+            Pasteur: rpsP
+            RegulonDB: ECK120000906
+            ECOCYC: EG10915
+            ASAP: ABE-0008583
+            UniProt: P0A7T3
+STRUCTURE   PDB: 6NQB 6O7K 5NO2 5NO3 5NO4 5UZ4 5MY1 2YKR 5ME0 5ME1 4ADV
+                 3IY8 4A2I
+AASEQ       82
+            MVTIRLARHGAKKRPFYQVVVADSRNARNGRFIERVGFFNPIASEKEEGTRLDLDRIAHW
+            VGQGATISDRVAALIKEVNKAA
+NTSEQ       249
+            atggtaactattcgtttagcacgtcacggcgctaaaaagcgtccgttctaccaggttgtt
+            gtcgctgacagccgtaatgcacgcaacggtcgcttcatcgagcgcgttggtttcttcaac
+            ccaatcgctagcgaaaaagaagaaggcactcgcctggatctggatcgcatcgctcactgg
+            gttggccagggcgcaactatttctgatcgcgttgctgcgctgatcaaagaagtaaacaaa
+            gcagcttaa
+///

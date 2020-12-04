@@ -1,0 +1,58 @@
+ENTRY       b2423             CDS       T00007
+NAME        cysW
+DEFINITION  (RefSeq) sulfate/thiosulfate ABC transporter inner membrane subunit CysW
+ORTHOLOGY   K02047  sulfate/thiosulfate transport system permease protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00920  Sulfur metabolism
+            eco02010  ABC transporters
+MODULE      eco_M00616  Sulfate-sulfur assimilation
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00920 Sulfur metabolism
+                b2423 (cysW)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b2423 (cysW)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2423 (cysW)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Mineral and organic ion transporters
+               Sulfate/thiosulfate transporter
+                b2423 (cysW)
+POSITION    complement(2540804..2541679)
+MOTIF       Pfam: BPD_transp_1 TMEM100
+DBLINKS     NCBI-GeneID: 2847743
+            NCBI-ProteinID: YP_026168
+            Pasteur: cysW
+            RegulonDB: ECK120000193
+            ECOCYC: EG10198
+            ASAP: ABE-0007988
+            UniProt: P0AEB0
+AASEQ       291
+            MAEVTQLKRYDARPINWGKWFLIGIGMLVSAFILLVPMIYIFVQAFSKGLMPVLQNLADP
+            DMLHAIWLTVMIALIAVPVNLVFGILLAWLVTRFNFPGRQLLLTLLDIPFAVSPVVAGLV
+            YLLFYGSNGPLGGWLDEHNLQIMFSWPGMVLVTIFVTCPFVVRELVPVMLSQGSQEDEAA
+            ILLGASGWQMFRRVTLPNIRWALLYGVVLTNARAIGEFGAVSVVSGSIRGETLSLPLQIE
+            LLEQDYNTVGSFTAAALLTLMAIITLFLKSMLQWRLENQEKRAQQEEHHEH
+NTSEQ       876
+            atggcggaagttacccaattgaagcgttatgacgcgcgcccgattaactggggcaaatgg
+            tttctgattggcatcgggatgctggtttcggcgttcatcctgctggtgccgatgatttac
+            atcttcgtgcaggcattcagcaaggggctgatgccggttttacagaatctggccgatccg
+            gacatgctgcacgccatctggctgacggtgatgatcgcgctgattgccgtaccggtaaac
+            ctggtgttcggcattctgctggcctggctggtgacgcgctttaacttccctggacgccag
+            ttactgctgacgctactggacattccgtttgccgtatcgccggtggttgccggtctggtg
+            tatttgctgttctacggctctaacggcccgctcggcggttggctcgacgagcataacctg
+            caaattatgttctcctggccgggaatggtgctggtcaccatcttcgtgacgtgtccgttt
+            gtggtgcgcgaactggtgccggtgatgttaagccagggcagccaggaagacgaagcggcg
+            attttgcttggcgcgtccggctggcagatgttccgtcgcgtcacattaccgaacatccgc
+            tgggcgctgctttatggcgtggtgttgaccaacgcccgcgcaattggcgagtttggcgcg
+            gtgtcggtggtttccggctcgattcgcggcgaaaccctgtcgctgccgttacagattgaa
+            ttgctggagcaggactacaacaccgtcggctcctttaccgctgcggcgctgttaacgctg
+            atggcgattatcaccctgtttttaaaaagtatgttgcagtggcgcctggagaatcaggaa
+            aaacgcgcacagcaggaggaacatcatgagcattga
+///

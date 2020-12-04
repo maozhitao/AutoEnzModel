@@ -1,0 +1,66 @@
+ENTRY       b3202             CDS       T00007
+NAME        rpoN
+DEFINITION  (RefSeq) RNA polymerase, sigma 54 (sigma N) factor
+ORTHOLOGY   K03092  RNA polymerase sigma-54 factor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b3202 (rpoN)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:eco03021]
+                b3202 (rpoN)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               RNA polymerase
+                Sigma factors
+                 b3202 (rpoN)
+POSITION    3344717..3346150
+MOTIF       Pfam: Sigma54_DBD Sigma54_CBD Sigma54_AID
+DBLINKS     NCBI-GeneID: 947714
+            NCBI-ProteinID: NP_417669
+            Pasteur: rpoN
+            RegulonDB: ECK120000889
+            ECOCYC: EG10898
+            ASAP: ABE-0010514
+            UniProt: P24255
+STRUCTURE   PDB: 2MT3
+AASEQ       477
+            MKQGLQLRLSQQLAMTPQLQQAIRLLQLSTLELQQELQQALESNPLLEQIDTHEEIDTRE
+            TQDSETLDTADALEQKEMPEELPLDASWDTIYTAGTPSGTSGDYIDDELPVYQGETTQTL
+            QDYLMWQVELTPFSDTDRAIATSIVDAVDETGYLTVPLEDILESIGDEEIDIDEVEAVLK
+            RIQRFDPVGVAAKDLRDCLLIQLSQFDKTTPWLEEARLIISDHLDLLANHDFRTLMRVTR
+            LKEDVLKEAVNLIQSLDPRPGQSIQTGEPEYVIPDVLVRKHNGHWTVELNSDSIPRLQIN
+            QHYASMCNNARNDGDSQFIRSNLQDAKWLIKSLESRNDTLLRVSRCIVEQQQAFFEQGEE
+            YMKPMVLADIAQAVEMHESTISRVTTQKYLHSPRGIFELKYFFSSHVNTEGGGEASSTAI
+            RALVKKLIAAENPAKPLSDSKLTSLLSEQGIMVARRTVAKYRESLSIPPSNQRKQLV
+NTSEQ       1434
+            atgaagcaaggtttgcaactcaggcttagccaacaactggcgatgacgccacagctccaa
+            caggcaattcgtctgttgcagttgtcgacgctggaacttcagcaggagctacagcaggcg
+            ctggagagtaatccgctgcttgagcaaatcgacactcatgaagaaatcgacacccgcgaa
+            acgcaagacagtgaaacgctggacaccgccgacgcgctcgaacaaaaagagatgccggaa
+            gagctgccgctcgatgccagttgggacaccatttacaccgctggtacaccatccggcacc
+            agcggtgactacattgacgacgagctgccggtctaccagggcgaaacgacgcagaccttg
+            caggattacctgatgtggcaggttgagctgacaccgttttccgacactgaccgcgctatt
+            gctacctctatcgtcgatgccgttgatgaaaccggttatctgactgtcccgctggaagat
+            attctcgaaagtataggcgatgaagagatcgacatcgacgaagttgaagccgtccttaag
+            cggatccaacggtttgatccggtcggtgtggcggcaaaagatctgcgtgactgtctgctg
+            atccaactctcccaattcgataagaccacgccgtggctggaagaggccagactgatcatt
+            agcgatcatctcgatctgttagccaatcacgacttccgcactttaatgcgcgtcacgcgt
+            ctgaaagaagatgtgctgaaagaagccgtcaatctgatccagtcgctcgatccgcgcccc
+            gggcagtcgatccagactggcgaacctgagtatgtcattccagatgtgctggtgcgtaag
+            cataacggtcactggacggtagaactcaacagtgacagcattccgcgtctgcaaatcaac
+            cagcactacgcctcgatgtgcaataacgcgcgcaacgatggtgacagccagtttatccgc
+            agcaatctgcaggatgccaaatggttgatcaagagtctggaaagccgtaacgatacgcta
+            ctgcgcgtgagtcgctgtatcgttgaacagcagcaagccttctttgagcaaggtgaagaa
+            tatatgaaaccgatggtactggccgatatcgcccaggctgtcgaaatgcatgaatcgacg
+            atatctcgcgtgaccacgcaaaaatacctgcatagtccacgaggcatttttgaactgaag
+            tatttcttttccagtcacgtcaataccgagggcggcggcgaagcttcctccacggcgatt
+            cgtgcgctggtgaagaaattaatcgcggcggaaaacccagcgaaaccgttgagcgacagc
+            aagttaacctctttgctgtcggaacaaggtatcatggtggcacgccgcactgttgcgaag
+            taccgagagtctttatccattccgccgtcaaaccagcgtaaacaactcgtttga
+///

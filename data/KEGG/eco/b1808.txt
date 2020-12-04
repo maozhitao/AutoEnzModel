@@ -1,0 +1,76 @@
+ENTRY       b1808             CDS       T00007
+NAME        yoaA
+DEFINITION  (RefSeq) putative 5' to 3' DNA helicase implicated in DNA repair
+ORTHOLOGY   K03722  ATP-dependent DNA helicase DinG [EC:3.6.4.12]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1808 (yoaA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.12  DNA helicase
+                 b1808 (yoaA)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              Other factors with a suspected DNA repair function
+               DNA helicases
+                b1808 (yoaA)
+POSITION    complement(1891325..1893235)
+MOTIF       Pfam: Helicase_C_2 DEAD ResIII DEAD_2 DUF2075 UvrD-helicase POTRA_2 DeoRC
+DBLINKS     NCBI-GeneID: 946305
+            NCBI-ProteinID: NP_416322
+            Pasteur: yoaA
+            RegulonDB: ECK120003579
+            ECOCYC: G6992
+            ASAP: ABE-0006016
+            UniProt: P76257
+AASEQ       636
+            MTDDFAPDGQLAKAIPGFKPREPQRQMAVAVTQAIEKGQPLVVEAGTGTGKTYAYLAPAL
+            RAKKKVIISTGSKALQDQLYSRDLPTVSKALKYTGNVALLKGRSNYLCLERLEQQALAGG
+            DLPVQILSDVILLRSWSNQTVDGDISTCVSVAEDSQAWPLVTSTNDNCLGSDCPMYKDCF
+            VVKARKKAMDADVVVVNHHLFLADMVVKESGFGELIPEADVMIFDEAHQLPDIASQYFGQ
+            SLSSRQLLDLAKDITIAYRTELKDTQQLQKCADRLAQSAQDFRLQLGEPGYRGNLRELLA
+            NPQIQRAFLLLDDTLELCYDVAKLSLGRSALLDAAFERATLYRTRLKRLKEINQPGYSYW
+            YECTSRHFTLALTPLSVADKFKELMAQKPGSWIFTSATLSVNDDLHHFTSRLGIEQAESL
+            LLPSPFDYSRQALLCVLRNLPQTNQPGSARQLAAMLRPIIEANNGRCFMLCTSHAMMRDL
+            AEQFRATMTLPVLLQGETSKGQLLQQFVSAGNALLVATSSFWEGVDVRGDTLSLVIIDKL
+            PFTSPDDPLLKARMEDCRLRGGDPFDEVQLPDAVITLKQGVGRLIRDADDRGVLVICDNR
+            LVMRPYGATFLASLPPAPRTRDIARAVRFLAIPSSR
+NTSEQ       1911
+            gtgacggacgattttgcaccagacggtcagctggcgaaagcgataccaggctttaagccg
+            cgagaaccacagcgacagatggcggtagccgtcacccaggcgatagaaaaaggccagccg
+            ctggtggtggaagcaggaaccggtacgggcaaaacctacgcttacctggctcctgcgctg
+            cgggcgaaaaagaaagtcattatctcgaccggctcaaaagcgttgcaggatcagctctac
+            agccgcgatttgccaacagtctcaaaggcattgaaatatacgggcaacgtggcgctgctg
+            aaagggcgctcaaactacctctgcctcgaacgtctcgaacagcaggcgctggcggggggc
+            gatctgccggtacaaatcttaagcgatgtgatcctgctgcgctcctggtctaatcaaaca
+            gtcgatggtgatatcagcacctgcgtcagcgtggcggaagattcacaggcgtggccgctg
+            gtcaccagcaccaacgacaactgtcttggcagcgactgcccgatgtataaagattgcttt
+            gtggtcaaagcacgtaaaaaagcgatggacgccgatgtggtggtggtaaaccatcatctc
+            tttctggcggatatggtggttaaagagagtggatttggcgaactgatcccggaagcggac
+            gtcatgatcttcgacgaagcccaccagctaccggacattgccagccagtattttggtcag
+            tcactctccagtcgacaactgctcgacctggcaaaagacatcaccatcgcctaccgcacc
+            gaattaaaagacacccagcagttacaaaagtgcgctgatcgtcttgcccagagtgcgcag
+            gattttcgtctgcaactcggtgagccaggttatcgcggtaacctgcgtgagctgttagct
+            aatccgcaaattcagcgggcatttttactgctcgatgacaccctggaactttgttatgac
+            gtggcgaaactgtcactggggcgttccgccttgctggatgcggcatttgagcgcgccacg
+            ttgtatcgcacacggctgaagcggctaaaagagatcaatcagccgggctacagctactgg
+            tacgaatgcacttcgcgccattttactctggctctcacgccgctcagcgtggcggataaa
+            ttcaaagagttaatggcgcaaaaacccggtagctggatcttcacctcagcaacgctgtcg
+            gtgaacgacgatctgcatcatttcacctcgcggcttggcatcgaacaggccgagtcgttg
+            ctgttgcccagcccatttgattacagccgccaggcgttactctgtgtgctgcgcaatctg
+            ccgcaaaccaaccagccaggttctgctcgccagttagcggcaatgctgcgaccgatcatc
+            gaagctaacaacggtcgttgttttatgctttgtacctcgcacgccatgatgcgcgatctg
+            gccgagcagttccgcgctaccatgacgcttcctgtattgttgcagggggaaaccagcaaa
+            gggcaactgttgcagcaatttgtcagcgccggtaatgcgcttcttgtggcaaccagcagt
+            ttctgggaaggggtggacgtgcgtggcgatacattgtcattggtaattatcgacaaattg
+            ccgtttacctcgccggatgatccactgttaaaagcgcgcatggaagattgtcgtttgcgc
+            ggtggcgacccgttcgatgaagtgcaactaccagatgccgtcattactctcaaacagggg
+            gtagggcgactgattcgcgacgccgacgatcgtggcgtgctggtgatttgtgacaatcgg
+            ctggtgatgcgtccttacggcgcgacgtttctcgccagtctgccgcccgcgccacgcacc
+            cgtgacattgcccgtgcggttcgtttccttgcgataccatcctccaggtaa
+///

@@ -1,0 +1,46 @@
+ENTRY       b3021             CDS       T00007
+NAME        mqsA
+DEFINITION  (RefSeq) antitoxin of the MqsRA toxin-antitoxin system/DNA-binding transcriptional repressor MqsA
+ORTHOLOGY   K13655  HTH-type transcriptional regulator / antitoxin MqsA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b3021 (mqsA)
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b3021 (mqsA)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               Other families
+                b3021 (mqsA)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               MqsR-MqsA
+                b3021 (mqsA)
+POSITION    complement(3167851..3168246)
+MOTIF       Pfam: MqsA_antitoxin HTH_3 HTH_31 Tn916-Xis HTH_19
+DBLINKS     NCBI-GeneID: 945814
+            NCBI-ProteinID: NP_417493
+            Pasteur: ygiT
+            RegulonDB: ECK120004129
+            ECOCYC: G7571
+            ASAP: ABE-0009923
+            UniProt: Q46864
+STRUCTURE   PDB: 3FMY 3GA8 3HI2 3O9X 3GN5 2KZ8
+AASEQ       131
+            MKCPVCHQGEMVSGIKDIPYTFRGRKTVLKGIHGLYCVHCEESIMNKEESDAFMAQVKAF
+            RASVNAETVAPEFIVKVRKKLSLTQKEASEIFGGGVNAFSRYEKGNAQPHPSTIKLLRVL
+            DKHPELLNEIR
+NTSEQ       396
+            atgaaatgtccggtttgccaccagggagaaatggtttctggcattaaagatattccatac
+            accttccgtggacgaaaaacagtattgaaaggtatccacggtttatattgtgtccattgc
+            gaagagagcatcatgaataaagaagagtcagatgctttcatggcgcaagtaaaggcattt
+            cgggcttcggtgaatgccgaaacagtggcacctgaatttatagtgaaggttcgaaaaaag
+            ctctctcttacccaaaaagaggcaagcgaaatttttgggggaggtgtaaatgcgttttcg
+            cgttacgaaaaaggcaatgcccaacctcatccttccacaatcaaacttttacgtgttctg
+            gataagcatccagaactattgaatgaaatccgttaa
+///

@@ -1,0 +1,80 @@
+ENTRY       b1101             CDS       T00007
+NAME        ptsG
+DEFINITION  (RefSeq) glucose-specific PTS enzyme IIBC component
+ORTHOLOGY   K02779  glucose PTS system EIICB or EIICBA component [EC:2.7.1.199]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00010  Glycolysis / Gluconeogenesis
+            eco00520  Amino sugar and nucleotide sugar metabolism
+            eco01100  Metabolic pathways
+            eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                b1101 (ptsG)
+               00520 Amino sugar and nucleotide sugar metabolism
+                b1101 (ptsG)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b1101 (ptsG)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1101 (ptsG)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.199  protein-Npi-phosphohistidine---D-glucose phosphotransferase
+                 b1101 (ptsG)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               Glucose-specific II component
+                b1101 (ptsG)
+POSITION    1157869..1159302
+MOTIF       Pfam: PTS_EIIC PTS_EIIB MscS_TM DUF4405
+DBLINKS     NCBI-GeneID: 945651
+            NCBI-ProteinID: NP_415619
+            Pasteur: ptsG
+            RegulonDB: ECK120000778
+            ECOCYC: EG10787
+            ASAP: ABE-0003722
+            UniProt: P69786
+STRUCTURE   PDB: 3BP3 3BP8 1O2F 1IBA
+AASEQ       477
+            MFKNAFANLQKVGKSLMLPVSVLPIAGILLGVGSANFSWLPAVVSHVMAEAGGSVFANMP
+            LIFAIGVALGFTNNDGVSALAAVVAYGIMVKTMAVVAPLVLHLPAEEIASKHLADTGVLG
+            GIISGAIAAYMFNRFYRIKLPEYLGFFAGKRFVPIISGLAAIFTGVVLSFIWPPIGSAIQ
+            TFSQWAAYQNPVVAFGIYGFIERCLVPFGLHHIWNVPFQMQIGEYTNAAGQVFHGDIPRY
+            MAGDPTAGKLSGGFLFKMYGLPAAAIAIWHSAKPENRAKVGGIMISAALTSFLTGITEPI
+            EFSFMFVAPILYIIHAILAGLAFPICILLGMRDGTSFSHGLIDFIVLSGNSSKLWLFPIV
+            GIGYAIVYYTIFRVLIKALDLKTPGREDATEDAKATGTSEMAPALVAAFGGKENITNLDA
+            CITRLRVSVADVSKVDQAGLKKLGAAGVVVAGSGVQAIFGTKSDNLKTEMDEYIRNH
+NTSEQ       1434
+            atgtttaagaatgcatttgctaacctgcaaaaggtcggtaaatcgctgatgctgccggta
+            tccgtactgcctatcgcaggtattctgctgggcgtcggttccgcgaatttcagctggctg
+            cccgccgttgtatcgcatgttatggcagaagcaggcggttccgtctttgcaaacatgcca
+            ctgatttttgcgatcggtgtcgccctcggctttaccaataacgatggcgtatccgcgctg
+            gccgcagttgttgcctatggcatcatggttaaaaccatggccgtggttgcgccactggta
+            ctgcatttacctgctgaagaaatcgcctctaaacacctggcggatactggcgtactcgga
+            gggattatctccggtgcgatcgcagcgtacatgtttaaccgtttctaccgtattaagctg
+            cctgagtatcttggcttctttgccggtaaacgctttgtgccgatcatttctggcctggct
+            gccatctttactggcgttgtgctgtccttcatttggccgccgattggttctgcaatccag
+            accttctctcagtgggctgcttaccagaacccggtagttgcgtttggcatttacggtttc
+            atcgaacgttgcctggtaccgtttggtctgcaccacatctggaacgtacctttccagatg
+            cagattggtgaatacaccaacgcagcaggtcaggttttccacggcgacattccgcgttat
+            atggcgggtgacccgactgcgggtaaactgtctggtggcttcctgttcaaaatgtacggt
+            ctgccagctgccgcaattgctatctggcactctgctaaaccagaaaaccgcgcgaaagtg
+            ggcggtattatgatctccgcggcgctgacctcgttcctgaccggtatcaccgagccgatc
+            gagttctccttcatgttcgttgcgccgatcctgtacatcatccacgcgattctggcaggc
+            ctggcattcccaatctgtattcttctggggatgcgtgacggtacgtcgttctcgcacggt
+            ctgatcgacttcatcgttctgtctggtaacagcagcaaactgtggctgttcccgatcgtc
+            ggtatcggttatgcgattgtttactacaccatcttccgcgtgctgattaaagcactggat
+            ctgaaaacgccgggtcgtgaagacgcgactgaagatgcaaaagcgacaggtaccagcgaa
+            atggcaccggctctggttgctgcatttggtggtaaagaaaacattactaacctcgacgca
+            tgtattacccgtctgcgcgtcagcgttgctgatgtgtctaaagtggatcaggccggcctg
+            aagaaactgggcgcagcgggcgtagtggttgctggttctggtgttcaggcgattttcggt
+            actaaatccgataacctgaaaaccgagatggatgagtacatccgtaaccactaa
+///

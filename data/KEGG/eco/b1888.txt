@@ -1,0 +1,101 @@
+ENTRY       b1888             CDS       T00007
+NAME        cheA
+DEFINITION  (RefSeq) chemotaxis protein CheA
+ORTHOLOGY   K03407  two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02030  Bacterial chemotaxis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1888 (cheA)
+             09140 Cellular Processes
+              09142 Cell motility
+               02030 Bacterial chemotaxis
+                b1888 (cheA)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b1888 (cheA)
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b1888 (cheA)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1888 (cheA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 b1888 (cheA)
+            Protein kinases [BR:eco01001]
+             Histidine kinases
+              CheA family [OT]
+               b1888 (cheA)
+            Two-component system [BR:eco02022]
+             CheA family
+              CheA-CheYBV (chemotaxis)
+               b1888 (cheA)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Chemotaxis proteins
+               Two component system proteins
+                b1888 (cheA)
+POSITION    complement(1973360..1975324)
+MOTIF       Pfam: CheW Hpt CheY-binding HATPase_c H-kinase_dim
+DBLINKS     NCBI-GeneID: 946401
+            NCBI-ProteinID: NP_416402
+            Pasteur: cheA
+            RegulonDB: ECK120000142
+            ECOCYC: EG10146
+            ASAP: ABE-0006294
+            UniProt: P07363
+STRUCTURE   PDB: 1EAY 1FFG 1FFS 1FFW 1A0O 2LP4 1FWP
+AASEQ       654
+            MSMDISDFYQTFFDEADELLADMEQHLLVLQPEAPDAEQLNAIFRAAHSIKGGAGTFGFS
+            VLQETTHLMENLLDEARRGEMQLNTDIINLFLETKDIMQEQLDAYKQSQEPDAASFDYIC
+            QALRQLALEAKGETPSAVTRLSVVAKSEPQDEQSRSQSPRRIILSRLKAGEVDLLEEELG
+            HLTTLTDVVKGADSLSAILPGDIAEDDITAVLCFVIEADQITFETVEVSPKISTPPVLKL
+            AAEQAPTGRVEREKTTRSNESTSIRVAVEKVDQLINLVGELVITQSMLAQRSSELDPVNH
+            GDLITSMGQLQRNARDLQESVMSIRMMPMEYVFSRYPRLVRDLAGKLGKQVELTLVGSST
+            ELDKSLIERIIDPLTHLVRNSLDHGIELPEKRLAAGKNSVGNLILSAEHQGGNICIEVTD
+            DGAGLNRERILAKAASQGLTVSENMSDDEVAMLIFAPGFSTAEQVTDVSGRGVGMDVVKR
+            NIQKMGGHVEIQSKQGTGTTIRILLPLTLAILDGMSVRVADEVFILPLNAVMESLQPREA
+            DLHPLAGGERVLEVRGEYLPIVELWKVFNVAGAKTEATQGIVVILQSGGRRYALLVDQLI
+            GQHQVVVKNLESNYRKVPGISAATILGDGSVALIVDVSALQAINREQRMANTAA
+NTSEQ       1965
+            gtgagcatggatataagcgatttttatcagacattttttgatgaagcggacgaactgttg
+            gctgacatggagcagcatttgctggttttgcagccggaagcgccagatgccgaacaattg
+            aatgccatctttcgggctgcccactcgatcaaaggaggggcaggaacttttggcttcagc
+            gttttgcaggaaaccacgcatctgatggaaaacctgctcgatgaagccagacgaggtgag
+            atgcaactcaacaccgacattatcaatctgtttttggaaacgaaggacatcatgcaagaa
+            cagctcgacgcttataaacagtcgcaagagccggatgccgccagcttcgattatatctgc
+            caggccttgcgtcaactggcattagaagcgaaaggcgaaacgccatccgcagtgacccga
+            ttaagtgtggttgccaaaagtgaaccgcaagatgagcagagtcgcagtcagtcgccgcga
+            cgaattatcctttcgcgcctgaaggccggggaagtcgacctgctggaagaagaactggga
+            catctgacaacgttaactgacgtggtgaaaggggcggattcgctctcggcaatattaccg
+            ggcgacatcgccgaagatgacatcacagcggtactctgttttgtgattgaagccgatcag
+            attacctttgaaacagtagaagtctcgccaaaaatatccaccccaccagtgcttaaactg
+            gcagccgaacaagcgccaaccggccgcgtggagcgggaaaaaacgacgcgcagcaatgaa
+            tccaccagcatccgtgtagcggtagaaaaggttgatcaattaattaacctcgtcggcgag
+            ctggttatcacccagtccatgcttgcccagcgttccagcgaactggacccggttaatcat
+            ggtgatttgataaccagcatggggcagttacaacgtaacgcccgtgatttgcaggaatca
+            gtgatgtcgattcgcatgatgccgatggaatatgtttttagtcgctatccccggctggtg
+            cgtgatctggcgggaaaactcggcaagcaggtagaactgacgctggtgggcagttctact
+            gaactcgacaaaagcctgatagaacgcattatcgacccgctgacccacctggtacgcaat
+            agcctcgatcacggtattgaactgccagaaaaacggctcgccgcaggtaaaaacagcgtc
+            ggaaatttaattctgtctgccgaacatcagggcggcaacatttgcattgaagtgaccgac
+            gatggggcggggctaaaccgtgagcgaattctggcaaaagcggcctcgcaaggtttgact
+            gtcagcgaaaacatgagcgacgacgaagtcgcgatgctgatatttgcacctggcttctcc
+            acggcagagcaggtcaccgacgtctccgggcgcggcgtcggcatggacgtcgttaaacgt
+            aatatccagaagatgggcggtcatgtcgaaatccagtcgaagcagggtactggcactacg
+            atccgcattttactgccgctgacgctggccatcctcgacggcatgtccgtacgcgttgcg
+            gatgaagttttcattctgccgctgaatgctgttatggaatcactgcaaccccgtgaagcc
+            gatctccatccactggccggcggcgagcgggtgctggaagtgcggggtgaatatctgccc
+            atcgtcgaactgtggaaagtgttcaacgtcgcgggcgcgaaaaccgaagccacccaggga
+            attgtggtgatcttacaaagtggcggtcgccgctacgccttgctggtggatcaattaatt
+            ggtcaacaccaggttgtggttaaaaaccttgaaagtaactatcgcaaagtccccggcatt
+            tctgctgcgaccattcttggcgacggcagcgtggcactgattgttgatgtctccgccttg
+            caggcgataaaccgcgaacaacgtatggcgaacaccgccgcctga
+///

@@ -1,0 +1,42 @@
+ENTRY       b1447             CDS       T00007
+NAME        ydcZ
+DEFINITION  (RefSeq) putative inner membrane protein
+ORTHOLOGY   K09936  bacterial/archaeal transporter family-2 protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02024  Quorum sensing
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b1447 (ydcZ)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1447 (ydcZ)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b1447 (ydcZ)
+POSITION    complement(1517882..1518331)
+MOTIF       Pfam: DMT_YdcZ
+DBLINKS     NCBI-GeneID: 946008
+            NCBI-ProteinID: NP_415964
+            Pasteur: ydcZ
+            RegulonDB: ECK120003347
+            ECOCYC: G6758
+            ASAP: ABE-0004823
+            UniProt: P76111
+AASEQ       149
+            MNQSLTLAFLIAAGIGLVVQNTLMVRITQTSSTILIAMLLNSLVGIVLFVSILWFKQGMA
+            GFGELVSSVRWWTLIPGLLGSFFVFASISGYQNVGAATTIAVLVASQLIGGLMLDIFRSH
+            GVPLRALFGPICGAILLVVGAWLVARRSF
+NTSEQ       450
+            atgaatcagtcgctcacccttgcttttttgattgccgccggaattggtctggttgtccag
+            aacacgctgatggtgcgcatcacccagacctcctctaccattctcatcgccatgttgctg
+            aactcactggtggggattgtgctctttgtttctattttatggtttaaacaaggcatggcg
+            gggtttggcgaactggtgtccagcgtgcgctggtggacacttatacctggcttgctggga
+            tcgttttttgtcttcgccagtatcagcggatatcagaatgtgggagcggcgacaactatt
+            gctgtactggtcgccagtcagctgattggcggtctgatgctggatatcttccgcagtcat
+            ggcgtaccactacgggcgttgttcggcccaatttgtggcgcaattttacttgtggttggc
+            gcctggttggtagccagacgctcattttaa
+///

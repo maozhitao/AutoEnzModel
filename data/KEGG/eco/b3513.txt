@@ -1,0 +1,61 @@
+ENTRY       b3513             CDS       T00007
+NAME        mdtE
+DEFINITION  (RefSeq) multidrug efflux pump membrane fusion protein MdtE
+ORTHOLOGY   K18898  membrane fusion protein, multidrug efflux system
+ORGANISM    eco  Escherichia coli K-12 MG1655
+MODULE      eco_M00697  Multidrug resistance, efflux pump MdtEF-TolC
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3513 (mdtE)
+               01504 Antimicrobial resistance genes [BR:eco01504]
+                b3513 (mdtE)
+            Transporters [BR:eco02000]
+             Other transporters
+              Accessory factors involved in transport [TC:8]
+               b3513 (mdtE)
+            Antimicrobial resistance genes [BR:eco01504]
+             Gene sets
+              Multipdrug resistance modules
+               Multidrug resistance, efflux pump MdtEF-TolC [MD:M00697]
+                b3513 (mdtE)
+POSITION    3659232..3660389
+MOTIF       Pfam: HlyD_D23 HlyD Biotin_lipoyl_2 HlyD_3 Mfa_like_1 IL17_R_N DUF1110
+DBLINKS     NCBI-GeneID: 948031
+            NCBI-ProteinID: NP_417970
+            Pasteur: yhiU
+            RegulonDB: ECK120002123
+            ECOCYC: EG12240
+            ASAP: ABE-0011478
+            UniProt: P37636
+AASEQ       385
+            MNRRRKLLIPLLFCGAMLTACDDKSAENAAAMTPEVGVVTLSPGSVNVLSELPGRTVPYE
+            VAEIRPQVGGIIIKRNFIEGDKVNQGDSLYQIDPAPLQAELNSAKGSLAKALSTASNARI
+            TFNRQASLLKTNYVSRQDYDTARTQLNEAEANVTVAKAAVEQATINLQYANVTSPITGVS
+            GKSSVTVGALVTANQADSLVTVQRLDPIYVDLTQSVQDFLRMKEEVASGQIKQVQGSTPV
+            QLNLENGKRYSQTGTLKFSDPTVDETTGSVTLRAIFPNPNGDLLPGMYVTALVDEGSRQN
+            VLLVPQEGVTHNAQGKATALILDKDDVVQLREIEASKAIGDQWVVTSGLQAGDRVIVSGL
+            QRIRPGIKARAISSSQENASTESKQ
+NTSEQ       1158
+            atgaacagaagaagaaagctgttaataccgttgttattctgcggcgcgatgctcaccgcc
+            tgcgatgacaaatcggcggaaaacgccgccgccatgacgcctgaggtcggtgtcgtcaca
+            ctctcccccggttcggtcaatgtgttgagcgaattgcccggtagaaccgttccttatgaa
+            gttgccgagatacgtccccaggtgggcggtattatcattaaacgcaactttatcgaaggc
+            gataaagtgaaccagggcgattcgctgtatcagattgatcctgcacctttacaggccgag
+            ctaaactccgccaaaggctcgctggcgaaagcgctctctaccgccagcaatgcccgcatc
+            acctttaaccgccaggcatcgttgctgaagaccaactacgttagccgtcaggattacgac
+            accgcgcgcacccagttgaatgaagcagaagccaatgtcaccgtcgccaaagcggctgtt
+            gaacaggcgacgatcaatctgcaatacgcgaatgtcacctcgccgattacgggcgtcagc
+            gggaaatcgtcggtgaccgtcggcgcactcgttaccgctaatcaggcagattcgctggtt
+            accgtacaacgtctggacccgatttatgtcgatctcacgcagtcggtgcaagatttctta
+            cgcatgaaagaagaggtcgccagtgggcaaatcaaacaggttcagggcagtacgccagta
+            cagctcaatctggaaaatggtaaacgctacagccagaccggcacgctgaaattctccgac
+            ccgacagtggatgaaaccacgggctccgtgacgttacgggcgattttccccaacccaaat
+            ggtgacttgctgcctggcatgtacgtcacggcattagtggatgaaggtagccgccagaat
+            gtattactggtgccgcaggaaggcgtcacccacaacgcccagggtaaagcaacggcgctc
+            attctggataaagacgatgtcgtgcagctacgcgaaattgaagccagcaaagccatcggc
+            gaccagtgggtcgtcacctctggcttgcaggctggcgatcgggtgatcgtttccggtttg
+            caacgcattcgtccgggtatcaaagcacgagcaatttcctccagccaggaaaacgccagc
+            accgaatcgaaacaataa
+///

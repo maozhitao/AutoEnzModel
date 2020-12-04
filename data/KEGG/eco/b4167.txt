@@ -1,0 +1,67 @@
+ENTRY       b4167             CDS       T00007
+NAME        nnr
+DEFINITION  (RefSeq) NAD(P)HX epimerase/NAD(P)HX dehydratase
+ORTHOLOGY   K23997  ADP-dependent NAD(P)H-hydrate dehydratase / NAD(P)H-hydrate epimerase [EC:4.2.1.136 5.1.99.6]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b4167 (nnr)
+            Enzymes [BR:eco01000]
+             4. Lyases
+              4.2  Carbon-oxygen lyases
+               4.2.1  Hydro-lyases
+                4.2.1.136  ADP-dependent NAD(P)H-hydrate dehydratase
+                 b4167 (nnr)
+             5. Isomerases
+              5.1  Racemases and epimerases
+               5.1.99  Acting on other compounds
+                5.1.99.6  NAD(P)H-hydrate epimerase
+                 b4167 (nnr)
+POSITION    4394066..4395613
+MOTIF       Pfam: Carb_kinase YjeF_N HK Phos_pyr_kin
+DBLINKS     NCBI-GeneID: 948685
+            NCBI-ProteinID: NP_418588
+            Pasteur: yjeF
+            RegulonDB: ECK120001694
+            ASAP: ABE-0013644
+            UniProt: P31806
+AASEQ       515
+            MTDHTMKKNPVSIPHTVWYADDIRRGEREAADVLGLTLYELMLRAGEAAFQVCRSAYPDA
+            RHWLVLCGHGNNGGDGYVVARLAKAVGIEVTLLAQESDKPLPEEAALAREAWLNAGGEIH
+            ASNIVWPESVDLIVDALLGTGLRQAPRESISQLIDHANSHPAPIVAVDIPSGLLAETGAT
+            PGAVINADHTITFIALKPGLLTGKARDVTGQLHFDSLGLDSWLAGQETKIQRFSAEQLSH
+            WLKPRRPTSHKGDHGRLVIIGGDHGTAGAIRMTGEAALRAGAGLVRVLTRSENIAPLLTA
+            RPELMVHELTMDSLTESLEWADVVVIGPGLGQQEWGKKALQKVENFRKPMLWDADALNLL
+            AINPDKRHNRVITPHPGEAARLLGCSVAEIESDRLHCAKRLVQRYGGVAVLKGAGTVVAA
+            HPDALGIIDAGNAGMASGGMGDVLSGIIGALLGQKLSPYDAACAGCVAHGAAADVLAARF
+            GTRGMLATDLFSTLQRIVNPEVTDKNHDESSNSAP
+NTSEQ       1548
+            atgacggaccatacaatgaagaaaaaccccgtaagtataccacacaccgtctggtacgcc
+            gacgatatccgccgcggagaacgcgaggcggcagatgtgctggggctcacactctatgag
+            ctgatgcttcgcgctggcgaggccgcattccaggtgtgtcgttcggcgtatcctgacgcc
+            cgccactggctggtgctgtgcggtcatggtaataacggcggcgatggctacgtggtcgcg
+            cgactggccaaagcggtcggcattgaggtcacgttgttggcccaggagagcgacaaaccg
+            ttgccggaagaggccgcgctggcacgcgaagcatggttaaacgcgggtggcgagatccat
+            gcttcgaatattgtctggcccgaatcggtagatctgattgttgatgcgctgctcggtacc
+            ggtttgcggcaagcgccccgcgaatccattagccagttaatcgaccacgctaattcccat
+            cctgcgccgattgtggcggttgatatcccttccggcctgctggctgaaactggcgctacg
+            ccaggcgcggtgatcaacgccgatcacaccatcacttttattgcgctgaaaccaggcttg
+            ctcactggaaaagcgcgggatgttaccggacaactgcattttgactcactggggctggat
+            agttggctggcaggtcaggagacgaaaattcagcggttttcagcagaacaactttctcac
+            tggctaaaaccgcgtcgcccgacttcgcataaaggcgatcacgggcggctggtaattatc
+            ggtggcgatcacggcacggcgggggctattcgtatgacgggggaagcggcgctgcgtgct
+            ggtgctggtttagtccgagtactgacccgcagtgaaaacattgcgccgctgctgactgca
+            cgaccggaattgatggtgcatgaactgacgatggactctcttaccgaaagcctggaatgg
+            gccgatgtggtggtgattggtcccggtctgggccagcaagagtgggggaaaaaagcactg
+            caaaaagttgagaattttcgcaaaccgatgttgtgggatgccgatgcattgaacctgctg
+            gcaatcaatcccgataagcgtcacaatcgcgtgatcacgccgcatcctggcgaggccgca
+            cggttgttaggctgttccgtcgctgaaattgaaagtgaccgcttacattgcgccaaacgt
+            ctggtacaacgttatggcggcgtagcggtgctgaaaggtgccggaaccgtggtcgccgcc
+            catcctgacgctttaggcattattgatgccggaaatgcaggcatggcgagcggcggcatg
+            ggcgatgtgctctctggtattattggcgcattgcttgggcaaaaactgtcgccgtatgat
+            gcagcctgtgcaggctgtgtcgcgcacggtgcggcagctgacgtactggcggcgcgtttt
+            ggaacgcgcgggatgctggcaaccgatctcttttccacgctacagcgtattgttaacccg
+            gaagtgactgataaaaaccatgatgaatcgagtaattccgctccctga
+///

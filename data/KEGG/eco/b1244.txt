@@ -1,0 +1,64 @@
+ENTRY       b1244             CDS       T00007
+NAME        oppB
+DEFINITION  (RefSeq) murein tripeptide ABC transporter/oligopeptide ABC transporter inner membrane subunit OppB
+ORTHOLOGY   K15581  oligopeptide transport system permease protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01501  beta-Lactam resistance
+            eco02010  ABC transporters
+            eco02024  Quorum sensing
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b1244 (oppB)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b1244 (oppB)
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01501 beta-Lactam resistance
+                b1244 (oppB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1244 (oppB)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Peptide and nickel transporters
+               Oligopeptide transporter
+                b1244 (oppB)
+POSITION    1302899..1303819
+MOTIF       Pfam: BPD_transp_1
+DBLINKS     NCBI-GeneID: 945823
+            NCBI-ProteinID: NP_415760
+            Pasteur: oppB
+            RegulonDB: ECK120000668
+            ECOCYC: EG10675
+            ASAP: ABE-0004174
+            UniProt: P0AFH2
+AASEQ       306
+            MLKFILRRCLEAIPTLFILITISFFMMRLAPGSPFTGERTLPPEVMANIEAKYHLNDPIM
+            TQYFSYLKQLAHGDFGPSFKYKDYSVNDLVASSFPVSAKLGAAAFFLAVILGVSAGVIAA
+            LKQNTKWDYTVMGLAMTGVVIPSFVVAPLLVMIFAIILHWLPGGGWNGGALKFMILPMVA
+            LSLAYIASIARITRGSMIEVLHSNFIRTARAKGLPMRRIILRHALKPALLPVLSYMGPAF
+            VGIITGSMVIETIYGLPGIGQLFVNGALNRDYSLVLSLTILVGALTILFNAIVDVLYAVI
+            DPKIRY
+NTSEQ       921
+            atgttaaaatttattctacgtcgctgtctggaagcgattccgacgctatttattcttatt
+            actatttcgttctttatgatgcgcctcgcgccgggaagcccttttaccggcgaacgtact
+            ttaccgccagaagtgatggccaatatcgaagcgaaatatcatcttaatgatccgatcatg
+            acacagtatttcagctacctgaaacaactggcgcacggtgatttcggtccatcgtttaaa
+            tataaagattattcggtcaatgacttggttgcatccagttttcccgtttctgccaaactg
+            ggagccgcagcatttttccttgcggtaatactgggtgttagtgctggcgttattgccgca
+            ttaaaacaaaacaccaaatgggactataccgtgatggggctggcaatgaccggggttgtt
+            atccccagttttgtggttgcaccattattagtcatgatatttgcgatcattttgcattgg
+            ctgccgggcggtggctggaatggtggggcgcttaaattcatgatattgccgatggtggcg
+            ttgtcactcgcttatatcgccagtattgcgcgtattacccgtggctctatgattgaagta
+            ttacactccaattttattcgtactgcccgggcgaaagggttacctatgcggcggatcatt
+            ttacgtcacgcattaaaacctgctctgttacccgtgctctcttatatgggccccgcattt
+            gtcggcattattaccggttctatggttatcgaaaccatttatggtttgccggggattgga
+            caactgttcgttaatggcgcattgaaccgtgactattccttagtgttaagcctgaccatc
+            ctggttggtgctttaaccattttgtttaatgccattgtcgatgtgctatatgcggttatc
+            gacccgaaaatccgttactga
+///

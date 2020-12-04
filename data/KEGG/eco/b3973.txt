@@ -1,0 +1,63 @@
+ENTRY       b3973             CDS       T00007
+NAME        birA
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor/biotin-[acetyl-CoA-carboxylase] ligase BirA
+ORTHOLOGY   K03524  BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00780  Biotin metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09108 Metabolism of cofactors and vitamins
+               00780 Biotin metabolism
+                b3973 (birA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b3973 (birA)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.3  Forming carbon-nitrogen bonds
+               6.3.4  Other carbon-nitrogen ligases
+                6.3.4.15  biotin---[biotin carboxyl-carrier protein] ligase
+                 b3973 (birA)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               Other families
+                b3973 (birA)
+POSITION    4173082..4174047
+MOTIF       Pfam: BPL_LplA_LipB HTH_11 BPL_C HTH_24 BPL_LplA_LipB_2 HTH_Crp_2 HTH_5 YdfA_immunity Rrf2 MarR_2
+DBLINKS     NCBI-GeneID: 948469
+            NCBI-ProteinID: NP_418404
+            Pasteur: birA
+            RegulonDB: ECK120000119
+            ECOCYC: EG10123
+            ASAP: ABE-0013001
+            UniProt: P06709
+STRUCTURE   PDB: 1BIA 4WF2 1HXD 2EWN 1BIB
+AASEQ       321
+            MKDNTVPLKLIALLANGEFHSGEQLGETLGMSRAAINKHIQTLRDWGVDVFTVPGKGYSL
+            PEPIQLLNAKQILGQLDGGSVAVLPVIDSTNQYLLDRIGELKSGDACIAEYQQAGRGRRG
+            RKWFSPFGANLYLSMFWRLEQGPAAAIGLSLVIGIVMAEVLRKLGADKVRVKWPNDLYLQ
+            DRKLAGILVELTGKTGDAAQIVIGAGINMAMRRVEESVVNQGWITLQEAGINLDRNTLAA
+            MLIRELRAALELFEQEGLAPYLSRWEKLDNFINRPVKLIIGDKEIFGISRGIDKQGALLL
+            EQDGIIKPWMGGEISLRSAEK
+NTSEQ       966
+            atgaaggataacaccgtgccactgaaattgattgccctgttagcgaacggtgaatttcac
+            tctggcgagcagttgggtgaaacgctgggaatgagccgggcggctattaataaacacatt
+            cagacactgcgtgactggggcgttgatgtctttaccgttccgggtaaaggatacagcctg
+            cctgagcctatccagttacttaatgctaaacagatattgggtcagctggatggcggtagt
+            gtagccgtgctgccagtgattgactccacgaatcagtaccttcttgatcgtatcggagag
+            cttaaatcgggcgatgcttgcattgcagaataccagcaggctggccgtggtcgccggggt
+            cggaaatggttttcgccttttggcgcaaacttatatttgtcgatgttctggcgtctggaa
+            caaggcccggcggcggcgattggtttaagtctggttatcggtatcgtgatggcggaagta
+            ttacgcaagctgggtgcagataaagttcgtgttaaatggcctaatgacctctatctgcag
+            gatcgcaagctggcaggcattctggtggagctgactggcaaaactggcgatgcggcgcaa
+            atagtcattggagccgggatcaacatggcaatgcgccgtgttgaagagagtgtcgttaat
+            caggggtggatcacgctgcaggaagcggggatcaatctcgatcgtaatacgttggcggcc
+            atgctaatacgtgaattacgtgctgcgttggaactcttcgaacaagaaggattggcacct
+            tatctgtcgcgctgggaaaagctggataattttattaatcgcccagtgaaacttatcatt
+            ggtgataaagaaatatttggcatttcacgcggaatagacaaacagggggctttattactt
+            gagcaggatggaataataaaaccctggatgggcggtgaaatatccctgcgtagtgcagaa
+            aaataa
+///

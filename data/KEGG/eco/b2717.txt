@@ -1,0 +1,44 @@
+ENTRY       b2717             CDS       T00007
+NAME        hycI
+DEFINITION  (RefSeq) hydrogenase 3 maturation protease
+ORTHOLOGY   K08315  hydrogenase 3 maturation protease [EC:3.4.23.51]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b2717 (hycI)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.23  Aspartic endopeptidases
+                3.4.23.51  HycI peptidase
+                 b2717 (hycI)
+            Peptidases and inhibitors [BR:eco01002]
+             Aspartic peptidases
+              Family A31: HybD endopeptidase family
+               b2717 (hycI)
+POSITION    complement(2842573..2843043)
+MOTIF       Pfam: HycI
+DBLINKS     NCBI-GeneID: 947428
+            NCBI-ProteinID: NP_417197
+            Pasteur: hycI
+            RegulonDB: ECK120003979
+            ECOCYC: G7414
+            ASAP: ABE-0008931
+            UniProt: P0AEV9
+STRUCTURE   PDB: 2E85 2I8L
+AASEQ       156
+            MTDVLLCVGNSMMGDDGAGPLLAEKCAAAPKGNWVVIDGGSAPENDIVAIRELRPTRLLI
+            VDATDMGLNPGEIRIIDPDDIAEMFMMTTHNMPLNYLIDQLKEDIGEVIFLGIQPDIVGF
+            YYPMTQPIKDAVETVYQRLEGWEGNGGFAQLAVEEE
+NTSEQ       471
+            gtgactgacgttttactctgtgttggcaatagcatgatgggcgatgatggcgcaggtccg
+            ctgctggcggaaaagtgcgccgccgcgccgaaaggtaactgggtggtgattgacggcggt
+            agcgcaccggaaaacgacatcgtcgctatccgtgaactgcgcccgacacgactgctgatt
+            gtcgacgccacggatatggggctaaaccccggcgagatccgcatcatcgacccggatgat
+            atcgccgagatgtttatgatgactacccataacatgccgttgaattaccttatcgaccag
+            ttgaaagaagatattggcgaagtgattttcctcggcattcagccggatatcgtcggcttt
+            tactacccgatgacccagccgattaaagatgcggtagaaaccgtttatcaacgactggaa
+            ggctgggaaggaaatggcggcttcgcgcagttagcggtggaagaagagtag
+///

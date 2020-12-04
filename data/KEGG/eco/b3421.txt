@@ -1,0 +1,63 @@
+ENTRY       b3421             CDS       T00007
+NAME        rtcB
+DEFINITION  (RefSeq) RNA-splicing ligase
+ORTHOLOGY   K14415  tRNA-splicing ligase RtcB (3'-phosphate/5'-hydroxy nucleic acid ligase) [EC:6.5.1.8]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3421 (rtcB)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.5  Forming phosphoric-ester bonds
+               6.5.1  Ligases that form phosphoric-ester bonds (only sub-subclass identified to date)
+                6.5.1.8  3'-phosphate/5'-hydroxy nucleic acid ligase
+                 b3421 (rtcB)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              tRNA spricing factors
+               tRNA splicing ligases
+                b3421 (rtcB)
+             Prokaryotic type
+                b3421 (rtcB)
+POSITION    complement(3556853..3558079)
+MOTIF       Pfam: RtcB DUF4514
+DBLINKS     NCBI-GeneID: 947929
+            NCBI-ProteinID: NP_417879
+            Pasteur: rtcB
+            RegulonDB: ECK120004293
+            ECOCYC: G7751
+            ASAP: ABE-0011170
+            UniProt: P46850
+AASEQ       408
+            MNYELLTTENAPVKMWTKGVPVEADARQQLINTAKMPFIFKHIAVMPDVHLGKGSTIGSV
+            IPTKGAIIPAAVGVDIGCGMNALRTALTAEDLPENLAELRQAIETAVPHGRTTGRCKRDK
+            GAWENPPVNVDAKWAELEAGYQWLTQKYPRFLNTNNYKHLGTLGTGNHFIEICLDESDQV
+            WIMLHSGSRGIGNAIGTYFIDLAQKEMQETLETLPSRDLAYFMEGTEYFDDYLKAVAWAQ
+            LFASLNRDAMMENVVTALQSITQKTVRQPQTLAMEEINCHHNYVQKEQHFGEEIYVTRKG
+            AVSARAGQYGIIPGSMGAKSFIVRGLGNEESFCSCSHGAGRVMSRTKAKKLFSVEDQIRA
+            TAHVECRKDAEVIDEIPMAYKDIDAVMAAQSDLVEVIYTLRQVVCVKG
+NTSEQ       1227
+            atgaattacgaattactgaccactgaaaatgccccggtaaaaatgtggaccaaaggcgtg
+            ccggtagaggccgatgcgcgtcagcaacttattaatacggcgaagatgccgtttattttc
+            aaacatattgcggtaatgcctgatgtacacctgggtaaaggttccaccattggtagcgtg
+            atcccgaccaaaggggcgattattccggcggcggtgggcgtggatattggctgtggaatg
+            aacgcgctgcgtaccgcgttaacggcggaagacctgcctgaaaacctggcagagctgcgt
+            caggcgattgaaacggccgtgccgcacgggcgtaccactggccgttgtaaacgtgataaa
+            ggtgcctgggaaaatccacctgttaacgtcgatgctaaatgggctgagcttgaagccggt
+            tatcagtggttaacgcaaaaatatccccgtttcctgaataccaataactataaacacctg
+            ggaacgctgggaaccggtaaccactttattgaaatctgccttgatgagtcggaccaggtg
+            tggattatgctgcactccggttcacgcggaattggtaacgccatcgggacttactttatc
+            gatctggcacaaaaagagatgcaggaaacgcttgagacgttgccgtcgcgtgatctggcg
+            tactttatggaaggtacggaatactttgatgattacctgaaagccgtggcctgggcgcag
+            ctttttgccagccttaaccgcgatgcgatgatggaaaacgtggtaacggcattgcagagc
+            attacgcagaaaacggtcagacagccacaaacgctggcgatggaagagatcaactgtcac
+            cacaactatgtgcaaaaagaacagcactttggtgaagagatctacgtgacgcgtaaaggc
+            gcggtgtctgcgcgtgctggtcaatatggaattattcccggttcgatgggagcaaaaagc
+            tttatcgtccgtgggctgggaaatgaagagtcgttctgttcgtgcagccacggtgccggg
+            cgggtaatgagccgaactaaagcgaaaaaactgttcagcgtggaagatcaaattcgtgcc
+            accgcgcatgtggaatgccgtaaagatgccgaagtgatcgacgaaatcccgatggcgtat
+            aaagatattgatgcggtgatggcggcacaaagcgatctggtggaagttatctataccctg
+            cgtcaggtggtgtgcgtaaaaggataa
+///

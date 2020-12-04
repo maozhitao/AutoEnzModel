@@ -1,0 +1,64 @@
+ENTRY       b2169             CDS       T00007
+NAME        fruB
+DEFINITION  (RefSeq) fructose-specific PTS multiphosphoryl transfer protein FruB
+ORTHOLOGY   K11183  multiphosphoryl transfer protein [EC:2.7.1.202]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b2169 (fruB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2169 (fruB)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.202  protein-Npi-phosphohistidine---D-fructose phosphotransferase
+                 b2169 (fruB)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme I and HPr
+               Multiphosphoryl transfer protein
+                b2169 (fruB)
+POSITION    complement(2262365..2263495)
+MOTIF       Pfam: PTS_EIIA_2 PTS-HPr Nif11
+DBLINKS     NCBI-GeneID: 946677
+            NCBI-ProteinID: NP_416674
+            Pasteur: fruB
+            RegulonDB: ECK120004449
+            ECOCYC: G7990
+            ASAP: ABE-0007180
+            UniProt: P69811
+AASEQ       376
+            MFQLSVQDIHPGEKAGDKEEAIRQVAAALVQAGNVAEGYVNGMLAREQQTSTFLGNGIAI
+            PHGTTDTRDQVLKTGVQVFQFPEGVTWGDGQVAYVAIGIAASSDEHLGLLRQLTHVLSDD
+            SVAEQLKSATTAEELRALLMGEKQSEQLKLDNEMLTLDIVASDLLTLQALNAARLKEAGA
+            VDATFVTKAINEQPLNLGQGIWLSDSAEGNLRSAIAVSRAANAFDVDGETAAMLVSVAMN
+            DDQPIAVLKRLADLLLDNKADRLLKADAATLLALLTSDDAPTDDVLSAEFVVRNEHGLHA
+            RPGTMLVNTIKQFNSDITVTNLDGTGKPANGRSLMKVVALGVKKGHRLRFTAQGADAEQA
+            LKAIGDAIAAGLGEGA
+NTSEQ       1131
+            atgttccagttatccgtacaggacatccatccgggcgaaaaggccggagacaaagaagag
+            gcgattcgccaggtcgctgcggcgctggtgcaggccggtaatgtagcagaaggctacgtc
+            aatggcatgctggcgcgcgaacagcaaacctcaacgttcctcggcaatggtattgctatt
+            ccacacggcactaccgacacccgcgatcaggtgctgaaaaccggcgttcaggtatttcag
+            ttcccggaaggcgtcacctggggtgacggtcaggtagcgtacgtggcaatcggtattgct
+            gccagctcggatgaacatctgggcctgctacgccagctgacccacgtactgagcgatgat
+            tccgttgctgaacaactgaagtcagcaacaacagcagaagaacttcgcgcattactgatg
+            ggcgaaaagcagagtgagcagctgaagctcgacaacgaaatgctgacactggatatcgtc
+            gccagcgatctgctgactcttcaggcgctgaacgctgcgcgtctgaaagaggcgggggca
+            gttgacgccactttcgtcaccaaagccatcaatgaacaaccgctgaatctcggacagggt
+            atctggctgagcgatagcgccgaaggcaatctgcgtagcgcgattgcggtaagccgtgcg
+            gcaaatgcttttgatgtggacggcgaaacggcagccatgctggtgagtgtggcgatgaat
+            gacgatcagcccatcgcggttcttaagcgtctcgctgatttattgctcgacaataaagct
+            gaccgcttgctgaaagcggatgcggcaacgttgctggcgctgctgaccagcgatgatgcg
+            ccgaccgacgacgtgttaagcgcggagtttgtggtgcgcaatgaacacggcctgcatgct
+            cgtccaggtaccatgctggtcaataccattaaacaatttaacagtgatattaccgtgaca
+            aaccttgatggtaccggcaaaccggcaaacggacgtagtctgatgaaagttgtggcactt
+            ggcgttaagaaaggtcatcgcctacgctttaccgcccagggtgcagatgctgaacaggcg
+            ctgaaagcaatcggcgacgctatcgctgctggtcttggggagggcgcataa
+///

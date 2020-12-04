@@ -1,0 +1,60 @@
+ENTRY       b4328             CDS       T00007
+NAME        iadA
+DEFINITION  (RefSeq) isoaspartyl dipeptidase
+ORTHOLOGY   K01305  beta-aspartyl-dipeptidase (metallo-type) [EC:3.4.19.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b4328 (iadA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.19  Omega peptidases
+                3.4.19.-  
+                 b4328 (iadA)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M38: beta-aspartyl dipeptidase family
+               b4328 (iadA)
+POSITION    complement(4558354..4559526)
+MOTIF       Pfam: Amidohydro_3 Amidohydro_1
+DBLINKS     NCBI-GeneID: 948853
+            NCBI-ProteinID: NP_418748
+            Pasteur: iadA
+            RegulonDB: ECK120004420
+            ECOCYC: G7925
+            ASAP: ABE-0014195
+            UniProt: P39377
+STRUCTURE   PDB: 1ONW 2AQO 2AQV 1YBQ 1PO9 1ONX 1POK 1POJ 5LP3
+AASEQ       390
+            MIDYTAAGFTLLQGAHLYAPEDRGICDVLVANGKIIAVASNIPSDIVPNCTVVDLSGQIL
+            CPGFIDQHVHLIGGGGEAGPTTRTPEVALSRLTEAGVTSVVGLLGTDSISRHPESLLAKT
+            RALNEEGISAWMLTGAYHVPSRTITGSVEKDVAIIDRVIGVKCAISDHRSAAPDVYHLAN
+            MAAESRVGGLLGGKPGVTVFHMGDSKKALQPIYDLLENCDVPISKLLPTHVNRNVPLFEQ
+            ALEFARKGGTIDITSSIDEPVAPAEGIARAVQAGIPLARVTLSSDGNGSQPFFDDEGNLT
+            HIGVAGFETLLETVQVLVKDYDFSISDALRPLTSSVAGFLNLTGKGEILPGNDADLLVMT
+            PELRIEQVYARGKLMVKDGKACVKGTFETA
+NTSEQ       1173
+            atgattgattataccgcagccggttttaccctgctgcagggagcgcatttgtatgcgccg
+            gaagatcggggaatttgcgatgtcctcgtcgctaacggcaaaattatcgccgttgccagc
+            aatatcccttctgacattgtaccgaactgcacggttgtcgatctcagtgggcagatcctc
+            tgcccaggttttattgatcaacacgtccatttgattggcggtggcggcgaagcaggtccc
+            acgacgcgcacgccggaagtggcgctaagtcgcctgacggaagcgggcgtcacgtcagtg
+            gttggtctgctgggcaccgactctatctctcgccacccggaatccctgctcgccaagacc
+            cgtgcgctcaatgaagaaggcatcagcgcctggatgctgaccggcgcttatcatgtccct
+            tcccgcaccattacgggttccgtggaaaaagacgtggcgattatcgatcgtgtgattggc
+            gtgaaatgcgccatctctgatcaccgttctgccgcaccggacgtttatcacctggccaat
+            atggcggcagaatcccgcgttggcggtttgctcggcggtaaacctggcgtcaccgtgttc
+            cacatgggcgacagtaaaaaggcgttacagcctatttatgacctgctggaaaactgcgat
+            gtgccgatcagcaagctgctgccgacccacgttaaccgcaacgtaccgttgtttgagcag
+            gcgctggagttcgcgcgcaaaggcggcaccatcgatatcaccagcagcattgacgaaccg
+            gtcgcccctgccgaaggtattgcccgcgccgttcaggcgggtattccgctggcacgcgtc
+            accctcagctccgacggcaacggtagccagccgttcttcgatgacgaagggaatttaacc
+            catatcggtgttgccggttttgaaacgttgctggaaaccgtgcaggtgctggtcaaagac
+            tatgatttcagtatcagcgatgccctgcgcccgctcaccagtagcgtagccggtttcctt
+            aacctgaccgggaaaggcgaaattctgccaggcaatgatgctgacttgctggtcatgacg
+            ccagaactgcgcattgagcaggtatacgctcgcggcaaactgatggtcaaagacggcaaa
+            gcctgcgtgaaaggaacgtttgaaacggcttaa
+///

@@ -1,0 +1,77 @@
+ENTRY       b0808             CDS       T00007
+NAME        ybiO
+DEFINITION  (RefSeq) moderate conductance mechanosensitive channel
+ORTHOLOGY   K22044  moderate conductance mechanosensitive channel
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0808 (ybiO)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b0808 (ybiO)
+POSITION    complement(843255..845480)
+MOTIF       Pfam: MS_channel
+DBLINKS     NCBI-GeneID: 945935
+            NCBI-ProteinID: NP_415329
+            Pasteur: ybiO
+            RegulonDB: ECK120003017
+            ECOCYC: G6417
+            ASAP: ABE-0002760
+            UniProt: P75783
+AASEQ       741
+            MRWILFILFCLLGAPAHAVSIPGVTTTTTTDSTTEPAPEPDIEQKKAAYGALADVLDNDT
+            SRKELIDQLRTVAATPPAEPVPKIVPPTLVEEQTVLQKVTEVSRHYGEALSARFGQLYRN
+            ITGSPHKPFNPQTFSNALTHFSMLAVLVFGFYWLIRLCALPLYRKMGQWARQKNRERSNW
+            LQLPAMIIGAFIIDLLLLALTLFVGQVLSDNLNAGSRTIAFQQSLFLNAFALIEFFKAVL
+            RLIFCPNVAELRPFTIQDESARYWSRRLSWLSSLIGYGLIVAVPIISNQVNVQIGALANV
+            IIMLCMTVWALYLIFRNKKEITQHLLNFAEHSLAFFSLFIRAFALVWHWLASAYFIVLFF
+            FSLFDPGNSLKFMMGATVRSLAIIGIAAFVSGMFSRWLAKTITLSPHTQRNYPELQKRLN
+            GWLSAALKTARILTVCVAVMLLLSAWGLFDFWNWLQNGAGQKTVDILIRIALILFFSAVG
+            WTVLASLIENRLASDIHGRPLPSARTRTLLTLFRNALAVIISTITIMIVLSEIGVNIAPL
+            LAGAGALGLAISFGSQTLVKDIITGVFIQFENGMNTGDLVTIGPLTGTVERMSIRSVGVR
+            QDTGAYHIIPWSSITTFANFVRGIGSVVANYDVDRHEDADKANQALKDAVAELMENEEIR
+            GLIIGEPNFAGIVGLSNTAFTLRVSFTTLPLKQWTVRFALDSQVKKHFDLAGVRAPVQTY
+            QVLPAPGATPAEPLPPGEPTL
+NTSEQ       2226
+            atgcggtggatcctgttcatcctcttctgcctgctgggcgcacctgcccacgcggtatcc
+            atacccggcgttacaaccacaacgacaacggactcaacgactgaaccggccccggaaccg
+            gatatcgaacaaaaaaaagcggcctatggcgcactggcggatgtgctggataatgacacc
+            tcgcgtaaagagttgatcgaccagttgcgcaccgttgccgctacgccccctgctgaaccg
+            gtaccaaaaatagtgccgccgacgctggtcgaagagcaaaccgtgctgcaaaaggtcacc
+            gaagtcagccgccattatggtgaagccctttccgcccgcttcgggcaactttatcgcaat
+            atcaccggctccccgcataagccgtttaatccacaaaccttcagcaatgcgctgacccat
+            ttttcaatgttagcggtattagtgtttggtttttactggctgattcgcctgtgcgcactg
+            ccgctgtatcgcaaaatgggtcagtgggcgcggcaaaaaaatcgtgagcgcagcaactgg
+            ttgcagcttccggcgatgattatcggggcgtttattatcgacctgctgttactggccctg
+            acattatttgtcggccaggtattaagcgacaacctgaatgcaggcagtcgcaccatcgct
+            ttccaacaaagtttgtttctcaacgcctttgccctcattgaatttttcaaagccgtacta
+            cgcctgattttttgcccaaacgtggcggagctgcgcccgttcacgattcaggacgagagc
+            gcccgttactggagtcgtcgcctgagctggttaagcagtttgataggttatggcctgatt
+            gtggccgtgccgattatctctaatcaggtgaatgtacagataggtgcgctggcgaacgtc
+            atcattatgctgtgcatgaccgtctgggcgttgtacctgatctttcgtaataaaaaagag
+            attacccagcatttgctcaacttcgcggagcattcgctggcctttttcagcctgtttatc
+            cgcgcctttgcgctggtgtggcactggctggcaagcgcctattttatcgtgctgtttttc
+            ttttcgttgttcgatccgggcaacagcctgaaatttatgatgggtgcaacggtgcgcagc
+            ctggcgattattggtatcgcagcgtttgtttccggtatgttttcccgctggctggcgaaa
+            accatcactctctcgccacatactcagcgtaactatccggagctgcaaaaacggttgaat
+            ggctggctgtcggcggcgctgaaaacggcgcgtattctgacagtctgcgtggcggtaatg
+            ttgctgttgagcgcatggggattgttcgatttctggaactggctgcaaaacggcgcgggg
+            cagaaaaccgtagatatcctgatccgtatcgcactcattcttttcttctcggcggttggc
+            tggacggtgctcgccagtttgatcgaaaaccggctggcttcggatattcatggccgcccg
+            ctacccagcgcccgcacgcgtaccctgcttacgctgtttcgtaacgcgctggcggtgatt
+            atcagtaccatcaccatcatgattgtgttgtcggaaatcggcgtcaatatcgcgccattg
+            ctggcaggtgccggggcattaggtctggctatctcgtttggttcgcaaacgctggtgaaa
+            gatattatcaccggggtatttattcagtttgaaaacggcatgaacactggagatttggtg
+            actatcgggccgttgaccggcacagtggaacggatgtcgattcgctccgtgggcgtacga
+            caggataccggggcgtatcacatcattccgtggtcttcgataaccacctttgctaacttt
+            gtccgcggcattggttcggtggtggcaaattatgatgttgatcgccatgaagatgctgat
+            aaagccaatcaggcactgaaagatgcggtagcggaattaatggaaaacgaagaaattcgc
+            gggctgattattggtgaaccgaattttgccgggattgtcggcttaagcaataccgcgttt
+            acactgcgtgtttcgttcaccacgctgccactcaaacagtggacggtacgctttgccctc
+            gacagccaggtgaaaaaacatttcgacctggcgggcgttcgcgcgccagtgcagacttat
+            caggtgctgcctgctccgggcgcgaccccggctgaaccgttaccgccgggggaaccaacg
+            ctttaa
+///

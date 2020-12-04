@@ -1,0 +1,27 @@
+ENTRY       b4666             CDS       T00007
+NAME        ibsE
+DEFINITION  (RefSeq) toxic peptide IbsE
+ORTHOLOGY   K19153  small toxic protein IbsE
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4666 (ibsE)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type I TA system
+               Ibs-Sib
+                b4666 (ibsE)
+POSITION    3195141..3195200
+MOTIF       Pfam: Ibs_toxin DUF4492
+DBLINKS     NCBI-GeneID: 7751629
+            NCBI-ProteinID: YP_002791257
+            RegulonDB: ECK120035071
+            ECOCYC: G0-10629
+            UniProt: C1P617
+AASEQ       19
+            MMKLVIILVVLLLLSFPTY
+NTSEQ       60
+            atgatgaagctcgtcatcatactggttgtgttgttactgttaagtttcccgacttactaa
+///

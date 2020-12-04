@@ -1,0 +1,73 @@
+ENTRY       b1885             CDS       T00007
+NAME        tap
+DEFINITION  (RefSeq) methyl-accepting chemotaxis protein Tap
+ORTHOLOGY   K05877  methyl-accepting chemotaxis protein IV, peptide sensor receptor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02030  Bacterial chemotaxis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1885 (tap)
+             09140 Cellular Processes
+              09142 Cell motility
+               02030 Bacterial chemotaxis
+                b1885 (tap)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1885 (tap)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Chemotaxis proteins
+               MCPs
+                b1885 (tap)
+POSITION    complement(1969383..1970984)
+MOTIF       Pfam: MCPsignal TarH HAMP
+DBLINKS     NCBI-GeneID: 946397
+            NCBI-ProteinID: NP_416399
+            Pasteur: tap
+            RegulonDB: ECK120000976
+            ECOCYC: EG10987
+            ASAP: ABE-0006288
+            UniProt: P07018
+AASEQ       533
+            MFNRIRISTTLFLILILCGILQIGSNGMSFWAFRDDLQRLNQVEQSNQQRAALAQTRAVM
+            LQASTALNKAGTLTALSYPADDIKTLMTTARASLTQSTTLFKSFMAMTAGNEHVRGLQKE
+            TEKSFARWHNDLEHQATWLESNQLSDFLTAPVQGSQNAFDVNFEAWQLEINHVLEAASAQ
+            SQRNYQISALVFISMIIVAAIYISSALWWTRKMIVQPLAIIGSHFDSIAAGNLARPIAVY
+            GRNEITAIFASLKTMQQALRGTVSDVRKGSQEMHIGIAEIVAGNNDLSSRTEQQAASLAQ
+            TAASMEQLTATVGQNADNARQASELAKNAATTAQAGGVQVSTMTHTMQEIATSSQKIGDI
+            ISVIDGIAFQTNILALNAAVEAARAGEQGRGFAVVAGEVRNLASRSAQAAKEIKGLIEES
+            VNRVQQGSKLVNNAAATMIDIVSSVTRVNDIMGEIASASEEQQRGIEQVAQAVSQMDQVT
+            QQNASLVEEAAVATEQLANQADHLSSRVAVFTLEEHEVARHESVQLQIAPVVS
+NTSEQ       1602
+            atgtttaatcgtattcgaatttcgaccacgctgtttttaattttgattctctgcgggatc
+            ttgcagattggcagtaacggcatgtctttttgggcatttcgcgacgatttgcaacgactg
+            aatcaggtcgagcagagcaatcagcaacgtgcggcattagcgcaaactcgggcggtaatg
+            ttacaggccagtaccgcgctgaacaaagcgggcactctgacggcacttagctatccggcg
+            gatgacattaaaacgttgatgacgacggcgcgcgccagtctgacgcaatccaccacgctg
+            tttaaaagttttatggcgatgactgcgggcaacgagcacgtcaggggattgcaaaaagag
+            acggagaaaagttttgcccgctggcacaacgatctcgaacatcaggcgacctggcttgaa
+            agtaatcaactttcggatttcctcactgcgccggtgcagggatcacagaatgcgtttgac
+            gttaactttgaggcctggcagctggagatcaaccatgtgctggaagccgccagtgcgcaa
+            agccagcgtaactatcagatttcggcactggtgtttatcagcatgattattgttgcggcg
+            atctacatcagcagtgcgctgtggtggacgcgcaagatgattgttcaaccactggccatt
+            atcggtagccattttgacagcattgctgcgggtaatctggcgcgtccgattgcggtatat
+            ggtcgtaatgagatcaccgccatttttgccagtctgaagaccatgcagcaggctttgcgt
+            gggacggtaagtgatgtgcgtaagggaagccaggagatgcacattggtatcgcggagatt
+            gtcgcaggcaataacgatctctcaagtcgtaccgaacagcaggcggcatcgctggcacaa
+            acggccgccagtatggagcaattaaccgccacggtagggcaaaacgccgataacgcacga
+            caggcgtcggaactggcaaaaaatgccgcgacaacggcgcaggcgggcggtgttcaggtc
+            agtaccatgactcacaccatgcaggagatcgccaccagctcgcaaaaaattggcgacatt
+            atcagcgttatcgacggaattgctttccagaccaatattctggccctgaatgcggcagtg
+            gaagcggctcgcgccggagagcaggggcgtggttttgcggtagtggcaggtgaagtgcgc
+            aatcttgccagccgtagcgcgcaggcagcaaaagagatcaaagggctgatcgaagagtca
+            gtcaatcgtgtccagcagggttcgaaactggtgaataacgccgccgcgaccatgatcgat
+            attgtcagttcggtgacccgcgtgaacgacattatgggagaaattgcctctgcgtcggaa
+            gaacaacagcgggggattgagcaggttgcacaggctgtcagccagatggatcaggtgact
+            cagcagaacgcctcgctggtagaagaagcggcggtggcaacggaacaactggcgaatcag
+            gccgaccatctttcgtcgcgtgtggcggtatttacccttgaagaacatgaagtagcacga
+            catgagtcggtgcagttacaaattgcgccagtggtatcctga
+///

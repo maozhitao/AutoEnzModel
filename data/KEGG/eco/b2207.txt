@@ -1,0 +1,30 @@
+ENTRY       b2207             CDS       T00007
+NAME        napD
+DEFINITION  (RefSeq) NapA signal peptide-binding chaperone NapD
+ORTHOLOGY   K02570  periplasmic nitrate reductase NapD
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99982 Energy metabolism
+                b2207 (napD)
+POSITION    complement(2302750..2303013)
+MOTIF       Pfam: NapD Man-6-P_recep Mo-co_dimer Ncstrn_small Pox_TAA1
+DBLINKS     NCBI-GeneID: 945187
+            NCBI-ProteinID: NP_416711
+            Pasteur: napD
+            RegulonDB: ECK120002044
+            ECOCYC: EG12143
+            ASAP: ABE-0007291
+            UniProt: P0A9I5
+STRUCTURE   PDB: 2JSX 2PQ4
+AASEQ       87
+            MHTNWQVCSLVVQAKSERISDISTQLNAFPGCEVAVSDAPSGQLIVVVEAEDSETLIQTI
+            ESVRNVEGVLAVSLVYHQQEEQGEETP
+NTSEQ       264
+            atgcacactaactggcaagtttgcagcctggtcgtgcaggccaaaagcgaacgaatttca
+            gacatcagcacccaactgaacgcctttcccggctgtgaagttgctgtcagcgacgcgccg
+            agcggtcagttgattgtggtggtggaagcagaagacagcgaaacgctgatccaaaccatt
+            gagtcagtacgcaacgtagagggcgtgctggcggtgtcgctggtttatcaccagcaggaa
+            gagcaaggtgaggaaacaccatga
+///

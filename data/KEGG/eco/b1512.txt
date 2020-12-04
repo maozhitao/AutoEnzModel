@@ -1,0 +1,58 @@
+ENTRY       b1512             CDS       T00007
+NAME        lsrR
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor LsrR
+ORTHOLOGY   K11531  lsr operon transcriptional repressor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02024  Quorum sensing
+            eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b1512 (lsrR)
+               02026 Biofilm formation - Escherichia coli
+                b1512 (lsrR)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1512 (lsrR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Other transcription factors
+               Others
+                b1512 (lsrR)
+POSITION    complement(1600288..1601241)
+MOTIF       Pfam: Sugar-bind MarR_2 HTH_Crp_2 Sigma70_r4 HTH_24 HTH_23 HTH_37 HTH_CodY Crp MarR HTH_IclR
+DBLINKS     NCBI-GeneID: 946070
+            NCBI-ProteinID: NP_416029
+            Pasteur: ydeW
+            RegulonDB: ECK120003388
+            ECOCYC: G6799
+            ASAP: ABE-0005045
+            UniProt: P76141
+STRUCTURE   PDB: 4L4Y 4L51 4L50 4L4Z 4L5J 4GO1 4L5I
+AASEQ       317
+            MTINDSAISEQGMCEEEQVARIAWFYYHDGLTQSEISDRLGLTRLKVSRLLEKGHQSGII
+            RVQINSRFEGCLEYETQLRRQFSLQHVRVIPGLADADVGGRLGIGAAHMLMSLLQPQQML
+            AIGFGEATMNTLQRLSGFISSQQIRLVTLSGGVGSYMTGIGQLNAACSVNIIPAPLRASS
+            ADIARTLKNENCVKDVLLAAQAADVAIVGIGAVSQQDDATIIRSGYISQGEQLMIGRKGA
+            VGDILGYFFDAKGDVVTNIKIHNELIGLPLSALKTIPVRVGVAGGENKAEAIAAAMKGGY
+            INALVTDQDTAAAILRS
+NTSEQ       954
+            atgacaatcaacgattcggcaatttcagaacagggaatgtgtgaagaagaacaggtcgcg
+            cggatcgcgtggttttactatcacgacgggctgacccagagcgagatcagcgatcgtctc
+            ggcctgacacgtttgaaagtgtcgcgattgctggagaaagggcatcagtccggcattatt
+            cgcgtacagattaattctcgctttgaaggctgtctggaatatgaaactcaattacgtcgt
+            cagttttcgctgcaacatgtccgggtgatccctgggcttgcggatgctgatgtcggtggg
+            cgactggggataggcgcggcgcatatgttgatgagtttacttcaaccacaacagatgctg
+            gcgattggttttggcgaggcaaccatgaatacgctgcaacgcttaagtggttttatttcg
+            tcacagcaaattcgcctggtcacgctctccggtggcgtcggttcttatatgacgggaatc
+            gggcagcttaacgcggcgtgcagtgtgaatattattccggctccgttgcgggcatcctcc
+            gctgacattgcccgtacgctaaaaaatgaaaattgcgtcaaagatgttctgttagccgcg
+            caagcagcggatgtggcgattgtcggcattggtgctgtgagtcaacaggacgatgcgaca
+            atcattcgctccggttatatcagccagggcgaacagttaatgattggccgaaaaggggcg
+            gttggcgacattttaggctacttttttgatgcaaaaggtgacgttgtcacgaatatcaaa
+            atacataacgaactgattggcttacctttaagcgcgctgaagaccatacccgtccgggtt
+            ggcgtggcagggggagaaaataaagccgaagcaattgccgctgcaatgaaaggcggttat
+            atcaacgcactggttaccgatcaggacacagcagcggcgattttacgtagttaa
+///

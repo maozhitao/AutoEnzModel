@@ -1,0 +1,51 @@
+ENTRY       b1620             CDS       T00007
+NAME        malI
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor MalI
+ORTHOLOGY   K16136  LacI family transcriptional regulator, maltose regulon regulatory protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1620 (malI)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               LacI family
+                b1620 (malI)
+POSITION    complement(1698152..1699180)
+MOTIF       Pfam: Peripla_BP_1 LacI Peripla_BP_4 Peripla_BP_3 HTH_3 ANF_receptor RPS31 ORF_2_N DRTGG DHDPS
+DBLINKS     NCBI-GeneID: 947104
+            NCBI-ProteinID: NP_416137
+            Pasteur: malI
+            RegulonDB: ECK120000550
+            ECOCYC: EG10557
+            ASAP: ABE-0005421
+            UniProt: P18811
+AASEQ       342
+            MATAKKITIHDVALAAGVSVSTVSLVLSGKGRISTATGERVNAAIEELGFVRNRQASALR
+            GGQSGVIGLIVRDLSAPFYAELTAGLTEALEAQGRMVFLLHGGKDGEQLAQRFSLLLNQG
+            VDGVVIAGAAGSSDDLRRMAEEKAIPVIFASRASYLDDVDTVRPDNMQAAQLLTEHLIRN
+            GHQRIAWLGGQSSSLTRAERVGGYCATLLKFGLPFHSDWVLECTSSQKQAAEAITALLRH
+            NPTISAVVCYNETIAMGAWFGLLKAGRQSGESGVDRYFEQQVSLAAFTDATPTTLDDIPV
+            TWASTPARELGITLADRMMQKITHEETHSRNLIIPARLIAAK
+NTSEQ       1029
+            atggctaccgccaaaaaaataaccattcatgatgttgcgctggctgcgggcgtgtcggta
+            agtaccgtttcgctggtgcttagtggcaaagggcgaatctctaccgccacaggagaacgc
+            gttaacgccgccattgaagagctgggatttgtgcgcaatcgccaggcgtcggcgctgcgc
+            ggcgggcaaagcggcgtcattggtttgatcgtccgtgatttatctgcgccgttttacgcc
+            gaattgacggccggattgacggaagctctggaagcgcagggacggatggtttttttgctt
+            cacggcggtaaagacggtgagcagctggcacagcggttttcactgttactgaatcagggt
+            gtcgatggtgtggtaattgccggagctgcaggaagtagcgatgacctgcgacggatggca
+            gaagaaaaagctatcccggtgattttcgcttcccgtgccagttatcttgatgatgttgat
+            acggttcgcccggacaacatgcaggctgcacagttgttgacggagcatctcattcgcaat
+            gggcatcagcggatcgcctggctgggagggcaaagttcctcattaacccgtgcagaacgg
+            gttgggggctattgtgcaactctactaaaatttggcctgccgtttcatagcgattgggtg
+            ttggagtgcacttccagccagaagcaagccgcggaagctatcacggcgcttttacgtcat
+            aacccgaccatcagtgccgtggtttgctataacgaaactattgcgatgggggcatggttt
+            ggtttgctcaaagcagggcggcaaagcggggaaagcggagtcgatcgttactttgagcaa
+            caggtttcgctggcggcatttaccgatgcgacaccaaccacacttgatgatatacctgtt
+            acctgggccagcacgccagcgcgggaacttggtatcacacttgcggatcgcatgatgcaa
+            aaaatcacccatgaagagacgcattcacgcaatcttattattcccgcccggctcattgca
+            gcgaaataa
+///

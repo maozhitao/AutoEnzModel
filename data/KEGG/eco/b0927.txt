@@ -1,0 +1,44 @@
+ENTRY       b0927             CDS       T00007
+NAME        gloC
+DEFINITION  (RefSeq) hydroxyacylglutathione hydrolase GloC
+ORTHOLOGY   K01069  hydroxyacylglutathione hydrolase [EC:3.1.2.6]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00620  Pyruvate metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00620 Pyruvate metabolism
+                b0927 (gloC)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.2  Thioester hydrolases
+                3.1.2.6  hydroxyacylglutathione hydrolase
+                 b0927 (gloC)
+POSITION    983650..984297
+MOTIF       Pfam: Lactamase_B Lactamase_B_5 Lactamase_B_2
+DBLINKS     NCBI-GeneID: 945551
+            NCBI-ProteinID: NP_415447
+            Pasteur: ycbL
+            RegulonDB: ECK120003075
+            ASAP: ABE-0003147
+            UniProt: P75849
+AASEQ       215
+            MNYRIIPVTAFSQNCSLIWCEQTRLAALVDPGGDAEKIKQEVDDSGLTLMQILLTHGHLD
+            HVGAAAELAQHYGVPVFGPEKEDEFWLQGLPAQSRMFGLEECQPLTPDRWLNEGDTISIG
+            NVTLQVLHCPGHTPGHVVFFDDRAKLLISGDVIFKGGVGRSDFPRGDHNQLISSIKDKLL
+            PLGDDVIFIPGHGPLSTLGYERLHNPFLQDEMPVW
+NTSEQ       648
+            atgaactatcgtattattccggtcaccgcattctcccagaactgttcattaatctggtgt
+            gaacaaacccgtctggccgcactggtcgatcctggcggcgatgcggaaaaaatcaaacag
+            gaagttgatgacagcggcctgacactgatgcagatcctgctgacgcatggtcatctggac
+            cacgttggcgcagcggcggaactggcgcaacattacggcgtgccggttttcggcccggaa
+            aaagaagatgagttctggctgcaaggcttgcctgcgcaaagtcgtatgtttggtctggaa
+            gagtgccagccgctgacgccagatcgttggctgaacgaaggcgataccatcagcataggg
+            aatgtgactttacaggtgttacattgccctgggcatacgccgggtcatgtcgtgtttttt
+            gatgatcgggcaaagctgctgatttctggcgatgttattttcaaaggcggagtagggcgc
+            agtgacttcccgcgtggcgatcataatcaactgatttcttcaatcaaagataaattgctg
+            ccactgggggatgacgtgatatttattccgggtcacggaccattatccacacttggttat
+            gaacgcctgcataatcccttcctgcaagacgaaatgcccgtctggtaa
+///

@@ -1,0 +1,44 @@
+ENTRY       b2572             CDS       T00007
+NAME        rseA
+DEFINITION  (RefSeq) anti-sigma factor
+ORTHOLOGY   K03597  sigma-E factor negative regulatory protein RseA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:eco03021]
+                b2572 (rseA)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               Other transcription-related factors
+                RNA polymerase-associated proteins
+                 b2572 (rseA)
+POSITION    complement(2708754..2709404)
+MOTIF       Pfam: RseA_N RseA_C RskA
+DBLINKS     NCBI-GeneID: 947053
+            NCBI-ProteinID: NP_417067
+            Pasteur: rseA
+            RegulonDB: ECK120002216
+            ECOCYC: EG12341
+            ASAP: ABE-0008462
+            UniProt: P0AFX7
+STRUCTURE   PDB: 1OR7 3M4W
+AASEQ       216
+            MQKEQLSALMDGETLDSELLNELAHNPEMQKTWESYHLIRDSMRGDTPEVLHFDISSRVM
+            AAIEEEPVRQPATLIPEAQPAPHQWQKMPFWQKVRPWAAQLTQMGVAACVSLAVIVGVQH
+            YNGQSETSQQPETPVFNTLPMMGKASPVSLGVPSEATANNGQQQQVQEQRRRINAMLQDY
+            ELQRRLHSEQLQFEQAQTQQAAVQVPGIQTLGTQSQ
+NTSEQ       651
+            atgcagaaagaacaactttccgctttaatggatggcgaaacgctggatagtgagctgctt
+            aacgaactggctcataacccagaaatgcagaaaacctgggaaagctatcacttaatccgt
+            gactcaatgcggggtgatactcccgaggtgctccatttcgatatctcttcacgcgtgatg
+            gccgccattgaagaagagccagtacgtcaaccggcgacattgatcccggaagcccagcct
+            gcgccgcatcaatggcagaaaatgccattctggcagaaagtacgtccgtgggcggcacag
+            cttacccaaatgggcgtagccgcatgcgtatcgcttgcagttatcgttggcgtccagcac
+            tataatggacaatctgaaacgtcccagcagcccgaaacgccggtatttaatacactgccg
+            atgatgggtaaagccagcccggtaagcctgggagtaccttctgaagcgaccgcaaacaat
+            ggtcaacagcagcaggtacaggagcagcgtcgtcgcattaatgcaatgttgcaggattac
+            gaactgcaacgccgactccactctgaacagcttcagtttgagcaggcgcaaacccagcaa
+            gccgctgtacaggtgccaggaattcaaactttaggaacgcaatcgcagtaa
+///

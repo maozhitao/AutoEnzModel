@@ -1,0 +1,56 @@
+ENTRY       b3740             CDS       T00007
+NAME        rsmG
+DEFINITION  (RefSeq) 16S rRNA m(7)G527 methyltransferase
+ORTHOLOGY   K03501  16S rRNA (guanine527-N7)-methyltransferase [EC:2.1.1.170]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b3740 (rsmG)
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b3740 (rsmG)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.170  16S rRNA (guanine527-N7)-methyltransferase
+                 b3740 (rsmG)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               16S rRNA modification factors
+                b3740 (rsmG)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Other chromosome partitioning proteins
+                b3740 (rsmG)
+POSITION    complement(3923057..3923680)
+MOTIF       Pfam: GidB Methyltransf_31 Methyltransf_25 MTS
+DBLINKS     NCBI-GeneID: 948250
+            NCBI-ProteinID: NP_418196
+            Pasteur: gidB
+            RegulonDB: ECK120000369
+            ECOCYC: EG10376
+            ASAP: ABE-0012229
+            UniProt: P0A6U5
+STRUCTURE   PDB: 1JSX
+AASEQ       207
+            MLNKLSLLLKDAGISLTDHQKNQLIAYVNMLHKWNKAYNLTSVRDPNEMLVRHILDSIVV
+            APYLQGERFIDVGTGPGLPGIPLSIVRPEAHFTLLDSLGKRVRFLRQVQHELKLENIEPV
+            QSRVEEFPSEPPFDGVISRAFASLNDMVSWCHHLPGEQGRFYALKGQMPEDEIALLPEEY
+            QVESVVKLQVPALDGERHLVVIKANKI
+NTSEQ       624
+            gtgctcaacaaactctccttactgctgaaagacgcaggtatttcgcttaccgatcaccag
+            aaaaaccagcttattgcctacgtgaatatgctgcataaatggaacaaagcgtacaacctg
+            acttcggtccgcgatcctaatgagatgctggtacgccatattctcgatagcattgtggtg
+            gcaccgtatctgcaaggtgaacggtttatcgatgtcggcaccggaccaggactgccaggc
+            attccactctctatcgtgcgtcctgaagcccatttcactctgttggatagccttggtaaa
+            cgcgtgcgtttccttcgtcaggtgcaacatgagcttaaactggagaatattgaaccagta
+            cagagcagggtagaagagtttccttcagagccgccatttgatggcgtaattagccgcgct
+            tttgcctctctgaacgatatggtgagctggtgccaccatcttcctggtgagcaaggccgt
+            ttctacgcgctgaaagggcaaatgccggaagatgaaatcgctttgttgcccgaagaatat
+            caggtcgaatcagtggttaaacttcaggttccagccctggatggcgaacgtcatctggtg
+            gtgattaaagcaaataaaatttaa
+///

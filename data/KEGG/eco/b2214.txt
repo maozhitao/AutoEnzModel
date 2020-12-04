@@ -1,0 +1,52 @@
+ENTRY       b2214             CDS       T00007
+NAME        ftp
+DEFINITION  (RefSeq) FAD:protein FMN transferase
+ORTHOLOGY   K03734  FAD:protein FMN transferase [EC:2.7.1.180]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b2214 (ftp)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.180  FAD:protein FMN transferase
+                 b2214 (ftp)
+POSITION    complement(2310479..2311534)
+MOTIF       Pfam: ApbE
+DBLINKS     NCBI-GeneID: 946711
+            NCBI-ProteinID: NP_416718
+            Pasteur: apbE
+            RegulonDB: ECK120001980
+            ASAP: ABE-0007317
+            UniProt: P0AB85
+STRUCTURE   PDB: 4XGW 4XGV 4XGX 2O18
+AASEQ       351
+            MEISFTRVALLAAALFFVGCDQKPQPAKTHATEVTVLEGKTMGTFWRASIPGIDAKRSAE
+            LKEKIQTQLDADDQLLSTYKKDSALMRFNDSQSLSPWPVSEAMADIVTTSLRIGAKTDGA
+            MDITVGPLVNLWGFGPEQQPVQIPSQEQIDAMKAKTGLQHLTVINQSHQQYLQKDLPDLY
+            VDLSTVGEGYAADHLARLMEQEGISRYLVSVGGALNSRGMNGEGLPWRVAIQKPTDKENA
+            VQAVVDINGHGISTSGSYRNYYELDGKRLSHVIDPQTGRPIEHNLVSVTVIAPTALEADA
+            WDTGLMVLGPEKAKEVVRREGLAVYMITKEGDSFKTWMSPQFKSFLVSEKN
+NTSEQ       1056
+            atggaaataagctttacccgcgtggcactgctggctgccgcgctcttctttgttggttgc
+            gatcaaaaaccacaacccgccaaaacccacgctactgaagttaccgttcttgaaggcaaa
+            actatgggtaccttctggcgtgccagcatcccgggcattgacgccaaacgcagcgccgaa
+            cttaaagaaaagattcagacccaactggacgccgacgatcagctgctttcgacctataaa
+            aaagattccgcgctgatgcgctttaacgactcgcaaagtttatcgccgtggccggtaagt
+            gaagcgatggccgatatcgtcaccacctcgctgcgcattggcgcgaagaccgatggcgcg
+            atggatataaccgtcgggccgctggtgaatctgtggggctttggcccggaacaacagccg
+            gttcaaattccgagccaggaacagatcgatgcgatgaaagccaaaaccggcttacagcac
+            ctgacggtcatcaatcagtcgcatcagcaatatctgcaaaaagacctgccggatttatat
+            gtcgatctctccaccgtcggcgaaggctatgcggccgatcatttggcacgcttgatggag
+            caggaagggatttcccgctatctggtgtcggtgggcggcgcgctgaacagccgtggtatg
+            aacggtgaaggcctgccgtggcgggtagcgattcaaaaaccaaccgataaagaaaacgcg
+            gttcaggctgtggtggatatcaacggtcatgggattagcacctctggcagctaccgtaac
+            tattacgaactggacggcaaacgtctttcccatgttatcgatccgcaaaccgggcgtccc
+            atcgaacacaatctggtatccgtgacggtgattgctccgacggcgctggaagccgatgcc
+            tgggatactggcttgatggtactcgggccggagaaagctaaagaggttgttcgccgggaa
+            gggctggcggtttatatgatcaccaaagaaggcgatagctttaaaacctggatgtcacca
+            cagtttaaaagcttccttgtcagcgaaaaaaattaa
+///

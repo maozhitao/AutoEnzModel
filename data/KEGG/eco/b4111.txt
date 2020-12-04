@@ -1,0 +1,62 @@
+ENTRY       b4111             CDS       T00007
+NAME        proP
+DEFINITION  (RefSeq) osmolyte:H(+) symporter ProP
+ORTHOLOGY   K03762  MFS transporter, MHS family, proline/betaine transporter
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b4111 (proP)
+            Transporters [BR:eco02000]
+             Major facilitator superfamily (MFS)
+              Organic acid transporters
+               Metabolite:H+ symporter (MHS) family [TC:2.A.1.6]
+                b4111 (proP)
+POSITION    4330502..4332004
+MOTIF       Pfam: Sugar_tr MFS_1 Osmo_CC MFS_2 MFS_3 CM_2 DUF5716 TssO Prefoldin T3SSipB MerR-DNA-bind DUF1043 TRI12
+DBLINKS     NCBI-GeneID: 948626
+            NCBI-ProteinID: NP_418535
+            Pasteur: proP
+            RegulonDB: ECK120001560
+            ECOCYC: EG11612
+            ASAP: ABE-0013462
+            UniProt: P0C0L7
+AASEQ       500
+            MLKRKKVKPITLRDVTIIDDGKLRKAITAASLGNAMEWFDFGVYGFVAYALGKVFFPGAD
+            PSVQMVAALATFSVPFLIRPLGGLFFGMLGDKYGRQKILAITIVIMSISTFCIGLIPSYD
+            TIGIWAPILLLICKMAQGFSVGGEYTGASIFVAEYSPDRKRGFMGSWLDFGSIAGFVLGA
+            GVVVLISTIVGEANFLDWGWRIPFFIALPLGIIGLYLRHALEETPAFQQHVDKLEQGDRE
+            GLQDGPKVSFKEIATKYWRSLLTCIGLVIATNVTYYMLLTYMPSYLSHNLHYSEDHGVLI
+            IIAIMIGMLFVQPVMGLLSDRFGRRPFVLLGSVALFVLAIPAFILINSNVIGLIFAGLLM
+            LAVILNCFTGVMASTLPAMFPTHIRYSALAAAFNISVLVAGLTPTLAAWLVESSQNLMMP
+            AYYLMVVAVVGLITGVTMKETANRPLKGATPAASDIQEAKEILVEHYDNIEQKIDDIDHE
+            IADLQAKRTRLVQQHPRIDE
+NTSEQ       1503
+            atgctgaaaaggaaaaaagtaaaaccgattacccttcgtgatgtcaccattattgatgac
+            ggtaaactgcgtaaagccattaccgcagcatcactgggtaatgcaatggaatggttcgat
+            tttggtgtttatggttttgttgcttacgcattaggtaaagtttttttcccgggggctgac
+            cccagcgtgcagatggttgctgcacttgccactttctccgttccctttctgattcgaccg
+            cttggcggactcttctttggtatgttgggcgataaatatggtcgccagaagatcctcgct
+            atcactattgtgattatgtcgatcagtacgttctgtattggcttaataccgtcctacgac
+            acgattggtatttgggcaccgattctgctgttgatctgtaagatggcacaaggtttctcg
+            gtcggcggtgaatataccggggcgtcgatatttgttgcggaatactcccctgaccgtaaa
+            cgtggctttatgggcagctggctggacttcggttctattgccgggtttgtgctgggtgcg
+            ggcgtggtggtgttaatttcgaccattgtcggcgaagcgaacttcctcgattggggctgg
+            cgtattccgttctttatcgctctgccgttagggattatcgggctttacctgcgccatgcg
+            ctggaagagactccggcgttccagcagcatgtcgataaactggaacagggcgaccgtgaa
+            ggtttgcaggatggcccgaaagtctcgtttaaagagattgccactaaatactggcgcagc
+            ctgttgacatgtattggtctggtaattgccaccaacgtgacttactacatgttgctgacc
+            tatatgccgagttatttgtcgcataacctgcattactccgaagaccacggggtgctgatt
+            attatcgccattatgatcggtatgctgtttgtccagccggtgatgggcttgctgagtgac
+            cgttttggccgtcgtccgtttgtgctacttggtagtgttgccctgtttgtgttggcgatc
+            ccggcgtttattctgattaacagtaacgtcatcggcctgatttttgccgggttactgatg
+            ctggcggtgatccttaactgctttacgggcgttatggcttctaccttgccagcgatgttc
+            ccgacgcatatccgttacagcgcgctggcggcggcatttaatatttcggtgctggttgcc
+            ggtctgacgccaacgctggcggcctggctggtcgaaagctcgcagaatctgatgatgcct
+            gcctattacctgatggtagtggcggtggttggtttaatcaccggcgtaaccatgaaagag
+            acggcaaatcgtccgttgaaaggtgcgacaccggcggcgtcagatatacaggaagcgaag
+            gaaattctcgtcgagcattacgataatatcgagcagaaaatcgatgatattgaccacgag
+            attgccgatttgcaggcgaaacgtacccgcctggtgcagcaacatccgcgaattgatgaa
+            taa
+///

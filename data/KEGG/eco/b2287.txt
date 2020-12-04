@@ -1,0 +1,47 @@
+ENTRY       b2287             CDS       T00007
+NAME        nuoB
+DEFINITION  (RefSeq) NADH:quinone oxidoreductase subunit B
+ORTHOLOGY   K00331  NADH-quinone oxidoreductase subunit B [EC:7.1.1.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00190  Oxidative phosphorylation
+            eco01100  Metabolic pathways
+MODULE      eco_M00144  NADH:quinone oxidoreductase, prokaryotes
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                b2287 (nuoB)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.1  Catalysing the translocation of hydrons
+               7.1.1  Linked to oxidoreductase reactions
+                7.1.1.2  NADH:ubiquinone reductase (H+-translocating)
+                 b2287 (nuoB)
+POSITION    complement(2403951..2404613)
+MOTIF       Pfam: Oxidored_q6
+DBLINKS     NCBI-GeneID: 946738
+            NCBI-ProteinID: NP_416790
+            Pasteur: nuoB
+            RegulonDB: ECK120001989
+            ECOCYC: EG12083
+            ASAP: ABE-0007551
+            UniProt: P0AFC7
+AASEQ       220
+            MDYTLTRIDPNGENDRYPLQKQEIVTDPLEQEVNKNVFMGKLNDMVNWGRKNSIWPYNFG
+            LSCCYVEMVTSFTAVHDVARFGAEVLRASPRQADLMVVAGTCFTKMAPVIQRLYDQMLEP
+            KWVISMGACANSGGMYDIYSVVQGVDKFIPVDVYIPGCPPRPEAYMQALMLLQESIGKER
+            RPLSWVVGDQGVYRANMQSERERKRGERIAVTNLRTPDEI
+NTSEQ       663
+            atggattatacgctcacccgcatagatcccaacggtgagaacgaccgttaccccctgcaa
+            aagcaggagatcgtaaccgaccctctggagcaagaagttaacaaaaacgtgtttatgggc
+            aagctcaatgacatggttaactggggtcgtaaaaactcaatttggccgtataacttcggt
+            ctttcctgctgttacgttgagatggtgacttcgtttaccgcggtgcatgacgtggcgcgt
+            tttggcgcagaagtattgcgtgcttcgccgcgtcaggctgacctgatggtggttgcagga
+            acctgctttaccaaaatggcaccggttattcagcgtctgtatgaccagatgctggaacca
+            aaatgggttatctcaatgggtgcctgtgccaactctggtggtatgtacgatatttattcc
+            gttgtgcagggcgtcgataaattcatcccggttgatgtgtatatcccgggctgcccgccg
+            cgtcctgaagcgtacatgcaggcactgatgctgttgcaggaatctatcggcaaagaacgt
+            cgtccgctctcctgggtggttggcgatcagggcgtttatcgcgccaatatgcaatcagag
+            cgcgaacgcaagcgcggtgaacgcattgccgtaactaacctgcgtacacctgacgagatt
+            taa
+///

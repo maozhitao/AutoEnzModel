@@ -1,0 +1,39 @@
+ENTRY       b3936             CDS       T00007
+NAME        rpmE
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L31
+ORTHOLOGY   K02909  large subunit ribosomal protein L31
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3936 (rpmE)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3936 (rpmE)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Bacteria
+               Large subunit
+                b3936 (rpmE)
+POSITION    4127013..4127225
+MOTIF       Pfam: Ribosomal_L31
+DBLINKS     NCBI-GeneID: 948425
+            NCBI-ProteinID: NP_418371
+            Pasteur: rpmE
+            RegulonDB: ECK120000880
+            ECOCYC: EG10889
+            ASAP: ABE-0012867
+            UniProt: P0A7M9
+STRUCTURE   PDB: 5AKA 2J28 3IYX 2RDO 3BBX 3IYY
+AASEQ       70
+            MKKDIHPKYEEITASCSCGNVMKIRSTVGHDLNLDVCSKCHPFFTGKQRDVATGGRVDRF
+            NKRFNIPGSK
+NTSEQ       213
+            atgaaaaaagatattcacccgaaatacgaagaaattactgctagctgctcttgcggtaac
+            gtaatgaaaatccgctccaccgttggtcatgacctgaacctcgacgtgtgcagcaagtgc
+            cacccgttcttcactggcaaacagcgtgatgttgctaccggtggccgtgttgaccgcttc
+            aacaagcgtttcaacatcccgggcagcaaataa
+///

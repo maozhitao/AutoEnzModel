@@ -1,0 +1,59 @@
+ENTRY       b3931             CDS       T00007
+NAME        hslU
+DEFINITION  (RefSeq) ATPase component of the HslVU protease
+ORTHOLOGY   K03667  ATP-dependent HslUV protease ATP-binding subunit HslU
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b3931 (hslU)
+            Chaperones and folding catalysts [BR:eco03110]
+             Heat shock proteins
+              HSP100
+               b3931 (hslU)
+POSITION    complement(4120416..4121747)
+MOTIF       Pfam: AAA_2 AAA AAA_5 AAA_22 ClpB_D2-small MCM AAA_16 Mg_chelatase RuvB_N AAA_18 Sigma54_activat IstB_IS21 AAA_28 TniB AAA_33 TIP49 AAA_24 NTPase_1 AAA_7 RsgA_GTPase Zeta_toxin SRP54 ABC_tran TsaE
+DBLINKS     NCBI-GeneID: 948430
+            NCBI-ProteinID: NP_418366
+            Pasteur: hslU
+            RegulonDB: ECK120001811
+            ECOCYC: EG11881
+            ASAP: ABE-0012843
+            UniProt: P0A6H5
+STRUCTURE   PDB: 1HT1 1HT2 1HQY 5JI3 1G4A 1DO0 5JI2 1DO2 1YYF 1G4B 5TXV
+                 1E94
+AASEQ       443
+            MSEMTPREIVSELDKHIIGQDNAKRSVAIALRNRWRRMQLNEELRHEVTPKNILMIGPTG
+            VGKTEIARRLAKLANAPFIKVEATKFTEVGYVGKEVDSIIRDLTDAAVKMVRVQAIEKNR
+            YRAEELAEERILDVLIPPAKNNWGQTEQQQEPSAARQAFRKKLREGQLDDKEIEIDLAAA
+            PMGVEIMAPPGMEEMTSQLQSMFQNLGGQKQKARKLKIKDAMKLLIEEEAAKLVNPEELK
+            QDAIDAVEQHGIVFIDEIDKICKRGESSGPDVSREGVQRDLLPLVEGCTVSTKHGMVKTD
+            HILFIASGAFQIAKPSDLIPELQGRLPIRVELQALTTSDFERILTEPNASITVQYKALMA
+            TEGVNIEFTDSGIKRIAEAAWQVNESTENIGARRLHTVLERLMEEISYDASDLSGQNITI
+            DADYVSKHLDALVADEDLSRFIL
+NTSEQ       1332
+            atgtctgaaatgaccccacgcgaaatcgtcagcgaactggataagcacatcatcggccag
+            gacaacgccaagcgttctgtggcgattgctctgcgtaaccgctggcgtcgcatgcagctc
+            aacgaagagctgcgccatgaagtgaccccgaaaaatatcctgatgatcggcccgaccggt
+            gtcggtaaaactgaaatcgcccgtcgtctggctaagctggcgaatgcgccgttcatcaaa
+            gttgaagcgaccaaattcaccgaagtgggctacgtcggtaaggaagtggattctattatt
+            cgcgatctgaccgatgccgccgtgaaaatggtacgcgtccaggctatcgagaaaaaccgt
+            tatcgcgctgaagaactggcagaagaacgtattctcgacgtgctgatcccacctgctaaa
+            aacaactggggacagaccgaacagcagcaggaaccgtccgctgctcgtcaggcattccgc
+            aaaaaactgcgtgaaggccagcttgatgacaaagaaatcgagatcgatcttgccgcagca
+            ccgatgggcgttgaaattatggctcctccgggcatggaagagatgaccagccagctgcag
+            tccatgttccagaacctgggcggccagaagcaaaaagcgcgtaagctgaaaatcaaagac
+            gccatgaagctgctgattgaagaagaagcggcgaaactggtgaacccggaagagctgaag
+            caagacgctatcgacgctgttgagcagcacgggatcgtgtttatcgacgaaatcgacaaa
+            atctgtaagcgcggcgagtcttccggtccggatgtttctcgtgaaggcgttcagcgtgac
+            ctgctgccgctggtagaaggttgcaccgtttccaccaaacacgggatggtcaaaactgac
+            cacattctgtttatcgcttctggcgcgttccagattgcgaaaccgtctgacctgatcccg
+            gaactgcaaggtcgtctgccaatccgcgttgaactgcaggcgctgaccaccagcgacttc
+            gagcgtattctgaccgagccgaatgcctctatcaccgtgcagtacaaagcactgatggcg
+            actgaaggcgtaaatatcgagtttaccgactccggtattaaacgcatcgcggaagcggca
+            tggcaggtgaacgaatctaccgaaaacatcggtgctcgtcgtttacacactgttctggag
+            cgtttaatggaagagatttcctacgacgccagcgatttaagcggtcaaaatatcactatt
+            gacgcagattatgtgagcaaacatctggatgcgttggtggcagatgaagatctgagccgt
+            tttatcctataa
+///

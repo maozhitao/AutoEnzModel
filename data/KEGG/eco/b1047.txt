@@ -1,0 +1,55 @@
+ENTRY       b1047             CDS       T00007
+NAME        opgC
+DEFINITION  (RefSeq) protein required for succinyl modification of osmoregulated periplasmic glucans
+ORTHOLOGY   K11941  glucans biosynthesis protein C [EC:2.1.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b1047 (opgC)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.-  Transferring one-carbon groups
+                2.1.-.-  
+                 b1047 (opgC)
+POSITION    complement(1107784..1108941)
+MOTIF       Pfam: Acyl_transf_3 DUF308 Peptidase_S31
+DBLINKS     NCBI-GeneID: 946944
+            NCBI-ProteinID: NP_415565
+            Pasteur: ymdD
+            RegulonDB: ECK120003148
+            ECOCYC: G6552
+            ASAP: ABE-0003553
+            UniProt: P75920
+AASEQ       385
+            MNPVPAQREYFLDSIRAWLMLLGIPFHISLIYSSHTWHVNSAESSLWLTLFNDFIHSFRM
+            QVFFVISGYFSYMLFLRYPLKKWWKVRVERVGIPMLTAIPLLTLPQFIMLQYVKGKAESW
+            PGLSLYDKYNTLAWELISHLWFLLVLVVMTTLCVWIFKRIRNNLENSDKTNKKFSMVKLS
+            VIFLCLGIGYAVIRRTIFIVYPPILSNGMFNFIVMQTLFYLPFFILGALAFIFPHLKALF
+            TTPSRGCTLAAALAFVAYLLNQRYGSGDAWMYETESVITMVLGLWMVNVVFSFGHRLLNF
+            QSARVTYFVNASLFIYLVHHPLTLFFGAYITPHITSNWLGFLCGLIFVVGIAIILYEIHL
+            RIPLLKFLFSGKPVVKRENDKAPAR
+NTSEQ       1158
+            atgaacccagtacccgcgcaacgtgaatatttcctcgactccatccgcgcctggctgatg
+            ttgttagggataccttttcatatttctttaatctattcgagccatacatggcatgtgaat
+            agcgccgaatcatcattgtggctgaccctttttaatgacttcatccactcgttccgcatg
+            caggtatttttcgttatatccggctacttttcctacatgctttttttacgctatcccttg
+            aaaaaatggtggaaagtacgtgtcgaacgtgtaggtatcccgatgttaacagccatcccc
+            ctactgacattaccgcaatttattatgctgcaatatgtcaaaggaaaagcggaaagttgg
+            cctgggctgtcattgtatgacaaatataatacgttggcctgggaattaatatcacacctg
+            tggtttttactggtgttagtggtcatgacgacgctgtgcgtatggatatttaagcgcatc
+            agaaataatttagaaaattctgataaaacgaataaaaaattctcgatggtaaaactatcg
+            gtgatttttttatgcctcggcatcggttatgcggtaataagaagaacgatttttattgtg
+            tatccgcccattctgagtaatggcatgttcaattttattgtcatgcaaacgctgttttat
+            ttgccgttctttatcctcggcgcactggctttcattttccctcatcttaaagccttgttt
+            accacgccgtctcgtggctgtacccttgcagcagcattggcgtttgtcgcttatttactc
+            aaccagcgctatggcagtggcgatgcctggatgtacgaaaccgagtcggtgatcaccatg
+            gtcctcggtctgtggatggtgaatgtggtcttctcctttggccaccgtttgcttaacttc
+            cagtcagcgcgggtgacttattttgttaacgcatcgctgtttatctatctggttcaccac
+            ccgttaacgctgtttttcggcgcatacattacaccgcacatcacctccaactggcttggt
+            tttctctgtggcctgatatttgtagtagggattgcgataattctgtatgaaattcatttg
+            cgcatcccgttactgaagtttttgttctctggtaaaccggttgttaagcgtgagaacgat
+            aaagcaccagcccgttaa
+///

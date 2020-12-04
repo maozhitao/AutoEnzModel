@@ -1,0 +1,35 @@
+ENTRY       b2783             CDS       T00007
+NAME        mazE
+DEFINITION  (RefSeq) antitoxin of the MazF-MazE toxin-antitoxin system MazE
+ORTHOLOGY   K07172  antitoxin MazE
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b2783 (mazE)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               MazF-MazE
+                b2783 (mazE)
+POSITION    complement(2911091..2911339)
+MOTIF       Pfam: MazE_antitoxin
+DBLINKS     NCBI-GeneID: 947245
+            NCBI-ProteinID: NP_417263
+            Pasteur: chpR
+            RegulonDB: ECK120000564
+            ECOCYC: EG10571
+            ASAP: ABE-0009122
+            UniProt: P0AE72
+STRUCTURE   PDB: 1MVF 1UB4 2MRU 2MRN
+AASEQ       82
+            MIHSSVKRWGNSPAVRIPATLMQALNLNIDDEVKIDLVDGKLIIEPVRKEPVFTLAELVN
+            DITPENLHENIDWGEPKDKEVW
+NTSEQ       249
+            atgatccacagtagcgtaaagcgttggggaaattcaccggcggtgcggatcccggctacg
+            ttaatgcaggcgctcaatctgaatattgatgatgaagtgaagattgacctggtggatggc
+            aaattaattattgagccagtgcgtaaagagcccgtatttacgcttgctgaactggtcaac
+            gacatcacgccggaaaacctccacgagaatatcgactggggagagccgaaagataaggaa
+            gtctggtaa
+///

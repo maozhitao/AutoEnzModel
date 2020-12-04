@@ -1,0 +1,76 @@
+ENTRY       b1886             CDS       T00007
+NAME        tar
+DEFINITION  (RefSeq) methyl-accepting chemotaxis protein Tar
+ORTHOLOGY   K05875  methyl-accepting chemotaxis protein II, aspartate sensor receptor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02030  Bacterial chemotaxis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1886 (tar)
+             09140 Cellular Processes
+              09142 Cell motility
+               02030 Bacterial chemotaxis
+                b1886 (tar)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1886 (tar)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Chemotaxis proteins
+               MCPs
+                b1886 (tar)
+POSITION    complement(1971030..1972691)
+MOTIF       Pfam: MCPsignal TarH HAMP YscO BCDHK_Adom3 Snf7 Mod_r Glycophorin_A
+DBLINKS     NCBI-GeneID: 946399
+            NCBI-ProteinID: NP_416400
+            Pasteur: tar
+            RegulonDB: ECK120000977
+            ECOCYC: EG10988
+            ASAP: ABE-0006290
+            UniProt: P07017
+STRUCTURE   PDB: 4Z9H 4Z9I 4Z9J 2ASR
+AASEQ       553
+            MINRIRVVTLLVMVLGVFALLQLISGSLFFSSLHHSQKSFVVSNQLREQQGELTSTWDLM
+            LQTRINLSRSAVRMMMDSSNQQSNAKVELLDSARKTLAQAATHYKKFKSMAPLPEMVATS
+            RNIDEKYKNYYTALTELIDYLDYGNTGAYFAQPTQGMQNAMGEAFAQYALSSEKLYRDIV
+            TDNADDYRFAQWQLAVIALVVVLILLVAWYGIRRMLLTPLAKIIAHIREIAGGNLANTLT
+            IDGRSEMGDLAQSVSHMQRSLTDTVTHVREGSDAIYAGTREIAAGNTDLSSRTEQQASAL
+            EETAASMEQLTATVKQNADNARQASQLAQSASDTAQHGGKVVDGVVKTMHEIADSSKKIA
+            DIISVIDGIAFQTNILALNAAVEAARAGEQGRGFAVVAGEVRNLASRSAQAAKEIKALIE
+            DSVSRVDTGSVLVESAGETMNNIVNAVTRVTDIMGEIASASDEQSRGIDQVALAVSEMDR
+            VTQQNASLVQESAAAAAALEEQASRLTQAVSAFRLAASPLTNKPQTPSRPASEQPPAQPR
+            LRIAEQDPNWETF
+NTSEQ       1662
+            atgattaaccgtatccgcgtagtcacgctgttggtaatggtgctgggggtattcgcactg
+            ttacagcttatttccggcagtctgtttttttcttcccttcaccatagccagaagagcttt
+            gtggtttccaatcaattacgggaacagcagggcgagctgacgtcaacctgggatttaatg
+            ctgcaaacgcgcattaacctgagtcgttcagcggtacggatgatgatggattcctccaat
+            caacaaagtaacgccaaagttgaattgctcgatagcgccaggaaaacattggcgcaggca
+            gcgacgcattataaaaaattcaaaagcatggcaccgttacctgaaatggtcgctaccagt
+            cgtaatattgatgaaaaatataaaaactattacacagcgttaactgaactgattgattat
+            ctagattatggcaatactggagcttatttcgctcagccaacccagggaatgcaaaatgca
+            atgggcgaagcgtttgctcagtacgccctcagcagtgaaaaactgtatcgcgatatcgtc
+            actgacaacgcagatgattaccgatttgcccagtggcaactggcggttatcgcgctggtg
+            gtggtattgattctgctggtggcgtggtacggcattcgccgtatgttgcttactccgctg
+            gcaaaaattattgctcacattcgcgaaatcgccggtggtaacctggcgaataccctgacc
+            attgacgggcgcagtgaaatgggcgacctggcgcagagcgtttcacatatgcaacgctct
+            ttgactgacaccgtcactcatgtccgcgaaggttcagatgccatctatgccggtacccgt
+            gaaattgcggcgggcaacaccgatctttcctcccgtactgaacagcaggcatccgcgctg
+            gaagaaactgccgccagcatggagcagctcaccgcgacagtgaagcaaaacgccgataac
+            gcccgccaggcctcgcaactggcgcaaagtgcctccgacaccgcccagcacggcggcaaa
+            gtggtggatggcgtagtgaaaacgatgcatgagatcgccgatagttcgaagaaaattgcc
+            gacattatcagcgttatcgacggtattgccttccagactaatatcctcgcgctgaatgcc
+            gcggttgaagccgcgcgtgcgggtgaacagggccgtggttttgccgtggtggcgggtgaa
+            gtgcgtaatcttgccagtcgcagcgcccaggcggcaaaagagatcaaagccctcattgaa
+            gactccgtctcacgcgttgataccggttcggtgctggtcgaaagcgccggggaaacaatg
+            aacaatatcgtcaatgctgtcactcgcgtgactgacattatgggcgagattgcatcggca
+            tcggatgaacagagccgtggcatcgatcaagtcgcattggcggtttcggaaatggatcgc
+            gtcacgcaacagaacgcatcgctggtgcaggaatcagctgccgccgccgctgcgctggaa
+            gaacaggcgagtcgtttaacgcaagcagtttccgcgttccgtctggcagccagcccactc
+            accaataaaccgcaaacaccatcccgtcctgccagtgagcaaccaccggctcagccacga
+            ctgcgaattgctgaacaagatccaaactgggaaacattttga
+///

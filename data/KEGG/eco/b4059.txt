@@ -1,0 +1,69 @@
+ENTRY       b4059             CDS       T00007
+NAME        ssb
+DEFINITION  (RefSeq) ssDNA-binding protein
+ORTHOLOGY   K03111  single-strand DNA-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+            eco03430  Mismatch repair
+            eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b4059 (ssb)
+               03430 Mismatch repair
+                b4059 (ssb)
+               03440 Homologous recombination
+                b4059 (ssb)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b4059 (ssb)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b4059 (ssb)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b4059 (ssb)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Initiation Factors
+               Initiation factors (bacterial)
+                b4059 (ssb)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                Other MMR factors
+                 b4059 (ssb)
+              TLS (translesion DNA synthesis) factors
+               Other SOS response factors
+                b4059 (ssb)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial DNA replication factors
+               Other Mitochondrial DNA replication factors
+                b4059 (ssb)
+POSITION    4274125..4274661
+MOTIF       Pfam: SSB tRNA_anti-codon
+DBLINKS     NCBI-GeneID: 948570
+            NCBI-ProteinID: NP_418483
+            Pasteur: ssb
+            RegulonDB: ECK120000965
+            ECOCYC: EG10976
+            ASAP: ABE-0013298
+            UniProt: P0AGE0
+STRUCTURE   PDB: 4MZ9 1QVC 1EYG 1KAW 1EQQ 1SRU
+AASEQ       178
+            MASRGVNKVILVGNLGQDPEVRYMPNGGAVANITLATSESWRDKATGEMKEQTEWHRVVL
+            FGKLAEVASEYLRKGSQVYIEGQLRTRKWTDQSGQDRYTTEVVVNVGGTMQMLGGRQGGG
+            APAGGNIGGGQPQGGWGQPQQPQGGNQFSGGAQSRPQQSAPAAPSNEPPMDFDDDIPF
+NTSEQ       537
+            atggccagcagaggcgtaaacaaggttattctcgttggtaatctgggtcaggacccggaa
+            gtacgctacatgccaaatggtggcgcagttgccaacattacgctggctacttccgaatcc
+            tggcgtgataaagcgaccggcgagatgaaagaacagactgaatggcaccgcgttgtgctg
+            ttcggcaaactggcagaagtggcgagcgaatatctgcgtaaaggttctcaggtttatatc
+            gaaggtcagctgcgtacccgtaaatggaccgatcaatccggtcaggatcgctacaccaca
+            gaagtcgtggtgaacgttggcggcaccatgcagatgctgggtggtcgtcagggtggtggc
+            gctccggcaggtggcaatatcggtggtggtcagccgcagggcggttggggtcagcctcag
+            cagccgcagggtggcaatcagttcagcggcggcgcgcagtctcgcccgcagcagtccgct
+            ccggcagcgccgtctaacgagccgccgatggactttgatgatgacattccgttctga
+///

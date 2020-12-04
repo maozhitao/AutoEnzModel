@@ -1,0 +1,54 @@
+ENTRY       b0315             CDS       T00007
+NAME        pdeL
+DEFINITION  (RefSeq) DNA-binding transcriptional activator/c-di-GMP phosphodiesterase PdeL
+ORTHOLOGY   K13244  c-di-GMP-specific phosphodiesterase [EC:3.1.4.52]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0315 (pdeL)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.4  Phosphoric-diester hydrolases
+                3.1.4.52  cyclic-guanylate-specific phosphodiesterase
+                 b0315 (pdeL)
+POSITION    332371..333459
+MOTIF       Pfam: EAL GerE HTH_40 HTH_38 Hom_end HTH_23
+DBLINKS     NCBI-GeneID: 947459
+            NCBI-ProteinID: NP_414849
+            Pasteur: yahA
+            RegulonDB: ECK120001214
+            ASAP: ABE-0001086
+            UniProt: P21514
+STRUCTURE   PDB: 4LJ3 4KIE 4LYK
+AASEQ       362
+            MNSCDFRVFLQEFGTTVHLSLPGSVSEKERLLLKLLMQGMSVTEISQYRNRSAKTISHQK
+            KQLFEKLGIQSDITFWRDIFFQYNPEIISATGSNSHRYINDNHYHHIVTPEAISLALENH
+            EFKPWIQPVFCAQTGVLTGCEVLVRWEHPQTGIIPPDQFIPLAESSGLIVIMTRQLMKQT
+            ADILMPVKHLLPDNFHIGINVSAGCFLAAGFEKECLNLVNKLGNDKIKLVLELTERNPIP
+            VTPEARAIFDSLHQHNITFALDDFGTGYATYRYLQAFPVDFIKIDKSFVQMASVDEISGH
+            IVDNIVELARKPGLSIVAEGVETQEQADLMIGKGVHFLQGYLYSPPVPGNKFISEWVMKA
+            GG
+NTSEQ       1089
+            atgaattcatgtgattttcgtgtttttctgcaagagttcggtacaacggttcatttgtca
+            ttgcctggtagcgtatccgagaaagaacgactgctactcaagctgctgatgcagggaatg
+            tctgtaacagaaatatcacagtacagaaatcgcagtgcaaagacaatttcacatcaaaag
+            aaacagctctttgagaaactggggattcagagcgatattactttctggcgcgatattttc
+            tttcagtacaatccggagatcatatccgccacggggagtaatagtcacagatatattaat
+            gataatcactatcaccatatcgtcacgcctgaagccatcagtctggcgttggaaaaccac
+            gaattcaaaccgtggatccaaccggttttctgcgcgcagactggcgtactgacgggctgt
+            gaggtgcttgtccgctgggaacatccacaaacgggaattatcccaccggatcagtttatt
+            cctctggcggagtcatccggtcttattgtcataatgacccgccaactgatgaaacagact
+            gcggatattctgatgccggtaaaacatttgctgccggacaatttccatattggcatcaac
+            gtctcggcgggttgttttttggcagcgggatttgaaaaagagtgtctgaacctggttaat
+            aaattaggtaacgataaaatcaagctggttctcgagctaacggaacgtaaccctattccg
+            gtaacgccagaagccagagcgatatttgacagccttcatcagcacaacattacctttgcg
+            ctggatgactttggtacgggttatgcgacctatcgttacttgcaggcgttcccggtcgat
+            tttattaagatcgataagtcatttgtgcaaatggcgagtgtcgacgaaatctccggtcat
+            attgtggacaatattgtcgaactagcgcgtaagcctggtctgagtatcgtggcggaaggg
+            gtagaaacccaggagcaggcggatttaatgatcggtaaaggcgttcactttttgcagggc
+            tatttgtactctccgccagtaccgggtaataaatttatctctgaatgggtaatgaaagca
+            ggtggttga
+///

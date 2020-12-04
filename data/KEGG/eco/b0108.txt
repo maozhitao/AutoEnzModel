@@ -1,0 +1,38 @@
+ENTRY       b0108             CDS       T00007
+NAME        ppdD
+DEFINITION  (RefSeq) prepilin peptidase-dependent protein
+ORTHOLOGY   K02682  prepilin peptidase dependent protein D
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b0108 (ppdD)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              Type IVa pilus homolog protein
+               b0108 (ppdD)
+POSITION    complement(117109..117549)
+MOTIF       Pfam: N_methyl Pilin
+DBLINKS     NCBI-GeneID: 945817
+            NCBI-ProteinID: NP_414650
+            Pasteur: ppdD
+            RegulonDB: ECK120002012
+            ECOCYC: EG12107
+            ASAP: ABE-0000372
+            UniProt: P36647
+STRUCTURE   PDB: 6GV9 6GMS
+AASEQ       146
+            MDKQRGFTLIELMVVIGIIAILSAIGIPAYQNYLRKAALTDMLQTFVPYRTAVELCALEH
+            GGLDTCDGGSNGIPSPTTTRYVSAMSVAKGVVSLTGQESLNGLSVVMTPGWDNANGVTGW
+            TRNCNIQSDSALQQACEDVFRFDDAN
+NTSEQ       441
+            atggacaagcaacgcggttttacacttatcgaactgatggtggttattggcatcattgcc
+            attttaagcgccattggtattcccgcttatcaaaactacctgcgcaaagccgcactcacc
+            gacatgctacaaacctttgtgccttaccgtaccgccgtagagttgtgcgcgctggaacat
+            ggtggattagatacctgcgacggtggcagcaatggcattccctcgcctaccaccacccgc
+            tatgtttcagccatgagtgtggcaaagggcgtggtgtcgctgaccgggcaagaaagtctc
+            aatgggctaagcgtcgtcatgacaccgggttgggataacgcaaacggcgtcaccggctgg
+            acgcgcaactgcaatattcaaagtgacagcgcattgcagcaagcctgcgaagatgtcttc
+            cgctttgatgacgccaactaa
+///

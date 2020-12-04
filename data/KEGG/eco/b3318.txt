@@ -1,0 +1,47 @@
+ENTRY       b3318             CDS       T00007
+NAME        rplW
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L23
+ORTHOLOGY   K02892  large subunit ribosomal protein L23
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3318 (rplW)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3318 (rplW)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b3318 (rplW)
+              Bacteria
+                b3318 (rplW)
+              Archaea
+                b3318 (rplW)
+POSITION    complement(3451382..3451684)
+MOTIF       Pfam: Ribosomal_L23 ubiquitin WHEP-TRS DnaJ
+DBLINKS     NCBI-GeneID: 947819
+            NCBI-ProteinID: NP_417777
+            Pasteur: rplW
+            RegulonDB: ECK120000874
+            ECOCYC: EG10883
+            ASAP: ABE-0010856
+            UniProt: P0ADZ0
+STRUCTURE   PDB: 6QUL 6S0K 6I0Y 6FU8 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH
+                 4UY8 3J7Z 6GC4 6GC6 6GC7 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L
+                 2J28 2RDO 3J45 3BBX 3J46 3IY9 2VRH
+AASEQ       100
+            MIREERLLKVLRAPHVSEKASTAMEKSNTIVLKVAKDATKAEIKAAVQKLFEVEVEVVNT
+            LVVKGKVKRHGQRIGRRSDWKKAYVTLKEGQNLDFVGGAE
+NTSEQ       303
+            atgattcgtgaagaacgtctgctgaaggtgctgcgtgcaccgcacgtttctgaaaaagcg
+            tctactgcgatggaaaaatccaacaccatcgtactcaaagttgctaaagacgcgaccaaa
+            gcagaaatcaaagctgctgtgcagaaactgtttgaagtcgaagtcgaagtcgttaacacc
+            ctggtagttaaagggaaagttaaacgtcacggacagcgtatcggtcgtcgtagcgactgg
+            aaaaaagcttacgtcaccctgaaagaaggccagaatctggacttcgttggcggcgctgag
+            taa
+///

@@ -1,0 +1,71 @@
+ENTRY       b1201             CDS       T00007
+NAME        dhaR
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator DhaR
+ORTHOLOGY   K05880  transcriptional activator for dhaKLM operon
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1201 (dhaR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Other transcription factors
+               Others
+                b1201 (dhaR)
+POSITION    1251066..1252985
+MOTIF       Pfam: Sigma54_activat Sigma54_activ_2 HTH_8 PAS PAS_4 GAF PAS_8 PAS_7 AAA_16 DUF3361 AAA AAA_7 AAA_5 HTH_50 HTH_17 RWP-RK
+DBLINKS     NCBI-GeneID: 945743
+            NCBI-ProteinID: NP_415719
+            Pasteur: ycgU
+            RegulonDB: ECK120003223
+            ECOCYC: G6628
+            ASAP: ABE-0004033
+            UniProt: P76016
+STRUCTURE   PDB: 4LRZ 4LRY 4LRX
+AASEQ       639
+            MSGAFNNDGRGISPLIATSWERCNKLMKRETWNVPHQAQGVTFASIYRRKKAMLTLGQAA
+            LEDAWEYMAPRECALFILDETACILSRNGDPQTLQQLSALGFNDGTYCAEGIIGTCALSL
+            AAISGQAVKTMADQHFKQVLWNWAFCATPLFDSKGRLTGTIALACPVEQTTAADLPLTLA
+            IAREVGNLLLTDSLLAETNRHLNQLNALLESMDDGVISWDEQGNLQFINAQAARVLRLDA
+            TASQGRAITELLTLPAVLQQAIKQAHPLKHVEATFESQHQFIDAVITLKPIIETQGTSFI
+            LLLHPVEQMRQLMTSQLGKVSHTFAHMPQDDPQTRRLIHFGRQAARSSFPVLLCGEEGVG
+            KALLSQAIHNESERAAGPYIAVNCELYGDAALAEEFIGGDRTDNENGRLSRLELAHGGTL
+            FLEKIEYLAVELQSALLQVIKQGVITRLDARRLIPIDVKVIATTTADLAMLVEQNRFSRQ
+            LYYALHAFEITIPPLRMRRGSIPALVNNKLRSLEKRFSTRLKIDDDALARLVSCAWPGND
+            FELYSVIENLALSSDNGRIRVSDLPEHLFTEQATDDVSATRLSTSLSFAEVEKEAIINAA
+            QVTGGRIQEMSALLGIGRTTLWRKMKQHGIDAGQFKRRV
+NTSEQ       1920
+            atgagtggcgcttttaacaacgatggtcggggcatatctcccttaattgcaacctcctgg
+            gagcgatgcaataagctgatgaaacgggagacatggaacgtaccacatcaggcccagggc
+            gtgacatttgcttctatttatcggcgtaagaaagcgatgctgacgctcgggcaggctgcg
+            ctggaagatgcctgggaatatatggcaccgcgagagtgtgcgctgtttatcctcgatgaa
+            accgcctgcattctcagccgtaatggcgatccgcaaaccttgcagcagctaagtgcactg
+            ggattcaatgacggcacgtattgcgccgagggaattattggtacttgtgcgctatcgtta
+            gcggctatctctggtcaggccgtgaaaacgatggccgatcaacatttcaaacaggtactc
+            tggaactgggccttttgtgcaacgccgttgtttgacagcaagggccgattgacgggaaca
+            atagcgctggcgtgtccggttgagcaaactaccgcagctgatttgccgttgacgttggca
+            atcgcccgcgaggtcggaaatttactgctgacggacagtttgctcgctgaaactaaccgt
+            catttaaatcaacttaatgccctgttagaaagtatggatgatggcgtgattagctgggac
+            gagcagggtaatttgcaatttattaatgcccaggcggcgcgggtcttgcgccttgacgcg
+            acggcaagtcagggacgggcaatcactgaactcttaacgttacccgccgtattgcaacaa
+            gcaataaaacaggcacatccgctcaaacacgtagaagcaacctttgaaagccagcaccag
+            tttattgatgcggtgataacccttaaaccgataatagaaacgcagggaaccagctttatt
+            ttgttgctccatcctgtggaacagatgcggcagttgatgaccagtcaattaggaaaagtc
+            agccataccttcgctcatatgccacaggacgatccgcaaacccgccgcttgattcatttt
+            ggtcgccaggcggcgcgcagtagctttcctgtcctgctttgtggagaagagggcgtgggc
+            aaggcactgctaagtcaggcaattcataatgaaagcgagcgtgctgcaggtccttatatc
+            gccgtcaattgtgagttatatggtgatgctgcgctggcggaagaatttattggtggcgat
+            cgcacggacaatgaaaatggccgtctgagtcggctggaactggcacacggcggcacgctg
+            tttcttgaaaagattgaatatctggcggtggagttacagtctgctttgcttcaggttatc
+            aagcagggggttatcacgcgactggatgcgcggcgtttaataccaattgatgtcaaagtg
+            attgcaacaacgaccgcggacctcgcaatgctggtggaacaaaatcgttttagtcgccag
+            ctgtattacgcgctgcatgcatttgaaattaccatcccgcctctgcgtatgcggcgtggc
+            agcattccggcgctggtgaataacaaattacgcagtcttgaaaaacgcttctctacgcgg
+            ctgaaaattgatgacgatgccctcgctcgcctggtttcttgtgcatggccaggcaacgat
+            tttgaactttacagcgtcatcgagaatcttgctctgagtagtgataacgggcgcattcgc
+            gtcagtgatttgccggaacatctgtttaccgagcaggcgacagatgatgtcagcgccacc
+            cgcctttccaccagtctgtcatttgcggaagttgaaaaagaggcaattattaacgcagcc
+            caggtcacaggcggtcgcattcaggaaatgtcggctttacttgggatcggccgcactacg
+            ctgtggcggaaaatgaagcaacatggcattgatgcagggcagtttaagcgccgggtatga
+///

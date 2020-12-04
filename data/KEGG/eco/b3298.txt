@@ -1,0 +1,44 @@
+ENTRY       b3298             CDS       T00007
+NAME        rpsM
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S13
+ORTHOLOGY   K02952  small subunit ribosomal protein S13
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3298 (rpsM)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3298 (rpsM)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Bacteria
+               Small subunit
+                b3298 (rpsM)
+              Archaea
+                b3298 (rpsM)
+POSITION    complement(3442115..3442471)
+MOTIF       Pfam: Ribosomal_S13 FbpA
+DBLINKS     NCBI-GeneID: 947791
+            NCBI-ProteinID: NP_417757
+            Pasteur: rpsM
+            RegulonDB: ECK120000903
+            ECOCYC: EG10912
+            ASAP: ABE-0010809
+            UniProt: P0A7S9
+STRUCTURE   PDB: 6O7K 5NO2 5NO3 5NO4 5UZ4 5MY1 3IYX 2YKR 3IYY 5ME0 5ME1
+                 4ADV 4A2I
+AASEQ       118
+            MARIAGINIPDHKHAVIALTSIYGVGKTRSKAILAAAGIAEDVKISELSEGQIDTLRDEV
+            AKFVVEGDLRREISMSIKRLMDLGCYRGLRHRRGLPVRGQRTKTNARTRKGPRKPIKK
+NTSEQ       357
+            gtggcccgtatagcaggcattaacattcctgatcataagcatgccgtaatcgcattaact
+            tcgatttatggcgtcggcaagacccgttctaaagccatcctggctgcagcgggtatcgct
+            gaagatgttaagatcagtgagctgtctgaaggacaaatcgacacgctgcgtgacgaagtt
+            gccaaatttgtcgttgaaggtgatctgcgccgtgaaatcagcatgagcatcaagcgcctg
+            atggatcttggttgctatcgcggtttgcgtcatcgtcgtggtctcccggttcgcggtcag
+            cgtaccaagaccaacgcacgtacccgtaagggtccgcgcaaaccgatcaagaaataa
+///

@@ -1,0 +1,47 @@
+ENTRY       b0506             CDS       T00007
+NAME        allR
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor AllR
+ORTHOLOGY   K10973  IclR family transcriptional regulator, negative regulator of allantoin and glyoxylate utilization operons
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0506 (allR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               IclR family
+                b0506 (allR)
+POSITION    533011..533826
+MOTIF       Pfam: IclR HTH_IclR HTH_5 MarR_2 HTH_24
+DBLINKS     NCBI-GeneID: 945333
+            NCBI-ProteinID: NP_415039
+            Pasteur: ybbU
+            RegulonDB: ECK120002884
+            ECOCYC: G6276
+            ASAP: ABE-0001750
+            UniProt: P0ACN4
+STRUCTURE   PDB: 1TF1
+AASEQ       271
+            MTEVRRRGRPGQAEPVAQKGAQALERGIAILQYLEKSGGSSSVSDISLNLDLPLSTTFRL
+            LKVLQAADFVYQDSQLGWWHIGLGVFNVGAAYIHNRDVLSVAGPFMRRLMLLSGETVNVA
+            IRNGNEAVLIGQLECKSMVRMCAPLGSRLPLHASGAGKALLYPLAEEELMSIILQTGLQQ
+            FTPTTLVDMPTLLKDLEQARELGYTVDKEEHVVGLNCIASAIYDDVGSVVAAISISGPSS
+            RLTEDRFVSQGELVRDTARDISTALGLKAHP
+NTSEQ       816
+            atgacggaagttagacggcgcggcaggccaggacaggcggagcctgtggcacagaagggc
+            gcacaggcgttagagcggggaattgcgattctgcaatatttggaaaaaagtgggggaagt
+            tcgtcggttagcgatatttctctcaatctggatttgccgctctccacgacctttcgcttg
+            ctgaaggttttacaggcagcggattttgtctatcaggacagtcaattaggctggtggcat
+            ataggattaggtgtctttaacgtcggtgcggcgtacatccataaccgcgatgtcctctcc
+            gtcgccgggccgtttatgcgccgcctgatgttactttccggcgaaacggtcaatgtcgcg
+            atccgtaacggcaatgaagcggtattaattggtcagttagagtgtaaatcgatggtcagg
+            atgtgtgcgccactgggcagtcgtctgccactgcatgcttccggtgcgggcaaagcgctg
+            ctttatccgctggcggaagaggagttgatgagcatcattctgcaaaccggtttgcagcag
+            tttacgccaactacgcttgtggatatgcccaccttgctgaaggacctggaacaagcgcgt
+            gaactgggctataccgtagataaagaagagcatgttgtaggtctgaattgcatagcttca
+            gcaatttacgatgatgtcggtagtgttgttgccgctatctccatctccgggccttcatca
+            agactgacagaagatcgttttgtcagtcagggtgagctggtcagagacaccgcccgcgat
+            atcagcacggcgttgggactgaaagcacatccataa
+///

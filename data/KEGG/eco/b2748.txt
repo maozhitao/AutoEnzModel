@@ -1,0 +1,36 @@
+ENTRY       b2748             CDS       T00007
+NAME        ftsB
+DEFINITION  (RefSeq) cell division protein FtsB
+ORTHOLOGY   K05589  cell division protein FtsB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b2748 (ftsB)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Divisome proteins
+                b2748 (ftsB)
+POSITION    complement(2872509..2872820)
+MOTIF       Pfam: DivIC
+DBLINKS     NCBI-GeneID: 946033
+            NCBI-ProteinID: NP_417228
+            Pasteur: ygbQ
+            RegulonDB: ECK120003989
+            ECOCYC: G7424
+            ASAP: ABE-0009019
+            UniProt: P0A6S5
+STRUCTURE   PDB: 6H9N 6H9O 5Z2W
+AASEQ       103
+            MGKLTLLLLAILVWLQYSLWFGKNGIHDYTRVNDDVAAQQATNAKLKARNDQLFAEIDDL
+            NGGQEALEERARNELSMTRPGETFYRLVPDASKRAQSAGQNNR
+NTSEQ       312
+            atgggtaaactaacgctgctgttgctggctattctggtctggctacagtattcgctgtgg
+            ttcggtaagaacggtatacatgactatacccgcgtcaatgatgatgtggcggcacagcaa
+            gctacaaacgcgaaacttaaagcgcgaaacgatcaactttttgccgaaattgacgatctc
+            aatggcggccaggaggcgctcgaagagcgtgcgcgtaatgaactcagcatgaccaggccg
+            ggcgaaactttttatcgtctggtgcctgacgcgtcgaagcgcgcacagtctgcggggcaa
+            aacaatcgataa
+///

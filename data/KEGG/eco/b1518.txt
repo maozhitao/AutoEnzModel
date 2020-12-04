@@ -1,0 +1,37 @@
+ENTRY       b1518             CDS       T00007
+NAME        lsrG
+DEFINITION  (RefSeq) (4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase
+ORTHOLOGY   K11530  (4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase [EC:5.3.1.32]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02024  Quorum sensing
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b1518 (lsrG)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.3  Intramolecular oxidoreductases
+               5.3.1  Interconverting aldoses and ketoses, and related compounds
+                5.3.1.32  (4S)-4-hydroxy-5-phosphooxypentane-2,3-dione isomerase
+                 b1518 (lsrG)
+POSITION    1606999..1607289
+MOTIF       Pfam: ABM
+DBLINKS     NCBI-GeneID: 946073
+            NCBI-ProteinID: NP_416035
+            Pasteur: yneC
+            RegulonDB: ECK120003394
+            ECOCYC: G6805
+            ASAP: ABE-0005067
+            UniProt: P64461
+STRUCTURE   PDB: 3QMQ
+AASEQ       96
+            MHVTLVEINVHEDKVDEFIEVFRQNHLGSVQEEGNLRFDVLQDPEVNSRFYIYEAYKDED
+            AVAFHKTTPHYKTCVAKLESLMTGPRKKRLFNGLMP
+NTSEQ       291
+            atgcacgtcacactggttgaaattaacgttcatgaagacaaggttgacgagtttatcgaa
+            gtttttcgccagaaccacctgggctctgtacaggaagaaggcaatttgcgcttcgatgtc
+            ttacaggacccggaagtgaattcgcgcttttatatctacgaagcctataaagatgaagac
+            gcagtggcgttccataaaaccacgccccactacaaaacctgtgtcgcgaaactggaatct
+            ttaatgaccgggccgcgtaaaaaacgtctgttcaatggtttgatgccgtga
+///

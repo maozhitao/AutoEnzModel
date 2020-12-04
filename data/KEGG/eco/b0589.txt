@@ -1,0 +1,55 @@
+ENTRY       b0589             CDS       T00007
+NAME        fepG
+DEFINITION  (RefSeq) ferric enterobactin ABC transporter membrane subunit FepG
+ORTHOLOGY   K23187  ferric enterobactin transport system permease protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b0589 (fepG)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0589 (fepG)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Metallic cation, iron-siderophore and vitamin B12 transporters
+               Ferric enterobactin transporter
+                b0589 (fepG)
+POSITION    complement(620196..621188)
+MOTIF       Pfam: FecCD
+DBLINKS     NCBI-GeneID: 945209
+            NCBI-ProteinID: NP_415121
+            Pasteur: fepG
+            RegulonDB: ECK120000292
+            ECOCYC: EG10298
+            ASAP: ABE-0002027
+            UniProt: P23877
+AASEQ       330
+            MIYVSRRLLITCLLLVSACVVAGIWGLRSGAVTLETSQVFAALMGDAPRSMTMVVTEWRL
+            PRVLMALLIGAALGVSGAIFQSLMRNPLGSPDVMGFNTGAWSGVLVAMVLFGQDLTAIAL
+            SAMVGGIVTSLLVWLLAWRNGIDTFRLIIIGIGVRAMLVAFNTWLLLKASLETALTAGLW
+            NAGSLNGLTWAKTSPSAPIIILMLIAAALLVRRMRLLEMGDDTACALGVSVERSRLLMML
+            VAVVLTAAATALAGPISFIALVAPHIARRISGTARWGLTQAALCGALLLLAADLCAQQLF
+            MPYQLPVGVVTVSLGGIYLIVLLIQESRKK
+NTSEQ       993
+            atgatttacgtctctcgccgattactcatcacctgtttgctgctggtttccgcctgtgtg
+            gttgcaggtatctggggattacgcagcggtgccgtcacgctggaaacctcgcaggtattc
+            gccgcgctgatgggcgatgcgccgcgcagtatgacgatggtggtcaccgaatggcgttta
+            ccacgcgtgctgatggcgctgttgattggcgcagcactgggcgtcagtggcgcgattttt
+            cagtcgctgatgcgtaacccgctcggcagccctgacgtaatgggctttaacaccggggcg
+            tggagcggcgtgctggtggcgatggtgctgtttggtcaggacctgacggctatcgcgctg
+            tcagcaatggtgggcggcattgtcacttcgctgctggtctggctgctcgcctggcgcaac
+            ggcatcgacacctttcggttgattattatcggtatcggcgttcgcgccatgctggtggcc
+            tttaatacctggctgttgctgaaagcgtctttagaaacggcgctaacagcaggtttgtgg
+            aatgccggatcgctcaacggcctgacgtgggcaaaaacctcgccttccgcacccatcatt
+            atattgatgctcattgccgccgccttactggtacgccggatgcgcttgctggaaatgggc
+            gatgataccgcgtgtgcgctgggcgtcagcgtcgaacgttcgcgtctgttaatgatgctg
+            gttgcagtggtgcttaccgctgcggcaacagcgcttgccgggccgatttcctttattgct
+            ttagtcgcaccgcacattgcccgacgcattagcggcaccgctcgctgggggctaacccag
+            gcggcgctatgcggggcgctgttactgctggcggccgatctctgcgcccaacaactgttt
+            atgccgtatcaacttccggttggcgtcgttaccgtcagcctcggcggtatttaccttatc
+            gtcttgttaattcaggagtctcgcaaaaaatga
+///

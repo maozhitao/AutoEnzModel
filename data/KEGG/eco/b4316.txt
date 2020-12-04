@@ -1,0 +1,59 @@
+ENTRY       b4316             CDS       T00007
+NAME        fimC
+DEFINITION  (RefSeq) type 1 fimbriae periplasmic chaperone
+ORTHOLOGY   K07346  fimbrial chaperone protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b4316 (fimC)
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b4316 (fimC)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b4316 (fimC)
+            Chaperones and folding catalysts [BR:eco03110]
+             Other chaperones and cochaperones
+              PapD
+               b4316 (fimC)
+            Secretion system [BR:eco02044]
+             Chaperone-usher system
+              Type 1 pilus assembly protein
+               b4316 (fimC)
+            Bacterial motility proteins [BR:eco02035]
+             Pilus system
+              Fimbrial proteins
+               b4316 (fimC)
+POSITION    4544304..4545029
+MOTIF       Pfam: PapD_N PapD_C
+DBLINKS     NCBI-GeneID: 948843
+            NCBI-ProteinID: NP_418736
+            Pasteur: fimC
+            RegulonDB: ECK120000304
+            ECOCYC: EG10310
+            ASAP: ABE-0014149
+            UniProt: P31697
+STRUCTURE   PDB: 3BWU 1ZE3 4DWH 3JWN 1KLF 3RFZ 1QUN 1KIU 3SQB 4J3O 6E14
+                 6E15 1BF8
+AASEQ       241
+            MSNKNVNVRKSQEITFCLLAGILMFMAMMVAGRAEAGVALGATRVIYPAGQKQEQLAVTN
+            NDENSTYLIQSWVENADGVKDGRFIVTPPLFAMKGKKENTLRILDATNNQLPQDRESLFW
+            MNVKAIPSMDKSKLTENTLQLAIISRIKLYYRPAKLALPPDQAAEKLRFRRSANSLTLIN
+            PTPYYLTVTELNAGTRVLENALVPPMGESTVKLPSDAGSNITYRTINDYGALTPKMTGVM
+            E
+NTSEQ       726
+            gtgagtaataaaaacgtcaatgtaaggaaatcgcaggaaataacattctgcttgctggca
+            ggtatcctgatgttcatggcaatgatggttgccggacgcgctgaagcgggagtggcctta
+            ggtgcgactcgcgtaatttatccggcagggcaaaaacaagagcaacttgccgtgacaaat
+            aatgatgaaaatagtacctatttaattcaatcatgggtggaaaatgccgatggtgtaaag
+            gatggtcgttttatcgtgacgcctcctctgtttgcgatgaagggaaaaaaagagaatacc
+            ttacgtattcttgatgcaacaaataaccaattgccacaggaccgggaaagtttattctgg
+            atgaacgttaaagcgattccgtcaatggataaatcaaaattgactgagaatacgctacag
+            ctcgcaattatcagccgcattaaactgtactatcgcccggctaaattagcgttgccaccc
+            gatcaggccgcagaaaaattaagatttcgtcgtagcgcgaattctctgacgctgattaac
+            ccgacaccctattacctgacggtaacagagttgaatgccggaacccgggttcttgaaaat
+            gcattggtgcctccaatgggcgaaagcacggttaaattgccttctgatgcaggaagcaat
+            attacttaccgaacaataaatgattatggcgcacttacccccaaaatgacgggcgtaatg
+            gaataa
+///

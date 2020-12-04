@@ -1,0 +1,50 @@
+ENTRY       b3301             CDS       T00007
+NAME        rplO
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L15
+ORTHOLOGY   K02876  large subunit ribosomal protein L15
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3301 (rplO)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3301 (rplO)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b3301 (rplO)
+              Bacteria
+                b3301 (rplO)
+              Archaea
+                b3301 (rplO)
+POSITION    complement(3444105..3444539)
+MOTIF       Pfam: Ribosomal_L27A Ribosomal_L18
+DBLINKS     NCBI-GeneID: 947798
+            NCBI-ProteinID: NP_417760
+            Pasteur: rplO
+            RegulonDB: ECK120000867
+            ECOCYC: EG10876
+            ASAP: ABE-0010819
+            UniProt: P02413
+STRUCTURE   PDB: 6QUL 6S0K 6I0Y 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH 4UY8
+                 3J7Z 6GC4 6GC6 6GC7 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L 2J28
+                 2RDO 3BBX 3IY9
+AASEQ       144
+            MRLNTLSPAEGSKKAGKRLGRGIGSGLGKTGGRGHKGQKSRSGGGVRRGFEGGQMPLYRR
+            LPKFGFTSRKAAITAEIRLSDLAKVEGGVVDLNTLKAANIIGIQIEFAKVILAGEVTTPV
+            TVRGLRVTKGARAAIEAAGGKIEE
+NTSEQ       435
+            atgcgtttaaatactctgtctccggccgaaggctccaaaaaggcgggtaaacgcctgggt
+            cgtggtatcggttctggcctcggtaaaaccggtggtcgtggtcacaaaggtcagaagtct
+            cgttctggcggtggcgtacgtcgcggtttcgagggtggtcagatgcctctgtaccgtcgt
+            ctgccgaaattcggcttcacttctcgtaaagcagcgattacagccgaaattcgtctgtct
+            gacctggctaaagtagaaggcggtgtagtagacctgaacacgctgaaagcggctaacatt
+            atcggtatccagatcgagttcgcgaaagtgatcctggctggcgaagtaacgactccggta
+            actgttcgtggcctgcgtgttactaaaggcgctcgtgctgctatcgaagctgctggcggt
+            aaaatcgaggaataa
+///

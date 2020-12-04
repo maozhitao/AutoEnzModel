@@ -1,0 +1,51 @@
+ENTRY       b4051             CDS       T00007
+NAME        qorA
+DEFINITION  (RefSeq) putative quinone oxidoreductase 1
+ORTHOLOGY   K00344  NADPH:quinone reductase [EC:1.6.5.5]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b4051 (qorA)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.6  Acting on NADH or NADPH
+               1.6.5  With a quinone or similar compound as acceptor
+                1.6.5.5  NADPH:quinone reductase
+                 b4051 (qorA)
+POSITION    complement(4263248..4264231)
+MOTIF       Pfam: ADH_zinc_N ADH_zinc_N_2 ADH_N
+DBLINKS     NCBI-GeneID: 948556
+            NCBI-ProteinID: NP_418475
+            Pasteur: qor
+            RegulonDB: ECK120001448
+            ASAP: ABE-0013262
+            UniProt: P28304
+STRUCTURE   PDB: 1QOR
+AASEQ       327
+            MATRIEFHKHGGPEVLQAVEFTPADPAENEIQVENKAIGINFIDTYIRSGLYPPPSLPSG
+            LGTEAAGIVSKVGSGVKHIKAGDRVVYAQSALGAYSSVHNIIADKAAILPAAISFEQAAA
+            SFLKGLTVYYLLRKTYEIKPDEQFLFHAAAGGVGLIACQWAKALGAKLIGTVGTAQKAQS
+            ALKAGAWQVINYREEDLVERLKEITGGKKVRVVYDSVGRDTWERSLDCLQRRGLMVSFGN
+            SSGAVTGVNLGILNQKGSLYVTRPSLQGYITTREELTEASNELFSLIASGVIKVDVAEQQ
+            KYPLKDAQRAHEILESRATQGSSLLIP
+NTSEQ       984
+            atggcaacacgaattgaatttcacaagcacggtggcccggaagtacttcaagccgtagag
+            ttcactcctgccgatccggcggagaatgaaatccaggtcgaaaataaagccatcggcatc
+            aattttatcgacacatatatccgcagcggcctttacccgccgccatcgctacccagcgga
+            ttaggcaccgaagcagcaggcatcgtgagtaaagtcggcagtggtgtaaagcatattaag
+            gcaggcgatcgtgtagtctatgcgcagtcggcgttaggcgcttacagctctgtgcataac
+            attattgcggataaagcggcgattctgcctgcggcaatttcttttgagcaagctgcggca
+            tccttcctgaaaggcttaacggtttattatctgctgcgcaaaacctatgaaattaaaccc
+            gatgaacagttcctgttccacgcagcggctggcggcgttggcttaattgcctgccagtgg
+            gcaaaagccctgggcgcgaaacttatcggcaccgtaggaaccgcgcaaaaagcgcagagc
+            gcgctaaaagcgggcgcgtggcaggttattaactatcgtgaagaggatctggtcgagcgg
+            ttaaaagagatcaccggcggtaagaaagtgcgcgtggtgtacgattccgtgggcagagac
+            acctgggaacggtcgctggattgcctgcaacgccgcggcttaatggtcagttttggcaac
+            tcatcaggtgcggttaccggtgtgaacttaggcattctcaatcaaaaaggctcgttgtat
+            gtgacacgcccttccctgcaaggctatatcaccacgcgggaggaattaaccgaggccagt
+            aatgaactgttctctttgattgccagcggtgtgattaaggtcgatgtcgccgagcagcag
+            aaatatccgctgaaggatgcgcagcgtgcgcatgagattctggaaagccgggcgacgcaa
+            ggttccagcctgctgattccataa
+///

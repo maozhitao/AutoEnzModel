@@ -1,0 +1,69 @@
+ENTRY       b2523             CDS       T00007
+NAME        pepB
+DEFINITION  (RefSeq) aminopeptidase B
+ORTHOLOGY   K07751  PepB aminopeptidase [EC:3.4.11.23]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00480  Glutathione metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09106 Metabolism of other amino acids
+               00480 Glutathione metabolism
+                b2523 (pepB)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b2523 (pepB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.11  Aminopeptidases
+                3.4.11.23  PepB aminopeptidase
+                 b2523 (pepB)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M17: leucyl aminopeptidase family
+               b2523 (pepB)
+POSITION    complement(2655075..2656358)
+MOTIF       Pfam: Peptidase_M17 DUF3663
+DBLINKS     NCBI-GeneID: 948766
+            NCBI-ProteinID: NP_417018
+            Pasteur: pepB
+            RegulonDB: ECK120002187
+            ECOCYC: EG12310
+            ASAP: ABE-0008305
+            UniProt: P37095
+STRUCTURE   PDB: 6OAD 6OV8
+AASEQ       427
+            MTEAMKITLSTQPADARWGEKATYSINNDGITLHLNGADDLGLIQRAARKIDGLGIKHVQ
+            LSGEGWDADRCWAFWQGYKAPKGTRKVVWPDLDDAQRQELDNRLMIIDWVRDTINAPAEE
+            LGPSQLAQRAVDLISNVAGDRVTYRITKGEDLREQGYMGLHTVGRGSERSPVLLALDYNP
+            TGDKEAPVYACLVGKGITFDSGGYSIKQTAFMDSMKSDMGGAATVTGALAFAITRGLNKR
+            VKLFLCCADNLISGNAFKLGDIITYRNGKKVEVMNTDAEGRLVLADGLIDASAQKPEMII
+            DAATLTGAAKTALGNDYHALFSFDDALAGRLLASAAQENEPFWRLPLAEFHRSQLPSNFA
+            ELNNTGSAAYPAGASTAAGFLSHFVENYQQGWLHIDCSATYRKAPVEQWSAGATGLGVRT
+            IANLLTA
+NTSEQ       1284
+            atgacagaagcgatgaagattaccctctctacccaacctgccgacgcgcgctggggagaa
+            aaagcaacttacagcattaataatgacggcattaccctgcatttgaacggggcagacgat
+            ctggggctgatccagcgtgcggcgcgcaagattgacggtctgggcatcaagcatgttcag
+            ttaagcggtgaaggctgggatgcggatcgctgctgggcattctggcaaggttacaaagcc
+            ccgaaaggcacgcgtaaagtggtgtggccggatctggacgatgcccagcgccaggaactg
+            gataaccgcctgatgatcatcgactgggtgcgtgacaccatcaacgcaccggcagaagaa
+            ttgggaccatcgcaactggcacagcgtgctgttgatctgatcagcaacgtcgcgggcgat
+            cgtgtgacttatcggatcaccaaaggcgaagatctgcgtgagcaaggttatatggggctg
+            cacacagtcggacgcggttcagaacgttctccggtattgctggcgctggattacaaccca
+            actggcgataaagaagcgccagtgtacgcgtgcctggtaggtaaaggtatcacttttgac
+            tccggcggctacagcatcaaacagactgcgtttatggactcgatgaagtcggacatgggc
+            ggcgcggcaacggttaccggggcgctggcatttgccattacgcgcggactgaacaagcgc
+            gtgaagctgttcctctgctgtgcggataacctgattagcggcaatgcgttcaagctgggc
+            gatatcatcacctatcgcaacggtaaaaaagttgaagtgatgaacactgatgccgaaggg
+            cgtctggtgcttgccgatggtctgattgatgccagtgcgcagaaaccggaaatgatcatt
+            gatgcggcgaccctcaccggggcggcgaaaactgcgctgggtaatgattatcacgcgctg
+            ttcagttttgacgatgcgctggccggtcgcttgctggcgagtgccgcgcaggagaacgaa
+            ccgttctggcgtctgccgctggcggagttccaccgcagccagctgccgtctaactttgcc
+            gaactgaacaataccggaagcgcggcgtatccggcaggcgcgagcacggcggcgggcttc
+            ctgtcgcactttgttgagaactatcagcaaggctggctgcatatcgactgctcggcgact
+            taccgtaaagcgccggttgaacagtggtctgcgggcgctacgggacttggtgtgcgcacg
+            atagctaatctgttaacggcgtaa
+///

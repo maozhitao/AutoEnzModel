@@ -1,0 +1,44 @@
+ENTRY       b3185             CDS       T00007
+NAME        rpmA
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L27
+ORTHOLOGY   K02899  large subunit ribosomal protein L27
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3185 (rpmA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3185 (rpmA)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b3185 (rpmA)
+              Bacteria
+                b3185 (rpmA)
+POSITION    complement(3332862..3333119)
+MOTIF       Pfam: Ribosomal_L27
+DBLINKS     NCBI-GeneID: 945190
+            NCBI-ProteinID: NP_417652
+            Pasteur: rpmA
+            RegulonDB: ECK120002561
+            ECOCYC: EG50002
+            ASAP: ABE-0010468
+            UniProt: P0A7L8
+STRUCTURE   PDB: 6QUL 6S0K 6C4H 6I0Y 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH
+                 4UY8 3J7Z 6GC4 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L 2J28 2RDO
+                 3BBX
+AASEQ       85
+            MAHKKAGGSTRNGRDSEAKRLGVKRFGGESVLAGSIIVRQRGTKFHAGANVGCGRDHTLF
+            AKADGKVKFEVKGPKNRKFISIEAE
+NTSEQ       258
+            atggcacataaaaaggctggcggctccacacgtaacggtcgcgattcagaagctaaacgc
+            ctgggcgttaagcgtttcggtggcgaatccgttctggcgggtagcatcatcgttcgtcaa
+            cgtggtaccaaattccacgctggcgctaacgtaggttgcggtcgtgaccacactctgttt
+            gctaaagcagacggtaaagtgaaattcgaagttaaaggcccgaaaaaccgtaaatttatc
+            agcatcgaagctgaataa
+///

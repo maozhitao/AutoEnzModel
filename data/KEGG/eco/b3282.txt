@@ -1,0 +1,56 @@
+ENTRY       b3282             CDS       T00007
+NAME        tsaC
+DEFINITION  (RefSeq) threonylcarbamoyl-AMP synthase
+ORTHOLOGY   K07566  L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b3282 (tsaC)
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b3282 (tsaC)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.87  L-threonylcarbamoyladenylate synthase
+                 b3282 (tsaC)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              Other maturation factors
+               b3282 (tsaC)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              tRNA modification factors
+               Other tRNA modification factors
+                b3282 (tsaC)
+             Prokaryotic type
+                b3282 (tsaC)
+POSITION    complement(3430843..3431415)
+MOTIF       Pfam: Sua5_yciO_yrdC
+DBLINKS     NCBI-GeneID: 947783
+            NCBI-ProteinID: NP_417741
+            Pasteur: yrdC
+            RegulonDB: ECK120004244
+            ECOCYC: G7698
+            ASAP: ABE-0010766
+            UniProt: P45748
+STRUCTURE   PDB: 1HRU 2MX1
+AASEQ       190
+            MNNNLQRDAIAAAIDVLNEERVIAYPTEAVFGVGCDPDSETAVMRLLELKQRPVDKGLIL
+            IAANYEQLKPYIDDTMLTDVQRETIFSRWPGPVTFVFPAPATTPRWLTGRFDSLAVRVTD
+            HPLVVALCQAYGKPLVSTSANLSGLPPCRTVDEVRAQFGAAFPVVPGETGGRLNPSEIRD
+            ALTGELFRQG
+NTSEQ       573
+            gtgaataataacctgcaaagagacgctatcgcagctgcgatagatgttctcaatgaagaa
+            cgtgtcatcgcctatccaacggaagccgttttcggtgttgggtgcgatcctgatagcgaa
+            acagcagtgatgcgactgttggagttaaaacagcgtccggttgataaggggctgatttta
+            atcgcagcaaattacgagcagcttaaaccctatattgatgacaccatgttgactgacgtg
+            cagcgtgaaaccattttttcccgctggccaggtcctgtcacctttgtctttcccgcgcct
+            gcgacaacaccgcgctggttgacgggccgctttgattcgcttgctgtacgagtcaccgac
+            catccgttggtggttgctttgtgccaggcttatggtaaaccgctggtttctaccagtgcc
+            aacttgagtggattgccaccttgtcgaacagtagacgaagttcgcgcacaatttggcgcg
+            gcgttcccggttgtgcctggtgaaacgggggggcgtttaaatccttcagaaatccgcgat
+            gccctgacgggtgaactgtttcgacaggggtaa
+///

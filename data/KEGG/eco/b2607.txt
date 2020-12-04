@@ -1,0 +1,52 @@
+ENTRY       b2607             CDS       T00007
+NAME        trmD
+DEFINITION  (RefSeq) tRNA m(1)G37 methyltransferase
+ORTHOLOGY   K00554  tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b2607 (trmD)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.228  tRNA (guanine37-N1)-methyltransferase
+                 b2607 (trmD)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Methyltransferases
+                b2607 (trmD)
+POSITION    complement(2744572..2745339)
+MOTIF       Pfam: tRNA_m1G_MT
+DBLINKS     NCBI-GeneID: 947099
+            NCBI-ProteinID: NP_417098
+            Pasteur: trmD
+            RegulonDB: ECK120001012
+            ECOCYC: EG11023
+            ASAP: ABE-0008576
+            UniProt: P0A873
+STRUCTURE   PDB: 1P9P
+AASEQ       255
+            MWIGIISLFPEMFRAITDYGVTGRAVKNGLLSIQSWSPRDFTHDRHRTVDDRPYGGGPGM
+            LMMVQPLRDAIHAAKAAAGEGAKVIYLSPQGRKLDQAGVSELATNQKLILVCGRYEGIDE
+            RVIQTEIDEEWSIGDYVLSGGELPAMTLIDSVSRFIPGVLGHEASATEDSFAEGLLDCPH
+            YTRPEVLEGMEVPPVLLSGNHAEIRRWRLKQSLGRTWLRRPELLENLALTEEQARLLAEF
+            KTEHAQQQHKHDGMA
+NTSEQ       768
+            atgtggattggcataattagcctgtttcctgaaatgttccgcgcaattaccgattacggg
+            gtaactggccgggcagttaaaaatggcctgctgagcatccagagctggagtcctcgcgac
+            ttcacgcatgaccggcaccgtaccgtggacgatcgtccttacggcggcggaccggggatg
+            ttaatgatggtgcaacccttgcgggacgccattcatgcagcaaaagccgcggcgggtgaa
+            ggcgcaaaggtgatttatctgtcaccacagggacgcaagcttgatcaagcgggcgtcagc
+            gaactggcaacgaatcaaaaattgattctggtgtgcggtcgctacgaaggtatagatgag
+            cgcgtgatccaaaccgaaattgacgaagaatggtcaatcggcgattacgttctcagtggt
+            ggtgagttaccagcaatgacgctgattgactccgtttcccggtttattccgggagtactg
+            ggacatgaagcctcggcaacggaagattcctttgctgaaggattgctggattgcccgcac
+            tatacgcggcctgaggtgttagaagggatggaagttccgccagtgttactgtcgggcaac
+            catgccgagatacgtcgctggcgtttgaaacagtcgctgggccgtacctggcttagaaga
+            cctgaacttctggaaaacctggctctgactgaagagcaagcaaggttgctggcggagttc
+            aaaacggaacacgcacaacagcaacataaacatgatgggatggcgtaa
+///

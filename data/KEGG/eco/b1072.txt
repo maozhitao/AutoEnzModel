@@ -1,0 +1,47 @@
+ENTRY       b1072             CDS       T00007
+NAME        flgA
+DEFINITION  (RefSeq) flagellar basal body P-ring formation protein FlgA
+ORTHOLOGY   K02386  flagella basal body P-ring formation protein FlgA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1072 (flgA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1072 (flgA)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               M,S,P and L rings
+                b1072 (flgA)
+POSITION    complement(1130204..1130863)
+MOTIF       Pfam: ChapFlgA SAF ChapFlgA_N ACP_syn_III_C
+DBLINKS     NCBI-GeneID: 946300
+            NCBI-ProteinID: NP_415590
+            Pasteur: flgA
+            RegulonDB: ECK120002678
+            ECOCYC: G357
+            ASAP: ABE-0003637
+            UniProt: P75933
+AASEQ       219
+            MLIIKRSVAIIAILFSPLSTASNLTSQLHNFFSAQLAGVSDEVRVSIRTAPNLLPPCEQP
+            LLSMSNNSRLWGNVNVLARCGNDKRYLQVNVQATGNYVVAAMPIARGGKLEAGNVKLKRG
+            RLDTLPPRTVLDINQLVDAISLRDLSPDQPIQLTQFRQAWRVKAGQRVNVIASGDGFSAN
+            AEGQALNNAAVAQNARVRMVSGQVVSGVVDADGNILINL
+NTSEQ       660
+            atgctgataataaaacgtagcgtggcgatcatcgcgatactgttcagtccgttaagtacg
+            gcgagcaatctcacatcgcaattgcacaacttttttagcgcccaactcgcgggggtaagt
+            gatgaggttcgtgtttctattcgtacagcgcccaatctactaccgccatgcgagcagcca
+            ttgctttcgatgagcaataattcccgcctgtggggcaatgtgaatgtgttggcacgctgc
+            ggtaacgacaaacgatatttacaggttaatgtacaggccacaggaaattatgtggttgcc
+            gcgatgcccattgcgcggggaggaaagctggaagctggcaatgtcaaactgaaacgcgga
+            cggctggataccctgccaccgcgtacggtgctggatatcaatcaacttgttgatgccatt
+            agcctgcgcgatctatcacccgatcaacctatccagttaacccagtttcgccaggcatgg
+            cgggtaaaagcgggacaacgcgtcaatgtgatcgccagcggtgatgggtttagcgccaac
+            gcagaaggtcaggcgctgaacaatgcagccgtcgcacagaatgcgcgggtgcgcatggta
+            tcgggacaggtagtcagcggcgttgttgatgcagatgggaatattcttataaacctgtaa
+///

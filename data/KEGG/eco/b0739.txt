@@ -1,0 +1,57 @@
+ENTRY       b0739             CDS       T00007
+NAME        tolA
+DEFINITION  (RefSeq) Tol-Pal system protein TolA
+ORTHOLOGY   K03646  colicin import membrane protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0739 (tolA)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b0739 (tolA)
+POSITION    776342..777607
+MOTIF       Pfam: TolA TonB_2
+DBLINKS     NCBI-GeneID: 946625
+            NCBI-ProteinID: NP_415267
+            Pasteur: tolA
+            RegulonDB: ECK120000996
+            ECOCYC: EG11007
+            ASAP: ABE-0002515
+            UniProt: P19934
+STRUCTURE   PDB: 3QDP 2X9A 3QDR 1S62
+AASEQ       421
+            MSKATEQNDKLKRAIIISAVLHVILFAALIWSSFDENIEASAGGGGGSSIDAVMVDSGAV
+            VEQYKRMQSQESSAKRSDEQRKMKEQQAAEELREKQAAEQERLKQLEKERLAAQEQKKQA
+            EEAAKQAELKQKQAEEAAAKAAADAKAKAEADAKAAEEAAKKAAADAKKKAEAEAAKAAA
+            EAQKKAEAAAAALKKKAEAAEAAAAEARKKAATEAAEKAKAEAEKKAAAEKAAADKKAAA
+            EKAAADKKAAEKAAAEKAAADKKAAAEKAAADKKAAAAKAAAEKAAAAKAAAEADDIFGE
+            LSSGKNAPKTGGGAKGNNASPAGSGNTKNNGASGADINNYAGQIKSAIESKFYDASSYAG
+            KTCTLRIKLAPDGMLLDIKPEGGDPALCQAALAAAKLAKIPKPPSQAVYEVFKNAPLDFK
+            P
+NTSEQ       1266
+            gtgtcaaaggcaaccgaacaaaacgacaagctcaagcgggcgataattatttcagcagtg
+            ctgcatgtcatcttatttgcggcgctgatctggagttcgttcgatgagaatatagaagct
+            tcagccggaggcggcggtggttcgtccatcgacgctgtcatggttgattcaggtgcggta
+            gttgagcagtacaaacgcatgcaaagccaggaatcaagcgcgaagcgttctgatgaacag
+            cgcaagatgaaggaacagcaggctgctgaagaactgcgtgagaaacaagcggctgaacag
+            gaacgcctgaagcaacttgagaaagagcggttagcggctcaggagcagaaaaagcaggct
+            gaagaagccgcaaaacaggccgagttaaagcagaagcaagctgaagaggcggcagcgaaa
+            gcggcggcagatgctaaagcgaaggccgaagcagatgctaaagctgcggaagaagcagcg
+            aagaaagcggctgcagacgcaaagaaaaaagcagaagcagaagccgccaaagccgcagcc
+            gaagcgcagaaaaaagccgaggcagccgctgcggcactgaagaagaaagcggaagcggca
+            gaagcagctgcagctgaagcaagaaagaaagcggcaactgaagctgctgaaaaagccaaa
+            gcagaagctgagaagaaagcggctgctgaaaaggctgcagctgataagaaagcggcagca
+            gagaaagctgcagccgacaaaaaagcagcagaaaaagcggctgctgaaaaggcagcagct
+            gataagaaagcagcggcagaaaaagccgccgcagacaaaaaagcggcagcggcaaaagct
+            gcagctgaaaaagccgctgcagcaaaagcggccgcagaggcagatgatattttcggtgag
+            ctaagctctggtaagaatgcaccgaaaacggggggaggggcgaaagggaacaatgcttcg
+            cctgccgggagtggtaatactaaaaacaatggcgcatcaggggccgatatcaataactat
+            gccgggcagattaaatctgctatcgaaagtaagttctatgacgcatcgtcctatgcaggc
+            aaaacctgtacgctgcgcataaaactggcacccgatggtatgttactggatatcaaacct
+            gaaggtggcgatcccgcactttgtcaggctgcgttggcagcagctaaacttgcgaagatc
+            ccgaaaccaccaagccaggcagtatatgaagtgttcaaaaacgcgccattggacttcaaa
+            ccgtaa
+///

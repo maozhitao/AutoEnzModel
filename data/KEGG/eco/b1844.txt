@@ -1,0 +1,56 @@
+ENTRY       b1844             CDS       T00007
+NAME        exoX
+DEFINITION  (RefSeq) exonuclease X
+ORTHOLOGY   K10857  exodeoxyribonuclease X [EC:3.1.11.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03430  Mismatch repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03430 Mismatch repair
+                b1844 (exoX)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b1844 (exoX)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.11  Exodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.11.-  
+                 b1844 (exoX)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                DNA exonucleases
+                 b1844 (exoX)
+POSITION    1926120..1926782
+MOTIF       Pfam: RNase_T
+DBLINKS     NCBI-GeneID: 946361
+            NCBI-ProteinID: NP_416358
+            Pasteur: yobC
+            RegulonDB: ECK120003603
+            ECOCYC: G7016
+            ASAP: ABE-0006131
+            UniProt: P0AEK0
+STRUCTURE   PDB: 4FZX 4FZY 4FZZ
+AASEQ       220
+            MLRIIDTETCGLQGGIVEIASVDVIDGKIVNPMSHLVRPDRPISPQAMAIHRITEAMVAD
+            KPWIEDVIPHYYGSEWYVAHNASFDRRVLPEMPGEWICTMKLARRLWPGIKYSNMALYKT
+            RKLNVQTPPGLHHHRALYDCYITAALLIDIMNTSGWTAEQMADITGRPSLMTTFTFGKYR
+            GKAVSDVAERDPGYLRWLFNNLDSMSPELRLTLKHYLENT
+NTSEQ       663
+            atgttgcgcattatcgatacagaaacctgcggtttgcagggagggatcgttgagattgcc
+            tctgttgatgtcattgacggaaaaatcgtcaaccccatgagccacctggtgcgccccgat
+            cgtcctattagtccacaagcgatggcgattcatcgcatcaccgaagccatggtcgccgat
+            aaaccgtggattgaagatgtgatcccacactattacggtagtgaatggtatgtcgcgcat
+            aacgccagctttgaccgccgcgtactgcctgagatgcccggtgagtggatttgcactatg
+            aaactggcccgtcgtttgtggcctgggatcaagtacagcaatatggcgttatataaaaca
+            cgcaagctcaatgtacagacgccgccgggcctgcatcatcaccgcgcgttgtatgactgt
+            tatatcaccgccgcgttgcttatcgatattatgaacacctccggctggacggcagaacag
+            atggccgatatcaccggacgtccgtcgttgatgacgaccttcacctttggcaaataccgt
+            ggcaaagcggtttccgacgttgccgaacgcgatccgggctatctgcgctggttatttaat
+            aacctggacagcatgagcccggagctgcgtttaacactgaaacattatctggaaaatact
+            tag
+///

@@ -1,0 +1,85 @@
+ENTRY       b0570             CDS       T00007
+NAME        cusS
+DEFINITION  (RefSeq) sensory histidine kinase CusS
+ORTHOLOGY   K07644  two-component system, OmpR family, heavy metal sensor histidine kinase CusS [EC:2.7.13.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b0570 (cusS)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b0570 (cusS)
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b0570 (cusS)
+               01504 Antimicrobial resistance genes [BR:eco01504]
+                b0570 (cusS)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 b0570 (cusS)
+            Protein kinases [BR:eco01001]
+             Histidine kinases
+              OmpR family
+               b0570 (cusS)
+            Two-component system [BR:eco02022]
+             OmpR family
+              CusS-CusR (copper tolerance)
+               b0570 (cusS)
+            Antimicrobial resistance genes [BR:eco01504]
+             Gene sets
+              beta-Lactam resistance modules
+               Imipenem resistance, repression of porin OprD [MD:M00745]
+                b0570 (cusS)
+POSITION    complement(593328..594770)
+MOTIF       Pfam: HATPase_c HisKA HAMP HATPase_c_5 HATPase_c_2
+DBLINKS     NCBI-GeneID: 945978
+            NCBI-ProteinID: NP_415102
+            Pasteur: ybcZ
+            RegulonDB: ECK120002926
+            ECOCYC: G6318
+            ASAP: ABE-0001946
+            UniProt: P77485
+STRUCTURE   PDB: 5KU5
+AASEQ       480
+            MVSKPFQRPFSLATRLTFFISLATIAAFFAFAWIMIHSVKVHFAEQDINDLKEISATLER
+            VLNHPDETQARRLMTLEDIVSGYSNVLISLADSQGKTVYHSPGAPDIREFTRDAIPDKDA
+            QGGEVYLLSGPTMMMPGHGHGHMEHSNWRMINLPVGPLVDGKPIYTLYIALSIDFHLHYI
+            NDLMNKLIMTASVISILIVFIVLLAVHKGHAPIRSVSRQIQNITSKDLDVRLDPQTVPIE
+            LEQLVLSFNHMIERIEDVFTRQSNFSADIAHEIRTPITNLITQTEIALSQSRSQKELEDV
+            LYSNLEELTRMAKMVSDMLFLAQADNNQLIPEKKMLNLADEVGKVFDFFEALAEDRGVEL
+            RFVGDKCQVAGDPLMLRRALSNLLSNALRYTPTGETIVVRCQTVDHLVQVIVENPGTPIA
+            PEHLPRLFDRFYRVDPSRQRKGEGSGIGLAIVKSIVVAHKGTVAVTSDARGTRFVITLPA
+NTSEQ       1443
+            atggtcagtaagccatttcagcgcccgttttcgctggcaacccgcctgaccttttttatc
+            agcctggccaccatcgcggcgtttttcgcctttgcatggatcatgatccactcagtaaaa
+            gttcattttgccgagcaggatattaatgatttaaaagagattagcgccacccttgaacgg
+            gtactaaatcaccctgacgaaacgcaagcccgacgcttaatgacgctggaagatatcgtc
+            agtggttattccaatgtgttgatttccctggcagatagtcagggtaaaacggtgtatcac
+            tcccccggtgcgccggatatccgcgagtttacgcgtgacgccatacccgataaagacgct
+            cagggtggcgaggtgtatctcctttccggcccgacgatgatgatgccaggccacggtcac
+            gggcatatggaacacagcaactggcggatgattaacttgccggttggcccgttggtggac
+            ggcaaaccgatttatacgctctacatcgcgctttcgatcgattttcatcttcattacata
+            aatgatttgatgaataaacttattatgaccgcatcggtaatcagcatcctgatcgtcttt
+            atcgtactgttggcggtacataaaggtcacgcgccgatccgcagcgtcagccgtcaaatc
+            cagaatattacctcgaaagatctcgacgttcgcctcgacccgcagaccgtgcccattgag
+            ctggaacagctggtactgtcgttcaaccatatgatcgagcgtattgaggatgtctttacc
+            cgccagtccaatttctcagcggatatcgctcacgaaattcgcacaccaattacgaatctc
+            ataacgcaaaccgaaatcgccctcagccagtcgcgcagccagaaggagctggaagatgtg
+            ctctactctaatctcgaagagctgacgcgaatggcgaaaatggtcagcgatatgctgttt
+            ctcgctcaggccgataacaaccagctaatccccgaaaagaaaatgctcaacctggcggat
+            gaagtcggcaaagtgttcgattttttcgaggcgttagcggaagatcgcggcgtggagttg
+            cggtttgttggcgacaagtgtcaggtcgcgggcgatccgctgatgctgcgtcgggcgcta
+            agcaacctgctttcgaacgccctgcgttatacgccaaccggagagacaattgtagtgcgc
+            tgtcagacggtcgatcacctggtgcaagttatcgtcgaaaaccccggtacgcccattgcg
+            cccgagcacttaccgcgattgtttgaccgtttctatcgcgttgacccctcccgccagcga
+            aaaggtgaaggtagcggtattggcctggcgatagtgaaatcgattgttgtcgcgcataaa
+            ggcacggttgcggtaacgtcggatgcgcgggggacaaggtttgttatcacattacccgct
+            taa
+///

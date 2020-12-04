@@ -1,0 +1,77 @@
+ENTRY       b3080             CDS       T00007
+NAME        ygjK
+DEFINITION  (RefSeq) glycoside hydrolase
+ORTHOLOGY   K03931  putative isomerase
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09194 Poorly characterized
+               99996 General function prediction only
+                b3080 (ygjK)
+POSITION    3228888..3231239
+MOTIF       Pfam: Trehalase Glyco_hydro_63 Bac_rhamnosid6H
+DBLINKS     NCBI-GeneID: 947596
+            NCBI-ProteinID: NP_417551
+            Pasteur: ygjK
+            RegulonDB: ECK120004153
+            ECOCYC: G7599
+            ASAP: ABE-0010118
+            UniProt: P42592
+STRUCTURE   PDB: 3W7T 3D3I 5CA3 3W7S 3W7U 3W7W 5GW7 3W7X
+AASEQ       783
+            MKIKTILTPVTCALLISFSAHAANADNYKNVINRTGAPQYMKDYDYDDHQRFNPFFDLGA
+            WHGHLLPDGPNTMGGFPGVALLTEEYINFMASNFDRLTVWQDGKKVDFTLEAYSIPGALV
+            QKLTAKDVQVEMTLRFATPRTSLLETKITSNKPLDLVWDGELLEKLEAKEGKPLSDKTIA
+            GEYPDYQRKISATRDGLKVTFGKVRATWDLLTSGESEYQVHKSLPVQTEINGNRFTSKAH
+            INGSTTLYTTYSHLLTAQEVSKEQMQIRDILARPAFYLTASQQRWEEYLKKGLTNPDATP
+            EQTRVAVKAIETLNGNWRSPGGAVKFNTVTPSVTGRWFSGNQTWPWDTWKQAFAMAHFNP
+            DIAKENIRAVFSWQIQPGDSVRPQDVGFVPDLIAWNLSPERGGDGGNWNERNTKPSLAAW
+            SVMEVYNVTQDKTWVAEMYPKLVAYHDWWLRNRDHNGNGVPEYGATRDKAHNTESGEMLF
+            TVKKGDKEETQSGLNNYARVVEKGQYDSLEIPAQVAASWESGRDDAAVFGFIDKEQLDKY
+            VANGGKRSDWTVKFAENRSQDGTLLGYSLLQESVDQASYMYSDNHYLAEMATILGKPEEA
+            KRYRQLAQQLADYINTCMFDPTTQFYYDVRIEDKPLANGCAGKPIVERGKGPEGWSPLFN
+            GAATQANADAVVKVMLDPKEFNTFVPLGTAALTNPAFGADIYWRGRVWVDQFWFGLKGME
+            RYGYRDDALKLADTFFRHAKGLTADGPIQENYNPLTGAQQGAPNFSWSAAHLYMLYNDFF
+            RKQ
+NTSEQ       2352
+            atgaaaataaaaactattttaacgccagtaacctgcgctctgctgataagtttttccgcc
+            catgccgctaacgccgacaattataaaaacgtgattaaccgtactggcgcgccgcagtac
+            atgaaggattacgattacgacgatcaccagcgttttaatccgtttttcgatctcggagcc
+            tggcatggtcatctgttgccagacggccctaacaccatgggcggctttccgggcgttgcg
+            ctgctgacggaagagtacatcaactttatggccagcaatttcgaccgcctgaccgtctgg
+            caggacggcaagaaagtcgactttacgctggaggcatacagtattcccggtgcgctggtg
+            caaaaactgacagcaaaagatgtgcaagtcgaaatgactctgcgcttcgccacgccgcgc
+            acgtcactactggaaaccaaaatcaccagcaataaaccgctggatctggtgtgggacggc
+            gaactgctggaaaaactggaagcgaaagaagggaaaccgctttccgataaaaccattgct
+            ggcgaataccctgactatcagcgcaaaatcagcgccacccgtgatggcctgaaagtcacc
+            tttggcaaagtgcgcgccacctgggatctgctgacctccggcgaatcggaatatcaggtg
+            cataaatccctgccggtgcagactgaaatcaacggtaatcgctttaccagtaaggcgcat
+            atcaacggttcgaccacgctctacaccacctattcccatctgctgaccgctcaggaagtt
+            agcaaagagcaaatgcagatccgcgatattctggcgcgtccggcgttttatctcaccgcc
+            tcgcagcaacgctgggaagaatacctgaagaaagggttaaccaatccggatgcgacgccg
+            gaacagacgcgcgtcgcggtgaaagcgatcgaaacgctcaacggtaactggcgctcaccg
+            ggcggtgcggtgaaatttaacaccgttacaccgtcggtgaccgggcgctggttctccggc
+            aatcagacctggccgtgggatacctggaagcaggcgtttgcgatggcgcatttcaatccg
+            gacatcgccaaagagaatatccgcgcggtcttctcctggcagatccagcctggcgatagc
+            gtgcgtccgcaggatgtgggctttgtccccgacctgatagcgtggaaccttagccccgag
+            cgtggtggcgatggcggcaactggaacgaacgtaataccaaacccagccttgccgcctgg
+            tcggtgatggaagtgtataacgtcacccaagataaaacctgggtggcagagatgtacccg
+            aaactggtggcctatcacgactggtggttacgtaaccgcgatcacaacggcaacggcgtg
+            ccggaatatggcgcgacccgcgacaaagcccacaacactgagagcggcgagatgctgttt
+            acggtgaaaaaaggcgataaagaagagacgcagtctgggctgaacaactacgcccgcgtg
+            gtggagaaaggccagtacgacagtctggaaattccggcacaggttgctgcatcgtgggaa
+            tcggggcgtgatgatgccgccgtctttgggtttatcgacaaagaacagttggataaatat
+            gtcgctaatggcggcaaacgtagcgactggacggtgaaattcgccgaaaaccgcagtcag
+            gacggaacgttgctgggctactcgctattgcaggagtcggtggatcaggccagctatatg
+            tacagcgataaccattatctggcggagatggcaaccatcctcggtaagccagaagaggcc
+            aaacgctatcgccagttggcacagcagctcgcggactacatcaacacctgtatgttcgac
+            ccgactacccagttctactatgacgtacgtattgaagataaaccactggcgaacggctgc
+            gcgggcaaaccgattgttgagcgcggtaaagggccggaaggctggtcgccgctgtttaac
+            ggtgcggcaacgcaggccaatgccgacgcggtggtgaaggtgatgctcgatcctaaagag
+            ttcaacacctttgtcccgctgggaacggcggcgttaaccaatccggcttttggcgctgat
+            atctactggcgtgggcgcgtatgggtggatcagttctggtttggtctgaaagggatggag
+            cgttacggttatcgtgatgatgccctgaagctggcggatacgttcttccggcacgccaaa
+            gggttaaccgccgatggaccaattcaggaaaattacaacccgctgacaggcgcacagcaa
+            ggcgcaccaaatttctcctggagtgccgcgcatttgtatatgttgtataacgattttttc
+            cgtaagcaataa
+///

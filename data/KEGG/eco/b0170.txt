@@ -1,0 +1,56 @@
+ENTRY       b0170             CDS       T00007
+NAME        tsf
+DEFINITION  (RefSeq) protein chain elongation factor EF-Ts
+ORTHOLOGY   K02357  elongation factor Ts
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:eco03012]
+                b0170 (tsf)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b0170 (tsf)
+            Translation factors [BR:eco03012]
+             Eukaryotic type
+              Elongation factors
+               b0170 (tsf)
+             Prokaryotic type
+               b0170 (tsf)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Mitochondrial translation factors
+                b0170 (tsf)
+POSITION    190857..191708
+MOTIF       Pfam: EF_TS
+DBLINKS     NCBI-GeneID: 944866
+            NCBI-ProteinID: NP_414712
+            Pasteur: tsf
+            RegulonDB: ECK120001022
+            ECOCYC: EG11033
+            ASAP: ABE-0000579
+            UniProt: P0A6P1
+STRUCTURE   PDB: 4PC3 4PC1 4PC2 4PC6 1EFU 4Q7J 4PC7
+AASEQ       283
+            MAEITASLVKELRERTGAGMMDCKKALTEANGDIELAIENMRKSGAIKAAKKAGNVAADG
+            VIKTKIDGNYGIILEVNCQTDFVAKDAGFQAFADKVLDAAVAGKITDVEVLKAQFEEERV
+            ALVAKIGENINIRRVAALEGDVLGSYQHGARIGVLVAAKGADEELVKHIAMHVAASKPEF
+            IKPEDVSAEVVEKEYQVQLDIAMQSGKPKEIAEKMVEGRMKKFTGEVSLTGQPFVMEPSK
+            TVGQLLKEHNAEVTGFIRFEVGEGIEKVETDFAAEVAAMSKQS
+NTSEQ       852
+            atggctgaaattaccgcatccctggtaaaagagctgcgtgagcgtactggcgcaggcatg
+            atggattgcaaaaaagcactgactgaagctaacggcgacatcgagctggcaatcgaaaac
+            atgcgtaagtccggtgctattaaagcagcgaaaaaagcaggcaacgttgctgctgacggc
+            gtgatcaaaaccaaaatcgacggcaactacggcatcattctggaagttaactgccagact
+            gacttcgttgcaaaagacgctggtttccaggcgttcgcagacaaagttctggacgcagct
+            gttgctggcaaaatcactgacgttgaagttctgaaagcacagttcgaagaagaacgtgtt
+            gcgctggtagcgaaaattggtgaaaacatcaacattcgccgcgttgctgcgctggaaggc
+            gacgttctgggttcttatcagcacggtgcgcgtatcggcgttctggttgctgctaaaggc
+            gctgacgaagagctggttaaacacatcgctatgcacgttgctgcaagcaagccagaattc
+            atcaaaccggaagacgtatccgctgaagtggtagaaaaagaataccaggtacagctggat
+            atcgcgatgcagtctggtaagccgaaagaaatcgcagagaaaatggttgaaggccgcatg
+            aagaaattcaccggcgaagtttctctgaccggtcagccgttcgttatggaaccaagcaaa
+            actgttggtcagctgctgaaagagcataacgctgaagtgactggcttcatccgcttcgaa
+            gtgggtgaaggcatcgagaaagttgagactgactttgcagcagaagttgctgcgatgtcc
+            aagcagtcttaa
+///

@@ -1,0 +1,50 @@
+ENTRY       b3231             CDS       T00007
+NAME        rplM
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L13
+ORTHOLOGY   K02871  large subunit ribosomal protein L13
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3231 (rplM)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3231 (rplM)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b3231 (rplM)
+              Bacteria
+                b3231 (rplM)
+              Archaea
+                b3231 (rplM)
+POSITION    complement(3378223..3378651)
+MOTIF       Pfam: Ribosomal_L13 IMS_C
+DBLINKS     NCBI-GeneID: 947828
+            NCBI-ProteinID: NP_417698
+            Pasteur: rplM
+            RegulonDB: ECK120000865
+            ECOCYC: EG10874
+            ASAP: ABE-0010599
+            UniProt: P0AA10
+STRUCTURE   PDB: 6QUL 6S0K 6I0Y 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH 4UY8
+                 3J7Z 6GC4 6GC6 6GC7 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L 2J28
+                 2RDO 3BBX 3IY9
+AASEQ       142
+            MKTFTAKPETVKRDWYVVDATGKTLGRLATELARRLRGKHKAEYTPHVDTGDYIIVLNAD
+            KVAVTGNKRTDKVYYHHTGHIGGIKQATFEEMIARRPERVIEIAVKGMLPKGPLGRAMFR
+            KLKVYAGNEHNHAAQQPQVLDI
+NTSEQ       429
+            atgaaaacttttacagctaaaccagaaaccgtaaaacgcgactggtatgttgttgacgcg
+            accggtaaaactctgggccgtctggctactgaactggctcgtcgcctgcgcggtaagcac
+            aaagcggaatacactccgcacgtagataccggtgattacatcatcgttctgaacgctgac
+            aaagttgctgtaaccggcaacaagcgtactgacaaagtgtactatcaccacaccggccac
+            atcggtggtatcaaacaagcgacctttgaagagatgattgctcgccgtcctgagcgtgtg
+            attgaaatcgcggttaaaggcatgttgccaaaaggcccgctgggtcgtgctatgttccgt
+            aaactgaaagtttacgcgggtaacgagcacaaccacgcggcacagcaaccgcaagttctt
+            gacatctaa
+///

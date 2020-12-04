@@ -1,0 +1,45 @@
+ENTRY       b0481             CDS       T00007
+NAME        ybaK
+DEFINITION  (RefSeq) Cys-tRNA(Pro) and Cys-tRNA(Cys) deacylase
+ORTHOLOGY   K03976  Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase [EC:3.1.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b0481 (ybaK)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.1  Carboxylic-ester hydrolases
+                3.1.1.-  
+                 b0481 (ybaK)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Trans-editing factors
+                b0481 (ybaK)
+POSITION    complement(506603..507082)
+MOTIF       Pfam: tRNA_edit MalM
+DBLINKS     NCBI-GeneID: 947083
+            NCBI-ProteinID: NP_415014
+            Pasteur: ybaK
+            RegulonDB: ECK120002303
+            ECOCYC: EG12454
+            ASAP: ABE-0001670
+            UniProt: P0AAR3
+STRUCTURE   PDB: 2DXA
+AASEQ       159
+            MTPAVKLLEKNKISFQIHTYEHDPAETNFGDEVVKKLGLNPDQVYKTLLVAVNGDMKHLA
+            VAVTPVAGQLDLKKVAKALGAKKVEMADPMVAQRSTGYLVGGISPLGQKKRLPTIIDAPA
+            QEFATIYVSGGKRGLDIELAAGDLAKILDAKFADIARRD
+NTSEQ       480
+            atgacacccgcagttaaattactcgaaaaaaacaagatttcgtttcaaatccatacctac
+            gagcacgatccggctgaaaccaattttggcgatgaagtcgtcaaaaaattaggtttgaat
+            ccggatcaggtctacaaaacgctgctggtggcagtgaacggtgatatgaaacaccttgcc
+            gtggccgttacgccggtcgcaggtcaactggatcttaaaaaagtagcaaaagcgctgggt
+            gccaagaaagttgagatggccgatccgatggtcgcgcagcgttcgacgggatacctggtt
+            ggggggattagcccactggggcagaaaaaacgtctgccaacgattatcgacgcccccgca
+            caagaatttgccactatttatgtttccggcggcaagcgcggactggatatcgaactggcg
+            gcaggcgatctggcaaagatcctcgatgccaaatttgctgatatcgcccgccgcgattaa
+///

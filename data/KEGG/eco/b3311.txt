@@ -1,0 +1,45 @@
+ENTRY       b3311             CDS       T00007
+NAME        rpsQ
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S17
+ORTHOLOGY   K02961  small subunit ribosomal protein S17
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3311 (rpsQ)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3311 (rpsQ)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Small subunit
+                b3311 (rpsQ)
+              Bacteria
+                b3311 (rpsQ)
+              Archaea
+                b3311 (rpsQ)
+POSITION    complement(3448314..3448568)
+MOTIF       Pfam: Ribosomal_S17
+DBLINKS     NCBI-GeneID: 947808
+            NCBI-ProteinID: NP_417770
+            Pasteur: rpsQ
+            RegulonDB: ECK120000907
+            ECOCYC: EG10916
+            ASAP: ABE-0010840
+            UniProt: P0AG63
+STRUCTURE   PDB: 6NQB 6O7K 5NO2 5NO3 5NO4 5UZ4 5MY1 2YKR 5ME0 5ME1 4ADV
+                 3IY8 4A2I
+AASEQ       84
+            MTDKIRTLQGRVVSDKMEKSIVVAIERFVKHPIYGKFIKRTTKLHVHDENNECGIGDVVE
+            IRECRPLSKTKSWTLVRVVEKAVL
+NTSEQ       255
+            atgaccgataaaatccgtactctgcaaggtcgcgttgttagcgacaaaatggagaaatcc
+            attgttgttgctatcgaacgttttgtgaaacacccgatctacggtaaattcatcaagcgt
+            acgaccaaactgcacgtacatgacgagaacaacgaatgcggtatcggtgacgtggttgaa
+            atccgcgaatgccgtccgctgtccaagactaaatcctggacgctggttcgcgttgtagag
+            aaagcggttctgtaa
+///

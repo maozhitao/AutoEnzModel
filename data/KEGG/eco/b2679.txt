@@ -1,0 +1,56 @@
+ENTRY       b2679             CDS       T00007
+NAME        proX
+DEFINITION  (RefSeq) glycine betaine ABC transporter periplasmic binding protein ProX
+ORTHOLOGY   K02002  glycine betaine/proline transport system substrate-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b2679 (proX)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2679 (proX)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Mineral and organic ion transporters
+               Glycine betaine/proline transporter
+                b2679 (proX)
+POSITION    2807132..2808124
+MOTIF       Pfam: OpuAC
+DBLINKS     NCBI-GeneID: 947165
+            NCBI-ProteinID: NP_417165
+            Pasteur: proX
+            RegulonDB: ECK120000764
+            ECOCYC: EG10773
+            ASAP: ABE-0008818
+            UniProt: P0AFM2
+STRUCTURE   PDB: 1R9L 1R9Q
+AASEQ       330
+            MRHSVLFATAFATLISTQTFAADLPGKGITVNPVQSTITEETFQTLLVSRALEKLGYTVN
+            KPSEVDYNVGYTSLASGDATFTAVNWTPLHDNMYEAAGGDKKFYREGVFVNGAAQGYLID
+            KKTADQYKITNIAQLKDPKIAKLFDTNGDGKADLTGCNPGWGCEGAINHQLAAYELTNTV
+            THNQGNYAAMMADTISRYKEGKPVFYYTWTPYWVSNELKPGKDVVWLQVPFSALPGDKNA
+            DTKLPNGANYGFPVSTMHIVANKAWAEKNPAAAKLFAIMQLPVADINAQNAIMHDGKASE
+            GDIQGHVDGWIKAHQQQFDGWVNEALAAQK
+NTSEQ       993
+            atgcgacatagcgtactttttgcgacagcgtttgccacgcttatctctacacaaactttt
+            gctgccgatctgccgggcaaaggcattactgttaatccagttcagagcaccatcactgaa
+            gaaaccttccagacgctgctggtcagtcgtgcgctggagaaattaggttataccgtcaac
+            aaacccagcgaagtagattacaacgttggctacacctcgcttgcttccggcgatgcaacc
+            ttcaccgccgtgaactggacgccactgcatgacaacatgtacgaagctgccggtggcgat
+            aagaaattttatcgtgaaggggtatttgttaacggcgcggcacagggttacctgatcgat
+            aagaaaaccgccgaccagtacaaaatcaccaacatcgcacaactgaaagatccgaagatc
+            gccaaactgttcgataccaacggcgacggaaaagcggatttaaccggttgtaaccctggc
+            tggggctgcgaaggtgcgatcaaccaccagcttgccgcgtatgaactgaccaacaccgtg
+            acgcataatcaggggaactacgcagcgatgatggccgacaccatcagtcgctacaaagag
+            ggcaaaccggtgttttattacacctggacgccgtactgggtgagtaacgaactgaagccg
+            ggcaaagatgtcgtctggttgcaggtgccgttctccgcactgccgggcgataaaaacgcc
+            gataccaaactgccgaatggtgcgaattatggcttcccggtcagcaccatgcatatcgtt
+            gccaacaaagcctgggccgagaaaaacccggcagcagcgaaactgtttgccattatgcag
+            ttgccagtggcagatattaacgcccagaacgccattatgcatgacggcaaagcctcagaa
+            ggcgatattcagggacacgttgatggttggatcaaagcccaccagcagcagttcgatggc
+            tgggtgaatgaggcgctggcagcgcagaagtaa
+///

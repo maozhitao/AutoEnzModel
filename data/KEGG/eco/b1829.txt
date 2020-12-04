@@ -1,0 +1,52 @@
+ENTRY       b1829             CDS       T00007
+NAME        htpX
+DEFINITION  (RefSeq) zinc dependent endoprotease
+ORTHOLOGY   K03799  heat shock protein HtpX [EC:3.4.24.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b1829 (htpX)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.24  Metalloendopeptidases
+                3.4.24.-  
+                 b1829 (htpX)
+            Peptidases and inhibitors [BR:eco01002]
+             Metallo peptidases
+              Family M48: Ste24 endopeptidase family
+               b1829 (htpX)
+POSITION    complement(1911695..1912576)
+MOTIF       Pfam: Peptidase_M48 Peptidase_M56 Peptidase_M1 SprT-like PhageMetallopep
+DBLINKS     NCBI-GeneID: 946076
+            NCBI-ProteinID: NP_416343
+            Pasteur: htpX
+            RegulonDB: ECK120000455
+            ECOCYC: EG10462
+            ASAP: ABE-0006087
+            UniProt: P23894
+AASEQ       293
+            MMRIALFLLTNLAVMVVFGLVLSLTGIQSSSVQGLMIMALLFGFGGSFVSLLMSKWMALR
+            SVGGEVIEQPRNERERWLVNTVATQARQAGIAMPQVAIYHAPDINAFATGARRDASLVAV
+            STGLLQNMSPDEAEAVIAHEISHIANGDMVTMTLIQGVVNTFVIFISRILAQLAAGFMGG
+            NRDEGEESNGNPLIYFAVATVLELVFGILASIITMWFSRHREFHADAGSAKLVGREKMIA
+            ALQRLKTSYEPQEATSMMALCINGKSKSLSELFMTHPPLDKRIEALRTGEYLK
+NTSEQ       882
+            atgatgcgaatcgcgctcttcctgctaacgaacctggccgtaatggtcgttttcgggctg
+            gtactgagcctgacagggatacagtcgagcagcgttcaggggctgatgatcatggccttg
+            ctgttcggttttggtggttccttcgtttcgcttctgatgtccaaatggatggcattacga
+            tctgttggcggggaagtgatcgagcaaccgcgtaacgaaagggaacgttggctggtcaat
+            actgtagcaacccaggctcgtcaggcggggatcgctatgccgcaagtggctatctaccat
+            gcgccggacatcaacgcttttgcaaccggtgcgcgccgtgatgcctctctggttgctgtc
+            agcaccggtttgctgcagaacatgagcccggatgaagccgaggcggtaattgctcacgaa
+            atcagccacatcgccaatggtgatatggtcaccatgacgctgattcagggcgtggtgaac
+            accttcgttatctttatttcccgtattctggcgcagcttgccgcgggttttatgggcgga
+            aatcgtgatgaaggtgaagagagcaacggcaacccgctgatctactttgcggttgcaacg
+            gttctggaactggtgtttggtattctggcgagcattatcaccatgtggttctcgcgtcat
+            cgtgaattccatgctgatgccggttcggcaaaactggttggtcgcgagaaaatgattgcc
+            gcgctgcagcgcctgaaaaccagctatgaaccgcaagaagcaaccagcatgatggctctc
+            tgcattaacggtaagtcgaaatcgctcagtgagttgttcatgacccacccgccgctggat
+            aaacgaattgaagctctgcgtacgggtgaatacctgaagtaa
+///

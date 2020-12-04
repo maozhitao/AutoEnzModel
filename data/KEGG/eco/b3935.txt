@@ -1,0 +1,90 @@
+ENTRY       b3935             CDS       T00007
+NAME        priA
+DEFINITION  (RefSeq) primosome factor N'
+ORTHOLOGY   K04066  primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:3.6.4.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03440  Homologous recombination
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03440 Homologous recombination
+                b3935 (priA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b3935 (priA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.6  Acting on acid anhydrides
+               3.6.4  Acting on acid anhydrides to facilitate cellular and subcellular movement
+                3.6.4.-  
+                 b3935 (priA)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                RecBC pathway proteins
+                 b3935 (priA)
+POSITION    complement(4124612..4126810)
+MOTIF       Pfam: PriA_3primeBD PriA_C DEAD ResIII Helicase_C PriA_CRR AAA_30 zinc-ribbons_6 TrwB_AAD_bind AAA_19
+DBLINKS     NCBI-GeneID: 948426
+            NCBI-ProteinID: NP_418370
+            Pasteur: priA
+            RegulonDB: ECK120000754
+            ECOCYC: EG10763
+            ASAP: ABE-0012860
+            UniProt: P17888
+STRUCTURE   PDB: 6DCR 2D7E 2D7H 2DWM 2DWL 2D7G 2DWN
+AASEQ       732
+            MPVAHVALPVPLPRTFDYLLPEGMTVKAGCRVRVPFGKQQERIGIVVSVSDASELPLNEL
+            KAVVEVLDSEPVFTHSVWRLLLWAADYYHHPIGDVLFHALPILLRQGRPAANAPMWYWFA
+            TEQGQAVDLNSLKRSPKQQQALAALRQGKIWRDQVATLEFNDAALQALRKKGLCDLASET
+            PEFSDWRTNYAVSGERLRLNTEQATAVGAIHSAADTFSAWLLAGVTGSGKTEVYLSVLEN
+            VLAQGKQALVMVPEIGLTPQTIARFRERFNAPVEVLHSGLNDSERLSAWLKAKNGEAAIV
+            IGTRSALFTPFKNLGVIVIDEEHDSSYKQQEGWRYHARDLAVYRAHSEQIPIILGSATPA
+            LETLCNVQQKKYRLLRLTRRAGNARPAIQHVLDLKGQKVQAGLAPALITRMRQHLQADNQ
+            VILFLNRRGFAPALLCHDCGWIAECPRCDHYYTLHQAQHHLRCHHCDSQRPVPRQCPSCG
+            STHLVPVGLGTEQLEQTLAPLFPGVPISRIDRDTTSRKGALEQQLAEVHRGGARILIGTQ
+            MLAKGHHFPDVTLVALLDVDGALFSADFRSAERFAQLYTQVAGRAGRAGKQGEVVLQTHH
+            PEHPLLQTLLYKGYDAFAEQALAERRMMQLPPWTSHVIVRAEDHNNQHAPLFLQQLRNLI
+            LSSPLADEKLWVLGPVPALAPKRGGRWRWQILLQHPSRVRLQHIINGTLALINTIPDSRK
+            VKWVLDVDPIEG
+NTSEQ       2199
+            atgcccgttgcccacgttgccttgcccgttccgcttcctcgtacctttgactatctgctg
+            ccagaaggcatgacggttaaagctgggtgtcgcgtgcgcgtgccgtttggcaaacagcag
+            gagcgcatcgggattgtggtatcagttagcgatgccagcgaactgccgctcaatgagcta
+            aaagcggtagtcgaagtgctggatagtgagccggtgtttactcactccgtctggcgattg
+            ctgctatgggcggcagattactatcatcatccgattggcgatgtgctgtttcatgccttg
+            ccgattttactacgccaggggcggcctgcggcgaacgcgccgatgtggtactggtttgcc
+            actgaacaaggccaggcggtggatctgaacagcctgaaacgctcccccaagcaacaacag
+            gcgctggcggcgttacggcaaggcaaaatctggcgcgaccaggtcgccacgctcgaattt
+            aatgatgccgcgttgcaggcgctacgcaaaaaaggtctgtgtgatttagcaagtgaaaca
+            ccagagtttagcgactggcgaacgaactatgccgtttctggtgagcggttgcgattgaat
+            accgaacaggccaccgccgttggcgcaattcatagcgcggcagatactttttctgcctgg
+            ctgctggcgggcgttaccggttccggtaaaacggaggtttatctcagcgtactggaaaac
+            gtgctcgctcagggcaaacaggcgctggtgatggtgccggaaatcggcctgacaccgcaa
+            actatcgcccgttttcgtgaacgttttaatgcccccgtggaagttctgcattccggcctg
+            aacgacagcgagcgtctttcggcgtggctgaaagcgaaaaatggtgaggcggcgattgtg
+            atcggcacccgctccgcgctgtttacgccgtttaaaaatctcggcgtgattgtcattgat
+            gaagagcacgacagctcctacaagcagcaggaaggctggcgctatcatgcccgcgacctg
+            gcggtgtatcgtgcgcacagcgagcaaatcccgattattcttggctccgcaacgcccgcg
+            ctggaaacgttatgcaacgtccagcagaaaaaataccgcctgctgcgcctgacccgtcgg
+            gcagggaatgcgcgtccggcaattcaacatgtgctggatttaaaaggtcagaaggtgcag
+            gcaggtctggctccggcgttaatcactcgtatgcgccagcatttacaggctgataaccag
+            gtcattctctttcttaaccgccgtggctttgcgcctgcactgctgtgccacgactgtggc
+            tggattgccgaatgcccacgttgcgatcactactacacgctgcatcaggcgcagcaccat
+            ctgcgctgccaccactgtgacagtcagcgtccggtgccgcgccagtgcccttcctgcggt
+            tccacgcacctggtccccgtggggctgggcaccgaacagcttgaacagacgctcgcgccg
+            ttgttccccggcgtgcccatttctcgtatcgaccgcgataccaccagccgcaaaggggcg
+            ctggaacagcaactggcagaagtacatcgcggcggcgcgcggattttgattggtacacaa
+            atgctggcgaaaggtcaccatttcccggatgtgacgctggttgcattactggacgtggac
+            ggcgcgctgttttctgccgattttcgctcggcagagcgtttcgctcagctttacacccag
+            gtcgccggtcgtgccgggcgtgcgggtaaacagggcgaagtggtgctgcaaacgcaccat
+            ccggaacatcctctgttgcaaacgttgctctataaaggctacgacgcctttgccgaacag
+            gcgctggctgagcggcgaatgatgcagctaccgccgtggaccagccatgtgattgtgcgt
+            gcggaagatcataacaatcagcacgcgccattgttcctgcaacaactgcgtaatctgatc
+            ctctccagcccactggcagacgagaaactgtgggttctcggtccggttccggctctggca
+            cctaaacgtggcggtcgctggcgctggcagatattgttgcagcacccttcccgcgtgcgc
+            ttgcaacacatcattaacggtacgctggcgctcatcaatacaataccggattcccgtaag
+            gtgaaatgggtgctggatgttgatccgattgagggttaa
+///

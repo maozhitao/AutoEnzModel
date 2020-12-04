@@ -1,0 +1,47 @@
+ENTRY       b1221             CDS       T00007
+NAME        narL
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator NarL
+ORTHOLOGY   K07684  two-component system, NarL family, nitrate/nitrite response regulator NarL
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1221 (narL)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b1221 (narL)
+            Two-component system [BR:eco02022]
+             NarL family
+              NarX-NarL (nitrate respiration)
+               b1221 (narL)
+POSITION    complement(1275179..1275829)
+MOTIF       Pfam: Response_reg GerE Sigma70_r4_2 Sigma70_r4 HTH_38 HTH_24 HTH_23 HTH_28 HTH_20 MarR_2 HTH_7 CENP-B_N HTH_29 HTH_40
+DBLINKS     NCBI-GeneID: 945795
+            NCBI-ProteinID: NP_415739
+            Pasteur: narL
+            RegulonDB: ECK120000636
+            ECOCYC: EG10643
+            ASAP: ABE-0004097
+            UniProt: P0AF28
+STRUCTURE   PDB: 1JE8 1A04 1ZG1 1ZG5 1RNL
+AASEQ       216
+            MSNQEPATILLIDDHPMLRTGVKQLISMAPDITVVGEASNGEQGIELAESLDPDLILLDL
+            NMPGMNGLETLDKLREKSLSGRIVVFSVSNHEEDVVTALKRGADGYLLKDMEPEDLLKAL
+            HQAAAGEMVLSEALTPVLAASLRANRATTERDVNQLTPRERDILKLIAQGLPNKMIARRL
+            DITESTVKVHVKHMLKKMKLKSRVEAAVWVHQERIF
+NTSEQ       651
+            atgagtaatcaggaaccggctactatcctgctgattgacgatcacccgatgctgcgaact
+            ggcgtaaaacagcttatcagtatggcaccagatatcaccgtggttggcgaagcgagtaat
+            ggcgaacagggtattgaactggcggagtctcttgatcccgatctgatcctgttagatctc
+            aatatgcccggcatgaacggtctggaaacgctggataaactgcgcgaaaagtccctctca
+            gggcgcattgtggtattcagcgtctctaaccatgaagaagatgtggtcaccgcactgaaa
+            cgcggcgcggatggctatctgttaaaagatatggaaccggaagatctgctgaaagcattg
+            catcaggcagctgctggcgaaatggtattaagcgaagcattaacgcctgttctggccgcc
+            agcttgcgcgctaaccgtgccactactgagcgcgatgttaaccagttaaccccacgcgag
+            cgcgatattctcaagctgattgcccagggtttgccgaacaagatgattgcccgccgcctg
+            gatatcaccgaaagcacagtaaaagtgcacgtcaagcacatgctgaagaaaatgaagctc
+            aagtctcgcgtggaagcagcggtatgggtgcatcaggagcgcattttctga
+///

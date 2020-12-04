@@ -1,0 +1,95 @@
+ENTRY       b1876             CDS       T00007
+NAME        argS
+DEFINITION  (RefSeq) arginine--tRNA ligase
+ORTHOLOGY   K01887  arginyl-tRNA synthetase [EC:6.1.1.19]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00970  Aminoacyl-tRNA biosynthesis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               00970 Aminoacyl-tRNA biosynthesis
+                b1876 (argS)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01007 Amino acid related enzymes [BR:eco01007]
+                b1876 (argS)
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b1876 (argS)
+               03029 Mitochondrial biogenesis [BR:eco03029]
+                b1876 (argS)
+            Enzymes [BR:eco01000]
+             6. Ligases
+              6.1  Forming carbon-oxygen bonds
+               6.1.1  Ligases forming aminoacyl-tRNA and related compounds
+                6.1.1.19  arginine---tRNA ligase
+                 b1876 (argS)
+            Amino acid related enzymes [BR:eco01007]
+             Aminoacyl-tRNA synthetase
+              Class I (G)
+               b1876 (argS)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              Aminoacyl-tRNA synthetases (AARSs)
+               Multi-aminoacyl-tRNA synthetase complex (MSC)
+                b1876 (argS)
+             Prokaryotic type
+               Other AARSs
+                b1876 (argS)
+            Mitochondrial biogenesis [BR:eco03029]
+             Mitochondrial DNA transcription, translation, and replication factors
+              Mitochondrial transcription and translation factors
+               Other mitochondrial DNA transcription and translation factors
+                b1876 (argS)
+POSITION    1960062..1961795
+MOTIF       Pfam: tRNA-synt_1d DALR_1 Arg_tRNA_synt_N tRNA-synt_1e tRNA-synt_1g Thiol_cytolys_C Ribosomal_L20 tRNA-synt_1
+DBLINKS     NCBI-GeneID: 946452
+            NCBI-ProteinID: NP_416390
+            Pasteur: argS
+            RegulonDB: ECK120000067
+            ECOCYC: EG10071
+            ASAP: ABE-0006264
+            UniProt: P11875
+STRUCTURE   PDB: 5YYM 4OBY 5YYN 5B63
+AASEQ       577
+            MNIQALLSEKVRQAMIAAGAPADCEPQVRQSAKVQFGDYQANGMMAVAKKLGMAPRQLAE
+            QVLTHLDLNGIASKVEIAGPGFINIFLDPAFLAEHVQQALASDRLGVATPEKQTIVVDYS
+            APNVAKEMHVGHLRSTIIGDAAVRTLEFLGHKVIRANHVGDWGTQFGMLIAWLEKQQQEN
+            AGEMELADLEGFYRDAKKHYDEDEEFAERARNYVVKLQSGDEYFREMWRKLVDITMTQNQ
+            ITYDRLNVTLTRDDVMGESLYNPMLPGIVADLKAKGLAVESEGATVVFLDEFKNKEGEPM
+            GVIIQKKDGGYLYTTTDIACAKYRYETLHADRVLYYIDSRQHQHLMQAWAIVRKAGYVPE
+            SVPLEHHMFGMMLGKDGKPFKTRAGGTVKLADLLDEALERARRLVAEKNPDMPADELEKL
+            ANAVGIGAVKYADLSKNRTTDYIFDWDNMLAFEGNTAPYMQYAYTRVLSVFRKAEIDEEQ
+            LAAAPVIIREDREAQLAARLLQFEETLTVVAREGTPHVMCAYLYDLAGLFSGFYEHCPIL
+            SAENEEVRNSRLKLAQLTAKTLKLGLDTLGIETVERM
+NTSEQ       1734
+            gtgaatattcaggctcttctctcagaaaaagtccgtcaggccatgattgcggcaggcgcg
+            cctgcggattgcgaaccgcaggttcgtcagtcagcaaaagttcagttcggcgactatcag
+            gctaacggcatgatggcagttgctaaaaaactgggtatggcaccgcgacaattagcagag
+            caggtgctgactcatctggatcttaacggtatcgccagcaaagttgagatcgccggtcca
+            ggctttatcaacattttccttgatccggcattcctggctgaacatgttcagcaggcgctg
+            gcgtccgatcgtctcggtgttgctacgccagaaaaacagaccattgtggttgactactct
+            gcgccaaacgtggcgaaagagatgcatgtcggtcacctgcgctctaccattattggtgac
+            gcagcagtgcgtactctggagttcctcggtcacaaagtgattcgcgcaaaccacgtcggc
+            gactggggcactcagttcggtatgctgattgcatggctggaaaagcagcagcaggaaaac
+            gccggtgaaatggagctggctgaccttgaaggtttctaccgcgatgcgaaaaagcattac
+            gatgaagatgaagagttcgccgagcgcgcacgtaactacgtggtaaaactgcaaagcggt
+            gacgaatatttccgcgagatgtggcgcaaactggtcgacatcaccatgacgcagaaccag
+            atcacctacgatcgtctcaacgtgacgctgacccgtgatgacgtgatgggcgaaagcctc
+            tacaacccgatgctgccaggaattgtggcggatctcaaagccaaaggtctggcagtagaa
+            agcgaaggggcgaccgtcgtattccttgatgagtttaaaaacaaggaaggcgaaccgatg
+            ggcgtgatcattcagaagaaagatggcggctatctctacaccaccactgatatcgcctgt
+            gcgaaatatcgttatgaaacactgcatgccgatcgcgtgctgtattacatcgactcccgt
+            cagcatcaacacctgatgcaggcatgggcgatcgtccgtaaagcaggctatgtaccggaa
+            tccgtaccgctggaacaccacatgttcggcatgatgctgggtaaagacggcaaaccgttc
+            aaaacccgcgcgggtggtacagtgaaactggccgatctgctggatgaagccctggaacgt
+            gcacgccgtctggtggcagaaaagaacccggatatgccagccgacgagctggaaaaactg
+            gctaacgcggttggtattggtgcggtgaaatatgcggatctctccaaaaaccgcaccacg
+            gactacatcttcgactgggacaacatgctggcgtttgagggtaataccgcgccatacatg
+            cagtatgcatacacgcgtgtattgtccgtgttccgtaaagcagaaattgacgaagagcaa
+            ctggctgcagctccggttatcatccgtgaagatcgtgaagcgcaactggcagctcgcctg
+            ctgcagtttgaagaaaccctcaccgtggttgcccgtgaaggcacgccgcatgtaatgtgt
+            gcttacctgtacgatctggccggtctgttctctggcttctacgagcactgcccgatcctc
+            agcgcagaaaacgaagaagtgcgtaacagccgtctaaaactggcacaactgacggcgaag
+            acgctgaagctgggtctggatacgctgggtattgagactgtagagcgtatgtaa
+///

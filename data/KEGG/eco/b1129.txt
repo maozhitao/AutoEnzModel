@@ -1,0 +1,91 @@
+ENTRY       b1129             CDS       T00007
+NAME        phoQ
+DEFINITION  (RefSeq) sensory histidine kinase PhoQ
+ORTHOLOGY   K07637  two-component system, OmpR family, sensor histidine kinase PhoQ [EC:2.7.13.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01503  Cationic antimicrobial peptide (CAMP) resistance
+            eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1129 (phoQ)
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b1129 (phoQ)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b1129 (phoQ)
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b1129 (phoQ)
+               01504 Antimicrobial resistance genes [BR:eco01504]
+                b1129 (phoQ)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 b1129 (phoQ)
+            Protein kinases [BR:eco01001]
+             Histidine kinases
+              OmpR family
+               b1129 (phoQ)
+            Two-component system [BR:eco02022]
+             OmpR family
+              PhoQ-PhoP (magnesium transport)
+               b1129 (phoQ)
+            Antimicrobial resistance genes [BR:eco01504]
+             Gene sets
+              CAMP resistance modules
+               Cationic antimicrobial peptide (CAMP) resistance, protease PgtE [MD:M00744]
+                b1129 (phoQ)
+POSITION    complement(1188316..1189776)
+MOTIF       Pfam: PhoQ_Sensor HATPase_c HATPase_c_5 HAMP HATPase_c_2 HisKA HATPase_c_3 OmpH
+DBLINKS     NCBI-GeneID: 946326
+            NCBI-ProteinID: NP_415647
+            Pasteur: phoQ
+            RegulonDB: ECK120000723
+            ECOCYC: EG10732
+            ASAP: ABE-0003805
+            UniProt: P23837
+STRUCTURE   PDB: 1ID0 6A8U 3BQA 3BQ8 6A8V
+AASEQ       486
+            MKKLLRLFFPLSLRVRFLLATAAVVLVLSLAYGMVALIGYSVSFDKTTFRLLRGESNLFY
+            TLAKWENNKLHVELPENIDKQSPTMTLIYDENGQLLWAQRDVPWLMKMIQPDWLKSNGFH
+            EIEADVNDTSLLLSGDHSIQQQLQEVREDDDDAEMTHSVAVNVYPATSRMPKLTIVVVDT
+            IPVELKSSYMVWSWFIYVLSANLLLVIPLLWVAAWWSLRPIEALAKEVRELEEHNRELLN
+            PATTRELTSLVRNLNRLLKSERERYDKYRTTLTDLTHSLKTPLAVLQSTLRSLRSEKMSV
+            SDAEPVMLEQISRISQQIGYYLHRASMRGGTLLSRELHPVAPLLDNLTSALNKVYQRKGV
+            NISLDISPEISFVGEQNDFVEVMGNVLDNACKYCLEFVEISARQTDEHLYIVVEDDGPGI
+            PLSKREVIFDRGQRVDTLRPGQGVGLAVAREITEQYEGKIVAGESMLGGARMEVIFGRQH
+            SAPKDE
+NTSEQ       1461
+            atgaaaaaattactgcgtctttttttcccgctctcgctgcgggtacgttttctgttggca
+            acggcagcggtagtactggtgctttcgcttgcctacggaatggtcgcgctgatcggttat
+            agcgtcagtttcgataaaactacgtttcggctgttacgtggcgagagcaatctgttctat
+            acccttgcgaagtgggaaaacaataagttgcatgtcgagttacccgaaaatatcgacaag
+            caaagccccaccatgacgctaatttatgatgagaacgggcagcttttatgggcgcaacgt
+            gacgtgccctggctgatgaagatgatccagcctgactggctgaaatcgaatggttttcat
+            gaaattgaagcggatgttaacgataccagcctcttgctgagtggagatcattcgatacag
+            caacagttgcaggaagtgcgggaagatgatgacgacgcggagatgacccactcggtggca
+            gtaaacgtctacccggcaacatcgcggatgccaaaattaaccattgtggtggtggatacc
+            attccggtggagctaaaaagttcctatatggtctggagctggtttatctatgtgctctca
+            gccaatctgctgttagtgatcccgctgctgtgggtcgccgcctggtggagtttacgcccc
+            atcgaagccctggcaaaagaagtccgcgaactggaagaacataaccgcgaattgctcaat
+            ccagccacaacgcgagaactgaccagtctggtacgaaacctgaaccgattgttaaaaagt
+            gaacgcgaacgttacgacaaataccgtacgacgctcaccgacctgacccatagtctgaaa
+            acgccactggcggtgctgcaaagtacgctgcgttctctgcgtagtgaaaagatgagcgtc
+            agtgatgctgagccggtaatgctggagcaaatcagccgcatttcacagcaaattggctac
+            tacctgcatcgtgccagtatgcgcggcgggacattgctcagccgcgagctgcatccggtc
+            gccccactgctggacaatctcacctcagcgctgaacaaagtgtatcaacgcaaaggggtc
+            aatatctctctcgatatttcgccagagatcagctttgtcggtgagcagaacgattttgtc
+            gaggtgatgggcaacgtgctggataatgcctgtaaatattgcctcgagtttgtcgaaatt
+            tctgcaaggcaaaccgacgagcatctctatattgtggtcgaggatgatggccccggtatt
+            ccattaagcaagcgagaggtcattttcgaccgtggtcaacgggttgatactttacgccct
+            gggcaaggtgtagggctggcggtagcccgcgaaatcaccgagcaatatgagggtaaaatc
+            gtcgccggagagagcatgctgggcggtgcgcggatggaggtgatttttggtcgccagcat
+            tctgcgccgaaagatgaataa
+///

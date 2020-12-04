@@ -1,0 +1,50 @@
+ENTRY       b1610             CDS       T00007
+NAME        tus
+DEFINITION  (RefSeq) DNA replication terminus site-binding protein
+ORTHOLOGY   K10748  DNA replication terminus site-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b1610 (tus)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Termination Factors
+               Terminus site-binding protein
+                b1610 (tus)
+POSITION    1684259..1685188
+MOTIF       Pfam: Ter
+DBLINKS     NCBI-GeneID: 945135
+            NCBI-ProteinID: NP_416127
+            Pasteur: tus
+            RegulonDB: ECK120001027
+            ECOCYC: EG11038
+            ASAP: ABE-0005378
+            UniProt: P16525
+STRUCTURE   PDB: 2I06 4XR2 4XR1 2I05 4XR3 2EWJ 1ECR 4XR0
+AASEQ       309
+            MARYDLVDRLNTTFRQMEQELAIFAAHLEQHKLLVARVFSLPEVKKEDEHNPLNRIEVKQ
+            HLGNDAQSLALRHFRHLFIQQQSENRSSKAAVRLPGVLCYQVDNLSQAALVSHIQHINKL
+            KTTFEHIVTVESELPTAARFEWVHRHLPGLITLNAYRTLTVLHDPATLRFGWANKHIIKN
+            LHRDEVLAQLEKSLKSPRSVAPWTREEWQRKLEREYQDIAALPQNAKLKIKRPVKVQPIA
+            RVWYKGDQKQVQHACPTPLIALINRDNGAGVPDVGELLNYDADNVQHRYKPQAQPLRLII
+            PRLHLYVAD
+NTSEQ       930
+            atggcgcgttacgatctcgtagaccgactcaacactacctttcgccagatggaacaagag
+            ctggctatatttgccgctcatcttgagcaacacaagctattggttgcccgcgtgttctct
+            ttgccggaggtaaaaaaagaggatgagcataatccgcttaatcgtattgaggtaaaacaa
+            catctcggcaacgacgcgcagtcgctggcgttgcgtcatttccgccatttatttattcaa
+            caacagtccgaaaatcgcagcagcaaggccgctgtccgtctgcctggcgtgttgtgttac
+            caggtcgataacctttcgcaagcagcgttggtcagtcatattcagcacatcaataaactc
+            aagaccacgttcgagcatatcgtcacggttgaatcagaactccccaccgcggcacgtttt
+            gaatgggtgcatcgtcatttgccggggctgatcacccttaatgcttaccgcacgctcacc
+            gttctgcacgaccccgccactttacgctttggttgggctaataaacatatcattaagaat
+            ttacatcgtgatgaagtcctggcacagctggaaaaaagcctgaaatcaccacgcagtgtc
+            gcaccgtggacgcgcgaggagtggcaaagaaaactggagcgagagtatcaggatatcgct
+            gccctgccacagaacgcgaagttaaaaatcaaacgtccggtgaaggtgcagccgattgcc
+            cgcgtctggtacaaaggagatcaaaaacaagtccaacacgcctgccctacaccactgatt
+            gcactgattaatcgggataatggcgcgggcgtgccggacgttggtgagttgttaaattac
+            gatgccgacaatgtgcagcaccgttataaacctcaggcgcagccgcttcgtttgatcatt
+            ccacggctgcacctgtatgttgcagattaa
+///

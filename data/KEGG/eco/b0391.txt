@@ -1,0 +1,43 @@
+ENTRY       b0391             CDS       T00007
+NAME        ppnP
+DEFINITION  (RefSeq) nucleoside phosphorylase PpnP
+ORTHOLOGY   K09913  purine/pyrimidine-nucleoside phosphorylase [EC:2.4.2.1 2.4.2.2]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00230  Purine metabolism
+            eco00240  Pyrimidine metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09104 Nucleotide metabolism
+               00230 Purine metabolism
+                b0391 (ppnP)
+               00240 Pyrimidine metabolism
+                b0391 (ppnP)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.2  Pentosyltransferases
+                2.4.2.1  purine-nucleoside phosphorylase
+                 b0391 (ppnP)
+                2.4.2.2  pyrimidine-nucleoside phosphorylase
+                 b0391 (ppnP)
+POSITION    408177..408461
+MOTIF       Pfam: Ppnp
+DBLINKS     NCBI-GeneID: 945048
+            NCBI-ProteinID: NP_414925
+            Pasteur: yaiE
+            RegulonDB: ECK120002056
+            ECOCYC: EG12159
+            ASAP: ABE-0001360
+            UniProt: P0C037
+AASEQ       94
+            MLQSNEYFSGKVKSIGFSSSSTGRASVGVMVEGEYTFSTAEPEEMTVISGALNVLLPDAT
+            DWQVYEAGSVFNVPGHSEFHLQVAEPTSYLCRYL
+NTSEQ       285
+            atgcttcaaagtaatgagtacttttccggcaaagtgaaatcaatcggcttttccagcagc
+            agcactggtcgcgccagcgtgggtgttatggttgaaggcgaatacaccttcagcaccgct
+            gagccggaagagatgacggtaatcagtggcgcgctgaatgtgttactgcctgacgcgacc
+            gactggcaggtgtatgaagccggttcggtgtttaatgttcccggtcacagtgagtttcat
+            ctgcaagttgccgaacccacctcttatctgtgccgctatctgtaa
+///

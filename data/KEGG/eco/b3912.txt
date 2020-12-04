@@ -1,0 +1,53 @@
+ENTRY       b3912             CDS       T00007
+NAME        cpxR
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator CpxR
+ORTHOLOGY   K07662  two-component system, OmpR family, response regulator CpxR
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01503  Cationic antimicrobial peptide (CAMP) resistance
+            eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b3912 (cpxR)
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b3912 (cpxR)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b3912 (cpxR)
+            Two-component system [BR:eco02022]
+             OmpR family
+              CpxA-CpxR (envelope stress response)
+               b3912 (cpxR)
+POSITION    complement(4104972..4105670)
+MOTIF       Pfam: Response_reg Trans_reg_C FleQ BRCT_3
+DBLINKS     NCBI-GeneID: 948404
+            NCBI-ProteinID: NP_418348
+            Pasteur: cpxR
+            RegulonDB: ECK120000017
+            ECOCYC: EG10020
+            ASAP: ABE-0012774
+            UniProt: P0AE88
+STRUCTURE   PDB: 4UHT 4UHJ 4UHK 4UHS
+AASEQ       232
+            MNKILLVDDDRELTSLLKELLEMEGFNVIVAHDGEQALDLLDDSIDLLLLDVMMPKKNGI
+            DTLKALRQTHQTPVIMLTARGSELDRVLGLELGADDYLPKPFNDRELVARIRAILRRSHW
+            SEQQQNNDNGSPTLEVDALVLNPGRQEASFDGQTLELTGTEFTLLYLLAQHLGQVVSREH
+            LSQEVLGKRLTPFDRAIDMHISNLRRKLPDRKDGHPWFKTLRGRGYLMVSAS
+NTSEQ       699
+            atgaataaaatcctgttagttgatgatgaccgagagctgacttccctattaaaggagctg
+            ctcgagatggaaggcttcaacgtgattgttgcccacgatggggaacaggcgcttgatctt
+            ctggacgacagcattgatttacttttgcttgacgtaatgatgccgaagaaaaatggtatc
+            gacacattaaaagcacttcgccagacacaccagacgcctgtcattatgttgacggcgcgc
+            ggcagtgaacttgatcgcgttctcggccttgagctgggcgcagatgactatctcccgaaa
+            ccgtttaatgatcgtgagctggtggcacgtattcgcgcgatcctgcgccgttcgcactgg
+            agcgagcaacagcaaaacaacgacaacggttcaccgacactggaagttgatgccttagtg
+            ctgaatccaggccgtcaggaagccagcttcgacgggcaaacgctggagttaaccggtact
+            gagtttaccctgctctatttgctggcacagcatctgggtcaggtggtttcccgtgaacat
+            ttaagccaggaagtgttgggcaaacgcctgacgcctttcgaccgcgctattgatatgcac
+            atttccaacctgcgtcgtaaactgccggatcgtaaagatggtcacccgtggtttaaaacc
+            ttgcgtggtcgcggctatctgatggtttctgcttcatga
+///

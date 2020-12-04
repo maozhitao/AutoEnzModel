@@ -1,0 +1,76 @@
+ENTRY       b4355             CDS       T00007
+NAME        tsr
+DEFINITION  (RefSeq) methyl-accepting chemotaxis protein Tsr
+ORTHOLOGY   K05874  methyl-accepting chemotaxis protein I, serine sensor receptor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02030  Bacterial chemotaxis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b4355 (tsr)
+             09140 Cellular Processes
+              09142 Cell motility
+               02030 Bacterial chemotaxis
+                b4355 (tsr)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b4355 (tsr)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Chemotaxis proteins
+               MCPs
+                b4355 (tsr)
+POSITION    4591657..4593312
+MOTIF       Pfam: MCPsignal TarH HAMP COG6
+DBLINKS     NCBI-GeneID: 948884
+            NCBI-ProteinID: NP_418775
+            Pasteur: tsr
+            RegulonDB: ECK120001023
+            ECOCYC: EG11034
+            ASAP: ABE-0014282
+            UniProt: P02942
+STRUCTURE   PDB: 2D4U 3ATP 1QU7
+AASEQ       551
+            MLKRIKIVTSLLLVLAVFGLLQLTSGGLFFNALKNDKENFTVLQTIRQQQSTLNGSWVAL
+            LQTRNTLNRAGIRYMMDQNNIGSGSTVAELMESASISLKQAEKNWADYEALPRDPRQSTA
+            AAAEIKRNYDIYHNALAELIQLLGAGKINEFFDQPTQGYQDGFEKQYVAYMEQNDRLHDI
+            AVSDNNASYSQAMWILVGVMIVVLAVIFAVWFGIKASLVAPMNRLIDSIRHIAGGDLVKP
+            IEVDGSNEMGQLAESLRHMQGELMRTVGDVRNGANAIYSGASEIATGNNDLSSRTEQQAA
+            SLEETAASMEQLTATVKQNAENARQASHLALSASETAQRGGKVVDNVVQTMRDISTSSQK
+            IADIISVIDGIAFQTNILALNAAVEAARAGEQGRGFAVVAGEVRNLAQRSAQAAREIKSL
+            IEDSVGKVDVGSTLVESAGETMAEIVSAVTRVTDIMGEIASASDEQSRGIDQVGLAVAEM
+            DRVTQQNAALVEESAAAAAALEEQASRLTEAVAVFRIQQQQRETSAVVKTVTPAAPRKMA
+            VADSEENWETF
+NTSEQ       1656
+            atgttaaaacgtatcaaaattgtgaccagcttactgctggttttggccgtttttggcctt
+            ttacaactgacatcaggcggtctgttctttaatgccttaaagaatgacaaagaaaatttc
+            actgttttacaaaccattcgccagcagcaatccacgctgaatggcagctgggtcgcgttg
+            ttgcagacgcgtaacaccctcaaccgcgcgggtatccgctacatgatggatcagaataat
+            attggtagcggttcaaccgttgctgagctgatggagagtgccagtatttcgctgaaacag
+            gcggaaaaaaactgggcggattacgaagcgttgccgcgtgacccgcgtcagagcaccgcc
+            gcagcggcagagatcaaacgtaattacgatatttatcacaatgcgctggcggagctgatc
+            caactgttaggtgcaggcaaaatcaacgagttctttgatcagccgacccagggatatcag
+            gacggtttcgagaagcagtatgtggcttacatggagcaaaacgatcggctccatgatatc
+            gccgtcagcgataacaatgcctcctacagccaggcgatgtggattctggtgggcgtgatg
+            atcgtcgtactggcggtcatcttcgccgtctggttcggtattaaagcctcgctggtagcg
+            ccaatgaatcgcctgattgacagcattcgtcatattgcaggcggcgatctggtgaaaccg
+            attgaggtggatggctctaatgagatggggcaactggcagagagtttgcgccatatgcag
+            ggagagctgatgcgtaccgtcggtgatgtgcgcaacggggccaatgccatctatagcggt
+            gccagcgaaatcgccaccggcaataacgatctctcttcgcgcaccgagcaacaggccgct
+            tcgctggaagagacggcagccagcatggagcaactgaccgcaacggtgaagcagaacgcc
+            gaaaatgcgcgccaggccagccatctggcgttaagtgcttctgaaacggcgcaacgcggc
+            ggtaaagtggtagataacgtggtgcagactatgcgcgatatctccaccagttcgcagaaa
+            atcgccgatattatcagcgtaattgacggcattgccttccagaccaatattctggctttg
+            aacgcggcggttgaggctgcgcgtgcgggtgagcaagggcgcggttttgcggtggtcgcg
+            ggagaagtgcgtaatctggcccagcgcagcgcccaggcggctcgtgaaattaaaagcctg
+            attgaagactcggtggggaaagtggatgttggctctacgctggtcgaaagcgccggggaa
+            acaatggcggagattgtcagcgccgtgacccgcgtgacggacattatgggcgaaattgct
+            tctgcttctgatgagcagagccgtggtatcgatcaggttggcttagcggttgctgagatg
+            gaccgggtaactcaacagaacgccgcgctggtggaagagtctgccgctgccgccgccgcg
+            ctggaagagcaggccagtcgcctgaccgaagcagtggcagtgttccggattcagcaacag
+            cagcgtgaaacatcggctgtggtaaaaaccgtgacgccagctgcgccgcgtaaaatggcc
+            gtggcagatagcgaggagaactgggaaacattttaa
+///

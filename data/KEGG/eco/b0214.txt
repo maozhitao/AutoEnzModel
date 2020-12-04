@@ -1,0 +1,59 @@
+ENTRY       b0214             CDS       T00007
+NAME        rnhA
+DEFINITION  (RefSeq) ribonuclease HI
+ORTHOLOGY   K03469  ribonuclease HI [EC:3.1.26.4]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03030  DNA replication
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03030 DNA replication
+                b0214 (rnhA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b0214 (rnhA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.26  Endoribonucleases producing 5'-phosphomonoesters
+                3.1.26.4  ribonuclease H
+                 b0214 (rnhA)
+            DNA replication proteins [BR:eco03032]
+             Eukaryotic type
+              DNA Replication Elongation Factors
+               RNase H
+                b0214 (rnhA)
+             Prokaryotic type
+               Elongation factors (bacterial)
+                RNase H
+                 b0214 (rnhA)
+               Elongation factors (archaeal)
+                 b0214 (rnhA)
+POSITION    complement(235535..236002)
+MOTIF       Pfam: RNase_H RVT_3 PM0188
+DBLINKS     NCBI-GeneID: 946955
+            NCBI-ProteinID: NP_414750
+            Pasteur: rnhA
+            RegulonDB: ECK120000851
+            ECOCYC: EG10860
+            ASAP: ABE-0000717
+            UniProt: P0A7Y4
+STRUCTURE   PDB: 1JL1 2YV0 1F21 2RN2 1JXB 3AA4 1KVA 1LAV 1LAW 1RBR 1RBS
+                 1RBT 1RBU 1RBV 3AA2 1WSH 1G15 1KVB 1KVC 1RDB 1GOA 4Z0U
+                 1WSI 1WSJ 1GOB 1GOC 1RNH 3AA5 2Z1G 1RDA 3AA3 1WSG 1WSE
+                 1WSF 1RDC 2Z1H 1RDD 1RCH
+AASEQ       155
+            MLKQVEIFTDGSCLGNPGPGGYGAILRYRGREKTFSAGYTRTTNNRMELMAAIVALEALK
+            EHCEVILSTDSQYVRQGITQWIHNWKKRGWKTADKKPVKNVDLWQRLDAALGQHQIKWEW
+            VKGHAGHPENERCDELARAAAMNPTLEDTGYQVEV
+NTSEQ       468
+            atgcttaaacaggtagaaattttcaccgatggttcgtgtctgggcaatccaggacctggg
+            ggttacggcgctattttacgctatcgcggacgcgagaaaacctttagcgctggctacacc
+            cgcaccaccaacaaccgtatggagttgatggccgctattgtcgcgctggaggcgttaaaa
+            gaacattgcgaagtcattttgagtaccgacagccagtatgtccgccagggtatcacccag
+            tggatccataactggaaaaaacgtggctggaaaaccgcagacaaaaaaccagtaaaaaat
+            gtcgatctctggcaacgtcttgatgctgcattggggcagcatcaaatcaaatgggaatgg
+            gttaaaggccatgccggacacccggaaaacgaacgctgtgatgaactggctcgtgccgcg
+            gcgatgaatcccacactggaagatacaggctaccaagttgaagtttaa
+///

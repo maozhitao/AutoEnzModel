@@ -1,0 +1,30 @@
+ENTRY       b1166             CDS       T00007
+NAME        ariR
+DEFINITION  (RefSeq) regulator of acid resistance, influenced by indole
+ORTHOLOGY   K21976  probable RcsB/C two-component-system connector, global regulator of biofilm formation and acid-resistance
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09193 Unclassified: signaling and cellular processes
+               99995 Signaling proteins
+                b1166 (ariR)
+POSITION    1216369..1216635
+MOTIF       Pfam: YmgB
+DBLINKS     NCBI-GeneID: 945340
+            NCBI-ProteinID: NP_415684
+            Pasteur: ymgB
+            RegulonDB: ECK120003201
+            ECOCYC: G6606
+            ASAP: ABE-0003911
+            UniProt: P75993
+STRUCTURE   PDB: 2OXL
+AASEQ       88
+            MLEDTTIHNAITDKALASYFRSSGNLLEEESAVLGQAVTNLMLSGDNVNNKNIILSLIHS
+            LETTSDILKADVIRKTLEIVLRYTADDM
+NTSEQ       267
+            atgcttgaagatactacaattcataatgcaataactgataaagcgttagcaagttacttt
+            cgcagttcgggtaatttgttagaagaagaatcagcagtgttagggcaggctgtcaccaat
+            ttaatgctttcaggcgataatgttaataataaaaatattatcttaagtctgatacactcc
+            ttggaaacaacaagtgatattctcaaagctgatgtgattagaaaaacactggaaatcgtg
+            ttgcgatacacagctgatgatatgtaa
+///

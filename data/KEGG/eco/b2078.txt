@@ -1,0 +1,76 @@
+ENTRY       b2078             CDS       T00007
+NAME        baeS
+DEFINITION  (RefSeq) sensory histidine kinase BaeS
+ORTHOLOGY   K07642  two-component system, OmpR family, sensor histidine kinase BaeS [EC:2.7.13.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b2078 (baeS)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b2078 (baeS)
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b2078 (baeS)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 b2078 (baeS)
+            Protein kinases [BR:eco01001]
+             Histidine kinases
+              OmpR family
+               b2078 (baeS)
+            Two-component system [BR:eco02022]
+             OmpR family
+              BaeS-BaeR (envelope stress response)
+               b2078 (baeS)
+POSITION    2162876..2164279
+MOTIF       Pfam: HATPase_c HAMP HisKA
+DBLINKS     NCBI-GeneID: 946611
+            NCBI-ProteinID: NP_416582
+            Pasteur: baeS
+            RegulonDB: ECK120001565
+            ECOCYC: EG11617
+            ASAP: ABE-0006882
+            UniProt: P30847
+AASEQ       467
+            MKFWRPGITGKLFLAIFATCIVLLISMHWAVRISFERGFIDYIKHGNEQRLQLLSDALGE
+            QYAQHGNWRFLRNNDRFVFQILRSFEHDNSEDKPGPGMPPHGWRTQFWVVDQNNKVLVGP
+            RAPIPPDGTRRPILVNGAEVGAVIASPVERLTRNTDINFDKQQRQTSWLIVALATLLAAL
+            ATFLLARGLLAPVKRLVDGTHKLAAGDFTTRVTPTSEDELGKLAQDFNQLASTLEKNQQM
+            RRDFMADISHELRTPLAVLRGELEAIQDGVRKFTPETVASLQAEVGTLTKLVDDLHQLSM
+            SDEGALAYQKAPVDLIPLLEVAGGAFRERFASRGLKLQFSLPDSITVFGDRDRLMQLFNN
+            LLENSLRYTDSGGSLQISAGQRDKTVRLTFADSAPGVSDDQLQKLFERFYRTEGSRNRAS
+            GGSGLGLAICLNIVEAHNGRIIAAHSPFGGVSITVELPLERDLQREV
+NTSEQ       1404
+            atgaagttctggcgacccggtattaccggcaaactgtttctggcgattttcgccacctgc
+            attgtcttgctgatcagtatgcactgggcggtgcgtatcagttttgagcgtggctttatt
+            gattacatcaagcatggtaatgaacagcgattacaactgttaagtgatgcgcttggcgag
+            cagtatgcgcagcatggcaactggcgcttcctgcgcaacaatgatcgctttgtctttcag
+            atcctgcgttcatttgaacacgataattcggaagataaacccggcccgggtatgccaccg
+            cacggctggcgtacccagttctgggtggttgatcaaaacaacaaagtgctggttggtccg
+            cgagcgccgattccacctgacggtacacggcgacccattctggtcaacggtgcggaagtt
+            ggcgcggtgatcgcctcccccgttgagcggttaacgcgcaatactgatatcaatttcgat
+            aaacaacagcggcaaaccagctggttgattgtcgccctggcaacgttactcgcggcactt
+            gccacttttctgctggcgcgcggtttactggcaccggtaaaacgacttgtcgatggcacg
+            cacaaactggcggcgggcgatttcactacccgcgtaacgcccaccagtgaagatgaactg
+            ggcaaactggcgcaagacttcaaccagcttgccagcacactggagaaaaaccagcaaatg
+            cggcgcgattttatggccgatatttctcacgaactgcgtacgccattagcggtgctgcgc
+            ggtgaactggaagccattcaggatggcgtgcgtaaattcacgccggagacggtggcgtct
+            ttacaggcggaggtcggtacactgaccaaactggttgacgatctccatcagttgtcgatg
+            tctgatgaaggcgctctcgcctatcaaaaagcaccggtagatttgatcccactgctggaa
+            gtggcgggcggcgcatttcgcgaacgattcgccagtcgtggcctgaaactgcaattttcc
+            ctgccagacagtattaccgtatttggcgatcgcgaccgtttaatgcagttattcaataac
+            ttactggaaaacagcctgcgctacactgacagcggcggcagcctgcaaatctctgccggg
+            cagcgcgacaaaacggtgcgcctgacctttgccgacagtgcgccaggtgtcagtgacgat
+            cagctacaaaaattgtttgaacgtttttatcgcaccgaaggttcccgcaaccgtgccagc
+            ggcggttccgggctggggctggcgatttgcctgaacattgttgaagcacataatggtcgc
+            attattgctgcccattcgccttttggcggggtaagcattacagtagagttaccgctggaa
+            cgggatttacagagagaagtatga
+///

@@ -1,0 +1,80 @@
+ENTRY       b4114             CDS       T00007
+NAME        eptA
+DEFINITION  (RefSeq) phosphoethanolamine transferase EptA
+ORTHOLOGY   K03760  lipid A ethanolaminephosphotransferase [EC:2.7.8.43]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00540  Lipopolysaccharide biosynthesis
+            eco01100  Metabolic pathways
+            eco01503  Cationic antimicrobial peptide (CAMP) resistance
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09107 Glycan biosynthesis and metabolism
+               00540 Lipopolysaccharide biosynthesis
+                b4114 (eptA)
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b4114 (eptA)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01005 Lipopolysaccharide biosynthesis proteins [BR:eco01005]
+                b4114 (eptA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.8  Transferases for other substituted phosphate groups
+                2.7.8.43  lipid A phosphoethanolamine transferase
+                 b4114 (eptA)
+            Lipopolysaccharide biosynthesis proteins [BR:eco01005]
+             Lipid A
+              b4114 (eptA)
+POSITION    complement(4333947..4335590)
+MOTIF       Pfam: Sulfatase EptA_B_N Rhomboid
+DBLINKS     NCBI-GeneID: 948629
+            NCBI-ProteinID: NP_418538
+            Pasteur: yjdB
+            RegulonDB: ECK120001561
+            ECOCYC: EG11613
+            ASAP: ABE-0013469
+            UniProt: P30845
+AASEQ       547
+            MLKRLLKRPSLNLLAWLLLAAFYISICLNIAFFKQVLQALPLDSLHNVLVFLSMPVVAFS
+            VINIVLTLSSFLWLNRPLACLFILVGAAAQYFIMTYGIVIDRSMIANIIDTTPAESYALM
+            TPQMLLTLGFSGVLAALIACWIKIKPATSRLRSVLFRGANILVSVLLILLVAALFYKDYA
+            SLFRNNKELVKSLSPSNSIVASWSWYSHQRLANLPLVRIGEDAHRNPLMQNEKRKNLTIL
+            IVGETSRAENFSLNGYPRETNPRLAKDNVVYFPNTASCGTATAVSVPCMFSDMPREHYKE
+            ELAQHQEGVLDIIQRAGINVLWNDNDGGCKGACDRVPHQNVTALNLPDQCINGECYDEVL
+            FHGLEEYINNLQGDGVIVLHTIGSHGPTYYNRYPPQFRKFTPTCDTNEIQTCTKEQLVNT
+            YDNTLVYVDYIVDKAINLLKEHQDKFTTSLVYLSDHGESLGENGIYLHGLPYAIAPDSQK
+            QVPMLLWLSEDYQKRYQVDQNCLQKQAQTQHYSQDNLFSTLLGLTGVETKYYQAADDILQ
+            TCRRVSE
+NTSEQ       1644
+            atgttgaagcgcctactaaaaagaccctctttgaatttactcgcctggctattgttggcc
+            gctttttatatctctatctgcctgaatattgccttttttaaacaggtgttgcaggcgctg
+            ccgctggattcgctgcataacgtactggttttcttgtcgatgccggtcgtcgctttcagc
+            gtgattaatattgtcctgacactaagctctttcttatggcttaatcgaccactggcctgc
+            ctgtttattctggttggcgcggctgcacaatatttcataatgacttacggcatcgtcatc
+            gaccgctcgatgattgccaatattattgataccactccggcagaaagttatgcgctgatg
+            acaccgcaaatgttattaacgctgggattcagcggcgtgcttgctgcgctgattgcctgc
+            tggataaaaatcaaacctgccacctcgcgtctgcgcagtgttcttttccgtggagccaat
+            attctggtttctgtactactgattttgctggtcgccgcactgttttataaagactacgcc
+            tcgttgttccgcaataacaaagagctggtgaaatccttaagcccctctaacagcattgtt
+            gccagctggtcatggtactcccatcagcgactggcaaatctgccgctggtgcgaattggt
+            gaagacgcgcaccgcaacccgttaatgcagaacgaaaaacgtaaaaatttgaccatcctg
+            attgtcggcgaaacctcgcgggcggagaacttctccctcaacggctacccgcgtgaaact
+            aacccgcggctggcgaaagataacgtggtctatttccctaataccgcatcttgcggcacg
+            gcaacggcagtttcagtaccgtgcatgttctcggatatgccgcgtgagcactacaaagaa
+            gagctggcacagcaccaggaaggcgtgctggatatcattcagcgagcgggcatcaacgtg
+            ctgtggaatgacaacgatggcggctgtaaaggtgcctgcgaccgcgtgcctcaccagaac
+            gtcaccgcgctgaatctacctgatcagtgcatcaacggcgaatgctatgacgaagtgctg
+            ttccacgggcttgaagagtacatcaataacctgcaaggtgatggcgtgattgtcttacac
+            accatcggcagccacggtccgacctattacaaccgctatccgcctcagttcaggaaattt
+            accccaacctgcgacaccaatgagatccagacctgtaccaaagagcaactggtgaacact
+            tacgacaacacgctggtttacgtcgactatattgttgataaagcgattaatctgctgaaa
+            gaacatcaggataaatttaccaccagcctggtttatctttctgaccacggtgaatcgtta
+            ggtgaaaatggcatctatctgcacggtctgccttatgccatcgccccggatagccaaaaa
+            caggtgccgatgctgctgtggctgtcggaggattatcaaaaacggtatcaggttgaccag
+            aactgcctgcaaaaacaggcgcaaacgcaacactattcacaagacaatttattctccacg
+            ctattgggattaactggcgttgagacgaagtattaccaggctgcggatgatattctgcaa
+            acttgcaggagagtgagtgaatga
+///

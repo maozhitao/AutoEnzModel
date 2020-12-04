@@ -1,0 +1,43 @@
+ENTRY       b3302             CDS       T00007
+NAME        rpmD
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L30
+ORTHOLOGY   K02907  large subunit ribosomal protein L30
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3302 (rpmD)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3302 (rpmD)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b3302 (rpmD)
+              Bacteria
+                b3302 (rpmD)
+              Archaea
+                b3302 (rpmD)
+POSITION    complement(3444543..3444722)
+MOTIF       Pfam: Ribosomal_L30
+DBLINKS     NCBI-GeneID: 947797
+            NCBI-ProteinID: NP_417761
+            Pasteur: rpmD
+            RegulonDB: ECK120000879
+            ECOCYC: EG10888
+            ASAP: ABE-0010821
+            UniProt: P0AG51
+STRUCTURE   PDB: 6QUL 6S0K 6I0Y 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH 4UY8
+                 3J7Z 6GC4 6GC6 6GC7 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L 2J28
+                 2RDO 3BBX 3IY9
+AASEQ       59
+            MAKTIKITQTRSAIGRLPKHKATLLGLGLRRIGHTVEREDTPAIRGMINAVSFMVKVEE
+NTSEQ       180
+            atggcaaagactattaaaattactcaaacccgcagtgcaatcggtcgtctgccgaaacac
+            aaggcaacgctgcttggcctgggtctgcgtcgtattggtcacaccgtagagcgcgaggat
+            actcctgctattcgcggtatgatcaacgcggtttccttcatggttaaagttgaggagtaa
+///

@@ -1,0 +1,53 @@
+ENTRY       b3347             CDS       T00007
+NAME        fkpA
+DEFINITION  (RefSeq) peptidyl-prolyl cis-trans isomerase FkpA
+ORTHOLOGY   K03772  FKBP-type peptidyl-prolyl cis-trans isomerase FkpA [EC:5.2.1.8]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b3347 (fkpA)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.2  cis-trans-Isomerases
+               5.2.1  cis-trans Isomerases (only sub-subclass identified to date)
+                5.2.1.8  peptidylprolyl isomerase
+                 b3347 (fkpA)
+            Chaperones and folding catalysts [BR:eco03110]
+             Protein folding catalysts
+              Peptidyl prolyl isomerase
+               FKBP
+                b3347 (fkpA)
+POSITION    complement(3476607..3477419)
+MOTIF       Pfam: FKBP_C FKBP_N DUF4827 Stathmin BURP
+DBLINKS     NCBI-GeneID: 947850
+            NCBI-ProteinID: NP_417806
+            Pasteur: fkpA
+            RegulonDB: ECK120004261
+            ECOCYC: G7716
+            ASAP: ABE-0010938
+            UniProt: P45523
+STRUCTURE   PDB: 1Q6H 1Q6I 1Q6U
+AASEQ       270
+            MKSLFKVTLLATTMAVALHAPITFAAEAAKPATAADSKAAFKNDDQKSAYALGASLGRYM
+            ENSLKEQEKLGIKLDKDQLIAGVQDAFADKSKLSDQEIEQTLQAFEARVKSSAQAKMEKD
+            AADNEAKGKEYREKFAKEKGVKTSSTGLVYQVVEAGKGEAPKDSDTVVVNYKGTLIDGKE
+            FDNSYTRGEPLSFRLDGVIPGWTEGLKNIKKGGKIKLVIPPELAYGKAGVPGIPPNSTLV
+            FDVELLDVKPAPKADAKPEADAKAADSAKK
+NTSEQ       813
+            atgaaatcactgtttaaagtaacgctgctggcgaccacaatggccgttgccctgcatgca
+            ccaatcacttttgctgctgaagctgcaaaacctgctacagctgctgacagcaaagcagcg
+            ttcaaaaatgacgatcagaaatcagcttatgcactgggtgcctcgctgggtcgttacatg
+            gaaaactctctaaaagaacaagaaaaactgggcatcaaactggataaagatcagctgatc
+            gctggtgttcaggatgcatttgctgataagagcaaactctccgaccaagagatcgaacag
+            actctacaagcattcgaagctcgcgtgaagtcttctgctcaggcgaagatggaaaaagac
+            gcggctgataacgaagcaaaaggtaaagagtaccgcgagaaatttgccaaagagaaaggt
+            gtgaaaacctcttcaactggtctggtttatcaggtagtagaagccggtaaaggcgaagca
+            ccgaaagacagcgatactgttgtagtgaactacaaaggtacgctgatcgacggtaaagag
+            ttcgacaactcttacacccgtggtgaaccgctttctttccgtctggacggtgttatcccg
+            ggttggacagaaggtctgaagaacatcaagaaaggcggtaagatcaaactggttattcca
+            ccagaactggcttacggcaaagcgggtgttccggggatcccaccgaattctaccctggtg
+            tttgacgtagagctgctggatgtgaaaccagcgccgaaggctgatgcaaagccggaagct
+            gatgcgaaagccgcagattctgctaaaaaataa
+///

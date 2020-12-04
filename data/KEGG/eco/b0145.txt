@@ -1,0 +1,58 @@
+ENTRY       b0145             CDS       T00007
+NAME        dksA
+DEFINITION  (RefSeq) RNA polymerase-binding transcription factor DksA
+ORTHOLOGY   K06204  DnaK suppressor protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b0145 (dksA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0145 (dksA)
+               03021 Transcription machinery [BR:eco03021]
+                b0145 (dksA)
+               03009 Ribosome biogenesis [BR:eco03009]
+                b0145 (dksA)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Other transcription factors
+               Others
+                b0145 (dksA)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               Other transcription-related factors
+                Transcription elongation factors
+                 b0145 (dksA)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA transcription factors
+               b0145 (dksA)
+POSITION    complement(160149..160604)
+MOTIF       Pfam: zf-dskA_traR DZR
+DBLINKS     NCBI-GeneID: 944850
+            NCBI-ProteinID: NP_414687
+            Pasteur: dksA
+            RegulonDB: ECK120000224
+            ECOCYC: EG10230
+            ASAP: ABE-0000499
+            UniProt: P0ABS1
+STRUCTURE   PDB: 1TJL 5VSW 5W1T
+AASEQ       151
+            MQEGQNRKTSSLSILAIAGVEPYQEKPGEEYMNEAQLAHFRRILEAWRNQLRDEVDRTVT
+            HMQDEAANFPDPVDRAAQEEEFSLELRNRDRERKLIKKIEKTLKKVEDEDFGYCESCGVE
+            IGIRRLEARPTADLCIDCKTLAEIREKQMAG
+NTSEQ       456
+            atgcaagaagggcaaaaccgtaaaacatcgtccctgagtattctcgccatcgctggggtg
+            gaaccatatcaggagaagccgggcgaagagtatatgaatgaagcccagctggcgcacttc
+            cgtcgtattctggaagcatggcgtaatcaactcagggatgaagtcgatcgcaccgttaca
+            catatgcaggatgaagcagccaacttcccggacccggtagaccgtgcagcccaggaagaa
+            gagttcagcctcgaactgcgtaaccgcgatcgcgagcgtaagctgatcaaaaagatcgag
+            aagacgctgaaaaaagtggaagacgaagatttcggctactgcgaatcctgcggtgttgaa
+            attggtattcgccgtctggaagcgcgcccgacagccgatctgtgcatcgactgcaaaacg
+            ctggctgaaattcgcgaaaaacagatggctggctaa
+///

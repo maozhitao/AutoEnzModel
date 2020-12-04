@@ -1,0 +1,61 @@
+ENTRY       b2042             CDS       T00007
+NAME        galF
+DEFINITION  (RefSeq) UTP:glucose-1-phosphate uridylyltransferase, low activity
+ORTHOLOGY   K00963  UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00040  Pentose and glucuronate interconversions
+            eco00052  Galactose metabolism
+            eco00500  Starch and sucrose metabolism
+            eco00520  Amino sugar and nucleotide sugar metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+MODULE      eco_M00549  Nucleotide sugar biosynthesis, glucose => UDP-glucose
+            eco_M00854  Glycogen biosynthesis, glucose-1P => glycogen/starch
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00040 Pentose and glucuronate interconversions
+                b2042 (galF)
+               00052 Galactose metabolism
+                b2042 (galF)
+               00500 Starch and sucrose metabolism
+                b2042 (galF)
+               00520 Amino sugar and nucleotide sugar metabolism
+                b2042 (galF)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.9  UTP---glucose-1-phosphate uridylyltransferase
+                 b2042 (galF)
+POSITION    complement(2113434..2114327)
+MOTIF       Pfam: NTP_transferase NTP_transf_3
+DBLINKS     NCBI-GeneID: 946560
+            NCBI-ProteinID: NP_416546
+            Pasteur: galF
+            RegulonDB: ECK120003679
+            ASAP: ABE-0006771
+            UniProt: P0AAB6
+AASEQ       297
+            MTNLKAVIPVAGLGMHMLPATKAIPKEMLPIVDKPMIQYIVDEIVAAGIKEILLVTHASK
+            NAVENHFDTSYELESLLEQRVKRQLLAEVQSICPPGVTIMNVRQGEPLGLGHSILCARPA
+            IGDNPFVVVLPDVVIDDASADPLRYNLAAMIARFNETGRSQVLAKRMPGDLSEYSVIQTK
+            EPLDREGKVSRIVEFIEKPDQPQTLDSDIMAVGRYVLSADIWPELERTQPGAWGRIQLTD
+            AIAELAKKQSVDAMLMTGDSYDCGKKMGYMQAFVKYGLRNLKEGAKFRKGIEKLLSE
+NTSEQ       894
+            atgacgaatttaaaagcagttattcctgtagcgggtctcgggatgcatatgttgcctgcc
+            actaaggcgatacccaaagagatgctaccaatcgtcgacaagccaatgattcagtacatt
+            gttgacgagattgtggctgcagggatcaaagaaatcctcctggtaactcacgcgtccaag
+            aacgcggtcgaaaaccacttcgacacctcttatgagttagaatcactccttgagcagcgc
+            gtgaagcgtcaactgctggcggaagtacagtccatctgtccgccgggcgtgaccattatg
+            aacgtgcgtcagggcgaacctttaggtttaggccactccattttgtgtgcgcgacctgcc
+            attggtgacaacccatttgtcgtggtactgccagacgttgtgatcgacgatgccagcgcc
+            gacccgctacgttacaaccttgctgccatgattgcacgtttcaacgaaacgggccgcagc
+            caggtgctggcaaaacgtatgccgggtgacctctctgaatactccgtcatccagactaaa
+            gagccgctggaccgtgagggtaaagtcagccgcattgttgaatttatcgaaaaaccggat
+            cagccgcagacgctggactcagacatcatggccgtaggtcgctatgtgctttctgccgat
+            atttggccggaactggaacgtactcagcctggtgcatggggacgtattcagctgactgat
+            gctattgccgagctggcgaaaaaacaatccgttgatgcaatgctgatgaccggcgacagt
+            tacgactgcggcaaaaaaatgggctatatgcaggcgtttgtgaagtatggcctacgcaac
+            ctgaaagaaggggcgaagttccgtaaaggtattgagaagctgttaagcgaataa
+///

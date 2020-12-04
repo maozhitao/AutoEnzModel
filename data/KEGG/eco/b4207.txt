@@ -1,0 +1,48 @@
+ENTRY       b4207             CDS       T00007
+NAME        fklB
+DEFINITION  (RefSeq) FKBP-type peptidyl-prolyl cis-trans isomerase FklB
+ORTHOLOGY   K03773  FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03110 Chaperones and folding catalysts [BR:eco03110]
+                b4207 (fklB)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.2  cis-trans-Isomerases
+               5.2.1  cis-trans Isomerases (only sub-subclass identified to date)
+                5.2.1.8  peptidylprolyl isomerase
+                 b4207 (fklB)
+            Chaperones and folding catalysts [BR:eco03110]
+             Protein folding catalysts
+              Peptidyl prolyl isomerase
+               FKBP
+                b4207 (fklB)
+POSITION    4428935..4429555
+MOTIF       Pfam: FKBP_C FKBP_N
+DBLINKS     NCBI-GeneID: 948726
+            NCBI-ProteinID: NP_418628
+            Pasteur: fklB
+            RegulonDB: ECK120004360
+            ECOCYC: G7865
+            ASAP: ABE-0013759
+            UniProt: P0A9L3
+AASEQ       206
+            MTTPTFDTIEAQASYGIGLQVGQQLSESGLEGLLPEALVAGIADALEGKHPAVPVDVVHR
+            ALREIHERADAVRRQRFQAMAAEGVKYLEENAKKEGVNSTESGLQFRVINQGEGAIPART
+            DRVRVHYTGKLIDGTVFDSSVARGEPAEFPVNGVIPGWIEALTLMPVGSKWELTIPQELA
+            YGERGAGASIPPFSTLVFEVELLEIL
+NTSEQ       621
+            atgaccaccccaacttttgacaccatcgaagcgcaagcaagctacggcattggtttgcag
+            gtagggcaacaactgagtgaatctggcctggaagggctgctgccagaagcactggttgca
+            ggtattgccgatgcgctggaaggcaaacatccggctgttccggttgatgtggtgcatcgc
+            gcgctgcgtgaaatccacgagcgcgccgatgccgttcgtcgtcagcgtttccaggcgatg
+            gctgctgaaggtgtgaaatacctggaagaaaacgccaaaaaagaaggtgtgaatagcacc
+            gaatctggcctgcaattccgcgtgatcaaccagggtgaaggcgcaattccggcacgtacc
+            gaccgcgttcgtgttcattacaccggtaaactgatcgacggcaccgtgtttgacagctcc
+            gttgctcgtggtgaacccgctgaattcccggttaatggcgtgatccctggctggattgaa
+            gcactgactctgatgccggtaggttctaaatgggaactgactatcccgcaggaactggca
+            tatggcgagcgcggcgcaggcgcatccatccctccgttcagcaccctggtgtttgaagtc
+            gaactgctggaaatcctctaa
+///

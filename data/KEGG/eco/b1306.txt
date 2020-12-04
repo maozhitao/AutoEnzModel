@@ -1,0 +1,43 @@
+ENTRY       b1306             CDS       T00007
+NAME        pspC
+DEFINITION  (RefSeq) phage shock protein C
+ORTHOLOGY   K03973  phage shock protein C
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1306 (pspC)
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b1306 (pspC)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Other transcription factors
+               Others
+                b1306 (pspC)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               PspC-PspB
+                b1306 (pspC)
+POSITION    1369025..1369384
+MOTIF       Pfam: PspC PSD1
+DBLINKS     NCBI-GeneID: 945499
+            NCBI-ProteinID: NP_415822
+            Pasteur: pspC
+            RegulonDB: ECK120000769
+            ECOCYC: EG10778
+            ASAP: ABE-0004391
+            UniProt: P0AFN2
+AASEQ       119
+            MAGINLNKKLWRIPQQGMVRGVCAGIANYFDVPVKLVRILVVLSIFFGLALFTLVAYIIL
+            SFALDPMPDNMAFGEQLPSSSELLDEVDRELAASETRLREMERYVTSDTFTLRSRFRQL
+NTSEQ       360
+            atggcgggcattaatctcaataaaaaattatggcgtattccacagcagggcatggtccgc
+            ggcgtctgcgccgggattgccaactattttgatgtaccggtaaaactggtgcgtatcctg
+            gtggtgctgtcgattttcttcggtctggcgctgtttaccctggttgcttacatcattttg
+            tcatttgcgcttgatccaatgccggacaacatggcctttggtgagcagctaccttccagc
+            agcgaattgctggatgaagtcgaccgtgaactggcggcaagtgaaacgcgtttacgcgag
+            atggaacgttatgtcacttccgatactttcacgttacgtagccgtttccgtcaactgtga
+///

@@ -1,0 +1,37 @@
+ENTRY       b0461             CDS       T00007
+NAME        tomB
+DEFINITION  (RefSeq) protein that modulates Hha toxicity
+ORTHOLOGY   K19162  hha toxicity modulator TomB
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b0461 (tomB)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               Hha-TomB
+                b0461 (tomB)
+POSITION    complement(480334..480708)
+MOTIF       Pfam: YbaJ LMP
+DBLINKS     NCBI-GeneID: 945106
+            NCBI-ProteinID: NP_414994
+            Pasteur: ybaJ
+            RegulonDB: ECK120002285
+            ECOCYC: EG12429
+            ASAP: ABE-0001596
+            UniProt: P0AAR0
+AASEQ       124
+            MDEYSPKRHDIAQLKFLCETLYHDCLANLEESNHGWVNDPTSAINLQLNELIEHIATFAL
+            NYKIKYNEDNKLIEQIDEYLDDTFMLFSSYGINMQDLQKWRKSGNRLFRCFVNATKENPA
+            SLSC
+NTSEQ       375
+            atggatgaatactcacccaaaagacatgatatcgcacagcttaagtttctctgtgaaacc
+            ctgtatcatgactgccttgcaaaccttgaagaaagcaatcatggctgggtaaacgaccca
+            acctcggcgatcaacctccagttgaatgaactgattgagcatattgcgaccttcgcactt
+            aattacaaaattaagtataatgaagacaataagctcattgagcagatcgacgaatatctg
+            gatgacacctttatgttgttcagtagttatggtattaatatgcaggatcttcagaaatgg
+            cggaagtcaggtaatcgactattccgttgttttgtcaatgcgacgaaagagaatcctgcg
+            agtttatcttgttag
+///

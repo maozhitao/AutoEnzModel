@@ -1,0 +1,75 @@
+ENTRY       b3081             CDS       T00007
+NAME        fadH
+DEFINITION  (RefSeq) 2,4-dienoyl-CoA reductase
+ORTHOLOGY   K00219  2,4-dienoyl-CoA reductase (NADPH2) [EC:1.3.1.34]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b3081 (fadH)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.3  Acting on the CH-CH group of donors
+               1.3.1  With NAD+ or NADP+ as acceptor
+                1.3.1.34  2,4-dienoyl-CoA reductase [(2E)-enoyl-CoA-producing]
+                 b3081 (fadH)
+POSITION    3231665..3233683
+MOTIF       Pfam: Oxidored_FMN Pyr_redox_2 DAO NAD_binding_8 Pyr_redox Pyr_redox_3 HI0933_like FAD_oxidored FAD_binding_2 GIDA FAD_binding_3 3HCDH_N Thi4 UDPG_MGDP_dh_N AlaDh_PNT_C NAD_binding_9 NAD_Gly3P_dh_N ThiF GoLoco Lycopene_cycl
+DBLINKS     NCBI-GeneID: 947594
+            NCBI-ProteinID: NP_417552
+            Pasteur: fadH
+            RegulonDB: ECK120002681
+            ECOCYC: G36
+            ASAP: ABE-0010124
+            UniProt: P42593
+STRUCTURE   PDB: 1PS9
+AASEQ       672
+            MSYPSLFAPLDLGFTTLKNRVLMGSMHTGLEEYPDGAERLAAFYAERARHGVALIVSGGI
+            APDLTGVGMEGGAMLNDASQIPHHRTITEAVHQEGGKIALQILHTGRYSYQPHLVAPSAL
+            QAPINRFVPHELSHEEILQLIDNFARCAQLAREAGYDGVEVMGSEGYLINEFLTLRTNQR
+            SDQWGGDYRNRMRFAVEVVRAVRERVGNDFIIIYRLSMLDLVEDGGTFAETVELAQAIEA
+            AGATIINTGIGWHEARIPTIATPVPRGAFSWVTRKLKGHVSLPLVTTNRINDPQVADDIL
+            SRGDADMVSMARPFLADAELLSKAQSGRADEINTCIGCNQACLDQIFVGKVTSCLVNPRA
+            CHETKMPILPAVQKKNLAVVGAGPAGLAFAINAAARGHQVTLFDAHSEIGGQFNIAKQIP
+            GKEEFYETLRYYRRMIEVTGVTLKLNHTVTADQLQAFDETILASGIVPRTPPIDGIDHPK
+            VLSYLDVLRDKAPVGNKVAIIGCGGIGFDTAMYLSQPGESTSQNIAGFCNEWGIDSSLQQ
+            AGGLSPQGMQIPRSPRQIVMLQRKASKPGQGLGKTTGWIHRTTLLSRGVKMIPGVSYQKI
+            DDDGLHVVINGETQVLAVDNVVICAGQEPNRALAQPLIDSGKTVHLIGGCDVAMELDARR
+            AIAQGTRLALEI
+NTSEQ       2019
+            atgagctacccgtcgctgttcgccccgctggatttaggttttaccacgttaaaaaaccgc
+            gtgttgatgggctcaatgcacaccgggctggaggaatacccggacggtgccgagcggctg
+            gcagcgttttatgccgaacgcgcccgtcacggcgtggcgctgattgtcagcggcggcatt
+            gcaccagatttaacaggcgttggcatggaaggtggcgcaatgctcaacgacgccagccag
+            atcccacaccatcgcaccattaccgaagcggtacatcaggaaggcggcaaaatagccctg
+            caaattttgcataccgggcgctacagctaccaaccgcatctggtcgccccgtccgcattg
+            caggcccccatcaaccgtttcgtgccccatgagttaagccatgaagagatcctgcaactg
+            atcgacaatttcgcccgctgcgcgcaactggcgcgggaggcaggatacgacggtgtagag
+            gtgatgggttccgaagggtatttgatcaacgaatttctgacgctgcgcaccaatcagcgt
+            agtgaccagtggggcggcgattaccgcaaccggatgcgatttgccgtagaagtagtgcgt
+            gcggtgcgcgaacgcgtcggcaacgacttcattattatctaccgactgtcgatgctcgac
+            ctggtcgaagacggcgggacttttgccgaaacggtagagctggcgcaggccattgaagcg
+            gcgggcgcgaccattatcaacaccggcattggctggcatgaagcacgtattccgaccatt
+            gccacgcccgtgccgcgcggcgcatttagctgggtcacgcgcaaactgaaaggccacgtc
+            tcgctgccgctggtaaccaccaaccggattaacgatccgcaggttgccgacgatattctc
+            tcgcgcggcgatgccgatatggtatcgatggcgcgaccgtttcttgctgatgcggagctg
+            ctgtcaaaagcgcaatcgggacgagccgatgagatcaacacttgtattggctgcaatcag
+            gcctgtctcgatcaaatcttcgttggcaaagtcacctcgtgcctggtgaatcctcgcgcc
+            tgccacgaaaccaaaatgccaatccttcccgccgtgcagaaaaaaaatctggcggtggtc
+            ggtgcgggacctgctgggctggcgtttgccattaacgcggcggcgcgtgggcatcaggta
+            acattgtttgacgctcatagcgagattggcgggcagtttaatatcgccaaacagatcccc
+            ggcaaagaggagttttacgaaacgctgcgctattaccgccggatgatcgaagtgacgggc
+            gtgacgctaaaactcaatcacaccgtgacggcggatcagttacaggctttcgatgaaacg
+            atcctcgccagtgggatcgtgccgcgcactccgcccatcgacgggatcgatcatccgaag
+            gtattgagttatctcgatgtactgcgcgacaaagcgccggttggcaacaaagttgccatc
+            atcggttgtggcgggattggttttgatacggcgatgtatttaagtcagccgggcgaatcc
+            accagccagaatatcgccgggttctgtaatgaatgggggatcgacagtagcctacaacag
+            gctggtggcttaagcccgcagggaatgcagatcccccgtagcccacggcagattgtgatg
+            ctccagcgcaaagccagcaaaccaggacaggggttaggcaaaaccaccggctggatccat
+            cgcaccaccctgctctcgcggggtgtgaaaatgatcccaggcgtaagttatcagaagatt
+            gacgatgacgggctgcatgtggtgatcaacggcgaaacgcaggtattagcagtggacaat
+            gtggtgatctgcgcagggcaagagccaaaccgcgcgctggcgcaaccgctgattgatagc
+            gggaaaacggtgcatttaattggcggctgcgatgtggctatggagctggacgcacgacgg
+            gcaattgcccagggaacacggctggcgctggagatttaa
+///

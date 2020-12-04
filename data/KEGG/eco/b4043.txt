@@ -1,0 +1,56 @@
+ENTRY       b4043             CDS       T00007
+NAME        lexA
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor LexA
+ORTHOLOGY   K01356  repressor LexA [EC:3.4.21.88]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b4043 (lexA)
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b4043 (lexA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.88  repressor LexA
+                 b4043 (lexA)
+            Peptidases and inhibitors [BR:eco01002]
+             Serine peptidases
+              Family S24: LexA family
+               b4043 (lexA)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              TLS (translesion DNA synthesis) factors
+               Other SOS response factors
+                b4043 (lexA)
+POSITION    4257115..4257723
+MOTIF       Pfam: Peptidase_S24 LexA_DNA_bind HTH_Crp_2 Rrf2 HTH_20 Sigma70_r4 HTH_11 HTH_27 HTH_24
+DBLINKS     NCBI-GeneID: 948544
+            NCBI-ProteinID: NP_418467
+            Pasteur: lexA
+            RegulonDB: ECK120000526
+            ECOCYC: EG10533
+            ASAP: ABE-0013241
+            UniProt: P0A7C2
+STRUCTURE   PDB: 1JHF 1JHC 1JHH 3JSO 1JHE 3JSP 3K3R 1LEA 1LEB
+AASEQ       202
+            MKALTARQQEVFDLIRDHISQTGMPPTRAEIAQRLGFRSPNAAEEHLKALARKGVIEIVS
+            GASRGIRLLQEEEEGLPLVGRVAAGEPLLAQQHIEGHYQVDPSLFKPNADFLLRVSGMSM
+            KDIGIMDGDLLAVHKTQDVRNGQVVVARIDDEVTVKRLKKQGNKVELLPENSEFKPIVVD
+            LRQQSFTIEGLAVGVIRNGDWL
+NTSEQ       609
+            atgaaagcgttaacggccaggcaacaagaggtgtttgatctcatccgtgatcacatcagc
+            cagacaggtatgccgccgacgcgtgcggaaatcgcgcagcgtttggggttccgttcccca
+            aacgcggctgaagaacatctgaaggcgctggcacgcaaaggcgttattgaaattgtttcc
+            ggcgcatcacgcgggattcgtctgttgcaggaagaggaagaagggttgccgctggtaggt
+            cgtgtggctgccggtgaaccacttctggcgcaacagcatattgaaggtcattatcaggtc
+            gatccttccttattcaagccgaatgctgatttcctgctgcgcgtcagcgggatgtcgatg
+            aaagatatcggcattatggatggtgacttgctggcagtgcataaaactcaggatgtacgt
+            aacggtcaggtcgttgtcgcacgtattgatgacgaagttaccgttaagcgcctgaaaaaa
+            cagggcaataaagtcgaactgttgccagaaaatagcgagtttaaaccaattgtcgttgac
+            cttcgtcagcagagcttcaccattgaagggctggcggttggggttattcgcaacggcgac
+            tggctgtaa
+///

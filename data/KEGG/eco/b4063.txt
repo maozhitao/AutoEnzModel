@@ -1,0 +1,39 @@
+ENTRY       b4063             CDS       T00007
+NAME        soxR
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator SoxR
+ORTHOLOGY   K13639  MerR family transcriptional regulator, redox-sensitive transcriptional activator SoxR
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b4063 (soxR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               MerR family
+                b4063 (soxR)
+POSITION    4277469..4277933
+MOTIF       Pfam: MerR-DNA-bind MerR MerR_1 HTH_3 AP_endonuc_2 DUF2670 TPP_enzyme_M
+DBLINKS     NCBI-GeneID: 948566
+            NCBI-ProteinID: NP_418487
+            Pasteur: soxR
+            RegulonDB: ECK120000946
+            ECOCYC: EG10957
+            ASAP: ABE-0013316
+            UniProt: P0ACS2
+STRUCTURE   PDB: 2ZHG 2ZHH
+AASEQ       154
+            MEKKLPRIKALLTPGEVAKRSGVAVSALHFYESKGLITSIRNSGNQRRYKRDVLRYVAII
+            KIAQRIGIPLATIGEAFGVLPEGHTLSAKEWKQLSSQWREELDRRIHTLVALRDELDGCI
+            GCGCLSRSDCPLRNPGDRLGEEGTGARLLEDEQN
+NTSEQ       465
+            atggaaaagaaattaccccgcattaaagcgctgctaacccccggcgaagtggcgaaacgc
+            agcggtgtggcggtatcggcgctgcatttctatgaaagtaaagggttgattaccagtatc
+            cgtaacagcggcaatcagcggcgatataaacgtgatgtgttgcgatatgttgcaattatc
+            aaaattgctcagcgtattggcattccgctggcgaccattggtgaagcgtttggcgtgttg
+            cccgaagggcatacgttaagtgcgaaagagtggaaacagctttcgtcccaatggcgagaa
+            gagttggatcggcgcattcataccttagtggcgctgcgtgacgaactggacggatgtatt
+            ggttgtggctgcctttcgcgcagtgattgcccgttgcgtaacccgggcgaccgcttagga
+            gaagaaggtaccggcgcacgcttgctggaagatgaacaaaactaa
+///

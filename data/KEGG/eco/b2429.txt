@@ -1,0 +1,75 @@
+ENTRY       b2429             CDS       T00007
+NAME        murP
+DEFINITION  (RefSeq) N-acetylmuramic acid-specific PTS enzyme IICB component/anhydro-N-acetylmuramic acid transporter
+ORTHOLOGY   K11192  N-acetylmuramic acid PTS system EIICB component [EC:2.7.1.192]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00520  Amino sugar and nucleotide sugar metabolism
+            eco02060  Phosphotransferase system (PTS)
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00520 Amino sugar and nucleotide sugar metabolism
+                b2429 (murP)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02060 Phosphotransferase system (PTS)
+                b2429 (murP)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2429 (murP)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.192  protein-Npi-phosphohistidine---N-acetylmuramate phosphotransferase
+                 b2429 (murP)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               N-Acetylmuramic acid-specific II component
+                b2429 (murP)
+POSITION    2546673..2548097
+MOTIF       Pfam: PTS_EIIC PTS_EIIB
+DBLINKS     NCBI-GeneID: 946894
+            NCBI-ProteinID: NP_416924
+            Pasteur: yfeV
+            RegulonDB: ECK120003838
+            ECOCYC: G7264
+            ASAP: ABE-0008009
+            UniProt: P77272
+AASEQ       474
+            MAKEISSELLNTILTRVGGPGNIASCGNCMTRLRLGVHDSSLVDPNIKTLEGVKGVILTS
+            DQVQVVFGPGKAHRAAKAMSELLGEAPVQDAAEIAAQNKRQLKAKQTSGVQQFLAKFATI
+            FTPLIPGFIAAGLLLGIATLIATVMHVPADAQGTLPDALNFMKVFSKGLFTFLVILVGYN
+            AAQAFGGTGVNGAIIAALFLLGYNPAATTGYYAGFHDFFGLPIDPRGNIIGVLIAAWACA
+            RIEGMVRRFMPDDLDMLLTSLITLLITATLAYLIIMPLGGWLFEGMSWLFMHLNSNPFGC
+            AVLAGLFLIAVVFGVHQGFIPVYLALMDSQGFNSLFPILSMAGAGQVGAALALYWRAQPH
+            SALRSQVRGAIIPGLLGVGEPLIYGVTLPRMKPFVTACLGGAAGGLFIGLIAWWGLPMGL
+            NSAFGPSGLVALPLMTSAQGILPAMAVYAGGILVAWVCGFIFTTLFGCRNVNLD
+NTSEQ       1425
+            atggccaaagagatcagcagtgaacttctgaacaccattcttacccgtgtcggcggaccg
+            ggaaatatcgccagttgtggtaactgtatgacgcgcctgcgtctgggtgtacatgacagt
+            tcactggttgatcccaatatcaaaacgctggaaggcgtgaagggcgtcattttgaccagc
+            gaccaggtgcaggtcgtttttgggcctggtaaagcgcatcgtgccgcaaaagcgatgagc
+            gagctgctgggagaagcaccggtacaggatgccgcagaaatcgccgcccagaacaaacgt
+            cagttaaaagccaaacaaacctccggcgtgcaacaatttctcgccaaattcgccaccatc
+            ttcacgccgctgatccccggttttattgccgccggtctgctgctggggatagcgacgtta
+            attgccacggtgatgcacgttccggcagatgctcagggaacactacccgatgcgctgaat
+            tttatgaaggtgttcagcaaaggtttgttcactttcctggtgattctggtgggctataac
+            gccgcccaggcatttggcggcacgggcgtaaatggcgcaattatcgccgcgctctttttg
+            ctcggttataaccccgcagcgaccaccggttactacgccggttttcacgatttctttggt
+            ctgcccatcgatccgcgcggcaatattatcggcgtgctgattgccgcgtgggcctgcgcc
+            cgcattgaaggcatggtgcgccgctttatgccggacgatctcgacatgctgctgacctcg
+            ttaatcaccctgctgatcaccgctacgcttgcgtacctgatcattatgccgctgggtggc
+            tggttattcgaaggtatgtcatggctgtttatgcacctgaacagtaatccgttcggttgt
+            gcggttttagccgggctgttcctgatcgccgtggtatttggcgtgcatcagggctttatt
+            cctgtttacctcgcgttaatggacagccagggattcaacagcttatttcccatcctttca
+            atggcaggcgcgggccaggtgggcgcggcgctggcactctactggcgggcgcaaccgcac
+            agtgcgctacgcagtcaggtacgcggggcgattattcccggcctgctgggcgttggtgaa
+            ccgctgatttacggtgtcaccctgccccgcatgaagccgtttgttaccgcctgtttaggc
+            ggcgcggcgggcggtttgtttatcggcctgatagcctggtggggtctgccgatgggctta
+            aacagcgcctttgggccgtctggtctggtagcgctgccgctgatgacttccgcacaaggc
+            atccttccggccatggcggtttatgctggcgggattctggtggcatgggtttgcgggttt
+            attttcaccacgctctttggctgccgtaacgtcaatctggactga
+///

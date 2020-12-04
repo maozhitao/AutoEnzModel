@@ -1,0 +1,76 @@
+ENTRY       b3325             CDS       T00007
+NAME        gspD
+DEFINITION  (RefSeq) Type II secretion system protein GspD
+ORTHOLOGY   K02453  general secretion pathway protein D
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3325 (gspD)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3325 (gspD)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              General secretion pathway protein
+               b3325 (gspD)
+POSITION    3456377..3458329
+MOTIF       Pfam: Secretin Secretin_N Pro_Al_protease FlpD
+DBLINKS     NCBI-GeneID: 947822
+            NCBI-ProteinID: NP_417784
+            Pasteur: gspD
+            RegulonDB: ECK120004248
+            ECOCYC: G7703
+            ASAP: ABE-0010879
+            UniProt: P45758
+STRUCTURE   PDB: 5WQ7
+AASEQ       650
+            MKGLNKITCCLLAALLMPCAGHAENEQYGANFNNADIRQFVEIVGQHLGKTILIDPSVQG
+            TISVRSNDTFSQQEYYQFFLSILDLYGYSVITLDNGFLKVVRSANVKTSPGMIADSSRPG
+            VGDELVTRIVPLENVPARDLAPLLRQMMDAGSVGNVVHYEPSNVLILTGRASTINKLIEV
+            IKRVDVIGTEKQQIIHLEYASAEDLAEILNQLISESHGKSQMPALLSAKIVADKRTNSLI
+            ISGPEKARQRITSLLKSLDVEESEEGNTRVYYLKYAKATNLVEVLTGVSEKLKDEKGNAR
+            KPSSSGAMDNVAITADEQTNSLVITADQSVQEKLATVIARLDIRRAQVLVEAIIVEVQDG
+            NGLNLGVQWANKNVGAQQFTNTGLPIFNAAQGVADYKKNGGITSANPAWDMFSAYNGMAA
+            GFFNGDWGVLLTALASNNKNDILATPSIVTLDNKLASFNVGQDVPVLSGSQTTSGDNVFN
+            TVERKTVGTKLKVTPQVNEGDAVLLEIEQEVSSVDSSSNSTLGPTFNTRTIQNAVLVKTG
+            ETVVLGGLLDDFSKEQVSKVPLLGDIPLVGQLFRYTSTERAKRNLMVFIRPTIIRDDDVY
+            RSLSKEKYTRYRQEQQQRIDGKSKALVGSEDLPVLDENTFNSHAPAPSSR
+NTSEQ       1953
+            atgaaaggactcaataaaatcacctgctgcttgctggcagcactactcatgccttgtgca
+            ggacacgctgagaacgaacaatacggcgcgaacttcaataacgccgatatccgccagttc
+            gtggaaatagtgggtcagcatcttggcaaaacgatcctgatcgacccttcggtacaggga
+            accatttccgtacgcagtaatgatacgtttagccaacaggagtactaccagttcttttta
+            agtattcttgatctttacggttattccgtgatcacgctggacaatggttttctgaaagtg
+            gttcgctcagctaatgtaaaaacatcgccagggatgattgctgacagttctcgtccaggc
+            gtaggtgatgagttggtcacccgaattgtaccgcttgagaacgttcctgctcgtgacctg
+            gcccccctgctccgccagatgatggatgcgggtagcgtcggtaatgttgtgcattatgaa
+            ccctccaacgttcttattctgaccggtcgtgcctccaccattaataaactgattgaagtc
+            ataaagcgcgttgatgtcatcggcacagagaagcagcaaattattcatctggaatatgcg
+            tcagcggaagatctcgccgagattcttaatcaattaatcagcgaaagccacggtaaaagc
+            cagatgccagccctcctctccgcgaagattgtggcggataagcgaaccaactctcttatc
+            atcagtggaccggaaaaagcacgccagcgcatcacttcattactgaaaagccttgatgtc
+            gaagagagcgaggaaggaaatacccgggtttattacctgaaatatgctaaagccacgaat
+            ctggtggaagtgctaaccggtgtttccgaaaagctgaaagatgaaaaagggaatgcgcgt
+            aagccctcctcttctggcgcgatggataacgtcgccattaccgccgatgaacagactaac
+            tctctggtcattaccgctgaccagtccgtccaggaaaaactcgccacggtaattgcgcgt
+            ctggacattcgccgtgcacaggtgctggttgaggcaatcatcgttgaagttcaggatgga
+            aatggactaaacctcggcgtgcaatgggcgaataaaaacgttggcgcacagcaatttacc
+            aataccggattaccgatttttaacgctgcgcaaggtgtggctgattataaaaagaatggt
+            gggatcaccagcgcgaatcctgcctgggatatgtttagcgcctacaatggcatggccgca
+            ggcttcttcaatggcgactggggagtactgcttaccgcgctggccagtaacaataaaaat
+            gacatcctcgccaccccaagcatcgtaacgctggataataaactcgcgtccttcaacgtg
+            gggcaggatgtgccggtgctatccgggtcacagaccacttcaggggataacgtctttaat
+            accgtcgaacgcaaaacggtggggacaaaactcaaagttactccgcaggtcaatgaaggc
+            gacgcggtgttgctcgaaatagagcaggaagtctccagcgttgactcttcctctaactcg
+            acgctcggcccgacgtttaatacccgtactattcaaaacgccgtgctggtcaaaaccggt
+            gaaacggtggtcctgggcggattgctggatgatttttctaaagagcaagtgtcaaaggtt
+            cctctgcttggcgatattcctttagtggggcaactcttccgctatacctccaccgagcgc
+            gctaaacgcaacctgatggtatttatccgtccgacgattatccgtgacgatgatgtttat
+            cgctcactgtcaaaagagaaatacacccgttaccgtcaggagcaacaacagcggatcgac
+            gggaaatcaaaagcgctggttggctcggaagatttgccggtgctggatgaaaacacgttc
+            aacagtcacgcccctgcgccatcgtcacggtga
+///

@@ -1,0 +1,49 @@
+ENTRY       b0027             CDS       T00007
+NAME        lspA
+DEFINITION  (RefSeq) lipoprotein signal peptidase
+ORTHOLOGY   K03101  signal peptidase II [EC:3.4.23.36]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03060  Protein export
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b0027 (lspA)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b0027 (lspA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.23  Aspartic endopeptidases
+                3.4.23.36  signal peptidase II
+                 b0027 (lspA)
+            Peptidases and inhibitors [BR:eco01002]
+             Aspartic peptidases
+              Family A8: signal peptidase II family
+               b0027 (lspA)
+POSITION    25207..25701
+MOTIF       Pfam: Peptidase_A8 MscL ThrE
+DBLINKS     NCBI-GeneID: 944800
+            NCBI-ProteinID: NP_414568
+            Pasteur: lspA
+            RegulonDB: ECK120000541
+            ECOCYC: EG10548
+            ASAP: ABE-0000096
+            UniProt: P00804
+AASEQ       164
+            MSQSICSTGLRWLWLVVVVLIIDLGSKYLILQNFALGDTVPLFPSLNLHYARNYGAAFSF
+            LADSGGWQRWFFAGIAIGISVILAVMMYRSKATQKLNNIAYALIIGGALGNLFDRLWHGF
+            VVDMIDFYVGDWHFATFNLADTAICVGAALIVLEGFLPSRAKKQ
+NTSEQ       495
+            atgagtcaatcgatctgttcaacagggctacgctggctgtggctggtggtagtcgtgctg
+            attatcgatctgggcagcaaatacctgatcctccagaactttgctctgggggatacggtc
+            ccgctgttcccgtcgcttaatctgcattatgcgcgtaactatggcgcggcgtttagtttc
+            cttgccgatagcggcggctggcagcgttggttctttgccggtattgcgattggtattagc
+            gtgatcctggcagtgatgatgtatcgctcgaaggccacgcagaagctaaacaatatcgct
+            tacgcgctgattattggcggcgcgctgggcaacctgttcgaccgcctgtggcacggcttc
+            gttgtcgatatgatcgacttctacgtcggcgactggcacttcgccaccttcaaccttgcc
+            gatactgccatctgtgtcggtgcggcactgattgtgctggaaggttttttgccttctaga
+            gcgaaaaaacaataa
+///

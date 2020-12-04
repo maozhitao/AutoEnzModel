@@ -1,0 +1,54 @@
+ENTRY       b0070             CDS       T00007
+NAME        setA
+DEFINITION  (RefSeq) sugar exporter SetA
+ORTHOLOGY   K03291  MFS transporter, SET family, sugar efflux transporter
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0070 (setA)
+            Transporters [BR:eco02000]
+             Major facilitator superfamily (MFS)
+              Sugar transporters
+               Sugar efflux transporter (SET) [TC:2.A.1.20]
+                b0070 (setA)
+POSITION    77621..78799
+MOTIF       Pfam: MFS_1 MFS_1_like MFS_2
+DBLINKS     NCBI-GeneID: 944793
+            NCBI-ProteinID: YP_025293
+            Pasteur: yabM
+            RegulonDB: ECK120001692
+            ECOCYC: EG11754
+            ASAP: ABE-0000257
+            UniProt: P31675
+AASEQ       392
+            MIWIMTMARRMNGVYAAFMLVAFMMGVAGALQAPTLSLFLSREVGAQPFWIGLFYTVNAI
+            AGIGVSLWLAKRSDSQGDRRKLIIFCCLMAIGNALLFAFNRHYLTLITCGVLLASLANTA
+            MPQLFALAREYADNSAREVVMFSSVMRAQLSLAWVIGPPLAFMLALNYGFTVMFSIAAGI
+            FTLSLVLIAFMLPSVARVELPSENALSMQGGWQDSNVRMLFVASTLMWTCNTMYIIDMPL
+            WISSELGLPDKLAGFLMGTAAGLEIPAMILAGYYVKRYGKRRMMVIAVAAGVLFYTGLIF
+            FNSRMALMTLQLFNAVFIGIVAGIGMLWFQDLMPGRAGAATTLFTNSISTGVILAGVIQG
+            AIAQSWGHFAVYWVIAVISVVALFLTAKVKDV
+NTSEQ       1179
+            atgatctggataatgacgatggctcgccgtatgaacggtgtttacgcggcatttatgctg
+            gtcgcttttatgatgggggtggccggggcgctacaggctcctacattgagcttatttctg
+            agtcgtgaggttggcgcgcaacctttctggatcggcctcttttatacggtgaatgctatt
+            gctgggatcggcgtaagcctctggttggcaaaacgttctgacagtcagggcgatcggcga
+            aaactgattatattttgctgtttgatggctatcggcaatgcgctattgtttgcatttaat
+            cgtcattatctgacgcttatcacctgtggtgtgcttctggcatctctggccaatacggca
+            atgccacagttatttgctctggcgcgggaatatgcggataactcggcgcgagaagtggtg
+            atgtttagctcggtgatgcgtgcgcagctttctctggcatgggttatcggtccaccgttg
+            gcctttatgctggcgttgaattacggctttacggtgatgttttcgattgccgccgggata
+            ttcacactcagtctggtattgattgcatttatgcttccgtctgtggcgcgggtagaactg
+            ccgtcggaaaatgctttatcaatgcaaggtggctggcaggatagtaacgtacggatgtta
+            tttgtcgcctcgacgttaatgtggacctgcaacaccatgtacattattgatatgccgttg
+            tggatcagtagcgagttaggattgccagacaaactggcgggtttcctgatggggacggca
+            gctggactggaaataccagcaatgattctggctggctactatgtcaaacgttatggtaag
+            cggcgaatgatggtcatagcagtggcggcaggagtactgttttacaccggattgattttc
+            tttaatagccgtatggcgttgatgacgctgcaactttttaacgctgtatttatcggcatt
+            gttgcgggtattgggatgctatggtttcaggatttaatgcctggaagagcgggggcagct
+            accaccttatttactaacagtatttctaccggggtaattctggctggcgttattcaggga
+            gcaattgcacaaagttgggggcactttgctgtctactgggtaattgcggttatttctgtt
+            gtcgcattatttttaaccgcaaaggttaaagacgtttga
+///

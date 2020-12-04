@@ -1,0 +1,76 @@
+ENTRY       b4169             CDS       T00007
+NAME        amiB
+DEFINITION  (RefSeq) N-acetylmuramoyl-L-alanine amidase B
+ORTHOLOGY   K01448  N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01503  Cationic antimicrobial peptide (CAMP) resistance
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09160 Human Diseases
+              09175 Drug resistance: antimicrobial
+               01503 Cationic antimicrobial peptide (CAMP) resistance
+                b4169 (amiB)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01011 Peptidoglycan biosynthesis and degradation proteins [BR:eco01011]
+                b4169 (amiB)
+              09182 Protein families: genetic information processing
+               03036 Chromosome and associated proteins [BR:eco03036]
+                b4169 (amiB)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.5  Acting on carbon-nitrogen bonds, other than peptide bonds
+               3.5.1  In linear amides
+                3.5.1.28  N-acetylmuramoyl-L-alanine amidase
+                 b4169 (amiB)
+            Peptidoglycan biosynthesis and degradation proteins [BR:eco01011]
+             Peptidoglycan biosynthesis and degradation
+              Amidase
+               b4169 (amiB)
+            Chromosome and associated proteins [BR:eco03036]
+             Prokaryotic type
+              Chromosome partitioning proteins
+               Divisome proteins
+                b4169 (amiB)
+POSITION    4396065..4397402
+MOTIF       Pfam: Amidase_3 AMIN OmpA STN
+DBLINKS     NCBI-GeneID: 948683
+            NCBI-ProteinID: NP_418590
+            Pasteur: amiB
+            RegulonDB: ECK120001332
+            ECOCYC: EG11363
+            ASAP: ABE-0013653
+            UniProt: P26365
+AASEQ       445
+            MMYRIRNWLVATLLLLCTPVGAATLSDIQVSNGNQQARITLSFIGDPDYAFSHQSKRTVA
+            LDIKQTGVIQGLPLLFSGNNLVKAIRSGTPKDAQTLRLVVDLTENGKTEAVKRQNGSNYT
+            VVFTINADVPPPPPPPPVVAKRVETPAVVAPRVSEPARNPFKTESNRTTGVISSNTVTRP
+            AARATANTGDKIIIAIDAGHGGQDPGAIGPGGTREKNVTIAIARKLRTLLNDDPMFKGVL
+            TRDGDYFISVMGRSDVARKQNANFLVSIHADAAPNRSATGASVWVLSNRRANSEMASWLE
+            QHEKQSELLGGAGDVLANSQSDPYLSQAVLDLQFGHSQRVGYDVATSMISQLQRIGEIHK
+            RRPEHASLGVLRSPDIPSVLVETGFISNNSEERLLASDDYQQQLAEAIYKGLRNYFLAHP
+            MQSAPQGATAQTASTVTTPDRTLPN
+NTSEQ       1338
+            atgatgtatcgcatcagaaattggttggtagcgacgctgctgctgctgtgcacgccggtg
+            ggtgccgcgacgctctctgatattcaggtttctaacggtaatcaacaggcgcggataacg
+            ttgagttttattggcgatcctgattatgcgtttagccatcaaagcaaacgcaccgtggcg
+            ctcgatatcaaacaaacgggcgtgattcagggactgccgttgttgttcagcggcaataat
+            ctggtgaaggcgattcgctctggaacgcctaaagatgcacaaacgctacggctggtggtc
+            gatcttaccgaaaacggtaaaaccgaagcggtgaagcggcagaatggcagcaattacact
+            gtcgtctttacgattaacgccgatgtgccgccaccgcctcctccgccgcccgtggttgcg
+            aaacgcgttgaaacgcctgcggttgtcgcaccgcgcgtcagcgaaccggcgcgcaatccg
+            tttaaaacggaaagtaaccgcactacgggtgttatcagcagtaatacggtaacgcgtccg
+            gcagcgcgcgcgacggctaacactggcgataaaattatcatcgctattgatgccggacac
+            ggcggtcaggaccctggcgctatcggccccggtggtacgcgggagaaaaatgtcaccatc
+            gccatcgcgcgtaaattgcgtactttgctcaatgacgatccgatgtttaaaggcgtttta
+            acccgtgacggggattactttatctcggtgatggggcgcagtgatgtggcacgtaagcaa
+            aacgccaatttcctcgtgtcgattcacgctgatgccgcaccgaaccgcagtgcgactggc
+            gcttccgtatgggtgctctctaaccgtcgcgccaacagtgaaatggccagctggctggag
+            cagcacgagaaacagtcggagctgctgggtggggcgggtgatgtgctggcgaacagtcag
+            tctgacccctatttaagccaggcggtgctggatttacagttcggtcattcccagcgggta
+            gggtatgatgtagcgaccagtatgatcagtcagttgcaacgcattggcgaaatacataaa
+            cgtcgaccagaacacgccagccttggcgttctgcgctcgccggatatcccatcagtactg
+            gtcgaaaccggttttatcagcaacaacagcgaagaacgtttgctggcgagcgacgattac
+            caacaacagctggcagaagccatttacaaaggcctgcgcaattacttccttgcgcatccg
+            atgcaatctgcgccgcagggtgcaacggcacaaactgccagtacggtgacgacgccagat
+            cgcacgctgccaaactaa
+///

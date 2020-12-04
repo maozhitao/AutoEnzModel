@@ -1,0 +1,69 @@
+ENTRY       b3869             CDS       T00007
+NAME        glnL
+DEFINITION  (RefSeq) sensory histidine kinase NtrB
+ORTHOLOGY   K07708  two-component system, NtrC family, nitrogen regulation sensor histidine kinase GlnL [EC:2.7.13.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b3869 (glnL)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b3869 (glnL)
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b3869 (glnL)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 b3869 (glnL)
+            Protein kinases [BR:eco01001]
+             Histidine kinases
+              NtrC family
+               b3869 (glnL)
+            Two-component system [BR:eco02022]
+             NtrC family
+              GlnL-GlnG (nitrogen regulation)
+               b3869 (glnL)
+POSITION    complement(4055290..4056339)
+MOTIF       Pfam: HATPase_c HisKA PAS PAS_4 PAS_9 PAS_8 DUF1688
+DBLINKS     NCBI-GeneID: 948360
+            NCBI-ProteinID: NP_418305
+            Pasteur: glnL
+            RegulonDB: ECK120000380
+            ECOCYC: EG10387
+            ASAP: ABE-0012634
+            UniProt: P0AFB5
+STRUCTURE   PDB: 1R62
+AASEQ       349
+            MATGTQPDAGQILNSLINSILLIDDNLAIHYANPAAQQLLAQSSRKLFGTPLPELLSYFS
+            LNIELMQESLEAGQGFTDNEVTLVIDGRSHILSVTAQRMPDGMILLEMAPMDNQRRLSQE
+            QLQHAQQVAARDLVRGLAHEIKNPLGGLRGAAQLLSKALPDPSLLEYTKVIIEQADRLRN
+            LVDRLLGPQLPGTRVTESIHKVAERVVTLVSMELPDNVRLIRDYDPSLPELAHDPDQIEQ
+            VLLNIVRNALQALGPEGGEIILRTRTAFQLTLHGERYRLAARIDVEDNGPGIPPHLQDTL
+            FYPMVSGREGGTGLGLSIARNLIDQHSGKIEFTSWPGHTEFSVYLPIRK
+NTSEQ       1050
+            atggcaacaggcacgcagcccgatgctgggcagatcctcaactcgctgattaacagtatt
+            ttgttaatcgatgacaacctggcgatccattacgccaaccctgccgcgcaacaactgctc
+            gcccaaagctcccgcaaattgtttggtacaccgttaccggaactgttgagctacttctca
+            ttaaatatcgagctgatgcaagaaagtctggaggcggggcaaggttttaccgataacgaa
+            gtgacgctggtcatcgacgggcgctcgcatatcctttctgtgacggcccagcgtatgccg
+            gacggcatgatcctgctggagatggctccgatggataaccagcgccgcttaagtcaggaa
+            cagctacagcacgcccagcaggttgctgcccgtgatttagtgcgcggcctggcacatgag
+            attaaaaatccgcttggcggtttacgtggcgcggcgcagctgctcagcaaagcgttacct
+            gacccatcactactcgaatataccaaagtgattatcgaacaggcggaccggctgcgaaat
+            ctggtcgaccgtctgttggggccgcagctgcccggtacgcgcgttaccgaaagtattcac
+            aaagtggctgaacgcgtggtaacgctggtgtcgatggaactgccggacaacgtgcggttg
+            attcgtgattacgatcccagcctaccggaactggcgcacgacccggatcaaattgaacag
+            gtcttgctgaatattgtgcgcaatgcgctacaggcgctggggccggaaggcggtgaaatc
+            attctgcgtacccgcaccgcgtttcaactgaccttacacggcgagcgctaccggctggcg
+            gcgcggattgatgtggaagataacgggccgggcattccgcctcatttgcaggatacgctg
+            ttttacccgatggtcagcggccgcgaaggtggcaccgggcttggcttatccatcgctcgt
+            aatttgattgatcagcattcaggcaaaattgaatttaccagttggccagggcataccgag
+            ttctcggtttacctgcctatcaggaaataa
+///

@@ -1,0 +1,37 @@
+ENTRY       b1039             CDS       T00007
+NAME        csgE
+DEFINITION  (RefSeq) curli transport specificity factor
+ORTHOLOGY   K04337  curli production assembly/transport component CsgE
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b1039 (csgE)
+            Secretion system [BR:eco02044]
+             Extracellular nucleation-precipitation pathway
+              Curli assembly protein
+               b1039 (csgE)
+POSITION    complement(1102152..1102541)
+MOTIF       Pfam: CsgE Myosin_TH1
+DBLINKS     NCBI-GeneID: 945711
+            NCBI-ProteinID: NP_415557
+            Pasteur: csgE
+            RegulonDB: ECK120003141
+            ECOCYC: G6545
+            ASAP: ABE-0003528
+            UniProt: P0AE95
+STRUCTURE   PDB: 2NA4
+AASEQ       129
+            MKRYLRWIVAAEFLFAAGNLHAVEVEVPGLLTDHTVSSIGHDFYRAFSDKWESDYTGNLT
+            INERPSARWGSWITITVNQDVIFQTFLFPLKRDFEKTVVFALIQTEEALNRRQINQALLS
+            TGDLAHDEF
+NTSEQ       390
+            atgaaacgttatttacgctggattgtggcggcagaatttctgttcgccgcagggaatctt
+            cacgccgttgaggtagaagtcccgggattgctaactgaccatactgtttcatctattggc
+            catgatttttaccgagcctttagtgataaatgggaaagtgactatacgggtaacttaacg
+            attaatgaaaggcccagtgcacgatggggaagctggatcactataacggtcaatcaggac
+            gttattttccagacttttttatttccgttgaaaagagacttcgagaaaactgtcgtcttt
+            gcactgattcaaactgaagaagcactaaatcgtcgccagataaatcaggcgttattaagt
+            acgggcgatttggcgcatgatgaattctaa
+///

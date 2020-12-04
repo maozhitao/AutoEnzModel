@@ -1,0 +1,59 @@
+ENTRY       b3235             CDS       T00007
+NAME        degS
+DEFINITION  (RefSeq) serine endoprotease
+ORTHOLOGY   K04691  serine protease DegS [EC:3.4.21.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b3235 (degS)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.21  Serine endopeptidases
+                3.4.21.-  
+                 b3235 (degS)
+            Peptidases and inhibitors [BR:eco01002]
+             Serine peptidases
+              Family S1: chymotrypsin family
+               b3235 (degS)
+POSITION    3382200..3383267
+MOTIF       Pfam: Trypsin_2 Trypsin PDZ_2 PDZ PDZ_6 Peptidase_S46
+DBLINKS     NCBI-GeneID: 947865
+            NCBI-ProteinID: NP_417702
+            Pasteur: degS
+            RegulonDB: ECK120001596
+            ECOCYC: EG11652
+            ASAP: ABE-0010611
+            UniProt: P0AEE3
+STRUCTURE   PDB: 3LGI 2QF3 6EW9 4RQY 1TE0 4RR1 1SOT 3LH3 2RCE 4RQZ 1SOZ
+                 3LGU 3GDV 3LGW 2R3Y 2QF0 3LH1 3B8J 2R3U 3LGT 3LGY 2QGR
+                 3LGV 3GCO 3GDS 3GDU 3GCN 4RR0 1VCW
+AASEQ       355
+            MFVKLLRSVAIGLIVGAILLVAMPSLRSLNPLSTPQFDSTDETPASYNLAVRRAAPAVVN
+            VYNRGLNTNSHNQLEIRTLGSGVIMDQRGYIITNKHVINDADQIIVALQDGRVFEALLVG
+            SDSLTDLAVLKINATGGLPTIPINARRVPHIGDVVLAIGNPYNLGQTITQGIISATGRIG
+            LNPTGRQNFLQTDASINHGNSGGALVNSLGELMGINTLSFDKSNDGETPEGIGFAIPFQL
+            ATKIMDKLIRDGRVIRGYIGIGGREIAPLHAQGGGIDQLQGIVVNEVSPDGPAANAGIQV
+            NDLIISVDNKPAISALETMDQVAEIRPGSVIPVVVMRDDKQLTLQVTIQEYPATN
+NTSEQ       1068
+            atgtttgtgaagctcttacgttccgttgcgattggattaattgtcggcgctattctgctg
+            gttgccatgccttcgctgcgcagccttaacccgctttccactccgcaatttgacagtacc
+            gatgagacgcctgccagctataatctggcggttcgccgcgccgcgccagcggtggttaac
+            gtttacaaccgtggtttgaacaccaactctcacaaccagcttgagatccgcaccctggga
+            tccggtgtaatcatggatcaacgcggttatatcatcaccaataaacacgtcatcaacgac
+            gccgatcagatcatcgtcgccttacaggatggacgtgtatttgaagcattgctggtggga
+            tctgactctctaaccgatctggcggtacttaaaattaatgccactggcggtttacctacc
+            attccaattaatgcacgtcgcgtaccgcacattggcgacgtagtactggcgatcggtaac
+            ccgtacaacctcgggcagaccattacccaggggattattagtgccacgggtcgaatcggt
+            ctgaacccgaccgggcggcaaaacttcctccaaaccgatgcttccattaaccacggtaac
+            tctggcggcgcgctggtgaactcgctgggcgaactgatgggcattaatacgctgtcgttt
+            gataagagtaacgatggcgaaacgccggaaggtatcggctttgcgattcctttccagtta
+            gcaaccaaaattatggataagctgatccgcgatggtcgcgtgatccgcggctacattggt
+            atcggcggacgtgagatcgcaccactgcacgcgcagggcggtggtatagatcaactgcaa
+            gggatcgtggttaatgaagtgtcacctgacggcccggcggcgaatgcgggtattcaggtc
+            aacgatctgattatttcggtggataacaaaccggccatctctgctctggagacgatggat
+            caggtggcggaaattcgccctggttcggtgatccctgtagtagtgatgcgtgatgataag
+            cagttaacgctgcaggtcaccattcaggaatatccggcaaccaattaa
+///

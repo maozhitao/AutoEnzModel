@@ -1,0 +1,47 @@
+ENTRY       b2326             CDS       T00007
+NAME        epmC
+DEFINITION  (RefSeq) EF-P-Lys34 hydroxylase
+ORTHOLOGY   K09906  elongation factor P hydroxylase [EC:1.14.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:eco03012]
+                b2326 (epmC)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.14  Acting on paired donors, with incorporation or reduction of molecular oxygen
+               1.14.-  Acting on paired donors, with incorporation or reduction of molecular oxygen
+                1.14.-.-  
+                 b2326 (epmC)
+            Translation factors [BR:eco03012]
+             Prokaryotic type
+              Elongation factors
+               b2326 (epmC)
+POSITION    complement(2444203..2444751)
+MOTIF       Pfam: EpmC SOR
+DBLINKS     NCBI-GeneID: 946807
+            NCBI-ProteinID: NP_416829
+            Pasteur: yfcM
+            RegulonDB: ECK120003776
+            ECOCYC: G7201
+            ASAP: ABE-0007686
+            UniProt: P76938
+STRUCTURE   PDB: 4PDN 3WTR
+AASEQ       182
+            MNSTHHYEQLIEIFNSCFADDFNTRLIKGDDEPIYLPADAEVPYNRIVFAHGFYASAIHE
+            ISHWCIAGKARRELVDFGYWYCPDGRDAQTQSQFEDVEVKPQALDWLFCVAAGYPFNVSC
+            DNLEGDFEPDRVVFQRRVHAQVMDYLTNGIPERPARFIKALQNYYHTPELTAEQFPWPEA
+            LN
+NTSEQ       549
+            atgaacagtacacaccactacgagcagttgattgaaatttttaatagctgctttgccgat
+            gattttaatacccgtctgattaaaggcgacgacgaaccgatctatcttcctgctgatgcg
+            gaagtaccgtataaccgaatcgtctttgctcatggcttttatgccagcgcaattcatgag
+            atttcgcactggtgtattgccgggaaagcgcgccgtgagctggttgatttcggctactgg
+            tattgcccggacggacgcgatgcccaaacgcaaagccagtttgaagatgttgaagtgaag
+            ccgcaggcgctcgactggttgttctgtgtggcggcgggatatccgtttaacgtcagttgc
+            gacaatctggaaggggatttcgaaccggatcgtgtggtgtttcaacggcgagtacatgcg
+            caggtgatggattatctgacaaatggcattccggaacgtccggcacgcttcattaaagca
+            ctacaaaattattatcacacgccggaacttacggcggaacagttcccgtggccggaagcg
+            ctcaactga
+///

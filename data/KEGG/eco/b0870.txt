@@ -1,0 +1,57 @@
+ENTRY       b0870             CDS       T00007
+NAME        ltaE
+DEFINITION  (RefSeq) low-specificity L-threonine aldolase
+ORTHOLOGY   K01620  threonine aldolase [EC:4.1.2.48]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00260  Glycine, serine and threonine metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+            eco01120  Microbial metabolism in diverse environments
+            eco01230  Biosynthesis of amino acids
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09105 Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                b0870 (ltaE)
+            Enzymes [BR:eco01000]
+             4. Lyases
+              4.1  Carbon-carbon lyases
+               4.1.2  Aldehyde-lyases
+                4.1.2.48  low-specificity L-threonine aldolase
+                 b0870 (ltaE)
+POSITION    complement(908293..909294)
+MOTIF       Pfam: Beta_elim_lyase Aminotran_1_2 Cys_Met_Meta_PP
+DBLINKS     NCBI-GeneID: 944955
+            NCBI-ProteinID: NP_415391
+            Pasteur: ltaE
+            RegulonDB: ECK120003055
+            ECOCYC: G6455
+            ASAP: ABE-0002954
+            UniProt: P75823
+STRUCTURE   PDB: 4RJY 4LNJ 4LNL 4LNM 3WLX
+AASEQ       333
+            MIDLRSDTVTRPSRAMLEAMMAAPVGDDVYGDDPTVNALQDYAAELSGKEAAIFLPTGTQ
+            ANLVALLSHCERGEEYIVGQAAHNYLFEAGGAAVLGSIQPQPIDAAADGTLPLDKVAMKI
+            KPDDIHFARTKLLSLENTHNGKVLPREYLKEAWEFTRERNLALHVDGARIFNAVVAYGCE
+            LKEITQYCDSFTICLSKGLGTPVGSLLVGNRDYIKRAIRWRKMTGGGMRQSGILAAAGIY
+            ALKNNVARLQEDHDNAAWMAEQLREAGADVMRQDTNMLFVRVGEENAAALGEYMKARNVL
+            INASPIVRLVTHLDVSREQLAEVAAHWRAFLAR
+NTSEQ       1002
+            atgattgatttacgcagtgataccgttacccgaccaagccgcgccatgctcgaagcgatg
+            atggccgccccggttggggacgacgtttacggagacgaccctaccgttaatgctctgcag
+            gactacgcagcagagctttccggtaaagaagccgccatttttctgcctaccggcactcag
+            gccaacctggtcgctctgctcagtcactgcgaacgcggcgaagagtatattgtcggtcag
+            gccgcgcataactatctgtttgaagccggtggcgcggcggtgctgggcagtattcaaccg
+            caacccatagacgcggctgccgacggcacgctaccgctggataaagtggcgatgaaaatc
+            aaacccgacgatatccatttcgcccgcaccaaattactcagtctggaaaacacccacaac
+            ggcaaagtgttgccgcgggaatacctgaaagaagcatgggaatttacccgcgagcgcaat
+            ctggcgctgcatgttgacggtgcgcgcatctttaatgccgtggtggcttacggctgcgaa
+            ctgaaagagatcacgcaatattgtgattcgttcaccatttgcctgtcgaaaggtcttggg
+            acgccagtcggttcattactcgtcggtaatcgtgattacattaaacgtgccattcgctgg
+            cggaaaatgacaggtggcgggatgcgccagtccggcattctggctgccgccgggatatat
+            gccctgaaaaataacgttgcgcgcttgcaggaagaccacgacaacgctgcctggatggcg
+            gagcagctgcgtgaagcaggcgcggatgtgatgcgtcaggacaccaatatgctgtttgtt
+            cgcgtcggggaagaaaatgctgccgcgttaggcgaatacatgaaagcgagaaacgtgctg
+            attaacgcctcgccgattgtccgcctggtgacgcatcttgacgtctcgcgcgaacaactg
+            gcggaagtcgccgcccactggcgtgcattcctggcgcgttaa
+///

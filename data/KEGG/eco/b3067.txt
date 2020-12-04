@@ -1,0 +1,75 @@
+ENTRY       b3067             CDS       T00007
+NAME        rpoD
+DEFINITION  (RefSeq) RNA polymerase, sigma 70 (sigma D) factor
+ORTHOLOGY   K03086  RNA polymerase primary sigma factor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:eco03021]
+                b3067 (rpoD)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               RNA polymerase
+                Sigma factors
+                 b3067 (rpoD)
+POSITION    3213047..3214888
+MOTIF       Pfam: Sigma70_ner Sigma70_r1_1 Sigma70_r3 Sigma70_r2 Sigma70_r4 Sigma70_r1_2 DNA_ligase_A_N DcrB TMPIT FlgN
+DBLINKS     NCBI-GeneID: 947567
+            NCBI-ProteinID: NP_417539
+            Pasteur: rpoD
+            RegulonDB: ECK120000887
+            ECOCYC: EG10896
+            ASAP: ABE-0010070
+            UniProt: P00579
+STRUCTURE   PDB: 2P7V 1SIG 6N61 5UAG 6P18 4YFK 4LJZ 6BYU 5UAQ 6N60 4XSZ
+                 4KN7 4YG2 4XSX 5VT0 6K4Y 4LLG 6N62 5UAC 5W1S 4YFN 4YFX
+                 4LK1 4KMU 5UAL 6B6H 4MEX 4JK1 4LK0 5UAJ 4MEY 4KN4 4ZH4
+                 4XSY 6JNX 4ZH3 6CUX 5UAH 4ZH2 4JKR 4JK2 6C9Y 5VSW 3T72
+                 5W1T 4YLN 4YLP 6CA0 4YLO 3IYD 1TLH
+AASEQ       613
+            MEQNPQSQLKLLVTRGKEQGYLTYAEVNDHLPEDIVDSDQIEDIIQMINDMGIQVMEEAP
+            DADDLMLAENTADEDAAEAAAQVLSSVESEIGRTTDPVRMYMREMGTVELLTREGEIDIA
+            KRIEDGINQVQCSVAEYPEAITYLLEQYDRVEAEEARLSDLITGFVDPNAEEDLAPTATH
+            VGSELSQEDLDDDEDEDEEDGDDDSADDDNSIDPELAREKFAELRAQYVVTRDTIKAKGR
+            SHATAQEEILKLSEVFKQFRLVPKQFDYLVNSMRVMMDRVRTQERLIMKLCVEQCKMPKK
+            NFITLFTGNETSDTWFNAAIAMNKPWSEKLHDVSEEVHRALQKLQQIEEETGLTIEQVKD
+            INRRMSIGEAKARRAKKEMVEANLRLVISIAKKYTNRGLQFLDLIQEGNIGLMKAVDKFE
+            YRRGYKFSTYATWWIRQAITRSIADQARTIRIPVHMIETINKLNRISRQMLQEMGREPTP
+            EELAERMLMPEDKIRKVLKIAKEPISMETPIGDDEDSHLGDFIEDTTLELPLDSATTESL
+            RAATHDVLAGLTAREAKVLRMRFGIDMNTDYTLEEVGKQFDVTRERIRQIEAKALRKLRH
+            PSRSEVLRSFLDD
+NTSEQ       1842
+            atggagcaaaacccgcagtcacagctgaaacttcttgtcacccgtggtaaggagcaaggc
+            tatctgacctatgccgaggtcaatgaccatctgccggaagatatcgtcgattcagatcag
+            atcgaagacatcatccaaatgatcaacgacatgggcattcaggtgatggaagaagcaccg
+            gatgccgatgatctgatgctggctgaaaacaccgcggacgaagatgctgccgaagccgcc
+            gcgcaggtgctttccagcgtggaatctgaaatcgggcgcacgactgacccggtacgcatg
+            tacatgcgtgaaatgggcaccgttgaactgttgacccgcgaaggcgaaattgacatcgct
+            aagcgtattgaagacgggatcaaccaggttcaatgctccgttgctgaatatccggaagcg
+            atcacctatctgctggaacagtacgatcgtgttgaagcagaagaagcgcgtctgtccgat
+            ctgatcaccggctttgttgacccgaacgcagaagaagatctggcacctaccgccactcac
+            gtcggttctgagctttcccaggaagatctggacgatgacgaagatgaagacgaagaagat
+            ggcgatgacgacagcgccgatgatgacaacagcatcgacccggaactggctcgcgaaaaa
+            tttgcggaactacgcgctcagtacgttgtaacgcgtgacaccatcaaagcgaaaggtcgc
+            agtcacgctaccgctcaggaagagatcctgaaactgtctgaagtattcaaacagttccgc
+            ctggtgccgaagcagtttgactacctggtcaacagcatgcgcgtcatgatggaccgcgtt
+            cgtacgcaagaacgtctgatcatgaagctctgcgttgagcagtgcaaaatgccgaagaaa
+            aacttcattaccctgtttaccggcaacgaaaccagcgatacctggttcaacgcggcaatt
+            gcgatgaacaagccgtggtcggaaaaactgcacgatgtctctgaagaagtgcatcgcgcc
+            ctgcaaaaactgcagcagattgaagaagaaaccggcctgaccatcgagcaggttaaagat
+            atcaaccgtcgtatgtccatcggtgaagcgaaagcccgccgtgcgaagaaagagatggtt
+            gaagcgaacttacgtctggttatttctatcgctaagaaatacaccaaccgtggcttgcag
+            ttccttgacctgattcaggaaggcaacatcggtctgatgaaagcggttgataaattcgaa
+            taccgccgtggttacaagttctccacctacgcaacctggtggatccgtcaggcgatcacc
+            cgctctatcgcggatcaggcgcgcaccatccgtattccggtgcatatgattgagaccatc
+            aacaagctcaaccgtatttctcgccagatgctgcaagagatgggccgtgaaccgacgccg
+            gaagaactggctgaacgtatgctgatgccggaagacaagatccgcaaagtgctgaagatc
+            gccaaagagccaatctccatggaaacgccgatcggtgatgatgaagattcgcatctgggg
+            gatttcatcgaggataccaccctcgagctgccgctggattctgcgaccaccgaaagcctg
+            cgtgcggcaacgcacgacgtgctggctggcctgaccgcgcgtgaagcaaaagttctgcgt
+            atgcgtttcggtatcgatatgaacaccgactacacgctggaagaagtgggtaaacagttc
+            gacgttacccgcgaacgtatccgtcagatcgaagcgaaggcgctgcgcaaactgcgtcac
+            ccgagccgttctgaagtgctgcgtagcttcctggacgattaa
+///

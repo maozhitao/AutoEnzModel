@@ -1,0 +1,43 @@
+ENTRY       b2496             CDS       T00007
+NAME        hda
+DEFINITION  (RefSeq) inibitor of reinitiation of DNA replication
+ORTHOLOGY   K10763  DnaA-homolog protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03032 DNA replication proteins [BR:eco03032]
+                b2496 (hda)
+            DNA replication proteins [BR:eco03032]
+             Prokaryotic type
+              DNA Replication Termination Factors
+               Prevention of re-replication factors
+                b2496 (hda)
+POSITION    complement(2618075..2618776)
+MOTIF       Pfam: Bac_DnaA AAA_16
+DBLINKS     NCBI-GeneID: 946977
+            NCBI-ProteinID: NP_416991
+            RegulonDB: ECK120003885
+            ECOCYC: G7313
+            ASAP: ABE-0008217
+            UniProt: P69931
+STRUCTURE   PDB: 5X06
+AASEQ       233
+            MNTPAQLSLPLYLPDDETFASFWPGDNSSLLAALQNVLRQEHSGYIYLWAREGAGRSHLL
+            HAACAELSQRGDAVGYVPLDKRTWFVPEVLDGMEHLSLVCIDNIECIAGDELWEMAIFDL
+            YNRILESGKTRLLITGDRPPRQLNLGLPDLASRLDWGQIYKLQPLSDEDKLQALQLRARL
+            RGFELPEDVGRFLLKRLDREMRTLFMTLDQLDRASITAQRKLTIPFVKEILKL
+NTSEQ       702
+            ctgaacacaccggcacagctctctttgccactttatcttcctgacgacgaaacctttgca
+            agtttctggccgggggataactcctctttactggccgcgctgcaaaacgtgctgcgtcag
+            gaacatagcggttacatctatctctgggcacgcgaaggcgcggggcgcagccatctgctg
+            cacgcggcttgcgcggaattgtcgcagcgtggcgatgcggtgggctatgtcccgctggat
+            aaacgcacctggtttgttccggaagtgctcgacggtatggagcatttgtcgctggtctgt
+            atcgacaacattgagtgtattgcaggcgatgagttgtgggagatggcgattttcgatctc
+            tacaatcgaattctggaatcgggcaaaacacggttgttgatcaccggcgatcgtccaccg
+            cggcagttgaatctgggattaccggatctcgcgtcgcgactcgactgggggcagatctac
+            aaattgcagccactttctgatgaagataagttgcaggcgctacagttacgcgcgcgtttg
+            cgtggttttgaactgccggaagatgtggggcgtttcttgctgaagcggctcgacagagaa
+            atgcgcacgctatttatgacgttggatcagttggatcgtgcgtcgattaccgcgcaacgt
+            aagctgaccattccgtttgtgaaagaaattctgaagttgtag
+///

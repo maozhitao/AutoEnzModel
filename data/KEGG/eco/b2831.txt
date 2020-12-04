@@ -1,0 +1,50 @@
+ENTRY       b2831             CDS       T00007
+NAME        mutH
+DEFINITION  (RefSeq) DNA mismatch repair protein MutH
+ORTHOLOGY   K03573  DNA mismatch repair protein MutH
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03430  Mismatch repair
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09124 Replication and repair
+               03430 Mismatch repair
+                b2831 (mutH)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2831 (mutH)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               MMR (mismatch excision repair)
+                Strand discrimination factor
+                 b2831 (mutH)
+POSITION    2969662..2970351
+MOTIF       Pfam: MutH
+DBLINKS     NCBI-GeneID: 947299
+            NCBI-ProteinID: NP_417308
+            Pasteur: mutH
+            RegulonDB: ECK120000617
+            ECOCYC: EG10624
+            ASAP: ABE-0009287
+            UniProt: P06722
+STRUCTURE   PDB: 1AZO 2AZO
+AASEQ       229
+            MSQPRPLLSPPETEEQLLAQAQQLSGYTLGELAALVGLVTPENLKRDKGWIGVLLEIWLG
+            ASAGSKPEQDFAALGVELKTIPVDSLGRPLETTFVCVAPLTGNSGVTWETSHVRHKLKRV
+            LWIPVEGERSIPLAQRRVGSPLLWSPNEEEDRQLREDWEELMDMIVLGQVERITARHGEY
+            LQIRPKAANAKALTEAIGARGERILTLPRGFYLKKNFTSALLARHFLIQ
+NTSEQ       690
+            atgtcccaacctcgcccactgctctctcctcccgaaactgaagaacagttgttagcgcaa
+            gcacagcaactttctggttatacattgggagaactggcggcacttgtcgggctggttacg
+            ccagagaatttaaaacgcgataaaggctggattggcgtgttactggagatctggctaggt
+            gccagcgcagggagtaaacctgagcaagattttgctgctctgggcgtggaacttaaaact
+            atccctgtggatagtcttggtcgtccgctggaaacaacattcgtttgtgttgccccgtta
+            acgggcaatagcggggtgacctgggaaaccagccacgtgcgccacaaactcaaacgcgta
+            ctgtggataccggttgaaggcgagcgcagcatcccgctggcgcagcgtcgcgttggatca
+            ccgttgctgtggagcccgaatgaagaggaagaccggcagctacgcgaagactgggaagaa
+            ttaatggatatgattgttctcggtcaggttgagcggattaccgctcgtcacggggagtat
+            ttacagatacgaccgaaagcagcgaatgcgaaagcgcttaccgaagccattggtgcccgg
+            ggcgaacggattctgacgctgccacgcggcttttatttgaagaagaatttcaccagtgca
+            ctactggcccgtcattttctgatccagtag
+///

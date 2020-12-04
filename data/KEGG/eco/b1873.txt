@@ -1,0 +1,59 @@
+ENTRY       b1873             CDS       T00007
+NAME        torY
+DEFINITION  (RefSeq) cytochrome c quinol dehydrogenase TorY
+ORTHOLOGY   K07821  trimethylamine-N-oxide reductase (cytochrome c), cytochrome c-type subunit TorY
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00680  Methane metabolism
+            eco01100  Metabolic pathways
+            eco01120  Microbial metabolism in diverse environments
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00680 Methane metabolism
+                b1873 (torY)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b1873 (torY)
+            Transporters [BR:eco02000]
+             Other transporters
+              Transmembrane electron carriers [TC:5]
+               b1873 (torY)
+POSITION    complement(1957032..1958132)
+MOTIF       Pfam: Cytochrom_NNT Cytochrome_C7 Paired_CXXCH_1 Cytochrom_c3_2 DHC Cytochrom_CIII Cytochrome_P460 zf-C2HCIx2C zf-CHY zf-C4pol
+DBLINKS     NCBI-GeneID: 946490
+            NCBI-ProteinID: NP_416387
+            Pasteur: yecK
+            RegulonDB: ECK120003610
+            ECOCYC: G7023
+            ASAP: ABE-0006246
+            UniProt: P52005
+AASEQ       366
+            MRGKKRIGLLFLLIAVVVGGGGLLLAQKVLHKTSDTAFCLSCHSMSKPFEEYQGTVHFSN
+            QKGIRAECADCHIPKSGMDYLFAKLKASKDIYHEFVSGKIDSDDKFEAHRQEMAETVWKE
+            LKATDSATCRSCHSFDAMDIASQSESAQKMHNKAQKDSETCIDCHKGIAHFPPEIKMDDN
+            AAHELESQAATSVTNGAHIYPFKTSHIGELATVNPGTDLTVVDASGKQPIVLLQGYQMQG
+            SENTLYLAAGQRLALATLSEEGIKALTVNGEWQADEYGNQWRQASLQGALTDPALADRKP
+            LWQYAEKLDDTYCAGCHAPIAADHYTVNAWPSIAKGMGARTSMSENELDILTRYFQYNAK
+            DITEKQ
+NTSEQ       1101
+            atgcgagggaaaaaacgcattgggttattgtttttgctgatagcggttgtggttggtggc
+            ggcgggttattgctggcgcaaaaagtcttacataaaacgtcggatacagcattttgcctt
+            tcctgccactcgatgagtaaaccttttgaggaatatcagggaactgtccacttttcgaac
+            cagaaagggatacgtgcggaatgtgccgattgccatattccaaagtcagggatggattat
+            ttatttgctaaattaaaggcatctaaagatatttatcatgaatttgttagcggcaaaata
+            gacagtgacgataagttcgaagctcatcgccaggaaatggccgaaacagtatggaaagaa
+            ttaaaagccactgactctgcaacgtgccgtagttgccattcttttgatgccatggatatt
+            gcctcgcaaagtgaatctgcgcagaaaatgcataacaaagcacaaaaggacagcgaaacc
+            tgtatcgattgtcataaaggcattgcccattttccgccagaaataaaaatggatgacaac
+            gcggcgcatgagctggaaagtcaggccgctacttcagttactaatggcgcacatatttat
+            cctttcaaaacttctcacataggcgagctggctaccgtgaatcctggaaccgatctcacc
+            gtcgttgatgccagtggcaaacagccgatcgttctgttgcagggttatcaaatgcagggc
+            agtgaaaacacgctctacctggcggcaggtcaacggctggcgctagccacattaagtgaa
+            gaaggtatcaaggcgctcactgtaaacggggaatggcaggctgacgaatacggcaatcaa
+            tggcgtcaggcgtctttacagggtgcgcttaccgatcccgcattagcggaccgtaaaccg
+            ctatggcaatacgctgaaaaacttgacgatacctattgcgctggttgtcatgcccctatt
+            gccgccgaccattacaccgtcaatgcgtggccgtccattgccaaaggaatgggggcacga
+            accagcatgagcgaaaacgaactggacattttaacgcggtatttccagtacaacgccaaa
+            gatattaccgagaaacagtga
+///

@@ -1,0 +1,57 @@
+ENTRY       b2950             CDS       T00007
+NAME        yggR
+DEFINITION  (RefSeq) Type II/IV secretion system family protein
+ORTHOLOGY   K02669  twitching motility protein PilT
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b2950 (yggR)
+               02035 Bacterial motility proteins [BR:eco02035]
+                b2950 (yggR)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              Pilin secretion/fimbrial assembly protein
+               b2950 (yggR)
+              Type IVa pilus homolog protein
+               b2950 (yggR)
+            Bacterial motility proteins [BR:eco02035]
+             Pilus system
+              Twitching motility proteins
+               b2950 (yggR)
+POSITION    complement(3094100..3095080)
+MOTIF       Pfam: T2SSE AAA_30 AAA_22 AAA_29 FtsK_SpoIIIE AAA_16 TrwB_AAD_bind AAA_14 AAA_23 ABC_tran DUF87 AAA_19 DUF853 Zeta_toxin SRP54 ResIII Kinesin DUF2075 AAA_7 CbiA
+DBLINKS     NCBI-GeneID: 947430
+            NCBI-ProteinID: NP_417425
+            Pasteur: yggR
+            RegulonDB: ECK120004087
+            ECOCYC: G7526
+            ASAP: ABE-0009675
+            UniProt: P52052
+AASEQ       326
+            MNMEEIVALSVKHNVSDLHLCSAWPARWRIRGRMEAAPFDTPDVEELLREWLDDDQRAIL
+            LENGQLDFAVSLAENQRLRGSAFAQRHGISLALRLLPSHCPQLEQLGAPTVLPELLKSEN
+            GLILVTGATGSGKSTTLAAMVGYLNQHADAHILTLEDPVEYLYASQRCLIQQREIGLHCM
+            TFASGLRAALREDPDVILLGELRDSETIRLALTAAETGHLVLATLHTRGAAQAVERLVDS
+            FPAQEKDPVRNQLAGSLRAVLSQKLEVDKQEGRVALFELLINTPAVGNLIREGKTHQLPH
+            VIQTGQQVGMITFQQSYQHRVGEGRL
+NTSEQ       981
+            atgaatatggaagaaattgtggcccttagtgtaaagcataacgtctcggatctacacctg
+            tgcagcgcctggcccgcacgatggcgcattcgcggcagaatggaagctgcgccgtttgat
+            acgccggacgtcgaagagctactgcgggagtggctggatgacgatcagcgggcaatattg
+            ctggagaatggtcagctggattttgccgtgtcgctggcggaaaaccagcgattgcgtggc
+            agcgcattcgcgcaacggcatggcatttcgctggcgttacggctgttaccttcgcactgc
+            ccgcagctcgaacagcttggcgcaccaacggtattgccggaattactcaagagcgagaat
+            ggcctgattctggtgacgggggcgacggggagtggcaaatctaccacgctggcggcgatg
+            gttggctatctcaatcaacatgccgatgcgcatattctgacgctggaagatcctgttgaa
+            tatctctatgccagccagcgatgtttgatccagcagcgggaaattggtttgcactgtatg
+            acgttcgcatcgggattgcgggccgcattgcgggaagatcctgatgtgattttgctcgga
+            gagctgcgtgacagcgagacaatccgtctggcactgacggcggcagaaaccgggcatttg
+            gtgctggcaacattacatacgcgtggtgccgcgcaggcagttgagcgactggtggattca
+            tttccggcgcaggaaaaagaccccgtgcgtaatcaactggcaggtagtttacgggcagtg
+            ctgtcacaaaagctggaagtggataaacaggaaggacgcgtggcgctatttgaattgctg
+            attaacacacccgcggtggggaatttgattcgcgaagggaaaacccaccagttaccgcat
+            gttattcaaaccgggcagcaggtggggatgataacgtttcagcagagttatcagcaccgg
+            gtgggggaagggcgtttgtga
+///

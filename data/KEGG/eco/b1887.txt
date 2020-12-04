@@ -1,0 +1,50 @@
+ENTRY       b1887             CDS       T00007
+NAME        cheW
+DEFINITION  (RefSeq) chemotaxis protein CheW
+ORTHOLOGY   K03408  purine-binding chemotaxis protein CheW
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02030  Bacterial chemotaxis
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1887 (cheW)
+             09140 Cellular Processes
+              09142 Cell motility
+               02030 Bacterial chemotaxis
+                b1887 (cheW)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1887 (cheW)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Chemotaxis proteins
+               Two component system proteins
+                b1887 (cheW)
+POSITION    complement(1972836..1973339)
+MOTIF       Pfam: CheW
+DBLINKS     NCBI-GeneID: 946400
+            NCBI-ProteinID: NP_416401
+            Pasteur: cheW
+            RegulonDB: ECK120000145
+            ECOCYC: EG10149
+            ASAP: ABE-0006292
+            UniProt: P0A964
+STRUCTURE   PDB: 2HO9
+AASEQ       167
+            MTGMTNVTKLASEPSGQEFLVFTLGDEEYGIDILKVQEIRGYDQVTRIANTPAFIKGVTN
+            LRGVIVPIVDLRIKFSQVDVDYNDNTVVIVLNLGQRVVGIVVDGVSDVLSLTAEQIRPAP
+            EFAVTLSTEYLTGLGALGDRMLILVNIEKLLNSEEMALLDSAASEVA
+NTSEQ       504
+            atgaccggtatgacgaatgtaacaaagctggccagcgagccgtcaggccaggaatttctg
+            gtatttacccttggtgatgaagagtacggtattgatatcctgaaagtgcaggagatccgt
+            ggctacgatcaggtaacacggattgcgaacacgccagcgtttatcaaaggcgtcacgaat
+            ctgcgcggcgttattgtgccgattgttgacttacgaattaagttcagccaggtggatgtg
+            gactataacgacaacacggtagttatcgtcctgaatctcggacagcgggtggtcggcatc
+            gtggttgacggcgtctcagacgtgctttcattgacggcggagcaaattcgtccggcaccg
+            gaatttgccgtgacgctttcaacagaatatctcactggactgggcgcactgggcgaccgg
+            atgttgattctggtgaacatcgaaaaactgctgaacagcgaagagatggcgctgttagat
+            agcgcggcgtcagaagtggcgtaa
+///

@@ -1,0 +1,42 @@
+ENTRY       b2387             CDS       T00007
+NAME        fryB
+DEFINITION  (RefSeq) putative PTS enzyme IIB component FryB
+ORTHOLOGY   K11202  fructose-like PTS system EIIB component [EC:2.7.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2387 (fryB)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.1  Phosphotransferases with an alcohol group as acceptor
+                2.7.1.-  
+                 b2387 (fryB)
+            Transporters [BR:eco02000]
+             Phosphotransferase system (PTS)
+              Enzyme II [TC:4.A]
+               Fructose-specific II-like component
+                b2387 (fryB)
+POSITION    complement(2507916..2508242)
+MOTIF       Pfam: PTS_IIB Methyltransf_30
+DBLINKS     NCBI-GeneID: 949087
+            NCBI-ProteinID: NP_416888
+            Pasteur: ypdH
+            RegulonDB: ECK120003825
+            ECOCYC: G7250
+            ASAP: ABE-0007873
+            UniProt: P69808
+STRUCTURE   PDB: 2KYR
+AASEQ       108
+            MSKKLIALCACPMGLAHTFMAAQALEEAAVEAGYEVKIETQGADGIQNRLTAQDIAEATI
+            IIHSVAVTPEDNERFESRDVYEITLQDAIKNAAGIIKEIEEMIASEQQ
+NTSEQ       327
+            atgagtaagaaactgattgccttatgtgcctgcccgatgggcctggctcacacctttatg
+            gccgctcaggcgctggaagaagcggcggtagaagccggttatgaagtgaaaattgaaacc
+            cagggcgcggacggtatccagaatcgcctgacggcgcaggatatcgccgaagcgaccatc
+            atcatccactccgtggcagttaccccggaagataacgaacgtttcgaatcacgcgacgtt
+            tatgaaatcactttgcaggacgcaattaaaaacgctgcgggcatcatcaaagaaatcgaa
+            gagatgattgcctctgaacaacagtaa
+///

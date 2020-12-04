@@ -1,0 +1,49 @@
+ENTRY       b1280             CDS       T00007
+NAME        lapB
+DEFINITION  (RefSeq) lipopolysaccharide assembly protein B
+ORTHOLOGY   K19804  lipopolysaccharide assembly protein B
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99986 Glycan metabolism
+                b1280 (lapB)
+POSITION    1340558..1341727
+MOTIF       Pfam: TPR_14 TPR_19 Rubredoxin_2 TPR_2 TPR_7 TPR_12 TPR_16 TPR_8 TPR_1 ANAPC3 TPR_6 TPR_11 TPR_20 NARP1 TPR_9 TPR_21 SPG48 RIP T4SS_TraI Alkyl_sulf_dimr Nudix_N_2
+DBLINKS     NCBI-GeneID: 944858
+            NCBI-ProteinID: NP_415796
+            Pasteur: yciM
+            RegulonDB: ECK120002356
+            ASAP: ABE-0004300
+            UniProt: P0AB58
+STRUCTURE   PDB: 4ZLH
+AASEQ       389
+            MLELLFLLLPVAAAYGWYMGRRSAQQNKQDEANRLSRDYVAGVNFLLSNQQDKAVDLFLD
+            MLKEDTGTVEAHLTLGNLFRSRGEVDRAIRIHQTLMESASLTYEQRLLAIQQLGRDYMAA
+            GLYDRAEDMFNQLTDETDFRIGALQQLLQIYQATSEWQKAIDVAERLVKLGKDKQRVEIA
+            HFYCELALQHMASDDLDRAMTLLKKGAAADKNSARVSIMMGRVFMAKGEYAKAVESLQRV
+            ISQDRELVSETLEMLQTCYQQLGKTAEWAEFLQRAVEENTGADAELMLADIIEARDGSEA
+            AQVYITRQLQRHPTMRVFHKLMDYHLNEAEEGRAKESLMVLRDMVGEKVRSKPRYRCQKC
+            GFTAYTLYWHCPSCRAWSTIKPIRGLDGL
+NTSEQ       1170
+            atgctggagttgttgtttctgcttttgcctgtagccgctgcctatggctggtatatgggc
+            cgcagaagtgcgcaacaaaacaagcaagatgaagccaaccgcttgtcgcgtgattacgta
+            gcgggggttaacttcctgcttagtaatcaacaggataaagcggtagacctgtttctcgat
+            atgcttaaagaggatacaggcaccgttgaagcccaccttacgctcggaaacctgttccgt
+            tcgcgtggcgaagttgatcgcgctattcgcatccatcagaccctaatggaaagcgcctcg
+            ctgacctatgaacagcgtctgttggcgattcaacaactggggcgtgattacatggccgcc
+            gggttatatgaccgcgcggaagacatgttcaatcagctgaccgatgaaactgacttccgc
+            attggcgcgctgcaacagttgctacaaatctaccaggctaccagtgagtggcagaaagca
+            attgatgttgccgaacgcctggtgaagctgggtaaagataaacagcgcgtcgaaattgcc
+            catttctactgtgagttagccctgcagcatatggccagcgacgatctcgatcgtgccatg
+            accttgctaaaaaaaggggcggcggcagataaaaacagcgcccgcgtatccataatgatg
+            ggacgcgtgtttatggcgaaaggagaatacgccaaagccgtcgaaagtctgcaacgcgtg
+            atatcccaggacagagaactggtcagcgaaacgctggaaatgttgcaaacctgctatcag
+            cagttgggtaaaactgccgaatgggcagaattcctgcagcgtgcggtggaagagaacacc
+            ggtgccgatgctgaattgatgcttgctgatatcatcgaagcgcgcgacggtagtgaggcc
+            gcacaggtctatattacgcgccagcttcagcgtcatccgaccatgcgtgtgttccataag
+            ttaatggattaccacttaaatgaagcggaagaagggcgtgccaaagagagcctgatggtg
+            ctgcgtgacatggttggcgagaaggtacgtagtaagcctcgttatcgttgccagaaatgt
+            ggttttaccgcatacaccctctactggcattgtccgtcttgtcgggcctggtcaaccatt
+            aaaccgattcgcggtcttgatggcctgtaa
+///

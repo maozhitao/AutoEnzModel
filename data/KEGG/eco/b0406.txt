@@ -1,0 +1,61 @@
+ENTRY       b0406             CDS       T00007
+NAME        tgt
+DEFINITION  (RefSeq) tRNA-guanine transglycosylase
+ORTHOLOGY   K00773  queuine tRNA-ribosyltransferase [EC:2.4.2.29]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b0406 (tgt)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.4  Glycosyltransferases
+               2.4.2  Pentosyltransferases
+                2.4.2.29  tRNA-guanosine34 transglycosylase
+                 b0406 (tgt)
+            Transfer RNA biogenesis [BR:eco03016]
+             Eukaryotic type
+              tRNA modification factors
+               Other tRNA modification factors
+                b0406 (tgt)
+             Prokaryotic type
+                b0406 (tgt)
+POSITION    426137..427264
+MOTIF       Pfam: TGT LupA
+DBLINKS     NCBI-GeneID: 949130
+            NCBI-ProteinID: NP_414940
+            Pasteur: tgt
+            RegulonDB: ECK120000985
+            ECOCYC: EG10996
+            ASAP: ABE-0001413
+            UniProt: P0A847
+AASEQ       375
+            MKFELDTTDGRARRGRLVFDRGVVETPCFMPVGTYGTVKGMTPEEVEATGAQIILGNTFH
+            LWLRPGQEIMKLHGDLHDFMQWKGPILTDSGGFQVFSLGDIRKITEQGVHFRNPINGDPI
+            FLDPEKSMEIQYDLGSDIVMIFDECTPYPADWDYAKRSMEMSLRWAKRSRERFDSLGNKN
+            ALFGIIQGSVYEDLRDISVKGLVDIGFDGYAVGGLAVGEPKADMHRILEHVCPQIPADKP
+            RYLMGVGKPEDLVEGVRRGIDMFDCVMPTRNARNGHLFVTDGVVKIRNAKYKSDTGPLDP
+            ECDCYTCRNYSRAYLHHLDRCNEILGARLNTIHNLRYYQRLMAGLRKAIEEGKLESFVTD
+            FYQRQGREVPPLNVD
+NTSEQ       1128
+            atgaaatttgaactggacaccaccgacggtcgcgcacgccgtggccgcctggtctttgat
+            cgtggcgtagtggaaacgccttgttttatgcctgttggcacctacggcaccgtaaaaggg
+            atgacgccggaagaagttgaagccactggcgcgcaaattatcctcggcaacaccttccac
+            ctgtggctgcgcccgggccaggaaatcatgaaactgcacggcgatctgcacgattttatg
+            cagtggaaggggccgatcctcaccgactccggcggcttccaggtcttcagccttggcgat
+            attcgtaaaatcaccgaacagggcgtgcacttccgtaacccgatcaacggcgatccgatt
+            ttcctcgatcctgaaaaatcaatggagattcagtacgatcttggttcggatatcgtcatg
+            atctttgatgagtgtacgccgtatcctgctgactgggattacgcaaaacgctccatggag
+            atgtctctgcgttgggcgaagcgtagccgtgagcgttttgacagtctcggaaacaaaaat
+            gcgctgtttggtatcatccagggcagcgtttacgaagatttacgtgatatttctgttaaa
+            ggtctggtagatatcggttttgatggctacgctgtcggcggtctggctgtgggtgagccg
+            aaagcagatatgcaccgcattctggagcatgtatgcccgcaaattccggcagacaaaccg
+            cgttacctgatgggcgttggtaaaccagaagacctggttgaaggcgtacgtcgtggtatc
+            gatatgtttgactgcgtaatgccaacccgcaacgcccgaaatggtcatttgttcgtgacc
+            gatggcgtggtgaaaatccgcaatgcgaagtataagagcgatactggcccactcgatcct
+            gagtgtgattgctacacctgtcgcaattattcacgcgcttacttgcatcatcttgaccgt
+            tgcaacgaaatattaggcgcgcgactcaacaccattcataaccttcgttactaccagcgt
+            ttgatggcgggtttacgcaaggctattgaagagggtaaattagagagcttcgtaactgat
+            ttttaccagcgtcaggggcgagaagtaccacctttgaacgttgattaa
+///

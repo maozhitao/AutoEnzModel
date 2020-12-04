@@ -1,0 +1,55 @@
+ENTRY       b2548             CDS       T00007
+NAME        yphF
+DEFINITION  (RefSeq) putative ABC transporter periplasmic binding protein YphF
+ORTHOLOGY   K23545  sugar transport system substrate-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b2548 (yphF)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2548 (yphF)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Saccharide, polyol, and lipid transporters
+               Sugar transporter
+                b2548 (yphF)
+POSITION    complement(2678384..2679367)
+MOTIF       Pfam: Peripla_BP_4 Peripla_BP_1 Peripla_BP_6 B12-binding RraA-like
+DBLINKS     NCBI-GeneID: 947020
+            NCBI-ProteinID: NP_417043
+            Pasteur: yphF
+            RegulonDB: ECK120003912
+            ECOCYC: G7342
+            ASAP: ABE-0008378
+            UniProt: P77269
+AASEQ       327
+            MPTKMRTTRNLLLMATLLGSALFARAAEKEMTIGAIYLDTQGYYAGVRQGVQDAAKDSSV
+            QVQLIETNAQGDISKESTFVDTLVARNVDAIILSAVSENGSSRTVRRASEAGIPVICYNT
+            CINQKGVDKYVSAYLVGDPLEFGKKLGNAAADYFIANKIDQPKIAVINCEAFEVCVQRRK
+            GFEEVLKSRVPGAQIVANQEGTVLDKAISVGEKLIISTPDLNAIMGESGGATLGAVKAVR
+            NQNQAGKIAVFGSDMTTEIAQELENNQVLKAVVDISGKKMGNAVFAQTLKVINKQADGEK
+            VIQVPIDLYTKTEDGKQWLATHVDGLP
+NTSEQ       984
+            atgcctacaaaaatgagaacaacccgtaatctattattaatggctacgctattaggtagc
+            gcactatttgccagggctgcggaaaaagaaatgaccattggcgcaatataccttgatact
+            cagggatactacgctggagtgcgtcagggcgttcaggatgcggcaaaagattcctcagta
+            caagttcagttaatagaaactaacgcccagggtgatatttcgaaagaaagtacctttgtt
+            gataccctcgtggcgcgtaatgtcgatgccattattttatcggcagtgtctgaaaatggc
+            agtagccgtaccgttcgtcgcgccagtgaagcgggcattccggtgatttgctacaacacc
+            tgtattaatcaaaagggggtcgataaatatgtctcggcgtatctggtcggcgatccgctg
+            gaatttggtaaaaaactgggtaacgctgccgctgattattttattgccaataaaattgac
+            cagccgaaaattgccgtcatcaattgcgaagcctttgaagtttgtgtgcagcgacgtaaa
+            ggatttgaagaagttttaaaatcccgcgttcccggcgcgcaaattgtcgctaatcaggaa
+            gggactgttttagataaagcgatttccgttggtgaaaaactaattatctccacgccggat
+            ctcaacgccattatgggggaatcgggcggtgcgacactcggcgcggtaaaagcggtacgt
+            aatcaaaatcaggccggaaaaattgctgttttcggttcggatatgacaaccgaaattgct
+            caggagctggaaaacaatcaggtgctgaaagcggtagtggatatttccggtaagaaaatg
+            ggcaatgctgttttcgcgcaaacattgaaggttatcaataaacaagccgacggtgaaaaa
+            gtgattcaggtgcctatcgatctctataccaaaacggaagacggtaaacagtggctggca
+            acgcacgttgatggtctgccctaa
+///

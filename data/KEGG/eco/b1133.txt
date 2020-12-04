@@ -1,0 +1,65 @@
+ENTRY       b1133             CDS       T00007
+NAME        mnmA
+DEFINITION  (RefSeq) tRNA-specific 2-thiouridylase
+ORTHOLOGY   K00566  tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco04122  Sulfur relay system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               04122 Sulfur relay system
+                b1133 (mnmA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03016 Transfer RNA biogenesis [BR:eco03016]
+                b1133 (mnmA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.8  Transferring sulfur-containing groups
+               2.8.1  Sulfurtransferases
+                2.8.1.13  tRNA-uridine 2-sulfurtransferase
+                 b1133 (mnmA)
+            Transfer RNA biogenesis [BR:eco03016]
+             Prokaryotic type
+              tRNA modification factors
+               Thiolation factors
+                b1133 (mnmA)
+POSITION    complement(1192667..1193773)
+MOTIF       Pfam: tRNA_Me_trans NAD_synthase ThiI QueC Asn_synthase ATP_bind_3
+DBLINKS     NCBI-GeneID: 945690
+            NCBI-ProteinID: NP_415651
+            Pasteur: trmU
+            RegulonDB: ECK120001315
+            ECOCYC: EG11344
+            ASAP: ABE-0003815
+            UniProt: P25745
+STRUCTURE   PDB: 2DER 2DET 2DEU
+AASEQ       368
+            MSETAKKVIVGMSGGVDSSVSAWLLQQQGYQVEGLFMKNWEEDDGEEYCTAAADLADAQA
+            VCDKLGIELHTVNFAAEYWDNVFELFLAEYKAGRTPNPDILCNKEIKFKAFLEFAAEDLG
+            ADYIATGHYVRRADVDGKSRLLRGLDSNKDQSYFLYTLSHEQIAQSLFPVGELEKPQVRK
+            IAEDLGLVTAKKKDSTGICFIGERKFREFLGRYLPAQPGKIITVDGDEIGEHQGLMYHTL
+            GQRKGLGIGGTKEGTEEPWYVVDKDVENNILVVAQGHEHPRLMSVGLIAQQLHWVDREPF
+            TGTMRCTVKTRYRQTDIPCTVKALDDDRIEVIFDEPVAAVTPGQSAVFYNGEVCLGGGII
+            EQRLPLPV
+NTSEQ       1107
+            atgtctgaaaccgcaaaaaaagtaatcgtcggcatgtccggcggtgtcgattcctccgtt
+            tctgcctggctgttgcaacaacagggatatcaggtcgaaggcctgtttatgaagaactgg
+            gaagaagacgacggtgaggaatattgcacagcggcagcggatctggctgatgcccaggct
+            gtctgcgacaagctcggcattgaactgcacaccgttaactttgctgccgagtactgggac
+            aacgtcttcgaactgttccttgccgaatataaagccggtcgcacgccgaatccggatatt
+            ctgtgcaacaaagagatcaaatttaaagccttcctcgaatttgccgccgaagatttaggt
+            gccgattatatcgctaccggtcattacgtacgtcgggccgatgtcgatggcaagagccgc
+            ctgctgcgtggtctggacagcaataaagaccagagctacttcctttatacgctcagccat
+            gagcagattgcgcaaagcctgttcccggtcggcgaactggaaaaaccgcaggtgcgtaag
+            attgctgaagatcttggtctggtcaccgcgaagaaaaaagactctaccggcatttgcttc
+            attggcgaacgtaaattccgcgagttcctgggccgttatctcccggcgcaaccgggcaaa
+            atcattaccgtcgatggcgatgaaattggtgagcaccaggggctgatgtatcacactctc
+            ggtcagcgtaaaggtctgggtatcggtggcaccaaagaaggtaccgaagaaccgtggtat
+            gtggtggacaaagacgtcgaaaacaacattctggttgtcgctcagggccatgaacacccg
+            cggctgatgtctgtcgggttgattgcccagcagttgcactgggtcgatcgcgaaccattc
+            accggcactatgcgttgcacggtaaaaacccgctatcgccagaccgatatcccttgcacc
+            gtcaaggcgctggacgatgatcgcattgaagtgattttcgatgaaccggttgccgccgtg
+            acgccgggccagtctgccgtcttctataacggtgaagtgtgcctcggtggcggtattatt
+            gagcagcgtctgccgctgccggtctga
+///

@@ -1,0 +1,60 @@
+ENTRY       b3518             CDS       T00007
+NAME        ccp
+DEFINITION  (RefSeq) cytochrome c peroxidase
+ORTHOLOGY   K00428  cytochrome c peroxidase [EC:1.11.1.5]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b3518 (ccp)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.11  Acting on a peroxide as acceptor
+               1.11.1  Peroxidases
+                1.11.1.5  cytochrome-c peroxidase
+                 b3518 (ccp)
+POSITION    complement(3667791..3669188)
+MOTIF       Pfam: CCP_MauG Haem_bd Cytochrom_C Cytochrome_CBB3 CHASE
+DBLINKS     NCBI-GeneID: 948038
+            NCBI-ProteinID: NP_417975
+            Pasteur: yhjA
+            RegulonDB: ECK120002127
+            ECOCYC: EG12244
+            ASAP: ABE-0011493
+            UniProt: P37197
+AASEQ       465
+            MKMVSRITAIGLAGVAICYLGLSGYVWYHDNKRSKQADVQASAVSENNKVLGFLREKGCD
+            YCHTPSAELPAYYYIPGAKQLMDYDIKLGYKSFNLEAVRAALLADKPVSQSDLNKIEWVM
+            QYETMPPTRYTALHWAGKVSDEERAEILAWIAKQRAEYYASNDTAPEHRNEPVQPIPQKL
+            PTDAQKVALGFALYHDPRLSADSTISCAHCHALNAGGVDGRKTSIGVGGAVGPINAPTVF
+            NSVFNVEQFWDGRAATLQDQAGGPPLNPIEMASKSWDEIIAKLEKDPQLKTQFLEVYPQG
+            FSGENITDAIAEFEKTLITPDSPFDKWLRGDENALTAQQKKGYQLFKDNKCATCHGGIIL
+            GGRSFEPLGLKKDFNFGEITAADIGRMNVTKEERDKLRQKVPGLRNVALTAPYFHRGDVP
+            TLDGAVKLMLRYQVGKELPQEDVDDIVAFLHSLNGVYTPYMQDKQ
+NTSEQ       1398
+            atgaaaatggtctcacgtattaccgcgatcggcctggctggcgtcgcgatttgctattta
+            gggttatctggttatgtgtggtaccacgataataaacgcagtaaacaggccgatgttcag
+            gcatctgctgtcagtgaaaataataaggttttaggctttctccgcgaaaaaggatgcgac
+            tattgccacacgccttcggcagaattacccgcctattattatattcctggcgcgaaacag
+            ttgatggattacgacattaagcttggatataaatcttttaaccttgaggccgtgcgtgcg
+            gcactgctggctgataaacccgtttcgcaaagcgatttgaataagattgaatgggtgatg
+            cagtatgaaactatgccaccaacgcgttataccgcgctacactgggcgggtaaggtgagt
+            gatgaagagcgggcggaaatactggcctggattgcaaaacagcgcgcggaatattacgcc
+            agcaatgatactgctccggaacatcgcaatgaaccggtgcagcccatcccgcaaaaactg
+            cctaccgatgcgcaaaaagtggcgttgggttttgcgctgtatcacgatccccgtttatcg
+            gctgatagcaccatttcatgcgctcattgccatgcgttgaatgcggggggcgtcgatggc
+            agaaaaacatcgattggtgttggtggcgcagttgggccgattaacgcgccgacggtattt
+            aactcagtatttaacgttgagcagttctgggatggtcgtgcggcaacattgcaggatcag
+            gctggtggaccgccgttgaacccgattgaaatggcgtcgaaatcctgggacgaaattatt
+            gctaagctggaaaaagatccgcagcttaaaacgcagttcctcgaagtctatccgcaaggt
+            ttcagtggcgaaaatattactgatgccattgctgaatttgagaaaacattaattacgccg
+            gattccccatttgataaatggttgcgcggagatgaaaatgcgctgacggcgcaacagaaa
+            aaaggctatcaattatttaaagataataaatgtgcaacttgtcatggtggtattattctc
+            ggcggacgttcctttgaaccgttggggctgaaaaaagactttaactttggggaaattacg
+            gcggcggatattggtcgtatgaatgtgactaaagaagagcgtgataaattgcgtcagaaa
+            gtacccggtttacgtaacgttgctttaacggcaccgtacttccatcgcggtgacgtgccg
+            acgctggacggggcggtgaaactgatgctgcgctatcaggtaggcaaagagctgccgcag
+            gaggatgtggatgatatcgtagctttcctgcacagtctgaacggggtgtacacgccgtat
+            atgcaggataaacaataa
+///

@@ -1,0 +1,65 @@
+ENTRY       b3335             CDS       T00007
+NAME        gspO
+DEFINITION  (RefSeq) Type II secretion system prepilin peptidase
+ORTHOLOGY   K02464  general secretion pathway protein O [EC:3.4.23.43 2.1.1.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b3335 (gspO)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01002 Peptidases and inhibitors [BR:eco01002]
+                b3335 (gspO)
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b3335 (gspO)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.-  
+                 b3335 (gspO)
+             3. Hydrolases
+              3.4  Acting on peptide bonds (peptidases)
+               3.4.23  Aspartic endopeptidases
+                3.4.23.43  prepilin peptidase
+                 b3335 (gspO)
+            Peptidases and inhibitors [BR:eco01002]
+             Aspartic peptidases
+              Family A24: type IV prepilin peptidase family
+               b3335 (gspO)
+            Secretion system [BR:eco02044]
+             Type II secretion system
+              General secretion pathway protein
+               b3335 (gspO)
+POSITION    3465543..3466220
+MOTIF       Pfam: Peptidase_A24
+DBLINKS     NCBI-GeneID: 947840
+            NCBI-ProteinID: NP_417794
+            Pasteur: gspO
+            RegulonDB: ECK120001328
+            ECOCYC: EG11359
+            ASAP: ABE-0010901
+            UniProt: P25960
+AASEQ       225
+            MTMLLPLFILVGFIADYFVNAIAYHLSPLEDKTALTFRQVLVHFRQKKYAWHDTVPLILC
+            VAAAIACALAPFTPIVTGALFLYFCFVLTLSVIDFRTQLLPDKLTLPLLWLGLVFNAQYG
+            LIDLHDAVYGAVAGYGVLWCVYWGVWLVCHKEGLGYGDFKLLAAAGAWCGWQTLPMILLI
+            ASLGGIGYAIVSQLLQRRTITTIAFGPWLALGSMINLGYLAWISY
+NTSEQ       678
+            atgacaatgctactgccgctcttcattctggttggttttattgcagattattttgttaat
+            gccatcgcctatcacctctcgccgttggaggataaaacggcgttaacgtttcgccaggta
+            ttggttcatttcaggcaaaaaaaatatgcctggcatgatacagtgcccctgatactttgt
+            gttgctgctgctatcgcctgcgccctggcacctttcacgcccatcgtgactggcgcactc
+            tttctctatttctgtttcgtactcacgctcagtgttattgattttcgcactcagctcctg
+            cccgacaaactcaccttaccgctgctctggcttggcttggtatttaatgcgcagtatgga
+            ttaattgatttacatgatgcggtttacggcgcggtagcgggctatggggtgctgtggtgt
+            gtttactggggcgtctggttagtttgtcacaaagagggattgggctacggtgatttcaag
+            ctactggccgctgcaggcgcatggtgtggctggcaaacgttgccaatgatactgctgatt
+            gcctcgctgggtggcattggttacgccatcgtttcacaacttctgcaacgccggactata
+            accactatcgcattcggcccgtggcttgcgctcggcagcatgataaacctggggtatctg
+            gcctggatctcttattaa
+///

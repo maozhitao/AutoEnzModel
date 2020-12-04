@@ -1,0 +1,76 @@
+ENTRY       b3732             CDS       T00007
+NAME        atpD
+DEFINITION  (RefSeq) ATP synthase F1 complex subunit beta
+ORTHOLOGY   K02112  F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00190  Oxidative phosphorylation
+            eco01100  Metabolic pathways
+MODULE      eco_M00157  F-type ATPase, prokaryotes and chloroplasts
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09102 Energy metabolism
+               00190 Oxidative phosphorylation
+                b3732 (atpD)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               00194 Photosynthesis proteins [BR:eco00194]
+                b3732 (atpD)
+            Enzymes [BR:eco01000]
+             7. Translocases
+              7.1  Catalysing the translocation of hydrons
+               7.1.2  Linked to the hydrolysis of a nucleoside triphosphate
+                7.1.2.2  H+-transporting two-sector ATPase
+                 b3732 (atpD)
+              7.2  Catalysing the translocation of inorganic cations
+               7.2.2  Linked to the hydrolysis of a nucleoside triphosphate
+                7.2.2.1  Na+-transporting two-sector ATPase
+                 b3732 (atpD)
+            Photosynthesis proteins [BR:eco00194]
+             Photosystem and electron transport system
+              F-type ATPase [OT]
+               b3732 (atpD)
+POSITION    complement(3915993..3917375)
+MOTIF       Pfam: ATP-synt_ab ATP-synt_ab_N T3SS_ATPase_C
+DBLINKS     NCBI-GeneID: 948244
+            NCBI-ProteinID: NP_418188
+            Pasteur: atpD
+            RegulonDB: ECK120000097
+            ECOCYC: EG10101
+            ASAP: ABE-0012208
+            UniProt: P0ABB4
+STRUCTURE   PDB: 3OAA 5T4O 5T4P 5T4Q
+AASEQ       460
+            MATGKIVQVIGAVVDVEFPQDAVPRVYDALEVQNGNERLVLEVQQQLGGGIVRTIAMGSS
+            DGLRRGLDVKDLEHPIEVPVGKATLGRIMNVLGEPVDMKGEIGEEERWAIHRAAPSYEEL
+            SNSQELLETGIKVIDLMCPFAKGGKVGLFGGAGVGKTVNMMELIRNIAIEHSGYSVFAGV
+            GERTREGNDFYHEMTDSNVIDKVSLVYGQMNEPPGNRLRVALTGLTMAEKFRDEGRDVLL
+            FVDNIYRYTLAGTEVSALLGRMPSAVGYQPTLAEEMGVLQERITSTKTGSITSVQAVYVP
+            ADDLTDPSPATTFAHLDATVVLSRQIASLGIYPAVDPLDSTSRQLDPLVVGQEHYDTARG
+            VQSILQRYQELKDIIAILGMDELSEEDKLVVARARKIQRFLSQPFFVAEVFTGSPGKYVS
+            LKDTIRGFKGIMEGEYDHLPEQAFYMVGSIEEAVEKAKKL
+NTSEQ       1383
+            atggctactggaaagattgtccaggtaatcggcgccgtagttgacgtcgaattccctcag
+            gatgccgtaccgcgcgtgtacgatgctcttgaggtgcaaaatggtaatgagcgtctggtg
+            ctggaagttcagcagcagctcggcggcggtatcgtacgtaccatcgcaatgggttcctcc
+            gacggtctgcgtcgcggtctggatgtaaaagacctcgaacacccgattgaagtcccggta
+            ggtaaagcgactctgggccgtatcatgaacgtactgggtgaaccggtcgacatgaaaggc
+            gagatcggtgaagaagagcgttgggcgattcaccgcgcagcaccttcctacgaagagctg
+            tcaaactctcaggaactgctggaaaccggtatcaaagttatcgacctgatgtgtccgttc
+            gctaagggcggtaaagttggtctgttcggtggtgcgggtgtaggtaaaaccgtaaacatg
+            atggagctcattcgtaacatcgcgatcgagcactccggttactctgtgtttgcgggcgta
+            ggtgaacgtactcgtgagggtaacgacttctaccacgaaatgaccgactccaacgttatc
+            gacaaagtatccctggtgtatggccagatgaacgagccgccgggaaaccgtctgcgcgtt
+            gctctgaccggtctgaccatggctgagaaattccgtgacgaaggtcgtgacgttctgctg
+            ttcgttgacaacatctatcgttacaccctggccggtacggaagtatccgcactgctgggc
+            cgtatgccttcagcggtaggttatcagccgaccctggcggaagagatgggcgttctgcag
+            gaacgtatcacctccaccaaaactggttctatcacctccgtacaggcagtatacgtacct
+            gcggatgacttgactgacccgtctccggcaaccacctttgcgcaccttgacgcaaccgtg
+            gtactgagccgtcagatcgcgtctctgggtatctacccggccgttgacccgctggactcc
+            accagccgtcagctggacccgctggtggttggtcaggaacactacgacaccgcgcgtggc
+            gttcagtccatcctgcaacgttatcaggaactgaaagacatcatcgccatcctgggtatg
+            gatgaactgtctgaagaagacaaactggtggtagcgcgtgctcgtaagatccagcgcttc
+            ctgtcccagccgttcttcgtggcagaagtattcaccggttctccgggtaaatacgtctcc
+            ctgaaagacaccatccgtggctttaaaggcatcatggaaggcgaatacgatcacctgccg
+            gagcaggcgttctacatggtcggttccatcgaagaagctgtggaaaaagccaaaaaactt
+            taa
+///

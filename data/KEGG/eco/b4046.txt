@@ -1,0 +1,45 @@
+ENTRY       b4046             CDS       T00007
+NAME        zur
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor Zur
+ORTHOLOGY   K09823  Fur family transcriptional regulator, zinc uptake regulator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02024  Quorum sensing
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b4046 (zur)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b4046 (zur)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               Fur family
+                b4046 (zur)
+POSITION    complement(4259488..4260003)
+MOTIF       Pfam: FUR HTH_5 PadR TrmB Penicillinase_R MarR
+DBLINKS     NCBI-GeneID: 948552
+            NCBI-ProteinID: NP_418470
+            Pasteur: zur
+            RegulonDB: ECK120001857
+            ECOCYC: EG11929
+            ASAP: ABE-0013249
+            UniProt: P0AC51
+STRUCTURE   PDB: 4MTD 4MTE
+AASEQ       171
+            MEKTTTQELLAQAEKICAQRNVRLTPQRLEVLRLMSLQDGAISAYDLLDLLREAEPQAKP
+            PTVYRALDFLLEQGFVHKVESTNSYVLCHLFDQPTHTSAMFICDRCGAVKEECAEGVEDI
+            MHTLAAKMGFALRHNVIEAHGLCAACVEVEACRHPEQCQHDHSVQVKKKPR
+NTSEQ       516
+            atggaaaagaccacaacgcaggagttattagcgcaggctgaaaaaatctgcgcgcagcgt
+            aatgtgcgcctgaccccacagcgcctggaagtgttgcgcctgatgagtctgcaggatggc
+            gctatcagcgcttatgatctgcttgatttactgcgcgaagctgaaccgcaagccaagccg
+            ccaacggtttatcgcgcgctggattttctgcttgagcaaggttttgtgcataaggtggaa
+            tccaccaacagttatgtgctctgtcatctgttcgatcagcccacccatacgtcagccatg
+            tttatttgcgatcgctgcggcgcagtgaaagaagagtgtgcagaaggcgtggaagacatt
+            atgcatacgctggcggcaaaaatggggtttgccctgcggcataatgtgattgaagcacat
+            gggctctgtgcggcatgtgtagaagtggaagcgtgtcgtcatcctgaacagtgccagcat
+            gatcactctgtgcaggtgaaaaagaaaccgcgttaa
+///

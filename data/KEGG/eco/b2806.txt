@@ -1,0 +1,60 @@
+ENTRY       b2806             CDS       T00007
+NAME        rlmM
+DEFINITION  (RefSeq) 23S rRNA 2'-O-ribose C2498 methyltransferase
+ORTHOLOGY   K06968  23S rRNA (cytidine2498-2'-O)-methyltransferase [EC:2.1.1.186]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03009 Ribosome biogenesis [BR:eco03009]
+                b2806 (rlmM)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.1  Transferring one-carbon groups
+               2.1.1  Methyltransferases
+                2.1.1.186  23S rRNA (cytidine2498-2'-O)-methyltransferase
+                 b2806 (rlmM)
+            Ribosome biogenesis [BR:eco03009]
+             Prokaryotic type
+              rRNA modification factors
+               23S rRNA modification factors
+                b2806 (rlmM)
+POSITION    complement(2940143..2941243)
+MOTIF       Pfam: RlmM_FDX FtsJ DUF4222 MIT_C
+DBLINKS     NCBI-GeneID: 947283
+            NCBI-ProteinID: NP_417286
+            Pasteur: ygdE
+            RegulonDB: ECK120001728
+            ECOCYC: EG11794
+            ASAP: ABE-0009197
+            UniProt: P0ADR6
+STRUCTURE   PDB: 4AUK 4ATN 4B17
+AASEQ       366
+            MNKVVLLCRPGFEKECAAEITDKAGQREIFGFARVKENAGYVIYECYQPDDGDKLIRELP
+            FSSLIFARQWFVVGELLQHLPPEDRITPIVGMLQGVVEKGGELRVEVADTNESKELLKFC
+            RKFTVPLRAALRDAGVLANYETPKRPVVHVFFIAPGCCYTGYSYSNNNSPFYMGIPRLKF
+            PADAPSRSTLKLEEAFHVFIPADEWDERLANGMWAVDLGACPGGWTYQLVKRNMWVYSVD
+            NGPMAQSLMDTGQVTWLREDGFKFRPTRSNISWMVCDMVEKPAKVAALMAQWLVNGWCRE
+            TIFNLKLPMKKRYEEVSHNLAYIQAQLDEHGINAQIQARQLYHDREEVTVHVRRIWAAVG
+            GRRDER
+NTSEQ       1101
+            atgaataaggttgtattgctgtgccgtccgggctttgaaaaagagtgcgccgcagaaatt
+            accgataaagccggccagcgggaaattttcggttttgcccgcgtgaaagagaatgcgggt
+            tatgtcatttatgaatgttatcaacctgatgatggcgataagttaatccgtgagctgccg
+            ttcagttcattaatttttgcccgccagtggtttgtggtgggggaactcctgcagcatttg
+            ccgccagaagatcgtattacccccattgtcggcatgttacagggcgtagtagagaagggc
+            ggtgaactgcgtgttgaagttgccgataccaacgaaagcaaagagttactgaaattctgc
+            cgtaaatttactgttccgctacgcgctgccttgcgcgatgccggggtgctggcgaactat
+            gaaacgccgaagcgtccggttgtgcatgtattctttattgcaccaggctgctgctatacc
+            ggttactcatacagcaacaataattcgccgttctatatgggcattccgcgcctgaaattt
+            ccggcagatgcgccgagtcgttccacgctcaaactggaagaggcatttcatgtgtttatt
+            cctgcggatgagtgggatgaacgcctggcgaacgggatgtgggcggtggatttaggcgct
+            tgccctggcggctggacctaccaactggtgaagcgcaacatgtgggtttattccgtcgac
+            aacggcccgatggcgcaaagtctgatggataccggacaggtgacgtggctgcgggaagac
+            ggtttcaaattccgtccgacgcgcagcaatatctcctggatggtatgcgatatggttgaa
+            aaaccggcgaaagttgcggcattgatggcgcagtggctggttaatggctggtgccgtgaa
+            accattttcaacctcaaactgccgatgaaaaaacgctacgaagaagtgtcacacaatctg
+            gcgtatattcaggcacagcttgatgaacatggcataaatgctcagattcaggcgcggcag
+            ttgtatcacgatcgcgaagaagtgacggtgcacgtccgccgcatctgggctgcggtgggt
+            ggtcgtcgcgacgagcgataa
+///

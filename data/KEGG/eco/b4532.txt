@@ -1,0 +1,37 @@
+ENTRY       b4532             CDS       T00007
+NAME        hicA
+DEFINITION  (RefSeq) toxin of the HicA-HicB toxin-antitoxin system
+ORTHOLOGY   K07339  mRNA interferase HicA [EC:3.1.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4532 (hicA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.-  Acting on ester bonds
+                3.1.-.-  
+                 b4532 (hicA)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               HicA-HicB
+                b4532 (hicA)
+POSITION    1509286..1509462
+MOTIF       Pfam: HicA_toxin
+DBLINKS     NCBI-GeneID: 945989
+            NCBI-ProteinID: NP_415954
+            RegulonDB: ECK120016303
+            ECOCYC: G0-10451
+            ASAP: ABE-0285053
+            UniProt: P76106
+STRUCTURE   PDB: 6HPB
+AASEQ       58
+            MKQSEFRRWLESQGVDVANGSNHLKLRFHGRRSVMPRHPCDEIKEPLRKAILKQLGLS
+NTSEQ       177
+            gtgaaacaaagcgagttcagacgttggctcgaatctcagggcgtcgatgtagcgaatggc
+            agcaaccatttgaaactcaggtttcatgggaggcgcagtgtcatgccgcgtcacccctgc
+            gatgagattaaagaaccattgcgtaaagcaatcctgaaacaactcggtttgagttaa
+///

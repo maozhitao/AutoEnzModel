@@ -1,0 +1,32 @@
+ENTRY       b2553             CDS       T00007
+NAME        glnB
+DEFINITION  (RefSeq) nitrogen regulatory protein PII-1
+ORTHOLOGY   K04751  nitrogen regulatory protein P-II 1
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b2553 (glnB)
+POSITION    complement(2687070..2687408)
+MOTIF       Pfam: P-II DUF3240
+DBLINKS     NCBI-GeneID: 947016
+            NCBI-ProteinID: NP_417048
+            Pasteur: glnB
+            RegulonDB: ECK120000377
+            ECOCYC: EG10384
+            ASAP: ABE-0008398
+            UniProt: P0A9Z1
+STRUCTURE   PDB: 5L9N 2PII 1PIL
+AASEQ       112
+            MKKIDAIIKPFKLDDVREALAEVGITGMTVTEVKGFGRQKGHTELYRGAEYMVDFLPKVK
+            IEIVVPDDIVDTCVDTIIRTAQTGKIGDGKIFVFDVARVIRIRTGEEDDAAI
+NTSEQ       339
+            atgaaaaagattgatgcgattataaaacccttcaagctggacgatgtccgcgaagcactg
+            gccgaagtcggtattaccggcatgacggtgaccgaagtgaaaggctttggtcgccagaaa
+            ggccataccgagctgtaccgcggcgcggagtatatggtggattttctgccgaaagtgaaa
+            attgagattgtcgtaccggacgacattgtcgatacctgtgtcgataccattattcgcacg
+            gcgcaaaccggcaaaatcggtgacggtaaaatcttcgtctttgacgtggcacgggtcatt
+            cgcatccgtaccggtgaagaggacgacgcggcaatttaa
+///

@@ -1,0 +1,65 @@
+ENTRY       b4348             CDS       T00007
+NAME        hsdS
+DEFINITION  (RefSeq) type I restriction enzyme EcoKI specificity protein
+ORTHOLOGY   K01154  type I restriction enzyme, S subunit [EC:3.1.21.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4348 (hsdS)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.21  Endodeoxyribonucleases producing 5'-phosphomonoesters
+                3.1.21.3  type I site-specific deoxyribonuclease
+                 b4348 (hsdS)
+            Prokaryotic defense system [BR:eco02048]
+             Restriction and modification system (R-M system)
+              Type I R-M system
+               b4348 (hsdS)
+POSITION    complement(4580068..4581462)
+MOTIF       Pfam: Methylase_S
+DBLINKS     NCBI-GeneID: 948867
+            NCBI-ProteinID: NP_418768
+            Pasteur: hsdS
+            RegulonDB: ECK120000453
+            ECOCYC: EG10460
+            ASAP: ABE-0014258
+            UniProt: P05719
+STRUCTURE   PDB: 2Y7C 2Y7H
+AASEQ       464
+            MSAGKLPEGWVIAPVSTVTTLIRGVTYKKEQAINYLKDDYLPLIRANNIQNGKFDTTDLV
+            FVPKNLVKESQKISPEDIVIAMSSGSKSVVGKSAHQHLPFECSFGAFCGVLRPEKLIFSG
+            FIAHFTKSSLYRNKISSLSAGANINNIKPASFDLINIPIPPLAEQKIIAEKLDTLLAQVD
+            STKARFEQIPQILKRFRQAVLGGAVNGKLTEKWRNFEPQHSVFKKLNFESILTELRNGLS
+            SKPNESGVGHPILRISSVRAGHVDQNDIRFLECSESELNRHKLQDGDLLFTRYNGSLEFV
+            GVCGLLKKLQHQNLLYPDKLIRARLTKDALPEYIEIFFSSPSARNAMMNCVKTTSGQKGI
+            SGKDIKSQVVLLPPVKEQAEIVRRVEQLFAYADTIEKQVNNALARVNNLTQSILAKAFRG
+            ELTAQWRAENPDLISGENSAAALLEKIKAERAASGGKKASRKKS
+NTSEQ       1395
+            atgagtgcggggaaattgccggaggggtgggttatcgccccagtatctacggtcacaact
+            ctaatccgaggagtaacgtataaaaaagagcaggcaataaattatctaaaagatgattat
+            ttgcctcttatccgtgcgaacaatattcagaatggcaagtttgatactacggacttggtt
+            tttgttcctaaaaatcttgttaaagaaagtcaaaaaatatctcctgaagatattgttatt
+            gcaatgtcatcagggagcaaatccgtagttggtaaatccgcacatcagcatctaccattt
+            gaatgtagtttcggcgcattttgcggtgtattacgtcctgaaaaacttatattttctggt
+            tttattgctcatttcacaaaatcttctctttatcgaaacaaaatttcatcactttctgct
+            ggtgcaaatattaataatattaagccggcaagctttgatttgataaatataccaatccca
+            ccacttgccgaacaaaaaatcatcgctgaaaaactcgatacgctgctggcgcaggtagac
+            agcaccaaagcacgttttgagcaaatcccacaaatcctgaaacgttttcgtcaagcggta
+            ttggggggcgcagttaatggaaaattgacagaaaaatggcgtaattttgagccgcaacat
+            tctgtatttaagaagttaaattttgaatctatcttaactgaattacgtaatggtctttca
+            tcaaagccaaatgaaagtggtgttggtcatccaatactacgcattagttctgtacgtgct
+            ggccatgtagatcaaaacgatattcggtttctagaatgttcagaaagtgaactaaaccgc
+            cacaaattacaagatggagatcttttatttactcgctataacggaagtttagaatttgtt
+            ggtgtttgtgggttattgaaaaaattacaacatcaaaatttgctatatcctgataaactt
+            attcgagctcgattaaccaaagatgctttaccagaatatatcgaaatatttttttcatcc
+            ccctcagcacgaaatgcaatgatgaactgcgtgaaaacaacttctggtcaaaaaggtatt
+            tcaggaaaagatatcaaatcccaagttgttttattacctccagtaaaagaacaagccgaa
+            atcgttcgccgcgtcgagcaactcttcgcctacgccgacaccatagaaaaacaggtcaac
+            aacgccttagcccgcgtcaacaacctgacgcaatccatcctggcaaaagcgttccgtggt
+            gaacttaccgcccagtggcgggccgaaaacccggatttgatcagcggagaaaacagcgcc
+            gccgcgttgctggaaaaaatcaaagctgaacgcgcagctagcgggggtaaaaaagcctca
+            cgtaaaaaatcctga
+///

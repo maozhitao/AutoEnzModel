@@ -1,0 +1,47 @@
+ENTRY       b1253             CDS       T00007
+NAME        yciA
+DEFINITION  (RefSeq) acyl-CoA thioesterase
+ORTHOLOGY   K10806  acyl-CoA thioesterase YciA [EC:3.1.2.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco01040  Biosynthesis of unsaturated fatty acids
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09103 Lipid metabolism
+               01040 Biosynthesis of unsaturated fatty acids
+                b1253 (yciA)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01004 Lipid biosynthesis proteins [BR:eco01004]
+                b1253 (yciA)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.1  Acting on ester bonds
+               3.1.2  Thioester hydrolases
+                3.1.2.-  
+                 b1253 (yciA)
+            Lipid biosynthesis proteins [BR:eco01004]
+             Fatty acid synthase
+              Component type
+               b1253 (yciA)
+POSITION    complement(1311848..1312246)
+MOTIF       Pfam: 4HBT MaoC_dehydratas
+DBLINKS     NCBI-GeneID: 946634
+            NCBI-ProteinID: NP_415769
+            Pasteur: yciA
+            RegulonDB: ECK120001105
+            ECOCYC: EG11121
+            ASAP: ABE-0004198
+            UniProt: P0A8Z0
+AASEQ       132
+            MSTTHNVPQGDLVLRTLAMPADTNANGDIFGGWLMSQMDIGGAILAKEIAHGRVVTVRVE
+            GMTFLRPVAVGDVVCCYARCVQKGTTSVSINIEVWVKKVASEPIGQRYKATEALFKYVAV
+            DPEGKPRALPVE
+NTSEQ       399
+            atgtctacaacacataacgtccctcagggcgatcttgttttacgtactttagccatgccc
+            gccgataccaatgccaatggtgacatctttggtggttggttaatgtcacaaatggatatt
+            ggcggcgctattctggcaaaagaaattgcccacggtcgcgtagtgactgtgcgggttgaa
+            ggaatgactttcttacggccggttgcggtcggcgatgtggtgtgctgctatgcacgctgt
+            gtccagaaagggacgacatcggtcagcattaatattgaagtgtgggtgaaaaaagtagcg
+            tctgaaccaattgggcaacgctataaagcgacagaagcattatttaagtatgtcgcggtt
+            gatcctgaaggaaaacctcgcgccttacctgttgagtaa
+///

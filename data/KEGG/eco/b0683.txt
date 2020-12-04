@@ -1,0 +1,39 @@
+ENTRY       b0683             CDS       T00007
+NAME        fur
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator Fur
+ORTHOLOGY   K03711  Fur family transcriptional regulator, ferric uptake regulator
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0683 (fur)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               Fur family
+                b0683 (fur)
+POSITION    complement(710200..710646)
+MOTIF       Pfam: FUR HTH_12 PadR SR1P
+DBLINKS     NCBI-GeneID: 945295
+            NCBI-ProteinID: NP_415209
+            Pasteur: fur
+            RegulonDB: ECK120000352
+            ECOCYC: EG10359
+            ASAP: ABE-0002327
+            UniProt: P0A9A9
+STRUCTURE   PDB: 2FU4
+AASEQ       148
+            MTDNNTALKKAGLKVTLPRLKILEVLQEPDNHHVSAEDLYKRLIDMGEEIGLATVYRVLN
+            QFDDAGIVTRHNFEGGKSVFELTQQHHHDHLICLDCGKVIEFSDDSIEARQREIAAKHGI
+            RLTNHSLYLYGHCAEGDCREDEHAHEGK
+NTSEQ       447
+            atgactgataacaataccgccctaaagaaagctggcctgaaagtaacgcttcctcgttta
+            aaaatcctggaagttcttcaggagccggacaaccatcacgtcagtgcggaagatttatac
+            aaacgtctgatcgatatgggtgaagaaattggtctggctacggtatatcgcgtactgaac
+            cagtttgacgacgctggtatcgtcacccgccacaattttgaaggcggtaaatccgtattt
+            gaactgacacagcaacatcaccacgatcacctgatctgcctcgactgcggcaaggttatc
+            gaatttagtgatgattccatcgaagcgcgtcagcgtgaaattgccgcaaaacatggcatt
+            cgcctgactaaccacagtctctatctttacggtcactgtgccgaaggcgattgccgcgaa
+            gatgaacatgcgcacgaaggcaaataa
+///

@@ -1,0 +1,34 @@
+ENTRY       b4224             CDS       T00007
+NAME        chpS
+DEFINITION  (RefSeq) ChpS antitoxin of the ChpB-ChpS toxin-antitoxin system
+ORTHOLOGY   K18842  antitoxin ChpS
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02048 Prokaryotic defense system [BR:eco02048]
+                b4224 (chpS)
+            Prokaryotic defense system [BR:eco02048]
+             Toxin-antitoxin system (TA system)
+              Type II TA system
+               ChpB-ChpS
+                b4224 (chpS)
+POSITION    4448447..4448698
+MOTIF       Pfam: MazE_antitoxin
+DBLINKS     NCBI-GeneID: 948739
+            NCBI-ProteinID: NP_418645
+            Pasteur: chpS
+            RegulonDB: ECK120001225
+            ECOCYC: EG11250
+            ASAP: ABE-0013820
+            UniProt: P08365
+AASEQ       83
+            MRITIKRWGNSAGMVIPNIVMKELNLQPGQSVEAQVSNNQLILTPISRRYSLDELLAQCD
+            MNAAELSEQDVWGKSTPAGDEIW
+NTSEQ       252
+            atgcgtattaccataaaaagatgggggaacagtgcaggtatggtcattcccaatatcgta
+            atgaaagaacttaacttacagccggggcagagcgtggaggcgcaagtgagcaacaatcaa
+            ctgattctgacacccatctccaggcgctactcgcttgatgaactgctggcacagtgtgac
+            atgaacgccgcggaacttagcgagcaggatgtctggggtaaatccacccctgcgggtgac
+            gaaatatggtaa
+///

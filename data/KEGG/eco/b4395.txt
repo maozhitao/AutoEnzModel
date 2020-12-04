@@ -1,0 +1,60 @@
+ENTRY       b4395             CDS       T00007
+NAME        ytjC
+DEFINITION  (RefSeq) putative phosphatase
+ORTHOLOGY   K15634  2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00010  Glycolysis / Gluconeogenesis
+            eco00260  Glycine, serine and threonine metabolism
+            eco00680  Methane metabolism
+            eco01100  Metabolic pathways
+            eco01110  Biosynthesis of secondary metabolites
+            eco01120  Microbial metabolism in diverse environments
+            eco01200  Carbon metabolism
+            eco01230  Biosynthesis of amino acids
+MODULE      eco_M00001  Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate
+            eco_M00002  Glycolysis, core module involving three-carbon compounds
+            eco_M00003  Gluconeogenesis, oxaloacetate => fructose-6P
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09101 Carbohydrate metabolism
+               00010 Glycolysis / Gluconeogenesis
+                b4395 (ytjC)
+              09102 Energy metabolism
+               00680 Methane metabolism
+                b4395 (ytjC)
+              09105 Amino acid metabolism
+               00260 Glycine, serine and threonine metabolism
+                b4395 (ytjC)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.4  Intramolecular transferases
+               5.4.2  Phosphotransferases (phosphomutases)
+                5.4.2.11  phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+                 b4395 (ytjC)
+POSITION    4633797..4634444
+MOTIF       Pfam: His_Phos_1 PTH2 Abhydrolase_9
+DBLINKS     NCBI-GeneID: 948918
+            NCBI-ProteinID: NP_418812
+            Pasteur: gpmB
+            RegulonDB: ECK120002060
+            ECOCYC: EG12164
+            ASAP: ABE-0014416
+            UniProt: P0A7A2
+AASEQ       215
+            MLQVYLVRHGETQWNAERRIQGQSDSPLTAKGEQQAMQVATRAKELGITHIISSDLGRTR
+            RTAEIIAQACGCDIIFDSRLRELNMGVLEKRHIDSLTEEEENWRRQLVNGTVDGRIPEGE
+            SMQELSDRVNAALESCRDLPQGSRPLLVSHGIALGCLVSTILGLPAWAERRLRLRNCSIS
+            RVDYQESLWLASGWVVETAGDISHLDAPALDELQR
+NTSEQ       648
+            atgttacaggtatacctagtccgccacggtgaaacgcagtggaacgccgagcgacgtatt
+            cagggccagtctgacagcccgctgaccgccaaaggtgagcaacaggcgatgcaggtggca
+            acccgtgccaaagagcttggcattacgcatatcatcagtagcgatttaggacgcacccgg
+            cgtacggcggaaatcatcgcccaggcctgcggctgtgacatcatctttgattctcgcctg
+            cgtgaattaaacatgggtgtgctggaaaaaagacatatcgattctctgaccgaagaagaa
+            gagaactggcgtcggcagctggtcaatggcaccgttgacgggcgtattcctgaaggcgag
+            tcaatgcaggagctcagcgatcgcgtcaatgcggcactggaatcttgccgggacttaccg
+            cagggaagccgaccgctgctggtgagtcatggtattgcactgggatgcctggtgagtacg
+            attctcggattaccagcatgggcagagcgccgcttacgtctgcgtaactgttctatttcg
+            cgcgtggattatcaggaaagcctgtggctggcgtctggctgggtcgttgaaaccgcaggg
+            gacatctcgcatctggacgcccctgcattagatgagctgcagcgttaa
+///

@@ -1,0 +1,39 @@
+ENTRY       b3191             CDS       T00007
+NAME        mlaB
+DEFINITION  (RefSeq) intermembrane phospholipid transport system protein MlaB
+ORTHOLOGY   K07122  phospholipid transport system transporter-binding protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b3191 (mlaB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b3191 (mlaB)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Saccharide, polyol, and lipid transporters
+               Phospholipid transporter
+                b3191 (mlaB)
+POSITION    complement(3336963..3337256)
+MOTIF       Pfam: STAS_2 STAS
+DBLINKS     NCBI-GeneID: 947954
+            NCBI-ProteinID: NP_417658
+            Pasteur: yrbB
+            RegulonDB: ECK120004208
+            ECOCYC: G7658
+            ASAP: ABE-0010487
+            UniProt: P64602
+AASEQ       97
+            MSESLSWMQTGDTLALSGELDQDVLLPLWEMREEAVKGITCIDLSRVSRVDTGGLALLLH
+            LIDLAKKQGNNVTLQGVNDKVYTLAKLYNLPADVLPR
+NTSEQ       294
+            atgagcgagtcactgagctggatgcagacgggtgacacgctggcgttatccggagagctg
+            gatcaggacgttttgctaccgctttgggaaatgcgtgaggaagcggtgaaggggattacc
+            tgcatcgatcttagccgtgtctcccgcgtggatacggggggactggcactgctgctccat
+            cttatcgatctggcgaaaaagcagggcaacaatgtgacgcttcagggggtaaacgacaaa
+            gtgtataccctggcgaaattgtataatttgcctgctgatgttctgcctcgttaa
+///

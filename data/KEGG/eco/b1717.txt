@@ -1,0 +1,42 @@
+ENTRY       b1717             CDS       T00007
+NAME        rpmI
+DEFINITION  (RefSeq) 50S ribosomal subunit protein L35
+ORTHOLOGY   K02916  large subunit ribosomal protein L35
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b1717 (rpmI)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b1717 (rpmI)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Mitochondria/ Chloroplast
+               Large subunit
+                b1717 (rpmI)
+              Bacteria
+                b1717 (rpmI)
+POSITION    complement(1799802..1799999)
+MOTIF       Pfam: Ribosomal_L35p
+DBLINKS     NCBI-GeneID: 946349
+            NCBI-ProteinID: NP_416232
+            Pasteur: rpmI
+            RegulonDB: ECK120001209
+            ECOCYC: EG11231
+            ASAP: ABE-0005732
+            UniProt: P0A7Q1
+STRUCTURE   PDB: 6QUL 6S0K 6I0Y 5GAE 5GAD 6GC8 6GBZ 6GC0 5GAG 5GAH 4UY8
+                 3J7Z 5GAF 5ADY 3J8G 4CSU 5AKA 3J5L 2J28 2RDO 3BBX
+AASEQ       65
+            MPKIKTVRGAAKRFKKTGKGGFKHKHANLRHILTKKATKRKRHLRPKAMVSKGDLGLVIA
+            CLPYA
+NTSEQ       198
+            atgccaaaaattaagaccgtacgcggtgctgctaagcgcttcaaaaaaaccggtaaaggt
+            ggttttaagcacaagcacgctaacctgcgtcacattctgaccaaaaaagcgaccaaacgt
+            aaacgtcacctgcgtccgaaagccatggtttccaaaggcgatctgggcctggtaatcgcg
+            tgcctgccgtacgcataa
+///

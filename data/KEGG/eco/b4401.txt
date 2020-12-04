@@ -1,0 +1,53 @@
+ENTRY       b4401             CDS       T00007
+NAME        arcA
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator ArcA
+ORTHOLOGY   K07773  two-component system, OmpR family, aerobic respiration control protein ArcA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b4401 (arcA)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b4401 (arcA)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b4401 (arcA)
+            Two-component system [BR:eco02022]
+             OmpR family
+              ArcB-ArcA (anoxic redox control)
+               b4401 (arcA)
+POSITION    complement(4639590..4640306)
+MOTIF       Pfam: Response_reg Trans_reg_C
+DBLINKS     NCBI-GeneID: 948874
+            NCBI-ProteinID: NP_418818
+            Pasteur: arcA
+            RegulonDB: ECK120000057
+            ECOCYC: EG10061
+            ASAP: ABE-0014434
+            UniProt: P0A9Q1
+STRUCTURE   PDB: 1XHF 1XHE
+AASEQ       238
+            MQTPHILIVEDELVTRNTLKSIFEAEGYDVFEATDGAEMHQILSEYDINLVIMDINLPGK
+            NGLLLARELREQANVALMFLTGRDNEVDKILGLEIGADDYITKPFNPRELTIRARNLLSR
+            TMNLGTVSEERRSVESYKFNGWELDINSRSLIGPDGEQYKLPRSEFRAMLHFCENPGKIQ
+            SRAELLKKMTGRELKPHDRTVDVTIRRIRKHFESTPDTPEIIATIHGEGYRFCGDLED
+NTSEQ       717
+            atgcagaccccgcacattcttatcgttgaagacgagttggtaacacgcaacacgttgaaa
+            agtattttcgaagcggaaggctatgatgttttcgaagcgacagatggcgcggaaatgcat
+            cagatcctctctgaatatgacatcaacctggtgatcatggatatcaatctgccgggtaag
+            aacggtcttctgttagcgcgtgaactgcgcgagcaggcgaatgttgcgttgatgttcctg
+            actggccgtgacaacgaagtcgataaaattctcggcctcgaaatcggtgcagatgactac
+            atcaccaaaccgttcaacccgcgtgaactgacgattcgtgcacgcaacctactgtcccgt
+            accatgaatctgggtactgtcagcgaagaacgtcgtagcgttgaaagctacaagttcaat
+            ggttgggaactggacatcaacagccgttcgttgatcggccctgatggcgagcagtacaag
+            ctgccgcgcagcgagttccgcgccatgcttcacttctgtgaaaacccaggcaaaattcag
+            tcccgtgctgaactgctgaagaaaatgaccggccgtgagctgaaaccgcacgaccgtact
+            gtagacgtgacgatccgccgtattcgtaaacatttcgaatctacgccggatacgccggaa
+            atcatcgccaccattcacggtgaaggttatcgcttctgcggtgatctggaagattaa
+///

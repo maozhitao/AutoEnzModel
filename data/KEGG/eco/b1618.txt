@@ -1,0 +1,42 @@
+ENTRY       b1618             CDS       T00007
+NAME        uidR
+DEFINITION  (RefSeq) DNA-binding transcriptional repressor UidR
+ORTHOLOGY   K16138  TetR/AcrR family transcriptional regulator, repressor for uid operon
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1618 (uidR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               TetR/AcrR family
+                b1618 (uidR)
+POSITION    complement(1696462..1697052)
+MOTIF       Pfam: TetR_N TetR_C_11 TetR_C_6 HTH_Tnp_1_2
+DBLINKS     NCBI-GeneID: 946150
+            NCBI-ProteinID: NP_416135
+            Pasteur: uidR
+            RegulonDB: ECK120003456
+            ECOCYC: G6867
+            ASAP: ABE-0005415
+            UniProt: P0ACT6
+STRUCTURE   PDB: 6AYI
+AASEQ       196
+            MMDNMQTEAQPTRTRILNAAREIFSENGFHSASMKAICKSCAISPGTLYHHFISKEALIQ
+            AIILQDQERALARFREPIEGIHFVDYMVESIVSLTHEAFGQRALVVEIMAEGMRNPQVAA
+            MLKNKHMTITEFVAQRMRDAQQKGEISPDINTAMTSRLLLDLTYGVLADIEAEDLAREAS
+            FAQGLRAMIGGILTAS
+NTSEQ       591
+            atgatggataacatgcagactgaagcacaaccgacacggacccggatcctcaatgctgcc
+            agagagattttttcagaaaatggatttcacagtgcctcgatgaaagccatctgtaaatct
+            tgcgccattagtcccgggacgctctatcaccatttcatctccaaagaagccttgattcag
+            gcgattatcttacaggaccaggagagggcgctggcccgtttccgggaaccgattgaaggg
+            attcatttcgttgactatatggtcgagtccattgtctctctcacccatgaagcctttgga
+            caacgggcgctggtggttgaaattatggcggaagggatgcgtaacccacaggtcgccgcc
+            atgcttaaaaataagcatatgacgatcacggaatttgttgcccagcggatgcgtgatgcc
+            cagcaaaaaggcgagataagcccagacatcaacacggcaatgacttcacgtttactgctg
+            gatctgacctacggtgtactggccgatatcgaagcggaagacctggcgcgtgaagcgtcg
+            tttgctcagggattacgcgcgatgattggcggtatcttaaccgcatcctga
+///

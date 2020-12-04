@@ -1,0 +1,43 @@
+ENTRY       b3316             CDS       T00007
+NAME        rpsS
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S19
+ORTHOLOGY   K02965  small subunit ribosomal protein S19
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09122 Translation
+               03010 Ribosome
+                b3316 (rpsS)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03011 Ribosome [BR:eco03011]
+                b3316 (rpsS)
+            Ribosome [BR:eco03011]
+             Ribosomal proteins
+              Bacteria
+               Small subunit
+                b3316 (rpsS)
+              Archaea
+                b3316 (rpsS)
+POSITION    complement(3450248..3450526)
+MOTIF       Pfam: Ribosomal_S19
+DBLINKS     NCBI-GeneID: 947811
+            NCBI-ProteinID: NP_417775
+            Pasteur: rpsS
+            RegulonDB: ECK120000909
+            ECOCYC: EG10918
+            ASAP: ABE-0010852
+            UniProt: P0A7U3
+STRUCTURE   PDB: 6NQB 6O7K 5NO2 5NO3 5NO4 5UZ4 5MY1 2YKR 5ME0 5ME1 4ADV
+                 4A2I
+AASEQ       92
+            MPRSLKKGPFIDLHLLKKVEKAVESGDKKPLRTWSRRSTIFPNMIGLTIAVHNGRQHVPV
+            FVTDEMVGHKLGEFAPTRTYRGHAADKKAKKK
+NTSEQ       279
+            atgccacgttctctcaagaaaggtccttttattgacctgcacttgctgaagaaggtagag
+            aaagcggtggaaagcggagacaagaagcccctgcgcacttggtcccgtcgttcaacgatc
+            tttcctaacatgatcggtttgaccatcgctgtccataatggtcgtcagcacgttccggta
+            tttgtaaccgacgaaatggttggtcacaaactgggtgaattcgcaccgactcgtacttat
+            cgcggccacgctgctgataaaaaagcgaagaagaaataa
+///

@@ -1,0 +1,47 @@
+ENTRY       b0411             CDS       T00007
+NAME        tsx
+DEFINITION  (RefSeq) nucleoside-specific channel-forming protein Tsx
+ORTHOLOGY   K05517  nucleoside-specific channel-forming protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0411 (tsx)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b0411 (tsx)
+POSITION    complement(431129..432013)
+MOTIF       Pfam: Channel_Tsx LPAM_1
+DBLINKS     NCBI-GeneID: 946242
+            NCBI-ProteinID: NP_414945
+            Pasteur: tsx
+            RegulonDB: ECK120001024
+            ECOCYC: EG11035
+            ASAP: ABE-0001425
+            UniProt: P0A927
+STRUCTURE   PDB: 1TLY 1TLW 1TLZ
+AASEQ       294
+            MKKTLLAAGAVLALSSSFTVNAAENDKPQYLSDWWHQSVNVVGSYHTRFGPQIRNDTYLE
+            YEAFAKKDWFDFYGYADAPVFFGGNSDAKGIWNHGSPLFMEIEPRFSIDKLTNTDLSFGP
+            FKEWYFANNYIYDMGRNKDGRQSTWYMGLGTDIDTGLPMSLSMNVYAKYQWQNYGAANEN
+            EWDGYRFKIKYFVPITDLWGGQLSYIGFTNFDWGSDLGDDSGNAINGIKTRTNNSIASSH
+            ILALNYDHWHYSVVARYWHDGGQWNDDAELNFGNGNFNVRSTGWGGYLVVGYNF
+NTSEQ       885
+            atgaaaaaaacattactggcagccggtgcggtactggcgctctcttcgtcttttactgtc
+            aacgcagctgaaaacgacaaaccgcagtatctttccgactggtggcaccagagcgttaac
+            gttgtcggaagctatcacacccgtttcggaccgcagatccgcaacgatacctaccttgag
+            tacgaagcattcgctaaaaaagactggttcgacttctatggttatgcggatgcgccggta
+            ttcttcggcggtaactccgatgctaaaggtatctggaaccacggttctccgctgtttatg
+            gaaatcgaaccacgtttctccatcgacaagctgaccaatactgaccttagcttcggtccg
+            ttcaaagagtggtacttcgcgaacaactacatttacgacatgggtcgtaataaagatggt
+            cgccagagcacctggtacatgggtctgggtaccgatatcgacactggcctgccgatgagc
+            ctgtccatgaacgtctatgcgaaataccagtggcagaactatggcgcagcgaacgaaaac
+            gagtgggacggttaccgtttcaaaattaaatactttgtgccgattaccgatctgtggggc
+            ggtcagctgagctacatcggcttcaccaacttcgactggggttccgatttaggggatgac
+            agcggtaacgcaatcaacggtattaagacccgtactaataactctatcgcttccagccat
+            attctggctctgaactacgatcactggcactactctgtcgtagctcgttactggcacgac
+            ggtggtcagtggaacgacgatgcagaactgaacttcggcaacggcaacttcaacgttcgc
+            tctaccggctggggtggttacctggtagtaggttacaacttctga
+///

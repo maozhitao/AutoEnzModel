@@ -1,0 +1,53 @@
+ENTRY       b3405             CDS       T00007
+NAME        ompR
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator OmpR
+ORTHOLOGY   K07659  two-component system, OmpR family, phosphate regulon response regulator OmpR
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02026  Biofilm formation - Escherichia coli
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b3405 (ompR)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02026 Biofilm formation - Escherichia coli
+                b3405 (ompR)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b3405 (ompR)
+            Two-component system [BR:eco02022]
+             OmpR family
+              EnvZ-OmpR (osmotic stress response)
+               b3405 (ompR)
+POSITION    complement(3535865..3536584)
+MOTIF       Pfam: Response_reg Trans_reg_C FleQ
+DBLINKS     NCBI-GeneID: 947913
+            NCBI-ProteinID: NP_417864
+            Pasteur: ompR
+            RegulonDB: ECK120000665
+            ECOCYC: EG10672
+            ASAP: ABE-0011110
+            UniProt: P0AA16
+STRUCTURE   PDB: 1OPC 1ODD 2JPB
+AASEQ       239
+            MQENYKILVVDDDMRLRALLERYLTEQGFQVRSVANAEQMDRLLTRESFHLMVLDLMLPG
+            EDGLSICRRLRSQSNPMPIIMVTAKGEEVDRIVGLEIGADDYIPKPFNPRELLARIRAVL
+            RRQANELPGAPSQEEAVIAFGKFKLNLGTREMFREDEPMPLTSGEFAVLKALVSHPREPL
+            SRDKLMNLARGREYSAMERSIDVQISRLRRMVEEDPAHPRYIQTVWGLGYVFVPDGSKA
+NTSEQ       720
+            atgcaagagaactacaagattctggtggtcgatgacgacatgcgcctgcgtgcgctgctg
+            gaacgttatctcaccgaacaaggcttccaggttcgaagcgtcgctaatgcagaacagatg
+            gatcgcctgctgactcgtgaatctttccatcttatggtactggatttaatgttacctggt
+            gaagatggcttgtcgatttgccgacgtcttcgtagtcagagcaacccgatgccgatcatt
+            atggtgacggcgaaaggggaagaagtggaccgtatcgtaggcctggagattggcgctgac
+            gactacattccaaaaccgtttaacccgcgtgaactgctggcccgtatccgtgcggtgctg
+            cgtcgtcaggcgaacgaactgccaggcgcaccgtcacaggaagaggcggtaattgctttc
+            ggtaagttcaaacttaacctcggtacgcgcgaaatgttccgcgaagacgagccgatgccg
+            ctcaccagcggtgagtttgcggtactgaaggcactggtcagccatccgcgtgagccgctc
+            tcccgcgataagctgatgaaccttgcccgtggtcgtgaatattccgcaatggaacgctcc
+            atcgacgtgcagatttcgcgtctgcgccgcatggtggaagaagatccagcgcatccgcgt
+            tacattcagaccgtctggggtctgggctacgtctttgtaccggacggctctaaagcatga
+///

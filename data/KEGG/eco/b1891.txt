@@ -1,0 +1,59 @@
+ENTRY       b1891             CDS       T00007
+NAME        flhC
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator FlhC
+ORTHOLOGY   K02402  flagellar transcriptional activator FlhC
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+            eco02024  Quorum sensing
+            eco02026  Biofilm formation - Escherichia coli
+            eco02040  Flagellar assembly
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1891 (flhC)
+             09140 Cellular Processes
+              09145 Cellular community - prokaryotes
+               02024 Quorum sensing
+                b1891 (flhC)
+               02026 Biofilm formation - Escherichia coli
+                b1891 (flhC)
+              09142 Cell motility
+               02040 Flagellar assembly
+                b1891 (flhC)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02035 Bacterial motility proteins [BR:eco02035]
+                b1891 (flhC)
+            Bacterial motility proteins [BR:eco02035]
+             Flagellar system
+              Flagellar assembly proteins
+               Regulation
+                b1891 (flhC)
+POSITION    complement(1977266..1977844)
+MOTIF       Pfam: FlhC
+DBLINKS     NCBI-GeneID: 947280
+            NCBI-ProteinID: NP_416405
+            Pasteur: flhC
+            RegulonDB: ECK120000313
+            ECOCYC: EG10319
+            ASAP: ABE-0006301
+            UniProt: P0ABY7
+STRUCTURE   PDB: 2AVU
+AASEQ       192
+            MSEKSIVQEARDIQLAMELITLGARLQMLESETQLSRGRLIKLYKELRGSPPPKGMLPFS
+            TDWFMTWEQNVHASMFCNAWQFLLKTGLCNGVDAVIKAYRLYLEQCPQAEEGPLLALTRA
+            WTLVRFVESGLLQLSSCNCCGGNFITHAHQPVGSFACSLCQPPSRAVKRRKLSQNPADII
+            PQLLDEQRVQAV
+NTSEQ       579
+            atgagtgaaaaaagcattgttcaggaagcgcgggatattcagctggcaatggaattgatc
+            accctgggcgctcgtttgcagatgctggaaagcgaaacacagttaagtcgcggacgcctg
+            ataaaactttataaagaactgcgcggaagcccaccgccgaaaggcatgctgccattctca
+            accgactggtttatgacctgggaacaaaacgttcatgcttcgatgttctgtaatgcatgg
+            cagtttttactgaaaaccggtttgtgtaatggcgtcgatgcggtgatcaaagcctaccgt
+            ttataccttgaacagtgcccacaagcagaagaaggaccactgctggcattaacccgtgcc
+            tggacattggtgcggtttgttgaaagtggattactgcaactttccagctgcaactgctgc
+            ggcggcaattttattacccacgctcaccagcctgttggcagctttgcctgcagcttatgt
+            caaccgccatcccgggcagtaaaaagacgtaaactttcccagaatcctgccgatattatc
+            ccacaactgctggatgaacagagagtacaggctgtttaa
+///

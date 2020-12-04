@@ -1,0 +1,43 @@
+ENTRY       b0172             CDS       T00007
+NAME        frr
+DEFINITION  (RefSeq) ribosome-recycling factor
+ORTHOLOGY   K02838  ribosome recycling factor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03012 Translation factors [BR:eco03012]
+                b0172 (frr)
+            Translation factors [BR:eco03012]
+             Eukaryotic type
+              Release factors
+               b0172 (frr)
+             Prokaryotic type
+               b0172 (frr)
+POSITION    192872..193429
+MOTIF       Pfam: RRF
+DBLINKS     NCBI-GeneID: 946122
+            NCBI-ProteinID: NP_414714
+            Pasteur: frr
+            RegulonDB: ECK120000329
+            ECOCYC: EG10335
+            ASAP: ABE-0000588
+            UniProt: P0A805
+STRUCTURE   PDB: 1ISE 1EK8 1Y69 2RDO 1ZN1 1ZN0
+AASEQ       185
+            MISDIRKDAEVRMDKCVEAFKTQISKIRTGRASPSLLDGIVVEYYGTPTPLRQLASVTVE
+            DSRTLKINVFDRSMSPAVEKAIMASDLGLNPNSAGSDIRVPLPPLTEERRKDLTKIVRGE
+            AEQARVAVRNVRRDANDKVKALLKDKEISEDDDRRSQDDVQKLTDAAIKKIEAALADKEA
+            ELMQF
+NTSEQ       558
+            gtgattagcgatatcagaaaagatgctgaagtacgcatggacaaatgcgtagaagcgttc
+            aaaacccaaatcagcaaaatacgcacgggtcgtgcttctcccagcctgctggatggcatt
+            gtcgtggaatattacggcacgccgacgccgctgcgtcagctggcaagcgtaacggtagaa
+            gattcccgtacactgaaaatcaacgtgtttgatcgttcaatgtctccggccgttgaaaaa
+            gcgattatggcgtccgatcttggcctgaacccgaactctgcgggtagcgacatccgtgtt
+            ccgctgccgccgctgacggaagaacgtcgtaaagatctgaccaaaatcgttcgtggtgaa
+            gcagaacaagcgcgtgttgcagtacgtaacgtgcgtcgtgacgcgaacgacaaagtgaaa
+            gcactgttgaaagataaagagatcagcgaagacgacgatcgccgttctcaggacgatgta
+            cagaaactgactgatgctgcaatcaagaaaattgaagcggcgctggcagacaaagaagca
+            gaactgatgcagttctga
+///

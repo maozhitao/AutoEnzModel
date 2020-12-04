@@ -1,0 +1,51 @@
+ENTRY       b0080             CDS       T00007
+NAME        cra
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator Cra
+ORTHOLOGY   K03435  LacI family transcriptional regulator, fructose operon transcriptional repressor
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b0080 (cra)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               LacI family
+                b0080 (cra)
+POSITION    88028..89032
+MOTIF       Pfam: LacI Peripla_BP_1 Peripla_BP_3 Peripla_BP_4 DUF4543 HTH_3
+DBLINKS     NCBI-GeneID: 944804
+            NCBI-ProteinID: NP_414622
+            Pasteur: fruR
+            RegulonDB: ECK120000332
+            ECOCYC: EG10338
+            ASAP: ABE-0000299
+            UniProt: P0ACP1
+STRUCTURE   PDB: 2IKS 1UXC 1UXD
+AASEQ       334
+            MKLDEIARLAGVSRTTASYVINGKAKQYRVSDKTVEKVMAVVREHNYHPNAVAAGLRAGR
+            TRSIGLVIPDLENTSYTRIANYLERQARQRGYQLLIACSEDQPDNEMRCIEHLLQRQVDA
+            IIVSTSLPPEHPFYQRWANDPFPIVALDRALDREHFTSVVGADQDDAEMLAEELRKFPAE
+            TVLYLGALPELSVSFLREQGFRTAWKDDPREVHFLYANSYEREAAAQLFEKWLETHPMPQ
+            ALFTTSFALLQGVMDVTLRRDGKLPSDLAIATFGDNELLDFLQCPVLAVAQRHRDVAERV
+            LEIVLASLDEPRKPKPGLTRIKRNLYRRGVLSRS
+NTSEQ       1005
+            gtgaaactggatgaaatcgctcggctggcgggagtgtcgcggaccactgcaagctatgtt
+            attaacggcaaagcgaagcaataccgtgtgagcgacaaaaccgttgaaaaagtcatggct
+            gtggtgcgtgagcacaattaccacccgaacgccgtggcagctgggcttcgtgctggacgc
+            acacgttctattggtcttgtgatccccgatctggagaacaccagctatacccgcatcgct
+            aactatcttgaacgccaggcgcggcaacggggttatcaactgctgattgcctgctcagaa
+            gatcagccagacaacgaaatgcggtgcattgagcaccttttacagcgtcaggttgatgcc
+            attattgtttcgacgtcgttgcctcctgagcatcctttttatcaacgctgggctaacgac
+            ccgttcccgattgtcgcgctggaccgcgccctcgatcgtgaacacttcaccagcgtggtt
+            ggtgccgatcaggatgatgccgaaatgctggcggaagagttacgtaagtttcccgccgag
+            acggtgctttatcttggtgcgctaccggagctttctgtcagcttcctgcgtgaacaaggt
+            ttccgtactgcctggaaagatgatccgcgcgaagtgcatttcctgtatgccaacagctat
+            gagcgggaggcggctgcccagttattcgaaaaatggctggaaacgcatccgatgccgcag
+            gcgctgttcacaacgtcgtttgcgttgttgcaaggagtgatggatgtcacgctgcgtcgc
+            gacggcaaactgccttctgacctggcaattgccacctttggcgataacgaactgctcgac
+            ttcttacagtgtccggtgctggcagtggctcaacgtcaccgcgatgtcgcagagcgtgtg
+            ctggagattgtcctggcaagcctggacgaaccgcgtaagccaaaacctggtttaacgcgc
+            attaaacgtaatctctatcgccgcggcgtgctcagccgtagctaa
+///

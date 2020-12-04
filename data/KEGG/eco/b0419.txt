@@ -1,0 +1,51 @@
+ENTRY       b0419             CDS       T00007
+NAME        yajO
+DEFINITION  (RefSeq) 1-deoxyxylulose-5-phosphate synthase YajO
+ORTHOLOGY   K23107  1-deoxyxylulose-5-phosphate synthase [EC:1.1.-.-]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b0419 (yajO)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.1  Acting on the CH-OH group of donors
+               1.1.-  Acting on the CH-OH group of donors
+                1.1.-.-  
+                 b0419 (yajO)
+POSITION    complement(437161..438135)
+MOTIF       Pfam: Aldo_ket_red
+DBLINKS     NCBI-GeneID: 946903
+            NCBI-ProteinID: NP_414953
+            Pasteur: yajO
+            RegulonDB: ECK120002847
+            ECOCYC: G6236
+            ASAP: ABE-0001457
+            UniProt: P77735
+AASEQ       324
+            MQYNPLGKTDLRVSRLCLGCMTFGEPDRGNHAWTLPEESSRPIIKRALEGGINFFDTANS
+            YSDGSSEEIVGRALRDFARREDVVVATKVFHRVGDLPEGLSRAQILRSIDDSLRRLGMDY
+            VDILQIHRWDYNTPIEETLEALNDVVKAGKARYIGASSMHASQFAQALELQKQHGWAQFV
+            SMQDHYNLIYREEEREMLPLCYQEGVAVIPWSPLARGRLTRPWGETTARLVSDEVGKNLY
+            KESDENDAQIAERLTGVSEELGATRAQVALAWLLSKPGIAAPIIGTSREEQLDELLNAVD
+            ITLKPEQIAELETPYKPHPVVGFK
+NTSEQ       975
+            atgcaatacaaccccttaggaaaaaccgaccttcgcgtttcccgactttgcctcggctgt
+            atgacctttggcgagccagatcgcggtaatcacgcatggacactgccggaagaaagcagc
+            cgtcccataattaaacgtgcactggaaggcggcataaatttctttgataccgccaacagt
+            tattctgacggcagcagcgaagagatcgtcggtcgcgcactgcgggatttcgcccgtcgt
+            gaagacgtggtcgttgcgaccaaagtgttccatcgcgttggtgatttaccggaaggatta
+            tcccgtgcgcaaattttgcgctctatcgacgacagcctgcgacgtctcggcatggattat
+            gtcgatatcctgcaaattcatcgctgggattacaacacgccgatcgaagagacgctggaa
+            gccctcaacgacgtggtaaaagccgggaaagcgcgttatatcggcgcgtcatcaatgcac
+            gcttcgcagtttgctcaggcactggaactccaaaaacagcacggctgggcgcagtttgtc
+            agtatgcaggatcactacaatctgatttatcgtgaagaagagcgcgagatgctaccactg
+            tgttatcaggagggcgtggcggtaattccatggagcccgctggcaaggggccgtctgacg
+            cgtccgtggggagaaactaccgcacgactggtgtctgatgaggtggggaaaaatctctat
+            aaagaaagcgatgaaaatgacgcgcagatcgcagagcggttaacaggcgtcagtgaagaa
+            ctgggggcgacacgagcacaagttgcgctggcctggttgttgagtaaaccgggcattgcc
+            gcaccgattatcggaacttcgcgcgaagaacagcttgatgagctattgaacgcggtggat
+            atcactttgaagccggaacagattgccgaactggaaacgccgtataaaccgcatcctgtc
+            gtaggatttaaataa
+///

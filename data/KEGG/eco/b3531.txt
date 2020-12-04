@@ -1,0 +1,55 @@
+ENTRY       b3531             CDS       T00007
+NAME        bcsZ
+DEFINITION  (RefSeq) endo-1,4-D-glucanase
+ORTHOLOGY   K20542  endoglucanase [EC:3.2.1.4]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b3531 (bcsZ)
+            Enzymes [BR:eco01000]
+             3. Hydrolases
+              3.2  Glycosylases
+               3.2.1  Glycosidases, i.e. enzymes that hydrolyse O- and S-glycosyl compounds
+                3.2.1.4  cellulase
+                 b3531 (bcsZ)
+POSITION    complement(3689155..3690261)
+MOTIF       Pfam: Glyco_hydro_8 DUF3788
+DBLINKS     NCBI-GeneID: 948046
+            NCBI-ProteinID: NP_417988
+            Pasteur: yhjM
+            RegulonDB: ECK120002139
+            ECOCYC: EG12258
+            ASAP: ABE-0011541
+            UniProt: P37651
+STRUCTURE   PDB: 3QXF 3QXQ
+AASEQ       368
+            MNVLRSGIVTMLLLAAFSVQAACTWPAWEQFKKDYISQEGRVIDPSDARKITTSEGQSYG
+            MFSALAANDRAAFDNILDWTQNNLAQGSLKERLPAWLWGKKENSKWEVLDSNSASDGDVW
+            MAWSLLEAGRLWKEQRYTDIGSALLKRIAREEVVTVPGLGSMLLPGKVGFAEDNSWRFNP
+            SYLPPTLAQYFTRFGAPWTTLRETNQRLLLETAPKGFSPDWVRYEKDKGWQLKAEKTLIS
+            SYDAIRVYMWVGMMPDSDPQKARMLNRFKPMATFTEKNGYPPEKVDVATGKAQGKGPVGF
+            SAAMLPFLQNRDAQAVQRQRVADNFPGSDAYYNYVLTLFGQGWDQHRFRFSTKGELLPDW
+            GQECANSH
+NTSEQ       1107
+            atgaatgtgttgcgtagtggaatcgtgacgatgctgctgctggctgcctttagtgttcag
+            gcagcctgtacctggcctgcctgggagcagtttaaaaaggattacatcagtcaggaaggg
+            cgcgtcatcgaccccagcgacgcgcgcaaaatcaccacctccgaagggcaaagttacggc
+            atgttctctgccctggcggctaacgaccgtgcagctttcgataatattctcgactggacg
+            cagaacaatctcgctcagggttctttaaaagaacgtttgcccgcctggctgtggggcaag
+            aaagagaacagtaagtgggaagtgctggacagcaattcggcctccgatggtgatgtctgg
+            atggcctggtcgttgctggaggcggggcgtttgtggaaagagcagcgttataccgacatc
+            ggcagcgcgttgctaaaacgtatcgcgcgggaggaagtggtgacggtgcctgggctgggt
+            tccatgttgttaccgggcaaagtgggttttgctgaggataacagctggcgttttaacccc
+            agctacctgccgccgacgctggcgcagtatttcacccgctttggcgcgccgtggaccacg
+            ctgcgcgaaaccaatcaacgtttattgctggaaaccgccccgaaaggtttttcgccagac
+            tgggtgcgctatgagaaagacaaaggctggcagctaaaagccgaaaaaacattgatcagc
+            agctacgacgctatccgcgtttacatgtgggtaggcatgatgcctgacagcgatccgcaa
+            aaagcgcggatgctcaaccggtttaaaccgatggcgacattcactgagaaaaacggttat
+            ccgccggaaaaagtggatgtggctacggggaaagcgcagggtaaaggaccagtcggtttt
+            tctgccgccatgctgccctttttacaaaaccgcgatgcgcaggccgttcagcgccagcgc
+            gtggccgataactttcccggcagcgatgcctattacaactatgtgctgaccctgtttgga
+            caaggctgggatcaacaccgtttccgcttctcgacaaaaggtgagttattacctgactgg
+            ggccaggaatgcgcaaattcacactaa
+///

@@ -1,0 +1,41 @@
+ENTRY       b1324             CDS       T00007
+NAME        tpx
+DEFINITION  (RefSeq) lipid hydroperoxide peroxidase
+ORTHOLOGY   K11065  thioredoxin-dependent peroxiredoxin [EC:1.11.1.24]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b1324 (tpx)
+            Enzymes [BR:eco01000]
+             1. Oxidoreductases
+              1.11  Acting on a peroxide as acceptor
+               1.11.1  Peroxidases
+                1.11.1.24  thioredoxin-dependent peroxiredoxin
+                 b1324 (tpx)
+POSITION    complement(1388305..1388811)
+MOTIF       Pfam: Redoxin AhpC-TSA
+DBLINKS     NCBI-GeneID: 945880
+            NCBI-ProteinID: NP_415840
+            Pasteur: tpx
+            RegulonDB: ECK120003255
+            ECOCYC: G6660
+            ASAP: ABE-0004442
+            UniProt: P0A862
+STRUCTURE   PDB: 3HVV 3HVS 4AF2 3HVX 1QXH 3I43
+AASEQ       168
+            MSQTVHFQGNPVTVANSIPQAGSKAQTFTLVAKDLSDVTLGQFAGKRKVLNIFPSIDTGV
+            CAASVRKFNQLATEIDNTVVLCISADLPFAQSRFCGAEGLNNVITLSTFRNAEFLQAYGV
+            AIADGPLKGLAARAVVVIDENDNVIFSQLVDEITTEPDYEAALAVLKA
+NTSEQ       507
+            atgtcacaaaccgttcatttccagggcaacccggttacagtcgccaattccatcccgcag
+            gcgggtagcaaagcgcagacttttactctcgtggcaaaagatctgtctgacgtcaccctc
+            ggtcagtttgcgggtaaacgcaaagtgctgaacattttcccgagtattgataccggtgtt
+            tgcgccgcatcagtacgtaagtttaaccaactggcaactgagatcgacaacaccgttgtg
+            ctgtgtatctctgccgatctgccgttcgcccagtctcgtttctgcggcgcagaaggtctg
+            aacaacgttatcaccctctccactttccgtaacgctgaatttctgcaagcttacggtgtg
+            gcaattgctgatggcccactgaaaggtctggcagcgcgtgccgttgtggttattgacgaa
+            aatgacaatgtgattttcagccagctggtggatgaaatcaccaccgagccggattacgaa
+            gcagctctggctgtactgaaagcataa
+///

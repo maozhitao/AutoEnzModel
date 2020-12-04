@@ -1,0 +1,54 @@
+ENTRY       b0831             CDS       T00007
+NAME        gsiC
+DEFINITION  (RefSeq) glutathione ABC transporter membrane subunit GsiC
+ORTHOLOGY   K13890  glutathione transport system permease protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02010  ABC transporters
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               02010 ABC transporters
+                b0831 (gsiC)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0831 (gsiC)
+            Transporters [BR:eco02000]
+             ABC transporters, prokaryotic type
+              Peptide and nickel transporters
+               Glutathione transporter
+                b0831 (gsiC)
+POSITION    870967..871887
+MOTIF       Pfam: BPD_transp_1 DUF2937
+DBLINKS     NCBI-GeneID: 945460
+            NCBI-ProteinID: NP_415352
+            Pasteur: yliC
+            RegulonDB: ECK120003031
+            ECOCYC: G6431
+            ASAP: ABE-0002834
+            UniProt: P75798
+AASEQ       306
+            MLNYVIKRLLGLIPTLFIVSVLVFLFVHMLPGDPARLIAGPEADAQVIELVRQQLGLDQP
+            LYHQFWHYISNAVQGDFGLSMVSRRPVADEIASRFMPTLWLTITSMVWAVIFGMAAGIIA
+            AVWRNRWPDRLSMTIAVSGISFPAFALGMLLIQVFSVELGWLPTVGADSWQHYILPSLTL
+            GAAVAAVMARFTRASFVDVLSEDYMRTARAKGVSETWVVLKHGLRNAMIPVVTMMGLQFG
+            FLLGGSIVVEKVFNWPGLGRLLVDSVEMRDYPVIQAEILLFSLEFILINLVVDVLYAAIN
+            PAIRYK
+NTSEQ       921
+            atgcttaattacgttatcaaacgcttactggggttgattccgacgctgtttatcgtctcg
+            gtgctggtgtttttatttgtccatatgctgcccggcgatccggcgcgattgattgccggg
+            cccgaagctgatgcgcaggttatagaactggtgcgtcagcagctggggttggatcagccg
+            ctgtatcaccagttctggcactatatcagcaatgctgtgcagggggattttggcctgtcg
+            atggtgtcgcgtcgtccggttgccgatgagattgccagccgctttatgccaacgctgtgg
+            ctgaccataaccagtatggtctgggcggttatatttggtatggcggcgggaattatcgcc
+            gccgtctggcgtaaccgttggccggatcgattgagtatgaccattgcggtgtcggggatc
+            tcgtttccggcatttgctctggggatgcttttaattcaggtattctccgttgaactgggc
+            tggctgcctaccgtgggagcagacagttggcagcactacattttaccctccctgacgctc
+            ggcgcggcagtggccgccgtgatggcgcgctttacccgcgcgtcgtttgtcgatgtttta
+            agcgaagattatatgcgtaccgcgagggcgaaaggggtgagcgaaacctgggttgtcctc
+            aaacacgggctacgtaacgcgatgatcccggtagtgaccatgatgggcttacagtttggc
+            tttttgctcggtggttccatcgttgtggagaaagttttcaactggccgggacttggacgc
+            ttactcgttgactccgtagaaatgcgtgattacccggtgattcaggcggaaattctgctt
+            ttctcgctggaatttattcttatcaacttagtggtggatgtgctttacgccgccattaac
+            ccggctatcaggtacaagtaa
+///

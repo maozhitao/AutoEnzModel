@@ -1,0 +1,80 @@
+ENTRY       b3295             CDS       T00007
+NAME        rpoA
+DEFINITION  (RefSeq) RNA polymerase subunit alpha
+ORTHOLOGY   K03040  DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03020  RNA polymerase
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09121 Transcription
+               03020 RNA polymerase
+                b3295 (rpoA)
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03021 Transcription machinery [BR:eco03021]
+                b3295 (rpoA)
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b3295 (rpoA)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.7  Nucleotidyltransferases
+                2.7.7.6  DNA-directed RNA polymerase
+                 b3295 (rpoA)
+            Transcription machinery [BR:eco03021]
+             Prokaryotic type
+              Bacterial type
+               RNA polymerase
+                Core subunits
+                 b3295 (rpoA)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              SSBR (single strand breaks repair)
+               NER (nucleotide excision repair)
+                TCR (transcription coupled repair) factors
+                 DNA-directed RNA polymerase complex (RNAP)
+                  b3295 (rpoA)
+POSITION    complement(3440040..3441029)
+MOTIF       Pfam: RNA_pol_A_CTD RNA_pol_A_bac RNA_pol_L RNA_pol_L_2 YjbH
+DBLINKS     NCBI-GeneID: 947794
+            NCBI-ProteinID: NP_417754
+            Pasteur: rpoA
+            RegulonDB: ECK120000884
+            ECOCYC: EG10893
+            ASAP: ABE-0010802
+            UniProt: P0A7Z4
+STRUCTURE   PDB: 3K4G 1BDF 3N4M 1LB2 6N61 3N97 6OMF 6RIP 6GH5 5UAG 6P18
+                 6C6T 4YFK 4LJZ 6RH3 6BYU 5UAQ 5IPL 6N60 4XSZ 4KN7 6RIN
+                 6RI9 6GOV 6GFW 6C6S 6C6U 6ALG 4YG2 4XSX 5NWT 5UI8 5BYH
+                 5VT0 6K4Y 4LLG 6P19 6N62 6ASX 5NSR 5UAC 5W1S 4YFN 4YFX
+                 4LK1 4KMU 5UAL 6RI7 6B6H 4MEX 4JK1 4LK0 5UAJ 4MEY 4KN4
+                 4ZH4 4XSY 6JBQ 6JNX 4ZH3 6GH6 6CUX 6FLP 6FLQ 6ALF 5UAH
+                 5IPM 4ZH2 4JKR 4JK2 6C9Y 5VSW 6ALH 5W1T 5IPN 4S20 5CIZ
+                 6BJS 4YLN 4YLP 6CA0 5NSS 4YLO 5TBZ 5MY1 5EZK 5MS0 3LU0
+                 3IYD 1XS9 1COO
+AASEQ       329
+            MQGSVTEFLKPRLVDIEQVSSTHAKVTLEPLERGFGHTLGNALRRILLSSMPGCAVTEVE
+            IDGVLHEYSTKEGVQEDILEILLNLKGLAVRVQGKDEVILTLNKSGIGPVTAADITHDGD
+            VEIVKPQHVICHLTDENASISMRIKVQRGRGYVPASTRIHSEEDERPIGRLLVDACYSPV
+            ERIAYNVEAARVEQRTDLDKLVIEMETNGTIDPEEAIRRAATILAEQLEAFVDLRDVRQP
+            EVKEEKPEFDPILLRPVDDLELTVRSANCLKAEAIHYIGDLVQRTEVELLKTPNLGKKSL
+            TEIKDVLASRGLSLGMRLENWPPASIADE
+NTSEQ       990
+            atgcagggttctgtgacagagtttctaaaaccgcgcctggttgatatcgagcaagtgagt
+            tcgacgcacgccaaggtgacccttgagcctttagagcgtggctttggccatactctgggt
+            aacgcactgcgccgtattctgctctcatcgatgccgggttgcgcggtgaccgaggttgag
+            attgatggtgtactacatgagtacagcaccaaagaaggcgttcaggaagatatcctggaa
+            atcctgctcaacctgaaagggctggcggtgagagttcagggcaaagatgaagttattctt
+            accttgaataaatctggcattggccctgtgactgcagccgatatcacccacgacggtgat
+            gtcgaaatcgtcaagccgcagcacgtgatctgccacctgaccgatgagaacgcgtctatt
+            agcatgcgtatcaaagttcagcgcggtcgtggttatgtgccggcttctacccgaattcat
+            tcggaagaagatgagcgcccaatcggccgtctgctggtcgacgcatgctacagccctgtg
+            gagcgtattgcctacaatgttgaagcagcgcgtgtagaacagcgtaccgacctggacaag
+            ctggtcatcgaaatggaaaccaacggcacaatcgatcctgaagaggcgattcgtcgtgcg
+            gcaaccattctggctgaacaactggaagctttcgttgacttacgtgatgtacgtcagcct
+            gaagtgaaagaagagaaaccagagttcgatccgatcctgctgcgccctgttgacgatctg
+            gaattgactgtccgctctgctaactgccttaaagcagaagctatccactatatcggtgat
+            ctggtacagcgtaccgaggttgagctccttaaaacgcctaaccttggtaaaaaatctctt
+            actgagattaaagacgtgctggcttcccgtggactgtctctgggcatgcgcctggaaaac
+            tggccaccggcaagcatcgctgacgagtaa
+///

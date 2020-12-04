@@ -1,0 +1,53 @@
+ENTRY       b0878             CDS       T00007
+NAME        macA
+DEFINITION  (RefSeq) ABC-type tripartite efflux pump membrane fusion protein
+ORTHOLOGY   K13888  membrane fusion protein, macrolide-specific efflux system
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0878 (macA)
+            Transporters [BR:eco02000]
+             Other transporters
+              Accessory factors involved in transport [TC:8]
+               b0878 (macA)
+POSITION    919235..920350
+MOTIF       Pfam: HlyD_D23 HlyD_3 Biotin_lipoyl_2 Peptidase_M23 Biotin_lipoyl HlyD_2 YqfD Thioredoxin_4
+DBLINKS     NCBI-GeneID: 947322
+            NCBI-ProteinID: NP_415399
+            Pasteur: ybjY
+            RegulonDB: ECK120003061
+            ECOCYC: G6461
+            ASAP: ABE-0002986
+            UniProt: P75830
+STRUCTURE   PDB: 3FPP 5NIK 5NIL
+AASEQ       371
+            MKKRKTVKKRYVIALVIVIAGLITLWRILNAPVPTYQTLIVRPGDLQQSVLATGKLDALR
+            KVDVGAQVSGQLKTLSVAIGDKVKKDQLLGVIDPEQAENQIKEVEATLMELRAQRQQAEA
+            ELKLARVTYSRQQRLAQTKAVSQQDLDTAATEMAVKQAQIGTIDAQIKRNQASLDTAKTN
+            LDYTRIVAPMAGEVTQITTLQGQTVIAAQQAPNILTLADMSAMLVKAQVSEADVIHLKPG
+            QKAWFTVLGDPLTRYEGQIKDVLPTPEKVNDAIFYYARFEVPNPNGLLRLDMTAQVHIQL
+            TDVKNVLTIPLSALGDPVGDNRYKVKLLRNGETREREVTIGARNDTDVEIVKGLEAGDEV
+            VIGEAKPGAAQ
+NTSEQ       1116
+            atgaaaaagcggaaaaccgtgaagaagcgttacgttattgcgctggtgatagtcatcgcc
+            ggactgattacgttatggagaattcttaacgcacccgtgccgacttatcagacgctgatt
+            gtgcgccccggtgatttacagcaaagcgtgctggcgaccggaaagctggacgcgctgcgt
+            aaggttgatgtgggcgcgcaggtcagcggtcagttgaaaactctgtcggtggcgattggc
+            gataaagtaaaaaaagaccagcttttaggggttattgatcctgaacaggctgaaaaccag
+            attaaggaggtcgaagcaacgctgatggagctacgtgcgcagcggcagcaggcggaagcg
+            gagctgaaactggcgcgggtgacgtattcccgtcagcaacgtctggcacaaacgaaggct
+            gtttcacagcaggatctcgacaccgccgcgacggagatggctgtgaaacaggcgcaaatt
+            ggcaccattgacgcgcaaatcaagcgcaatcaggcttctctcgatacggctaaaaccaat
+            ctcgattacactcgcatcgttgccccgatggccggggaagtcacgcaaatcaccactctg
+            caaggccagacggtgattgccgcacaacaagcaccgaacattctgacgctggcagatatg
+            agcgccatgctggtaaaagcgcaggtttctgaagcggatgtaatccacctgaagccgggg
+            caaaaagcctggtttacggtgcttggcgatccactgacgcgctacgaggggcaaatcaag
+            gatgtactaccgacgccggaaaaggttaacgacgctattttctattacgcccgttttgaa
+            gtccccaaccccaatggtttgctgcggctggatatgactgcgcaagtgcatattcagctc
+            accgatgtgaaaaatgtgctgacgatccctctgtcggcgttaggcgatccggttggcgat
+            aatcgttataaagtcaaattgttgcgtaatggtgaaacacgcgagcgtgaagtgacgatt
+            ggcgcacgtaacgataccgatgttgagattgtcaaagggcttgaagcgggcgatgaagtg
+            gtgattggtgaggccaaaccaggagctgcacaatga
+///

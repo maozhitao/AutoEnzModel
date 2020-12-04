@@ -1,0 +1,60 @@
+ENTRY       b0409             CDS       T00007
+NAME        secF
+DEFINITION  (RefSeq) Sec translocon accessory complex subunit SecF
+ORTHOLOGY   K03074  preprotein translocase subunit SecF
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03060  Protein export
+            eco03070  Bacterial secretion system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09120 Genetic Information Processing
+              09123 Folding, sorting and degradation
+               03060 Protein export
+                b0409 (secF)
+             09130 Environmental Information Processing
+              09131 Membrane transport
+               03070 Bacterial secretion system
+                b0409 (secF)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02044 Secretion system [BR:eco02044]
+                b0409 (secF)
+            Secretion system [BR:eco02044]
+             Sec (secretion) system
+              Prokaryotic Sec-SRP core components
+               b0409 (secF)
+POSITION    429505..430476
+MOTIF       Pfam: SecD_SecF Sec_GG ACR_tran PIG-F T4SS_pilin Sterol-sensing
+DBLINKS     NCBI-GeneID: 949120
+            NCBI-ProteinID: NP_414943
+            Pasteur: secF
+            RegulonDB: ECK120000929
+            ECOCYC: EG10940
+            ASAP: ABE-0001419
+            UniProt: P0AG93
+STRUCTURE   PDB: 5MG3
+AASEQ       323
+            MAQEYTVEQLNHGRKVYDFMRWDYWAFGISGLLLIAAIVIMGVRGFNWGLDFTGGTVIEI
+            TLEKPAEIDVMRDALQKAGFEEPMLQNFGSSHDIMVRMPPAEGETGGQVLGSQVLKVINE
+            STNQNAAVKRIEFVGPSVGADLAQTGAMALMAALLSILVYVGFRFEWRLAAGVVIALAHD
+            VIITLGILSLFHIEIDLTIVASLMSVIGYSLNDSIVVSDRIRENFRKIRRGTPYEIFNVS
+            LTQTLHRTLITSGTTLMVILMLYLFGGPVLEGFSLTMLIGVSIGTASSIYVASALALKLG
+            MKREHMLQQKVEKEGADQPSILP
+NTSEQ       972
+            gtggcacaggaatatactgttgaacaactaaaccacggccgtaaagtctatgactttatg
+            cgctgggactactgggctttcggcatctctggtctgctgttaatcgctgctatcgttatt
+            atgggcgtgcgcggctttaactgggggctggatttcaccggtggtacggttattgaaatt
+            acgctcgaaaaaccggctgaaattgacgtaatgcgtgatgcattgcaaaaagccggtttt
+            gaagagccgatgctgcaaaactttggtagcagccatgacatcatggtccgtatgccgcct
+            gctgaaggcgaaaccggcggtcaggtgttgggcagccaggttctgaaggtgattaacgaa
+            tccaccaatcagaatgcagcagtgaagcgtattgagttcgtcggtccgagcgtgggggca
+            gaccttgcgcaaaccggtgcgatggcgttgatggcagcgctgctgtctatcctcgtgtac
+            gtaggtttccgctttgagtggcgactggcggcaggggtggttattgcgctggcgcacgac
+            gttatcattacgctgggtattttgtcgttattccatatcgagattgacctgaccattgtg
+            gcatcgttgatgtcggttatcggttactcgcttaacgacagtatcgtggtatcggaccgt
+            attcgtgaaaacttccgcaagatccgtcgcggtacgccttacgaaatctttaacgtgtcc
+            ttgacccagacgctgcaccgtaccttgatcacatccggtactaccttgatggttatcctg
+            atgctgtacctcttcggtggtccggtactggaaggcttctcgctgaccatgcttatcggt
+            gtttccatcggtactgcatcttccatctatgtggcatctgcgttggctctgaaactgggt
+            atgaagcgcgaacacatgttgcagcagaaagtggaaaaagaaggggcggatcagccgtca
+            attctgccgtaa
+///

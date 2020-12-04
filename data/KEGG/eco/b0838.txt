@@ -1,0 +1,52 @@
+ENTRY       b0838             CDS       T00007
+NAME        gstB
+DEFINITION  (RefSeq) glutathione S-transferase GstB
+ORTHOLOGY   K00799  glutathione S-transferase [EC:2.5.1.18]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00480  Glutathione metabolism
+            eco01100  Metabolic pathways
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09106 Metabolism of other amino acids
+               00480 Glutathione metabolism
+                b0838 (gstB)
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b0838 (gstB)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.5  Transferring alkyl or aryl groups, other than methyl groups
+               2.5.1  Transferring alkyl or aryl groups, other than methyl groups (only sub-subclass identified to date)
+                2.5.1.18  glutathione transferase
+                 b0838 (gstB)
+            Transporters [BR:eco02000]
+             Other transporters
+              Pores ion channels [TC:1]
+               b0838 (gstB)
+POSITION    complement(879854..880480)
+MOTIF       Pfam: GST_N_3 GST_N GST_C GST_N_2 GST_C_2 GST_C_5 GST_N_4 GST_C_3 Tom37
+DBLINKS     NCBI-GeneID: 945469
+            NCBI-ProteinID: NP_415359
+            RegulonDB: ECK120003038
+            ECOCYC: G6438
+            ASAP: ABE-0002855
+            UniProt: P0ACA7
+AASEQ       208
+            MITLWGRNNSTNVKKVLLTLEELELPYEQILAGREFGINHDADFLAMNPNGLVPLLRDDE
+            SDLILWESNAIVRYLAAQYGQKRLWIDSPARRAEAEKWMDWANQTLSNAHRGILMGLVRT
+            PPEERDQAAIDASCKECDALFALLDAELAKVKWFSGDEFGVGDIAIAPFIYNLFNVGLTW
+            TPRPNLQRWYQQLTERPAVRKVVMIPVS
+NTSEQ       627
+            atgattacgctgtggggtcggaataattcaactaacgtaaaaaaagtattgctgacgctc
+            gaagaactggaactaccttatgagcaaattctcgcgggccgtgagtttgggataaatcac
+            gatgctgattttctggcgatgaaccctaacgggctggtgccgttgttgcgtgacgacgaa
+            agtgatctcattctttgggaatcaaacgccattgtccgctatctggcggcacagtacggg
+            caaaaacgcctgtggatcgactcaccggcacgtcgtgcggaagcggaaaaatggatggac
+            tgggcaaaccagacgctcagtaatgctcatcgcgggatcctgatgggattagtcagaaca
+            ccaccggaagagcgcgatcaggccgccattgatgccagttgcaaagagtgcgacgccctg
+            tttgccctgctcgatgcggaactggcaaaagtaaaatggttctctggcgacgagtttggt
+            gtgggcgatatcgctatcgcaccgttcatctacaatttgtttaacgttggcctgacctgg
+            acaccgcgtccaaatctgcaacgctggtatcagcaactcactgaacgccccgcagtgcgc
+            aaagtggtgatgattcccgttagctaa
+///

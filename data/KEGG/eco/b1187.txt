@@ -1,0 +1,44 @@
+ENTRY       b1187             CDS       T00007
+NAME        fadR
+DEFINITION  (RefSeq) DNA-binding transcriptional dual regulator FadR
+ORTHOLOGY   K03603  GntR family transcriptional regulator, negative regulator for fad regulon and positive regulator of fabA
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b1187 (fadR)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               GntR family
+                b1187 (fadR)
+POSITION    1234938..1235657
+MOTIF       Pfam: FadR_C GntR FCD HTH_Crp_2 TrmB HTH_IclR HTH_24 Fe_dep_repress PaaX Rrf2 MarR MarR_2 HTH_DeoR Cut8
+DBLINKS     NCBI-GeneID: 948652
+            NCBI-ProteinID: NP_415705
+            Pasteur: fadR
+            RegulonDB: ECK120000275
+            ECOCYC: EG10281
+            ASAP: ABE-0003988
+            UniProt: P0A8V6
+STRUCTURE   PDB: 1HW1 1H9T 1HW2 1H9G 1E2X
+AASEQ       239
+            MVIKAQSPAGFAEEYIIESIWNNRFPPGTILPAERELSELIGVTRTTLREVLQRLARDGW
+            LTIQHGKPTKVNNFWETSGLNILETLARLDHESVPQLIDNLLSVRTNISTIFIRTAFRQH
+            PDKAQEVLATANEVADHADAFAELDYNIFRGLAFASGNPIYGLILNGMKGLYTRIGRHYF
+            ANPEARSLALGFYHKLSALCSEGAHDQVYETVRRYGHESGEIWHRMQKNLPGDLAIQGR
+NTSEQ       720
+            atggtcattaaggcgcaaagcccggcgggtttcgcggaagagtacattattgaaagtatc
+            tggaataaccgcttccctcccgggactattttgcccgcagaacgtgaactttcagaatta
+            attggcgtaacgcgtactacgttacgtgaagtgttacagcgtctggcacgagatggctgg
+            ttgaccattcaacatggcaagccgacgaaggtgaataatttctgggaaacttccggttta
+            aatatccttgaaacactggcgcgactggatcacgaaagtgtgccgcagcttattgataat
+            ttgctgtcggtgcgtaccaatatttccactatttttattcgcaccgcgtttcgtcagcat
+            cccgataaagcgcaggaagtgctggctaccgctaatgaagtggccgatcacgccgatgcc
+            tttgccgagctggattacaacatattccgcggcctggcgtttgcttccggcaacccgatt
+            tacggtctgattcttaacgggatgaaagggctgtatacgcgtattggtcgtcactatttc
+            gccaatccggaagcgcgcagtctggcgctgggcttctaccacaaactgtcggcgttgtgc
+            agtgaaggcgcgcacgatcaggtgtacgaaacagtgcgtcgctatgggcatgagagtggc
+            gagatttggcaccggatgcagaaaaatctgccgggtgatttagccattcaggggcgataa
+///

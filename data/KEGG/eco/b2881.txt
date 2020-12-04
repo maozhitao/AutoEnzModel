@@ -1,0 +1,87 @@
+ENTRY       b2881             CDS       T00007
+NAME        xdhD
+DEFINITION  (RefSeq) fused putative xanthine/hypoxanthine oxidase: molybdopterin-binding subunit and Fe-S binding subunit
+ORTHOLOGY   K12528  putative selenate reductase molybdopterin-binding subunit
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco00450  Selenocompound metabolism
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09100 Metabolism
+              09106 Metabolism of other amino acids
+               00450 Selenocompound metabolism
+                b2881 (xdhD)
+POSITION    3021316..3024186
+MOTIF       Pfam: Ald_Xan_dh_C2 Ald_Xan_dh_C Fer2_2
+DBLINKS     NCBI-GeneID: 949079
+            NCBI-ProteinID: NP_417357
+            Pasteur: ygfN
+            RegulonDB: ECK120004063
+            ECOCYC: G7500
+            ASAP: ABE-0009459
+            UniProt: Q46814
+AASEQ       956
+            MIIHFTLNGAPQELTVNPGENVQKLLFNMGMHSVRNSDDGFGFAGSDAIIFNGNIVNASL
+            LIAAQLEKADIRTAESLGKWNELSLVQQAMVDVGVVQSGYNDPAAALIITDLLDRIAAPT
+            REEIDDALSGLFSRDAGWQQYYQVIELAVARKNNPQATIDIAPTFRDDLEVIGKHYPKTD
+            AAKMVQAKPCYVEDRVTADACVIKMLRSPHAHALITHLDVSKAEALPGVVHVITHLNCPD
+            IYYTPGGQSAPEPSPLDRRMFGKKMRHVGDRVAAVVAESEEIALEALKLIDVEYEVLKPV
+            MSIDEAMAEDAPVVHDEPVVYVAGAPDTLEDDNSHAAQRGEHMIINFPIGSRPRKNIAAS
+            IHGHIGDMDKGFADADVIIERTYNSTQAQQCPTETHICFTRMDGDRLVIHASTQVPWHLR
+            RQVARLVGMKQHKVHVIKERVGGGFGSKQDILLEEVCAWATCVTGRPVLFRYTREEEFIA
+            NTSRHVAKVTVKLGAKKDGRLTAVKMDFRANTGPYGNHSLTVPCNGPALSLPLYPCDNVD
+            FQVTTYYSNICPNGAYQGYGAPKGNFAITMALAELAEQLQIDQLEIIERNRVHEGQELKI
+            LGAIGEGKAPTSVPSAASCALEEILRQGREMIQWSSPKPQNGDWHIGRGVAIIMQKSGIP
+            DIDQANCMIKLESDGTFIVHSGGADIGTGLDTVVTKLAAEVLHCPPQDVHVISGDTDHAL
+            FDKGAYASSGTCFSGNAARLAAENLREKILFHGAQMLGEPVADVQLATPGVVRGKKGEVS
+            FGDIAHKGETGTGFGSLVGTGSYITPDFAFPYGANFAEVAVNTRTGEIRLDKFYALLDCG
+            TPVNPELALGQIYGATLRAIGHSMSEEIIYDAEGHPLTRDLRSYGAPKIGDIPRDFRAVL
+            VPSDDKVGPFGAKSISEIGVNGAAPAIATAIHDACGIWLREWHFTPEKILTALEKI
+NTSEQ       2871
+            atgatcatccactttactttaaatggcgcgcctcaggagctaaccgttaatccaggcgaa
+            aacgtgcaaaagctgttgtttaacatgggaatgcactctgtacgcaacagtgatgatggt
+            ttcgggtttgccggttctgacgcaataatctttaacggtaatatcgttaacgcgtccttg
+            cttattgccgcacagttagagaaggcagatattcgtaccgcagaatctctgggcaaatgg
+            aacgagttaagtctggttcaacaggcaatggttgatgttggcgtggtgcagtctggttat
+            aacgatccagctgcagctctgattatcaccgatcttctcgatcgcatcgccgcacctacc
+            cgcgaagagatcgacgacgcgctttctggtttgttcagccgcgatgctggctggcagcaa
+            tactatcaggtcattgaactggcggttgcacgtaaaaataatccgcaggccaccattgat
+            atcgctccgactttccgtgacgacctagaagtcattggtaagcattatcctaaaactgat
+            gccgcgaaaatggtgcaggcgaaaccctgctatgttgaagaccgcgtaacggctgacgcc
+            tgcgtcattaaaatgttacgtagcccacacgctcacgcactgattactcatctggatgtc
+            agcaaagctgaagccttaccgggcgtcgttcacgttattactcacctgaattgcccggat
+            atctactataccccgggtggtcagagcgcaccggaaccgtcaccgcttgaccgccgtatg
+            ttcggcaagaaaatgcgtcacgtcggcgatcgtgttgctgcggtcgtcgcagaaagtgaa
+            gaaattgcgctcgaagcactgaagctcatcgacgttgaatatgaagtgcttaagccggta
+            atgtcgatcgacgaagcaatggcggaagatgcgcctgtcgtgcacgatgaaccggtggtg
+            tatgttgctggtgcgccagatactctggaagacgataacagccatgcagcccagcgcggc
+            gagcatatgatcatcaacttcccgatcggttctcgccctcgcaaaaatatcgccgccagt
+            attcatggtcatattggcgatatggacaaaggctttgccgatgccgatgtgatcattgag
+            cgaacctataactcaacgcaagcgcagcagtgcccgactgaaacacatatctgctttact
+            cgtatggacggcgatcgtctggttatccacgcctccacccaggtaccatggcacttacgc
+            cgccaggtcgcgcgcctcgtgggcatgaaacagcataaagttcatgtcattaaagagcga
+            gttggcggcggttttggttccaaacaggacatcctgctggaagaagtgtgcgcctgggca
+            acctgcgtgaccgggcgtccggtactgttccgctacacccgtgaagaagagtttattgct
+            aacacctctcgtcacgtcgcgaaagtcaccgtcaaactgggagcgaaaaaagatggtcgc
+            ctgacggcagtgaagatggatttccgcgccaacactggcccttacggcaaccactcactc
+            accgtaccgtgtaacggaccggcgctgtcgctgccgttatatccgtgcgataacgtcgat
+            ttccaggtcaccacctactacagcaacatttgcccaaatggtgcttatcagggttatggc
+            gcaccgaaaggtaacttcgctatcaccatggcattagcggaactggctgaacagttacag
+            atcgaccaactggaaattatcgaacgtaaccgggtacacgaagggcaagagctgaaaatt
+            ctcggtgcaatcggtgaaggtaaagcgccgacctccgttccttccgccgccagctgtgca
+            ctggaagagatcctgcgtcagggtcgcgagatgatccaatggtcgtcaccgaaaccgcaa
+            aatggtgactggcacatcggtcgcggcgtcgccattatcatgcagaaatcgggtatcccg
+            gatatcgatcaggctaactgcatgatcaaactggaatcggacggcacctttatcgttcat
+            tctggcggtgcggatattggtactggtctggatactgtagtgacgaaactggcagcagaa
+            gtgctgcactgcccaccgcaggacgtgcatgttatctccggtgataccgatcatgcgttg
+            tttgataaaggcgcatatgcctcgtccggtacttgcttctcgggtaacgcggcgcgtttg
+            gcagcggaaaatctacgggagaaaattctgttccacggcgcgcaaatgttgggtgagcca
+            gtggcagatgttcaactggcaacgccgggcgtcgtgcgcggcaagaaaggcgaagttagt
+            ttcggggatattgcccataaaggcgaaaccggcaccggctttggttcactggtgggaact
+            ggcagttatatcacgcctgatttcgccttcccgtatggcgcaaacttcgctgaagttgcc
+            gtcaacacgcgtacgggtgaaatccgcctggataaattctacgccttgctggactgcggt
+            acaccggtcaatccagagttagcgttgggacaaatctacggtgccaccctgcgtgctatc
+            ggccacagtatgagcgaagagatcatttatgacgccgaaggtcacccgttaacgcgtgat
+            ttacgcagttacggcgcaccgaaaattggtgacattccgcgtgatttccgcgctgtgctg
+            gtgccgagcgacgataaagtcggcccgttcggggcgaaatcgatctcggaaatcggtgta
+            aatggcgcagctccggcgattgctaccgcaattcacgatgcatgcggcatctggttacgc
+            gaatggcatttcacaccggagaaaatactcactgcgctggaaaaaatataa
+///

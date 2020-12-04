@@ -1,0 +1,40 @@
+ENTRY       b2804             CDS       T00007
+NAME        fucU
+DEFINITION  (RefSeq) L-fucose mutarotase
+ORTHOLOGY   K02431  L-fucose mutarotase [EC:5.1.3.29]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09190 Not Included in Pathway or Brite
+              09191 Unclassified: metabolism
+               99980 Enzymes with EC numbers
+                b2804 (fucU)
+            Enzymes [BR:eco01000]
+             5. Isomerases
+              5.1  Racemases and epimerases
+               5.1.3  Acting on carbohydrates and derivatives
+                5.1.3.29  L-fucose mutarotase
+                 b2804 (fucU)
+POSITION    2938888..2939310
+MOTIF       Pfam: RbsD_FucU
+DBLINKS     NCBI-GeneID: 945842
+            NCBI-ProteinID: NP_417284
+            Pasteur: fucU
+            RegulonDB: ECK120000348
+            ECOCYC: EG10355
+            ASAP: ABE-0009193
+            UniProt: P0AEN8
+STRUCTURE   PDB: 2WCV
+AASEQ       140
+            MLKTISPLISPELLKVLAEMGHGDEIIFSDAHFPAHSMGPQVIRADGLLVSDLLQAIIPL
+            FELDSYAPPLVMMAAVEGDTLDPEVERRYRNALSLQAPCPDIIRINRFAFYERAQKAFAI
+            VITGERAKYGNILLKKGVTP
+NTSEQ       423
+            atgctgaaaacaatttcgccgttaatttctcccgaactattgaaagtgctggcagagatg
+            ggacatggagatgaaattattttttccgatgctcactttcccgcccattcgatgggaccg
+            caggtgatccgcgctgatggcctgttggtgagcgacttgctccaggcgattatcccgtta
+            tttgaactggacagttatgcaccgccgctggtgatgatggcggcggtagaaggtgacact
+            ctcgatcctgaagtagaacgacgttaccgtaatgcgctttcactacaagccccgtgtcct
+            gacatcatccgcatcaatcgttttgcgttttatgaacgggcgcaaaaagcctttgcgatc
+            gttatcacaggcgaacgagcgaagtacgggaatattcttttaaaaaaaggggtaacaccg
+            taa
+///

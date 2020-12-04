@@ -1,0 +1,41 @@
+ENTRY       b2923             CDS       T00007
+NAME        argO
+DEFINITION  (RefSeq) L-arginine exporter
+ORTHOLOGY   K06895  L-lysine exporter family protein LysE/ArgO
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09183 Protein families: signaling and cellular processes
+               02000 Transporters [BR:eco02000]
+                b2923 (argO)
+            Transporters [BR:eco02000]
+             Other transporters
+              Electrochemical potential-driven transporters [TC:2]
+               b2923 (argO)
+POSITION    complement(3068173..3068808)
+MOTIF       Pfam: LysE
+DBLINKS     NCBI-GeneID: 947418
+            NCBI-ProteinID: NP_417398
+            Pasteur: yggA
+            RegulonDB: ECK120001142
+            ECOCYC: EG11159
+            ASAP: ABE-0009591
+            UniProt: P11667
+AASEQ       211
+            MFSYYFQGLALGAAMILPLGPQNAFVMNQGIRRQYHIMIALLCAISDLVLICAGIFGGSA
+            LLMQSPWLLALVTWGGVAFLLWYGFGAFKTAMSSNIELASAEVMKQGRWKIIATMLAVTW
+            LNPHVYLDTFVVLGSLGGQLDVEPKRWFALGTISASFLWFFGLALLAAWLAPRLRTAKAQ
+            RIINLVVGCVMWFIALQLARDGIAHAQALFS
+NTSEQ       636
+            gtgttttcttattactttcaaggtcttgcacttggggcggctatgatcctaccgctcggt
+            ccacaaaatgcttttgtgatgaatcagggcatacgtcgtcagtaccacattatgattgcc
+            ttactttgtgctatcagcgatttggtcctgatttgcgccgggatttttggtggcagcgcg
+            ttattgatgcagtcgccgtggttgctggcgctggtcacctggggcggcgtagccttcttg
+            ctgtggtatggttttggcgcttttaaaacagcaatgagcagtaatattgagttagccagc
+            gccgaagtcatgaagcaaggcagatggaaaattatcgccaccatgttggcagtgacctgg
+            ctgaatccgcatgtttacctggatacttttgttgtactgggcagccttggcgggcaactt
+            gatgtggaaccaaaacgctggtttgcactcgggacaattagcgcctctttcctgtggttc
+            tttggtctggctcttctcgcagcctggctggcaccgcgtctgcgcacggcaaaagcacag
+            cgcattatcaatctggttgtgggatgtgttatgtggtttattgccttgcagctggcgaga
+            gacggtattgctcatgcacaagccttgttcagttag
+///

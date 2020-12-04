@@ -1,0 +1,68 @@
+ENTRY       b2184             CDS       T00007
+NAME        radD
+DEFINITION  (RefSeq) putative DNA repair helicase RadD
+ORTHOLOGY   K19789  DNA repair protein RadD
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03400 DNA repair and recombination proteins [BR:eco03400]
+                b2184 (radD)
+            DNA repair and recombination proteins [BR:eco03400]
+             Prokaryotic type
+              DSBR (double strand breaks repair)
+               HR (homologous recombination)
+                Other HR factor
+                 b2184 (radD)
+POSITION    2280632..2282392
+MOTIF       Pfam: ResIII Helicase_C DEAD SWI2_SNF2 AAA_30 UPF0547 DZR zf-tcix zf-ribbon_3 AAA_22 AAA_16 DUF2075 DUF1845 SNF2_N
+DBLINKS     NCBI-GeneID: 945529
+            NCBI-ProteinID: NP_416689
+            Pasteur: yejH
+            RegulonDB: ECK120001961
+            ASAP: ABE-0007228
+            UniProt: P33919
+STRUCTURE   PDB: 6JDE
+AASEQ       586
+            MIFTLRPYQQEAVDATLNHFRRHKTPAVIVLPTGAGKSLVIAELARLARGRVLVLAHVKE
+            LVAQNHAKYQALGLEADIFAAGLKRKESHGKVVFGSVQSVARNLDAFQGEFSLLIVDECH
+            RIGDDEESQYQQILTHLTKVNPHLRLLGLTATPFRLGKGWIYQFHYHGMVRGDEKALFRD
+            CIYELPLRYMIKHGYLTPPERLDMPVVQYDFSRLQAQSNGLFSEADLNRELKKQQRITPH
+            IISQIMEFAATRKGVMIFAATVEHAKEIVGLLPAEDAALITGDTPGAERDVLIENFKAQR
+            FRYLVNVAVLTTGFDAPHVDLIAILRPTESVSLYQQIVGRGLRLAPGKTDCLILDYAGNP
+            HDLYAPEVGTPKGKSDNVPVQVFCPACGFANTFWGKTTADGTLIEHFGRRCQGWFEDDDG
+            HREQCDFRFRFKNCPQCNAENDIAARRCRECDTVLVDPDDMLKAALRLKDALVLRCSGMS
+            LQHGHDEKGEWLKITYYDEDGADVSERFRLQTPAQRTAFEQLFIRPHTRTPGIPLRWITA
+            ADILAQQALLRHPDFVVARMKGQYWQVREKVFDYEGRFRLAHELRG
+NTSEQ       1761
+            atgatttttacacttcgcccatatcagcaagaagccgtggatgccacgctcaaccatttt
+            cgtcgtcataaaacccctgccgttatcgtgctgcccaccggcgcaggtaaaagcctggtg
+            atagcggaactggcacggctggctcgtggtcgcgtgctggtgctggcacacgttaaagaa
+            ctggtggcgcaaaaccatgcaaagtatcaggcgctggggctggaagccgatatttttgcc
+            gccgggctaaagcgcaaagagagccacggtaaagtggtatttggcagcgtgcagtctgtc
+            gcccgtaatcttgatgcctttcagggtgaattttcgctgttgattgtcgatgaatgtcac
+            cgtattggtgacgatgaagagagccagtatcagcaaatcctcactcacctgacaaaagtg
+            aatccccacttacgcctgctggggctgactgccacgccttttcgattgggcaaaggctgg
+            atctaccagtttcattatcacggcatggtacgcggcgatgagaaagcccttttccgtgac
+            tgcatttatgagctgccgctgcgttatatgattaaacacggctatctgacgccgccagaa
+            cgactggatatgccagtagtgcaatacgatttcagccgcttgcaggcacagagtaacggg
+            ctgttcagcgaagccgatctcaaccgtgagctgaaaaaacaacaacgtattaccccgcac
+            atcatcagccagattatggagtttgctgcaacgcgcaaaggggtgatgatttttgccgcg
+            acggttgaacacgcaaaagagattgtgggattactgcctgccgaagatgcagcactgatt
+            actggcgacacccccggcgctgagcgcgatgtgttaattgaaaattttaaagcccagcgt
+            tttcgctatctggtcaacgtcgcggtactgaccaccggatttgacgccccgcacgtcgat
+            cttatcgccattctgcgccctaccgaatcagtgagtctttaccaacaaattgtcgggcgc
+            ggtctgcgtctcgctccgggcaagactgattgcttaattcttgattatgcgggtaatcct
+            cacgatctctacgcgccggaagttggtacaccaaaaggcaaaagtgacaacgttccggta
+            caggttttctgccctgcctgcggttttgccaacaccttttgggggaaaacgaccgccgac
+            gggacattgattgaacactttggtcgtcgctgtcagggatggtttgaagatgacgacggt
+            catcgcgaacaatgtgacttccgtttccgttttaaaaattgcccgcaatgtaacgcggaa
+            aacgatattgccgcccgccgctgccgcgaatgtgacaccgtactggttgatccggacgat
+            atgttaaaagcggcgctacgactgaaagacgcgctggtattacgctgtagcggcatgtct
+            ttgcaacatgggcacgacgagaaaggcgaatggttgaaaatcacctattacgatgaagac
+            ggcgcggatgtgagtgagcgtttccgtctgcaaacacctgcccagcgtaccgccttcgag
+            cagctttttatccgcccgcatacgcgcacaccgggcatcccgctgcgctggatcaccgcc
+            gccgatatcctcgcccagcaagccttattgcgacacccggattttgtcgtcgcccgcatg
+            aaaggccagtactggcaggtgcgtgaaaaagtgttcgattacgaaggtcgttttcgtctg
+            gcgcacgaattacgcggttaa
+///

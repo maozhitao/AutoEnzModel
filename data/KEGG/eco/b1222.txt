@@ -1,0 +1,85 @@
+ENTRY       b1222             CDS       T00007
+NAME        narX
+DEFINITION  (RefSeq) sensory histidine kinase NarX
+ORTHOLOGY   K07673  two-component system, NarL family, nitrate/nitrite sensor histidine kinase NarX [EC:2.7.13.3]
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco02020  Two-component system
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09130 Environmental Information Processing
+              09132 Signal transduction
+               02020 Two-component system
+                b1222 (narX)
+             09180 Brite Hierarchies
+              09181 Protein families: metabolism
+               01001 Protein kinases [BR:eco01001]
+                b1222 (narX)
+              09183 Protein families: signaling and cellular processes
+               02022 Two-component system [BR:eco02022]
+                b1222 (narX)
+            Enzymes [BR:eco01000]
+             2. Transferases
+              2.7  Transferring phosphorus-containing groups
+               2.7.13  Protein-histidine kinases
+                2.7.13.3  histidine kinase
+                 b1222 (narX)
+            Protein kinases [BR:eco01001]
+             Histidine kinases
+              NarL family
+               b1222 (narX)
+            Two-component system [BR:eco02022]
+             NarL family
+              NarX-NarL (nitrate respiration)
+               b1222 (narX)
+POSITION    complement(1275822..1277618)
+MOTIF       Pfam: HisKA_3 HATPase_c HAMP PilJ HATPase_c_2 HATPase_c_3 Ni_hydr_CYTB NES_C_h PsbH
+DBLINKS     NCBI-GeneID: 945788
+            NCBI-ProteinID: NP_415740
+            Pasteur: narX
+            RegulonDB: ECK120000639
+            ECOCYC: EG10646
+            ASAP: ABE-0004099
+            UniProt: P0AFA2
+STRUCTURE   PDB: 3EZH 3EZI
+AASEQ       598
+            MLKRCLSPLTLVNQVALIVLLSTAIGLAGMAVSGWLVQGVQGSAHAINKAGSLRMQSYRL
+            LAAVPLSEKDKPLIKEMEQTAFSAELTRAAERDGQLAQLQGLQDYWRNELIPALMRAQNR
+            ETVSADVSQFVAGLDQLVSGFDRTTEMRIETVVLVHRVMAVFMALLLVFTIIWLRARLLQ
+            PWRQLLAMASAVSHRDFTQRANISGRNEMAMLGTALNNMSAELAESYAVLEQRVQEKTAG
+            LEHKNQILSFLWQANRRLHSRAPLCERLSPVLNGLQNLTLLRDIELRVYDTDDEENHQEF
+            TCQPDMTCDDKGCQLCPRGVLPVGDRGTTLKWRLADSHTQYGILLATLPQGRHLSHDQQQ
+            LVDTLVEQLTATLALDRHQERQQQLIVMEERATIARELHDSIAQSLSCMKMQVSCLQMQG
+            DALPESSRELLSQIRNELNASWAQLRELLTTFRLQLTEPGLRPALEASCEEYSAKFGFPV
+            KLDYQLPPRLVPSHQAIHLLQIAREALSNALKHSQASEVVVTVAQNDNQVKLTVQDNGCG
+            VPENAIRSNHYGMIIMRDRAQSLRGDCRVRRRESGGTEVVVTFIPEKTFTDVQGDTHE
+NTSEQ       1797
+            atgcttaaacgttgtctctctccgctcaccctggttaatcaggttgcgcttattgtgttg
+            ctttctactgctattggactggcagggatggcggtttctggctggctggtgcaaggcgtt
+            cagggcagcgcccatgcgatcaacaaagcgggatcgctgcgcatgcaaagttaccgtctg
+            ttggcggcagtgccattaagcgagaaagacaagcccttaattaaagagatggaacaaacg
+            gcatttagcgccgagttgactcgagcagcagaacgagacggacaactggcgcaattacag
+            ggtttacaagattactggcgtaatgaactgatccctgcgctgatgcgtgcacaaaaccga
+            gaaacggtgtcagcggatgtcagccagtttgttgccgggcttgatcaactggtatctggt
+            tttgaccgcaccacggaaatgcgcatcgagacagtggtactggtccatcgggtaatggcg
+            gtatttatggcacttttactggtgttcactattatctggttgcgggcgcgactgctacaa
+            ccgtggcggcaactgctggcaatggcgagtgccgtcagtcatcgcgattttacccaacgc
+            gcaaacatcagcgggcgcaacgaaatggcgatgcttggaactgcgttgaacaatatgtct
+            gcagaactggccgaaagttatgccgtacttgagcagcgggttcaggagaaaaccgccggg
+            ctggagcataaaaatcagatcctctcttttttatggcaggctaaccgccgtttgcattcc
+            cgcgccccgctgtgtgaacgcctgtcacctgtactcaacggcttacagaatttaaccctg
+            ctacgtgatatcgaattgcgggtgtatgacactgatgatgaagagaatcatcaggagttt
+            acctgccagccagatatgacttgtgatgataaaggctgccagctctgcccgcgcggcgta
+            ttacccgttggtgatcgcggcacgaccctgaagtggcggctggctgactctcatacgcag
+            tacggtattttgctggcgaccctgccgcaggggcgtcatcttagccatgatcaacaacaa
+            ctggtggataccctggttgaacaactcaccgccacgctggcgctggatcgccatcaggaa
+            cgtcagcaacagttgatcgtgatggaagagcgtgccaccattgcgcgcgaactgcatgat
+            tctattgcccaatctctctcttgcatgaagatgcaggtgagttgtttacagatgcagggc
+            gatgcgctgccagaaagcagccgcgaactgttaagtcagatccgtaacgaactgaatgca
+            tcctgggcgcagttgcgtgaattgctcaccacattccgcttgcagctcaccgagcctgga
+            ttacgtccggcgctggaggcgagttgcgaagagtacagcgccaaatttggcttcccggtg
+            aagctggattatcaattgccgcctcgcctggtgccttcgcatcaggcaatccacttgttg
+            caaattgcccgtgaggcattaagtaacgccctcaaacattcgcaagcgagtgaagtcgtg
+            gtgacggtggcgcaaaacgataatcaggtcaaactgaccgtccaggataacggctgcggc
+            gtgcctgaaaatgccatccgcagcaatcactacggcatgataataatgcgcgatcgtgcg
+            caaagtttacgaggcgattgccgcgtccgccgtcgtgaatcaggtggcaccgaagtggtg
+            gtcacctttattcccgaaaaaactttcacagacgtccaaggagatacccatgagtaa
+///

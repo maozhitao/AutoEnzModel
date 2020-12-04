@@ -1,0 +1,90 @@
+ENTRY       b3418             CDS       T00007
+NAME        malT
+DEFINITION  (RefSeq) DNA-binding transcriptional activator MalT
+ORTHOLOGY   K03556  LuxR family transcriptional regulator, maltose regulon positive regulatory protein
+ORGANISM    eco  Escherichia coli K-12 MG1655
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             09180 Brite Hierarchies
+              09182 Protein families: genetic information processing
+               03000 Transcription factors [BR:eco03000]
+                b3418 (malT)
+            Transcription factors [BR:eco03000]
+             Prokaryotic type
+              Helix-turn-helix
+               LuxR family
+                b3418 (malT)
+POSITION    3553085..3555790
+MOTIF       Pfam: TPR_MalT GerE AAA_16 TPR_2 Sigma70_r4_2 TPR_14 AAA_22 HTH_23 Sigma70_r4 Penicillinase_R TPR_12 HTH_40
+DBLINKS     NCBI-GeneID: 947921
+            NCBI-ProteinID: NP_417877
+            Pasteur: malT
+            RegulonDB: ECK120000555
+            ECOCYC: EG10562
+            ASAP: ABE-0011162
+            UniProt: P06993
+STRUCTURE   PDB: 1HZ4
+AASEQ       901
+            MLIPSKLSRPVRLDHTVVRERLLAKLSGANNFRLALITSPAGYGKTTLISQWAAGKNDIG
+            WYSLDEGDNQQERFASYLIAAVQQATNGHCAICETMAQKRQYASLTSLFAQLFIELAEWH
+            SPLYLVIDDYHLITNPVIHESMRFFIRHQPENLTLVVLSRNLPQLGIANLRVRDQLLEIG
+            SQQLAFTHQEAKQFFDCRLSSPIEAAESSRICDDVSGWATALQLIALSARQNTHSAHKSA
+            RRLAGINASHLSDYLVDEVLDNVDLATRHFLLKSAILRSMNDALITRVTGEENGQMRLEE
+            IERQGLFLQRMDDTGEWFCYHPLFGNFLRQRCQWELAAELPEIHRAAAESWMAQGFPSEA
+            IHHALAAGDALMLRDILLNHAWSLFNHSELSLLEESLKALPWDSLLENPQLVLLQAWLMQ
+            SQHRYGEVNTLLARAEHEIKDIREDTMHAEFNALRAQVAINDGNPDEAERLAKLALEELP
+            PGWFYSRIVATSVLGEVLHCKGELTRSLALMQQTEQMARQHDVWHYALWSLIQQSEILFA
+            QGFLQTAWETQEKAFQLINEQHLEQLPMHEFLVRIRAQLLWAWARLDEAEASARSGIEVL
+            SSYQPQQQLQCLAMLIQCSLARGDLDNARSQLNRLENLLGNGKYHSDWISNANKVRVIYW
+            QMTGDKAAAANWLRHTAKPEFANNHFLQGQWRNIARAQILLGEFEPAEIVLEELNENARS
+            LRLMSDLNRNLLLLNQLYWQAGRKSDAQRVLLDALKLANRTGFISHFVIEGEAMAQQLRQ
+            LIQLNTLPELEQHRAQRILREINQHHRHKFAHFDENFVERLLNHPEVPELIRTSPLTQRE
+            WQVLGLIYSGYSNEQIAGELEVAATTIKTHIRNLYQKLGVAHRQDAVQHAQQLLKMMGYG
+            V
+NTSEQ       2706
+            atgctgattccgtcaaaactaagtcgtccggttcgactcgaccataccgtggttcgtgag
+            cgcctgctggctaaactttccggcgcgaacaacttccggctggcgctgatcacgagtcct
+            gcgggctacggaaagaccaccctcatttcccagtgggcggcaggcaaaaacgatatcggc
+            tggtactcgctggatgaaggtgataaccagcaagagcgtttcgccagctatctcattgcc
+            gccgtgcagcaggcaaccaacggtcactgtgcgatatgtgagacgatggcgcaaaaacgg
+            caatatgccagcctgacgtcactcttcgcccagcttttcattgagctggcggaatggcat
+            agcccactttatctggtcatcgatgactatcatctgatcactaatccagtgatccacgag
+            tcaatgcgcttctttattcgccatcaaccagaaaatctcaccctggtggtgttgtcacgc
+            aaccttccgcaactgggcattgccaatctgcgtgttcgtgatcaactgctggaaattggc
+            agtcagcaactggcatttacccatcaggaagcgaagcagttttttgattgccgtctgtca
+            tcgccgattgaagccgcagaaagcagtcggatttgcgatgacgtttccggttgggcgacg
+            gcactacagctaatcgccctctccgcccggcagaatacccactcagcccataagtcggca
+            cgccgcctggcgggaatcaatgccagccatctttcggattatctggtcgatgaggttttg
+            gataacgtcgatctcgcaacgcgccattttctgttgaaaagcgccattttgcgctcaatg
+            aacgatgccctcatcacccgtgtgaccggcgaagaaaacgggcaaatgcgcctcgaagag
+            attgagcgtcaggggctgtttttacagcggatggatgataccggcgagtggttctgctat
+            cacccgctgtttggtaacttcctgcgccagcgctgccagtgggaactggcggcggagctg
+            ccggaaatccaccgtgccgccgcagaaagctggatggcccagggatttcccagcgaagca
+            attcatcatgcgctggcggcaggcgatgcgctgatgctgcgcgatattctgcttaatcac
+            gcctggagtctgttcaaccatagcgaactgtcgctgctggaagagtcgcttaaggccctg
+            ccgtgggacagcttgctggaaaatccgcagttggtgttattgcaggcgtggctgatgcaa
+            agccaacatcgctacggcgaagttaacaccctgctagcccgtgctgaacatgaaatcaag
+            gacatcagagaagacaccatgcacgcagaatttaacgctctgcgcgcccaggtggcgatt
+            aacgatggtaatccggatgaagcggaacggctggcaaaactggcactggaagagctgccg
+            ccgggctggttctatagccgcattgtggcaacctcggtgctgggtgaagtgctgcactgc
+            aaaggcgaattgacccgctcactggcgctaatgcagcaaaccgaacagatggcacgccag
+            cacgatgtctggcactacgctttgtggagtttaatccagcaaagtgaaattctgtttgcc
+            caagggttcctgcaaaccgcgtgggaaacgcaggaaaaagcattccagctgatcaacgag
+            cagcatctggaacagctgccaatgcatgagtttctggtgcgcattcgtgcgcagctgtta
+            tgggcctgggcgcggctggatgaagccgaagcgtcggcgcgtagcgggattgaagtcttg
+            tcgtcttatcagccacagcaacagcttcagtgcctggcaatgttgattcaatgctcgctg
+            gcccgtggtgatttagataacgcccgtagccagctgaaccgtctggaaaacctgctgggg
+            aatggcaaatatcacagcgactggatctctaacgccaacaaagtccgggtgatttactgg
+            caaatgaccggcgataaagccgccgctgccaactggttgcgtcatacggctaaaccagag
+            tttgcgaacaaccacttcctgcaaggtcaatggcgcaacattgcccgtgcacaaatcttg
+            ctgggcgagtttgaaccggcagaaattgttctcgaagaactcaatgaaaatgcccggagt
+            ctgcggttgatgagcgatctcaaccgtaacctgttgctgcttaatcaactgtactggcag
+            gccggacgtaaaagtgacgcccagcgcgtgttgctggacgcattaaaactggcgaatcgc
+            accggatttatcagccattttgtcatcgaaggcgaagcgatggcgcaacaactgcgtcag
+            ctgattcagcttaatacgctgccggaactggaacagcatcgcgcgcagcgtattctgcga
+            gaaatcaatcaacatcatcggcataaattcgcccatttcgatgagaatttcgttgaacgt
+            ctgctaaatcatcctgaagtacctgaactgatccgcaccagcccgctgacgcaacgtgaa
+            tggcaggtactggggctgatctactctggttacagcaatgagcaaattgccggagaactg
+            gaagtcgcggcaaccaccatcaaaacgcatatccgcaatctgtatcagaaactcggcgtg
+            gcccatcgccaggatgcggtacaacacgcccagcaattgctgaagatgatggggtacggc
+            gtgtaa
+///
