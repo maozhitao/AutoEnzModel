@@ -1,0 +1,40 @@
+KCAT	Bacillus circulans	0.007	D-glucose 6-phosphate	*below, pH 7.7, 37&Acirc;&deg;C, recombinant mutant K141Q
+KCAT	Bacillus circulans	0.017	D-glucose 6-phosphate	*pH 7.7, 37&Acirc;&deg;C, recombinant mutant E243Q
+KCAT	Bacillus circulans	0.073	D-glucose 6-phosphate	*pH 7.7, 35&Acirc;&deg;C, native enzyme
+KCAT	Bacillus circulans	0.073	D-glucose 6-phosphate	*pH 7.7, 46&Acirc;&deg;C
+KCAT	Streptoalloteichus hindustanus	0.075	D-glucose 6-phosphate	*pH not specified in the publication, 46&Acirc;&deg;C
+KCAT	Bacillus circulans	0.41	D-glucose 6-phosphate	*pH 7.7, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus circulans	0.44	D-glucose 6-phosphate	*pH 7.7, 35&Acirc;&deg;C, recombinant wild-type enzyme, BtrC + BtrC2
+KCAT	Bacillus circulans	1	D-glucose 6-phosphate	*pH 7.7, 35&Acirc;&deg;C, recombinant wild-type enzyme, BtrC
+KCAT	Bacillus circulans	1	D-glucose 6-phosphate	*pH 7.7, 46&Acirc;&deg;C, recombinant enzyme
+KM	Bacillus circulans	0.017	D-glucose 6-phosphate	*pH 7.7, 35&Acirc;&deg;C, native enzyme
+KM	Bacillus circulans	0.11	D-glucose 6-phosphate	*pH 7.7, 37&Acirc;&deg;C, recombinant mutant E243Q
+KM	Bacillus circulans	0.21	D-glucose 6-phosphate	*pH 7.7, 46&Acirc;&deg;C
+KM	Bacillus circulans	0.21	D-glucose 6-phosphate	*pH 7.7, 46&Acirc;&deg;C, recombinant enzyme
+KM	Bacillus circulans	0.23	D-glucose 6-phosphate	*pH 7.7, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Bacillus circulans	0.23	D-glucose 6-phosphate	*pH 7.7, 35&Acirc;&deg;C, recombinant wild-type enzyme, BtrC
+KM	Bacillus circulans	0.42	D-glucose 6-phosphate	*pH 7.7, 35&Acirc;&deg;C, recombinant wild-type enzyme, BtrC + BtrC2
+KM	Streptoalloteichus hindustanus	0.69	D-glucose 6-phosphate	*pH not specified in the publication, 46&Acirc;&deg;C
+KM	Bacillus circulans	0.9	D-glucose 6-phosphate	*pH 7.7, 46&Acirc;&deg;C
+KM	Bacillus circulans	20	D-glucose 6-phosphate	*above, pH 7.7, 37&Acirc;&deg;C, recombinant mutant K141Q
+KM	Bacillus circulans	-999	more	*steady state and pre-steady state kinetic analysis, overview
+MW	Bacillus circulans	20000	*	*1 * 40000, catalytic BtrC, + 1 * 20000, noncatalytic BtrC2, SDS-PAGE
+MW	Bacillus circulans	23000	*	*1 * 42000, BtrC, + 1 * 23000, BtrC2, recombinant enzyme, SDS-PAGE, 1 * 40746, BtrC, sequence calculation
+MW	Bacillus circulans	23000	*	*1 * 42000 + 1 * 23000, SDS-PAGE
+MW	Bacillus circulans	40000	*	*1 * 40000, catalytic BtrC, + 1 * 20000, noncatalytic BtrC2, SDS-PAGE
+MW	Bacillus circulans	40608	*	*x * 40608, mass spectrometry, x * 40768, DL-carbaglucose 6-phosphate-enzyme complex, mass spectrometry
+MW	Bacillus circulans	40746	*	*1 * 42000, BtrC, + 1 * 23000, BtrC2, recombinant enzyme, SDS-PAGE, 1 * 40746, BtrC, sequence calculation
+MW	Bacillus circulans	40768	*	*x * 40608, mass spectrometry, x * 40768, DL-carbaglucose 6-phosphate-enzyme complex, mass spectrometry
+MW	Bacillus circulans	42000	*	*1 * 42000, BtrC, + 1 * 23000, BtrC2, recombinant enzyme, SDS-PAGE, 1 * 40746, BtrC, sequence calculation
+MW	Bacillus circulans	42000	*	*1 * 42000 + 1 * 23000, SDS-PAGE
+MW	Streptomyces lividans	45000	*	*x * 45000, SDS-PAGE
+MW	Bacillus circulans	54000	*	*gel filtration
+MW	Bacillus circulans	65000	*	*native PAGE
+MW	Bacillus circulans	77000	*	*gel filtration, recombinant enzyme
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	kanamycin biosynthesis	*	*
+PATH	*	Neomycin, kanamycin and gentamicin biosynthesis	*	*
+PATH	*	paromamine biosynthesis I	*	*
+PATH	*	paromamine biosynthesis II	*	*
+SA	Bacillus circulans	1.1	*	*purified recombinant BtrC, pH 7.7, 46&Acirc;&deg;C
+SA	Bacillus circulans	18.1	*	*purified enzyme, pH 7.7, 46&Acirc;&deg;C

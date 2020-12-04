@@ -1,0 +1,47 @@
+KCAT	Bacillus cereus	10.2	D-ribose 5-phosphate	*in 25 mM Tris-HCl, pH 8.0, and 0.1 mM MnCl2, 0.0005 mM glucose 1,6-bisphosphate,at 23&Acirc;&deg;C
+KCAT	Thermococcus kodakarensis	173	2-deoxy-D-ribose 1-phosphate	*90&Acirc;&deg;C
+KCAT	Thermotoga maritima	55.6	alpha-D-ribose 5-phosphate	*at pH 7.5 and 60&Acirc;&deg;C
+KCAT	Thermotoga maritima	185	alpha-D-ribose 5-phosphate	*at pH 7.5 and 90&Acirc;&deg;C
+KM	Escherichia coli	0.013	deoxyribose 1-phosphate	*
+KM	Escherichia coli	0.014	deoxyribose 1-phosphate	*enzyme form I
+KM	Escherichia coli	0.015	deoxyribose 1-phosphate	*enzyme form II
+KM	Escherichia coli	0.022	deoxyribose 1-phosphate	*enzyme form III
+KM	Escherichia coli	0.043	ribose 1-phosphate	*
+KM	Rattus norvegicus	0.083	deoxyribose 1-phosphate	*
+KM	Rattus norvegicus	0.13	ribose 1-phosphate	*
+KM	Bacillus cereus	0.263	D-ribose 5-phosphate	*in 25 mM Tris-HCl, pH 8.0, and 0.1 mM MnCl2, 0.0005 mM glucose 1,6-bisphosphate,at 23&deg;C
+KM	Saccharomyces cerevisiae	0.5	alpha-D-ribose 1-phosphate	*recombinant His-tagged Pgm2, pH 7.5, 30&deg;C
+KM	Saccharomyces cerevisiae	0.75	alpha-D-ribose 1-phosphate	*recombinant His-tagged Pgm3, pH 7.5, 30&deg;C
+KM	Thermotoga maritima	0.75	alpha-D-ribose 5-phosphate	*at pH 7.5 and 60&deg;C
+KM	Thermotoga maritima	1.2	alpha-D-ribose 5-phosphate	*at pH 7.5 and 90&deg;C
+KM	Thermococcus kodakarensis	2.5	2-deoxy-D-ribose 1-phosphate	*90&deg;C
+MW	Escherichia coli	32000	*	*gel filtration
+MW	Rattus norvegicus	32500	*	*2 * 32500, SDS-PAGE
+MW	Escherichia coli	43000	*	*1 * 43000, enzyme form I, II and III, SDS-PAGE
+MW	Lysinibacillus sphaericus	43000	*	*determined by SDS-PAGE
+MW	Geobacillus stearothermophilus	43735	*	*1 * 43735, calculation from nucleotide sequence; 1 * 43735, deduced from nucleotide sequence
+MW	Bacillus cereus	44000	*	*x * 44000, SDS-PAGE
+MW	Bacillus cereus	44000	*	*x * 44000, SDS-PAGE
+MW	Escherichia coli	45000	*	*equilibrium centrifugation
+MW	Escherichia coli	46000	*	*determined by SDS-PAGE
+MW	Geobacillus stearothermophilus	48000	*	*1 * 48000, SDS-PAGE
+MW	Geobacillus stearothermophilus	53000	*	*gel filtration
+MW	Rattus norvegicus	65000	*	*disc gel electrophoresis
+MW	Oryctolagus cuniculus	86000	*	*gel filtration
+MW	Thermococcus kodakarensis	210000	*	*gel filtration
+PATH	*	2-deoxy-alpha-D-ribose 1-phosphate degradation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pentose phosphate pathway	*	*
+PATH	*	Purine metabolism	*	*
+PATH	*	purine metabolism	*	*
+PATH	*	purine ribonucleosides degradation	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Saccharomyces cerevisiae	0.06	*	*purified recombinant His-tagged Pgm1, pH 7.5, 30&Acirc;&deg;C
+SA	Saccharomyces cerevisiae	0.29	*	*purified recombinant His-tagged Pgm3, pH 7.5, 30&Acirc;&deg;C
+SA	Saccharomyces cerevisiae	0.32	*	*purified recombinant His-tagged Pgm2, pH 7.5, 30&Acirc;&deg;C
+SA	Thermotoga maritima	14	*	*crude enzyme, at pH 7.5 and 90&Acirc;&deg;C
+SA	Escherichia coli	15.5	*	*
+SA	Geobacillus stearothermophilus	41.7	*	*
+SA	Thermotoga maritima	57.8	*	*after 4.1fold purification, at pH 7.5 and 90&Acirc;&deg;C
+SA	Escherichia coli	142	*	*
+SA	Thermococcus kodakarensis	210	*	*

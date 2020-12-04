@@ -1,0 +1,128 @@
+KCAT	Thermotoga maritima	0.15	ATP	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.6	ATP	*wild-type, glutamine-dependent reaction
+KCAT	Mycobacterium tuberculosis	2.9	ATP	*wild-type, ammonia-dependent reaction
+KCAT	Mycobacterium tuberculosis	3	ATP	*mutant C176A, ammonia-dependent reaction
+KCAT	Mycobacterium tuberculosis	0.0045	NH3	*mutant D656A, ammonia-dependent reaction
+KCAT	Thermotoga maritima	0.24	NH3	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	3.3	NH3	*mutant C176A, ammonia-dependent reaction
+KCAT	Saccharomyces cerevisiae	0.12	L-glutamine	*mutant enzyme Y532A/Y601A, at 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.16	L-glutamine	*mutant enzyme Y601A, at 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	6.4	L-glutamine	*wild type enzyme, at 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.012	L-Gln	*mutant D656A, glutamine-dependent reaction
+KCAT	Thermotoga maritima	0.288	L-Gln	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.55	L-Gln	*wild-type, glutamine-dependent reaction
+KCAT	Mycobacterium tuberculosis	3	L-Gln	*wild-type, ammonia-dependent reaction
+KCAT	Thermotoga maritima	0.16	deamido-NAD+	*pH 8.3, 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.5	deamido-NAD+	*wild-type, glutamine-dependent reaction
+KCAT	Acinetobacter baumannii	0.57	deamido-NAD+	*pH 7.5, 30&Acirc;&deg;C; pH 7.5, 30&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	2.6	deamido-NAD+	*wild-type, ammonia-dependent reaction
+KCAT	Mycobacterium tuberculosis	3.7	deamido-NAD+	*mutant C176A, ammonia-dependent reaction
+KCAT	Acinetobacter baumannii	0.0032	deamido-NMN	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	-999	more	*turnover number: 1260, NAD+ production
+KM	Homo sapiens	0.015	ATP	*pH 7.5
+KM	Herbaspirillum seropedicae	0.031	ATP	*pH 8.5, 30&Acirc;&deg;C, recombinant His-tagged enzyme
+KM	Homo sapiens	0.089	ATP	*37&Acirc;&deg;C, wild-type NADsyn1
+KM	Thermotoga maritima	0.095	ATP	*pH 8.3, 37&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	0.1	ATP	*pH and temperature not specified in the publication
+KM	Homo sapiens	0.12	ATP	*37&Acirc;&deg;C, NADsyn1 C175S mutant
+KM	Mycobacterium tuberculosis	0.12	ATP	*wild-type, glutamine-dependent reaction
+KM	Homo sapiens	0.154	ATP	*
+KM	Saccharomyces cerevisiae	0.17	ATP	*pH 7.6
+KM	Nicotiana tabacum	0.18	ATP	*
+KM	Mycobacterium tuberculosis	0.6	ATP	*mutant C176A, ammonia-dependent reaction
+KM	Mycobacterium tuberculosis	0.79	ATP	*37&Acirc;&deg;C, pH 8.0, recombinant NadE-679
+KM	Mycobacterium tuberculosis	0.8	ATP	*mutant enzyme E52A; wild-type enzyme
+KM	Mycobacterium tuberculosis	1.3	ATP	*37&Acirc;&deg;C, pH 8.5, recombinant NadE-738
+KM	Mycobacterium tuberculosis	1.3	ATP	*mutant enzyme C176A
+KM	Mycobacterium tuberculosis	1.4	ATP	*wild-type, ammonia-dependent reaction
+KM	Mycobacterium tuberculosis	0.089	NH3	*mutant D656A, ammonia-dependent reaction
+KM	Thermotoga maritima	0.33	NH3	*pH 8.3, 37&Acirc;&deg;C
+KM	Homo sapiens	13.1	NH3	*37&Acirc;&deg;C, wild-type NADsyn1
+KM	Mycobacterium tuberculosis	15	NH3	*mutant C176A, ammonia-dependent reaction
+KM	Homo sapiens	23.9	NH3	*37&Acirc;&deg;C, NADsyn1 C175S mutant
+KM	Mycobacterium tuberculosis	1.6	NH4+	*mutant enzyme E52A
+KM	Mycobacterium tuberculosis	2.3	NH4+	*mutant enzyme C176A
+KM	Mycobacterium tuberculosis	2.5	NH4+	*37&Acirc;&deg;C, pH 8.0, recombinant NadE-679
+KM	Mycobacterium tuberculosis	2.7	NH4+	*wild-type enzyme
+KM	Saccharomyces cerevisiae	6.4	NH4+	*pH 8.6
+KM	Mycobacterium tuberculosis	27	NH4+	*37&Acirc;&deg;C, pH 8.5, recombinant NadE-738
+KM	Homo sapiens	64.2	NH4+	*
+KM	Herbaspirillum seropedicae	0.365	L-glutamine	*pH 8.5, 30&Acirc;&deg;C, recombinant His-tagged enzyme
+KM	Mycobacterium tuberculosis	1.1	L-glutamine	*37&Acirc;&deg;C, pH 8.8, recombinant NadE-738
+KM	Saccharomyces cerevisiae	1.4	L-glutamine	*mutant enzyme Y601A, at 37&Acirc;&deg;C
+KM	Homo sapiens	1.44	L-glutamine	*37&Acirc;&deg;C, wild-type NADsyn1
+KM	Mycobacterium tuberculosis	1.5	L-glutamine	*pH and temperature not specified in the publication
+KM	Mycobacterium tuberculosis	1.6	L-glutamine	*37&Acirc;&deg;C, pH 8.5, recombinant NadE-679
+KM	Saccharomyces cerevisiae	3.5	L-glutamine	*mutant enzyme Y532A/Y601A, at 37&Acirc;&deg;C
+KM	Saccharomyces cerevisiae	5.3	L-glutamine	*wild type enzyme, at 37&Acirc;&deg;C
+KM	Homo sapiens	0.001	L-Gln	*pH 7.5
+KM	Thermotoga maritima	0.42	L-Gln	*pH 8.3, 37&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	1.3	L-Gln	*wild-type, glutamine-dependent reaction
+KM	Mycobacterium tuberculosis	1.6	L-Gln	*wild-type enzyme
+KM	Mycobacterium tuberculosis	7.8	L-Gln	*mutant D656A, glutamine-dependent reaction
+KM	Mycobacterium tuberculosis	20	L-Gln	*wild-type, ammonia-dependent reaction
+KM	Nicotiana tabacum	2	Gln	*
+KM	Homo sapiens	2.17	Gln	*
+KM	Saccharomyces cerevisiae	5	Gln	*pH 7.6
+KM	Herbaspirillum seropedicae	0.01	deamido-NAD+	*pH 8.5, 30&Acirc;&deg;C, recombinant His-tagged enzyme
+KM	Acinetobacter baumannii	0.017	deamido-NAD+	*pH 7.5, 30&Acirc;&deg;C; pH 7.5, 30&Acirc;&deg;C
+KM	Thermotoga maritima	0.021	deamido-NAD+	*pH 8.3, 37&Acirc;&deg;C
+KM	Homo sapiens	0.04	deamido-NAD+	*pH 7.5
+KM	Homo sapiens	0.049	deamido-NAD+	*37&Acirc;&deg;C, wild-type NADsyn1
+KM	Nicotiana tabacum	0.083	deamido-NAD+	*
+KM	Homo sapiens	0.108	deamido-NAD+	*
+KM	Mycobacterium tuberculosis	0.13	deamido-NAD+	*wild-type, glutamine-dependent reaction
+KM	Saccharomyces cerevisiae	0.19	deamido-NAD+	*pH 7.6
+KM	Homo sapiens	0.2	deamido-NAD+	*37&Acirc;&deg;C, NADsyn1 C175S mutant
+KM	Mycobacterium tuberculosis	0.5	deamido-NAD+	*wild-type enzyme
+KM	Mycobacterium tuberculosis	0.52	deamido-NAD+	*37&Acirc;&deg;C, pH 8.0, recombinant NadE-679
+KM	Mycobacterium tuberculosis	0.65	deamido-NAD+	*mutant C176A, ammonia-dependent reaction
+KM	Mycobacterium tuberculosis	0.7	deamido-NAD+	*wild-type, ammonia-dependent reaction
+KM	Mycobacterium tuberculosis	1.4	deamido-NAD+	*mutant enzyme C176A; mutant enzyme E52A
+KM	Mycobacterium tuberculosis	2.9	deamido-NAD+	*37&Acirc;&deg;C, pH 8.5, recombinant NadE-738
+KM	Acinetobacter baumannii	4.3	deamido-NMN	*pH 7.5, 30&Acirc;&deg;C
+KM	Herbaspirillum seropedicae	-999	more	*Michaelis-Menten and Hanes-Woolf kinetics, kinetic analysis
+MW	Saccharomyces cerevisiae	65000	*	*x * 65000 + x * 80000, SDS-PAGE
+MW	Mycobacterium tuberculosis	67000	*	*8 * 67000, SDS-PAGE
+MW	Saccharomyces cerevisiae	80000	*	*x * 65000 + x * 80000, SDS-PAGE
+MW	Homo sapiens	80000	*	*6 * 80000, wild-type and C175S mutant enzyme, SDS-PAGE
+MW	Homo sapiens	80300	*	*6 * 80300, calculated from sequence
+MW	Mycobacterium tuberculosis	98000	*	*x * 98000, SDS-PAGE
+MW	Homo sapiens	483000	*	*gel filtration
+MW	Homo sapiens	500000	*	*non-denaturing PAGE
+MW	Herbaspirillum seropedicae	548000	*	*recombinant enzyme, gel filtration
+MW	Mycobacterium tuberculosis	600000	*	*gel filtration, NadE-679
+MW	Saccharomyces cerevisiae	630000	*	*high speed equilibrium ultracentrifugation
+PATH	*	Metabolic pathways	*	*
+PATH	*	NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde	*	*
+PATH	*	NAD de novo biosynthesis I (from aspartate)	*	*
+PATH	*	NAD metabolism	*	*
+PATH	*	NAD salvage pathway I (PNC VI cycle)	*	*
+PATH	*	NAD salvage pathway II (PNC IV cycle)	*	*
+PATH	*	NAD salvage pathway V (PNC V cycle)	*	*
+PATH	*	Nicotinate and nicotinamide metabolism	*	*
+PATH	*	pyridine nucleotide cycling (plants)	*	*
+SA	Homo sapiens	-999	*	*coupled enzyme assay for the measurement of recombinant human NAD+ synthetase by employing lactate dehydrogenase in a cycling/amplification reaction linked ultimately to the fluorescence generation of resorufin from reazurin via diaphorase
+SA	Saccharomyces cerevisiae	0.0002	*	*mutant enzyme R112L, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Saccharomyces cerevisiae	0.0011	*	*mutant enzyme D593A/F622A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Saccharomyces cerevisiae	0.0017	*	*mutant enzyme Y532A/M621A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin; mutant enzyme Y532A/Y601A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Saccharomyces cerevisiae	0.0087	*	*mutant enzyme L604N, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Saccharomyces cerevisiae	0.015	*	*mutant enzyme L604A/L519A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Homo sapiens	0.017	*	*
+SA	Saccharomyces cerevisiae	0.024	*	*mutant enzyme R112S, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Mycobacterium tuberculosis	0.033	*	*recombinant NadE-738, nitrogen donor glutamine
+SA	Saccharomyces cerevisiae	0.0533	*	*mutant enzyme I111A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Mycobacterium tuberculosis	0.09	*	*glutamine-dependent activity
+SA	Saccharomyces cerevisiae	0.0931	*	*mutant enzyme Y601A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Mycobacterium tuberculosis	0.1	*	*recombinant NadE-738, nitrogen donor NH4+
+SA	Saccharomyces cerevisiae	0.112	*	*mutant enzyme E177A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Saccharomyces cerevisiae	0.225	*	*
+SA	Mycobacterium tuberculosis	0.23	*	*NH3 dependent activity
+SA	Saccharomyces cerevisiae	0.288	*	*mutant enzyme F622A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Saccharomyces cerevisiae	0.293	*	*mutant enzyme L604A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Saccharomyces cerevisiae	0.435	*	*mutant enzyme D593A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Mycobacterium tuberculosis	0.44	*	*recombinant NadE-679, nitrogen donor glutamine
+SA	Saccharomyces cerevisiae	0.644	*	*mutant enzyme M621A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Mycobacterium tuberculosis	0.67	*	*recombinant NadE-679, nitrogen donor NH4+
+SA	Saccharomyces cerevisiae	2.1	*	*
+SA	Saccharomyces cerevisiae	2.33	*	*wild type enzyme, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin

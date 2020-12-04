@@ -1,0 +1,51 @@
+KCAT	Escherichia coli	10	NADH	*pH 7.5, 30&deg;C
+KCAT	Escherichia coli	19.3	NAD+	*pH 7.5, 30&deg;C
+KCAT	Escherichia coli	71	UDP-glucose	*pH 7.5, 37&deg;C
+KCAT	Yersinia intermedia	97	UDP-glucose	*pH 7.5, 37&deg;C
+KCAT	Escherichia coli	405	AMP	*pH 7.5, 30&deg;C
+KCAT	Escherichia coli	1492	NMN	*pH 7.5, 30&deg;C
+KM	Escherichia coli	-999	more	*
+KM	Escherichia coli	-999	more	*kinetics of all the enzyme activites, overview
+KM	Yersinia intermedia	-999	more	*kinetics of all the enzyme activites, overview
+KM	Escherichia coli	0.0012	AMP	*pH 7.5, 30&deg;C
+KM	Escherichia coli	0.002	UDP-D-glucose	*with 5 mM CoSO4, pH 8.0, 37 &deg;C
+KM	Escherichia coli	0.0053	NAD+	*pH 7.5, 30&deg;C
+KM	Escherichia coli	0.007	NADH	*pH 7.5, 30&deg;C
+KM	Yersinia intermedia	0.0096	UDP-glucose	*pH 7.5, 37&deg;C
+KM	Escherichia coli	0.0104	UDP-glucose	*pH 7.5, 37&deg;C
+KM	Escherichia coli	0.0111	NMN	*pH 7.5, 30&deg;C
+KM	Escherichia coli	0.02	UDP-D-glucose	*with 5 mM CoSO4, pH 8.0, 37 &deg;C
+KM	Clostridioides difficile	0.0894	UDP-glucose	*with MnCl2
+KM	Escherichia coli	0.11	GDP-D-glucose	*
+KM	Clostridioides difficile	0.1215	UDP-glucose	*isozyme toxin A, with MnCl2
+KM	Clostridioides difficile	0.1423	UDP-glucose	*isozyme toxin A, with MgCl2 and 150 mM KCl
+KM	Clostridioides difficile	0.1435	UDP-glucose	*isozyme toxin A, with 50 mM KCl
+KM	Clostridioides difficile	0.1574	UDP-glucose	*isozyme toxin B, with 50 mM KCl
+KM	Clostridioides difficile	0.1638	UDP-glucose	*isozyme toxin A, with 500 mM KCl
+KM	Clostridioides difficile	0.1735	UDP-glucose	*isozyme toxin B, with 500 mM KCl
+KM	Clostridioides difficile	0.1755	UDP-glucose	*isozyme toxin B, with MgCl2 and 150 mM KCl
+KM	Escherichia coli	0.2	UDP-D-glucose	*with 5 mM MgCl2, pH 8.0, 25 &deg;C
+KM	Saccharomyces cerevisiae	0.25	MgATP2-	*
+KM	Mus musculus	0.3	ADP-D-ribose	*in 50 mM Tris-HCl, pH 8.0, 10 mM Mg2+, at 37&deg;C
+KM	Escherichia coli	0.33	CDP-D-glucose	*
+KM	Saccharomyces cerevisiae	1	MgUTP2-	*
+KM	Mus musculus	4.1	UDP-D-glucose	*in 50 mM Tris-HCl, pH 8.0, 10 mM MgCl2, at 37&deg;C
+MW	Yersinia intermedia	23000	*	*x * 63000, band 1, SDS-PAGE, x * 23000, band 2, SDS-PAGE
+MW	Mus musculus	26700	*	*2 * 26700, calculated from amino acid sequence
+MW	Sus scrofa	28000	*	*2 * 28000, SDS-PAGE
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	28349	*	*x * 28349, calculation from nucleotide sequence
+MW	Mus musculus	30000	*	*2 * 30000, SDS-PAGE
+MW	Sus scrofa	50000	*	*gel filtration
+MW	Yersinia intermedia	52000	*	*gel filtration
+MW	Mus musculus	54000	*	*SDS-PAGE
+MW	Escherichia coli	60750	*	*x * 60750, calculation from nucleotide sequence
+MW	Escherichia coli	60767	*	*x * 60767, calculation from nucleotide sequence
+MW	Escherichia coli	61000	*	*x * 61000, SDS-PAGE
+MW	Yersinia intermedia	63000	*	*x * 63000, band 1, SDS-PAGE, x * 23000, band 2, SDS-PAGE
+MW	Corynebacterium glutamicum	70000	*	*SDS-PAGE of supernatant of phosphate-starved cells
+MW	Corynebacterium glutamicum	70460	*	*MALDI-TOF mass spectrometry
+SA	Corynebacterium glutamicum	-999	*	*endogenous UDP-sugar hydrolase activity not detectable before the shift to phosphate-free medium; UDP-sugar hydrolase activity detectable in cell extracts of phosphate-starved wild-type delta-ushA cells
+SA	Corynebacterium glutamicum	0.076	*	*endogenous UDP-sugar hydrolase activity 24 hours after the onset of phosphate starvation
+SA	Corynebacterium glutamicum	0.55	*	*UDP-sugar hydrolase activity of overexpressed UshA enzyme
+SA	Salmonella enterica subsp. enterica serovar Typhimurium	10	*	*
+SA	Escherichia coli	12.58	*	*

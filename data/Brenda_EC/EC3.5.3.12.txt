@@ -1,0 +1,95 @@
+KCAT	Helicobacter pylori	0.0047	agmatine	*mutant D198A, pH 8.0, 37&Acirc;&deg;C
+KCAT	Campylobacter jejuni subsp. jejuni serotype O:2	0.00533	agmatine	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Helicobacter pylori	0.082	agmatine	*wild-type, pH 8.0, 37&Acirc;&deg;C
+KCAT	Listeria monocytogenes serotype 1/2a	0.517	agmatine	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	8	agmatine	*
+KCAT	Listeria monocytogenes	34.28	agmatine	*at 25&Acirc;&deg;C and pH 7.5
+KM	Zea mays	0.012	agmatine	*
+KM	Cucumis sativus	0.016	agmatine	*pH 7.0, 30&deg;C
+KM	Helicobacter pylori	0.033	agmatine	*wild-type, pH 8.0, 37&deg;C
+KM	Campylobacter jejuni subsp. jejuni serotype O:2	0.07	agmatine	*pH 7.0, 37&deg;C
+KM	Helicobacter pylori	0.17	agmatine	*mutant D198A, pH 8.0, 37&deg;C
+KM	Zea mays	0.19	agmatine	*
+KM	Zea mays	0.19	agmatine	*
+KM	Listeria monocytogenes serotype 1/2a	0.33	agmatine	*pH 7.5, 25&deg;C
+KM	Pseudomonas aeruginosa	0.6	agmatine	*
+KM	Listeria monocytogenes	0.65	agmatine	*at 25&deg;C and pH 7.5
+KM	Arachis hypogaea	0.76	agmatine	*
+KM	Arachis hypogaea	0.76	agmatine	*
+KM	Evernia prunastri	0.8	agmatine	*
+KM	Glycine max	2.5	agmatine	*
+KM	Selenomonas ruminantium	6.67	agmatine	*
+KM	Oryza sativa	15	agmatine	*
+KM	Oryza sativa	15	agmatine	*
+MW	Cucumis sativus	15000	*	*1 * 66000 + 1 * 48000 + 1 * 44000 + 1 * 15000, SDS-PAGE
+MW	Cucumis sativus	36000	*	*x * 36000, deglycosylated enzyme, SDS-PAGE, x * 47000, glycosylated enzyme, SDS-PAGE, monomer or dimer
+MW	Pseudomonas aeruginosa PA14	39900	*	*x * 39900, calculated for mature protein
+MW	Streptococcus mutans	40000	*	*x * 40000, SDS-PAGE
+MW	Pseudomonas aeruginosa	41190	*	*calculated from sequence data
+MW	Zea mays	43000	*	*2 * 43000, SDS-PAGE
+MW	Pseudomonas aeruginosa	43000	*	*2 * 43000, SDS-PAGE
+MW	Arabidopsis thaliana	43000	*	*2 * 43000, recombinant His-tagged wild-type enzyme, SDS-PAGE
+MW	Zea mays	43500	*	*1 * 43500 + 1 * 44000, SDS-PAGE
+MW	Cucumis sativus	44000	*	*1 * 66000 + 1 * 48000 + 1 * 44000 + 1 * 15000, SDS-PAGE
+MW	Zea mays	44000	*	*1 * 43500 + 1 * 44000, SDS-PAGE
+MW	Selenomonas ruminantium	45000	*	*gel filtration; SDS-PAGE
+MW	Enterococcus faecalis	46000	*	*SDS-PAGE
+MW	Listeria monocytogenes	46800	*	*x * 46800, calculated from amino acid sequence
+MW	Cucumis sativus	47000	*	*x * 36000, deglycosylated enzyme, SDS-PAGE, x * 47000, glycosylated enzyme, SDS-PAGE, monomer or dimer
+MW	Cucumis sativus	48000	*	*1 * 66000 + 1 * 48000 + 1 * 44000 + 1 * 15000, SDS-PAGE
+MW	Lathyrus sativus	55000	*	*gel filtration, PAGE
+MW	Lathyrus sativus	56000	*	*gel filtration, Sephadex G-200
+MW	Cucumis sativus	66000	*	*1 * 66000 + 1 * 48000 + 1 * 44000 + 1 * 15000, SDS-PAGE
+MW	Cucumis sativus	67000	*	*gel filtration
+MW	Glycine max	70000	*	*gel filtration
+MW	Zea mays	75000	*	*gel filtration
+MW	Arabidopsis thaliana	81000	*	*recombinant His-tagged wild-type enzyme, gel filtration
+MW	Enterococcus faecalis	82000	*	*gel filtration
+MW	Zea mays	85000	*	*gel filtration
+MW	Zea mays	85000	*	*
+MW	Pseudomonas aeruginosa	85000	*	*cross linkage
+MW	Pseudomonas aeruginosa	89000	*	*gel filtration
+MW	Oryza sativa	95000	*	*2 * 95000, SDS-PAGE
+MW	Cucumis sativus	150000	*	*gel filtration
+MW	Oryza sativa	183000	*	*gel filtration
+MW	Oryza sativa	183000	*	*
+PATH	*	Arginine and proline metabolism	*	*
+PATH	*	L-arginine degradation IV (arginine decarboxylase/agmatine deiminase pathway)	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	polyamine pathway	*	*
+PATH	*	putrescine biosynthesis II	*	*
+SA	Pseudomonas aeruginosa	-999	*	*
+SA	Streptococcus ratti	0.0002	*	*strain FA-1, 25 mM glucose, without agmatine
+SA	Streptococcus ratti	0.004	*	*strain FA-1, 25 mM galactose, without agmatine
+SA	Streptococcus downei	0.006	*	*25 mM glucose + 10 mM agmatine
+SA	Streptococcus sobrinus	0.0097	*	*25 mM sorbitol + 10 mM agmatine
+SA	Zea mays	0.01	*	*crude extract of enzyme
+SA	Pseudomonas aeruginosa PA14	0.01055	*	*pH 9.0, 25&deg;C
+SA	Streptococcus criceti	0.0109	*	*25 mM sorbitol + 10 mM agmatine
+SA	Zea mays	0.015	*	*enzyme activity of shoots grown for 7 days at 25&deg;C in the dark and light respectively
+SA	Pseudomonas aeruginosa PA14	0.015	*	*pH 9.0, 37&deg;C
+SA	Streptococcus sobrinus	0.016	*	*25 mM glucose + 10 mM agmatine
+SA	Streptococcus ratti	0.02	*	*strain FA-1, 250 mM glucose, without agmatine
+SA	Streptococcus ratti	0.03	*	*strain FA-1, 250 mM glucose + 10 mM agmatine
+SA	Streptococcus ratti	0.032	*	*strain FA-1, 25 mM glucose + 10 mM agmatine
+SA	Streptococcus ratti	0.034	*	*strain FA-1, 25 mM galactose + 10 mM agmatine
+SA	Streptococcus ratti	0.04	*	*strain FA-1, 250 mM galactose, without agmatine
+SA	Streptococcus ratti	0.052	*	*strain BHT, 25 mM glucose + 10 mM agmatine
+SA	Streptococcus mutans	0.058	*	*strain UA159, 25 mM glucose + 10 mM agmatine
+SA	Streptococcus ratti	0.058	*	*strain FA-1, 250 mM galactose + 10 mM agmatine
+SA	Streptococcus mutans	0.078	*	*strain GS-5, 25 mM galactose + 10 mM agmatine
+SA	Streptococcus ratti	0.102	*	*strain FA-1, 25 mM glucose + 10 mM agmatine
+SA	Arachis hypogaea	0.135	*	*
+SA	Streptococcus mutans	0.17	*	*strain UA159, 25 mM sorbitol + 10 mM agmatine
+SA	Streptococcus mutans	0.4762	*	*strain UA159, 25 mM galactose + 10 mM agmatine
+SA	Lathyrus sativus	1.1	*	*
+SA	Cucumis sativus	2.64	*	*
+SA	Enterococcus faecalis	5.9	*	*cells in stationary phase of growth
+SA	Cucumis sativus	14.5	*	*purified enzyme
+SA	Enterococcus faecalis	16.7	*	*
+SA	Arabidopsis thaliana	26.4	*	*purified recombinant wild-type enzyme
+SA	Zea mays	32.2	*	*purified enzyme
+SA	Oryza sativa	47.31	*	*
+SA	Glycine max	172.2	*	*
+SA	Evernia prunastri	205.5	*	*
+SA	Zea mays	876.3	*	*

@@ -1,0 +1,39 @@
+KCAT	Oxalobacter formigenes	4.3	formyl-CoA	*
+KCAT	Oxalobacter formigenes	4.3	oxalate	*
+KCAT	Acetobacter aceti	4.5	formyl-CoA	*in 50 mM potassium phosphate, pH 6.7, at 25&deg;C
+KCAT	Acetobacter aceti	5	oxalate	*in 50 mM potassium phosphate, pH 6.7, at 25&deg;C
+KM	Oxalobacter formigenes	2.3	succinate	*pH 6.7, 25&Acirc;&deg;C
+KM	Oxalobacter formigenes	0.43	oxalate	*W48Q FRC
+KM	Escherichia coli	0.51	oxalate	*His-YfdW
+KM	Acetobacter aceti	1.11	oxalate	*in 50 mM potassium phosphate, pH 6.7, at 25&Acirc;&deg;C
+KM	Oxalobacter formigenes	1.2	oxalate	*His-FRC
+KM	Oxalobacter formigenes	1.5	oxalate	*W48F FRC
+KM	Oxalobacter formigenes	3.9	oxalate	*wild-type FRC
+KM	Oxalobacter formigenes	3.9	oxalate	*wild-type formyl-CoA transferase
+KM	Oxalobacter formigenes	5.1	oxalate	*pH 6.7, 25&Acirc;&deg;C
+KM	Oxalobacter formigenes	12.1	oxalate	*G259A mutant formyl-CoA transferase
+KM	Oxalobacter formigenes	13.2	oxalate	*Q17A mutant formyl-CoA transferase
+KM	Oxalobacter formigenes	18	oxalate	*G260A mutant formyl-CoA transferase
+KM	Oxalobacter formigenes	0.002	formyl-CoA	*wild-type FRC
+KM	Oxalobacter formigenes	0.002	formyl-CoA	*wild-type formyl-CoA transferase
+KM	Acetobacter aceti	0.0034	formyl-CoA	*in 50 mM potassium phosphate, pH 6.7, at 25&Acirc;&deg;C
+KM	Oxalobacter formigenes	0.0047	formyl-CoA	*His-FRC
+KM	Oxalobacter formigenes	0.0047	formyl-CoA	*G259A mutant formyl-CoA transferase
+KM	Oxalobacter formigenes	0.0058	formyl-CoA	*W48Q FRC
+KM	Oxalobacter formigenes	0.0171	formyl-CoA	*W48F FRC
+KM	Oxalobacter formigenes	0.018	formyl-CoA	*G260A mutant formyl-CoA transferase
+KM	Oxalobacter formigenes	0.033	formyl-CoA	*Q17A mutant formyl-CoA transferase
+KM	Escherichia coli	0.35	formyl-CoA	*His-YfdW
+KM	Oxalobacter formigenes	3	formyl-CoA	*pH 6.7, 25&Acirc;&deg;C
+MW	Oxalobacter formigenes	44000	*	*1 * 44000, SDS-PAGE
+MW	Oxalobacter formigenes	44700	*	*gel filtration
+MW	Oxalobacter formigenes	45000	*	*1 * 45000, recombiant enzyme, SDS-PAGE
+MW	Acetobacter aceti	47000	*	*2 * 47000, His6-tagged enzyme, SDS-PAGE
+MW	Acetobacter aceti	49610	*	*2 * 49610, electrospray ionization mass spectrometry
+MW	Lactobacillus acidophilus	50000	*	*x * 50000, recombinant enzyme, SDS-PAGE
+MW	Oxalobacter formigenes	81000	*	*gel filtration
+MW	Acetobacter aceti	83000	*	*His6-tagged enzyme, gel filtration
+MW	Acetobacter aceti	99000	*	*calculated from amino acid sequence
+PATH	*	oxalate degradation II	*	*
+SA	Oxalobacter formigenes	0.63	*	*cytoplasmic fraction
+SA	Oxalobacter formigenes	2.15	*	*purified enyzme

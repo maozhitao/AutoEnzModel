@@ -1,0 +1,112 @@
+KCAT	Salmonella enterica	0.87	Butyrate	*45&deg;C, pH 7.0; pH 8.0, 37&deg;C
+KCAT	Salmonella enterica	1	CoA	*45&deg;C, pH 7.0, cosubstrate: propanoate; pH 8.0, 37&deg;C
+KCAT	Salmonella enterica	1.1	Acrylate	*45&deg;C, pH 7.0; pH 8.0, 37&deg;C
+KCAT	Salmonella enterica	1.1	ATP	*45&deg;C, pH 7.0: cosubstrate: propanoate; pH 8.0, 37&deg;C
+KCAT	Salmonella enterica	1.2	propionate	*45&deg;C, pH 7.0; pH 8.0, 37&deg;C
+KCAT	Ralstonia solanacearum	1.3	Acrylate	*37&deg;C, pH 8.0; pH 8.0, 37&deg;C
+KCAT	Ralstonia solanacearum	1.5	ATP	*37&deg;C, pH 8.0, cosubstrate: propanoate; pH 8.0, 37&deg;C
+KCAT	Ralstonia solanacearum	1.7	Butyrate	*37&deg;C, pH 8.0; pH 8.0, 37&deg;C
+KCAT	Ralstonia solanacearum	1.8	propionate	*37&deg;C, pH 8.0; pH 8.0, 37&deg;C
+KCAT	Ralstonia solanacearum	2.4	CoA	*37&deg;C, pH 8.0, cosubstrate: propanoate; pH 8.0, 37&deg;C
+KCAT	Salmonella enterica	4.8	acetate	*45&deg;C, pH 7.0; pH 8.0, 37&deg;C
+KCAT	Metallosphaera sedula	5.4	Acrylate	*pH 8.4, 45&deg;C, coupled spectrophotometric assay
+KCAT	Metallosphaera sedula	5.6	propanoate	*pH 8.4, 45&deg;C, coupled spectrophotometric assay
+KCAT	Salmonella enterica	6	Butyrate	*pH 7.5, 37&deg;C
+KCAT	Ralstonia solanacearum	6.8	acetate	*37&deg;C, pH 8.0; pH 8.0, 37&deg;C
+KCAT	Sulfurisphaera tokodaii	8	3-hydroxypropanoate	*pH 8.4, 65&deg;C
+KCAT	Chloroflexus aurantiacus	12	3-hydroxypropionate	*pH 7.8, 55&deg;C
+KCAT	Metallosphaera sedula	23	3-hydroxypropanoate	*pH 8.4, 65&deg;C
+KCAT	Salmonella enterica	26	Acrylate	*pH 7.5, 37&deg;C
+KCAT	Salmonella enterica	32	acetate	*pH 7.5, 37&deg;C
+KCAT	Salmonella enterica	33	propionate	*pH 7.5, 37&deg;C
+KCAT	Salmonella enterica	34	ATP	*pH 7.5, 37&deg;C
+KCAT	Salmonella enterica	42	CoA	*pH 7.5, 37&deg;C
+KCAT	Salmonella enterica	78	propionyl-AMP	*pH 7.5, 37&deg;C
+KCAT	Salmonella enterica	79	diphosphate	*pH 7.5, 37&deg;C
+KM	Metallosphaera sedula	-999	more	*the dependency of the 3-hydroxypropionyl-CoA synthetase with respect to CoA does not follow Michaelis-Menten kinetics, overview
+KM	Chloroflexus aurantiacus	0.01	CoA	*pH 7.8, 55&deg;C
+KM	Chloroflexus aurantiacus	0.01	NADPH	*pH 7.8, 55&deg;C
+KM	Chloroflexus aurantiacus	0.015	3-hydroxypropionate	*pH 7.8, 55&deg;C
+KM	Salmonella enterica	0.02	propionate	*pH 7.5, 37&deg;C
+KM	Salmonella enterica	0.023	propionyl-AMP	*pH 7.5, 37&deg;C
+KM	Metallosphaera sedula	0.045	ATP	*pH 8.4, 65&deg;C
+KM	Chloroflexus aurantiacus	0.05	ATP	*pH 7.8, 55&deg;C
+KM	Salmonella enterica	0.057	ATP	*pH 7.5, 37&deg;C
+KM	Salmonella enterica	0.08	propionate	*45&deg;C, pH 7.0; pH 8.0, 37&deg;C
+KM	Sulfurisphaera tokodaii	0.11	ATP	*pH 8.4, 65&deg;C
+KM	Metallosphaera sedula	0.12	propanoate	*pH 8.4, 45&deg;C, coupled spectrophotometric assay
+KM	Metallosphaera sedula	0.18	3-hydroxypropanoate	*pH 8.4, 65&deg;C
+KM	Sulfurisphaera tokodaii	0.19	3-hydroxypropanoate	*pH 8.4, 65&deg;C
+KM	Rattus norvegicus	0.19	propanoate	*at pH 8.0 and 37&deg;C
+KM	Salmonella enterica	0.215	CoA	*pH 7.5, 37&deg;C
+KM	Salmonella enterica	0.254	diphosphate	*pH 7.5, 37&deg;C
+KM	Ralstonia solanacearum	0.26	propionate	*37&deg;C, pH 8.0; pH 8.0, 37&deg;C
+KM	Salmonella enterica	0.279	Acrylate	*pH 7.5, 37&deg;C
+KM	Salmonella enterica	0.33	ATP	*45&deg;C, pH 7.0, cosubstrate: propanoate; pH 8.0, 37&deg;C
+KM	Cavia porcellus	0.43	propanoate	*
+KM	Cavia porcellus	0.6	propanoate	*
+KM	Bos taurus	0.63	CoA	*
+KM	Ralstonia solanacearum	0.65	ATP	*37&deg;C, pH 8.0, cosubstrate: propanoate; pH 8.0, 37&deg;C
+KM	Ralstonia solanacearum	0.69	CoA	*37&deg;C, pH 8.0, cosubstrate: propanoate; pH 8.0, 37&deg;C
+KM	Salmonella enterica	0.9	CoA	*45&deg;C, pH 7.0, cosubstrate: propanoate; pH 8.0, 37&deg;C
+KM	Bos taurus	0.9	CoA	*cow liver enzyme
+KM	Ralstonia solanacearum	1	Acrylate	*37&deg;C, pH 8.0; pH 8.0, 37&deg;C
+KM	Bos taurus	1	CoA	*mammary gland enzyme, cow
+KM	Bos taurus	1.1	ATP	*mammary gland enzyme, cow
+KM	Salmonella enterica	1.3	Acrylate	*45&deg;C, pH 7.0; pH 8.0, 37&deg;C
+KM	Bos taurus	1.3	propanoate	*mamary gland enzyme, cow,
+KM	Bos taurus	1.3	propanoate	*ATP, propanoate
+KM	Metallosphaera sedula	1.42	Acrylate	*pH 8.4, 45&deg;C, coupled spectrophotometric assay
+KM	Salmonella enterica	1.7	acetate	*pH 7.5, 37&deg;C
+KM	Ralstonia solanacearum	1.9	acetate	*37&deg;C, pH 8.0; pH 8.0, 37&deg;C
+KM	Salmonella enterica	1.9	acetate	*45&deg;C, pH 7.0; pH 8.0, 37&deg;C
+KM	Bos taurus	2.11	propanoate	*
+KM	Rattus norvegicus	2.7	propanoate	*
+KM	Rattus norvegicus	3.7	Butyrate	*at pH 8.0 and 37&deg;C
+KM	Rattus norvegicus	4.6	Butyrate	*
+KM	Bos taurus	4.8	ATP	*cow liver enzyme
+KM	Bos taurus	5.3	propanoate	*cow liver enzyme
+KM	Rattus norvegicus	5.4	acetate	*at pH 8.0 and 37&deg;C
+KM	Cavia porcellus	5.4	Butyrate	*
+KM	Salmonella enterica	5.6	Butyrate	*pH 7.5, 37&deg;C
+KM	Cavia porcellus	11	acetate	*
+KM	Ralstonia solanacearum	13	Butyrate	*37&deg;C, pH 8.0; pH 8.0, 37&deg;C
+KM	Cavia porcellus	32	acetate	*
+KM	Salmonella enterica	82	Butyrate	*45&deg;C, pH 7.0; pH 8.0, 37&deg;C
+MW	Bos taurus	35000	*	*2 * 35000, SDS-PAGE
+MW	Ralstonia solanacearum	68700	*	*x * 68700, estimated from SDS-PAGE
+MW	Ralstonia solanacearum	70000	*	*SDS-PAGE, gel filtration
+MW	Salmonella enterica	70000	*	*SDS-PAGE, gel filtration
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	70000	*	*SDS-PAGE
+MW	Ralstonia solanacearum	70900	*	*calculated from amino acid sequence
+MW	Salmonella enterica	71300	*	*calculated from amino acid sequence
+MW	Bos taurus	73400	*	*sucrose density gradient centrifugation
+MW	Sulfurisphaera tokodaii	74000	*	*2 * 74000
+MW	Metallosphaera sedula	78000	*	*4 * 78000
+MW	Sulfurisphaera tokodaii	140000	*	*recombinant enzyme, gel filtration
+MW	Chloroflexus aurantiacus	185000	*	*SDS-PAGE
+MW	Metallosphaera sedula	340000	*	*gel filtration
+MW	Chloroflexus aurantiacus	500000	*	*gel filtration
+PATH	*	2-methylcitrate cycle I	*	*
+PATH	*	2-methylcitrate cycle II	*	*
+PATH	*	alanine metabolism	*	*
+PATH	*	beta-alanine biosynthesis II	*	*
+PATH	*	isoleucine metabolism	*	*
+PATH	*	L-isoleucine biosynthesis IV	*	*
+PATH	*	lipid metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Propanoate metabolism	*	*
+SA	Cavia porcellus	-999	*	*
+SA	Metallosphaera sedula	0.012	*	*heterotrophic grown cells
+SA	Salmonella enterica	0.06	*	*native enzyme with glycine as substrate, pH 7.5, 37&deg;C
+SA	Metallosphaera sedula	0.091	*	*autotrophic grown cells
+SA	Salmonella enterica subsp. enterica serovar Typhimurium	0.3	*	*pH 7.5, 37&deg;C, with acetate as substrate
+SA	Bos taurus	0.325	*	*
+SA	Salmonella enterica subsp. enterica serovar Typhimurium	0.63	*	*pH 7.5, 37&deg;C, with propanoate as substrate
+SA	Salmonella enterica	0.65	*	*native enzyme with glyoxalate as substrate, pH 7.5, 37&deg;C
+SA	Chloroflexus aurantiacus	2.5	*	*purified enzyme, pH 7.8, 55&deg;C
+SA	Bos taurus	3.36	*	*
+SA	Sulfurisphaera tokodaii	6.7	*	*purified recombinant enzyme
+SA	Salmonella enterica	18	*	*native enzyme with mercaptoacetoacetate as substrate, pH 7.5, 37&deg;C
+SA	Metallosphaera sedula	18	*	*purified native enzyme
+SA	Salmonella enterica	22	*	*native enzyme with propionate as substrate, pH 7.5, 37&deg;C

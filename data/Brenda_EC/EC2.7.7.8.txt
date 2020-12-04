@@ -1,0 +1,86 @@
+KCAT	Thermus thermophilus	3.33	adenylic acid	*synthesis of a copolymer of adenylic acid
+KCAT	Thermus thermophilus	75	Polyadenylic acid	*
+KCAT	Thermus thermophilus	3.33	guanylic acid	*synthesis of a copolymer of guanylic acid
+KCAT	Thermus thermophilus	3.33	cytidylic acid	*synthesis of a copolymer of cytidylic acid
+KCAT	Thermus thermophilus	3.33	uridylic acid	*synthesis of a copolymer of uridylic acid
+KM	Escherichia coli	0.05	Mg2+	*
+KM	Brevibacterium sp.	0.42	ADP	*pH 8.4
+KM	Rhodospirillum rubrum	1	ADP	*pH 8.0, 20&Acirc;&deg;C, ADP-phosphate exchange reaction
+KM	Kitasatospora aureofaciens	1	ADP	*approx. value, also for CDP and UDP polymerization; pH 9.5, 37&Acirc;&deg;C, approx. value
+KM	Brevibacterium sp.	25	ADP	*
+KM	Rhodospirillum rubrum	0.25	phosphate	*pH 8.0, 20&Acirc;&deg;C, ADP-phosphate-exchange reaction
+KM	Cucumis sativus	0.4	UDP	*pH 8.0, 30&Acirc;&deg;C
+KM	Kitasatospora aureofaciens	1	UDP	*pH 9.5, 37&Acirc;&deg;C, approx. value
+KM	Kitasatospora aureofaciens	1	CDP	*pH 9.5, 37&Acirc;&deg;C, approx. value
+KM	Sinorhizobium meliloti	0.32	Poly(A)	*pH 8.0, 37&Acirc;&deg;C
+KM	Micrococcus luteus	0.05	heptauridylate	*phosphorolysis reaction
+KM	Micrococcus luteus	0.25	tetrauridylate	*phosphorolysis reaction
+KM	Micrococcus luteus	2.5	triadenylate	*phosphorolysis reaction
+KM	Staphylococcus aureus	0.022	RNA(n)	*pH 8.4, 37&Acirc;&deg;C
+KM	Escherichia coli	-999	more	*values for Km with polynucleotides longer than 20 nucleotides are much smaller than the Km for oligonucleotides which lies at approx. 0.05 mM
+KM	Homo sapiens	-999	more	*enzyme binding with RNA displays an apparent sigmoid curve, with a Kd of 16 nM
+KM	Escherichia coli	0.000166	globin mRNA	*pH 8.0, 37&Acirc;&deg;C, phosphorolysis of poly(A)tail from rabbit globin mRNA
+KM	Micrococcus luteus	0.033	nonaadenylate	*phosphorolysis reaction
+KM	Staphylococcus aureus	0.042	2',3'-cyclic RNAn	*pH 8.4, 37&Acirc;&deg;C
+KM	Staphylococcus aureus	0.156	3'-phosphorylated RNA(n)	*pH 8.4, 37&Acirc;&deg;C
+MW	Escherichia coli	-999	*	*PNPase, the endoribonuclease RNase E, a DEAD-RNA helicase and the glycolytic enzyme enolase are associated with a high molecular weight complex, the degradosome
+MW	Thermus thermophilus	35000	*	*1 * 92000 + 1 * 73000 + 1 * 35000, SDS-PAGE
+MW	Escherichia coli	48000	*	*alpha3,beta2 or alpha3,betan, x * 86000 + x * 48000, enzyme form B is obtained by keeping the ionic strength at 200 mM during purification on Sephadex G-200, at lower salt concentrations the beta subunit tends to dissociate and the enzyme reverts to the A form
+MW	Cucumis sativus	50000	*	*3 * 50000, denaturing PAGE
+MW	Geobacillus stearothermophilus	51000	*	*4 * 51000
+MW	Synechococcus sp.	70000	*	*alpha4, 4 * 70000, SDS-PAGE
+MW	Micrococcus luteus	71000	*	*x * 71000, enzyme form T, enzyme form I shows several bands of different molecular sizes, SDS-PAGE
+MW	Salinivibrio costicola	72000	*	*3 * 72000, SDS-PAGE in presence of 2-mercaptoethanol
+MW	Thermus thermophilus	73000	*	*1 * 92000 + 1 * 73000 + 1 * 35000, SDS-PAGE
+MW	Bacillus subtilis	75000	*	*gel filtration
+MW	Rhodospirillum rubrum	76000	*	*2 * 76000, SDS-PAGE
+MW	Rhodospirillum rubrum	76000	*	*2 * 76000, SDS-PAGE
+MW	Homo sapiens	80900	*	*3 * 80900, about, sequence calculation, the trimeric hPNPase has a hexameric ring-like structure formed by six RNase PH domains, capped with a trimeric KH pore, the enzyme has a conserved GXXG motif in the KH domain, structural model of hPNPase, overview
+MW	Streptomyces antibioticus	81132	*	*x * 81132, electrospray mass spectrometry
+MW	Streptomyces antibioticus	81133	*	*x * 81133, deduced from nucleotide sequence
+MW	Escherichia coli	86000	*	*alpha3,beta2 or alpha3,betan, x * 86000 + x * 48000, enzyme form B is obtained by keeping the ionic strength at 200 mM during purification on Sephadex G-200, at lower salt concentrations the beta subunit tends to dissociate and the enzyme reverts to the A form
+MW	Escherichia coli	86000	*	*3 * 86000, SDS-PAGE
+MW	Homo sapiens	90000	*	*3 * 90000, SDS-PAGe and homology modeling
+MW	Nostoc sp.	91000	*	*alpha3, 3 * 91000, SDS-PAGE
+MW	Thermus thermophilus	92000	*	*1 * 92000 + 1 * 73000 + 1 * 35000, SDS-PAGE
+MW	Micrococcus luteus	92000	*	*3 * 92000, SDS-PAGE, prior to purification the enzyme exists in oligomeric forms
+MW	Escherichia coli	100000	*	*low molecular weight form catalyzing phosphorolysis but unable to catalyze the polymerization of NDP's, can only phosphorolyze short-chain polymers and requires higher Mg2+ ion concentration
+MW	Kitasatospora aureofaciens	100000	*	*2 * 100000, SDS-PAGE in the presence of 2-mercaptoethanol
+MW	Cucumis sativus	150000	*	*glycerol density gradient centrifugation
+MW	Nicotiana tabacum	150000	*	*sedimentation analysis
+MW	Rhodospirillum rubrum	160000	*	*gel filtration
+MW	Rhodospirillum rubrum	160000	*	*gel filtration
+MW	Thermus thermophilus	190000	*	*native PAGE, gel filtration
+MW	Azotobacter vinelandii	200000	*	*
+MW	Escherichia coli	200000	*	*this form requires Mn2+ for NDP polymerization and has a higher Km for poly(A) phosphorolysis
+MW	Homo sapiens	207600	*	*equilibrium sedimentation analytical ultracentrifugation
+MW	Kitasatospora aureofaciens	210000	*	*low speed sedimentation equilibrium
+MW	Nostoc sp.	215000	*	*gel filtration
+MW	Salinivibrio costicola	220000	*	*native PAGE
+MW	Escherichia coli	230000	*	*ultracentrifugation, equilibrium sedimentaion analysis
+MW	Micrococcus luteus	230000	*	*enzyme form T, sedimentation equilibrium ultracentrifugation
+MW	Homo sapiens	230000	*	*gel filtration
+MW	Micrococcus luteus	237000	*	*sedimentation equilibrium
+MW	Micrococcus luteus	237000	*	*sedimentation equilibrium
+MW	Nostoc sp.	240000	*	*sedimentation equilibrium
+MW	Homo sapiens	240000	*	*recombinant enzyme, gel filtration
+MW	Escherichia coli	252000	*	*enzyme form A
+MW	Micrococcus luteus	270000	*	*enzyme form I, sedimentation equilibrium ultracentrifugation
+MW	Thermus aquaticus	275000	*	*native PAGE
+MW	Synechococcus sp.	275000	*	*native PAGE
+MW	Escherichia coli	365000	*	*enzyme form B
+MW	Spinacia oleracea	580000	*	*native and recombinant PNPase form a homo-multimer complex, gel filtration
+SA	Rhodospirillum rubrum	-999	*	*0.0006 mmol/absorbance at 280 nm/min, ADP-P exchange activity
+SA	Escherichia coli	-999	*	*recombinant enzyme activity is measured as repression of beta-galactosidase activity in the reporter expression sytem, RNA binding affinity and in vitro RNA-binding activities of wild-type and mutant enzymes, overview
+SA	Nicotiana tabacum	0.0002	*	*incorporation of UDP into polynucleotide
+SA	Bradyrhizobium japonicum	0.02	*	*ADP polymerization in crude extract
+SA	Synechococcus sp.	0.2	*	*
+SA	Thermus thermophilus	1.1	*	*
+SA	Nostoc sp.	2	*	*at pH 10.5
+SA	Sinorhizobium meliloti	3.8	*	*ADP polymerization
+SA	Geobacillus stearothermophilus	22.5	*	*
+SA	Escherichia coli	27.67	*	*
+SA	Cucumis sativus	34.08	*	*incorporation of GDP
+SA	Kitasatospora aureofaciens	35.8	*	*
+SA	Azotobacter vinelandii	39.6	*	*
+SA	Salinivibrio costicola	99.01	*	*

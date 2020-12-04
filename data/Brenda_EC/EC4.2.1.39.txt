@@ -1,0 +1,68 @@
+KCAT	Saccharolobus solfataricus	760	D-gluconate	*
+KM	Saccharolobus solfataricus	0.45	D-gluconate	*
+KM	Picrophilus torridus	2	D-galactonate	*
+KM	Picrophilus torridus	2.5	gluconate	*
+KM	Haloferax volcanii	3	D-gluconate	*pH 7.5, 42&deg;C
+KM	Thermoplasma acidophilum	5.4	D-gluconate	*
+KM	Clostridium pasteurianum	5.5	D-gluconate	*
+KM	Penicillium citrinum	12.5	D-gluconate	*
+KM	Alcaligenes sp.	20.8	D-gluconate	*
+MW	Saccharolobus solfataricus	44000	*	*8 * 44000, SDS-PAGE
+MW	Picrophilus torridus	44000	*	*8 * 44000, SDS-PAGE
+MW	Thermoproteus tenax	44000	*	*x * 44000, SDS-PAGE
+MW	Thermoproteus tenax	44040	*	*x * 44040, calculated from sequence
+MW	Saccharolobus solfataricus	44730	*	*rGNAD, His-tagged, calculated
+MW	Saccharolobus solfataricus	45000	*	*rGNAD, His-tagged, determined by SDS-PAGE
+MW	Saccharolobus solfataricus	56000	*	*rGNAD, Trx-fusion, determined by SDS-PAGE
+MW	Achromobacter xylosoxidans	62000	*	*determined by SDS-PAGE
+MW	Achromobacter xylosoxidans	63410	*	*calculated
+MW	Clostridium pasteurianum	64000	*	*2 * 64000, SDS-PAGE
+MW	Clostridium pasteurianum	64000	*	*2 * 64000, SDS-PAGE
+MW	Saccharolobus solfataricus	71000	*	*rGNAD, GST-fusion, determined by SDS-PAGE
+MW	Clostridium pasteurianum	118000	*	*sucrose density gradient centrifugation
+MW	Clostridium pasteurianum	131000	*	*sedimentation equilibrium, gel filtration
+MW	Clostridium pasteurianum	131000	*	*sedimentation equilibrium, gel filtration
+MW	Alcaligenes sp.	270000	*	*thin-layer chromatography
+MW	Achromobacter xylosoxidans	270000	*	*native enzyme, tetramer
+MW	Picrophilus torridus	340000	*	*gel filtration
+MW	Haloferax volcanii	340000	*	*gel filtration
+MW	Saccharolobus solfataricus	350000	*	*gel filtration
+PATH	*	Entner Doudoroff pathway	*	*
+PATH	*	Entner-Doudoroff pathway II (non-phosphorylative)	*	*
+PATH	*	Entner-Doudoroff pathway III (semi-phosphorylative)	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Pentose phosphate pathway	*	*
+SA	Penicillium citrinum	-999	*	*buffer-dependent
+SA	Clostridium beijerinckii	0.001	*	*cell-free extracts, gluconate-grown
+SA	Achromobacter xylosoxidans	0.002	*	*nitrogen source urea
+SA	Clostridium tetanomorphum	0.01	*	*cell-free extracts, gluconate-grown
+SA	Achromobacter xylosoxidans	0.011	*	*carbon source DL-glutamate
+SA	Achromobacter xylosoxidans	0.013	*	*carbon source DL-alanine
+SA	Achromobacter xylosoxidans	0.019	*	*nitrogen source bacto peptone
+SA	halophilic archaeon	0.023	*	*cell-free extracts, glucose-grown
+SA	Achromobacter xylosoxidans	0.025	*	*carbon source D-glucose
+SA	Achromobacter xylosoxidans	0.027	*	*carbon source D-galactose; nitrogen source yeast extract
+SA	Achromobacter xylosoxidans	0.031	*	*nitrogen source glucosamine; nitrogen source (NH4)SO4
+SA	Achromobacter xylosoxidans	0.036	*	*nitrogen source H4NO3
+SA	Achromobacter xylosoxidans	0.038	*	*carbon source D-galactonate
+SA	Achromobacter xylosoxidans	0.04	*	*nitrogen source casamino acid
+SA	Clostridium butyricum	0.041	*	*cell-free extracts, gluconate-grown
+SA	Achromobacter xylosoxidans	0.042	*	*carbon source maltose
+SA	Achromobacter xylosoxidans	0.046	*	*carbon source D-arabinose
+SA	Achromobacter xylosoxidans	0.05	*	*nitrogen source NH4Cl
+SA	Achromobacter xylosoxidans	0.057	*	*carbon source sucrose
+SA	Clostridium roseum	0.08	*	*cell-free extracts, gluconate-grown
+SA	Clostridium pasteurianum	0.083	*	*cell-free extracts, gluconate-grown
+SA	Achromobacter xylosoxidans	0.111	*	*nitrogen source malt extract
+SA	Achromobacter xylosoxidans	0.13	*	*carbon source D-gluconate
+SA	Clostridium aceticum	0.5	*	*cell-free extract, fructose grown
+SA	Clostridium aceticum	10	*	*cell-free extract, gluconate grown
+SA	Alcaligenes sp.	10.2	*	*
+SA	Saccharolobus solfataricus	26.04	*	*
+SA	Haloferax volcanii	30	*	*pH 7.5, 42&deg;C
+SA	Clostridium pasteurianum	132	*	*
+SA	Clostridium pasteurianum	132	*	*
+SA	Penicillium chrysogenum	483	*	*cell-free sucrose-grown
+SA	Penicillium chrysogenum	1420	*	*cell-free extracts, gluconate-grown
+SA	Thermoplasma acidophilum	2000	*	*cell-free extracts

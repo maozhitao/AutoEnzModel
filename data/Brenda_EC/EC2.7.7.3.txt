@@ -1,0 +1,59 @@
+KCAT	Mycobacterium tuberculosis	4.547	ATP	*at 25&Acirc;&deg;C in 75 mM HEPES (pH 7.0)
+KCAT	Escherichia coli	0.000917	3'-dephospho-CoA	*25&Acirc;&deg;C, pH 8
+KCAT	Mycobacterium tuberculosis	4.808	3'-dephospho-CoA	*at 25&Acirc;&deg;C in 50 mM Tris (pH 8.0)
+KCAT	Mycobacterium tuberculosis	4.853	pantetheine 4'-phosphate	*at 25&Acirc;&deg;C in 75 mM HEPES (pH 7.0)
+KM	Mycobacterium tuberculosis	0.1157	ATP	*apparent value, at 25&Acirc;&deg;C in 75 mM HEPES (pH 7.0)
+KM	Pseudomonas aeruginosa	0.191	ATP	*pH 7.0, 25&Acirc;&deg;C, recombinant enzyme
+KM	Escherichia coli	0.22	ATP	*
+KM	Rattus norvegicus	0.3	ATP	*30&Acirc;&deg;C, pH 8.5, cytosol
+KM	Corynebacterium ammoniagenes	0.53	ATP	*pH 8
+KM	Rattus norvegicus	1	ATP	*37&Acirc;&deg;C, pH 8
+KM	Escherichia coli	0.022	diphosphate	*
+KM	Escherichia coli	0.022	diphosphate	*25&Acirc;&deg;C, pH 8
+KM	Escherichia coli	0.23	diphosphate	*; reverse reaction
+KM	Sus scrofa	0.272	diphosphate	*25&Acirc;&deg;C, pH 8
+KM	Mycobacterium tuberculosis	0.0067	3'-dephospho-CoA	*apparent value, at 25&Acirc;&deg;C in 50 mM Tris (pH 8.0)
+KM	Escherichia coli	0.007	3'-dephospho-CoA	*
+KM	Escherichia coli	0.007	3'-dephospho-CoA	*25&Acirc;&deg;C, pH 8
+KM	Sus scrofa	0.0147	3'-dephospho-CoA	*25&Acirc;&deg;C, pH 8
+KM	Escherichia coli	0.017	dephospho-CoA	*; reverse reaction
+KM	Rattus norvegicus	0.015	pantetheine 4'-phosphate	*30&Acirc;&deg;C, pH 8.5
+KM	Mycobacterium tuberculosis	0.0377	pantetheine 4'-phosphate	*apparent value, at 25&Acirc;&deg;C in 75 mM HEPES (pH 7.0)
+KM	Rattus norvegicus	0.14	pantetheine 4'-phosphate	*37&Acirc;&deg;C, pH 8
+KM	Corynebacterium ammoniagenes	0.19	pantetheine 4'-phosphate	*pH 8
+KM	Escherichia coli	0.0047	phosphopantetheine	*; forward reaction
+KM	Escherichia coli	0.22	Mg-ATP	*forward reaction
+KM	Pseudomonas aeruginosa	-999	more	*the enzyme is allosteric in nature
+MW	Thermus thermophilus	17700	*	*6 * 17700, crystal structure analysis, analytical ultracentrifugation data of the native enzyme suggests an equilibrium of two trimers and one hexamer in solution
+MW	Escherichia coli	17800	*	*alpha6, 6 * 17800, SDS-PAGE
+MW	Escherichia coli	17800	*	*6 * 17800
+MW	Helicobacter pylori	19701	*	*6 * 19701, MALDI-TOF mass spectrometry
+MW	Pyrococcus abyssi	19990	*	*MALDI-TOF mass spectrometry of His-tag fusion protein
+MW	Pyrococcus abyssi	19992	*	*1 * 20000, SDS-PAGE of His-tag fusion protein, circular dichroism, and 2D NMR experiments, 1 * 19992, MALDI-TOF mass spectrometry
+MW	Pyrococcus abyssi	20000	*	*gel filtration
+MW	Pyrococcus abyssi	20000	*	*SDS-PAGE of His-tag fusion protein
+MW	Helicobacter pylori	20000	*	*6 * 20000, SDS-PAGE
+MW	Corynebacterium ammoniagenes	35400	*	*alpha3, 3 * 35400, SDS-PAGE
+MW	Sus scrofa	57000	*	*alpha2, 2 * 57000, SDS-PAGE
+MW	Sus scrofa	61000	*	*alpha2, 2 * 61000, SDS-PAGE, subunit structure
+MW	Sus scrofa	62000	*	*gel filtration
+MW	Thermus thermophilus	67000	*	*analytical ultracentrifugation
+MW	Escherichia coli	71000	*	*gel filtration
+MW	Corynebacterium ammoniagenes	108000	*	*gel filtration
+MW	Escherichia coli	108000	*	*ultracentrifugation
+MW	Sus scrofa	115000	*	*gel filtration
+MW	Sus scrofa	118000	*	*gel filtration
+MW	Enterococcus faecalis	120000	*	*dynamic light-scattering analysis
+MW	Helicobacter pylori	128600	*	*analytical ultracentrifugation
+PATH	*	coenzyme A biosynthesis I (prokaryotic)	*	*
+PATH	*	coenzyme A biosynthesis II (eukaryotic)	*	*
+PATH	*	coenzyme A metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pantothenate and CoA biosynthesis	*	*
+SA	Pyrococcus abyssi	0.07	*	*reverse reaction using the purified His-tag fusion protein
+SA	Sus scrofa	7.61	*	*
+SA	Corynebacterium ammoniagenes	8.5	*	*
+SA	Escherichia coli	9.1	*	*recombinant enzyme
+SA	Escherichia coli	22.3	*	*wild-type enzyme
+SA	Rattus norvegicus	168	*	*CoA
+SA	Rattus norvegicus	300	*	*diphosphate

@@ -1,0 +1,92 @@
+KCAT	Pholiota nameko	0.0005	ribose 5-phosphate	*
+KCAT	Pholiota nameko	0.000667	phosphoenolpyruvate	*
+KCAT	Pholiota nameko	0.00167	fructose 6-phosphate	*
+KCAT	Pholiota nameko	0.00217	fructose 1-phosphate	*
+KCAT	Pholiota nameko	0.0035	ADP	*
+KCAT	Pholiota nameko	0.0348	Galactose 1-phosphate	*
+KCAT	Pholiota nameko	0.0393	glucose 1-phosphate	*
+KCAT	Escherichia coli	3	p-nitrophenyl phosphate	*pH 3.5
+KCAT	Pantoea agglomerans	8	myo-inositol hexakisphosphate	*entrapped enzyme, pH 4.5, dropped as a consequence of entrapment
+KCAT	Escherichia coli	12	myo-inositol hexakisphosphate	*pH 4.5
+KCAT	Pantoea agglomerans	20.5	myo-inositol hexakisphosphate	*free enzyme, pH 4.5
+KCAT	Enterobacter cloacae	24	myo-inositol hexakisphosphate	*37&deg;C, pH 5.0
+KCAT	Enterobacter cloacae	30	p-nitrophenyl phosphate	*37&deg;C, pH 5.0
+KCAT	Escherichia coli	42	D-ribose 5-phosphate	*
+KCAT	Escherichia coli	82	D-glucose 6-phosphate	*
+KCAT	Escherichia coli	95	D-Fructose 1-phosphate	*
+KCAT	Enterobacter cloacae	105	D-fructose 6-phosphate	*37&deg;C, pH 5.0
+KCAT	Enterobacter cloacae	109	D-glucose 6-phosphate	*37&deg;C, pH 5.0
+KCAT	Enterobacter cloacae	111	D-Fructose 1-phosphate	*37&deg;C, pH 5.0
+KCAT	Escherichia coli	117	D-glucose 1-phosphate	*pH 6.5
+KCAT	Enterobacter cloacae	145	D-glucose 1-phosphate	*37&deg;C, pH 5.0
+KM	Pholiota nameko	12.3	phosphoenolpyruvate	*
+KM	Enterobacter cloacae	0.66	D-fructose 6-phosphate	*37&Acirc;&deg;C, pH 5.0
+KM	Pholiota nameko	14.3	D-fructose 6-phosphate	*
+KM	Escherichia coli	25	D-fructose 6-phosphate	*
+KM	Enterobacter cloacae	0.47	D-glucose 6-phosphate	*37&Acirc;&deg;C, pH 5.0
+KM	Citrobacter braakii	0.5	D-glucose 6-phosphate	*Vmax: 0.8 micromol/min/mg
+KM	Escherichia coli	1.6	D-glucose 6-phosphate	*
+KM	Citrobacter braakii	1.9	D-glucose 6-phosphate	*Vmax: 2.2 micromol/min/mg
+KM	Escherichia coli	15	D-glucose 6-phosphate	*
+KM	Pantoea sp. 3.5.1	0.24	alpha-D-glucose 1-phosphate	*recombinant His-tagged enzyme, pH and temperature not specified in the publication
+KM	Pholiota nameko	2.2	4-nitrophenyl phosphate	*
+KM	Escherichia coli	30	4-nitrophenyl phosphate	*
+KM	Pholiota nameko	7.9	D-ribose 5-phosphate	*
+KM	Escherichia coli	11	D-ribose 5-phosphate	*
+KM	Escherichia coli	30	D-ribose 5-phosphate	*
+KM	Escherichia coli	13	p-nitrophenyl phosphate	*pH 3.5
+KM	Enterobacter cloacae	13	p-nitrophenyl phosphate	*37&Acirc;&deg;C, pH 5.0
+KM	Pantoea agglomerans	0.35	myo-inositol hexakisphosphate	*free enzyme, pH 4.5, 37&Acirc;&deg;C
+KM	Enterobacter cloacae	0.51	myo-inositol hexakisphosphate	*37&Acirc;&deg;C, pH 5.0
+KM	Escherichia coli	0.54	myo-inositol hexakisphosphate	*pH 4.5
+KM	Pantoea agglomerans	0.84	myo-inositol hexakisphosphate	*entrapped enzyme, pH 4.5, 37&Acirc;&deg;C
+KM	Enterobacter cloacae	0.62	D-Fructose 1-phosphate	*37&Acirc;&deg;C, pH 5.0
+KM	Escherichia coli	2.2	D-Fructose 1-phosphate	*
+KM	Pholiota nameko	12.2	D-Fructose 1-phosphate	*
+KM	Escherichia coli	50	D-Fructose 1-phosphate	*
+KM	Enterobacter cloacae	0.31	D-glucose 1-phosphate	*37&Acirc;&deg;C, pH 5.0
+KM	Escherichia coli	0.39	D-glucose 1-phosphate	*pH 6.5
+KM	Escherichia coli	0.5	D-glucose 1-phosphate	*
+KM	Pholiota nameko	4.8	D-glucose 1-phosphate	*
+KM	Citrobacter braakii	5.12	D-glucose 1-phosphate	*Vmax: 1.9 micromol/min/mg
+KM	Citrobacter braakii	9	D-mannose 6-phosphate	*Vmax: 2.6 micromol/min/mg
+KM	Pholiota nameko	85.4	D-galactose 1-phosphate	*
+KM	Escherichia coli	100	Glycerol 2-phosphate	*
+KM	Pholiota nameko	13.4	Adenosine diphosphate	*
+KM	Pholiota nameko	56.7	Adenosine triphosphate	*
+MW	Bombyx mori	35000	*	*enzyme form GP1 present in hemolymph
+MW	Pholiota nameko	35000	*	*SDS-PAGE
+MW	Citrobacter braakii	43710	*	*calculated from cDNA
+MW	Escherichia coli	44000	*	*SDS-Page of osmotic shock fluid of strain SBS1405(pEP1376)
+MW	Enterobacter cloacae	44000	*	*2 * 44000, SDS-PAGE
+MW	Bombyx mori	45000	*	*enzyme form GP2 present in the fat body; gel filtration Sephadex G-75, G100, ion-exchange chromatography on ADP-Sepharose, preparative isoelectrofocusing with Ampholines, preparative electrophoresis in blocks of polyacrylamide gel
+MW	Escherichia coli	45680	*	*calculalted from amino acid sequence
+MW	Citrobacter braakii	46000	*	*SDS-PAGE
+MW	Enterobacter cloacae	47000	*	*x * 47000, recombinant His-tagged enzyme, SDS-PAGE
+MW	Bombyx mori	52000	*	*enzyme form GP4 present in hemolymph
+MW	Bombyx mori	54000	*	*enzyme form GP3' present in the fat body
+MW	Bombyx mori	55000	*	*enzyme form GP3 present in the fat body; multiple forms of certain enzyms were isolated using a combination of the methods above
+MW	Enterobacter cloacae	82500	*	*gel filtration
+MW	Bombyx mori	102000	*	*enzyme form GP5 present in hemolymph
+MW	Enterobacter cloacae	125000	*	*PAGE
+PATH	*	glucose and glucose-1-phosphate degradation	*	*
+PATH	*	Glycolysis / Gluconeogenesis	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Pantoea agglomerans	-999	*	*specific activities of recombinant enzymes similar to those of wild-type towards myo-inositol hexakisphosphate (i.e. phytate) and glucose 1-phosphate as substrates, entrapment in alginate beads, free enzyme looses less than 5% phosphatase activity within 2 h in 20 mM Tris-HCl buffer, pH 8.0, transfer limitation is responsible for the reduced reaction rate of the entrapped enzyme, complete conversion of myo-inositol hexakisphosphate into one single myo-inositol pentakisphosphate isomer, identified as D-myo-inositol(1,2,4,5,6)pentakisphosphate, shown to be feasible by using the enzyme-loaded alginate beads in batch operations
+SA	Pantoea sp. 3.5.1	5.92	*	*purified recombinant His-tagged enzyme, pH and temperature not specified in the publication, substrate alpha-D-glucose 1-phosphate
+SA	Pholiota nameko	30	*	*with nitrophenyl phosphate as substrate, purification procedure described; with ribose 5-phosphate as substrate, purification procedure described
+SA	Enterobacter cloacae	32	*	*substrate myo-inositol hexakisphosphate, 37&deg;C, pH 5.0
+SA	Pholiota nameko	40	*	*purification procedure described; with phosphoenolpyruvate as substrate
+SA	Enterobacter cloacae	40	*	*substrate D-fructose 6-phosphate, 37&deg;C, pH 5.0
+SA	Pisum sativum	100	*	*purification procedure described; with D-glucose 1-phosphate as substrate
+SA	Pholiota nameko	100	*	*with D-fructose 6-phosphate as substrate, purification procedure described
+SA	Pholiota nameko	130	*	*purification procedure described; with D-fructose 1-phosphate as substrate
+SA	Enterobacter cloacae	142	*	*substrate D-fructose 1-phosphate, 37&deg;C, pH 5.0
+SA	Enterobacter cloacae	146	*	*substrate D-glucose 1-phosphate, 37&deg;C, pH 5.0
+SA	Enterobacter cloacae	159	*	*substrate D-glucose 6-phosphate, 37&deg;C, pH 5.0
+SA	Enterobacter cloacae	196	*	*substrate D-glucose 1-phosphate, 37&deg;C, pH 5.0
+SA	Pholiota nameko	210	*	*purification procedure described; with adenosine diphosphate as substrate
+SA	Pholiota nameko	410	*	*purification procedure described; with adenosine triphosphate as substrate
+SA	Pisum sativum	637	*	*purification procedure described; with D-glucose 6-phosphate as substrate
+SA	Pholiota nameko	2090	*	*purification procedure described; with D-galactose 1-phosphate as substrate
+SA	Pholiota nameko	2360	*	*purification procedure described; with D-glucose 1-phosphate as substrate

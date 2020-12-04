@@ -1,0 +1,49 @@
+KCAT	Agrobacterium fabrum	1.5	nicotinamide mononucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant Y58F
+KCAT	Escherichia coli	3.3	nicotinamide mononucleotide	*in 100 mM potassium phosphate, pH 8.0, 10 mM sodium fluoride, 10 mM EDTA, at 37&Acirc;&deg;C
+KCAT	Shewanella oneidensis	3.3	nicotinamide mononucleotide	*in 100 mM potassium phosphate, pH 8.0, 10 mM sodium fluoride, 10 mM EDTA, at 37&Acirc;&deg;C
+KCAT	Agrobacterium fabrum	3.5	nicotinamide mononucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant T105A
+KCAT	Agrobacterium fabrum	7.3	nicotinamide mononucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant C32A
+KCAT	Agrobacterium fabrum	8.7	nicotinamide mononucleotide	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant S48A; pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Oceanobacillus iheyensis	0.38	beta-nicotinamide D-ribonucleotide	*recombinant enzyme, pH 7.4, 37&Acirc;&deg;C
+KCAT	Escherichia coli	1.1	beta-nicotinamide D-ribonucleotide	*recombinant mutant S103A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	3.2	beta-nicotinamide D-ribonucleotide	*recombinant mutant T31A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	3.9	beta-nicotinamide D-ribonucleotide	*recombinant mutant E28A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	4.1	beta-nicotinamide D-ribonucleotide	*recombinant wild-type enzyme, pH 7.5, 37&Acirc;&deg;C
+KM	Salmonella enterica subsp. enterica serovar Typhimurium	-999	more	*beta-nicotinamide D-ribonucleotide, sigmoidal shape of substrate concentration shows a form of allosteric control
+KM	Escherichia coli	-999	more	*Michaelis-Menten kinetics
+KM	Oceanobacillus iheyensis	-999	more	*Michaelis-Menten kinetics
+KM	Agrobacterium fabrum	-999	more	*Michaelis-Menten kinetic at pH 7.5 and 37&deg;C
+KM	Escherichia coli	0.006	nicotinamide mononucleotide	*in 100 mM potassium phosphate, pH 8.0, 10 mM sodium fluoride, 10 mM EDTA, at 37&deg;C
+KM	Shewanella oneidensis	0.006	nicotinamide mononucleotide	*in 100 mM potassium phosphate, pH 8.0, 10 mM sodium fluoride, 10 mM EDTA, at 37&deg;C
+KM	Escherichia coli	0.007	beta-nicotinamide D-ribonucleotide	*recombinant wild-type enzyme, pH 7.5, 37&deg;C
+KM	Escherichia coli	0.012	beta-nicotinamide D-ribonucleotide	*recombinant mutant S103A, pH 7.5, 37&deg;C
+KM	Escherichia coli	0.014	beta-nicotinamide D-ribonucleotide	*
+KM	Agrobacterium fabrum	0.024	nicotinamide mononucleotide	*pH 7.5, 37&deg;C, recombinant wild-type enzyme
+KM	Escherichia coli	0.027	beta-nicotinamide D-ribonucleotide	*recombinant mutant T31A, pH 7.5, 37&deg;C
+KM	Agrobacterium fabrum	0.028	nicotinamide mononucleotide	*pH 7.5, 37&deg;C, recombinant mutant C32A
+KM	Agrobacterium fabrum	0.051	nicotinamide mononucleotide	*pH 7.5, 37&deg;C, recombinant mutant S48A
+KM	Propionibacterium freudenreichii subsp. shermanii	0.07	beta-nicotinamide D-ribonucleotide	*
+KM	Agrobacterium fabrum	0.158	nicotinamide mononucleotide	*pH 7.5, 37&deg;C, recombinant mutant T105A
+KM	Oceanobacillus iheyensis	0.18	beta-nicotinamide D-ribonucleotide	*recombinant enzyme, pH 7.4, 37&deg;C
+KM	Escherichia coli	0.272	beta-nicotinamide D-ribonucleotide	*recombinant mutant E28A, pH 7.5, 37&deg;C
+KM	Azotobacter vinelandii	1.05	beta-nicotinamide D-ribonucleotide	*
+KM	Agrobacterium fabrum	1.93	nicotinamide mononucleotide	*pH 7.5, 37&deg;C, recombinant mutant Y58F
+KM	Aspergillus niger	3.6	beta-nicotinamide D-ribonucleoside	*
+MW	Azotobacter vinelandii	25700	*	*gel filtration
+MW	Aspergillus usamii	33000	*	*gel filtration
+MW	Agrobacterium fabrum	41000	*	*recombinant enzyme, gel filtration
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	43000	*	*
+MW	Escherichia coli	43000	*	*gel filtration
+MW	Shewanella oneidensis	47000	*	*2 * 47000, SDS-PAGE
+MW	Oceanobacillus iheyensis	47320	*	*2 * 47320, recombinant His6-tagged enzyme, mass spectrometry
+MW	Shewanella oneidensis	80000	*	*gel filtration
+MW	Oceanobacillus iheyensis	96100	*	*recombinant His6-tagged enzyme, gel filtration
+PATH	*	NAD metabolism	*	*
+PATH	*	NAD salvage pathway II (PNC IV cycle)	*	*
+PATH	*	Nicotinate and nicotinamide metabolism	*	*
+SA	Shewanella oneidensis	0.003	*	*crude extract, at pH 8.0 and 37&Acirc;&deg;C
+SA	Vibrio cholerae serotype O1	0.07	*	*cell-free extract
+SA	Azotobacter vinelandii	0.22	*	*
+SA	Aspergillus niger	0.38	*	*
+SA	Shewanella oneidensis	1.8	*	*after 600fold purification, at pH 8.0 and 37&Acirc;&deg;C
+SA	Escherichia coli	2900	*	*

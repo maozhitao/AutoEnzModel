@@ -1,0 +1,25 @@
+KCAT	Thermotoga maritima	1.2	ditrans,polycis-undecaprenyl phosphate	*pH 8, 65&deg;C
+KCAT	Thermotoga maritima	1.2	UDP-N-acetyl-D-glucosamine	*pH 8, 65&deg;C
+KM	Escherichia coli	0.00007	UDP-N-acetyl-D-glucosamine	*mutant enzyme, in 50 mM of Tris-HCl (pH 8.0), 40 mM of MgCl2, at 37&Acirc;&deg;C
+KM	Escherichia coli	0.00008	UDP-N-acetyl-D-glucosamine	*wild type enzyme, in 50 mM of Tris-HCl (pH 8.0), 40 mM of MgCl2, at 37&Acirc;&deg;C
+KM	Escherichia coli	0.00012	UDP-N-acetyl-D-glucosamine	*pH 8.5, 37&Acirc;&deg;C, in presence of Mg2+
+KM	Escherichia coli	0.00019	UDP-N-acetyl-D-glucosamine	*pH 8.5, 37&Acirc;&deg;C, in presence of Mn2+
+KM	Escherichia coli	0.0056	UDP-N-acetyl-D-glucosamine	*pH 8.0, 37&Acirc;&deg;C
+KM	Thermotoga maritima	0.62	UDP-N-acetyl-D-glucosamine	*pH 8, 65&Acirc;&deg;C
+KM	Thermotoga maritima	0.12	ditrans,polycis-undecaprenyl phosphate	*pH 8, 65&Acirc;&deg;C
+MW	Thermotoga maritima	30000	*	*SDS-PAGE
+MW	Thermotoga maritima	33876	*	*x * 33876, calculated from sequence
+MW	Thermotoga maritima	33880	*	*calculated from sequence
+MW	Escherichia coli	38000	*	*SDS-PAGE
+MW	Escherichia coli	40957	*	*x * 40957, calculated from sequence
+MW	Escherichia coli	40960	*	*calculated from sequence
+PATH	*	beta-D-galactosaminyl-(1rarr3)-N-acetyl-alpha-D-galactosamine biosynthesis	*	*
+PATH	*	enterobacterial common antigen biosynthesis	*	*
+PATH	*	Escherichia coli serotype O86 O-antigen biosynthesis	*	*
+PATH	*	Escherichia coli serotype O9a O-antigen biosynthesis	*	*
+PATH	*	poly(3-O-beta-D-glucopyranosyl-N-acetylgalactosamine 1-phosphate) wall teichoic acid biosynthesis	*	*
+PATH	*	poly(glycerol phosphate) wall teichoic acid biosynthesis	*	*
+PATH	*	poly(ribitol phosphate) wall teichoic acid biosynthesis I (B. subtilis)	*	*
+PATH	*	poly(ribitol phosphate) wall teichoic acid biosynthesis II (S. aureus)	*	*
+PATH	*	teichoic acid biosynthesis	*	*
+SA	Thermotoga maritima	0.2895	*	*pH 8, 65&Acirc;&deg;C

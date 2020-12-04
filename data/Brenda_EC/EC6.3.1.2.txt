@@ -1,0 +1,597 @@
+KCAT	Escherichia coli	3	ATP	*wild-type enzyme
+KCAT	Camellia sinensis	11.6	ATP	*pH 7.8
+KCAT	Escherichia coli	25	ATP	*oxidized mutant enzyme E165C
+KCAT	Escherichia coli	35	ATP	*reduced mutant enzyme E165C
+KCAT	Pyrococcus sp.	52.7	ATP	*60&Acirc;&deg;C, pH 7.8
+KCAT	Trypanosoma cruzi	359	ATP	*recombinant enzyme, Malachite green assay, pH and temperature not specified in the publication
+KCAT	Trypanosoma cruzi	396	ATP	*recombinant enzyme, coupled reactions assay, pH and temperature not specified in the publication
+KCAT	Exiguobacterium sp.	1.05	ADP	*pH 6.0, 35&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Exiguobacterium sp.	4	ADP	*pH 6.0, 35&Acirc;&deg;C, recombinant mutant E60A/R64G
+KCAT	Exiguobacterium sp.	4.67	ADP	*pH 6.0, 35&Acirc;&deg;C, recombinant mutant E60A
+KCAT	Exiguobacterium sp.	9.53	ADP	*pH 6.0, 35&Acirc;&deg;C, recombinant mutant R64G
+KCAT	Trichormus azollae	0.33	L-glutamate	*D51E mutant, pH 7.0, 30&Acirc;&deg;C
+KCAT	Trichormus azollae	2.6	L-glutamate	*D51A mutant, pH 7.0, 30&Acirc;&deg;C
+KCAT	Trichormus azollae	13.1	L-glutamate	*D51S mutant, pH 7.0, 30&Acirc;&deg;C
+KCAT	Camellia sinensis	15.2	L-glutamate	*pH 7.8
+KCAT	Pyrococcus sp.	36.5	L-glutamate	*60&Acirc;&deg;C, pH 7.8
+KCAT	Trichormus azollae	42	L-glutamate	*wild type enzyme, pH 7.0, 30&Acirc;&deg;C
+KCAT	Trypanosoma cruzi	357	L-glutamate	*recombinant enzyme, Malachite green assay, pH and temperature not specified in the publication
+KCAT	Trypanosoma cruzi	392	L-glutamate	*recombinant enzyme, coupled reactions assay, pH and temperature not specified in the publication
+KCAT	Arabidopsis thaliana	2.16	NH4+	*mutant A174S of isoenzyme GLN1,4
+KCAT	Arabidopsis thaliana	2.81	NH4+	*mutant K49Q/A174S of isoenzyme GLN1,4
+KCAT	Arabidopsis thaliana	2.96	NH4+	*isoenzyme GLN1,4
+KCAT	Arabidopsis thaliana	5.33	NH4+	*mutant K49Q of isoenzyme GLN1,4
+KCAT	Arabidopsis thaliana	6.19	NH4+	*mutant A174S of isoenzyme GLN1,3
+KCAT	Arabidopsis thaliana	6.83	NH4+	*mutant K49Q/A174S of isoenzyme GLN1,3
+KCAT	Arabidopsis thaliana	7.1	NH4+	*isoenzyme GLN1,3
+KCAT	Arabidopsis thaliana	7.23	NH4+	*mutant K49Q of isoenzyme GLN1,3
+KCAT	Camellia sinensis	13.5	NH4+	*pH 7.8
+KCAT	Trypanosoma cruzi	480	NH4+	*recombinant enzyme, Malachite green assay, pH and temperature not specified in the publication
+KCAT	Trypanosoma cruzi	535	NH4+	*recombinant enzyme, coupled reactions assay, pH and temperature not specified in the publication
+KCAT	Pyrococcus sp.	12.83	hydroxylamine	*60&Acirc;&deg;C, pH 7.8
+KCAT	Exiguobacterium sp.	1.62	L-glutamine	*pH 6.0, 35&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Exiguobacterium sp.	8.96	L-glutamine	*pH 6.0, 35&Acirc;&deg;C, recombinant mutant E60A/R64G
+KCAT	Exiguobacterium sp.	9.27	L-glutamine	*pH 6.0, 35&Acirc;&deg;C, recombinant mutant E60A
+KCAT	Exiguobacterium sp.	13.4	L-glutamine	*pH 6.0, 35&Acirc;&deg;C, recombinant mutant R64G
+KCAT	Arabidopsis thaliana	2.29	L-Glu	*mutant A174S of isoenzyme GLN1,4
+KCAT	Arabidopsis thaliana	2.97	L-Glu	*mutant K49Q/A174S of isoenzyme GLN1,4
+KCAT	Arabidopsis thaliana	4.18	L-Glu	*isoenzyme GLN1,4
+KCAT	Arabidopsis thaliana	4.96	L-Glu	*mutant K49Q of isoenzyme GLN1,4
+KCAT	Arabidopsis thaliana	6.59	L-Glu	*mutant K49Q of isoenzyme GLN1,3
+KCAT	Arabidopsis thaliana	7.02	L-Glu	*isoenzyme GLN1,3
+KCAT	Arabidopsis thaliana	7.97	L-Glu	*mutant A174S of isoenzyme GLN1,3
+KCAT	Arabidopsis thaliana	8.08	L-Glu	*mutant K49Q/A174S of isoenzyme GLN1,3
+KCAT	Escherichia coli	27	L-Glu	*oxidized mutant enzyme E165C
+KCAT	Escherichia coli	40	L-Glu	*reduced mutant enzyme E165C
+KCAT	Rhodobacter capsulatus	-999	more	*turnover number 4200, biosynthetic activity. 102000, transferase activity
+KM	Pyrococcus sp.	-999	hydroxylamine	*the Km value of GlnA for hydroxylamine is higher when a high concentration was used (5 to 30mM), 60&deg;C, pH 7.8
+KM	Photobacterium phosphoreum	-999	more	*enzyme activity is controlled by adenylylation
+KM	Escherichia coli	-999	more	*the enzyme is modulated by a closed bicyclic covalent interconvertible cascade. It consists of two protein nucleotidylation cycles. One involves the cyclic adenylylation and deadenylylation of glutamine synthetase, the other involves the uridylylation and deuridylylation of Shapiro&acute;s regulatory protein PII
+KM	Bacillus caldolyticus	-999	more	*
+KM	Escherichia coli	-999	more	*enzyme activity is controlled by adenylylation
+KM	Escherichia coli	-999	more	*Km-values of wild-type and mutant enzymes D50A, D50E, E327A
+KM	Streptomyces griseus	-999	more	*ADP-ribosylation of glutamine synthetase could be an alternative modification to adenylylation to regulate glutamine synthetase activity
+KM	Paracoccus denitrificans	-999	more	*Km for Gln and Glu increases after adenylylation
+KM	Escherichia coli	-999	more	*the site of ADP-ribosylation is Arg172
+KM	Zea mays	-999	more	*
+KM	Homo sapiens	-999	more	*
+KM	Pseudomonas taetrolens	-999	more	*
+KM	Exiguobacterium sp.	-999	more	*Michaelis-Menten kinetics
+KM	Medicago truncatula	-999	more	*the enzymatic rate of GS enzymes shows a hyperbolic curve typical of the enzymes that follow the Michaelis-Menten equation regarding the ATP and glutamate and a sigmoidal curve relative to the hydroxylamine concentration
+KM	Lupinus luteus	0.0000597	ADP	*gamma-glutamyl transferase assay
+KM	Exiguobacterium sp.	0.00091	ADP	*pH 6.0, 35&deg;C, recombinant mutant R64G
+KM	Mycobacterium tuberculosis	0.002	ADP	*pH 7.0
+KM	Azospirillum brasilense	0.0025	L-Glu	*in the presence of Mg2+
+KM	Corynebacterium callunae	0.0035	ADP	*
+KM	Trichormus variabilis	0.004	NH4+	*enzyme from strain SA0, pH 6.8
+KM	Exiguobacterium sp.	0.00461	ADP	*pH 6.0, 35&deg;C, recombinant mutant E60A
+KM	Exiguobacterium sp.	0.00673	L-glutamine	*pH 6.0, 35&deg;C, recombinant mutant E60A/R64G
+KM	Exiguobacterium sp.	0.00865	ADP	*pH 6.0, 35&deg;C, recombinant wild-type enzyme
+KM	Exiguobacterium sp.	0.00888	L-glutamine	*pH 6.0, 35&deg;C, recombinant mutant E60A
+KM	Exiguobacterium sp.	0.00982	L-glutamine	*pH 6.0, 35&deg;C, recombinant mutant R64G
+KM	Rhodobacter capsulatus	0.01	ADP	*transferase activity
+KM	Arabidopsis thaliana	0.01	NH4+	*pH 7.8, 30&deg;C, below, isoenzyme GLN1,1
+KM	Exiguobacterium sp.	0.0113	ADP	*pH 6.0, 35&deg;C, recombinant mutant E60A/R64G
+KM	Exiguobacterium sp.	0.012	L-glutamine	*pH 6.0, 35&deg;C, recombinant wild-type enzyme
+KM	Lupinus luteus	0.0125	NH4+	*biosynthetic assay
+KM	Phaseolus vulgaris	0.013	NH4+	*D56E mutant enzyme, pH 7.5, 37&deg;C
+KM	Trichormus variabilis	0.015	NH4+	*enzyme from strain SA0, pH 7.5
+KM	Chlorella sorokiniana	0.02	NH4+	*isoforms GSI and GSII
+KM	Phaseolus vulgaris	0.02	NH4+	*D56A mutant enzyme, pH 7.5, 37&deg;C
+KM	Phaseolus vulgaris	0.025	NH4+	*wild type enzyme, pH 7.5, 37&deg;C
+KM	Oryza sativa Japonica Group	0.027	NH4+	*30&deg;C, isoenzyme OsGLN1,1
+KM	Nicotiana plumbaginifolia	0.028	NH4+	*pH 7.4, 35&deg;C
+KM	Paracoccus denitrificans	0.03	NH4+	*
+KM	Pisum sativum	0.04	NH4+	*
+KM	Azospirillum brasilense	0.042	NH4+	*in the presence of Mg2+
+KM	Trichormus azollae	0.05	ATP	*D51A mutant, pH 7.0, 30&deg;C
+KM	Trichormus azollae	0.05	NH4+	*wild type enzyme, pH 7.0, 30&deg;C
+KM	Prevotella ruminicola	0.06	ATP	*isozyme GSIII-1, pH 6.0, 37&deg;C, gamma-glutamylhydroxamate synthetase activity
+KM	Trichormus azollae	0.07	ATP	*D51S mutant, pH 7.0, 30&deg;C
+KM	Prevotella ruminicola	0.07	ATP	*isozyme GSIII-2, pH 6.0, 37&deg;C, gamma-glutamylhydroxamate synthetase activity
+KM	Oryza sativa Japonica Group	0.073	NH4+	*30&deg;C, isoenzyme OsGLN1,2
+KM	Ruminococcus albus	0.09	ADP	*pH 6.4, 37&deg;C, wild-type enzyme
+KM	Trichormus variabilis	0.1	ATP	*enzyme from strain SA0, pH 6.8
+KM	Arabidopsis thaliana	0.119	NH4+	*mutant A174S of isoenzyme GLN1,4
+KM	Trichormus azollae	0.12	ATP	*D51N mutant, pH 7.0, 30&deg;C
+KM	Arabidopsis thaliana	0.12	NH4+	*isoenzyme GLN1,4
+KM	Trichormus variabilis	0.13	ATP	*enzyme from strain SA0, pH 7.5
+KM	Methylococcus capsulatus	0.15	ADP	*
+KM	Sulfolobus acidocaldarius	0.15	ADP	*80&deg;C
+KM	Paracoccus denitrificans	0.17	ATP	*
+KM	Tuber borchii	0.17	ATP	*37&deg;C, pH 7.5
+KM	Trichormus variabilis	0.17	ATP	*enzyme from strain SA1, pH 6.8
+KM	Bacillus subtilis	0.18	NH3	*wild-type, 25&deg;C, pH not specified in the publication
+KM	Bacillus subtilis	0.18	NH3	*pH 7.0, temperature not specified in the publication, wild-type enzyme
+KM	Ovis aries	0.18	NH4+	*Mg2+-stimulated
+KM	Synechocystis sp.	0.19	NH4+	*enzyme form GSIII
+KM	Escherichia coli	0.2	ATP	*wild-type enzyme
+KM	Azospirillum brasilense	0.2	ATP	*in the presence of Mg2+
+KM	Nitrobacter winogradskyi	0.2	NH4+	*biosynthetic assay
+KM	Bacillus caldolyticus	0.2	NH4+	*NH4+, biosynthetic assay, Mg2+-activated, enzyme form EII
+KM	Nocardia asteroides	0.2	NH4+	*NH4+
+KM	Trichormus variabilis	0.21	ATP	*enzyme from strain SA1, pH 7.5
+KM	Trichormus azollae	0.21	ATP	*wild type enzyme, pH 7.0, 30&deg;C
+KM	Lupinus luteus	0.22	ATP	*biosynthetic assay
+KM	Sulfolobus acidocaldarius	0.24	Mn2+	*80&deg;C
+KM	Escherichia coli	0.25	ATP	*oxidized mutant enzyme E165C
+KM	Escherichia coli	0.26	ATP	*reduced mutant enzyme E165C
+KM	Chlorella sorokiniana	0.3	ATP	*isoform GSI
+KM	Phaseolus vulgaris	0.3	ATP	*wild type enzyme, pH 7.5, 37&deg;C
+KM	Phaseolus vulgaris	0.3	ATP	*wild-type and mutant enzyme, pH 7.5, 37&deg;C
+KM	Arabidopsis thaliana	0.3	ATP	*pH 7.8, 30&deg;C, isoenzyme GLN1,1
+KM	Haloferax mediterranei	0.3	ATP	*at 45&deg;C
+KM	Trichormus azollae	0.32	L-glutamate	*D51A mutant, pH 7.0, 30&deg;C
+KM	Arabidopsis thaliana	0.334	NH4+	*mutant A174S of isoenzyme GLN1,3
+KM	Clostridium pasteurianum	0.34	ATP	*
+KM	Bacillus subtilis	0.34	NH3	*pH 7.0, temperature not specified in the publication, mutant R62A
+KM	Bacillus caldolyticus	0.35	hydroxylamine	*Mn2+-activated, enzyme form EII
+KM	Trichormus azollae	0.37	L-glutamate	*D51S mutant, pH 7.0, 30&deg;C
+KM	Trypanosoma cruzi	0.38	ATP	*recombinant enzyme, coupled reactions assay, pH and temperature not specified in the publication
+KM	Trypanosoma cruzi	0.39	ATP	*recombinant enzyme, Malachite green assay, pH and temperature not specified in the publication
+KM	Bacillus caldolyticus	0.4	hydroxylamine	*Mn2+-activated, enzyme form EI
+KM	Sphagnum fallax	0.4	NH4+	*chloroplast enzyme
+KM	Synechocystis sp.	0.43	ATP	*enzyme form GSIII
+KM	Prevotella ruminicola	0.43	NH3	*isozyme GSIII-2, pH 7.5, 37&deg;C, glutamine synthetase activity
+KM	Trypanosoma cruzi	0.44	L-glutamate	*recombinant enzyme, coupled reactions assay, pH and temperature not specified in the publication
+KM	Oryza sativa Japonica Group	0.45	ATP	*30&deg;C, isoenzyme OsGLN1,1
+KM	Prevotella ruminicola	0.45	ATP	*isozyme GSI, pH 6.0, 37&deg;C, gamma-glutamylhydroxamate synthetase activity
+KM	Arabidopsis thaliana	0.45	NH4+	*mutant K49Q of isoenzyme GLN1,3
+KM	Arabidopsis thaliana	0.453	NH4+	*mutant K49Q of isoenzyme GLN1,4
+KM	Arabidopsis thaliana	0.456	NH4+	*mutant K49Q/A174S of isoenzyme GLN1,3
+KM	Trypanosoma cruzi	0.47	L-glutamate	*recombinant enzyme, Malachite green assay, pH and temperature not specified in the publication
+KM	Prevotella ruminicola	0.48	NH3	*isozyme GSIII-1, pH 7.5, 37&deg;C, glutamine synthetase activity
+KM	Bacillus caldolyticus	0.48	NH4+	*biosynthetic assay, Mn2+-stimulated, enzyme form EI
+KM	Skeletonema costatum	0.5	ATP	*
+KM	Mycobacterium tuberculosis	0.5	ATP	*pH 7.5
+KM	Bacillus caldolyticus	0.53	ATP	*biosynthetic assay, Mg2+-activated, enzyme form EII
+KM	Oryza sativa Japonica Group	0.53	ATP	*30&deg;C, isoenzyme OsGLN1,2
+KM	Trichormus azollae	0.55	NH4+	*D51E mutant, pH 7.0, 30&deg;C
+KM	Arabidopsis thaliana	0.56	ATP	*pH 7.8, 30&deg;C, isoenzyme GLN1,4
+KM	Bifidobacterium bifidum	0.56	NH4+	*Mg2+-stimulated
+KM	Bacillus caldolyticus	0.56	NH4+	*hydroxylamine, Mg2+-activated, enzyme form EII
+KM	Pseudomonas taetrolens	0.56	NH4+	*pH 8.0, 30 mM Mg2+
+KM	Arabidopsis thaliana	0.58	NH4+	*pH 7.8, 30&deg;C, below, isoenzyme GLN1,4
+KM	Bifidobacterium breve	0.59	NH4+	*Mg2+-stimulated
+KM	Pseudomonas taetrolens	0.59	NH4+	*pH 7.5, 3 mM MN2+
+KM	Methylococcus capsulatus	0.6	ATP	*
+KM	Arabidopsis thaliana	0.6	L-glutamate	*pH 7.8, 30&deg;C, isoenzyme GLN1,4
+KM	Prevotella ruminicola	0.62	L-glutamine	*isozyme GSIII-2, pH 6.0, 37&deg;C, gamma-glutamylhydroxamate synthetase activity
+KM	Arabidopsis thaliana	0.67	L-Glu	*isoenzyme GLN1,4
+KM	Bacillus subtilis	0.68	hydroxylamine	*mutant E304H, 25&deg;C, pH not specified in the publication
+KM	Bacillus subtilis	0.68	hydroxylamine	*pH 7.0, temperature not specified in the publication, mutant E304A
+KM	Bifidobacterium breve	0.69	NH4+	*Mn2+-stimulated
+KM	Bifidobacterium pseudolongum	0.69	NH4+	*NH4+, Mg2+-stimulated
+KM	Skeletonema costatum	0.7	NH4+	*
+KM	Bifidobacterium pseudolongum	0.71	NH4+	*Mn2+-stimulated
+KM	Methylococcus capsulatus	0.72	NH4+	*
+KM	Arabidopsis thaliana	0.736	NH4+	*mutant K49Q/A174S of isoenzyme GLN1,4
+KM	Bacillus subtilis	0.74	hydroxylamine	*mutant E304D, 25&deg;C, pH not specified in the publication
+KM	Tuber borchii	0.75	NH4+	*37&deg;C, pH 7.5
+KM	Bifidobacterium bifidum	0.77	NH4+	*Mn2+-stimulated
+KM	Trypanosoma cruzi	0.78	NH4+	*recombinant enzyme, Malachite green assay, pH and temperature not specified in the publication
+KM	Nicotiana plumbaginifolia	0.79	ATP	*pH 7.4, 35&deg;C
+KM	Trypanosoma cruzi	0.79	NH4+	*recombinant enzyme, coupled reactions assay, pH and temperature not specified in the publication
+KM	Bacillus subtilis	0.83	hydroxylamine	*wild-type, 25&deg;C, pH not specified in the publication
+KM	Bacillus subtilis	0.83	hydroxylamine	*pH 7.0, temperature not specified in the publication, wild-type enzyme
+KM	Arabidopsis thaliana	0.83	L-Glu	*mutant A174S of isoenzyme GLN1,4
+KM	Clarias batrachus	0.833	ADP	*
+KM	Arabidopsis thaliana	0.85	ATP	*pH 7.8, 30&deg;C, isoenzyme GLN1,3
+KM	Medicago truncatula	0.85	hydroxylamine	*pH not specified in the publication, 30&deg;C, mutant mature enzyme lacking the C-terminal peptide
+KM	Trichormus azollae	0.85	L-glutamate	*D51N mutant, pH 7.0, 30&deg;C
+KM	Synechocystis sp.	0.9	Glu	*enzyme form GSIII
+KM	Medicago truncatula	0.92	hydroxylamine	*pH not specified in the publication, 30&deg;C, wild-type mature enzyme
+KM	Trichormus azollae	0.92	NH4+	*D51N mutant, pH 7.0, 30&deg;C
+KM	Bacillus subtilis	1	L-glutamate	*pH 7.0, temperature not specified in the publication, mutant R62A
+KM	Phaseolus vulgaris	1	ATP	*D56E mutant enzyme, pH 7.5, 37&deg;C
+KM	Paracoccus denitrificans	1	Glu	*
+KM	Prevotella ruminicola	1.04	hydroxylamine	*isozyme GSIII-1, pH 6.0, 37&deg;C, gamma-glutamylhydroxamate synthetase activity
+KM	Arabidopsis thaliana	1.1	ATP	*pH 7.8, 30&deg;C, isoenzyme GLN1,2
+KM	Bifidobacterium bifidum	1.1	L-Glu	*Mg2+-stimulated
+KM	Canis lupus familiaris	1.1	L-glutamate	*short isoform, pH 7.2, 37&deg;C
+KM	Arabidopsis thaliana	1.1	L-glutamate	*pH 7.8, 30&deg;C, isoenzyme GLN1,1
+KM	Arabidopsis thaliana	1.14	L-Glu	*mutant K49Q of isoenzyme GLN1,4
+KM	Bacillus subtilis	1.2	ATP	*mutant E304H, 25&deg;C, pH not specified in the publication
+KM	Bacillus subtilis	1.2	ATP	*pH 7.0, temperature not specified in the publication, mutant E304A
+KM	Trichormus variabilis	1.2	Glu	*
+KM	Arabidopsis thaliana	1.21	NH4+	*pH 7.8, 30&deg;C, below, isoenzyme GLN1,3
+KM	Canis lupus familiaris	1.3	ATP	*short isoform, pH 7.2, 37&deg;C
+KM	Pseudomonas taetrolens	1.3	ATP	*pH 11.0, 30 mM Mg2+
+KM	Bifidobacterium breve	1.3	L-Glu	*Mn2+-stimulated
+KM	Canis lupus familiaris	1.3	L-glutamate	*long isoform, pH 7.2, 37&deg;C
+KM	Sulfolobus acidocaldarius	1.3	L-glutamine	*80&deg;C
+KM	Prevotella ruminicola	1.3	L-glutamine	*isozyme GSIII-1, pH 6.0, 37&deg;C, gamma-glutamylhydroxamate synthetase activity
+KM	Arabidopsis thaliana	1.33	NH4+	*isoenzyme GLN1,3
+KM	Pseudomonas taetrolens	1.4	ATP	*pH 8.0, 3 mM Mn2+; pH 8.5, 30 mM Mg2+
+KM	Trichormus variabilis	1.4	glutamate	*enzyme from strain SA0, pH 6.8
+KM	Bacillus subtilis	1.4	hydroxylamine	*pH 7.0, temperature not specified in the publication, mutant R62A
+KM	Trichormus variabilis	1.4	NH4+	*enzyme from strain SA1, pH 7.5
+KM	Arabidopsis thaliana	1.43	L-Glu	*mutant K49Q/A174S of isoenzyme GLN1,4
+KM	Corynebacterium callunae	1.46	hydroxylamine	*
+KM	Bifidobacterium pseudolongum	1.5	ATP	*Mg2+-stimulated
+KM	Bacillus caldolyticus	1.5	ATP	*ATP, biosynthetic assay, Mn2+-activated, enzyme form EII
+KM	Trichormus variabilis	1.5	ATP	*ATP
+KM	Pseudomonas taetrolens	1.5	ATP	*pH 7.5, 3 mM MN2+; pH 8.5, 3 mM Mn2+
+KM	Ruminococcus albus	1.5	hydroxylamine	*pH 6.4, 37&deg;C, mutant enzyme E380A
+KM	Trichormus azollae	1.5	L-glutamate	*wild type enzyme, pH 7.0, 30&deg;C
+KM	Phaseolus vulgaris	1.6	ATP	*D56A mutant enzyme, pH 7.5, 37&deg;C
+KM	Prevotella ruminicola	1.7	L-glutamate	*isozyme GSIII-2, pH 7.5, 37&deg;C, glutamine synthetase activity
+KM	Bifidobacterium bifidum	1.7	ATP	*Mg2+-stimulated
+KM	Trichormus variabilis	1.7	glutamate	*enzyme from strain SA0, pH 7.5
+KM	Spinacia oleracea	1.8	ATP	*synthetase assay
+KM	Medicago truncatula	1.8	L-Glu	*phosphorylated GS1a, in the presence of 0.0005 mM microcystin
+KM	Medicago truncatula	1.83	ATP	*pH not specified in the publication, 30&deg;C, wild-type mature enzyme
+KM	Canis lupus familiaris	1.9	ATP	*long isoform, pH 7.2, 37&deg;C
+KM	Oryza sativa Japonica Group	1.9	L-glutamate	*30&deg;C, isoenzyme OsGLN1,1
+KM	Prevotella ruminicola	1.91	ATP	*isozyme GSIII-1, pH 7.5, 37&deg;C, glutamine synthetase activity
+KM	Prevotella ruminicola	1.92	hydroxylamine	*isozyme GSIII-2, pH 6.0, 37&deg;C, gamma-glutamylhydroxamate synthetase activity
+KM	Prevotella ruminicola	1.93	L-glutamine	*isozyme GSI, pH 6.0, 37&deg;C, gamma-glutamylhydroxamate synthetase activity
+KM	Medicago truncatula	1.95	ATP	*pH not specified in the publication, 30&deg;C, mutant mature enzyme lacking the C-terminal peptide
+KM	Bifidobacterium bifidum	2	ATP	*Mg2+-stimulated or Mn2+-stimulated
+KM	Pseudomonas taetrolens	2	ATP	*pH 8.0, 30 mM Mg2+
+KM	Phaseolus vulgaris	2	L-glutamate	*mutant enzyme, pH 7.5, 37&deg;C
+KM	Bifidobacterium pseudolongum	2.1	L-Glu	*Mn2+-stimulated
+KM	Paracoccus denitrificans	2.1	L-Glu	*Gln, transferase reaction
+KM	Oryza sativa Japonica Group	2.1	L-Glu	*30&deg;C, isoenzyme OsGLN1,2
+KM	Methylococcus capsulatus	2.25	Glu	*
+KM	Bifidobacterium breve	2.3	ATP	*Mn2+-stimulated
+KM	Ovis aries	2.3	ATP	*ATP, Mg2+-stimulated
+KM	Bacillus subtilis	2.3	ATP	*pH 7.0, temperature not specified in the publication, mutant R62A
+KM	Bacillus subtilis	2.4	ATP	*wild-type enzyme
+KM	Bacillus subtilis	2.4	ATP	*wild-type, 25&deg;C, pH not specified in the publication
+KM	Bacillus subtilis	2.4	ATP	*pH 7.0, temperature not specified in the publication, wild-type enzyme
+KM	Paracoccus denitrificans	2.4	hydroxylamine	*
+KM	Arabidopsis thaliana	2.4	L-Glu	*mutant K49Q/A174S of isoenzyme GLN1,3
+KM	Arabidopsis thaliana	2.45	NH4+	*pH 7.8, 30&deg;C, below, isoenzyme GLN1,2
+KM	Bifidobacterium pseudolongum	2.5	ATP	*Mn2+-stimulated
+KM	Clostridium pasteurianum	2.5	ATP	*arsenate
+KM	Rattus norvegicus	2.5	ATP	*L-Glu, Mg2+-stimulated
+KM	Bacillus subtilis	2.5	ATP	*mutant enzyme S186F
+KM	Nitrobacter winogradskyi	2.6	hydroxylamine	*glutamyltransferase reaction
+KM	Prevotella ruminicola	2.65	ATP	*isozyme GSIII-2, pH 7.5, 37&deg;C, glutamine synthetase activity
+KM	Mycobacterium tuberculosis	2.7	Glu	*
+KM	Prevotella ruminicola	2.7	hydroxylamine	*isozyme GSI, pH 6.0, 37&deg;C, gamma-glutamylhydroxamate synthetase activity
+KM	Medicago truncatula	2.8	L-Glu	*non-phosphorylated GS1a, in the presence of 0.0005 mM microcystin
+KM	Bradyrhizobium japonicum	2.8	NH4Cl	*second value 8.9 mM, biphasic plot
+KM	Bacillus caldolyticus	2.9	ATP	*biosynthetic assay, Mg2+-activated, enzyme form EI
+KM	Mycobacterium tuberculosis	2.9	ATP	*Gln
+KM	Medicago truncatula	2.9	ATP	*phosphorylated GS1a, in the presence of 0.0005 mM microcystin
+KM	Bacillus subtilis	2.9	hydroxylamine	*wild-type enzyme
+KM	Sphagnum fallax	3	ATP	*chloroplast enzyme
+KM	Medicago truncatula	3	ATP	*non-phosphorylated GS1a, in the presence of 0.0005 mM microcystin
+KM	Pisum sativum	3	Glu	*
+KM	Bacillus caldolyticus	3	Glu	*ATP, biosynthetic assay, Mn2+-activated, enzyme form EI
+KM	Arabidopsis thaliana	3.2	L-Glu	*mutant A174S of isoenzyme GLN1,3; mutant K49Q of isoenzyme GLN1,3
+KM	Bradyrhizobium japonicum	3.3	hydroxylamine	*
+KM	Escherichia coli	3.3	L-Glu	*wild-type enzyme
+KM	Lupinus luteus	3.37	hydroxylamine	*gamma-glutamyl transferase assay
+KM	Bacillus subtilis	3.4	hydroxylamine	*mutant enzyme S186F
+KM	Clostridium pasteurianum	3.4	L-Glu	*synthetase reaction
+KM	Bacillus subtilis	3.4	L-glutamate	*mutant E304H, 25&deg;C, pH not specified in the publication
+KM	Bacillus subtilis	3.4	L-glutamate	*pH 7.0, temperature not specified in the publication, mutant E304A
+KM	Clostridium pasteurianum	3.8	ADP	*
+KM	Arabidopsis thaliana	3.8	L-glutamate	*pH 7.8, 30&deg;C, isoenzyme GLN1,2
+KM	Arabidopsis thaliana	3.9	L-glutamate	*pH 7.8, 30&deg;C, isoenzyme GLN1,3
+KM	Clostridium pasteurianum	4.1	hydroxylamine	*transferase reaction
+KM	Arabidopsis thaliana	4.17	L-Glu	*isoenzyme GLN1,3
+KM	Ruminococcus albus	4.5	ATP	*pH 6.4, 37&deg;C, wild-type enzyme
+KM	Ruminococcus albus	4.7	hydroxylamine	*pH 6.4, 37&deg;C, wild-type enzyme
+KM	Escherichia coli	4.9	Gln	*
+KM	Haloferax mediterranei	4.9	L-Glu	*at 45&deg;C
+KM	Camellia sinensis	5.2	NH4+	*pH 7.8
+KM	Bacillus subtilis	5.3	ATP	*mutant G302A, 25&deg;C, pH not specified in the publication
+KM	Sinorhizobium meliloti	5.3	hydroxylamine	*enzyme form GSIII
+KM	Skeletonema costatum	5.7	Glu	*
+KM	Medicago truncatula	5.7	L-glutamate	*pH not specified in the publication, 30&deg;C, wild-type mature enzyme
+KM	Nicotiana plumbaginifolia	5.71	glutamate	*pH 7.4, 35&deg;C
+KM	Trichormus azollae	5.95	NH4+	*D51S mutant, pH 7.0, 30&deg;C
+KM	Camellia sinensis	6	ATP	*pH 7.8
+KM	Methanohalophilus portucalensis	6	ATP	*pH 7.0, 37&deg;C
+KM	Rhodobacter capsulatus	6	hydroxylamine	*transferase activity
+KM	Escherichia coli	6	L-Glu	*oxidized mutant enzyme E165C
+KM	Nitrobacter winogradskyi	6.3	Glu	*biosynthetic assay
+KM	Ruminococcus albus	6.45	ATP	*pH 6.4, 37&deg;C, mutant enzyme E380A
+KM	Spinacia oleracea	6.7	Glu	*synthetase assay
+KM	Ruminococcus albus	6.8	L-glutamine	*pH 6.4, 37&deg;C, wild-type enzyme
+KM	Escherichia coli	7	L-Glu	*reduced mutant enzyme E165C
+KM	Phaseolus vulgaris	7	L-glutamate	*wild type enzyme, pH 7.5, 37&deg;C
+KM	Phaseolus vulgaris	7	L-glutamate	*wild-type enzyme, pH 7.5, 37&deg;C
+KM	Nocardia asteroides	7.7	Glu	*
+KM	Mycobacterium tuberculosis	8.3	hydroxylamine	*pH 7.0
+KM	Lupinus luteus	8.58	Glu	*biosynthetic assay
+KM	Prevotella ruminicola	8.58	L-glutamate	*isozyme GSIII-1, pH 7.5, 37&deg;C, glutamine synthetase activity
+KM	Camellia sinensis	9	L-glutamate	*pH 7.8
+KM	Trichormus variabilis	9.2	glutamate	*enzyme from strain SA1, pH 6.8
+KM	Bacillus subtilis	9.4	ATP	*mutant Y303H, 25&deg;C, pH not specified in the publication
+KM	Bacillus subtilis	10	L-glutamate	*mutant E304D, 25&deg;C, pH not specified in the publication
+KM	Haloferax mediterranei	10.5	hydroxylamine	*at 45&deg;C
+KM	Trichormus azollae	10.6	ATP	*D51E mutant, pH 7.0, 30&deg;C
+KM	Mycobacterium tuberculosis	10.8	NH4+	*pH 7.5
+KM	Bacillus subtilis	11	ATP	*mutant E304D, 25&deg;C, pH not specified in the publication
+KM	Bradyrhizobium japonicum	11.1	L-Gln	*glutamyl transferase reaction
+KM	Medicago truncatula	11.52	L-glutamate	*pH not specified in the publication, 30&deg;C, mutant mature enzyme lacking the C-terminal peptide
+KM	Nitrobacter winogradskyi	11.6	Gln	*glutamyl transferase reaction
+KM	Rhodobacter capsulatus	12	L-Gln	*transferase activity
+KM	Trichormus variabilis	12.4	NH4+	*enzyme from strain SA1, pH 6.8
+KM	Trichormus azollae	12.45	NH4+	*D51A mutant, pH 7.0, 30&deg;C
+KM	Bradyrhizobium japonicum	12.6	L-Gln	*biosynthetic reaction
+KM	Bacillus subtilis	13	L-glutamine	*wild-type enzyme
+KM	Sinorhizobium meliloti	13.3	Glu	*enzyme form GSIII
+KM	Pisum sativum	14	Glu	*
+KM	Methylococcus capsulatus	14	Glu	*hydroxylamine, glutamyl transferase assay
+KM	Bacillus subtilis	14	L-glutamine	*mutant enzyme S186F
+KM	Bradyrhizobium japonicum	14.3	ATP	*
+KM	Clostridium pasteurianum	14.7	Gln	*
+KM	Corynebacterium callunae	15.2	Gln	*
+KM	Trichormus azollae	16	L-glutamate	*D51E mutant, pH 7.0, 30&deg;C
+KM	Trichormus variabilis	16.8	glutamate	*enzyme from strain SA1, pH 7.5
+KM	Bacillus caldolyticus	17	L-Glu	*biosynthetic assay, Mg2+-activated, enzyme form I or Mn2+-activated, enzyme form EII.
+KM	Bifidobacterium pseudolongum	18	L-Glu	*Mg2+-stimulated
+KM	Bacillus caldolyticus	18	L-Glu	*L-Glu, biosynthetic assay, Mg2+-activated, enzyme form EII
+KM	Phaseolus vulgaris	18	L-glutamate	*D56E mutant enzyme, pH 7.5, 37&deg;C
+KM	Pseudomonas taetrolens	20	methylamine	*pH 8.0, 3 mM Mn2+
+KM	Bifidobacterium breve	21	L-Glu	*Mg2+-stimulated
+KM	Mycobacterium tuberculosis	21.6	glutamate	*pH 7.5
+KM	Sphagnum fallax	22	L-glutamate	*chloroplast enzyme
+KM	Clostridium pasteurianum	22.2	L-Gln	*transferase reaction
+KM	Pyrococcus sp.	23.5	L-glutamate	*60&deg;C, pH 7.8
+KM	Haloferax mediterranei	25	L-Gln	*at 45&deg;C
+KM	Bifidobacterium bifidum	25	L-Glu	*Mg2+-stimulated
+KM	Bifidobacterium bifidum	25	L-Glu	*Mg2+-stimulated
+KM	Leishmania donovani	26.3	L-glutamate	*recombinant enzyme, pH 7.8, 37&deg;C
+KM	Bacillus subtilis	27	L-glutamate	*wild-type enzyme
+KM	Bacillus subtilis	27	L-glutamate	*wild-type, 25&deg;C, pH not specified in the publication
+KM	Bacillus subtilis	27	L-glutamate	*pH 7.0, temperature not specified in the publication, wild-type enzyme
+KM	Pyrococcus sp.	28	ATP	*60&deg;C, pH 7.8
+KM	Bacillus subtilis	29	L-glutamate	*mutant enzyme S186F
+KM	Bacillus subtilis	32	NH3	*mutant E304H, 25&deg;C, pH not specified in the publication
+KM	Bacillus subtilis	32	NH3	*pH 7.0, temperature not specified in the publication, mutant E304A
+KM	Sinorhizobium meliloti	33	NH4+	*enzyme form GSIII
+KM	Spinacia oleracea	37.6	Gln	*transferase assay
+KM	Phaseolus vulgaris	38	L-glutamate	*D56A mutant enzyme, pH 7.5, 37&deg;C
+KM	Lupinus luteus	48.6	Gln	*gamma-glutamyl transferase assay
+KM	Clarias batrachus	50	L-Glu	*
+KM	Methanocaldococcus jannaschii	58	L-glutamate	*pH 7.0, 60&deg;C
+KM	Bacillus subtilis	59	L-glutamate	*mutant Y303H, 25&deg;C, pH not specified in the publication
+KM	Mycobacterium tuberculosis	60	L-Gln	*pH 7.0
+KM	Clarias batrachus	62.5	hydroxylamine	*
+KM	Bacillus subtilis	84	L-glutamate	*mutant G302A, 25&deg;C, pH not specified in the publication
+KM	Pseudomonas taetrolens	100	methylamine	*pH 8.5, 30 mM Mg2+
+KM	Methanohalophilus portucalensis	104	L-glutamate	*pH 7.0, 37&deg;C
+KM	Bacillus subtilis	120	NH3	*mutant E304D, 25&deg;C, pH not specified in the publication
+KM	Methanohalophilus portucalensis	175	3-aminopentanedioate	*pH 7.0, 37&deg;C
+KM	Pseudomonas taetrolens	500	ethylamine	*pH 8.5, 3 mM Mn2+
+KM	Pseudomonas taetrolens	700	ethylamine	*pH 11.0, 30 mM Mg2+
+MW	Nicotiana plumbaginifolia	37400	*	*SDS-PAGE
+MW	Secale cereale x Triticum aestivum	38000	*	*8 * 38000, isoform GS1, SDS-PAGE
+MW	Triticum aestivum	38660	*	*x * 38660, sequence calculation, isozyme GSr2
+MW	Triticum aestivum	38730	*	*x * 38730, sequence calculation, isozyme GSr1
+MW	Bradyrhizobium japonicum	38759	*	*x * 40000, SDS-PAGE, x * 38759, calculated
+MW	Triticum aestivum	39200	*	*x * 39200, sequence calculation, isozyme GS1a
+MW	Triticum aestivum	39210	*	*x * 39210, sequence calculation, isozyme GS1a
+MW	Triticum aestivum	39240	*	*x * 39240, sequence calculation, isozyme GS1c
+MW	Triticum aestivum	39470	*	*x * 39470, sequence calculation, isozyme GSe2
+MW	Triticum aestivum	39480	*	*x * 39480, sequence calculation, isozyme GSe1
+MW	Tuber borchii	39700	*	*calculated from amino acid sequence
+MW	Zea mays	40000	*	*8 * 40000
+MW	Medicago truncatula	40000	*	*SDS-PAGE, GS2
+MW	Zea mays	40000	*	*SDS-PAGE
+MW	Bradyrhizobium japonicum	40000	*	*x * 40000, SDS-PAGE, x * 38759, calculated
+MW	Enchytraeus japonensis	40509	*	*x * 40509, sequence calculation
+MW	Schistosoma japonicum	40700	*	*x * 45000, recombinant enzyme, SDS-PAGE, x * 40700, about, sequence calculation
+MW	Lupinus luteus	41500	*	*x * 41500, SDS-PAGE
+MW	Medicago truncatula	41500	*	*SDS-PAGE, His-tagged GS1a
+MW	Triticum aestivum	41710	*	*x * 46640, sequence calculation, isozyme GS2b, x * 41710, sequence calculation, mature peptide of isozyme GS2b
+MW	Triticum aestivum	41760	*	*x * 46690, sequence calculation, isozyme GS2a, x * 41760, sequence calculation, mature peptide of isozyme GS2a
+MW	Triticum aestivum	41770	*	*x * 46700, sequence calculation, isozyme GS2c, x * 41770, sequence calculation, mature peptide of isozyme GS2c
+MW	Brassica napus	41978	*	*x * 41978, calculation from nucleotide sequence
+MW	Tuber borchii	42000	*	*purified recombinant protein containing a hexahistidine-tag
+MW	Solanum tuberosum	42000	*	*x * 42000, isoenzyme GS1, SDS-PAGE
+MW	Solanum lycopersicum	42000	*	*SDS-PAGE, in green fruits
+MW	Medicago truncatula	42000	*	*x * 47212, calculated, x * 42000, recombinant protein lacking the target peptide, SDS-PAGE
+MW	Rattus norvegicus	42000	*	*x * 42000, SDS-PAGE
+MW	Phaseolus vulgaris	42400	*	*SDS-PAGE
+MW	Chlorella sorokiniana	43000	*	*8 * 43000, isoform GSII, SDS-PAGE
+MW	Phaseolus vulgaris	43000	*	*SDS-PAGE
+MW	Phaseolus vulgaris	43000	*	*SDS-PAGE
+MW	Phaseolus vulgaris	43000	*	*8 * 43000, gel filtration
+MW	Spinacia oleracea	44000	*	*8 * 44000, enzyme form GS2, SDS-PAGE
+MW	Rattus norvegicus	44000	*	*x * 44000, SDS-PAGE
+MW	Homo sapiens	44000	*	*8 * 44000, SDS-PAGE, composed of three different types of subunits with isoelectric points ranging from 7.0-7.2
+MW	Homo sapiens	44000	*	*SDS-PAGE
+MW	Zea mays	44000	*	*SDS-PAGE
+MW	Homo sapiens	44000	*	*8 * 44000, SDS-PAGE
+MW	Rattus norvegicus	44000	*	*8 * 44000, SDS-PAGE
+MW	Canis lupus familiaris	45000	*	*SDS-PAGE, short isoform
+MW	Solanum tuberosum	45000	*	*x * 45000, isoenzyme GS2, SDS-PAGE
+MW	Solanum lycopersicum	45000	*	*SDS-PAGE, in leaves
+MW	Methanosarcina mazei	45000	*	*x * 45000, calculated from sequence
+MW	Schistosoma japonicum	45000	*	*x * 45000, recombinant enzyme, SDS-PAGE, x * 40700, about, sequence calculation
+MW	Squalus acanthias	46000	*	*x * 46000, SDS-PAGE
+MW	Sinorhizobium meliloti	46500	*	*x * 46500 + x * 49000, SDS-PAGE
+MW	Triticum aestivum	46640	*	*x * 46640, sequence calculation, isozyme GS2b, x * 41710, sequence calculation, mature peptide of isozyme GS2b
+MW	Triticum aestivum	46690	*	*x * 46690, sequence calculation, isozyme GS2a, x * 41760, sequence calculation, mature peptide of isozyme GS2a
+MW	Mycobacterium tuberculosis	46700	*	*x * 46700, about, GlnA3, sequence calculation
+MW	Triticum aestivum	46700	*	*x * 46700, sequence calculation, isozyme GS2c, x * 41770, sequence calculation, mature peptide of isozyme GS2c
+MW	Chlorella sorokiniana	47000	*	*8 * 47000, isoform GSI, SDS-PAGE
+MW	Medicago truncatula	47212	*	*x * 47212, calculated, x * 42000, recombinant protein lacking the target peptide, SDS-PAGE
+MW	Pisum sativum	48000	*	*8 * 48000, isoenzyme GScs, SDS-PAGE
+MW	Secale cereale x Triticum aestivum	48000	*	*8 * 48000, isoform GS2, SDS-PAGE
+MW	Sinorhizobium meliloti	49000	*	*x * 46500 + x * 49000, SDS-PAGE
+MW	Canis lupus familiaris	49000	*	*SDS-PAGE, long isoform
+MW	Mycobacterium tuberculosis	49600	*	*x * 49600, about, GlnA2, sequence calculation
+MW	Mycobacterium tuberculosis	49700	*	*x * 49700, about, GlnA4, sequence calculation
+MW	Sulfolobus acidocaldarius	50000	*	*SDS-PAGE
+MW	Clostridium pasteurianum	50000	*	*20 * 50000, SDS-PAGE
+MW	Gluconacetobacter diazotrophicus	50000	*	*SDS-PAGE
+MW	Bacillus subtilis	50000	*	*x * 50000, about, SDS-PAGE
+MW	Paracoccus denitrificans	50100	*	*12 * 50100, SDS-PAGE
+MW	Haloferax mediterranei	50500	*	*12 * 50500, about, sequence calculation
+MW	Bacillus caldolyticus	51000	*	*12 * 51000, SDS-PAGE
+MW	Haloferax mediterranei	51700	*	*8 * 51700, gel filtration
+MW	Escherichia coli	51800	*	*x * 51800, sedimentation equilibrium experiments in 6 M urea
+MW	Synechocystis sp.	52000	*	*12 * 52000, enzyme form GSI, SDS-PAGE
+MW	Rhodospirillum rubrum	52000	*	*10 * 52000, SDS-PAGE
+MW	Sulfolobus acidocaldarius	52000	*	*calculated from amino acid sequence
+MW	Trichormus variabilis	52000	*	*SDS-PAGE
+MW	Trichormus variabilis	53080	*	*calculated from amino acid sequence
+MW	Saccharolobus solfataricus	53348	*	*x * 53348, calculated from sequence
+MW	Mycobacterium tuberculosis	53600	*	*x * 53600, about, GlnA1, sequence calculation
+MW	Thermus thermophilus	53700	*	*SDS-PAGE
+MW	Helicobacter pylori	54320	*	*calculated from amino acid sequence
+MW	Rhodobacter capsulatus	55000	*	*12 * 55000, the enzyme exhibits different aggregation states with detectable oligomers of 1, 2, 3, 4, 6, 8, 10, and 12 subunits, SDS-PAGE
+MW	Pseudomonas taetrolens	55000	*	*12 * 55000, SDS-PAGE
+MW	Photobacterium phosphoreum	56000	*	*x * 56000, SDS-PAGE
+MW	Gordonia rubripertincta	56000	*	*12 * 56000, SDS-PAGE
+MW	Mycolicibacterium phlei	56000	*	*12 * 56000, SDS-PAGE
+MW	Helicobacter pylori	56000	*	*SDS-PAGE
+MW	Prevotella ruminicola	56000	*	*x * 56000, recombinant isozyme GSI
+MW	Nitrobacter winogradskyi	58000	*	*12 * 58000, SDS-PAGE
+MW	Mycobacterium tuberculosis	58000	*	*12 * 58000, arranged in two superimpose hexagons, SDS-PAGE
+MW	Mycobacterium tuberculosis	58000	*	*recombinant protein, SDS-PAGE
+MW	Sphagnum fallax	58000	*	*alpha, beta, 4 * 58000 + 4 * 65000, native mass by gel filtration, subunit mass by SDS-PAGE
+MW	Mycolicibacterium smegmatis	58000	*	*x * 58000, SDS-PAGE
+MW	Clostridium acetobutylicum	59000	*	*x * 59000, SDS-PAGE
+MW	Nocardia asteroides	59000	*	*12 * 59000, SDS-PAGE
+MW	Pseudomonas syringae	60000	*	*x * 60000, SDS-PAGE
+MW	Methylococcus capsulatus	60000	*	*10 * 60000, SDS-PAGE
+MW	Acidithiobacillus ferrooxidans	60000	*	*12 * 60000, SDS-PAGE
+MW	Pseudomonas putida	61000	*	*x * 61000, SDS-PAGE
+MW	Pseudomonas aeruginosa	62000	*	*x * 62000, SDS-PAGE
+MW	Pseudomonas fluorescens	62000	*	*x * 62000, SDS-PAGE
+MW	Bradyrhizobium japonicum	63000	*	*12 * 63000, SDS-PAGE
+MW	Pisum sativum	64000	*	*8 * 64000, isoenzyme GScl, SDS-PAGE
+MW	Rhizobium phaseoli	64570	*	*enzyme form GSI, gel filtration
+MW	Sphagnum fallax	65000	*	*alpha, beta, 4 * 58000 + 4 * 65000, native mass by gel filtration, subunit mass by SDS-PAGE
+MW	Pseudomonas taetrolens	66000	*	*gel filtration
+MW	Skeletonema costatum	70000	*	*6 * 70000, SDS-PAGE
+MW	Bacillus subtilis	70000	*	*x * 70000, fusion-protein with SUMO-tag, SDS-PAGE and calculated
+MW	Bacteroides fragilis	75000	*	*6 * 75000, isoform GS2, SDS-PAGE
+MW	Synechocystis sp.	79416	*	*x * 79416, calculation from nucleotide sequence
+MW	Synechocystis sp.	80000	*	*6 * 80000, enzyme form GSIII, SDS-PAGE
+MW	Prevotella ruminicola	83000	*	*12 * 83000, recombinant isozyme GSIII-1, SDS-PAGE; 2 * 83000, recombinant isozyme GSIII-1, SDS-PAGE; 3 * 83000, recombinant isozyme GSIII-2, SDS-PAGE
+MW	Bacteroides fragilis	86000	*	*10 * 86000, cryo-electron microscopy
+MW	Squalus acanthias	200000	*	*gel filtration, in presence of Mg2+, MgATP2-, and L-Glu the enzyme has a MW of 400000, reversible dissociation from the 400000 MW form to a species of MW 200000 in the absence of MgATP2- and L-Glu
+MW	Zea mays	300000	*	*gel filtration
+MW	Secale cereale x Triticum aestivum	305000	*	*isoform GS1, gel filtration
+MW	Nicotiana plumbaginifolia	305000	*	*native PAGE
+MW	Bacillus caldolyticus	330000	*	*gel filtration
+MW	Tuber borchii	340000	*	*gel filtration, minor peak at 175000 Da
+MW	Phaseolus vulgaris	344000	*	*gel filtration
+MW	Lupinus luteus	347000	*	*gel filtration
+MW	Phaseolus vulgaris	350000	*	*gel filtration
+MW	Phaseolus vulgaris	350000	*	*gel filtration
+MW	Sinorhizobium meliloti	355000	*	*gel filtration
+MW	Homo sapiens	360000	*	*PAGE
+MW	Spinacia oleracea	360000	*	*native PAGE
+MW	Chlorella sorokiniana	360000	*	*isoform GSII, disc gel electrophoresis
+MW	Pisum sativum	384000	*	*isoenzyme GScs, gel filtration
+MW	Secale cereale x Triticum aestivum	385200	*	*isoform GS2, gel filtration
+MW	Chlorella sorokiniana	398000	*	*isoform GSI, disc gel electrophoresis
+MW	Squalus acanthias	400000	*	*gel filtration, in presence of Mg2+, MgATP2-, and L-Glu, reversible dissociation to a species of MW 200000 in the absence of MgATP2- and L-Glu
+MW	Skeletonema costatum	400000	*	*isoform GS2, gel filtration
+MW	Haloferax mediterranei	445000	*	*gel filtration
+MW	Rhizobium phaseoli	489800	*	*enzyme form GSII, gel filtration
+MW	Bacteroides fragilis	490000	*	*gel filtration
+MW	Sphagnum fallax	492000	*	*gel filtration
+MW	Rhodospirillum rubrum	500000	*	*gel filtration, PAGE
+MW	Bifidobacterium bifidum	500000	*	*gel filtration
+MW	Bifidobacterium breve	500000	*	*gel filtration
+MW	Bifidobacterium pseudolongum	500000	*	*gel filtration
+MW	Synechocystis sp.	500000	*	*enzyme form GSIII, gel filtration
+MW	Gluconacetobacter diazotrophicus	500000	*	*gel filtration
+MW	Pisum sativum	520000	*	*isoenzyme GScl, gel filtration
+MW	Thermus thermophilus	537000	*	*12 * 537000, subunit mass by SDS-PAGE, native structure by negative-stain electron microscopy, consists of two hexameric rings
+MW	Paracoccus denitrificans	570000	*	*gel filtration
+MW	Haloferax mediterranei	580000	*	*recombinant enzyme, gel filtration
+MW	Thermotoga maritima	590000	*	*gel filtration
+MW	Bacillus subtilis	600000	*	*isozyme GSI-alpha
+MW	Phormidium laminosum	602000	*	*gel filtration
+MW	Methylococcus capsulatus	617000	*	*gel filtration
+MW	Synechocystis sp.	624000	*	*enzyme form GSI, gel filtration
+MW	Trichormus variabilis	625000	*	*gel filtration
+MW	Sulfolobus acidocaldarius	630000	*	*gel filtration
+MW	Pyrococcus sp.	637000	*	*gel filtration
+MW	Rhodobacter capsulatus	660000	*	*disc gel electrophoresis, pore gradient electrophoresis, sucrose density gradient centrifugation
+MW	Photobacterium phosphoreum	670000	*	*gel filtration
+MW	Mycolicibacterium phlei	670000	*	*gel filtration
+MW	Mycobacterium tuberculosis	680000	*	*gel filtration
+MW	Nitrobacter winogradskyi	700000	*	*gel filtration
+MW	Nocardia asteroides	720000	*	*gel filtration
+MW	Bradyrhizobium japonicum	760000	*	*gel filtration
+MW	Bacteroides fragilis	860000	*	*gel filtration
+MW	Rhizobium phaseoli	891000	*	*enzyme form GSIII, gel filtration
+MW	Clostridium pasteurianum	1000000	*	*gel filtration
+PATH	*	Alanine, aspartate and glutamate metabolism	*	*
+PATH	*	ammonia assimilation cycle I	*	*
+PATH	*	ammonia assimilation cycle II	*	*
+PATH	*	Arginine biosynthesis	*	*
+PATH	*	glutamate and glutamine metabolism	*	*
+PATH	*	Glyoxylate and dicarboxylate metabolism	*	*
+PATH	*	L-glutamine biosynthesis I	*	*
+PATH	*	L-glutamine biosynthesis III	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	nitrate reduction II (assimilatory)	*	*
+PATH	*	nitrate reduction V (assimilatory)	*	*
+PATH	*	nitrate reduction VI (assimilatory)	*	*
+PATH	*	Nitrogen metabolism	*	*
+SA	Clostridium pasteurianum	-999	*	*
+SA	Chlorella sorokiniana	-999	*	*
+SA	Phormidium laminosum	-999	*	*
+SA	Mycobacterium tuberculosis	-999	*	*
+SA	Rhodospirillum rubrum	-999	*	*
+SA	Mycolicibacterium phlei	-999	*	*
+SA	Escherichia coli	-999	*	*highest specific activity when grown in 0.1% glutamine medium supplemented with glucose
+SA	Klebsiella aerogenes	-999	*	*highest specific activity when grown in 0.2% glutamine medium supplemented with glucose
+SA	Ruminococcus albus	-999	*	*
+SA	Zea mays	-999	*	*activity of isozyme GS1 in leaves during the early phase of grain filling of the plant, overview; activity of isozyme GS2 in leaves during the early phase of grain filling of the plant, overview
+SA	Gossypium hirsutum	-999	*	*activity and expression of GS during ovule and fiber development, overview
+SA	Oryza sativa Japonica Group	-999	*	*total GS, GS1 and GS2 activities in leaf, stem and root of rice in cultivars IR-64 and Khitish seedlings at various stages of water deprivation, overview
+SA	Oryza sativa	-999	*	*total GS, GS1 and GS2 activities in leaf, stem and root of rice in cultivars IR-64 and Khitish seedlings at various stages of water deprivation, overview; total GS, GS1 and GS2 activities in leaf, stem and root of rice in cultivars IR-64 and Khitish seedlings at various stages of water deprivation, overview
+SA	Haloferax mediterranei	0.0002	*	*crude cell extract
+SA	Haloferax mediterranei	0.0149	*	*after 75fold purification
+SA	Homo sapiens	0.018	*	*glutamine synthetase activity in MG-63 cells
+SA	Homo sapiens	0.022	*	*glutamine synthetase activity in MG-63 cells in presence of MG-132
+SA	Homo sapiens	0.023	*	*glutamine synthetase activity in MG-63 cells in presence of dexamethasone and MG-132
+SA	Homo sapiens	0.042	*	*glutamine synthetase activity in MG-63 cells in presence of vitamin D
+SA	Homo sapiens	0.067	*	*glutamine synthetase activity in MG-63 cells in presence of dexamethasone
+SA	Leishmania donovani	0.322	*	*enzyme from promastigotes, pH 7.8, 37&deg;C
+SA	Leishmania donovani	0.7325	*	*recombinant His-tagged enzyme, pH 7.8, 37&deg;C
+SA	Sus scrofa	1	*	*
+SA	Rattus norvegicus	1.1	*	*
+SA	Pseudomonas taetrolens	1.17	*	*
+SA	Klebsiella aerogenes	1.5	*	*wild type strain
+SA	Halobacillus halophilus	1.53	*	*in the presence of 3 mM NaCl
+SA	Escherichia coli	1.6	*	*wild type and gltF1 deficient strain
+SA	Bacillus subtilis	1.6	*	*wild-type enzyme
+SA	Bacillus subtilis	2.7	*	*mutant enzyme S186F
+SA	Skeletonema costatum	4.27	*	*
+SA	Phormidium laminosum	4.4	*	*biosynthetic assay
+SA	Methanohalophilus portucalensis	7.3	*	*pH 7.0, 37&deg;C
+SA	Rattus norvegicus	8.93	*	*
+SA	Bacteroides fragilis	11	*	*pH not specified in the publication, temperature not specified in the publication
+SA	Trichormus variabilis	12.1	*	*purified enzyme from strain SA1
+SA	Chlorella sorokiniana	18.5	*	*
+SA	Bacillus subtilis	23	*	*pH 6.5, 37&deg;C, presence of Mn2+
+SA	Sulfolobus acidocaldarius	26.8	*	*80&deg;C, purified enzyme
+SA	Secale cereale x Triticum aestivum	33.5	*	*chloroplastic isoform GS2
+SA	Pisum sativum	33.9	*	*gamma-glutamylhydroxamate assay
+SA	Secale cereale x Triticum aestivum	35.1	*	*cytoplasmic isoform GS1
+SA	Synechocystis sp.	36.8	*	*
+SA	Pseudomonas syringae	41.6	*	*gamma-glutamylhydroxamate assay
+SA	Pseudomonas fluorescens	47.3	*	*
+SA	Squalus acanthias	55.8	*	*
+SA	Photobacterium phosphoreum	59.3	*	*
+SA	Lupinus luteus	62	*	*gamma-glutamylhydroxamate assay
+SA	Bifidobacterium breve	73.2	*	*gamma-glutamyl transferase assay
+SA	Acidithiobacillus ferrooxidans	88.08	*	*gamma-glutamyl transferase assay
+SA	Bifidobacterium pseudolongum	99.6	*	*gamma-glutamyl transferase assay
+SA	Trichormus variabilis	126.1	*	*purified enzyme from strain SA0
+SA	Phormidium laminosum	152	*	*gamma-glutamylhydroxamate assay
+SA	Rhodobacter capsulatus	153	*	*gamma-glutamyl transferase assay
+SA	Spinacia oleracea	198	*	*
+SA	Nitrobacter winogradskyi	220	*	*
+SA	Bifidobacterium bifidum	221.3	*	*gamma-glutamyl transferase assay
+SA	Methylococcus capsulatus	306	*	*
+SA	Schistosoma japonicum	3300	*	*purified recombinant enzyme, pH 7.9, 37&deg;C

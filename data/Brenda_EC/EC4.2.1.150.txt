@@ -1,0 +1,32 @@
+KCAT	Meiothermus ruber	14.9	crotonyl-CoA	*pH 7.0, 50&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Metallosphaera sedula	19	crotonyl-CoA	*pH 8.0, 70&Acirc;&deg;C
+KM	Clostridium acetobutylicum	0.03	crotonyl-CoA	*at pH 8.0 and 25&Acirc;&deg;C
+KM	Clostridium acetobutylicum	0.03	crotonyl-CoA	*25&Acirc;&deg;C, pH 7.5
+KM	Meiothermus ruber	0.03	crotonyl-CoA	*pH 7.0, 50&Acirc;&deg;C, recombinant His-tagged enzyme
+KM	Metallosphaera sedula	0.07	crotonyl-CoA	*pH 8.0, 70&Acirc;&deg;C
+KM	Metallosphaera sedula	0.3	crotonyl-CoA	*pH 8.0, 65&Acirc;&deg;C
+KM	Clostridium acetobutylicum	0.13	hexenoyl-CoA	*at pH 8.0 and 25&Acirc;&deg;C
+KM	Clostridium acetobutylicum	0.13	hexenoyl-CoA	*25&Acirc;&deg;C, pH 7.5
+KM	Homo sapiens	-999	more	*steady-state kinetics of the CDYL-catalyzed hydratation reaction compared to mitochondrial metabolic enzyme enoyl-CoA hydratase (ECH, EC 4.2.1.17) as a positive control
+MW	Clostridium acetobutylicum	28200	*	*x * 28200, calculated from amino acid sequence
+MW	Clostridium acetobutylicum	29000	*	*x * 29000, SDS-PAGE
+MW	Clostridium acetobutylicum	40000	*	*4 * 40000, SDS-PAGE
+MW	Clostridium acetobutylicum	43000	*	*4 * 43000, SDS-PAGE
+MW	Metallosphaera sedula	70000	*	*x * 70000, SDS-PAGE
+MW	Meiothermus ruber	140000	*	*native PAGE, recombinant enzyme
+MW	Clostridium acetobutylicum	158000	*	*sedimentation equilibrium analysis and gel filtration
+MW	Clostridium acetobutylicum	158000	*	*sedimentation equilibrium studies
+PATH	*	3-hydroxypropanoate/4-hydroxybutanate cycle	*	*
+PATH	*	CO2 fixation in Crenarchaeota	*	*
+PATH	*	crotonate fermentation (to acetate and cyclohexane carboxylate)	*	*
+PATH	*	gallate degradation III (anaerobic)	*	*
+PATH	*	glutaryl-CoA degradation	*	*
+PATH	*	L-glutamate degradation V (via hydroxyglutarate)	*	*
+PATH	*	oleate beta-oxidation	*	*
+PATH	*	pyruvate fermentation to butanoate	*	*
+PATH	*	pyruvate fermentation to butanol I	*	*
+PATH	*	pyruvate fermentation to butanol II (engineered)	*	*
+PATH	*	pyruvate fermentation to hexanol (engineered)	*	*
+PATH	*	tryptophan metabolism	*	*
+SA	Metallosphaera sedula	3	*	*pH 8.0, 65&Acirc;&deg;C, native enzyme, autotrophically- or heterotrophically-grown cell
+SA	Clostridium acetobutylicum	6155	*	*25&Acirc;&deg;C, pH 7.5

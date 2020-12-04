@@ -1,0 +1,38 @@
+KCAT	Hydrogenobacter thermophilus	570	citryl-CoA	*pH 8.0, 70&deg;C
+KM	Escherichia coli	0.0367	oxaloacetate	*wild-type enzyme
+KM	Hydrogenobacter thermophilus	0.05	acetyl-CoA	*pH 8.0, 70&deg;C
+KM	Escherichia coli	0.0565	oxaloacetate	*mutant enzyme D362E
+KM	Escherichia coli	0.0718	acetyl-CoA	*mutant enzyme D362E
+KM	Hydrogenobacter thermophilus	0.082	citryl-CoA	*pH 8.0, 70&deg;C
+KM	Hydrogenobacter thermophilus	0.13	oxaloacetate	*pH 8.0, 70&deg;C
+KM	Escherichia coli	0.345	acetyl-CoA	*wild-type enzyme
+MW	Leuconostoc mesenteroides	10000	*	*alpha6,beta6,gamma6, 6 * 10000, gamma, + 6 * 33000, beta, + 6 * 55000, alpha
+MW	Clostridium sphenoides	11700	*	*alpha6,beta6,gamma6, 6 * 11700, gamma, + 6 * 32000, beta, + 6 * 56000, alpha
+MW	Lactococcus lactis subsp. lactis	12000	*	*alpha6,beta6,gamma6, 6 * 12000, gamma, + 6 * 35000, beta, + 6 * 54000, alpha
+MW	Enterococcus faecalis	14000	*	*alpha6,beta6,gamma6, 6 * 14000, gamma, + 6 * 37000, beta, + 6 * 54000, alpha
+MW	Hydrogenobacter thermophilus	30000	*	*3 * 30000, homotrimer, SDS-PAGE
+MW	Klebsiella pneumoniae	31352	*	*x * 31352, determination of amino acid sequence
+MW	Rubrivivax gelatinosus	31600	*	*alpha6,beta6,gamma6, 6 + 11400, gamma + 6 * 31600, beta, + 6 * 44600, gamma
+MW	Clostridium sphenoides	32000	*	*alpha6,beta6,gamma6, 6 * 11700, gamma, + 6 * 32000, beta, + 6 * 56000, alpha
+MW	Klebsiella pneumoniae	32000	*	*alpha6beta6gamm1, 6 * 32000, acyllyase beta-subunit, + 6 * 54000, acyltransferase alpha-subunit + 1 * 85000, acyl-carrier-protein gamma-subunit, SDS-PAGE
+MW	Leuconostoc mesenteroides	33000	*	*alpha6,beta6,gamma6, 6 * 10000, gamma, + 6 * 33000, beta, + 6 * 55000, alpha
+MW	Leuconostoc mesenteroides	33354	*	*x * 33354, calculation from nucleotide sequence
+MW	Lactococcus lactis subsp. lactis	35000	*	*alpha6,beta6,gamma6, 6 * 12000, gamma, + 6 * 35000, beta, + 6 * 54000, alpha
+MW	Enterococcus faecalis	37000	*	*alpha6,beta6,gamma6, 6 * 14000, gamma, + 6 * 37000, beta, + 6 * 54000, alpha
+MW	Rubrivivax gelatinosus	44600	*	*alpha6,beta6,gamma6, 6 + 11400, gamma + 6 * 31600, beta, + 6 * 44600, gamma
+MW	Enterococcus faecalis	54000	*	*alpha6,beta6,gamma6, 6 * 14000, gamma, + 6 * 37000, beta, + 6 * 54000, alpha
+MW	Klebsiella pneumoniae	54000	*	*alpha6beta6gamm1, 6 * 32000, acyllyase beta-subunit, + 6 * 54000, acyltransferase alpha-subunit + 1 * 85000, acyl-carrier-protein gamma-subunit, SDS-PAGE
+MW	Lactococcus lactis subsp. lactis	54000	*	*alpha6,beta6,gamma6, 6 * 12000, gamma, + 6 * 35000, beta, + 6 * 54000, alpha
+MW	Leuconostoc mesenteroides	55000	*	*alpha6,beta6,gamma6, 6 * 10000, gamma, + 6 * 33000, beta, + 6 * 55000, alpha
+MW	Clostridium sphenoides	56000	*	*alpha6,beta6,gamma6, 6 * 11700, gamma, + 6 * 32000, beta, + 6 * 56000, alpha
+MW	Klebsiella pneumoniae	85000	*	*alpha6beta6gamm1, 6 * 32000, acyllyase beta-subunit, + 6 * 54000, acyltransferase alpha-subunit + 1 * 85000, acyl-carrier-protein gamma-subunit, SDS-PAGE
+MW	Hydrogenobacter thermophilus	87000	*	*gel filtration
+PATH	*	Carbon fixation pathways in prokaryotes	*	*
+PATH	*	citrate degradation	*	*
+PATH	*	citric acid cycle	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	reductive TCA cycle II	*	*
+SA	Hydrogenobacter thermophilus	1	*	*citrate synthase activity as a side reaction
+SA	Hydrogenobacter thermophilus	33	*	*citrate, ATP, CoA and citryl-CoA forming enzyme CCS in the enzyme assay
+SA	Hydrogenobacter thermophilus	280	*	*purified citryl-CoA as substrate

@@ -1,0 +1,72 @@
+KCAT	Rhodobacter sphaeroides	2.5	(3S)-malyl-CoA	*at 30&deg;C
+KCAT	Rhodobacter sphaeroides	2.8	beta-methylmalyl-CoA	*at 30&deg;C
+KCAT	Rhodobacter sphaeroides	8.6	acetyl-CoA	*at 30&deg;C
+KCAT	Chloroflexus aurantiacus	8.8	(3S)-3-carboxy-3-hydroxypropanoyl-CoA	*pH 7.1, 55&deg;C
+KCAT	Rhodobacter sphaeroides	12	propionyl-CoA	*at 30&deg;C
+KM	Methylorubrum extorquens	0.015	acetyl-CoA	*
+KM	Methylorubrum extorquens	0.015	acetyl-CoA	*
+KM	Pseudomonas sp.	0.035	acetyl-CoA	*
+KM	Rhodobacter sphaeroides	0.1	acetyl-CoA	*at 30&Acirc;&deg;C
+KM	Rhodobacter capsulatus	0.14	acetyl-CoA	*
+KM	Chloroflexus aurantiacus	0.36	acetyl-CoA	*pH 7.1, 55&Acirc;&deg;C
+KM	Pseudomonas sp.	0.8	glyoxylate	*
+KM	Rhodobacter capsulatus	1.2	glyoxylate	*
+KM	Methylorubrum extorquens	1.7	glyoxylate	*
+KM	Methylorubrum extorquens	1.7	glyoxylate	*
+KM	Chloroflexus aurantiacus	2	glyoxylate	*pH 7.1, 55&Acirc;&deg;C
+KM	Rhodobacter sphaeroides	3.1	glyoxylate	*condensation of acetyl-CoA and glyoxylate, at 30&Acirc;&deg;C
+KM	Rhodobacter sphaeroides	4.1	glyoxylate	*condensation of propionyl-CoA and glyoxylate, at 30&Acirc;&deg;C
+KM	Rhodobacter sphaeroides	0.2	propionyl-CoA	*at 30&Acirc;&deg;C
+KM	Chloroflexus aurantiacus	1.2	propionyl-CoA	*pH 7.1, 55&Acirc;&deg;C
+KM	Chloroflexus aurantiacus	0.005	(3S)-3-carboxy-3-hydroxypropanoyl-CoA	*pH 7.7, 55&Acirc;&deg;C
+KM	Chloroflexus aurantiacus	0.061	(3S)-3-carboxy-3-hydroxypropanoyl-CoA	*pH 7.1, 55&Acirc;&deg;C
+KM	Methylorubrum extorquens	0.066	(3S)-3-carboxy-3-hydroxypropanoyl-CoA	*
+KM	Methylorubrum extorquens	0.066	(3S)-3-carboxy-3-hydroxypropanoyl-CoA	*
+KM	Rhodobacter sphaeroides	0.08	(3S)-3-carboxy-3-hydroxypropanoyl-CoA	*
+KM	Pseudomonas sp.	0.1	(3S)-3-carboxy-3-hydroxypropanoyl-CoA	*
+KM	Rhodobacter sphaeroides	0.02	(3S)-malyl-CoA	*at 30&Acirc;&deg;C
+KM	Rhodobacter capsulatus	0.015	malyl-CoA	*
+KM	Rhodobacter sphaeroides	0.01	beta-methylmalyl-CoA	*at 30&Acirc;&deg;C
+KM	Chloroflexus aurantiacus	0.089	beta-methylmalyl-CoA	*pH 7.1, 55&Acirc;&deg;C
+KM	Rhodobacter capsulatus	0.021	erythro-beta-methylmalyl-CoA	*
+MW	Rhodobacter capsulatus	35000	*	*6 * 35000, SDS-PAGE
+MW	Rhodobacter sphaeroides	36800	*	*4 * 36800, by sequence analysis
+MW	Rhodobacter sphaeroides	36800	*	*6 * 36800, about, sequence calculation, dimer of trimers, elaborations on the canonical beta8/alpha8 TIM barrel fold and form hexameric assemblies. The trimeric assembly itself is a prerequisite for the catalytic activity
+MW	Chloroflexus aurantiacus	38000	*	*x * 38000, alpha5 or alpha6, SDS-PAGE
+MW	Chloroflexus aurantiacus	38400	*	*6 * 38400, about, sequence calculation, dimer of trimers, elaborations on the canonical beta8/alpha8 TIM barrel fold and form hexameric assemblies. The trimeric assembly itself is a prerequisite for the catalytic activity
+MW	Methylorubrum extorquens	190000	*	*meniscus depletion method
+MW	Methylorubrum extorquens	190000	*	*meniscus depletion method
+MW	Rhodobacter capsulatus	195000	*	*gel filtration
+MW	Rhodobacter sphaeroides	200000	*	*gel filtration
+MW	Chloroflexus aurantiacus	210000	*	*gel filtration
+MW	Rhodobacter sphaeroides	220000	*	*recombinant His10-tagged enzyme, gel filtration
+MW	Chloroflexus aurantiacus	228000	*	*recombinant enzyme, gel filtration
+PATH	*	3-hydroxypropanoate cycle	*	*
+PATH	*	C5-Branched dibasic acid metabolism	*	*
+PATH	*	Carbon fixation pathways in prokaryotes	*	*
+PATH	*	crotonyl-CoA/ethylmalonyl-CoA/hydroxybutyryl-CoA cycle (engineered)	*	*
+PATH	*	ethylmalonyl-CoA pathway	*	*
+PATH	*	ethylmalonyl-CoA pathway	*	*
+PATH	*	formaldehyde assimilation I (serine pathway)	*	*
+PATH	*	Glyoxylate and dicarboxylate metabolism	*	*
+PATH	*	glyoxylate assimilation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Methane metabolism	*	*
+PATH	*	methylaspartate cycle	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Methylorubrum extorquens	-999	*	*
+SA	Pseudomonas sp.	-999	*	*
+SA	Pseudomonas sp.	-999	*	*
+SA	Pseudomonas sp.	0.47	*	*
+SA	Chloroflexus aurantiacus	0.48	*	*acetyl-CoA condensation
+SA	Chloroflexus aurantiacus	0.5	*	*propionyl-CoA condensation
+SA	Chloroflexus aurantiacus	2.3	*	*L-malyl-CoA lyase activity
+SA	Rhodobacter sphaeroides	4.1	*	*cleavage of (3S)-malyl-CoA
+SA	Rhodobacter sphaeroides	4.5	*	*cleavage of beta-methylmalyl-CoA
+SA	Rhodobacter capsulatus	5.7	*	*cleavage of erythro-beta-methylmalyl-CoA
+SA	Chloroflexus aurantiacus	6.5	*	*beta-methylmalyl-CoA lyase activity
+SA	Rhodobacter sphaeroides	14	*	*condensation of acetyl-CoA and glyoxylate
+SA	Rhodobacter capsulatus	18	*	*cleavage of L-malyl-CoA
+SA	Rhodobacter sphaeroides	20	*	*condensation of propionyl-CoA and glyoxylate
+SA	Methylorubrum extorquens	28.1	*	*
+SA	Rhodobacter capsulatus	37	*	*condensation of acetyl-CoA with glyoxylate

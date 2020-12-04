@@ -1,0 +1,58 @@
+KCAT	Ochrobactrum anthropi	0.5	L-Ala-4-nitroanilide	*100 mM Tris/HCl, pH 8.0, 30&Acirc;&deg;C
+KCAT	Ochrobactrum anthropi	0.56	L-Ala-4-nitroanilide	*50 mM potassium phosphate, pH 8.0, 30&Acirc;&deg;C
+KCAT	Ochrobactrum anthropi	0.11	L-Lys-4-nitroanilide	*50 mM potassium phosphate, pH 8.0, 30&Acirc;&deg;C
+KCAT	Ochrobactrum anthropi	3.3	D-Ala-4-nitroanilide	*50 mM potassium phosphate, pH 8.0, 30&Acirc;&deg;C
+KCAT	Ochrobactrum anthropi	4	D-Ala-4-nitroanilide	*100 mM Tris/HCl, pH 8.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.2	homocarnosine	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Homo sapiens	18	homocarnosine	*presence of CD2+, pH 7.5, 30&Acirc;&deg;C
+KCAT	Ochrobactrum anthropi	0.14	L-Arg-4-nitroanilide	*50 mM potassium phosphate, pH 8.0, 30&Acirc;&deg;C
+KCAT	Ochrobactrum anthropi	70	Gly-4-nitroanilide	*100 mM Tris/HCl or 50 mM potassium phosphate, pH 8.0, 30&Acirc;&deg;C
+KCAT	Homo sapiens	10.6	beta-Ala-L-His	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Homo sapiens	138	beta-Ala-L-His	*presence of CD2+, pH 7.5, 30&Acirc;&deg;C
+KCAT	Ochrobactrum anthropi	30.5	beta-Ala-4-nitroanilide	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Ochrobactrum anthropi	51.4	beta-homoAla-4-nitroanilide	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Ochrobactrum anthropi	0.03	beta-homoPhe-4-nitroanilide	*pH 8.0, 25&Acirc;&deg;C
+KM	Ochrobactrum anthropi	0.36	L-Ala-4-nitroanilide	*50 mM potassium phosphate, pH 8.0, 30&Acirc;&deg;C
+KM	Ochrobactrum anthropi	0.6	L-Ala-4-nitroanilide	*100 mM Tris/HCl, pH 8.0, 30&Acirc;&deg;C
+KM	Homo sapiens	0.175	carnosine	*Vmax: 440 pmol/min/microgram
+KM	Homo sapiens	0.21	carnosine	*Vmax: 356 pmol/min/microgram after addition of 0.08 mM homocarnosine
+KM	Mus musculus	0.7	carnosine	*pH 7.0, temperature not specified in the publication, presence of 1 mM glycine
+KM	Mus musculus	0.8	carnosine	*pH 7.0, temperature not specified in the publication; pH 7.0, temperature not specified in the publication, presence of 1 mM L-glutamate
+KM	Mus musculus	0.9	carnosine	*pH 7.0, temperature not specified in the publication, presence of 1 mM glutathione; pH 7.0, temperature not specified in the publication, presence of 1 mM reduced glutathione
+KM	Mus musculus	1	carnosine	*pH 7.0, temperature not specified in the publication, presence of 1 mM cysteine
+KM	Mus musculus	1.1	carnosine	*pH 7.0, temperature not specified in the publication, presence of 1 mM N-acetylcysteine
+KM	Ochrobactrum anthropi	0.4	L-Lys-4-nitroanilide	*50 mM potassium phosphate, pH 8.0, 30&Acirc;&deg;C
+KM	Ochrobactrum anthropi	0.52	D-Ala-4-nitroanilide	*50 mM potassium phosphate, pH 8.0, 30&Acirc;&deg;C
+KM	Ochrobactrum anthropi	0.54	D-Ala-4-nitroanilide	*100 mM Tris/HCl, pH 8.0, 30&Acirc;&deg;C
+KM	Homo sapiens	0.2	homocarnosine	*pH 7.5, 30&Acirc;&deg;C
+KM	Homo sapiens	1.9	homocarnosine	*presence of CD2+, pH 7.5, 30&Acirc;&deg;C
+KM	Ochrobactrum anthropi	0.4	L-Arg-4-nitroanilide	*50 mM potassium phosphate, pH 8.0, 30&Acirc;&deg;C
+KM	Ochrobactrum anthropi	3	Gly-4-nitroanilide	*100 mM Tris/HCl or 50 mM potassium phosphate, pH 8.0, 30&Acirc;&deg;C
+KM	Homo sapiens	1.27	beta-Ala-L-His	*pH 7.5, 30&Acirc;&deg;C
+KM	Homo sapiens	11	beta-Ala-L-His	*presence of CD2+, pH 7.5, 30&Acirc;&deg;C
+KM	Ochrobactrum anthropi	0.0039	beta-Ala-4-nitroanilide	*pH 8.0, 25&Acirc;&deg;C
+KM	Ochrobactrum anthropi	0.019	beta-homoAla-4-nitroanilide	*pH 8.0, 25&Acirc;&deg;C
+KM	Ochrobactrum anthropi	1.1	beta-homoPhe-4-nitroanilide	*pH 8.0, 25&Acirc;&deg;C
+MW	Pseudomonas sp.	13000	*	*alpha4beta4, 2 * 13000 + 2 * 27000, SDS-PAGE
+MW	Ochrobactrum anthropi	13737	*	*x * 13737 + x * 26564, electrospray mass spectrometry
+MW	Ochrobactrum anthropi	15000	*	*x * 15000 + x * 30000, SDS-PAGE
+MW	Ochrobactrum anthropi	26564	*	*x * 13737 + x * 26564, electrospray mass spectrometry
+MW	Pseudomonas sp.	27000	*	*alpha4beta4, 2 * 13000 + 2 * 27000, SDS-PAGE
+MW	Ochrobactrum anthropi	30000	*	*x * 15000 + x * 30000, SDS-PAGE
+MW	Homo sapiens	52800	*	*2 * 82000, SDS-PAGE, 2 * 63700, MALDI-TOF, 2 * 52800, calculated
+MW	Homo sapiens	63700	*	*2 * 82000, SDS-PAGE, 2 * 63700, MALDI-TOF, 2 * 52800, calculated
+MW	Homo sapiens	65000	*	*SDS-PAGE, non-reducing conditions
+MW	Homo sapiens	75000	*	*2 * 75000, subunits are connected by one or more disulfide bonds, SDS-PAGE
+MW	Homo sapiens	82000	*	*2 * 82000, SDS-PAGE, 2 * 63700, MALDI-TOF, 2 * 52800, calculated
+MW	Homo sapiens	86000	*	*x* 92000, SDS-PAGE of secreted protein, x * 86000 and x * 88000, SDS-PAGE of cytosolic protein
+MW	Homo sapiens	88000	*	*x* 92000, SDS-PAGE of secreted protein, x * 86000 and x * 88000, SDS-PAGE of cytosolic protein
+MW	Homo sapiens	130000	*	*SDS-PAGE, reducing conditions
+MW	Homo sapiens	150000	*	*SDS-PAGE, non-reducing conditions or reducing conditions
+MW	Pseudomonas sp.	150000	*	*gel filtration
+MW	Homo sapiens	160000	*	*gel filtration
+MW	Homo sapiens	167000	*	*gel filtration
+PATH	*	Arginine and proline metabolism	*	*
+PATH	*	beta-Alanine metabolism	*	*
+PATH	*	Histidine metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Homo sapiens	-999	*	*

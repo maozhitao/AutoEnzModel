@@ -1,0 +1,50 @@
+KCAT	Mycobacterium tuberculosis	0.4	GTP	*full length enzyme; full length enzyme + tRNA
+KCAT	Mycobacterium tuberculosis	0.47	GTP	*fragment 87-394; fragment 87-394 + tRNA; fragment 87-394 + tRNA + ribosomes + poly(U)
+KCAT	Mycobacterium tuberculosis	0.66	GTP	*fragment 1-394 monomer; fragment 1-394 + tRNA; fragment 1-394 + tRNA + ribosomes + poly(U)
+KCAT	Mycobacterium tuberculosis	8.4	GTP	*full length enzyme + tRNA + ribosomes + poly(U)
+KCAT	Mycolicibacterium smegmatis	73	GDP	*in 50 mM HEPES, pH 7.5, at 37&deg;C
+KCAT	Mycolicibacterium smegmatis	127	GTP	*in 50 mM HEPES, pH 7.5, at 37&deg;C
+KM	Escherichia coli	-999	more	*
+KM	Francisella tularensis subsp. tularensis	-999	more	*steady-state kinetic analysis, saturation activity curves best fit a sigmoidal function, the kinetic profile can result from allosteric regulation, overview
+KM	Bacillus subtilis	-999	more	*alarmone synthesis in SAS1 proceeds in a highly cooperative manner
+KM	Geobacillus stearothermophilus	0.05	ATP	*synthetase II, pH 7.8, 37&deg;C
+KM	Brevibacillus brevis	0.14	GDP	*30&deg;C, pH 8.1
+KM	Francisella tularensis subsp. tularensis	0.259	ATP	*pH 8.0, 30&deg;C, recombinant enzyme
+KM	Mycobacterium tuberculosis	0.33	GTP	*full length enzyme + tRNA + ribosomes + poly(U)
+KM	Brevibacillus brevis	0.62	ATP	*cosubstrate GDP, pH 8.1, 30&deg;C
+KM	Mycobacterium tuberculosis	0.67	GTP	*fragment 1-394 monomer; fragment 1-394 + tRNA; fragment 1-394 + tRNA + ribosomes + poly(U)
+KM	Mycobacterium tuberculosis	0.7	GTP	*full length enzyme + tRNA
+KM	Brevibacillus brevis	0.71	ATP	*cosubstrate GTP, pH 8.1, 30&deg;C
+KM	Brevibacillus brevis	0.77	GTP	*30&deg;C, pH 8.1
+KM	Mycobacterium tuberculosis	0.78	GTP	*fragment 87-394; fragment 87-394 + tRNA; fragment 87-394 + tRNA + ribosomes + poly(U)
+KM	Francisella tularensis subsp. tularensis	0.801	GTP	*pH 8.0, 30&deg;C, recombinant enzyme
+KM	Mycolicibacterium smegmatis	1.163	GTP	*in 50 mM HEPES, pH 7.5, at 37&deg;C
+KM	Bacillus subtilis	1.2	GDP	*pH 7.5, 37&deg;C, recombinant enzyme
+KM	Mycobacterium tuberculosis	1.36	GTP	*full length enzyme
+KM	Mycolicibacterium smegmatis	1.532	GDP	*in 50 mM HEPES, pH 7.5, at 37&deg;C
+KM	Bacillus subtilis	1.7	GTP	*pH 7.5, 37&deg;C, recombinant enzyme
+KM	Geobacillus stearothermophilus	2	ATP	*synthetase I, pH 7.8, 37&deg;C
+KM	Bacillus subtilis	2	guanosine 3'-diphosphate 5'-triphosphate	*pH 7.5, 37&deg;C, recombinant enzyme
+KM	Bacillus subtilis	3	guanosine 3'-diphosphate 5'-diphosphate	*pH 7.5, 37&deg;C, recombinant enzyme
+MW	Streptomyces antibioticus	47000	*	*1 * 47000, GPS II, produced by proteolysis of the larger 88000 MW form, denaturing PAGE, 1 * 88000, GPS I, denaturing PAGE
+MW	Brevibacillus brevis	55000	*	*sucrose density gradient centrifugation
+MW	Geobacillus stearothermophilus	74000	*	*synthetase II, sucrose density gradient centrifugation
+MW	Francisella tularensis subsp. tularensis	74000	*	*
+MW	Mycobacterium tuberculosis	82000	*	*full-length enzyme, calculated from OD280
+MW	Escherichia coli	83860	*	*deduced from nucleotide sequence
+MW	Geobacillus stearothermophilus	86000	*	*synthetase I, sucrose density gradient centrifugation
+MW	Streptomyces antibioticus	88000	*	*1 * 47000, GPS II, produced by proteolysis of the larger 88000 MW form, denaturing PAGE, 1 * 88000, GPS I, denaturing PAGE
+MW	Francisella tularensis subsp. tularensis	128000	*	*recombinant His-tagged enzyme, gel filtration
+MW	Francisella tularensis subsp. tularensis	148000	*	*about, sequence calculation
+MW	Mycobacterium tuberculosis	240000	*	*full-length enzyme, gel filtration
+MW	Mycobacterium tuberculosis	245000	*	*full-length enzyme, calculated from amino acid sequence
+PATH	*	Metabolic pathways	*	*
+PATH	*	ppGpp biosynthesis	*	*
+PATH	*	ppGpp metabolism	*	*
+PATH	*	Purine metabolism	*	*
+SA	Brevibacillus brevis	-999	*	*
+SA	Mycobacterium tuberculosis	0.00021	*	*mol of PPi/s/mol of enzyme, fragment 1-181
+SA	Mycobacterium tuberculosis	0.027	*	*mol of PPi/s/mol of enzyme, fragment 1-394 monomer
+SA	Mycobacterium tuberculosis	0.028	*	*mol of PPi/s/mol of enzyme, full length enzyme
+SA	Mycobacterium tuberculosis	0.03	*	*mol of PPi/s/mol of enzyme, fragment 1-203
+SA	Streptomyces antibioticus	1.14	*	*

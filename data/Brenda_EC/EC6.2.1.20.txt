@@ -1,0 +1,44 @@
+KCAT	Synechococcus elongatus	0.016	oleic acid	*pH 8.0
+KM	Escherichia coli	0.3	ATP	*
+KM	Rhodotorula glutinis	2.5	ATP	*pH 8.0, 30&Acirc;&deg;C
+KM	Synechococcus elongatus	0.01	oleic acid	*pH 8.0
+KM	Rhodotorula glutinis	0.025	oleic acid	*pH 8.0, 30&Acirc;&deg;C
+KM	Escherichia coli	0.03	oleic acid	*
+KM	Rhodotorula glutinis	0.023	linoleic acid	*pH 8.0, 30&Acirc;&deg;C
+KM	Escherichia coli	0.0053	palmitic acid	*
+KM	Rhodotorula glutinis	0.043	palmitic acid	*pH 8.0, 30&Acirc;&deg;C
+KM	Escherichia coli	0.015	myristic acid	*palmitic acid
+KM	Escherichia coli	0.025	lauric acid	*
+KM	Escherichia coli	0.005	acyl-carrier protein	*
+KM	Escherichia coli	0.016	acyl-carrier protein	*
+KM	Vibrio harveyi	7.9	acyl-carrier protein	*pH 7.8, 37&Acirc;&deg;C
+KM	Escherichia coli	0.013	stearic acid	*
+KM	Rhodotorula glutinis	0.03	stearic acid	*pH 8.0, 30&Acirc;&deg;C
+KM	Escherichia coli	0.166	octanoic acid	*
+KM	Escherichia coli	0.02	palmitoleic acid	*cis-vaccenic acid, oleic acid, linoleic acid
+KM	Vibrio harveyi	0.02	palmitoleic acid	*E. coli [acyl-carrier protein]
+KM	Escherichia coli	0.1	Decanoic acid	*
+KM	Escherichia coli	0.0035	E. coli acyl-carrier protein	*
+KM	Escherichia coli	0.004	spinach acyl-carrier protein	*
+KM	Vibrio harveyi	-999	more	*Km values given for several mutant acyl-carrier proteins
+KM	Escherichia coli	0.005	saturated fatty acids	*C12:0 to C16:0
+KM	Escherichia coli	0.03	unsaturated fatty acids	*fatty acids with shorter chain length than 12
+MW	Escherichia coli	27000	*	*x * 27000, SDS-PAGE
+MW	Rhodotorula glutinis	35000	*	*SDS-PAGE and native PAGE
+MW	Vibrio harveyi	60400	*	*SDS-PAGE, hexahistidine-tagged
+MW	Vibrio harveyi	62000	*	*x * 62000, SDS-PAGE
+MW	Vibrio harveyi	80000	*	*gel filtration under reducing conditions
+MW	Escherichia coli	80600	*	*
+PATH	*	alkane biosynthesis I	*	*
+PATH	*	Fatty acid degradation	*	*
+PATH	*	heptadecane biosynthesis	*	*
+PATH	*	lipoate biosynthesis	*	*
+SA	Vibrio harveyi	0.00000478	*	*at 37&Acirc;&deg;C for 30 min with 10 mM MgSO4, 10 mM ATP, 0.1 mM [9,10-3H]myristic acid in 100 mM Tris-HCl, pH 7.8, and 5 mM dithiothreitol
+SA	Arabidopsis thaliana	0.0000667	*	*purified recombinant enzyme, pH 8.0, 37&Acirc;&deg;C, with substrate decanoate
+SA	Arabidopsis thaliana	0.0001027	*	*purified recombinant enzyme, pH 8.0, 37&Acirc;&deg;C, with substrate laurate
+SA	Arabidopsis thaliana	0.0001572	*	*purified recombinant enzyme, pH 8.0, 37&Acirc;&deg;C, with substrate myristate
+SA	Escherichia coli	0.022	*	*transfected Escherichia coli BL21(DE3) with lactose as inducer and palmitic acid as substrate
+SA	Escherichia coli	0.028	*	*
+SA	Escherichia coli	0.071	*	*transfected Escherichia coli C41(DE3) with IPTG as inducer and palmitic acid as substrate
+SA	Escherichia coli	1.32	*	*purified enzyme from Escherichia coli C41(DE3) with palmitic acid as substrate
+SA	Vibrio harveyi	4.6	*	*

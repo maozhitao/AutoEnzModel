@@ -1,0 +1,133 @@
+KCAT	Kitasatospora aureofaciens	0.7	poly(I)	*25&Acirc;&deg;C, pH 6.2, mutant enzyme E54Q
+KCAT	Kitasatospora aureofaciens	189	poly(I)	*25&Acirc;&deg;C, pH 6.2, wild-type enzyme
+KCAT	Kitasatospora aureofaciens	220	poly(I)	*25&Acirc;&deg;C, pH 6.5, mutant enzyme D79E; 25&Acirc;&deg;C, pH 6.5, wild-type enzyme
+KCAT	Kitasatospora aureofaciens	280	poly(I)	*25&Acirc;&deg;C, pH 6.5, mutant enzyme D79N
+KCAT	Kitasatospora aureofaciens	410	poly(I)	*25&Acirc;&deg;C, pH 6.5, mutant enzyme D79I
+KCAT	Kitasatospora aureofaciens	430	poly(I)	*25&Acirc;&deg;C, pH 6.5, mutant enzyme D79K
+KCAT	Kitasatospora aureofaciens	460	poly(I)	*25&Acirc;&deg;C, pH 6.5, mutant enzyme D79R; 25&Acirc;&deg;C, pH 6.5, mutant enzyme D79W
+KCAT	Aspergillus oryzae	350	GpC	*
+KCAT	Aspergillus oryzae	96	GpA	*
+KCAT	Aspergillus oryzae	62	GpG	*
+KCAT	Aspergillus oryzae	38	GpU	*
+KCAT	Escherichia coli	126	5'-pGGGACAGUAUUUG-3'	*R169K mutant
+KCAT	Escherichia coli	180	5'-pGGGACAGUAUUUG-3'	*wild-type
+KCAT	Escherichia coli	72	5'-OHGGGACAGUAUUUG-3'	*wild-type
+KCAT	Aspergillus oryzae	-999	more	*kcat/Km(GpC)/kcat/Km(ApC) is 284000 for wild-type enzyme, and 39 for mutant enzyne K41E/Y42F/N43R/Y45W/E46N/W59Y (RNase T1-R2) and mutant enzyme K41E/Y42F/N43R/Y45W/E46N (RNase RV)
+KCAT	Aspergillus oryzae	-999	more	*kcat/Km(GpC)/kcat/Km(ApC) is 284000 for wild-type enzyme, 195 for mutant enzyme E46N and 137 for mutant enzyme E46N/Y45W
+KM	Aspergillus oryzae	-999	more	*pH-dependence of Km
+KM	Aspergillus oryzae	-999	more	*
+KM	Aspergillus oryzae	-999	more	*Kcat/Km values of 1000 mM-1 S-1, 0.458 mM-1 S-1, 7520 mM-1 S-1, and 8.65 mM-1 S-1 for wild type enzyme and Y38F, E58A, H92Q and F100A mutants, respectively, with GpU as substrate. Kcat/Km values of 11.3 mM-1 S-1, 15.1 mM-1 S-1, 0.153 mM-1 S-1, 27.4 mM-1 S-1, 0.117 mM-1 S-1, 1.38 mM-1 S-1 for wild type enzyme and Y38F, H40A, E58A, and F100A mutants, respectively, with SpGp(S)U as substrate. Kcat/Km values of 665 mM-1 S-1, 210 mM-1 S-1, 0.029 mM-1 S-1, 5.35 mM-1 S-1, 0.028 mM-1 S-1 and 0.508 mM-1 S-1 for wild type enzyme and Y38F, H40A, E58A, H92Q and F100A mutants, respectively, with RpGp(S)U as substrate
+KM	Aspergillus oryzae	-999	more	*kcat/Km(GpC)/kcat/Km(ApC) is 284000 for wild-type enzyme, and 39 for mutant enzyne K41E/Y42F/N43R/Y45W/E46N/W59Y (RNase T1-R2) and mutant enzyme K41E/Y42F/N43R/Y45W/E46N (RNase RV)
+KM	Aspergillus oryzae	-999	more	*kcat/Km(GpC)/kcat/Km(ApC) is 284000 for wild-type enzyme, 195 for mutant enzyme E46N and 137 for mutant enzyme E46N/Y45W
+KM	Escherichia coli	0.00012	5'-pGGGACAGUAUUUG-3'	*wild-type
+KM	Escherichia coli	0.0081	5'-pGGGACAGUAUUUG-3'	*R169K mutant
+KM	Escherichia coli	0.021	5'-OHGGGACAGUAUUUG-3'	*R169K mutant; wild-type
+KM	Aspergillus oryzae	0.0238	GpU	*
+KM	Aspergillus oryzae	0.0268	GpA	*
+KM	Aspergillus oryzae	0.0291	GpG	*
+KM	Aspergillus oryzae	0.052	adenylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, N43H mutant
+KM	Aspergillus oryzae	0.0581	guanylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, N43G mutant
+KM	Ustilago sphaerogena	0.069	GpC	*RNase N1
+KM	Aspergillus oryzae	0.0757	guanylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, Q46_P47insQ mutant
+KM	Aspergillus oryzae	0.0758	guanylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, N43I mutant
+KM	Aspergillus oryzae	0.0772	guanylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, N43T mutant
+KM	Aspergillus oryzae	0.081	adenylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, N43Q/N44G mutant
+KM	Aspergillus oryzae	0.092	adenylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, N43T mutant
+KM	Aspergillus oryzae	0.1	polyinosinic acid	*pH 7.06, 25&ordm;C, 5K mutant; pH 7.50, 25&ordm;C, 5K mutant
+KM	Aspergillus oryzae	0.11	polyinosinic acid	*pH 8.10, 25&ordm;C, 5K mutant
+KM	Aspergillus oryzae	0.13	polyinosinic acid	*pH 6.50, 25&ordm;C, 5K mutant
+KM	Aspergillus oryzae	0.135	guanylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, wild-type enzyme
+KM	Aspergillus oryzae	0.14	polyinosinic acid	*pH 6.50, 25&ordm;C, 3K mutant; pH 7.06, 25&ordm;C, 3K mutant; pH 8.50, 25&ordm;C, 5K mutant
+KM	Aspergillus oryzae	0.15	polyinosinic acid	*pH 6.50, 25&ordm;C, wild-type enzyme
+KM	Kitasatospora aureofaciens	0.151	poly(I)	*25&deg;C, pH 6.2, wild-type enzyme
+KM	Aspergillus oryzae	0.156	guanylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, N44H mutant
+KM	Kitasatospora aureofaciens	0.16	poly(I)	*25&deg;C, pH 6.5, mutant enzyme D79E; 25&deg;C, pH 6.5, wild-type enzyme
+KM	Aspergillus oryzae	0.16	polyinosinic acid	*pH 6.05, 25&ordm;C, wild-type enzyme
+KM	Aspergillus oryzae	0.17	adenylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, Y45S mutant
+KM	Aspergillus oryzae	0.173	guanylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, N43H mutant
+KM	Aspergillus oryzae	0.18	polyinosinic acid	*pH 5.60, 25&ordm;C, wild-type enzyme; pH 6.00, 25&ordm;C, 3K mutant
+KM	Aspergillus oryzae	0.19	adenylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, N44H mutant
+KM	Aspergillus oryzae	0.19	polyinosinic acid	*pH 7.06, 25&ordm;C, wild-type enzyme; pH 7.48, 25&ordm;C, 3K mutant
+KM	Aspergillus oryzae	0.2	polyinosinic acid	*pH 8.00, 25&ordm;C, 3K mutant
+KM	Kitasatospora aureofaciens	0.21	poly(I)	*25&deg;C, pH 6.5, mutant enzyme D79N
+KM	Aspergillus oryzae	0.21	polyinosinic acid	*pH 5.05, 25&ordm;C, wild-type enzyme
+KM	Aspergillus oryzae	0.23	polyinosinic acid	*pH 6.05, 25&ordm;C, 5K mutant
+KM	Ustilago sphaerogena	0.238	GpC	*RNase U1
+KM	Aspergillus oryzae	0.24	polyinosinic acid	*pH 4.47, 25&ordm;C, wild-type enzyme; pH 8.48, 25&ordm;C, 3K mutant
+KM	Aspergillus oryzae	0.25	polyinosinic acid	*pH 4.02, 25&ordm;C, wild-type enzyme
+KM	Aspergillus oryzae	0.259	guanylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, N43Y mutant
+KM	Aspergillus oryzae	0.26	polyinosinic acid	*pH 5.50, 25&ordm;C, 3K mutant; pH 7.50, 25&ordm;C, wild-type enzyme
+KM	Aspergillus oryzae	0.29	polyinosinic acid	*pH 8.01, 25&ordm;C, wild-type enzyme
+KM	Kitasatospora aureofaciens	0.3	poly(I)	*25&deg;C, pH 6.5, mutant enzyme D79R
+KM	Kitasatospora aureofaciens	0.32	poly(I)	*25&deg;C, pH 6.2, mutant enzyme E54Q
+KM	Aspergillus oryzae	0.321	RNA	*pH 7.5, 25&ordm;C, wild-type enzyme
+KM	Kitasatospora aureofaciens	0.33	poly(I)	*25&deg;C, pH 6.5, mutant enzyme D79K
+KM	Aspergillus oryzae	0.33	polyinosinic acid	*pH 5.00, 25&ordm;C, 3K mutant
+KM	Aspergillus oryzae	0.34	polyinosinic acid	*pH 8.50, 25&ordm;C, wild-type enzyme
+KM	Kitasatospora aureofaciens	0.36	poly(I)	*25&deg;C, pH 6.5, mutant enzyme D79I
+KM	Aspergillus oryzae	0.361	guanylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, Q46_Q47insP mutant
+KM	Kitasatospora aureofaciens	0.4	poly(I)	*25&deg;C, pH 6.5, mutant enzyme D79W
+KM	Aspergillus oryzae	0.433	RNA	*pH 7.5, 25&ordm;C, Y45S
+KM	Ustilago sphaerogena	0.435	GpC	*RNase T1
+KM	Aspergillus oryzae	0.44	adenylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, wild-type enzyme
+KM	Aspergillus oryzae	0.47	polyinosinic acid	*pH 5.60, 25&ordm;C, 5K mutant
+KM	Aspergillus oryzae	0.506	guanylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, Q46_P47insP mutant
+KM	Aspergillus oryzae	0.549	guanylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, N43Q/N44G mutant
+KM	Aspergillus oryzae	0.57	polyinosinic acid	*pH 4.50, 25&ordm;C, 3K mutant
+KM	Aspergillus oryzae	0.606	guanylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, Y45S mutant
+KM	Aspergillus oryzae	0.61	adenylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, N43I mutant
+KM	Aspergillus oryzae	0.64	polyinosinic acid	*pH 5.04, 25&ordm;C, 5K mutant
+KM	Aspergillus oryzae	0.698	RNA	*pH 7.5, 25&ordm;C, N43H
+KM	Aspergillus oryzae	0.73	RNA	*pH 7.5, 25&ordm;C, N43G
+KM	Aspergillus oryzae	0.75	polyinosinic acid	*pH 4.00, 25&ordm;C, 3K mutant
+KM	Aspergillus oryzae	0.9445	GpC	*
+KM	Aspergillus oryzae	0.961	RNA	*pH 7.5, 25&ordm;C, N43Y
+KM	Aspergillus oryzae	1.1	polyinosinic acid	*pH 4.47, 25&ordm;C, 5K mutant
+KM	Aspergillus oryzae	1.55	RNA	*pH 7.5, 25&ordm;C, N43I
+KM	Aspergillus oryzae	2.64	RNA	*pH 7.5, 25&ordm;C, N43T
+KM	Aspergillus oryzae	4	adenylyl-3',5'-cytidine	*pH 6.0, 25&ordm;C, N43G mutant
+KM	Aspergillus oryzae	4.56	RNA	*pH 7.5, 25&ordm;C, N43Q/N44G
+KM	Aspergillus oryzae	6.94	RNA	*pH 7.5, 25&ordm;C, Q46PQ mutant
+KM	Aspergillus oryzae	19.6	RNA	*pH 7.5, 25&ordm;C, N44H
+KM	Aspergillus oryzae	1470	RNA	*pH 7.5, 25&ordm;C, Q46PP mutant
+KM	Aspergillus oryzae	1510	polyinosinic acid	*pH 6.5, 25&ordm;C, wild-type enzyme
+KM	Aspergillus oryzae	1530	polyinosinic acid	*pH 6.0, 25&ordm;C, wild type enzyme
+KM	Aspergillus oryzae	1600	polyinosinic acid	*pH 6.5, 25&ordm;C, E41K mutant
+KM	Aspergillus oryzae	1670	guanosine-2',3'-cyclic monophosphate	*pH 6.0, 25&ordm;C, wild type enzyme
+KM	Aspergillus oryzae	1700	polyinosinic acid	*pH 6.5, 25&ordm;C, E74K mutant
+KM	Aspergillus oryzae	1730	guanosine-2',3'-cyclic monophosphate	*pH 6.0, 25&ordm;C, K41M mutant
+KM	Aspergillus oryzae	2000	polyinosinic acid	*pH 6.5, 25&ordm;C, R65A mutant
+KM	Aspergillus oryzae	2010	guanosine-2',3'-cyclic monophosphate	*pH 6.0, 25&ordm;C, K41T mutant
+KM	Aspergillus oryzae	2500	polyinosinic acid	*pH 6.5, 25&ordm;C, Q38A mutant
+KM	Aspergillus oryzae	3040	polyinosinic acid	*pH 6.0, 25&ordm;C, K41M mutant
+KM	Aspergillus oryzae	3060	polyinosinic acid	*pH 6.0, 25&ordm;C, K41T mutant
+KM	Aspergillus oryzae	3100	polyinosinic acid	*pH 6.5, 25&ordm;C, E54Q mutant
+KM	Aspergillus oryzae	5500	guanylyl-3',5'-uridine	*pH 6.5, 25&ordm;C, wild-type enzyme
+KM	Aspergillus oryzae	5700	guanylyl-3',5'-uridine	*pH 6.5, 25&ordm;C, E74K mutant
+KM	Aspergillus oryzae	10000	guanylyl-3',5'-uridine	*pH 6.5, 25&ordm;C, E41K mutant
+MW	Aspergillus oryzae	10000	*	*Neurospora crassa, RNase N4, gel filtration, SDS-PAGE
+MW	Ustilago sphaerogena	11000	*	*Ustilago sphaerogena, amino acid composition
+MW	Fusarium verticillioides	11000	*	*Fusarium moniliforme, gel filtration
+MW	Aspergillus oryzae	11085	*	*primary structure, Aspergillus oryzae, 1 * 11085
+MW	Aspergillus oryzae	11085	*	*primary structure, Aspergillus oryzae, 1 * 11085
+MW	Aspergillus oryzae	11090	*	*Aspergillus oryzae, amino acid analysis
+MW	Chalara sp.	11840	*	*Chalaropsis sp., amino acid composition
+MW	Chalara sp.	12000	*	*Chalaropsis sp., low speed equilibrium ultracentrifugation
+MW	Bacillus pumilus	12213	*	*1 * 12213, sequence calculation
+MW	Bacillus intermedius	12300	*	*
+MW	Bacillus amyloliquefaciens	12382	*	*1 * 12382, sequence calculation
+MW	Bacillus amyloliquefaciens	12400	*	*
+MW	Aspergillus niger	13000	*	*Aspergillus niger, RNase II, gel filtration
+MW	Bacillus amyloliquefaciens	26000	*	*2 * 26000, fusion protein of the antiferritin antibody VL domain and barnase, SDS-PAGE
+MW	Bacillus amyloliquefaciens	53000	*	*fusion protein of the antiferritin antibody VL domain and barnase, gel filtration
+MW	Mycobacterium tuberculosis	71100	*	*apparent molecular mass of the monomer, determined by sedimentation equilibrium analysis
+MW	Synechocystis sp. PCC 6803	79000	*	*determined by SDS-PAGE, N-terminally His-tagged form
+MW	Mycobacterium tuberculosis	325000	*	*tetramer, determined by gel-filtration
+SA	Aspergillus oryzae	-999	*	*
+SA	Aspergillus oryzae	-999	*	*
+SA	Aspergillus oryzae	-999	*	*
+SA	Aspergillus oryzae	-999	*	*
+SA	Neurospora crassa	-999	*	*
+SA	Ustilago sphaerogena	-999	*	*
+SA	Ustilago sphaerogena	-999	*	*
+SA	Pleurotus ostreatus	2350	*	*purified recombinant enzyme, pH 7.5, 37&deg;C

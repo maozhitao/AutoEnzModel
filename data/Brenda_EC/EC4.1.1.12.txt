@@ -1,0 +1,58 @@
+KCAT	Mycobacterium tuberculosis	0.65	L-aspartate	*37&deg;C, pH 7.0
+KCAT	Pseudomonas dacunhae	0.7	L-Asp	*mutant enzyme R37A, in 50 mM potassium phosphate, at pH 7.0 and 37&deg;C
+KCAT	Pseudomonas dacunhae	4.3	L-Asp	*wild type enzyme, in 50 mM potassium phosphate, at pH 7.0 and 37&deg;C
+KCAT	Comamonas testosteroni	259	L-Asp	*mutant enzyme Y134F, at pH 5.0 and 37&deg;C
+KCAT	Comamonas testosteroni	270	L-Asp	*mutant enzyme R37A, at pH 5.0 and 37&deg;C
+KCAT	Comamonas testosteroni	273	L-Asp	*mutant enzyme Y441F, at pH 5.0 and 37&deg;C
+KCAT	Comamonas testosteroni	279	L-Asp	*mutant enzyme K315A, at pH 5.0 and 37&deg;C
+KCAT	Comamonas testosteroni	294	L-Asp	*mutant enzyme Y207F, at pH 5.0 and 37&deg;C
+KCAT	Comamonas testosteroni	311	L-Asp	*mutant enzyme K17A, at pH 5.0 and 37&deg;C
+KCAT	Comamonas testosteroni	442	L-Asp	*wild type enzyme, at pH 5.0 and 37&deg;C
+KM	Mycobacterium tuberculosis	0.22	L-aspartate	*37&Acirc;&deg;C, pH 7.0
+KM	Aedes aegypti	1.8	L-aspartate	*in 0.2 M phosphate buffer (pH 7.0) containing 0.1 mM pyridoxal 5'-phosphate, at 25&Acirc;&deg;C
+KM	Pseudomonas sp.	11.5	L-aspartate	*pH 6.8, 37&Acirc;&deg;C, recombinant enzyme
+KM	Achromobacter sp.	0.08	L-Asp	*
+KM	Rattus norvegicus	0.095	L-Asp	*
+KM	Alcaligenes faecalis	0.68	L-Asp	*
+KM	Pseudomonas dacunhae	1	L-Asp	*in presence of 2-oxoglutarate or pyridoxal 5'-phosphate
+KM	Rattus norvegicus	1.3	L-Asp	*brain enzyme
+KM	Rattus norvegicus	3.5	L-Asp	*liver and kidney enzyme
+KM	Pseudomonas dacunhae	4.4	L-Asp	*wild type enzyme, in 50 mM potassium phosphate, at pH 7.0 and 37&Acirc;&deg;C
+KM	Pseudomonas dacunhae	5	L-Asp	*in absence of cofactors
+KM	Pseudomonas dacunhae	16.9	L-Asp	*mutant enzyme R37A, in 50 mM potassium phosphate, at pH 7.0 and 37&Acirc;&deg;C
+KM	Cunninghamella elegans	25	L-Asp	*
+KM	Penicillium citrinum	27	L-Asp	*
+KM	Pseudomonas sp.	100	L-Asp	*
+KM	Alcaligenes sp.	150	L-Asp	*
+KM	Alcaligenes faecalis	3	aminomalonate	*
+KM	Alcaligenes faecalis	0.063	beta-chloro-L-Ala	*
+KM	Alcaligenes faecalis	0.024	erythro-beta-hydroxyaspartate	*
+KM	Alcaligenes faecalis	4.8	L-cysteinesulfinate	*
+KM	Alcaligenes faecalis	0.089	threo-beta-hydroxyaspartate	*
+KM	Pseudomonas dacunhae	-999	more	*
+MW	Mycobacterium tuberculosis	16000	*	*4 * 16000, SDS-PAGE, PanD is expressed as 16000 Da pro-protein that is processed into 1 alpha and 1 beta subunit
+MW	Pseudomonas sp.	59243	*	*12 * 63000, pH 7.0, SDS-PAGE, 12 * 59243, sequence calculation; 2 * 63000, pH 7.0, SDS-PAGE, 2 * 59243, sequence calculation
+MW	Comamonas testosteroni	59580	*	*x * 59580, deduced from nucleotide sequence
+MW	Comamonas testosteroni	61000	*	*x * 61000, SDS-PAGE
+MW	Pseudomonas sp.	63000	*	*12 * 63000, pH 7.0, SDS-PAGE, 12 * 59243, sequence calculation; 2 * 63000, pH 7.0, SDS-PAGE, 2 * 59243, sequence calculation
+MW	Mycobacterium tuberculosis	64000	*	*gel filtration
+MW	Aedes aegypti	110000	*	*gel filtration
+MW	Pseudomonas sp.	760000	*	*dodedamer, pH 5.0, recombinant enzyme, gel filtration
+MW	Pseudomonas dacunhae	795000	*	*calculation from sedimentation and diffusion data
+MW	Pseudomonas dacunhae	820000	*	*low speed sedimenation without reaching equilibrium
+PATH	*	alanine metabolism	*	*
+PATH	*	Alanine, aspartate and glutamate metabolism	*	*
+PATH	*	Cysteine and methionine metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Alcaligenes faecalis	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Pseudomonas sp.	-999	*	*4-decarboxylation activity and aminotransferase activity of mutant enzymes, overview
+SA	Pseudomonas sp.	0.02	*	*mutant enzyme P257H, in acetate buffer (pH 5.0) at 40&deg;C; mutant enzyme S298R, in acetate buffer (pH 5.0) at 40&deg;C; mutant enzyme Y207H, in acetate buffer (pH 5.0) at 40&deg;C
+SA	Pseudomonas sp.	0.06	*	*recombinant wild-type enzyme, aminotransferase activity
+SA	Pseudomonas dacunhae	0.084	*	*
+SA	Mycobacterium tuberculosis	2.1	*	*
+SA	Pseudomonas sp.	20.3	*	*wild type enzyme, in acetate buffer (pH 5.0) at 40&deg;C
+SA	Comamonas testosteroni	75.45	*	*35&deg;C, pH 6.8
+SA	Pseudomonas sp.	128.8	*	*recombinant wild-type enzyme, 4-decarboxylation activity
+SA	Comamonas testosteroni	215	*	*45&deg;C, pH 5.0
+SA	Pseudomonas sp.	280	*	*purified recombinant enzyme, pH 5.0, 37&deg;C

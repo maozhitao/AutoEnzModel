@@ -1,0 +1,125 @@
+KCAT	Pseudomonas putida	86	L-histidine	*25&deg;C, pH 9.3
+KCAT	Pseudomonas putida	255	L-histidine	*
+KM	Klebsiella pneumoniae subsp. pneumoniae	8500	NH3	*pH 10
+KM	Oncorhynchus mykiss	0.2	L-histidine	*pH 9, kidney enzyme
+KM	Cavia porcellus	0.36	L-histidine	*pH 9.2 and pH 7.0, epidermal enzyme
+KM	Rattus norvegicus	0.45	L-histidine	*pH 9.0
+KM	Cavia porcellus	0.55	L-histidine	*pH 9.2, liver enzyme
+KM	Streptomyces griseus	0.6	L-histidine	*
+KM	Streptomyces griseus	0.88	L-histidine	*
+KM	Cavia porcellus	1	L-histidine	*pH 7.0, liver enzyme
+KM	Rattus norvegicus	1.2	L-histidine	*
+KM	Pseudomonas putida	1.6	L-histidine	*pH 7
+KM	Rattus norvegicus	2.1	L-histidine	*pH 7.2
+KM	Achromobacter liquidum	3.6	L-histidine	*
+KM	Pseudomonas sp.	3.8	L-histidine	*25&Acirc;&deg;C
+KM	Pseudomonas putida	3.9	L-histidine	*25&Acirc;&deg;C, pH 9.3
+KM	Pseudomonas putida	5.1	L-histidine	*pH 9
+KM	Pseudomonas putida	5.3	L-histidine	*native enzyme, pH 9.0
+KM	Pseudomonas putida	5.8	L-histidine	*cloned enzyme, pH 9.0
+KM	Pseudomonas sp.	6	L-histidine	*oxidized enzyme, in the absence of added metal
+KM	Pseudomonas sp.	6.3	L-histidine	*reduced enzyme in the presence of 0.01 M EDTA
+KM	Bacillus subtilis	6.7	L-histidine	*
+KM	Pseudomonas fluorescens	20	L-histidine	*enzyme in solution or microencapsulated
+KM	Pseudomonas sp.	3	Urocanate	*
+KM	Klebsiella pneumoniae subsp. pneumoniae	100	Urocanate	*pH 10
+KM	Pseudomonas sp.	2.7	DL-histidine	*in the presence of 0.1 mM CdCl2
+KM	Pseudomonas sp.	10	DL-histidine	*in the presence of 1 mM EDTA
+KM	Pseudomonas sp.	5	4-fluorourocanate	*
+KM	Pseudomonas sp.	1.25	4-fluoro-DL-histidine	*in the presence of 0.1 mM CdCl2
+KM	Pseudomonas sp.	6.4	4-fluoro-DL-histidine	*in the presence of 1 mM EDTA
+KM	Pseudomonas sp.	20	2-fluorohistidine	*
+KM	Pseudomonas sp.	-999	more	*
+KM	Pseudomonas putida	-999	more	*
+KM	Rattus norvegicus	-999	more	*
+KM	Pseudomonas sp.	-999	more	*
+KM	Pseudomonas fluorescens	-999	more	*
+KM	Rattus norvegicus	-999	more	*
+KM	Oncorhynchus mykiss	-999	more	*
+KM	Pseudomonas putida	-999	more	*
+KM	Pseudomonas fluorescens	-999	more	*
+KM	Pseudomonas sp.	-999	more	*
+KM	Rattus norvegicus	-999	more	*
+KM	Chlamydomonas reinhardtii	-999	more	*the enzyme does not exhibit classical Michaelis-Menten kinetics
+MW	Rattus norvegicus	-999	*	*
+MW	Chlamydomonas reinhardtii	38100	*	*4 * 38100, SDS-PAGE
+MW	Streptomyces griseus	53000	*	*4 * 53000, calculation from sequence of amino acid
+MW	Pseudomonas putida	53559	*	*4 * 53559, calculation from sequence of amino acid
+MW	Pseudomonas putida	53700	*	*4 * 53700, calculation from sequence of amino acid
+MW	Comamonas testosteroni	54000	*	*4 * 54000, sedimentation in the presence of 6 M guanidine hypochloride and mercaptoethanol
+MW	Pseudomonas sp.	55000	*	*4 * 55000, SDS-PAGE
+MW	Streptomyces griseus	55000	*	*4 * 55000, denaturing PAGE
+MW	Bacillus subtilis	55675	*	*4 * 55675, calculation from sequence of amino acid
+MW	Rattus norvegicus	71800	*	*x * 71800, SDS-PAGE
+MW	Chlamydomonas reinhardtii	152400	*	*gel filtration
+MW	Pseudomonas fluorescens	189000	*	*sucrose density gradient centrifugation
+MW	Rattus norvegicus	190000	*	*sedimentation equilibrium
+MW	Achromobacter liquidum	200000	*	*gel filtration
+MW	Comamonas testosteroni	200000	*	*
+MW	Comamonas testosteroni	200000	*	*sedimentation equilibrium
+MW	Rattus norvegicus	203000	*	*disc gel electrophoresis
+MW	toad	204000	*	*sucrose density gradient centrifugation
+MW	Pseudomonas aeruginosa	210000	*	*
+MW	Pseudomonas sp.	210000	*	*sedimentation equilibrium
+MW	Pseudomonas aeruginosa	210000	*	*sucrose density gradient centrifugation
+MW	Pseudomonas sp.	210000	*	*
+MW	Pseudomonas fluorescens	218000	*	*sucrose density gradient centrifugation
+MW	Bacillus subtilis	220000	*	*sucrose density gradient centrifugation
+MW	Cavia porcellus	220000	*	*gel-permeation chromatography, liver and epidermis enzyme
+MW	Pseudomonas putida	220000	*	*gel filtration
+MW	Bacillus subtilis	220000	*	*sucrose density gradient centrifugation
+MW	Rattus norvegicus	226000	*	*sucrose density gradient centrifugation
+MW	Homo sapiens	243000	*	*sucrose density gradient centrifugation
+PATH	*	Histidine metabolism	*	*
+PATH	*	histidine metabolism	*	*
+PATH	*	L-histidine degradation I	*	*
+PATH	*	L-histidine degradation II	*	*
+PATH	*	L-histidine degradation III	*	*
+PATH	*	L-histidine degradation VI	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Cavia porcellus	-999	*	*
+SA	Pseudomonas fluorescens	-999	*	*
+SA	Pseudomonas sp.	-999	*	*
+SA	Pseudomonas sp.	-999	*	*
+SA	Pseudomonas putida	-999	*	*
+SA	Pseudomonas sp.	-999	*	*
+SA	Bacillus subtilis	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Pseudomonas putida	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Cavia porcellus	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Pseudomonas sp.	-999	*	*
+SA	Pseudomonas sp.	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Vicia faba	-999	*	*
+SA	Klebsiella pneumoniae subsp. pneumoniae	-999	*	*
+SA	Streptomyces griseus	-999	*	*
+SA	Pseudomonas fluorescens	-999	*	*
+SA	Pseudomonas putida	-999	*	*
+SA	Pseudomonas sp.	-999	*	*
+SA	Bacillus subtilis	-999	*	*
+SA	Klebsiella pneumoniae subsp. pneumoniae	-999	*	*
+SA	Lysinibacillus sphaericus	-999	*	*
+SA	Pseudomonas putida	-999	*	*
+SA	Pseudomonas putida	-999	*	*
+SA	Pseudomonas putida	-999	*	*
+SA	Bacillus subtilis	-999	*	*
+SA	Pseudomonas fluorescens	-999	*	*
+SA	Pseudomonas sp.	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Rattus norvegicus	0.3427	*	*native enzyme
+SA	Pseudomonas sp.	1.2	*	*0.1 mM Ca2+, oxidized enzyme
+SA	Pseudomonas sp.	2.3	*	*0.1 mM Mn2+, oxidized enzyme
+SA	Pseudomonas sp.	2.8	*	*0.1 mM Fe2+, oxidized enzyme
+SA	Pseudomonas sp.	3.2	*	*
+SA	Rattus norvegicus	3.4	*	*37&deg;C, pH 9.0, 3.3 mM L-histidine
+SA	Pseudomonas sp.	4.3	*	*0.1 mM Zn2+, oxidized enzyme
+SA	Pseudomonas sp.	6.2	*	*0.1 mM Ca2+, reduced enzyme
+SA	Rattus norvegicus	6.8	*	*
+SA	Pseudomonas sp.	7	*	*0.1 mM Fe2+ or 0.1 mM Zn2+, reduced enzyme
+SA	Pseudomonas sp.	9.1	*	*0.1 mM Mn2+, reduced enzyme
+SA	Rattus norvegicus	9.94	*	*
+SA	Streptomyces griseus	20.7	*	*
+SA	Achromobacter liquidum	63	*	*
+SA	Pseudomonas putida	70.4	*	*cloned enzyme

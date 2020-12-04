@@ -1,0 +1,104 @@
+KCAT	Parachlorella kessleri	498	1,2-diacyl-3-O-alpha-D-galactosyl-(1-&gt;6)-beta-D-galactosyl-sn-glycerol	*pH 6.5, 37&deg;C, recombinant enzyme
+KCAT	Parachlorella kessleri	1390	1,2-diacyl-3-O-alpha-D-galactosyl-(1-&gt;6)-beta-D-galactosyl-sn-glycerol	*pH 6.5, 37&deg;C, native enzyme
+KM	Phaseolus vulgaris	0.53	phosphatidylcholine	*
+KM	Solanum tuberosum	0.54	phosphatidylcholine	*
+KM	Solanum tuberosum	1.7	phosphatidylcholine	*
+KM	Vigna unguiculata	0.119	monogalactosyldiacylglycerol	*
+KM	Phaseolus vulgaris	0.24	monogalactosyldiacylglycerol	*
+KM	Solanum tuberosum	0.26	monogalactosyldiacylglycerol	*
+KM	Oryza sativa	0.34	monogalactosyldiacylglycerol	*
+KM	Solanum tuberosum	0.38	monogalactosyldiacylglycerol	*
+KM	Phaseolus coccineus	0.65	monogalactosyldiacylglycerol	*
+KM	Phaseolus coccineus	0.31	digalactosyldiacylglycerol	*
+KM	Phaseolus coccineus	7.8	digalactosyldilinolenin	*
+KM	Phaseolus coccineus	1.5	monogalactosyldilinolenin	*
+KM	Parachlorella kessleri	0.54	1,2-diacyl-3-O-alpha-D-galactosyl-(1-&gt;6)-beta-D-galactosyl-sn-glycerol	*pH 6.5, 37&Acirc;&deg;C, native enzyme
+KM	Parachlorella kessleri	1.05	1,2-diacyl-3-O-alpha-D-galactosyl-(1-&gt;6)-beta-D-galactosyl-sn-glycerol	*pH 6.5, 37&Acirc;&deg;C, recombinant enzyme
+KM	Parachlorella kessleri	-999	more	*Michaelis-Menten kinetics
+MW	Gracilaria vermiculophylla	20000	*	*2 * 20000, SDS-PAGE
+MW	Gracilaria vermiculophylla	40000	*	*gel filtration
+MW	Oryza sativa	40000	*	*gel filtration
+MW	Vigna unguiculata	40000	*	*2 * 40000, SDS-PAGE
+MW	Vigna unguiculata	43000	*	*SDS-PAGE
+MW	Vigna unguiculata	43480	*	*calculated from amino acid sequence
+MW	Homo sapiens	50000	*	*x * 50000, SDS-PAGE
+MW	Canis lupus familiaris	50000	*	*SDS-PAGE
+MW	Cavia porcellus	50000	*	*SDS-PAGE
+MW	Equus caballus	50000	*	*SDS-PAGE
+MW	Felis silvestris	50000	*	*SDS-PAGE
+MW	Homo sapiens	50000	*	*SDS-PAGE; SDS-PAGE
+MW	Myocastor coypus	50000	*	*SDS-PAGE
+MW	Oryctolagus cuniculus	50000	*	*SDS-PAGE
+MW	Rattus norvegicus	50000	*	*SDS-PAGE; SDS-PAGE
+MW	Sus scrofa	50000	*	*SDS-PAGE
+MW	Homo sapiens	50078	*	*x * 50078, deglycoslyated protein, MALDI-TOF mass spectrometry
+MW	Homo sapiens	50080	*	*mature PLRP2, calculated from amino acid sequence
+MW	Homo sapiens	50081	*	*x * 50081, calculated from amino acid sequence
+MW	Homo sapiens	52820	*	*glycosylated enzyme, LC-ESI-TOF mass spectrometry
+MW	Homo sapiens	52924	*	*x * 52924, glycoslyated protein, MALDI-TOF mass spectrometry
+MW	Solanum tuberosum	70000	*	*gel filtration
+MW	Vigna unguiculata	80000	*	*gel filtration
+MW	Phaseolus vulgaris	90000	*	*SDS-PAGE, gel filtration
+MW	Solanum tuberosum	110000	*	*SDS-PAGE, gel filtration
+MW	Phaseolus coccineus	110000	*	*gel filtration
+MW	Parachlorella kessleri	146000	*	*native enzyme, gel filtration and native PAGE
+PATH	*	Glycerolipid metabolism	*	*
+SA	Gracilaria vermiculophylla	0.000194	*	*crude extract
+SA	Vigna unguiculata	0.00021	*	*
+SA	Vigna unguiculata	0.00059	*	*
+SA	Vigna unguiculata	0.00066	*	*
+SA	Gracilaria vermiculophylla	0.00367	*	*after 18.9fold purification
+SA	Vigna unguiculata	0.0117	*	*
+SA	Spinacia oleracea	0.02	*	*
+SA	Beta vulgaris	0.07	*	*
+SA	Brassica napus	0.07	*	*
+SA	Brassica oleracea	0.07	*	*
+SA	Pisum arvense	0.13	*	*
+SA	Pisum sativum	0.13	*	*
+SA	Solanum peruvianum	0.31	*	*
+SA	Medicago sativa subsp. x varia	0.32	*	*
+SA	Pisum arvense	0.33	*	*
+SA	Capsicum annuum	0.64	*	*
+SA	Pisum sativum	0.67	*	*
+SA	Zea mays	0.67	*	*
+SA	Pisum sativum	0.67	*	*
+SA	Zea mays	0.67	*	*
+SA	Lupinus angustifolius	0.71	*	*cvs. Afus and Remik
+SA	Solanum habrochaites	0.82	*	*
+SA	Dahlia pinnata	0.96	*	*
+SA	Solanum lycopersicum	1.14	*	*
+SA	Nicotiana tabacum	1.2	*	*
+SA	Lupinus angustifolius	1.25	*	*cv. Aga
+SA	Vicia faba	1.26	*	*
+SA	Homo sapiens	1.3	*	*wild type enzyme, using 1,2(2,3)-diolein as substrate, in 1 mM Tris-HCl, at pH 8.0, at 37&Acirc;&deg;C, in the absence of colipase
+SA	Phaseolus coccineus	1.32	*	*
+SA	Zea mays	1.5	*	*
+SA	Phaseolus vulgaris	2.33	*	*
+SA	Solanum lycopersicum	2.5	*	*
+SA	Vicia faba	2.8	*	*
+SA	Phaseolus vulgaris	3	*	*
+SA	Homo sapiens	3.4	*	*mutant enzyme N336Q, using 1,2(2,3)-diolein as substrate, in 1 mM Tris-HCl, at pH 8.0, at 37&Acirc;&deg;C, in the absence of colipase
+SA	Oryza sativa	3.75	*	*
+SA	Homo sapiens	4.3	*	*mutant enzyme N336Q, using triolein as substrate, in 1 mM Tris-HCl, at pH 8.0, at 37&Acirc;&deg;C, in the absence of colipase
+SA	Phaseolus vulgaris	4.655	*	*
+SA	Homo sapiens	5	*	*wild type enzyme, using triolein as substrate, in 1 mM Tris-HCl, at pH 8.0, at 37&Acirc;&deg;C, in the absence of colipase
+SA	Homo sapiens	40.2	*	*mutant enzyme N336Q, using trioctanoin as substrate, in 1 mM Tris-HCl, at pH 8.0, at 37&Acirc;&deg;C, in the absence of colipase
+SA	Homo sapiens	43	*	*wild type enzyme, using trioctanoin as substrate, in 1 mM Tris-HCl, at pH 8.0, at 37&Acirc;&deg;C, in the absence of colipase
+SA	Parachlorella kessleri	143	*	*purified native enzyme, pH 6.5, 37&Acirc;&deg;C
+SA	Homo sapiens	212	*	*mutant enzyme N336Q, using tributyrin as substrate, in 1 mM Tris-HCl, at pH 8.0, at 37&Acirc;&deg;C, in the absence of colipase
+SA	Homo sapiens	247	*	*mutant enzyme N336Q, using 1(3)-monoolein as substrate, in 1 mM Tris-HCl, at pH 8.0, at 37&Acirc;&deg;C, in the absence of colipase
+SA	Homo sapiens	287	*	*wild type enzyme, using tributyrin as substrate, in 1 mM Tris-HCl, at pH 8.0, at 37&Acirc;&deg;C, in the absence of colipase
+SA	Homo sapiens	317	*	*wild type enzyme, using 1(3)-monoolein as substrate, in 1 mM Tris-HCl, at pH 8.0, at 37&Acirc;&deg;C, in the absence of colipase
+SA	Homo sapiens	1756	*	*purified enzyme, using natural long chain 1,2-diacyl-3-O-(6-O-alpha-D-galactosyl-beta-D-galactosyl)-sn-glycerol as substrate, at 37&Acirc;&deg;C, pH not specified in the publication
+SA	Homo sapiens	1786	*	*purified enzyme, using synthetic medium chain 1,2-diacyl-3-O-beta-D-galactosyl-sn-glycerol as substrate, at 37&Acirc;&deg;C, pH not specified in the publication
+SA	Homo sapiens	2441	*	*purified enzyme, using natural long chain 1,2-diacyl-3-O-beta-D-galactosyl-sn-glycerol as substrate, at 37&Acirc;&deg;C, pH not specified in the publication
+SA	Homo sapiens	2976	*	*purified enzyme, using synthetic medium chain 1,2-diacyl-3-O-(6-O-alpha-D-galactosyl-beta-D-galactosyl)-sn-glycerol as substrate, at 37&Acirc;&deg;C, pH not specified in the publication
+SA	Cavia porcellus	3351	*	*purified enzyme, using natural long chain 1,2-diacyl-3-O-(6-O-alpha-D-galactosyl-beta-D-galactosyl)-sn-glycerol as substrate, at 37&Acirc;&deg;C, pH not specified in the publication
+SA	Nectria haematococca mpVI	3785	*	*substrate 1,2-octanoyl-3-O-alpha-D-galactosyl-(1-&gt;6)-beta-D-galactosyl-sn-glycerol, pH 8.0, 37&Acirc;&deg;C
+SA	Cavia porcellus	4167	*	*purified enzyme, using natural long chain 1,2-diacyl-3-O-beta-D-galactosyl-sn-glycerol as substrate, at 37&Acirc;&deg;C, pH not specified in the publication
+SA	Thermomyces dupontii	4250	*	*substrate phosphatidylcholine, pH 8.0, 37&Acirc;&deg;C, purified native enzyme
+SA	Cavia porcellus	4375	*	*purified enzyme, using synthetic medium chain 1,2-diacyl-3-O-(6-O-alpha-D-galactosyl-beta-D-galactosyl)-sn-glycerol as substrate, at 37&Acirc;&deg;C, pH not specified in the publication
+SA	Nectria haematococca mpVI	4658	*	*substrate 1,2-octanoyl-3-O-alpha-D-galactosyl-sn-glycerol, pH 8.0, 37&Acirc;&deg;C
+SA	Cavia porcellus	5420	*	*purified enzyme, using synthetic medium chain 1,2-diacyl-3-O-beta-D-galactosyl-sn-glycerol as substrate, at 37&Acirc;&deg;C, pH not specified in the publication
+SA	Thermomyces dupontii	9800	*	*substrate 3-O-(6-O-alpha-D-galactopyranosyl-beta-D-galactopyranosyl)-1,2-di-O-octanoyl-sn-glycerol, pH 8.0, 37&Acirc;&deg;C, purified native enzyme
+SA	Thermomyces dupontii	40500	*	*substrate 1,2-di-O-alpha-eleostearoyl-3-O-beta-D-galactopyranosyl-sn-glycerol, pH 8.0, 37&Acirc;&deg;C, purified native enzyme

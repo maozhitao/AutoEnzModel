@@ -1,0 +1,62 @@
+KCAT	Escherichia coli	0.0015	GDP-mannose	*pH 7, 37&deg;C, T133V mutant
+KCAT	Escherichia coli	0.0019	GDP-mannose	*pH 7, 37&deg;C, Y157F mutant
+KCAT	Escherichia coli	0.0053	GDP-mannose	*pH 7, 37&deg;C, K161A mutant
+KCAT	Homo sapiens	0.8	GDP-mannose	*pH 8, M-GMD and L-GMD
+KCAT	Burkholderia cepacia	1	GDP-alpha-D-mannose	*at pH 7.4 and 25&deg;C, in the presence of 1 mol MgCl2 per mol of protein
+KCAT	Escherichia coli	5	GDP-mannose	*pH 7, 37&deg;C, wild-type
+KCAT	Mortierella alpina	5.96	GDP-mannose	*pH 8.0, 37&deg;C; recombinant enzyme, pH 8.0, 37&deg;C
+KCAT	Pseudomonas aeruginosa	8.82	GDP-mannose	*pH 7.5, 37&deg;C
+KM	Homo sapiens	0.003	GDPmannose	*
+KM	Homo sapiens	0.0035	GDP-mannose	*pH 8, isoenzyme M-GMD
+KM	Homo sapiens	0.00364	GDP-mannose	*pH 8, isoenzyme L-GMD
+KM	Sus scrofa	0.0038	GDPmannose	*
+KM	Pseudomonas aeruginosa	0.01402	GDP-mannose	*pH 7.5, 37&deg;C
+KM	Phaseolus vulgaris	0.028	GDPmannose	*
+KM	Homo sapiens	0.08	GDPmannose	*
+KM	Escherichia coli	0.11	GDP-mannose	*pH 7, 37&deg;C, T133V mutant
+KM	Escherichia coli	0.222	GDPmannose	*determined with fusion protein
+KM	Escherichia coli	0.26	GDPmannose	*
+KM	Escherichia coli	0.28	GDP-mannose	*pH 7, 37&deg;C, wild-type
+KM	Escherichia coli	0.501	GDP-mannose	*pH 7, 37&deg;C, K161A mutant
+KM	Escherichia coli	0.55	GDPmannose	*
+KM	Mortierella alpina	0.77	GDP-mannose	*pH 8.0, 37&deg;C; recombinant enzyme, pH 8.0, 37&deg;C
+KM	Escherichia coli	1.02	GDP-mannose	*pH 7, 37&deg;C, Y157F mutant
+KM	Burkholderia cepacia	1.024	GDP-alpha-D-mannose	*at pH 7.4 and 25&deg;C, in the presence of 1 mol MgCl2 per mol of protein
+MW	Homo sapiens	38700	*	*isoenzyme S-GMD, SDS-PAGE
+MW	Homo sapiens	40000	*	*x * 40000, SDS-PAGE
+MW	Homo sapiens	40200	*	*isoenzyme M-GMD, SDS-PAGE
+MW	Mortierella alpina	41200	*	*3 * 45000, recombinant His-tagged GMD, SDS-PAGE, 3 * 41200, about, sequence calculation
+MW	Sus scrofa	41500	*	*6 * 41500, SDS-PAGE
+MW	Escherichia coli	42000	*	*6 * 42000, SDS-PAGE
+MW	Klebsiella pneumoniae	42000	*	*2 * 42000
+MW	Klebsiella pneumoniae	42000	*	*2 * 42000
+MW	Homo sapiens	42000	*	*isoenzyme L-GMD, SDS-PAGE
+MW	Escherichia coli	42000	*	*x * 42000, SDS-PAGE
+MW	Mortierella alpina	45000	*	*3 * 45000, recombinant His-tagged GMD, SDS-PAGE, 3 * 41200, about, sequence calculation; 3 * 45000, SDS-PAGE
+MW	Homo sapiens	80000	*	*isoenzyme M-GMD, dimeric form, gel filtration
+MW	Paramecium bursaria Chlorella virus-1	87000	*	*gel filtration
+MW	Klebsiella pneumoniae	110000	*	*gel filtration
+MW	Phaseolus vulgaris	120000	*	*sedimentation equilibrium centrifugation
+MW	Mortierella alpina	140000	*	*gel filtration; recombinant His-tagged GMD, native PAGE
+MW	Burkholderia cepacia	162000	*	*gel filtration
+MW	Escherichia coli	250000	*	*gel filtration
+MW	Sus scrofa	251000	*	*sedimentation equilibrium centrifugation
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*
+PATH	*	d-mannose degradation	*	*
+PATH	*	Fructose and mannose metabolism	*	*
+PATH	*	GDP-6-deoxy-D-talose biosynthesis	*	*
+PATH	*	GDP-D-perosamine biosynthesis	*	*
+PATH	*	GDP-D-rhamnose biosynthesis	*	*
+PATH	*	GDP-L-colitose biosynthesis	*	*
+PATH	*	GDP-L-fucose biosynthesis I (from GDP-D-mannose)	*	*
+PATH	*	GDP-mycosamine biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Sus scrofa	0.036	*	*
+SA	Homo sapiens	0.11	*	*
+SA	Paramecium bursaria Chlorella virus-1	0.48	*	*
+SA	Acanthocystis turfacea chlorella virus 1	0.63	*	*
+SA	Homo sapiens	0.7	*	*
+SA	Escherichia coli	0.73	*	*
+SA	Escherichia coli	2.3	*	*determined with fusion protein
+SA	Klebsiella pneumoniae	7.09	*	*
+SA	Escherichia coli	8.4	*	*

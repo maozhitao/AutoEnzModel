@@ -1,0 +1,47 @@
+KM	Rattus norvegicus	-999	more	*kinetics, wild-type and mutant enzymes, overview
+KM	Cavia porcellus	-999	more	*kinetics at different pH, overview
+KM	Cavia porcellus	0.0245	ATP	*pH 7.4, temperature not specified in the publication, with optimal concentration of ATP, Mg2+ and K+
+KM	Cavia porcellus	0.0494	ATP	*pH 7.0, temperature not specified in the publication, with optimal concentration of ATP, Mg2+ and K+
+KM	Homo sapiens	0.06	ATP	*pH 7.0, 37&deg;C, recombinant enzyme, in presence of 100 mM Na+
+KM	Necturus maculosus	0.3	K+	*
+KM	Mesocricetus auratus	0.34	K+	*
+KM	Homo sapiens	0.4	ATP	*pH 7.0, 37&deg;C, recombinant enzyme, in presence of 10 mM NH4+
+KM	Sus scrofa	0.4	K+[side 2]	*mutant enzyme E795Q, at pH 7.0 and 37&deg;C
+KM	Homo sapiens	1	K+	*pH 7.0, 37&deg;C, recombinant enzyme, in presence of 10 mM K+
+KM	Homo sapiens	1.2	ATP	*pH 7.0, 37&deg;C, recombinant enzyme, in presence of 10 mM K+
+KM	Sus scrofa	1.2	K+[side 2]	*wild type enzyme, at pH 7.0 and 37&deg;C
+KM	Homo sapiens	2	K+	*pH 7.0, 37&deg;C, recombinant enzyme, in presence of 10 mM NH4+
+KM	Sus scrofa	5.5	K+[side 2]	*mutant enzyme E343Q, at pH 7.0 and 37&deg;C
+KM	Homo sapiens	20	K+	*pH 7.0, 37&deg;C, recombinant enzyme, in presence of 100 mM Na+
+MW	Rattus norvegicus	33625	*	*x * 33625, calculation from nucleotide sequence
+MW	Rattus norvegicus	35000	*	*alphabeta composition of HKalpha1 and HKalpha2, 1 * 35000, beta-subunit of HKalpha1
+MW	Homo sapiens	35000	*	*x * 35000, subunit HKbeta, SDS-PAGE
+MW	Homo sapiens	70000	*	*x * 70000, beta-subunit ATP4B, SDS-PAGE
+MW	Oryctolagus cuniculus	94000	*	*x * 94000 (alpha) + x * ? (beta), SDS-PAGE
+MW	Oryctolagus cuniculus	95000	*	*x * 95000, alpha, + x * 60000-80000, beta, SDS-PAGE
+MW	Sus scrofa	95000	*	*x * 95000, alpha, + x * 60000-90000, beta, SDS-PAGE
+MW	Oryctolagus cuniculus	95000	*	*x * 95000, alpha subunit, SDS-PAGE
+MW	Cavia porcellus	100000	*	*1 * 100000, alpha-subunit, + 1 * 500000, beta-subunit, alpha/beta, SDS-PAGE
+MW	Homo sapiens	100000	*	*x * 100000, subunit HKalpha2, SDS-PAGE
+MW	Homo sapiens	114000	*	*Western blot analysis
+MW	Homo sapiens	115000	*	*x * 115000, subunit HKalpha1, SDS-PAGE
+MW	Sus scrofa	147346	*	*1 * 147346, calculated from amino acid sequence
+MW	Sus scrofa	270000	*	*gel filtration
+MW	Cavia porcellus	500000	*	*1 * 100000, alpha-subunit, + 1 * 500000, beta-subunit, alpha/beta, SDS-PAGE
+PATH	*	Metabolic pathways	*	*
+PATH	*	Oxidative phosphorylation	*	*
+SA	Sus scrofa	-999	*	*NTP hydrolysis activities, overview
+SA	Rattus norvegicus	-999	*	*activity measurement by voltage-clamp fluorometry
+SA	Rattus norvegicus	-999	*	*wild-type and mutant enzyme activities, overview
+SA	Oryctolagus cuniculus	-999	*	*
+SA	Cavia porcellus	0.07	*	*native ouabain-insensitive H+/K+-ATPase from colonic apical plasma membranes, pH not specified in the publication, temperature not specified in the publication
+SA	Homo sapiens	0.186	*	*partially purified recombinant enzyme, in presence of 10 mM K+
+SA	Cavia porcellus	0.544	*	*native ouabain-sensitive H+/K+-ATPase from colonic apical plasma membranes, pH not specified in the publication, temperature not specified in the publication
+SA	Homo sapiens	0.611	*	*partially purified recombinant enzyme, in presence of 100 mM Na+
+SA	Sus scrofa	0.626	*	*ATP hydrolysis in presence of 10 mM K+ and 0.003 mM valinomycin
+SA	Sus scrofa	0.641	*	*ATP hydrolysis in presence of 10 mM K+, 0.1 mM ADP, and 0.003 mM valinomycin
+SA	Homo sapiens	0.685	*	*partially purified recombinant enzyme, in presence of 10 mM NH4+
+SA	Cavia porcellus	2.045	*	*purified native ouabain-sensitive H+/K+-ATPase, pH not specified in the publication, temperature not specified in the publication
+SA	Sus scrofa	2.383	*	*in the presence of 2 mM K+, with ATP as substrate, at 37&deg;C
+SA	Sus scrofa	6.3	*	*purified enzyme, 40 mM HEPES/Tris, 10 mM KCl, 2 mM MgCl2, 25 mM sucrose, 0.1 mM EGTA/Tris, 2 mM ATP/Tris pH 7.0, at 37&deg;C
+SA	Sus scrofa	7.5	*	*purified enzyme, 40 mM HEPES/Tris, 10 mM KCl, 2 mM MgCl2, 25 mM sucrose, 0.1 mM EGTA/Tris, 2 mM ATP/Tris pH 7.0, at 37&deg;C

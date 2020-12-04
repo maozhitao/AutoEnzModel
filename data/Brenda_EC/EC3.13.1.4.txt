@@ -1,0 +1,29 @@
+KCAT	Paraburkholderia xenovorans	1.1	3-sulfinopropionyl-CoA	*pH 7.4, 37&deg;C
+KCAT	Variovorax paradoxus	2.5	3-sulfinopropionyl-CoA	*pH 7.4, 37&deg;C
+KCAT	Advenella mimigardefordensis	3.1	3-sulfinopropionyl-CoA	*pH 7.4, 37&deg;C
+KCAT	Advenella mimigardefordensis	3.13	3-sulfinopropanoyl-CoA	*recombinant His6-tagged wild-type enzyme, pH 7.4, 30&deg;C
+KCAT	Advenella mimigardefordensis	3.13	3-sulfinopropionyl-CoA	*pH 7.4, 37&deg;C
+KCAT	Advenella mimigardefordensis	3.93	3-sulfinopropanoyl-CoA	*recombinant His6-tagged mutant Q246E, pH 7.4, 30&deg;C
+KCAT	Cupriavidus necator	4.4	3-sulfinopropionyl-CoA	*pH 7.4, 37&deg;C
+KM	Advenella mimigardefordensis	0.013	3-sulfinopropionyl-CoA	*pH 7.4, 37&Acirc;&deg;C, with a Vmax of 4.19 micromol/min*mg
+KM	Advenella mimigardefordensis	0.013	3-sulfinopropionyl-CoA	*pH 7.4, 37&Acirc;&deg;C, with a Vmax of 4.19 micromol/min*mg
+KM	Paraburkholderia xenovorans	0.027	3-sulfinopropionyl-CoA	*pH 7.4, 37&Acirc;&deg;C, with a Vmax of 1.58 micromol/min*mg
+KM	Variovorax paradoxus	0.052	3-sulfinopropionyl-CoA	*pH 7.4, 37&Acirc;&deg;C, with a Vmax of 3.47 micromol/min*mg
+KM	Cupriavidus necator	0.078	3-sulfinopropionyl-CoA	*pH 7.4, 37&Acirc;&deg;C, with a Vmax of 6.1 micromol/min*mg
+KM	Advenella mimigardefordensis	0.013	3-sulfinopropanoyl-CoA	*recombinant His6-tagged wild-type enzyme, pH 7.4, 30&Acirc;&deg;C
+KM	Advenella mimigardefordensis	0.019	3-sulfinopropanoyl-CoA	*recombinant His6-tagged mutant Q246E, pH 7.4, 30&Acirc;&deg;C
+MW	Advenella mimigardefordensis	43531	*	*4 * 43531, calculated, 4 * 44809, His6-tag, calculated
+MW	Advenella mimigardefordensis	44809	*	*4 * 43531, calculated, 4 * 44809, His6-tag, calculated
+MW	Paraburkholderia xenovorans	140000	*	*experimentyl, gel filtration
+MW	Cupriavidus necator	157000	*	*experimental, gel filtration
+MW	Variovorax paradoxus	157000	*	*experimental, gel filtration
+MW	Paraburkholderia xenovorans	172000	*	*theoretical, calculated
+MW	Advenella mimigardefordensis	173000	*	*gel filtration of the native protein, indicating a homotetrameric structure, in accordance with other members of the acyl-CoA dehydrogenase superfamily, in accordance to the theoretical molecular mass of 179200 Da
+MW	Advenella mimigardefordensis	173000	*	*experimental, gel filtarion
+MW	Variovorax paradoxus	174000	*	*theoretical, calculated
+MW	Advenella mimigardefordensis	175000	*	*theoretical, calculated
+MW	Cupriavidus necator	175000	*	*theoretical, calculated
+PATH	*	3,3'-disulfanediyldipropannoate degradation	*	*
+PATH	*	3,3'-thiodipropanoate degradation	*	*
+SA	Advenella mimigardefordensis	4.19	*	*purified recombinant His6-tagged wild-type enzyme, pH 7.4, 30&Acirc;&deg;C
+SA	Advenella mimigardefordensis	5.26	*	*purified recombinant His6-tagged mutant Q246E, pH 7.4, 30&Acirc;&deg;C

@@ -1,0 +1,32 @@
+KCAT	Thauera aromatica	51	cyclohexa-1,5-diene-1-carbonyl-CoA	*
+KCAT	Syntrophus aciditrophicus	175	cyclohexa-1,5-diene-1-carbonyl-CoA	*pH 7.5, 30&deg;C
+KCAT	Geobacter metallireducens	280	cyclohexa-1,5-diene-1-carbonyl-CoA	*pH 7.5, 30&deg;C
+KM	Syntrophus aciditrophicus	0.03	cyclohexa-1,5-diene-1-carbonyl-CoA	*pH 7.5, 30&Acirc;&deg;C
+KM	Geobacter metallireducens	0.085	cyclohexa-1,5-diene-1-carbonyl-CoA	*pH 7.5, 30&Acirc;&deg;C
+KM	Thauera aromatica	60	cyclohexa-1,5-diene-1-carbonyl-CoA	*
+KM	Geobacter metallireducens	0.05	6-hydroxycyclohex-1-enecarbonyl-CoA	*
+MW	Thauera aromatica	28000	*	*alpha2, 2 * 28000, SDS-PAGE
+MW	Syntrophus aciditrophicus	29900	*	*4 * 30000, SDS-PAGE of purified His-tag labeled protein, 4 * 29900, calculated mass of the His-tag labeled protein, native mass by gel filtration
+MW	Geobacter metallireducens	30000	*	*2 * 30000, SDS-PAGE of purified His-tag labeled protein, 2 * 30400, calculated mass of the His-tag labeled protein, native mass by Ferguson blot analysis; 3 * 30000, SDS-PAGE of purified His-tag labeled protein, 3 * 30400, calculated mass of the His-tag labeled protein, native mass by gel filtration
+MW	Syntrophus aciditrophicus	30000	*	*4 * 30000, SDS-PAGE of purified His-tag labeled protein, 4 * 29900, calculated mass of the His-tag labeled protein, native mass by gel filtration
+MW	Geobacter metallireducens	30400	*	*2 * 30000, SDS-PAGE of purified His-tag labeled protein, 2 * 30400, calculated mass of the His-tag labeled protein, native mass by Ferguson blot analysis; 3 * 30000, SDS-PAGE of purified His-tag labeled protein, 3 * 30400, calculated mass of the His-tag labeled protein, native mass by gel filtration
+MW	Thauera aromatica	55000	*	*gel filtration
+MW	Geobacter metallireducens	70000	*	*Ferguson blot analysis
+MW	Geobacter metallireducens	92000	*	*gel filtration
+MW	Syntrophus aciditrophicus	115000	*	*gel filtration
+PATH	*	Benzoate degradation	*	*
+PATH	*	benzoyl-CoA degradation	*	*
+PATH	*	benzoyl-CoA degradation II (anaerobic)	*	*
+PATH	*	crotonate fermentation (to acetate and cyclohexane carboxylate)	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Syntrophus aciditrophicus	1.8	*	*cell extract, pH 7.5, 30&deg;C
+SA	Desulfococcus multivorans	2	*	*cell extract, pH 7.5, 30&deg;C
+SA	Geobacter metallireducens	2.5	*	*cell extract, pH 7.5, 30&deg;C
+SA	Ferroglobus placidus	31.7	*	*85&deg;C, pH 7.0, highly enriched enzyme
+SA	Thauera aromatica	107	*	*purified recombinant enzyme with substrate cyclohexa-1,5-diene-1-carbonyl-CoA, pH and temperature not specified in the publication
+SA	Thauera aromatica	110	*	*reversible reaction with 6-hydroxycyclohex-1-ene-1-carboxyl-CoA as substrat
+SA	Thauera aromatica	110	*	*purified recombinant enzyme with substrate 6-hydroxycyclohex-1-ene-1-carbonyl-CoA, pH and temperature not specified in the publication
+SA	Syntrophus aciditrophicus	350	*	*purified enzyme, hydration reaction, pH 7.5, 30&deg;C
+SA	Geobacter metallireducens	550	*	*purified enzyme, hydration reaction, pH 7.5, 30&deg;C
+SA	Geobacter metallireducens	730	*	*purified enzyme, dehydration reaction, pH 7.5, 30&deg;C

@@ -1,0 +1,50 @@
+KCAT	Spinacia oleracea	0.42	fructose 1,6-diphosphate	*oxidized enzyme
+KCAT	Spinacia oleracea	0.84	sedoheptulose 1,7-diphosphate	*oxidized enzyme
+KCAT	Synechocystis sp.	4.2	sedoheptulose 1,7-bisphosphate	*in 50 mM Tris/HCl, pH 8.0, 15 mM MgCl2, 10 mM dithiothreitol, at 289&deg;C
+KCAT	Spinacia oleracea	21	fructose 1,6-diphosphate	*reduced enzyme
+KCAT	Spinacia oleracea	81	sedoheptulose 1,7-diphosphate	*reduced enzyme
+KM	Pisum sativum	0.013	sedoheptulose 1,7-bisphosphate	*
+KM	Triticum aestivum	0.013	sedoheptulose 1,7-bisphosphate	*without phosphate
+KM	Triticum aestivum	0.013	sedoheptulose 1,7-bisphosphate	*
+KM	Triticum aestivum	0.014	sedoheptulose 1,7-bisphosphate	*at pH 8.2, in presence of 10 mM Mg2+
+KM	Triticum aestivum	0.0175	sedoheptulose 1,7-diphosphate	*with 5 mM phosphate
+KM	Triticum aestivum	0.0335	sedoheptulose 1,7-diphosphate	*with 10 mM phosphate
+KM	Spinacia oleracea	0.05	sedoheptulose 1,7-diphosphate	*reduced enzyme
+KM	Synechocystis sp.	0.24	sedoheptulose 1,7-bisphosphate	*in 50 mM Tris/HCl, pH 8.0, 15 mM MgCl2, 10 mM dithiothreitol, at 289&deg;C
+KM	Spinacia oleracea	0.38	fructose 1,6-diphosphate	*reduced enzyme
+KM	Spinacia oleracea	0.42	sedoheptulose 1,7-diphosphate	*oxidized enzyme
+KM	Spinacia oleracea	0.6	fructose 1,6-diphosphate	*oxidized enzyme
+KM	Cyberlindnera jadinii	1	sedoheptulose 1,7-bisphosphate	*at pH 6.0
+KM	Cyberlindnera jadinii	1	sedoheptulose 1,7-bisphosphate	*at pH 6.0
+MW	Bacillus methanolicus	33000	*	*4 * 33000, SDS-PAGE
+MW	Cyberlindnera jadinii	35000	*	*2 * 35000, SDS-PAGE
+MW	Cyberlindnera jadinii	35000	*	*2 * 35000, SDS-PAGE
+MW	Spinacia oleracea	35000	*	*2 * 35000, SDS-PAGE
+MW	Spinacia oleracea	35000	*	*x * 38000, enzyme plus His6-tag plus transit peptide, x * 35000, mature enzyme, deduced from gene sequence
+MW	Zea mays	38000	*	*2 * 38000, SDS-PAGE
+MW	Spinacia oleracea	38000	*	*x * 38000, enzyme plus His6-tag plus transit peptide, x * 35000, mature enzyme, deduced from gene sequence
+MW	Synechococcus sp.	40000	*	*SDS-PAGE
+MW	Chlamydomonas sp. W80	41600	*	*x * 41600, recombinant enzyme, SDS-PAGE
+MW	Cucumis sativus	42000	*	*x * 42000, about, sequence calculation
+MW	Synechocystis sp.	48000	*	*x * 48000, SDS-PAGE
+MW	Triticum aestivum	56000	*	*gel filtration
+MW	Spinacia oleracea	66000	*	*gel filtration
+MW	Cyberlindnera jadinii	75000	*	*sucrose density gradient centrifugation
+MW	Cyberlindnera jadinii	75000	*	*sucrose density gradient centrifugation
+MW	Bacillus methanolicus	132000	*	*gel filtration
+PATH	*	Calvin-Benson-Bassham cycle	*	*
+PATH	*	Carbon fixation in photosynthetic organisms	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	photosynthesis	*	*
+SA	Triticum aestivum	-999	*	*
+SA	Chlamydomonas sp. W80	-999	*	*enzyme activity in transgenic lines of Nicotiana tabacum
+SA	Nicotiana tabacum	-999	*	*enzyme activity in wild-type plants and transgenic lines expressing the enzyme from Chlamydomonas sp. W80, photosynthetic activity in wild-type and transgenic plants, overview
+SA	Arabidopsis thaliana	0.224	*	*leaf enzyme extract
+SA	Spinacia oleracea	3.5	*	*substrate fructose 1,6-bisphosphate, pH 8.3, 22&deg;C
+SA	Triticum aestivum	4.25	*	*
+SA	Chlamydomonas sp. W80	7.15	*	*recombinant enzyme in the soluble fraction of Escherichia coli
+SA	Cyberlindnera jadinii	11.5	*	*
+SA	Cyberlindnera jadinii	11.5	*	*
+SA	Zea mays	28.6	*	*
+SA	Spinacia oleracea	70	*	*

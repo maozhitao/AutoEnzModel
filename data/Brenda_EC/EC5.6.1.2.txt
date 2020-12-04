@@ -1,0 +1,143 @@
+KCAT	Chlamydomonas sp.	-999	ATP	*I1beta has a higher turnover number compared to the two-headed wild-type I1 dynein, whereas the tunrover number of I1alpha is approximately 1/8 the one of I1beta
+KCAT	Dictyostelium sp.	-999	more	*kcat for dynein motor domains in which mutations are introduced to block nucleotide binding at each of the four ATPase associated modules
+KCAT	Tetrahymena thermophila	0.01	ATP	*22S sucrose gradient fraction, per site at pH 7 and 28&deg;C
+KCAT	Saccharomyces cerevisiae	0.3	ATP	*mutant E2488Q, basal activity
+KCAT	Saccharomyces cerevisiae	1.38	ATP	*mutant E2488Q, microtubule-stimulated
+KCAT	Saccharomyces cerevisiae	3.36	ATP	*mutant E2819Q, basal activity
+KCAT	Saccharomyces cerevisiae	3.74	ATP	*basal activity
+KCAT	Dictyostelium discoideum	4.9	ATP	*HFG380, basal activity
+KCAT	Tetrahymena thermophila	5	ATP	*
+KCAT	Tetrahymena thermophila	5	Formycin triphosphate	*
+KCAT	Saccharomyces cerevisiae	10.6	ATP	*mutant E2819Q, microtubule-stimulated
+KCAT	Saccharomyces cerevisiae	14.1	ATP	*microtubule-stimulated
+KCAT	Dictyostelium discoideum	121.1	ATP	*HFG380, microtubule-activated activity
+KM	Chlamydomonas sp.	-999	ATP	*the I1alpha complex has a higher Km value than either I1 or I1beta dynein complex, indicating a lower affinity for ATP
+KM	Tripneustes gratilla	0.001	ATP	*21S dynein 1
+KM	Tetrahymena pyriformis	0.01	ATP	*30S dynein, in the absence of tubulin, 1 mM KCl
+KM	Lytechinus pictus	0.02	ATP	*latent dynein ATPase 1, in the presence of 0.02 mM P1,P5-di(adenosine-5')-pentaphosphate
+KM	Saccharomyces cerevisiae	0.0237	ATP	*mutant E2488Q, microtubule-stimulated
+KM	Saccharomyces cerevisiae	0.0253	ATP	*mutant E2819Q, microtubule-stimulated
+KM	Saccharomyces cerevisiae	0.0262	ATP	*microtubule-stimulated
+KM	Dictyostelium discoideum	0.0321	ATP	*HFG380, microtubule-activated
+KM	Bos taurus	0.033	ATP	*
+KM	Tripneustes gratilla	0.11	ATP	*12S dynein 2
+KM	Homo sapiens	0.12	ATP	*asthenozoospermic samples
+KM	Homo sapiens	0.13	ATP	*normozoospermic samples
+KM	Tetrahymena pyriformis	0.23	ATP	*30S dynein, in the presence of tubulin, 1 mM KCl
+KM	Tetrahymena thermophila	1.7	ATP	*22S dynein
+KM	Heliocidaris crassispina	12	ATP	*12S sucrose gradient fraction of inner arm dynein
+KM	Hemicentrotus pulcherrimus	12	ATP	*12S sucrose gradient fraction of inner arm dynein
+KM	Bos taurus	43	ATP	*19S sucrose gradient dynein particle
+KM	Bos taurus	43	ATP	*
+KM	Heliocidaris crassispina	46	ATP	*21S sucrose gradient fraction of outer arm dynein
+KM	Hemicentrotus pulcherrimus	46	ATP	*21S sucrose gradient fraction of outer arm dynein
+KM	Bos taurus	49	ATP	*12S sucrose gradient dynein particle
+KM	Neurospora crassa	200	ATP	*in the presence of microtubules
+KM	Neurospora crassa	400	ATP	*in the absence of microtubules
+KM	Dictyostelium sp.	-999	more	*KM-values for dynein motor domains in which mutations are introduced to block nucleotide binding at each of the four ATPase associated modules
+KM	Chlamydomonas sp.	-999	more	*the steady-state ATPase rates fit the Michaelis-Menten kinetics
+KM	Saccharomyces cerevisiae	0.00003	microtubule	*mutant E2488Q
+KM	Saccharomyces cerevisiae	0.00009	microtubule	*mutant E2819Q
+KM	Saccharomyces cerevisiae	0.00059	microtubule	*
+MW	Mytilus edulis	14000	*	*alpha1,alpha2,IC2,IC3,LC2,LC3,LC4, 1 * 450000 + 1 * 430000 + 1 * 96000 + 1 * 82000 + 1* 18000 + 1 * 16500 + 1 * 14000, dynein polypeptides from flagella, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Spisula solidissima	14500	*	*alpha1,alpha2,IC1,IC2,IC3,LC2,LC3,LC4, 1 * 450000 + 1 * 430000 + 1 * 130000 + 1 * 96000 + 1 * 82500 + 1* 19000 + 1 * 16500 + 1 * 14500, dynein polypeptides from flagella, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Chlamydomonas reinhardtii	16000	*	*alpha,LC1, 1 * 440000 + 1 * 16000, 18S dynein, alpha subunit
+MW	Mytilus edulis	16500	*	*alpha1,alpha2,IC2,IC3,LC2,LC3,LC4, 1 * 450000 + 1 * 430000 + 1 * 96000 + 1 * 82000 + 1* 18000 + 1 * 16500 + 1 * 14000, dynein polypeptides from flagella, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Spisula solidissima	16500	*	*alpha1,alpha2,IC1,IC2,IC3,LC2,LC3,LC4, 1 * 450000 + 1 * 430000 + 1 * 130000 + 1 * 96000 + 1 * 82500 + 1* 19000 + 1 * 16500 + 1 * 14500, dynein polypeptides from flagella, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Mytilus edulis	17000	*	*alpha1,alpha2,IC2,IC3,LC1,LC2,LC3, 1 * 450000 + 1 * 430000 + 1 * 94000 + 1 * 80000 + 1* 27000 + 1 * 21000 + 1 * 17000, dynein polypeptides from cilia, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Spisula solidissima	17000	*	*alpha1,alpha2,IC2,IC3,LC2,LC3, 1 * 450000 + 1 * 430000 + 1 * 90000 + 1 * 78000 + 1* 20000 + 1 * 17000, dynein polypeptides from cilia, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Chlamydomonas reinhardtii	18000	*	*alpha,LC1,LC2, 1 * 400000 + 1 * 22000 + 1 * 18000, 12S dynein
+MW	Mytilus edulis	21000	*	*alpha1,alpha2,IC2,IC3,LC1,LC2,LC3, 1 * 450000 + 1 * 430000 + 1 * 94000 + 1 * 80000 + 1* 27000 + 1 * 21000 + 1 * 17000, dynein polypeptides from cilia, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Chlamydomonas reinhardtii	22000	*	*alpha,LC1,LC2, 1 * 400000 + 1 * 22000 + 1 * 18000, 12S dynein
+MW	Chlamydomonas reinhardtii	69000	*	*alpha, IC1,IC2,LC1-7, 1 * 420000 + 1 * 78000 + 1 * 69000 + 7 * 8000-20000, 18S dynein, beta subunit
+MW	Tripneustes gratilla	76000	*	*alpha1,alpha2,IC1,IC2,IC3,LC1-LC4, 1 * 333000 + 1 * 320000 + 1 * 122000 + 1 * 90000 + 1 * 76000 + 1 * 76000 + 4 * 24000-14000, 21S dynein 1, SDS-PAGE
+MW	Spisula solidissima	78000	*	*alpha1,alpha2,IC2,IC3,LC2,LC3, 1 * 450000 + 1 * 430000 + 1 * 90000 + 1 * 78000 + 1* 20000 + 1 * 17000, dynein polypeptides from cilia, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Chlamydomonas reinhardtii	78000	*	*alpha, IC1,IC2,LC1-7, 1 * 420000 + 1 * 78000 + 1 * 69000 + 7 * 8000-20000, 18S dynein, beta subunit
+MW	Mytilus edulis	80000	*	*alpha1,alpha2,IC2,IC3,LC1,LC2,LC3, 1 * 450000 + 1 * 430000 + 1 * 94000 + 1 * 80000 + 1* 27000 + 1 * 21000 + 1 * 17000, dynein polypeptides from cilia, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Mytilus edulis	82000	*	*alpha1,alpha2,IC2,IC3,LC2,LC3,LC4, 1 * 450000 + 1 * 430000 + 1 * 96000 + 1 * 82000 + 1* 18000 + 1 * 16500 + 1 * 14000, dynein polypeptides from flagella, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Spisula solidissima	82500	*	*alpha1,alpha2,IC1,IC2,IC3,LC2,LC3,LC4, 1 * 450000 + 1 * 430000 + 1 * 130000 + 1 * 96000 + 1 * 82500 + 1* 19000 + 1 * 16500 + 1 * 14500, dynein polypeptides from flagella, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Spisula solidissima	90000	*	*alpha1,alpha2,IC2,IC3,LC2,LC3, 1 * 450000 + 1 * 430000 + 1 * 90000 + 1 * 78000 + 1* 20000 + 1 * 17000, dynein polypeptides from cilia, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Tripneustes gratilla	90000	*	*alpha1,alpha2,IC1,IC2,IC3,LC1-LC4, 1 * 333000 + 1 * 320000 + 1 * 122000 + 1 * 90000 + 1 * 76000 + 1 * 76000 + 4 * 24000-14000, 21S dynein 1, SDS-PAGE
+MW	Bos taurus	91000	*	*alpha,beta, IC1,IC2, 1 * 420000 + 1 * 360000 + 1 * 140000 + 1 * 91000, unidentified lower weight peptides
+MW	Mytilus edulis	94000	*	*alpha1,alpha2,IC2,IC3,LC1,LC2,LC3, 1 * 450000 + 1 * 430000 + 1 * 94000 + 1 * 80000 + 1* 27000 + 1 * 21000 + 1 * 17000, dynein polypeptides from cilia, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Mytilus edulis	96000	*	*alpha1,alpha2,IC2,IC3,LC2,LC3,LC4, 1 * 450000 + 1 * 430000 + 1 * 96000 + 1 * 82000 + 1* 18000 + 1 * 16500 + 1 * 14000, dynein polypeptides from flagella, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Spisula solidissima	96000	*	*alpha1,alpha2,IC1,IC2,IC3,LC2,LC3,LC4, 1 * 450000 + 1 * 430000 + 1 * 130000 + 1 * 96000 + 1 * 82500 + 1* 19000 + 1 * 16500 + 1 * 14500, dynein polypeptides from flagella, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Tripneustes gratilla	122000	*	*alpha1,alpha2,IC1,IC2,IC3,LC1-LC4, 1 * 333000 + 1 * 320000 + 1 * 122000 + 1 * 90000 + 1 * 76000 + 1 * 76000 + 4 * 24000-14000, 21S dynein 1, SDS-PAGE
+MW	Spisula solidissima	130000	*	*alpha1,alpha2,IC1,IC2,IC3,LC2,LC3,LC4, 1 * 450000 + 1 * 430000 + 1 * 130000 + 1 * 96000 + 1 * 82500 + 1* 19000 + 1 * 16500 + 1 * 14500, dynein polypeptides from flagella, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Bos taurus	140000	*	*alpha,beta, IC1,IC2, 1 * 420000 + 1 * 360000 + 1 * 140000 + 1 * 91000, unidentified lower weight peptides
+MW	Strongylocentrotus droebachiensis	320000	*	*alpha,beta,gamma, 1 * 385000 + 1 * 360000 + 1 * 320000, only heavy chains determined, alpha and gamma band slit into doublets, several unidentified lower molecular weight polypeptides
+MW	Strongylocentrotus purpuratus	320000	*	*alpha,beta,gamma, 1 * 385000 + 1 * 360000 + 1 * 320000, only heavy chains determined, alpha and gamma band slit into doublets, several unidentified lower molecular weight polypeptides
+MW	Tripneustes gratilla	320000	*	*alpha1,alpha2,IC1,IC2,IC3,LC1-LC4, 1 * 333000 + 1 * 320000 + 1 * 122000 + 1 * 90000 + 1 * 76000 + 1 * 76000 + 4 * 24000-14000, 21S dynein 1, SDS-PAGE
+MW	Tripneustes gratilla	333000	*	*alpha1,alpha2,IC1,IC2,IC3,LC1-LC4, 1 * 333000 + 1 * 320000 + 1 * 122000 + 1 * 90000 + 1 * 76000 + 1 * 76000 + 4 * 24000-14000, 21S dynein 1, SDS-PAGE
+MW	Strongylocentrotus droebachiensis	360000	*	*alpha,beta,gamma, 1 * 385000 + 1 * 360000 + 1 * 320000, only heavy chains determined, alpha and gamma band slit into doublets, several unidentified lower molecular weight polypeptides
+MW	Strongylocentrotus purpuratus	360000	*	*alpha,beta,gamma, 1 * 385000 + 1 * 360000 + 1 * 320000, only heavy chains determined, alpha and gamma band slit into doublets, several unidentified lower molecular weight polypeptides
+MW	Bos taurus	360000	*	*alpha,beta, IC1,IC2, 1 * 420000 + 1 * 360000 + 1 * 140000 + 1 * 91000, unidentified lower weight peptides
+MW	Dictyostelium discoideum	380000	*	*cytoplasmic dynein motor domain
+MW	Strongylocentrotus droebachiensis	385000	*	*alpha,beta,gamma, 1 * 385000 + 1 * 360000 + 1 * 320000, only heavy chains determined, alpha and gamma band slit into doublets, several unidentified lower molecular weight polypeptides
+MW	Strongylocentrotus purpuratus	385000	*	*alpha,beta,gamma, 1 * 385000 + 1 * 360000 + 1 * 320000, only heavy chains determined, alpha and gamma band slit into doublets, several unidentified lower molecular weight polypeptides
+MW	Bos taurus	390000	*	*alpha, 1 * 390000, 12S dynein, no clear intermediate peptides, unidentified lower weight peptides
+MW	Chlamydomonas reinhardtii	400000	*	*alpha,LC1,LC2, 1 * 400000 + 1 * 22000 + 1 * 18000, 12S dynein
+MW	Bos taurus	420000	*	*alpha,beta, IC1,IC2, 1 * 420000 + 1 * 360000 + 1 * 140000 + 1 * 91000, unidentified lower weight peptides
+MW	Chlamydomonas reinhardtii	420000	*	*alpha, IC1,IC2,LC1-7, 1 * 420000 + 1 * 78000 + 1 * 69000 + 7 * 8000-20000, 18S dynein, beta subunit
+MW	Mytilus edulis	430000	*	*alpha1,alpha2,IC2,IC3,LC1,LC2,LC3, 1 * 450000 + 1 * 430000 + 1 * 94000 + 1 * 80000 + 1* 27000 + 1 * 21000 + 1 * 17000, dynein polypeptides from cilia, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE; alpha1,alpha2,IC2,IC3,LC2,LC3,LC4, 1 * 450000 + 1 * 430000 + 1 * 96000 + 1 * 82000 + 1* 18000 + 1 * 16500 + 1 * 14000, dynein polypeptides from flagella, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Spisula solidissima	430000	*	*alpha1,alpha2,IC1,IC2,IC3,LC2,LC3,LC4, 1 * 450000 + 1 * 430000 + 1 * 130000 + 1 * 96000 + 1 * 82500 + 1* 19000 + 1 * 16500 + 1 * 14500, dynein polypeptides from flagella, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE; alpha1,alpha2,IC2,IC3,LC2,LC3, 1 * 450000 + 1 * 430000 + 1 * 90000 + 1 * 78000 + 1* 20000 + 1 * 17000, dynein polypeptides from cilia, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Chlamydomonas reinhardtii	440000	*	*alpha,LC1, 1 * 440000 + 1 * 16000, 18S dynein, alpha subunit
+MW	Mytilus edulis	450000	*	*alpha1,alpha2,IC2,IC3,LC1,LC2,LC3, 1 * 450000 + 1 * 430000 + 1 * 94000 + 1 * 80000 + 1* 27000 + 1 * 21000 + 1 * 17000, dynein polypeptides from cilia, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE; alpha1,alpha2,IC2,IC3,LC2,LC3,LC4, 1 * 450000 + 1 * 430000 + 1 * 96000 + 1 * 82000 + 1* 18000 + 1 * 16500 + 1 * 14000, dynein polypeptides from flagella, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Spisula solidissima	450000	*	*alpha1,alpha2,IC1,IC2,IC3,LC2,LC3,LC4, 1 * 450000 + 1 * 430000 + 1 * 130000 + 1 * 96000 + 1 * 82500 + 1* 19000 + 1 * 16500 + 1 * 14500, dynein polypeptides from flagella, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE; alpha1,alpha2,IC2,IC3,LC2,LC3, 1 * 450000 + 1 * 430000 + 1 * 90000 + 1 * 78000 + 1* 20000 + 1 * 17000, dynein polypeptides from cilia, heavy chains, intermediate chains (IC) and light chains (LC), SDS-PAGE
+MW	Chlamydomonas reinhardtii	500000	*	*12S dynein, scanning transmission electron microscopy
+MW	Hemicentrotus pulcherrimus	550000	*	*12S sucrose density gradient fraction, calculated from sedimentation constant (12.3 S) and Stokes radius (10.2 nm)
+MW	Tripneustes gratilla	720000	*	*12S dynein 2, analytical gel electrophoreses
+MW	Chlamydomonas reinhardtii	1250000	*	*18S dynein, scanning transmission electron microscopy
+MW	Tripneustes gratilla	1250000	*	*21S dynein 1, analytical centrifugation, sedimentation-diffusion, sedimentation equilibrium
+MW	Neurospora crassa	1500000	*	*gel filtration
+MW	Tetrahymena thermophila	1900000	*	*
+MW	Tetrahymena thermophila	2000000	*	*30S dynein, scanning transmission electron microscopy
+SA	Neurospora crassa	-999	*	*240.00 pmol/min/ml, in the absence of microtubules, activity is regulated by dynactin-dependent phosphorylation of dynein light chains, enzyme is activated by dephosphorylation; 400.00 pmol/min/ml, in the presence of microtubules, activity is regulated by dynactin-dependent phosphorylation of dynein light chains, enzyme is activated by dephosphorylation
+SA	Rattus norvegicus	-999	*	*separation of intermediate chains under hypertonic salt conditions leads to 4fold enhancement of ATP hydrolysis
+SA	Dictyostelium discoideum	-999	*	*in vitro motility assay using biotinylated cytoplasmic dyneins anchored on a glass surface
+SA	Sus scrofa	-999	*	*at 0.001 mM ATP cytoplasm dynein only performed discrete single binding events. At this low ATP concentration dynein behaves as a non-processive motor. At low ATP dynein undergoes a -8 nm apparent working stroke and the lifetime of these binding events depends on ATP concentration
+SA	Chlamydomonas sp.	-999	*	*I1beta complex has 7fold higher ATPase activity and microtubule gliding motility compared to Ialpha complex. The ATPase activity of the two-headed I1 dynein is lower than the combined value of its I1alpha and I1beta motor domains
+SA	Homo sapiens	-999	*	*the dynein-ATPase activity is significantly lower for asthenozoospermic donors as compared to normozoospermic dononors
+SA	Homo sapiens	0.007	*	*asthenozoospermic samples
+SA	Gallus gallus	0.01	*	*activity in crude dynein extract of fowl spermatozoa at 40&Acirc;&deg;C
+SA	Homo sapiens	0.012	*	*asthenozoospermic samples, addition of 0.001 mM 5'-(N-ethylcarboxyamido)-adenosine
+SA	Tetrahymena thermophila	0.012	*	*intact axoneme, pH not specified in the publication, temperature not specified in the publication
+SA	Homo sapiens	0.013	*	*asthenozoospermic samples, addition of 2 mM adenosine; asthenozoospermic samples, addition of 2 mM adenosine and 50 microM dipyridamol
+SA	Homo sapiens	0.014	*	*asthenozoospermic samples, addition of 2 mM 2-deoxyadenosine; normozoospermic samples
+SA	Homo sapiens	0.018	*	*normozoospermic samples, addition of 0.001 mM 5'-(N-ethylcarboxyamido)-adenosine; normozoospermic samples, addition of 2 mM adenosine; normozoospermic samples, addition of 2 mM adenosine and 0.05 mM dipyridamol
+SA	Homo sapiens	0.019	*	*normozoospermic samples, addition of 2 mM 2-deoxyadenosine
+SA	Homo sapiens	0.026	*	*containing 2 mM MgCl2, pH 8.0. 37&Acirc;&deg;C
+SA	Bos taurus	0.03	*	*19S sucrose gradient dynein particle, substrate GTP
+SA	Pseudocentrotus depressus	0.05	*	*21S sucrose gradient fraction, 4 mM MgSO4, 0.5 mM EDTA, 1 mM ATP, pH 8
+SA	Bos taurus	0.07	*	*low salt extract
+SA	Pseudocentrotus depressus	0.08	*	*21S sucrose gradient fraction, 4 mM MgSO4, 0.5 mM EDTA, 1 mM ATP, pH 8, in the absence of KCL
+SA	Bos taurus	0.09	*	*19S sucrose gradient dynein particle, substrate ITP
+SA	Bos taurus	0.11	*	*19S sucrose gradient dynein particle, substrate UTP
+SA	Heliocidaris crassispina	0.12	*	*12S sucrose gradient fraction of inner arm dynein
+SA	Hemicentrotus pulcherrimus	0.12	*	*12S sucrose gradient fraction of inner arm dynein
+SA	Mytilus edulis	0.14	*	*sperm flagellar axonemes
+SA	Rattus norvegicus	0.18	*	*without activation
+SA	Strongylocentrotus droebachiensis	0.2	*	*sucrose gradient pool
+SA	Strongylocentrotus purpuratus	0.2	*	*sucrose gradient pool
+SA	Tripneustes gratilla	0.26	*	*latent activity of 21S dynein 1, increasing activity after exposure to 40&Acirc;&deg;C, Triton X-100 or -SH reagents
+SA	Bos taurus	0.29	*	*19S sucrose gradient dynein particle, substrate CTP
+SA	Tetrahymena pyriformis	0.29	*	*30S dynein, substrate formycin 5'-triphosphate
+SA	Bos taurus	0.3	*	*12S sucrose gradient dynein particle
+SA	Tetrahymena thermophila	0.3	*	*22S dynein
+SA	Rattus norvegicus	0.33	*	*in the presence of 0.1 mg/ml phosphatidylserine and phosphatidylcholine, only ATPase activity is activated
+SA	Tetrahymena pyriformis	0.36	*	*30S dynein, substrate 3'-deoxy-ATP
+SA	Tetrahymena pyriformis	0.43	*	*30S dynein, substrate 8-bromo-ATP
+SA	Rattus norvegicus	0.48	*	*in the presence of 0.6 mg/ml microtubules
+SA	Mytilus edulis	0.62	*	*salt extract with detergent
+SA	Mytilus edulis	0.72	*	*salt extract
+SA	Hemicentrotus pulcherrimus	0.8	*	*12S sucrose gradient fraction
+SA	Asterias	0.8	*	*
+SA	Tetrahymena pyriformis	0.93	*	*30S dynein
+SA	Tetrahymena pyriformis	0.96	*	*30S dynein, substrate 2'-deoxy-ATP
+SA	Heliocidaris crassispina	1.1	*	*21S sucrose gradient fraction of outer arm dynein
+SA	Hemicentrotus pulcherrimus	1.1	*	*21S sucrose gradient fraction of outer arm dynein
+SA	Bos taurus	1.2	*	*19S sucrose gradient dynein particle
+SA	Hemicentrotus pulcherrimus	2.23	*	*14S dynein ATPase
+SA	Chlamydomonas reinhardtii	2.3	*	*reassembled subunits of 18S dynein
+SA	Tetrahymena pyriformis	2.5	*	*30S dynein, in the presence of tubulin
+SA	Colobocentrotus sp.	2.8	*	*

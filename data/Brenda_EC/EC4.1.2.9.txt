@@ -1,0 +1,55 @@
+KCAT	Pseudomonas aeruginosa	13.1	D-fructose 6-phosphate	*pH 6.5, 37&deg;C
+KCAT	Pseudomonas aeruginosa	13.2	D-xylulose 5-phosphate	*pH 6.5, 37&deg;C
+KCAT	Leuconostoc mesenteroides subsp. mesenteroides	44.2	D-fructose 6-phosphate	*pH 6.5, 37&deg;C
+KCAT	Lactococcus lactis subsp. lactis	117.8	D-fructose 6-phosphate	*pH 6.5, 37&deg;C
+KCAT	Leuconostoc mesenteroides subsp. mesenteroides	431.8	D-xylulose 5-phosphate	*pH 6.5, 37&deg;C
+KCAT	Lactococcus lactis subsp. lactis	587.8	D-xylulose 5-phosphate	*pH 6.5, 37&deg;C
+KM	Lactobacillus plantarum	2.9	phosphate	*D-fructose 6-phosphate and phosphate
+KM	Lactobacillus plantarum	7.5	phosphate	*xylulose 5-phosphate and phosphate
+KM	Lactobacillus plantarum	0.0004	D-fructose 6-phosphate	*apparent Km value, Mn2+
+KM	Lactobacillus plantarum	0.16	D-fructose 6-phosphate	*apparent Km value, Ca2+
+KM	Pseudomonas aeruginosa	1.76	D-fructose 6-phosphate	*pH 6.5, 37&Acirc;&deg;C
+KM	Lactococcus lactis subsp. lactis	9.89	D-fructose 6-phosphate	*pH 6.5, 37&Acirc;&deg;C
+KM	Bifidobacterium animalis subsp. lactis	10	D-fructose 6-phosphate	*37&Acirc;&deg;C, pH 6.5
+KM	Lactobacillus plantarum	24	D-fructose 6-phosphate	*D-fructose 6-phosphate and phosphate
+KM	Leuconostoc mesenteroides subsp. mesenteroides	45.96	D-fructose 6-phosphate	*pH 6.5, 37&Acirc;&deg;C
+KM	Oenococcus oeni	22	fructose 6-phosphate	*
+KM	Leuconostoc mesenteroides	29	fructose 6-phosphate	*
+KM	Pseudomonas aeruginosa	0.035	D-xylulose 5-phosphate	*pH 6.5, 37&Acirc;&deg;C
+KM	Rhodotorula graminis	1.25	D-xylulose 5-phosphate	*
+KM	Oenococcus oeni	1.6	D-xylulose 5-phosphate	*
+KM	Leuconostoc mesenteroides subsp. mesenteroides	2.02	D-xylulose 5-phosphate	*pH 6.5, 37&Acirc;&deg;C
+KM	Debaryomyces hansenii	2.4	D-xylulose 5-phosphate	*
+KM	Lactococcus lactis subsp. lactis	3.04	D-xylulose 5-phosphate	*pH 6.5, 37&Acirc;&deg;C
+KM	Lactobacillus plantarum	3.6	D-xylulose 5-phosphate	*xylulose 5-phosphate and phosphate
+KM	Starkeya novella	4.27	D-xylulose 5-phosphate	*
+KM	Leuconostoc mesenteroides	4.7	D-xylulose 5-phosphate	*
+KM	Bifidobacterium animalis subsp. lactis	45	D-xylulose 5-phosphate	*37&Acirc;&deg;C, pH 6.5
+KM	Lactobacillus plantarum	0.032	D-fructofuranose 6-phosphate	*apparent Km value, Mg2+
+MW	Debaryomyces hansenii	50000	*	*gel filtration
+MW	Lactobacillus plantarum	55000	*	*calculation from ultracentrifugation data
+MW	Lactobacillus pentosus	88700	*	*calculated from amino acid sequence
+MW	Lactobacillus pentosus	90000	*	*SDS-PAGE
+MW	Bifidobacterium animalis subsp. lactis	90000	*	*6 * 90000, SDS-PAGE
+MW	Lactobacillus plantarum	90000	*	*SDS-PAGE
+MW	Metarhizium anisopliae	92450	*	*calculated
+MW	Lactococcus lactis	95727	*	*x * 95727, calculated from amino acid sequence
+MW	Bifidobacterium animalis subsp. lactis	550000	*	*gel filtration
+PATH	*	Bifidobacterium shunt	*	*
+PATH	*	Carbon fixation in photosynthetic organisms	*	*
+PATH	*	heterolactic fermentation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pentose phosphate pathway	*	*
+SA	Lactobacillus plantarum	0.052	*	*purification step crude extract, histidine tail phosphoketolase-2
+SA	Oenococcus oeni	0.144	*	*activity with fructose 6-phosphate
+SA	Debaryomyces hansenii	0.152	*	*activity with ribulose 5-phosphate
+SA	Lactobacillus plantarum	0.2	*	*purification step Biogel P6 column, histidine tail phosphoketolase-2
+SA	Debaryomyces hansenii	0.591	*	*activity with xylulose 5-phosphate
+SA	Lactobacillus plantarum	0.61	*	*purification step Sephacryl-300 column, histidine tail phosphoketolase-2
+SA	Clostridium acetobutylicum	2.01	*	*pH 6.5, 37&deg;C
+SA	Oenococcus oeni	2.3	*	*activity with xylulose 5-phosphate
+SA	Bifidobacterium animalis subsp. lactis	4.28	*	*
+SA	Lactobacillus pentosus	4.455	*	*
+SA	Clostridium acetobutylicum	6.9	*	*substrate D-xylulose 5-phosphate, pH 6.5, 37&deg;C
+SA	Leuconostoc mesenteroides	9.9	*	*
+SA	Clostridium acetobutylicum	21	*	*substrate D-fructose 6-phosphate, pH 6.5, 37&deg;C

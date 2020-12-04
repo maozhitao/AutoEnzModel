@@ -1,0 +1,63 @@
+KCAT	Saccharomyces cerevisiae	90	ATP	*pH 7.7, 25&Acirc;&ordm;C, reverse reaction
+KCAT	Bos taurus	130	GTP	*calculated as GDP produced
+KCAT	Oryza sativa Japonica Group	23	GMP	*recombinant chloroplast isozyme, pH 7.5, 30&Acirc;&deg;C
+KCAT	Bacillus subtilis	52	GMP	*recombinant isozyme, pH 7.5, 30&Acirc;&deg;C
+KCAT	Oryza sativa Japonica Group	70	GMP	*recombinant cytosolic isozyme, pH 7.5, 30&Acirc;&deg;C
+KCAT	Escherichia coli	209	GMP	*recombinant cytosolic isozyme, pH 7.5, 30&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	394	GMP	*pH 7.7, 25&Acirc;&ordm;C, forward reaction
+KCAT	Plasmodium falciparum	848	GMP	*mutant E101D
+KCAT	Plasmodium falciparum	946	GMP	*wild-type enzyme
+KCAT	Plasmodium falciparum	1032	GMP	*mutant Y76F
+KCAT	Plasmodium falciparum	1080	GMP	*mutant N103D
+KCAT	Plasmodium falciparum	1121	GMP	*mutant D74A
+KCAT	Brugia malayi	1500	GMP	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Plasmodium falciparum	2	dGMP	*mutant Y76F
+KCAT	Plasmodium falciparum	26.5	dGMP	*mutant E101D
+KCAT	Plasmodium falciparum	26.8	dGMP	*mutant N103D
+KCAT	Plasmodium falciparum	33.1	dGMP	*mutant D74A
+KCAT	Plasmodium falciparum	43	dGMP	*wild-type enzyme
+KCAT	Saccharomyces cerevisiae	51	dGMP	*pH 7.5, 25&Acirc;&ordm;C
+KCAT	Brugia malayi	510	dGMP	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme
+MW	Bos taurus	20000	*	*gel filtration
+MW	Saccharomyces cerevisiae	20000	*	*gel filtration
+MW	Mus musculus	20000	*	*dynamic light scattering and gel filtration
+MW	Rattus norvegicus	20500	*	*gel filtration
+MW	Saccharomyces cerevisiae	20548	*	*1 * 20548, calculated from amino acid sequence
+MW	Homo sapiens	21700	*	*deduced from the amino acid composition
+MW	Mus musculus	21900	*	*deduced from the amino acid composition
+MW	Mus musculus	22000	*	*calculated
+MW	Homo sapiens	22000	*	*x * 22000, SDS-PAGE
+MW	Homo sapiens	22000	*	*
+MW	Homo sapiens	22010	*	*deduced from the amino acid composition and detected by mass spectrometry, adducts with sulfate and not phosphate are detected in mass spectrometry
+MW	Bos taurus	23000	*	*1 * 23000, SDS-PAGE
+MW	Escherichia coli	23460	*	*monomer, electrospray ionization-mass spectrometry
+MW	Escherichia coli	23462	*	*x * 23462, thermodynamic analysis, the enzyme is in equilibrium between a dimer and higher order oligomers, whose relative amounts depend on protein concentration, ionic strength, and the presence of ATP
+MW	Staphylococcus aureus	24000	*	*guanylate monophosphate kinase
+MW	Brugia malayi	24000	*	*
+MW	Saccharomyces cerevisiae	25000	*	*gel filtration
+MW	Brugia malayi	45000	*	*gel filtration
+MW	Helianthus tuberosus	72000	*	*gel filtration
+MW	Escherichia coli	88000	*	*equilibrium centrifugation
+PATH	*	guanosine ribonucleotides de novo biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Purine metabolism	*	*
+PATH	*	purine metabolism	*	*
+SA	Mus musculus	0.0012	*	*E72Q mutant
+SA	Mus musculus	0.0032	*	*D103N mutant, adenylate kinase activity
+SA	Mus musculus	0.0057	*	*E72Q mutant, adenylate kinase activity
+SA	Mus musculus	0.024	*	*E72Q/D103N mutant
+SA	Mus musculus	0.088	*	*D103N mutant
+SA	Mus musculus	0.44	*	*
+SA	Mus musculus	1.24	*	*
+SA	Saccharomyces cerevisiae	2.5	*	*mutant S35P; mutant S35P/D101S
+SA	Rattus norvegicus	3.2	*	*
+SA	Saccharomyces cerevisiae	10.6	*	*
+SA	Sus scrofa	28	*	*
+SA	Plasmodium falciparum	30	*	*with substrates ATP and dGMP
+SA	Escherichia coli	187	*	*
+SA	Bos taurus	323	*	*rod outer segment
+SA	Bos taurus	354	*	*retina
+SA	Saccharomyces cerevisiae	571	*	*
+SA	Plasmodium falciparum	750	*	*with substrate ATP and GMP
+SA	Rickettsia conorii	999	*	*290 Vmax for adenosine triphosphate (ATP); 92 Vmax for guanosine monophosphate (GMP)
+SA	Saccharomyces cerevisiae	1581	*	*wildtype

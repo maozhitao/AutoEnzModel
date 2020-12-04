@@ -1,0 +1,63 @@
+KCAT	Populus alba	0.011	dimethylallyl diphosphate	*at pH 7.8 and 37&Acirc;&deg;C
+KCAT	Metrosideros polymorpha	0.35	dimethylallyl diphosphate	*at pH 6.0 and 50&Acirc;&deg;C
+KCAT	Ipomoea batatas	0.37	dimethylallyl diphosphate	*at pH 7.8 and 37&Acirc;&deg;C
+KCAT	Populus tremuloides	1.7	dimethylallyl diphosphate	*
+KCAT	Populus trichocarpa	1.9	dimethylallyl diphosphate	*
+KCAT	Populus tremula x Populus alba	-999	more	*turnover values ranging from 3.7 to 5.1 mmol isoprene mol-1 ISPS under darkness, long-day conditions, i.e. 16 h light, 8 h dark, and continuous light conditions
+KM	Salix discolor	-999	more	*soluble and membrane-bound isozymes
+KM	Populus tremula x Populus tremuloides	0.0038	dimethylallyl diphosphate	*Km of 3.8 miromol/qm are estimated from the Lineweaver-Burks plot
+KM	Ipomoea batatas	0.2	dimethylallyl diphosphate	*at pH 7.8 and 37&deg;C
+KM	Populus tremula x Populus tremuloides	0.26	dimethylallyl diphosphate	*using an appropriate conversion factor between area-and volume-based units
+KM	Populus trichocarpa	0.32	dimethylallyl diphosphate	*
+KM	Populus alba	0.34	dimethylallyl diphosphate	*at pH 7.8 and 37&deg;C
+KM	Campylopus introflexus	0.37	dimethylallyl diphosphate	*at pH 8.6 and 40&deg;C
+KM	Populus tremula x Populus alba	1.2	dimethylallyl diphosphate	*pH 7.8, 40&deg;C, recombinant C-terminally His-tagged enzyme
+KM	Populus tremula x Populus alba	2.45	dimethylallyl diphosphate	*pH 7.8, 40&deg;C, native enzyme
+KM	Populus tremula x Populus alba	3.1	dimethylallyl diphosphate	*pH 7.8, 40&deg;C, recombinant N-terminally His-tagged enzyme
+KM	Populus tremula x Populus alba	3.68	dimethylallyl diphosphate	*pH 7.8, 40&deg;C, recombinant untagged enzyme
+KM	Populus tremuloides	8	dimethylallyl diphosphate	*
+KM	Salix discolor	8	dimethylallyl diphosphate	*pH 7.8
+KM	Metrosideros polymorpha	8.11	dimethylallyl diphosphate	*at pH 6.0 and 50&deg;C
+MW	Populus tremula x Populus alba	52000	*	*native enzyme, gel filtration
+MW	Populus tremula x Populus alba	53000	*	*recombinant untagged enzyme, gel filtration
+MW	Populus tremuloides	58000	*	*1 * 58000 + 1 * 63000, SDS-PAGE
+MW	Populus tremula x Populus alba	62000	*	*recombinant untagged enzyme, native PAGE
+MW	Populus tremuloides	63000	*	*1 * 58000 + 1 * 63000, SDS-PAGE
+MW	Pueraria montana var. lobata	65000	*	*x * 65000, SDS-PAGE
+MW	Metrosideros polymorpha	65000	*	*gel filtration
+MW	Populus tremula x Populus alba	68000	*	*1 * 68000, C-terminally His-tagged enzyme, SDS-PAGE, 1 * 78000, N-terminally His-tagged enzyme, SDS-PAGE
+MW	Populus nigra	68000	*	*x * 68000, SDS-PAGE
+MW	Populus tremula x Populus alba	78000	*	*1 * 68000, C-terminally His-tagged enzyme, SDS-PAGE, 1 * 78000, N-terminally His-tagged enzyme, SDS-PAGE
+MW	Quercus petraea	90000	*	*gel filtration
+MW	Populus tremuloides	98000	*	*gel filtration
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	isoprene biosynthesis I	*	*
+PATH	*	isoprene biosynthesis II (engineered)	*	*
+PATH	*	Terpenoid backbone biosynthesis	*	*
+SA	Quercus robur	-999	*	*Quercus robur is a strong emitter of isoprene, measurements of three trees over three days
+SA	Mucuna sp.	-999	*	*activity and isoprene emission during leaf development, overview
+SA	Salix discolor	-999	*	*activity in subcellular fractions during partial purification, overview
+SA	Populus nigra	-999	*	*A much higher PnISPS activity sustains high rates of isoprene emission in plants grow at 35&deg;C before drought stress. Large reductions of PnISPS activity have no relevant effect on isoprene emission in conditions of mild drought stress. The PnISPS activities of leaves grown at 35&deg;C do not recover the original rates once drought stress is relieved.; ISPS activity decreases before isoprene emission during drought development, indicating a tighter control of the emission at a transcriptional or post-transcriptional level under moderate drought stress, at 25&deg;C and 35&deg;C.; PnISPS activity is generally related to isoprene emission rates along the drought treatment; Prior to the imposition of drought stress, plants grown at 35&deg;C show much higher PnISPS activities than plants grown at 25&deg;C. Drought stress negatively influences PnISPS activity, especially in plants grow at 35&deg;C. In these plants, PnISPS activity starts to decrease when drought stress is mild and only partially recovered after re-watering. In plants grown at 25&deg;C, the inhibition of PnISPS activity occurred more slowly and only became evident when the stress is severe. At 25&deg;C, PnISPS activity recovers rapidly and completely upon re-watering.
+SA	Populus tremula x Populus tremuloides	-999	*	*activity of isoprene synthase remains constant during postillumination process; isoprene synthase mainly operates under substrate limitation and short-term light, CO2 and O2 dependencies of isoprene emission result from variation in dimethylallyl diphosphate pool size rather than from modifications in isoprene synthase activity; maximum capacity of isoprene synthase of Vmax of 110 nmol/qm/s are estimated
+SA	Arabidopsis thaliana	0.000006	*	*PcISPS activity detected from 2-week-old plant material, Arabidopsis thaliana line 5
+SA	Arabidopsis thaliana	0.000012	*	*PcISPS activity detected from 2-week-old plant material, Arabidopsis thaliana line 10
+SA	Populus alba	0.000024	*	*fraction of transpirable soil water, FTSW, 5%
+SA	Populus tremula x Populus alba	0.000024	*	*continuous light condition, time curve over 72h, experiment 2
+SA	Populus tremula x Populus alba	0.000027	*	*continuous dark condition, time curve over 72h
+SA	Populus alba	0.000036	*	*fraction of transpirable soil water, FTSW, 10%
+SA	Populus tremula x Populus alba	0.000036	*	*continuous light condition, time curve over 72h, experiment 1
+SA	Arabidopsis thaliana	0.000042	*	*PcISPS activity detected from 2-week-old plant material, Arabidopsis thaliana line 3
+SA	Populus alba	0.000066	*	*fraction of transpirable soil water, FTSW, 30%
+SA	Arabidopsis thaliana	0.000072	*	*PcISPS activity detected from 2-week-old plant material, Arabidopsis thaliana line 9
+SA	Populus alba	0.000096	*	*14 days after recovery, DAR
+SA	Populus alba	0.00012	*	*2 days after recovery, DAR
+SA	Populus alba	0.000138	*	*fraction of transpirable soil water, FTSW, 100%
+SA	Arabidopsis thaliana	0.00014	*	*PcISPS activity detected from 2-week-old plant material, Arabidopsis thaliana line 8
+SA	Populus alba	0.00039	*	*leaf cell culture
+SA	Salix discolor	0.001	*	*purified thylakoid membrane-bound isozyme
+SA	Salix discolor	0.011	*	*purified soluble isozyme
+SA	Populus tremula x Populus alba	0.012	*	*purified recombinant enzyme with or without leader sequence
+SA	Quercus robur	0.333	*	*partially purified enzyme
+SA	Populus tremuloides	0.521	*	*purified enzyme
+SA	Populus alba	1500	*	*cell free exract from leaf transformants
+SA	Populus alba	4967	*	*native level in Populus alba leaves

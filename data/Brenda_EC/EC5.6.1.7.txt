@@ -1,0 +1,95 @@
+KCAT	Thermoplasma acidophilum	0.000667	ATP	*ATPase rate per unit mass of chaperonin, in the absence of K+, only alpha subunits
+KCAT	Thermoplasma acidophilum	0.00183	ATP	*ATPase rate per unit mass of chaperonin, in the absence of K+, alpha,beta subunits
+KCAT	Thermoplasma acidophilum	0.002	ATP	*ATPase rate per unit mass of chaperonin, 100 mM KCl, only alpha subunits
+KCAT	Rhizobium leguminosarum	0.003	ATP	*20&deg;C
+KCAT	Thermoplasma acidophilum	0.0055	ATP	*ATPase rate per unit mass of chaperonin, 100 mM KCl, alpha,beta subunits
+KCAT	Rhizobium leguminosarum	0.009	ATP	*20&deg;C
+KCAT	Bos taurus	0.012	ATP	*one CCT ring
+KCAT	Rhizobium leguminosarum	0.014	ATP	*20&deg;C
+KCAT	Bos taurus	0.018	ATP	*both CCT rings
+KCAT	Escherichia coli	0.025	ATP	*20&deg;C
+KCAT	Escherichia coli	0.0275	ATP	*Mn2+ concentration variable, ATP concentration fixed, Mn-ATP complexes at 1 mM ATP and 0.8 mM Mn2+
+KCAT	Bos taurus	0.035	ATP	*in the absence of target protein, without cofactor A
+KCAT	Saccharomyces cerevisiae	0.0417	ATP	*rate per monomer
+KCAT	Escherichia coli	0.0462	ATP	*ATP concentration variable, Mn2+ concentration fixed, Mn-ATP complexes at 1 mM ATP and 0.8 mM Mn2+
+KCAT	Escherichia coli	0.0565	ATP	*Mg2+ concentration variable, ATP concentration fixed, Mg-ATP complexes at 1 mM ATP and 0.8 mM Mg2+
+KCAT	Allochromatium vinosum	0.06	ATP	*based on protomers
+KCAT	Hungateiclostridium thermocellum	0.07	ATP	*authentic and recombinant enzyme
+KCAT	Escherichia coli	0.0833	ATP	*rate per monomer
+KCAT	Escherichia coli	0.1	ATP	*ATP concentration variable, Mg2+ concentration fixed, Mg-ATP complexes at 1 mM ATP and 0.8 mM Mg2+
+KCAT	Escherichia coli	0.1	ATP	*
+KCAT	Escherichia coli	0.1	ATP	*based on protomers, 1 mM K+
+KCAT	Rhodobacter sphaeroides	0.13	ATP	*
+KCAT	Escherichia coli	0.132	ATP	*GroEL shows positive cooperativity in ATP hydrolysis, calculated for one GroEL ring in tense state and the other in relaxed state, may reflect true kcat for ATP hydrolysis of GroEL single ring
+KCAT	Bos taurus	0.133	ATP	*in folding reactions containing tubulin target proteins, without cofactor A
+KCAT	Escherichia coli	0.75	ATP	*
+KCAT	Methanococcus maripaludis	0.99	ATP	*37&deg;C
+KCAT	Thermoanaerobacter brockii	1	ATP	*rate per heptamer at 70&deg;C
+KCAT	Aeropyrum pernix	2.21	ATP	*90&deg;C, pH 5.0
+KM	Escherichia coli	-999	more	*cooperative effect in ATP hydrolysis, Hill coefficient is estimated at 3.56
+KM	Methanococcus maripaludis	-999	more	*positive intraring cooperativity of ATP is suggested
+KM	Escherichia coli	-999	more	*kinetic model for allosteric transitions in GroEL and substrate protein folding and aggregation
+KM	Escherichia coli	-999	more	*cooperativity in GroEL, an allosteric enzyme complex, kinetic analysis, overview. Structural basis of negative cooperativity between rings. GroES is an allosteric effector of ATP hydrolysis
+KM	Escherichia coli	-999	more	*GroEL:GroES stoichiometry calculation. The GroEL/ES system is allosterically regulated with positive cooperativity of ATP binding and hydrolysis within rings and negative cooperativity between rings
+KM	Escherichia coli	0.007	ATP	*50 mM K+
+KM	Thermoplasma acidophilum	0.015	ATP	*wild type enzyme, with rhamnose dehydrogenase as protein substrate, at pH 7.5 and 55&deg;C; wild type enzyme, with rhamnose dehydrogenase as protein substrate, at pH 7.5 and 55&deg;C
+KM	Thermoplasma acidophilum	0.082	ATP	*mutant enzyme D94A, with rhamnose dehydrogenase as protein substrate, at pH 7.5 and 55&deg;C
+KM	Pisum sativum	0.1	ATP	*
+KM	Bos taurus	0.115	ATP	*
+KM	Thermoplasma acidophilum	0.285	ATP	*mutant enzyme D93K, with rhamnose dehydrogenase as protein substrate, at pH 7.5 and 55&deg;C
+KM	Pyrococcus furiosus	0.74	ATP	*pH 7.5, 85&deg;C
+KM	Aeropyrum pernix	10.04	ATP	*90&deg;C, pH 5.0
+MW	Sulfurisphaera tokodaii	56000	*	*x * 56000, alpha subunit, + x * 56000, beta subunit, SDS-PAGE; x * 56000, alpha subunit, + x * 56000, beta subunit, SDS-PAGE
+MW	Escherichia coli	57000	*	*14 * 57000
+MW	Saccharolobus solfataricus	57000	*	*x * 57000, SDS-PAGE
+MW	Escherichia coli	57000	*	*monomer, GroEL is an 800 kDa cylindrical complex consisting of two stacked heptameric rings of 57 kDa subunits
+MW	Escherichia coli	57000	*	*14 * 57000
+MW	Ochlerotatus triseriatus	57179	*	*x * 57179, deduced from nucleotide sequence
+MW	Escherichia coli	57259	*	*x * 57259, sequence calculation, x * 60000, recombinant enzyme, SDS-PAGE
+MW	Escherichia coli	57260	*	*monomer
+MW	Escherichia coli	57500	*	*
+MW	Thermoanaerobacter brockii	57949	*	*7 * 63000, SDS-PAGE, 7 * 57949, electrospray mass spectrometry
+MW	Escherichia coli	58000	*	*14 * 58000, two heptameric rings stacked back-to-back
+MW	Saccharolobus solfataricus	58000	*	*x * 58000, alpha subunit, plus x * 61000, beta subunit, SDS-PAGE
+MW	Homo sapiens	60000	*	*16 * 60000, 8 different subunit species, 16 subunits in a particle
+MW	Pisum sativum	60000	*	*14 * 60000
+MW	Amoeba proteus	60000	*	*14 * 60000, SDS-PAGE
+MW	Aeropyrum pernix	60000	*	*1 * 60000, SDS-PAGE
+MW	Escherichia coli	60000	*	*monomer
+MW	Pyrococcus furiosus	60000	*	*16 * 60000, SDS-PAGE
+MW	Escherichia coli	60000	*	*x * 57259, sequence calculation, x * 60000, recombinant enzyme, SDS-PAGE
+MW	Rhodobacter sphaeroides	61000	*	*14 * 61000, SDS-PAGE
+MW	Saccharolobus solfataricus	61000	*	*x * 58000, alpha subunit, plus x * 61000, beta subunit, SDS-PAGE
+MW	Mycoplasma gallisepticum	62000	*	*x * 56915.4, mass spectrometry, x * 62000, recombinant His-tagged enzyme, SDS-PAGE
+MW	Thermoanaerobacter brockii	63000	*	*7 * 63000, SDS-PAGE, 7 * 57949, electrospray mass spectrometry
+MW	Hungateiclostridium thermocellum	65000	*	*7 * 65000
+MW	Pyrococcus furiosus	66200	*	*determined by SDS-PAGE
+MW	Haloferax volcanii	76200	*	*x * 76200, immunoblot
+MW	Haloferax volcanii	86300	*	*x * 86300, immunoblot
+MW	Haloferax volcanii	95400	*	*x * 95400, immunoblot
+MW	Pseudomonas phage OBP	420000	*	*gel filtration
+MW	Hungateiclostridium thermocellum	450000	*	*gel filtration
+MW	Thermoanaerobacter brockii	450000	*	*gel filtration
+MW	Amoeba proteus	800000	*	*sucrose density gradient ultracentrifugation
+MW	Escherichia coli	800000	*	*GroEL, two stacked heptameric rings of 57 kDa subunits
+MW	Escherichia coli	812000	*	*
+MW	Rhodobacter sphaeroides	889200	*	*gel filtration
+MW	Methanococcus maripaludis	900000	*	*gel filtration, recombinant Mm-cpn
+MW	Saccharolobus solfataricus	920000	*	*gel filtration
+MW	Homo sapiens	960000	*	*
+SA	Thermococcus sp.	-999	*	*alpha16mer, approx. 0.001 mM/min/mg at 90&Acirc;&deg;C, monomer has no ATPase activity
+SA	Escherichia coli	-999	*	*GroEL ATPase activity is determined in the presence of the co-chaperonin GroES and the Arabidopsis thaliana co-chaperonin cpn20 and its mutants G32A, G130A, L35A, L133A, G24A and L27A
+SA	Escherichia coli	-999	*	*ATPase activity of GroEL in the presence of non-foldable and foldable substrate proteins. Steady-state rates of ATP hydrolysis of 100 nM GroEL/400 nM GroES in the absence or presence of substrate proteins
+SA	Pyrococcus furiosus	0.006	*	*ATPase activity at 40&Acirc;&deg;C
+SA	Bos taurus	0.0193	*	*at 37&Acirc;&deg;C
+SA	Sulfolobus sp.	0.02	*	*at 70&Acirc;&deg;C
+SA	Sulfurisphaera tokodaii	0.02	*	*70&Acirc;&deg;C; 70&Acirc;&deg;C
+SA	Thermococcus sp.	0.031	*	*alpha chaperonin subunit
+SA	Thermoanaerobacter brockii	0.04	*	*at 50&Acirc;&deg;C
+SA	Pyrococcus furiosus	0.04	*	*ATPase activity at 98&Acirc;&deg;C
+SA	Amoeba proteus	0.053	*	*at 37&Acirc;&deg;C
+SA	Pyrococcus furiosus	0.053	*	*the highest ATPase activity is obtained around 88&Acirc;&deg;C
+SA	Allochromatium vinosum	0.059	*	*at 25&Acirc;&deg;C
+SA	Thermus thermophilus	0.1	*	*at 80&Acirc;&deg;C
+SA	Rhodobacter sphaeroides	0.134	*	*at 37&Acirc;&deg;C
+SA	Escherichia coli	0.751	*	*at 37&Acirc;&deg;C

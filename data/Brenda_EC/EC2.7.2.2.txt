@@ -1,0 +1,65 @@
+KCAT	Giardia intestinalis	43	Carbamate	*pH 7.5, 25&deg;C
+KCAT	Giardia intestinalis	319	ADP	*pH 7.5, 25&deg;C
+KCAT	Giardia intestinalis	319	Carbamoyl phosphate	*pH 7.5, 25&deg;C
+KM	Pyrococcus furiosus	0.017	ATP	*pH 8.0, 37&Acirc;&deg;C
+KM	Giardia intestinalis	0.035	ATP	*pH 7.5, 25&Acirc;&deg;C
+KM	Neurospora crassa	1	ATP	*
+KM	Pyrococcus furiosus	0.001	ADP	*pH 8.0, 37&Acirc;&deg;C
+KM	Giardia intestinalis	0.07	ADP	*pH 7.5, 25&Acirc;&deg;C
+KM	Streptococcus pyogenes	0.72	ADP	*recombinant enzyme, pH 6.5, 37&Acirc;&deg;C
+KM	Enterococcus faecalis	1.7	acetate	*
+KM	Enterococcus faecium	1.7	acetate	*pH 7.4, 37&Acirc;&deg;C
+KM	Enterococcus faecalis	0.62	MgATP2-	*pH 7.5, 35&Acirc;&deg;C
+KM	Giardia intestinalis	0.085	Carbamoyl phosphate	*pH 7.5, 25&Acirc;&deg;C
+KM	Trichomonas vaginalis	0.13	Carbamoyl phosphate	*
+KM	Streptococcus pyogenes	0.65	Carbamoyl phosphate	*recombinant enzyme, pH 6.5, 37&Acirc;&deg;C
+KM	Lactobacillus buchneri	1.1	Carbamoyl phosphate	*cosubstrate MnADP-, 30&Acirc;&deg;C, pH 5.0
+KM	Lactobacillus buchneri	1.43	Carbamoyl phosphate	*cosubstrate MgADP-, 30&Acirc;&deg;C, pH 5.0
+KM	Lactobacillus buchneri	1.53	Carbamoyl phosphate	*cosubstrate MnADP-, 30&Acirc;&deg;C, pH 5.0
+KM	Lactobacillus buchneri	1.63	Carbamoyl phosphate	*cosubstrate MgADP-, 30&Acirc;&deg;C, pH 5.0
+KM	Lactobacillus buchneri	0.57	MgADP-	*30&Acirc;&deg;C, pH 5.0
+KM	Lactobacillus buchneri	0.71	MgADP-	*30&Acirc;&deg;C, pH 5.0
+KM	Neurospora crassa	4	bicarbonate	*
+KM	Lactobacillus buchneri	0.68	MnADP-	*30&Acirc;&deg;C, pH 5.0
+KM	Lactobacillus buchneri	1.17	MnADP-	*30&Acirc;&deg;C, pH 5.0
+KM	Enterococcus faecalis	3.8	Carbamate	*cosubstrate MgdATP2-
+KM	Enterococcus faecalis	4.74	Carbamate	*cosubstrate MgATP2-
+KM	Giardia intestinalis	43	Carbamate	*pH 7.5, 25&Acirc;&deg;C
+KM	Enterococcus faecalis	0.5	MgdATP2-	*pH 7.5, 35&Acirc;&deg;C
+KM	Pseudomonas aeruginosa	-999	more	*cooperativity at low ADP concentrations
+KM	Pseudomonas aeruginosa	-999	more	*comparison of carbamate kinases and carbamoyl phosphate synthases
+MW	Enterococcus faecalis	31000	*	*2 * 31000, deduced from amino acid composition
+MW	Enterococcus faecium	33000	*	*x * 33000, recombinant protein, SDS-PAGE, x * 328000, deduced from gene sequence, 14 residue C-terminal sequence is important for enzyme activity
+MW	Pyrococcus furiosus	34000	*	*x * 34000, SDS-PAGE
+MW	Streptococcus pyogenes	34200	*	*x * 34200, SDS-PAGE
+MW	Trichomonas vaginalis	36000	*	*x * 36000, SDS-PAGE, recombinant protein including His-tag
+MW	Pseudomonas aeruginosa	37000	*	*2 * 37000, SDS-PAGE
+MW	Enterococcus faecalis	40000	*	*sedimentation equilibrium method
+MW	Mycoplasma hominis	61000	*	*sucrose density gradient technique
+MW	Enterococcus faecalis	66000	*	*sedimentation data
+MW	Trichomonas vaginalis	70000	*	*gel filtration, recombinant protein
+MW	Pseudomonas aeruginosa	74000	*	*sucrose density gradient centrifugation
+MW	Lactobacillus buchneri	97000	*	*gel electrophoresis
+MW	Enterococcus faecium	328000	*	*x * 33000, recombinant protein, SDS-PAGE, x * 328000, deduced from gene sequence, 14 residue C-terminal sequence is important for enzyme activity
+PATH	*	Arginine biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Nitrogen metabolism	*	*
+PATH	*	Purine metabolism	*	*
+PATH	*	urea cycle	*	*
+SA	Enterococcus faecalis	-999	*	*assay for forward and reverse reaction
+SA	Lactococcus lactis	-999	*	*assay for forward and reverse reaction
+SA	Mycoplasma hominis	-999	*	*assay for forward and reverse reaction
+SA	Neurospora crassa	-999	*	*assay for forward and reverse reaction
+SA	Serratia marcescens	-999	*	*assay for forward and reverse reaction
+SA	Enterococcus faecalis	-999	*	*assay
+SA	Cryptobacterium curtum	1.4	*	*
+SA	Slackia exigua	4.14	*	*
+SA	Lactobacillus buchneri	59.52	*	*
+SA	Toxoplasma gondii	980	*	*carbamate kinase is determined in incubations containing 1 mM ADP, 20 mM MgSO4, 0.15 mM luciferin, 1 mg firefly lantern extract, and 1 mM carbamoyl phosphate, in 50 mM potassium phosphate buffer, pH 7.6, ATP formation is determined by monitoring the luminescence using a photomultiplier tube
+SA	Trichomonas vaginalis	1100	*	*recombinant protein
+SA	Enterococcus faecalis	3100	*	*
+SA	Lactococcus lactis	3100	*	*
+SA	Mycoplasma hominis	3100	*	*
+SA	Neurospora crassa	3100	*	*
+SA	Serratia marcescens	3100	*	*

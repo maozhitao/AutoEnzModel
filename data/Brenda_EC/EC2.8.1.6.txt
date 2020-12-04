@@ -1,0 +1,47 @@
+KCAT	Bacillus subtilis	0.0000005	dethiobiotin	*pH 7.5, 30&Acirc;&deg;C, cell free extract
+KCAT	Escherichia coli	0.0000142	dethiobiotin	*pH 7.5, 30&Acirc;&deg;C, cell free extract
+KCAT	Arabidopsis thaliana	0.00055	dethiobiotin	*pH 8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	13.9	dethiobiotin	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	-999	more	*BioB is active for only one turnover, during which the [2Fe-2S]2+ cluster is destroyed, one sulfide from the cluster is incorporated as the biotin thiophane sulfur, while Fe2+ ions and the remaining S2- ion are released from the protein
+KM	Lysinibacillus sphaericus	0.0016	dethiobiotin	*
+KM	Escherichia coli	0.002	dethiobiotin	*pH 7.5
+KM	Escherichia coli	0.002	dethiobiotin	*
+KM	Arabidopsis thaliana	0.0024	NADPH	*pH 8
+KM	Lysinibacillus sphaericus	0.005	9-Mercaptodethiobiotin	*
+KM	Escherichia coli	0.005	dethiobiotin	*pH and temperature not specified in the publication
+KM	Escherichia coli	0.01	S-adenosyl-L-methionine	*in 50 mM Tris-HCl, 100 mM KCl, and 5 mM dithiothreitol, pH 8.0, at 37&deg;C
+KM	Arabidopsis thaliana	0.03	dethiobiotin	*pH 8, 37&deg;C
+KM	Escherichia coli	0.03	L-cysteine	*pH 8, 37&deg;C
+KM	Escherichia coli	0.2	9-Mercaptodethiobiotin	*pH and temperature not specified in the publication
+KM	Arabidopsis thaliana	1	NADH	*pH 8
+MW	Arabidopsis thaliana	22000	*	*Adx1 isozyme, SDS-PAGE
+MW	Lysinibacillus sphaericus	36954	*	*2 * 36954, calculation from nucleotide sequence
+MW	Lysinibacillus sphaericus	37000	*	*2 * 37000, SDS-PAGE
+MW	Bacillus subtilis	37000	*	*2 * 37000, SDS-PAGE
+MW	Lysinibacillus sphaericus	38000	*	*x * 38000, SDS-PAGE
+MW	Escherichia coli	38400	*	*2 * 38400
+MW	Escherichia coli	38600	*	*2 * 38600, calculated from amino acid sequence
+MW	Escherichia coli	38650	*	*wild-type and mutant enzymes, electrospray mass spectrometry
+MW	Escherichia coli	38700	*	*2 * 38700, calculation from nucleotide sequence
+MW	Escherichia coli	39000	*	*2 * 39000, 82000 MW form and 104000 MW form, SDS-PAGE
+MW	Escherichia coli	39000	*	*2 * 39000, 82000 MW form and 104000 MW form, SDS-PAGE
+MW	Arabidopsis thaliana	41650	*	*calculated from nucleotide sequence
+MW	Escherichia coli	45000	*	*His6-BioB, determined by SDS-PAGE and Western blot analysis
+MW	Arabidopsis thaliana	50000	*	*AdxR isozyme, SDS-PAGE
+MW	Lysinibacillus sphaericus	75000	*	*gel filtration
+MW	Escherichia coli	76000	*	*dimeric form
+MW	Bacillus subtilis	80000	*	*gel filtration
+MW	Escherichia coli	82000	*	*at least 3 forms of the enzyme: 82000 Da, 104000 Da, 160000 Da
+MW	Escherichia coli	82000	*	*gel electrophoresis
+MW	Escherichia coli	82630	*	*homodimer, theoretical
+MW	Escherichia coli	90680	*	*homodimer, determined by analytical ultracentrifugation
+MW	Escherichia coli	104000	*	*at least 3 forms of the enzyme: 82000 Da, 104000 Da, 160000 Da
+MW	Escherichia coli	160000	*	*at least 3 forms of the enzyme: 82000 Da, 104000 Da, 160000 Da
+MW	Escherichia coli	165300	*	*homotetramer, theoretical
+MW	Escherichia coli	173900	*	*homotetramer, determined by analytical ultracentrifugation, non-physiological form
+PATH	*	biotin biosynthesis	*	*
+PATH	*	biotin biosynthesis from 8-amino-7-oxononanoate I	*	*
+PATH	*	biotin biosynthesis from 8-amino-7-oxononanoate II	*	*
+PATH	*	Biotin metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Lysinibacillus sphaericus	-999	*	*

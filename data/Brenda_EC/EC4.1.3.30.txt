@@ -1,0 +1,44 @@
+KCAT	Salmonella enterica	0.1	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7.5, 37&deg;C, K121A mutant
+KCAT	Salmonella enterica	0.14	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7.5, 37&deg;C, H125A mutant
+KCAT	Aspergillus nidulans	12.3	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7
+KCAT	Escherichia coli	19	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*
+KCAT	Salmonella enterica	38	Mg2+	*pH 7.5, 37&deg;C
+KCAT	Salmonella enterica	55	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7.5, 37&deg;C, R122K mutant
+KCAT	Aspergillus nidulans	100	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7
+KCAT	Salmonella enterica	105	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7.5, 37&deg;C, wild-type
+KM	Aspergillus fumigatus	0.0181	methylisocitrate	*wild type protein, pH not specified in the publication, temperature not specified in the publication
+KM	Escherichia coli	0.024	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*
+KM	Aspergillus fumigatus	0.0485	methylisocitrate	*L521F/S523T mutant protein, pH not specified in the publication, temperature not specified in the publication
+KM	Aspergillus fumigatus	0.0674	methylisocitrate	*S523T mutant protein, pH not specified in the publication, temperature not specified in the publication
+KM	Aspergillus fumigatus	0.0806	methylisocitrate	*L521F mutant protein, pH not specified in the publication, temperature not specified in the publication
+KM	Yarrowia lipolytica	0.77	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*
+KM	Salmonella enterica	10	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7.5, 37&deg;C, H125A mutant
+KM	Aspergillus nidulans	19	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7
+KM	Salmonella enterica	19	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7.5, 37&deg;C, wild-type
+KM	Salmonella enterica	22	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7.5, 37&deg;C, R122K mutant
+KM	Aspergillus nidulans	31	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7
+KM	Salmonella enterica	57	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*pH 7.5, 37&deg;C, K121A mutant
+MW	Aspergillus nidulans	32000	*	*4 * 32000, SDS-PAGE
+MW	Salmonella enterica	32000	*	*4 * 32000, SDS-PAGE
+MW	Toxoplasma gondii	40000	*	*x * 40000, about, recombinant N-terminally myc-tagged pro-PrpB, SDS-PAGE
+MW	Aspergillus nidulans	66000	*	*4 * 66000, SDS-PAGE
+MW	Yarrowia lipolytica	120000	*	*gel filtration
+MW	Aspergillus nidulans	130000	*	*gel filtration
+MW	Aspergillus nidulans	244000	*	*gel filtration
+PATH	*	2-methylcitrate cycle I	*	*
+PATH	*	2-methylcitrate cycle II	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Propanoate metabolism	*	*
+PATH	*	propionate fermentation	*	*
+SA	Aspergillus fumigatus	-999	*	*activity not detectable for substrate isocitrate and wild type protein, pH not specified in the publication, temperature not specified in the publication
+SA	Aspergillus fumigatus	0.00055	*	*substrate isocitrate, S523T mutant protein, pH not specified in the publication, temperature not specified in the publication
+SA	Aspergillus fumigatus	0.00105	*	*substrate isocitrate, L521F mutant protein, pH not specified in the publication, temperature not specified in the publication
+SA	Aspergillus fumigatus	0.0033	*	*substrate isocitrate, L521F/S523T mutant protein, pH not specified in the publication, temperature not specified in the publication
+SA	Yarrowia lipolytica	0.037	*	*
+SA	Yarrowia lipolytica	1.76	*	*
+SA	Aspergillus fumigatus	4.33	*	*L521F/S523T mutant protein, pH not specified in the publication, temperature not specified in the publication
+SA	Aspergillus fumigatus	7.52	*	*S523T mutant protein, pH not specified in the publication, temperature not specified in the publication
+SA	Aspergillus nidulans	21.4	*	*
+SA	Aspergillus fumigatus	27.43	*	*L521F mutant protein, pH not specified in the publication, temperature not specified in the publication
+SA	Aspergillus fumigatus	32.33	*	*wild type protein, pH not specified in the publication, temperature not specified in the publication
+SA	Aspergillus nidulans	91	*	*

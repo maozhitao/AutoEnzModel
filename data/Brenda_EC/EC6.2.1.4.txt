@@ -1,0 +1,51 @@
+KCAT	Blastocystis hominis	0.0078	GTP	*mutant enzyme K46E/K114D/V113L/L227F, at pH 7.4 and 21&deg;C
+KCAT	Blastocystis hominis	0.0139	ATP	*wild type enzyme, at pH 7.4 and 21&deg;C
+KCAT	Blastocystis hominis	0.0176	ATP	*mutant enzyme K46E/K114D, at pH 7.4 and 21&deg;C
+KCAT	Blastocystis hominis	0.0177	ATP	*mutant enzyme V113L/L227F, at pH 7.4 and 21&deg;C
+KCAT	Blastocystis hominis	0.0195	GTP	*mutant enzyme K46E/K114D, at pH 7.4 and 21&deg;C
+KM	Sus scrofa	-999	more	*kinetic mechanism and thermodynamic parameter values, quasi-steady-state models, evaluation of five different proposed mechanisms, overview. The ordered ter-ter mechanism with dead-end product inhibition of succinate against succinyl-CoA effectively matches kinetic data on pig heart enzyme, thermodynamic-constrained kinetic model
+KM	Sus scrofa	0.004	CoA	*enzyme form pI 6.4
+KM	Sus scrofa	0.005	CoA	*enzyme form pI 5.8
+KM	Sus scrofa	0.006	CoA	*enzyme forms pI 6.2 and pI 6.0
+KM	Sus scrofa	0.007	CoA	*enzyme form pI 5.9
+KM	Pigeon	0.007	GDP	*pH 8.0, 30&deg;C
+KM	Sus scrofa	0.009	GTP	*enzyme form pI 6.4
+KM	Sus scrofa	0.01	GTP	*enzyme form 6.0
+KM	Sus scrofa	0.011	GTP	*enzyme forms pI 6.2, pI 5.9 and pI 5.8
+KM	Sus scrofa	0.014	GTP	*refolded enzyme
+KM	Sus scrofa	0.027	GTP	*native enzyme
+KM	Pigeon	0.036	CoA	*pH 8.0, 30&deg;C
+KM	Pigeon	0.036	GTP	*pH 8.0, 30&deg;C
+KM	Blastocystis hominis	0.082	GTP	*mutant enzyme K46E/K114D/V113L/L227F, at pH 7.4 and 21&deg;C
+KM	Pigeon	0.086	succinyl-CoA	*pH 8.0, 30&deg;C
+KM	Blastocystis hominis	0.143	GTP	*mutant enzyme K46E/K114D, at pH 7.4 and 21&deg;C
+KM	Blastocystis hominis	0.145	ATP	*wild type enzyme, at pH 7.4 and 21&deg;C
+KM	Blastocystis hominis	0.23	ATP	*mutant enzyme K46E/K114D, at pH 7.4 and 21&deg;C
+KM	Blastocystis hominis	0.265	ATP	*mutant enzyme V113L/L227F, at pH 7.4 and 21&deg;C
+KM	Sus scrofa	0.39	succinate	*enzyme form pI 6.4
+KM	Sus scrofa	0.43	succinate	*enzyme forms pI 5.9 and pI 5.8
+KM	Sus scrofa	0.45	succinate	*enzyme form pI 6.0
+KM	Pigeon	0.49	succinate	*pH 8.0, 30&deg;C
+KM	Sus scrofa	0.49	succinate	*wild type enzyme, at pH 7.4 and 21&deg;C
+KM	Homo sapiens	0.63	GTP	*at pH 8.0 and 37&deg;C
+KM	Pigeon	2.26	phosphate	*pH 8.0, 30&deg;C
+KM	Sus scrofa	5.1	succinate	*mutant enzyme V330M, at pH 7.4 and 21&deg;C
+MW	Thermus aquaticus	24520	*	*calculated from amino acid sequence
+MW	Pigeon	35000	*	*alphaxbetay, x * 35000 + y * 44500, ATP-specific succinyl-CoA synthetase and GTP-specific succinyl-CoA synthetase incorporate the same alpha-subunit, SDS-PAGE
+MW	Pigeon	44500	*	*alphaxbetay, x * 35000 + y * 44500, ATP-specific succinyl-CoA synthetase and GTP-specific succinyl-CoA synthetase incorporate the same alpha-subunit, SDS-PAGE
+MW	Sus scrofa	74000	*	*enzyme pI 6.0, at pI, gel filtration
+MW	Sus scrofa	77000	*	*enzyme form pI 5.9, at pH 8.0, gel filtration
+MW	Sus scrofa	78000	*	*enzyme form pI 6.3, at pH 8.0 and at pI, gel filtration
+MW	Sus scrofa	79250	*	*enzyme form pI 6.0, at pH 8.0, gel filtration
+MW	Sus scrofa	80000	*	*enzyme form pI 6.4, at pI, gel filtration
+MW	Sus scrofa	82500	*	*enzyme form pI 6.4, at pH 8.0, gel filtration
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Citrate cycle (TCA cycle)	*	*
+PATH	*	citric acid cycle	*	*
+PATH	*	itaconate degradation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Propanoate metabolism	*	*
+PATH	*	TCA cycle III (animals)	*	*
+SA	Sus scrofa	-999	*	*
+SA	Pigeon	22.1	*	*

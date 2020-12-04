@@ -1,0 +1,68 @@
+KCAT	Euglena gracilis	160	D-gulono-1,5-lactone	*recombinant enzyme
+KCAT	Euglena gracilis	192	D-glucono-1,5-lactone	*wild type enzyme
+KCAT	Euglena gracilis	450	L-galactono-1,4-lactone	*recombinant enzyme
+KCAT	Euglena gracilis	615	L-galactonic acid	*recombinant enzyme
+KCAT	Euglena gracilis	1040	L-gulono-1,4-lactone	*recombinant enzyme
+KCAT	Euglena gracilis	1503	L-Gulonic acid	*recombinant enzyme
+KM	Saccharomyces cerevisiae	-999	more	*
+KM	Zymomonas mobilis	-999	more	*
+KM	Xanthomonas campestris	0.0162	D-glucono-1,5-lactone	*in 1 mM potassium phosphate buffer (pH 7.0) with 0.075 mM CaCl2
+KM	Euglena gracilis	1.55	L-galactonic acid	*recombinant enzyme
+KM	Euglena gracilis	1.67	L-galactono-1,4-lactone	*recombinant enzyme
+KM	Euglena gracilis	2.08	D-gulono-1,5-lactone	*recombinant enzyme
+KM	Euglena gracilis	3.05	L-gulono-1,4-lactone	*recombinant enzyme
+KM	Euglena gracilis	4.55	L-Gulonic acid	*recombinant enzyme
+KM	Sus scrofa	6.2	glucono-1,5-lactone	*
+KM	Bos taurus	9.1	D-glucono-1,5-lactone	*
+KM	Rattus norvegicus	9.4	D-glucono-1,5-lactone	*pH 6.4
+KM	Euglena gracilis	9.4	D-glucono-1,5-lactone	*wild type enzyme
+KM	Gluconobacter oxydans	25	D-glucono-1,5-lactone	*estimated value
+MW	Zymomonas mobilis	30000	*	*3 * 30000 or 4 * 44000, SDS-PAGE
+MW	Zymomonas mobilis	32000	*	*2 * 32000, SDS-PAGE
+MW	Euglena gracilis	34000	*	*about 34000 Da, recombinant enzyme, SDS-PAGE
+MW	Homo sapiens	34000	*	*x * 34000, SDS-PAGE
+MW	Mus musculus	34000	*	*x * 34000, SDS-PAGE
+MW	Sus scrofa	37200	*	*6 * 37200, SDS-PAGE
+MW	Bos taurus	39400	*	*6 * 39400, SDS-PAGE
+MW	Pseudomonas aeruginosa	40000	*	*about 40000 Da, SDS-PAGE
+MW	Zymomonas mobilis	44000	*	*3 * 30000 or 4 * 44000, SDS-PAGE
+MW	Homo sapiens	45000	*	*SDS-PAGE
+MW	Gluconobacter oxydans	60000	*	*2 * 60000, gel filtration and SDS-PAGE
+MW	Zymomonas mobilis	63000	*	*gel filtration
+MW	Zymomonas mobilis	90000	*	*gel filtration
+MW	Gluconobacter oxydans	120000	*	*gel filtration
+MW	Sus scrofa	223000	*	*gel filtration
+MW	Bos taurus	233000	*	*gel filtration
+PATH	*	Ascorbate and aldarate metabolism	*	*
+PATH	*	ascorbate metabolism	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Caprolactam degradation	*	*
+PATH	*	Entner Doudoroff pathway	*	*
+PATH	*	Entner-Doudoroff pathway II (non-phosphorylative)	*	*
+PATH	*	Entner-Doudoroff pathway III (semi-phosphorylative)	*	*
+PATH	*	glucose and glucose-1-phosphate degradation	*	*
+PATH	*	glucose degradation (oxidative)	*	*
+PATH	*	L-ascorbate biosynthesis IV	*	*
+PATH	*	L-ascorbate biosynthesis VI (engineered pathway)	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Pentose phosphate pathway	*	*
+PATH	*	sorbitol biosynthesis II	*	*
+SA	Gluconobacter oxydans	0.08	*	*crude extract
+SA	Euglena gracilis	0.8	*	*wild type enzyme, using L-galactono-1,4-lactone as substrate
+SA	Saccharomyces cerevisiae	2	*	*
+SA	Gluconobacter oxydans	2.5	*	*after 31.2fold purification
+SA	Euglena gracilis	2.7	*	*wild type enzyme, using L-gulono-1,4-lactone as substrate
+SA	Euglena gracilis	5.4	*	*wild type enzyme, using L-glucono-1,5-lactone as substrate
+SA	Euglena gracilis	9.4	*	*wild type enzyme, using D-galactono-1,4-lactone as substrate
+SA	Euglena gracilis	12	*	*wild type enzyme, using D-gulono-1,4-lactone as substrate
+SA	Euglena gracilis	20.1	*	*recombinant enzyme, using D-gulono-1,4-lactone as substrate
+SA	Euglena gracilis	24.5	*	*recombinant enzyme, using L-galactono-1,4-lactone as substrate
+SA	Euglena gracilis	27.3	*	*recombinant enzyme, using D-galactono-1,4-lactone as substrate
+SA	Euglena gracilis	39	*	*recombinant enzyme, using D-glucono-1,5-lactone as substrate
+SA	Euglena gracilis	40.9	*	*recombinant enzyme, using L-gulono-1,4-lactone as substrate
+SA	Rhodotorula mucilaginosa	175.3	*	*
+SA	Euglena gracilis	217	*	*wild type enzyme, using D-glucono-1,5-lactone as substrate
+SA	Bos taurus	1001	*	*
+SA	Sus scrofa	1040	*	*
+SA	Zymomonas mobilis subsp. mobilis	1894	*	*wild-type strain, pH 6.8, 25&deg;C

@@ -1,0 +1,67 @@
+KCAT	Escherichia coli	-999	more	*
+KCAT	Saccharolobus solfataricus	0.25	ATP	*65&deg;C, pH not specified in the publication
+KCAT	Saccharolobus solfataricus	0.326	ATP	*70&deg;C, pH not specified in the publication
+KCAT	Saccharolobus solfataricus	0.41	pyruvate	*65&deg;C, pH not specified in the publication
+KCAT	Saccharolobus solfataricus	0.48	pyruvate	*70&deg;C, pH not specified in the publication
+KCAT	Thermoproteus tenax	0.683	pyruvate	*in 100 mM Tris/HCl, pH 7.0, in the presence of 20 mM beta-mercaptoethanol, 6 mM pyruvate, 10 mM ATP and 10 mM MgCl2, at 70&deg;C
+KCAT	Pyrococcus furiosus	8.7	AMP	*pH 8.4, 80&deg;C
+KCAT	Pyrococcus furiosus	11.9	phosphate	*pH 8.4, 80&deg;C
+KCAT	Pyrococcus furiosus	12.6	phosphoenolpyruvate	*pH 8.4, 80&deg;C
+KCAT	Pyrococcus furiosus	1330	ATP	*pH 8.4, 80&deg;C
+KCAT	Pyrococcus furiosus	1570	pyruvate	*pH 8.4, 80&deg;C
+KM	Escherichia coli	0.028	ATP	*pH 8.0, 25&Acirc;&deg;C
+KM	Pyrococcus furiosus	0.07	ATP	*50&Acirc;&deg;C, pH not specified in the publication
+KM	Pyrococcus furiosus	0.39	ATP	*pH 8.4, 80&Acirc;&deg;C
+KM	Saccharolobus solfataricus	0.47	ATP	*65&Acirc;&deg;C, pH not specified in the publication
+KM	Saccharolobus solfataricus	0.61	ATP	*70&Acirc;&deg;C, pH not specified in the publication
+KM	Thermoproteus tenax	1	ATP	*in 100 mM Tris/HCl, pH 7.0, in the presence of 20 mM beta-mercaptoethanol, 6 mM pyruvate, 10 mM ATP and 10 mM MgCl2, at 70&Acirc;&deg;C
+KM	Escherichia coli	10.5	phosphate	*pH 6.8, 23&Acirc;&deg;C
+KM	Pyrococcus horikoshii	35	phosphate	*pH 6.5, 50&Acirc;&deg;C
+KM	Pyrococcus furiosus	38.4	phosphate	*pH 8.4, 80&Acirc;&deg;C
+KM	Pyrococcus horikoshii	0.1	AMP	*pH 6.5, 50&Acirc;&deg;C
+KM	Pyrococcus furiosus	1	AMP	*pH 8.4, 80&Acirc;&deg;C
+KM	Escherichia coli	0.083	pyruvate	*pH 8.0, 25&Acirc;&deg;C
+KM	Pyrococcus furiosus	0.11	pyruvate	*pH 8.4, 80&Acirc;&deg;C
+KM	Thermoproteus tenax	0.4	pyruvate	*in 100 mM Tris/HCl, pH 7.0, in the presence of 20 mM beta-mercaptoethanol, 6 mM pyruvate, 10 mM ATP and 10 mM MgCl2, at 70&Acirc;&deg;C
+KM	Saccharolobus solfataricus	0.46	pyruvate	*70&Acirc;&deg;C, pH not specified in the publication
+KM	Saccharolobus solfataricus	0.54	pyruvate	*65&Acirc;&deg;C, pH not specified in the publication
+KM	Pyrococcus furiosus	0.4	phosphoenolpyruvate	*pH 8.4, 80&Acirc;&deg;C
+KM	Pyrococcus horikoshii	1	phosphoenolpyruvate	*pH 6.5, 50&Acirc;&deg;C
+KM	Escherichia coli	-999	more	*kinetics
+KM	Escherichia coli	-999	more	*kinetics; Km-values, both reaction directions, overview
+KM	Pyrococcus furiosus	-999	more	*kinetics
+MW	Escherichia coli	77000	*	*2 * 77000, enzyme tends to dissociate to monomers at low protein concentration
+MW	Pyrococcus furiosus	78000	*	*x * 78000, SDS-PAGE
+MW	Escherichia coli	87430	*	*x * 87430, calculation from nucleotide sequence
+MW	Thermococcus kodakarensis	87520	*	*calculated from amino acid sequence
+MW	Thermoproteus tenax	88000	*	*SDS-PAGE, recombinant enzyme, phosphoenzyme intermediate form
+MW	Saccharolobus solfataricus	89300	*	*x * 89000-92000, SDS-PAGE, x * 89300, calculated
+MW	Thermoproteus tenax	90500	*	*calculated from amino acid sequence
+MW	Pyrococcus furiosus	92000	*	*8 * 92000, SDS-PAGE, 30% of the enzyme is purified as a large inactive complex of about 1640 kDa
+MW	Thermoproteus tenax	94000	*	*SDS-PAGE, recombinant enzyme, nonphosphorylated form
+MW	Escherichia coli	150000	*	*sedimentation equilibrium studies
+MW	Escherichia coli	180000	*	*gel filtration
+MW	Escherichia coli	180000	*	*
+MW	Escherichia coli	250000	*	*gel filtration
+MW	Thermoproteus tenax	600000	*	*above 600000, gel filtration
+MW	Pyrococcus horikoshii	670000	*	*more than 670000 Da
+MW	Pyrococcus furiosus	690000	*	*gel filtration
+PATH	*	Carbon fixation pathways in prokaryotes	*	*
+PATH	*	gluconeogenesis	*	*
+PATH	*	gluconeogenesis I	*	*
+PATH	*	gluconeogenesis II (Methanobacterium thermoautotrophicum)	*	*
+PATH	*	glycolysis I (from glucose 6-phosphate)	*	*
+PATH	*	glycolysis II (from fructose 6-phosphate)	*	*
+PATH	*	glycolysis V (Pyrococcus)	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Methane metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Pyruvate metabolism	*	*
+PATH	*	reductive TCA cycle I	*	*
+SA	Escherichia coli	-999	*	*
+SA	Escherichia coli	-999	*	*
+SA	Pyrococcus furiosus	0.05	*	*50&deg;C, pH not specified in the publication
+SA	Pyrococcus horikoshii	0.3	*	*pH 6.5, 50&deg;C, ATP-dependent pyruvate consumption
+SA	Escherichia coli	8.9	*	*purified enzyme
+SA	Pyrococcus horikoshii	13.3	*	*pH 6.5, 50&deg;C, AMP-dependent kinase activity
+SA	Pyrococcus furiosus	14.9	*	*purified enzyme

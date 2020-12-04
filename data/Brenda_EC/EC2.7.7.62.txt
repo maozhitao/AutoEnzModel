@@ -1,0 +1,30 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.058	GTP	*pH 8.8, 37&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.093	5'-deoxyadenosylcobinamide phosphate	*pH 8.8, 37&deg;C
+KCAT	Methanocaldococcus jannaschii	1.8	GTP	*
+KCAT	Methanocaldococcus jannaschii	4.7	adenosylcobinamide phosphate	*
+KM	Methanocaldococcus jannaschii	0.0024	GTP	*apparent KM
+KM	Methanocaldococcus jannaschii	0.0184	adenosylcobinamide phosphate	*apparent KM
+KM	Salmonella enterica subsp. enterica serovar Typhimurium	0.0213	GTP	*pH 8.8, 37&deg;C
+KM	Salmonella enterica subsp. enterica serovar Typhimurium	0.102	5'-deoxyadenosylcobinamide phosphate	*pH 8.8, 37&deg;C
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	19000	*	*3 * 19000, homotrimer
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	19700	*	*predicted mass, based on DNA sequence
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	19770	*	*3 * 19770
+MW	Salmonella enterica	20000	*	*amino acid sequence, small polypeptide with 180 amino acids
+MW	Methanocaldococcus jannaschii	21600	*	*monomer, determined by gel filtation and SDS-PAGE
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	22000	*	*2 * 22000, SDS-PAGE
+MW	Escherichia coli	34000	*	*SDS-PAGE
+MW	Methanocaldococcus jannaschii	43000	*	*dimer, determined by gel filtation
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	49000	*	*gel filtration
+PATH	*	adenosylcobinamide-GDP biosynthesis from cobyrinate a,c-diamide	*	*
+PATH	*	adenosylcobinamide-GDP salvage from cobinamide I	*	*
+PATH	*	adenosylcobinamideGDP salvage from cobinamide II	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Porphyrin and chlorophyll metabolism	*	*
+PATH	*	superpathway of adenosylcobalamin salvage from cobinamide I	*	*
+PATH	*	superpathway of adenosylcobalamin salvage from cobinamide II	*	*
+PATH	*	vitamin B12 metabolism	*	*
+SA	Salmonella enterica subsp. enterica serovar Typhimurium	0.00000002	*	*GTP:guanylyltransferase specific activity, mutant H46A
+SA	Salmonella enterica subsp. enterica serovar Typhimurium	0.00000003	*	*GTP:guanylyltransferase specific activity, mutant H46N
+SA	Salmonella enterica subsp. enterica serovar Typhimurium	0.000202	*	*
+SA	Salmonella enterica subsp. enterica serovar Typhimurium	0.000205	*	*GTP:guanylyltransferase specific activity, mutant H45A
+SA	Salmonella enterica subsp. enterica serovar Typhimurium	0.00067	*	*GTP:guanylyltransferase specific activity, wild-type

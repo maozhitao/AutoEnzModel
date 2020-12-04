@@ -1,0 +1,66 @@
+KCAT	Lactococcus lactis	3.5	oxaloacetate	*
+KCAT	Enterococcus faecalis	11.2	oxaloacetate	*calculated value at pH 4.5, temperature not specified in the publication
+KCAT	Lactococcus lactis	20.26	oxaloacetate	*
+KCAT	Corynebacterium glutamicum	104	oxaloacetate	*in 100 mM Tris-HCl (pH 7.3), 10 mM MgCl2, 2.5 mM EDTA, at 30&deg;C
+KCAT	Pseudomonas aeruginosa	250	3-methyloxaloacetate	*in 0.2 mM NADH, 5 mM MgCl2 and 50 mM K+HEPES (pH 7.5), at 25&deg;C
+KCAT	Pseudomonas aeruginosa	7500	oxaloacetate	*in 0.2 mM NADH, 5 mM MgCl2 and 50 mM K+HEPES (pH 7.5), at 25&deg;C
+KM	Veillonella parvula	1	CO2	*
+KM	Veillonella parvula	3.3	pyruvate	*
+KM	Homo sapiens	0.0003	oxaloacetate	*wild-type, Vmax = 4 micromol/min/mg; Y235A mutant, Vmax = 0.2 micromol/min/mg. In the presence of GDP; Y235F mutant, Vmax = 2 micromol/min/mg; Y235S mutant, Vmax = 0.1 micromol/min/mg. In the presence of GDP
+KM	Homo sapiens	0.0004	oxaloacetate	*wild-type, Vmax = 3 micromol/min/mg. In the presence of GDP; Y235F mutant, Vmax = 3 micromol/min/mg. In the presence of GDP
+KM	Zea mays	0.03	oxaloacetate	*pH 7.1
+KM	Homo sapiens	0.032	oxaloacetate	*at pH 7.4 and 25&Acirc;&deg;C
+KM	Veillonella parvula	0.06	oxaloacetate	*
+KM	Pseudomonas aeruginosa	0.087	oxaloacetate	*mutant enzyme Y212F, in 0.2 mM NADH, 5 mM MgCl2 and 50 mM K+HEPES (pH 7.5), at 25&Acirc;&deg;C
+KM	Rattus norvegicus	0.15	oxaloacetate	*
+KM	Acetobacter aceti	0.22	oxaloacetate	*
+KM	Rattus norvegicus	0.23	oxaloacetate	*mitochondrial enzyme
+KM	Lactococcus lactis	0.52	oxaloacetate	*
+KM	Rattus norvegicus	0.55	oxaloacetate	*
+KM	Enterococcus faecalis	0.62	oxaloacetate	*calculated value at pH 4.5, temperature not specified in the publication
+KM	Pseudomonas aeruginosa	1.02	oxaloacetate	*mutant enzyme H235A, in 0.2 mM NADH, 5 mM MgCl2 and 50 mM K+HEPES (pH 7.5), at 25&Acirc;&deg;C
+KM	Corynebacterium glutamicum	1.39	oxaloacetate	*in 100 mM Tris-HCl (pH 7.3), 10 mM MgCl2, 2.5 mM EDTA, at 30&Acirc;&deg;C
+KM	Saccharolobus solfataricus	1.7	oxaloacetate	*
+KM	Corynebacterium glutamicum	2.1	oxaloacetate	*
+KM	Pseudomonas stutzeri	2.1	oxaloacetate	*pH 8.0, 25&Acirc;&deg;C
+KM	Pseudomonas aeruginosa	2.2	oxaloacetate	*wild type enzyme, in 0.2 mM NADH, 5 mM MgCl2 and 50 mM K+HEPES (pH 7.5), at 25&Acirc;&deg;C
+KM	Pseudomonas aeruginosa	2.5	oxaloacetate	*mutant enzyme H235Q, in 0.2 mM NADH, 5 mM MgCl2 and 50 mM K+HEPES (pH 7.5), at 25&Acirc;&deg;C
+KM	Sus scrofa	4.3	oxaloacetate	*
+KM	Pseudomonas aeruginosa	0.63	3-methyloxaloacetate	*wild type enzyme, in 0.2 mM NADH, 5 mM MgCl2 and 50 mM K+HEPES (pH 7.5), at 25&Acirc;&deg;C
+KM	Komagataeibacter xylinus	-999	more	*kinetic data; positive cooperativity for oxaloacetate
+KM	Helianthus annuus	-999	more	*kinetic data
+MW	Corynebacterium glutamicum	29000	*	*2 * 29000, gel filtration
+MW	Corynebacterium glutamicum	31700	*	*4 * 31700, SDS-PAGE
+MW	Corynebacterium glutamicum	32000	*	*monomer, SDS-PAGE
+MW	Saccharolobus solfataricus	49000	*	*2 * 49000, SDS-PAGE
+MW	Vibrio cholerae serotype O1	51000	*	*2 * 51000, gel filtration
+MW	Zea mays	58000	*	*gel filtration
+MW	Corynebacterium glutamicum	62100	*	*native enzyme, gel filtration
+MW	Pseudomonas stutzeri	63000	*	*gel filtration
+MW	Acetobacter aceti	80000	*	*gel filtration
+MW	Vibrio cholerae serotype O1	98300	*	*static light scattering
+MW	Vibrio cholerae serotype O1	102000	*	*gel filtration
+MW	Saccharolobus solfataricus	105000	*	*gel filtration
+MW	Corynebacterium glutamicum	118000	*	*gel filtration
+MW	Vibrio cholerae serotype O1	530000	*	*the most prominent band at 530 kDa is likely composed of a tetrameric Oad-alpha/gamma plus a dimeric (or tetrameric) Oad-beta subunit, SDS-PAGE
+MW	Vibrio cholerae	570000	*	*oxaloacetate decarboxylase OAD-2, gel filtration
+PATH	*	Metabolic pathways	*	*
+PATH	*	methylgallate degradation	*	*
+PATH	*	protocatechuate degradation I (meta-cleavage pathway)	*	*
+PATH	*	Pyruvate metabolism	*	*
+PATH	*	syringate degradation	*	*
+SA	Komagataeibacter xylinus	-999	*	*
+SA	Cavia aperea	-999	*	*
+SA	Oryctolagus cuniculus	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Sus scrofa	-999	*	*
+SA	Corynebacterium glutamicum	-999	*	*strain-dependend
+SA	Vibrio cholerae	-999	*	*
+SA	Sus scrofa	0.54	*	*
+SA	Saccharolobus solfataricus	2.3	*	*
+SA	Zea mays	3.15	*	*purified enzyme, pH 7.1
+SA	Veillonella parvula	18.9	*	*
+SA	Corynebacterium glutamicum	158	*	*
+SA	Pseudomonas stutzeri	319	*	*pH 8.0, 25&deg;C
+SA	Komagataeibacter xylinus	360	*	*
+SA	Micrococcus luteus	890	*	*

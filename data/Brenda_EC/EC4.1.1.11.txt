@@ -1,0 +1,67 @@
+KCAT	Escherichia coli	0.57	L-Asp	*
+KCAT	Mycobacterium tuberculosis	0.65	L-aspartate	*pH 7, 37&deg;C, recombinant enzyme
+KCAT	Aedes aegypti	2.11	L-aspartate	*pH 7.0, 25&deg;C, mutant Q377L
+KCAT	Pyrococcus furiosus	2.83	L-aspartate	*pH 6.0, 75&deg;C
+KCAT	Bacillus subtilis	5.28	L-aspartate	*pH 7.0, 37&deg;C, recombinant mutant L127X
+KCAT	Bacillus subtilis	6.26	L-aspartate	*pH 7.0, 37&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus subtilis	6.6	L-aspartate	*pH 7.0, 37&deg;C, recombinant mutant I188M
+KCAT	Aedes aegypti	7.03	L-aspartate	*pH 7.0, 25&deg;C, wild-type enzyme
+KM	Bacillus subtilis	-999	more	*Michaelis-Menten kinetics
+KM	Corynebacterium glutamicum	-999	more	*Michaelis-Menten kinetics
+KM	Escherichia coli	-999	more	*Michaelis-Menten kinetics
+KM	Thermococcus kodakarensis	-999	more	*Michaelis-Menten kinetics
+KM	Escherichia coli	0.151	L-Asp	*
+KM	Escherichia coli	0.16	L-Asp	*
+KM	Escherichia coli	0.16	L-Asp	*
+KM	Mycobacterium tuberculosis	0.219	L-aspartate	*pH 7, 37&deg;C, recombinant enzyme
+KM	Methanocaldococcus jannaschii	0.8	L-aspartate	*pH 8.0, 70&deg;C
+KM	Bacillus subtilis	1.63	L-aspartate	*pH 7.0, 37&deg;C, recombinant mutant I188M
+KM	Bacillus subtilis	1.66	L-aspartate	*pH 7.0, 37&deg;C, recombinant mutant L127X
+KM	Bacillus subtilis	2.02	L-aspartate	*pH 7.0, 37&deg;C, recombinant wild-type enzyme
+KM	Aedes aegypti	2.04	L-aspartate	*pH 7.0, 25&deg;C, wild-type enzyme
+KM	Pyrococcus furiosus	2.16	L-aspartate	*pH 6.0, 75&deg;C
+KM	Aedes aegypti	3.18	L-aspartate	*pH 7.0, 25&deg;C, mutant Q377L
+MW	Escherichia coli	11000	*	*x * 2800, beta, + x * 11000, alpha, + x * 13800, pi, SDS-PAGE, enzyme comprises principally the unprocessed pi-subunit, with a small proportion of the alpha-subunit and the beta-subunit. The enzyme is synthesized initially as an inactive proenzyme, the pi-protein, which is proteolytically cleaved at a specific X-Ser bond to produce a beta-subunit with XOH at its C-terminus and an alpha-subunit with a pyruvoyl group at its N-terminus, derived from serine
+MW	Escherichia coli	13800	*	*x * 2800, beta, + x * 11000, alpha, + x * 13800, pi, SDS-PAGE, enzyme comprises principally the unprocessed pi-subunit, with a small proportion of the alpha-subunit and the beta-subunit. The enzyme is synthesized initially as an inactive proenzyme, the pi-protein, which is proteolytically cleaved at a specific X-Ser bond to produce a beta-subunit with XOH at its C-terminus and an alpha-subunit with a pyruvoyl group at its N-terminus, derived from serine
+MW	Escherichia coli	13800	*	*x * 13800, SDS-PAGE
+MW	Escherichia coli	14000	*	*4 * 14000
+MW	Escherichia coli	14000	*	*4 * 14000, about, native pi-protein, secondary structure, SDS-PAGE
+MW	Corynebacterium glutamicum	14100	*	*x * 14100, pi-protein, calculated from the amino acid sequence
+MW	Mycobacterium tuberculosis	16000	*	*4 * 16000, recombinant enzyme, inactive pi-proenzyme, which is cleaved into the 13.22 kDa alpha-subunit and 2.74 kDa beta-subunit, processing is not essential for tetramer formation, SDS-PAGE
+MW	Pyrococcus furiosus	40000	*	*gel filtration
+MW	Pyrococcus furiosus	41000	*	*SDS-PAGE
+MW	Salmonella enterica	55600	*	*
+MW	Escherichia coli	58000	*	*gel filtration
+MW	Escherichia coli	58000	*	*gel filtration
+MW	Drosophila melanogaster	58000	*	*x * 58000, SDS-PAGE
+MW	Escherichia coli	59000	*	*gel filtration
+MW	Mycobacterium tuberculosis	64000	*	*gel filtration
+PATH	*	alanine metabolism	*	*
+PATH	*	beta-alanine biosynthesis III	*	*
+PATH	*	beta-Alanine metabolism	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pantothenate and CoA biosynthesis	*	*
+SA	Corynebacterium glutamicum	-999	*	*
+SA	Corynebacterium glutamicum	-999	*	*maximum conversion of 97.2% obtained with an initial 5 g L-aspartate/l and another three feedings of 0.5% w/v L-aspartate at 8 h intervals. The final beta-alanine concentration is 12.85 g/l after 36 h
+SA	Methanocaldococcus jannaschii	0.09	*	*pH 8.0, 70&deg;C, recombinant enzyme
+SA	Escherichia coli	0.65	*	*
+SA	Escherichia coli	0.65	*	*
+SA	Corynebacterium glutamicum	0.83	*	*crude recombinant enzyme, pH 6.0, 37&deg;C
+SA	Escherichia coli	0.98	*	*pH and temperature not specified in the publication
+SA	Lactobacillus plantarum	1.5	*	*pH 7.0, 37&deg;C, recombinant enzyme
+SA	Corynebacterium glutamicum	1.72	*	*purified recombinant enzyme, pH 6.0, 37&deg;C
+SA	Mycobacterium tuberculosis	2.1	*	*pH 7, 37&deg;C, recombinant enzyme
+SA	Corynebacterium glutamicum	2.4	*	*self-cleavage activity, purified recombinant mutant Z58A, pH 7.4, 37&deg;C
+SA	Corynebacterium glutamicum	2.4	*	*pH 7.0, 37&deg;C, recombinant enzyme
+SA	Corynebacterium glutamicum	2.6	*	*self-cleavage activity, purified recombinant mutant Z58T, pH 7.4, 37&deg;C
+SA	Corynebacterium glutamicum	3.5	*	*self-cleavage activity, purified recombinant mutant R54A, pH 7.4, 37&deg;C
+SA	Corynebacterium glutamicum	4	*	*self-cleavage activity, purified recombinant mutant R54K, pH 7.4, 37&deg;C
+SA	Bacillus subtilis	4.7	*	*pH 7.0, 37&deg;C, recombinant enzyme
+SA	Lactobacillus plantarum	5.5	*	*pH 7.0, 70&deg;C, recombinant enzyme
+SA	Corynebacterium glutamicum	7.52	*	*pH and temperature not specified in the publication
+SA	Bacillus subtilis	8.4	*	*pH and temperature not specified in the publication
+SA	Corynebacterium glutamicum	9.6	*	*pH 7.0, 70&deg;C, recombinant enzyme
+SA	Bacillus subtilis	15.7	*	*pH 7.0, 65&deg;C, recombinant enzyme
+SA	Corynebacterium glutamicum	103	*	*purified recombinant enzyme, pH 6.0, 37&deg;C
+SA	Corynebacterium glutamicum	690	*	*self-cleavage activity, purified recombinant wild-type enzyme, pH 7.4, 37&deg;C

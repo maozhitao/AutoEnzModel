@@ -1,0 +1,78 @@
+KCAT	Saccharolobus solfataricus	0.011	D-glycerate	*pH 7, 50&deg;C, non-activated enzyme
+KCAT	Saccharolobus solfataricus	0.03	D-glycerate	*pH 7, 50&deg;C, enzyme activated by 2-mercaptoethanol
+KCAT	Saccharolobus solfataricus	0.31	2,3-Dihydroxy-3-methylbutanoate	*pH 7, 50&deg;C, enzyme activated by 2-mercaptoethanol; pH 7, 50&deg;C, non-activated enzyme
+KCAT	Saccharolobus solfataricus	0.4	D-gluconate	*pH 7, 50&deg;C, non-activated enzyme
+KCAT	Saccharolobus solfataricus	1.19	D-gluconate	*pH 7, 50&deg;C, enzyme activated by 2-mercaptoethanol
+KCAT	Spinacia oleracea	4.6	2,3-dihydroxybutanoate	*
+KCAT	Spinacia oleracea	5.7	3-cyclopropyl-2,3-dihydroxybutanoate	*
+KCAT	Spinacia oleracea	8.3	2R,3R-2,3-dihydroxy-3-methylpentanoate	*
+KCAT	Spinacia oleracea	11.5	2,3-Dihydroxy-3-methylbutanoate	*
+KCAT	Spinacia oleracea	12.3	2R,3S-2,3-dihydroxy-3-methylpentanoate	*
+KCAT	Spinacia oleracea	25	2,3-dihydroxyisovalerate	*
+KCAT	Saccharolobus solfataricus	48.5	D-gluconate	*
+KCAT	Saccharolobus solfataricus	75.8	2,3-dihydroxyisovalerate	*
+KM	Spinacia oleracea	0.33	2R,3R-2,3-dihydroxy-3-methylpentanoate	*
+KM	Saccharolobus solfataricus	0.54	2,3-dihydroxyisovalerate	*
+KM	Spinacia oleracea	0.55	2,3-dihydroxybutanoate	*
+KM	Spinacia oleracea	0.65	L-threonate	*
+KM	Spinacia oleracea	0.71	2R,3S-2,3-dihydroxy-3-methylpentanoate	*
+KM	Neurospora crassa	0.85	2,3-dihydroxyisovalerate	*mitochondrial enzyme
+KM	Spinacia oleracea	0.97	2,3-Dihydroxy-3-methylbutanoate	*
+KM	Neurospora crassa	1.03	2,3-dihydroxyisovalerate	*supernatant enzyme
+KM	Spinacia oleracea	1.5	2,3-dihydroxyisovalerate	*
+KM	Escherichia coli	1.5	2,3-dihydroxyisovalerate	*pH 8.0, Tris buffer, since only one of the isomers present in the racemic substrate is active, the corrected Km would be 0.75 mM
+KM	Spinacia oleracea	1.75	D-erythronate	*
+KM	Spinacia oleracea	1.78	3-cyclopropyl-2,3-dihydroxybutanoate	*
+KM	Spinacia oleracea	2	2,3-dihydroxyisovalerate	*
+KM	Spinacia oleracea	2	2,3-dihydroxyisovalerate	*
+KM	Saccharolobus solfataricus	2.1	2,3-Dihydroxy-3-methylbutanoate	*pH 7, 50&deg;C
+KM	Neurospora crassa	2.16	2,3-dihydroxy-3-methylpentanoate	*supernatant enzyme
+KM	Neurospora crassa	2.21	2,3-dihydroxy-3-methylpentanoate	*mitochondrial enzyme
+KM	Saccharolobus solfataricus	2.42	D-gluconate	*
+KM	Cupriavidus necator	2.7	2,3-dihydroxyisovalerate	*pH 7.0, 30&deg;C
+KM	Methanococcus aeolicus	2.8	2,3-dihydroxyisovalerate	*
+KM	Neurospora crassa	3.7	2,3-dihydroxy-3-methylpentanoate	*wild-type enzyme
+KM	Mycobacterium tuberculosis	3.7	DL-2,3-dihydroxyisovalerate	*pH 8.0, temperature not specified in the publication
+KM	Spinacia oleracea	6.3	2,3-dihydroxy-3-methylpentanoate	*
+KM	Spinacia oleracea	6.3	2,3-dihydroxy-3-methylpentanoate	*
+KM	Saccharolobus solfataricus	7.8	D-gluconate	*pH 7, 50&deg;C
+KM	Neurospora crassa	8.5	2,3-dihydroxy-3-methylpentanoate	*mutant enzyme 332
+KM	Aspergillus fumigatus	10.1	L-threonate	*pH 8, 22&deg;C
+MW	Saccharolobus solfataricus	12000	*	*gel filtration
+MW	Spinacia oleracea	63000	*	*2 * 63000, SDS-PAGE
+MW	Aspergillus fumigatus	65000	*	*SDS-PAGE, recombinant enzyme
+MW	Escherichia coli	66000	*	*2 * 66000, SDS-PAGE
+MW	Saccharolobus solfataricus	66000	*	*2 * 66000, SDS-PAGE
+MW	Mycobacterium tuberculosis	78300	*	*2 * 78300, recombinant thioredoxin-His-tagged IlvD, SDS-PAGE
+MW	Spinacia oleracea	105000	*	*gel filtration
+MW	Spinacia oleracea	110000	*	*native PAGE
+MW	Escherichia coli	125000	*	*native PAGE
+MW	Mycobacterium tuberculosis	155000	*	*gel filtration, recombinant thioredoxin-His-tagged IlvD
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	isoleucine metabolism	*	*
+PATH	*	L-isoleucine biosynthesis I (from threonine)	*	*
+PATH	*	L-isoleucine biosynthesis II	*	*
+PATH	*	L-isoleucine biosynthesis III	*	*
+PATH	*	L-isoleucine biosynthesis IV	*	*
+PATH	*	L-valine biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pantothenate and CoA biosynthesis	*	*
+PATH	*	pyruvate fermentation to isobutanol (engineered)	*	*
+PATH	*	valine metabolism	*	*
+PATH	*	Valine, leucine and isoleucine biosynthesis	*	*
+SA	Escherichia coli	-999	*	*rapid and sensitive assay
+SA	Klebsiella aerogenes	-999	*	*rapid and sensitive assay
+SA	Spinacia oleracea	-999	*	*
+SA	Escherichia coli	-999	*	*activity stain
+SA	Escherichia coli	-999	*	*reverse-phase high-performance liquid chromatography assay
+SA	Mycobacterium tuberculosis	0.024	*	*purified native enzyme, pH 8.0, temperature not specified in the publication
+SA	Spinacia oleracea	0.132	*	*
+SA	Spinacia oleracea	0.18	*	*
+SA	Escherichia coli	0.416	*	*
+SA	Methanococcus aeolicus	1.63	*	*
+SA	Neurospora crassa	2.15	*	*
+SA	Cupriavidus necator	3.4	*	*pH 7.0, 30&Acirc;&deg;C
+SA	Neurospora crassa	10.13	*	*
+SA	Saccharolobus solfataricus	10.7	*	*pH 7, 50&Acirc;&deg;C, conversion of D-glycerate to pyruvate
+SA	Aspergillus fumigatus	18	*	*pH 8, 22&Acirc;&deg;C
+SA	Escherichia coli	63	*	*

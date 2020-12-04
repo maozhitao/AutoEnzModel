@@ -1,0 +1,57 @@
+KM	Bacillus licheniformis	-999	more	*anomalous kinetics for CDP-diacylglycerol
+KM	Arabidopsis thaliana	0.012	CDP-diacylglycerol	*30&deg;C, pH 8.5, isozyme PGPS1; 30&deg;C, pH 8.5, isozyme PGPS1
+KM	Arabidopsis thaliana	0.017	CDP-diacylglycerol	*30&deg;C, pH 8.5, isozyme PGPS2; 30&deg;C, pH 8.5, isozyme PGPS2
+KM	Rattus norvegicus	0.02	glycerol 3-phosphate	*30&deg;C, pH 7.0
+KM	Schizosaccharomyces pombe	0.026	glycerol 3-phosphate	*
+KM	Saccharomyces cerevisiae	0.027	glycerol 3-phosphate	*
+KM	Saccharomyces cerevisiae	0.033	CDP-diacylglycerol	*
+KM	Escherichia coli	0.034	dCDP-diacylglycerol	*30&deg;C, pH 8.0
+KM	Escherichia coli	0.034	dCDP-diacylglycerol	*37&deg;C, pH 8.0
+KM	Escherichia coli	0.04	(d)CDP-diacylglycerol	*37&deg;C, pH 8.0
+KM	Escherichia coli	0.046	CDP-diacylglycerol	*30&deg;C, pH 8.0
+KM	Escherichia coli	0.046	CDP-diacylglycerol	*37&deg;C, pH 8.0
+KM	Rattus norvegicus	0.046	CDP-diacylglycerol	*pH 7.0, 30&deg;C
+KM	Arabidopsis thaliana	0.052	glycerol 3-phosphate	*30&deg;C, pH 8.5, isozyme PGPS1; 30&deg;C, pH 8.5, isozyme PGPS1
+KM	Escherichia coli	0.06	DL-3,4-Dioctadecoxybutylphosphonyl-O-(cytidine 5'-phosphate)	*37&deg;C
+KM	Arabidopsis thaliana	0.062	glycerol 3-phosphate	*30&deg;C, pH 8.5, isozyme PGPS2; 30&deg;C, pH 8.5, isozyme PGPS2
+KM	Escherichia coli	0.08	DL-2-Hexadecoxy-3-octadecoxypropylphosphonyl-O-(cytidine 5'-phosphate)	*37&deg;C
+KM	Glycine max	0.1	CDP-diacylglycerol	*
+KM	Clostridium perfringens	0.1	sn-glycerol 3-phosphate	*30&deg;C, pH 8.0
+KM	Schizosaccharomyces pombe	0.13	CDP-diacylglycerol	*
+KM	Bacillus licheniformis	0.15	sn-glycerol 3-phosphate	*30&deg;C, pH 7.0
+KM	Glycine max	0.17	glycerol 3-phosphate	*
+KM	Oryctolagus cuniculus	0.19	CMP	*
+KM	Cricetulus griseus	0.288	CDP-diacylglycerol	*37&deg;C, pH 7.4
+KM	Escherichia coli	0.32	sn-glycerol 3-phosphate	*30&deg;C, pH 8.0
+KM	Escherichia coli	0.32	sn-glycerol 3-phosphate	*pH 8.0, 37&deg;C
+KM	Escherichia coli	0.32	sn-glycerol 3-phosphate	*pH 8.0, 37&deg;C
+MW	Escherichia coli	24000	*	*x * 24000, SDS-PAGE &nbsp;
+MW	Escherichia coli	24000	*	*x * 24000, SDS-PAGE &nbsp;
+MW	Cricetulus griseus	60000	*	*x * 60000, SDS-PAGE
+MW	Schizosaccharomyces pombe	60000	*	*2 * 60000, SDS-PAGE
+MW	Schizosaccharomyces pombe	120000	*	*gel filtration
+MW	Escherichia coli	200000	*	*gel filtration
+PATH	*	cardiolipin biosynthesis	*	*
+PATH	*	cardiolipin biosynthesis I	*	*
+PATH	*	cardiolipin biosynthesis II	*	*
+PATH	*	cardiolipin biosynthesis III	*	*
+PATH	*	Glycerophospholipid metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	phosphatidylglycerol biosynthesis I (plastidic)	*	*
+PATH	*	phosphatidylglycerol biosynthesis II (non-plastidic)	*	*
+PATH	*	type I lipoteichoic acid biosynthesis (S. aureus)	*	*
+SA	Escherichia coli	-999	*	*
+SA	Sus scrofa	-999	*	*
+SA	Cricetulus griseus	-999	*	*135% increased activity in parental CHO-K1 cell line, stably expressing dominant-negative RhoA(S19N), N-acetylsphingosine-treated, mitochondrial fraction; 29% increased activity in CHO-K1 cell line E91, stably expressing dominant-negative RhoA(S19N), N-acetylsphingosine-treated, mitochondrial fraction; 64% increased activity in TNFalpha-treated (1 h, 30 nM) parental CHO-K1 cell line, mitochondrial fraction; no change in activity in TNFalpha-treated (1 h, 30 nM) CHO-K1 cell line E91, mitochondrial fraction; slighty decreased constitutive activity in CHO-K1 cell line E91, stably expressing dominant-negative RhoA(S19N), mitochondrial fraction
+SA	Cricetulus griseus	0.000191	*	*parental CHO-K1 cell line, mitochondrial fraction
+SA	Cricetulus griseus	0.000192	*	*CHO-K1 cell line E91, mitochondrial fraction
+SA	Cricetulus griseus	0.000197	*	*CHO-K1 cell line E91, N-acetylsphingosine-treated, no change in activity compared to untreated cells, mitochondrial fraction
+SA	Cricetulus griseus	0.000299	*	*or 76% increased activity in parental CHO-K1 cell line, N-acetylsphingosine-treated, mitochondrial fraction
+SA	Kluyveromyces lactis	0.00127	*	*30% decrease in activity in cells grown in presence of myo-inositol (1 h, 75 microM), mitochondrial extracts
+SA	Kluyveromyces lactis	0.0018	*	*mitochondrial extracts
+SA	Clostridium perfringens	0.03	*	*30&Acirc;&deg;C, pH 8.0
+SA	Bacillus licheniformis	0.36	*	*pH 7.0, 30&Acirc;&deg;C
+SA	Schizosaccharomyces pombe	1.17	*	*30&Acirc;&deg;C, pH 7.5
+SA	Cricetulus griseus	12	*	*37&Acirc;&deg;C, pH 7.4
+SA	Escherichia coli	18.6	*	*37&Acirc;&deg;C, pH 8.0
+SA	Escherichia coli	22	*	*37&Acirc;&deg;C, pH 8.0

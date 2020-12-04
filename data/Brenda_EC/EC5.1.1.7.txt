@@ -1,0 +1,43 @@
+KCAT	Mycobacterium tuberculosis	0.001	meso-diaminoheptanedioate	*mutant C87S, pH 7.5, 30&deg;C
+KCAT	Mycobacterium tuberculosis	0.0025	meso-diaminoheptanedioate	*mutant C226S, pH 7.5, 30&deg;C
+KCAT	Mycobacterium tuberculosis	0.1465	meso-diaminoheptanedioate	*wild-type, pH 7.5, 30&deg;C
+KCAT	Escherichia coli	67	meso-diaminoheptanedioate	*
+KCAT	Escherichia coli	67	meso-diaminoheptanedioate	*
+KCAT	Escherichia coli	84	LL-diaminoheptanedioate	*
+KCAT	Escherichia coli	84	LL-diaminoheptanedioate	*
+KCAT	Haemophilus influenzae	128	LL-2,6-Diaminoheptanedioate	*forward reaction
+KM	Mycobacterium tuberculosis	0.07	meso-diaminoheptanedioate	*mutant C87S, pH 7.5, 30&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	0.166	meso-diaminoheptanedioate	*wild-type, pH 7.5, 30&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	0.215	meso-diaminoheptanedioate	*mutant C226S, pH 7.5, 30&Acirc;&deg;C
+KM	Escherichia coli	0.36	meso-diaminoheptanedioate	*
+KM	Escherichia coli	0.36	meso-diaminoheptanedioate	*LL-diaminoheptanedioate
+KM	Mycobacterium tuberculosis	12	meso-diaminoheptanedioate	*recombinant DapF consisting of silent mutation of the first 10 codons of the open reading frame
+KM	Bacillus megaterium	100	meso-diaminoheptanedioate	*at 37&Acirc;&deg;C
+KM	Bacillus megaterium	100	meso-diaminoheptanedioate	*at 37&Acirc;&deg;C
+KM	Escherichia coli	0.16	LL-diaminoheptanedioate	*
+KM	Escherichia coli	0.16	LL-diaminoheptanedioate	*
+KM	Bacillus megaterium	6.7	LL-diaminoheptanedioate	*at 37&Acirc;&deg;C
+KM	Bacillus megaterium	6.7	LL-diaminoheptanedioate	*at 37&Acirc;&deg;C
+MW	Mycobacterium tuberculosis	30000	*	*molecular weight of recombinant DapF consisting of silent mutation of the first 10 codons, determined by SDS-PAGE
+MW	Escherichia coli	31030	*	*predicted, confirmed by SDS-PAGE
+MW	Escherichia coli	31031	*	*2 * 31031, recombinant enzyme, mass spectrometry
+MW	Acinetobacter baumannii	31100	*	*x * 31100
+MW	Escherichia coli	34000	*	*1 * 34000, SDS-PAGE
+MW	Escherichia coli	34000	*	*1 * 34000, SDS-PAGE
+MW	Escherichia coli	45400	*	*gel filtration
+MW	Escherichia coli	61300	*	*recombinant enzyme, analytical ultracentrifugation
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	L-lysine biosynthesis I	*	*
+PATH	*	L-lysine biosynthesis II	*	*
+PATH	*	L-lysine biosynthesis VI	*	*
+PATH	*	Lysine biosynthesis	*	*
+PATH	*	lysine metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Escherichia coli	-999	*	*
+SA	Escherichia coli	0.205	*	*crude extract after expression
+SA	Escherichia coli	0.574	*	*after immobilized metal-affinity chromatography
+SA	Escherichia coli	1.18	*	*after gel filtration
+SA	Kitasatospora setae	1.61	*	*purified recombinant His-tagged enzyme, substrate meso-diaminoheptanedioate, pH 6.8, 30&deg;C
+SA	Bacillus megaterium	2.8	*	*
+SA	Kitasatospora setae	4.93	*	*purified recombinant His-tagged enzyme, substrate LL-2,6-diaminoheptanedioate, pH 6.8, 30&deg;C

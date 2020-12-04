@@ -1,0 +1,32 @@
+KCAT	Staphylococcus aureus	0.001	L-lysine	*pH 8.6, 37&deg;C, recombinant mutant D406A
+KCAT	Staphylococcus aureus	0.283	L-lysine	*pH 8.6, 37&deg;C, recombinant mutant P408A
+KCAT	Staphylococcus aureus	4.833	L-lysine	*pH 8.6, 37&deg;C, recombinant wild-type enzyme
+KCAT	Streptococcus pyogenes	9	ATP	*23&deg;C
+KCAT	Streptococcus pyogenes	9	L-Lys	*23&deg;C
+KCAT	Streptococcus pyogenes	9	UDP-N-acetylmuramoyl-L-Ala-D-Glu	*23&deg;C
+KM	Streptococcus pyogenes	0.0205	L-Lys	*23&deg;C
+KM	Staphylococcus aureus	0.087	UDP-N-acetylmuramoyl-L-Ala-D-Glu	*pH 8.6, 37&deg;C
+KM	Streptococcus pyogenes	0.122	UDP-N-acetylmuramoyl-L-Ala-D-Glu	*23&deg;C
+KM	Streptococcus pyogenes	0.125	ATP	*23&deg;C
+KM	Lysinibacillus sphaericus	0.37	Lys	*in presence of 30 mM K2HPO4
+KM	Lysinibacillus sphaericus	0.42	Lys	*in presence of 2 mM K2HPO4
+KM	Lysinibacillus sphaericus	0.44	Lys	*in presence of 60 mM KCl
+KM	Lysinibacillus sphaericus	0.49	Lys	*in presence of 60 mM KCl
+KM	Lysinibacillus sphaericus	0.52	ATP	*in presence of 2 mM K2HPO4
+KM	Staphylococcus aureus	0.53	ATP	*pH 8.6, 37&deg;C
+KM	Lysinibacillus sphaericus	0.53	UDP-N-acetylmuramoyl-L-Ala-D-Glu	*in presence of 30 mM K2HPO4
+KM	Lysinibacillus sphaericus	0.55	ATP	*in presence of 30 mM K2HPO4
+KM	Staphylococcus aureus	0.55	L-Lys	*pH 8.6, 37&deg;C
+KM	Staphylococcus aureus	0.55	L-lysine	*pH 8.6, 37&deg;C, recombinant wild-type enzyme
+KM	Lysinibacillus sphaericus	0.57	UDP-N-acetylmuramoyl-L-Ala-D-Glu	*in presence of 2 mM K2HPO4
+KM	Lysinibacillus sphaericus	0.59	UDP-N-acetylmuramoyl-L-Ala-D-Glu	*in presence of 60 mM KCl
+KM	Staphylococcus aureus	2.8	L-lysine	*pH 8.6, 37&deg;C, recombinant mutant D406A
+KM	Staphylococcus aureus	3.1	L-lysine	*pH 8.6, 37&deg;C, recombinant mutant P408A
+KM	Staphylococcus aureus	20	L-lysine	*above, pH.6, 37&deg;C, recombinant mutant E460A; above, pH 8.6, 37&deg;C, recombinant mutant A409R
+PATH	*	Metabolic pathways	*	*
+PATH	*	Peptidoglycan biosynthesis	*	*
+PATH	*	peptidoglycan biosynthesis	*	*
+PATH	*	UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	*	*
+SA	Staphylococcus aureus	0.07	*	*noninduced cells
+SA	Lysinibacillus sphaericus	0.245	*	*
+SA	Staphylococcus aureus	23.4	*	*cells induced with isopropyl-beta-D-thiogalactosylpyranoside

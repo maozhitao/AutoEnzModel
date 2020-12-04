@@ -1,0 +1,34 @@
+KCAT	Stenotrophomonas maltophilia	0.4	poly(beta-(1,4)glucuronate)	*wild-type, pH 8.5, 25&deg;C
+KCAT	Stenotrophomonas maltophilia	1.4	poly(beta-(1,4)guluronate)	*mutant H208F, pH 8.0, 25&deg;C
+KCAT	Stenotrophomonas maltophilia	2	poly(beta-(1,4)-D-mannuronic acid/alpha-(1,4)-L-guluronic acid)	*mutant H208F, pH 8.0, 25&deg;C
+KCAT	Stenotrophomonas maltophilia	6.1	poly(beta-(1,4)glucuronate)	*mutant H208F, pH 8.5, 25&deg;C
+KCAT	Stenotrophomonas maltophilia	14.6	alginate	*mutant H208F, pH 8.0, 25&deg;C
+KCAT	Stenotrophomonas maltophilia	21.3	poly(beta-(1,4)-D-mannuronate)	*mutant H208F, pH 8.0, 25&deg;C
+KCAT	Stenotrophomonas maltophilia	22.2	poly(beta-(1,4)-D-mannuronic acid/alpha-(1,4)-L-guluronic acid)	*wild-type, pH 8.0, 25&deg;C
+KCAT	Stenotrophomonas maltophilia	34.6	poly(beta-(1,4)guluronate)	*wild-type, pH 8.0, 25&deg;C
+KCAT	Stenotrophomonas maltophilia	34.8	alginate	*wild-type, pH 8.0, 25&deg;C
+KCAT	Stenotrophomonas maltophilia	62.2	poly(beta-(1,4)-D-mannuronate)	*wild-type, pH 8.0, 25&deg;C
+KM	Cellulophaga sp. SY116	-999	alginate	*Km value 0.79 mg/ml, pH 7.0, 40&deg;C; Km value 0.95 mg/ml, pH 7.0, 40&deg;C
+KM	Saccharophagus degradans	-999	oligoalginate	*the KM and Vmax of Alg17C are 35.2 mg/ml and 41.7 U/mg, respectively, pH 6.0, 40&deg;C
+KM	Stenotrophomonas maltophilia	0.41	poly(beta-(1,4)-D-mannuronate)	*mutant H208F, pH 8.0, 25&deg;C; wild-type, pH 8.0, 25&deg;C
+KM	Stenotrophomonas maltophilia	0.57	poly(beta-(1,4)-D-mannuronic acid/alpha-(1,4)-L-guluronic acid)	*wild-type, pH 8.0, 25&deg;C
+KM	Stenotrophomonas maltophilia	0.57	poly(beta-(1,4)glucuronate)	*mutant H208F, pH 8.5, 25&deg;C
+KM	Stenotrophomonas maltophilia	0.67	alginate	*wild-type, pH 8.0, 25&deg;C
+KM	Stenotrophomonas maltophilia	0.98	poly(beta-(1,4)-D-mannuronic acid/alpha-(1,4)-L-guluronic acid)	*mutant H208F, pH 8.0, 25&deg;C
+KM	Stenotrophomonas maltophilia	1.35	alginate	*mutant H208F, pH 8.0, 25&deg;C
+KM	Stenotrophomonas maltophilia	1.4	poly(beta-(1,4)glucuronate)	*wild-type, pH 8.5, 25&deg;C
+KM	Stenotrophomonas maltophilia	2.22	poly(beta-(1,4)guluronate)	*mutant H208F, pH 8.0, 25&deg;C
+KM	Stenotrophomonas maltophilia	5.99	poly(beta-(1,4)guluronate)	*wild-type, pH 8.0, 25&deg;C
+MW	Saccharophagus degradans	79000	*	*x * 81600, calculated, x * 79000, SDS-PAGE
+MW	Sphingomonas sp.	79900	*	*x * 79900, calculated
+MW	Saccharophagus degradans	81600	*	*x * 81600, calculated, x * 79000, SDS-PAGE
+MW	Shewanella sp.	82000	*	*x * 82000, SDS-PAGE
+MW	Sphingomonas sp.	85000	*	*x * 86543, calculated, x * 85000, SDS-PAGE
+MW	Sphingomonas sp.	86543	*	*x * 86543, calculated, x * 85000, SDS-PAGE
+PATH	*	alginate degradation	*	*
+SA	Shewanella sp.	5	*	*substrate polyG, pH 7.0, 50&Acirc;&deg;C
+SA	Cellulophaga sp. SY116	12.6	*	*substrate poly(beta-1,4-D-mannuronate), pH 7.0, 40&Acirc;&deg;C; substrate poly(beta-1,4-D-mannuronate), pH 7.0, 40&Acirc;&deg;C
+SA	Shewanella sp.	24	*	*substrate polyM, pH 7.0, 50&Acirc;&deg;C
+SA	Shewanella sp.	32	*	*substrate alginate, pH 7.0, 50&Acirc;&deg;C
+SA	Cellulophaga sp. SY116	33.7	*	*substrate alginate, pH 7.0, 40&Acirc;&deg;C; substrate alginate, pH 7.0, 40&Acirc;&deg;C
+SA	Cellulophaga sp. SY116	76.8	*	*substrate poly(alpha-1,4-L-guluronate), pH 7.0, 40&Acirc;&deg;C; substrate poly(alpha-1,4-L-guluronate), pH 7.0, 40&Acirc;&deg;C

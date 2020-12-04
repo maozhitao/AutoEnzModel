@@ -1,0 +1,59 @@
+KCAT	Methanocaldococcus jannaschii	0.2	deamido-NAD+	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Francisella tularensis	0.25	deamido-NAD+	*
+KCAT	Francisella tularensis	0.5	deamido-NMN	*
+KM	Mycobacterium tuberculosis	0.00079	ATP	*pH 8.5, 37&Acirc;&deg;C, recombinant truncated enzyme
+KM	Mycobacterium tuberculosis	0.0013	ATP	*pH 8.5, 37&Acirc;&deg;C, recombinant full length enzyme
+KM	Staphylococcus aureus	0.2	ATP	*in 60 mM Tris-HCl pH 8.0, 10 mM NH4Cl, 10 mM MgCl2, 10 mM KCl
+KM	Escherichia coli	0.2	ATP	*
+KM	Bacillus anthracis	0.289	ATP	*in 60 mM EPPS pH 8.5 with 20 mM ammonium chloride, 20 mM potassium chloride, and 10 mM magnesium chloride, at 37&Acirc;&deg;C
+KM	Escherichia coli	0.065	NH3	*
+KM	Escherichia coli	0.065	NH3	*
+KM	Geobacillus stearothermophilus	0.91	NH3	*pH 8.5, 37&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	0.025	NH4+	*pH 8.5, 37&Acirc;&deg;C, recombinant truncated enzyme
+KM	Mycobacterium tuberculosis	0.027	NH4+	*pH 8.5, 37&Acirc;&deg;C, recombinant full length enzyme
+KM	Escherichia coli	16	L-Gln	*
+KM	Escherichia coli	5	Gln	*
+KM	Mycobacterium tuberculosis	0.0011	glutamine	*pH 8.5, 37&Acirc;&deg;C, recombinant full length enzyme
+KM	Mycobacterium tuberculosis	0.0016	glutamine	*pH 8.5, 37&Acirc;&deg;C, recombinant truncated enzyme
+KM	Mycobacterium tuberculosis	0.00052	deamido-NAD+	*pH 8.5, 37&Acirc;&deg;C, recombinant truncated enzyme
+KM	Mycobacterium tuberculosis	0.0029	deamido-NAD+	*pH 8.5, 37&Acirc;&deg;C, recombinant full length enzyme
+KM	Staphylococcus aureus	0.03	deamido-NAD+	*in 60 mM Tris-HCl pH 8.0, 10 mM NH4Cl, 10 mM MgCl2, 10 mM KCl
+KM	Escherichia coli	0.11	deamido-NAD+	*
+KM	Methanocaldococcus jannaschii	0.13	deamido-NAD+	*pH 7.5, 37&Acirc;&deg;C
+KM	Bacillus anthracis	0.152	deamido-NAD+	*in 60 mM EPPS pH 8.5 with 20 mM ammonium chloride, 20 mM potassium chloride, and 10 mM magnesium chloride, at 37&Acirc;&deg;C
+KM	Francisella tularensis	5.82	deamido-NAD+	*
+KM	Francisella tularensis	0.2	deamido-NMN	*
+MW	Geobacillus stearothermophilus	25000	*	*2 * 25000, SDS-PAGE
+MW	Bacillus subtilis	30240	*	*2 * 30240
+MW	Escherichia coli	35000	*	*x * 35000, recombinant enzyme, SDS-PAGE
+MW	Streptococcus sobrinus	38000	*	*x * 38000, recombinant His-tagged enzyme, SDS-PAGE
+MW	Geobacillus stearothermophilus	50000	*	*gel filtration
+MW	Bacillus subtilis	60480	*	*x * 60480, calculation from nucleotide sequence
+PATH	*	Metabolic pathways	*	*
+PATH	*	NAD de novo biosynthesis I (from aspartate)	*	*
+PATH	*	NAD metabolism	*	*
+PATH	*	Nicotinate and nicotinamide metabolism	*	*
+SA	Saccharomyces cerevisiae	0.0003	*	*mutant enzyme R112L, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Saccharomyces cerevisiae	0.0011	*	*mutant enzyme D593A/F622A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Saccharomyces cerevisiae	0.0027	*	*mutant enzyme L604A/L519A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Saccharomyces cerevisiae	0.0033	*	*mutant enzyme Y532A/M621A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Saccharomyces cerevisiae	0.0043	*	*mutant enzyme L604N, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Saccharomyces cerevisiae	0.008	*	*mutant enzyme F622A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Mycobacterium tuberculosis	0.009	*	*partially purified recombinant His-tagged enzyme expressed in insect cells, substrate NH4+
+SA	Saccharomyces cerevisiae	0.0143	*	*mutant enzyme I111A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Saccharomyces cerevisiae	0.015	*	*mutant enzyme R112S, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Mycobacterium tuberculosis	0.033	*	*purified recombinant HIs-tagged enzyme expressed in Escherichia coli, substrate glutamine
+SA	Saccharomyces cerevisiae	0.0485	*	*mutant enzyme Y601A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Mycobacterium tuberculosis	0.1	*	*purified recombinant His-tagged enzyme expressed in Escherichia coli, substrate NH4+
+SA	Saccharomyces cerevisiae	0.152	*	*mutant enzyme D593A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Saccharomyces cerevisiae	0.183	*	*mutant enzyme L604A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Saccharomyces cerevisiae	0.25	*	*mutant enzyme M621A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Streptococcus sobrinus	0.49	*	*purified recombinant His-tagged enzyme
+SA	Escherichia coli	0.503	*	*
+SA	Saccharomyces cerevisiae	0.631	*	*mutant enzyme E177A, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Mycobacterium tuberculosis	0.67	*	*purified recombinant His-tagged truncated enzyme expressed in Escherichia coli, substrate NH4+
+SA	Saccharomyces cerevisiae	0.741	*	*wild type enzyme, at 37&Acirc;&deg;C, with 2 mM ATP, 5 mM MgCl2, 50 mM Tris-HCl, pH 8.0, 56 mM KCl, and 0.2 mg/ml bovine serum albumin
+SA	Escherichia coli	1.5	*	*recombinant enzyme, at 37&Acirc;&deg;C
+SA	Geobacillus stearothermophilus	1.59	*	*purified native enzyme
+SA	Escherichia coli	6.9	*	*
+SA	Escherichia coli	6.9	*	*

@@ -1,0 +1,73 @@
+KCAT	Mycobacterium tuberculosis	0.0083	NADH	*kinetics of reduction of the MtCS-bound FMNox is determined using fixed amount of holoenzyme and varying levels of NADH
+KCAT	Neurospora crassa	0.012	5-enolpyruvylshikimate 3-phosphate	*mutant S16A
+KCAT	Neurospora crassa	0.14	5-enolpyruvylshikimate 3-phosphate	*mutant S127A
+KCAT	Neurospora crassa	0.87	5-enolpyruvylshikimate 3-phosphate	*wild-type enzyme
+KCAT	Neurospora crassa	-999	more	*value of double-mutant S16A/S127A with 5-enolpyruvylshikimate 3-phosphate as substrate is below the detection limit
+KM	Escherichia coli	0.0013	O5-(1-carboxyvinyl)-3-phosphoshikimate	*
+KM	Neurospora crassa	0.0027	O5-(1-carboxyvinyl)-3-phosphoshikimate	*
+KM	Neurospora crassa	0.0027	5-enolpyruvylshikimate 3-phosphate	*wild-type enzyme
+KM	Saccharomyces cerevisiae	0.0097	O5-(1-carboxyvinyl)-3-phosphoshikimate	*
+KM	Solanum lycopersicum	0.011	5-enolpyruvylshikimate 3-phosphate	*isozyme MatCS1
+KM	Solanum lycopersicum	0.011	O5-(1-carboxyvinyl)-3-phosphoshikimate	*enzyme form CS1
+KM	Staphylococcus aureus	0.0127	5-enolpyruvylshikimate 3-phosphate	*
+KM	Staphylococcus aureus	0.0127	O5-(1-carboxyvinyl)-3-phosphoshikimate	*
+KM	Euglena gracilis	0.027	5-enolpyruvylshikimate 3-phosphate	*
+KM	Euglena gracilis	0.027	O5-(1-carboxyvinyl)-3-phosphoshikimate	*
+KM	Neurospora crassa	0.043	NADPH	*FMN:NADPH oxidoreductase activity, wild-type enzyme
+KM	Capnoides sempervirens	0.047	5-enolpyruvylshikimate 3-phosphate	*
+KM	Capnoides sempervirens	0.053	O5-(1-carboxyvinyl)-3-phosphoshikimate	*
+KM	Solanum lycopersicum	0.08	5-enolpyruvylshikimate 3-phosphate	*isozyme MatCS2
+KM	Solanum lycopersicum	0.08	O5-(1-carboxyvinyl)-3-phosphoshikimate	*enzyme form CS2
+KM	Neurospora crassa	0.11	NADPH	*FMN:NADPH oxidoreductase activity, mutant enzyme H17A
+KM	Neurospora crassa	0.28	NADPH	*FMN:NADPH oxidoreductase activity, mutant enzyme H106A
+MW	Bacillus subtilis	24000	*	*x * 24000, SDS-PAGE
+MW	Bacillus subtilis	24000	*	*x * 24000, SDS-PAGE
+MW	Escherichia coli	38000	*	*4 * 38000, SDS-PAGE
+MW	Escherichia coli	39138	*	*4 * 39138
+MW	Escherichia coli	40000	*	*x * 40000, SDS-PAGE
+MW	Saccharomyces cerevisiae	40800	*	*2 * 40800, dimer or tetramer; 4 * 40800, dimer or tetramer
+MW	Solanum lycopersicum	41605	*	*2 * 41605, dimer or tetramer, enzyme form CS2; 4 * 41605, dimer or tetramer, enzyme form CS2
+MW	Euglena gracilis	41700	*	*x * 41700, SDS-PAGE
+MW	Euglena gracilis	41700	*	*x * 41700
+MW	Thermotoga maritima	41754	*	*4 * 41754, calculation from amino acid sequence
+MW	Capnoides sempervirens	41771	*	*2 * 41771
+MW	Mycobacterium tuberculosis	41800	*	*determined by sodium dodecyl sulfate polyacrylamide gel electrophoresis analysis and electrospray mass spectrometry
+MW	Capnoides sempervirens	41900	*	*2 * 41900, SDS-PAGE
+MW	Solanum lycopersicum	41902	*	*2 * 41902, dimer or tetramer, enzyme form CS1; 4 * 41902, dimer or tetramer, enzyme form CS1
+MW	Thermotoga maritima	42000	*	*4 * 42000, SDS-PAGE
+MW	Staphylococcus aureus	43024	*	*4 * 43024, electrospray mass spectrometry
+MW	Staphylococcus aureus	43026	*	*4 * 43026
+MW	Neurospora crassa	46400	*	*2 * 46400, dimer or tetramer; 4 * 46400, dimer or tetramer
+MW	Neurospora crassa	50000	*	*4 * 50000, SDS-PAGE
+MW	Neurospora crassa	55000	*	*2 * 55000, SDS-PAGE
+MW	Neurospora crassa	55000	*	*2 * 55000, SDS-PAGE
+MW	Plasmodium falciparum	59000	*	*x * 59000, calculated
+MW	Capnoides sempervirens	80100	*	*gel filtration
+MW	Euglena gracilis	110000	*	*gel filtration
+MW	Neurospora crassa	110000	*	*sucrose density gradient centrifugation
+MW	Escherichia coli	144000	*	*gel filtration after cross-linkage with dimethyl suberimidate
+MW	Staphylococcus aureus	186800	*	*gel filtration
+MW	Escherichia coli	190000	*	*nondenaturing PAGE
+MW	Neurospora crassa	198000	*	*gel filtration after cross-linkage with dimethyl suberimidate
+MW	Helicobacter pylori	198000	*	*dynamic light scattering analysis
+MW	Thermotoga maritima	200000	*	*non-denaturing PAGE in presence of O5-(1-carboxyvinyl)-3-phosphoshikimate and FMN
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	chorismate biosynthesis from 3-dehydroquinate	*	*
+PATH	*	chorismate metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Phenylalanine, tyrosine and tryptophan biosynthesis	*	*
+SA	Neurospora crassa	-999	*	*
+SA	Bacillus subtilis	-999	*	*
+SA	Escherichia coli	-999	*	*
+SA	Neurospora crassa	-999	*	*
+SA	Pisum sativum	-999	*	*
+SA	Neurospora crassa	-999	*	*
+SA	Escherichia coli	-999	*	*
+SA	Neurospora crassa	-999	*	*
+SA	Mycobacterium tuberculosis	-999	*	*bifunctionality is determined by measurements of both chorismate synthase and NADH:FMN oxidoreductase activities; in the presence of oxygen the CS activity is limited by the reoxidation of FMNred cofactor
+SA	Neurospora crassa	-999	*	*activity of mutant S127A is 6fold lower than that of the wild-type protein; activity of mutant S16A is 70fold lower than that of the wild-type protein; chorismate synthase has an intrinsic NADPH: FMN oxidoreductase activity that enables the enzyme to generate the reduced FMN cofactor (bifunctionality); no activity of double-mutant protein S16A/S127A, replacement of both serine residues produces a synergistic effect
+SA	Mycobacterium tuberculosis	0.004	*	*CS activity
+SA	Bacillus subtilis	0.92	*	*
+SA	Staphylococcus aureus	4	*	*
+SA	Escherichia coli	14.8	*	*
+SA	Neurospora crassa	32.1	*	*

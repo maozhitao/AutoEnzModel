@@ -1,0 +1,33 @@
+KCAT	Helicobacter pylori	0.001	4-amino-5-aminomethyl-2-methylpyrimidine	*mutant enzyme F47Y, in 30 mM Tris, 50 mM NaCl (pH 8.0), at 20&deg;C
+KCAT	Staphylococcus aureus	0.0017	thiamine	*in 100 mM Tris-HCl, pH 7.5, at 37&deg;C
+KCAT	Helicobacter pylori	0.003	4-amino-5-aminomethyl-2-methylpyrimidine	*wild type enzyme, in 30 mM Tris, 50 mM NaCl (pH 8.0), at 20&deg;C
+KCAT	Staphylococcus aureus	0.00407	thiamine	*wild type enzyme, at pH 7.5 and 37&deg;C
+KCAT	Staphylococcus aureus	0.0068	thiamine	*mutant enzyme D111A/K115A, at pH 7.5 and 37&deg;C
+KCAT	Aneurinibacillus aneurinilyticus	4.83	thiamine	*
+KM	Aneurinibacillus aneurinilyticus	0.003	thiamine	*
+KM	Aneurinibacillus aneurinilyticus	0.003	thiamine	*
+KM	Aneurinibacillus aneurinilyticus	0.003	thiamine	*
+KM	Staphylococcus aureus	0.256	thiamine	*apparent value, in 100 mM Tris-HCl, pH 7.5, at 37&Acirc;&deg;C
+KM	Staphylococcus aureus	1.4	thiamine	*wild type enzyme, at pH 7.5 and 37&Acirc;&deg;C
+KM	Staphylococcus aureus	2.25	thiamine	*mutant enzyme D111A/K115A, at pH 7.5 and 37&Acirc;&deg;C
+KM	Helicobacter pylori	0.058	4-amino-5-aminomethyl-2-methylpyrimidine	*wild type enzyme, in 30 mM Tris, 50 mM NaCl (pH 8.0), at 20&Acirc;&deg;C
+KM	Helicobacter pylori	0.068	4-amino-5-aminomethyl-2-methylpyrimidine	*mutant enzyme F47Y, in 30 mM Tris, 50 mM NaCl (pH 8.0), at 20&Acirc;&deg;C
+MW	Staphylococcus aureus	24000	*	*4 * 24000, SDS-PAGE
+MW	Helicobacter pylori	25000	*	*4 * 25000, SDS-PAGE
+MW	Helicobacter pylori	25643	*	*4 * 25643, calculated from amino acid sequence
+MW	Staphylococcus aureus	26840	*	*x * 26840, sequence calculation
+MW	Bacillus subtilis	30000	*	*x * 30000, SDS-PAGE
+MW	Staphylococcus aureus	82900	*	*static light scattering
+MW	Aneurinibacillus aneurinilyticus	100000	*	*gel filtration
+MW	Aneurinibacillus aneurinilyticus	100000	*	*ultracentrifugation
+PATH	*	base-degraded thiamine salvage	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Thiamine metabolism	*	*
+PATH	*	thiamine salvage IV (yeast)	*	*
+PATH	*	vitamin B1 metabolism	*	*
+SA	Alosa pseudoharengus	-999	*	*mean thiaminase activity in the alewives studied increases from 6.9 to 16.0 nmol/min/g from the time of their collection in Cayuga lake to the start of laboratory experiments 1.5-2.5 years later, the latter value is more than twice that of previously reported levels of thiaminase activity from alewives collected in the wild, data suggest that the variability in thiaminase activity is not related to stress from salt reduction or food limitation; whole body activity is measured, no significant diferrences in thiaminase activity are found between the control fishes and the alewives which are exposed to food limitation and reduced salt content in the water
+SA	Staphylococcus aureus	0.0046	*	*in 100 mM Tris-HCl, pH 7.5, at 37&deg;C
+SA	Bacillus subtilis	0.091	*	*with oxothiamin as substrate, at 30&deg;C in 45 mM Tris/HCl buffer, pH 7.5, containing 0.9 mM dithiothreitol and 0.45 M glycinebetaine
+SA	Bacillus subtilis	0.162	*	*with thiamine as substrate, at 30&deg;C in 45 mM Tris/HCl buffer, pH 7.5, containing 0.9 mM dithiothreitol and 0.45 M glycinebetaine
+SA	Bacillus subtilis	0.205	*	*with oxythiamin as substrate, at 30&deg;C in 45 mM Tris/HCl buffer, pH 7.5, containing 0.9 mM dithiothreitol and 0.45 M glycinebetaine
+SA	Bacillus subtilis	0.292	*	*with 4-amino-5-aminomethyl-2-methylpyrimidine as substrate, at 30&deg;C in 45 mM Tris/HCl buffer, pH 7.5, containing 0.9 mM dithiothreitol and 0.45 M glycinebetaine

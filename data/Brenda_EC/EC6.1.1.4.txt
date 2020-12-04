@@ -1,0 +1,763 @@
+KCAT	Aquifex aeolicus	0.094	ATP	*recombinant enzyme complex, 65&Acirc;&deg;C
+KCAT	Homo sapiens	0.22	ATP	*recombinant mitochondrial isozyme mutant, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.27	ATP	*37&Acirc;&deg;C, pH 7.6, leucylation, full-length enzyme
+KCAT	Homo sapiens	0.55	ATP	*37&Acirc;&deg;C, pH 7.6, leucylation, DELTAChcLeuRS (a C-terminal 89-amino acid truncated enzyme form)
+KCAT	Homo sapiens	0.74	ATP	*37&Acirc;&deg;C, pH 7.6, ATP-diphosphate exchange, DELTAChcLeuRS (a C-terminal 89-amino acid truncated enzyme form)
+KCAT	Homo sapiens	0.79	ATP	*37&Acirc;&deg;C, pH 7.6, ATP-diphosphate exchange, full-length enzyme
+KCAT	Homo sapiens	0.8	ATP	*recombinant mitochondrial isozyme, pH 7.6, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.8	ATP	*mutant E292K, pH 7.8, 37&Acirc;&deg;C
+KCAT	Aquifex aeolicus	1.48	ATP	*65&Acirc;&deg;C, wild-type enzyme
+KCAT	Escherichia coli	1.5	ATP	*mutant E292S, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	1.6	ATP	*mutant enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Aquifex aeolicus	1.8	ATP	*aminoacylation reaction, pH 7.8, 60&Acirc;&deg;C
+KCAT	Escherichia coli	1.8	ATP	*mutant E292F, pH 7.8, 37&Acirc;&deg;C
+KCAT	Aquifex aeolicus	1.81	ATP	*pH 6.8, 65&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	2	ATP	*mutants E292Q and E292A, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	2.2	ATP	*mutant E292D, pH 7.8, 37&Acirc;&deg;C
+KCAT	Aquifex aeolicus	2.2	ATP	*65&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Pyrococcus horikoshii	3	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant K100A/Y105A
+KCAT	Giardia intestinalis	3.1	ATP	*mutant lacking residues Q281 to D294, 45&Acirc;&deg;C; mutant lacking residues S295 to L304, 45&Acirc;&deg;C; wild-type, 45&Acirc;&deg;C
+KCAT	Aquifex aeolicus	3.3	ATP	*ATP-diphosphate exchange reaction, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	3.6	ATP	*wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	3.6	ATP	*recombinant enzyme
+KCAT	Aquifex aeolicus	3.9	ATP	*aminoacylation reaction, pH 7.8, 37&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	4	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant F119A
+KCAT	Escherichia coli	4.2	ATP	*native enzyme
+KCAT	Pyrococcus horikoshii	4.2	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant V108A
+KCAT	Pyrococcus horikoshii	4.3	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant D98A; pH 7.5, 65&Acirc;&deg;C, mutant E114A
+KCAT	Pyrococcus horikoshii	4.6	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant K100A
+KCAT	Pyrococcus horikoshii	4.7	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant D121A
+KCAT	Escherichia coli	4.8	ATP	*37&Acirc;&deg;C, pH 7.8, mutant enzyme T25D
+KCAT	Pyrococcus horikoshii	4.8	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant Y109A
+KCAT	Escherichia coli	4.9	ATP	*wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	4.9	ATP	*37&Acirc;&deg;C, pH 7.8, mutant enzyme T252E
+KCAT	Pyrococcus horikoshii	4.9	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant K100A/Y109A
+KCAT	Escherichia coli	5	ATP	*wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	5	ATP	*37&Acirc;&deg;C, pH 7.8, native enzyme
+KCAT	Pyrococcus horikoshii	5	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant T101A
+KCAT	Pyrococcus horikoshii	5.1	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant N96A
+KCAT	Pyrococcus horikoshii	5.4	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant R106A
+KCAT	Pyrococcus horikoshii	5.5	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant R97A
+KCAT	Pyrococcus horikoshii	5.8	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant E113A
+KCAT	Pyrococcus horikoshii	6.5	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant Y105A
+KCAT	Pyrococcus horikoshii	6.8	ATP	*pH 7.5, 65&Acirc;&deg;C, wild-type enzyme
+KCAT	Pyrococcus horikoshii	7.4	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant I104A; pH 7.5, 65&Acirc;&deg;C, mutant W103A
+KCAT	Giardia intestinalis	7.5	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant Q154A
+KCAT	Pyrococcus horikoshii	7.7	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant T118A
+KCAT	Giardia intestinalis	8.1	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K152A
+KCAT	Pyrococcus horikoshii	13.8	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant I115A
+KCAT	Aquifex aeolicus	14.5	ATP	*ATP-diphosphate exchange reaction, pH 7.8, 60&Acirc;&deg;C
+KCAT	Giardia intestinalis	29.8	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant W155A
+KCAT	Giardia intestinalis	30.1	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant S153A
+KCAT	Giardia intestinalis	31	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K170A
+KCAT	Giardia intestinalis	31.3	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant E165A
+KCAT	Giardia intestinalis	31.5	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K141A
+KCAT	Giardia intestinalis	31.8	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K144A
+KCAT	Giardia intestinalis	32.1	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K148A
+KCAT	Giardia intestinalis	32.3	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K166A
+KCAT	Giardia intestinalis	33.2	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K139A
+KCAT	Giardia intestinalis	34.4	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant D173A
+KCAT	Giardia intestinalis	36.2	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K142A
+KCAT	Giardia intestinalis	60.2	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant E167A
+KCAT	Aquifex aeolicus	3.2	L-methionine	*37&Acirc;&deg;C
+KCAT	Escherichia coli	7.6	L-methionine	*ATP-diphosphate exchange reaction, mutant enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	19	L-methionine	*ATP-diphosphate exchange reaction, wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Natrialba magadii	0.00961	L-leucine	*isoform LeuRS2, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KCAT	Aquifex aeolicus	0.134	L-leucine	*recombinant enzyme complex, 65&Acirc;&deg;C
+KCAT	Homo sapiens	0.18	L-leucine	*recombinant mitochondrial isozyme mutant, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.23	L-leucine	*recombinant mitochondrial isozyme mutant, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.3	L-leucine	*37&Acirc;&deg;C, pH 7.6, leucylation, full-length enzyme
+KCAT	Aquifex aeolicus	0.39	L-leucine	*aminoacylation reaction, pH 7.8, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.56	L-leucine	*37&Acirc;&deg;C, pH 7.6, leucylation, DELTAChcLeuRS (a C-terminal 89-amino acid truncated enzyme form)
+KCAT	Natrialba magadii	0.563	L-leucine	*isoform LeuRS1, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KCAT	Escherichia coli	0.8	L-leucine	*mutant E292K, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.8	L-leucine	*mutant enzyme T252A, aminoacylation
+KCAT	Homo sapiens	0.81	L-leucine	*37&Acirc;&deg;C, pH 7.6, ATP-diphosphate exchange, DELTAChcLeuRS (a C-terminal 89-amino acid truncated enzyme form)
+KCAT	Homo sapiens	0.82	L-leucine	*37&Acirc;&deg;C, pH 7.6, ATP-diphosphate exchange, full-length enzyme
+KCAT	Giardia intestinalis	1	L-leucine	*mutant Y515E, pH 8.2, 45&Acirc;&deg;C
+KCAT	Giardia intestinalis	1.1	L-leucine	*mutant Y520H, pH 8.2, 45&Acirc;&deg;C
+KCAT	Aquifex aeolicus	1.28	L-leucine	*
+KCAT	Aquifex aeolicus	1.4	L-leucine	*aminoacylation reaction, pH 7.8, 60&Acirc;&deg;C
+KCAT	Aquifex aeolicus	1.4	L-leucine	*pH 6.8, 65&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Giardia intestinalis	1.4	L-leucine	*mutant Y520E, pH 8.2, 45&Acirc;&deg;C
+KCAT	Escherichia coli	1.5	L-leucine	*mutant enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Aquifex aeolicus	1.57	L-leucine	*65&Acirc;&deg;C, wild-type enzyme
+KCAT	Escherichia coli	1.6	L-leucine	*mutant E292S, pH 7.8, 37&Acirc;&deg;C
+KCAT	Aquifex aeolicus	1.79	L-leucine	*65&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Escherichia coli	1.8	L-leucine	*mutant E292F, pH 7.8, 37&Acirc;&deg;C
+KCAT	Giardia intestinalis	1.8	L-leucine	*mutant Y515K, pH 8.2, 45&Acirc;&deg;C; mutant Y520A, pH 8.2, 45&Acirc;&deg;C
+KCAT	Escherichia coli	1.9	L-leucine	*mutant E292A, pH 7.8, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2	L-leucine	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	2.1	L-leucine	*wild-type, pH 7.6, 30&Acirc;&deg;C
+KCAT	Escherichia coli	2.2	L-leucine	*mutant E292Q, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	2.2	L-leucine	*mutant T252Y
+KCAT	Escherichia coli	2.4	L-leucine	*mutant E292D, pH 7.8, 37&Acirc;&deg;C
+KCAT	Giardia intestinalis	2.6	L-leucine	*mutant Y515A, pH 8.2, 45&Acirc;&deg;C
+KCAT	Homo sapiens	2.7	L-leucine	*recombinant mitochondrial isozyme, pH 7.6, 37&Acirc;&deg;C
+KCAT	Giardia intestinalis	2.7	L-leucine	*wild-type, pH 8.2, 45&Acirc;&deg;C
+KCAT	Giardia intestinalis	2.8	L-leucine	*mutant lacking residues Q281 to D294, 45&Acirc;&deg;C; mutant lacking residues S295 to L304, 45&Acirc;&deg;C; wild-type, 45&Acirc;&deg;C
+KCAT	Escherichia coli	3	L-leucine	*wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	3	L-leucine	*recombinant enzyme
+KCAT	Pyrococcus horikoshii	3.1	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant E114A; pH 7.5, 65&Acirc;&deg;C, mutant K100A/Y105A
+KCAT	Pyrococcus horikoshii	3.2	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant D98A
+KCAT	Escherichia coli	3.4	L-leucine	*native enzyme
+KCAT	Pyrococcus horikoshii	3.4	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant F119A
+KCAT	Aquifex aeolicus	3.5	L-leucine	*ATP-diphosphate exchange reaction, pH 7.8, 37&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	3.8	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant T101A
+KCAT	Pyrococcus horikoshii	3.9	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant K100A
+KCAT	Pyrococcus horikoshii	4.1	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant V108A
+KCAT	Pyrococcus horikoshii	4.3	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant Y105A
+KCAT	Pyrococcus horikoshii	4.4	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant N96A
+KCAT	Escherichia coli	4.6	L-leucine	*37&Acirc;&deg;C, pH 7.8, mutant enzyme T25D
+KCAT	Pyrococcus horikoshii	4.6	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant K100A/Y109A
+KCAT	Pyrococcus horikoshii	4.7	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant R106A; pH 7.5, 65&Acirc;&deg;C, mutant Y109A
+KCAT	Escherichia coli	4.9	L-leucine	*37&Acirc;&deg;C, pH 7.8, mutant enzyme T252E
+KCAT	Escherichia coli	5.1	L-leucine	*wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	5.1	L-leucine	*37&Acirc;&deg;C, pH 7.8, native enzyme
+KCAT	Escherichia coli	5.1	L-leucine	*mutant enzyme T252S, aminoacylation
+KCAT	Pyrococcus horikoshii	5.1	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant R97A; pH 7.5, 65&Acirc;&deg;C, mutant W103A
+KCAT	Escherichia coli	5.2	L-leucine	*wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	5.2	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant E113A
+KCAT	Homo sapiens	5.6	L-leucine	*mutant D399A, pH 7.6, 30&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	5.6	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant I104A
+KCAT	Giardia intestinalis	5.9	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant Q154A
+KCAT	Pyrococcus horikoshii	6	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant D121A; pH 7.5, 65&Acirc;&deg;C, wild-type enzyme
+KCAT	Escherichia coli	6.1	L-leucine	*wild-type enzyme, aminoacylation
+KCAT	Escherichia coli	6.2	L-leucine	*mutant enzyme T252V, aminoacylation
+KCAT	Giardia intestinalis	6.2	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K152A
+KCAT	Pyrococcus horikoshii	8.1	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant T118A
+KCAT	Pyrococcus horikoshii	10.7	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant I115A
+KCAT	Escherichia coli	11	L-leucine	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Aquifex aeolicus	15.5	L-leucine	*ATP-diphosphate exchange reaction, pH 7.8, 60&Acirc;&deg;C
+KCAT	Homo sapiens	25.8	L-leucine	*pH 7.6, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	26.2	L-leucine	*pH 7.6, 37&Acirc;&deg;C, mutant D399A
+KCAT	Aquifex aeolicus	26.3	L-leucine	*37&Acirc;&deg;C
+KCAT	Giardia intestinalis	28.1	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K170A
+KCAT	Giardia intestinalis	28.4	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K148A
+KCAT	Giardia intestinalis	28.7	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K166A
+KCAT	Giardia intestinalis	28.9	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K144A
+KCAT	Giardia intestinalis	29.7	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant E165A
+KCAT	Giardia intestinalis	29.9	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K139A
+KCAT	Giardia intestinalis	31.7	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K142A
+KCAT	Giardia intestinalis	31.9	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant W155A
+KCAT	Giardia intestinalis	32.5	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant S153A
+KCAT	Giardia intestinalis	33.1	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K141A
+KCAT	Giardia intestinalis	36.3	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant D173A
+KCAT	Saccharomyces cerevisiae	37.5	L-leucine	*
+KCAT	Giardia intestinalis	54.6	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant E167A
+KCAT	Escherichia coli	73.7	L-leucine	*wild type enzyme, in 100 mM HEPES (pH 7.8), 10 mM MgCl2, at 37&Acirc;&deg;C
+KCAT	Escherichia coli	101	L-leucine	*ATP-diphosphate exchange reaction, mutant enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	171	L-leucine	*ATP-diphosphate exchange reaction, wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.07	L-isoleucine	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.1	L-isoleucine	*pH 7.5, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.34	L-isoleucine	*wild-type, pH 7.6, 30&Acirc;&deg;C
+KCAT	Homo sapiens	0.51	L-isoleucine	*mutant D399A, pH 7.6, 30&Acirc;&deg;C
+KCAT	Aquifex aeolicus	1.9	L-isoleucine	*37&Acirc;&deg;C
+KCAT	Escherichia coli	6.9	L-isoleucine	*ATP-diphosphate exchange reaction, mutant enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	10.2	L-isoleucine	*
+KCAT	Escherichia coli	18	L-isoleucine	*ATP-diphosphate exchange reaction, wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Neurospora crassa	2	Leu	*aminoacylation
+KCAT	Neurospora crassa	20	Leu	*ATP-diphosphate exchange reaction
+KCAT	Aquifex aeolicus	0.003	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme Q269stop
+KCAT	Homo sapiens	0.028	tRNALeu	*37&Acirc;&deg;C, pH 7.6, tRNALeu from calf liver, leucylation, full-length enzyme
+KCAT	Saccharomyces cerevisiae	0.05	tRNALeu	*mutant R449K
+KCAT	Homo sapiens	0.059	tRNALeu	*37&Acirc;&deg;C, pH 7.6, tRNALeu from calf liver, leucylation, DELTAChcLeuRS (a C-terminal 89-amino acid truncated enzyme form)
+KCAT	Aquifex aeolicus	0.072	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme N152A
+KCAT	Homo sapiens	0.12	tRNALeu	*recombinant mitochondrial isozyme, pH 7.6, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.12	tRNALeu	*wild-type enzyme
+KCAT	Pyrococcus horikoshii	0.177	tRNALeu	*truncation mutant DELTA911-913, pH 7.5, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	0.2	tRNALeu	*mutant W445Y
+KCAT	Giardia intestinalis	0.2	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant K142A; pH 8.2, 45&Acirc;&deg;C, mutant K144A
+KCAT	Aquifex aeolicus	0.31	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme R94A
+KCAT	Aquifex aeolicus	0.32	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme V286stop; 37&Acirc;&deg;C, pH 7.8, wild-type enzyme
+KCAT	Pyrococcus horikoshii	0.331	tRNALeu	*full-length enzyme, pH 7.5, 37&Acirc;&deg;C
+KCAT	Aquifex aeolicus	0.39	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme G237D; 37&Acirc;&deg;C, pH 7.8, mutant enzyme N163A
+KCAT	Aquifex aeolicus	0.4	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme Q234H
+KCAT	Escherichia coli	0.4	tRNALeu	*mutant V338A; mutant V338D; mutant V338E; mutant V338F; mutant V338L
+KCAT	Aquifex aeolicus	0.42	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme K238A
+KCAT	Aquifex aeolicus	0.47	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme M159A
+KCAT	Aquifex aeolicus	0.5	tRNALeu	*37&Acirc;&deg;C, pH 7.8
+KCAT	Aquifex aeolicus	0.59	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme L283F
+KCAT	Saccharomyces cerevisiae	0.6	tRNALeu	*mutant R451K
+KCAT	Aquifex aeolicus	0.66	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme K160N
+KCAT	Giardia intestinalis	0.7	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, recombinant mutant DELTAESI/DELTAHsESI
+KCAT	Escherichia coli	0.8	tRNALeu	*mutant E292K, pH 7.8, 37&Acirc;&deg;C
+KCAT	Giardia intestinalis	0.8	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant D173A; pH 8.2, 45&Acirc;&deg;C, mutant K141A; pH 8.2, 45&Acirc;&deg;C, mutant Q154A
+KCAT	Aquifex aeolicus	0.84	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme A156V
+KCAT	Escherichia coli	0.9	tRNALeu	*pH 7.5, 37&Acirc;&deg;C, recombinant LS-domain deletion mutant
+KCAT	Giardia intestinalis	1	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, recombinant mutant T341A
+KCAT	Giardia intestinalis	1.1	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant S153A
+KCAT	Giardia intestinalis	1.1	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, recombinant mutant D444A; pH 8.2, 45&Acirc;&deg;C, recombinant mutant T341R
+KCAT	Giardia intestinalis	1.2	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant E167A
+KCAT	Escherichia coli	1.3	tRNALeu	*mutant enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Giardia intestinalis	1.3	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant K152A
+KCAT	Giardia intestinalis	1.3	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, recombinant mutant R338A
+KCAT	Giardia intestinalis	1.4	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant K170A
+KCAT	Giardia intestinalis	1.5	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant K139A
+KCAT	Escherichia coli	1.6	tRNALeu	*mutant E292S, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	1.8	tRNALeu	*mutant E292A, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	1.9	tRNALeu	*mutant E292Q, pH 7.8, 37&Acirc;&deg;C
+KCAT	Giardia intestinalis	1.9	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant K148A
+KCAT	Escherichia coli	2	tRNALeu	*mutant E292F, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	2.2	tRNALeu	*mutant E292D, pH 7.8, 37&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	2.4	tRNALeu	*mutant enzyme V910P, at pH 8.2 and 30&Acirc;&deg;C
+KCAT	Giardia intestinalis	2.5	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant W155A
+KCAT	Giardia intestinalis	2.7	tRNALeu	*mutant lacking residues Q281 to D294, 45&Acirc;&deg;C; mutant lacking residues S295 to L304, 45&Acirc;&deg;C; wild-type, 45&Acirc;&deg;C
+KCAT	Giardia intestinalis	2.8	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant E165A; pH 8.2, 45&Acirc;&deg;C, mutant K166A
+KCAT	Escherichia coli	2.9	tRNALeu	*wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	3.4	tRNALeu	*recombinant enzyme
+KCAT	Escherichia coli	3.9	tRNALeu	*native enzyme
+KCAT	Escherichia coli	4.7	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme T25D
+KCAT	Escherichia coli	5	tRNALeu	*wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	5	tRNALeu	*wild-type enzyme
+KCAT	Mycobacterium tuberculosis	5	tRNALeu	*mutant enzyme L949K, at pH 8.2 and 30&Acirc;&deg;C; mutant enzyme Q915K, at pH 8.2 and 30&Acirc;&deg;C
+KCAT	Escherichia coli	5.1	tRNALeu	*wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KCAT	Escherichia coli	5.1	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme T252E; 37&Acirc;&deg;C, pH 7.8, native enzyme
+KCAT	Mycobacterium tuberculosis	5.6	tRNALeu	*mutant enzyme L949A, at pH 8.2 and 30&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	7	tRNALeu	*mutant enzyme V910A, at pH 8.2 and 30&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	7.2	tRNALeu	*mutant enzyme L964A, at pH 8.2 and 30&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	7.8	tRNALeu	*wild type enzyme, at pH 8.2 and 30&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	9.2	tRNALeu	*mutant enzyme V910W, at pH 8.2 and 30&Acirc;&deg;C
+KCAT	Escherichia coli	9.6	tRNALeu	*pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Mycobacterium tuberculosis	10.6	tRNALeu	*mutant enzyme L964K, at pH 8.2 and 30&Acirc;&deg;C; mutant enzyme R921K, at pH 8.2 and 30&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	13.3	tRNALeu	*mutant enzyme Q915A, at pH 8.2 and 30&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	13.6	tRNALeu	*mutant enzyme R921A, at pH 8.2 and 30&Acirc;&deg;C
+KCAT	Aquifex aeolicus	12.6	L-norvaline	*37&Acirc;&deg;C
+KCAT	Saccharomyces cerevisiae	13.5	norvaline	*
+KCAT	Giardia intestinalis	0.19	L-isoleucyl-tRNALeu	*mutant Y515A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Giardia intestinalis	0.48	L-isoleucyl-tRNALeu	*mutant Y520A, pH 7.5, 37&Acirc;&deg;C
+KCAT	Giardia intestinalis	0.93	L-isoleucyl-tRNALeu	*mutant Y520H, pH 7.5, 37&Acirc;&deg;C
+KCAT	Giardia intestinalis	1.52	L-isoleucyl-tRNALeu	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KCAT	Phaseolus vulgaris	2.05	Leu-tRNALeu	*
+KCAT	Phaseolus vulgaris	3.15	Leu-tRNALeu	*
+KCAT	Cyberlindnera jadinii	23.8	Leu-tRNALeu	*
+KCAT	Escherichia coli	1.08	L-didehydroleucine	*mutant T252Y
+KCAT	Escherichia coli	0.06	L-oxonorvaline	*mutant T252Y
+KCAT	Escherichia coli	-999	more	*kinetics, mutant enzymes
+KCAT	Aquifex aeolicus	-999	more	*turnover number for hydrolytic editing of mischarged Ile-tRNALeu(GAG)
+KCAT	Homo sapiens	-999	more	*turnover numbers for tRNALeu(UUR) variants
+KCAT	Escherichia coli	0.000018	tRNALeuUUR	*human derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant L570K
+KCAT	Escherichia coli	0.00016	tRNALeuUUR	*human derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Natrialba magadii	0.000418	Natrialba magadii tRNALeu(CAA)	*isoform LeuRS2, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KCAT	Natrialba magadii	0.000668	Natrialba magadii tRNALeu(GAG)	*isoform LeuRS2, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KCAT	Natrialba magadii	0.00119	L-leucyl-Pyrococcus horikoshii tRNALeu(GAG)	*isoform LeuRS2, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KCAT	Escherichia coli	0.0017	tRNALeuUUR	*human derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant L570F
+KCAT	Aquifex aeolicus	0.003	tRNALeu from Escherichia coli	*recombinant enzyme complex, 55&Acirc;&deg;C
+KCAT	Homo sapiens	0.003	tRNALeuUUR	*human derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant K600L
+KCAT	Pyrococcus horikoshii	0.0055	tRNAGAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant mutant R703A
+KCAT	Aquifex aeolicus	0.006	tRNALeu from Aquifex aeolicus	*recombinant enzyme complex, 55&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	0.017	tRNAGAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant mutant K696A
+KCAT	Pyrococcus horikoshii	0.02	tRNAGAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.02	tRNALeu(UAA)	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme T247V/T248V
+KCAT	Pyrococcus horikoshii	0.041	tRNAGAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant mutant K692A
+KCAT	Natrialba magadii	0.0418	L-leucyl-Pyrococcus horikoshii tRNALeu(GAG)	*isoform LeuRS1, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KCAT	Natrialba magadii	0.0464	Natrialba magadii tRNALeu(CAA)	*isoform LeuRS1, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	0.05	tRNAGAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant mutant K699A
+KCAT	Natrialba magadii	0.064	Natrialba magadii tRNALeu(GAG)	*isoform LeuRS1, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	0.067	tRNAGAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant mutant K698A
+KCAT	Aquifex aeolicus	0.084	tRNALeu from Escherichia coli	*aminoacylation reaction, pH 7.8, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.09	tRNALeuUUR	*human derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	0.1	tRNALeu(UAA)	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme T247A/T248A
+KCAT	Aquifex aeolicus	0.11	tRNALeuA73G	*37&Acirc;&deg;C, pH 7.8
+KCAT	Homo sapiens	0.13	tRNALeuUUR	*human derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant K600F
+KCAT	Homo sapiens	0.14	tRNALeuUUR	*human derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant K600R
+KCAT	Escherichia coli	0.18	tRNAGAGLeu	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant R668E/R672E
+KCAT	Aquifex aeolicus	0.19	tRNAGAGLeu	*pH 7.8, 65&Acirc;&deg;C, recombinant mutant R94E/R98E
+KCAT	Escherichia coli	0.31	tRNAGAGLeu	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant R668A/R672A
+KCAT	Aquifex aeolicus	0.31	tRNALeuA35G	*37&Acirc;&deg;C, pH 7.8
+KCAT	Homo sapiens	0.35	tRNALeuCUN	*Escherichia coli derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant K600L
+KCAT	Homo sapiens	0.39	tRNALeuCUN	*Escherichia coli derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Aquifex aeolicus	0.39	tRNALeu from Aquifex aeolicus	*aminoacylation reaction, pH 7.8, 37&Acirc;&deg;C
+KCAT	Aquifex aeolicus	0.4	tRNALeu from Escherichia coli	*aminoacylation reaction, pH 7.8, 60&Acirc;&deg;C
+KCAT	Escherichia coli	0.53	tRNAGAGLeu	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant R672E
+KCAT	Homo sapiens	0.56	tRNACAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant mutant R668A
+KCAT	Escherichia coli	0.59	tRNAGAGLeu	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant R668E
+KCAT	Aquifex aeolicus	0.67	tRNAGAGLeu	*pH 7.8, 65&Acirc;&deg;C, recombinant mutant R94A/R98A
+KCAT	Escherichia coli	0.8	tRNALeu(UAA)	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme T247V
+KCAT	Mycoplasma mobile	0.85	tRNAUAALeu	*pH 7.8, 30&Acirc;&deg;C, recombinant mutant K456E
+KCAT	Aquifex aeolicus	0.89	tRNAGAGLeu	*pH 7.8, 65&Acirc;&deg;C, recombinant mutant R94E
+KCAT	Escherichia coli	0.9	tRNALeu(UAA)	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme T248V
+KCAT	Aquifex aeolicus	1	tRNAGAGLeu	*pH 7.8, 65&Acirc;&deg;C, recombinant mutant R98E
+KCAT	Aquifex aeolicus	1.3	tRNAGAGLeu	*pH 7.8, 65&Acirc;&deg;C, recombinant mutant R94A
+KCAT	Mycoplasma mobile	1.3	tRNAUAALeu	*pH 7.8, 30&Acirc;&deg;C, recombinant mutant K456A
+KCAT	Escherichia coli	1.4	tRNAGAGLeu	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant R668A
+KCAT	Aquifex aeolicus	1.48	tRNALeu(GAG)	*65&Acirc;&deg;C, wild-type enzyme
+KCAT	Aquifex aeolicus	1.5	tRNAGAGLeu	*pH 7.8, 65&Acirc;&deg;C, recombinant mutant R98A; pH 7.8, 65&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Aquifex aeolicus	1.5	tRNALeu from Aquifex aeolicus	*aminoacylation reaction, pH 7.8, 60&Acirc;&deg;C
+KCAT	Aquifex aeolicus	1.5	tRNALeuGAG	*pH 6.8, 65&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Aquifex aeolicus	1.59	tRNALeu(GAG)	*65&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Escherichia coli	1.6	tRNALeu(UAA)	*mutant enzyme T252A, aminoacylation
+KCAT	Mycoplasma mobile	1.8	tRNALeu(GAG)	*in 100 mM Tris-HCl (pH 7.8), 30 mM KCl, 12 mM MgCl2, 5 mM dithiothreitol, at 30&Acirc;&deg;C
+KCAT	Mycoplasma mobile	2	tRNALeu(UAG)	*in 100 mM Tris-HCl (pH 7.8), 30 mM KCl, 12 mM MgCl2, 5 mM dithiothreitol, at 30&Acirc;&deg;C
+KCAT	Homo sapiens	2.6	tRNACAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Mycoplasma mobile	2.8	tRNAUAALeu	*pH 7.8, 30&Acirc;&deg;C, recombinant mutant K452E
+KCAT	Homo sapiens	3	tRNALeuCUN	*Escherichia coli derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant K600F
+KCAT	Homo sapiens	3.2	tRNALeuCUN	*Escherichia coli derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant K600R
+KCAT	Escherichia coli	3.2	tRNALeu(UAA)	*pH 7.5, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Mycoplasma mobile	3.2	tRNAUAALeu	*pH 7.8, 30&Acirc;&deg;C, recombinant mutant K452A
+KCAT	Mycoplasma mobile	3.3	tRNAUAALeu	*pH 7.8, 30&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	4.2	tRNAUAALeu	*pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	4.8	tRNAGAGLeu	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant K671A; pH 7.5, 37&Acirc;&deg;C, recombinant mutant R672A
+KCAT	Escherichia coli	4.9	tRNAGAGLeu	*pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	5.2	tRNALeu(UAA)	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme T247S/T248S
+KCAT	Escherichia coli	6.1	tRNALeu(UAA)	*wild-type enzyme, aminoacylation
+KCAT	Escherichia coli	6.3	tRNALeu(UAA)	*mutant enzyme T252V, aminoacylation
+KCAT	Escherichia coli	6.5	tRNALeu(UAA)	*mutant enzyme T252S, aminoacylation
+KCAT	Escherichia coli	7	Ile-tRNALeu	*wild type enzyme, in 100 mM HEPES (pH 7.8), 10 mM MgCl2, at 37&Acirc;&deg;C
+KCAT	Escherichia coli	7.4	Ile-tRNALeu	*mutant enzyme R286E, in 100 mM HEPES (pH 7.8), 10 mM MgCl2, at 37&Acirc;&deg;C
+KCAT	Escherichia coli	7.6	Ile-tRNALeu	*mutant enzyme R185E, in 100 mM HEPES (pH 7.8), 10 mM MgCl2, at 37&Acirc;&deg;C
+KCAT	Escherichia coli	8.8	Ile-tRNALeu	*mutant enzyme E184R, in 100 mM HEPES (pH 7.8), 10 mM MgCl2, at 37&Acirc;&deg;C
+KCAT	Escherichia coli	9.8	tRNALeuCUN	*Escherichia coli derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant L570K
+KCAT	Escherichia coli	14.5	tRNALeuCUN	*Escherichia coli derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Escherichia coli	21	tRNALeuCUN	*Escherichia coli derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant L570R
+KCAT	Escherichia coli	24	tRNALeuCUN	*Escherichia coli derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant L570F
+KM	Escherichia coli	0.08	ATP	*mutant E292F, pH 7.8, 37&Acirc;&deg;C
+KM	Homo sapiens	0.09	ATP	*recombinant mitochondrial isozyme, pH 7.6, 37&Acirc;&deg;C
+KM	Escherichia coli	0.1	ATP	*mutants E292Q, E292D, and E292A, pH 7.8, 37&Acirc;&deg;C
+KM	Saccharomyces cerevisiae	0.11	ATP	*
+KM	Aquifex aeolicus	0.11	ATP	*aminoacylation reaction, pH 7.8, 60&Acirc;&deg;C
+KM	Escherichia coli	0.11	ATP	*mutants E292D and E292K, pH 7.8, 37&Acirc;&deg;C
+KM	Aquifex aeolicus	0.112	ATP	*65&Acirc;&deg;C, wild-type enzyme
+KM	Aquifex aeolicus	0.1123	ATP	*pH 6.8, 65&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Aquifex aeolicus	0.113	ATP	*65&Acirc;&deg;C, recombinant His6-tagged enzyme
+KM	Euglena gracilis	0.13	ATP	*
+KM	Phaseolus vulgaris	0.18	ATP	*
+KM	Escherichia coli	0.22	ATP	*37&Acirc;&deg;C, pH 7.8, mutant enzyme T252E
+KM	Aquifex aeolicus	0.228	ATP	*recombinant enzyme complex, 65&Acirc;&deg;C
+KM	Escherichia coli	0.23	ATP	*37&Acirc;&deg;C, pH 7.8, mutant enzyme T25D
+KM	Escherichia coli	0.24	ATP	*37&Acirc;&deg;C, pH 7.8, native enzyme
+KM	Escherichia coli	0.25	ATP	*aminoacylation reaction, mutant enzyme, pH 7.8, 37&Acirc;&deg;C
+KM	Escherichia coli	0.26	ATP	*wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KM	Escherichia coli	0.26	ATP	*native enzyme
+KM	Escherichia coli	0.28	ATP	*aminoacylation reaction, wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KM	Escherichia coli	0.28	ATP	*recombinant enzyme
+KM	Pyrococcus horikoshii	0.296	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant R106A
+KM	Saccharomyces cerevisiae	0.3	ATP	*
+KM	Pyrococcus horikoshii	0.323	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant R97A
+KM	Giardia intestinalis	0.33	ATP	*mutant lacking residues Q281 to D294, 45&Acirc;&deg;C
+KM	Pyrococcus horikoshii	0.351	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant V108A
+KM	Aquifex aeolicus	0.36	ATP	*ATP-diphosphate exchange reaction, pH 7.8, 37&Acirc;&deg;C
+KM	Pyrococcus horikoshii	0.362	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant D98A
+KM	Pyrococcus horikoshii	0.366	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant K100A/Y109A
+KM	Pyrococcus horikoshii	0.37	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant N96A
+KM	Pyrococcus horikoshii	0.373	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant E114A
+KM	Aquifex aeolicus	0.38	ATP	*ATP-diphosphate exchange reaction, pH 7.8, 60&Acirc;&deg;C
+KM	Pyrococcus horikoshii	0.383	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant T101A
+KM	Pyrococcus horikoshii	0.472	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant W103A
+KM	Pyrococcus horikoshii	0.531	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant K100A
+KM	Pyrococcus horikoshii	0.537	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant Y105A
+KM	Pyrococcus horikoshii	0.547	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant F119A
+KM	Aquifex aeolicus	0.55	ATP	*aminoacylation reaction, pH 7.8, 37&Acirc;&deg;C
+KM	Pyrococcus horikoshii	0.551	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant D121A
+KM	Pyrococcus horikoshii	0.578	ATP	*pH 7.5, 65&Acirc;&deg;C, wild-type enzyme
+KM	Pyrococcus horikoshii	0.584	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant K100A/Y105A
+KM	Pyrococcus horikoshii	0.59	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant Y109A
+KM	Giardia intestinalis	0.653	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant W155A
+KM	Giardia intestinalis	0.675	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant Q154A
+KM	Giardia intestinalis	0.683	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K170A
+KM	Giardia intestinalis	0.687	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K166A
+KM	Giardia intestinalis	0.688	ATP	*wild-type, 45&Acirc;&deg;C
+KM	Giardia intestinalis	0.698	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K148A
+KM	Giardia intestinalis	0.711	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant S153A
+KM	Homo sapiens	0.725	ATP	*37&Acirc;&deg;C, pH 7.6, leucylation, DELTAChcLeuRS (a C-terminal 89-amino acid truncated enzyme form)
+KM	Giardia intestinalis	0.728	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K142A
+KM	Giardia intestinalis	0.772	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K141A
+KM	Homo sapiens	0.773	ATP	*37&Acirc;&deg;C, pH 7.6, leucylation, full-length enzyme
+KM	Pyrococcus horikoshii	0.796	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant I104A
+KM	Giardia intestinalis	0.812	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K139A
+KM	Giardia intestinalis	0.822	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K144A
+KM	Giardia intestinalis	0.834	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant K152A
+KM	Pyrococcus horikoshii	0.837	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant E113A
+KM	Homo sapiens	0.99	ATP	*recombinant mitochondrial isozyme mutant, 37&Acirc;&deg;C
+KM	Giardia intestinalis	1.025	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant D173A
+KM	Pyrococcus horikoshii	1.157	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant T118A
+KM	Giardia intestinalis	1.169	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant E165A
+KM	Homo sapiens	1.308	ATP	*37&Acirc;&deg;C, pH 7.6, ATP-diphosphate exchange, full-length enzyme
+KM	Homo sapiens	1.349	ATP	*37&Acirc;&deg;C, pH 7.6, ATP-diphosphate exchange, DELTAChcLeuRS (a C-terminal 89-amino acid truncated enzyme form)
+KM	Giardia intestinalis	2.129	ATP	*pH 8.2, 45&Acirc;&deg;C, mutant E167A
+KM	Pyrococcus horikoshii	2.177	ATP	*pH 7.5, 65&Acirc;&deg;C, mutant I115A
+KM	Aquifex aeolicus	0.983	L-methionine	*37&Acirc;&deg;C
+KM	Escherichia coli	6.2	L-methionine	*ATP-diphosphate exchange reaction, mutant enzyme, pH 7.8, 37&Acirc;&deg;C
+KM	Escherichia coli	7.5	L-methionine	*ATP-diphosphate exchange reaction, wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KM	Aquifex aeolicus	0.0011	L-leucine	*
+KM	Aquifex aeolicus	0.0013	L-leucine	*ATP-diphosphate exchange reaction, pH 7.8, 37&Acirc;&deg;C
+KM	Escherichia coli	0.0015	L-leucine	*wild-type enzyme, aminoacylation
+KM	Aquifex aeolicus	0.0016	L-leucine	*ATP-diphosphate exchange reaction, pH 7.8, 60&Acirc;&deg;C
+KM	Escherichia coli	0.0016	L-leucine	*mutant enzyme T252V, aminoacylation
+KM	Escherichia coli	0.002	L-leucine	*mutant enzyme T252S, aminoacylation
+KM	Giardia intestinalis	0.0024	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K152A
+KM	Aquifex aeolicus	0.0028	L-leucine	*37&Acirc;&deg;C
+KM	Giardia intestinalis	0.0035	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant Q154A
+KM	Escherichia coli	0.0036	L-leucine	*mutant enzyme T252A, aminoacylation
+KM	Saccharomyces cerevisiae	0.0041	L-leucine	*
+KM	Pyrococcus horikoshii	0.00537	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant N96A
+KM	Giardia intestinalis	0.0054	L-leucine	*mutant Y515A, pH 8.2, 45&Acirc;&deg;C; mutant Y515E, pH 8.2, 45&Acirc;&deg;C; mutant Y520H, pH 8.2, 45&Acirc;&deg;C
+KM	Pyrococcus horikoshii	0.00555	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant Y105A
+KM	Pyrococcus horikoshii	0.00559	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant I115A
+KM	Pyrococcus horikoshii	0.00569	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant I104A
+KM	Pyrococcus horikoshii	0.0057	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant K100A/Y109A
+KM	Homo sapiens	0.0058	L-leucine	*37&Acirc;&deg;C, pH 7.6, leucylation, DELTAChcLeuRS (a C-terminal 89-amino acid truncated enzyme form)
+KM	Pyrococcus horikoshii	0.00581	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant V108A
+KM	Giardia intestinalis	0.0059	L-leucine	*mutant lacking residues Q281 to D294, 45&Acirc;&deg;C
+KM	Pyrococcus horikoshii	0.00592	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant D98A; pH 7.5, 65&Acirc;&deg;C, wild-type enzyme
+KM	Aquifex aeolicus	0.006	L-leucine	*aminoacylation reaction, pH 7.8, 60&Acirc;&deg;C
+KM	Aquifex aeolicus	0.006	L-leucine	*pH 6.8, 65&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Giardia intestinalis	0.006	L-leucine	*mutant Y520A, pH 8.2, 45&Acirc;&deg;C
+KM	Giardia intestinalis	0.0061	L-leucine	*wild-type, pH 8.2, 45&Acirc;&deg;C
+KM	Pyrococcus horikoshii	0.00618	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant E113A
+KM	Pyrococcus horikoshii	0.00623	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant E114A
+KM	Pyrococcus horikoshii	0.0063	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant K100A/Y105A
+KM	Pyrococcus horikoshii	0.00636	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant T118A
+KM	Aquifex aeolicus	0.0064	L-leucine	*aminoacylation reaction, pH 7.8, 37&Acirc;&deg;C
+KM	Aquifex aeolicus	0.0064	L-leucine	*65&Acirc;&deg;C, recombinant His6-tagged enzyme; 65&Acirc;&deg;C, wild-type enzyme
+KM	Pyrococcus horikoshii	0.00721	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant D121A
+KM	Homo sapiens	0.0075	L-leucine	*37&Acirc;&deg;C, pH 7.6, leucylation, full-length enzyme
+KM	Giardia intestinalis	0.0077	L-leucine	*mutant Y520E, pH 8.2, 45&Acirc;&deg;C
+KM	Giardia intestinalis	0.0077	L-leucine	*mutant lacking residues S295 to L304, 45&Acirc;&deg;C
+KM	Giardia intestinalis	0.008	L-leucine	*mutant Y515K, pH 8.2, 45&Acirc;&deg;C
+KM	Aquifex aeolicus	0.0083	L-leucine	*recombinant enzyme complex, 65&Acirc;&deg;C
+KM	Natrialba magadii	0.00843	L-leucine	*isoform LeuRS1, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KM	Pyrococcus horikoshii	0.00854	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant R106A
+KM	Pyrococcus horikoshii	0.00871	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant W103A
+KM	Pyrococcus horikoshii	0.00891	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant K100A
+KM	Giardia intestinalis	0.009	L-leucine	*wild-type, 45&Acirc;&deg;C
+KM	Pyrococcus horikoshii	0.00902	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant Y109A
+KM	Pyrococcus horikoshii	0.00927	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant R97A
+KM	Pyrococcus horikoshii	0.00984	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant T101A
+KM	Homo sapiens	0.01	L-leucine	*recombinant mitochondrial isozyme mutant, 37&Acirc;&deg;C
+KM	Pyrococcus horikoshii	0.0118	L-leucine	*pH 7.5, 65&Acirc;&deg;C, mutant F119A
+KM	Giardia intestinalis	0.0119	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant W155A
+KM	Escherichia coli	0.012	L-leucine	*mutant E292K, pH 7.8, 37&Acirc;&deg;C
+KM	Giardia intestinalis	0.0124	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K148A
+KM	Escherichia coli	0.013	L-leucine	*mutant E292S, pH 7.8, 37&Acirc;&deg;C
+KM	Giardia intestinalis	0.0132	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K141A
+KM	Escherichia coli	0.014	L-leucine	*mutant E292D, E292A, and E292F pH 7.8, 37&Acirc;&deg;C
+KM	Giardia intestinalis	0.0141	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K170A
+KM	Giardia intestinalis	0.0145	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K142A
+KM	Giardia intestinalis	0.0147	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K166A
+KM	Escherichia coli	0.015	L-leucine	*aminoacylation reaction, wild-type and mutant enzyme, pH 7.8, 37&Acirc;&deg;C
+KM	Escherichia coli	0.015	L-leucine	*wild-type enzyme and mutant E292Q, pH 7.8, 37&Acirc;&deg;C
+KM	Escherichia coli	0.015	L-leucine	*recombinant and native enzyme
+KM	Escherichia coli	0.015	L-leucine	*pH 7.5, 37&Acirc;&deg;C
+KM	Giardia intestinalis	0.0151	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K139A
+KM	Giardia intestinalis	0.0153	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant K144A
+KM	Giardia intestinalis	0.0157	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant E165A
+KM	Giardia intestinalis	0.0159	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant S153A
+KM	Giardia intestinalis	0.0162	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant E167A
+KM	Giardia intestinalis	0.0165	L-leucine	*pH 8.2, 45&Acirc;&deg;C, mutant D173A
+KM	Escherichia coli	0.018	L-leucine	*mutant T252Y
+KM	Escherichia coli	0.019	L-leucine	*37&Acirc;&deg;C, pH 7.8, mutant enzyme T252E; 37&Acirc;&deg;C, pH 7.8, mutant enzyme T25D
+KM	Escherichia coli	0.02	L-leucine	*37&Acirc;&deg;C, pH 7.8, native enzyme
+KM	Homo sapiens	0.021	L-leucine	*recombinant mitochondrial isozyme mutant, 37&Acirc;&deg;C
+KM	Homo sapiens	0.024	L-leucine	*wild-type, pH 7.6, 30&Acirc;&deg;C
+KM	Escherichia coli	0.039	L-leucine	*wild type enzyme, in 100 mM HEPES (pH 7.8), 10 mM MgCl2, at 37&Acirc;&deg;C
+KM	Homo sapiens	0.045	L-leucine	*recombinant mitochondrial isozyme, pH 7.6, 37&Acirc;&deg;C
+KM	Homo sapiens	0.0456	L-leucine	*pH 7.6, 37&Acirc;&deg;C, wild-type enzyme
+KM	Homo sapiens	0.05	L-leucine	*pH 7.6, 37&Acirc;&deg;C, mutant D399A
+KM	Escherichia coli	0.052	L-leucine	*ATP-diphosphate exchange reaction, wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KM	Homo sapiens	0.064	L-leucine	*37&Acirc;&deg;C, pH 7.6, ATP-diphosphate exchange, DELTAChcLeuRS (a C-terminal 89-amino acid truncated enzyme form)
+KM	Escherichia coli	0.069	L-leucine	*ATP-diphosphate exchange reaction, mutant enzyme, pH 7.8, 37&Acirc;&deg;C
+KM	Homo sapiens	0.075	L-leucine	*37&Acirc;&deg;C, pH 7.6, ATP-diphosphate exchange, full-length enzyme
+KM	Homo sapiens	0.13	L-leucine	*pH 7.5, 37&Acirc;&deg;C
+KM	Natrialba magadii	0.891	L-leucine	*isoform LeuRS2, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KM	Homo sapiens	0.9	L-leucine	*mutant D399A, pH 7.6, 30&Acirc;&deg;C
+KM	Escherichia coli	0.25	L-isoleucine	*pH 7.5, 37&Acirc;&deg;C
+KM	Aquifex aeolicus	0.698	L-isoleucine	*37&Acirc;&deg;C
+KM	Homo sapiens	2.04	L-isoleucine	*wild-type, pH 7.6, 30&Acirc;&deg;C
+KM	Escherichia coli	2.8	L-isoleucine	*ATP-diphosphate exchange reaction, mutant enzyme, pH 7.8, 37&Acirc;&deg;C
+KM	Homo sapiens	3.3	L-isoleucine	*mutant D399A, pH 7.6, 30&Acirc;&deg;C
+KM	Escherichia coli	3.5	L-isoleucine	*ATP-diphosphate exchange reaction, wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KM	Saccharomyces cerevisiae	8.713	L-isoleucine	*
+KM	Homo sapiens	14	L-isoleucine	*pH 7.5, 37&Acirc;&deg;C
+KM	Saccharomyces cerevisiae	0.01	Leu	*
+KM	Euglena gracilis	0.01	Leu	*ATP
+KM	Euglena gracilis	0.008	L-Leu	*
+KM	Phaseolus vulgaris	0.014	L-Leu	*
+KM	Saccharomyces cerevisiae	0.02	L-Leu	*
+KM	Euglena gracilis	0.02	L-Leu	*
+KM	Escherichia coli	0.05	L-Leu	*adenylyl (beta,gamma-imido)diphosphonate
+KM	Escherichia coli	0.05	L-Leu	*
+KM	Saccharomyces cerevisiae	0.0001	tRNALeu	*
+KM	Aquifex aeolicus	0.00011	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme K238A
+KM	Aquifex aeolicus	0.00014	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme G237D
+KM	Aquifex aeolicus	0.00018	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme L283F
+KM	Aquifex aeolicus	0.0002	tRNALeu	*37&Acirc;&deg;C, pH 7.8, wilde-type enzyme
+KM	Saccharomyces cerevisiae	0.0002	tRNALeu	*mutant R449K
+KM	Aquifex aeolicus	0.00024	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme K160N
+KM	Aquifex aeolicus	0.00025	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme Q234H
+KM	Aquifex aeolicus	0.00029	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme N152A
+KM	Saccharomyces cerevisiae	0.0003	tRNALeu	*
+KM	Aquifex aeolicus	0.00038	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme M159A
+KM	Saccharomyces cerevisiae	0.0004	tRNALeu	*
+KM	Aquifex aeolicus	0.0005	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme R94A
+KM	Saccharomyces cerevisiae	0.0005	tRNALeu	*mutant W445Y
+KM	Aquifex aeolicus	0.00051	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme A156V
+KM	Saccharomyces cerevisiae	0.0006	tRNALeu	*wild-type enzyme
+KM	Aquifex aeolicus	0.00061	tRNALeu	*37&Acirc;&deg;C, pH 7.8
+KM	Escherichia coli	0.0007	tRNALeu	*wild-type enzyme
+KM	Saccharomyces cerevisiae	0.0007	tRNALeu	*mutant R451K
+KM	Escherichia coli	0.00073	tRNALeu	*pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Phaseolus vulgaris	0.00085	tRNALeu	*substrate from E. coli
+KM	Escherichia coli	0.0009	tRNALeu	*mutant V338A
+KM	Mycobacterium tuberculosis	0.0011	tRNALeu	*mutant enzyme V910A, at pH 8.2 and 30&Acirc;&deg;C; wild type enzyme, at pH 8.2 and 30&Acirc;&deg;C
+KM	Escherichia coli	0.0012	tRNALeu	*mutant E292K, pH 7.8, 37&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	0.0012	tRNALeu	*mutant enzyme L964A, at pH 8.2 and 30&Acirc;&deg;C
+KM	Euglena gracilis	0.0013	tRNALeu	*
+KM	Mycobacterium tuberculosis	0.0013	tRNALeu	*mutant enzyme Q915K, at pH 8.2 and 30&Acirc;&deg;C
+KM	Homo sapiens	0.0014	tRNALeu	*37&Acirc;&deg;C, pH 7.6, tRNALeu from calf liver, leucylation, DELTAChcLeuRS (a C-terminal 89-amino acid truncated enzyme form)
+KM	Mycobacterium tuberculosis	0.0014	tRNALeu	*mutant enzyme V910W, at pH 8.2 and 30&Acirc;&deg;C
+KM	Escherichia coli	0.0015	tRNALeu	*aminoacylation reaction, wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KM	Euglena gracilis	0.0016	tRNALeu	*of Euglena gracilis
+KM	Escherichia coli	0.0016	tRNALeu	*recombinant and native enzyme
+KM	Pyrococcus horikoshii	0.00167	tRNALeu	*full-length enzyme, pH 7.5, 37&Acirc;&deg;C
+KM	Pyrococcus horikoshii	0.00179	tRNALeu	*truncation mutant DELTA911-913, pH 7.5, 37&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	0.0018	tRNALeu	*mutant enzyme R921K, at pH 8.2 and 30&Acirc;&deg;C
+KM	Homo sapiens	0.0019	tRNALeu	*37&Acirc;&deg;C, pH 7.6, tRNALeu from calf liver, leucylation, full-length enzyme
+KM	Mycobacterium tuberculosis	0.0019	tRNALeu	*mutant enzyme Q915A, at pH 8.2 and 30&Acirc;&deg;C
+KM	Escherichia coli	0.002	tRNALeu	*pH 7.5, 37&Acirc;&deg;C, recombinant LS-domain deletion mutant
+KM	Escherichia coli	0.0021	tRNALeu	*mutant E292A, pH 7.8, 37&Acirc;&deg;C
+KM	Escherichia coli	0.0024	tRNALeu	*aminoacylation reaction, mutant enzyme, pH 7.8, 37&Acirc;&deg;C
+KM	Escherichia coli	0.0024	tRNALeu	*mutant E292S, pH 7.8, 37&Acirc;&deg;C
+KM	Escherichia coli	0.0025	tRNALeu	*wild-type enzyme, pH 7.8, 37&Acirc;&deg;C
+KM	Escherichia coli	0.0025	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme T25D
+KM	Phaseolus vulgaris	0.0026	tRNALeu	*unfractionated substrate of E. coli
+KM	Escherichia coli	0.0026	tRNALeu	*37&Acirc;&deg;C, pH 7.8, native enzyme
+KM	Escherichia coli	0.0031	tRNALeu	*mutant E292Q, pH 7.8, 37&Acirc;&deg;C
+KM	Escherichia coli	0.0033	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme T252E
+KM	Aquifex aeolicus	0.0035	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme V286stop
+KM	Giardia intestinalis	0.0035	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant K142A
+KM	Giardia intestinalis	0.0038	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant Q154A
+KM	Escherichia coli	0.004	tRNALeu	*mutants E292D and E292F, pH 7.8, 37&Acirc;&deg;C
+KM	Giardia intestinalis	0.004	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant S153A
+KM	Giardia intestinalis	0.0049	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant E167A
+KM	Giardia intestinalis	0.005	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant K148A
+KM	Giardia intestinalis	0.0051	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant K141A; pH 8.2, 45&Acirc;&deg;C, mutant K152A; pH 8.2, 45&Acirc;&deg;C, mutant K170A
+KM	Giardia intestinalis	0.0052	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant K144A
+KM	Mycobacterium tuberculosis	0.0052	tRNALeu	*mutant enzyme R921A, at pH 8.2 and 30&Acirc;&deg;C
+KM	Giardia intestinalis	0.0056	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, recombinant mutant T341A
+KM	Giardia intestinalis	0.0057	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, recombinant mutant D444A
+KM	Giardia intestinalis	0.0059	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant D173A
+KM	Giardia intestinalis	0.0059	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, recombinant mutant T341R
+KM	Giardia intestinalis	0.0061	tRNALeu	*wild-type, 45&Acirc;&deg;C
+KM	Giardia intestinalis	0.0071	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant W155A
+KM	Giardia intestinalis	0.008	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, recombinant mutant R338A
+KM	Giardia intestinalis	0.0081	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant K166A
+KM	Giardia intestinalis	0.0082	tRNALeu	*mutant lacking residues S295 to L304, 45&Acirc;&deg;C
+KM	Giardia intestinalis	0.0083	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant E165A
+KM	Mycobacterium tuberculosis	0.0083	tRNALeu	*mutant enzyme L949A, at pH 8.2 and 30&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	0.0092	tRNALeu	*mutant enzyme V910P, at pH 8.2 and 30&Acirc;&deg;C
+KM	Giardia intestinalis	0.0093	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, recombinant mutant DELTAESI/DELTAHsESI
+KM	Aquifex aeolicus	0.0095	tRNALeu	*37&Acirc;&deg;C, pH 7.8, mutant enzyme Q269stop
+KM	Giardia intestinalis	0.0101	tRNALeu	*mutant lacking residues Q281 to D294, 45&Acirc;&deg;C
+KM	Giardia intestinalis	0.0114	tRNALeu	*pH 8.2, 45&Acirc;&deg;C, mutant K139A
+KM	Homo sapiens	0.014	tRNALeu	*recombinant mitochondrial isozyme, pH 7.6, 37&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	0.0174	tRNALeu	*mutant enzyme L964K, at pH 8.2 and 30&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	0.0273	tRNALeu	*mutant enzyme L949K, at pH 8.2 and 30&Acirc;&deg;C
+KM	Aquifex aeolicus	0.096	L-norvaline	*37&Acirc;&deg;C
+KM	Escherichia coli	0.045	3'-dATP	*
+KM	Saccharomyces cerevisiae	0.167	norvaline	*
+KM	Escherichia coli	0.065	tubercidin 5'-triphosphate	*
+KM	Giardia intestinalis	0.0092	L-isoleucyl-tRNALeu	*wild-type, pH 7.5, 37&Acirc;&deg;C
+KM	Giardia intestinalis	0.0122	L-isoleucyl-tRNALeu	*mutant Y515A, pH 7.5, 37&Acirc;&deg;C
+KM	Giardia intestinalis	0.0147	L-isoleucyl-tRNALeu	*mutant Y520H, pH 7.5, 37&Acirc;&deg;C
+KM	Giardia intestinalis	0.0173	L-isoleucyl-tRNALeu	*mutant Y520A, pH 7.5, 37&Acirc;&deg;C
+KM	Escherichia coli	0.055	adenosine 5'-O-(3-thiotriphosphate)	*
+KM	Escherichia coli	1	8-bromoadenosine 5'-triphosphate	*
+KM	Neurospora crassa	1	8-bromoadenosine 5'-triphosphate	*3'-dATP, tubercidin triphosphate
+KM	Escherichia coli	0.16	8-azaadenosine 5'-triphosphate	*
+KM	Escherichia coli	1.034	L-didehydroleucine	*mutant T252Y
+KM	Escherichia coli	2.245	L-oxonorvaline	*mutant T252Y
+KM	Escherichia coli	0.07	8-Methylaminoadenosine 5'-triphosphate	*
+KM	Triticum aestivum	-999	more	*
+KM	Tetrahymena pyriformis	-999	more	*
+KM	Aquifex aeolicus	-999	more	*kinetics, wild-type and mutant enzymes
+KM	Escherichia coli	-999	more	*kinetics, wild-type and mutant enzymes
+KM	Haloferax volcanii	-999	more	*substrate specificity with diverse tRNALeu isoacceptors and mutants
+KM	Aquifex aeolicus	-999	more	*KM-values for hydrolytic editing of mischarged Ile-tRNALeu(GAG)
+KM	Homo sapiens	-999	more	*turnover numbers for tRNALeu(UUR) variants
+KM	Aquifex aeolicus	-999	more	*kinetics of recombinant trunacted mutants, overview
+KM	Escherichia coli	-999	more	*kinetics of recombinant His-tagged wild-type and mutant enzymes
+KM	Escherichia coli	-999	more	*kinetics of chimeric mutants
+KM	Escherichia coli	-999	more	*kinetics of wild-type and mutant enzymes, overview
+KM	Methanothermobacter thermautotrophicus	-999	more	*prolyl-tRNA synthetase, ProRS, and LeuRS interaction kinetics
+KM	Saccharomyces cerevisiae	-999	more	*kinetics of recombinant wild-type and mutant enzymes
+KM	Aquifex aeolicus	-999	more	*kinetics of mischarging and post-transfer editing activities, overview
+KM	Giardia intestinalis	-999	more	*kcat/Km: 1 (ATP, wild-type), 1 (Leu, wild-type), 0.43 (ATP, mutant K587A), 0.42 (Leu, mutant K587A), 0.57 (ATP, mutant K588A), 0.37 (Leu, mutant K588A), 0.91 (ATP, mutant D603A), 0.94 (Leu, mutant D603A), 0.98 (ATP, mutant K606R), 0.99 (Leu, mutant K606R), 0.9 (ATP, mutant K606E), 0.99 (Leu, mutant K606E), 0.85 (ATP, mutant K606L), 0.98 (Leu, mutant K606L), 0.86 (ATP, mutant K606D), 0.83 (Leu, mutant K606D)
+KM	Giardia intestinalis	-999	more	*steady-state leucine activation and aminoacylation kinetics of GlLeuRS and its mutants, overview
+KM	Thermus thermophilus	-999	more	*equilibrium kinetics of wild-type and mutant enzymes, overview
+KM	Homo sapiens	-999	more	*kinetic constants of wild-type and D399A mutant of LeuRS in amino acid activation reaction with different amino acids, overview. Cytoplasmic LeuRS overexpressed in Escherichia coli exhibits the same kcat values as the one overexpressed in insect cells using in vitro transcribed tRNA
+KM	Escherichia coli	-999	more	*dissociation constants of LeuRS and mutants from Escherichia coli for their cognate tRNAs. Reaction kinetics of EcLeuRS for Mycoplasma mobile MmtRNAUAALeu and mutant variants, kinetic constants of EcLeuRS, chimeric LeuRS and their mutants for tRNALeu in aminoacylation reaction and for AMP formation in the presence of Nva and MmtRNACAA, detailed overview
+KM	Homo sapiens	-999	more	*dissociation constants of LeuRS and mutants from human cytoplasm for their cognate tRNAs
+KM	Escherichia coli	-999	more	*determination of dissociation constants of Zn2+ from LeuRS enzymes
+KM	Escherichia coli	-999	more	*kinetic origin of substrate specificity in post-transfer editing by leucyl-tRNA synthetase, single-turnover measurements, overview
+KM	Homo sapiens	-999	more	*kinetics of aminoacylation reaction of recombinant wild-type and mutant enzymes, and apparent kinetic parameters for hydrolytic editing of mischarged Met-tRNALeu, overview
+KM	Escherichia coli	0.000018	tRNALeuUUR	*human derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant L570K
+KM	Pyrococcus horikoshii	0.00012	tRNAGAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant mutant R703A
+KM	Escherichia coli	0.00016	tRNALeuUUR	*human derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Homo sapiens	0.0002	tRNALeuCUN	*Escherichia coli derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Aquifex aeolicus	0.0003	tRNAGAGLeu	*pH 7.8, 65&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Aquifex aeolicus	0.0003	tRNALeu from Aquifex aeolicus	*aminoacylation reaction, pH 7.8, 60&Acirc;&deg;C
+KM	Aquifex aeolicus	0.0003	tRNALeuGAG	*pH 6.8, 65&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Aquifex aeolicus	0.00031	tRNAGAGLeu	*pH 7.8, 65&Acirc;&deg;C, recombinant mutant R98A
+KM	Aquifex aeolicus	0.00032	tRNALeu(GAG)	*65&Acirc;&deg;C, recombinant His6-tagged enzyme
+KM	Aquifex aeolicus	0.00038	tRNALeu from Aquifex aeolicus	*aminoacylation reaction, pH 7.8, 37&Acirc;&deg;C
+KM	Aquifex aeolicus	0.00039	tRNAGAGLeu	*pH 7.8, 65&Acirc;&deg;C, recombinant mutant R98E
+KM	Escherichia coli	0.0004	tRNALeuCUN	*Escherichia coli derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Pyrococcus horikoshii	0.00044	tRNAGAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant mutant K692A
+KM	Aquifex aeolicus	0.00045	tRNALeu(GAG)	*65&Acirc;&deg;C, wild-type enzyme
+KM	Pyrococcus horikoshii	0.00052	tRNAGAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant mutant K698A
+KM	Haloferax volcanii	0.00052	tRNALeuA73	*wild-type tRNALeu, pH 7.5, 37&Acirc;&deg;C
+KM	Pyrococcus horikoshii	0.0006	tRNAGAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant mutant K699A
+KM	Pyrococcus horikoshii	0.00065	tRNAGAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant mutant K696A
+KM	Homo sapiens	0.00074	tRNACAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Aquifex aeolicus	0.00075	tRNAGAGLeu	*pH 7.8, 65&Acirc;&deg;C, recombinant mutant R94A
+KM	Aquifex aeolicus	0.00076	tRNALeu from Escherichia coli	*aminoacylation reaction, pH 7.8, 37&Acirc;&deg;C
+KM	Aquifex aeolicus	0.00081	tRNAGAGLeu	*pH 7.8, 65&Acirc;&deg;C, recombinant mutant R94A/R98A; pH 7.8, 65&Acirc;&deg;C, recombinant mutant R94E
+KM	Aquifex aeolicus	0.00088	tRNAGAGLeu	*pH 7.8, 65&Acirc;&deg;C, recombinant mutant R94E/R98E
+KM	Aquifex aeolicus	0.0012	tRNALeuA35G	*37&Acirc;&deg;C, pH 7.8
+KM	Aquifex aeolicus	0.0013	tRNALeu from Escherichia coli	*recombinant enzyme complex, 55&Acirc;&deg;C
+KM	Escherichia coli	0.0013	tRNALeu(UAA)	*wild-type enzyme, aminoacylation
+KM	Escherichia coli	0.0013	tRNALeu(UAA)	*pH 7.5, 37&Acirc;&deg;C, wild-type enzyme
+KM	Aquifex aeolicus	0.0014	tRNALeu from Aquifex aeolicus	*recombinant enzyme complex, 55&Acirc;&deg;C
+KM	Haloferax volcanii	0.0014	tRNASer mutant	*pH 7.5, 37&Acirc;&deg;C
+KM	Aquifex aeolicus	0.0015	tRNALeu from Escherichia coli	*aminoacylation reaction, pH 7.8, 60&Acirc;&deg;C
+KM	Escherichia coli	0.0015	tRNALeu(UAA)	*mutant enzyme T252V, aminoacylation
+KM	Homo sapiens	0.0015	tRNALeuUUR	*human derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant K600L
+KM	Mycoplasma mobile	0.0015	tRNAUAALeu	*pH 7.8, 30&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Escherichia coli	0.0016	tRNAUAALeu	*pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Homo sapiens	0.0017	tRNACAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant mutant R668A
+KM	Escherichia coli	0.0017	tRNALeuCUN	*Escherichia coli derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant L570F
+KM	Escherichia coli	0.0017	tRNALeu(UAA)	*mutant enzyme T252S, aminoacylation
+KM	Escherichia coli	0.0017	tRNALeuUUR	*human derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant L570F
+KM	Mycoplasma mobile	0.0017	tRNAUAALeu	*pH 7.8, 30&Acirc;&deg;C, recombinant mutant K452A
+KM	Homo sapiens	0.0018	tRNALeuCUN	*Escherichia coli derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutants K600L and K600R
+KM	Mycoplasma mobile	0.0019	tRNAUAALeu	*pH 7.8, 30&Acirc;&deg;C, recombinant mutant K452E
+KM	Escherichia coli	0.002	Ile-tRNALeu	*mutant enzyme R185E, in 100 mM HEPES (pH 7.8), 10 mM MgCl2, at 37&Acirc;&deg;C
+KM	Pyrococcus horikoshii	0.002	tRNAGAGLeu	*pH 7.8, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Escherichia coli	0.002	tRNALeuCUN	*Escherichia coli derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant L570R
+KM	Escherichia coli	0.0021	Ile-tRNALeu	*wild type enzyme, in 100 mM HEPES (pH 7.8), 10 mM MgCl2, at 37&Acirc;&deg;C
+KM	Escherichia coli	0.0022	tRNAGAGLeu	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant R668A/R672A; pH 7.5, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Homo sapiens	0.0022	tRNALeuCUN	*Escherichia coli derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant K600F
+KM	Escherichia coli	0.0022	tRNALeu(UAA)	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme T248V
+KM	Mycoplasma mobile	0.0023	tRNAUAALeu	*pH 7.8, 30&Acirc;&deg;C, recombinant mutant K456A
+KM	Escherichia coli	0.0024	Ile-tRNALeu	*mutant enzyme R286E, in 100 mM HEPES (pH 7.8), 10 mM MgCl2, at 37&Acirc;&deg;C
+KM	Escherichia coli	0.0024	tRNAGAGLeu	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant K671A; pH 7.5, 37&Acirc;&deg;C, recombinant mutant R672A
+KM	Escherichia coli	0.0024	tRNALeu(UAA)	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme T247S/T248S
+KM	Escherichia coli	0.0025	Ile-tRNALeu	*mutant enzyme E184R, in 100 mM HEPES (pH 7.8), 10 mM MgCl2, at 37&Acirc;&deg;C
+KM	Mycoplasma mobile	0.0025	tRNAUAALeu	*pH 7.8, 30&Acirc;&deg;C, recombinant mutant K456E
+KM	Escherichia coli	0.0026	tRNALeu(UAA)	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme T247V
+KM	Escherichia coli	0.0028	tRNAGAGLeu	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant R668A; pH 7.5, 37&Acirc;&deg;C, recombinant mutant R672E
+KM	Escherichia coli	0.0028	tRNALeu(UAA)	*mutant enzyme T252A, aminoacylation
+KM	Natrialba magadii	0.00335	Natrialba magadii tRNALeu(GAG)	*isoform LeuRS2, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KM	Escherichia coli	0.0036	tRNALeu(UAA)	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme T247A/T248A
+KM	Homo sapiens	0.004	tRNALeuUUR	*human derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant K600R; human derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Escherichia coli	0.0044	tRNALeu(UAA)	*pH 7.5, 37&Acirc;&deg;C, mutant enzyme T247V/T248V
+KM	Haloferax volcanii	0.0047	tRNALeuU73	*tRNALeu isoacceptor, pH 7.5, 37&Acirc;&deg;C
+KM	Escherichia coli	0.0054	tRNAGAGLeu	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant R668E
+KM	Escherichia coli	0.0058	tRNAGAGLeu	*pH 7.5, 37&Acirc;&deg;C, recombinant mutant R668E/R672E
+KM	Homo sapiens	0.006	tRNALeuUUR	*human derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant K600F
+KM	Mycoplasma mobile	0.0075	tRNALeu(GAG)	*in 100 mM Tris-HCl (pH 7.8), 30 mM KCl, 12 mM MgCl2, 5 mM dithiothreitol, at 30&Acirc;&deg;C
+KM	Mycoplasma mobile	0.0076	tRNALeu(UAG)	*in 100 mM Tris-HCl (pH 7.8), 30 mM KCl, 12 mM MgCl2, 5 mM dithiothreitol, at 30&Acirc;&deg;C
+KM	Natrialba magadii	0.00773	Natrialba magadii tRNALeu(GAG)	*isoform LeuRS1, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KM	Aquifex aeolicus	0.011	tRNALeuA73G	*37&Acirc;&deg;C, pH 7.8
+KM	Natrialba magadii	0.01101	Natrialba magadii tRNALeu(CAA)	*isoform LeuRS1, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KM	Natrialba magadii	0.01251	L-leucyl-Pyrococcus horikoshii tRNALeu(GAG)	*isoform LeuRS1, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KM	Natrialba magadii	0.01313	Natrialba magadii tRNALeu(CAA)	*isoform LeuRS2, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KM	Natrialba magadii	0.01643	L-leucyl-Pyrococcus horikoshii tRNALeu(GAG)	*isoform LeuRS2, in 20 mM Tris-HCl, pH 9.0, 3.5 M KCl, 30 mM MgCl2, 1 mM dithiohtreitol, at 40&Acirc;&deg;C
+KM	Homo sapiens	0.0179	tRNALeu(UUR)	*
+KM	Escherichia coli	0.025	tRNALeuCUN	*Escherichia coli derived substrate, pH 7.0, 37&Acirc;&deg;C, recombinant mutant L570K
+MW	Escherichia coli	-999	*	*a series of molecular modeling studies including homology modeling and automated docking simulations are carried out. A 3D structure of Escherichia coli LeuRS is constructed via homology modling using the X-ray structure of Thermus thermophilus as a template because the LeuRS structure of Escherichia coli is not available from X-ray or NMR studies
+MW	Aquifex aeolicus	33500	*	*recombinant beta-subunit, gel filtration
+MW	Escherichia coli	34000	*	*x * 34000, N-terminal peptide after cleavage of peptide bond E292-A293, SDS-PAGE, x * 63000, C-terminal peptide after cleavage of peptide bond E292-A293, SDS-PAGE, x * 97300, recombinant wild-type enzyme, SDS-PAGE
+MW	Aquifex aeolicus	35000	*	*heterodimer in quartenary structure, 2 * 35000, leuS gene product or beta-subunit, + 2 * 65000, leuS gene product or alpha-subunit, SDS-PAGE
+MW	Aquifex aeolicus	35000	*	*heterodimer in quartenary structure, 2 * 35000, leuS gene product, + 2 * 65000, leuS gene product, SDS-PAGE
+MW	Triticum aestivum	63000	*	*2 * 63000, gel electrophoresis, after dissociation, the enzyme exhibits an equilibrium between an active dimeric form and an inactive monomeric form
+MW	Escherichia coli	63000	*	*x * 34000, N-terminal peptide after cleavage of peptide bond E292-A293, SDS-PAGE, x * 63000, C-terminal peptide after cleavage of peptide bond E292-A293, SDS-PAGE, x * 97300, recombinant wild-type enzyme, SDS-PAGE
+MW	Aquifex aeolicus	65000	*	*heterodimer in quartenary structure, 2 * 35000, leuS gene product or beta-subunit, + 2 * 65000, leuS gene product or alpha-subunit, SDS-PAGE
+MW	Aquifex aeolicus	65000	*	*heterodimer in quartenary structure, 2 * 35000, leuS gene product, + 2 * 65000, leuS gene product, SDS-PAGE
+MW	Aquifex aeolicus	74000	*	*1 * 74000, alpha-subunit, + 1 * 33500, beta-subunit, SDS-PAGE
+MW	Tetrahymena pyriformis	90000	*	*gel filtration, sucrose density gradient centrifugation
+MW	Escherichia coli	97300	*	*x * 34000, N-terminal peptide after cleavage of peptide bond E292-A293, SDS-PAGE, x * 63000, C-terminal peptide after cleavage of peptide bond E292-A293, SDS-PAGE, x * 97300, recombinant wild-type enzyme, SDS-PAGE
+MW	Escherichia coli	98500	*	*x * 98500, recombinant enzyme, SDS-PAGE
+MW	Tetrahymena pyriformis	100000	*	*1 * 100000, SDS-PAGE
+MW	Euglena gracilis	100000	*	*gel filtration
+MW	Euglena gracilis	100000	*	*1 * 100000, chloroplastic enzyme, SDS-PAGE
+MW	Aquifex aeolicus	100000	*	*complexed recombinant leuS' and leuS gene product, i.e. alpha/beta-subunit complex, gel filtration
+MW	Aquifex aeolicus	100000	*	*complexed recombinant leuS' and leuS gene product, gel filtration
+MW	Homo sapiens	101000	*	*recombinant enzyme, gel filtration
+MW	Saccharomyces cerevisiae	101900	*	*calculation from nucleotide sequence
+MW	Natrialba magadii	102200	*	*x * 102200, isoform LeuRS1, calculated from amino acid sequence
+MW	Triticum aestivum	105000	*	*gel filtration
+MW	Aquifex aeolicus	107500	*	*recombinant enzyme, gel filtration
+MW	Aquifex aeolicus	107600	*	*electrospray mass spectrometry under native conditions
+MW	Natrialba magadii	107600	*	*x * 107600, isoform LeuRS2, calculated from amino acid sequence
+MW	Mycobacterium tuberculosis	108000	*	*x * 108000, calculated from amino acid sequence
+MW	Pyrococcus horikoshii	113000	*	*x * 113000, calculated from sequence
+MW	Euglena gracilis	116000	*	*gel filtration
+MW	Euglena gracilis	116000	*	*1 * 116000, SDS-PAGE
+MW	Euglena gracilis	116000	*	*1 * 116000, cytoplasmic enzyme, SDS-PAGE
+MW	Saccharomyces cerevisiae	119000	*	*equilibrium sedimentation method
+MW	Phaseolus vulgaris	120000	*	*1 * 120000, chloroplastic enzyme, SDS-PAGE of denatured enzyme
+MW	Phaseolus vulgaris	122000	*	*1 * 122000, urea-SDS-PAGE
+MW	Cyberlindnera jadinii	128000	*	*1 * 128000, SDS-PAGE
+MW	Cricetulus griseus	129000	*	*x * 129000 + x * ?, SDS-PAGE, the 129000 MW polypeptide is a component of the high-MW aminoacyl-tRNA synthetase complex (MW 1200000, gel filtration)
+MW	Ovis aries	129000	*	*x * 129000, SDS-PAGE component of the high-MW multienzyme complex
+MW	Phaseolus vulgaris	130000	*	*1 * 130000, cytoplasmic enzyme, SDS-PAGE of denatured enzyme
+MW	Phaseolus vulgaris	135000	*	*gel filtration
+MW	Phaseolus vulgaris	135000	*	*chloroplastic enzyme; gel filtration
+MW	Homo sapiens	135000	*	*x * 135000, SDS-PAGE
+MW	Homo sapiens	135000	*	*gel filtration
+MW	Cyberlindnera jadinii	145000	*	*disc gel electrophoresis
+MW	Cyberlindnera jadinii	150000	*	*gel filtration
+MW	Ovis aries	150000	*	*HPLC gel filtration, component of the high-MW enzyme complex
+MW	Phaseolus vulgaris	200000	*	*cytoplasmic enzyme, gel filtration
+MW	Drosophila sp. (in: Insecta)	1200000	*	*gel filtration, multienzyme complex
+MW	Cricetulus griseus	1200000	*	*containing 9 amino acyl-tRNA synthetases specific for Glu, Pro, Ile, Leu, Gln, Lys, Arg and Asp; gel filtration, multienzyme complex
+PATH	*	Aminoacyl-tRNA biosynthesis	*	*
+PATH	*	leucine metabolism	*	*
+PATH	*	tRNA charging	*	*
+SA	Aquifex aeolicus	-999	*	*activiy of several enzyme mutants and mixed mutants, containing subparts of the Escherichia coli enzyme
+SA	Escherichia coli	-999	*	*activiy of several enzyme mutants and mixed mutants, containing subparts of the Escherichia coli enzyme
+SA	Cricetulus griseus	-999	*	*
+SA	Escherichia coli	-999	*	*aminoacid activation activities of wild-type and mutant enzymes
+SA	Escherichia coli	-999	*	*
+SA	Homo sapiens	-999	*	*
+SA	Pyrococcus horikoshii	-999	*	*activity and specificity of several truncation and deletion mutants, overview
+SA	Escherichia coli	-999	*	*
+SA	Escherichia coli	-999	*	*hydrolytic post-transfer editing activity of wild-type and D345A mutant LeuRS CP1 domains, activities of truncation mutants, overview
+SA	Saccharomyces cerevisiae	-999	*	*
+SA	Aquifex aeolicus	-999	*	*mischarging and post-transfer editing activities, overview
+SA	Cricetulus griseus	0.0068	*	*
+SA	Homo sapiens	0.011	*	*recombinant mitochondrial isozyme mutant in cell lysate
+SA	Escherichia coli	0.024	*	*mutant A293D, in crude enzyme extract of Escherichia coli strain TG1
+SA	Aquifex aeolicus	0.047	*	*purified recombinant wild-type enzyme, with substrate tRNALeu from Escherichia coli
+SA	Escherichia coli	0.05	*	*recombinant mutant E292K, pH 7.8, 37&deg;C
+SA	Escherichia coli	0.12	*	*recombinant mutant E292S, pH 7.8, 37&deg;C
+SA	Homo sapiens	0.128	*	*purified recombinant mitochondrial isozyme mutant
+SA	Escherichia coli	0.13	*	*mutant A293F, in crude enzyme extract of Escherichia coli strain TG1
+SA	Escherichia coli	0.14	*	*mutants A293I, A293G, and A293Y, in crude enzyme extract of Escherichia coli strain TG1
+SA	Escherichia coli	0.14	*	*recombinant mutants E292F and E292A, pH 7.8, 37&deg;C
+SA	Escherichia coli	0.16	*	*recombinant mutant E292Q, pH 7.8, 37&deg;C
+SA	Escherichia coli	0.17	*	*recombinant mutant E292D, pH 7.8, 37&deg;C
+SA	Escherichia coli	0.2	*	*mutant A293R, in crude enzyme extract of Escherichia coli strain TG1
+SA	Aquifex aeolicus	0.235	*	*purified recombinant wild-type enzyme, with substrate tRNALeu from Aquifex aeolicus
+SA	Escherichia coli	0.27	*	*mutant T252E, in crude enzyme extract of Escherichia coli strain TG1
+SA	Escherichia coli	0.28	*	*wild-type enzyme, in crude enzyme extract of Escherichia coli strain TG1
+SA	Escherichia coli	0.29	*	*mutant T252E/M328K, in crude enzyme extract of Escherichia coli strain TG1
+SA	Escherichia coli	0.3	*	*mutant M328K, in crude enzyme extract of Escherichia coli strain TG1
+SA	Neurospora crassa	0.325	*	*
+SA	Escherichia coli	0.35	*	*recombinant wild-type enzyme, pH 7.8, 37&deg;C
+SA	Escherichia coli	0.79	*	*recombinant CP1 domain mutant
+SA	Phaseolus vulgaris	0.94	*	*
+SA	Aquifex aeolicus	1.17	*	*
+SA	Euglena gracilis	1.233	*	*
+SA	Escherichia coli	1.3	*	*purified recombinant wild-type enzyme, with substrate tRNALeu from Aquifex aeolicus
+SA	Euglena gracilis	1.34	*	*
+SA	Escherichia coli	1.5	*	*about, wild-type enzyme
+SA	Escherichia coli	1.5	*	*purified recombinant wild-type enzyme, with substrate tRNALeu from Escherichia coli
+SA	Escherichia coli	1.54	*	*purified recombinant enzyme
+SA	Phaseolus vulgaris	1.55	*	*
+SA	Escherichia coli	1.69	*	*purified native enzyme
+SA	Saccharomyces cerevisiae	1.804	*	*
+SA	Escherichia coli	2.8	*	*purified recombinant enzyme
+SA	Cyberlindnera jadinii	3.92	*	*

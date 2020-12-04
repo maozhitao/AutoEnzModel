@@ -1,0 +1,34 @@
+KCAT	Cutibacterium acnes	-999	more	*[11,11-2H2] linoleic acid, 0.83, wild-type PAI; (11S-2H) linoleic acid, 3.51, wild-type PAI
+KCAT	Cutibacterium acnes	0.16	linoleic acid	*mutant R88S/F193A
+KCAT	Cutibacterium acnes	0.33	linoleic acid	*mutant F193A
+KCAT	Cutibacterium acnes	2.93	linoleic acid	*mutant R88S
+KCAT	Cutibacterium acnes	4.37	linoleic acid	*wild-type PAI
+KCAT	Ptilota filicina	11.6	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoate	*assuming one catalytic site per enzyme molecule
+KCAT	Ptilota filicina	41	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoate	*pH 7.2, assuming one catalytic site per enzyme molecule
+KM	Cutibacterium acnes	0.00482	linoleic acid	*wild-type PAI
+KM	Cutibacterium acnes	0.02577	linoleic acid	*mutant R88S/F193A
+KM	Cutibacterium acnes	0.03794	linoleic acid	*mutant F193A
+KM	Cutibacterium acnes	0.0657	linoleic acid	*mutant R88S
+KM	Ptilota filicina	0.0255	(5Z,8Z,11Z,14Z)-eicosatetraenoate	*pH 7, 22&Acirc;&deg;C
+KM	Ptilota filicina	0.0399	(5Z,8Z,11Z,14Z)-eicosatetraenoate	*pH 7.2
+KM	Ptilota filicina	0.0096	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoate	*pH 7, 22&Acirc;&deg;C
+KM	Ptilota filicina	0.0328	(5Z,8Z,11Z,14Z,17Z)-eicosapentaenoate	*pH 7.2
+KM	Ptilota filicina	0.15	(6Z,9Z,12Z)-octadecatrienoate	*pH 7.2
+KM	Ptilota filicina	0.15	(6Z,9Z,12Z)-octadecatrienoate	*
+KM	Ptilota filicina	0.0152	(5Z,8Z,11Z,14Z)-eicosatetraenoyl-N-ethanolamide	*pH 9, 22&Acirc;&deg;C
+KM	Ptilota filicina	0.0175	(5Z,8Z,11Z,14Z)-eicosatetraenoyl-N-ethanolamide	*pH 7, 22&Acirc;&deg;C
+KM	Ptilota filicina	0.0019	(4Z,7Z,10Z,13Z,16Z,19Z)-docosahexenoate	*pH 7, 22&Acirc;&deg;C
+KM	Ptilota filicina	0.017	(7Z,10Z,13Z,16Z)-docosatetraenoate	*pH 7, 22&Acirc;&deg;C
+KM	Ptilota filicina	0.0528	(5Z,8Z,11Z)-eicosatrienoate	*pH 7, 22&Acirc;&deg;C
+KM	Ptilota filicina	-999	more	*study of the effect of the pH on kinetic parameters with several substrates
+KM	Cutibacterium acnes	-999	more	*[11,11-2H2] linoleic acid, 0.00228, wild-type PAI; (11S-2H) linoleic acid, 0.00408, wild-type PAI
+MW	Ptilota filicina	53600	*	*2 * 61000, SDS-PAGE, 2 * 55900, sequence calculation including the signal peptide, 2 * 53600, sequence calculation without the signal peptide
+MW	Ptilota filicina	55900	*	*2 * 61000, SDS-PAGE, 2 * 55900, sequence calculation including the signal peptide, 2 * 53600, sequence calculation without the signal peptide
+MW	Ptilota filicina	58119	*	*3 * 61000, SDS-PAGE, 3 * 58119, mass spectrometry
+MW	Ptilota filicina	61000	*	*3 * 61000, SDS-PAGE, 3 * 58119, mass spectrometry
+MW	Ptilota filicina	61000	*	*x * 61000, SDS-PAGE
+MW	Ptilota filicina	61000	*	*2 * 61000, SDS-PAGE, 2 * 55900, sequence calculation including the signal peptide, 2 * 53600, sequence calculation without the signal peptide
+MW	Ptilota filicina	125000	*	*sedimentation equilibrium utracentrifugation
+MW	Ptilota filicina	174000	*	*gel filtration
+SA	Ptilota filicina	-999	*	*
+SA	Ptilota filicina	1.06	*	*pH 7.2, arachidonate as substrate

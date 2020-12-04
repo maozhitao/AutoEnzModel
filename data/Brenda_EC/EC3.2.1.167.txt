@@ -1,0 +1,44 @@
+KCAT	Lactobacillus brevis	18.5	Baicalin	*recombinant His-tagged enzyme, pH 5.0, 37&Acirc;&deg;C
+KCAT	Lactobacillus brevis	21.3	Baicalin	*native enzyme, pH 5.0, 37&Acirc;&deg;C
+KCAT	Scutellaria baicalensis	0.011	5,6,7-trihydroxyflavone 7-O-beta-D-glucoronate	*pH 6.5, 28&Acirc;&deg;C, mutant enzyme E329A
+KCAT	Scutellaria baicalensis	0.135	5,6,7-trihydroxyflavone 7-O-beta-D-glucoronate	*pH 6.5, 28&Acirc;&deg;C, mutant enzyme E212A
+KCAT	Scutellaria baicalensis	0.77	5,6,7-trihydroxyflavone 7-O-beta-D-glucoronate	*pH 6.5, 28&Acirc;&deg;C, mutant enzyme Y281A
+KCAT	Scutellaria baicalensis	639	5,6,7-trihydroxyflavone 7-O-beta-D-glucoronate	*pH 6.5, 28&Acirc;&deg;C, wild-type enzyme
+KCAT	Lactobacillus brevis	31.8	4-nitrophenyl beta-D-glucuronide	*recombinant His-tagged enzyme, pH 5.0, 37&Acirc;&deg;C
+KCAT	Lactobacillus brevis	53.7	4-nitrophenyl beta-D-glucuronide	*native enzyme, pH 5.0, 37&Acirc;&deg;C
+KCAT	Lactobacillus brevis	6.37	wogonoside	*recombinant His-tagged enzyme, pH 5.0, 37&Acirc;&deg;C
+KM	Scutellaria baicalensis	0.0097	5,6,7-trihydroxyflavone 7-O-beta-D-glucoronate	*pH 6.5, 28&deg;C, mutant enzyme E329A
+KM	Scutellaria baicalensis	0.0098	5,6,7-trihydroxyflavone 7-O-beta-D-glucoronate	*pH 6.5, 28&deg;C
+KM	Scutellaria baicalensis	0.0103	5,6,7-trihydroxyflavone 7-O-beta-D-glucoronate	*pH 6.5, 28&deg;C, mutant enzyme E212A
+KM	Scutellaria baicalensis	0.0121	5,6,7-trihydroxyflavone 7-O-beta-D-glucoronate	*pH 6.5, 28&deg;C, wild-type enzyme
+KM	Scutellaria baicalensis	0.027	5,6,7-trihydroxyflavone 7-O-beta-D-glucoronate	*pH 6.5, 28&deg;C, mutant enzyme Y281A
+KM	Scutellaria baicalensis	0.0307	5,7-dihydroxy-8-methoxyflavone-7-O-beta-D-glucoronate	*pH 6.5, 28&deg;C
+KM	Scutellaria baicalensis	0.038	5,6,7-trihydroxyflavone 7-O-beta-D-glucoronate	*
+KM	Scutellaria baicalensis	0.0391	5,7-dihydroxy-6-methoxyflavone-7-O-beta-D-glucoronate	*pH 6.5, 28&deg;C
+KM	Lactobacillus brevis	0.154	4-nitrophenyl beta-D-glucuronide	*native enzyme, pH 5.0, 37&deg;C
+KM	Lactobacillus brevis	0.156	4-nitrophenyl beta-D-glucuronide	*recombinant His-tagged enzyme, pH 5.0, 37&deg;C
+KM	Escherichia coli	0.19	5,6,7-trihydroxyflavone-7-beta-D-glucuronide	*free enzyme, at pH 7.0 and 37&deg;C
+KM	Escherichia coli	0.36	5,6,7-trihydroxyflavone-7-beta-D-glucuronide	*calcium alginate-encapsulated enzyme, at pH 7.0 and 37&deg;C
+KM	Lactobacillus brevis	1.5	Baicalin	*native enzyme, pH 5.0, 37&deg;C
+KM	Lactobacillus brevis	1.74	Baicalin	*recombinant His-tagged enzyme, pH 5.0, 37&deg;C
+KM	Lactobacillus brevis	2.02	wogonoside	*recombinant His-tagged enzyme, pH 5.0, 37&deg;C
+MW	Scutellaria baicalensis	55000	*	*4 * 55000, SDS-PAGE
+MW	Scutellaria baicalensis	55000	*	*4 * 55000, SDS-PAGE
+MW	Scutellaria baicalensis	56027	*	*x * 56027, calculated from sequence
+MW	Scutellaria viscidula	58400	*	*x * 58400, SDS-PAGE
+MW	Scutellaria viscidula	58400	*	*x * 58400, SDS-PAGE
+MW	Lactobacillus brevis	60000	*	*x * 60000, native enzyme, SDS-PAGE
+MW	Lactobacillus brevis	71000	*	*recombinant enzyme, SDS-PAGE
+MW	Scutellaria baicalensis	200000	*	*gel filtration
+MW	Scutellaria baicalensis	230000	*	*gel filtration
+MW	Escherichia coli	290000	*	*gel filtration
+PATH	*	baicalein degradation (hydrogen peroxide detoxification)	*	*
+PATH	*	baicalein metabolism	*	*
+PATH	*	wogonin metabolism	*	*
+SA	Scutellaria viscidula	-999	*	*
+SA	Lactobacillus brevis	1.284	*	*at 37&Acirc;&deg;C and pH 5.0, using 4-nitrophenyl-beta-D-glucuronide as substrate
+SA	Lactobacillus brevis	7.57	*	*purified native enzyme, pH 5.0, 37&Acirc;&deg;C, substrate baicalin
+SA	Scutellaria viscidula	9.36	*	*
+SA	Scutellaria viscidula	9.37	*	*purified enzyme, substrate 4-nitrophenyl beta-D-glucuronide
+SA	Scutellaria baicalensis	114	*	*
+SA	Scutellaria baicalensis	173.4	*	*

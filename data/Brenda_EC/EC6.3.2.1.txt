@@ -1,0 +1,73 @@
+KCAT	Mycobacterium tuberculosis	0.01	beta-Alanine	*25&deg;C, pH 7.8, mutant enzyme K160C
+KCAT	Mycobacterium tuberculosis	0.02	beta-Alanine	*25&deg;C, pH 7.8, mutant enzyme Q164A
+KCAT	Arabidopsis thaliana	0.039	(R)-pantoate	*25&deg;C, pH 8.0, wild-type enzyme
+KCAT	Arabidopsis thaliana	0.16	beta-Alanine	*25&deg;C, pH 8.0, wild-type enzyme
+KCAT	Arabidopsis thaliana	0.59	beta-Alanine	*25&deg;C, pH 8.0, mutant enzyme E132A
+KCAT	Lotus japonicus	0.62	Pantoate	*25&deg;C, pH 8.0
+KCAT	Arabidopsis thaliana	0.81	(R)-pantoate	*25&deg;C, pH 8.0, mutant enzyme E132A
+KCAT	Mycobacterium tuberculosis	1.01	beta-Alanine	*25&deg;C, pH 7.8, wild-type enzyme
+KCAT	Escherichia coli	1.4	ATP	*25&deg;C
+KCAT	Escherichia coli	1.4	beta-Alanine	*25&deg;C
+KCAT	Escherichia coli	1.4	(R)-pantoate	*25&deg;C
+KCAT	Staphylococcus aureus	1.5	beta-Alanine	*co-substrate: (R)-pantoate, pH 8.0, 30&deg;C
+KCAT	Staphylococcus aureus	1.5	(R)-pantoate	*co-substrate: beta-alanine, pH 8.0, 30&deg;C
+KCAT	Mycobacterium tuberculosis	1.74	Pantoate	*
+KCAT	Mycobacterium tuberculosis	2.94	Pantoate	*
+KCAT	Mycobacterium tuberculosis	3.4	beta-Alanine	*25&deg;C, pH 7.8
+KCAT	Mycobacterium tuberculosis	3.4	D-pantoate	*25&deg;C, pH 7.8
+KCAT	Lotus japonicus	6.08	Pantoate	*25&deg;C, pH 8.0
+KM	Brucella abortus	0.04	beta-Alanine	*
+KM	Lotus japonicus	0.044	Pantoate	*25&deg;C, pH 8.0
+KM	Escherichia coli	0.056	beta-Alanine	*
+KM	Escherichia coli	0.063	D-pantoate	*
+KM	Escherichia coli	0.063	D-pantoate	*
+KM	Escherichia coli	0.063	D-pantoate	*beta-alanine
+KM	Escherichia coli	0.063	Pantoate	*
+KM	Mycobacterium tuberculosis	0.09	beta-Alanine	*25&deg;C, pH 7.8, mutant enzyme K160C
+KM	Escherichia coli	0.091	ATP	*
+KM	Escherichia coli	0.1	ATP	*
+KM	Escherichia coli	0.1	ATP	*
+KM	Escherichia coli	0.1	ATP	*
+KM	Escherichia coli	0.12	Pantoate	*
+KM	Escherichia coli	0.12	Pantoate	*
+KM	Mycobacterium tuberculosis	0.13	D-pantoate	*25&deg;C, pH 7.8
+KM	Escherichia coli	0.15	beta-Alanine	*
+KM	Escherichia coli	0.15	beta-Alanine	*
+KM	Escherichia coli	0.15	beta-Alanine	*
+KM	Mycobacterium tuberculosis	0.27	beta-Alanine	*25&deg;C, pH 7.8, wild-type enzyme
+KM	Mycobacterium tuberculosis	0.3	beta-Alanine	*25&deg;C, pH 7.8, mutant enzyme Q164A
+KM	Escherichia coli	0.31	beta-Alanine	*25&deg;C
+KM	Mycobacterium tuberculosis	0.41	(R)-pantoate	*
+KM	Lotus japonicus	0.44	beta-Alanine	*25&deg;C, pH 8.0, at 20 mM pantoate
+KM	Mycobacterium tuberculosis	0.8	beta-Alanine	*25&deg;C, pH 7.8
+KM	Lotus japonicus	0.98	beta-Alanine	*25&deg;C, pH 8.0, at 0.5 mM pantoate
+KM	Escherichia coli	1.45	(R)-pantoate	*25&deg;C
+KM	Escherichia coli	1.75	ATP	*25&deg;C
+KM	Mycobacterium tuberculosis	2.6	ATP	*25&deg;C, pH 7.8
+KM	Brucella abortus	50	Pantoate	*
+MW	Escherichia coli	18000	*	*x * 18000, SDS-PAGE in presence of 2-mercaptoethanol
+MW	Escherichia coli	18000	*	*x * 18000, SDS-PAGE in presence of 2-mercaptoethanol
+MW	Escherichia coli	30000	*	*2 * 30000, SDS-PAGE
+MW	Mycobacterium tuberculosis	31611	*	*2 * 31611, mass spectroscopy, crystallization
+MW	Mycobacterium tuberculosis	32677	*	*2 * 32677, deduced from nucleotide sequence
+MW	Mycobacterium tuberculosis	33000	*	*2 * 33000, SDS-PAGE
+MW	Oryza sativa	33900	*	*x * 33900, deduced from nucleotide sequence
+MW	Lotus japonicus	34000	*	*2 * 34000, SDS-PAGE
+MW	Fusarium oxysporum	43000	*	*x * 43000, SDS-PAGE
+MW	Mycobacterium tuberculosis	65000	*	*gel filtration
+MW	Escherichia coli	65000	*	*gel filtration
+MW	Escherichia coli	69000	*	*gel filtration
+MW	Escherichia coli	69000	*	*gel filtration
+MW	Escherichia coli	69000	*	*gel filtration
+MW	Escherichia coli	70000	*	*sedimentation equilibrium ultracentrifugation
+MW	Escherichia coli	70000	*	*sedimentation equilibrium ultracentrifugation
+MW	Lotus japonicus	72800	*	*gel filtration
+PATH	*	beta-Alanine metabolism	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pantothenate and CoA biosynthesis	*	*
+PATH	*	pantothenate biosynthesis	*	*
+PATH	*	phosphopantothenate biosynthesis I	*	*
+SA	Lotus japonicus	1.36	*	*
+SA	Escherichia coli	2.05	*	*
+SA	Escherichia coli	2.05	*	*

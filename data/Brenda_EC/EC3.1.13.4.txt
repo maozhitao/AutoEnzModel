@@ -1,0 +1,56 @@
+KCAT	Bos taurus	0.02	Poly(A)	*
+KCAT	Homo sapiens	0.65	Poly(A)	*residues 1-446 with the deletion of the R3H domain, pH 7.0, temperature not specified in the publication
+KCAT	Homo sapiens	1.1	Poly(A)	*residues 1-520 with the deletion of the R3H domain, pH 7.0, temperature not specified in the publication
+KCAT	Homo sapiens	5.6	Poly(A)	*N-terminal fragment residues 1-446, pH 7.0, temperature not specified in the publication
+KCAT	Homo sapiens	7.6	Poly(A)	*N-terminal fragment residues 1-520, pH 7.0, temperature not specified in the publication
+KM	Homo sapiens	-999	more	*model of cooperative ligand binding by PARN dimer, binding kinetics, dissociation constants, and thermodynamics, detailed overview
+KM	Homo sapiens	0.0000236	poly(A) RNA	*full-length 74 kDa PARN
+KM	Homo sapiens	0.0000303	poly(A) RNA	*54 kDa form
+KM	Homo sapiens	0.0000333	poly(A) RNA	*46 kDa form
+KM	Homo sapiens	0.00036	poly(A) RNA	*full-length 74 kDa PARN
+KM	Homo sapiens	0.00049	poly(A) RNA	*C-terminal truncated form
+KM	Homo sapiens	0.00089	poly(A) RNA	*mutant p74deltaR3H
+KM	Bos taurus	0.0051	Poly(A)	*
+KM	Homo sapiens	0.00793	poly(A) RNA	*mutant p54deltaR3H
+MW	Homo sapiens	17000	*	*2 * 17000, SDS-PAGE, dimerization of enzyme fragment PARN(443-560)
+MW	Mycobacterium marinum	18500	*	*2 * 18500, calculated
+MW	Bos taurus	31000	*	*1 * 58000, 1 * 31000, SDS-PAGE
+MW	Bos taurus	31000	*	*1 * 58000, 1 * 31000, SDS-PAGE
+MW	Homo sapiens	37000	*	*dimerization of enzyme fragment PARN(443-560), gel filtration
+MW	Mycobacterium marinum	38460	*	*gel filtration coupled with multiangle light scattering
+MW	Mus musculus	42000	*	*immunoblotting
+MW	Homo sapiens	45000	*	*x * 45000, recombinant CNOT6L nuclease domain, SDS-PAGE
+MW	Homo sapiens	46000	*	*truncated form completely missing the RRM
+MW	Homo sapiens	54000	*	*proteolytic fragment with half of the RRM
+MW	Homo sapiens	54000	*	*C-terminal truncated form
+MW	Homo sapiens	54000	*	*PARN (p54), residues 1-470
+MW	Bos taurus	58000	*	*1 * 58000, 1 * 31000, SDS-PAGE
+MW	Bos taurus	58000	*	*1 * 58000, 1 * 31000, SDS-PAGE
+MW	Xenopus sp.	62000	*	*
+MW	Homo sapiens	62000	*	*PARN (p62), residues 1-540
+MW	Homo sapiens	73500	*	*amino acid analysis
+MW	Bos taurus	74000	*	*3 * 74000, SDS-PAGE, a 54000 Da polypeptide fragment is responsible for activity
+MW	Homo sapiens	74000	*	*full-length PARN
+MW	Homo sapiens	74000	*	*full-length PARN
+MW	Homo sapiens	74000	*	*full-length PARN (p74)
+MW	Homo sapiens	74000	*	*calculated
+MW	Homo sapiens	74000	*	*calculated
+MW	Homo sapiens	74000	*	*4 * 74000, calculated. Poly(A)-specific ribonuclease PARN can self-associate into tetramer and high-order oligomers both in vitro and in living cells. PARN oligomerization is triggered by the R3H domain,which leads to the solvent-exposed Trp219 fluorophore to become buried in a solvent-inaccessible microenvironment. The RRM and C-terminal domains are involved in modulating the dissociation rate of the tetrameric PARN. Tetramerization does not affect the catalytic behavior of the full-length PARN and truncated enzymes containing the RRM domain. Tetramerization significantly enhances the catalytic activity and processivity of the truncated form with the removal of the RRM and C-terminal domains
+MW	Homo sapiens	75886	*	*x * 135007, catalytic subunit hPAN2, + x * 75886, regulatory subunit hPAN3, calculated from amino acid sequence
+MW	Homo sapiens	76200	*	*x * 76200, His-tagged full-length enzyme, SDS-PAGE
+MW	Bos taurus	80000	*	*gel filtration
+MW	Bos taurus	80000	*	*gel filtration
+MW	Homo sapiens	135007	*	*x * 135007, catalytic subunit hPAN2, + x * 75886, regulatory subunit hPAN3, calculated from amino acid sequence
+MW	Homo sapiens	152400	*	*recombinant His-tagged enzyme
+MW	Saccharomyces cerevisiae	161000	*	*76000 and 135000, SDS-PAGE; amino acid analysis
+MW	Saccharomyces cerevisiae	161000	*	*135000 polypeptide is not required for poly(A)-ribonuclease activity
+MW	Bos taurus	180000	*	*gel filtration
+MW	Homo sapiens	290000	*	*gel filtration, full length enzyme
+SA	Bos taurus	-999	*	*overview on assay methods and conditions
+SA	Homo sapiens	-999	*	*overview on assay methods and conditions
+SA	Xenopus sp.	-999	*	*overview on assay methods and conditions
+SA	Homo sapiens	-999	*	*Vmax value is 0.30 micromol/min/micromol for the full-length enzyme at 25 mM K+; Vmax value is 0.36 micromol/min/micromol for the full-length enzyme at 50 mM K+; Vmax value is 0.42 micromol/min/micromol for the full-length enzyme at 100 mM K+; Vmax value is 0.42 micromol/min/micromol for the full-length enzyme at 200 mM K+
+SA	Homo sapiens	-999	*	*the Kd value of the wild type PARN-RNA-recognition motif enzyme for 7-methylguanosine triphosphate is 6.94 microM
+SA	Mus musculus	-999	*	*10-mer poly(A) oligonuc&Atilde;&para;leotide can not bind to the cap-binding site on PARN RNA-recognition motif; Kd value of 45 microM for the interaction between PARN RNA-recognition motif and 7-methylguanosine; PARN RRM has stronger affinity for the 7-methylguanosine than for the GpppG and GpppA cap analogs
+SA	Bos taurus	0.0625	*	*
+SA	Bos taurus	211000	*	*pH 7.0, 30&Acirc;&deg;C

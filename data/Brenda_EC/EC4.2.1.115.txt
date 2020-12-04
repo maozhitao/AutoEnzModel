@@ -1,0 +1,28 @@
+KCAT	Helicobacter pylori	0.028	UDP-N-acetylglucosamine	*pH 7.0, 37&Acirc;&deg;C, mutant Y141M
+KCAT	Helicobacter pylori	0.065	UDP-N-acetylglucosamine	*pH 10.0, 37&Acirc;&deg;C, mutant Y141M
+KCAT	Helicobacter pylori	0.077	UDP-N-acetylglucosamine	*pH 7.0, 37&Acirc;&deg;C, mutant H86A
+KCAT	Helicobacter pylori	0.095	UDP-N-acetylglucosamine	*pH 7.0, 37&Acirc;&deg;C, wild-type enzyme
+KCAT	Helicobacter pylori	0.16	UDP-N-acetylglucosamine	*pH 7.0, 37&Acirc;&deg;C, mutant V266E
+KCAT	Pseudomonas aeruginosa	2.8	UDP-N-acetylglucosamine	*pH 10.0, 30&Acirc;&deg;C, recombinant soluble truncated WbpM mutant His-S262
+KM	Helicobacter pylori	0.151	UDP-N-acetylglucosamine	*pH 7.0, 37&Acirc;&deg;C, mutant V266E
+KM	Helicobacter pylori	0.159	UDP-N-acetylglucosamine	*pH 7.0, 37&Acirc;&deg;C, wild-type enzyme
+KM	Helicobacter pylori	0.251	UDP-N-acetylglucosamine	*pH 10.0, 37&Acirc;&deg;C, mutant Y141M
+KM	Helicobacter pylori	0.494	UDP-N-acetylglucosamine	*pH 7.0, 37&Acirc;&deg;C, mutant H86A
+KM	Helicobacter pylori	0.565	UDP-N-acetylglucosamine	*pH 7.0, 37&Acirc;&deg;C, mutant Y141M
+KM	Pseudomonas aeruginosa	2.77	UDP-N-acetylglucosamine	*pH 10.0, 30&Acirc;&deg;C, recombinant soluble truncated WbpM mutant His-S262
+MW	Helicobacter pylori	37400	*	*2 * 37400, recombinant His-tagged enzyme, SDS-PAGE
+MW	Pseudomonas aeruginosa	60000	*	*x * 63000, recombinant N-terminally His-tagged WbpM, SDS-PAGE, x * 64000, recombinant C-terminally His-tagged WbpM, SDS-PAGE, x * 60000, recombinant His-tagged truncated WbpM, SDS-PAGE
+MW	Pseudomonas aeruginosa	63000	*	*x * 63000, recombinant N-terminally His-tagged WbpM, SDS-PAGE, x * 64000, recombinant C-terminally His-tagged WbpM, SDS-PAGE, x * 60000, recombinant His-tagged truncated WbpM, SDS-PAGE
+MW	Pseudomonas aeruginosa	64000	*	*x * 63000, recombinant N-terminally His-tagged WbpM, SDS-PAGE, x * 64000, recombinant C-terminally His-tagged WbpM, SDS-PAGE, x * 60000, recombinant His-tagged truncated WbpM, SDS-PAGE
+MW	Helicobacter pylori	75000	*	*about, recombinant His-tagged enzyme, gel filtration
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*
+PATH	*	CMP-diacetamido-8-epilegionaminic acid biosynthesis	*	*
+PATH	*	CMP-pseudaminate biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	superpathway of UDP-N-acetylglucosamine-derived O-antigen building blocks biosynthesis	*	*
+PATH	*	UDP-N-acetyl-beta-L-fucosamine biosynthesis	*	*
+PATH	*	UDP-N-acetyl-beta-L-quinovosamine biosynthesis	*	*
+SA	Campylobacter jejuni	-999	*	*
+SA	Helicobacter pylori	-999	*	*
+SA	Campylobacter jejuni	0.000037	*	*wild-type enzyme activity with UDP-6-deoxy-6-fluoro-GlcNAc for elimination of fluoride
+SA	Campylobacter jejuni	0.23	*	*wild-type enzyme activity with UDP-GlcNAc conversion to UDP-4-keto-6-deoxy-L-IdoNAc

@@ -1,0 +1,76 @@
+KCAT	Ovis aries	0.5	phlorizin	*pH 6, 37&deg;C
+KCAT	Ovis aries	2.1	daidzein-7-glucoside	*pH 6, 37&deg;C
+KCAT	Ovis aries	6.3	quercetin-3-glucoside	*pH 6, 37&deg;C
+KCAT	Ovis aries	6.5	genistein-7-glucoside	*pH 6, 37&deg;C
+KCAT	Ovis aries	7.5	quercetin-4'-glucoside	*pH 6, 37&deg;C
+KCAT	Ovis aries	33.8	lactose	*pH 6, 37&deg;C
+KM	Homo sapiens	-999	more	*rotavirus infection decreases Vmax of LPH, overview
+KM	Ovis aries	0.002	phlorizin	*pH 6, 37&deg;C
+KM	Ovis aries	0.044	quercetin-4'-glucoside	*pH 6, 37&deg;C
+KM	Ovis aries	0.046	quercetin-3-glucoside	*pH 6, 37&deg;C
+KM	Ovis aries	0.085	genistein-7-glucoside	*pH 6, 37&deg;C
+KM	Ovis aries	0.149	daidzein-7-glucoside	*pH 6, 37&deg;C
+KM	Platyrrhini	0.4	phlorizin	*
+KM	Homo sapiens	0.44	phlorizin	*
+KM	Platyrrhini	2.78	cellobiose	*
+KM	Homo sapiens	4.4	cellobiose	*
+KM	Sus scrofa	5.1	lactose	*
+KM	Rattus norvegicus	8.5	3-O-beta-D-galactopyranosyl-D-xylose	*100 mM sodium maleate buffer, pH 6.0, 25&deg;C
+KM	Ovis aries	8.8	lactose	*pH 6, 37&deg;C
+KM	Rattus norvegicus	17.9	lactose	*100 mM sodium malaete buffer, pH 6.0, 25&deg;C
+KM	Homo sapiens	21	lactose	*
+KM	Homo sapiens	21	lactose	*
+KM	Rattus norvegicus	21	lactose	*
+KM	Platyrrhini	21.8	lactose	*
+KM	Rattus norvegicus	22.2	2-O-beta-D-galactopyranosyl-D-xylose	*100 mM sodium maleate buffer, pH 6.0, 25&deg;C
+KM	Rattus norvegicus	27	lactose	*100 mM maleate buffer pH 6.0, 37&deg;C
+KM	Homo sapiens	28.9	lactose	*PPH from RRV-infected cells
+KM	Homo sapiens	30	lactose	*LPH from uninfected cells
+KM	Rattus norvegicus	58.8	4-O-beta-D-galactopyranosyl-D-xylose	*100 mM sodium maleate buffer, pH 6.0, 25&deg;C
+MW	Homo sapiens	130000	*	*molecular mass after N-glycosidase F treatment of LPH; N-glycosylated LPH, gel filtration
+MW	Homo sapiens	140000	*	*x * 140000, SDS-PAGE
+MW	Homo sapiens	160000	*	*2 * 160000, SDS-PAGE
+MW	Homo sapiens	160000	*	*2 * 160000, SDS-PAGE
+MW	Sus scrofa	160000	*	*2 * 160000, SDS-PAGE
+MW	Homo sapiens	160000	*	*cleaved intestinal mature form of LPH, determinated by pulse-chase experiments; N- and O-glycosylated LPH, gel filtration
+MW	Homo sapiens	220000	*	*apparent molecular mass of the high-mannose LPH form, determinated by pulse-chase experiments
+MW	Rattus norvegicus	220000	*	*determined by SDS-PAGE and Western blot
+MW	Rattus norvegicus	220000	*	*Western blot
+MW	Homo sapiens	280000	*	*hydrophilic enzyme form, gel filtration
+MW	Homo sapiens	320000	*	*amphiphilic enzyme form, gel filtration
+MW	Homo sapiens	320000	*	*
+MW	Sus scrofa	320000	*	*gel filtration
+PATH	*	Galactose metabolism	*	*
+PATH	*	lactose degradation III	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Homo sapiens	-999	*	*20% enzyme activity of mutant G1363S after incubation at 20&Acirc;&deg;C for 22h; enzymatic activity of mutant G1363S below detection line
+SA	Sus scrofa	-999	*	*analysis of lactase phlorizin hydrolase activity in germfree, Lactobacillus fermentum or Escherichia coli monoassociated, Klebsiella pneumoniae LF diassociated and conventional pigs (measuring the amount of D-glucose liberated from lactose). Lowest lactase phlorizin hydrolase activity is observed in pigs, monoassociated with Lactobacillus fermentum. Lactase phlorizin hydrolase activity to mRNA ratio is reduced in enterocytes of pigs monoassociated with Lactobacillus fermentum as compared with germfree pigs
+SA	Rattus norvegicus	-999	*	*10.96 U/g intestinal tissue, membrane bound lactase, after treatment of rats with cortisone; 12.31 U/g intestinal tissue, homogenate, after treatment of rats with cortisone; 1.46 U/g intestinal tissue, soluble lactase, after treatment of rats with cortisone; 2.37 U/g intestinal tissue, soluble lactase; 2.44 U/g intestinal tissue, soluble lactase, after treatment of rats with thyroxine; 4.82 U/g intestinal tissue, membrane bound lactase, after treatment of rats with thyroxine; 7.10 U/g intestinal tissue, homogenate, after treatment of rats with thyroxine; 7.38 U/g intestinal tissue, membrane bound lactase; 9.83 U/g intestinal tissue, homogenate
+SA	Homo sapiens	0.00164	*	*non-infected cells, lactase enzyme activity in cell homogenates
+SA	Homo sapiens	0.00167	*	*rhesus monkey rotavirus-, RRV, infected cells, lactase enzyme activity in cell homogenates
+SA	Homo sapiens	0.002	*	*mutant S218fsX224, mean lactase activity
+SA	Homo sapiens	0.0021	*	*mutant Y1390X, mean lactase activity
+SA	Homo sapiens	0.00219	*	*rhesus monkey rotavirus-, RRV, infected cells, lactase enzyme activity in brush border-enriched fraction
+SA	Homo sapiens	0.003	*	*mutant G1363S, mean lactase activity
+SA	Rattus norvegicus	0.0033	*	*rats are force-fed a low-strach diet, with thyroid hormone treatment
+SA	Homo sapiens	0.00344	*	*non-infected cells, lactase enzyme activity in brush border-enriched fraction
+SA	Homo sapiens	0.00359	*	*UV, psoralen-inactivated RRV infected cells, lactase enzyme activity in brush border-enriched fraction
+SA	Rattus norvegicus	0.0042	*	*rats are fed a low-starch diet for 7 days
+SA	Homo sapiens	0.005	*	*mutant Q268H, mean lactase activity; mutant S1666fsX1722, mean lactase activity
+SA	Rattus norvegicus	0.0058	*	*rats are force-fed a sucrose diet, with thyroid hormone treatment
+SA	Rattus norvegicus	0.0067	*	*rats are fed a low-starch diet, starved for 3 days, and thyroid hormones are injected daily after the diet
+SA	Rattus norvegicus	0.0083	*	*rats are force-fed a low-strach diet, without thyroid hormone treatment; rats are force-fed a sucrose diet, without thyroid hormone treatment
+SA	Rattus norvegicus	0.01	*	*rats are fed a high-starch diet for 7 days
+SA	Rattus norvegicus	0.012	*	*rats are fed a low-starch diet, starved for 3 days
+SA	Rattus norvegicus	0.015	*	*30 days old rat
+SA	Rattus norvegicus	0.07	*	*18 days old rat
+SA	Rattus norvegicus	0.17	*	*administration of thyroxine to 8-day-old pups, activity in suckling rat intestine
+SA	Rattus norvegicus	0.172	*	*15 days old rat
+SA	Rattus norvegicus	0.27	*	*control
+SA	Rattus norvegicus	0.29	*	*administration of insuline to 8-day-old pups, activity in suckling rat intestine
+SA	Rattus norvegicus	0.36	*	*administration of cortisone to 8-day-old pups, activity in suckling rat intestine
+SA	Platyrrhini	16.1	*	*lactase
+SA	Sus scrofa	18	*	*
+SA	Rattus norvegicus	22	*	*
+SA	Homo sapiens	32	*	*
+SA	Platyrrhini	450	*	*phlorizin hydrolase

@@ -1,0 +1,42 @@
+KCAT	Acetobacter aceti	36.5	acetoacetate	*; pH 8.0, 25&deg;C
+KCAT	Acetobacter aceti	49	acetate	*pH 5.0, 25&deg;C
+KCAT	Acetobacter aceti	70.9	succinate	*; pH 8.0, 25&deg;C
+KCAT	Acetobacter aceti	75.2	acetyl-CoA	*; pH 8.0, 25&deg;C
+KCAT	Acetobacter aceti	147	acetate	*pH 6.0, 25&deg;C
+KCAT	Acetobacter aceti	201	succinyl-CoA	*; pH 8.0, 25&deg;C
+KCAT	Acetobacter aceti	280	acetate	*; pH 8.0, 25&deg;C
+KM	Acetobacter aceti	-999	more	*steady-state kinetic analysis using a Michaelis-Menten model, a substrate inhibition model, or a competitive inhibition model, overview. Arg228 has an important kinetic role in carboxylate substrate binding
+KM	Acetobacter aceti	0.022	acetyl-CoA	*pH 8.0, 25&deg;C
+KM	Acetobacter aceti	0.0221	succinyl-CoA	*; pH 8.0, 25&deg;C
+KM	Acetobacter aceti	0.0223	acetyl-CoA	*
+KM	Tritrichomonas foetus	0.045	succinate	*pH 7.0, 30&deg;C
+KM	Trichomonas vaginalis	0.36	succinate	*
+KM	Acetobacter aceti	0.9	succinate	*; pH 8.0, 25&deg;C
+KM	Acetobacter aceti	29	acetate	*pH 5.0, 25&deg;C
+KM	Acetobacter aceti	51	acetate	*pH 6.0, 25&deg;C
+KM	Acetobacter aceti	70	acetate	*; pH 8.0, 25&deg;C
+KM	Acetobacter aceti	130	acetoacetate	*; pH 8.0, 25&deg;C
+MW	Trypanosoma brucei	53000	*	*SDS-PAGE
+MW	Acetobacter aceti	55847	*	*3 * 55847, ESI-MS, 3 * 55847, calculated, His-tagged recombinant protein
+MW	Trichomonas vaginalis	57000	*	*predicted from cDNA
+MW	Acetobacter aceti	160000	*	*gel filtration, His-tagged recombinant protein
+PATH	*	acetate formation from acetyl-CoA (succinate)	*	*
+PATH	*	anaerobic energy metabolism (invertebrates, mitochondrial)	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Butanoate metabolism	*	*
+PATH	*	Citrate cycle (TCA cycle)	*	*
+PATH	*	citric acid cycle	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	propionate fermentation	*	*
+PATH	*	Pyruvate metabolism	*	*
+PATH	*	succinate fermentation to butanoate	*	*
+PATH	*	TCA cycle VII (acetate-producers)	*	*
+SA	Trichomonas vaginalis	0.007	*	*specific activity of recombinant TvASCT expressed in CHO cells
+SA	Trypanosoma brucei	0.01	*	*knock out mutant
+SA	Acetobacter aceti	0.053	*	*strain 2002, reverse reaction, pH 8.0
+SA	Trypanosoma brucei	0.058	*	*wildtype
+SA	Acetobacter aceti	0.083	*	*strain 1023, reverse reaction, pH 8.0
+SA	Acetobacter aceti	0.114	*	*strain 2002, forward reaction, pH 8.0
+SA	Trypanosoma brucei	0.157	*	*rescued clone, i.e. knock out mutant transfected with the vector pTSArib.ASCT, resulting in overexpression
+SA	Acetobacter aceti	0.17	*	*strain 1023, forward reaction, pH 8.0

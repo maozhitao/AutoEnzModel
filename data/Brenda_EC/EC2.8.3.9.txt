@@ -1,0 +1,54 @@
+KM	Clostridium sp.	0.0034	acetoacetyl-CoA	*pH 7.0, 25&deg;C, cosubstrate crotonate
+KM	Clostridium sp.	0.023	butyryl-CoA	*pH 7.0, 25&deg;C, cosubstrate crotonate
+KM	Clostridium sp.	0.034	butyryl-CoA	*pH 7.0, 25&deg;C, cosubstrate acetoacetate
+KM	Escherichia coli	0.035	acetoacetyl-CoA	*pH 8.1, 25&deg;C
+KM	Clostridium sp.	0.044	butyryl-CoA	*pH 6.3, 25&deg;C, cosubstrate acetoacetate
+KM	Clostridium sp.	0.054	butyryl-CoA	*pH 8.1, 25&deg;C, cosubstrate acetoacetate 1.0 mM, 20 mM MgCl2
+KM	Clostridium sp.	0.073	butyryl-CoA	*pH 8.1, 25&deg;C, cosubstrate acetoacetate 2.0 mM, 20 mM MgCl2
+KM	Clostridium sp.	0.083	butyryl-CoA	*pH 8.1, 25&deg;C, cosubstrate acetoacetate 3.0 mM, 20 mM MgCl2
+KM	Clostridium sp.	0.135	acetyl-CoA	*pH 7.0, 25&deg;C, cosubstrate acetoacetate
+KM	Clostridium sp.	0.167	crotonyl-CoA	*pH 7.0, 25&deg;C, cosubstrate acetoacetate
+KM	Clostridium sp.	0.205	propionyl-CoA	*pH 7.0, 25&deg;C, cosubstrate acetoacetate
+KM	Escherichia coli	0.26	acetyl-CoA	*pH 8.1, 25&deg;C
+KM	Escherichia coli	0.33	acetyl-CoA	*pH 8.1, 24&deg;C
+KM	Clostridium sp.	0.8	Butanoate	*pH 7.5, 25&deg;C
+KM	Clostridium sp.	1.1	acetoacetate	*pH 7.5, 25&deg;C, butyryl-CoA level of 0.18 mM
+KM	Clostridium sp.	1.4	acetoacetate	*pH 7.5, 25&deg;C, butyryl-CoA level of 0.23 mM
+KM	Clostridium sp.	1.8	acetoacetate	*pH 7.5, 25&deg;C, butyryl-CoA level of 0.37 mM
+KM	Clostridium sp.	2	crotonate	*pH 7.5, 25&deg;C
+KM	Clostridium sp.	3.2	propionate	*pH 7.5, 25&deg;C
+KM	Escherichia coli	6.7	epsilon-Acetyl-CoA	*pH 8.1, 24&deg;C
+KM	Clostridium sp.	7	pentanoate	*pH 7.5, 25&deg;C
+KM	Clostridium sp.	14	Isobutyrate	*pH 7.5, 25&deg;C
+KM	Clostridium sp.	17	Vinylacetate	*pH 7.5, 25&deg;C
+KM	Clostridium sp.	21	DL-2-Hydroxypentanoate	*pH 7.5, 25&deg;C
+KM	Clostridium sp.	21	Isopentanoate	*pH 7.5, 25&deg;C
+KM	Clostridium sp.	24	acetate	*pH 7.5, 25&deg;C
+KM	Clostridium sp.	29	3-Mercaptopropionate	*pH 7.5, 25&deg;C
+KM	Clostridium sp.	29	Monochloroacetate	*pH 7.5, 25&deg;C
+KM	Clostridium sp.	33	4-hydroxybuyrate	*pH 7.5, 25&deg;C
+KM	Clostridium sp.	40	Acrylate	*pH 7.5, 25&deg;C
+KM	Clostridium sp.	42	3-Methylvinylacetate	*pH 7.5, 25&deg;C
+KM	Clostridium sp.	44	DL-3-hydroxybutyrate	*pH 7.5, 25&deg;C
+KM	Clostridium sp.	49	DL-2-hydroxybuyrate	*pH 7.5, 25&deg;C
+KM	Clostridium sp.	250	3-hydroxypropionate	*pH 7.5, 25&deg;C
+MW	Escherichia coli	23000	*	*2 * 23000 + 2 * 26000, 2 alpha and 2 beta subunits, SDS-PAGE
+MW	Escherichia coli	23000	*	*2 * 23000 + 2 * 26000, 2 alpha and 2 beta subunits, SDS-PAGE
+MW	Clostridium sp.	23300	*	*2 * 23300 + 2 * 25100, 2 alpha and 2 beta subunits, SDS-PAGE
+MW	Clostridium sp.	25100	*	*2 * 23300 + 2 * 25100, 2 alpha and 2 beta subunits, SDS-PAGE
+MW	Escherichia coli	26000	*	*2 * 23000 + 2 * 26000, 2 alpha and 2 beta subunits, SDS-PAGE
+MW	Escherichia coli	26000	*	*2 * 23000 + 2 * 26000, 2 alpha and 2 beta subunits, SDS-PAGE
+MW	Clostridium sp.	90000	*	*gel electrophoresis
+MW	Escherichia coli	97000	*	*gel filtration
+MW	Escherichia coli	97800	*	*sedimentation equilibrium centrifugation
+MW	Escherichia coli	98000	*	*SDS-PAGE
+MW	Escherichia coli	99000	*	*gel filtration
+MW	Clostridium sp.	108000	*	*gel filtration
+PATH	*	acetoacetate degradation (to acetyl CoA)	*	*
+PATH	*	L-lysine fermentation to acetate and butanoate	*	*
+PATH	*	Lysine degradation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	pyruvate fermentation to acetone	*	*
+SA	Escherichia coli	117	*	*fraction B
+SA	Escherichia coli	160	*	*fraction A
+SA	Clostridium sp.	329	*	*

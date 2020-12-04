@@ -1,0 +1,64 @@
+KCAT	Methylorubrum extorquens	5.2	D-cysteine	*pH 7.4, 30&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	6	D-cysteine	*
+KCAT	Escherichia coli	72	D-cysteine	*37&Acirc;&deg;C, pH 8.0
+KCAT	Pseudomonas putida	654	D-cysteine	*double mutant Pseudomonas putida E295S+L322T
+KCAT	Solanum lycopersicum	13800	D-cysteine	*
+KCAT	Escherichia coli	281	3-chloro-D-alanine	*37&Acirc;&deg;C, pH 8.0
+KM	Synechococcus elongatus	0.05	D-cysteine	*
+KM	Spinacia oleracea	0.14	D-cysteine	*37&Acirc;&deg;C, pH 9.0
+KM	Escherichia coli	0.15	D-cysteine	*30&Acirc;&deg;C, pH 8.0
+KM	Chlorella fusca	0.16	D-cysteine	*37&Acirc;&deg;C, pH 9.0
+KM	Solanum lycopersicum	0.21	D-cysteine	*pH 8.0 at 37&Acirc;&deg;C
+KM	Arabidopsis thaliana	0.25	D-cysteine	*purified recombinant mature protein
+KM	Escherichia coli	0.3	D-cysteine	*37&Acirc;&deg;C, pH 8.0
+KM	Pseudomonas putida	0.34	D-cysteine	*double mutant Pseudomonas putida E295S/L322T
+KM	Salmonella enterica subsp. enterica serovar Typhimurium	0.34	D-cysteine	*recombinant His6-tagged enzyme, pH and temperature not specified in the publication
+KM	Methylorubrum extorquens	0.46	D-cysteine	*pH 7.4, 30&Acirc;&deg;C
+KM	Escherichia coli	0.9	3-chloro-D-alanine	*37&Acirc;&deg;C, pH 8.0
+KM	Escherichia coli	0.91	3-chloro-D-alanine	*30&Acirc;&deg;C, pH 8.0, alpha,beta-elimination
+KM	Escherichia coli	0.27	D-Cystine	*30&Acirc;&deg;C, pH 8.0
+KM	Escherichia coli	0.11	DL-lanthionine	*30&Acirc;&deg;C, pH 8.0, based on the concentration of the D-isomer, Escherichia coli
+KM	Escherichia coli	0.29	D-allocystathionine	*30&Acirc;&deg;C, pH 8.0
+KM	Escherichia coli	0.28	S-benzyl-D-cysteine	*30&Acirc;&deg;C, pH 8.0
+KM	Escherichia coli	0.42	S-ethyl-D-cysteine	*30&Acirc;&deg;C, pH 8.0
+KM	Escherichia coli	0.5	S-methyl-D-cysteine	*30&Acirc;&deg;C, pH 8.0
+KM	Escherichia coli	0.24	S-n-butyl-D-cysteine	*30&Acirc;&deg;C, pH 8.0
+KM	Escherichia coli	0.22	S-phenyl-D-cysteine	*30&Acirc;&deg;C, pH 8.0
+KM	Escherichia coli	0.23	S-n-propyl-D-cysteine	*30&Acirc;&deg;C, pH 8.0
+KM	Escherichia coli	0.83	S-carboxymethyl-D-cysteine	*30&Acirc;&deg;C, pH 8.0
+KM	Escherichia coli	0.04	DL-selenocystine	*30&Acirc;&deg;C, pH 8.0, based on the concentration of the D-isomer, Escherichia coli
+MW	Escherichia coli	35000	*	*SDS-PAGE, gel filtration
+MW	Escherichia coli	35150	*	*calculated from amino acid sequence including N-terminal methionine
+MW	Escherichia coli	36500	*	*SDS-PAGE
+MW	Arabidopsis thaliana	41700	*	*monomer, mature protein without N-terminal extension, calculated from amino acid sequence
+MW	Arabidopsis thaliana	42000	*	*x * 42000, SDS-PAGE, unprocessed protein
+MW	Arabidopsis thaliana	43000	*	*x * 43000, SDS-PAGE, mature protein
+MW	Arabidopsis thaliana	43900	*	*monomer, calculated from amino acid sequence
+MW	Arabidopsis thaliana	44000	*	*x * 44000, SDS-PAGE, post-translationally modified protein
+MW	Solanum lycopersicum	51480	*	*recombinant protein is determined by mass spectrometry
+MW	Escherichia coli	67000	*	*sedimentation equilibrium centrifugation
+MW	Spinacia oleracea	67000	*	*gel filtration
+MW	Escherichia coli	70000	*	*gel filtration
+MW	Methylorubrum extorquens	72000	*	*PAGE
+MW	Escherichia coli	74000	*	*HPLC gel filtration
+PATH	*	Cysteine and methionine metabolism	*	*
+PATH	*	cysteine metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Solanum lycopersicum	-999	*	*activity below detection, D-cysteine desulfhydrase activity in double mutant S358E/T386L; activity below detection, D-cysteine desulfhydrase activity in mutant S358E. Serine at 358 residue is essential for D-cysteine desulfhydrase activity.
+SA	Pseudomonas putida	0.001594	*	*D-cysteine desulfhydrase activity in WT
+SA	Spinacia oleracea	0.01	*	*purified enzyme, 37&deg;C, pH 9.0
+SA	Synechococcus elongatus	0.01	*	*growth of the bacteria with p-nitrophenlysulfate as sulfur source
+SA	Synechococcus elongatus	0.012	*	*growth of the bacteria with methionine as sulfur source
+SA	Synechococcus elongatus	0.0123	*	*after partial purification
+SA	Synechococcus elongatus	0.018	*	*growth of the bacteria with L-cysteine as sulfur; growth of the bacteria with Na2S2O3 and p-nitrophenlysulfate as sulfur; growth of the bacteria with Na2S2O3 as sulfur source
+SA	Synechococcus elongatus	0.02	*	*growth of the bacteria with MgSO4 and p-nitrophenlysulfate as sulfur source
+SA	Synechococcus elongatus	0.022	*	*growth of the bacteria with MgSO4 as sulfur source
+SA	Synechococcus elongatus	0.03	*	*growth of the bacteria with MgSO4 and Na2S2O3 as sulfur source
+SA	Synechococcus elongatus	0.035	*	*growth of the bacteria with reduced glutathione as sulfur source
+SA	Pseudomonas putida	0.0356	*	*D-cysteine desulfhydrase activity in mutant E295S
+SA	Pseudomonas putida	0.1475	*	*D-cysteine desulfhydrase activity in double mutant E295S/L322T
+SA	Chlorella fusca	0.21	*	*purified enzyme, 37&deg;C, pH 9.0
+SA	Solanum lycopersicum	0.6653	*	*D-cysteine desulfhydrase activity in mutant T386L. Changing the threonine 386 residue alone reduces the activity of the enzyme substantially of about 11.5% of the native recombinant enzyme, although it does not cause complete loss of activity.
+SA	Solanum lycopersicum	5.784	*	*D-cysteine desulfhydrase activity in wild-type
+SA	Escherichia coli	13	*	*purified enzyme, 30&deg;C, pH 8.0, with D-cysteine as substrate
+SA	Escherichia coli	56.3	*	*purified enzyme, 30&deg;C, pH 8.0, with 3-chloro-D-alanine as substrate

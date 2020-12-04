@@ -1,0 +1,49 @@
+KCAT	Homo sapiens	6.8	crotonyl-CoA	*
+KCAT	Arabidopsis thaliana	23.4	(S)-3-hydroxy-3-methylglutaryl-CoA	*pH 8.0, 30&Acirc;&deg;C
+KCAT	Acinetobacter sp.	60	(S)-3-hydroxy-3-methylglutaryl-CoA	*
+KCAT	Homo sapiens	1.7	3-hydroxybutyryl-CoA	*
+KCAT	Homo sapiens	2.9	3-methylcrotonyl-CoA	*
+KCAT	Pseudomonas putida	0.00086	trans-3-methylglutaconyl-CoA	*pH 7.9, 25&Acirc;&deg;C, mutant enzyme E138Q
+KCAT	Pseudomonas putida	0.064	trans-3-methylglutaconyl-CoA	*pH 7.9, 25&Acirc;&deg;C, mutant enzyme E138D
+KCAT	Pseudomonas putida	2.1	trans-3-methylglutaconyl-CoA	*pH 7.9, 25&Acirc;&deg;C, wild-type enzyme
+KCAT	Acinetobacter sp.	138	3-methylglutaconyl-CoA	*
+KCAT	Homo sapiens	1.4	(E)-glutaconyl-CoA	*
+KCAT	Acinetobacter sp.	18	(E)-glutaconyl-CoA	*
+KCAT	Homo sapiens	0.26	(R,S)-3-hydroxy-3-methylglutaryl-CoA	*
+KCAT	Homo sapiens	5.1	(E)-3-methylglutaconyl-CoA	*
+KCAT	Acinetobacter sp.	13	(S)-3-hydroxyglutaryl-CoA	*
+KCAT	Acinetobacter sp.	-999	more	*calculated with the subunit molecular mass of 3-methylglutaconyl-CoA hydratase of 28800 Dalton
+KCAT	Homo sapiens	-999	more	*kinetic constants determined by HPLC and mass spectrometry
+KM	Acinetobacter sp.	-999	more	*addition of water to the (E)-isomer of 3-methylglutaconyl-CoA of the leucine degradative pathway, intermediate is (S)-3-hydroxy-3-methylglutaryl-CoA
+KM	Homo sapiens	-999	more	*kinetic constants determined by HPLC and mass spectrometry, assay conditions indicated
+KM	Homo sapiens	0.0024	(E)-glutaconyl-CoA	*
+KM	Homo sapiens	0.0069	(S)-3-hydroxymethylglutaryl-CoA	*fibroblast enzyme
+KM	Homo sapiens	0.0083	(E)-3-methylglutaconyl-CoA	*
+KM	Homo sapiens	0.0094	(S)-3-hydroxymethylglutaryl-CoA	*lymphocyte enzyme
+KM	Acinetobacter sp.	0.01	3-methylglutaconyl-CoA	*
+KM	Pseudomonas putida	0.0291	trans-3-methylglutaconyl-CoA	*pH 7.9, 25&deg;C, wild-type enzyme
+KM	Acinetobacter sp.	0.03	(S)-3-hydroxy-3-methylglutaryl-CoA	*
+KM	Acinetobacter sp.	0.04	(E)-glutaconyl-CoA	*hydration
+KM	Pseudomonas putida	0.043	trans-3-methylglutaconyl-CoA	*pH 7.9, 25&deg;C, mutant enzyme E138Q
+KM	Acinetobacter sp.	0.05	(S)-3-hydroxyglutaryl-CoA	*dehydration
+KM	Arabidopsis thaliana	0.0531	(S)-3-hydroxy-3-methylglutaryl-CoA	*pH 8.0, 30&deg;C
+KM	Pseudomonas putida	0.08	trans-3-methylglutaconyl-CoA	*pH 7.9, 25&deg;C, mutant enzyme E138D
+KM	Homo sapiens	0.347	3-methylcrotonyl-CoA	*
+KM	Homo sapiens	2.25	(R,S)-3-hydroxy-3-methylglutaryl-CoA	*
+KM	Homo sapiens	12.1	crotonyl-CoA	*
+KM	Homo sapiens	55.2	3-hydroxybutyryl-CoA	*
+MW	Acinetobacter sp.	28680	*	*deduced from amino acid sequence
+MW	Acinetobacter sp.	28800	*	*MALDI-TOF
+MW	Acinetobacter sp.	29000	*	*SDS-PAGE
+MW	Homo sapiens	89980	*	*mass spectroscopy, RNA free AUH
+MW	Acinetobacter sp.	109000	*	*gel filtration
+MW	Homo sapiens	221400	*	*mass spectroscopy, in the presence of a long RNA containing 24 repeats of the AUUU motif, (AUUU)24A
+PATH	*	ferrichrome A biosynthesis	*	*
+PATH	*	L-leucine degradation I	*	*
+PATH	*	leucine metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Valine, leucine and isoleucine degradation	*	*
+SA	Homo sapiens	-999	*	*highly sensitive assay method, that allows reliable determination of enzyme activity in crude extract
+SA	Acinetobacter sp.	-999	*	*assay in presence of 0.5 ml 50 mM potassium phosphate pH 7.0 and 0.1 mM glutaconyl-CoA, kinetic constants determined by HPLC, 3-methylated CoA-thiol esters identified as the real substrates as expected from the pathway of isovalerate oxidation, specificity constants of other substrates as glutaconyl-CoA and 3-hydroxyglutaryl-CoA are 22 and 7 times lower, no activities measured for crotonyl-CoA
+SA	Homo sapiens	-999	*	*direct nonisotopic activity assay in human skin fibroblast homogenates developed, products analyzed by HPLC, AUH-decifiency by mutations reveals 9% of the wild-type enzyme activity and increased levels of 3-methylglutaric acid and 3-hydroxyisovaleric acid
+SA	Homo sapiens	-999	*	*activity of 3-methylglutaconyl-CoA hydratase measured in fibroblasts within normal limits in all patients, urinary organic acid analysis determined by HPLC or mass spectrometry, increase of 3-methylglutaconic acid in all cases, and 3-methylglutaric acid in four out five patients, three novel subtypes of the diseease 3-methylglutaconic aciduria not coupled to impaired activity of 3-methylglutaconyl-CoA hydratase

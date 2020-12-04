@@ -1,0 +1,48 @@
+KCAT	Escherichia coli	0.046	4-nitrophenyl-alpha-D-glucopyranoside	*pH 7.0, 37&deg;C
+KCAT	Escherichia coli	0.13	4-nitrophenyl-alpha-D-xyloside	*pH 7.0, 37&deg;C
+KCAT	Escherichia coli	0.173	4-nitrophenyl-alpha-D-xyloside	*pH 7.0, 37&deg;C
+KCAT	Cellvibrio japonicus	0.58	4-nitrophenyl-alpha-D-xylopyranoside	*pH 6, 25&deg;C
+KCAT	Cellvibrio japonicus	2.94	Isoprimeverose	*pH 6, 25&deg;C
+KCAT	uncultured microorganism	7.69	Isoprimeverose	*pH 5.5, 45&deg;C, recombinant enzyme
+KCAT	Cellvibrio japonicus	9.39	Xyl-alpha-(1-&gt;6)-Glc-beta-(1-&gt;4)-Glc	*pH 6, 25&deg;C
+KCAT	Escherichia coli	51.3	Isoprimeverose	*pH 7.0, 37&deg;C
+KCAT	Escherichia coli	75	alpha-D-xylopyranosyl fluoride	*pH 7.0, 37&deg;C
+KCAT	uncultured microorganism	154	4-nitrophenyl alpha-D-xylopyranoside	*pH 5.5, 45&deg;C, recombinant enzyme
+KCAT	Escherichia coli	195	alpha-D-xylopyranosyl fluoride	*pH 7.0, 37&deg;C
+KM	Escherichia coli	7.7	4-nitrophenyl-alpha-D-glucopyranoside	*pH 7.0, 37&Acirc;&deg;C
+KM	Cellvibrio japonicus	0.39	4-nitrophenyl-alpha-D-xylopyranoside	*pH 6, 25&Acirc;&deg;C
+KM	Escherichia coli	0.55	Isoprimeverose	*pH 7.0, 37&Acirc;&deg;C
+KM	uncultured microorganism	8	Isoprimeverose	*pH 5.5, 45&Acirc;&deg;C, recombinant enzyme
+KM	Cellvibrio japonicus	55	Isoprimeverose	*pH 6, 25&Acirc;&deg;C
+KM	uncultured microorganism	2.39	4-nitrophenyl alpha-D-xylopyranoside	*pH 5.5, 45&Acirc;&deg;C, recombinant enzyme
+KM	Escherichia coli	0.52	4-nitrophenyl-alpha-D-xyloside	*pH 7.0, 37&Acirc;&deg;C
+KM	Escherichia coli	0.71	4-nitrophenyl-alpha-D-xyloside	*pH 7.0, 37&Acirc;&deg;C
+KM	Escherichia coli	0.17	alpha-D-xylopyranosyl fluoride	*pH 7.0, 37&Acirc;&deg;C
+KM	Escherichia coli	0.97	alpha-D-xylopyranosyl fluoride	*pH 7.0, 37&Acirc;&deg;C
+KM	Cellvibrio japonicus	0.7	Xyl-alpha-(1-&gt;6)-Glc-beta-(1-&gt;4)-Glc	*pH 6, 25&Acirc;&deg;C
+MW	Saccharolobus solfataricus	72000	*	*1 * 72000, SDS-PAGE
+MW	Saccharolobus solfataricus	84432	*	*1 * 84432, calculated from sequence
+MW	Saccharolobus solfataricus	84500	*	*mass spectrometry
+MW	Escherichia coli	88000	*	*6 * 88000, SDS-PAGE
+MW	Escherichia coli	88079	*	*6 * 88079, calculated from sequence
+MW	Brassica oleracea var. capitata	89000	*	*x * 89000, SDS-PAGE
+MW	Saccharolobus solfataricus	92000	*	*gel filtration
+MW	Tropaeolum majus	104937	*	*x * 104937, calculated from sequence
+MW	Cellvibrio japonicus	113643	*	*x * 113643, calculated from sequence
+MW	Escherichia coli	530000	*	*gel filtration
+PATH	*	non-pathway related	*	*
+PATH	*	xyloglucan degradation II (exoglucanase)	*	*
+SA	Escherichia coli	0.00126	*	*isoprimeverose, pH 7.0, 37&deg;C, mutant enzyme C307I
+SA	Escherichia coli	0.00545	*	*isoprimeverose, pH 7.0, 37&deg;C, mutant enzyme K414W
+SA	Escherichia coli	0.0187	*	*4-nitrophenyl-alpha-D-xyloside, pH 7.0, 37&deg;C, wild-type enzyme
+SA	Escherichia coli	0.0192	*	*isoprimeverose, pH 7.0, 37&deg;C, mutant enzyme W345I
+SA	Escherichia coli	0.0495	*	*isoprimeverose, pH 7.0, 37&deg;C, mutant enzyme F277Y
+SA	uncultured microorganism	0.2	*	*pH 5.5, 45&deg;C, recombinant enzyme, substrate alpha-D-Xyl-(1-&gt;6)-beta-D-Glc-[alpha-D-Xyl-(1-&gt;6)]-beta-D-Glc-(1-&gt;4)-[alpha-D-Xyl-(1-&gt;6)]-beta-D-Glc
+SA	uncultured microorganism	0.22	*	*pH 5.5, 45&deg;C, recombinant enzyme, substrate alpha-D-Xyl-(1-&gt;6)-beta-D-Glc-[alpha-D-Xyl-(1-&gt;6)]-beta-D-Glc-(1-&gt;4)-beta-D-Glc
+SA	Escherichia coli	0.503	*	*pH 7.0, 37&deg;C
+SA	uncultured microorganism	0.54	*	*pH 5.5, 45&deg;C, recombinant enzyme, substrate 4-nitrophenyl alpha-D-glucopyranoside
+SA	Brassica oleracea var. capitata	1.7	*	*pH 4.5, 40&deg;C
+SA	uncultured microorganism	2	*	*pH 5.5, 45&deg;C, recombinant enzyme, substrate isoprimeverose
+SA	Saccharolobus solfataricus	2.43	*	*pH 5.5, 75&deg;C
+SA	Escherichia coli	20.5	*	*isoprimeverose, pH 7.0, 37&deg;C, wild-type enzyme
+SA	uncultured microorganism	69.5	*	*pH 5.5, 45&deg;C, recombinant enzyme, substrate 4-nitrophenyl alpha-D-xylopyranoside

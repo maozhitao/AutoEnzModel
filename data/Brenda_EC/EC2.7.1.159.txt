@@ -1,0 +1,27 @@
+KCAT	Homo sapiens	5	1D-myo-inositol-1,3,4-trisphosphate	*pH 7.6, 37&Acirc;&deg;C, in absence of CSN1, first order rate constant
+KCAT	Homo sapiens	20	1D-myo-inositol-1,3,4-trisphosphate	*pH 7.6, 37&Acirc;&deg;C, in presence of CSN1, first order rate constant
+KM	Rattus norvegicus	-999	more	*kinetics
+KM	Homo sapiens	-999	more	*kinetics, recombinant enzyme with CSN1
+KM	Bos taurus	0.00008	1D-myo-inositol-1,3,4-trisphosphate	*
+KM	Arabidopsis thaliana	0.042	1D-myo-inositol 1,3,4,6-tetrakisphosphate	*
+MW	Rattus norvegicus	36000	*	*x * 36000, SDS-PAGE
+MW	Arabidopsis thaliana	36200	*	*x * 36200, about, sequence calculation
+MW	Oryza sativa	38700	*	*predicted
+MW	Oryza sativa	38800	*	*x * 38800, calculated
+MW	Homo sapiens	45600	*	*x * 45600, about, sequence calculation
+MW	Bos taurus	48000	*	*x * 36000-38000, proteolytically C-terminally truncated enzyme, SDS-PAGE, x * 48000, SDS-PAGE
+MW	Homo sapiens	60000	*	*COP9 signalosome, gel filtration
+PATH	*	1D-myo-inositol hexakisphosphate biosynthesis II (mammalian)	*	*
+PATH	*	1D-myo-inositol hexakisphosphate biosynthesis V (from Ins(1,3,4)P3)	*	*
+PATH	*	D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis	*	*
+PATH	*	D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis	*	*
+PATH	*	Inositol phosphate metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Entamoeba histolytica	-999	*	*
+SA	Arabidopsis thaliana	-999	*	*not detected in mature flowers, but expression of trancript is confirmed by mRNA in situ analysis
+SA	Arabidopsis thaliana	0.0044	*	*
+SA	Bos taurus	25	*	*calf brain
+SA	Bos taurus	372	*	*purified enzyme
+SA	Bos taurus	372	*	*purified calf brain enzyme, substrate 1D-myo-inositol-1,3,4-trisphosphate
+SA	Homo sapiens	500	*	*purified recombinant enzyme from Sf21 cells, with substrate 1D-myo-inositol-1,3,4-trisphosphate
+SA	Rattus norvegicus	1780	*	*purified enzyme, determination of 5-kinase and 6-kinase activities

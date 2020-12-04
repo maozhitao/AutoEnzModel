@@ -1,0 +1,35 @@
+KCAT	Methanococcus maripaludis	0.1	alpha-D-glucose 1-phosphate	*
+KCAT	Escherichia coli	2.42	D-glucosamine 6-phosphate	*6 x His-tagged recombinant enzyme
+KCAT	Escherichia coli	7.9	D-glucosamine 6-phosphate	*
+KCAT	Escherichia coli	0.0055	D-glucose 1-phosphate	*
+KCAT	Escherichia coli	0.0138	D-glucose 1-phosphate	*single-mutation S100T
+KCAT	Methanococcus maripaludis	0.52	alpha-D-glucosamine 1-phosphate	*
+KM	Escherichia coli	0.05	D-glucosamine 6-phosphate	*
+KM	Escherichia coli	0.08	D-glucosamine 1,6-diphosphate	*
+KM	Escherichia coli	0.08	D-glucosamine 1-phosphate	*
+KM	Escherichia coli	0.08	D-glucose 1-phosphate	*single mutation S100T
+KM	Escherichia coli	0.5	D-glucose 1,6-diphosphate	*
+KM	Escherichia coli	0.65	D-glucose 1-phosphate	*
+MW	Escherichia coli	47412	*	*3 * 47412, gel filtration, mass spectrometry
+MW	Streptococcus gordonii	48370	*	*calculated from amino acid sequence
+MW	Streptococcus gordonii	50000	*	*His-tagged recombinant enzyme, SDS-PAGE
+MW	Methanococcus maripaludis	50000	*	*SDS-PAGE
+MW	Bacillus anthracis	50960	*	*
+MW	Bacillus anthracis	51000	*	*2 * 51000, X-ray crystallography
+MW	Bacillus anthracis	93100	*	*dynamic light scattering
+MW	Methanococcus maripaludis	340000	*	*gel filtration
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*
+PATH	*	anhydromuropeptides recycling I	*	*
+PATH	*	CMP-legionaminate biosynthesis I	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	UDP-GlcNAc biosynthesis	*	*
+PATH	*	UDP-N-acetyl-D-glucosamine biosynthesis I	*	*
+SA	Escherichia coli	0.007	*	*substrate: D-glucose 6-phosphate
+SA	Pseudomonas aeruginosa	0.06	*	*substrate: D-glucose 1-phosphate
+SA	Staphylococcus aureus	0.1	*	*
+SA	Pseudomonas aeruginosa	0.55	*	*substrate: D-mannose 1-phosphate
+SA	Helicobacter pylori	0.95	*	*
+SA	Pseudomonas aeruginosa	2.5	*	*substrate: D-glucosamine 6-phosphate
+SA	Escherichia coli	2.59	*	*
+SA	Escherichia coli	3	*	*6x His-tagged recombinant enzyme
+SA	Escherichia coli	10	*	*substrate: D-glucosamine 6-phosphate

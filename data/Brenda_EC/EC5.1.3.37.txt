@@ -1,0 +1,23 @@
+KCAT	Azotobacter vinelandii	14	[alginate]-beta-D-mannuronate	*pH 6.8, 37&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	-999	more	*the maximum velocity of the reaction increases from 0.0018 per s to 0.0218 per s as the substrate size increases from 10 to 20 residues, and no additional increase in kcat is observed for substrates up to 100 residues in length, pH 7.3, temperature not specified in the publication
+KM	Pseudomonas aeruginosa	-999	more	*the Km decreases from 80 microM for substrate containing fewer than 15 residues to 4 microM for substrate containing over 100 residues, pH 7.3
+KM	Azotobacter vinelandii	0.018	[alginate]-beta-D-mannuronate	*pH 6.8, 37&deg;C
+KM	Azotobacter vinelandii	0.62	[mannuronan]-beta-D-mannuronate	*pH 6.8, 30&deg;C, presence of 8.6 mM Ca2+
+KM	Azotobacter vinelandii	0.9	[mannuronan]-beta-D-mannuronate	*pH 6.8, 30&deg;C, presence of 0.68 mM Ca2+
+MW	Pseudomonas aeruginosa	55000	*	*x * 60000, preform, x * 55000, mature protein, SDS-PAGE
+MW	Azotobacter vinelandii	57700	*	*x * 57700, calculated
+MW	Azotobacter vinelandii	57700	*	*x * 57700, calculated, x * 79000, SDS-PAGE
+MW	Pseudomonas aeruginosa	60000	*	*x * 60000, preform, x * 55000, mature protein, SDS-PAGE
+MW	Azotobacter vinelandii	79000	*	*x * 57700, calculated, x * 79000, SDS-PAGE
+MW	Azotobacter vinelandii	120000	*	*PAGE
+MW	Azotobacter vinelandii	120000	*	*1 * 120000, SDS-PAGE
+MW	Azotobacter vinelandii	122000	*	*PAGE
+MW	Azotobacter vinelandii	150000	*	*gel filtration
+PATH	*	alginate biosynthesis	*	*
+PATH	*	alginate biosynthesis I (algal)	*	*
+PATH	*	alginate biosynthesis II (bacterial)	*	*
+PATH	*	Fructose and mannose metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Azotobacter vinelandii	0.37	*	*catalytic domain AlgE1-1, pH 6.9, 37&deg;C
+SA	Azotobacter vinelandii	4.4	*	*catalytic domain AlgE1-2, pH 6.9, 37&deg;C
+SA	Azotobacter vinelandii	4.9	*	*pH 6.9, 37&deg;C

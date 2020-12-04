@@ -1,0 +1,23 @@
+KCAT	Haemophilus influenzae	0.021	KDN 9-phosphate	*at pH 7.0 and 25&deg;C
+KCAT	Bacteroides thetaiotaomicron	0.061	KDN 9-phosphate	*at pH 7.0 and 25&deg;C
+KCAT	Haemophilus influenzae	0.78	2-oxo-3-deoxy-D-manno-octulosonate 8-phosphate	*at pH 7.0 and 25&deg;C
+KCAT	Bacteroides thetaiotaomicron	1.5	2-oxo-3-deoxy-D-manno-octulosonate 8-phosphate	*at pH 7.0 and 25&deg;C
+KM	Bacteroides thetaiotaomicron	0.0001	2-oxo-3-deoxy-D-manno-octulosonate 8-phosphate	*at pH 7.0 and 25&deg;C
+KM	Bacteroides thetaiotaomicron	0.0009	KDN 9-phosphate	*at pH 7.0 and 25&deg;C
+KM	Escherichia coli	0.058	3-deoxy-D-manno-octulosonate 8-phosphate	*in presence of 1.0 mM Co2+, 37&deg;C
+KM	Escherichia coli	0.075	3-deoxy-D-manno-octulosonate 8-phosphate	*pH 7.0, 37&deg;C, presence of 1 mM Mg2+
+KM	Escherichia coli	0.091	3-deoxy-D-manno-octulosonate 8-phosphate	*in presence of 1.0 mM Mg2+, 37&deg;C
+KM	Haemophilus influenzae	0.16	2-oxo-3-deoxy-D-manno-octulosonate 8-phosphate	*at pH 7.0 and 25&deg;C
+KM	Escherichia coli	0.8	3-deoxy-D-manno-octulosonate 8-phosphate	*37&deg;C, pH 7.0
+KM	Haemophilus influenzae	1.6	KDN 9-phosphate	*at pH 7.0 and 25&deg;C
+MW	Escherichia coli	19900	*	*4 * 23000, SDS-PAGE, 4 * 19900, mass spectrometry
+MW	Escherichia coli	23000	*	*4 * 23000, SDS-PAGE, 4 * 19900, mass spectrometry
+MW	Escherichia coli	80000	*	*gel filtration
+MW	Escherichia coli	89000	*	*gel filtration
+MW	Burkholderia pseudomallei	90000	*	*dynamic light scattering
+PATH	*	CMP-3-deoxy-D-manno-octulosonate biosynthesis	*	*
+PATH	*	CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis	*	*
+PATH	*	CMP-KDO biosynthesis	*	*
+PATH	*	Lipopolysaccharide biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Escherichia coli	15.6	*	*37&deg;C

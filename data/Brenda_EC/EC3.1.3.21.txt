@@ -1,0 +1,45 @@
+KCAT	Mycobacterium tuberculosis	0.02	L-glycerol 3-phosphate	*in Tris-HCl 50 mM at pH 7.5, at 22&deg;C
+KCAT	Mycobacterium tuberculosis	0.18	D-ribulose 5-phosphate	*in Tris-HCl 50 mM at pH 7.5, at 22&deg;C
+KCAT	Mycobacterium tuberculosis	0.18	Glycerol 2-phosphate	*in Tris-HCl 50 mM at pH 7.5, at 22&deg;C
+KCAT	Mycobacterium tuberculosis	0.77	DL-glycerol 3-phosphate	*in Tris-HCl 50 mM at pH 7.5, at 22&deg;C
+KCAT	Mycobacterium tuberculosis	1	4-nitrophenyl phosphate	*in Tris-HCl 50 mM at pH 7.5, at 22&deg;C
+KCAT	Corynebacterium glutamicum	1.7	L-glycerol 3-phosphate	*at 30&deg;C, pH 7.5, in 100 mM HEPES
+KCAT	Corynebacterium glutamicum	30.3	DL-glycerol 3-phosphate	*at 30&deg;C, pH 7.5, in 100 mM HEPES
+KCAT	Escherichia coli	160	DL-glycerol 3-phosphate	*in 20 mM MES buffer pH 6.5, containing 10 mM MgSO4, and 1 mM dithioerythritol, at 30&deg;C
+KCAT	Saccharomyces cerevisiae	833	alpha-glycerolphosphate	*
+KM	Phycomyces blakesleeanus	0.6	dihydroxyacetone phosphate	*
+KM	Phycomyces blakesleeanus	0.6	L-glycerol-3-phosphate	*
+KM	Dunaliella tertiolecta	0.7	L-glycerol-3-phosphate	*
+KM	Mycobacterium tuberculosis	0.89	DL-glycerol 3-phosphate	*in Tris-HCl 50 mM at pH 7.5, at 22&deg;C
+KM	Mycobacterium tuberculosis	1.1	L-glycerol 3-phosphate	*in Tris-HCl 50 mM at pH 7.5, at 22&deg;C
+KM	Mycobacterium tuberculosis	1.3	D-ribulose 5-phosphate	*in Tris-HCl 50 mM at pH 7.5, at 22&deg;C
+KM	Mycobacterium tuberculosis	2.01	Glycerol 2-phosphate	*in Tris-HCl 50 mM at pH 7.5, at 22&deg;C
+KM	Osmerus mordax	2.61	glycerol 3-phosphate	*at pH 5.5, temperature not specified in the publication
+KM	Dunaliella salina	2.7	DL-glycerol-1-phosphate	*
+KM	Escherichia coli	2.9	DL-glycerol 3-phosphate	*in 20 mM MES buffer pH 6.5, containing 10 mM MgSO4, and 1 mM dithioerythritol, at 30&deg;C
+KM	Corynebacterium glutamicum	2.9	L-glycerol 3-phosphate	*at 30&deg;C, pH 7.5, in 100 mM HEPES
+KM	Saccharomyces cerevisiae	3.1	DL-glycerol-3-phosphate	*for Gpp1p
+KM	Arabidopsis thaliana	3.5	DL-glycerol 3-phosphate	*Gpp2, in 20 mM Tris-HCl pH 7.0, 5 mM MgCl2, and 10 mM DL-glycerol-3-phosphate
+KM	Corynebacterium glutamicum	3.8	DL-glycerol 3-phosphate	*at 30&deg;C, pH 7.5, in 100 mM HEPES
+KM	Saccharomyces cerevisiae	3.9	DL-glycerol-3-phosphate	*for Gpp2p
+KM	Arabidopsis thaliana	5.2	DL-glycerol 3-phosphate	*Gpp1, in 20 mM Tris-HCl pH 7.0, 5 mM MgCl2, and 10 mM DL-glycerol-3-phosphate
+KM	Mycobacterium tuberculosis	19.3	4-nitrophenyl phosphate	*in Tris-HCl 50 mM at pH 7.5, at 22&deg;C
+MW	Arabidopsis thaliana	27000	*	*SDS-PAGE, Gpp2
+MW	Saccharomyces cerevisiae	27800	*	*Gpp2p, calculation from sequence of cDNA
+MW	Saccharomyces cerevisiae	29000	*	*x * 29000, SDS-PAGE
+MW	Saccharomyces cerevisiae	30400	*	*Gpp1p, calculation from sequence of cDNA
+MW	Arabidopsis thaliana	33000	*	*SDS-PAGE, Gpp1
+MW	Mycobacterium tuberculosis	37904	*	*x * 37904, ESI mass spectrometry
+MW	Corynebacterium glutamicum	58600	*	*2 * 58600, calculated from amino acid sequence
+MW	Dunaliella salina	86000	*	*gel electrophoresis
+PATH	*	1,3-propanediol biosynthesis (engineered)	*	*
+PATH	*	Glycerolipid metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Saccharomyces cerevisiae	-999	*	*L-glycerol 3-phosphate (L-G3P) production via microbial fermentation, elimination of both GPP1 and GPP2 isoenzymes required, small-scale and large-scale batch fermentation, intracellular accumulation of L-glycerol 3-phosphate reaches high levels of about 200 mM, thereafter accumulation declines, extracellular L-glycerol 3-phosphate concentration increases throughout fermentation, most of the total L-glycerol 3-phosphate outside the cells, specific elimination of enzyme activity reveals considerable glycerol formation, unspecific dephosphorylation as a mechanism to relieve cells of intracellular L-glycerol 3-phosphate accumulation, final product titer of about 325 mg total L-glycerol 3-phosphate per litre of fermentation broth; L-glycerol 3-phosphate (L-G3P) production via microbial fermentation, elimination of both GPP1 and GPP2 isoenzymes required, small-scale and large-scale batch fermentation, intracellular accumulation of L-glycerol 3-phosphate reaches high levels of about 200 mM, thereafter accumulation declines, extracellular L-glycerol 3-phosphate concentration increases throughout fermentation, most of the total L-glycerol 3-phosphate outside the cells, specific elimination of enzyme activity reveals considerable glycerol formation, unspecific dephosphorylation as a mechanism to relieve cells of intracellular L-glycerol 3-phosphate accumulation, final product titer of about 325 mg total L-glycerol 3-phosphate per litre of fermentation broth
+SA	Saccharomyces cerevisiae	-999	*	*changes in glucose, glycerol and 2,3-butanediol determined in engineered bacteria, new metabolic pathway of glucose via glycerol to 1,3-propanediol constructed, effect of pH on production of 1,3-propanediol, effect of dihydroxyacetone and pH, comparison of enzyme activities growing on different substrates, successful introduction of a glycerol pathway of yeast into Klebsiella pneumoniae
+SA	Dunaliella tertiolecta	0.35	*	*dependency on subcellular fraction
+SA	Dunaliella tertiolecta	0.63	*	*
+SA	Phycomyces blakesleeanus	0.8	*	*
+SA	Dunaliella salina	6.1	*	*
+SA	Saccharomyces cerevisiae	46	*	*enzyme Gpp2p
+SA	Saccharomyces cerevisiae	49	*	*enzyme Gpp1p

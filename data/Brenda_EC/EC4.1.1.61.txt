@@ -1,0 +1,50 @@
+KCAT	Sedimentibacter hydroxybenzoicus	18.3	3,4-dihydroxybenzoate	*
+KCAT	Sedimentibacter hydroxybenzoicus	55	4-hydroxybenzoate	*
+KM	Bacillus subtilis	-999	more	*4-hydroxybenzoate as substrate Km = 1 mmol/l; vanillate as substrate Km = 4 mmol/l
+KM	Desulfovibrio sp.	0.004	4-hydroxybenzoate	*carboxylase with pH-optimum 7.8
+KM	Methanospirillum hungatei	0.004	4-hydroxybenzoate	*carboxylase with pH-optimum 7.8
+KM	Desulfovibrio sp.	0.02	4-hydroxybenzoate	*carboxylase with pH-optimum 6.4
+KM	Methanospirillum hungatei	0.02	4-hydroxybenzoate	*carboxylase with pH-optimum 6.4
+KM	Desulfovibrio sp.	0.125	phenol	*
+KM	Methanospirillum hungatei	0.125	phenol	*
+KM	Pseudomonas sp.	0.2	Phenylphosphate	*CO2:4-hydroxybenzoate isotope exchange reaction
+KM	Pseudomonas sp.	0.2	Phenylphosphate	*CO2:4-hydroxybenzoate isotope exchange reaction
+KM	Chlamydia pneumoniae	0.21	4-hydroxybenzoate	*in 20 mM Tris-HCl (pH 7.5) containing 1 mM Mg2+, at 30&deg;C
+KM	Sedimentibacter hydroxybenzoicus	0.4	4-hydroxybenzoate	*
+KM	Enterobacter cloacae	0.596	4-hydroxybenzoate	*in 100 mM potassium phosphate buffer (pH 7.0)
+KM	Pseudomonas sp.	0.67	4-hydroxybenzoate	*
+KM	Pseudomonas sp.	1	CO2	*dissolved, CO2:4-hydroxybenzoate isotope exchange reaction
+KM	Sedimentibacter hydroxybenzoicus	1.2	3,4-dihydroxybenzoate	*
+KM	Pseudomonas sp.	1.5	CO2	*dissolved
+KM	Klebsiella aerogenes	4	4-hydroxybenzoate	*
+KM	uncultured bacterium	5.4	4-hydroxybenzoate	*pH 6.0, 37&deg;C
+KM	Enterobacter cloacae	6.8	3,4-dihydroxybenzoate	*in 100 mM potassium phosphate buffer (pH 7.0)
+KM	Enterobacter cloacae	14.8	phenol	*20 mM phenol, 3 MKHCO3, 10 mM dithiothreitol in 100 mM potassium phosphate buffer (pH 7.0)
+MW	Bacillus subtilis	8569	*	*bsdD, calculated
+MW	Sedimentibacter hydroxybenzoicus	57000	*	*6 * 57000, SDS-PAGE
+MW	Enterobacter cloacae	60000	*	*6 * 60000, X-ray crystallography
+MW	Chlamydia pneumoniae	64000	*	*SDS-PAGE
+MW	Pseudomonas sp.	280000	*	*gel filtration
+MW	Enterobacter cloacae	315800	*	*calculated from amino acid sequence
+MW	Sedimentibacter hydroxybenzoicus	350000	*	*gradient PAGE, gel filtration
+MW	Enterobacter cloacae	372000	*	*gel-filtration HPLC
+PATH	*	Aminobenzoate degradation	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	phenol degradation	*	*
+SA	Chlamydia pneumoniae	0.00025	*	*crude cell extract, at 30&deg;C
+SA	Chlamydia pneumoniae	0.00506	*	*after purification, at 30&deg;C
+SA	Pseudomonas sp.	0.012	*	*phenylphosphate carboxylation
+SA	Bacillus subtilis	2.5	*	*uninduced, 4-hydroxybenzoate as substrate
+SA	Bacillus subtilis	6	*	*3-methoxy-4-hydroxybenzoate-induced, 4-hydroxybenzoate as substrate
+SA	Sedimentibacter hydroxybenzoicus	8.29	*	*
+SA	Bacillus subtilis	11	*	*BsdCD, genes encoding the BsdCD are heterologously expressed in Escherichia coli from the plasmid pTrcHisC, 3-methoxy-4-hydroxybenzoate as substrate
+SA	Enterobacter cloacae	13.7	*	*at 30&deg;C, pH 7.0, crude cell extract
+SA	Bacillus subtilis	14	*	*BsdCD, genes encoding the BsdCD are heterologously expressed in Escherichia coli from the plasmid pTrcHisC, 4-hydroxybenzoate as substrate
+SA	Bacillus subtilis	15	*	*uninduced, 3-methoxy-4-hydroxybenzoate as substrate
+SA	Bacillus subtilis	16	*	*BsdBCD, genes encoding the BsdBCD are expressed in Escherichia coli from the plasmid pUC18, 3-methoxy-4-hydroxybenzoate as substrate
+SA	Enterobacter cloacae	17.8	*	*at 30&deg;C, pH 7.0, after 1.5fold purification
+SA	Bacillus subtilis	23	*	*BsdBCD, genes encoding the BsdBCD are expressed in Escherichia coli from the plasmid pUC18, 4-hydroxybenzoate as substrate
+SA	Bacillus subtilis	25	*	*3-methoxy-4-hydroxybenzoate-induced, 3-methoxy-4-hydroxybenzoate as substrate
+SA	Bacillus subtilis	30	*	*4-hydroxybenzoate-induced, 3-methoxy-4-hydroxybenzoate as substrate
+SA	Bacillus subtilis	31	*	*4-hydroxybenzoate-induced, 4-hydroxybenzoate as substrate
+SA	uncultured bacterium	766	*	*

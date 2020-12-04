@@ -1,0 +1,37 @@
+KCAT	Homo sapiens	0.0019	ATP	*mutant T210V; T210V mutant, varied substrate Cdc25c, constant substrate ATP
+KCAT	Danio rerio	0.00229	ATP	*zPlk1 1-312 wild type
+KCAT	Homo sapiens	0.0041	ATP	*wild-type; wild-type enzyme, varied substrate ATP, constant substrate Cdc25c
+KCAT	Danio rerio	0.01311	ATP	*zPlk1 1-312 T196D
+KCAT	Homo sapiens	0.01386	ATP	*hPlk1 1-346 T210D
+KCAT	Homo sapiens	0.019	ATP	*mutant T210D; T210D mutant, varied substrate ATP, constant substrate Cdc25c
+KCAT	Homo sapiens	0.0049	Cdc25C	*mutant T210V; T210V mutant, varied substrate ATP, constant substrate Cdc25c
+KCAT	Homo sapiens	0.0094	Cdc25C	*wild-type; wild-type enzyme, varied substrate Cdc25c, constant substrate ATP
+KCAT	Homo sapiens	0.0376	Cdc25C	*T210D mutant, varied substrate Cdc25c, constant substrate ATP
+KM	Homo sapiens	0.0002	ATP	*
+KM	Homo sapiens	0.0008	ATP	*
+KM	Homo sapiens	0.001	ATP	*
+KM	Homo sapiens	0.002	ATP	*PLK2
+KM	Homo sapiens	0.003	ATP	*apparent Km, T210V mutant, varied substrate ATP, constant substrate Cdc25c; mutant T210V
+KM	Homo sapiens	0.0032	ATP	*apparent Km, wild-type enzyme, varied substrate ATP, constant substrate Cdc25c; wild-type
+KM	Homo sapiens	0.004	ATP	*apparent Km, T210D mutant, varied substrate ATP, constant substrate Cdc25c; mutant T210D
+KM	Homo sapiens	0.0055	ATP	*apparent Km, hPlk1 1-346 T210D
+KM	Danio rerio	0.0064	ATP	*apparent Km, zPlk1 1-312 T196D
+KM	Danio rerio	0.0076	ATP	*apparent Km, zPlk1 1-312 wild type
+KM	Homo sapiens	0.0006	Cdc25C	*apparent Km, T210D mutant, varied substrate Cdc25c, constant substrate ATP; mutant T210D
+KM	Homo sapiens	0.00066	Cdc25C	*apparent Km, wild-type enzyme, varied substrate Cdc25c, constant substrate ATP; wild-type
+KM	Homo sapiens	0.0008	Cdc25C	*apparent Km, T210V mutant, varied substrate Cdc25c, constant substrate ATP; mutant T210V
+MW	Homo sapiens	26000	*	*recombinant human Plk1 polo-box domain
+MW	Homo sapiens	26000	*	*
+MW	Homo sapiens	34000	*	*determined by SDS-PAGE and Western Blot analysis
+MW	Danio rerio	34390	*	*expected molecular weight of the protein with the N-terminal Gly-Pro-Leu-Gly-Ser linker residues and a T196D substitution
+MW	Danio rerio	35920	*	*expected molecular weight of the protein with the N-terminal Gly-Pro-Leu-Gly-Ser linker residues that separate the GST protein from Plk1 KD
+MW	Danio rerio	35930	*	*expected molecular weight of the protein with the additional T196D substitution
+MW	Homo sapiens	39050	*	*expected molecular weight of the protein with the N-terminal Gly-Pro-Leu-Gly-Ser linker residues that separate the GST protein from Plk1 KD
+MW	Homo sapiens	39060	*	*expected molecular weight of the protein with the additional T210D substitution
+MW	Homo sapiens	62000	*	*determined by SDS-PAGE and Western Blot analysis
+MW	Homo sapiens	67000	*	*determined by SDS-PAGE and Western Blot analysis
+MW	Mus musculus	68000	*	*determined by SDS-PAGE and Western Blot analysis
+MW	Homo sapiens	70000	*	*x * 70000, about, SDS-PAGE
+MW	Schistosoma mansoni	70500	*	*theoretical
+MW	Mus musculus	72000	*	*determined by SDS-PAGE and Western Blot analysis
+SA	Homo sapiens	-999	*	*activity of wild-type and mutant GST-tagged or His6-tagged Plk3 with p125

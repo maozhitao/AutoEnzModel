@@ -1,0 +1,67 @@
+KM	Methanopyrus kandleri	-999	more	*effect of salts on Km
+KM	Archaeoglobus fulgidus	0.025	5,10-methenyl-5,6,7,8-tetrahydromethanopterin	*pH 7.6, 65&deg;C, mutant enzyme R183E
+KM	Archaeoglobus fulgidus	0.026	5,10-methenyl-5,6,7,8-tetrahydromethanopterin	*pH 7.6, 65&deg;C, mutant enzyme E186A
+KM	Methylorubrum extorquens	0.03	formyl-tetrahydromethanopterin	*
+KM	Methylorubrum extorquens	0.03	N5,N10-methenyl-5,6,7,8-tetrahydromethanopterin	*
+KM	Methanopyrus kandleri	0.03	N5,N10-methenyl-5,6,7,8-tetrahydromethanopterin	*recombinant enzyme
+KM	Methanopyrus kandleri	0.04	formyl-tetrahydromethanopterin	*pH 8.0, 65&deg;C
+KM	Methanopyrus kandleri	0.04	N5,N10-methenyl-5,6,7,8-tetrahydromethanopterin	*
+KM	Archaeoglobus fulgidus	0.043	5,10-methenyl-5,6,7,8-tetrahydromethanopterin	*pH 7.6, 65&deg;C, mutant enzyme R183A; pH 7.6, 65&deg;C, mutant enzyme R183K; pH 7.6, 65&deg;C, mutant enzyme R183Q
+KM	Archaeoglobus fulgidus	0.047	5,10-methenyl-5,6,7,8-tetrahydromethanopterin	*pH 7.6, 65&deg;C, mutant enzyme K94V
+KM	Archaeoglobus fulgidus	0.05	5,10-methenyl-5,6,7,8-tetrahydromethanopterin	*pH 7.6, 65&deg;C, mutant enzyme E186N
+KM	Archaeoglobus fulgidus	0.055	5,10-methenyl-5,6,7,8-tetrahydromethanopterin	*pH 7.6, 65&deg;C, wild-type enzyme
+KM	uncultured archaeon	0.06	5,10-methenyl-5,6,7,8-tetrahydromethanopterin	*pH 7.6, 10&deg;C
+KM	Archaeoglobus fulgidus	0.062	5,10-methenyl-5,6,7,8-tetrahydromethanopterin	*pH 7.6, 65&deg;C, mutant enzyme E186D
+KM	Archaeoglobus fulgidus	0.077	5,10-methenyl-5,6,7,8-tetrahydromethanopterin	*pH 7.6, 65&deg;C, mutant enzyme K94E
+KM	Methanopyrus kandleri	0.1	N5,N10-methenyl-5,6,7,8-tetrahydromethanopterin	*1 M K2HPO4
+KM	Methanopyrus kandleri	0.14	N5,N10-methenyl-5,6,7,8-tetrahydromethanopterin	*0.6 M K2HPO4
+KM	Methanopyrus kandleri	0.2	N5,N10-methenyl-5,6,7,8-tetrahydromethanopterin	*0.3 M K2HPO4
+KM	Methanothermus fervidus	0.22	formyl-tetrahydromethanopterin	*
+KM	Archaeoglobus fulgidus	0.22	N5,N10-methenyl-5,6,7,8-tetrahydromethanopterin	*
+KM	Methanosarcina barkeri	0.57	N5,N10-methenyl-5,6,7,8-tetrahydromethanopterin	*
+KM	Methanopyrus kandleri	2	N5,N10-methenyl-5,6,7,8-tetrahydromethanopterin	*
+MW	Methylorubrum extorquens	33000	*	*2 * 33000, SDS-PAGE
+MW	Methylorubrum extorquens	33000	*	*2 * 33282, sequence calculation, 2 * 33000, SDS-PAGE
+MW	Methylorubrum extorquens	33282	*	*2 * 33282, sequence calculation, 2 * 33000, SDS-PAGE
+MW	Methanopyrus kandleri	33972	*	*3 * 33972, sequence calculation, 3 * 41500, SDS-PAGE
+MW	Methanothermobacter thermautotrophicus	34246	*	*2 * 34246, sequence calculation, 2 * 41000, SDS-PAGE
+MW	Methanothermus fervidus	34851	*	*2 * 34851, sequence calculation, 2 * 39000, SDS-PAGE
+MW	Methanosarcina barkeri	34889	*	*2 * 34889, sequence calculation, 2 * 41000, SDS-PAGE
+MW	Methanocaldococcus jannaschii	34899	*	*x * 34899, sequence calculation
+MW	uncultured archaeon	34982	*	*x * 34982, calculated from sequence
+MW	Archaeoglobus fulgidus	39000	*	*2 * 39000, SDS-PAGE
+MW	Methanothermus fervidus	39000	*	*2 * 34851, sequence calculation, 2 * 39000, SDS-PAGE
+MW	Methanothermobacter thermautotrophicus	41000	*	*2 * 41000, SDS-PAGE
+MW	Methanosarcina barkeri	41000	*	*2 * 41000, SDS-PAGE
+MW	Methanopyrus kandleri	41000	*	*? * 41000, SDS-PAGE
+MW	Methanosarcina barkeri	41000	*	*2 * 34889, sequence calculation, 2 * 41000, SDS-PAGE
+MW	Methanothermobacter thermautotrophicus	41000	*	*2 * 34246, sequence calculation, 2 * 41000, SDS-PAGE
+MW	Methanopyrus kandleri	41500	*	*1 * 41500, SDS-PAGE
+MW	Methanopyrus kandleri	41500	*	*3 * 33972, sequence calculation, 3 * 41500, SDS-PAGE
+MW	Methanopyrus kandleri	42000	*	*non-denaturing PAGE
+MW	Methylorubrum extorquens	67000	*	*non-denaturing PAGE
+MW	Archaeoglobus fulgidus	80000	*	*non-denaturing PAGE
+MW	Methanothermobacter thermautotrophicus	82000	*	*gel filtration
+MW	Methanosarcina barkeri	82000	*	*non-denaturing PAGE
+PATH	*	formaldehyde oxidation VI (H4MPT pathway)	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Methane metabolism	*	*
+PATH	*	methanogenesis from CO2	*	*
+PATH	*	methanogenesis from H2 and CO2	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	reductive acetyl coenzyme A pathway II (autotrophic methanogens)	*	*
+SA	Methanothermobacter thermautotrophicus	-999	*	*
+SA	Archaeoglobus fulgidus	-999	*	*
+SA	Methanopyrus kandleri	-999	*	*
+SA	Methanothermus fervidus	-999	*	*
+SA	Methylorubrum extorquens	-999	*	*
+SA	Archaeoglobus profundus	0.029	*	*pH 7.5, 65&Acirc;&deg;C, cell extract
+SA	Archaeoglobus lithotrophicus	1.6	*	*pH 7.5, 65&Acirc;&deg;C, cell extract
+SA	Ferroglobus placidus	10	*	*pH 7.5, 65&Acirc;&deg;C
+SA	Methylorubrum extorquens	104	*	*
+SA	Methanosarcina barkeri	470	*	*
+SA	Methylorubrum extorquens	630	*	*
+SA	Archaeoglobus fulgidus	1765	*	*
+SA	Methanopyrus kandleri	5000	*	*above, purified native enzyme
+SA	Methanopyrus kandleri	5026	*	*
+SA	Methanopyrus kandleri	5410	*	*

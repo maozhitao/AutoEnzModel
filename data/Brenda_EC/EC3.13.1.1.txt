@@ -1,0 +1,20 @@
+KCAT	Arabidopsis thaliana	0.00167	UDP-glucose	*
+KCAT	Arabidopsis sp.	0.1	UDP-glucose	*
+KM	Spinacia oleracea	-999	more	*Km values for UDP-glucose are indistinguishable for the native and the recombinant enzyme, but the Km value for sulfite is over 4fold lower for the native enzyme
+KM	Spinacia oleracea	-999	more	*the affinity for sulfite of the native enzyme is at least 4fold higher compared to the recombinant spinach SQD1, whereas that for UDP-glucose is similar
+KM	Arabidopsis sp.	0.01	sulfite	*
+KM	Arabidopsis thaliana	0.01	sulfite	*
+KM	Arabidopsis sp.	0.15	UDP-glucose	*
+KM	Arabidopsis thaliana	0.15	UDP-glucose	*
+MW	Arabidopsis thaliana	45500	*	*recombinant protein, lacking the transit peptide
+MW	Spinacia oleracea	46700	*	*x * 46700, calculated from sequence
+MW	Arabidopsis thaliana	53100	*	*calculated
+MW	Spinacia oleracea	250000	*	*gel filtration; native enzyme in a complex with accessory proteins, gel filtration
+MW	Spinacia oleracea	250000	*	*
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*
+PATH	*	Glycerolipid metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	sulfolipid biosynthesis	*	*
+PATH	*	sulfoquinovosyl diacylglycerol biosynthesis	*	*
+SA	Pseudomonas putida	-999	*	*desulfurization activity in strain CECT5279 over time in vivo
+SA	Arabidopsis thaliana	0.0026	*	*

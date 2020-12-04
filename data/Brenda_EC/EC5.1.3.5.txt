@@ -1,0 +1,40 @@
+KCAT	Arabidopsis thaliana	0.2	UDP-D-xylose	*recombinant Arabidopsis thaliana enzyme
+KCAT	Arabidopsis thaliana	0.4	UDP-D-xylose	*recombinant Arabidopsis thaliana enzyme
+KCAT	Arabidopsis thaliana	0.5	UDP-D-xylose	*recombinant Arabidopsis thaliana enzyme
+KCAT	Arabidopsis thaliana	13	UDP-D-xylose	*recominant Arabidopsis thaliana enzyme UGE3
+KCAT	Arabidopsis thaliana	19	UDP-D-xylose	*recombinant Arabidopsis thaliana enzyme UGE1
+KCAT	Hordeum vulgare	1.5	UDP-beta-L-arabinopyranose	*pH 7.0, at 25&Acirc;&deg;C
+KCAT	Hordeum vulgare	1.5	UDP-alpha-D-xylopyranose	*pH 7.0, at 25&Acirc;&deg;C
+KCAT	Sinorhizobium meliloti	13	UDP-alpha-D-xylopyranose	*apparent value, at 37&Acirc;&deg;C, in 50 mM sodium phosphate, pH 7.6
+KCAT	Sinorhizobium meliloti	13	UDP-D-xylopyranose	*apparent value, at 37&Acirc;&deg;C, in 50 mM sodium phosphate, pH 7.6
+KM	Pisum sativum	0.015	UDP-D-xylose	*50 mM Tris-HCl buffer (pH 8.6), 0.1 mM NAD+, 1 mM UDP-sugar and enzyme
+KM	Helianthus tuberosus	0.16	UDP-D-xylose	*
+KM	Arabidopsis thaliana	0.16	UDP-D-xylose	*recombinant Arabidopsis thaliana enzyme, UDP-Xyl 4-epimerase activity is monitored by an end-point assay containing 0.1-5.0 mM UDP-xylose, 100 mM glycine/NaOH (pH 8.6)
+KM	Arabidopsis thaliana	0.32	UDP-D-xylose	*recominant Arabidopsis thaliana enzyme UGE3, UDP-Xyl 4-epimerase activity is monitored by an end-point assay containing 0.1-5.0 mM UDP-xylose, 100 mM glycine/NaOH (pH 8.6)
+KM	Arabidopsis thaliana	0.34	UDP-D-xylose	*recombinant Arabidopsis thaliana enzyme UGE2, UDP-Xyl 4-epimerase activity is monitored by an end-point assay containing 0.1-5.0 mM UDP-xylose, 100 mM glycine/NaOH (pH 8.6)
+KM	Arabidopsis thaliana	0.42	UDP-D-xylose	*recombinant Arabidopsis thaliana enzyme UGE4, UDP-Xyl 4-epimerase activity is monitored by an end-point assay containing 0.1-5.0 mM UDP-xylose, 100 mM glycine/NaOH (pH 8.6)
+KM	Arabidopsis thaliana	0.43	UDP-D-xylose	*recombinant Arabidopsis thaliana enzyme UGE1, UDP-Xyl 4-epimerase activity is monitored by an end-point assay containing 0.1-5.0 mM UDP-xylose, 100 mM glycine/NaOH (pH 8.6)
+KM	Triticum aestivum	1.5	UDP-D-xylose	*
+KM	Hordeum vulgare	1.4	UDP-beta-L-arabinopyranose	*pH 7.0, at 25&Acirc;&deg;C
+KM	Pisum sativum	0.016	UDP-L-arabinose	*50 mM Tris-HCl buffer (pH 8.6), 0.1 mM NAD+, 1 mM UDP-sugar and enzyme
+KM	Triticum aestivum	0.5	UDP-L-arabinose	*
+KM	Sinorhizobium meliloti	0.31	UDP-alpha-D-xylopyranose	*apparent value, at 37&Acirc;&deg;C, in 50 mM sodium phosphate, pH 7.6
+KM	Hordeum vulgare	1.8	UDP-alpha-D-xylopyranose	*pH 7.0, at 25&Acirc;&deg;C
+KM	Sinorhizobium meliloti	0.31	UDP-D-xylopyranose	*apparent value, at 37&Acirc;&deg;C, in 50 mM sodium phosphate, pH 7.6
+MW	Sinorhizobium meliloti	36700	*	*2 * 36700, calculated from amino acid sequence
+MW	Pisum sativum	39000	*	*native Pisum sativum enzyme determined by SDS-PAGE
+MW	Pisum sativum	41000	*	*recombinant enzyme after purification and thrombin digestion
+MW	Hordeum vulgare	45000	*	*isoform UXE3, calculated from amino acid sequence
+MW	Hordeum vulgare	47000	*	*isoform UXE1, calculated from amino acid sequence
+MW	Pisum sativum	56000	*	*recombinant enzyme after purification on a chelating column
+MW	Sinorhizobium meliloti	66000	*	*gel filtration
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	UDP-beta-L-arabinose biosynthesis I (from UDP-alpha-D-xylose)	*	*
+SA	Triticum aestivum	-999	*	*
+SA	Pisum sativum	6.7	*	*native protein, substrate is UDP-arabinose; native protein, substrate is UDP-xylose
+SA	Pisum sativum	16.7	*	*specific activity of recombinant enzyme in cell lysate after expression in Escherichia coli
+SA	Pisum sativum	21.1	*	*recombinant Pisum protein, substrate is UDP-arabinose
+SA	Pisum sativum	22.4	*	*recombinant Pisum protein, substrate is UDP-xylose
+SA	Pisum sativum	38.9	*	*specific activity of recombinant enzyme after purification by a DEAE-sepharose FF column
+SA	Pisum sativum	49	*	*specific activity of recombinant enzyme after purification by a Ni-sepharose colum

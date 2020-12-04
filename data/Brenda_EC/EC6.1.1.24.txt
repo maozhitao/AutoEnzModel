@@ -1,0 +1,40 @@
+KCAT	Escherichia coli	0.00041	L-glutamate	*mutant C229R GlnRS, with tRNAGln
+KCAT	Escherichia coli	0.0025	L-glutamine	*mutant C229R GlnRS, with tRNAGln
+KCAT	Thermosynechococcus elongatus	0.036	tRNAGln	*
+KCAT	Bacillus subtilis	0.04	tRNAGln	*homologous tRNAGln
+KCAT	Escherichia coli	0.04	tRNAGln	*recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+KCAT	Bacillus subtilis	0.05	tRNAGlu	*homologous tRNAGlu
+KCAT	Bacillus subtilis	0.07	tRNAGln	*tRNAGln from E. coli
+KCAT	Escherichia coli	0.09	L-Glu	*recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+KCAT	Methanothermobacter thermautotrophicus	0.09	L-Glu	*recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+KCAT	Escherichia coli	0.1	ATP	*recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+KCAT	Methanothermobacter thermautotrophicus	0.1	ATP	*recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+KCAT	Methanothermobacter thermautotrophicus	0.1	tRNAGln	*recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+KCAT	Thermosynechococcus elongatus	0.1	tRNAGlu	*
+KM	Thermosynechococcus elongatus	-999	more	*kinetics
+KM	Escherichia coli	-999	more	*kinetics and binding constants
+KM	Escherichia coli	-999	more	*kinetics of the mutant enzyme compared to wild-type GlnRS, EC 6.1.1.18, overview
+KM	Escherichia coli	-999	more	*detailed comparison of kinetic parameters between recombinant hybrid GlnRS S1/L1/L2 and other recombinant hybrid mutant enzymes, with the naturally occurring Methanothermobacter thermautotrophicus GluRSND, which is also capable of Glu-tRNAGln synthesis, overview. Both kcat and Km for glutamate are recapitulated in the engineered enzyme, but Km for tRNA is 200fold higher
+KM	Methanothermobacter thermautotrophicus	-999	more	*detailed comparison of kinetic parameters between Methanothermobacter thermautotrophicus GluRSND and Escherichia coli recombinant hybrid GlnRS mutants, which are also capable of Glu-tRNAGln synthesis, overview
+KM	Methanothermobacter thermautotrophicus	0.000038	tRNAGln	*recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+KM	Bacillus subtilis	0.00045	tRNAGln	*homologous tRNAGln, in absence of regulatory factor beta
+KM	Bacillus subtilis	0.00065	tRNAGln	*homologous tRNAGln, in presence of regulatory factor beta
+KM	Thermosynechococcus elongatus	0.00079	tRNAGlu	*
+KM	Bacillus subtilis	0.00083	tRNAGlu	*homologous tRNAGlu, in absence of regulatory factor beta
+KM	Bacillus subtilis	0.0014	tRNAGlu	*homologous tRNAGlu, in presence of regulatory factor beta
+KM	Bacillus subtilis	0.0015	tRNAGln	*tRNAGln
+KM	Thermosynechococcus elongatus	0.0037	tRNAGln	*
+KM	Escherichia coli	0.0076	tRNAGln	*recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+KM	Escherichia coli	0.21	L-glutamine	*mutant C229R GlnRS, with tRNAGln
+KM	Escherichia coli	0.62	ATP	*recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+KM	Methanothermobacter thermautotrophicus	3.1	ATP	*recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+KM	Escherichia coli	5.8	L-Glu	*recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+KM	Methanothermobacter thermautotrophicus	6.2	L-Glu	*recombinant hybrid GlnRS S1/L1/L2, pH not specified in the publication, temperature not specified in the publication
+KM	Escherichia coli	240	L-glutamate	*mutant C229R GlnRS, with tRNAGln
+MW	Sinorhizobium meliloti	54166	*	*x * 54166, calculation from nucleotide sequence
+MW	Methanothermobacter thermautotrophicus	63237	*	*x * 63237, sequence calculation
+PATH	*	Aminoacyl-tRNA biosynthesis	*	*
+PATH	*	glutamate and glutamine metabolism	*	*
+PATH	*	glutaminyl-tRNAgln biosynthesis via transamidation	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Bacillus subtilis	0.16	*	*

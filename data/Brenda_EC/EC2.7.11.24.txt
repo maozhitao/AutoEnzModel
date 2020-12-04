@@ -1,0 +1,72 @@
+KCAT	synthetic construct	0.97	MEK2ERK	*p38alpha kinase
+KCAT	Homo sapiens	0.98	protein ATF2	*pH 7.6, 27&deg;C, purified, recombinant detagged, activated p38 MAPKalpha
+KCAT	synthetic construct	2	MEK1ERK	*
+KCAT	synthetic construct	2.167	SCRAMMMEK2	*
+KCAT	synthetic construct	2.3	ELKERK	*
+KCAT	synthetic construct	2.3	MEK2ERK	*
+KCAT	synthetic construct	2.67	ERKSTE7	*
+KCAT	synthetic construct	2.83	ERKMEK1	*
+KCAT	synthetic construct	2.83	STE7ERK	*
+KCAT	synthetic construct	2.94	SCRAMMMEK2	*
+KCAT	synthetic construct	3	ERKMEK2	*
+KCAT	synthetic construct	3.13	ERKSub	*
+KCAT	Mus musculus	3.8	ATF2DELTA109	*pH 7.0, 25&deg;C, monophosphorylated p38alpha
+KCAT	synthetic construct	4.167	ERKSub	*
+KCAT	Mus musculus	4.7	ATF2DELTA109	*pH 7.0, 25&deg;C, biphosphorylated p38alpha
+KCAT	Mus musculus	6.99	EGF receptor peptide	*pH 7.0, 25&deg;C, monophosphorylated p38alpha
+KCAT	synthetic construct	9.5	ERKSub	*p38alpha kinase
+KCAT	synthetic construct	9.5	MEK1ERK	*p38alpha kinase
+KCAT	synthetic construct	16.67	MEK2ERK	*p38alpha kinase
+KCAT	Mus musculus	31.6	EGF receptor peptide	*pH 7.0, 25&deg;C, biphosphorylated p38alpha
+KM	eukaryota	-999	more	*p38alpha: kinetic mechanism, reaction kinetics can be influenced by the sort of substrate
+KM	Saccharomyces cerevisiae	-999	more	*signaling kinetics, overview
+KM	Rattus norvegicus	-999	more	*
+KM	Mus musculus	-999	more	*steady-state kinetics, kinetic mechanism for p38 MAP kinase alpha kinase and ATPase activities, overview
+KM	Zea mays	-999	more	*apparent Km for myelin basic protein is 0.13 microg microl-1
+KM	Homo sapiens	-999	more	*constants of dissociation and thermodynamic parameters of p38gamma binding with different PTPN4 constructs, overview
+KM	synthetic construct	0.0006	STE7ERK	*ERK1
+KM	Homo sapiens	0.0019	protein ATF2	*pH 7.6, 27&deg;C, purified, recombinant detagged, activated p38 MAPKalpha
+KM	Mus musculus	0.002	ATF2DELTA109	*pH 7.0, 25&deg;C, biphosphorylated p38alpha
+KM	synthetic construct	0.0037	MEK1ERK	*ERK1
+KM	synthetic construct	0.0044	ELKERK	*ERK1
+KM	synthetic construct	0.0056	MEK2ERK	*ERK1
+KM	Mus musculus	0.02	ATF2DELTA109	*pH 7.0, 25&deg;C, monophosphorylated p38alpha
+KM	synthetic construct	0.03	MEK2ERK	*p38alpha kinase
+KM	Mus musculus	0.048	ATP	*pH 7.0, 30&deg;C, mutant G110D of p38 isozyme alpha
+KM	Zea mays	0.062	ATP	*apparent KM
+KM	synthetic construct	0.065	MEK1ERK	*p38alpha kinase
+KM	Mus musculus	0.085	ATP	*pH 7.0, 30&deg;C, mutant G110A of p38 isozyme alpha
+KM	Mus musculus	0.096	ATP	*pH 7.0, 30&deg;C, wild-type p38 isozyme alpha
+KM	synthetic construct	0.096	SCRAMMMEK2	*ERK1
+KM	synthetic construct	0.127	ERKSub	*ERK1
+KM	synthetic construct	0.173	ERKSTE7	*ERK1
+KM	synthetic construct	0.344	ERKMEK1	*ERK1
+KM	synthetic construct	0.388	ERKMEK2	*ERK1
+KM	Mus musculus	0.656	EGF receptor peptide	*pH 7.0, 25&deg;C, biphosphorylated p38alpha
+KM	synthetic construct	1.2	ERKSub	*p38alpha kinase
+KM	Mus musculus	2.8	EGF receptor peptide	*pH 7.0, 25&deg;C, monophosphorylated p38alpha
+MW	Rattus norvegicus	40000	*	*determined by SDS-PAGE and Western-blot analysis
+MW	Fusarium solani	41194	*	*x * 41194, calculation from nucleotide sequence
+MW	Rattus norvegicus	42000	*	*x * 44000, ERK1, SDS-PAGE, x * 42000, ERK2, SDS-PAGE
+MW	Echinococcus multilocularis	42000	*	*sequence analysis, Western blot analysis
+MW	Rattus norvegicus	43000	*	*x * 43000, SDS-PAGE
+MW	Medicago sativa	44000	*	*x * 44000
+MW	Rattus norvegicus	44000	*	*x * 44000, ERK1, SDS-PAGE, x * 42000, ERK2, SDS-PAGE
+MW	Medicago sativa	44000	*	*x * 44000, MAPKS MMK2, MMK3, and SAMK, SDS-PAGE, x * 46000, SIMK, SDS-PAGE
+MW	Petunia x hybrida	44400	*	*x * 44400
+MW	Schizosaccharomyces pombe	45000	*	*x * 45000
+MW	Homo sapiens	45000	*	*JNK1
+MW	Zea mays	45000	*	*determined by SDS-PAGE
+MW	Medicago sativa	46000	*	*x * 44000, MAPKS MMK2, MMK3, and SAMK, SDS-PAGE, x * 46000, SIMK, SDS-PAGE
+MW	Mus musculus	64000	*	*x * 64000, recombinant p38alpha MAP kinase, SDS-PAGE
+MW	Rattus norvegicus	100000	*	*x * 100000, about, recombinant ERK3, SDS-PAGE
+SA	Saccharomyces cerevisiae	-999	*	*large scale activity assay with recombinant enzyme in a protein chip consisting of a microwell array with protein covalently attached to the wells via a 3-glycidoxypropyltrimethoxysilane crosslinker, overview
+SA	Zea mays	0.000002	*	*homogenate
+SA	Zea mays	0.000017	*	*purification step (NH4)2SO4 30%
+SA	Zea mays	0.00002	*	*purification step centrifugation 100000 X g
+SA	Zea mays	0.000085	*	*purification step Q-Sepharose FF
+SA	Zea mays	0.00024	*	*purification step Phenyl-Sepharose FF
+SA	Zea mays	0.000834	*	*purification step Resource Q
+SA	Zea mays	0.001804	*	*purification step Mono Q 5/50 GL
+SA	Zea mays	0.009005	*	*purification step poly-L-lysine-agarose
+SA	Zea mays	0.02042	*	*purification step HiLoad 16/60 Superdex 75 pg

@@ -1,0 +1,23 @@
+KCAT	Sinorhizobium meliloti	0.9	Phosphonoacetate	*pH 7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Sinorhizobium meliloti	1.1	Phosphonoacetate	*pH 7.5, 30&Acirc;&deg;C, recombinant enzyme, with 0.01 mM Zn2+
+KCAT	Penicillium oxalicum	1.7	Phosphonoacetate	*pH 8.0, 35&Acirc;&deg;C
+KCAT	Pseudomonas fluorescens	3	Phosphonoacetate	*
+KM	Sinorhizobium meliloti	-999	more	*steady-state kinetics analysis
+KM	Curtobacterium sp.	0.0078	Phosphonoacetate	*pH 7.5, 30&deg;C
+KM	Sinorhizobium meliloti	0.0221	Phosphonoacetate	*pH 7.5, 30&deg;C, recombinant enzyme
+KM	Pseudomonas fluorescens	1.25	Phosphonoacetate	*
+KM	Pseudomonas sp.	1.5	Phosphonoacetate	*pH 7.5, 30&deg;C, 1 mM Zn2+
+KM	Penicillium oxalicum	1.9	Phosphonoacetate	*pH 8.0, 35&deg;C
+MW	Pseudomonas fluorescens	38000	*	*2 * 38000, SDS-PAGE
+MW	Penicillium oxalicum	42600	*	*gel filtration
+MW	Penicillium oxalicum	43200	*	*1 * 43200, SDS-PAGE
+MW	Pseudomonas fluorescens	44237	*	*2 * 44237, calculation from nucleotide sequence
+MW	Pseudomonas fluorescens	44239	*	*2 * 44239, sequence calculation and gel filtration
+MW	Sinorhizobium meliloti	48400	*	*x * 48400, recombinant His6-tagged PhnA, SDS-PAGE
+MW	Pseudomonas fluorescens	80000	*	*gel filtration
+MW	Pseudomonas fluorescens	93000	*	*gel filtration, recombinant enzyme
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Phosphonate and phosphinate metabolism	*	*
+PATH	*	phosphonoacetate degradation	*	*
+SA	Penicillium oxalicum	665	*	*pH 8.0, 35&deg;C

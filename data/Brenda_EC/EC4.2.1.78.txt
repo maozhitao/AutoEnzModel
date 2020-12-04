@@ -1,0 +1,42 @@
+KCAT	Nandina domestica	2.4	dopamine	*pH 7.3, 37&Acirc;&deg;C
+KCAT	Corydalis chinensis	5.8	dopamine	*pH 7.3, 37&Acirc;&deg;C
+KCAT	Thalictrum flavum	0.8	4-hydroxyphenylacetaldehyde	*mutant E110A, 37&Acirc;&deg;C, 0.1 M phosphate buffer pH 7.5
+KCAT	Thalictrum flavum	1.7	4-hydroxyphenylacetaldehyde	*mutant Y108F, 37&Acirc;&deg;C, 0.1 M phosphate buffer pH 7.5
+KCAT	Nandina domestica	1.7	4-hydroxyphenylacetaldehyde	*pH 7.3, 37&Acirc;&deg;C
+KCAT	Thalictrum flavum	4.5	4-hydroxyphenylacetaldehyde	*wild-type, 37&Acirc;&deg;C, 0.1 M phosphate buffer pH 7.5
+KCAT	Corydalis chinensis	5.3	4-hydroxyphenylacetaldehyde	*pH 7.3, 37&Acirc;&deg;C
+KCAT	Thalictrum flavum	6	4-hydroxyphenylacetaldehyde	*cosubstrate: 3-(2-aminoethyl)phenol; cosubstrate: 5-(2-aminoethyl)-2-methoxyphenol
+KCAT	Thalictrum flavum	6.4	4-hydroxyphenylacetaldehyde	*cosubstrate: 4-(2-aminoethyl)benzene-1,2-diol
+KCAT	Thalictrum flavum	6.4	4-(2-Aminoethyl)benzene-1,2-diol	*cosubstrate: 4-(2-aminoethyl)benzene-1,2-diol
+KCAT	Thalictrum flavum	7	4-(2-Aminoethyl)benzene-1,2-diol	*cosubstrate: (3,4-dihydroxyphenyl)acetaldehyde
+KCAT	Thalictrum flavum	7	(3,4-dihydroxyphenyl)acetaldehyde	*cosubstrate: 4-(2-aminoethyl)benzene-1,2-diol
+KCAT	Thalictrum flavum	6	3-(2-aminoethyl)phenol	*cosubstrate: 4-(2-aminoethyl)benzene-1,2-diol
+KCAT	Thalictrum flavum	6	5-(2-aminoethyl)-2-methoxyphenol	*cosubstrate: 4-(2-aminoethyl)benzene-1,2-diol
+KM	Nandina domestica	0.347	dopamine	*pH 7.3, 37&Acirc;&deg;C
+KM	Corydalis chinensis	0.502	dopamine	*pH 7.3, 37&Acirc;&deg;C
+KM	Thalictrum flavum	0.288	4-hydroxyphenylacetaldehyde	*
+KM	Thalictrum flavum	0.33	4-hydroxyphenylacetaldehyde	*wild-type, 37&Acirc;&deg;C, 0.1 M phosphate buffer pH 7.5
+KM	Thalictrum flavum ssp. glaucum	0.335	4-hydroxyphenylacetaldehyde	*pH 7.5, 37&Acirc;&deg;C, hyperbolic saturation kinetics
+KM	Thalictrum flavum	0.36	4-hydroxyphenylacetaldehyde	*mutant Y108F, 37&Acirc;&deg;C, 0.1 M phosphate buffer pH 7.5
+KM	Thalictrum flavum ssp. glaucum	0.42	4-hydroxyphenylacetaldehyde	*pH 7.0, 37&Acirc;&deg;C, hyperbolic saturation kinetics
+KM	Nandina domestica	0.48	4-hydroxyphenylacetaldehyde	*pH 7.3, 37&Acirc;&deg;C
+KM	Thalictrum flavum	0.505	4-hydroxyphenylacetaldehyde	*mutant E110A, 37&Acirc;&deg;C, 0.1 M phosphate buffer pH 7.5
+KM	Eschscholzia californica	0.66	4-hydroxyphenylacetaldehyde	*pH 7.0, 37&Acirc;&deg;C, hyperbolic saturation kinetics
+KM	Eschscholtzia tenuifolia	0.9	4-hydroxyphenylacetaldehyde	*
+KM	Papaver somniferum	1	4-hydroxyphenylacetaldehyde	*pH 7.0, 37&Acirc;&deg;C, hyperbolic saturation kinetics
+KM	Corydalis chinensis	1.829	4-hydroxyphenylacetaldehyde	*pH 7.3, 37&Acirc;&deg;C
+KM	Eschscholtzia tenuifolia	0.7	3,4-dihydroxyphenylacetaldehyde	*
+KM	Eschscholtzia tenuifolia	1	3,4-dihydroxyphenylacetaldehyde	*
+KM	Eschscholtzia tenuifolia	1.5	4-(2-Aminoethyl)benzene-1,2-diol	*
+KM	Eschscholtzia tenuifolia	5	4-(2-Aminoethyl)benzene-1,2-diol	*
+KM	Thalictrum flavum	335	(3,4-dihydroxyphenyl)acetaldehyde	*
+KM	Thalictrum flavum ssp. glaucum	-999	more	*sigmoidal saturation kinetics for dopamine, cooperativity between the dopamine binding sites on each subunit
+KM	Eschscholzia californica	-999	more	*kinetics, sigmoidal saturation kinetics for dopamine, Hill coeffcient 2.19, cooperativity between the dopamine binding sites on each subunit
+KM	Papaver somniferum	-999	more	*kinetics, sigmoidal saturation kinetics for dopamine, Hill coeffcient 1.84, cooperativity between the dopamine binding sites on each subunit
+KM	Thalictrum flavum ssp. glaucum	-999	more	*kinetics, sigmoidal saturation kinetics for dopamine, Hill coeffcient 2.16, cooperativity between the dopamine binding sites on each subunit
+PATH	*	(S)-reticuline biosynthesis I	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Isoquinoline alkaloid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Eschscholtzia tenuifolia	-999	*	*
+SA	Thalictrum flavum ssp. glaucum	0.09	*	*purified enzyme

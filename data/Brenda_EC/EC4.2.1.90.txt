@@ -1,0 +1,33 @@
+KCAT	Escherichia coli K-12	0.02	D-gulonate	*pH 7.9, 25&deg;C, wild-type enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.05	L-lyxonate	*pH 7.9, 25&deg;C, wild-type enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.1	L-mannonate	*pH 7.9, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli K-12	0.2	L-mannonate	*pH 7.9, 25&deg;C, wild-type enzyme
+KCAT	Azotobacter vinelandii	0.72	L-Rhamnonate	*pH 7.0, 30&deg;C
+KCAT	Escherichia coli K-12	2	L-lyxonate	*pH 7.9, 25&deg;C, wild-type enzyme
+KCAT	Escherichia coli K-12	3.2	L-Rhamnonate	*pH 7.9, 25&deg;C, wild-type enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	3.9	L-Rhamnonate	*pH 7.9, 25&deg;C, wild-type enzyme
+KCAT	Scheffersomyces stipitis	49.3	L-Rhamnonate	*pH 7.0, 30&deg;C
+KM	Azotobacter vinelandii	0.115	L-Rhamnonate	*pH 7.0, 30&Acirc;&deg;C
+KM	Escherichia coli K-12	0.15	L-Rhamnonate	*pH 7.9, 25&Acirc;&deg;C, wild-type enzyme
+KM	Salmonella enterica subsp. enterica serovar Typhimurium	0.25	L-Rhamnonate	*pH 7.9, 25&Acirc;&deg;C, wild-type enzyme
+KM	Scheffersomyces stipitis	1.37	L-Rhamnonate	*pH 7.0, 30&Acirc;&deg;C
+KM	Aspergillus niger	2.99	L-Rhamnonate	*pH and temperature not specified in the publication
+KM	Aspergillus niger	3	L-Rhamnonate	*recombinant enzyme, pH 7.0, temperature not specified in the publication
+KM	Salmonella enterica subsp. enterica serovar Typhimurium	0.06	L-mannonate	*pH 7.9, 25&Acirc;&deg;C, wild-type enzyme
+KM	Escherichia coli K-12	0.15	L-mannonate	*pH 7.9, 25&Acirc;&deg;C, wild-type enzyme
+KM	Salmonella enterica subsp. enterica serovar Typhimurium	1.6	L-lyxonate	*pH 7.9, 25&Acirc;&deg;C, wild-type enzyme
+KM	Escherichia coli K-12	2	L-lyxonate	*pH 7.9, 25&Acirc;&deg;C, wild-type enzyme
+KM	Sphingomonas sp.	-999	more	*the kcat/Km value with L-rhamnonate is 26.2fold and 59.2fold higher than those with L-lyxonate and L-mannonate, respectively, mainly due to 13.6fold and 30.2fold higher Km values, respectively
+KM	Aspergillus niger	-999	more	*Michaelis-Menten kinetics, overview
+KM	Scheffersomyces stipitis	-999	more	*Michaelis-Menten kinetics, overview
+KM	Aspergillus niger	-999	more	*Michaelis-Menten kinetics
+MW	Escherichia coli K-12	-999	*	*RhamD crystallizes as an octamer, in agreement with the oligomeric structure determined by gel filtration
+PATH	*	degradation of hexoses	*	*
+PATH	*	Fructose and mannose metabolism	*	*
+PATH	*	L-rhamnose degradation II	*	*
+PATH	*	L-rhamnose degradation III	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Scheffersomyces stipitis	0.0083	*	*
+SA	Schwanniomyces polymorphus	0.0085	*	*
+SA	Aureobasidium pullulans	0.17	*	*
