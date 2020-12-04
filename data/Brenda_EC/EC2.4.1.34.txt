@@ -1,0 +1,75 @@
+KCAT	Staphylococcus aureus	0.00217	UDPglucose	*D332A
+KCAT	Staphylococcus aureus	0.0433	UDPglucose	*D13A
+KCAT	Staphylococcus aureus	0.55	UDPglucose	*wild-type
+KCAT	Staphylococcus aureus	0.717	UDPglucose	*H125A
+KM	Cryptococcus neoformans	-999	more	*optimization of in vitro assay conditions
+KM	Candida glabrata	-999	more	*kinetics of wild-type and mutant enzymes, overview
+KM	Candida glabrata	0.1	[(1,3)-beta-D-glucosyl]n	*enzyme from wild-type strain 3168
+KM	Candida glabrata	0.12	[(1,3)-beta-D-glucosyl]n	*enzyme from wild-type strain 218
+KM	Candida glabrata	0.13	[(1,3)-beta-D-glucosyl]n	*enzyme from wild-type strain 90030
+KM	Cryptococcus neoformans	0.21	UDP-glucose	*pH 7.75
+KM	Arabidopsis thaliana	0.36	UDPglucose	*
+KM	Gossypium hirsutum	0.43	UDPglucose	*
+KM	Staphylococcus aureus	0.45	UDPglucose	*H125A
+KM	Euglena gracilis	0.6	UDPglucose	*
+KM	Saprolegnia monoica	0.63	UDPglucose	*1,3-beta-glucan synthase 2
+KM	Wickerhamomyces anomalus	0.67	UDPglucose	*
+KM	Arachis hypogaea	0.67	UDPglucose	*
+KM	Schizophyllum commune	0.8	UDPglucose	*
+KM	Papiliotrema laurentii	0.86	UDPglucose	*
+KM	Candida albicans	1.1	UDPglucose	*
+KM	Neurospora crassa	1.1	UDPglucose	*
+KM	Staphylococcus aureus	1.1	UDPglucose	*mutant D13A
+KM	Saprolegnia monoica	1.25	UDPglucose	*1,3-beta-glucan synthase 1
+KM	Staphylococcus aureus	1.3	UDPglucose	*wild-type
+KM	Exophiala dermatitidis	1.8	UDPglucose	*
+KM	Aspergillus fumigatus	1.92	UDPglucose	*
+KM	Neurospora crassa	2.9	UDPglucose	*
+KM	Staphylococcus aureus	3.3	UDPglucose	*mutant D332A
+KM	Saccharomyces cerevisiae	3.8	UDPglucose	*
+KM	Achlya ambisexualis	7.1	UDPglucose	*
+MW	Nicotiana tabacum	-999	*	*in BY-2 cells, callose synthase appears in two different protein complexes with masses of approximately 1500 kDa and at 800 kDa, each co-migrating with tubulin
+MW	Nicotiana alata	28000	*	*x * 28000, pollen isozyme, SDS-PAGE
+MW	Arachis hypogaea	48000	*	*x * 48000, SDS-PAGE
+MW	Agrobacterium sp.	50000	*	*PAGE
+MW	Phaseolus vulgaris	55000	*	*55000 + 65000, gel filtration
+MW	Paracoccidioides brasiliensis	57000	*	*recombinant protein
+MW	Neurospora crassa	58940	*	*calculated from nucleotide sequence
+MW	Agrobacterium sp.	60000	*	*x * 60000, SDS-PAGE, x * 73121, calculated
+MW	Agrobacterium sp.	73121	*	*x * 60000, SDS-PAGE, x * 73121, calculated
+MW	Phytophthora sojae	108000	*	*x * 108000, SDS-PAGE
+MW	Neurospora crassa	165000	*	*x * 165000, SDS-PAGE
+MW	Neurospora crassa	193000	*	*x * 193000, SDS-PAGE
+MW	Saccharomyces cerevisiae	200000	*	*x * 200000, SDS-PAGE
+MW	Arabidopsis thaliana	220000	*	*x * 220000, calculated
+MW	Nicotiana alata	220000	*	*pollen isozyme
+MW	Metarhizium acridum	221700	*	*calculated from cDNA
+MW	Neurospora crassa	223000	*	*gel filtration
+MW	Schizosaccharomyces pombe	225000	*	*x * 225000, calculated
+MW	Aspergillus nidulans	229000	*	*calculated from nucleotide sequence
+MW	Agrobacterium sp.	420000	*	*PAGE
+PATH	*	1,3-beta-D-glucan biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Starch and sucrose metabolism	*	*
+SA	Arabidopsis thaliana	-999	*	*45 nmol/min/g FW
+SA	Nicotiana tabacum	-999	*	*10 nmol/min/g FW
+SA	Saccharomyces cerevisiae	0.00054	*	*isoenzyme DELTAgns1
+SA	Candida albicans	0.00126	*	*
+SA	Saccharomyces cerevisiae	0.00292	*	*wild-type
+SA	Candida albicans	0.0041	*	*with polyoxyethylene ether in the assay but not during cell breakage
+SA	Aspergillus fumigatus	0.0048	*	*membrane
+SA	Aspergillus fumigatus	0.0048	*	*
+SA	Aspergillus fumigatus	0.0096	*	*membrane plus W-1
+SA	Aspergillus fumigatus	0.0109	*	*solubilized
+SA	Candida albicans	0.0125	*	*with polyoxyethylene ether in the assay and during cell breakage
+SA	Neurospora crassa	0.0584	*	*wild-type without GTP
+SA	Neurospora crassa	0.0776	*	*MAN-04 mutant without GTP
+SA	Neurospora crassa	0.0924	*	*wild-type with GTPgammaS
+SA	Neurospora crassa	0.105	*	*MAN-04 with GTPgammaS
+SA	Neurospora crassa	0.11	*	*RCP-3 mutant without GTP
+SA	Neurospora crassa	0.33	*	*RCP-3 mutant with GTPgammaS
+SA	Aspergillus nidulans	0.85	*	*
+SA	Saccharomyces cerevisiae	4	*	*
+SA	Neurospora crassa	14	*	*
+SA	Pisum sativum	27.9	*	*
+SA	Phaseolus vulgaris	1440	*	*

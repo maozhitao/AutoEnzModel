@@ -1,0 +1,35 @@
+KM	Pseudomonas fluorescens	0.05	O2	*+ skatole or 3-indolemethanol, TSO I
+KM	Pseudomonas fluorescens	0.05	O2	*cosubstrate 3-methylindole, i.e. skatole
+KM	Pseudomonas fluorescens	0.0015	L-tryptophan	*TSO I
+KM	Pseudomonas sp.	0.0015	L-tryptophan	*at pH 6.0
+KM	Pseudomonas sp.	0.004	L-tryptophan	*at pH 3.0
+KM	Pseudomonas fluorescens	0.01	L-tryptophan	*TSO II
+KM	Pseudomonas fluorescens	0.67	ferricyanide	*
+KM	Pseudomonas fluorescens	0.1	N-Acetyl-L-tryptophanamide	*TSO I
+KM	Pseudomonas fluorescens	0.12	N-Acetyl-L-tryptophanamide	*TSO II
+KM	Pseudomonas fluorescens	0.0435	3-indolemethanol	*TSO I
+KM	Pseudomonas fluorescens	0.0435	3-indolemethanol	*
+KM	Pseudomonas fluorescens	0.055	3-indolemethanol	*TSO II
+KM	Pseudomonas fluorescens	0.055	3-indolemethanol	*cosubstrate O2
+KM	Pseudomonas fluorescens	0.0154	3-Methylindole	*TSO I
+KM	Pseudomonas fluorescens	0.0154	3-Methylindole	*+ skatole
+KM	Pseudomonas fluorescens	0.025	3-Methylindole	*TSO II
+KM	Pseudomonas fluorescens	0.48	indole-3-methanol	*
+MW	Pseudomonas fluorescens	28000	*	*x * 64000 + x * 40000 + x + 35000 + x * 28000, TSO I, SDS-PAGE
+MW	Pseudomonas fluorescens	40000	*	*x * 64000 + x * 40000 + x + 35000 + x * 28000, TSO I, SDS-PAGE
+MW	Pseudomonas fluorescens	48000	*	*1 * 72000 (dehydrogenase component) + 1 * 48000 (oxidase component), TSO II, SDS-PAGE; x * 72000 + x * 48000, TSO II, SDS-PAGE
+MW	Pseudomonas fluorescens	48000	*	*1 * 72000 (dehydrogenase component) + 1 * 48000 (oxidase component), TSO II, SDS-PAGE
+MW	Pseudomonas fluorescens	64000	*	*x * 64000 + x * 40000 + x + 35000 + x * 28000, TSO I, SDS-PAGE
+MW	Pseudomonas fluorescens	72000	*	*1 * 72000 (dehydrogenase component) + 1 * 48000 (oxidase component), TSO II, SDS-PAGE; x * 72000 + x * 48000, TSO II, SDS-PAGE
+MW	Pseudomonas fluorescens	72000	*	*1 * 72000 (dehydrogenase component) + 1 * 48000 (oxidase component), TSO II, SDS-PAGE
+MW	Pseudomonas fluorescens	150000	*	*TSO II; TSO II, gel filtration
+MW	Pseudomonas sp.	250000	*	*sedimentation equilibrium ultracentrifugation
+MW	Pseudomonas fluorescens	280000	*	*TSO I, gel filtration
+MW	Pseudomonas sp.	280000	*	*gel filtration
+PATH	*	Metabolic pathways	*	*
+PATH	*	Tryptophan metabolism	*	*
+PATH	*	tryptophan metabolism	*	*
+SA	Pseudomonas fluorescens	-999	*	*
+SA	Pseudomonas sp.	1.3	*	*
+SA	Pseudomonas sp.	14	*	*
+SA	Pseudomonas fluorescens	29.2	*	*

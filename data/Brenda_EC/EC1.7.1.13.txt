@@ -1,0 +1,37 @@
+KCAT	Escherichia coli	0.0033	NADPH	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.01	NADPH	*
+KCAT	Pectobacterium carotovorum subsp. carotovorum	0.025	NADPH	*pH 7.4, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.142	NADPH	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Pectobacterium carotovorum subsp. carotovorum	0.024	7-cyano-7-carbaguanine	*pH 7.4, 30&Acirc;&deg;C
+KCAT	Escherichia coli	0.12	7-cyano-7-carbaguanine	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.127	7-cyano-7-deazaguanine	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.11	2-amino-5-cyanopyrrolo[2,3-d]pyrimidin-4-one	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.05	5-cyanopyrrolo[2,3-d]pyrimidin-4-one	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.14	7-cyano-7-carba-2-deaminoguanine	*pH 7.5, 25&Acirc;&deg;C
+KM	Escherichia coli	0.0002	NADPH	*or below, pH 7.0, 37&Acirc;&deg;C
+KM	Escherichia coli	0.006	NADPH	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KM	Escherichia coli	0.0078	NADPH	*pH 7.5, 25&Acirc;&deg;C
+KM	Escherichia coli	0.036	NADPH	*
+KM	Pectobacterium carotovorum subsp. carotovorum	0.229	NADPH	*pH 7.4, 30&Acirc;&deg;C
+KM	Pectobacterium carotovorum subsp. carotovorum	0.00025	7-cyano-7-carbaguanine	*below 0.25 microM, pH 7.4, 30&Acirc;&deg;C
+KM	Escherichia coli	0.001	7-cyano-7-carbaguanine	*below 1 microM, pH 7.5, 25&Acirc;&deg;C
+KM	Escherichia coli	0.0015	7-cyano-7-deazaguanine	*or below, pH 7.0, 37&Acirc;&deg;C
+KM	Escherichia coli	0.0061	2-amino-5-cyanopyrrolo[2,3-d]pyrimidin-4-one	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KM	Escherichia coli	0.176	5-cyanopyrrolo[2,3-d]pyrimidin-4-one	*wild-type, pH 7.5, 25&Acirc;&deg;C
+KM	Escherichia coli	0.05	7-cyano-7-carba-2-deaminoguanine	*pH 7.5, 25&Acirc;&deg;C
+MW	Vibrio cholerae	33000	*	*2 * 33000, gel filtration
+MW	Pectobacterium carotovorum subsp. carotovorum	62000	*	*gel filtration
+MW	Vibrio cholerae	67900	*	*gel filtration
+PATH	*	Folate biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	queuosine biosynthesis I (de novo)	*	*
+SA	Escherichia coli	3	*	*substrate 5-cyanopyrrolo[2,3-d]pyrimidin-4-one, mutant E230Q, pH 7.5, 25&deg;C
+SA	Escherichia coli	3.8	*	*substrate 5-cyanopyrrolo[2,3-d]pyrimidin-4-one, mutant S90A, pH 7.5, 25&deg;C
+SA	Escherichia coli	4.4	*	*substrate 2-amino-5-cyanopyrrolo[2,3-d]pyrimidin-4-one, mutant E230Q, pH 7.5, 25&deg;C
+SA	Escherichia coli	8.7	*	*substrate 5-cyanopyrrolo[2,3-d]pyrimidin-4-one, mutant F228W, pH 7.5, 25&deg;C
+SA	Escherichia coli	10.8	*	*substrate 2-amino-5-cyanopyrrolo[2,3-d]pyrimidin-4-one, mutant F228W, pH 7.5, 25&deg;C
+SA	Escherichia coli	12.9	*	*substrate 2-amino-5-cyanopyrrolo[2,3-d]pyrimidin-4-one, mutant S90A, pH 7.5, 25&deg;C
+SA	Escherichia coli	14.3	*	*substrate 5-cyanopyrrolo[2,3-d]pyrimidin-4-one, mutant H229A, pH 7.5, 25&deg;C
+SA	Escherichia coli	17.9	*	*substrate 2-amino-5-cyanopyrrolo[2,3-d]pyrimidin-4-one, mutant H229A, pH 7.5, 25&deg;C
+SA	Escherichia coli	90	*	*substrate 5-cyanopyrrolo[2,3-d]pyrimidin-4-one, wild-type, pH 7.5, 25&deg;C
+SA	Escherichia coli	117	*	*substrate 2-amino-5-cyanopyrrolo[2,3-d]pyrimidin-4-one, wild-type, pH 7.5, 25&deg;C

@@ -1,0 +1,92 @@
+KCAT	Synechococcus sp.	0.52	DL-glyceraldehyde	*1 mM
+KCAT	Synechococcus sp.	0.62	D-glucose	*50 mM
+KCAT	Synechococcus sp.	0.65	isopentaldehyde	*1 mM
+KCAT	Synechococcus sp.	0.68	D-galactose	*50 mM
+KCAT	Synechococcus sp.	0.85	methylglyoxal	*1 mM
+KCAT	Synechococcus sp.	1.05	benzaldehyde	*1 mM
+KCAT	Synechococcus sp.	1.12	3-Nitrobenzaldehyde	*1 mM
+KCAT	Synechococcus sp.	1.22	D-xylose	*50 mM
+KCAT	Synechococcus sp.	1.24	4-nitrobenzaldehyde	*1 mM
+KCAT	Synechococcus sp.	1.27	L-arabinose	*50 mM
+KCAT	Synechococcus sp.	1.31	2-nitrobenzaldehyde	*1 mM
+KCAT	Kluyveromyces marxianus	2.5	methyl glyoxal	*pH 6.0, 25&deg;
+KCAT	Kluyveromyces marxianus	2.67	NADPH	*pH 6.0, 25&deg;
+KCAT	Kluyveromyces marxianus	3.67	NADPH	*pH 6.0, 25&deg;
+KCAT	Kluyveromyces marxianus	4	methyl glyoxal	*pH 6.0, 25&deg;
+KM	Saccharomyces cerevisiae	0.0002	NADH	*
+KM	Aspergillus niger	0.0068	NADPH	*enzyme MGR II
+KM	Kluyveromyces marxianus	0.028	NADPH	*pH 6.0, 25&deg;
+KM	Kluyveromyces marxianus	0.034	NADPH	*pH 6.0, 25&deg;
+KM	Cyberlindnera mrakii	0.0408	NADPH	*
+KM	Aspergillus niger	0.054	NADPH	*enzyme MGR I
+KM	Synechococcus sp.	0.08	methylglyoxal	*1 mM
+KM	Synechococcus sp.	0.31	2-nitrobenzaldehyde	*1 mM
+KM	Kluyveromyces marxianus	0.43	methyl glyoxal	*pH 6.0, 25&deg;
+KM	Synechococcus sp.	0.56	DL-glyceraldehyde	*1 mM
+KM	Aspergillus niger	0.7	methylglyoxal	*
+KM	Synechococcus sp.	0.85	4-nitrobenzaldehyde	*1 mM
+KM	Synechococcus sp.	0.91	3-Nitrobenzaldehyde	*1 mM
+KM	Synechococcus sp.	1.33	isopentaldehyde	*1 mM
+KM	Aspergillus niger	1.43	methylglyoxal	*enzyme MGR I
+KM	Saccharomyces cerevisiae	1.54	Phenylglyoxal	*
+KM	Kluyveromyces marxianus	1.6	methyl glyoxal	*pH 6.0, 25&deg;
+KM	Synechococcus sp.	1.69	benzaldehyde	*1 mM
+KM	Cyberlindnera mrakii	1.92	methylglyoxal	*
+KM	Aspergillus niger	4.35	Phenylglyoxal	*enzyme MGR II
+KM	Saccharomyces cerevisiae	5.88	methylglyoxal	*
+KM	Aspergillus niger	10	Glyoxal	*enzyme MGR II
+KM	Aspergillus niger	15.4	methylglyoxal	*enzyme MGR I
+KM	Synechococcus sp.	104	D-xylose	*50 mM
+KM	Synechococcus sp.	160	D-galactose	*50 mM
+KM	Synechococcus sp.	234	L-arabinose	*50 mM
+KM	Synechococcus sp.	445	D-glucose	*50 mM
+MW	Cyberlindnera mrakii	34000	*	*gel filtration, SDS-PAGE
+MW	Kluyveromyces marxianus	35800	*	*gel filtration
+MW	Aspergillus niger	36000	*	*1 * 36000, enzyme MGR I, 1 * 38000, enzyme MGR II, similar enzyme with NADPH-requirement for methylglyoxal reduction, that is inactive with NAD+, NADH and NADP+, SDS-PAGE
+MW	Kluyveromyces marxianus	36900	*	*gel filtration
+MW	Aspergillus niger	37000	*	*enzyme MGR I, similar enzyme with NADPH-requirement for methylglyoxal reduction, that is inactive with NAD+, NADH and NADP+, gel filtration
+MW	Kluyveromyces marxianus	37000	*	*1 * 37000, SDS-PAGE; 1 * 37000, SDS-PAGE
+MW	Aspergillus niger	38000	*	*enzyme MGR II, similar enzyme with NADPH-requirement for methylglyoxal reduction, that is inactive with NAD+, NADH and NADP+, gel filtration
+MW	Saccharomyces cerevisiae	43000	*	*gel filtration, SDS-PAGE
+PATH	*	chorismate metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	methylglyoxal degradation IV	*	*
+PATH	*	methylglyoxal degradation V	*	*
+PATH	*	Propanoate metabolism	*	*
+PATH	*	Pyruvate metabolism	*	*
+SA	Trypanosoma cruzi	0.0048	*	*at 25&deg;C, in 50 mM HEPES (pH 7.0)
+SA	Leishmania major	0.0053	*	*at 25&deg;C, in 50 mM HEPES (pH 7.0)
+SA	Trypanosoma brucei	0.0094	*	*at 25&deg;C, in 50 mM HEPES (pH 7.0)
+SA	Synechococcus sp.	0.038	*	*1 mM acetaldehyde as substrate
+SA	Synechococcus sp.	0.047	*	*1 mM crotonaldehyde as substrate; 1 mM isatin as substrate
+SA	Synechococcus sp.	0.048	*	*1 mM dihydroxyacetone as substrate
+SA	Synechococcus sp.	0.109	*	*50 mM D-glucose as substrate
+SA	Synechococcus sp.	0.211	*	*1 mM ninhydrin as substrate
+SA	Synechococcus sp.	0.225	*	*1 mM succinic semialdehyde as substrate
+SA	Synechococcus sp.	0.24	*	*50 mM D-galactose as substrate
+SA	Synechococcus sp.	0.364	*	*50 mM L-arabinose as substrate
+SA	Synechococcus sp.	0.373	*	*1 mM diacetyl as substrate
+SA	Synechococcus sp.	0.507	*	*1 mM DL-glyceraldehyde as substrate
+SA	Synechococcus sp.	0.641	*	*1 mM isopentaldehyde as substrate
+SA	Synechococcus sp.	0.651	*	*1 mM benzaldehyde as substrate
+SA	Synechococcus sp.	0.66	*	*50 mM D-xylose as substrate
+SA	Aspergillus niger	0.83	*	*enzyme MGR I
+SA	Kluyveromyces marxianus	0.96	*	*substrate methylglyoxal, pH 6.0, 25&deg;C
+SA	Synechococcus sp.	1.072	*	*1 mM 3-nitrobenzaldehyde as substrate
+SA	Synechococcus sp.	1.091	*	*1 mM 4-nitrobenzaldehyde as substrate
+SA	Kluyveromyces marxianus	1.1	*	*substrate p-anisaldehyde, pH 6.0, 25&deg;C
+SA	Synechococcus sp.	1.206	*	*1 mM 2-nitrobenzaldehyde as substrate
+SA	Synechococcus sp.	1.278	*	*1 mM methylglyoxal as substrate
+SA	Kluyveromyces marxianus	2.1	*	*substrate octanal, pH 6.0, 25&deg;C; substrate valeraldehyde, pH 6.0, 25&deg;C
+SA	Kluyveromyces marxianus	3	*	*substrate heptanal, pH 6.0, 25&deg;C
+SA	Kluyveromyces marxianus	3.2	*	*substrate methyl glyoxal, pH 6.0, 25&deg;C
+SA	Kluyveromyces marxianus	3.3	*	*substrate isovaleraldehyde, pH 6.0, 25&deg;C
+SA	Kluyveromyces marxianus	4.2	*	*substrate isovaleraldehyde, pH 6.0, 25&deg;C
+SA	Kluyveromyces marxianus	4.5	*	*substrate p-anisaldehyde, pH 6.0, 25&deg;C
+SA	Kluyveromyces marxianus	5.3	*	*substrate octanal, pH 6.0, 25&deg;C
+SA	Kluyveromyces marxianus	5.9	*	*substrate valeraldehyde, pH 6.0, 25&deg;C
+SA	Kluyveromyces marxianus	6.9	*	*substrate heptanal, pH 6.0, 25&deg;C
+SA	Aspergillus niger	7.77	*	*enzyme MGR II
+SA	Saccharomyces cerevisiae	8.35	*	*
+SA	Saccharomyces cerevisiae	8.38	*	*
+SA	Cyberlindnera mrakii	48.9	*	*

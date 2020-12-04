@@ -1,0 +1,23 @@
+KCAT	Acholeplasma laidlawii	1	2-deoxy-D-glucose	*pH 6.0, 40&deg;C, reverse reaction
+KCAT	Acholeplasma laidlawii	1.4	D-glucose	*pH 6.0, 40&deg;C, reverse reaction
+KCAT	Acholeplasma laidlawii	6.5	laminaribiose	*pH 7.5, 40&deg;C, co-substrate: phosphate
+KCAT	Paenibacillus sp.	19	laminaribiose	*co-substrate: phosphate, pH 7.0, 45&deg;C
+KM	Paenibacillus sp.	0.14	phosphate	*pH 7.0, 45&Acirc;&deg;C
+KM	Acholeplasma laidlawii	0.4	phosphate	*pH 7.5, 40&Acirc;&deg;C
+KM	Euglena gracilis	2.5	phosphate	*with laminaribiose addition
+KM	Acholeplasma laidlawii	0.4	D-glucose	*pH 6.0, 40&Acirc;&deg;C, reverse reaction
+KM	Euglena gracilis	19	D-glucose	*with glucose 1-phosphate addition
+KM	Acholeplasma laidlawii	0.7	2-deoxy-D-glucose	*pH 6.0, 40&Acirc;&deg;C, reverse reaction
+KM	Euglena gracilis	2.1	D-glucose 1-phosphate	*with glucose addition
+KM	Paenibacillus sp.	0.48	laminaribiose	*pH 7.0, 45&Acirc;&deg;C
+KM	Acholeplasma laidlawii	2.7	laminaribiose	*pH 7.5, 40&Acirc;&deg;C
+KM	Euglena gracilis	5	laminaribiose	*with phosphate addition
+KM	Euglena gracilis	6	laminaritriose	*with phosphate addition
+KM	Euglena gracilis	-999	more	*linear within certain limits
+MW	Paenibacillus sp.	100000	*	*SDS-PAGE, monomer
+MW	Euglena gracilis	120000	*	*2 * 120000, SDS-PAGE
+MW	Euglena gracilis	200000	*	*gel filtration
+MW	Paenibacillus sp.	200000	*	*gel filtration, dimer
+PATH	*	laminaribiose degradation	*	*
+SA	Euglena gracilis	-999	*	*
+SA	Euglena gracilis	24	*	*D-glucose + D-glucose 1-phosphate, in DEAE-eluate

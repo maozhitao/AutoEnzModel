@@ -1,0 +1,60 @@
+KCAT	Bacillus subtilis	0.23	myo-inositol	*pH 9.0, 25&deg;C, recombinant mutant H176A
+KCAT	Bacillus subtilis	1.9	myo-inositol	*pH 9.0, 25&deg;C, recombinant mutant D172N
+KCAT	Bacillus subtilis	34	myo-inositol	*pH 9.0, 25&deg;C, recombinant mutant Y235F
+KCAT	Bacillus subtilis	47	myo-inositol	*pH 9.0, 25&deg;C, recombinant mutant Y233F
+KCAT	Bacillus subtilis	58	myo-inositol	*pH 9.0, 25&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus subtilis	73	myo-inositol	*pH 9.0, 25&deg;C, recombinant mutant D179N
+KM	Bacillus subtilis	0.07	NAD+	*pH 9.0, 25&deg;C, recombinant mutant Y233F
+KM	Bacillus subtilis	0.08	NAD+	*pH 9.0, 25&deg;C, recombinant wild-type enzyme
+KM	Bacillus subtilis	0.11	NAD+	*pH 9.0, 25&deg;C, recombinant mutant Y235F
+KM	Bacillus subtilis	0.23	NAD+	*
+KM	Bacillus subtilis	0.3	NAD+	*pH 9.0, 25&deg;C, recombinant mutant H176A
+KM	Bacillus subtilis	0.4	NAD+	*pH 9.0, 25&deg;C, recombinant mutant D179N
+KM	Bacillus subtilis	1.1	NAD+	*pH 9.0, 25&deg;C, recombinant mutant D172N
+KM	Galdieria sulphuraria	1.3	scyllo-inosose	*
+KM	Bacillus subtilis	3	methyl 4-([[(1S,2S,3R,4S,5S)-2,3,4,5-tetrahydroxycyclohexyl]oxy]methyl)benzoate	*25&deg;C, pH 9.0
+KM	Bacillus subtilis	4	(1S,2S,3R,4S,5S)-5-(benzyloxy)cyclohexane-1,2,3,4-tetrol	*25&deg;C, pH 9.0
+KM	Bacillus subtilis	4	myo-inositol	*pH 9.0, 25&deg;C, recombinant mutant Y233F
+KM	Bacillus subtilis	4.4	myo-inositol	*pH 9.0, 25&deg;C, recombinant wild-type enzyme
+KM	Bacillus subtilis	7	(1S,2S,3R,4S,5S)-5-(allyloxy)cyclohexane-1,2,3,4-tetrol	*25&deg;C, pH 9.0
+KM	Bacillus subtilis	8	(1S,2S,3R,4S,5S)-5-methoxycyclohexane-1,2,3,4-tetrol	*25&deg;C, pH 9.0
+KM	Bacillus subtilis	9	alpha-D-glucopyranosyl-(1,6)-myo-inositol	*
+KM	Bacillus subtilis	18	myo-inositol	*
+KM	Bacillus subtilis	18	myo-inositol	*25&deg;C, pH 9.0
+KM	Bacillus subtilis	28	myo-inositol	*pH 9.0, 25&deg;C, recombinant mutant D179N
+KM	Bacillus subtilis	39	myo-inositol	*pH 9.0, 25&deg;C, recombinant mutant Y235F
+KM	Bacillus subtilis	44	4-([[(1S,2S,3R,4S,5S)-2,3,4,5-tetrahydroxycyclohexyl]oxy]methyl)benzoic acid	*25&deg;C, pH 9.0
+KM	Bacillus subtilis	56	alpha-D-glucose	*
+KM	Bacillus subtilis	57	melibiose	*25&deg;C, pH 9.0
+KM	Bacillus subtilis	65	myo-inositol	*pH 9.0, 25&deg;C, recombinant mutant D172N
+KM	Bacillus subtilis	118	myo-inositol	*pH 9.0, 25&deg;C, recombinant mutant H176A
+KM	Bacillus subtilis	167	D-glucose	*
+KM	Bacillus subtilis	190	D-xylose	*
+KM	Galdieria sulphuraria	430	myo-inositol	*
+MW	Bacillus subtilis	30000	*	*x * 30000, SDS-PAGE
+MW	Sinorhizobium fredii	34648	*	*x * 34648, calculation from ORF of cDNA sequence
+MW	Sinorhizobium meliloti	35130	*	*x * 35130, calculation from ORF of cDNA sequence
+MW	Bacillus subtilis	39000	*	*4 * 39000, SDS-PAGE
+MW	Bacillus subtilis	39170	*	*x * 39170, His-tagged recombiant enzyme, SDS-PAGE
+MW	Galdieria sulphuraria	42000	*	*4 * 42000, SDS-PAGE
+MW	Galdieria sulphuraria	160000	*	*density gradient centrifugation
+MW	Bacillus subtilis	160000	*	*gel filtration
+MW	Bacillus subtilis	160000	*	*gel filtration
+MW	Galdieria sulphuraria	180000	*	*gel filtration
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Inositol phosphate metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	myo-, chiro- and scyllo-inositol degradation	*	*
+PATH	*	myo-inositol biosynthesis	*	*
+PATH	*	myo-inositol degradation I	*	*
+PATH	*	myo-inositol degradation II	*	*
+PATH	*	streptomycin biosynthesis	*	*
+PATH	*	Streptomycin biosynthesis	*	*
+SA	Sinorhizobium fredii	0.07	*	*after induction of gene expression by myo-inositol
+SA	Sinorhizobium meliloti	0.241	*	*after induction of gene expression by myo-inositol
+SA	Myxozyma melibiosi	1.68	*	*
+SA	Bacillus subtilis	12	*	*overepression in Escherichia coli
+SA	Bacillus subtilis	34.3	*	*
+SA	Galdieria sulphuraria	50	*	*
+SA	Klebsiella aerogenes	280	*	*

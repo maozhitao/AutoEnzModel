@@ -1,0 +1,197 @@
+KCAT	Thermoanaerobacterium thermosaccharolyticum	1.89	glycerol	*pH 8.0, 60&deg;C, recombinant enzyme
+KCAT	Klebsiella pneumoniae	2.06	glycerol	*pH 10.0, 30&deg;C, free enzyme
+KCAT	Klebsiella pneumoniae	2.6	1,3-butanediol	*pH 9.5, 30&deg;C
+KCAT	Salmonella enterica	2.7	1,3-butanediol	*pH 9.5, 30&deg;C
+KCAT	Escherichia coli	3.3	1,3-butanediol	*wild type protein, pH 9.5, 30&deg;C
+KCAT	Klebsiella pneumoniae	3.36	glycerol	*pH 10.0, 30&deg;C, immobilized enzyme
+KCAT	Escherichia coli	9.1	1,3-butanediol	*mutant protein Q70H/G193C/E291Q/A310T, pH 9.5, 30&deg;C
+KCAT	Escherichia coli	62.4	1,3-butanediol	*mutant protein D121A, pH 9.5, 30&deg;C
+KCAT	Escherichia coli	87.2	1,3-butanediol	*mutant protein Q70H/D121A/G193C/E291Q/A310T, pH 9.5, 30&deg;C
+KCAT	Thermoanaerobacterium thermosaccharolyticum	98.44	Glycerone	*pH 6.0, 60&deg;C, recombinant enzyme
+KM	Escherichia coli	-999	more	*kinetic study with different effectors, overview
+KM	Thermotoga maritima	-999	more	*Michaelis-Menten kinetics, cooperative behavior of TmGlyDH
+KM	Klebsiella pneumoniae subsp. pneumoniae	-999	more	*kinetic and thermodynamic analysis, Michaelis-Menten kinetics, overview
+KM	Klebsiella pneumoniae	-999	more	*kinetic model based on an ordered bi-bi mechanism, thermodynamics, simulations, overview; kinetic modeling based on an ordered Bi-Bi mechanism, nonlinear regression-based kinetic parameter estimation. Thermodynamics, overview
+KM	Klebsiella pneumoniae	-999	more	*kinetic study of the metal ion-chelated polyethyleneimines-immobilized enzyme
+KM	Thermus thermophilus	0.005	NADH	*pH and temperature not specified in the publication
+KM	Klebsiella aerogenes	0.014	NADH	*
+KM	Thermus thermophilus	0.015	NAD+	*pH and temperature not specified in the publication
+KM	Escherichia coli	0.0165	NAD+	*wild type protein, pH 9.5, 30&deg;C
+KM	Escherichia coli	0.0182	NAD+	*mutant protein Q70H/G193C/E291Q/A310T, pH 9.5, 30&deg;C
+KM	Thermotoga maritima	0.02	NADH	*pH 7.9, 50&deg;C, recombinant wild-type enzyme
+KM	Thermotoga maritima	0.021	NAD+	*pH 7.4, 50&deg;C, recombinant mutant V44A/K157G
+KM	Cellulomonas sp.	0.0238	2,3-Butanediol	*
+KM	Thermotoga maritima	0.024	NAD+	*pH 7.4, 50&deg;C, recombinant wild-type enzyme
+KM	Thermotoga maritima	0.025	NAD+	*pH 7.4, 50&deg;C, recombinant mutant K157N
+KM	Thermotoga maritima	0.031	NAD+	*pH 7.4, 50&deg;C, recombinant mutant K157G
+KM	Thermotoga maritima	0.039	NAD+	*pH 7.4, 50&deg;C, recombinant mutant V44A/K157N
+KM	Pichia membranifaciens	0.048	NADH	*25&deg;C
+KM	Escherichia coli	0.05	NADH	*pH 6.5, 30&deg;C, recombinant enzyme
+KM	Thermotoga maritima	0.051	NAD+	*pH 7.9, 50&deg;C, recombinant wild-type enzyme
+KM	Klebsiella pneumoniae	0.0513	NADH	*recombinant chimeric enzyme GDH-NOX, pH 11.0, 37&deg;C
+KM	Cellulomonas sp.	0.06	1,2-propanediol	*pH 8.8, 25&deg;C
+KM	Schizosaccharomyces pombe	0.06	dihydroxyacetone	*pH 6.0
+KM	Thermoanaerobacterium thermosaccharolyticum	0.06	NADH	*pH 6.0, 60&deg;C, recombinant enzyme
+KM	Thermus thermophilus	0.07	D-glyceraldehyde	*pH and temperature not specified in the publication
+KM	Thermotoga maritima	0.07	NAD+	*pH 7.4, 50&deg;C, recombinant mutant V44A
+KM	Escherichia coli	0.07	NADH	*pH 6.5, 30&deg;C, recombinant enzyme, in presence of 20 mM KCl
+KM	Thermotoga maritima	0.08	N6-CM-NAD+	*pH 7.4, 50&deg;C, recombinant mutant K157G
+KM	Clostridium butyricum	0.08	NADH	*pH 9.1, 37&deg;C, wild-type enzyme
+KM	Escherichia coli	0.08	NADH	*pH 6.5, 30&deg;C, recombinant enzyme, in presence of 30 mM NH4Cl
+KM	Thermotoga maritima	0.088	NAD+	*pH 7.4, 50&deg;C, recombinant mutant I154A
+KM	Cellulomonas sp.	0.089	NAD+	*pH 9.0, 25&deg;C
+KM	Thermotoga maritima	0.108	NAD+	*pH 7.4, 50&deg;C, recombinant mutant I154A/K157G
+KM	Schizosaccharomyces pombe	0.12	NADH	*pH 6.0
+KM	Clostridium butyricum	0.12	NADH	*pH 9.1, 37&deg;C, mutant D
+KM	Schizosaccharomyces pombe	0.13	NAD+	*pH 10.0
+KM	Pichia membranifaciens	0.14	NAD+	*25&deg;C
+KM	Escherichia coli	0.15	Glycerone	*pH 6.5, 30&deg;C, recombinant enzyme
+KM	Thermotoga maritima	0.15	N6-CM-NAD+	*pH 7.4, 50&deg;C, recombinant mutant V44A
+KM	Klebsiella aerogenes	0.15	NAD+	*
+KM	Thermotoga maritima	0.186	N6-CM-NAD+	*pH 7.4, 50&deg;C, recombinant mutant V44A/K157N
+KM	Thermus thermophilus	0.2	glycerol	*pH and temperature not specified in the publication
+KM	Cellulomonas sp.	0.202	1,2-propanediol	*
+KM	Escherichia coli	0.22	Glycerone	*pH 6.5, 30&deg;C, recombinant enzyme, in presence of 30 mM NH4Cl
+KM	Klebsiella pneumoniae subsp. pneumoniae	0.23	NAD+	*Mg-GDH, pH 12.0, 45&deg;C, recombinant enzyme
+KM	Escherichia coli	0.24	Glycerone	*pH 6.5, 30&deg;C, recombinant enzyme, in presence of 20 mM KCl
+KM	Thermotoga maritima	0.25	N6-CM-NAD+	*pH 7.4, 50&deg;C, recombinant mutant V44A/K157G
+KM	Thermus thermophilus	0.3	2-butanol	*pH and temperature not specified in the publication
+KM	Bacillus megaterium	0.3	NAD+	*pH 9.0, 25&deg;C
+KM	Thermotoga maritima	0.351	NAD+	*pH 7.4, 50&deg;C, recombinant mutant V44A/I154A
+KM	Thermotoga maritima	0.36	N6-CM-NAD+	*pH 7.4, 50&deg;C, recombinant mutant K157N
+KM	Thermotoga maritima	0.37	N6-CM-NAD+	*pH 7.4, 50&deg;C, recombinant wild-type enzyme
+KM	Klebsiella pneumoniae subsp. pneumoniae	0.38	NAD+	*wild-type Zn-GDH, pH 12.0, 45&deg;C, recombinant enzyme
+KM	Cellulomonas sp.	0.385	dihydroxyacetone	*
+KM	Cellulomonas sp.	0.385	dihydroxyacetone	*pH 6.0, 25&deg;C
+KM	Escherichia coli	0.4614	NAD+	*mutant protein Q70H/D121A/G193C/E291Q/A310T, pH 9.5, 30&deg;C
+KM	Schizosaccharomyces pombe	0.5	glycerol	*pH 10.0
+KM	Escherichia coli	0.5946	NAD+	*mutant protein D121A, pH 9.5, 30&deg;C
+KM	Thermotoga maritima	0.6	NAD+	*pH 7.4, 50&deg;C, recombinant mutant V44A/I154A/K157G
+KM	Thermotoga maritima	0.73	N6-CM-NAD+	*pH 7.4, 50&deg;C, recombinant mutant I154A
+KM	Pichia membranifaciens	0.77	dihydroxyacetone	*25&deg;C
+KM	Arthrobacter sp.	0.8	glycerol	*pH 10, 35&deg;C
+KM	Escherichia coli	0.81	NAD+	*pH 10.3, 30&deg;C, recombinant enzyme
+KM	Escherichia coli	1	NAD+	*pH 10.3, 30&deg;C, recombinant enzyme, in presence of 30 mM NH4Cl
+KM	Thermoanaerobacterium thermosaccharolyticum	1.08	Glycerone	*pH 6.0, 60&deg;C, recombinant enzyme
+KM	Klebsiella pneumoniae subsp. pneumoniae	1.12	NAD+	*Mg-GDH, pH 12.0, 45&deg;C, recombinant enzyme
+KM	Clostridium butyricum	1.18	dihydroxyacetone	*pH 9.1, 37&deg;C, wild-type enzyme
+KM	Klebsiella aerogenes	1.3	dihydroxyacetone	*
+KM	Bacillus megaterium	1.4	glycerol	*pH 9.0, 25&deg;C
+KM	Thermotoga maritima	1.5	N6-CM-NAD+	*pH 7.4, 50&deg;C, recombinant mutant I154A/K157G
+KM	Clostridium butyricum	2	dihydroxyacetone	*pH 9.1, 37&deg;C, mutant D
+KM	Thermotoga maritima	2.3	N6-CM-NAD+	*pH 7.4, 50&deg;C, recombinant mutant V44A/I154A/K157G
+KM	Thermotoga maritima	2.9	N6-CM-NAD+	*pH 7.4, 50&deg;C, recombinant mutant V44A/I154A
+KM	Thermus thermophilus	3	1-phenylethanol	*pH and temperature not specified in the publication
+KM	Escherichia coli	3.2	NAD+	*pH 10.3, 30&deg;C, recombinant enzyme, in presence of 20 mM KCl
+KM	Thermus thermophilus	4	2-propanol	*pH and temperature not specified in the publication
+KM	Cellulomonas sp.	4	3-mercapto-1,2-propanediol	*pH 8.8, 25&deg;C
+KM	Clostridium butyricum	4.07	NAD+	*pH 9.7, 37&deg;C, wild-type enzyme
+KM	Cellulomonas sp.	4.4	R-1-amino-2-propanol	*pH 8.8, 25&deg;C
+KM	Clostridium butyricum	4.7	NAD+	*pH 9.7, 37&deg;C, mutant D
+KM	Ogataea angusta	4.87	dihydroxyacetone	*
+KM	Cellulomonas sp.	5.1	glycerol	*pH 8.8, 25&deg;C
+KM	Cellulomonas sp.	6	3-Chloro-1,2-propanediol	*pH 8.8, 25&deg;C
+KM	Cellulomonas sp.	6.1	3-bromo-1,2-propanediol	*pH 8.8, 25&deg;C
+KM	Cellulomonas sp.	10.9	glycerol	*
+KM	Cellulomonas sp.	10.9	glycerol	*pH 9.0, 25&deg;C
+KM	Cellulomonas sp.	10.9	glycerol	*
+KM	Escherichia coli	11.9	1,3-butanediol	*mutant protein Q70H/G193C/E291Q/A310T, pH 9.5, 30&deg;C
+KM	Escherichia coli	16.2	1,3-butanediol	*wild type protein, pH 9.5, 30&deg;C
+KM	Klebsiella pneumoniae	19.4	glycerol	*recombinant chimeric enzyme GDH-NOX, pH 11.0, 37&deg;C
+KM	Klebsiella pneumoniae	20.9	1,3-butanediol	*pH 9.5, 30&deg;C
+KM	Klebsiella pneumoniae	21.6	glycerol	*pH 10.0, 30&deg;C, free enzyme
+KM	Klebsiella pneumoniae	26	glycerol	*pH 10.0, 30&deg;C, immobilized enzyme
+KM	Salmonella enterica	29.2	1,3-butanediol	*pH 9.5, 30&deg;C
+KM	Thermoanaerobacterium thermosaccharolyticum	30.29	glycerol	*pH 8.0, 60&deg;C, recombinant enzyme
+KM	Thermus thermophilus	35	ethanol	*pH and temperature not specified in the publication
+KM	Klebsiella aerogenes	39	glycerol	*
+KM	Thermus thermophilus	46	1-propanol	*pH and temperature not specified in the publication
+KM	Escherichia coli	47	glycerol	*pH 10.3, 30&deg;C, recombinant enzyme, in presence of 20 mM KCl
+KM	Escherichia coli	49.9	1,3-butanediol	*mutant protein D121A, pH 9.5, 30&deg;C
+KM	Thermus thermophilus	56	ethylene glycol	*pH and temperature not specified in the publication
+KM	Pichia membranifaciens	58	glycerol	*25&deg;C
+KM	Thermus thermophilus	71	1,4-Butanediol	*pH and temperature not specified in the publication
+KM	Clostridium butyricum	73.3	glycerol	*pH 9.7, 37&deg;C, mutant D 76.3 mM
+KM	Klebsiella aerogenes	74.3	glycerol	*in the presence of NH4+
+KM	Thermus thermophilus	76	benzyl alcohol	*pH and temperature not specified in the publication
+KM	Escherichia coli	76	glycerol	*pH 10.3, 30&deg;C, recombinant enzyme
+KM	Escherichia coli	77.8	1,3-butanediol	*mutant protein Q70H/D121A/G193C/E291Q/A310T, pH 9.5, 30&deg;C
+KM	Escherichia coli	81	glycerol	*pH 10.3, 30&deg;C, recombinant enzyme, in presence of 30 mM NH4Cl
+KM	Clostridium butyricum	91.7	glycerol	*pH 9.7, 37&deg;C, wild-type enzyme
+KM	Ogataea angusta	118	glycerol	*
+KM	Cellulomonas sp.	180	3-amino-1,2-propanediol	*pH 8.8, 25&deg;C
+KM	Cellulomonas sp.	500	S-1-amino-2-propanol	*pH 8.8, 25&deg;C
+KM	Thermus thermophilus	840	1-butanol	*pH and temperature not specified in the publication
+KM	Thermus thermophilus	840	1-Octanol	*pH and temperature not specified in the publication
+MW	Ogataea angusta	36000	*	*2 * 36000, SDS-PAGE
+MW	Serratia sp.	37000	*	*
+MW	Pichia membranifaciens	38000	*	*2 * 38000, SDS-PAGE
+MW	Bacillus megaterium	38000	*	*4 * 38000, SDS-PAGE
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	38740	*	*calculated
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	38742	*	*x * 38742 , calculated, 367 amino acid residues
+MW	Escherichia coli	39000	*	*x * 39000, SDS-PAGE
+MW	Klebsiella pneumoniae	39000	*	*x * 39000, SDS-PAGE
+MW	Salmonella enterica	39000	*	*x * 39000, SDS-PAGE
+MW	Serratia marcescens	39000	*	*x * 39000, recombinant enzyme, SDS-PAGE
+MW	Cellulomonas sp.	39500	*	*8 * 39500, SDS-PAGE
+MW	Geobacillus stearothermophilus	39500	*	*
+MW	Escherichia coli	39800	*	*8 * 40000, recombinant His-tagged enzyme, SDS-PAGE, 8 * 39800, about, sequence calculation
+MW	Klebsiella aerogenes	40000	*	*2 or 4 * 40000, SDS-PAGE
+MW	Escherichia coli	40000	*	*x * 40000, SDS-PAGE
+MW	Escherichia coli	40000	*	*8 * 40000, recombinant His-tagged enzyme, SDS-PAGE, 8 * 39800, about, sequence calculation
+MW	Escherichia coli	40000	*	*x * 40000, recombinant enzyme, SDS-PAGE
+MW	Anaerobium acetethylicum	40072	*	*calculated from sequence
+MW	Thermoanaerobacterium thermosaccharolyticum	40400	*	*
+MW	Klebsiella pneumoniae	42000	*	*x * 42000, SDS-PAGE
+MW	Thermus thermophilus	43000	*	*SDS-PAGE
+MW	Schizosaccharomyces pombe	47000	*	*8 * 47000, SDS-PAGE
+MW	Ogataea angusta	72000	*	*gel filtration
+MW	Pichia membranifaciens	76000	*	*gel filtration, PAGE under nondenaturing conditions
+MW	Arthrobacter sp.	132000	*	*gel filtration
+MW	Bacillus megaterium	156000	*	*density gradient centrifugation, gel filtration
+MW	Serratia sp.	160000	*	*recombinant His6-tagged enzyme, ge filtration
+MW	Thermus thermophilus	170000	*	*analytical ultracentrifugation
+MW	Klebsiella aerogenes	180000	*	*gel filtration
+MW	Clostridium butyricum	181000	*	*gel filtration
+MW	Escherichia coli	320000	*	*recombinant His-tagged enzyme, gel filtration
+MW	Cellulomonas sp.	324000	*	*gel filtration
+MW	Cellulomonas sp.	336000	*	*gel filtration; sedimentation equilibrium method
+MW	Cellulomonas sp.	336000	*	*gel filtration
+MW	Schizosaccharomyces pombe	400000	*	*gel filtration
+PATH	*	degradation of sugar alcohols	*	*
+PATH	*	glycerol degradation II	*	*
+PATH	*	glycerol degradation V	*	*
+PATH	*	Glycerolipid metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Propanoate metabolism	*	*
+SA	Escherichia coli	-999	*	*assay development for NADH production by recombinant enzyme in reverse micelles, micelle size optimization, overview
+SA	Schizosaccharomyces pombe	0.01	*	*wild type, crude cell extract, pH not specified in the publication, temperature not specified in the publication
+SA	Escherichia coli	0.033	*	*anaerobic growth conditions, cells permeabilized with chloroform
+SA	Schizosaccharomyces pombe	0.049	*	*overexpressing cells, crude cell extract, pH not specified in the publication, temperature not specified in the publication
+SA	Klebsiella aerogenes	1.05	*	*cell free extract
+SA	Escherichia coli	1.26	*	*; pH 8.2, 25&Acirc;&deg;C
+SA	Klebsiella pneumoniae	3.7	*	*pH 9.5, 30&Acirc;&deg;C
+SA	Salmonella enterica	3.9	*	*pH 9.5, 30&Acirc;&deg;C
+SA	Klebsiella pneumoniae	4.7	*	*cell free extract, wild type; wild type, crude extract, pH not specified in the publication, temperature not specified in the publication
+SA	Escherichia coli	4.8	*	*wild type protein, pH 9.5, 30&Acirc;&deg;C
+SA	Escherichia coli	6	*	*mutant protein D16N/N19A/E23D/L28M/E30N/R31N/Q45E/S46E/V48L/E49R/F52L/K53T/D54G/V58S/G78V/I79V/T82K/A83S/I88V/G108N/R139S/L142M/N145R/K155Q/L211I/G248S/V256I/H268Y/D317E/P319L, pH 9.5, 30&Acirc;&deg;C
+SA	Escherichia coli	6.8	*	*mutant protein A15T/D16G/V17A/N19K/E23D/Q45E/S46E/T47M/V48L/E49R/F52L/K53A/V58A/V59A/Q70H/D74N/G78D/E81G/T82N/Q83K/G86T/I88V/G108N/R139S/L142M/N145R/K155Q/V256I/L260M, pH 9.5, 30&Acirc;&deg;C
+SA	Escherichia coli	7.4	*	*mutant protein Q70H/D74N/G78D/E81G/T82N/Q83K/C84Y/G86T/I88V/G108N/E134A/E204K/L211I/E215K/I234V/V256I/L260M/E291D/S300C/A302S/E316G/V318I/A320T/I324L/T344D/P345S, pH 9.5, 30&Acirc;&deg;C
+SA	Schizosaccharomyces pombe	9.3	*	*
+SA	Escherichia coli	13.2	*	*mutant protein Q70H/G193C/E291Q/A310T, pH 9.5, 30&Acirc;&deg;C
+SA	Klebsiella pneumoniae	15.7	*	*recombinant His-tagged chimeric enzyme GDH-NOX, pH 11.0, 37&Acirc;&deg;C
+SA	Klebsiella aerogenes	16	*	*
+SA	Thermus thermophilus	18.5	*	*pH and temperature not specified in the publication
+SA	Klebsiella aerogenes	35	*	*
+SA	Geotrichum candidum	41.2	*	*
+SA	Thermotoga maritima	45	*	*purified recombinant enzyme, oxidation of glycerol, 80&Acirc;&deg;C, pH 7.4
+SA	Klebsiella aerogenes	49	*	*
+SA	Bacillus megaterium	58.1	*	*
+SA	Klebsiella aerogenes	82	*	*
+SA	Escherichia coli	90.7	*	*mutant protein D121A, pH 9.5, 30&Acirc;&deg;C
+SA	Cellulomonas sp.	107	*	*commercial preparation
+SA	Escherichia coli	126.6	*	*mutant protein Q70H/D121A/G193C/E291Q/A310T, pH 9.5, 30&Acirc;&deg;C
+SA	Cellulomonas sp.	128	*	*
+SA	Cellulomonas sp.	138	*	*
+SA	Klebsiella pneumoniae	220	*	*cell free extract, recombinant strain (over-expression of gycerol dehydrogenase); recombinant strain (overexpression), crude extract, pH not specified in the publication, temperature not specified in the publication
+SA	Pichia membranifaciens	448	*	*

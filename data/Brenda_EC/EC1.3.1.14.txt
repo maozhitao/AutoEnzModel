@@ -1,0 +1,65 @@
+KCAT	Lactococcus lactis	0.021	NADH	*mutant enzyme K48Q
+KCAT	Lactococcus lactis	25.7	NADH	*wild-type enzyme
+KCAT	Lactococcus lactis	0.021	Orotate	*mutant enzyme K48Q
+KCAT	Faecalicatena orotica	3.97	Orotate	*formation of L-dihydroorotate, in absence of NAD+ or NADH, pH 8, 10 mM cysteine
+KCAT	Lactococcus lactis	25.7	Orotate	*wild-type enzyme
+KCAT	Faecalicatena orotica	22	L-dihydroorotate	*formation of orotate, in absence of NAD+ or NADH, pH 8, 10 mM cysteine
+KCAT	Faecalicatena orotica	45	L-dihydroorotate	*in presence of NAD+
+KCAT	Lactococcus lactis	0.11	(S)-dihydroorotate	*mutant enzyme K48Q
+KCAT	Lactococcus lactis	0.12	(S)-dihydroorotate	*mutant enzyme K48A
+KCAT	Lactococcus lactis	0.42	(S)-dihydroorotate	*mutant enzyme K48R
+KCAT	Lactococcus lactis	0.73	(S)-dihydroorotate	*mutant enzyme K48E
+KCAT	Lactococcus lactis	49.3	(S)-dihydroorotate	*wild-type enzyme
+KCAT	Faecalicatena orotica	-999	more	*values not per enzyme molecule, but per mol of flavin
+KCAT	Faecalicatena orotica	-999	more	*values not per enzyme molecule, but per mol of flavin
+KCAT	Faecalicatena orotica	-999	more	*values not per enzyme molecule, but per mol of flavin
+KM	Lactococcus lactis	0.062	NAD+	*wild-type enzyme
+KM	Faecalicatena orotica	0.13	NAD+	*pH 8, 25&Acirc;&deg;C
+KM	Lactococcus lactis	0.0037	NADH	*wild-type enzyme
+KM	Lactococcus lactis	0.0144	Orotate	*mutant enzyme K48Q
+KM	Lactococcus lactis	0.0213	Orotate	*wild-type enzyme
+KM	Faecalicatena orotica	0.11	Orotate	*
+KM	Faecalicatena orotica	0.13	Orotate	*
+KM	Faecalicatena orotica	0.13	Orotate	*
+KM	Faecalicatena orotica	0.09	L-dihydroorotate	*pH 8, 25&Acirc;&deg;C
+KM	Bacillus subtilis	0.027	S-dihydroorotate	*holoenzyme with 2,6-dichlorophenolindophenol
+KM	Bacillus subtilis	0.0317	S-dihydroorotate	*holoenzyme with menadione
+KM	Bacillus subtilis	0.5	S-dihydroorotate	*PyrDI
+KM	Lactococcus lactis	0.044	(S)-dihydroorotate	*mutant enzyme K48R
+KM	Lactococcus lactis	0.09	(S)-dihydroorotate	*wild-type enzyme
+KM	Lactococcus lactis	0.131	(S)-dihydroorotate	*mutant enzyme K48Q
+KM	Lactococcus lactis	0.195	(S)-dihydroorotate	*mutant enzyme K48A
+KM	Lactococcus lactis	0.367	(S)-dihydroorotate	*mutant enzyme K48E
+KM	Faecalicatena orotica	0.13	5-Fluoroorotate	*
+KM	Faecalicatena orotica	0.13	5-Fluoroorotate	*
+MW	Faecalicatena orotica	28000	*	*alpha2,beta2, 2 * 32000 + 2 * 28000, SDS-PAGE
+MW	Bacillus subtilis	28000	*	*2 * 33000 + 2 * 28000
+MW	Enterococcus faecalis	28000	*	*2 * 28000 + 2 * 33000
+MW	Bacillus subtilis	28099	*	*heterotetramer 2 * 33094 and 2 * 28099 predicted from seqeuence, 2 * 38000 and 2 * 31000, SDS-PAGE
+MW	Bacillus subtilis	31000	*	*heterotetramer 2 * 33094 and 2 * 28099 predicted from seqeuence, 2 * 38000 and 2 * 31000, SDS-PAGE
+MW	Faecalicatena orotica	32000	*	*alpha2,beta2, 2 * 32000 + 2 * 28000, SDS-PAGE
+MW	Bacillus subtilis	33000	*	*2 * 33000 + 2 * 28000
+MW	Enterococcus faecalis	33000	*	*2 * 28000 + 2 * 33000
+MW	Bacillus subtilis	33094	*	*heterotetramer 2 * 33094 and 2 * 28099 predicted from seqeuence, 2 * 38000 and 2 * 31000, SDS-PAGE
+MW	Lactococcus lactis	34120	*	*deduced from sequence of cDNA
+MW	Bacillus subtilis	38000	*	*heterotetramer 2 * 33094 and 2 * 28099 predicted from seqeuence, 2 * 38000 and 2 * 31000, SDS-PAGE
+MW	Faecalicatena orotica	62000	*	*
+MW	Bacillus subtilis	85000	*	*native molecular mass of PyrDI
+MW	Faecalicatena orotica	112000	*	*
+MW	Bacillus subtilis	114000	*	*gel filtration; molecular mass of the holoenzyme, calculated mass 122400 Da
+MW	Faecalicatena orotica	120000	*	*analytical gel filtration
+MW	Enterococcus faecalis	125000	*	*gel filtration
+MW	Bifidobacterium bifidum	130000	*	*gel filtration
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pyrimidine metabolism	*	*
+PATH	*	pyrimidine metabolism	*	*
+PATH	*	UMP biosynthesis III	*	*
+SA	Faecalicatena orotica	-999	*	*
+SA	Faecalicatena orotica	-999	*	*
+SA	Faecalicatena orotica	-999	*	*
+SA	Faecalicatena orotica	-999	*	*
+SA	Faecalicatena orotica	-999	*	*
+SA	Lactococcus lactis	0.015	*	*native wild type enzyme, using NAD+ as acceptor, at 30&deg;C
+SA	Lactococcus lactis	0.05	*	*recombinant wild type enzyme, using NAD+ as acceptor, at 37&deg;C
+SA	Lactococcus lactis	0.06	*	*native wild type enzyme, using 2,6-dichlorophenolindophenol as acceptor, at 30&deg;C
+SA	Lactococcus lactis	5.9	*	*recombinant wild type enzyme, using 2,6-dichlorophenolindophenol as acceptor, at 37&deg;C

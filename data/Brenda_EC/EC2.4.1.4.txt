@@ -1,0 +1,66 @@
+KCAT	Neisseria polysaccharea	-999	more	*
+KCAT	Neisseria polysaccharea	0.167	sucrose	*initial sucrose concentration lower than 20 mM, polymerization
+KCAT	Neisseria polysaccharea	0.333	sucrose	*initial sucrose concentration lower than 20 mM, sucrose hydrolysis
+KCAT	Neisseria polysaccharea	0.55	sucrose	*initial sucrose concentration higher than 20 mM, sucrose hydrolysis; initial sucrose concentration lower than 20 mM, sucrose consumption
+KCAT	Neisseria polysaccharea	1.28	sucrose	*initial sucrose concentration higher than 20 mM, sucrose consumption
+KCAT	Neisseria polysaccharea	1.88	sucrose	*initial sucrose concentration higher than 20 mM, polymerization
+KCAT	Neisseria polysaccharea	3.1	maltobiose	*pH 7.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Neisseria polysaccharea	3.1	sucrose	*with maltobiose, pH 7.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Neisseria polysaccharea	4.8	maltotriose	*pH 7.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Neisseria polysaccharea	4.8	sucrose	*with maltotriose, pH 7.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Neisseria polysaccharea	7.5	maltotetraose	*pH 7.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Neisseria polysaccharea	7.5	sucrose	*with maltotetraose, pH 7.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Neisseria polysaccharea	14	maltobiose	*pH 7.0, 30&deg;C, recombinant mutant R226N
+KCAT	Neisseria polysaccharea	14	sucrose	*with maltobiose, pH 7.0, 30&deg;C, recombinant mutant R226N
+KCAT	Neisseria polysaccharea	33	maltotriose	*pH 7.0, 30&deg;C, recombinant mutant R226N
+KCAT	Neisseria polysaccharea	33	sucrose	*with maltotriose, pH 7.0, 30&deg;C, recombinant mutant R226N
+KCAT	Neisseria polysaccharea	47	maltopentaose	*pH 7.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Neisseria polysaccharea	47	sucrose	*with maltopentaose, pH 7.0, 30&deg;C, recombinant wild-type enzyme
+KCAT	Neisseria polysaccharea	67	maltotetraose	*pH 7.0, 30&deg;C, recombinant mutant R226N
+KCAT	Neisseria polysaccharea	67	sucrose	*with maltotetraose, pH 7.0, 30&deg;C, recombinant mutant R226N
+KCAT	Neisseria polysaccharea	173	maltopentaose	*pH 7.0, 30&deg;C, recombinant mutant R226N
+KCAT	Neisseria polysaccharea	173	sucrose	*with maltopentaose, pH 7.0, 30&deg;C, recombinant mutant R226N
+KM	Neisseria polysaccharea	-999	more	*
+KM	Methylomicrobium alcaliphilum	-999	more	*classical Michaelis-Menten kinetics in the reactions of sucrose hydrolysis and transglycosylation
+KM	Neisseria polysaccharea	0.0123	maltotriose	*pH 7.0, 30&deg;C, recombinant mutant R226N
+KM	Neisseria polysaccharea	0.014	maltobiose	*pH 7.0, 30&deg;C, recombinant mutant R226N
+KM	Neisseria polysaccharea	0.024	maltopentaose	*pH 7.0, 30&deg;C, recombinant mutant R226N
+KM	Neisseria polysaccharea	0.026	maltotetraose	*pH 7.0, 30&deg;C, recombinant mutant R226N
+KM	Neisseria polysaccharea	1.9	sucrose	*initial sucrose concentration lower than 20 mM
+KM	Bergeriella denitrificans	9.1	sucrose	*
+KM	Neisseria perflava	10	sucrose	*
+KM	Deinococcus radiodurans	10	sucrose	*at concentrations below 41 mM
+KM	Neisseria cinerea	10.5	sucrose	*
+KM	Neisseria polysaccharea	11	maltobiose	*pH 7.0, 30&deg;C, recombinant wild-type enzyme
+KM	Neisseria polysaccharea	16	maltotriose	*pH 7.0, 30&deg;C, recombinant wild-type enzyme
+KM	Neisseria perflava	17	sucrose	*
+KM	Neisseria canis	19	sucrose	*
+KM	Neisseria sicca	20	sucrose	*
+KM	Neisseria subflava	22	sucrose	*
+KM	Moraxella cuniculi	26	sucrose	*
+KM	Neisseria perflava	26.5	sucrose	*
+KM	Neisseria polysaccharea	30	maltotetraose	*pH 7.0, 30&deg;C, recombinant wild-type enzyme
+KM	Neisseria polysaccharea	38.7	sucrose	*initial sucrose concentration higehr than 20 mM, sucrose hydrolysis
+KM	Neisseria polysaccharea	50.2	sucrose	*initial sucrose concentration higher than 20 mM, sucrose consumption
+KM	Neisseria polysaccharea	61	maltopentaose	*pH 7.0, 30&deg;C, recombinant wild-type enzyme
+KM	Neisseria polysaccharea	387	sucrose	*initial sucrose concentration higher than 20 mM, polymerization
+MW	Methylomicrobium alcaliphilum	32700	*	*x * 32700, SDS-PAGE
+MW	Neisseria polysaccharea	70000	*	*; native PAGE
+MW	Pseudarthrobacter chlorophenolicus	71705	*	*1 * 72000, SDS-PAGE, 1 * 71705, sequence calculation
+MW	Pseudarthrobacter chlorophenolicus	72000	*	*gel filtration
+MW	Deinococcus radiopugnans	72000	*	*2 * 72000, recombinant His-tagged enzyme, SDS-PAGE, 2 * 72822, sequence calculation
+MW	Neisseria polysaccharea	72466	*	*x * 72466, sequence calculation, excluding the transit peptide, x * 85000, about, recombinant SBD-fusion enzyme, SDS-PAGE
+MW	Deinococcus radiopugnans	72822	*	*2 * 72000, recombinant His-tagged enzyme, SDS-PAGE, 2 * 72822, sequence calculation
+MW	Deinococcus geothermalis	73000	*	*x * 73000, recombinant His6-tagged enzyme, SDS-PAGE
+MW	Deinococcus geothermalis	73000	*	*x * 73214, sequence calculation, x * 73000, recombinant detagged enzyme, SDS-PAGE
+MW	Deinococcus geothermalis	73214	*	*x * 73214, sequence calculation, x * 73000, recombinant detagged enzyme, SDS-PAGE
+MW	Methylobacillus flagellatus	74560	*	*sequence calculation
+MW	Neisseria polysaccharea	85000	*	*x * 72466, sequence calculation, excluding the transit peptide, x * 85000, about, recombinant SBD-fusion enzyme, SDS-PAGE
+MW	Deinococcus radiopugnans	152100	*	*recombinant His-tagged enzyme, gel filtration
+PATH	*	Metabolic pathways	*	*
+PATH	*	Starch and sucrose metabolism	*	*
+SA	Neisseria perflava	3.71	*	*
+SA	Deinococcus geothermalis	3.8	*	*sucrose hydrolysis, purified recombinant GST-tagged DgAS, pH 7.0, 37&deg;C
+SA	Deinococcus geothermalis	5	*	*sucrose hydrolysis, purified recombinant detagged DgAS, pH 7.0, 37&deg;C
+SA	Neisseria polysaccharea	9.57	*	*recombinant enzyme
+SA	Deinococcus geothermalis	44	*	*purified recombinant enzyme

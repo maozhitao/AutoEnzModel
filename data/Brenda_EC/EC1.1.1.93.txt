@@ -1,0 +1,68 @@
+KCAT	Pseudomonas putida	-999	more	*D-malate oxidation is largely limited by the rate of decarboxylation of the intermediate oxaloacetate which occurs at 660 per min. Hydride transfer from D-malate to NAD+ occurs with a rate constant of 1800 per min
+KCAT	Pseudomonas putida	0.015	NAD+	*mutant D225A, pH 7.5, temperature not specified in the publication
+KCAT	Pseudomonas putida	0.06	NAD+	*mutant R108Q, pH 7.5, temperature not specified in the publication
+KCAT	Pseudomonas putida	0.087	NAD+	*mutant R108L, pH 7.5, temperature not specified in the publication
+KCAT	Pseudomonas putida	0.088	NAD+	*mutant D250A, pH 7.5, temperature not specified in the publication
+KCAT	Pseudomonas putida	0.167	isopropylmalate	*
+KCAT	Pseudomonas putida	0.175	NAD+	*mutant R98Q, pH 7.5, temperature not specified in the publication
+KCAT	Pseudomonas putida	0.2	isopropylmalate	*
+KCAT	Pseudomonas putida	0.417	L-Tartrate	*
+KCAT	Pseudomonas putida	0.483	L-Tartrate	*
+KCAT	Pseudomonas putida	0.617	meso-tartrate	*
+KCAT	Pseudomonas putida	6.5	NAD+	*wild-type, pH 7.5, temperature not specified in the publication
+KCAT	Pseudomonas putida	13.3	D-malate	*
+KCAT	Pseudomonas putida	19.7	D-malate	*
+KM	Pseudomonas putida	0.025	NAD+	*wild-type, pH 7.5, temperature not specified in the publication
+KM	Pseudomonas putida	0.09	NAD+	*
+KM	Pseudomonas putida	0.096	NAD+	*mutant R98Q, pH 7.5, temperature not specified in the publication
+KM	Rhodobacter sphaeroides	0.13	NAD+	*reaction with D-malate
+KM	Pseudomonas putida	0.135	NAD+	*mutant R108Q, pH 7.5, temperature not specified in the publication
+KM	Pseudomonas putida	0.24	NAD+	*mutant R108L, pH 7.5, temperature not specified in the publication
+KM	Rhodobacter sphaeroides	0.28	NAD+	*reaction with (+ L-(+)-tartrate)
+KM	Pseudomonas putida	1.4	NADH	*in presence of 1.5 mM dihydroxyfumarate
+KM	Pseudomonas putida	0.05	D-malate	*
+KM	Pseudomonas putida	0.05	D-malate	*
+KM	Pseudomonas putida	0.06	D-malate	*
+KM	Pseudomonas putida	0.079	D-malate	*wild-type, pH 7.5, temperature not specified in the publication
+KM	Pseudomonas putida	0.093	D-malate	*mutant R108Q, pH 7.5, temperature not specified in the publication
+KM	Pseudomonas putida	0.098	D-malate	*mutant R98Q, pH 7.5, temperature not specified in the publication
+KM	Rhodobacter sphaeroides	0.17	D-malate	*
+KM	Pseudomonas putida	0.18	D-malate	*mutant R108L, pH 7.5, temperature not specified in the publication
+KM	Pseudomonas putida	0.06	meso-tartrate	*
+KM	Pseudomonas putida	0.06	meso-tartrate	*
+KM	Pseudomonas putida	0.83	meso-tartrate	*
+KM	Pseudomonas putida	0.014	isopropylmalate	*
+KM	Pseudomonas putida	1	L-Tartrate	*
+KM	Pseudomonas putida	1	L-Tartrate	*
+KM	Pseudomonas putida	1	L-Tartrate	*
+KM	Rhodobacter sphaeroides	2.3	L-Tartrate	*
+KM	Pseudomonas putida	55	L-Tartrate	*
+KM	Pseudomonas putida	11	Dihydroxyfumarate	*in presence of 0.19 mM NADH
+KM	Pseudomonas putida	0.024	(2R,3R)-3-iodomalate	*
+KM	Pseudomonas putida	0.027	(2R,3R)-3-iodomalate	*
+KM	Pseudomonas putida	0.06	(2R,3R)-3-methyltartrate	*
+KM	Pseudomonas putida	0.07	(2R,3R)-3-methyltartrate	*
+KM	Pseudomonas putida	0.22	(2R,3R)-3-bromomalate	*
+KM	Pseudomonas putida	0.27	(2R,3R)-3-chloromalate	*
+KM	Pseudomonas putida	0.67	(2R,3R)-3-fluoromalate	*
+KM	Pseudomonas putida	0.011	(2R,3S)-3-bromomalate	*
+KM	Pseudomonas putida	0.012	(2R,3S)-3-chloromalate	*
+KM	Pseudomonas putida	0.019	(2R,3S)-3-fluoromalate	*
+KM	Pseudomonas putida	0.58	(2R,3R)-3-aminomalate	*
+KM	Pseudomonas putida	0.026	(2R,3S)-3-aminomalate	*
+KM	Pseudomonas putida	0.014	beta-isopropylmalate	*
+KM	Pseudomonas putida	-999	more	*thermodynamics, isothermal titration calorimetry study, kinetic mechanism, overview
+MW	Pseudomonas putida	36800	*	*4 * 36800, sedimentation study after dialysis with guanidine-mercaptoethanol solution
+MW	Pseudomonas putida	38000	*	*2 * 38000, SDS-PAGE
+MW	Rhodobacter sphaeroides	38500	*	*4 * 38500, SDS-PAGE
+MW	Pseudomonas putida	40636	*	*x * 40636, calculation from nucleotide sequence
+MW	Pseudomonas putida	77000	*	*gel filtration
+MW	Pseudomonas putida	145000	*	*diffusion and sedimentation data
+MW	Rhodobacter sphaeroides	158000	*	*gel filtration
+MW	Rhodobacter sphaeroides	162000	*	*ultracentrifugation
+PATH	*	Glyoxylate and dicarboxylate metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Pseudomonas putida	0.0582	*	*
+SA	Pseudomonas putida	0.71	*	*
+SA	Rhodobacter sphaeroides	1.88	*	*
+SA	Rhodobacter sphaeroides	1.88	*	*

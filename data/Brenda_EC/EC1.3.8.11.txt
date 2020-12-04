@@ -1,0 +1,15 @@
+KM	Geobacter metallireducens	0.005	cyclohexane-1-carbonyl-CoA	*pH 6.8, 30&deg;C
+KM	Syntrophus aciditrophicus	0.022	cyclohexane-1-carbonyl-CoA	*at pH 7.0 and 30&deg;C
+MW	Syntrophus aciditrophicus	42000	*	*4 * 42000, calculated from amino acid sequence
+MW	Syntrophus aciditrophicus	150000	*	*recombinant enzyme, gel filtration
+MW	Syntrophus aciditrophicus	155000	*	*native enzyme, gel filtration
+PATH	*	Benzoate degradation	*	*
+PATH	*	benzoate fermentation (to acetate and cyclohexane carboxylate)	*	*
+PATH	*	benzoyl-CoA degradation	*	*
+PATH	*	crotonate fermentation (to acetate and cyclohexane carboxylate)	*	*
+PATH	*	cyclohexane-1-carboxylate degradation (anaerobic)	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Syntrophus aciditrophicus	2.1	*	*cell extract, at pH 7.0 and 30&Acirc;&deg;C
+SA	Geobacter metallireducens	29	*	*pH 6.8, 30&Acirc;&deg;C
+SA	Syntrophus aciditrophicus	52	*	*after 25fold purification, at pH 7.0 and 30&Acirc;&deg;C

@@ -1,0 +1,49 @@
+KCAT	Paenibacillus sp.	3.5	beta-D-glucose 1-phosphate	*50&deg;C, pH 7.0, mutant enzyme E487Q
+KCAT	Paenibacillus sp.	3.8	D-glucose	*50&deg;C, pH 7.0, mutant enzyme E487Q
+KCAT	Bacillus selenitireducens	6.6	sophorose	*pH 6.5, 30&deg;C, reverse phosphorolysis
+KCAT	Bacillus selenitireducens	12.3	maltose	*pH 6.5, 30&deg;C
+KCAT	Paenibacillus sp.	12.9	phosphate	*50&deg;C, pH 7.0, wild-type enzyme
+KCAT	Paenibacillus sp.	17.3	maltose	*50&deg;C, pH 7.0, wild-type enzyme
+KCAT	Bacillus selenitireducens	40	kojibiose	*pH 6.5, 30&deg;C, reverse phosphorolysis
+KCAT	Paenibacillus sp.	43.5	beta-D-glucose 1-phosphate	*50&deg;C, pH 7.0, wild-type enzyme
+KCAT	Paenibacillus sp.	49.4	D-glucose	*50&deg;C, pH 7.0, wild-type enzyme
+KM	Paenibacillus sp.	0.0071	phosphate	*50&Acirc;&deg;C, pH 7.0, wild-type enzyme
+KM	Lactobacillus brevis	2.6	phosphate	*
+KM	Propionibacterium freudenreichii	5.4	phosphate	*
+KM	Lactobacillus brevis	21.8	phosphate	*
+KM	Paenibacillus sp.	0.0043	D-glucose	*50&Acirc;&deg;C, pH 7.0, mutant enzyme E487Q
+KM	Paenibacillus sp.	0.0099	D-glucose	*50&Acirc;&deg;C, pH 7.0, wild-type enzyme
+KM	Propionibacterium freudenreichii	5	D-glucose	*
+KM	Paenibacillus sp.	0.004	maltose	*50&Acirc;&deg;C, pH 7.0, wild-type enzyme
+KM	Bacillus selenitireducens	0.6	maltose	*pH 6.5, 30&Acirc;&deg;C, phosphorolysis
+KM	Lactobacillus brevis	0.9	maltose	*
+KM	Propionibacterium freudenreichii	1.3	maltose	*
+KM	Lactobacillus brevis	1.9	maltose	*
+KM	Lactobacillus brevis	1.7	arsenate	*
+KM	Paenibacillus sp.	0.0036	beta-D-glucose 1-phosphate	*50&Acirc;&deg;C, pH 7.0, mutant enzyme E487Q
+KM	Paenibacillus sp.	0.0067	beta-D-glucose 1-phosphate	*50&Acirc;&deg;C, pH 7.0, wild-type enzyme
+KM	Bacillus selenitireducens	24	kojibiose	*pH 6.5, 30&Acirc;&deg;C, reverse phosphorolysis
+KM	Bacillus selenitireducens	4.6	sophorose	*pH 6.5, 30&Acirc;&deg;C, reverse phosphorolysis
+KM	Propionibacterium freudenreichii	3.3	beta-D-glucose-1-phosphate	*
+KM	Lactobacillus brevis	-999	more	*kinetic studies
+MW	Lactobacillus brevis	80000	*	*2 * 80000, SDS-PAGE
+MW	Paenibacillus sp.	87748	*	*2 * 87748, calculated from sequence
+MW	Bacillus sp. (in: Bacteria)	88000	*	*x * 88000, deduced from gene sequence
+MW	Lactobacillus acidophilus	88000	*	*x * 88000, recombinant His-tagged enzyme, SDS-PAGE
+MW	Propionibacterium freudenreichii	90000	*	*x * 90000, SDS-PAGE
+MW	Paenibacillus sp.	90000	*	*2 * 90000, SDS-PAGE
+MW	Bacillus selenitireducens	90000	*	*x * 90660, sequence calculation, x * 90000, recombinant His6-tagged Bsel2056, SDS-PAGE
+MW	Bacillus selenitireducens	90660	*	*x * 90660, sequence calculation, x * 90000, recombinant His6-tagged Bsel2056, SDS-PAGE
+MW	Lactobacillus brevis	150000	*	*gel filtration
+MW	Bacillus sp. (in: Bacteria)	170000	*	*gel filtration
+MW	Paenibacillus sp.	180000	*	*gel filtration
+MW	Lactobacillus brevis	196000	*	*gel filtration
+MW	Lactobacillus brevis	196000	*	*gel filtration
+MW	Propionibacterium freudenreichii	240000	*	*gel filtration
+PATH	*	maltose degradation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Starch and sucrose metabolism	*	*
+SA	Lactobacillus brevis	14.9	*	*
+SA	Lactobacillus brevis	18	*	*
+SA	Paenibacillus sp.	50	*	*
+SA	Lactobacillus acidophilus	52	*	*purified recombinant His-tagged MalP

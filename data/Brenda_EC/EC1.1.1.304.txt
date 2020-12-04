@@ -1,0 +1,59 @@
+KCAT	Mycobacterium sp.	110	NADH	*pH 7.0, 30&deg;C
+KCAT	Mycobacterium sp.	163	diacetyl	*pH 7.0, 30&deg;C
+KCAT	Bacillus licheniformis	202	(3S)-acetoin	*pH 6.0, 30&deg;C
+KCAT	Bacillus licheniformis	591	(2S,3S)-2,3-butanediol	*pH 10.0, 30&deg;C
+KCAT	Bacillus licheniformis	748	NAD+	*pH 10.0, 30&deg;C
+KCAT	Bacillus licheniformis	1222	diacetyl	*pH 6.0, 30&deg;C
+KCAT	Bacillus licheniformis	1274	NADH	*pH 6.0, 30&deg;C
+KM	Bacillus licheniformis	0.34	NAD+	*pH 10.0, 30&Acirc;&deg;C
+KM	Klebsiella aerogenes	0.005	NADH	*cosubstrate acetoin, pH 7.0, 25&Acirc;&deg;C
+KM	Klebsiella aerogenes	0.007	NADH	*cosubstrate diacetyl, pH 7.0, 25&Acirc;&deg;C
+KM	Staphylococcus aureus	0.025	NADH	*25&Acirc;&deg;C, pH 6.0, cosubstrate 2,3-pentanedione
+KM	Staphylococcus aureus	0.045	NADH	*25&Acirc;&deg;C, pH 6.0, cosubstrate diacetyl
+KM	Mycobacterium sp.	0.05	NADH	*pH 7.0, 30&Acirc;&deg;C
+KM	Columba livia	0.087	NADH	*25&Acirc;&deg;C, pH 5.9
+KM	Staphylococcus aureus	0.095	NADH	*25&Acirc;&deg;C, pH 6.0, cosubstrate methyl pyruvate
+KM	Columba livia	0.1	NADH	*pH 6.1, 25&Acirc;&deg;C
+KM	Staphylococcus aureus	0.11	NADH	*25&Acirc;&deg;C, pH 6.0, cosubstrate ethyl pyruvate
+KM	Columba livia	0.116	NADH	*25&Acirc;&deg;C, pH 6.1
+KM	Columba livia	0.135	NADH	*25&Acirc;&deg;C, pH 6.7
+KM	Bacillus licheniformis	0.25	NADH	*pH 6.0, 30&Acirc;&deg;C
+KM	Klebsiella aerogenes	1.6	diacetyl	*pH 7.0, 25&Acirc;&deg;C
+KM	Columba livia	2.64	diacetyl	*25&Acirc;&deg;C, pH 6.7
+KM	Columba livia	2.81	diacetyl	*25&Acirc;&deg;C, pH 5.9
+KM	Columba livia	3	diacetyl	*25&Acirc;&deg;C, pH 6.1
+KM	Columba livia	3.1	diacetyl	*pH 6.1, 25&Acirc;&deg;C
+KM	Mycobacterium sp.	4.47	diacetyl	*pH 7.0, 30&Acirc;&deg;C
+KM	Staphylococcus aureus	15	diacetyl	*25&Acirc;&deg;C, pH 6.0
+KM	Geobacillus stearothermophilus	19	diacetyl	*pH 7.5, 25&Acirc;&deg;C
+KM	Bacillus licheniformis	72.4	diacetyl	*pH 6.0, 30&Acirc;&deg;C
+KM	Staphylococcus aureus	6	2,3-Pentanedione	*25&Acirc;&deg;C, pH 6.0
+KM	Klebsiella aerogenes	20	ethyl pyruvate	*pH 7.0, 25&Acirc;&deg;C
+KM	Staphylococcus aureus	24	ethyl pyruvate	*25&Acirc;&deg;C, pH 6.0
+KM	Staphylococcus aureus	16	Methyl pyruvate	*25&Acirc;&deg;C, pH 6.0
+KM	Klebsiella aerogenes	18	Methyl pyruvate	*pH 7.0, 25&Acirc;&deg;C
+KM	Bacillus licheniformis	7.25	(2S,3S)-2,3-butanediol	*pH 10.0, 30&Acirc;&deg;C
+KM	Klebsiella aerogenes	75	methyl glyoxal	*pH 7.0, 25&Acirc;&deg;C
+KM	Bacillus licheniformis	0.47	(3S)-acetoin	*pH 6.0, 30&Acirc;&deg;C
+KM	Klebsiella aerogenes	6	pentane-2,3-dione	*pH 7.0, 25&Acirc;&deg;C
+KM	Rhodococcus erythropolis	-999	more	*Michaelis-Menten-type kinetics
+MW	Geobacillus stearothermophilus	26000	*	*2 * 26000, SDS-PAGE
+MW	Klebsiella pneumoniae	26591	*	*4 * 26591, calculated
+MW	Rhodococcus erythropolis	26864	*	*2 * 26864, sequence calculation
+MW	Klebsiella aerogenes	28000	*	*2 * 28000, SDS-PAGE
+MW	Paenibacillus polymyxa	28500	*	*4 * 28500, recombinant enzyme, SDS-PAGE
+MW	Bacillus licheniformis	30000	*	*4 * 30000, SDS-PAGE
+MW	Mycobacterium sp.	36000	*	*
+MW	Geobacillus stearothermophilus	49000	*	*gel filtration
+MW	Klebsiella aerogenes	61000	*	*gel filtration
+MW	Staphylococcus aureus	68000	*	*gel filtration
+MW	Klebsiella pneumoniae	96000	*	*gel filtration
+MW	Paenibacillus polymyxa	118000	*	*recombinant enzyme, gel filtration
+MW	Bacillus licheniformis	125000	*	*gel filtration
+MW	Mycobacterium sp.	150000	*	*gel filtration
+PATH	*	acetoin degradation	*	*
+PATH	*	Butanoate metabolism	*	*
+PATH	*	pyruvate fermentation to (S)-acetoin	*	*
+SA	Geobacillus stearothermophilus	71.4	*	*pH 7.5, 25&Acirc;&deg;C
+SA	Paenibacillus polymyxa	72.6	*	*purified recombinant enzyme, NADPH, pH 6.0, 30&Acirc;&deg;C
+SA	Bacillus licheniformis	120	*	*substrate diacetyl, 30&Acirc;&deg;C, pH 6.0

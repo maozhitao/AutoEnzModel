@@ -1,0 +1,57 @@
+KCAT	Sulfurisphaera tokodaii	13	NADPH	*pH 6.0, 65&Acirc;&deg;C
+KCAT	Escherichia coli	45	acrylyl-CoA	*at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Escherichia coli	45	acrylyl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Ruegeria pomeroyi	60	acrylyl-CoA	*at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Ruegeria pomeroyi	60	acrylyl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant His-tagged enzyme
+KCAT	Rhodobacter sphaeroides	80	acrylyl-CoA	*at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Rhodobacter sphaeroides	80	acrylyl-CoA	*pH 7.0, 30&Acirc;&deg;C, recombinant His-tagged enzyme
+KM	Escherichia coli	-999	more	*Michaelis-Menten kinetics
+KM	Rhodobacter sphaeroides	-999	more	*Michaelis-Menten kinetics
+KM	Ruegeria pomeroyi	-999	more	*Michaelis-Menten kinetics
+KM	Escherichia coli	0.0011	acrylyl-CoA	*at pH 7.0 and 30&deg;C
+KM	Escherichia coli	0.0011	acrylyl-CoA	*pH 7.0, 30&deg;C, recombinant His-tagged enzyme
+KM	Rhodobacter sphaeroides	0.0015	acrylyl-CoA	*at pH 7.0 and 30&deg;C
+KM	Rhodobacter sphaeroides	0.0015	acrylyl-CoA	*pH 7.0, 30&deg;C, recombinant His-tagged enzyme
+KM	Ruegeria pomeroyi	0.0028	acrylyl-CoA	*at pH 7.0 and 30&deg;C
+KM	Ruegeria pomeroyi	0.0028	acrylyl-CoA	*pH 7.0, 30&deg;C, recombinant His-tagged enzyme
+KM	Sulfurisphaera tokodaii	0.003	acryloyl-CoA	*pH 6.0, 65&deg;C
+KM	Ruegeria pomeroyi	0.018	NADPH	*at pH 7.0 and 30&deg;C
+KM	Ruegeria pomeroyi	0.018	NADPH	*pH 7.0, 30&deg;C, recombinant His-tagged enzyme
+KM	Rhodobacter sphaeroides	0.028	NADPH	*at pH 7.0 and 30&deg;C
+KM	Rhodobacter sphaeroides	0.028	NADPH	*pH 7.0, 30&deg;C, recombinant His-tagged enzyme
+KM	Escherichia coli	0.033	NADPH	*at pH 7.0 and 30&deg;C
+KM	Escherichia coli	0.033	NADPH	*pH 7.0, 30&deg;C, recombinant His-tagged enzyme
+KM	Sulfurisphaera tokodaii	0.036	NADPH	*pH 6.0, 65&deg;C
+MW	Escherichia coli	37000	*	*2 * 37000, SDS-PAGE
+MW	Rhodobacter sphaeroides	37000	*	*2 * 37000, SDS-PAGE
+MW	Ruegeria pomeroyi	37000	*	*2 * 37000, SDS-PAGE
+MW	Sulfurisphaera tokodaii	38600	*	*1 * 39000, SDS-PAGE, 1 * 38600, calculated
+MW	Sulfurisphaera tokodaii	39000	*	*1 * 39000, SDS-PAGE, 1 * 38600, calculated
+MW	Metallosphaera sedula	40000	*	*x * 40000, SDS-PAGE
+MW	Sulfurisphaera tokodaii	43000	*	*gel filtration
+MW	Escherichia coli	56000	*	*gel filtration
+MW	Escherichia coli	56000	*	*recombinant His10-tagged enzyme, gel filtration
+MW	Ruegeria pomeroyi	62000	*	*gel filtration
+MW	Ruegeria pomeroyi	62000	*	*recombinant His10-tagged enzyme, gel filtration
+MW	Rhodobacter sphaeroides	64000	*	*gel filtration
+MW	Rhodobacter sphaeroides	64000	*	*recombinant His10-tagged enzyme, gel filtration
+PATH	*	3-hydroxypropanoate cycle	*	*
+PATH	*	3-hydroxypropanoate/4-hydroxybutanate cycle	*	*
+PATH	*	Carbon fixation pathways in prokaryotes	*	*
+PATH	*	CO2 fixation in Crenarchaeota	*	*
+PATH	*	glyoxylate assimilation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Ruegeria pomeroyi	0.016	*	*enzyme activity in crude cell extract of D-glucose-grown cells, pH 7.5, temperature not specified in the publication
+SA	Ruegeria pomeroyi	0.195	*	*enzyme activity in crude cell extract of dimethylsulphoniopropionate-grown cells, pH 7.5, temperature not specified in the publication
+SA	Metallosphaera sedula	2.9	*	*65&deg;C
+SA	Escherichia coli	12	*	*cell extract, at pH 7.0 and 30&deg;C
+SA	Rhodobacter sphaeroides	12	*	*cell extract, at pH 7.0 and 30&deg;C
+SA	Sulfurisphaera tokodaii	18.7	*	*pH 6.0, 65&deg;C
+SA	Ruegeria pomeroyi	23	*	*cell extract, at pH 7.0 and 30&deg;C
+SA	Escherichia coli	72	*	*after 6fold purification, at pH 7.0 and 30&deg;C
+SA	Escherichia coli	72	*	*pH 7.0, 30&deg;C, purified recombinant His-tagged enzyme
+SA	Ruegeria pomeroyi	98	*	*after 4fold purification, at pH 7.0 and 30&deg;C
+SA	Ruegeria pomeroyi	98	*	*pH 7.0, 30&deg;C, purified recombinant His-tagged enzyme
+SA	Rhodobacter sphaeroides	130	*	*after 11fold purification, at pH 7.0 and 30&deg;C
+SA	Rhodobacter sphaeroides	130	*	*pH 7.0, 30&deg;C, purified recombinant His-tagged enzyme

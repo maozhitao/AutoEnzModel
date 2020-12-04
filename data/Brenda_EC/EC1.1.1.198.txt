@@ -1,0 +1,25 @@
+KCAT	Lavandula x intermedia	0.0004	(+)-borneol	*pH 8.0, 32&Acirc;&deg;C
+KCAT	Artemisia annua	0.0058	(+)-borneol	*pH 9.0, 33&Acirc;&deg;C, recombinant enzyme
+KCAT	Pseudomonas sp.	0.75	(+)-borneol	*recombinant enzyme, pH 8.5, 22&Acirc;&deg;C
+KM	Salvia officinalis	0.07	NAD+	*
+KM	Salvia officinalis	0.03	(+)-borneol	*
+KM	Artemisia annua	0.0483	(+)-borneol	*pH 9.0, 33&Acirc;&deg;C, recombinant enzyme
+KM	Lavandula x intermedia	0.053	(+)-borneol	*pH 8.0, 32&Acirc;&deg;C
+KM	Pseudomonas sp.	0.2	(+)-borneol	*recombinant enzyme, pH 8.5, 22&Acirc;&deg;C
+KM	Artemisia annua	0.027	(-)-cis-carveol	*pH 9.5, 30&Acirc;&deg;C
+KM	Salvia officinalis	0.041	(-)-Thujol	*
+KM	Artemisia annua	0.086	(-)-artemisia alcohol	*pH 9.5, 30&Acirc;&deg;C
+KM	Artemisia annua	-999	more	*Michaelis-Menten kinetics
+MW	Lavandula x intermedia	27500	*	*x * 27500, calculated
+MW	Pseudomonas sp.	27600	*	*
+MW	Salvia officinalis	91000	*	*gel filtration
+MW	Salvia officinalis	92000	*	*gel filtration
+PATH	*	(+)-camphor biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Monoterpenoid biosynthesis	*	*
+SA	Artemisia annua	2.17	*	*substrate (-)-borneol, pH 9.5, 30&Acirc;&deg;C
+SA	Artemisia annua	5.33	*	*substrate (+)-borneol, pH 9.5, 30&Acirc;&deg;C
+SA	Artemisia annua	10.33	*	*substrate (-)-trans-pinocarveol, pH 9.5, 30&Acirc;&deg;C
+SA	Artemisia annua	13.5	*	*substrate (-)-trans-carveol, pH 9.5, 30&Acirc;&deg;C
+SA	Artemisia annua	35.7	*	*substrate (-)-artemisia alcohol, pH 9.5, 30&Acirc;&deg;C
+SA	Artemisia annua	147.4	*	*substrate (-)-cis-carveol, pH 9.5, 30&Acirc;&deg;C

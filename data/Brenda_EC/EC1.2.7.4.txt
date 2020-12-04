@@ -1,0 +1,179 @@
+KCAT	Moorella thermoacetica	1.17	CO	*turnover mumber for CO/CO2 exchange reaction
+KCAT	Moorella thermoacetica	1.17	CO	*
+KCAT	Moorella thermoacetica	7.33	CO	*acetyl-CoA/CO exchange reaction
+KCAT	Moorella thermoacetica	10	CO	*at 5&Acirc;&deg;C
+KCAT	Moorella thermoacetica	11	CO	*25&Acirc;&deg;C, isolated alpha subunit
+KCAT	Moorella thermoacetica	13	CO	*CO oxidation, 50&Acirc;&deg;C, pH 5.3, electron acceptor ferredoxin II
+KCAT	Moorella thermoacetica	22	CO	*CO oxidation, at 1&Acirc;&deg;C
+KCAT	Moorella thermoacetica	37	CO	*at 10&Acirc;&deg;C
+KCAT	Moorella thermoacetica	95	CO	*at 15&Acirc;&deg;C
+KCAT	Moorella thermoacetica	600	CO	*CO oxidation, at 55&Acirc;&deg;C, pH 7.6
+KCAT	Carboxydothermus hydrogenoformans	1500	CO	*at 20&Acirc;&deg;C
+KCAT	Moorella thermoacetica	3250	CO	*CO oxidation, extrapolated maximum value at 55&Acirc;&deg;C, pH 10.8
+KCAT	Carboxydothermus hydrogenoformans	15900	CO	*at 70&Acirc;&deg;C
+KCAT	Oligotropha carboxidovorans	8.2	methylene blue	*Ag+-substituted enzyme, at pH 7.2 and 25&Acirc;&deg;C
+KCAT	Oligotropha carboxidovorans	57.8	methylene blue	*at pH 7.2 and 25&Acirc;&deg;C
+KCAT	Oligotropha carboxidovorans	93.3	methylene blue	*native enzyme, at pH 7.2 and 25&Acirc;&deg;C
+KCAT	Moorella thermoacetica	-999	more	*42000/min/Ni, substrate methyl viologen
+KCAT	Moorella thermoacetica	-999	more	*pH 5.3, 50&Acirc;&deg;C, activity of CO oxidation to CO2, ferredoxin II as electron carrier, turnover number is approximately 780 mol/mol of CO dehydrogenase
+KM	Moorella thermoacetica	0.05	CoA	*acetyl-CoA/CoA exchange reaction
+KM	Moorella thermoacetica	0.6	acetyl-CoA	*CO/acetyl-CoA exchange reaction
+KM	Moorella thermoacetica	1.5	acetyl-CoA	*acetyl-CoA/CoA exchange reaction
+KM	Moorella thermoacetica	0.01	CO	*CO/acetyl-CoA exchange reaction
+KM	Carboxydothermus hydrogenoformans	0.018	CO	*at 70&Acirc;&deg;C
+KM	Rhodospirillum rubrum	0.024	CO	*mutant C451S, pH 7.5
+KM	Moorella thermoacetica	0.03	CO	*25&Acirc;&deg;C, isolated alpha subunit
+KM	Rhodospirillum rubrum	0.032	CO	*wild-type, pH 7.5
+KM	Moorella thermoacetica	0.098	CO	*at 10&Acirc;&deg;C
+KM	Moorella thermoacetica	0.1	CO	*at 15&Acirc;&deg;C
+KM	Moorella thermoacetica	0.106	CO	*at 5&Acirc;&deg;C
+KM	Archaeoglobus fulgidus	0.35	CO	*
+KM	Methanothrix soehngenii	0.7	CO	*
+KM	Methanosarcina mazei	0.9	CO	*
+KM	Methanothermobacter thermautotrophicus	1	CO	*
+KM	Methanosarcina barkeri	5	CO	*pH 7.0, 37&Acirc;&deg;C
+KM	Moorella thermoacetica	5	propionyl-CoA	*
+KM	Methanothrix soehngenii	0.065	methyl viologen	*
+KM	Methanosarcina mazei	0.12	methyl viologen	*
+KM	Archaeoglobus fulgidus	1.4	methyl viologen	*
+KM	Moorella thermoacetica	3.03	methyl viologen	*50&Acirc;&deg;C, pH 8.4; pH 8.4, 50&Acirc;&deg;C
+KM	Carboxydothermus hydrogenoformans	4	methyl viologen	*at 70&Acirc;&deg;C
+KM	Methanosarcina barkeri	7.1	methyl viologen	*; pH 7.0, 25&Acirc;&deg;C
+KM	Oligotropha carboxidovorans	0.00295	methylene blue	*Ag+-substituted enzyme, at pH 7.0 and 25&Acirc;&deg;C
+KM	Oligotropha carboxidovorans	0.0107	methylene blue	*native enzyme, at pH 7.0 and 25&Acirc;&deg;C
+KM	Oligotropha carboxidovorans	0.0107	methylene blue	*at pH 7.2 and 25&Acirc;&deg;C
+KM	Methanosarcina thermophila	1.7	Trichloroethylene	*
+KM	Methanosarcina barkeri	0.5	2,3,5-triphenyltetrazolium chloride	*below 0.5 mM; pH 7.0, 25&Acirc;&deg;C
+KM	Moorella thermoacetica	0.008	Ferredoxin	*
+MW	Methanosarcina barkeri	-999	*	*the enzyme is part of a high molecular mass multienzyme complex that contains a corrinoid protein and carbon monoxide dehydrogenase and requires tetrahydrosarcinapterin as methyl group acceptor
+MW	Methanosarcina thermophila	-999	*	*CO dehydrogenase complex consists of a two-subunit nickel/iron-sulfur component and the two-subunit factor III-containing corrinoid/iron-sulfur (Co/Fe-S) component
+MW	Aeropyrum pernix	12600	*	*1 * 86600 + 2 * 34500 + 1 * 12600, SDS-PAGE
+MW	Bradyrhizobium japonicum	17200	*	*L2,M2,S2, 2 * 75000 + 2 * 28400 + 2 * 17200, SDS-PAGE
+MW	Mycobacterium sp.	17390	*	*small subunit, calculated from sequence of cDNA
+MW	Hydrogenophaga pseudoflava	17752	*	*L2,M2,S2, 2 * 87224 + 2 * 30694 + 2 * 17752, deduced from gene sequence, SDS-PAGE
+MW	Oligotropha carboxidovorans	17800	*	*L2,M2,S2, 2 * 17800 + 2 * 30200 + 2 * 88700, dimer of heterotrimers, SDS-PAGE, crystal structure
+MW	Methanosarcina barkeri	18000	*	*x * 92000 + x * 18000
+MW	Methanosarcina mazei	19000	*	*2 * 19000 + 2 * 94000, alpha2beta2, SDS-PAGE
+MW	Methanosarcina thermophila	19000	*	*x * 89000 + x * 71000 + x * 60000 + x * 58000 + x * 19000, SDS-PAGE
+MW	Methanothrix soehngenii	19400	*	*2 * 19400 + 2 * 79400, SDS-PAGE
+MW	Methanosarcina barkeri	19700	*	*2 * 19700 + 2 * 84500, alpha2beta2, SDS-PAGE; 2 * 84500 + 2 * 19700, alpha2beta2, SDS-PAGE
+MW	Methanosarcina barkeri	19700	*	*6 * 19700, alpha, + 6 * 84500, beta, + 6 * 63200, gamma, + 6 * 53000, delta, + 6 * 51400, epsilon, MW of the subunits of the carbon monoxide dehydrogenase-corrinoid enzyme complex, SDS-PAGE
+MW	Methanococcus vannielii	21000	*	*2 * 21000 + 2 * 89000, SDS-PAGE
+MW	Bradyrhizobium japonicum	28400	*	*L2,M2,S2, 2 * 75000 + 2 * 28400 + 2 * 17200, SDS-PAGE
+MW	Oligotropha carboxidovorans	30200	*	*L2,M2,S2, 2 * 17800 + 2 * 30200 + 2 * 88700, dimer of heterotrimers, SDS-PAGE, crystal structure
+MW	Mycobacterium sp.	30620	*	*medium subunit, calculated from sequence of cDNA
+MW	Hydrogenophaga pseudoflava	30694	*	*L2,M2,S2, 2 * 87224 + 2 * 30694 + 2 * 17752, deduced from gene sequence, SDS-PAGE
+MW	Aeropyrum pernix	34500	*	*1 * 86600 + 2 * 34500 + 1 * 12600, SDS-PAGE
+MW	Moorella thermoacetica	50000	*	*2 * 50000 + 2 * 71000 + 2 * 78000, alpha2beta2gamma2, SDS-PAGE
+MW	Methanosarcina barkeri	51400	*	*6 * 19700, alpha, + 6 * 84500, beta, + 6 * 63200, gamma, + 6 * 53000, delta, + 6 * 51400, epsilon, MW of the subunits of the carbon monoxide dehydrogenase-corrinoid enzyme complex, SDS-PAGE
+MW	Methanosarcina barkeri	53000	*	*6 * 19700, alpha, + 6 * 84500, beta, + 6 * 63200, gamma, + 6 * 53000, delta, + 6 * 51400, epsilon, MW of the subunits of the carbon monoxide dehydrogenase-corrinoid enzyme complex, SDS-PAGE
+MW	Methanosarcina thermophila	58000	*	*x * 89000 + x * 71000 + x * 60000 + x * 58000 + x * 19000, SDS-PAGE
+MW	Methanosarcina thermophila	60000	*	*x * 89000 + x * 71000 + x * 60000 + x * 58000 + x * 19000, SDS-PAGE
+MW	Rhodospirillum rubrum	61600	*	*gel filtration
+MW	Rhodospirillum rubrum	61800	*	*1 * 61800, SDS-PAGE
+MW	Carboxydothermus hydrogenoformans	62000	*	*2 * 62000, enzyme, + electron transfer protein CooF and membrane bound [Ni-Fe] hydrogenase, six differentsubunits; 2 * 62000, SDS-PAGE, enzyme
+MW	Methanosarcina barkeri	63200	*	*6 * 19700, alpha, + 6 * 84500, beta, + 6 * 63200, gamma, + 6 * 53000, delta, + 6 * 51400, epsilon, MW of the subunits of the carbon monoxide dehydrogenase-corrinoid enzyme complex, SDS-PAGE
+MW	Carboxydothermus hydrogenoformans	70000	*	*x * 70000, SDS-PAGE
+MW	Citrobacter amalonaticus	70000	*	*2 * 70000, SDS-PAGE
+MW	Moorella thermoacetica	71000	*	*3 * 71000, beta, + 3 * 78000, alpha, SDS-PAGE; 3 * 78000 + 3 * 71000, alpha3,beta3, SDS-PAGE
+MW	Moorella thermoacetica	71000	*	*2 * 50000 + 2 * 71000 + 2 * 78000, alpha2beta2gamma2, SDS-PAGE
+MW	Methanosarcina thermophila	71000	*	*x * 89000 + x * 71000 + x * 60000 + x * 58000 + x * 19000, SDS-PAGE
+MW	Methanosarcina thermophila	72000	*	*beta subunit, SDS-PAGE
+MW	Moorella thermoacetica	73000	*	*alpha2,beta2, 2 * 82000 + 2 * 73000, enzyme previously thought to have an alpha3,beta3 structure, SDS-PAGE
+MW	Bradyrhizobium japonicum	75000	*	*L2,M2,S2, 2 * 75000 + 2 * 28400 + 2 * 17200, SDS-PAGE
+MW	Moorella thermoacetica	78000	*	*3 * 71000, beta, + 3 * 78000, alpha, SDS-PAGE; 3 * 78000 + 3 * 71000, alpha3,beta3, SDS-PAGE
+MW	Moorella thermoacetica	78000	*	*2 * 50000 + 2 * 71000 + 2 * 78000, alpha2beta2gamma2, SDS-PAGE
+MW	Methanothrix soehngenii	79400	*	*2 * 19400 + 2 * 79400, SDS-PAGE
+MW	Moorella thermoacetica	82000	*	*alpha2,beta2, 2 * 82000 + 2 * 73000, enzyme previously thought to have an alpha3,beta3 structure, SDS-PAGE
+MW	Methanosarcina barkeri	84500	*	*2 * 19700 + 2 * 84500, alpha2beta2, SDS-PAGE; 2 * 84500 + 2 * 19700, alpha2beta2, SDS-PAGE
+MW	Methanosarcina barkeri	84500	*	*6 * 19700, alpha, + 6 * 84500, beta, + 6 * 63200, gamma, + 6 * 53000, delta, + 6 * 51400, epsilon, MW of the subunits of the carbon monoxide dehydrogenase-corrinoid enzyme complex, SDS-PAGE
+MW	Mycobacterium sp.	85970	*	*large subunit, calculated from sequence of cDNA
+MW	Aeropyrum pernix	86600	*	*1 * 86600 + 2 * 34500 + 1 * 12600, SDS-PAGE
+MW	Hydrogenophaga pseudoflava	87224	*	*L2,M2,S2, 2 * 87224 + 2 * 30694 + 2 * 17752, deduced from gene sequence, SDS-PAGE
+MW	Oligotropha carboxidovorans	88700	*	*L2,M2,S2, 2 * 17800 + 2 * 30200 + 2 * 88700, dimer of heterotrimers, SDS-PAGE, crystal structure
+MW	Methanococcus vannielii	89000	*	*2 * 21000 + 2 * 89000, SDS-PAGE
+MW	Methanosarcina thermophila	89000	*	*x * 89000 + x * 71000 + x * 60000 + x * 58000 + x * 19000, SDS-PAGE
+MW	Methanosarcina barkeri	92000	*	*x * 92000 + x * 18000
+MW	Methanosarcina mazei	94000	*	*2 * 19000 + 2 * 94000, alpha2beta2, SDS-PAGE
+MW	Carboxydothermus hydrogenoformans	120000	*	*gel filtration, enzyme
+MW	Citrobacter amalonaticus	140000	*	*gel filtration
+MW	Moorella thermoacetica	155000	*	*sedimentation equilibrium centrifugation
+MW	Methanosarcina barkeri	161000	*	*dialyzed enzyme, gel filtration; gel filtration
+MW	Moorella thermoacetica	161000	*	*pore limit gel electrophoresis
+MW	Aeropyrum pernix	163700	*	*calculated from amino acid sequence
+MW	Methanothrix soehngenii	190000	*	*gel filtration
+MW	Methanosarcina barkeri	205000	*	*gradient gel electrophoresis
+MW	Aeropyrum pernix	210000	*	*gel filtration
+MW	Methanococcus vannielii	220000	*	*nondenaturing PAGE
+MW	Bradyrhizobium japonicum	230000	*	*native PAGE
+MW	Methanosarcina barkeri	232000	*	*
+MW	Bradyrhizobium japonicum	235000	*	*gel filtration
+MW	Moorella thermoacetica	250000	*	*gradient gel electrophoresis
+MW	Methanosarcina thermophila	250000	*	*the native enzyme (MW 250000 Da) forms aggregates with an MW of approximately 1000000, gradient gel electrophoresis
+MW	Oligotropha carboxidovorans	273500	*	*deduced from amino acid sequence
+MW	Moorella thermoacetica	300000	*	*sedimentation equilibrium ultracentrifugation
+MW	Moorella thermoacetica	310000	*	*
+MW	Moorella thermoacetica	410000	*	*gel filtration
+MW	Moorella thermoacetica	410000	*	*gel filtration
+MW	Moorella thermoacetica	436000	*	*gel filtration
+MW	Carboxydothermus hydrogenoformans	450000	*	*gel filtration, complex
+MW	Methanosarcina thermophila	1000000	*	*the native enzyme (MW 250000 Da) forms aggregates with an MW of approximately 1000000, gradient gel electrophoresis
+MW	Methanosarcina barkeri	1600000	*	*carbon monoxide dehydrogenase-corrinoid enzyme complex, gel filtration
+MW	Methanosarcina barkeri	3000000	*	*high molecular weight form exists under conditions of high ionic strength, gel filtration
+PATH	*	Carbon fixation pathways in prokaryotes	*	*
+PATH	*	carbon tetrachloride degradation II	*	*
+PATH	*	hydrogen production VI	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Methane metabolism	*	*
+PATH	*	methanogenesis from acetate	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Nitrotoluene degradation	*	*
+PATH	*	reductive acetyl coenzyme A pathway	*	*
+PATH	*	reductive acetyl coenzyme A pathway I (homoacetogenic bacteria)	*	*
+PATH	*	reductive acetyl coenzyme A pathway II (autotrophic methanogens)	*	*
+SA	Moorella thermoacetica	-999	*	*
+SA	Moorella thermoacetica	-999	*	*method for in situ assay
+SA	Archaeoglobus fulgidus	0.001	*	*CO2/acetyl-CoA exchange in cell extracts at 85&deg;C
+SA	Mycobacterium sp.	0.006	*	*at 37&deg;C
+SA	Mycobacterium tuberculosis	0.0099	*	*at 37&deg;C
+SA	Mycolicibacterium vaccae	0.0175	*	*at 37&deg;C
+SA	Archaeoglobus lithotrophicus	0.04	*	*pH 7.5, 65&deg;C, cell extract
+SA	Bradyrhizobium japonicum	0.0577	*	*
+SA	Ferroglobus placidus	0.1	*	*pH 7.5, 65&deg;C
+SA	Moorella thermoacetica	0.32	*	*CO/acetyl-CoA exchange reaction
+SA	Autotrophic methanogenic bacterium	0.4	*	*enzyme activity in cell extracts
+SA	Methanothermobacter thermautotrophicus	0.4	*	*enzyme activity in cell extracts at 35&deg;C, pH 7.5, 100% CO in gas phase
+SA	Archaeoglobus fulgidus	0.9	*	*pH 8.1, 80&deg;C
+SA	Aeropyrum pernix	0.96	*	*after 12.92fold purification, at 95&deg;C, pH 8.0, using methylene blue as electron acceptor
+SA	Aeropyrum pernix	2.08	*	*after 12.92fold purification, at 95&deg;C, pH 8.0, using methyl viologen as electron acceptor
+SA	Aeropyrum pernix	2.45	*	*after 12.92fold purification, at 95&deg;C, pH 8.0, using NADP+ as electron acceptor
+SA	Aeropyrum pernix	2.47	*	*after 12.92fold purification, at 95&deg;C, pH 8.0, using NAD+ as electron acceptor
+SA	Archaeoglobus fulgidus	5.2	*	*pH 7.5, 65&deg;C, cell extract
+SA	Archaeoglobus fulgidus	5.7	*	*CO oxidation in cell-extracts at 85&deg;C, electron acceptor methylviologen
+SA	Rhodospirillum rubrum	6.9	*	*mutant C531A, pH 7.5
+SA	Moorella thermoacetica	7	*	*acetyl-CoA/CoA exchange reaction at pH 6.0 and 45&deg;C, 100% CO in the gas phase
+SA	Moorella thermoacetica	28	*	*acetyl-CoA/CoA exchange reaction at pH 6.0 and 45&deg;C, CO in the gas phase replaced by N2
+SA	Methanosarcina thermophila	33	*	*
+SA	Methanosarcina barkeri	40	*	*
+SA	Thermacetogenium phaeum	76.8	*	*cells grown in pure culture on pyruvate, pH 7.5, 55&deg;C
+SA	Rhodospirillum rubrum	86.3	*	*mutant C451S, pH 7.5
+SA	Moorella thermoacetica	100	*	*25&deg;C, mutant A265M
+SA	Methanothrix soehngenii	117	*	*
+SA	Moorella thermoacetica	120	*	*electron acceptor ferredoxin
+SA	Methanosarcina barkeri	133.6	*	*
+SA	Thermacetogenium phaeum	163	*	*cells grown syntrophically on acetate, pH 7.5, 55&deg;C
+SA	Methanococcus vannielii	190	*	*
+SA	Moorella thermoacetica	200	*	*25&deg;C, wild type
+SA	Methanosarcina barkeri	216	*	*pH 7.0, 37&deg;C
+SA	Moorella thermoacetica	220	*	*
+SA	Moorella thermoacetica	250	*	*CO oxidation
+SA	Moorella thermoacetica	280	*	*25&deg;C, mutant A110C
+SA	Moorella thermoacetica	300	*	*25&deg;C, mutant A222L
+SA	Methanosarcina mazei	320	*	*
+SA	Moorella thermoacetica	435	*	*
+SA	Moorella thermoacetica	675	*	*electron acceptor methyl viologen
+SA	Rhodospirillum rubrum	694	*	*
+SA	Carboxydothermus hydrogenoformans	5924	*	*pH 7.0, 70&deg;C
+SA	Rhodospirillum rubrum	6230	*	*wild-type, pH 7.5
+SA	Rhodospirillum rubrum	12000	*	*
+SA	Carboxydothermus hydrogenoformans	14000	*	*carbon monoxide dehydrogenase II

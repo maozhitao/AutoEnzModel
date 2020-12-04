@@ -1,0 +1,31 @@
+KCAT	Escherichia coli	10	nitrate	*mutant enzyme K86A
+KCAT	Escherichia coli	68	2-hydroxy-3-(3-methyl-2-butenyl)-1,4-naphthoquinol	*pH 7
+KCAT	Escherichia coli	68	nitrate	*wild-type enzyme
+KCAT	Escherichia coli	120	5-hydroxy-2-methyl-1,4-naphthoquinol	*pH 7
+KM	Escherichia coli	0.5	nitrate	*
+KM	Escherichia coli K-12	3.9	nitrate	*cosubstrate: benzyl viologen
+KM	Escherichia coli	0.282	5-hydroxy-2-methyl-1,4-naphthoquinol	*pH 7
+KM	Escherichia coli	0.057	2-hydroxy-3-(3-methyl-2-butenyl)-1,4-naphthoquinol	*pH 7
+KM	Escherichia coli	0.147	5-hydroxy-2-methyl-naphthalene-1,4-diol	*pH 7.0
+MW	Pseudomonas chlororaphis	24000	*	*x * 129000 (alpha) + x * 66000 (beta) + x * 24000 (gamma), SDS-PAGE
+MW	Escherichia coli	25500	*	*x * 138700 + x * 57700, x * 26500, x * 25500, the narGHJI operon that encodes the nitrate reductase encodes four polypeptides NarG (138700 Da), NarH (57700 Da), NarJ (26500 Da) and NarI (25500 Da), calculated from sequence
+MW	Escherichia coli	26500	*	*x * 138700 + x * 57700, x * 26500, x * 25500, the narGHJI operon that encodes the nitrate reductase encodes four polypeptides NarG (138700 Da), NarH (57700 Da), NarJ (26500 Da) and NarI (25500 Da), calculated from sequence
+MW	Escherichia coli	57700	*	*x * 138700 + x * 57700, x * 26500, x * 25500, the narGHJI operon that encodes the nitrate reductase encodes four polypeptides NarG (138700 Da), NarH (57700 Da), NarJ (26500 Da) and NarI (25500 Da), calculated from sequence
+MW	Escherichia coli	60000	*	*1 * 150000 (alphaz) + 1 * 60000 (betaz) + a b-type cytochrome subunit, SDS-PAGE
+MW	Pseudomonas chlororaphis	66000	*	*x * 129000 (alpha) + x * 66000 (beta) + x * 24000 (gamma), SDS-PAGE
+MW	Pseudomonas chlororaphis	129000	*	*x * 129000 (alpha) + x * 66000 (beta) + x * 24000 (gamma), SDS-PAGE
+MW	Escherichia coli	138700	*	*x * 138700 + x * 57700, x * 26500, x * 25500, the narGHJI operon that encodes the nitrate reductase encodes four polypeptides NarG (138700 Da), NarH (57700 Da), NarJ (26500 Da) and NarI (25500 Da), calculated from sequence
+MW	Escherichia coli	150000	*	*1 * 150000 (alphaz) + 1 * 60000 (betaz) + a b-type cytochrome subunit, SDS-PAGE
+MW	Paracoccus denitrificans	200000	*	*soluble alpha/beta enzyme, gel filtration
+MW	Escherichia coli	223900	*	*multiple isomorphous replacement and anaomalous scattering (MIRAS), crystallographic data
+MW	Escherichia coli	230000	*	*alpha(Z)beta(Z) complex, gel filtration
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	nitrate reduction I (denitrification)	*	*
+PATH	*	nitrate reduction III (dissimilatory)	*	*
+PATH	*	nitrate reduction IX (dissimilatory)	*	*
+PATH	*	nitrate reduction VII (denitrification)	*	*
+PATH	*	nitrate reduction VIII (dissimilatory)	*	*
+PATH	*	nitrate reduction VIIIb (dissimilatory)	*	*
+PATH	*	Nitrogen metabolism	*	*
+SA	Pseudomonas chlororaphis	2.6	*	*

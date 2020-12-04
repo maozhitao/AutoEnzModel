@@ -1,0 +1,21 @@
+KM	Homo sapiens	-999	more	*Michaelis-Menten kinetics
+KM	Rattus norvegicus	0.109	2-oxoglutarate	*
+KM	Bos taurus	0.13	N6,N6,N6-Trimethyl-L-lysine	*
+KM	Neurospora crassa	0.133	2-oxoglutarate	*
+KM	Bos taurus	0.22	alpha-ketoglutarate	*
+KM	Neurospora crassa	0.33	N6,N6,N6-Trimethyl-L-lysine	*
+KM	Homo sapiens	0.636	N6,N6,N6-Trimethyl-L-lysine	*recombinant MBP-tagged enzyme, pH 7.0, 37&deg;C
+KM	Homo sapiens	0.696	N6,N6,N6-Trimethyl-L-lysine	*recombinant detagged enzyme, pH 7.0, 37&deg;C
+KM	Rattus norvegicus	1.1	N6,N6,N6-Trimethyl-L-lysine	*pH 6.7, 37&deg;C
+KM	Rattus norvegicus	1.6	trimethyllysine	*
+MW	Rattus norvegicus	43000	*	*2 * 43000, calculation from nucleotide sequence
+MW	Bos taurus	52000	*	*x * 52000 + x * 65000, SDS-PAGE
+MW	Bos taurus	65000	*	*x * 52000 + x * 65000, SDS-PAGE
+MW	Rattus norvegicus	87000	*	*gel filtration, non-denaturing PAGE
+MW	Bos taurus	180000	*	*gel filtration
+PATH	*	carnitine metabolism	*	*
+PATH	*	L-carnitine biosynthesis	*	*
+PATH	*	Lysine degradation	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Bos taurus	-999	*	*
+SA	Rattus norvegicus	0.0586	*	*

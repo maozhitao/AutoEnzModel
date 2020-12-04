@@ -1,0 +1,33 @@
+KM	Burkholderia cepacia	0.079	NADH	*component B
+KM	Burkholderia cepacia	0.023	2-Chlorobenzoate	*component A
+KM	Pseudomonas sp.	0.078	2-Chlorobenzoate	*cells grown on 2-chlorobenzoate or 2,5-dichlorobenzoate
+KM	Pseudomonas sp.	0.063	2,5-dichlorobenzoate	*cells grown on 2-chlorobenzoate or 2,5-dichlorobenzoate
+MW	Pseudomonas aeruginosa	13000	*	*gel filtration
+MW	Burkholderia cepacia	19500	*	*x * 19500, x * 52400, alpha3beta3, small and large subunit of the oxygenase component, SDS-PAGE
+MW	Burkholderia cepacia	20000	*	*3 * 52000, 3 * 20000, alpha3,beta3 structure of component A, SDS-PAGE
+MW	Burkholderia cepacia	37100	*	*1 * 37100, NADH:acceptor reductase component, SDS-PAGE
+MW	Burkholderia cepacia	37500	*	*component B, gel filtration
+MW	Burkholderia cepacia	37500	*	*1 * 37500, component B, SDS-PAGE
+MW	Burkholderia cepacia	52000	*	*3 * 52000, 3 * 20000, alpha3,beta3 structure of component A, SDS-PAGE
+MW	Burkholderia cepacia	52400	*	*x * 19500, x * 52400, alpha3beta3, small and large subunit of the oxygenase component, SDS-PAGE
+MW	Burkholderia cepacia	200000	*	*component A, gel filtration
+PATH	*	2-chlorobenzoate degradation	*	*
+PATH	*	Fluorobenzoate degradation	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Pseudomonas sp.	-999	*	*activity is similarly influenced by pH, temperature, concentration of oxygen, protein, Fe2+, FAD and NADH in assay medium independent if the cells are grown on 2-chlorobenzoate or 2,5-dichlorobenzoate
+SA	Burkholderia sp.	0.0013	*	*cells are grown on 3-chlorobenzoate, benzoate as substrate for assay
+SA	Burkholderia sp.	0.0024	*	*recombinant cells are grown on LB/IPTG, benzoate as substrate for assay
+SA	Burkholderia sp.	0.0032	*	*cells are grown on benzoate, benzoate as substrate for assay
+SA	Burkholderia sp.	0.006	*	*with 4-chlorobenzoate as substrate
+SA	Burkholderia cepacia	0.0085	*	*crude extract, 3.4 mg protein per ml in the assay
+SA	Burkholderia cepacia	0.0085	*	*crude extract, 3.4 mg protein per ml in the assay
+SA	Pseudomonas sp.	0.018	*	*cells grown on 2-clorobenzoate or 2,5-dichlorobenzoate, enzyme activity for the conversion of both substrates
+SA	Burkholderia sp.	0.032	*	*with 2-iodobenzoate as substrate
+SA	Burkholderia cepacia	0.043	*	*after anion exchange: fraction A + B + NADH + Fe2+
+SA	Burkholderia sp.	0.073	*	*with 3-chlorobenzoate as substrate
+SA	Burkholderia sp.	0.195	*	*with benzoate as substrate
+SA	Burkholderia sp.	0.303	*	*with 2-bromobenzoate as substrate
+SA	Burkholderia sp.	0.458	*	*with 2-chlorobenzoate as substrate
+SA	Burkholderia cepacia	0.53	*	*activity of component A after gel filtration in presence of component B
+SA	Pseudomonas aeruginosa	1.57	*	*30&deg;C, pH 6.5
+SA	Burkholderia cepacia	4	*	*activity of component B in presence of component A

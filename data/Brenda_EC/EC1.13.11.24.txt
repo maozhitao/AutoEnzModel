@@ -1,0 +1,73 @@
+KCAT	Bacillus subtilis	0.65	quercetin	*Fe quercetin 2,3-dioxygenase
+KCAT	Streptomyces sp.	1.45	quercetin	*
+KCAT	Bacillus subtilis	6.7	quercetin	*Co quercetin 2,3-dioxygenase (0.65 atoms Co/subunit)
+KCAT	Streptomyces sp.	7.6	quercetin	*recombinant Co-QueD, 50 mM Tris-HCl buffer pH 8
+KCAT	Streptomyces sp.	12.5	O2	*recombinant Co-QueD, 50 mM Tris-HCl buffer pH 8
+KCAT	Streptomyces sp.	19	O2	*recombinant Ni-QueD, 50 mM Tris-HCl buffer pH 8
+KCAT	Bacillus subtilis	25	quercetin	*Mn quercetin 2,3-dioxygenase (1.8 atoms Mn/subunit)
+KCAT	Penicillium olsonii	33.3	galangin	*pH 6, 25&deg;C
+KCAT	Streptomyces sp.	40.1	quercetin	*recombinant Ni-QueD, 50 mM Tris-HCl buffer pH 8
+KCAT	Penicillium olsonii	56.7	fisetin	*pH 6, 25&deg;C
+KCAT	Penicillium olsonii	166.7	quercetin	*pH 6, 25&deg;C
+KCAT	Penicillium olsonii	466.7	kaempferol	*pH 6, 25&deg;C
+KM	Aspergillus japonicus	-999	more	*kinetics of enzyme-substrate complexes of the active site of MII-containing quercetin 2,3-dioxygenase, overview
+KM	Bacillus subtilis	-999	more	*kinetics, modeling, overview
+KM	Bacillus subtilis	0.0008	quercetin	*pH 7.5, 25&deg;C
+KM	Streptomyces sp.	0.00096	quercetin	*recombinant Co-QueD, 50 mM Tris-HCl buffer pH 8
+KM	Bacillus subtilis	0.004	quercetin	*Mn quercetin 2,3-dioxygenase (1.8 atoms Mn/subunit)
+KM	Bacillus subtilis	0.004	quercetin	*pH 7.0, temperature not specified in the publication
+KM	Aspergillus flavus	0.0052	quercetin	*
+KM	Bacillus subtilis	0.0052	quercetin	*Fe quercetin 2,3-dioxygenase
+KM	Streptomyces sp.	0.00575	quercetin	*recombinant Ni-QueD, 50 mM Tris-HCl buffer pH 8
+KM	Aspergillus niger	0.0066	quercetin	*
+KM	Bacillus subtilis	0.0075	quercetin	*Co quercetin 2,3-dioxygenase (0.65 atoms Co/subunit)
+KM	Aspergillus flavus	0.0125	quercetin	*
+KM	Penicillium olsonii	0.013	kaempferol	*pH 6, 25&deg;C
+KM	Aspergillus flavus	0.013	quercetin	*
+KM	Aspergillus flavus	0.014	quercetin	*
+KM	Streptomyces sp.	0.0141	quercetin	*
+KM	Penicillium olsonii	0.019	quercetin	*pH 6, 25&deg;C
+KM	Penicillium olsonii	0.02	galangin	*pH 6, 25&deg;C
+KM	Bacillus subtilis	0.079	oxygen	*Co quercetin 2,3-dioxygenase (0.65 atoms Co/subunit)
+KM	Penicillium olsonii	0.085	fisetin	*pH 6, 25&deg;C
+KM	Bacillus subtilis	0.09	oxygen	*Mn quercetin 2,3-dioxygenase (1.8 atoms Mn/subunit)
+KM	Aspergillus flavus	0.12	oxygen	*
+KM	Bacillus subtilis	0.15	oxygen	*Fe quercetin 2,3-dioxygenase
+MW	Streptomyces sp.	23040	*	*calculated value of the hexahistidine-tagged QueD monomer
+MW	Streptomyces sp.	23041	*	*x * 23041, calculated from sequence
+MW	Streptomyces sp.	23041	*	*3 * 23041, gel permeation chromatography
+MW	Aspergillus niger	26510	*	*alpha 1 * 69574 + beta 1 * 51733 + gamma 1 * 26510, MALDI-TOF
+MW	Bacillus subtilis	37640	*	*x * 37640, MALDI-TOF, SDS-PAGE
+MW	Bacillus subtilis	40000	*	*about 40000 Da, SDS-PAGE
+MW	Streptomyces sp.	45000	*	*SDS-PAGE
+MW	Aspergillus niger	51733	*	*alpha 1 * 69574 + beta 1 * 51733 + gamma 1 * 26510, MALDI-TOF
+MW	Penicillium olsonii	55000	*	*1 * 55000, SDS-PAGE
+MW	Aspergillus flavus	55100	*	*SDS-PAGE
+MW	Penicillium olsonii	56000	*	*gel filtration
+MW	Streptomyces sp.	63000	*	*gel filtration
+MW	Streptomyces sp.	65000	*	*gel permeation chromatography, native Ni-QueD
+MW	Streptomyces sp.	65100	*	*gel permeation chromatography, native Co-QueD
+MW	Aspergillus niger	69574	*	*alpha 1 * 69574 + beta 1 * 51733 + gamma 1 * 26510, MALDI-TOF
+MW	Aspergillus flavus	110000	*	*
+MW	Aspergillus flavus	110000	*	*low speed sedimentation
+MW	Aspergillus flavus	111400	*	*gel filtration
+MW	Aspergillus niger	135000	*	*gel filtration
+PATH	*	rutin degradation	*	*
+SA	Streptomyces sp.	-999	*	*high specific QueD activity is found in crude cell extracts when the growth medium is supplemented with NiCl2 or CoCl2, but not when Mn2+, Fe2+, Cu2+, or Zn2+ is added, the activity of the purified QueD proteins depends strongly on the nature of the metal ion cofactor
+SA	Bacillus subtilis	0.0012	*	*native enzyme, using quercetin as substrate, at 25&Acirc;&deg;C, pH 7.5
+SA	Bacillus subtilis	0.0276	*	*recombinant enzyme, using fisetin as substrate, at 25&Acirc;&deg;C, pH 7.5
+SA	Bacillus subtilis	1.5	*	*25&Acirc;&deg;C, pH 7.5
+SA	Bacillus subtilis	1.87	*	*recombinant enzyme, using tamarixetin as substrate, at 25&Acirc;&deg;C, pH 7.5
+SA	Bacillus subtilis	2.27	*	*recombinant enzyme, using quercetin as substrate, at 25&Acirc;&deg;C, pH 7.5
+SA	Bacillus subtilis	2.49	*	*recombinant enzyme, using galangin as substrate, at 25&Acirc;&deg;C, pH 7.5
+SA	Streptomyces sp.	4	*	*Fe-QueD
+SA	Streptomyces sp. FLA	8	*	*purified recombinant Fe2+-supplemented enzyme, pH 8.0, 30&Acirc;&deg;C
+SA	Streptomyces sp. FLA	18	*	*purified recombinant Mn2+-supplemented enzyme, pH 8.0, 30&Acirc;&deg;C
+SA	Streptomyces sp.	28	*	*Co-QueD
+SA	Streptomyces sp. FLA	30	*	*purified recombinant Co2+-supplemented enzyme, pH 8.0, 30&Acirc;&deg;C
+SA	Aspergillus niger	55.7	*	*
+SA	Aspergillus japonicus	90	*	*
+SA	Streptomyces sp. FLA	137	*	*purified recombinant Ni2+-supplemented enzyme, pH 8.0, 30&Acirc;&deg;C
+SA	Streptomyces sp.	144	*	*Ni-QueD
+SA	Penicillium olsonii	175	*	*
+SA	Aspergillus flavus	180	*	*

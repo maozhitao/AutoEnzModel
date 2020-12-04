@@ -1,0 +1,53 @@
+KCAT	Leuconostoc citreum	2.3	sucrose	*mutant enzyme S425A, at 30&deg;C and pH 6.0
+KCAT	Lactobacillus reuteri	10	sucrose	*hydrolytic activity, measurement of beta-D-fructose, pH 6.5, 30&deg;C
+KCAT	Lactobacillus reuteri	10	sucrose	*recombinant enzyme, hydrolytic reaction, pH 5.4, 20&deg;C
+KCAT	Leuconostoc citreum	25	sucrose	*wild-type, pH 6.5, 30&deg;C
+KCAT	Leuconostoc citreum	25.5	sucrose	*hydrolytic activity, measurement of beta-D-fructose, pH 6.5, 30&deg;C
+KCAT	Leuconostoc citreum	27	sucrose	*mutant enzyme R618K, at 30&deg;C and pH 6.0
+KCAT	Leuconostoc citreum	28.2	sucrose	*truncated version IslA2, pH 6.5, 30&deg;C
+KCAT	Lactobacillus reuteri	43.6	sucrose	*overall activity, measurement of alpha-D-glucose, pH 6.5, 30&deg;C
+KCAT	Lactobacillus reuteri	43.6	sucrose	*recombinant enzyme, transferase reaction, pH 5.4, 20&deg;C
+KCAT	Lactobacillus reuteri	55.2	sucrose	*transferase activity, measurement of alpha-D-glucose minus beta-D-fructose, pH 6.5, 30&deg;C
+KCAT	Leuconostoc citreum	63.5	sucrose	*transferase activity, measurement of alpha-D-glucose minus beta-D-fructose, pH 6.5, 30&deg;C
+KCAT	Leuconostoc citreum	71	sucrose	*wild type enzyme, at 30&deg;C and pH 6.0
+KCAT	Leuconostoc citreum	76.7	sucrose	*overall activity, measurement of alpha-D-glucose, pH 6.5, 30&deg;C
+KCAT	Lactobacillus reuteri	88.9	sucrose	*recombinant enzyme, hydrolytic reaction, pH 5.4, 50&deg;C
+KCAT	Leuconostoc citreum	105	sucrose	*truncated version IslA4, pH 6.5, 30&deg;C
+KCAT	Lactobacillus reuteri	504	sucrose	*recombinant enzyme, transferase reaction, pH 5.4, 50&deg;C
+KM	Lactobacillus reuteri	-999	more	*kinetics at 20&deg;C and 50&deg;C assay temperature
+KM	Lactobacillus johnsonii	-999	more	*transfructosylation reaction does not obey Michaelis-Menten kinetics
+KM	Leuconostoc citreum	11.4	sucrose	*hydrolytic activity, measurement of beta-D-fructose, pH 6.5, 30&deg;C
+KM	Lactobacillus reuteri	12	sucrose	*37&deg;C, wild-type enzyme
+KM	Leuconostoc citreum	24	sucrose	*truncated version IslA2, pH 6.5, 30&deg;C
+KM	Leuconostoc citreum	35.2	sucrose	*overall activity, measurement of alpha-D-glucose, pH 6.5, 30&deg;C
+KM	Leuconostoc citreum	38	sucrose	*wild-type, pH 6.5, 30&deg;C
+KM	Lactobacillus reuteri	39	sucrose	*37&deg;C, mutant enzyme W271N
+KM	Leuconostoc citreum	82.6	sucrose	*wild type enzyme, at 30&deg;C and pH 6.0
+KM	Leuconostoc citreum	99.2	sucrose	*transferase activity, measurement of alpha-D-glucose minus D-fructose, pH 6.5, 30&deg;C
+KM	Leuconostoc citreum	125	sucrose	*mutant enzyme S425A, at 30&deg;C and pH 6.0
+KM	Leuconostoc citreum	126	sucrose	*mutant enzyme R618K, at 30&deg;C and pH 6.0
+KM	Leuconostoc citreum	142	sucrose	*truncated version IslA4, pH 6.5, 30&deg;C
+KM	Lactobacillus reuteri	197	sucrose	*37&deg;C, mutant enzyme R423K
+KM	Leuconostoc citreum	308	sucrose	*mutant enzyme L499F, at 30&deg;C and pH 6.0
+MW	Aspergillus oryzae	116300	*	*estimated from SDS-PAGE
+MW	Leuconostoc citreum	165000	*	*x * 165000, SDS-PAGE
+MW	Aureobasidium pullulans	570000	*	*gel filtration
+PATH	*	Metabolic pathways	*	*
+PATH	*	Starch and sucrose metabolism	*	*
+SA	Lactobacillus reuteri	0.00032	*	*purified recombinant mutant D272N, inulin synthesizing activity
+SA	Lactobacillus reuteri	0.00066	*	*purified recombinant mutant D424N, inulin synthesizing activity
+SA	Lactobacillus reuteri	0.0028	*	*purified recombinant mutant E523Q, inulin synthesizing activity
+SA	Lactobacillus reuteri	0.3	*	*below, purified recombinant mutant D520A, 50&Acirc;&deg;C, without Ca2+
+SA	Lactobacillus reuteri	1	*	*purified recombinant mutant D520N, 50&Acirc;&deg;C, 1 mM Ca2+
+SA	Lactobacillus reuteri	3.6	*	*purified recombinant mutant D520A, 50&Acirc;&deg;C, 1 mM Ca2+
+SA	Lactobacillus gasseri	10.5	*	*purified recombinant truncated His-tagged enzyme, pH 5.2, 55&Acirc;&deg;C
+SA	Lactobacillus johnsonii	27	*	*hydrolytic activity, 55&Acirc;&deg;C, pH 7.0
+SA	Lactobacillus reuteri	47	*	*purified recombinant wild-type enzyme, inulin synthesizing activity
+SA	Lactobacillus reuteri	103.7	*	*
+SA	Lactobacillus johnsonii	178	*	*hydrolytic activity, 37&Acirc;&deg;C, pH 7.0
+SA	Lactobacillus reuteri	180	*	*purified recombinant wild-type enzyme, 50&Acirc;&deg;C, 1 mM Ca2+
+SA	Lactobacillus johnsonii	187	*	*transglycosylation activity, 37&Acirc;&deg;C, pH 7.0
+SA	Lactobacillus johnsonii	365	*	*total activity, 37&Acirc;&deg;C, pH 7.0
+SA	Aureobasidium pullulans	459	*	*pH 5.5, 55&Acirc;&deg;C
+SA	Lactobacillus johnsonii	698	*	*transglycosylation activity, 55&Acirc;&deg;C, pH 7.0
+SA	Lactobacillus johnsonii	719	*	*total activity, 55&Acirc;&deg;C, pH 7.0

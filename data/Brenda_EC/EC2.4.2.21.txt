@@ -1,0 +1,66 @@
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	0.62	NAD+	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Sporomusa ovata	0.4	phenol	*pH 9.0, 37&Acirc;&deg;C, wild-type
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	149	NMN	*pH 7.0, 37&Acirc;&deg;C
+KCAT	Salmonella enterica	0.2	beta-nicotinate D-ribonucleotide	*mutant G257D, at 37&Acirc;&deg;C; mutant G320D, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica	0.6	beta-nicotinate D-ribonucleotide	*mutant G171D, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica	14	beta-nicotinate D-ribonucleotide	*mutant G257A, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica	31	beta-nicotinate D-ribonucleotide	*mutant C160A, at 37&Acirc;&deg;C
+KCAT	Salmonella enterica	38	beta-nicotinate D-ribonucleotide	*wild-type, at 37&Acirc;&deg;C
+KCAT	Sporomusa ovata	1.6	5,6-Dimethylbenzimidazole	*pH 9.0, 37&Acirc;&deg;C, wild-type
+KM	Pseudomonas denitrificans (nomen rejiciendum)	0.000016	dimethylbenzimidazole	*
+KM	Acetoanaerobium sticklandii	0.01	adenine	*
+KM	Salmonella enterica subsp. enterica serovar Typhimurium	0.01	dimethylbenzimidazole	*or less
+KM	Sporomusa ovata	0.05	phenol	*pH 9.0, 37&deg;C, wild-type
+KM	Pseudomonas denitrificans (nomen rejiciendum)	0.083	nicotinic acid mononucleotide	*
+KM	Salmonella enterica	0.3	beta-nicotinate D-ribonucleotide	*mutant G257A, at 37&deg;C; wild-type, at 37&deg;C
+KM	Acetoanaerobium sticklandii	0.3	nicotinic acid mononucleotide	*cosubstrate adenine
+KM	Sporomusa ovata	0.415	5,6-Dimethylbenzimidazole	*pH 9.0, 37&deg;C, wild-type
+KM	Acetoanaerobium sticklandii	0.5	benzimidazole	*
+KM	Salmonella enterica subsp. enterica serovar Typhimurium	0.51	NMN	*pH 7.0, 37&deg;C
+KM	Salmonella enterica subsp. enterica serovar Typhimurium	0.68	nicotinic acid mononucleotide	*
+KM	Acetoanaerobium sticklandii	0.7	nicotinic acid mononucleotide	*cosubstrate benzimidazole
+KM	Salmonella enterica	0.9	beta-nicotinate D-ribonucleotide	*mutant G171D, at 37&deg;C
+KM	Salmonella enterica	1	beta-nicotinate D-ribonucleotide	*mutant G320D, at 37&deg;C
+KM	Salmonella enterica	1.2	beta-nicotinate D-ribonucleotide	*mutant C160A, at 37&deg;C
+KM	Propionibacterium freudenreichii subsp. shermanii	2	benzimidazole	*
+KM	Salmonella enterica	2.2	beta-nicotinate D-ribonucleotide	*mutant G257D, at 37&deg;C
+KM	Salmonella enterica subsp. enterica serovar Typhimurium	9	NAD+	*pH 7.0, 37&deg;C
+MW	Pseudomonas denitrificans (nomen rejiciendum)	35000	*	*2 * 35000, SDS-PAGE
+MW	Sporomusa ovata	36180	*	*functional as a heterodimer, 1 * 36650 (ArsA) + 1 * 36180 (ArsB), SDS-PAGE
+MW	Sporomusa ovata	36650	*	*functional as a heterodimer, 1 * 36650 (ArsA) + 1 * 36180 (ArsB), SDS-PAGE
+MW	Propionibacterium freudenreichii	66400	*	*x * 66400, fusion protein BluB/CobT2, SDS-PAGE
+MW	Pseudomonas denitrificans (nomen rejiciendum)	71000	*	*gel filtration
+PATH	*	2-methyladeninyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP	*	*
+PATH	*	5-hydroxybenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP	*	*
+PATH	*	5-methoxy-6-methylbenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP	*	*
+PATH	*	5-methoxybenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP	*	*
+PATH	*	5-methylbenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP	*	*
+PATH	*	adeninyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP	*	*
+PATH	*	adenosylcobalamin biosynthesis from adenosylcobinamide-GDP I	*	*
+PATH	*	benzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Porphyrin and chlorophyll metabolism	*	*
+PATH	*	superpathway of adenosylcobalamin salvage from cobinamide I	*	*
+PATH	*	superpathway of adenosylcobalamin salvage from cobinamide II	*	*
+PATH	*	vitamin B12 metabolism	*	*
+SA	Pseudomonas denitrificans (nomen rejiciendum)	-999	*	*
+SA	Salmonella enterica subsp. enterica serovar Typhimurium	-999	*	*
+SA	Sporomusa ovata	0.0000007	*	*substrate p-cresol, pH 9.0, 37&Acirc;&deg;C, mutant M87Q/I321S
+SA	Sporomusa ovata	0.0000024	*	*substrate 5,6-dimethylbenzimidazole, pH 9.0, 37&Acirc;&deg;C, mutant M87Q/I321S
+SA	Sporomusa ovata	0.0000083	*	*substrate p-cresol, pH 9.0, 37&Acirc;&deg;C, mutant I321S
+SA	Sporomusa ovata	0.0000142	*	*substrate p-cresol, pH 9.0, 37&Acirc;&deg;C, mutant M87Q
+SA	Sporomusa ovata	0.0000167	*	*substrate 5,6-dimethylbenzimidazole, pH 9.0, 37&Acirc;&deg;C, mutant I321S
+SA	Sporomusa ovata	0.0000376	*	*substrate p-cresol, pH 9.0, 37&Acirc;&deg;C, wild-type
+SA	Sporomusa ovata	0.00016	*	*substrate 5,6-dimethylbenzimidazole, pH 9.0, 37&Acirc;&deg;C, wild-type
+SA	Sporomusa ovata	0.000192	*	*substrate 5,6-dimethylbenzimidazole, pH 9.0, 37&Acirc;&deg;C, mutant M87Q
+SA	Salmonella enterica subsp. enterica serovar Typhimurium	0.0021	*	*cell extract, substrate NMN
+SA	Salmonella enterica subsp. enterica serovar Typhimurium	0.0025	*	*cell extract, substrate NAD+
+SA	Salmonella enterica subsp. enterica serovar Typhimurium	0.035	*	*cell extract, substrate beta-nicotinate D-riboadenosine
+SA	Salmonella enterica	0.1	*	*mutant G257D, at 37&Acirc;&deg;C
+SA	Salmonella enterica	0.2	*	*mutant G320D, at 37&Acirc;&deg;C
+SA	Salmonella enterica	0.5	*	*mutant G171D, at 37&Acirc;&deg;C
+SA	Acetoanaerobium sticklandii	2.3	*	*
+SA	Salmonella enterica	11	*	*mutant G257A, at 37&Acirc;&deg;C
+SA	Propionibacterium freudenreichii subsp. shermanii	11.6	*	*
+SA	Salmonella enterica	25	*	*mutant C160A, at 37&Acirc;&deg;C
+SA	Salmonella enterica	30	*	*wild-type, at 37&Acirc;&deg;C

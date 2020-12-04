@@ -1,0 +1,39 @@
+KM	Sus scrofa	0.02	UDP-galactose	*
+KM	Gallus gallus	0.025	UDP-galactose	*
+KM	Rattus norvegicus	0.63	UDP-galactose	*with N-acetyl-D-galactosaminyl-alpha-phenyl
+KM	Rattus norvegicus	1.7	N-acetyl-alpha-D-galactosaminyl-benzyl	*
+KM	Rattus norvegicus	0.76	N-acetyl-alpha-D-galactosaminyl-phenyl	*
+KM	Rattus norvegicus	0.55	A-P-(N-acetyl-D-galactosaminyl)T-S-S-A	*
+KM	Sus scrofa	-999	more	*kinetic modeling, numerical simulation of in vivo Core 1 glycosylation pattern
+KM	Sus scrofa	0.00035	asialo Cowper's gland mucin	*
+KM	Sus scrofa	0.09	asialo Cowper's gland mucin	*calculated on the basis of terminal N-galactosaminyl residues
+KM	Gallus gallus	5	asialo ovine submaxillary mucin	*in terms of N-acetylgalactosamine equivalents
+MW	Homo sapiens	39000	*	*HPC4-tagged soluble T-synthase, determined by SDS-PAGE
+MW	Homo sapiens	42000	*	*x * 42000, SDS-PAGE
+MW	Homo sapiens	48000	*	*gel filtration
+MW	Homo sapiens	50000	*	*SDS-PAGE
+MW	Gallus gallus	68000	*	*x * 68000, SDS-PAGE
+MW	Sus scrofa	82000	*	*1 * 82000, SDS-PAGE
+MW	Rattus norvegicus	84000	*	*gel filtration
+MW	Sus scrofa	90000	*	*gel filtration in the presence of Triton X-100
+PATH	*	Escherichia coli serotype O86 O-antigen biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	mucin core 1 and core 2 O-glycosylation	*	*
+PATH	*	Mucin type O-glycan biosynthesis	*	*
+PATH	*	O-antigen biosynthesis	*	*
+PATH	*	Other types of O-glycan biosynthesis	*	*
+SA	Gallus gallus	-999	*	*
+SA	Drosophila melanogaster	-999	*	*C1GalTA exhibits high activity on Tn and glycopeptide substrates, although it also exhibits weaker activity on glycolipids
+SA	Homo sapiens	-999	*	*T-synthase may utilize charge-charge interactions to modulate its activity, rejecting basic peptides over neutral and acidic peptide acceptors, T-synthase recognizes specific features of the peptide portion of the substrate, including overall charge and the presence of Gly, Phe, Tyr, and perhaps Pro at specific positions, up to four residues from the site of glycosylation, and indeed may use these features to modulate sites of Core 1 glycosylation
+SA	Homo sapiens	-999	*	*inactive HPC4-tagged soluble T-synthase regained activity within 5 min after the addition of chaprone 6His-sCosmc, at 37&deg;C
+SA	Homo sapiens	0.0000028	*	*recombinant in Sf9 cells
+SA	Rattus norvegicus	0.000042	*	*liver
+SA	Drosophila melanogaster	0.000168	*	*the extracts of EY13370 third instar larvae have a galactosyltransferase activity of 44% of that of wild-type using para-nitrophenyl-N-acetyl-alpha-galactosaminide as the acceptor
+SA	Sus scrofa	0.00088	*	*microsomal membranes, substrate: N-acetyl-D-galactosaminyl-alpha-benzyl
+SA	Sus scrofa	0.00134	*	*microsomal membranes, substrate: A-P-N-acetyl-D-galactosaminyl-T-S-S-S
+SA	Gallus gallus	0.00428	*	*purified enzyme
+SA	Rattus norvegicus	0.0071	*	*partially purified enzyme, substrate: N-acetyl-D-galactosaminyl-alpha-benzyl
+SA	Sus scrofa	0.0194	*	*Golgi membranes
+SA	Rattus norvegicus	0.031	*	*partially purified enzyme, substrate: A-P-N-acetyl-D-galactosaminyl-T-S-S-A
+SA	Sus scrofa	0.81	*	*purified enzyme
+SA	Rattus norvegicus	3.43	*	*purified enzyme

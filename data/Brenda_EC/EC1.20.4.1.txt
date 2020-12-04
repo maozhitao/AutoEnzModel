@@ -1,0 +1,32 @@
+KCAT	Escherichia coli	0.09	glutaredoxin 3	*
+KCAT	Escherichia coli	0.14	glutaredoxin 2	*
+KCAT	Escherichia coli	0.3	glutaredoxin 1	*
+KM	Saccharomyces cerevisiae	0.000002	glutaredoxin	*glutaredoxin 2 from E. coli
+KM	Escherichia coli	0.000003	glutaredoxin 2	*
+KM	Saccharomyces cerevisiae	0.0001	glutaredoxin	*glutaredoxin 3 from E. coli
+KM	Synechocystis sp.	0.0002	arsenate	*mutant C13A, pH 7.5, temperature not specified in the publication; mutant C35A, pH 7.5, temperature not specified in the publication; wild-type, pH 7.5, temperature not specified in the publication
+KM	Saccharomyces cerevisiae	0.0006	glutaredoxin	*glutaredoxin 1p from Saccharomyces cerevisiae or glutaredoxin 1 from E. coli
+KM	Escherichia coli	0.0042	glutaredoxin 1	*
+KM	Escherichia coli	0.3	glutaredoxin 3	*
+KM	Pteris vittata	0.57	reduced glutathione	*pH 6.5, 30&deg;C
+KM	Pteris vittata	2.3	arsenate	*pH 6.5, 30&deg;C
+KM	Pteris vittata	2.33	arsenate	*pH 6.5, 30&deg;C
+KM	Myxococcus xanthus	4.3	arsenate	*at pH 9.0, temperature not specified in the publication
+KM	Escherichia coli	8	arsenate	*
+KM	Pteris vittata	28	arsenate	*pH 6.5
+MW	Nostoc sp.	13624	*	*x * 13624, calculated
+MW	Synechocystis sp.	14400	*	*; x * 14400, SDS-PAGE
+MW	Arabidopsis thaliana	14500	*	*x * 14500, calculated and SDS-PAGE
+MW	Synechocystis sp.	15000	*	*x * 15000, SDS-PAGE, x* 15507, MALDI-TOF, His-tagged recombinant protein
+MW	Saccharomyces cerevisiae	16822	*	*2 * 16822, calculation from nucleotide sequence
+MW	Saccharomyces cerevisiae	34000	*	*gel filtration
+PATH	*	arsenate detoxification I (mammalian)	*	*
+PATH	*	arsenate detoxification II (glutaredoxin)	*	*
+PATH	*	non-pathway related	*	*
+SA	Pteris vittata	-999	*	*in vivo activity after feeding experiments
+SA	Arabidopsis thaliana	2	*	*shoot
+SA	Oryza sativa	2.45	*	*root
+SA	Arabidopsis thaliana	3.55	*	*root
+SA	Oryza sativa	3.84	*	*shoot
+SA	Pteris vittata	4.8	*	*isolated roots in arsenate containiing culture medium, basic level
+SA	Pteris vittata	24	*	*isolated roots in arsenate containiing culture medium, induced for 9 h by arsenate

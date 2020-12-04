@@ -1,0 +1,37 @@
+KCAT	Escherichia coli B	3.17	D-glutamine	*
+KCAT	Escherichia coli B	5.33	D-serine	*
+KCAT	Escherichia coli B	8.33	D-proline	*
+KCAT	Escherichia coli B	14.7	D-phenylalanine	*
+KCAT	Escherichia coli B	15.5	D-alanine	*
+KCAT	Escherichia coli B	15.7	D-2-amino butyrate	*
+KCAT	Escherichia coli B	16	D-methionine	*
+KM	Helicobacter pylori	0.0082	oxidized coenzyme Q1	*pH 8.0, 37&deg;C
+KM	Escherichia coli B	0.01	2,6-dichlorophenolindophenol	*coenzyme Q mediated
+KM	Escherichia coli B	0.63	oxidized 2,6-dichlorophenolindophenol	*with D-alanine
+KM	Escherichia coli B	2	D-alanine	*with ferricyanide
+KM	Escherichia coli B	3	D-alanine	*with 2,6-dichlorophenolindophenol
+KM	Escherichia coli B	5.3	D-alanine	*with coenzyme Q
+KM	Escherichia coli B	6	D-phenylalanine	*with 2,6-dichlorophenolindophenol
+KM	Escherichia coli B	6.4	D-alanine	*with 2,6-dichlorophenolindophenol, coenzyme Q mediated
+KM	Escherichia coli B	11	D-methionine	*with 2,6-dichlorophenolindophenol
+KM	Escherichia coli B	12	D-2-amino-n-butyrate	*with 2,6-dichlorophenolindophenol
+KM	Escherichia coli B	14	D-glutamine	*with 2,6-dichlorophenolindophenol
+KM	Pseudomonas aeruginosa	15	D-alanine	*purified preparation
+KM	Escherichia coli B	19	D-serine	*with 2,6-dichlorophenolindophenol
+KM	Pseudomonas aeruginosa	26	D-alanine	*solubilized enzyme
+KM	Escherichia coli B	40	D-proline	*with 2,6-dichlorophenolindophenol
+KM	Helicobacter pylori	40.2	D-proline	*pH 8.0, 37&deg;C
+KM	Pseudomonas aeruginosa	53	D-alanine	*native enzyme
+KM	Pseudomonas aeruginosa	71	D-glutamine	*
+KM	Pseudomonas aeruginosa	200	D-cycloserine	*
+MW	Helicobacter pylori	44000	*	*x * 44000, SDS-PAGE
+MW	Escherichia coli B	45000	*	*x * 45000 + x * 55000, SDS-PAGE
+MW	Helicobacter pylori	46040	*	*x * 46040, calculated from sequence
+MW	Pseudomonas aeruginosa	49000	*	*SDS-PAGE
+MW	Escherichia coli B	55000	*	*x * 45000 + x * 55000, SDS-PAGE
+PATH	*	alanine metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Phenylalanine metabolism	*	*
+SA	Pseudomonas aeruginosa	0.653	*	*
+SA	Helicobacter pylori	6.22	*	*
+SA	Escherichia coli B	6.8	*	*

@@ -1,0 +1,34 @@
+KM	Clostridium pasteurianum	-999	more	*overview: various buffers, various substrate concentrations
+KM	Clostridium pasteurianum	0.02	NADH	*phosphate buffer
+KM	Escherichia coli	0.025	NADH	*pH 7.5, 25&deg;C, recombinant enzyme
+KM	Clostridium pasteurianum	0.04	sorbitol 6-phosphate	*Tris-HCl buffer
+KM	Clostridium pasteurianum	0.07	NAD+	*0.11-0.45 mM NAD+, Tris-HCl buffer
+KM	Klebsiella aerogenes	0.18	NADH	*
+KM	Clostridium pasteurianum	0.19	NAD+	*0.11-0.45 mM NAD+, glycine-NaOH buffer
+KM	Clostridium pasteurianum	0.2	NAD+	*0.45-4.5 mM NAD+, Tris-HCl buffer
+KM	Escherichia coli	0.2	NAD+	*
+KM	Clostridium pasteurianum	0.4	sorbitol 6-phosphate	*glycine-NaOH buffer
+KM	Klebsiella aerogenes	0.42	NAD+	*
+KM	Escherichia coli	0.568	D-fructose 6-phosphate	*pH 7.5, 25&deg;C, recombinant enzyme
+KM	Clostridium pasteurianum	0.74	NAD+	*0.45-4.5 mM NAD+, glycine-NaOH buffer
+KM	Clostridium pasteurianum	2.8	fructose 6-phosphate	*+ 0.43 mM NADH, phosphate buffer
+KM	Escherichia coli	3.3	D-sorbitol 6-phosphate	*
+KM	Klebsiella aerogenes	6.25	sorbitol 6-phosphate	*
+KM	Clostridium pasteurianum	7.5	fructose 6-phosphate	*+ 1.08 mM NADH, phosphate buffer
+KM	Klebsiella aerogenes	10.5	D-fructose 6-phosphate	*
+MW	Escherichia coli	26000	*	*4 * 26000, SDS-PAGE
+MW	Pyrus pyrifolia	34900	*	*x * 34900, calculated
+MW	Clostridium pasteurianum	74000	*	*gel filtration
+MW	Escherichia coli	117000	*	*gel filtration
+PATH	*	D-sorbitol degradation II	*	*
+PATH	*	degradation of sugar alcohols	*	*
+PATH	*	Fructose and mannose metabolism	*	*
+PATH	*	L-sorbose degradation	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Klebsiella aerogenes	-999	*	*
+SA	Klebsiella aerogenes	-999	*	*
+SA	Lactobacillus casei	-999	*	*activities of different recombinant strains
+SA	Lactobacillus casei	0.182	*	*strain BL232, grown on lactose, forward reaction
+SA	Lactobacillus casei	0.222	*	*strain BL232, grown on lactose, reverse reaction
+SA	Clostridium pasteurianum	43.2	*	*
+SA	Escherichia coli	180	*	*

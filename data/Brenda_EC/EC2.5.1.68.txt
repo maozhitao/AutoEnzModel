@@ -1,0 +1,33 @@
+KCAT	Corynebacterium efficiens	141	geranyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Corynebacterium efficiens	173	isopentenyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Thermobifida fusca	229	geranyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Thermobifida fusca	282	isopentenyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Corynebacterium glutamicum	329	geranyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Corynebacterium glutamicum	329	isopentenyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Mycobacterium tuberculosis	788	isopentenyl diphosphate	*pH 7.5, 37&deg;C
+KCAT	Mycobacterium tuberculosis	860	geranyl diphosphate	*pH 7.5, 37&deg;C
+KM	Thermobifida fusca	0.0012	isopentenyl diphosphate	*pH 7.5, 37&Acirc;&deg;C
+KM	Corynebacterium efficiens	0.0027	isopentenyl diphosphate	*pH 7.5, 37&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	0.0045	isopentenyl diphosphate	*pH 7.5, 37&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	0.0045	isopentenyl diphosphate	*pH and temperature not specified in the publication
+KM	Corynebacterium glutamicum	0.0067	isopentenyl diphosphate	*pH 7.5, 37&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	0.124	isopentenyl diphosphate	*pH 7.9, 37&Acirc;&deg;C
+KM	Thermobifida fusca	0.0023	geranyl diphosphate	*pH 7.5, 37&Acirc;&deg;C
+KM	Corynebacterium efficiens	0.0041	geranyl diphosphate	*pH 7.5, 37&Acirc;&deg;C
+KM	Corynebacterium glutamicum	0.0068	geranyl diphosphate	*pH 7.5, 37&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	0.0078	geranyl diphosphate	*pH 7.5, 37&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	0.0078	geranyl diphosphate	*pH and temperature not specified in the publication
+KM	Mycobacterium tuberculosis	0.15	geranyl diphosphate	*mutant L84A/L85F; pH 7.9, 37&Acirc;&deg;C, mutant enzyme L84A/L85F
+KM	Mycobacterium tuberculosis	0.038	(E)-geranyl diphosphate	*pH 7.9, 37&Acirc;&deg;C
+KM	Mycobacterium tuberculosis	0.016	(E)-neryl diphosphate	*pH 7.9, 37&Acirc;&deg;C
+MW	Corynebacterium efficiens	31000	*	*x * 31000, SDS-PAGE, calculated from sequence
+MW	Corynebacterium glutamicum	31000	*	*x * 31000, SDS-PAGE, calculated from sequence
+MW	Thermobifida fusca	31000	*	*x * 31000, SDS-PAGE, calculated from sequence
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	mono-trans, poly-cis decaprenyl phosphate biosynthesis	*	*
+PATH	*	Terpenoid backbone biosynthesis	*	*
+SA	Mycobacterium tuberculosis	-999	*	*
+SA	Mycobacterium tuberculosis	0.0007	*	*in presence of 1.0 mM Mg2+
+SA	Mycobacterium tuberculosis	0.00093	*	*recombinant Rv1086 in cytosol of Mycobacterium smegmatis
+SA	Mycobacterium tuberculosis	0.00097	*	*recombinant Rv1086 in membranes of Mycobacterium smegmatis
+SA	Mycobacterium tuberculosis	0.0014	*	*in presence of 0.1 mM Mn2+

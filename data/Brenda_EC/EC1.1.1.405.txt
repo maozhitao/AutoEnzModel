@@ -1,0 +1,47 @@
+KCAT	Haemophilus influenzae	0.03	NADPH	*
+KCAT	Staphylococcus aureus	0.79	NADPH	*
+KCAT	Staphylococcus aureus	6.08	NADPH	*
+KCAT	Haemophilus influenzae	7.41	NADPH	*
+KCAT	Haemophilus influenzae	22	NADPH	*wild-type, pH 7.2, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	4.1	D-ribose 5-phosphate	*wild-type, pH 7.2, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	0.32	D-ribulose 5-phosphate	*mutant K386A, pH 7.2, 25&Acirc;&deg;C
+KCAT	Streptococcus pneumoniae	0.5	D-ribulose 5-phosphate	*
+KCAT	Haemophilus influenzae	6.8	D-ribulose 5-phosphate	*mutant R18A, pH 7.2, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	22	D-ribulose 5-phosphate	*wild-type, pH 7.2, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	2.3	D-arabinose 5-phosphate	*wild-type, pH 7.2, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	3.6	D-xylulose 5-phosphate	*wild-type, pH 7.2, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	3.6	D-ribulose	*wild-type, pH 7.2, 25&Acirc;&deg;C
+KCAT	Haemophilus influenzae	0.5	(2R,3R)-2,3-dihydroxy-4-oxobutyl-phosphate	*wild-type, pH 7.2, 25&Acirc;&deg;C
+KM	Staphylococcus aureus	0.00674	NADPH	*
+KM	Haemophilus influenzae	0.00706	NADPH	*
+KM	Haemophilus influenzae	0.01	NADPH	*pH 7.1, 30&Acirc;&deg;C
+KM	Haemophilus influenzae	0.017	NADPH	*mutant R18A, pH 7.2, 25&Acirc;&deg;C
+KM	Haemophilus influenzae	0.039	NADPH	*mutant K386A, pH 7.2, 25&Acirc;&deg;C
+KM	Haemophilus influenzae	0.044	NADPH	*wild-type, pH 7.2, 25&Acirc;&deg;C
+KM	Haemophilus influenzae	0.6	NADH	*wild-type, pH 7.2, 25&Acirc;&deg;C
+KM	Haemophilus influenzae	2.2	D-ribose 5-phosphate	*wild-type, pH 7.2, 25&Acirc;&deg;C
+KM	Streptococcus pneumoniae	0.061	D-ribulose 5-phosphate	*
+KM	Haemophilus influenzae	0.076	D-ribulose 5-phosphate	*wild-type, pH 7.2, 25&Acirc;&deg;C
+KM	Haemophilus influenzae	0.19	D-ribulose 5-phosphate	*mutant K386A, pH 7.2, 25&Acirc;&deg;C
+KM	Haemophilus influenzae	0.27	D-ribulose 5-phosphate	*mutant R18A, pH 7.2, 25&Acirc;&deg;C
+KM	Haemophilus influenzae	3	D-arabinose 5-phosphate	*wild-type, pH 7.2, 25&Acirc;&deg;C
+KM	Haemophilus influenzae	3.5	D-xylulose 5-phosphate	*wild-type, pH 7.2, 25&Acirc;&deg;C
+KM	Haemophilus influenzae	1.1	D-ribulose	*wild-type, pH 7.2, 25&Acirc;&deg;C
+KM	Haemophilus influenzae	0.05	D-ribitol 5-phosphate	*presence of CTP, pH 7.1, 30&Acirc;&deg;C
+KM	Haemophilus influenzae	0.4	D-ribitol 5-phosphate	*pH 7.1, 30&Acirc;&deg;C
+KM	Staphylococcus aureus	0.0285	ribulose 5-phosphate	*
+KM	Haemophilus influenzae	0.106	ribulose 5-phosphate	*
+KM	Haemophilus influenzae	0.038	(2R,3R)-2,3-dihydroxy-4-oxobutyl-phosphate	*wild-type, pH 7.2, 25&Acirc;&deg;C
+MW	Staphylococcus aureus	26000	*	*2 * 26000 + 2 * 41000, tarI encodes an orthologue of the cytidylyltransferase domain of Bcs1 from Haemophilus influenzae and tarJ encodes an analogue of the reductase domain of Bcs1, TarI and TyrJ form a functional CDP-ribitol synthase complex, SDS-PAGE
+MW	Staphylococcus aureus	41000	*	*2 * 26000 + 2 * 41000, tarI encodes an orthologue of the cytidylyltransferase domain of Bcs1 from Haemophilus influenzae and tarJ encodes an analogue of the reductase domain of Bcs1, TarI and TyrJ form a functional CDP-ribitol synthase complex, SDS-PAGE
+MW	Haemophilus influenzae	53000	*	*x * 53000, SDS-PAGE
+MW	Haemophilus influenzae	53190	*	*2 * 53190, calculation from amino acid composition
+MW	Haemophilus influenzae	106400	*	*amino acid composition
+MW	Staphylococcus aureus	129000	*	*calculation from gel filtration and sedimentation velocity data
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pentose and glucuronate interconversions	*	*
+PATH	*	poly(ribitol phosphate) wall teichoic acid biosynthesis I (B. subtilis)	*	*
+PATH	*	poly(ribitol phosphate) wall teichoic acid biosynthesis II (S. aureus)	*	*
+PATH	*	type IV lipoteichoic acid biosynthesis (S. pneumoniae)	*	*
+SA	Haemophilus influenzae	0.73	*	*substrate D-ribulose 5-phosphate, pH 8.5, 30&Acirc;&deg;C
+SA	Haemophilus influenzae	2.87	*	*substrate D-ribulose 5-phosphate, presence of CTP, pH 8.5, 30&Acirc;&deg;C

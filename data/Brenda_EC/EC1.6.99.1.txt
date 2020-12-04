@@ -1,0 +1,61 @@
+KCAT	Bacillus subtilis	-999	more	*half-reaction kinetics of tagged and untagged enzyme
+KCAT	Shewanella oneidensis	0.03	nitroglycerin	*pH 7.3
+KCAT	Shewanella oneidensis	0.052	NEM	*pH 7.3
+KCAT	Shewanella oneidensis	0.41	acrolein	*pH 7.3
+KCAT	Bacillus subtilis	0.53	2,4,6-trinitrotoluene	*pH 7.5, 25&deg;C, GST-fusion protein
+KCAT	Bacillus subtilis	0.75	N-ethylmaleimide	*pH 7.5, 25&deg;C, GST-fusion protein
+KCAT	Bacillus subtilis	0.82	nitroglycerin	*pH 7.5, 25&deg;C, GST-fusion protein
+KCAT	Bacillus subtilis	1.17	trans-hex-2-enal	*pH 7.5, 25&deg;C, GST-fusion protein
+KCAT	Bacillus subtilis	1.2	cyclohex-2-enone	*pH 7.5, 25&deg;C, GST-fusion protein
+KCAT	Bacillus subtilis	3.19	2,4,6-trinitrotoluene	*pH 7.5, 25&deg;C
+KCAT	Bacillus subtilis	3.19	2,4,6-trinitrotoluene	*pH 7.5, 25&deg;C, native protein
+KCAT	Bacillus subtilis	3.72	nitroglycerin	*pH 7.5, 25&deg;C
+KCAT	Bacillus subtilis	3.72	nitroglycerin	*pH 7.5, 25&deg;C, native protein
+KCAT	Bacillus subtilis	4.38	cyclohex-2-enone	*pH 7.5, 25&deg;C
+KCAT	Bacillus subtilis	4.38	cyclohex-2-enone	*pH 7.5, 25&deg;C, native protein
+KCAT	Bacillus subtilis	4.68	trans-hex-2-enal	*pH 7.5, 25&deg;C
+KCAT	Bacillus subtilis	4.68	trans-hex-2-enal	*pH 7.5, 25&deg;C, native protein
+KCAT	Shewanella oneidensis	4.75	2-cyclohexen-1-one	*pH 7.3
+KCAT	Shewanella oneidensis	6.84	nitroglycerin	*pH 7.3
+KCAT	Bacillus subtilis	8.07	N-ethylmaleimide	*pH 7.5, 25&deg;C
+KCAT	Bacillus subtilis	8.07	N-ethylmaleimide	*pH 7.5, 25&deg;C, native protein
+KCAT	Shewanella oneidensis	9.54	NEM	*pH 7.3
+KCAT	Shewanella oneidensis	11.66	acrolein	*pH 7.3
+KM	Rattus norvegicus	0.0011	NADPH	*
+KM	Bacillus subtilis	0.001	N-ethylmaleimide	*or below, pH 7.5, 25&Acirc;&deg;C
+KM	Bacillus subtilis	0.001	N-ethylmaleimide	*or below, pH 7.5, 25&Acirc;&deg;C, GST-fusion protein; or below, pH 7.5, 25&Acirc;&deg;C, native protein
+KM	Shewanella oneidensis	0.0016	NEM	*pH 7.3
+KM	Shewanella oneidensis	0.109	acrolein	*pH 7.3
+KM	Shewanella oneidensis	0.0547	2-cyclohexen-1-one	*pH 7.3
+KM	Bacillus subtilis	0.123	2,4,6-trinitrotoluene	*pH 7.5, 25&Acirc;&deg;C, GST-fusion protein
+KM	Bacillus subtilis	0.705	2,4,6-trinitrotoluene	*pH 7.5, 25&Acirc;&deg;C
+KM	Bacillus subtilis	0.705	2,4,6-trinitrotoluene	*pH 7.5, 25&Acirc;&deg;C, native protein
+KM	Shewanella oneidensis	0.0264	nitroglycerin	*pH 7.3
+KM	Bacillus subtilis	0.045	nitroglycerin	*pH 7.5, 25&Acirc;&deg;C, GST-fusion protein
+KM	Bacillus subtilis	0.109	nitroglycerin	*pH 7.5, 25&Acirc;&deg;C
+KM	Bacillus subtilis	0.109	nitroglycerin	*pH 7.5, 25&Acirc;&deg;C, native protein
+KM	Bacillus subtilis	0.186	cyclohex-2-enone	*pH 7.5, 25&Acirc;&deg;C, GST-fusion protein
+KM	Bacillus subtilis	0.293	cyclohex-2-enone	*pH 7.5, 25&Acirc;&deg;C
+KM	Bacillus subtilis	0.293	cyclohex-2-enone	*pH 7.5, 25&Acirc;&deg;C, native protein
+KM	Bacillus subtilis	1.853	trans-hex-2-enal	*pH 7.5, 25&Acirc;&deg;C, GST-fusion protein
+KM	Bacillus subtilis	2.602	trans-hex-2-enal	*pH 7.5, 25&Acirc;&deg;C
+KM	Bacillus subtilis	2.602	trans-hex-2-enal	*pH 7.5, 25&Acirc;&deg;C, native protein
+KM	Rattus norvegicus	0.0073	nitroblue tetrazolium hydrochloride	*
+KM	Saccharomyces pastorianus	-999	more	*
+KM	Saccharomyces pastorianus	-999	more	*kinetic studies
+MW	Zymomonas mobilis	32600	*	*
+MW	Bacillus subtilis	37400	*	*4 * 37400, SDS-PAGE, native protein, 4 * 62900, SDS-PAGE, GST-tagged protein, in 3:1 dimer/tetramer equilibrium
+MW	Bacillus subtilis	38300	*	*2 * 38300, SDs-PAGE, His-tagged protein, 2 * 62900, SDS-PAGE, GST-tagged protein, in 3:1 dimer/tetramer equilibrium
+MW	Zymomonas mobilis	41700	*	*x * 41700, calculated from amino acid sequence
+MW	Candida macedoniensis	42400	*	*x * 45890, deduced from gene sequence, x * 42400, SDS-PAGE
+MW	Saccharomyces pastorianus	44889	*	*x * 44889, calculation from nucleotide sequence
+MW	Candida macedoniensis	45890	*	*x * 45890, deduced from gene sequence, x * 42400, SDS-PAGE
+MW	Saccharomyces pastorianus	50000	*	*2 * 50000
+MW	Bacillus subtilis	62900	*	*2 * 38300, SDs-PAGE, His-tagged protein, 2 * 62900, SDS-PAGE, GST-tagged protein, in 3:1 dimer/tetramer equilibrium; 4 * 37400, SDS-PAGE, native protein, 4 * 62900, SDS-PAGE, GST-tagged protein, in 3:1 dimer/tetramer equilibrium
+MW	Bacillus subtilis	76500	*	*gel filtration, His-tagged protein
+MW	Bacillus subtilis	114400	*	*gel filtration, GST-tagged protein
+MW	Bacillus subtilis	147000	*	*gel fitration
+MW	Bacillus subtilis	147000	*	*gel filtration, native protein
+MW	Xenopus laevis	235000	*	*gel filtration
+MW	Bacillus subtilis	247500	*	*gel filtration, GST-tagged protein
+MW	Bacillus subtilis	374000	*	*4 * 374000, SDS-PAGE, recombinant protein

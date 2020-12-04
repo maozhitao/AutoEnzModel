@@ -1,0 +1,86 @@
+KCAT	Escherichia coli	0.5	phenylacetaldehyd	*100 mM H2NaPO4 pH 7.5, 100 mM NaCl, 20 mM 2-mercaptoethanol, 2 mM NAD+
+KCAT	Escherichia coli	0.6	acetaldehyde	*100 mM H2NaPO4 pH 7.5, 100 mM NaCl, 20 mM 2-mercaptoethanol, 2 mM NAD+
+KCAT	Escherichia coli	0.9	benzaldehyde	*100 mM H2NaPO4 pH 7.5, 100 mM NaCl, 20 mM 2-mercaptoethanol, 2 mM NAD+
+KCAT	Escherichia coli	1.8	propionaldehyde	*100 mM H2NaPO4 pH 7.5, 100 mM NaCl, 20 mM 2-mercaptoethanol, 2 mM NAD+
+KCAT	Methanocaldococcus jannaschii	2	D-Lactaldehyde	*100 mM TES pH 7.5, 2.5 mM NAD+
+KCAT	Methanocaldococcus jannaschii	3	propionaldehyde	*100 mM TES pH 7.5, 2.5 mM NAD+
+KCAT	Escherichia coli	18.3	glycoaldehyde	*100 mM H2NaPO4 pH 7.5, 100 mM NaCl, 20 mM 2-mercaptoethanol, 2 mM NAD+
+KCAT	Escherichia coli	761.5	(S)-lactaldehyde	*wild-type, pH 7.0, 37&deg;C
+KCAT	Escherichia coli	1026	(S)-lactaldehyde	*mutant N286H, pH 7.0, 37&deg;C
+KCAT	Escherichia coli	1545	(S)-lactaldehyde	*mutant N286H, pH 7.0, 37&deg;C
+KCAT	Escherichia coli	1895	(S)-lactaldehyde	*mutant N286H, pH 7.0, 37&deg;C
+KM	Escherichia coli	-999	more	*
+KM	Escherichia coli	-999	more	*Michaelis-Menten kinetics
+KM	Escherichia coli	0.007	NAD+	*mutant F180T
+KM	Escherichia coli	0.0078	NADP+	*mutant F180T
+KM	Escherichia coli	0.04	L-lactaldehyde	*
+KM	Escherichia coli	0.047	NAD+	*wild-type
+KM	Escherichia coli	0.12	NAD+	*+ L-lactaldehyde
+KM	Escherichia coli	0.14	glycoaldehyde	*100 mM H2NaPO4 pH 7.5, 100 mM NaCl, 20 mM 2-mercaptoethanol, 2 mM NAD+
+KM	Escherichia coli	0.15	benzaldehyde	*100 mM H2NaPO4 pH 7.5, 100 mM NaCl, 20 mM 2-mercaptoethanol, 2 mM NAD+
+KM	Escherichia coli	0.15	L-glyceraldehyde	*
+KM	Escherichia coli	0.24	propionaldehyde	*100 mM H2NaPO4 pH 7.5, 100 mM NaCl, 20 mM 2-mercaptoethanol, 2 mM NAD+
+KM	Escherichia coli	0.25	propionaldehyde	*wild-type
+KM	Escherichia coli	0.26	propionaldehyde	*mutant F180T
+KM	Escherichia coli	0.28	NAD+	*cosubstrate glycolaldehyde
+KM	Methanocaldococcus jannaschii	0.284	propionaldehyde	*100 mM TES pH 7.5, 2.5 mM NAD+
+KM	Methanocaldococcus jannaschii	0.302	D-Lactaldehyde	*100 mM TES pH 7.5, 2.5 mM NAD+
+KM	Escherichia coli	0.38	glycolaldehyde	*
+KM	Escherichia coli	1	methylglyoxal	*
+KM	Escherichia coli	1.27	(S)-lactaldehyde	*mutant N286H, pH 7.0, 37&deg;C
+KM	Saccharomyces cerevisiae	2.9	NAD+	*
+KM	Bacillus subtilis	3.5	NAD+	*
+KM	Bacillus subtilis	4.2	L-lactaldehyde	*
+KM	Escherichia coli	4.5	phenylacetaldehyde	*100 mM H2NaPO4 pH 7.5, 100 mM NaCl, 20 mM 2-mercaptoethanol, 2 mM NAD+
+KM	Bacillus subtilis	5.6	D-Lactaldehyde	*
+KM	Escherichia coli	5.8	(S)-lactaldehyde	*mutant N286H, pH 7.0, 37&deg;C
+KM	Escherichia coli	7.5	(S)-lactaldehyde	*mutant N286H, pH 7.0, 37&deg;C
+KM	Saccharomyces cerevisiae	10	L-lactaldehyde	*
+KM	Escherichia coli	14.5	(S)-lactaldehyde	*wild-type, pH 7.0, 37&deg;C
+KM	Escherichia coli	15.2	acetaldehyde	*100 mM H2NaPO4 pH 7.5, 100 mM NaCl, 20 mM 2-mercaptoethanol, 2 mM NAD+
+MW	Saccharomyces cerevisiae	40000	*	*gel filtration, SDS-PAGE
+MW	Escherichia coli	50000	*	*SDS-PAGE
+MW	Methanocaldococcus jannaschii	51000	*	*SDS-PAGE
+MW	Escherichia coli	55000	*	*4 * 55000, SDS-PAGE
+MW	Scheffersomyces stipitis	55000	*	*SDS-PAGE; SDS-PAGE
+MW	Bacillus subtilis	70000	*	*gel filtration
+MW	Escherichia coli	100000	*	*sucrose density gradient centrifugation
+MW	Methanocaldococcus jannaschii	180000	*	*gel-filtration
+MW	Escherichia coli	210000	*	*gel-filtration
+MW	Escherichia coli	220000	*	*gel filtration
+PATH	*	L-lactaldehyde degradation	*	*
+PATH	*	L-lactaldehyde degradation (aerobic)	*	*
+PATH	*	L-rhamnose degradation II	*	*
+PATH	*	lactate biosynthesis (archaea)	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	methylglyoxal degradation V	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Pyruvate metabolism	*	*
+SA	Escherichia coli	-999	*	*
+SA	Trypanosoma cruzi	0.00048	*	*whole cell lysate
+SA	Leishmania major	0.00051	*	*whole cell lysate
+SA	Trypanosoma brucei	0.00051	*	*whole cell lysate, procyclics
+SA	Scheffersomyces stipitis	0.355	*	*purified recombinant enzyme, S-lactaldehyde, NADP+
+SA	Saccharomyces cerevisiae	0.392	*	*
+SA	Methanocaldococcus jannaschii	0.6	*	*100 mM TES pH 7.5, 2.5 mM NAD+
+SA	Escherichia coli	0.74	*	*wild-type, pH 7.0, 37&deg;C
+SA	Escherichia coli	0.74	*	*purified recombinant enzyme, pH 7.0, 37&deg;C, substrate (S)-lactaldehyde
+SA	Escherichia coli	1.18	*	*mutant N286H, pH 7.0, 37&deg;C
+SA	Escherichia coli	1.18	*	*purified recombinant mutant N286H, pH 7.0, 37&deg;C, substrate (S)-lactaldehyde
+SA	Scheffersomyces stipitis	1.65	*	*purified recombinant enzyme, (S)-lactaldehyde, NADP+
+SA	Escherichia coli	1.78	*	*mutant N286H, pH 7.0, 37&deg;C
+SA	Escherichia coli	1.78	*	*purified recombinant mutant N286E, pH 7.0, 37&deg;C, substrate (S)-lactaldehyde
+SA	Scheffersomyces stipitis	2.1	*	*purified recombinant enzyme, R-lactaldehyde, NAD+
+SA	Escherichia coli	2.18	*	*mutant N286H, pH 7.0, 37&deg;C
+SA	Escherichia coli	2.18	*	*purified recombinant mutant N286T, pH 7.0, 37&deg;C, substrate (S)-lactaldehyde
+SA	Azotobacter vinelandii	2.28	*	*purified recombinant enzyme, (R)-D-lactaldehyde, NAD+
+SA	Scheffersomyces stipitis	3.64	*	*purified recombinant enzyme, S-lactaldehyde, NAD+
+SA	Scheffersomyces stipitis	4.28	*	*purified recombinant enzyme, glycolaldehyde, NAD+
+SA	Scheffersomyces stipitis	4.43	*	*purified recombinant enzyme, (R)-lactaldehyde, NAD+
+SA	Escherichia coli	5.1	*	*
+SA	Escherichia coli	6.4	*	*strain 3
+SA	Scheffersomyces stipitis	6.95	*	*purified recombinant enzyme, (S)-lactaldehyde, NAD+
+SA	Scheffersomyces stipitis	8.94	*	*purified recombinant enzyme, glycolaldehyde, NAD+
+SA	Azotobacter vinelandii	11.5	*	*purified recombinant enzyme, glycolaldehyde, NAD+
+SA	Escherichia coli	17	*	*strain JA-102
+SA	Azotobacter vinelandii	17.2	*	*purified recombinant enzyme, (S)-lactaldehyde, NAD+

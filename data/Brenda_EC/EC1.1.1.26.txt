@@ -1,0 +1,69 @@
+KCAT	Rhizobium etli	0.25	Hydroxypyruvate	*pH 7.0, 37&deg;C
+KCAT	Rhizobium etli	0.37	phenylpyruvate	*pH 7.0, 37&deg;C
+KCAT	Rhizobium etli	0.5	2-oxobutyrate	*pH 7.0, 37&deg;C
+KCAT	Rhizobium etli	1.35	glyoxylate	*pH 7.0, 37&deg;C
+KCAT	Paracoccus sp.	2.3	glyoxylate	*pH 7.0, 30&deg;C, recombinant E141N/Q313E mutant formate dehydrogenase
+KCAT	Arabidopsis thaliana	8.1	NADPH	*pH 7.8, 22&deg;C, recombinant His6-tagged enzyme
+KCAT	Arabidopsis thaliana	13	glyoxylate	*pH 7.8, 22&deg;C, recombinant His6-tagged enzyme
+KM	Arabidopsis thaliana	0.0026	NADPH	*pH 7.8, 22&Acirc;&deg;C, recombinant His6-tagged enzyme
+KM	Thermococcus litoralis	0.067	NADH	*pH 6.5, 50&Acirc;&deg;C
+KM	Saccharolobus solfataricus	0.1	NADH	*pH 7.5, 70&Acirc;&deg;C, recombinant enzyme and native enzyme from xylose-grown cell extract
+KM	Arabidopsis thaliana	0.0045	glyoxylate	*pH 7.8, 22&Acirc;&deg;C, recombinant His6-tagged enzyme
+KM	Spinacia oleracea	0.07	glyoxylate	*NADPH, cytosolic enzyme
+KM	Thermococcus litoralis	0.73	glyoxylate	*pH 6.5, 50&Acirc;&deg;C
+KM	Spinacia oleracea	1.1	glyoxylate	*NADPH, cytosolic enzyme type with preference for hydroxypyruvate as substrate
+KM	Homo sapiens	1.25	glyoxylate	*NADPH
+KM	Rhizobium etli	2.5	glyoxylate	*pH 7.0, 37&Acirc;&deg;C
+KM	Saccharolobus solfataricus	5	glyoxylate	*pH 7.5, 70&Acirc;&deg;C, recombinant enzyme and native enzyme from xylose-grown cell extract
+KM	Paracoccus sp.	7.4	glyoxylate	*pH 7.0, 30&Acirc;&deg;C, recombinant E141N/Q313E mutant formate dehydrogenase
+KM	Spinacia oleracea	10	glyoxylate	*NADH, peroxisomal enzyme type with preference for hydroxypyruvate and NADH as substrates
+KM	Rhizobium etli	0.8	phenylpyruvate	*pH 7.0, 37&Acirc;&deg;C
+KM	Rhizobium etli	40	2-oxobutyrate	*pH 7.0, 37&Acirc;&deg;C
+KM	Spinacia oleracea	0.07	Hydroxypyruvate	*NADH, peroxisomal enzyme type with preference for hydroxypyruvate and NADH as substrates
+KM	Spinacia oleracea	0.8	Hydroxypyruvate	*NADPH, cytosolic enzyme type with preference for hydroxypyruvate and NADPH as substrates
+KM	Thermococcus litoralis	1.3	Hydroxypyruvate	*pH 6.5, 50&Acirc;&deg;C
+KM	Rhizobium etli	6.8	Hydroxypyruvate	*pH 7.0, 37&Acirc;&deg;C
+KM	Arabidopsis thaliana	-999	more	*
+MW	Spinacia oleracea	33000	*	*4 * 33000, cytosolic enzyme
+MW	Homo sapiens	36500	*	*calculation from DNA sequence and non-denaturing PAGE
+MW	Thermococcus litoralis	36807	*	*2 * 36807, calculated from sequence
+MW	Rhizobium etli	37000	*	*2 * 37000, recombinant His-tagged enzyme, SDS-PAGE, 2 * 38420, recombinant His-tagged enzyme, MALDI-TOF mass spectrometry
+MW	Thermococcus litoralis	37000	*	*2 * 37000, SDS-PAGE
+MW	Spinacia oleracea	38000	*	*2 * 38000, cytosolic enzyme with preference for hydroxypyruvate as substrate
+MW	Rhizobium etli	38420	*	*2 * 37000, recombinant His-tagged enzyme, SDS-PAGE, 2 * 38420, recombinant His-tagged enzyme, MALDI-TOF mass spectrometry
+MW	Homo sapiens	40000	*	*1 * 40000, SDS-PAGE
+MW	Spinacia oleracea	70000	*	*cytosolic enzyme with preference for hydroxypyruvate as substrate
+MW	Thermococcus litoralis	76000	*	*non-denaturimg gradient PAGE
+MW	Rhizobium etli	77200	*	*recombinant His-tagged enzyme, gel filtration
+MW	Spinacia oleracea	90000	*	*peroxisomal enzyme with preference for hydroxypyruvate as substrate
+MW	Spinacia oleracea	125000	*	*cytosolic enzyme
+MW	Pseudomonas fluorescens	180000	*	*thin-layer gel filtration
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	D-xylose degradation IV	*	*
+PATH	*	glycolate and glyoxylate degradation	*	*
+PATH	*	Glyoxylate and dicarboxylate metabolism	*	*
+PATH	*	L-arabinose degradation IV	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Pseudomonas fluorescens	-999	*	*
+SA	Nicotiana tabacum	-999	*	*
+SA	Pisum sativum	0.032	*	*0.5 mM NADPH
+SA	Spinacia oleracea	0.033	*	*
+SA	Cyanophora paradoxa	0.044	*	*75 mM NADH
+SA	Spinacia oleracea	0.05	*	*NADPH, cytosolic enzyme with preference for hydroxypyruvate as substrate
+SA	Pisum sativum	0.077	*	*0.5 mM NADH
+SA	Cyanophora paradoxa	0.095	*	*0.5 mM NADPH
+SA	Cyanophora paradoxa	0.096	*	*0.5 mM NADH
+SA	Cyanophora paradoxa	0.11	*	*0.5 mM NADPH
+SA	Cyanophora paradoxa	0.134	*	*0.5 mM NADH
+SA	Homo sapiens	0.145	*	*
+SA	Pisum sativum	0.16	*	*0.5 mM NADPH
+SA	Pisum sativum	0.205	*	*NADH
+SA	Spinacia oleracea	0.3	*	*NADH, peroxisomal enzyme type with preference for hydroxypyruvate and NADH as substrates
+SA	Pisum sativum	0.738	*	*0.5 mM NADH
+SA	Pseudomonas fluorescens	5	*	*
+SA	Nicotiana tabacum	5.6	*	*
+SA	Pseudomonas fluorescens	7	*	*
+SA	Arabidopsis thaliana	7.28	*	*purified recombinant His6-tagged enzyme
+SA	Nicotiana tabacum	9.1	*	*
+SA	Thermococcus litoralis	44.5	*	*pH 6.5, 50&Acirc;&deg;C

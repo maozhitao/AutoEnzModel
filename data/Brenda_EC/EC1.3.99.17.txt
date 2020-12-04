@@ -1,0 +1,54 @@
+KCAT	Pseudomonas putida	0.22	Quinoline	*mutant E743V
+KCAT	Pseudomonas putida	0.43	Quinoline	*mutant A546G
+KCAT	Pseudomonas putida	0.56	Quinoline	*mutant E743D
+KCAT	Pseudomonas putida	2.14	Quinoline	*mutant V373A
+KCAT	Pseudomonas putida	2.2	Quinoxaline	*mutantA546G
+KCAT	Pseudomonas putida	2.27	Quinoline	*mutant W331G
+KCAT	Pseudomonas putida	35.7	Quinoline	*mutant A259G
+KCAT	Pseudomonas putida	74	Quinoline	*25&deg;C, wild-type
+KCAT	Pseudomonas putida	85.4	Quinoline	*25&deg;C, strain 86-1 deltaqor pUF1
+KCAT	Pseudomonas putida	85.4	Quinoline	*wild-type
+KCAT	Pseudomonas putida	85.4	Quinoline	*purified Qor protein
+KM	Rhodococcus sp.	0.0025	Quinoline	*
+KM	Pseudomonas putida	0.028	Quinoline	*mutant A546G
+KM	Pseudomonas putida	0.12	Quinoline	*25&deg;C, strain 86-1 deltaqor pUF1
+KM	Pseudomonas putida	0.12	Quinoline	*wild-type
+KM	Pseudomonas putida	0.12	Quinoline	*purified Qor protein
+KM	Pseudomonas putida	0.13	Quinoline	*mutant A259G
+KM	Pseudomonas putida	0.18	Quinoline	*25&deg;C, wild-type
+KM	Pseudomonas putida	0.182	Quinoline	*with 2-(4-iodophenyl)-3-(4-nitrophenyl)-5-phenyl-2H-tetrazolium chloride as cosubstrate
+KM	Pseudomonas putida	0.25	Quinoline	*mutant E743D
+KM	Pseudomonas putida	0.26	Quinoline	*mutant E743V
+KM	Pseudomonas putida	0.33	Quinoline	*mutant W331G
+KM	Pseudomonas putida	0.41	Quinoline	*mutant V373A
+KM	Pseudomonas putida	0.68	Quinoxaline	*mutantA546G
+KM	Pseudomonas putida	1.08	2-(4-iodophenyl)-3-(4-nitrophenyl)-5-phenyl-2H-tetrazolium chloride	*with quinoline as cosubstrate
+MW	Rhodococcus sp.	18000	*	*x * 18000 + x * 32000 + x * 82000, SDS-PAGE
+MW	Pseudomonas putida	18012	*	*x * 18012 + x * 30650 + x * 84113, calculation from nucleotide sequence
+MW	Pseudomonas putida	20000	*	*x * 20000 + x * 30000 + x * 85000, SDS-PAGE
+MW	Comamonas testosteroni	22000	*	*x * 22000 + x * 32000 + x * 87000, subunits occuring in the ratio of 1.16:1:0.83, SDS-PAGE
+MW	Pseudomonas putida	30000	*	*x * 20000 + x * 30000 + x * 85000, SDS-PAGE
+MW	Pseudomonas putida	30650	*	*x * 18012 + x * 30650 + x * 84113, calculation from nucleotide sequence
+MW	Rhodococcus sp.	32000	*	*x * 18000 + x * 32000 + x * 82000, SDS-PAGE
+MW	Comamonas testosteroni	32000	*	*x * 22000 + x * 32000 + x * 87000, subunits occuring in the ratio of 1.16:1:0.83, SDS-PAGE
+MW	Rhodococcus sp.	82000	*	*x * 18000 + x * 32000 + x * 82000, SDS-PAGE
+MW	Pseudomonas putida	84113	*	*x * 18012 + x * 30650 + x * 84113, calculation from nucleotide sequence
+MW	Pseudomonas putida	85000	*	*x * 20000 + x * 30000 + x * 85000, SDS-PAGE
+MW	Comamonas testosteroni	87000	*	*x * 22000 + x * 32000 + x * 87000, subunits occuring in the ratio of 1.16:1:0.83, SDS-PAGE
+MW	Rhodococcus sp.	270000	*	*gel filtration
+MW	Pseudomonas putida	300000	*	*gel filtration
+MW	Rhodococcus sp.	310000	*	*native PAGE
+MW	Comamonas testosteroni	360000	*	*gel filtration
+PATH	*	3-methylquinoline degradation	*	*
+SA	Pseudomonas putida	-999	*	*specific activity of enzyme purified from strain KT2440 pUF1 is about 10% of the activity of enzyme purified from wild-type
+SA	Comamonas testosteroni	0.0057	*	*substrate substrate pyrimidine-4-one, crude extract, pH 7.5, 25&deg;C
+SA	Comamonas testosteroni	0.064	*	*substrate pyrimidine, crude extract, pH 7.5, 25&deg;C
+SA	Pseudomonas putida	0.08	*	*mutant A546G with quinoline as substrate
+SA	Comamonas testosteroni	0.237	*	*substrate quinoline, crude extract, pH 7.5, 25&deg;C
+SA	Pseudomonas putida	0.36	*	*mutant W331G with quinoline as substrate
+SA	Pseudomonas putida	0.57	*	*mutant V373A with quinoline as substrate
+SA	Comamonas testosteroni	4.8	*	*
+SA	Rhodococcus sp.	5.8	*	*
+SA	Pseudomonas putida	13.2	*	*
+SA	Pseudomonas putida	16	*	*mutant A259G with quinoline as substrate
+SA	Pseudomonas putida	22	*	*purified Qor protein with quinoline as substrate

@@ -1,0 +1,67 @@
+KCAT	Clostridium perfringens	-999	more	*
+KCAT	Desulfovibrio vulgaris	-999	more	*
+KCAT	Enterococcus faecalis	-999	more	*pH dependence of kcat from pH 5 to pH 9
+KCAT	Enterococcus faecalis	-999	more	*kcat at different pH values
+KCAT	Enterococcus faecalis	0.000167	NADH	*C42A mutant at pH 7.0 and 25&deg;C
+KCAT	Enterococcus faecalis	0.0005	NADH	*C42S mutant at pH 7.0 and 25&deg;C
+KCAT	Enterococcus faecalis	0.05	NADH	*R303M mutant
+KCAT	Enterococcus faecalis	0.388	NADH	*wild type
+KCAT	Enterococcus faecalis	0.395	NADH	*H10Q mutant
+KCAT	Enterococcus faecalis	1.17	NADH	*wild type enzyme at pH 7.0 and 25&deg;C
+KCAT	Enterococcus faecalis	66.7	H2O2	*calculated per flavin
+KCAT	Enterococcus faecalis	83.3	NADH	*under standard assay conditions
+KM	Enterococcus faecalis	-999	more	*Km values over a pH range from pH 5.5 to pH 8.5
+KM	Enterococcus faecalis	-999	more	*Km values at different pH
+KM	Enterococcus faecalis	0.00069	H2O2	*H10Q mutant
+KM	Enterococcus faecalis	0.001	NADH	*R303M mutant
+KM	Enterococcus faecalis	0.002	NADH	*
+KM	Enterococcus faecalis	0.0025	NADH	*
+KM	Enterococcus faecalis	0.003	NADH	*wild type
+KM	Enterococcus faecalis	0.0064	H2O2	*R303M mutant
+KM	Enterococcus faecalis	0.0068	NADH	*
+KM	Enterococcus faecalis	0.0068	NADH	*H10Q mutant
+KM	Enterococcus faecalis	0.014	H2O2	*wild type
+KM	Enterococcus faecalis	0.02	H2O2	*
+KM	Enterococcus faecalis	0.08	H2O2	*
+KM	Enterococcus faecalis	0.1	ferricyanide	*
+MW	Clostridium acetobutylicum	21000	*	*determined by SDS-PAGE
+MW	Clostridium acetobutylicum	21580	*	*theoretical
+MW	Clostridium perfringens	22000	*	*2 * 22000
+MW	Desulfovibrio vulgaris	22000	*	*2 * 22000
+MW	Enterococcus faecalis	46000	*	*4 * 46000, concluded from crystal structure
+MW	Enterococcus faecalis	46000	*	*4 * 46000, identical
+MW	Enterococcus faecalis	46000	*	*4 * 46000, identical
+MW	Pseudomonas fluorescens	47000	*	*SDS-PAGE
+MW	Enterococcus faecalis	49000	*	*4 * 49000, SDS-PAGE
+MW	Pseudomonas fluorescens	49700	*	*2 * 49700, Superdex 200 gel filtration
+MW	Pseudomonas fluorescens	49730	*	*MALDI-TOF
+MW	Enterococcus faecalis	60000	*	*2 * 60000, calculation from FAD content
+MW	Clostridium acetobutylicum	80000	*	*determined by gel filtration
+MW	Pseudomonas fluorescens	100000	*	*Superdex 200 gel filtration
+MW	Enterococcus faecalis	120000	*	*calculation from FAD content
+MW	Enterococcus faecalis	201300	*	*gel filtration
+MW	Enterococcus faecalis	201400	*	*gel filtration
+PATH	*	non-pathway related	*	*
+SA	Enterococcus faecalis	-999	*	*8500-9000 U/ml, calculated as change of 0.01 of optical density
+SA	Pediococcus acidilactici	0.0000064	*	*with FAD
+SA	Lactobacillus brevis	0.00001	*	*with FAD
+SA	Lactobacillus coryniformis	0.000012	*	*with FAD
+SA	Lactobacillus mali	0.00002	*	*with FAD
+SA	Lactobacillus plantarum	0.000021	*	*with FAD
+SA	Lactobacillus buchneri	0.000022	*	*with FAD
+SA	Lactobacillus rhamnosus	0.000024	*	*with FAD
+SA	Enterococcus faecium	0.000028	*	*with FAD
+SA	Lactobacillus casei	0.0000296	*	*with FAD
+SA	Pediococcus pentosaceus	0.000032	*	*with FAD
+SA	Streptococcus thermophilus	0.000044	*	*with FAD
+SA	Leuconostoc lactis	0.000049	*	*with FAD
+SA	Leuconostoc mesenteroides	0.000081	*	*subspecies cremoris with FAD
+SA	Lactobacillus delbrueckii	0.000082	*	*subspecies lactis with FAD
+SA	Leuconostoc mesenteroides	0.000083	*	*subspecies mesenteroides with FAD
+SA	Lactobacillus delbrueckii	0.00011	*	*subspecies delbrueckii with FAD
+SA	Clostridium acetobutylicum	0.017	*	*Clostridium acetobutylicum wild-type cell lysate
+SA	Clostridium acetobutylicum	0.024	*	*Clostridium acetobutylicum pTrbr3B cell lysate
+SA	Clostridium acetobutylicum	0.66	*	*NADH:rubredoxin oxidoreductase, revRbr
+SA	Clostridium acetobutylicum	0.993	*	*NADH:rubredoxin oxidoreductase, rubredoxin, revRbr
+SA	Enterococcus faecalis	86	*	*
+SA	Enterococcus faecalis	115	*	*

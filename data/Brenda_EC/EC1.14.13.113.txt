@@ -1,0 +1,27 @@
+KCAT	Xanthomonas campestris	1.14	NADPH	*in 50 mM K2HPO4/NaH2PO4, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Xanthomonas campestris	0.19	NADH	*in 50 mM K2HPO4/NaH2PO4, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	0.26	NADH	*mutant enzyme R204Q, in 0.1 M potassium phosphate buffer (pH 8.0), at 25&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	8.4	NADH	*mutant enzyme Y216F, in 0.1 M potassium phosphate buffer (pH 8.0), at 25&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	42	NADH	*wild type enzyme, in 0.1 M potassium phosphate buffer (pH 8.0), at 25&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	0.26	Urate	*mutant enzyme R204Q, in 0.1 M potassium phosphate buffer (pH 8.0), at 25&Acirc;&deg;C; mutant R204Q, pH 8.0, 25&Acirc;&deg;C
+KCAT	Xanthomonas campestris	1.06	Urate	*in 50 mM K2HPO4/NaH2PO4, pH 8.0, at 25&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	8.4	Urate	*mutant enzyme Y216F, in 0.1 M potassium phosphate buffer (pH 8.0), at 25&Acirc;&deg;C; mutant Y216F, pH 8.0, 25&Acirc;&deg;C
+KCAT	Klebsiella pneumoniae	42	Urate	*pH 8.0, 1.5 mM NADH as cosubstrate
+KCAT	Klebsiella pneumoniae	42	Urate	*wild type enzyme, in 0.1 M potassium phosphate buffer (pH 8.0), at 25&Acirc;&deg;C; wild-type, pH 8.0, 25&Acirc;&deg;C
+KM	Xanthomonas campestris	0.055	NADPH	*in 50 mM K2HPO4/NaH2PO4, pH 8.0, at 25&Acirc;&deg;C
+KM	Xanthomonas campestris	0.024	NADH	*in 50 mM K2HPO4/NaH2PO4, pH 8.0, at 25&Acirc;&deg;C
+KM	Klebsiella pneumoniae	0.1	NADH	*mutant enzyme Y216F, in 0.1 M potassium phosphate buffer (pH 8.0), at 25&Acirc;&deg;C; mutant Y216F, pH 8.0, 25&Acirc;&deg;C
+KM	Klebsiella pneumoniae	0.5	NADH	*wild type enzyme, in 0.1 M potassium phosphate buffer (pH 8.0), at 25&Acirc;&deg;C; wild-type, pH 8.0, 25&Acirc;&deg;C
+KM	Klebsiella pneumoniae	0.64	NADH	*mutant enzyme R204Q, in 0.1 M potassium phosphate buffer (pH 8.0), at 25&Acirc;&deg;C; mutant R204Q, pH 8.0, 25&Acirc;&deg;C
+KM	Xanthomonas campestris	0.029	Urate	*in 50 mM K2HPO4/NaH2PO4, pH 8.0, at 25&Acirc;&deg;C
+KM	Klebsiella pneumoniae	0.042	Urate	*pH 8.0, cosubstrate 1.5 mM NADH
+KM	Klebsiella pneumoniae	0.042	Urate	*wild type enzyme, in 0.1 M potassium phosphate buffer (pH 8.0), at 25&Acirc;&deg;C; wild-type, pH 8.0, 25&Acirc;&deg;C
+KM	Klebsiella pneumoniae	0.09	Urate	*mutant enzyme Y216F, in 0.1 M potassium phosphate buffer (pH 8.0), at 25&Acirc;&deg;C
+KM	Klebsiella pneumoniae	0.9	Urate	*mutant Y216F, pH 8.0, 25&Acirc;&deg;C
+MW	Klebsiella pneumoniae	45000	*	*recombinant enzyme including the affinity tag, determined by SDS-PAGE
+MW	Xanthomonas campestris	52000	*	*2 * 52000, SDS-PAGE
+MW	Xanthomonas campestris	52519	*	*2 * 52519, calculated from amino acid sequence
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Purine metabolism	*	*
+PATH	*	urate conversion to allantoin II	*	*

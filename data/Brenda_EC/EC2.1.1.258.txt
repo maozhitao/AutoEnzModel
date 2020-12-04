@@ -1,0 +1,40 @@
+KCAT	Moorella thermoacetica	0.00003	methylcobalamin	*mutant enzyme N199A, at pH 8.4 and 55&deg;C
+KCAT	Moorella thermoacetica	0.005	[Co(I) corrinoid Fe-S protein]	*mutant enzyme N199A, in 0.1 M potassium succinate, pH 5.0, 60 mM NaCl, at 25&deg;C
+KCAT	Moorella thermoacetica	0.02	[methyl-Co(III) corrinoid Fe-S protein]	*kcat below 0.02 s(-1), in 1 mM Tris-HCl (pH 7.6), at 25&deg;C
+KCAT	Moorella thermoacetica	0.05	methylcobalamin	*wild type enzyme, at pH 8.4 and 55&deg;C
+KCAT	Moorella thermoacetica	1.1	[Co(I) corrinoid Fe-S protein]	*wild type enzyme, in 0.1 M potassium succinate, pH 5.0, 60 mM NaCl, at 25&deg;C
+KCAT	Moorella thermoacetica	1.1	hydroxocobalamin	*in 1 mM Tris-HCl (pH 7.6), at 25&deg;C
+KCAT	Moorella thermoacetica	1.5	5-methyltetrahydrofolate	*using hydroxocobalamin as cosubstrate, in 1 mM Tris-HCl (pH 7.6), at 25&deg;C
+KCAT	Moorella thermoacetica	2.2	methylcobalamin	*in 1 mM Tris-HCl (pH 7.6), at 25&deg;C
+KCAT	Clostridioides difficile	2.63	Cobalamin	*25&deg;C, pH 5.1
+KCAT	Moorella thermoacetica	14.7	5-methyltetrahydrofolate	*in 50 mM MES, pH 5.1, at 25&deg;C
+KCAT	Moorella thermoacetica	14.7	[Co(I) corrinoid Fe-S protein]	*in 50 mM MES, pH 5.1, at 25&deg;C
+KCAT	Moorella thermoacetica	18	[Co(I) corrinoid Fe-S protein]	*in 1 mM Tris-HCl (pH 7.6), at 25&deg;C
+KCAT	Clostridioides difficile	37.2	Cobalamin	*25&deg;C, pH 7.2
+KCAT	Clostridioides difficile	77.6	hydroxycobalamin	*recombinant enzyme, in 0.1 M MES, at pH 5.1 and 25&deg;C
+KM	Moorella thermoacetica	0.002	5-methyltetrahydrofolate	*in 50 mM MES, pH 5.1, at 25&deg;C
+KM	Moorella thermoacetica	0.01	5-methyltetrahydrofolate	*using [Co(I) corrinoid Fe-S protein] as cosubstrate, in 1 mM Tris-HCl (pH 7.6), at 25&deg;C; using hydroxocobalamin as cosubstrate, in 1 mM Tris-HCl (pH 7.6), at 25&deg;C
+KM	Moorella thermoacetica	0.012	[Co(I) corrinoid Fe-S protein]	*in 50 mM MES, pH 5.1, at 25&deg;C
+KM	Clostridioides difficile	0.0178	Cobalamin	*25&deg;C, pH 5.1
+KM	Clostridioides difficile	0.058	hydroxycobalamin	*recombinant enzyme, in 0.1 M MES, at pH 5.1 and 25&deg;C
+KM	Clostridioides difficile	0.06	Cobalamin	*25&deg;C, pH 7.2
+KM	Moorella thermoacetica	0.06	[Co(I) corrinoid Fe-S protein]	*in 1 mM Tris-HCl (pH 7.6), at 25&deg;C
+KM	Moorella thermoacetica	0.1	[methyl-Co(III) corrinoid Fe-S protein]	*Km above 0.1 mM, in 1 mM Tris-HCl (pH 7.6), at 25&deg;C
+KM	Moorella thermoacetica	0.2	tetrahydrofolate	*Km above 0.2 mM, using [Co(I) corrinoid Fe-S protein] as cosubstrate, in 1 mM Tris-HCl (pH 7.6), at 25&deg;C
+KM	Moorella thermoacetica	0.341	tetrahydrofolate	*using hydroxocobalamin as cosubstrate, in 1 mM Tris-HCl (pH 7.6), at 25&deg;C
+KM	Moorella thermoacetica	0.665	methylcobalamin	*in 1 mM Tris-HCl (pH 7.6), at 25&deg;C
+KM	Moorella thermoacetica	2	hydroxocobalamin	*in 1 mM Tris-HCl (pH 7.6), at 25&deg;C
+MW	Moorella thermoacetica	27000	*	*2 * 27000, SDS-PAGE
+MW	Moorella thermoacetica	28000	*	*2 * 28000
+MW	Moorella thermoacetica	28550	*	*2 * 28550, recombinant enzyme, MALDI-TOF mass spectrometry
+MW	Moorella thermoacetica	28640	*	*2 * 28640, native enzyme, MALDI-TOF mass spectrometry
+MW	Moorella thermoacetica	28641	*	*2 * 28641, deduced from amino acid sequence
+MW	Clostridioides difficile	30000	*	*2 * 30000, SDS-PAGE
+MW	Clostridioides difficile	31000	*	*2 * 31000, calculated from amino acid sequence
+MW	Moorella thermoacetica	58900	*	*native enzyme, gel filtration
+PATH	*	Carbon fixation pathways in prokaryotes	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	reductive acetyl coenzyme A pathway	*	*
+PATH	*	reductive acetyl coenzyme A pathway I (homoacetogenic bacteria)	*	*
+PATH	*	reductive acetyl coenzyme A pathway II (autotrophic methanogens)	*	*

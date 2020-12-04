@@ -1,0 +1,79 @@
+KM	Candida tropicalis	-999	more	*Michaelis-Menten kinetics
+KM	Kluyveromyces bulgaricus	0.0133	6-O-dansyl-N-acetylglucosamine	*chitin synthetase I
+KM	Kluyveromyces bulgaricus	0.2	6-O-dansyl-N-acetylglucosamine	*chitin synthetase III
+KM	Kluyveromyces bulgaricus	0.5	6-O-dansyl N-acetylglucosamine	*chitin synthetase II
+KM	Saccharomyces cerevisiae	0.5	UDP-GlcNAc	*chitin synthase 1
+KM	Saccharomyces cerevisiae	0.6	UDP-GlcNAc	*chitin synthase 2
+KM	Phycomyces blakesleeanus	0.6	UDP-GlcNAc	*
+KM	Saccharomyces cerevisiae	0.7	UDP-GlcNAc	*
+KM	Absidia glauca	0.7	UDP-GlcNAc	*
+KM	Saccharomyces cerevisiae	0.7	UDP-GlcNAc	*
+KM	Saccharomyces cerevisiae	0.8	UDP-GlcNAc	*Chs1
+KM	Saccharomyces cerevisiae	0.8	UDP-GlcNAc	*
+KM	Saccharomyces cerevisiae	0.9	UDP-GlcNAc	*Chs1
+KM	Saccharomyces cerevisiae	1	UDP-GlcNAc	*wild-type enzyme
+KM	Saccharomyces cerevisiae	1.5	UDP-N-acetylglucosamine	*
+KM	Aspergillus nidulans	1.6	UDP-GlcNAc	*
+KM	Umbelopsis vinacea	1.8	UDP-GlcNAc	*
+KM	Mortierella pusilla	1.8	UDP-GlcNAc	*
+KM	Neocallimastix frontalis	2	UDP-GlcNAc	*
+KM	Botrytis cinerea	2	UDP-GlcNAc	*
+KM	Mortierella candelabrum	2	UDP-GlcNAc	*
+KM	Aspergillus nidulans	2.2	UDP-GlcNAc	*
+KM	Saccharomyces cerevisiae	2.3	chitobiose	*
+KM	Aspergillus flavus	2.5	UDP-GlcNAc	*
+KM	Saccharomyces cerevisiae	2.6	UDP-N-acetyl-D-glucosamine	*reaction with chitobiose
+KM	Saccharomyces cerevisiae	3.1	N-acetyl-D-glucosamine	*reaction with UDP-N-acetyl-D-glucosamine
+KM	Aspergillus nidulans	3.1	UDP-N-acetylglucosamine	*
+KM	Candida tropicalis	3.86	UDP-N-acetyl-alpha-D-glucosamine	*pH 7.5, 37&deg;C
+MW	Atrina rigida	-999	*	*size analysis of proteins purified at pH 4.7, pH 6.5, and pH 7.5 by using gel filtration, native PAGE, and dynamic light scattering
+MW	Atrina rigida	13500	*	*x * 21500, recombinant transmembrane segment ArCS1_E22, x * 13500, recombinant transmembrane segment ArCS1_E22, SDS-PAGE
+MW	Atrina rigida	21500	*	*x * 21500, recombinant transmembrane segment ArCS1_E22, x * 13500, recombinant transmembrane segment ArCS1_E22, SDS-PAGE
+MW	Absidia glauca	30000	*	*x * 30000, SDS-PAGE
+MW	Atrina rigida	40000	*	*purified recombinant enzyme, gel filtration
+MW	Manduca sexta	52000	*	*PAGE
+MW	Manduca sexta	60000	*	*x * 174500, calculated, x * 190000 + x * 119000 + x * 60000, SDS-PAGE
+MW	Coprinopsis cinerea	67000	*	*x * 67000, reversible aggregation into large multimolecular units, SDS-PAGE
+MW	Entamoeba dispar	73000	*	*EhCHS-1
+MW	Entamoeba histolytica	73000	*	*EhCHS-1
+MW	Entamoeba invadens	73000	*	*EhCHS-1
+MW	Moniliophthora perniciosa	102000	*	*x * 102000, calculated
+MW	Entamoeba dispar	114000	*	*EhCHS-2
+MW	Entamoeba histolytica	114000	*	*EhCHS-2
+MW	Entamoeba invadens	114000	*	*EhCHS-2
+MW	Manduca sexta	119000	*	*x * 174500, calculated, x * 190000 + x * 119000 + x * 60000, SDS-PAGE
+MW	Bombyx mori	123884	*	*x * 123884, sequence calculation
+MW	Paracoccidioides brasiliensis	136800	*	*x * 136800, calculated
+MW	Drosophila melanogaster	161400	*	*
+MW	Spodoptera exigua	172000	*	*x * 172000, about, full-length enzyme, sequence calculation
+MW	Ostrinia furnacalis	174000	*	*x * 174000, calculated
+MW	Manduca sexta	174500	*	*x * 174500, calculated, x * 190000 + x * 119000 + x * 60000, SDS-PAGE
+MW	Spodoptera exigua	174600	*	*x * 174600, about, sequence calculation
+MW	Manduca sexta	178600	*	*
+MW	Aedes aegypti	179400	*	*
+MW	Lucilia cuprina	180700	*	*
+MW	Anopheles gambiae	181300	*	*
+MW	Drosophila melanogaster	182800	*	*
+MW	Anopheles gambiae	186400	*	*
+MW	Manduca sexta	190000	*	*x * 174500, calculated, x * 190000 + x * 119000 + x * 60000, SDS-PAGE
+MW	Paracoccidioides brasiliensis	206900	*	*x * 206900, calculated
+MW	Exophiala dermatitidis	210000	*	*x * 210000, SDS-PAGE
+MW	Manduca sexta	440000	*	*gel filtration
+MW	Absidia glauca	520000	*	*gel filtration
+MW	Absidia glauca	540000	*	*calculation from sedimentation data
+MW	Saccharomyces cerevisiae	570000	*	*gel filtration, calculation from sedimentation coefficient
+MW	Amylomyces rouxii	700000	*	*gel filtration
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*
+PATH	*	chitin biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Saccharomyces cerevisiae	-999	*	*
+SA	Saccharomyces cerevisiae	-999	*	*nonradioactive, high throughput assay
+SA	Candida albicans	-999	*	*recombinant YFP-tagged isozymes in BWP17 cells; recombinant YFP-tagged isozymes in BWP17 cells; recombinant YFP-tagged isozymes in BWP17 cells; recombinant YFP-tagged isozymes in BWP17 cells
+SA	Kluyveromyces bulgaricus	0.0025	*	*chitin synthetase III, activity at the end of exponential growth phase
+SA	Kluyveromyces bulgaricus	0.0028	*	*chitin synthetase II, activity at the end of exponential growth phase
+SA	Absidia glauca	0.0055	*	*
+SA	Kluyveromyces bulgaricus	0.008	*	*chitin synthetase I, activity at the end of exponential growth phase
+SA	Amylomyces rouxii	0.01639	*	*
+SA	Coprinopsis cinerea	0.2	*	*
+SA	Coprinopsis cinerea	4.7	*	*
+SA	Saccharomyces cerevisiae	42.7	*	*

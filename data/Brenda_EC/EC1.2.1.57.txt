@@ -1,0 +1,26 @@
+KCAT	Lactobacillus brevis	0.26	acetyl-CoA	*recombinant enzyme, pH 7.15, 30&deg;C
+KCAT	Lactobacillus brevis	3.37	butanoyl-CoA	*recombinant enzyme, pH 7.15, 30&deg;C
+KM	Clostridium acetobutylicum	0.04	NADPH	*
+KM	Clostridium acetobutylicum	0.16	NAD+	*
+KM	Clostridium acetobutylicum	0.003	NADH	*
+KM	Clostridium acetobutylicum	2	NADP+	*
+KM	Clostridium acetobutylicum	0.055	acetyl-CoA	*
+KM	Lactobacillus brevis	0.076	acetyl-CoA	*recombinant enzyme, pH 7.15, 30&Acirc;&deg;C
+KM	Clostridium acetobutylicum	7.2	acetaldehyde	*
+KM	Clostridium acetobutylicum	6.7	propionaldehyde	*
+KM	Clostridium acetobutylicum	1.6	Butanal	*
+KM	Clostridium acetobutylicum	0.37	hexanal	*
+KM	Clostridium acetobutylicum	0.045	butanoyl-CoA	*CoA
+KM	Lactobacillus brevis	0.534	butanoyl-CoA	*recombinant enzyme, pH 7.15, 30&Acirc;&deg;C
+KM	Clostridium saccharoperbutylacetonicum	-999	more	*no Michaelis-Menten behaviour
+KM	Clostridium saccharoperbutylacetonicum	-999	more	*no Michaelis-Menten behaviour
+MW	Clostridium acetobutylicum	56000	*	*2 * 56000, SDS-PAGE
+MW	Clostridium acetobutylicum	115000	*	*gel filtration
+PATH	*	Butanoate metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	pyruvate fermentation to butanol I	*	*
+PATH	*	pyruvate fermentation to butanol II (engineered)	*	*
+SA	Clostridium saccharoperbutylacetonicum	0.49	*	*with butanoyl-CoA, pH 7.15, 30&Acirc;&deg;C
+SA	Thermoanaerobacterium saccharolyticum	0.67	*	*pH 7.0, 55&Acirc;&deg;C, substrate butanoyl-CoA
+SA	Lactobacillus brevis	2.5	*	*with butanoyl-CoA, pH 7.15, 30&Acirc;&deg;C
+SA	Clostridium acetobutylicum	11.1	*	*

@@ -1,0 +1,74 @@
+KCAT	Escherichia coli	-999	more	*values for reactions catalyzed by holoenzyme, hemoprotein subunit alone, and flavoprotein subunit alone with various electron acceptors
+KCAT	Salmonella enterica subsp. enterica serovar Typhimurium	-999	more	*values for reactions catalyzed by holoenzyme, hemoprotein subunit alone, and flavoprotein subunit alone with various electron acceptors
+KCAT	Escherichia coli	1.25	NADPH	*cosubstrate O2
+KCAT	Escherichia coli	30	sulfite	*cosubstrate NADPH
+KCAT	Escherichia coli	30	sulfite	*cosubstrate NADPH
+KCAT	Escherichia coli	43.3	nitrite	*cosubstrate NADPH
+KCAT	Escherichia coli	65	sulfite	*cosubstrate reduced methyl viologen
+KCAT	Escherichia coli	98.3	hydroxylamine	*cosubstrate NADPH
+KCAT	Escherichia coli	98.3	hydroxylamine	*cosubstrate NADPH
+KCAT	Escherichia coli	150	FAD	*cosubstrate NADPH
+KCAT	Escherichia coli	158	NADPH	*cosubstrate 3-acetylpyridineadenine dinucleotide phosphate
+KCAT	Escherichia coli	172	NADPH	*cosubstrate FMN
+KCAT	Escherichia coli	318	NADPH	*cosubstrate cytochrome c
+KCAT	Escherichia coli	462	NADPH	*cosubstrate dichlorphenolindophenol
+KCAT	Escherichia coli	468	NADPH	*cosubstrate ferricyanide
+KCAT	Escherichia coli	605	NADP+	*
+KCAT	Escherichia coli	605	reduced methyl viologen	*
+KM	Escherichia coli	0.0043	sulfite	*
+KM	Escherichia coli	0.005	NADPH	*
+KM	Saccharomyces cerevisiae	0.01	NADPH	*
+KM	Saccharomyces cerevisiae	0.012	sulfite	*
+KM	Escherichia coli	0.012	sulfite	*
+KM	Methanocaldococcus jannaschii	0.0122	sulfite	*within a sulfite concentration range of 0.0014-0.3 mM and with a fixed reduced F420 concentration of 0.04 mM
+KM	Escherichia coli	0.018	NADPH	*
+KM	Saccharomyces cerevisiae	0.018	NADPH	*reduction of cytochrome c
+KM	Saccharomyces cerevisiae	0.021	NADPH	*reduction of sulfite
+KM	Methanocaldococcus jannaschii	0.021	reduced F420	*at a fixed sulfite concentration of 0.29 mM and within a reduced F420 concentration range of 0.004-0.06 mM
+KM	Saccharomyces cerevisiae	0.06	cytochrome c	*
+KM	Saccharomyces cerevisiae	0.06	FMN	*
+KM	Saccharomyces cerevisiae	0.063	FMN	*
+KM	Escherichia coli	0.07	paraquat	*
+KM	Saccharomyces cerevisiae	0.08	FAD	*
+KM	Escherichia coli	0.08	NADPH	*
+KM	Saccharomyces cerevisiae	0.083	FAD	*
+KM	Saccharomyces cerevisiae	0.6	sulfite	*
+KM	Escherichia coli	0.8	nitrite	*
+KM	Saccharomyces cerevisiae	0.8	nitrite	*
+KM	Saccharomyces bayanus	2	sulfite	*
+KM	Escherichia coli	4.5	hydroxylamine	*
+KM	Saccharomyces cerevisiae	4.5	hydroxylamine	*
+MW	Escherichia coli	660	*	*PAGE, octamer of alpha subunit SiRFP
+MW	Escherichia coli	800	*	*PAGE, holoenzyme
+MW	Desulfosarcina variabilis	12500	*	*alpha2,beta2,gamma2, 2 * 50000 + 2 * 42000 + 2 * 12500, SDS-PAGE
+MW	Desulfosarcina variabilis	42000	*	*alpha2,beta2,gamma2, 2 * 50000 + 2 * 42000 + 2 * 12500, SDS-PAGE
+MW	Desulfosarcina variabilis	50000	*	*alpha2,beta2,gamma2, 2 * 50000 + 2 * 42000 + 2 * 12500, SDS-PAGE
+MW	Acidithiobacillus ferrooxidans	60000	*	*determined by SDS-PAGE
+MW	Methanocaldococcus jannaschii	70000	*	*SDS-PAGE
+MW	Saccharomyces cerevisiae	116000	*	*alpha2,beta2, 2 * 116000 + 2 * 167000, SDS-PAGE
+MW	Escherichia coli	116000	*	*gel filtration
+MW	Escherichia coli	119000	*	*gel filtration
+MW	Saccharomyces cerevisiae	167000	*	*alpha2,beta2, 2 * 116000 + 2 * 167000, SDS-PAGE
+MW	Desulfosarcina variabilis	200000	*	*gel filtration
+MW	Saccharomyces cerevisiae	300000	*	*gel filtration, sedimentation analysis at low ionic strength, dissociated
+MW	Saccharomyces cerevisiae	350000	*	*calculation from FAD and FMN content, sedimentation coefficient
+MW	Saccharomyces cerevisiae	350000	*	*calculation from FAD and FMN content, sedimentation coefficient
+MW	Methanocaldococcus jannaschii	350000	*	*gel filtration
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	488000	*	*sedimentation under nondenaturing conditions
+MW	Saccharomyces cerevisiae	604000	*	*gel filtration
+MW	Saccharomyces cerevisiae	650000	*	*gel filtration, sedimentation analysis
+MW	Escherichia coli	670000	*	*sedimentation equilibrium centrifugation, sedimentation and diffusion coefficients
+PATH	*	assimilatory sulfate reduction I	*	*
+PATH	*	assimilatory sulfate reduction III	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	sulfate reduction	*	*
+PATH	*	Sulfur metabolism	*	*
+SA	Saccharomyces cerevisiae	-999	*	*
+SA	Methanocaldococcus jannaschii	0.0013	*	*in 50 mM potassium phosphate buffer (pH 7), 0.044 mM reduced F420, and 1.5 mM sodium sulfite, from cell extract
+SA	Methanocaldococcus jannaschii	0.0182	*	*in 50 mM potassium phosphate buffer (pH 7), 0.044 mM reduced F420, and 1.5 mM sodium sulfite, after 14fold purification
+SA	Saccharomyces cerevisiae	1.85	*	*
+SA	Escherichia coli	2.73	*	*
+SA	Escherichia coli	10.02	*	*purified enzyme
+SA	Saccharomyces bayanus	52	*	*
+SA	Salmonella enterica subsp. enterica serovar Typhimurium	81	*	*

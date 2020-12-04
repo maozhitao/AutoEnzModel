@@ -1,0 +1,32 @@
+KCAT	Synechocystis sp.	0.95	Fe(III)-EDTA	*in the absence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25&Acirc;&deg;C
+KCAT	Synechocystis sp.	2	Fe(III)-EDTA	*in the presence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25&Acirc;&deg;C
+KCAT	Synechocystis sp.	0.24	Fe(III)-citrate	*in the absence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25&Acirc;&deg;C
+KCAT	Synechocystis sp.	1.11	Fe(III)-citrate	*in the presence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25&Acirc;&deg;C
+KM	Escherichia coli	0.043	NADPH	*at pH 7.5 and 37&Acirc;&deg;C
+KM	Synechocystis sp.	0.0168	Fe(III)-EDTA	*in the presence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25&Acirc;&deg;C
+KM	Escherichia coli	0.033	Fe(III)-EDTA	*at pH 7.5 and 37&Acirc;&deg;C
+KM	Synechocystis sp.	0.5762	Fe(III)-EDTA	*in the absence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25&Acirc;&deg;C
+KM	Synechocystis sp.	0.0276	Fe(III)-citrate	*in the presence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25&Acirc;&deg;C
+KM	Synechocystis sp.	0.16	Fe(III)-citrate	*in the absence of FAD, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25&Acirc;&deg;C
+KM	Escherichia coli	0.0004	Fe(III)-enterobactin	*wild type enzyme, in 50 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 25&Acirc;&deg;C
+KM	Escherichia coli	0.0059	Fe(III)-enterobactin	*mutant enzyme R130A, in 50 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 25&Acirc;&deg;C
+KM	Escherichia coli	0.0078	Fe(III)-enterobactin	*mutant enzyme K55A, in 50 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 25&Acirc;&deg;C
+KM	Escherichia coli	0.0018	Fe(III)-(N-2,3-dihydroxybenzoyl-L-serine)3	*wild type enzyme, in 50 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 25&Acirc;&deg;C
+KM	Escherichia coli	0.036	Fe(III)-(N-2,3-dihydroxybenzoyl-L-serine)3	*mutant enzyme R130A in 50 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 25&Acirc;&deg;C
+KM	Escherichia coli	0.04	Fe(III)-(N-2,3-dihydroxybenzoyl-L-serine)3	*mutant enzyme K55A, in 50 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 25&Acirc;&deg;C
+KM	Escherichia coli	0.0134	Fe(III)-dicitrate	*wild type enzyme, in 50 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 25&Acirc;&deg;C
+KM	Escherichia coli	0.051	Fe(III)-dicitrate	*mutant enzyme K55A, in 50 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 25&Acirc;&deg;C
+KM	Escherichia coli	0.066	Fe(III)-dicitrate	*mutant enzyme R130A, in 50 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 25&Acirc;&deg;C
+KM	Escherichia coli	0.0014	Fe(III)-vibriobactin	*wild type enzyme, in 50 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 25&Acirc;&deg;C
+KM	Escherichia coli	0.048	Fe(III)-aerobactin	*wild type enzyme, in 50 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 25&Acirc;&deg;C
+KM	Escherichia coli	0.0042	Fe(III)-(N-2,3-dihydroxybenzoyl-Gly-Thr)3	*wild type enzyme, in 50 mM Tris-HCl (pH 8.0) and 100 mM NaCl at 25&Acirc;&deg;C
+MW	Escherichia coli	32400	*	*x * 32400, His-tagged enzyme, SDS-PAGE
+MW	Escherichia coli	32412	*	*x * 32412, His-tagged enzyme, calculated from amino acid sequence
+MW	Synechocystis sp.	34000	*	*2 * 34000, SDS-PAGE
+MW	Synechocystis sp.	60000	*	*gel filtration
+MW	Pisum sativum	80500	*	*x * 80500, calculated from amino acid sequence
+MW	Arabidopsis thaliana	81500	*	*x * 81500, SDS-PAGE
+SA	Escherichia coli	0.001	*	*using ferric enterobactin as substrate, at pH 7.5 and 37&deg;C
+SA	Synechocystis sp.	0.02	*	*crude extract, using tert-butyl hydroperoxide as substrate, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25&deg;C
+SA	Escherichia coli	0.022	*	*using Fe(III)-EDTA as substrate, at pH 7.5 and 37&deg;C
+SA	Synechocystis sp.	0.91	*	*after 45.5fold purification, using tert-butyl hydroperoxide as substrate, in 50 mM sodium phosphate buffer (pH 7.0) containing 0.2 mM NADPH at 25&deg;C

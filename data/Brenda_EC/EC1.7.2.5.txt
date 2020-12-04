@@ -1,0 +1,107 @@
+KCAT	Escherichia coli	14.9	NO	*pH 7.6
+KCAT	Paracoccus denitrificans	33.33	NO	*
+KCAT	Moorella thermoacetica	48	NO	*
+KCAT	Bacillus azotoformans	118	NO	*with 5-hydroxy-1,4-naphthoquinol
+KCAT	Bacillus azotoformans	150	NO	*with 5-hydroxy-2-methyl-1,4-naphthoquinol
+KCAT	Aspergillus oryzae	166.7	NO	*37&Acirc;&deg;C, PH 7.2
+KCAT	Fusarium oxysporum	211	NO	*native enzyme
+KCAT	Fusarium lichenicola	400	NO	*NADH as electron acceptor, cNor2
+KCAT	Fusarium oxysporum	525	NO	*NADH as electron acceptor
+KCAT	Fusarium lichenicola	533	NO	*NADH as electron acceptor, cNor1
+KCAT	Fusarium lichenicola	667	NO	*NADPH as electron acceptor, cNor2
+KCAT	Desulfovibrio vulgaris	12	nitric oxide	*in 50 mM MOPS, pH 7.0
+KCAT	Paracoccus denitrificans	40	nitric oxide	*at neutral pH
+KCAT	Paracoccus denitrificans	0.88	pseudoazurin	*mutant E122Q
+KCAT	Paracoccus denitrificans	1.01	pseudoazurin	*mutant E198A
+KCAT	Paracoccus denitrificans	1.27	pseudoazurin	*mutant E125D
+KCAT	Paracoccus denitrificans	1.3	pseudoazurin	*recombinant wild type enzyme
+KCAT	Paracoccus denitrificans	2.58	pseudoazurin	*mutant E267A
+KCAT	Paracoccus denitrificans	5.18	pseudoazurin	*mutant E125A
+KCAT	Paracoccus denitrificans	7	pseudoazurin	*mutant E122D
+KCAT	Paracoccus denitrificans	9.43	pseudoazurin	*mutant E125Q
+KCAT	Paracoccus denitrificans	10.2	pseudoazurin	*mutant E122A
+KCAT	Paracoccus denitrificans	15	pseudoazurin	*native wild type enzyme
+KCAT	Paracoccus denitrificans	27.67	pseudoazurin	*mutant E202A
+KCAT	Paracoccus denitrificans	58.52	pseudoazurin	*mutant E122D
+KCAT	Paracoccus denitrificans	70.38	pseudoazurin	*recombinant wild type enzyme
+KM	Escherichia coli	-999	more	*Km for NO less than 0.001 mM
+KM	Thermus thermophilus	-999	more	*steady-state kinetics of recombinant wild-type and mutant enzymes
+KM	Paracoccus denitrificans	0.00025	NO	*
+KM	Pseudomonas stutzeri	0.002	phenazine methosulfate	*
+KM	Moorella thermoacetica	0.004	NO	*
+KM	Desulfovibrio vulgaris	0.019	nitric oxide	*in 50 mM MOPS, pH 7.0
+KM	Fusarium lichenicola	0.02	NO	*NADH as electron acceptor, cNor1
+KM	Paracoccus denitrificans	0.027	pseudoazurin	*apparent KM of native enzyme
+KM	Paracoccus denitrificans	0.035	pseudoazurin	*apparent KM of recombinant enzyme
+KM	Fusarium oxysporum	0.06	NO	*NADH as electron acceptor
+KM	Pseudomonas stutzeri	0.06	NO	*
+KM	Bacillus azotoformans	0.14	5-hydroxy-1,4-naphthoquinone	*
+KM	Fusarium lichenicola	0.15	NO	*NADH and NADPH as electron acceptors, cNor2
+KM	Aspergillus oryzae	0.2	NO	*37&deg;C, pH 7.2
+KM	Fusarium oxysporum	0.22	NADH	*
+KM	Bacillus azotoformans	0.26	5-hydroxy-2-methyl-1,4-naphthoquinol	*
+KM	Fusarium lichenicola	0.32	NADH	*cNor1
+KM	Fusarium lichenicola	0.32	NADPH	*cNor2
+KM	Fusarium lichenicola	0.71	NADH	*cNor2
+KM	Aspergillus oryzae	0.8	NADH	*37&deg;C, pH 7.2
+KM	Aspergillus oryzae	0.93	NADPH	*37&deg;C, pH 7.2
+MW	Paracoccus denitrificans	15000	*	*1 * 34000 + 1 * 15000, SDS-PAGE
+MW	Pseudomonas stutzeri	17000	*	*1 * 17000 + 1 * 38000, SDS-PAGE
+MW	Paracoccus denitrificans	17000	*	*1 * 37000 + 1 * 17000, SDS-PAGE
+MW	Pseudomonas stutzeri	17000	*	*1 * 17000 + 1 * 38000, SDS-PAGE
+MW	Paracoccus denitrificans	17000	*	*1 * 56000 + 1 * 17000
+MW	Roseobacter denitrificans	17600	*	*calculated, small subunit
+MW	Marinobacter hydrocarbonoclasticus	17600	*	*subunit NorC, gel filtration, not detectable by mass spectrometry
+MW	Roseobacter denitrificans	18000	*	*composed of two subunits with molecular weights on SDS-PAGE of 1 * 37000 and 1 * 18000
+MW	Halomonas halodenitrificans	20000	*	*1 * 20000 + 1 * 42000, SDS-PAGE
+MW	Paracoccus denitrificans	34000	*	*1 * 34000 + 1 * 15000, SDS-PAGE
+MW	Paracoccus denitrificans	37000	*	*1 * 37000 + 1 * 17000, SDS-PAGE
+MW	Roseobacter denitrificans	37000	*	*composed of two subunits with molecular weights on SDS-PAGE of 1 * 37000 and 1 * 18000
+MW	Pseudomonas stutzeri	38000	*	*1 * 17000 + 1 * 38000, SDS-PAGE
+MW	Pseudomonas stutzeri	38000	*	*1 * 17000 + 1 * 38000, SDS-PAGE
+MW	Marinobacter hydrocarbonoclasticus	38000	*	*subunit NorB, gel filtration, not detectable by mass spectrometry
+MW	Halomonas halodenitrificans	42000	*	*1 * 20000 + 1 * 42000, SDS-PAGE
+MW	Cutaneotrichosporon cutaneum	43000	*	*SDS-PAGE
+MW	Cutaneotrichosporon cutaneum	43000	*	*x * 43000, SDS-PAGE
+MW	Aspergillus oryzae	45000	*	*x * 45000, SDS-PAGE
+MW	Desulfovibrio vulgaris	45000	*	*2 * 45000, SDS-PAGE
+MW	Aspergillus oryzae	45689	*	*x * 45689, deduced from nucleotide sequence
+MW	Fusarium oxysporum	46000	*	*1 * 46000
+MW	Roseobacter denitrificans	49000	*	*calculated, large subunit
+MW	Marinobacter hydrocarbonoclasticus	54400	*	*subunit NorB, calculated from amino acid sequence
+MW	Paracoccus denitrificans	56000	*	*1 * 56000 + 1 * 17000
+MW	Paracoccus denitrificans	69500	*	*DNA sequence
+MW	Marinobacter hydrocarbonoclasticus	71800	*	*NOR enzyme complex, calculated from amino acid sequence
+MW	Cupriavidus necator	75000	*	*SDS-PAGE
+MW	Cupriavidus necator	84500	*	*amino acid composition
+MW	Desulfovibrio vulgaris	90160	*	*calculated from amino acid sequence
+PATH	*	denitrification	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	nitrate reduction I (denitrification)	*	*
+PATH	*	nitrifier denitrification	*	*
+PATH	*	Nitrogen metabolism	*	*
+SA	Escherichia coli	-999	*	*NO reductase activity is measured under anaerobic conditions using a NO-selective Clark-type electrode. Spectroscopic measurements using a stopped-flow thermostated instrument
+SA	Pseudomonas stutzeri	0.0021	*	*with ascorbate and 2,3,5,6-tetramethyl-1,4-benzoquinone as electron donors
+SA	Achromobacter cycloclastes	0.0028	*	*with ascorbate and 2,3,5,6-tetramethyl-1,4-benzoquinone as electron donors
+SA	Paracoccus denitrificans	0.0033	*	*with ascorbate and 2,3,5,6-tetramethyl-1,4-benzoquinone as electron donors
+SA	Pseudomonas aeruginosa	0.004	*	*with ascorbate and 2,3,5,6-tetramethyl-1,4-benzoquinone as electron donors
+SA	Synechocystis sp.	0.101	*	*with reduced menadione as electron donor
+SA	Cupriavidus necator	0.16	*	*with NADH and 2,3-dimethoxy-5-methyl-1,4-benzoquinone as electron donors
+SA	Cupriavidus necator	0.22	*	*with N,N,N',N'-tetramethyl-1,4-benzendiamine and ascorbate as electron donors
+SA	Paracoccus denitrificans	0.58	*	*
+SA	Cupriavidus necator	0.78	*	*with NADH and duroquinone as electron donors
+SA	Cupriavidus necator	1.53	*	*with NADH as electron donor
+SA	Cupriavidus necator	2.27	*	*with NADH and menadione as electron donors
+SA	Cupriavidus necator	2.79	*	*with ascorbate and phenazine methosulfate as electron donors
+SA	Roseobacter denitrificans	7.3	*	*last purification step
+SA	Paracoccus denitrificans	10	*	*at pH 6.5
+SA	Paracoccus denitrificans	11	*	*
+SA	Pseudomonas stutzeri	11.8	*	*
+SA	Paracoccus denitrificans	22	*	*at pH 5.0
+SA	Halomonas halodenitrificans	22.2	*	*
+SA	Paracoccus denitrificans	25.8	*	*with ascorbate, phenazine methosulfate and cytochrome c as electron donors
+SA	Pseudomonas stutzeri	60	*	*ascorbate and phenazine methosulfate as electron donors
+SA	Aspergillus oryzae	75	*	*
+SA	Cutaneotrichosporon cutaneum	245	*	*with NADPH as electron donor
+SA	Cutaneotrichosporon cutaneum	295	*	*with NADH as electron donor

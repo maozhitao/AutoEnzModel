@@ -1,0 +1,53 @@
+KCAT	Gluconobacter oxydans	224	D-fructose	*pH 6.0, 25&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	1.33	glycerol	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	16.3	glycerol	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	177.2	xylitol	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	35.3	D-mannitol	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	243	D-mannitol	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	2.57	D-sorbitol	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	19.7	D-sorbitol	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	196	D-xylulose	*pH 6.0, 25&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	258	D-arabitol	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	876	D-arabitol	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	13.4	D-ribitol	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	1.28	meso-erythritol	*pH 8.5, 25&Acirc;&deg;C
+KM	Uromyces viciae-fabae	0.16	NADPH	*pH 6.0, with D-fructose
+KM	Uromyces viciae-fabae	0.2	NADPH	*pH 6.0, with D-ribulose
+KM	Uromyces viciae-fabae	0.26	NADPH	*pH 6.0, with D-xylulose
+KM	Uromyces viciae-fabae	0.07	NADP+	*pH 9.0, with D-mannitol
+KM	Uromyces viciae-fabae	0.08	NADP+	*pH 9.0, with D-arabitinol
+KM	Gluconobacter oxydans	47	D-fructose	*pH 6.0, 25&Acirc;&deg;C
+KM	Uromyces viciae-fabae	160	D-fructose	*pH 6.0
+KM	Gluconobacter oxydans	133.6	glycerol	*pH 8.5, 25&Acirc;&deg;C
+KM	Gluconobacter oxydans	384	glycerol	*pH 8.5, 25&Acirc;&deg;C
+KM	Gluconobacter oxydans	18.5	xylitol	*pH 8.5, 25&Acirc;&deg;C
+KM	Gluconobacter oxydans	18.5	D-mannitol	*pH 8.5, 25&Acirc;&deg;C
+KM	Gluconobacter oxydans	78.5	D-mannitol	*pH 8.5, 25&Acirc;&deg;C
+KM	Uromyces viciae-fabae	425	D-mannitol	*pH 9.0
+KM	Gluconobacter oxydans	125	D-sorbitol	*pH 8.5, 25&Acirc;&deg;C
+KM	Gluconobacter oxydans	127.3	D-sorbitol	*pH 8.5, 25&Acirc;&deg;C
+KM	Uromyces viciae-fabae	7.8	D-xylulose	*pH 6.0
+KM	Gluconobacter oxydans	25	D-xylulose	*pH 6.0, 25&Acirc;&deg;C
+KM	Uromyces viciae-fabae	53.9	D-ribulose	*pH 6.0
+KM	Gluconobacter oxydans	4.5	D-arabitol	*pH 8.5, 25&Acirc;&deg;C
+KM	Gluconobacter oxydans	12.5	D-arabitol	*pH 8.5, 25&Acirc;&deg;C
+KM	Gluconobacter oxydans	242.8	D-ribitol	*pH 8.5, 25&Acirc;&deg;C
+KM	Gluconobacter oxydans	266	meso-erythritol	*pH 8.5, 25&Acirc;&deg;C
+KM	Uromyces viciae-fabae	834	D-arabitinol	*pH 9.0
+KM	Uromyces viciae-fabae	-999	more	*kinetics
+MW	Gluconobacter oxydans	28500	*	*2 * 28500, SDS-PAGE and calculated, recombinant enzyme; 4 * 28500, SDS-PAGE and calculated, native enzyme
+MW	Gluconobacter oxydans	29000	*	*x * 29000, recombinant enzyme, SDS-PAGE
+MW	Gluconobacter oxydans	70000	*	*gel filtration, recombinant enzyme
+MW	Gluconobacter oxydans	140000	*	*gel filtration, native enzyme
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pentose and glucuronate interconversions	*	*
+SA	Gluconobacter oxydans	2.8	*	*purified recombinant enzyme, substrate glycerol
+SA	Gluconobacter oxydans	3.2	*	*purified recombinant enzyme, substrate meso-erythritol
+SA	Gluconobacter oxydans	6.4	*	*purified recombinant enzyme, substrate D-sorbitol
+SA	Gluconobacter oxydans	7.9	*	*purified recombinant enzyme, substrate D-fructose
+SA	Gluconobacter oxydans	11.4	*	*purified recombinant enzyme, substrate D-xylulose
+SA	Gluconobacter oxydans	12.6	*	*substrate D-xylitol, pH 8.5, 25&Acirc;&deg;C
+SA	Gluconobacter oxydans	16.4	*	*substrate D-xylulose, pH 5.5, 25&Acirc;&deg;C
+SA	Gluconobacter oxydans	23.5	*	*purified recombinant enzyme, substrate D-mannitol
+SA	Gluconobacter oxydans	27.6	*	*purified recombinant enzyme, substrate D-arabitol
+SA	Gluconobacter oxydans	68.5	*	*substrate D-arabitol, pH 8.5, 25&Acirc;&deg;C

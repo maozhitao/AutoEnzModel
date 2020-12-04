@@ -1,0 +1,65 @@
+KCAT	Homo sapiens	0.265	GMP	*pH 8.0, 35&deg;C
+KCAT	Escherichia coli	0.28	guanosine 5'-phosphate	*pH 7.8, 25&deg;C
+KCAT	Homo sapiens	0.284	GMP	*pH 8.0, 35&deg;C
+KCAT	Trypanosoma brucei brucei	0.519	GMP	*pH 8.0, 35&deg;C
+KM	Leishmania major	-999	more	*steady-state kinetic analysis
+KM	Homo sapiens	-999	more	*Michaelis-Menten steady-state kinetics; Michaelis-Menten steady-state kinetics
+KM	Trypanosoma brucei brucei	-999	more	*Michaelis-Menten steady-state kinetics
+KM	Bos taurus	0.0014	GMP	*
+KM	Homo sapiens	0.0026	GMP	*
+KM	Homo sapiens	0.0049	GMP	*
+KM	Artemia salina	0.005	GMP	*two Km values
+KM	Escherichia coli	0.0055	guanosine 5'-phosphate	*pH 7.8, 25&deg;C
+KM	Homo sapiens	0.0075	GMP	*data from the low concentration range
+KM	Homo sapiens	0.0085	NADPH	*
+KM	Mycoplasma mycoides	0.0094	GMP	*
+KM	Artemia salina	0.01	GMP	*
+KM	Mycoplasma mycoides	0.01	NADPH	*
+KM	Trypanosoma brucei brucei	0.0123	NADPH	*pH 8.0, 35&deg;C
+KM	Escherichia coli	0.0147	NADPH	*pH 7.8, 25&deg;C
+KM	Homo sapiens	0.0169	NADPH	*
+KM	Homo sapiens	0.0174	GMP	*
+KM	Homo sapiens	0.0178	GMP	*pH 8.0, 35&deg;C
+KM	Homo sapiens	0.0221	GMP	*pH 8.0, 35&deg;C
+KM	Homo sapiens	0.0266	NADPH	*
+KM	Homo sapiens	0.0293	NADPH	*pH 8.0, 35&deg;C
+KM	Bos taurus	0.031	NADPH	*
+KM	Homo sapiens	0.0348	NADPH	*pH 8.0, 35&deg;C
+KM	Artemia salina	0.05	GMP	*two Km values
+KM	Trypanosoma brucei brucei	0.0893	GMP	*pH 8.0, 35&deg;C
+KM	Escherichia coli	0.096	GMP	*
+KM	Klebsiella aerogenes	0.096	GMP	*
+KM	Salmonella enterica subsp. enterica serovar Typhimurium	0.096	GMP	*
+MW	Escherichia coli	36000	*	*x * 36000, SDS-PAGE
+MW	Escherichia coli	37382	*	*4 * 38000, SDS-PAGE, 4 * 37384, calculated, 4 * 37382, mass spectrometry
+MW	Escherichia coli	37383	*	*4 * 38000, SDS-PAGE, 4 * 37383, calculated
+MW	Escherichia coli	37384	*	*4 * 38000, SDS-PAGE, 4 * 37384, calculated, 4 * 37382, mass spectrometry
+MW	Escherichia coli	37440	*	*determination of nucleotide sequence
+MW	Homo sapiens	37800	*	*calculated from the deduced amino acid sequence
+MW	Escherichia coli	38000	*	*4 * 38000, SDS-PAGE, 4 * 37383, calculated; 4 * 38000, SDS-PAGE, 4 * 37384, calculated, 4 * 37382, mass spectrometry
+MW	Homo sapiens	40000	*	*x * 40000, recombinant His-tagged enzyme, SDS-PAGE
+MW	Homo sapiens	40000	*	*His-tag fusion protein, SDS-PAGE
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	45000	*	*4 * 45000
+MW	Bos taurus	90000	*	*gel filtration
+MW	Escherichia coli	156000	*	*gel filtration
+MW	Homo sapiens	170000	*	*gel filtration
+MW	Artemia salina	250000	*	*gel filtration
+PATH	*	Metabolic pathways	*	*
+PATH	*	Purine metabolism	*	*
+PATH	*	purine metabolism	*	*
+SA	Klebsiella aerogenes	-999	*	*212.0 units/mg, 1 unit is defined as the amount of enzyme giving an optical density change of 1.00/min
+SA	Escherichia coli	-999	*	*72.4 units/mg, 1 unit is defined as the amount of enzyme producing a decrease in absorbancy at 340 nm of 0.1 per min
+SA	Klebsiella aerogenes	-999	*	*72.4 units/mg, 1 unit is defined as the amount of enzyme producing a decrease in absorbancy at 340 nm of 0.1 per min
+SA	Salmonella enterica subsp. enterica serovar Typhimurium	-999	*	*72.4 units/mg, 1 unit is defined as the amount of enzyme producing a decrease in absorbancy at 340 nm of 0.1 per min
+SA	Mycoplasma mycoides	0.003	*	*activity in extracts of cells grown on different media
+SA	Bacillus subtilis	0.0051	*	*activity in wild-type
+SA	Homo sapiens	0.0052	*	*
+SA	Artemia salina	0.078	*	*
+SA	Homo sapiens	0.35	*	*
+SA	Artemia salina	0.564	*	*
+SA	Escherichia coli	0.66	*	*pH 7.8, 25&deg;C
+SA	Escherichia coli	0.8	*	*activity in wild-type
+SA	Escherichia coli	4.6	*	*activity in guaC mutant harbouring a guaC plasmid
+SA	Trypanosoma brucei brucei	21.7	*	*pH 8.0, 35&deg;C, with NaCl
+SA	Trypanosoma brucei brucei	30.6	*	*pH 8.0, 35&deg;C, with NH4Cl
+SA	Trypanosoma brucei brucei	43.8	*	*pH 8.0, 35&deg;C, with KCl

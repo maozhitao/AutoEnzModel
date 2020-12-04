@@ -1,0 +1,56 @@
+KM	Pseudomonas aeruginosa	2.5	ferricyanide	*
+KM	Pseudomonas aeruginosa	0.21	2,6-dichlorophenolindophenol	*
+KM	Pseudomonas aeruginosa	0.15	phenazine methosulfate	*
+KM	Pseudomonas fluorescens	0.3	D-gluconate	*pH 6
+KM	Serratia marcescens	0.8	D-gluconate	*
+KM	Klebsiella pneumoniae	0.8	D-gluconate	*pH 6
+KM	Pseudomonas aeruginosa	0.8	D-gluconate	*pH 6
+KM	Serratia marcescens	0.8	D-gluconate	*
+KM	Pseudomonas aeruginosa	0.8	D-gluconate	*pH 6
+KM	Gluconobacter oxydans	2.2	D-gluconate	*
+KM	Klebsiella pneumoniae	2.9	D-gluconate	*pH 4
+KM	Pseudomonas aeruginosa	3.2	D-gluconate	*pH 5.0
+KM	Pseudomonas aeruginosa	0.11	coenzyme Q1	*
+MW	Serratia marcescens	15500	*	*1 * 15500 + 1 * 52500 + 1 * 68000, SDS-PAGE
+MW	Gluconobacter oxydans	21000	*	*1 * 21000 + 1 * 45000 + 1 * 64000, SDS-PAGE
+MW	Pseudomonas fluorescens	21700	*	*1 * 21700 + 1 * 47500 + 1 * 66500, SDS-PAGE
+MW	Pseudomonas aeruginosa	22000	*	*1 * 22000, subunit of unclear function, + 1 * 50000, cytochrome c1, + 1 * 66000, flavoprotein, SDS-PAGE
+MW	Klebsiella pneumoniae	22000	*	*1 * 22000 + 1 * 52000 + 1 * 66000, SDS-PAGE
+MW	Pantoea cypripedii	24000	*	*1 * 24000, subunit of unknown function, + 1 * 47000, cytochrome c subunit, + 1 * 68000, dehydrogenase subunit, calculation from nucleotide sequence, SDS-PAGE
+MW	Campylobacter jejuni	26900	*	*predicted, subunit Cj0414
+MW	Gluconobacter oxydans	45000	*	*1 * 21000 + 1 * 45000 + 1 * 64000, SDS-PAGE
+MW	Pantoea cypripedii	47000	*	*1 * 24000, subunit of unknown function, + 1 * 47000, cytochrome c subunit, + 1 * 68000, dehydrogenase subunit, calculation from nucleotide sequence, SDS-PAGE
+MW	Pseudomonas fluorescens	47500	*	*1 * 21700 + 1 * 47500 + 1 * 66500, SDS-PAGE
+MW	Pseudomonas aeruginosa	50000	*	*1 * 22000, subunit of unclear function, + 1 * 50000, cytochrome c1, + 1 * 66000, flavoprotein, SDS-PAGE
+MW	Klebsiella pneumoniae	52000	*	*1 * 22000 + 1 * 52000 + 1 * 66000, SDS-PAGE
+MW	Serratia marcescens	52500	*	*1 * 15500 + 1 * 52500 + 1 * 68000, SDS-PAGE
+MW	Campylobacter jejuni	63700	*	*predicted, subunit Cj0415
+MW	Gluconobacter oxydans	64000	*	*1 * 21000 + 1 * 45000 + 1 * 64000, SDS-PAGE
+MW	Pseudomonas aeruginosa	66000	*	*1 * 22000, subunit of unclear function, + 1 * 50000, cytochrome c1, + 1 * 66000, flavoprotein, SDS-PAGE
+MW	Klebsiella pneumoniae	66000	*	*1 * 22000 + 1 * 52000 + 1 * 66000, SDS-PAGE
+MW	Pseudomonas fluorescens	66500	*	*1 * 21700 + 1 * 47500 + 1 * 66500, SDS-PAGE
+MW	Serratia marcescens	68000	*	*1 * 15500 + 1 * 52500 + 1 * 68000, SDS-PAGE
+MW	Pantoea cypripedii	68000	*	*1 * 24000, subunit of unknown function, + 1 * 47000, cytochrome c subunit, + 1 * 68000, dehydrogenase subunit, calculation from nucleotide sequence, SDS-PAGE
+MW	Pseudomonas aeruginosa	124000	*	*sucrose density gradient centrifugation
+MW	Pseudomonas aeruginosa	132000	*	*non-denaturing PAGE
+MW	Serratia marcescens	136000	*	*gel filtration
+PATH	*	glucose degradation (oxidative)	*	*
+PATH	*	ketogluconate metabolism	*	*
+PATH	*	L-ascorbate biosynthesis VI (engineered pathway)	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Pentose phosphate pathway	*	*
+SA	Pseudomonas aeruginosa	-999	*	*
+SA	Campylobacter jejuni	0.0013	*	*cells grown at 37&deg;C, Cj0415 mutant
+SA	Campylobacter jejuni	0.0019	*	*cells grown at 42&deg;C, Cj0414 mutant
+SA	Campylobacter jejuni	0.0026	*	*cells grown at 37&deg;C, Cj0414 mutant
+SA	Campylobacter jejuni	0.0045	*	*cells grown at 42&deg;C, Cj0415 mutant
+SA	Campylobacter jejuni	0.0141	*	*cells grown at 37&deg;C, wild type
+SA	Campylobacter jejuni	0.0333	*	*cells grown at 42&deg;C, wild type
+SA	Gluconobacter oxydans	149	*	*
+SA	Gluconobacter frateurii	150	*	*
+SA	Gluconobacter oxydans	237	*	*
+SA	Pseudomonas fluorescens	470	*	*
+SA	Serratia marcescens	502	*	*
+SA	Klebsiella pneumoniae	513	*	*
+SA	Pseudomonas aeruginosa	561.5	*	*

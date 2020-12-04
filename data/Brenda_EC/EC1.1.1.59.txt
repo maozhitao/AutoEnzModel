@@ -1,0 +1,34 @@
+KCAT	Bacillus cereus	0.21	3-hydroxypropanoate	*pH 8.5, 37&deg;C
+KCAT	Bacillus cereus	0.21	3-hydroxypropionate	*pH 8.5, 37&deg;C
+KCAT	Candida albicans	1.31	(R)-3-hydroxyisobutyrate	*at pH 9.5 and 22&deg;C
+KCAT	Candida albicans	2.48	(S)-3-hydroxyisobutyrate	*at pH 9.5 and 22&deg;C
+KCAT	Candida albicans	9.41	L-serine	*at pH 9.5 and 22&deg;C
+KCAT	Candida albicans	30.97	3-hydroxypropanoate	*at pH 9.5 and 22&deg;C
+KM	Bacillus cereus	-999	more	*steady-state kinetic analysis, overview
+KM	Candida albicans	0.13	(S)-3-hydroxyisobutyrate	*at pH 9.5 and 22&deg;C
+KM	Bacillus cereus	0.25	NADP+	*pH 8.5, 37&deg;C
+KM	Sus scrofa	0.34	NAD+	*
+KM	Candida albicans	0.58	(R)-3-hydroxyisobutyrate	*at pH 9.5 and 22&deg;C
+KM	Bacillus cereus	2.4	NAD+	*pH 8.5, 37&deg;C
+KM	Candida albicans	5.37	3-hydroxypropanoate	*at pH 9.5 and 22&deg;C
+KM	Bacillus cereus	16.8	3-hydroxypropanoate	*pH 8.5, 37&deg;C
+KM	Bacillus cereus	16.8	3-hydroxypropionate	*pH 8.5, 37&deg;C, KM-value for 3-hydroxyisobutyrate is approximately 20fold lower
+KM	Sus scrofa	20	3-hydroxypropanoate	*
+KM	Candida albicans	46.7	L-serine	*at pH 9.5 and 22&deg;C
+MW	Bacillus cereus	32000	*	*x * 32000, SDS-PAGE
+MW	Candida albicans	39200	*	*x * 39200, calculated from amino acid sequence
+MW	Candida albicans	40000	*	*x * 40000, SDS-PAGE
+PATH	*	acrylate degradation	*	*
+PATH	*	alanine metabolism	*	*
+PATH	*	beta-alanine biosynthesis II	*	*
+PATH	*	beta-Alanine metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Propanoate metabolism	*	*
+PATH	*	propanoyl-CoA degradation II	*	*
+SA	Eremothecium ashbyi	-999	*	*1.000, 1 unit defined as 0.001 increase in optical density
+SA	Escherichia coli	-999	*	*1.000, 1 unit defined as 0.001 increase in optical density
+SA	Gallus gallus	-999	*	*1.000, 1 unit defined as 0.001 increase in optical density
+SA	Propionibacterium freudenreichii subsp. shermanii	-999	*	*1.000, 1 unit defined as 0.001 increase in optical density
+SA	Sus scrofa	-999	*	*1.000, 1 unit defined as 0.001 increase in optical density
+SA	Tetrahymena pyriformis	-999	*	*1.000, 1 unit defined as 0.001 increase in optical density
+SA	Bacillus cereus	8.77	*	*pH 8.5, 37&deg;C

@@ -1,0 +1,34 @@
+KCAT	bacteriophage T6r+	-999	more	*320 substrate molecules per min per enzyme molecule
+KCAT	Escherichia virus T4	-999	more	*333 mol substrate per min per 56.8 kg protein
+KCAT	Escherichia virus T4	0.0008	deoxycytidylate	*mutant E60Q
+KCAT	Escherichia virus T4	0.007	deoxycytidylate	*mutant E60D
+KCAT	Escherichia virus T4	12.7	deoxycytidylate	*wild-type enzyme
+KM	Escherichia virus T4	0.04	tetrahydrofolate	*
+KM	Escherichia virus T4	0.36	deoxycytidylate	*
+MW	Escherichia virus T4	27000	*	*2 * 27000
+MW	Escherichia virus T4	27000	*	*2 * 27000, SDS-PAGE
+MW	Escherichia virus T4	27000	*	*2 * 27000, SDS-PAGE
+MW	Escherichia virus T4	28000	*	*2 * 28000, two equally sized subunits are arranged asymmetrically, SDS-PAGE
+MW	Escherichia virus T4	28400	*	*calculation from the amino acid sequence
+MW	Enterobacteria phage T2	28450	*	*calculation from the amino acid sequence
+MW	Enterobacteria phage T6	28450	*	*calculation from the amino acid sequence
+MW	Escherichia virus T4	28450	*	*calculation from the amino acid sequence
+MW	Escherichia virus T4	28450	*	*2 * 28450, homodimer of 246-residue subunits
+MW	Escherichia virus T4	28487	*	*2 * 28487
+MW	Escherichia virus T4	28600	*	*x * 28600
+MW	Escherichia virus T4	51400	*	*gel filtration
+MW	Escherichia virus T4	57000	*	*gel filtration
+MW	Escherichia virus T4	60000	*	*
+MW	Escherichia virus T4	63000	*	*sedimentation equilibrium method
+MW	bacteriophage T6r+	68000	*	*E. coli B infected with bacteriophage T6r+, gel filtration, sedimentation and diffusion data
+MW	bacteriophage T6r+	68000	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	One carbon pool by folate	*	*
+PATH	*	Pyrimidine metabolism	*	*
+SA	bacteriophage T6r+	-999	*	*
+SA	Escherichia virus T4	-999	*	*
+SA	Escherichia virus T4	1	*	*
+SA	Escherichia virus T4	3.1	*	*dCMP formation
+SA	Escherichia virus T4	4.6	*	*5-hydroxymethyl-dCMP formation
+SA	Escherichia virus T4	4.9	*	*
+SA	Escherichia virus T4	5.865	*	*

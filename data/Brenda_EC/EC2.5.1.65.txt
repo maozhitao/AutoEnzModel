@@ -1,0 +1,62 @@
+KCAT	Aeropyrum pernix	-999	more	*
+KCAT	Mycobacterium tuberculosis	0.0067	O-phospho-L-serine	*dephosphorylation, pH 7.0, 22&deg;C, recombinant mutant R243A enzyme
+KCAT	Mycobacterium tuberculosis	0.025	O3-acetyl-L-serine	*formation of the aminoacrylate intermediate
+KCAT	Mycobacterium tuberculosis	0.1	O-phospho-L-serine	*37&deg;C
+KCAT	Mycobacterium tuberculosis	0.2	O-phospho-L-serine	*dephosphorylation, pH 7.0, 22&deg;C, recombinant wild-type enzyme
+KCAT	Mycobacterium tuberculosis	0.457	O-phospho-L-serine	*pH 7.0, 22&deg;C, recombinant mutant R243A enzyme
+KCAT	Mycobacterium tuberculosis	0.913	O-phospho-L-serine	*pH 7.0, 22&deg;C, recombinant wild-type enzyme
+KCAT	Aeropyrum pernix	2.6	O-acetyl-L-serine	*pH 7.5, 80&deg;C, mutant F225A
+KCAT	Mycobacterium tuberculosis	17	O3-phospho-L-serine	*formation of the aminoacrylate intermediate
+KCAT	Aeropyrum pernix	33	hydrogen sulfide	*pH 7.5, 80&deg;C, wild-type enzyme, with O-acetyl-L-serine
+KCAT	Aeropyrum pernix	38	O-acetyl-L-serine	*pH 7.5, 80&deg;C, wild-type enzyme
+KCAT	Aeropyrum pernix	130	hydrogen sulfide	*pH 7.5, 80&deg;C, mutant F225A, with O-phospho-L-serine
+KCAT	Aeropyrum pernix	150	O-phospho-L-serine	*pH 7.5, 80&deg;C, mutant F225A
+KCAT	Aeropyrum pernix	156	O-acetyl-L-serine	*60&deg;C; pH 7.6, 60&deg;C
+KCAT	Aeropyrum pernix	202	O-acetyl-L-serine	*pH 6.7
+KCAT	Aeropyrum pernix	630	O-phospho-L-serine	*pH 7.5, 80&deg;C, wild-type enzyme
+KCAT	Aeropyrum pernix	730	hydrogen sulfide	*pH 7.5, 80&deg;C, wild-type enzyme, with O-phospho-L-serine
+KCAT	Aeropyrum pernix	3050	O-phospho-L-serine	*60&deg;C; pH 7.6, 60&deg;C
+KCAT	Aeropyrum pernix	14000	O-phospho-L-serine	*85&deg;C; pH 7.6, 85&deg;C
+KM	Aeropyrum pernix	0.2	Sulfide	*below, pH 6.7
+KM	Aeropyrum pernix	0.25	Sulfide	*60&Acirc;&deg;C, O-acetyl-L-serine sulfhydrylation reaction
+KM	Aeropyrum pernix	5	Sulfide	*60&Acirc;&deg;C, O-phospho-L-serine sulfhydrylation reaction
+KM	Aeropyrum pernix	12.5	Sulfide	*85&Acirc;&deg;C, O-phospho-L-serine sulfhydrylation reaction
+KM	Mycobacterium tuberculosis	0.044	thiosulfate	*pH 7.0, 22&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Mycobacterium tuberculosis	0.214	thiosulfate	*pH 7.0, 22&Acirc;&deg;C, recombinant mutant R243A enzyme
+KM	Mycobacterium tuberculosis	0.374	thiosulfate	*dephosphorylation, pH 7.0, 22&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Aeropyrum pernix	21	O-acetyl-L-serine	*60&Acirc;&deg;C; pH 7.6, 60&Acirc;&deg;C
+KM	Aeropyrum pernix	28	O-acetyl-L-serine	*pH 6.7
+KM	Aeropyrum pernix	0.25	hydrogen sulfide	*pH 7.6, 60&Acirc;&deg;C, with O-acetyl-L-serine
+KM	Aeropyrum pernix	0.39	hydrogen sulfide	*pH 7.5, 80&Acirc;&deg;C, wild-type enzyme, with O-acetyl-L-serine
+KM	Aeropyrum pernix	1.6	hydrogen sulfide	*pH 7.5, 80&Acirc;&deg;C, mutant F225A, with O-phospho-L-serine
+KM	Aeropyrum pernix	3.8	hydrogen sulfide	*pH 7.5, 80&Acirc;&deg;C, wild-type enzyme, with O-phospho-L-serine
+KM	Aeropyrum pernix	5	hydrogen sulfide	*pH 7.6, 60&Acirc;&deg;C, with O-phospho-L-serine
+KM	Aeropyrum pernix	12.5	hydrogen sulfide	*pH 7.6, 85&Acirc;&deg;C, with O-phospho-L-serine
+KM	Mycobacterium tuberculosis	0.135	O-phospho-L-serine	*dephosphorylation, pH 7.0, 22&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Mycobacterium tuberculosis	0.485	O-phospho-L-serine	*pH 7.0, 22&Acirc;&deg;C, recombinant mutant R243A enzyme
+KM	Mycobacterium tuberculosis	1.085	O-phospho-L-serine	*dephosphorylation, pH 7.0, 22&Acirc;&deg;C, recombinant mutant R243A enzyme
+KM	Mycobacterium tuberculosis	1.086	O-phospho-L-serine	*pH 7.0, 22&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Aeropyrum pernix	200	O-phospho-L-serine	*60&Acirc;&deg;C; pH 7.6, 60&Acirc;&deg;C
+KM	Aeropyrum pernix	250	O-phospho-L-serine	*85&Acirc;&deg;C; pH 7.6, 85&Acirc;&deg;C
+KM	Aeropyrum pernix	-999	more	*
+KM	Aeropyrum pernix	-999	more	*kinetics; ping-pong bi-bi mechanism
+KM	Aeropyrum pernix	-999	more	*steady-state kinetics, the Km value toward O-phospho-L-serine is not significantly different between the wild-type ApOPSS and the F225A mutant, the kcat value of the wild-type ApOPSS is 4.2fold higher toward O-phospho-L-serine and 15fold higher toward O-acetyl-L-erine than that of the F225A mutant, respectively
+KM	Mycobacterium tuberculosis	-999	more	*stopped-flow and Michaelis-Menten kinetic analysis, overview. The amino acrylate reaction intermediate is not stable and decomposes with a pseudo-first-order rate constant kobs of 0.12/s
+MW	Aeropyrum pernix	42000	*	*2 * 42000, SDS-PAGE
+MW	Aeropyrum pernix	42000	*	*2 * 42000
+MW	Aeropyrum pernix	70580	*	*sedimentation equilibrium ultracentrifugation
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Cysteine and methionine metabolism	*	*
+PATH	*	cysteine metabolism	*	*
+PATH	*	L-cysteine biosynthesis IX (Trichomonas vaginalis)	*	*
+PATH	*	L-cysteine biosynthesis VIII (Thermococcus kodakarensis)	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Sulfur metabolism	*	*
+SA	Aeropyrum pernix	1	*	*mutant R297A, substrate O-phospho-L-serine
+SA	Aeropyrum pernix	23	*	*pH 7.5, 80&Acirc;&deg;C
+SA	Aeropyrum pernix	50.9	*	*pH 6.7, 60&Acirc;&deg;C, O-acetyl-L-serine sulfhydrylation
+SA	Aeropyrum pernix	53.1	*	*mutant R297A, substrate O-acetyl-L-serine
+SA	Aeropyrum pernix	54.5	*	*60&Acirc;&deg;C, O-acetyl-L-serine sulfhydrylation reaction, recombinant OASS
+SA	Aeropyrum pernix	72	*	*wild-type enzyme, substrate O-acetyl-L-serine
+SA	Aeropyrum pernix	245	*	*wild-type enzyme, substrate O-phospho-L-serine

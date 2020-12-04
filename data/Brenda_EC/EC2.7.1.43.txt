@@ -1,0 +1,25 @@
+KCAT	Arabidopsis thaliana	8.3	D-glucuronic acid	*
+KCAT	Arabidopsis thaliana	8.5	ATP	*
+KM	Arabidopsis thaliana	-999	more	*allosteric enzyme, sigmoidal curve in kinetics with ATP
+KM	Danio rerio	0.031	D-glucuronate	*at pH 7.5 and 35&deg;C
+KM	Danio rerio	0.059	ATP	*at pH 7.5 and 35&deg;C
+KM	Lilium longiflorum	0.5	D-glucuronate	*pH 7.2, 30&deg;C
+KM	Arabidopsis thaliana	0.555	ATP	*allosteric interaction (Hill coefficient: 1.54)
+KM	Arabidopsis thaliana	0.56	ATP	*pH 7.5, 30&deg;C, recombinant enzyme
+KM	Lilium longiflorum	0.62	D-glucuronic acid	*
+KM	Arabidopsis thaliana	0.697	D-glucuronic acid	*
+KM	Arabidopsis thaliana	0.7	D-glucuronate	*pH 7.5, 30&deg;C, recombinant enzyme
+KM	Lilium longiflorum	1.9	ATP	*pH 7.2, 30&deg;C
+KM	Lilium longiflorum	1.9	ATP	*
+MW	Arabidopsis thaliana	40000	*	*x * 40000, about, sequence calculation
+MW	Lilium longiflorum	40000	*	*x * 40000 Da, SDS-PAGE
+MW	Danio rerio	70000	*	*x * 70000, SDS-PAGE
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*
+PATH	*	Ascorbate and aldarate metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pentose and glucuronate interconversions	*	*
+PATH	*	UDP-alpha-D-glucuronate biosynthesis (from myo-inositol)	*	*
+SA	Lilium longiflorum	0.46	*	*pH 7.2, 30&Acirc;&deg;C
+SA	Arabidopsis thaliana	12.2	*	*substrate: D-glucuronic acid
+SA	Arabidopsis thaliana	12.6	*	*substrate: ATP
+SA	Lilium longiflorum	17.9	*	*after about 688fold purification; purified native enzyme, pH 7.5, 30&Acirc;&deg;C

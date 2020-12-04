@@ -1,0 +1,110 @@
+KCAT	Toxoplasma gondii	-999	more	*recombinant wild-type and mutant enzymes
+KCAT	Bacillus subtilis	0.0015	UMP	*reverse reaction
+KCAT	Saccharolobus solfataricus	0.36	5-phospho-alpha-D-ribose 1-diphosphate	*unactivated enzyme
+KCAT	Saccharolobus solfataricus	0.36	Uracil	*unactivated enzyme
+KCAT	Mycobacterium tuberculosis	0.65	Uracil	*at pH 7.5 and 25&deg;C
+KCAT	Bacillus subtilis	5.1	Uracil	*forward reaction
+KCAT	Saccharolobus solfataricus	6.1	5-phospho-alpha-D-ribose 1-diphosphate	*activated by 1 mM GTP
+KCAT	Saccharolobus solfataricus	6.1	Uracil	*activated by 1 mM GTP
+KM	Bacillus subtilis	1	diphosphate	*
+KM	Bacillus subtilis	0.13	UMP	*
+KM	Tetrahymena pyriformis	0.0069	5-phospho-alpha-D-ribose 1-diphosphate	*
+KM	Saccharolobus shibatae	0.016	5-phospho-alpha-D-ribose 1-diphosphate	*pH 8.0, without GTP
+KM	Saccharomyces cerevisiae	0.026	5-phospho-alpha-D-ribose 1-diphosphate	*
+KM	Toxoplasma gondii	0.037	5-phospho-alpha-D-ribose 1-diphosphate	*recombinant wild-type, with GTP
+KM	Lactobacillus bifidus	0.044	5-phospho-alpha-D-ribose 1-diphosphate	*
+KM	Saccharolobus shibatae	0.049	5-phospho-alpha-D-ribose 1-diphosphate	*pH 8.0, presence of 1 mM GTP
+KM	Bacillus caldolyticus	0.05	5-phospho-alpha-D-ribose 1-diphosphate	*
+KM	Acholeplasma laidlawii	0.066	5-phospho-alpha-D-ribose 1-diphosphate	*
+KM	Bacillus subtilis	0.068	5-phospho-alpha-D-ribose 1-diphosphate	*
+KM	Escherichia coli	0.073	5-phospho-alpha-D-ribose 1-diphosphate	*recombinant wild-type
+KM	Saccharolobus shibatae	0.079	5-phospho-alpha-D-ribose 1-diphosphate	*pH 6.1, without GTP
+KM	Leishmania donovani	0.0993	5-phospho-alpha-D-ribose 1-diphosphate	*with uracil as cosubstrate, at pH 7.5 and 25&Acirc;&deg;C
+KM	Saccharolobus shibatae	0.115	5-phospho-alpha-D-ribose 1-diphosphate	*pH 6.1, presence of 1 mM GTP
+KM	Candida albicans	0.186	5-phospho-alpha-D-ribose 1-diphosphate	*
+KM	Giardia intestinalis	0.2	5-phospho-alpha-D-ribose 1-diphosphate	*
+KM	Toxoplasma gondii	0.216	5-phospho-alpha-D-ribose 1-diphosphate	*recombinant wild-type, without GTP
+KM	Toxoplasma gondii	0.243	5-phospho-alpha-D-ribose 1-diphosphate	*recombinant enzyme
+KM	Escherichia coli	0.3	5-phospho-alpha-D-ribose 1-diphosphate	*
+KM	Tetrahymena pyriformis	0.0004	Uracil	*
+KM	Escherichia coli	0.00063	Uracil	*recombinant wild-type
+KM	Saccharolobus shibatae	0.001	Uracil	*pH 6.1, without GTP
+KM	Bacillus caldolyticus	0.002	Uracil	*
+KM	Saccharolobus shibatae	0.002	Uracil	*pH 8.0, without GTP
+KM	Toxoplasma gondii	0.0035	Uracil	*recombinant enzyme
+KM	Saccharolobus shibatae	0.004	Uracil	*pH 6.1, presence of 1 mM GTP
+KM	Acholeplasma laidlawii	0.0042	Uracil	*
+KM	Saccharolobus shibatae	0.005	Uracil	*pH 8.0, presence of 1 mM GTP
+KM	Escherichia coli	0.007	Uracil	*
+KM	Lactobacillus leichmannii	0.0077	Uracil	*
+KM	Mycobacterium tuberculosis	0.0124	Uracil	*at pH 7.5 and 25&Acirc;&deg;C
+KM	Leishmania donovani	0.0204	Uracil	*at pH 7.5 and 25&Acirc;&deg;C
+KM	Saccharomyces cerevisiae	0.021	Uracil	*
+KM	Giardia intestinalis	0.024	Uracil	*
+KM	Escherichia coli	0.06	Uracil	*recombinant mutant P131D
+KM	Candida albicans	0.0705	Uracil	*
+KM	Bacillus subtilis	0.159	Uracil	*
+KM	Leishmania donovani	0.0064	5-fluorouracil	*at pH 7.5 and 25&Acirc;&deg;C
+KM	Lactobacillus leichmannii	0.67	2-Thiouracil	*
+KM	Leishmania donovani	0.0071	4-thiouracil	*at pH 7.5 and 25&Acirc;&deg;C
+KM	Escherichia coli	-999	more	*kinetics
+KM	Escherichia coli	-999	more	*Km-value for 5-phosphoribose 1-diphosphate of the mutant P131D is very low and difficult to determine
+KM	Toxoplasma gondii	-999	more	*Km-values, recombinant mutant enzymes
+KM	Saccharolobus solfataricus	-999	more	*
+KM	Saccharolobus solfataricus	-999	more	*allosteric transition, structural and kinetic studies, overview
+MW	Escherichia coli	-999	*	*gel filtration and sedimentation analyses: a smaller oligomeric, less active form, dimeric or trimeric, predominates in absence of substrates, a larger aggregated, more active form, pentameric or hexameric, predominates in presence of substrates
+MW	Syrian hamster adenovirus	20000	*	*x * 20000, SDS-PAGE
+MW	Mycobacterium tuberculosis	21289	*	*4 * 21289, calculated from amino acid sequence
+MW	Mycobacterium tuberculosis	22000	*	*4 * 22000, SDS-PAGE
+MW	Escherichia coli	22500	*	*x * 22500, DNA sequence determination
+MW	Escherichia coli	22500	*	*x * 22500, SDS-PAGE
+MW	Escherichia coli	23000	*	*x * 23000, SDS-PAGE
+MW	Escherichia coli	23500	*	*3 * 23500, SDS-PAGE
+MW	Toxoplasma gondii	24000	*	*recombinant enzyme, gel filtration and DNA sequence determination
+MW	Mycobacterium tuberculosis	25000	*	*4 * 25000, SDS-PAGE
+MW	Toxoplasma gondii	27000	*	*1 * 27000, recombinant enzyme, SDS-PAGE
+MW	Leishmania donovani	27000	*	*4 * 27000, SDS-PAGE
+MW	Toxoplasma gondii	28000	*	*x * 28000, recombinant protein, SDS-PAGE
+MW	Homo sapiens	33800	*	*calculated from amino acid sequence
+MW	Tetrahymena pyriformis	36000	*	*
+MW	Giardia intestinalis	36000	*	*2 * 36000, SDS-PAGE
+MW	Candida albicans	38000	*	*x * 47000 + x * 38000, SDS-PAGE
+MW	Homo sapiens	38500	*	*x * 38500, recombinant His6-tagged enzyme, SDS-PAGE
+MW	Bacillus caldolyticus	46000	*	*gel filtration
+MW	Candida albicans	47000	*	*x * 47000 + x * 38000, SDS-PAGE
+MW	Arabidopsis thaliana	53000	*	*x * 53000, recombinant UK/UPRT1, SDS-PAGE
+MW	Escherichia coli	63000	*	*sucrose density gradient centrifugation and gel filtration in absence of substrates
+MW	Escherichia coli	75000	*	*gel filtration
+MW	Giardia intestinalis	76000	*	*gel filtration
+MW	Crithidia luciliae	80000	*	*
+MW	Acholeplasma laidlawii	80000	*	*gel filtration
+MW	Saccharomyces cerevisiae	80000	*	*gel filtration
+MW	Saccharolobus solfataricus	98000	*	*sucrose density gradient centrifugation
+MW	Leishmania donovani	100000	*	*gel filtration
+MW	Mycobacterium tuberculosis	109700	*	*gel filtration
+MW	Escherichia coli	111000	*	*sucrose density gradient centrifugation and gel filtration in presence of substrates
+MW	Mycobacterium tuberculosis	120000	*	*gel filtration
+MW	Saccharolobus shibatae	200000	*	*gel filtration
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pyrimidine metabolism	*	*
+PATH	*	pyrimidine metabolism	*	*
+PATH	*	pyrimidine nucleobases salvage I	*	*
+SA	Escherichia coli	-999	*	*activity in different recombinant strain
+SA	Toxoplasma gondii	-999	*	*1051 DELTAA252/min/mg
+SA	Escherichia coli	-999	*	*
+SA	Lactobacillus leichmannii	0.0057	*	*substrate 2-thiouracil
+SA	Lactobacillus leichmannii	0.0067	*	*substrate uracil
+SA	Lactobacillus bifidus	0.025	*	*purified enzyme
+SA	Candida albicans	0.068	*	*partially purified enzyme
+SA	Bacillus subtilis	0.07	*	*37&Acirc;&deg;C
+SA	Bacillus caldolyticus	0.09	*	*60&Acirc;&deg;C
+SA	Saccharolobus shibatae	0.138	*	*
+SA	Escherichia coli	0.192	*	*strain SO 1346
+SA	Acholeplasma laidlawii	0.22	*	*partially purified enzyme
+SA	Mycobacterium tuberculosis	0.76	*	*crude extract, at pH 7.5 and 25&Acirc;&deg;C
+SA	Mycobacterium tuberculosis	1.56	*	*after 2.1fold purification, at pH 7.5 and 25&Acirc;&deg;C
+SA	Giardia intestinalis	3.1	*	*purified enzyme
+SA	Escherichia coli	6.602	*	*purified enzyme, strain SO 1346
+SA	Escherichia coli	7.5	*	*purified recombinant enzyme
+SA	Escherichia coli	11.4	*	*pH 7.3, 37&Acirc;&deg;C
+SA	Bacillus caldolyticus	19.2	*	*purified recombinant enzyme, 37&Acirc;&deg;C

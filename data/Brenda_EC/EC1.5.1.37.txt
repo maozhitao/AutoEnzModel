@@ -1,0 +1,35 @@
+KCAT	Streptomyces globisporus	3.1	NADH	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Paraburkholderia phenoliruptrix	11.9	NADH	*cosubstrate: FMN, pH 7.0, 24&Acirc;&deg;C
+KCAT	Paraburkholderia phenoliruptrix	30.1	NADH	*cosubstrate: FAD, pH 7.0, 24&Acirc;&deg;C
+KCAT	Pseudomonas protegens Pf-5	62.6	NADH	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Streptomyces globisporus	4.5	FAD	*pH 7.5, 22&Acirc;&deg;C
+KCAT	Paraburkholderia phenoliruptrix	16.6	FAD	*cosubstrate: NADH, pH 7.0, 24&Acirc;&deg;C
+KCAT	Pseudomonas protegens Pf-5	65	FAD	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	128	FAD	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Paraburkholderia phenoliruptrix	18.5	FMN	*cosubstrate: NADH, pH 7.0, 24&Acirc;&deg;C
+KCAT	Pseudomonas protegens Pf-5	72.4	FMN	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Pseudomonas putida	283	FMN	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas protegens Pf-5	68.2	riboflavin	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Pseudomonas protegens Pf-5	66.5	Lumiflavin	*pH 7.0, 30&Acirc;&deg;C
+KM	Pseudomonas putida	0.032	NADH	*pH 7.5, 25&Acirc;&deg;C
+KM	Paraburkholderia phenoliruptrix	0.0401	NADH	*cosubstrate: FAD, pH 7.0, 24&Acirc;&deg;C
+KM	Pseudomonas protegens Pf-5	0.0431	NADH	*pH 7.0, 30&Acirc;&deg;C
+KM	Streptomyces globisporus	0.053	NADH	*pH 7.5, 22&Acirc;&deg;C
+KM	Paraburkholderia phenoliruptrix	0.164	NADH	*cosubstrate: FMN, pH 7.0, 24&Acirc;&deg;C
+KM	Pseudomonas protegens Pf-5	0.0032	FAD	*pH 7.0, 30&Acirc;&deg;C
+KM	Paraburkholderia phenoliruptrix	0.0048	FAD	*cosubstrate: NADH, pH 7.0, 24&Acirc;&deg;C
+KM	Streptomyces globisporus	0.0082	FAD	*pH 7.5, 22&Acirc;&deg;C
+KM	Pseudomonas putida	0.019	FAD	*pH 7.5, 25&Acirc;&deg;C
+KM	Pseudomonas putida	0.0036	FMN	*pH 7.5, 25&Acirc;&deg;C
+KM	Paraburkholderia phenoliruptrix	0.0103	FMN	*cosubstrate: NADH, pH 7.0, 24&Acirc;&deg;C
+KM	Pseudomonas protegens Pf-5	0.0286	FMN	*pH 7.0, 30&Acirc;&deg;C
+KM	Pseudomonas protegens Pf-5	0.0383	riboflavin	*pH 7.0, 30&Acirc;&deg;C
+KM	Pseudomonas protegens Pf-5	0.0584	Lumiflavin	*pH 7.0, 30&Acirc;&deg;C
+MW	Pseudomonas protegens Pf-5	-999	*	*the apparent molecular mass of the PrnD-PrnF complex appears to be approximately 120000 Da (gel filtration), confirming a 1:1 stoichiometry for binding of the two proteins, PrnD (86000 Da) and PrnF (39000 Da)
+MW	Pseudomonas protegens Pf-5	19000	*	*2 * 19000, calculation from sequence
+MW	Pseudomonas aeruginosa	19400	*	*deduced from cDNA, without His-tag but with FAD
+MW	Paraburkholderia phenoliruptrix	22000	*	*x * 22000, His-tagged TftC, SDS-PAGE
+MW	Pseudomonas putida	37000	*	*gel filtration
+MW	Pseudomonas protegens Pf-5	39000	*	*gel filtration
+PATH	*	Metabolic pathways	*	*
+PATH	*	Riboflavin metabolism	*	*

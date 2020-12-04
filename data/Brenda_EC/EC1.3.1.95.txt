@@ -1,0 +1,37 @@
+KCAT	Anaerotignum propionicum	3.5	NADH	*using acryloyl-CoA as cosubstrate, in 50 mM Tris/HCl, pH 7.0, at 25&deg;C
+KCAT	Anaerotignum propionicum	4.5	acryloyl-CoA	*in 50 mM Tris/HCl, pH 7.0, at 25&deg;C
+KCAT	Metallosphaera sedula	13	acryloyl-CoA	*apparent value, recombinant enzyme, at pH 7.5 and 22&deg;C
+KCAT	Sulfurisphaera tokodaii	13	acryloyl-CoA	*apparent value, recombinant enzyme, at pH 7.5 and 22&deg;C
+KCAT	Anaerotignum propionicum	29	3-buten-2-one	*in 50 mM Tris/HCl, pH 7.0, at 25&deg;C
+KM	Clostridium kluyveri	0.00083	acryloyl-CoA	*in 0.1 M phosphate buffer pH 6.4, at 22&deg;C
+KM	Anaerotignum propionicum	0.002	acryloyl-CoA	*apparent value, in 50 mM Tris/HCl, pH 7.0, at 25&deg;C
+KM	Clostridium kluyveri	0.008	(E)-2-butenoyl-CoA	*in 0.1 M phosphate buffer pH 6.4, at 22&deg;C
+KM	Anaerotignum propionicum	0.008	NADH	*using acryloyl-CoA as cosubstrate, in 50 mM Tris/HCl, pH 7.0, at 25&deg;C
+KM	Metallosphaera sedula	0.01	acryloyl-CoA	*apparent value, Km less than 0.01 mM, recombinant enzyme, at pH 7.5 and 22&deg;C
+KM	Sulfurisphaera tokodaii	0.01	acryloyl-CoA	*apparent value, Km less than 0.01 mM, recombinant enzyme, at pH 7.5 and 22&deg;C
+KM	Sulfurisphaera tokodaii	0.036	acryloyl-CoA	*apparent value, recombinant enzyme, at pH 7.5 and 22&deg;C
+KM	Metallosphaera sedula	0.036	NADPH	*apparent value, recombinant enzyme, at pH 7.5 and 22&deg;C
+KM	Clostridium kluyveri	0.77	ethyl vinyl ketone	*in 0.1 M phosphate buffer pH 6.4, at 22&deg;C
+KM	Anaerotignum propionicum	1.8	3-buten-2-one	*apparent value, in 50 mM Tris/HCl, pH 7.0, at 25&deg;C
+KM	Clostridium kluyveri	5.6	acrolein	*in 0.1 M phosphate buffer pH 6.4, at 22&deg;C
+KM	Clostridium kluyveri	35	N-acetyl-S-acryloylcysteamine	*in 0.1 M phosphate buffer pH 6.4, at 22&deg;C
+MW	Clostridium kluyveri	14200	*	*2 * 14200, SDS-PAGE
+MW	Clostridium kluyveri	28400	*	*gel filtration
+MW	Sulfurisphaera tokodaii	36000	*	*calculated from amino acid sequence
+MW	Metallosphaera sedula	40000	*	*1 * 40000, SDS-PAGE
+MW	Sulfurisphaera tokodaii	40000	*	*1 * 40000, SDS-PAGE
+MW	Anaerotignum propionicum	41440	*	*2 * 41440, MALDI-TOF mass spectrometry
+MW	Sulfurisphaera tokodaii	43000	*	*gel filtration
+MW	Anaerotignum propionicum	49000	*	*2 * 49000, SDS-PAGE
+MW	Anaerotignum propionicum	600000	*	*native enzyme complex consisting of acryloyl-CoA reductase (two alpha subunits), (beta subunit), and (gamma subunit), gel filtration
+PATH	*	alanine metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Propanoate metabolism	*	*
+PATH	*	pyruvate fermentation to propanoate II (acrylate pathway)	*	*
+SA	Metallosphaera sedula	0.014	*	*cell extract, at pH 7.5 and 22&Acirc;&deg;C
+SA	Anaerotignum propionicum	0.02	*	*recombinant enzyme, in 0.1 M Tris pH 7.0, temperature not specified in the publication
+SA	Anaerotignum propionicum	0.28	*	*cell-free extract, in 50 mM Tris/HCl, pH 7.0, at 25&Acirc;&deg;C
+SA	Anaerotignum propionicum	0.79	*	*after purification, in 50 mM Tris/HCl, pH 7.0, at 25&Acirc;&deg;C
+SA	Metallosphaera sedula	2.9	*	*after 210fold purification, at pH 7.5 and 22&Acirc;&deg;C
+SA	Sulfurisphaera tokodaii	4.6	*	*cell extract, at pH 7.5 and 22&Acirc;&deg;C
+SA	Sulfurisphaera tokodaii	18.7	*	*after 4.1fold purification, at pH 7.5 and 22&Acirc;&deg;C

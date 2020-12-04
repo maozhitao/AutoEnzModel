@@ -1,0 +1,70 @@
+KCAT	Oryza sativa	-999	more	*lower turnover number with S-2-aminoethyl-L-cysteine as substrate than with L-lysine
+KM	Oryza sativa	0.032	NADPH	*
+KM	Rattus norvegicus	0.078	NADPH	*
+KM	Homo sapiens	0.08	NADPH	*
+KM	Oryza sativa	0.79	2-oxoglutarate	*
+KM	Homo sapiens	1	2-oxoglutarate	*
+KM	Rattus norvegicus	1.4	2-oxoglutarate	*
+KM	Zea mays	1.8	2-oxoglutarate	*
+KM	Glycine max	3.7	2-oxoglutarate	*
+KM	Haemonchus contortus	0.4	L-lysine	*enzyme from L3 larva, at pH 7.0, temperature not specified in the publication
+KM	Teladorsagia circumcincta	0.5	L-lysine	*enzyme from L3 larva, at pH 7.0, temperature not specified in the publication
+KM	Haemonchus contortus	0.7	L-lysine	*enzyme from adult, at pH 7.0, temperature not specified in the publication
+KM	Teladorsagia circumcincta	0.9	L-lysine	*enzyme from adult, at pH 7.0, temperature not specified in the publication
+KM	Homo sapiens	1.5	L-lysine	*
+KM	Rattus norvegicus	2.2	L-lysine	*
+KM	Oryza sativa	4.48	L-lysine	*
+KM	Zea mays	5	L-lysine	*
+KM	Zea mays	5.2	L-lysine	*
+KM	Glycine max	13.7	L-lysine	*
+KM	Oryza sativa	17	S-2-aminoethyl-L-cysteine	*
+MW	Rattus norvegicus	52000	*	*4 * 52000, enzyme clearly separated from saccharopine dehydrogenase EC 1.5.1.9, SDS-PAGE
+MW	Bos taurus	115000	*	*4 * 115000, single protein with lysine-ketoglutarate reductase EC 1.5.1.8 and saccharopine dehydrogenase EC 1.5.1.9 activities, SDS-PAGE
+MW	Papio sp.	115000	*	*4 * 115000, single protein with lysine-ketoglutarate reductase EC 1.5.1.8 and saccharopine dehydrogenase EC 1.5.1.9 activities, SDS-PAGE
+MW	Bos taurus	115000	*	*4 * 115000, single protein with lysine-ketoglutarate reductase EC 1.5.1.8 and saccharopine dehydrogenase EC 1.5.1.9 activities, SDS-PAGE
+MW	Arabidopsis thaliana	117000	*	*x * 117000, bifunctional protein with lysine-ketoglutarate reductase EC 1.5.1.8 and saccharopine dehydrogenase EC 1.5.1.9 activities, calculated from cDNA sequence
+MW	Arabidopsis thaliana	117000	*	*x * 117000, bifunctional protein with lysine-ketoglutarate reductase EC 1.5.1.8 and saccharopine dehydrogenase EC 1.5.1.9 activities, calculated from cDNA sequence
+MW	Glycine max	123000	*	*2 * 123000, bifunctional protein with lysine-ketoglutarate reductase EC 1.5.1.8 and saccharopine dehydrogenase EC 1.5.1.9 activities, additional 100 kDa band is a proteolytic cleavage product, SDS-PAGE
+MW	Zea mays	125000	*	*2 * 125000, bifunctional enzyme with lysine-oxoglutarate reductase EC 1.5.1.8 and saccharopine dehydrogenase EC 1.5.1.9 activities, digestion with elastase separates the functional domains into a 65 kDa polypeptide with LOR activity and a 57 kDa polypeptide with SDH activity, SDS-PAGE
+MW	Phaseolus vulgaris	190000	*	*bifunctional enzyme lysine 2-oxoglutarate reductase-saccharopine dehydrogenase, gel filtration
+MW	Oryza sativa	202000	*	*non-denaturing PAGE, bifunctional protein containing lysine-oxoglutarate reductase EC 1.5.1.8 and saccharopine dehydrogenase EC 1.5.1.9 activities, one band represents the holoenzyme and shows higher enzyme activities compared to a second band of 396 kDa with much lower enzyme activities indicating a multimeric structure
+MW	Oryza sativa	203000	*	*gel filtration, bifunctional protein containing lysine-oxoglutarate reductase EC 1.5.1.8 and saccharopine dehydrogenase EC 1.5.1.9 activities
+MW	Rattus norvegicus	230000	*	*gel filtration
+MW	Glycine max	256000	*	*gel filtration, bifunctional protein with lysine-ketoglutarate reductase EC 1.5.1.8 and saccharopine dehydrogenase EC 1.5.1.9 activities
+MW	Zea mays	260000	*	*bifunctional enzyme with lysine-oxoglutarate reductase EC 1.5.1.8 and saccharopine dehydrogenase EC 1.5.1.9 activities, but domains are functionally independent of each other
+MW	Bos taurus	420000	*	*sedimentation equilibrium method, single protein with lysine-ketoglutarate reductase EC 1.5.1.8 and saccharopine dehydrogenase EC 1.5.1.9 activities: aminoadipic semialdehyde synthase, but reductase and dehydrogenase domains are separately folded and functionally independent of each other
+MW	Papio sp.	467000	*	*gel filtration, single protein catalyzes both lysine-ketoglutarate reductase reaction EC 1.5.1.8 and saccharopine dehydrogenase reaction EC 1.5.1.9, bifunctional enzyme: aminoadipic semialdehyde synthase
+MW	Bos taurus	468000	*	*gel filtration, single protein catalyzes both lysine-ketoglutarate reductase reaction EC 1.5.1.8 and saccharopine dehydrogenase reaction EC 1.5.1.9, bifunctional enzyme: aminoadipic semialdehyde synthase
+MW	Homo sapiens	480000	*	*gel filtration, no separation of L-lysine-ketoglutarate reductase EC 1.5.1.8 and saccharopine dehydrogenase EC 1.5.1.9
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	L-lysine degradation XI (mammalian)	*	*
+PATH	*	Lysine degradation	*	*
+PATH	*	lysine metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Rattus norvegicus	-999	*	*HPLC lysine-ketoglutarate reductase assay
+SA	Zea mays	-999	*	*
+SA	Zea mays	-999	*	*
+SA	Homo sapiens	-999	*	*
+SA	Homo sapiens	-999	*	*
+SA	Homo sapiens	-999	*	*
+SA	Bos taurus	-999	*	*
+SA	Canis lupus familiaris	-999	*	*
+SA	Felis catus	-999	*	*
+SA	Homo sapiens	-999	*	*
+SA	Ovis aries	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Sus scrofa	-999	*	*
+SA	Oryza sativa	-999	*	*
+SA	Zea mays	-999	*	*
+SA	Zea mays	-999	*	*
+SA	Oryza sativa	-999	*	*
+SA	Hordeum vulgare	0.00039	*	*enzyme from grain at late milk stage, pH 7.4, 30&Acirc;&deg;C
+SA	Zea mays	1.273	*	*
+SA	Glycine max	3.261	*	*
+SA	Glycine max	3.261	*	*
+SA	Phaseolus vulgaris	4.98	*	*lysine 2-oxoglutarate reductase activity
+SA	Bos taurus	17	*	*
+SA	Bos taurus	17	*	*
+SA	Papio sp.	17.1	*	*
+SA	Sorghum bicolor	21.34	*	*
+SA	Rattus norvegicus	28.3	*	*

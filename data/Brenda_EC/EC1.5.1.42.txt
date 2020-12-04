@@ -1,0 +1,29 @@
+KCAT	Photobacterium leiognathi	-999	more	*LuxG releases FMNH- with a rate constant of 4.5-6/s. The anaerobic reaction of LuxG with NADH involves half-sites reactivity, with the first flavin being reduced at a rate of 68/s and the second at a rate of 2.8/s
+KCAT	Vibrio harveyi	15.5	NADPH	*pH 7.0, 23&deg;C
+KCAT	Pseudomonas putida	128	FAD	*pH 7.5, 25&deg;C
+KCAT	Pseudomonas putida	283	FMN	*pH 7.5, 25&deg;C
+KM	Vibrio harveyi	0.012	NADH	*pH 8.5, 23&Acirc;&deg;C, spectrometric assay
+KM	Pseudomonas putida	0.032	NADH	*pH 7.5, 25&Acirc;&deg;C
+KM	Vibrio harveyi	0.047	NADH	*pH 5.6, 23&Acirc;&deg;C, spectrometric assay
+KM	Vibrio harveyi	0.0475	NADH	*pH 7.0, 23&Acirc;&deg;C
+KM	Aminobacter aminovorans	0.25	NADH	*pH 7.8, 25&Acirc;&deg;C
+KM	Pseudomonas putida	0.019	FAD	*pH 7.5, 25&Acirc;&deg;C
+KM	Vibrio harveyi	0.001	FMN	*pH 5.6, 23&Acirc;&deg;C, spectrometric assay; pH 8.5, 23&Acirc;&deg;C, spectrometric assay
+KM	Vibrio harveyi	0.0011	FMN	*pH 6.8, 23&Acirc;&deg;C
+KM	Aminobacter aminovorans	0.0013	FMN	*pH 7.8, 25&Acirc;&deg;C
+KM	Pseudomonas putida	0.0036	FMN	*pH 7.5, 25&Acirc;&deg;C
+KM	Photobacterium leiognathi	-999	more	*the kinetics of binding of FMNH- to PlLuxAB and VcLuxAB and the subsequent reactions with oxygen are the same with either free FMNH- or FMNH- generated in situ by LuxG. No complexes between LuxG and the various species are necessary to transfer FMNH- to the acceptors. Single-mixing and double-mixing stopped-flow spectrophotometry. Anaerobic transient reaction kinetic analysis, overview
+MW	Vibrio harveyi	19000	*	*gel filtration
+MW	Rhodococcus erythropolis	22000	*	*x * 22000, SDS-PAGE
+MW	Vibrio harveyi	23000	*	*gel filtration
+MW	Vibrio harveyi	26483	*	*x * 26483, calculated from sequence
+MW	Vibrio harveyi	30000	*	*gel filtration
+MW	Vibrio harveyi	31000	*	*sucrose density gradient centrifugation
+MW	Pseudomonas putida	37200	*	*gel filtration
+PATH	*	bacterial bioluminescence	*	*
+PATH	*	dibenzothiophene desulfurization	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Riboflavin metabolism	*	*
+SA	Vibrio harveyi	-999	*	*purity was too low to permit estimation of specific activity
+SA	Vibrio harveyi	2.05	*	*pH 6.8, 23&deg;C
+SA	Vibrio harveyi	31	*	*pH 7.0, 23&deg;C

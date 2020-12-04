@@ -1,0 +1,14 @@
+KCAT	Mycolicibacterium smegmatis	1.09	alpha,alpha-trehalose 6-monomycolate	*pH 5.7, 37&Acirc;&deg;C
+KM	Mycolicibacterium smegmatis	0.0083	trehalose	*
+KM	Mycobacterium leprae	0.043	alpha,alpha-trehalose 6-monomycolate	*mutant L130S, short-chain trehalose monomycolate is used as a substrate, Vmax: 4.27 nmol/min/nmol
+KM	Mycolicibacterium smegmatis	0.1296	alpha,alpha-trehalose 6-monomycolate	*pH 5.7, 37&deg;C
+KM	Mycobacterium leprae	0.459	alpha,alpha-trehalose 6-monomycolate	*wild-type, short-chain trehalose monomycolate is used as a substrate, Vmax: 3.83 nmol/min/nmol
+MW	Mycolicibacterium smegmatis	25000	*	*SDS-PAGE, gel filtration
+MW	Mycobacterium tuberculosis	30000	*	*FbpA: SDS-PAGE, Western Blot, aminoacid sequence. FbpB: aminoacid sequence. FbpC2: SDS-PAGE, Western Blot, aminoacid sequence
+MW	Mycolicibacterium smegmatis	32000	*	*SDS-PAGE
+MW	Mycobacterium avium	33000	*	*SDS-PAGE, detection of a fusion protein consiting of a His-tag and the mature Ag85A protein
+PATH	*	Arabinogalactan biosynthesis - Mycobacterium	*	*
+PATH	*	mycolate biosynthesis	*	*
+SA	Mycobacterium avium	-999	*	*compared to FbpA of Mycobacterium leprae activity of FbpA is strikingly enhanced in Mycobacterium avium
+SA	Mycobacterium leprae	-999	*	*compared to FbpA of Mycobacterium tuberculosis and Mycobacterium avium activity of FbpA is reduced in Mycobacterium leprae
+SA	Mycolicibacterium smegmatis	0.00779	*	*

@@ -1,0 +1,134 @@
+KCAT	Dictyostelium discoideum	0.0047	deoxyadenosine	*
+KCAT	Homo sapiens	0.007	1-(2-deoxy-beta-D-ribofuranosyl)-7-iodoisocarbostyril	*pH 7.6, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	0.025	dioxolane guanosine	*recombinant enzyme, pH 7.6, 37&deg;C
+KCAT	Homo sapiens	0.03	2'-deoxyguanosine	*recombinant enzyme, pH 7.6, 37&deg;C
+KCAT	Homo sapiens	0.07	2'-deoxyguanosine	*pH 7.6, 37&deg;C, recombinant enzyme
+KCAT	Bacillus subtilis	1.41	2'deoxyguanosine	*pH 8.5, 37&deg;C, recombinant enzyme, with UTP as donor substrate
+KCAT	Bacillus subtilis	1.41	deoxyguanosine	*pH 8.5, 37&deg;C, cosubstrate UTP
+KCAT	Bacillus subtilis	1.41	UTP	*pH 8.5, 37&deg;C, recombinant enzyme, with 2'-deoxyguanosine as acceptor substrate
+KCAT	Bacillus subtilis	1.53	2'deoxyguanosine	*pH 8.5, 37&deg;C, recombinant enzyme, with ATP as donor substrate
+KCAT	Bacillus subtilis	1.53	ATP	*pH 8.5, 37&deg;C, recombinant enzyme, with 2'-deoxyguanosine as acceptor substrate
+KCAT	Bacillus subtilis	1.53	deoxyguanosine	*pH 8.5, 37&deg;C, cosubstrate ATP
+KCAT	Bacillus subtilis	1.69	2'deoxyguanosine	*pH 8.5, 37&deg;C, recombinant enzyme, with GTP as donor substrate
+KCAT	Bacillus subtilis	1.69	deoxyguanosine	*pH 8.5, 37&deg;C, cosubstrate GTP
+KCAT	Bacillus subtilis	1.69	GTP	*pH 8.5, 37&deg;C, recombinant enzyme, with 2'-deoxyguanosine as acceptor substrate
+KCAT	Bacillus subtilis	2.25	2'deoxyguanosine	*pH 8.5, 37&deg;C, recombinant enzyme, with CTP as donor substrate
+KCAT	Bacillus subtilis	2.25	CTP	*pH 8.5, 37&deg;C, recombinant enzyme, with 2'-deoxyguanosine as acceptor substrate
+KCAT	Bacillus subtilis	2.25	deoxyguanosine	*pH 8.5, 37&deg;C, cosubstrate CTP
+KCAT	Dictyostelium discoideum	3	deoxyguanosine	*
+KM	Homo sapiens	-999	more	*the reaction with triphosphate follows strict Michaelis-Menten kinetics, while ATP exhibits negative cooperativity
+KM	Homo sapiens	-999	more	*reaction of the mutant L250S with 2'-deoxyguanosine follows Michaelis-Menten kinetics, while the reaction with 2'-deoxyadenosine shows biphasic kinetics
+KM	Sus scrofa	0.00032	deoxyguanosine	*pH 8.0, 37&deg;C
+KM	Bacillus subtilis	0.0006	2'-deoxyguanosine	*pH 8.5, 37&deg;C, cosubstrate UTP; pH 8.5, 37&deg;C, recombinant enzyme, with UTP as donor substrate
+KM	Dictyostelium discoideum	0.0014	deoxyguanosine	*
+KM	Bacillus subtilis	0.0017	2'-deoxyguanosine	*pH 8.5, 37&deg;C, recombinant enzyme, with CTP as donor substrate
+KM	Homo sapiens	0.0017	2'-deoxyguanosine	*recombinant enzyme, pH 7.6, 37&deg;C
+KM	Homo sapiens	0.0018	2'-deoxyguanosine	*control group, pH 7.4, 37&deg;C
+KM	Homo sapiens	0.0019	2'-deoxyguanosine	*brother (N46S), pH 7.4, 37&deg;C
+KM	Homo sapiens	0.002	2'-deoxyguanosine	*pH 7.6, 37&deg;C, recombinant enzyme
+KM	Homo sapiens	0.0023	2'-deoxyguanosine	*father (L266R), pH 7.4, 37&deg;C
+KM	Homo sapiens	0.0025	deoxyguanosine	*pH 6.0, 37&deg;C
+KM	Homo sapiens	0.0026	2'-deoxyadenosine	*patient with double mutation N46S/L266, pH 7.4, 37&deg;C
+KM	Homo sapiens	0.0028	2'-deoxyguanosine	*mother (N46S), pH 7.4, 37&deg;C
+KM	Homo sapiens	0.0028	deoxyguanosine	*pH 7.6, 37&deg;C, recombinant deoxguanosine kinase, cosubstrate ATP
+KM	Homo sapiens	0.0034	2'-deoxyguanosine	*patient with double mutation N46S/L266, pH 7.4, 37&deg;C
+KM	Homo sapiens	0.0035	2'-deoxyadenosine	*father (L266R), pH 7.4, 37&deg;C
+KM	Homo sapiens	0.0037	deoxyguanosine	*pH 7.6, 37&deg;C, recombinant deoxguanosine kinase, cosubstrate UTP
+KM	Homo sapiens	0.004	2'-deoxyguanosine	*pH 7.6, recombinant wild-type enzyme
+KM	Homo sapiens	0.004	2'-deoxyguanosine	*pH 7.6, wild-type enzyme
+KM	Homo sapiens	0.004	deoxyguanosine	*pH 7.6, recombinant mitochondrial deoxyguanosine kinase
+KM	Homo sapiens	0.0041	2'-deoxyadenosine	*brother (N46S), pH 7.4, 37&deg;C
+KM	Bos taurus	0.0047	deoxyguanosine	*pH 7.4, 37&deg;C, mitochondrial deoxyguanosine kinase
+KM	Bos taurus	0.0047	deoxyguanosine	*
+KM	Homo sapiens	0.0052	2'-deoxyguanosine	*pH 7.6, recombinant mutant E227K
+KM	Homo sapiens	0.0053	2'-deoxyadenosine	*mother (N46S), pH 7.4, 37&deg;C
+KM	Bos taurus	0.006	deoxyguanosine	*pH 7.5, 37&deg;C, mitochondrial deoxyguanosine kinase
+KM	Bacillus subtilis	0.006	UTP	*pH 8.5, 37&deg;C; pH 8.5, 37&deg;C, recombinant enzyme, with 2'-deoxyguanosine as acceptor substrate
+KM	Bacillus subtilis	0.0065	2'-deoxyguanosine	*pH 8.5, 37&deg;C, cosubstrate ATP; pH 8.5, 37&deg;C, recombinant enzyme, with ATP as donor substrate
+KM	Homo sapiens	0.0068	2'-deoxyadenosine	*control group, pH 7.4, 37&deg;C
+KM	Mus musculus	0.007	deoxyguanosine	*pH 5.2, 37&deg;C
+KM	Homo sapiens	0.008	2-chlorodeoxyadenosine	*pH 7.6, 37&deg;C, recombinant deoxguanosine kinase, cosubstrate UTP
+KM	Homo sapiens	0.0085	ATP	*pH 7.6, recombinant wild-type enzyme, with 2'-deoxyguanosine
+KM	Homo sapiens	0.0085	ATP	*pH 7.6, wild-type enzyme, with 2'-deoxyguanosine
+KM	Bacillus subtilis	0.01	2'-deoxyguanosine	*pH 8.5, 37&deg;C, cosubstrate GTP
+KM	Bacillus subtilis	0.0104	2'-deoxyguanosine	*pH 8.5, 37&deg;C, recombinant enzyme, with GTP as donor substrate
+KM	Homo sapiens	0.012	deoxyinosine	*pH 7.6, recombinant mitochondrial deoxyguanosine kinase
+KM	Homo sapiens	0.014	ATP	*pH 7.6, recombinant mutant E227K, with 2'-deoxyguanosine
+KM	Bacillus subtilis	0.017	2'-deoxyguanosine	*pH 8.5, 37&deg;C, cosubstrate CTP
+KM	Homo sapiens	0.019	1-(2-deoxy-beta-D-ribofuranosyl)-7-iodoisocarbostyril	*pH 7.6, 37&deg;C, recombinant enzyme
+KM	Homo sapiens	0.02	ATP	*pH 7.5, 37&deg;C
+KM	Bos taurus	0.021	deoxyinosine	*pH 7.4, 37&deg;C, mitochondrial deoxyguanosine kinase
+KM	Homo sapiens	0.023	2'-deoxyguanosine	*pH 7.6, mutant L250S
+KM	Mus musculus	0.023	MgATP2-	*pH 5.2, 37&deg;C, at concentrations below 0.5 mM
+KM	Homo sapiens	0.033	arabinosyl guanine	*pH 7.6, recombinant mitochondrial deoxyguanosine kinase
+KM	Homo sapiens	0.034	ATP	*pH 7.6, mutant L250S, with 2'-deoxyguanosine
+KM	Bacillus subtilis	0.035	CTP	*pH 8.5, 37&deg;C; pH 8.5, 37&deg;C, recombinant enzyme, with 2'-deoxyguanosine as acceptor substrate
+KM	Bacillus subtilis	0.036	ATP	*pH 8.5, 37&deg;C; pH 8.5, 37&deg;C, recombinant enzyme, with 2'-deoxyguanosine as acceptor substrate
+KM	Bacillus subtilis	0.046	GTP	*pH 8.5, 37&deg;C; pH 8.5, 37&deg;C, recombinant enzyme, with 2'-deoxyguanosine as acceptor substrate
+KM	Homo sapiens	0.056	2-chloro-2'-arabino-fluoro-2'-deoxyadenosine	*pH 7.6, recombinant mitochondrial deoxyguanosine kinase
+KM	Homo sapiens	0.062	2-chlorodeoxyadenosine	*pH 7.6, 37&deg;C, recombinant deoxguanosine kinase, cosubstrate ATP
+KM	Lactobacillus acidophilus	0.065	deoxyguanosine	*pH 8.0, 20&deg;C
+KM	Homo sapiens	0.078	2-chloro-2'-deoxyadenosine	*pH 7.6, recombinant mitochondrial deoxyguanosine kinase
+KM	Bos taurus	0.08	dTTP	*pH 7.4, 37&deg;C, mitochondrial deoxyguanosine kinase
+KM	Lactobacillus johnsonii	0.087	deoxyguanosine	*pH 8.0, 20&deg;C
+KM	Homo sapiens	0.092	Triphosphate	*pH 7.5, 37&deg;C
+KM	Homo sapiens	0.0974	ATP	*pH 7.6, recombinant mutant R142K, with 2'-deoxyguanosine
+KM	Homo sapiens	0.123	2'-deoxyguanosine	*pH 7.6, recombinant mutant R142K
+KM	Bos taurus	0.125	UTP	*pH 7.4, 37&deg;C, mitochondrial deoxyguanosine kinase
+KM	Homo sapiens	0.13	MgATP2-	*pH 6.0, 37&deg;C
+KM	Dictyostelium discoideum	0.206	deoxyadenosine	*
+KM	Homo sapiens	0.242	ATP	*pH 7.6, recombinant mutant E227K, with 2'-deoxyadenosine
+KM	Homo sapiens	0.269	ATP	*pH 7.6, recombinant wild-type enzyme, with 2'-deoxyadenosine
+KM	Homo sapiens	0.269	ATP	*pH 7.6, wild-type enzyme, with 2'-deoxyadenosine
+KM	Homo sapiens	0.302	ATP	*pH 7.6, mutant L250S, with 2'-deoxyadenosine
+KM	Homo sapiens	0.34	deoxycytidine	*pH 7.6, recombinant mitochondrial deoxyguanosine kinase
+KM	Lactobacillus johnsonii	0.34	deoxyguanosine	*pH 8.0, 20&deg;C, D84N mutant enzyme
+KM	Lactobacillus johnsonii	0.36	deoxyguanosine	*pH 8.0, 20&deg;C, D84A mutant enzyme
+KM	Homo sapiens	0.414	2'-deoxyadenosine	*pH 7.6, recombinant mutant E227K
+KM	Homo sapiens	0.46	2-fluoro-arabinosyl-adenine	*pH 7.6, recombinant mitochondrial deoxyguanosine kinase
+KM	Homo sapiens	0.467	2'-deoxyadenosine	*pH 7.6, recombinant wild-type enzyme
+KM	Homo sapiens	0.467	2'-deoxyadenosine	*pH 7.6, wild-type enzyme
+KM	Homo sapiens	0.47	deoxyadenosine	*pH 7.6, recombinant mitochondrial deoxyguanosine kinase
+KM	Homo sapiens	0.5	2'-deoxyadenosine	*pH 7.6, mutant L250S
+KM	Lactobacillus johnsonii	0.55	deoxyguanosine	*pH 8.0, 20&deg;C, D84E mutant enzyme
+KM	Homo sapiens	0.63	deoxyadenosine	*pH 6.0, 37&deg;C
+KM	Mus musculus	0.63	MgATP2-	*pH 5.2, 37&deg;C, at concentrations above 0.5 mM
+KM	Lactobacillus acidophilus	0.76	deoxyguanosine	*pH 8.0, 20&deg;C, R79K mutant enzyme
+KM	Bos taurus	0.78	ATP	*pH 7.4, 37&deg;C, mitochondrial deoxyguanosine kinase
+KM	Bos taurus	0.78	ATP	*
+KM	Homo sapiens	2.2	MgdTTP2-	*pH 6.0, 37&deg;C
+KM	Sus scrofa	3.3	MgATP2-	*pH 8.0, 37&deg;C
+KM	Homo sapiens	7	dioxolane guanosine	*recombinant enzyme, pH 7.6, 37&deg;C
+MW	Bacillus subtilis	24147	*	*2 * 24147, electrospray mass spectrometry; 2 * 24147, recombinant enzyme, electrospray mass spectrometry
+MW	Lactobacillus acidophilus	27200	*	*2 * 27200, heterodimeric dAK/dGK complex, SDS-PAGE
+MW	Bos taurus	28000	*	*2 * 28000, mitochondrial deoxyguanosine kinase, SDS-PAGE
+MW	Homo sapiens	29000	*	*2 * 29000, second mayor band at 35000 Da, SDS-PAGE
+MW	Homo sapiens	30000	*	*2 * 30000
+MW	Dictyostelium discoideum	30000	*	*SDS-PAGE
+MW	Mus musculus	44000	*	*glycerol density gradient centrifugation
+MW	Bacillus subtilis	49000	*	*recombinant deoxyguanosine kinase, gel filtration; recombinant enzyme, gel filtration
+MW	Bos taurus	56000	*	*mitochondrial deoxyguanosine kinase, equilibrium sedimentation centrifugation
+MW	Homo sapiens	58000	*	*gel filtration
+MW	Sus scrofa	58500	*	*gel filtration
+PATH	*	Metabolic pathways	*	*
+PATH	*	purine deoxyribonucleosides salvage	*	*
+PATH	*	Purine metabolism	*	*
+PATH	*	purine metabolism	*	*
+SA	Homo sapiens	-999	*	*catalytic efficiencies of wild-type and muztant enzymes
+SA	Homo sapiens	-999	*	*catalytic efficiencies, wild-type and mutant enzymes
+SA	Homo sapiens	-999	*	*catalytic efficiencies of the purified recombinant enzyme
+SA	Homo sapiens	0.0000032	*	*CEM lymphocytes
+SA	Sus scrofa	0.0000338	*	*
+SA	Homo sapiens	0.0000635	*	*differentiated adipocytes
+SA	Mus musculus	0.0007	*	*
+SA	Homo sapiens	0.007	*	*purified recombinant enzyme, substrates deoxyguanosine and ATP
+SA	Homo sapiens	0.0103	*	*
+SA	Homo sapiens	0.023	*	*substrate 2'-deoxyguanosine and ATP
+SA	Homo sapiens	0.028	*	*using 9-beta-D-arabinofuranosylguanine as substrate, in the presence of 1 mM deoxycytidine, in 50 mM Tris-HCl (pH 7.6) containing 5 mM ATP, 4 mM dithiothreitol, 10 mM sodium fluoride and 5 mM MgCl2
+SA	Homo sapiens	0.04	*	*recombinant mitochondrial deoxyguanosine kinase
+SA	Homo sapiens	0.058	*	*using deoxyguanosine as substrate, in the presence of 1 mM deoxycytidine, in 50 mM Tris-HCl (pH 7.6) containing 5 mM ATP, 4 mM dithiothreitol, 10 mM sodium fluoride and 5 mM MgCl2
+SA	Homo sapiens	0.073	*	*using 2-chlorodeoxyadenosine as substrate, in the presence of 1 mM deoxycytidine, in 50 mM Tris-HCl (pH 7.6) containing 5 mM ATP, 4 mM dithiothreitol, 10 mM sodium fluoride and 5 mM MgCl2
+SA	Bacillus subtilis	0.54	*	*enzyme in crude recombinant Escherichia coli cell extract, substrate 2'-deoxyguanosine
+SA	Bacillus subtilis	0.8	*	*crude enzyme, at pH and &Acirc;&deg;C
+SA	Bacillus subtilis	2.3	*	*dAdo/dCyd kinase in crude recombinant Escherichia coli cell extract, substrate 2'-deoxyadenosine or 2'-deoxycytidine
+SA	Bacillus subtilis	8.1	*	*purified recombinant enzyme, substrate 2'-deoxyguanosine; recombinant deoxyguanosine kinase

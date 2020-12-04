@@ -1,0 +1,30 @@
+KCAT	Flavobacterium frigidimaris	41	NAD+	*10&Acirc;&deg;C
+KCAT	Flavobacterium frigidimaris	48.6	NAD+	*20&Acirc;&deg;C
+KCAT	Flavobacterium frigidimaris	83.4	NAD+	*30&Acirc;&deg;C
+KCAT	Flavobacterium frigidimaris	139	NAD+	*40&Acirc;&deg;C
+KCAT	Flavobacterium frigidimaris	41.3	L-malate	*10&Acirc;&deg;C
+KCAT	Flavobacterium frigidimaris	48.4	L-malate	*20&Acirc;&deg;C
+KCAT	Flavobacterium frigidimaris	83.2	L-malate	*30&Acirc;&deg;C
+KCAT	Flavobacterium frigidimaris	138	L-malate	*40&Acirc;&deg;C
+KM	Flavobacterium frigidimaris	0.028	NAD+	*10&deg;C
+KM	Flavobacterium frigidimaris	0.029	NAD+	*20&deg;C
+KM	Flavobacterium frigidimaris	0.03	NAD+	*30&deg;C
+KM	Flavobacterium frigidimaris	0.038	NAD+	*40&deg;C
+KM	Methanothermobacter thermautotrophicus	0.09	NADH	*pH 7.6
+KM	Methanothermobacter thermautotrophicus	0.09	NADPH	*pH 7.6
+KM	Methanothermobacter thermautotrophicus	0.09	oxaloacetate	*pH 7.6
+KM	Flavobacterium frigidimaris	0.269	L-malate	*20&deg;C
+KM	Flavobacterium frigidimaris	0.288	L-malate	*30&deg;C
+KM	Methanothermobacter thermautotrophicus	0.5	NAD+	*pH 7.6
+KM	Flavobacterium frigidimaris	0.543	L-malate	*10&deg;C
+KM	Flavobacterium frigidimaris	0.74	L-malate	*40&deg;C
+KM	Methanothermobacter thermautotrophicus	1	malate	*pH 7.6
+MW	Flavobacterium frigidimaris	32000	*	*4 * 32000, SDS-PAGE
+MW	Methanothermobacter thermautotrophicus	36000	*	*x * 36000, SDS-PAGE, x * 36700, calculated
+MW	Methanothermobacter thermautotrophicus	36700	*	*x * 36000, SDS-PAGE, x * 36700, calculated
+MW	Flavobacterium frigidimaris	123000	*	*gel filtration
+PATH	*	citric acid cycle	*	*
+SA	Methanothermobacter thermautotrophicus	1	*	*pH 7.6, oxidation of malate, cosubstrate NAD+; pH 7.6, oxidation of malate, cosubstrate NADP+
+SA	Methanothermobacter thermautotrophicus	52	*	*pH 7.6, reduction of oxaloacetate, cosubstrate NADP+
+SA	Methanothermobacter thermautotrophicus	60	*	*pH 7.6, reduction of oxaloacetate, cosubstrate NAD+
+SA	Flavobacterium frigidimaris	176	*	*30&deg;C

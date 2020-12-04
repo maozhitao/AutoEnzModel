@@ -1,0 +1,44 @@
+KCAT	Arabidopsis thaliana	0.12	NH3	*NH3-dependent p-aminobenzoate production in the absence of glutamine (assay contains 4-amino-4-desoxychorismate lyase), pH 8.0, 37&Acirc;&deg;C
+KCAT	Agaricus bisporus	0.013	L-glutamine	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.22	L-glutamine	*p-aminobenzoate or pyruvate production in the presence of glutamine (assay contains 4-amino-4-desoxychorismate lyase), pH 8.0, 37&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.23	L-glutamine	*glutamate production in the absence of chorismate, pH 8.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.6	L-glutamine	*mutant K213A/Q147K amidotransferase activity, pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.67	L-glutamine	*wild type amidotransferase activity, pH 8.0, 25&Acirc;&deg;C
+KCAT	Arabidopsis thaliana	0.79	L-glutamine	*glutamate production in the presence of chorismate, pH 8.0, 37&Acirc;&deg;C
+KCAT	Escherichia coli	0.000098	chorismate	*mutant K274R, cosubstrate NH4+, pH 8.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.00083	chorismate	*mutant K274R, cosubstrate L-glutamine, pH 8.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.002	chorismate	*mutant K274A, cosubstrate L-glutamine, pH 8.5, 25&Acirc;&deg;C
+KCAT	Stenotrophomonas maltophilia	0.007	chorismate	*PabB, addition of Escherichia coli PabA enhances the reaction rate 20fold in the absence of glutamine, pH 8.0, 25&Acirc;&deg;C
+KCAT	Agaricus bisporus	0.017	chorismate	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.026	chorismate	*mutant K274A, cosubstrate NH4+, pH 8.5, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.032	chorismate	*wild-type, cosubstrate NH4+, pH 8.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	0.16	chorismate	*cosubstrate NH3, pH 7.0, 25&Acirc;&deg;C
+KCAT	Escherichia coli	0.53	chorismate	*wild-type, cosubstrate L-glutamine, pH 8.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	2.2	chorismate	*cosubstrate L-glutamine, pH 7.0, 25&Acirc;&deg;C
+KCAT	Stenotrophomonas maltophilia	0.02	2-amino-2-deoxychorismate	*PabB, second half of the reaction, pH 8.0, 25&Acirc;&deg;C
+KM	Arabidopsis thaliana	0.0016	chorismate	*apparent K0.5 of chorismate for the activation of glutamine amidotransferase (calculated from chorismate-dependent activation), pH 8.0, 37&deg;C
+KM	Arabidopsis thaliana	0.0022	chorismate	*p-aminobenzoate or pyruvate production in the presence of glutamine (assay contains 4-amino-4-desoxychorismate lyase), pH 8.0, 37&deg;C
+KM	Arabidopsis thaliana	0.009	chorismate	*NH3-dependent p-aminobenzoate production in the absence of glutamine (assay contains 4-amino-4-desoxychorismate lyase), pH 8.0, 37&deg;C
+KM	Escherichia coli	0.013	chorismate	*wild-type, cosubstrate L-glutamine, pH 8.5, 25&deg;C
+KM	Pseudomonas aeruginosa	0.02	chorismate	*cosubstrate L-glutamine, pH 7.0, 25&deg;C
+KM	Arabidopsis thaliana	0.045	L-glutamine	*glutamate production in the presence of chorismate, pH 8.0, 37&deg;C
+KM	Arabidopsis thaliana	0.05	L-glutamine	*glutamate production in the absence of chorismate, pH 8.0, 37&deg;C
+KM	Escherichia coli	0.058	chorismate	*wild-type, cosubstrate NH4+, pH 8.5, 25&deg;C
+KM	Arabidopsis thaliana	0.064	L-glutamine	*p-aminobenzoate or pyruvate production in the presence of glutamine (assay contains 4-amino-4-desoxychorismate lyase), pH 8.0, 37&deg;C
+KM	Escherichia coli	0.097	chorismate	*mutant K274A, cosubstrate NH4+, pH 8.5, 25&deg;C
+KM	Agaricus bisporus	0.117	chorismate	*pH 8.0, 25&deg;C
+KM	Pseudomonas aeruginosa	0.216	chorismate	*cosubstrate L-glutamine, pH 7.0, 25&deg;C
+KM	Stenotrophomonas maltophilia	0.24	chorismate	*PabB, pH 8.0, 25&deg;C
+KM	Agaricus bisporus	2.4	L-glutamine	*pH 8.0, 25&deg;C
+KM	Pseudomonas aeruginosa	11	L-glutamine	*pH 7.0, 25&deg;C
+KM	Escherichia coli	145	NH4+	*wild-type, pH 8.5, 25&deg;C
+KM	Escherichia coli	169	NH4+	*mutant K274A, pH 8.5, 25&deg;C
+KM	Arabidopsis thaliana	195	NH3	*NH3-dependent p-aminobenzoate production in the absence of glutamine (assay contains 4-amino-4-desoxychorismate lyase), pH 8.0, 37&deg;C
+MW	Escherichia coli	20000	*	*gel filtration
+MW	Stenotrophomonas maltophilia	49500	*	*PabB
+MW	Pseudomonas aeruginosa	71251	*	*
+MW	Agaricus bisporus	80600	*	*
+PATH	*	4-aminobenzoate biosynthesis	*	*
+PATH	*	chloramphenicol biosynthesis	*	*
+PATH	*	Folate biosynthesis	*	*
+PATH	*	tetrahydrofolate metabolism	*	*

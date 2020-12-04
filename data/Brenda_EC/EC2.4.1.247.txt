@@ -1,0 +1,42 @@
+KCAT	Lachnoclostridium phytofermentans	2	2-deoxy-D-glucose	*
+KCAT	Opitutus terrae	3.7	2-deoxy-D-glucose	*recombinant enzyme, pH 7.0, 37&deg;C, reverse reaction
+KCAT	Opitutus terrae	14	L-Lyxose	*recombinant enzyme, pH 7.0, 37&deg;C, reverse reaction
+KCAT	Opitutus terrae	19	D-xylose	*recombinant enzyme, pH 7.0, 37&deg;C, reverse reaction
+KCAT	Lachnoclostridium phytofermentans	24	D-galactose	*
+KCAT	Opitutus terrae	33	D-glucose	*recombinant enzyme, pH 7.0, 37&deg;C, reverse reaction
+KCAT	Opitutus terrae	37	D-galactose	*recombinant enzyme, pH 7.0, 37&deg;C, reverse reaction
+KCAT	Lachnoclostridium phytofermentans	45	D-galactosyl-beta-1,4-L-rhamnose	*
+KCAT	Opitutus terrae	50	L-rhamnose	*recombinant enzyme, pH 7.0, 37&deg;C, reverse reaction
+KCAT	Opitutus terrae	60	beta-D-galactosyl-(1-&gt;4)-L-rhamnose	*recombinant enzyme, pH 7.0, 37&deg;C, forward reaction
+KCAT	Lachnoclostridium phytofermentans	74	L-rhamnose	*
+KCAT	Opitutus terrae	75	L-Mannose	*recombinant enzyme, pH 7.0, 37&deg;C, reverse reaction
+KCAT	Lachnoclostridium phytofermentans	85	D-glucose	*
+KCAT	Lachnoclostridium phytofermentans	120	L-Lyxose	*
+KCAT	Lachnoclostridium phytofermentans	170	L-Mannose	*
+KM	Opitutus terrae	2.1	beta-D-galactosyl-(1-&gt;4)-L-rhamnose	*pH 7.0, 37&deg;C
+KM	Opitutus terrae	2.3	L-rhamnose	*recombinant enzyme, pH 7.0, 37&deg;C, reverse reaction
+KM	Lachnoclostridium phytofermentans	2.4	L-rhamnose	*
+KM	Lachnoclostridium phytofermentans	7.9	D-galactosyl-beta-1,4-L-rhamnose	*
+KM	Opitutus terrae	51	2-deoxy-D-glucose	*recombinant enzyme, pH 7.0, 37&deg;C, reverse reaction
+KM	Opitutus terrae	55	L-Mannose	*recombinant enzyme, pH 7.0, 37&deg;C, reverse reaction
+KM	Opitutus terrae	58	L-Lyxose	*recombinant enzyme, pH 7.0, 37&deg;C, reverse reaction
+KM	Lachnoclostridium phytofermentans	78	L-Mannose	*
+KM	Lachnoclostridium phytofermentans	220	L-Lyxose	*
+KM	Lachnoclostridium phytofermentans	290	2-deoxy-D-glucose	*
+KM	Opitutus terrae	330	D-glucose	*recombinant enzyme, pH 7.0, 37&deg;C, reverse reaction
+KM	Opitutus terrae	370	D-xylose	*recombinant enzyme, pH 7.0, 37&deg;C, reverse reaction
+KM	Lachnoclostridium phytofermentans	460	D-glucose	*
+KM	Lachnoclostridium phytofermentans	610	D-galactose	*
+KM	Opitutus terrae	1500	D-galactose	*recombinant enzyme, pH 7.0, 37&deg;C, reverse reaction
+MW	Lachnoclostridium phytofermentans	80000	*	*SDS-PAGE
+MW	Opitutus terrae	80000	*	*x * 80000, recombinant C-terminally His6-tagged Oter 1377 protein, SDS-PAGE, x * 84847, recombinant C-terminally His6-tagged Oter 1377 protein, sequence calculation
+MW	Lachnoclostridium phytofermentans	84230	*	*calculated
+MW	Opitutus terrae	84847	*	*x * 80000, recombinant C-terminally His6-tagged Oter 1377 protein, SDS-PAGE, x * 84847, recombinant C-terminally His6-tagged Oter 1377 protein, sequence calculation
+SA	Opitutus terrae	0.17	*	*recombinant enzyme, substrate D-galactose, reverse reaction, pH 7.0, 37&deg;C
+SA	Opitutus terrae	0.37	*	*recombinant enzyme, substrate D-xylose, reverse reaction, pH 7.0, 37&deg;C
+SA	Opitutus terrae	0.41	*	*recombinant enzyme, substrate 2-deoxy-D-glucose, reverse reaction, pH 7.0, 37&deg;C
+SA	Opitutus terrae	0.62	*	*recombinant enzyme, substrate D-glucose, reverse reaction, pH 7.0, 37&deg;C
+SA	Opitutus terrae	1.4	*	*recombinant enzyme, substrate L-lyxose, reverse reaction, pH 7.0, 37&deg;C
+SA	Opitutus terrae	8.4	*	*recombinant enzyme, substrate L-mannose, reverse reaction, pH 7.0, 37&deg;C
+SA	Opitutus terrae	27	*	*purified recombinant enzyme, substrate beta-D-galactosyl-(1-&gt;4)-L-rhamnose, forward reaction, pH 7.0, 37&deg;C
+SA	Opitutus terrae	29	*	*recombinant enzyme, substrate L-rhamnose, reverse reaction, pH 7.0, 37&deg;C

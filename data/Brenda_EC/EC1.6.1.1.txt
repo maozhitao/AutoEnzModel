@@ -1,0 +1,61 @@
+KCAT	Escherichia coli	167.9	NADPH	*at pH 7.5 and 35&Acirc;&deg;C; pH 7.5, 35&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	233	NADPH	*
+KCAT	Escherichia coli	259.5	thio-NAD+	*at pH 7.5 and 35&Acirc;&deg;C; pH 7.5, 35&Acirc;&deg;C
+KM	Pseudomonas aeruginosa	-999	more	*kinetic studies
+KM	Azotobacter vinelandii	-999	more	*dependency on Mg2+ concentration
+KM	Pseudomonas aeruginosa	-999	more	*kinetic studies
+KM	Azotobacter vinelandii	0.0003	FAD	*at 25&deg;C
+KM	Azotobacter vinelandii	0.0025	FAD	*at 0&deg;C
+KM	Azotobacter vinelandii	0.015	NADPH	*cosubstrate NAD+
+KM	Azotobacter vinelandii	0.025	NADH	*cosubstrate NADP+
+KM	Azotobacter vinelandii	0.03	thio-NADP+	*cosubstrate NADH
+KM	Azotobacter vinelandii	0.04	thio-NAD+	*NADPH + thio-NAD+
+KM	Azotobacter vinelandii	0.04	thio-NAD+	*cosubstrate NADH
+KM	Azotobacter vinelandii	0.05	thio-NAD+	*cosubstrate NADH
+KM	Azotobacter vinelandii	0.06	NADH	*+ thio-NAD+
+KM	Escherichia coli	0.06829	NADPH	*at pH 7.5 and 35&deg;C
+KM	Escherichia coli	0.0683	NADPH	*pH 7.5, 35&deg;C
+KM	Azotobacter vinelandii	0.075	thio-NAD+	*cosubstrate NADPH
+KM	Azotobacter vinelandii	0.077	NADH	*+ thio-NAD+
+KM	Azotobacter vinelandii	0.085	NADH	*+ thio-NADP+
+KM	Azotobacter vinelandii	0.11	NAD+	*cosubstrate NADPH
+KM	Escherichia coli	0.1332	thio-NAD+	*at pH 7.5 and 35&deg;C; pH 7.5, 35&deg;C
+KM	Azotobacter vinelandii	0.25	thio-NAD+	*cosubstrate NADPH
+KM	Azotobacter vinelandii	0.38	NAD+	*cosubstrate NADPH
+KM	Azotobacter vinelandii	0.4	deamino-NAD+	*cosubstrate NADPH
+MW	Escherichia coli	51500	*	*x * 51500, calculated from amino acid sequence
+MW	Azotobacter vinelandii	52000	*	*x * 52000, SDS-PAGE, immunoblot
+MW	Pseudomonas aeruginosa	52000	*	*x * 52000, SDS-PAGE, immunoblot
+MW	Pseudomonas fluorescens	52000	*	*x * 52000, SDS-PAGE, immunoblot
+MW	Azotobacter vinelandii	52000	*	*x * 52000, model of quarternary structure, SDS-PAGE, immunoblot
+MW	Azotobacter vinelandii	52000	*	*x * 52000, SDS-PAGE, immunoblot
+MW	Azotobacter vinelandii	52000	*	*x * 52000, SDS-PAGE, immunoblot
+MW	Escherichia coli	52000	*	*x * 52000, SDS-PAGE
+MW	Escherichia coli	53000	*	*SDS-PAGE
+MW	Azotobacter vinelandii	54000	*	*8 * 54000, four subunits are placed in a rhomb, a second tetramer is located staggered on top of the first one, deduced from amino acid analysis and electron micrography of purified enzyme
+MW	Azotobacter vinelandii	54000	*	*8 * 54000, SDS-PAGE
+MW	Pseudomonas aeruginosa	54000	*	*x * 54000, SDS-PAGE
+MW	Pseudomonas fluorescens	54000	*	*x * 54000, SDS-PAGE
+MW	Azotobacter vinelandii	58000	*	*x * 58000, SDS-PAGE
+MW	Azotobacter vinelandii	421000	*	*purified enzyme: exceptional stability of polymers at neutral pH
+MW	Azotobacter vinelandii	421000	*	*octameric form at pH 8.5-9.0, sedimentation equilibrium
+MW	Pseudomonas aeruginosa	1600000	*	*sedimentation equilibrium in presence of 2'-AMP
+MW	Pseudomonas aeruginosa	6400000	*	*sedimentation equilibrium in presence of NADP+
+MW	Azotobacter vinelandii	27000000	*	*rod-like polymers, electron micrography
+MW	Azotobacter vinelandii	30000000	*	*rod-like structure, light scattering
+PATH	*	Metabolic pathways	*	*
+PATH	*	NAD metabolism	*	*
+PATH	*	NAD/NADH phosphorylation and dephosphorylation	*	*
+PATH	*	Nicotinate and nicotinamide metabolism	*	*
+SA	Pisum sativum	0.0094	*	*activity in inside-out mitochondrial particles from leaf
+SA	Solanum tuberosum	0.0131	*	*activity in inside-out mitochondrial particles from tuber
+SA	Pseudomonas fluorescens	11.5	*	*
+SA	Chromatium sp.	24	*	*
+SA	Pseudomonas aeruginosa	217	*	*
+SA	Azotobacter vinelandii	220	*	*
+SA	Azotobacter vinelandii	220	*	*
+SA	Pseudomonas aeruginosa	220	*	*
+SA	Azotobacter vinelandii	251	*	*
+SA	Azotobacter vinelandii	270	*	*
+SA	Azotobacter vinelandii	362	*	*
+SA	Azotobacter vinelandii	575	*	*

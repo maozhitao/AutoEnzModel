@@ -1,0 +1,11 @@
+KM	Ascaris suum	0.018	2-methylbutanoyl-CoA	*
+KM	Ascaris suum	0.021	2-methylpentanoyl-CoA	*
+MW	Ascaris suum	42500	*	*4 * 42500, SDS-PAGE
+MW	Ascaris suum	43046	*	*4 * 43046, calculation from nucleotide sequence
+MW	Ascaris suum	43698	*	*4 * 43698, calculation from nucleotide sequence
+MW	Ascaris suum	170000	*	*gel filtration
+PATH	*	fermentation to 2-methylbutanoate	*	*
+PATH	*	L-isoleucine degradation I	*	*
+PATH	*	L-valine degradation I	*	*
+SA	Ascaris suum	1.58	*	*2-methylpentanoyl-CoA
+SA	Ascaris suum	1.62	*	*2-methylbutanoyl-CoA

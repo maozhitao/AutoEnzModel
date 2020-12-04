@@ -1,0 +1,94 @@
+KCAT	Bos taurus	0.0378	corticosterone	*+/-0.2268, calculatetd from Kcat/Km
+KCAT	Bos taurus	0.133	11-deoxycorticosterone	*dipalmitoyl phosphatidylcholine vesicles + diphosphatidyl glycerol
+KCAT	Bos taurus	0.3	11-deoxycorticosterone	*18-hydroxylation
+KCAT	Bos taurus	0.583	11-deoxycorticosterone	*dipalmitoyl phosphatidylcholine vesicles
+KCAT	Bos taurus	0.66	11-deoxycorticosterone	*+/-2.112, calculatetd from Kcat/Km
+KCAT	Homo sapiens	0.85	11-deoxycorticosterone	*pH 7.4, recombinant enzyme
+KCAT	Bos taurus	1.83	11-deoxycorticosterone	*11beta-hydroxylation
+KCAT	Homo sapiens	0.167	11-deoxycortisol	*pH 7.4, recombinant enzyme
+KCAT	Curvularia lunata	3.45	11-deoxycortisol	*11beta-hydroxylation
+KCAT	Homo sapiens	1	adrenal ferredoxin	*pH 7.4, recombinant enzyme, with 11-deoxycorticosterone as substrate
+KCAT	Homo sapiens	1.48	adrenal ferredoxin	*pH 7.4, recombinant enzyme, with 11-deoxycortisol as substrate
+KM	Bos taurus	0.0059	corticosterone	*+/-0.00018
+KM	Bos taurus	0.0084	corticosterone	*without phospholipids
+KM	Bos taurus	0.009	corticosterone	*+/-0.0009
+KM	Bos taurus	0.06	corticosterone	*presence of methyltrienolone
+KM	Bos taurus	0.087	corticosterone	*with phospholipids
+KM	Bos taurus	0.013	4-androstene-3,17-dione	*identical for both enzyme activities
+KM	Bos taurus	0.0008	11-deoxycorticosterone	*presence of methyltrienolone
+KM	Bos taurus	0.00087	11-deoxycorticosterone	*without phospholipids
+KM	Bos taurus	0.0011	11-deoxycorticosterone	*with phospholipids
+KM	Bos taurus	0.0015	11-deoxycorticosterone	*+/-0.00008
+KM	Bos taurus	0.00197	11-deoxycorticosterone	*+/-0.00026
+KM	Bos taurus	0.002	11-deoxycorticosterone	*absence of methyltrienolone
+KM	Bos taurus	0.005	11-deoxycorticosterone	*dipalmitoyl-phosphatidylcholine vesicles
+KM	Rattus norvegicus	0.0073	11-deoxycorticosterone	*37&Acirc;&deg;C
+KM	Bos taurus	0.01	11-deoxycorticosterone	*dipalmitoyl/diphytanoyl-phosphatidylcholine vesicles
+KM	Bos taurus	0.033	11-deoxycorticosterone	*dipalmitoyl phosphatidylcholine/diphosphatidyl glycerol vesicles
+KM	Homo sapiens	0.18	11-deoxycorticosterone	*pH 7.4, recombinant enzyme
+KM	Bos taurus	0.006	deoxycorticosterone	*identical for both enzyme activities
+KM	Bos taurus	0.02	deoxycorticosterone	*identical for both enzymes activities
+KM	Curvularia lunata	0.077	11-deoxycortisol	*11beta-hydroxylation
+KM	Homo sapiens	0.338	11-deoxycortisol	*pH 7.4, recombinant enzyme
+KM	Bos taurus	-999	more	*kinetic parameters only slightly modified by presence of phospholipids, 0.2% soybean lecithin
+KM	Curvularia lunata	-999	more	*lipids such as DLPC required
+KM	Homo sapiens	-999	more	*kinetics
+KM	Homo sapiens	-999	more	*steady-state kinetics, overview
+KM	Homo sapiens	0.002	adrenal ferredoxin	*pH 7.4, recombinant enzyme, with 11-deoxycorticosterone as substrate
+KM	Homo sapiens	0.0024	adrenal ferredoxin	*pH 7.4, recombinant enzyme, with 11-deoxycortisol as substrate
+MW	Sus scrofa	46000	*	*x * 46000, two-dimensional gel
+MW	Bos taurus	46000	*	*x * 46000
+MW	Bos taurus	47500	*	*4 * 47500, SDS-PAGE; x * 47500, SDS-PAGE
+MW	Bos taurus	47500	*	*x * 47500
+MW	Bos taurus	48000	*	*x * 48000, SDS-PAGE
+MW	Bos taurus	48500	*	*x * 48500 major form, x * 49500 isoform, SDS-PAGE
+MW	Rattus norvegicus	49000	*	*x * 49000 and x * 51000, SDS-PAGE
+MW	Rattus norvegicus	49500	*	*x * 49500 of capsular portion and x * 51500 of capsular and decapsular portion, 11beta-hydroxylase activities, SDS-PAGE
+MW	Bos taurus	49500	*	*x * 48500 major form, x * 49500 isoform, SDS-PAGE
+MW	Homo sapiens	50000	*	*x * 50000, recombinant His-tagged enzyme without the mitochondrial targeting sequence, SDS-PAGE, x * 55890, sequence calculation of enzyme without the mitochondrial targeting sequence but with His6-tag
+MW	Rattus norvegicus	51000	*	*x * 49000 and x * 51000, SDS-PAGE
+MW	Lithobates catesbeianus	51000	*	*x * 51000, SDS-PAGE, enzyme expressed from mitochondria of interregnal tissue
+MW	Rattus norvegicus	51500	*	*x * 49500 of capsular portion and x * 51500 of capsular and decapsular portion, 11beta-hydroxylase activities, SDS-PAGE
+MW	Rattus norvegicus	51500	*	*x * 51500, SDS-PAGE
+MW	Homo sapiens	55555	*	*x * 55555, calculated from full-length cDNA of 1.5 kb
+MW	Homo sapiens	55761	*	*x * 55761, recombinant enzyme, mass spectrometry
+MW	Homo sapiens	55890	*	*x * 50000, recombinant His-tagged enzyme without the mitochondrial targeting sequence, SDS-PAGE, x * 55890, sequence calculation of enzyme without the mitochondrial targeting sequence but with His6-tag
+MW	Curvularia lunata	60000	*	*x * 60000, SDS-PAGE
+MW	Absidia caerulea	60000	*	*x * 60000, SDS-PAGE
+MW	Bos taurus	185000	*	*exclusion chromatography
+MW	Bos taurus	1000000	*	*glycerol density gradient
+PATH	*	glucocorticoid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	mineralocorticoid biosynthesis	*	*
+PATH	*	Steroid hormone biosynthesis	*	*
+SA	Bos taurus	-999	*	*activities of sonicated mitochondria and cholate extract of hydroxylation activities with deoxycotricosterone and 4-androstene-3,17-dione as substrates
+SA	Rattus norvegicus	-999	*	*several activities of 49.5 and 51.5 kDa proteins for multihydroxylation steps
+SA	Rattus norvegicus	-999	*	*conversion of 11-deoxycorticosterone
+SA	Curvularia lunata	-999	*	*dependent on DLPC concentration, with 0.05 mM maximum activity, 2fold increase with addition of 15% glycerol, 0.6 mM GSH, 0.01 mM FAD and 0.01 mM FMN
+SA	Rattus norvegicus	-999	*	*CYP11B2 and CYP11B1 expression analysis in male Wistar rats with heart failure induced by coronary artery ligation and sham-operated controls, in stroke-prone spontaneously hypertensive rats and Wistar Kyoto rats as controls, in cyp1a1Ren-2 transgenic rats and Fischer controls, and in isolated adult Sprague-Dawley ventricular myocytes incubated with 11-deoxycorticosterone, overview
+SA	Homo sapiens	-999	*	*
+SA	Homo sapiens	-999	*	*urinary steroid profiling of halpotype mutants
+SA	Homo sapiens	-999	*	*urinary steroid analyses
+SA	Rattus norvegicus	0.00000314	*	*aldosterone production, mitochondria from zona glomerulosa
+SA	Rattus norvegicus	0.0000236	*	*18-hydroxycorticosterone production, mitochondria from zona fasciculata
+SA	Bos taurus	0.00003	*	*18-hydroxylation
+SA	Rattus norvegicus	0.000119	*	*18-hydroxycorticosterone production, mitochondria from zona glomerulosa
+SA	Bos taurus	0.000171	*	*18-hydroxylation activity, 4% O2, 96% N2
+SA	Bos taurus	0.000211	*	*18-hydroxylation activity, 21% O2, 79% N2
+SA	Bos taurus	0.001061	*	*deoxycorticosterone, 18-hydroxylation activity in
+SA	Bos taurus	0.00205	*	*11beta-hydroxylation activity, 4% O2, 96% N2
+SA	Rattus norvegicus	0.00206	*	*18-hydroxydeoxycorticosterone production, mitochondria from zona glomerulosa
+SA	Bos taurus	0.00278	*	*11beta-hydroxylation activity, 21% O2, 79% N2
+SA	Bos taurus	0.0053	*	*11beta-hydroxylation
+SA	Rattus norvegicus	0.00599	*	*18-hydroxydeoxycorticosterone production, mitochondria from zona fasciculata
+SA	Rattus norvegicus	0.00691	*	*corticosterone production, mitochondria from zona glomerulosa
+SA	Rattus norvegicus	0.00951	*	*corticosterone production, mitochondria from zona fasciculata
+SA	Rattus norvegicus	0.00968	*	*+/-0.00126, 40.8% inhibition by 0.4 mM metyrapol, adrenal tissue
+SA	Rattus norvegicus	0.00986	*	*+/-0.00044, 39.7% inhibition by 0.4 mM metyrapone, adrenal tissue
+SA	Rattus norvegicus	0.01011	*	*+/-0.00126, 38.1% inhibition by 0.4 mM (+)-metyrapol, adrenal tissue
+SA	Rattus norvegicus	0.01081	*	*+/-0.00269, 33.8% inhibition by 0.4 mM (-)-metyrapol, adrenal tissue
+SA	Bos taurus	0.01193	*	*deoxycorticosterone, 11beta-hydroxylation activity
+SA	Rattus norvegicus	0.01633	*	*+/-0.00237, no inhibitor, adrenal tissue
+SA	Homo sapiens	0.0198	*	*purified recombinant enzyme
+SA	Bos taurus	1.35	*	*corticosterone, enzyme incorporated into liposomes
+SA	Bos taurus	1.38	*	*corticosterone, soluble form of enzyme

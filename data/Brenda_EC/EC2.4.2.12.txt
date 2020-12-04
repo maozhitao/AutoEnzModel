@@ -1,0 +1,56 @@
+KCAT	Homo sapiens	0.0003	ATP	*ATPase activity is decreased in simultaneous presence of 1 mM of substrates of forward and reverse NAMPT reaction
+KCAT	Homo sapiens	0.00137	nicotinamide	*+/-0.00002, KM/kcat = 1600 1/M*s, pH 7.5, 100 microM PRPP, 88 nM NAMPT
+KCAT	Homo sapiens	0.00142	nicotinamide	*+/-0.00002, in presence of 2 mM phosphate, KM/kcat = 6100 1/M*s, pH 7.5, 100 microM PRPP, 88 nM NAMPT
+KCAT	Homo sapiens	0.00183	ATP	*ATPase (ATP hydrolysis) activity of the free NAMPT, 2 mM ATP
+KCAT	Homo sapiens	0.00617	ATP	*ATPase activity is enhanced in presence of 1 mM nicotinamide, 2 mM ATP
+KCAT	Homo sapiens	0.00767	nicotinamide	*+/-0.00150, in presence of 2 mM ATP the catalytic efficiency (KM/kcat = 1800000 1/M*s) is improved 1100-fold, pH 7.5, 100 microM PRPP, 88 nM NAMPT
+KCAT	Homo sapiens	0.015	ATP	*ADP-ATP radiolabel exchange in absence of other reactants (without NMN synthesis), formation or hydrolysis of phospho-NAMPT may be rate limiting for overall NMN synthesis reaction in presence of ATP
+KCAT	Homo sapiens	0.0183	ATP	*ATPase activity is enhanced in presence of 1 mM diphosphate, presence of PRPP and/or nicotinamide reverses stimulation by diphosphate, 2 mM ATP
+KCAT	Mus musculus	0.02	nicotinamide	*pH 7.4, 37&deg;C, recombinant enzyme
+KCAT	Homo sapiens	0.0433	ATP	*ATPase activity in presence of 1 mM imidodiphosphate (PNP) is higher than in presence of pyophosphate, 2 mM ATP
+KM	Homo sapiens	2.2	ATP	*+/-0.2 mM, ADP-ATP radiolabel exchange in absence of other reactants
+KM	Homo sapiens	7.4	ATP	*+/-1.5 mM, in presence of 2 mM phosphate, pH 7.5, 100 nM nicotinamide, 50 microM PRPP, 2.2 nM NAMPT
+KM	Homo sapiens	0.44	ADP	*+/-0.05 mM, ADP-ATP radiolabel exchange in absence of other reactants
+KM	Homo sapiens	0.18	phosphate	*+/-0.02 mM, pH 7.5, 88 nM NAMPT, HPLC-based quantification
+KM	Rattus norvegicus	0.0038	5-phospho-alpha-D-ribose 1-diphosphate	*
+KM	Homo sapiens	0.00537	5-phospho-alpha-D-ribose 1-diphosphate	*
+KM	Homo sapiens	0.000005	nicotinamide	*+/-0.000002 mM, in presence of 2 mM ATP the Km is 150-fold lowered, calculated from apparent KM by extrapolation to correct for inhibition by NAD+ in the continuous fluorimetric assay, pH 7.5, 200 microM PRPP, 2.8 nM NAMPT
+KM	Rattus norvegicus	0.000067	nicotinamide	*
+KM	Homo sapiens	0.000235	nicotinamide	*+/-0.000017 mM, in presence of 2 mM phosphate, pH 7.5, 100 microM PRPP, 88 nM NAMPT, HPLC-based quantification
+KM	Homo sapiens	0.000855	nicotinamide	*+/-0.000022 mM, pH 7.5, 100 microM PRPP, 88 nM NAMPT, HPLC-based quantification
+KM	Rattus norvegicus	0.001	nicotinamide	*in the presence of ATP
+KM	Homo sapiens	0.00122	nicotinamide	*with 1 mM ATP, pH 7.5, 37&Acirc;&deg;C
+KM	Mus musculus	0.00124	nicotinamide	*
+KM	Homo sapiens	0.00127	nicotinamide	*
+KM	Homo sapiens	0.0016	nicotinamide	*
+KM	Homo sapiens	0.00806	nicotinamide	*without ATP, pH 7.5, 37&Acirc;&deg;C
+KM	Mus musculus	0.92	nicotinamide	*pH 7.4, 37&Acirc;&deg;C, recombinant enzyme
+KM	Homo sapiens	100	nicotinamide	*
+KM	Rattus norvegicus	100	nicotinamide	*in the absence of ATP
+KM	Homo sapiens	0.00051	5-phosphoribosyl 1-diphosphate	*with 1 mM ATP, pH 7.5, 37&Acirc;&deg;C
+KM	Homo sapiens	0.0232	5-phosphoribosyl 1-diphosphate	*without ATP, pH 7.5, 37&Acirc;&deg;C
+KM	Homo sapiens	0.00063	alpha-D-5-phosphoribosyl 1-diphosphate	*+/-0.00003 mM, in presence of 2 mM ATP the Km is lowered 10-fold, calculated from apparent KM by extrapolation to correct for inhibition by NAD+ in the continuous fluorimetric assay, pH 7.5, 125 nM nicotinamide, 2.2 nM NAMPT
+KM	Homo sapiens	0.0072	alpha-D-5-phosphoribosyl 1-diphosphate	*+/-0.0006 mM, pH 7.5, 1 microM nicotinamide, 88 nM NAMPT, HPLC-based quantification
+KM	Homo sapiens	0.0117	alpha-D-5-phosphoribosyl 1-diphosphate	*+/-0.0008 mM, in presence of 2 mM phosphate, pH 7.5, 1 microM nicotinamide, 88 nM NAMPT, HPLC-based quantification
+MW	Homo sapiens	52000	*	*x * 52000, immunoblot analysis
+MW	Homo sapiens	52000	*	*
+MW	Homo sapiens	55000	*	*gel filtration, part of the enzyme in supernatant of HepG2 cells
+MW	Danio rerio	55000	*	*gel filtration
+MW	Homo sapiens	55000	*	*x * 55000, SDS-PAGE
+MW	Homo sapiens	55520	*	*2 * 55520, theoretic value
+MW	Haemophilus ducreyi	55600	*	*x * 55600, deduced from gene sequence
+MW	Homo sapiens	120000	*	*gel filtration, most of the enzyme in supernatant of HepG2 cells
+PATH	*	Metabolic pathways	*	*
+PATH	*	NAD biosynthesis III (from nicotinamide)	*	*
+PATH	*	Nicotinate and nicotinamide metabolism	*	*
+SA	Homo sapiens	-999	*	*activity per g hemoglobin
+SA	Mus musculus	-999	*	*
+SA	Rattus norvegicus	0.000225	*	*
+SA	Homo sapiens	0.00213	*	*at 0.001 mM 5-phosphoribosyl 1-diphosphate, without ATP, pH 7.5, 37&Acirc;&deg;C
+SA	Rattus norvegicus	0.003	*	*
+SA	Homo sapiens	0.0259	*	*at 0.050 mM 5-phosphoribosyl 1-diphosphate, without ATP, pH 7.5, 37&Acirc;&deg;C; substrate 5-phosphoribosyl 1-diphosphate, without ATP, pH 7.5, 37&Acirc;&deg;C
+SA	Homo sapiens	0.0393	*	*substrate nicotinamide, without ATP, pH 7.5, 37&Acirc;&deg;C
+SA	Homo sapiens	0.0397	*	*substrate nicotinamide, with 1 mM ATP, pH 7.5, 37&Acirc;&deg;C
+SA	Homo sapiens	0.0481	*	*at 0.050 mM 5-phosphoribosyl 1-diphosphate, with 1 mM ATP, pH 7.5, 37&Acirc;&deg;C
+SA	Homo sapiens	0.0704	*	*at 0.001 mM 5-phosphoribosyl 1-diphosphate, with 1 mM ATP, pH 7.5, 37&Acirc;&deg;C
+SA	Homo sapiens	0.0741	*	*substrate 5-phosphoribosyl 1-diphosphate, with 1 mM ATP, pH 7.5, 37&Acirc;&deg;C

@@ -1,0 +1,20 @@
+KM	Bacillus subtilis	0.36	dihydroxyacetone phosphate	*25&Acirc;&deg;C
+MW	Cyanophora paradoxa	36760	*	*x * 36760, calculated
+MW	Escherichia coli	38240	*	*x * 38246, mass spectrometry, x * 38240, calculated
+MW	Escherichia coli	38246	*	*x * 38246, mass spectrometry, x * 38240, calculated
+MW	Escherichia coli	39300	*	*plus minor amount of monomer. 2 * 40000, SDS-PAGE, 2 * 39300, calculated
+MW	Escherichia coli	39300	*	*1 * 40000, SDS-PAGE, 1 * 39300, calculated
+MW	Escherichia coli	40000	*	*gel filtration, minor amount of protein
+MW	Escherichia coli	40000	*	*gel filtration
+MW	Bacillus subtilis	41000	*	*3 * 41000, calculated
+MW	Escherichia coli	80000	*	*gel filtration, major amount of protein
+MW	Bacillus subtilis	124000	*	*gel filtration
+PATH	*	NAD de novo biosynthesis I (from aspartate)	*	*
+PATH	*	NAD metabolism	*	*
+PATH	*	nicotine biosynthesis	*	*
+PATH	*	superpathway of nicotine biosynthesis	*	*
+SA	Bacillus subtilis	-999	*	*discontinuous enzymatic assay that couples the production of iminoaspartate by NadB with the condensation between DHAP and iminoaspartate to form quinolinic acid catalyzed by NadA. The assay is linear up to 0.25 mg of NadA, 10 microg of NadB is the lowest amount suitable to measure NadA activity, and under anaerobic conditions, NadA activity becomes independent of fumarate concentration, starting from 1 mM fumarate, but decreases at concentrations higher than 2 mM fumarate, due to inhibition of NadB by fumarate
+SA	Escherichia coli	-999	*	*continuous assay method
+SA	Bacillus subtilis	0.027	*	*25&deg;C, presence of oxygen to reoxidize NadB in the coupled assay
+SA	Bacillus subtilis	0.05	*	*25&deg;C, presence of fumarate as electron acceptor for NadB in the coupled assay
+SA	Escherichia coli	0.6	*	*pH 7.0, 25&deg;C

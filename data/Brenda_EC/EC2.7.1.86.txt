@@ -1,0 +1,67 @@
+KCAT	Fusarium oxysporum	0.84	ATP	*
+KCAT	Fusarium oxysporum	0.95	NADH	*
+KCAT	Saccharomyces cerevisiae	6.2	NAD+	*mutant enzyme R293H, in 100 mM Tris-HCl, pH 8.0, at 37&deg;C
+KCAT	Saccharomyces cerevisiae	7.4	NAD+	*wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37&deg;C
+KCAT	Saccharomyces cerevisiae	7.7	NADH	*mutant enzyme R293H, in 100 mM Tris-HCl, pH 8.0, at 37&deg;C
+KCAT	Saccharomyces cerevisiae	16.1	NADH	*wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37&deg;C
+KM	Arabidopsis thaliana	0.062	ATP	*pH 7.9, 25&Acirc;&deg;C; pH 7.9, 25&Acirc;&deg;C, cosubstrate NADH
+KM	Saccharomyces cerevisiae	0.133	ATP	*NADH kinase reconstituted in liposomes
+KM	Micrococcus flavus	0.32	ATP	*wild type enzyme
+KM	Micrococcus flavus	0.47	ATP	*mutant enzyme G183R
+KM	Saccharomyces cerevisiae	1	ATP	*pH 7.8, 30&Acirc;&deg;C, in presence of 0.2 M sodium acetate
+KM	Saccharomyces cerevisiae	2.1	ATP	*solubilized enzyme form
+KM	Saccharomyces cerevisiae	2.1	ATP	*pH 7.4, 30&Acirc;&deg;C
+KM	Fusarium oxysporum	2.59	ATP	*
+KM	Saccharomyces cerevisiae	1.3	NAD+	*mutant enzyme R293H, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KM	Arabidopsis thaliana	2.39	NAD+	*pH 7.9, 25&Acirc;&deg;C; pH 7.9, 25&Acirc;&deg;C, the specificity constant (vmax/Km) for NADH is 100fold greater than for NAD+
+KM	Saccharomyces cerevisiae	4.5	NAD+	*wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KM	Saccharomyces cerevisiae	0.027	NADH	*NADH kinase reconstituted in liposomes
+KM	Saccharomyces cerevisiae	0.032	NADH	*mutant enzyme R293H, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KM	Saccharomyces cerevisiae	0.042	NADH	*pH 7.8, 30&Acirc;&deg;C, in presence of 0.2 M sodium acetate
+KM	Arabidopsis thaliana	0.042	NADH	*pH 7.9, 25&Acirc;&deg;C; pH 7.9, 25&Acirc;&deg;C, the specificity constant (vmax/Km) for NADH is 100fold greater than for NAD+
+KM	Saccharomyces cerevisiae	0.105	NADH	*solubilized enzyme form
+KM	Saccharomyces cerevisiae	0.105	NADH	*pH 7.4, 30&Acirc;&deg;C
+KM	Fusarium oxysporum	0.13	NADH	*
+KM	Saccharomyces cerevisiae	0.19	NADH	*wild type enzyme, in 100 mM Tris-HCl, pH 8.0, at 37&Acirc;&deg;C
+KM	Micrococcus flavus	0.35	NADH	*with tetrapolyphosphate as the phosphate donor, wild type enzyme
+KM	Micrococcus flavus	0.45	NADH	*with ATP as the phosphate donor, wild type enzyme
+KM	Micrococcus flavus	0.72	NADH	*with tetrapolyphosphate as the phosphate donor, mutant enzyme G183R
+KM	Micrococcus flavus	1.66	NADH	*with ATP as the phosphate donor, mutant enzyme G183R
+KM	Saccharomyces cerevisiae	3.9	NADH	*pH 8.0, 30&Acirc;&deg;C
+KM	Arabidopsis thaliana	0.461	GTP	*pH 7.9, 25&Acirc;&deg;C, cosubstrate NADH
+KM	Arabidopsis thaliana	0.759	CTP	*pH 7.9, 25&Acirc;&deg;C, cosubstrate NADH
+KM	Arabidopsis thaliana	0.156	UTP	*pH 7.9, 25&Acirc;&deg;C, cosubstrate NADH
+KM	Micrococcus flavus	0.58	Tetrapolyphosphate	*wild type enzyme
+KM	Micrococcus flavus	0.68	Tetrapolyphosphate	*mutant enzyme G183R
+MW	Arabidopsis thaliana	35000	*	*2 * 35000, SDS-PAGE
+MW	Saccharomyces cerevisiae	46000	*	*
+MW	Saccharomyces cerevisiae	46285	*	*2 * 46285, calculated from amino acid sequence
+MW	Aspergillus nidulans	49000	*	*predicted
+MW	Saccharomyces cerevisiae	50000	*	*x * 50000, truncated protein, SDS-PAGE
+MW	Arabidopsis thaliana	58000	*	*SDS-PAGE
+MW	Arabidopsis thaliana	58000	*	*isoform NADK1
+MW	Arabidopsis thaliana	58250	*	*calculated from amino acid sequence
+MW	Fusarium oxysporum	72000	*	*2 * 72000, gel filtration
+MW	Arabidopsis thaliana	78000	*	*gel filtration
+MW	Fusarium oxysporum	156000	*	*gel filtration
+MW	Saccharomyces cerevisiae	160000	*	*gel filtration
+PATH	*	NAD/NADH phosphorylation and dephosphorylation	*	*
+PATH	*	NAD/NADP-NADH/NADPH cytosolic interconversion (yeast)	*	*
+PATH	*	NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)	*	*
+SA	Pichia membranifaciens	-999	*	*amplification of NADH without the influence of coexisting NAD+, by phosphorylating NADH into NADPH and putting this NAPH through an NADP+-NADPH cycling system
+SA	Aspergillus nidulans	-999	*	*gene encoding NADH kinase identified, overexpression using constitutive promoter, physiologcal effects in combination with different aeration rates in glucose batch fermentation, metabolite profiling, relative amounts of intracellular amino and non-amino organic acids compared, enzyme activity significantly correlated with growth activity
+SA	Fusarium oxysporum	-999	*	*the crude extract shows a specific activity of 0.017 units/mg, the 65.62fold purified enzyme shows a specific activity of 1.11 units/mg
+SA	Saccharomyces cerevisiae	0.1	*	*with GTP as phosphate donor
+SA	Mycobacterium tuberculosis	0.22	*	*in the presence of 5 mM tetrapolyphosphate
+SA	Saccharomyces cerevisiae	0.279	*	*
+SA	Saccharomyces cerevisiae	0.5	*	*with CTP as phosphate donor
+SA	Mycobacterium tuberculosis	0.65	*	*in the presence of 5 mM ATP
+SA	Saccharomyces cerevisiae	1.2	*	*with ATP as phosphate donor
+SA	Micrococcus flavus	3.04	*	*in the presence of 5 mM tetrapolyphosphate
+SA	Arabidopsis thaliana	3.4	*	*in the presence of 0.5 mM EGTA, using NAD+ as a substrate
+SA	Arabidopsis thaliana	5.75	*	*in the presence of 0.5 mM EGTA, using NADH as a substrate
+SA	Micrococcus flavus	8.66	*	*in the presence of 5 mM ATP
+SA	Arabidopsis thaliana	15.1	*	*NAD+ as substrate, pH 7.9, 25&deg;C
+SA	Arabidopsis thaliana	15.6	*	*pH 7.9, 25&deg;C, substrate NAD+
+SA	Arabidopsis thaliana	40.1	*	*NADH as susbtrate, pH 7.9, 25&deg;C; pH 7.9, 25&deg;C, substrate NADH
+SA	Saccharomyces cerevisiae	729	*	*

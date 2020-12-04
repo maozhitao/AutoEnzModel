@@ -1,0 +1,31 @@
+KCAT	Anisodus acutangulus	1	L-hyoscyamine	*pH 8.0, 35&deg;C, wild-type enzyme
+KCAT	Anisodus acutangulus	3.9	L-hyoscyamine	*pH 8.0, 35&deg;C, mutant enzyme S14P/K97A
+KM	Hyoscyamus niger	0.043	2-oxoglutarate	*
+KM	Datura metel	0.05	2-oxoglutarate	*pH 7.8, 30&Acirc;&deg;C, recombinant enzyme
+KM	Hyoscyamus niger	0.057	2-oxoglutarate	*
+KM	Hyoscyamus niger	0.017	L-hyoscyamine	*
+KM	Anisodus acutangulus	0.0348	L-hyoscyamine	*pH 8.0, 35&Acirc;&deg;C, mutant enzyme S14P/K97A
+KM	Hyoscyamus niger	0.035	L-hyoscyamine	*
+KM	Anisodus acutangulus	0.0416	L-hyoscyamine	*pH 8.0, 35&Acirc;&deg;C
+KM	Datura metel	0.05	L-hyoscyamine	*pH 7.8, 30&Acirc;&deg;C, recombinant enzyme
+KM	Atropa belladonna	0.0521	L-hyoscyamine	*pH 7.6, 34&Acirc;&deg;C, recombinant enzyme
+KM	Hyoscyamus niger	0.01	6,7-Dehydrohyoscyamine	*
+KM	Anisodus tanguticus	0.0151	hyoscyamine	*pH 7.4
+KM	Anisodus tanguticus	0.017	6beta-hydroxyhyosyamine	*pH 7.4
+MW	Hyoscyamus niger	19000	*	*x * 39000 + x * 19000, SDS-PAGE
+MW	Anisodus acutangulus	38700	*	*x * 38700, SDS-PAGE
+MW	Hyoscyamus niger	38999	*	*x * 38999, calculation from nucleotide sequence
+MW	Hyoscyamus niger	39000	*	*x * 39000 + x * 19000, SDS-PAGE
+MW	Datura metel	39000	*	*x * 39000, recombinant His-tagged enzyme, SDS-PAGE
+MW	Hyoscyamus senecionis	39015	*	*x * 39015, sequence calculation
+MW	Atropa belladonna	39238	*	*1 * 39238, recombinant enzyme, mass spectrometry, 1 * 39369, sequence calculation
+MW	Atropa belladonna	39369	*	*1 * 39238, recombinant enzyme, mass spectrometry, 1 * 39369, sequence calculation
+MW	Hyoscyamus niger	41000	*	*gel filtration
+MW	Anisodus acutangulus	43000	*	*x * 64000, recombinant GST-tagged enzyme, SDS-PAGE, x * 43000, recombinant His-tagged enzyme, SDS-PAGE
+MW	Anisodus acutangulus	64000	*	*x * 64000, recombinant GST-tagged enzyme, SDS-PAGE, x * 43000, recombinant His-tagged enzyme, SDS-PAGE
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	hyoscyamine and scopolamine biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	superpathway of hyoscyamine and scopolamine biosynthesis	*	*
+PATH	*	Tropane, piperidine and pyridine alkaloid biosynthesis	*	*
+SA	Hyoscyamus niger	-999	*	*

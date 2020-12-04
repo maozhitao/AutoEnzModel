@@ -1,0 +1,72 @@
+KCAT	Fusarium oxysporum	-999	more	*
+KCAT	Podospora anserina	0.037	nitroethane	*mutant enzyme D399N, in 50 mM HEPES, pH 8.0, 30&deg;C
+KCAT	Fusarium oxysporum	0.2	1-nitrooctane	*mutant S276A, pH 8.0, 30&deg;C
+KCAT	Fusarium oxysporum	0.3	1-nitrohexane	*mutant S276A, pH 8.0, 30&deg;C
+KCAT	Fusarium oxysporum	1	nitroethane	*mutant S276A, pH 8.0, 30&deg;C
+KCAT	Fusarium oxysporum	2	1-nitrohexane	*wild-type, pH 8.0, 30&deg;C
+KCAT	Fusarium oxysporum	2.4	nitroethane	*cosubstrate D2O, 30&deg;C, pH 8.5
+KCAT	Fusarium oxysporum	2.6	nitroethane	*pH 8.0, 30&deg;C, mutant enzyme R409K
+KCAT	Fusarium oxysporum	2.6	O2	*pH 8.0, 30&deg;C, mutant enzyme R409K
+KCAT	Fusarium oxysporum	4.4	1-nitrooctane	*wild-type, pH 8.0, 30&deg;C
+KCAT	Podospora anserina	5	nitroethane	*mutant enzyme S273A, in 50 mM HEPES, pH 8.0, 30&deg;C
+KCAT	Fusarium oxysporum	5.4	nitroethane	*mutant enzyme S171A, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KCAT	Fusarium oxysporum	6.2	nitroethane	*mutant enzyme S171V, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KCAT	Fusarium oxysporum	7.2	nitroethane	*mutant enzyme S171T, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KCAT	Fusarium oxysporum	7.3	nitroethane	*mutant enzyme C397S, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KCAT	Podospora anserina	9	nitroethane	*mutant enzyme R406K, in 50 mM HEPES, pH 8.0, 30&deg;C
+KCAT	Fusarium oxysporum	10.6	nitroethane	*mutant enzyme Y398F, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KCAT	Fusarium oxysporum	15	nitroethane	*wild-type, pH 8.0, 30&deg;C
+KCAT	Podospora anserina	15	nitroethane	*wild type enzyme, in 50 mM HEPES, pH 8.0, 30&deg;C
+KCAT	Fusarium oxysporum	15	nitroethane	*wild type enzyme, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KCAT	Podospora anserina	15	O2	*wild type enzyme, in 50 mM HEPES, pH 8.0, 30&deg;C
+KM	Fusarium oxysporum	-999	more	*thermodynamics, kinetic mechanism with nitroethane and 1-nitrobutane, isotopic effects, monotonic increase with each additional methylene group from nitroethane to 1-nitrobutane increasing kcat/Km value by 20fold, no further increase with 1-nitropentane and 1-nitrohexane
+KM	Fusarium oxysporum	-999	more	*steady-state and rapid reaction kinetics of wild-type and mutant enzymes
+KM	Fusarium oxysporum	-999	more	*kinetics and thermodynamics of the deprotonation step with substrate nitroethane, effects of tunneling
+KM	Fusarium oxysporum	-999	more	*kinetic competency of the cationic imine enzyme intermediate
+KM	Fusarium oxysporum	0.011	O2	*mutant enzyme S171T, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KM	Fusarium oxysporum	0.019	O2	*pH 8.0, 30&deg;C, mutant enzyme D402E
+KM	Fusarium oxysporum	0.023	O2	*
+KM	Fusarium oxysporum	0.028	O2	*mutant enzyme Y398F, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KM	Fusarium oxysporum	0.029	O2	*mutant enzyme S171A, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KM	Fusarium oxysporum	0.03	1-nitrobutane	*recombinant wild-type enzyme, pH 8.0, 30&deg;C
+KM	Fusarium oxysporum	0.03	1-nitrooctane	*wild-type, pH 8.0, 30&deg;C
+KM	Fusarium oxysporum	0.04	1-nitrohexane	*wild-type, pH 8.0, 30&deg;C
+KM	Fusarium oxysporum	0.042	nitroethane	*pH 8.0, 30&deg;C, mutant enzyme R409K
+KM	Fusarium oxysporum	0.042	O2	*pH 8.0, 30&deg;C, mutant enzyme R409K
+KM	Fusarium oxysporum	0.044	O2	*mutant enzyme S171V, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KM	Fusarium oxysporum	0.058	O2	*mutant enzyme C397S, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KM	Fusarium oxysporum	0.082	O2	*wild type enzyme, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KM	Fusarium oxysporum	0.18	1-nitrobutane	*recombinant mutant D403E, pH 8.0, 30&deg;C
+KM	Fusarium oxysporum	0.2	1-nitrohexane	*mutant S276A, pH 8.0, 30&deg;C
+KM	Fusarium oxysporum	0.3	1-nitrooctane	*mutant S276A, pH 8.0, 30&deg;C
+KM	Podospora anserina	0.39	O2	*wild type enzyme, in 50 mM HEPES, pH 8.0, 30&deg;C
+KM	Fusarium oxysporum	1.9	nitroethane	*mutant enzyme S171V, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KM	Fusarium oxysporum	2	nitroethane	*mutant enzyme C397S, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C; mutant enzyme S171T, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KM	Fusarium oxysporum	2.1	nitroethane	*mutant enzyme S171A, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KM	Fusarium oxysporum	2.3	nitroethane	*recombinant wild-type enzyme, pH 8.0, 30&deg;C
+KM	Fusarium oxysporum	2.3	nitroethane	*wild-type, pH 8.0, 30&deg;C
+KM	Fusarium oxysporum	2.3	nitroethane	*wild type enzyme, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KM	Fusarium oxysporum	2.9	nitroethane	*
+KM	Fusarium oxysporum	3.3	nitroethane	*
+KM	Fusarium oxysporum	3.3	nitroethane	*mutant S276A, pH 8.0, 30&deg;C
+KM	Fusarium oxysporum	4.8	nitroethane	*mutant enzyme Y398F, in 200 mM HEPES, 0.1 mM FAD, pH 8.0, 30 &deg;C
+KM	Fusarium oxysporum	5.1	benzoate	*
+KM	Podospora anserina	10	nitroethane	*mutant enzyme D399N, in 50 mM HEPES, pH 8.0, 30&deg;C
+KM	Podospora anserina	13	nitroethane	*wild type enzyme, in 50 mM HEPES, pH 8.0, 30&deg;C
+KM	Fusarium oxysporum	13.1	phenylacetic acid	*
+KM	Fusarium oxysporum	14.6	nitroethane	*recombinant mutant D403E, pH 8.0, 30&deg;C
+KM	Podospora anserina	24	nitroethane	*mutant enzyme S273A, in 50 mM HEPES, pH 8.0, 30&deg;C
+KM	Podospora anserina	25	nitroethane	*mutant enzyme R406K, in 50 mM HEPES, pH 8.0, 30&deg;C
+KM	Fusarium oxysporum	26.3	nitroethane	*pH 8.0, 30&deg;C, mutant enzyme R409K
+KM	Streptomyces ansochromogenes	26.8	nitroethane	*pH 8.0, 28&deg;C
+KM	Streptomyces ansochromogenes	35.7	1-Nitropropane	*pH 8.0, 28&deg;C
+KM	Streptomyces ansochromogenes	83.5	2-Nitropropane	*pH 8.0, 28&deg;C
+MW	Pseudomonas aeruginosa	36700	*	*x * 36700, calculated
+MW	Streptomyces ansochromogenes	37000	*	*x * 37000, calculated
+MW	Fusarium oxysporum	47955	*	*2 * 47955, MALDI-TOF mass spectrometry; 4 * 47955, MALDI-TOF mass spectrometry
+MW	Fusarium oxysporum	48162	*	*x * 48162, amino acid sequence calculation, enzyme forms homodimers and homotetramers with a preference for the latter
+MW	Fusarium oxysporum	147300	*	*equilibrium sedimentation
+PATH	*	Metabolic pathways	*	*
+PATH	*	nitroethane degradation	*	*
+PATH	*	Nitrogen metabolism	*	*
+SA	Fusarium oxysporum	10.6	*	*

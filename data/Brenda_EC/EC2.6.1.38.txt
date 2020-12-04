@@ -1,0 +1,20 @@
+KM	Comamonas testosteroni	2.5	imidazolylpyruvate	*pH 8.0, 30&deg;C
+KM	Comamonas testosteroni	4	L-histidine	*pH 8.0, 30&deg;C
+KM	Comamonas testosteroni	5	L-glutamate	*pH 8.0, 30&deg;C
+KM	Streptomyces tendae	10	pyruvate	*pH 8.0, 37&deg;C
+KM	Streptomyces tendae	25	L-histidine	*pH 8.0, 37&deg;C
+MW	Streptomyces tendae	45000	*	*2 * 45000, SDS-PAGE
+MW	Comamonas testosteroni	70000	*	*gel filtration
+MW	Streptomyces tendae	85000	*	*gel filtration
+MW	Streptomyces tendae	110000	*	*gel filtration
+PATH	*	Histidine metabolism	*	*
+PATH	*	histidine metabolism	*	*
+PATH	*	imidazole-lactate degradation	*	*
+PATH	*	L-histidine degradation IV	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Streptomyces tendae	0.0015	*	*substrate L-tryptophan
+SA	Streptomyces tendae	0.0019	*	*substrate L-histidine
+SA	Streptomyces tendae	0.002	*	*substrate L-tyrosine
+SA	Streptomyces tendae	0.0021	*	*substrate L-phenylalanine
+SA	Streptomyces tendae	0.866	*	*
+SA	Comamonas testosteroni	17.8	*	*

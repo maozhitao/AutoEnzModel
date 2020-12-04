@@ -1,0 +1,67 @@
+KM	Chlamydomonas reinhardtii	0.13	L-glutamate	*
+KM	Saccharomyces cerevisiae	7.2	L-glutamate	*
+KM	Sinorhizobium meliloti	8.2	L-glutamate	*pH 8.0, 30&Acirc;&deg;C
+KM	Methanocaldococcus jannaschii	11.3	L-glutamate	*
+KM	Pisum sativum	14.65	L-glutamate	*
+KM	Citrullus lanatus	17.8	L-glutamate	*pH 7.0
+KM	Geobacillus stearothermophilus	19.2	L-glutamate	*
+KM	Thermotoga neapolitana	27.9	L-glutamate	*
+KM	Saccharomyces cerevisiae	1.5	L-ornithine	*
+KM	Sinorhizobium meliloti	2.1	N2-Acetyl-L-ornithine	*pH 8.0, 30&Acirc;&deg;C
+KM	Citrullus lanatus	3.4	N2-Acetyl-L-ornithine	*pH 7.0
+KM	Saccharomyces cerevisiae	17.1	N-acetylglutamate	*
+KM	Chlorella vulgaris	0.2	alpha-N-acetyl-L-ornithine	*
+KM	Geobacillus stearothermophilus	0.4	alpha-N-acetyl-L-ornithine	*
+KM	Saccharomyces cerevisiae	1	alpha-N-acetyl-L-ornithine	*
+KM	Geobacillus stearothermophilus	2.7	alpha-N-acetyl-L-ornithine	*
+KM	Streptomyces clavuligerus	3.6	alpha-N-acetyl-L-ornithine	*
+KM	Chlamydomonas reinhardtii	5.5	alpha-N-acetyl-L-ornithine	*
+KM	Pisum sativum	6.25	alpha-N-acetyl-L-ornithine	*
+KM	Thermotoga neapolitana	8.1	alpha-N-acetyl-L-ornithine	*
+KM	Methanocaldococcus jannaschii	9.6	alpha-N-acetyl-L-ornithine	*
+MW	Streptomyces clavuligerus	19000	*	*alpha2beta2, 2 * 19000 + 2 * 25000, SDS-PAGE
+MW	Citrullus lanatus	21300	*	*2 * 21300 + 2 * 23500, calculated from sequence
+MW	Citrullus lanatus	23500	*	*2 * 21300 + 2 * 23500, calculated from sequence
+MW	Streptomyces clavuligerus	25000	*	*alpha2beta2, 2 * 19000 + 2 * 25000, SDS-PAGE
+MW	Saccharomyces cerevisiae	26000	*	*alphabeta, 1 * 31000 + 1 * 26000, SDS-PAGE
+MW	Saccharomyces cerevisiae	26000	*	*alphabeta, 1 * 31000 + 1 * 26000, SDS-PAGE
+MW	Saccharomyces cerevisiae	31000	*	*alphabeta, 1 * 31000 + 1 * 26000, SDS-PAGE
+MW	Saccharomyces cerevisiae	31000	*	*alphabeta, 1 * 31000 + 1 * 26000, SDS-PAGE
+MW	Corynebacterium crenatum	39700	*	*calculated from cDNA
+MW	Mycobacterium tuberculosis	41000	*	*x * 41000, calculated
+MW	Saccharomyces cerevisiae	57000	*	*gel filtration
+MW	Streptomyces clavuligerus	83000	*	*gel filtration
+MW	Sinorhizobium meliloti	88000	*	*gel filtration
+MW	Citrullus lanatus	90000	*	*gel filtration
+MW	Geobacillus stearothermophilus	110000	*	*gel filtration
+PATH	*	Arginine biosynthesis	*	*
+PATH	*	arginine metabolism	*	*
+PATH	*	L-arginine biosynthesis II (acetyl cycle)	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Corynebacterium glutamicum	0.004	*	*enzyme activity in argJ-overexpressing strain 1006, pH 7.5, 30&deg;C
+SA	Corynebacterium glutamicum	0.008	*	*enzyme activity in mutant strain 1006DELTAargR, pH 7.5, 30&deg;C
+SA	Corynebacterium glutamicum	0.015	*	*enzyme activity in mutant strain 1006DELTAargR-DELTAargJ, pH 7.5, 30&deg;C
+SA	Streptomyces clavuligerus	0.087	*	*
+SA	Mus musculus	3.2	*	*mutant G362S; mutant G362S, presence of 1 mM L-arginine
+SA	Xanthomonas campestris	3.4	*	*mutant G286P, presence of 1 mM L-arginine
+SA	Xanthomonas campestris	3.5	*	*mutant G286P
+SA	Xanthomonas campestris	4.3	*	*mutant F35C, presence of 1 mM L-arginine
+SA	Citrullus lanatus	4.7	*	*above
+SA	Xanthomonas campestris	9.7	*	*mutant F35C
+SA	Mus musculus	12.2	*	*mutant F121C
+SA	Mus musculus	12.3	*	*wild-type; wild-type, presence of 1 mM L-arginine
+SA	Mus musculus	12.6	*	*mutant G360P, presence of 1 mM L-arginine
+SA	Mus musculus	13	*	*mutant G360P
+SA	Mus musculus	13.1	*	*mutant E354A, presence of 1 mM L-arginine
+SA	Mus musculus	15.3	*	*mutant F121C, presence of 1 mM L-arginine
+SA	Mus musculus	15.5	*	*mutant E354A
+SA	Chlamydomonas reinhardtii	17.7	*	*
+SA	Saccharomyces cerevisiae	22	*	*
+SA	Xanthomonas campestris	26.7	*	*mutant E280A, presence of 1 mM L-arginine
+SA	Xanthomonas campestris	26.9	*	*mutant E280A
+SA	Geobacillus stearothermophilus	27	*	*
+SA	Xanthomonas campestris	42.6	*	*mutant G288S, presence of 1 mM L-arginine
+SA	Xanthomonas campestris	46	*	*mutant G288S
+SA	Xanthomonas campestris	71	*	*wild-type
+SA	Methanocaldococcus jannaschii	175	*	*
+SA	Thermotoga neapolitana	290	*	*

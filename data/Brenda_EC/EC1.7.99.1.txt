@@ -1,0 +1,58 @@
+KCAT	Pyrococcus furiosus	3.8	hydroxylamine	*purified enzyme, at 70&deg;C and pH 9.0
+KM	Pseudomonas aeruginosa	0.0000004	hydroxylamine	*
+KM	Pseudomonas aeruginosa	0.00001	FADH2	*
+KM	Pseudomonas aeruginosa	0.000012	reduced pyocyanine	*
+KM	Pseudomonas aeruginosa	0.000044	reduced methylene blue	*
+KM	Cucurbita pepo	0.0075	benzyl viologen	*
+KM	Cucurbita pepo	0.05	hydroxylamine	*
+KM	Pyrococcus furiosus	0.4	hydroxylamine	*purified enzyme, at 70&deg;C and pH 9.0
+KM	Campylobacter fetus subsp. fetus	1	hydroxylamine	*oxidation reaction, recombinant MBP-tagged wild-type enzyme, pH 7.0, 37&deg;C
+KM	Caminibacter mediatlanticus	1.4	hydroxylamine	*oxidation reaction, recombinant MBP-tagged wild-type enzyme, pH 7.0, 37&deg;C
+KM	Campylobacter curvus	1.5	hydroxylamine	*oxidation reaction, recombinant MBP-tagged wild-type enzyme, pH 7.0, 37&deg;C
+KM	Caminibacter mediatlanticus	1.5	nitrite	*recombinant MBP-tagged wild-type enzyme, pH 7.0, 37&deg;C
+KM	Campylobacter fetus subsp. fetus	1.9	hydroxylamine	*reduction reaction, recombinant MBP-tagged wild-type enzyme, pH 7.0, 37&deg;C
+KM	Escherichia coli	2.5	hydroxylamine	*at pH 9
+KM	Caminibacter mediatlanticus	4.7	nitrite	*recombinant MBP-tagged mutant W434Y, pH 7.0, 37&deg;C
+KM	Campylobacter curvus	5.3	hydroxylamine	*oxidation reaction, recombinant MBP-tagged mutant W434Y, pH 7.0, 37&deg;C
+KM	Caminibacter mediatlanticus	6	hydroxylamine	*reduction reaction, recombinant MBP-tagged wild-type enzyme, pH 7.0, 37&deg;C
+KM	Campylobacter curvus	6.6	hydroxylamine	*reduction reaction, recombinant MBP-tagged wild-type enzyme, pH 7.0, 37&deg;C
+KM	Campylobacter curvus	6.75	hydroxylamine	*reduction reaction, recombinant MBP-tagged mutant W434Y, pH 7.0, 37&deg;C
+KM	Campylobacter fetus subsp. fetus	7.4	hydroxylamine	*reduction reaction, recombinant MBP-tagged mutant W434Y, pH 7.0, 37&deg;C
+KM	Caminibacter mediatlanticus	16.9	hydroxylamine	*reduction reaction, recombinant MBP-tagged mutant W434Y, pH 7.0, 37&deg;C
+KM	Escherichia coli	38.9	hydroxylamine	*at pH 7.5
+MW	Spinacia oleracea	32000	*	*hydroxylamine reductase 1, gel filtration
+MW	Cucurbita pepo	35000	*	*hydroxylamine reductase 2, gel filtration
+MW	Cucurbita pepo	35000	*	*hydroxylamine reductase 2, gel filtration
+MW	Pyrococcus furiosus	51300	*	*2 * 51300, calculated from amino acid sequence
+MW	Pyrococcus furiosus	52000	*	*2 * 52000, SDS-PAGE
+MW	Cucurbita pepo	60000	*	*hydroxylamine reductase 1, gel filtration
+MW	Cucurbita pepo	60000	*	*hydroxylamine reductase 1, gel filtration
+MW	Spinacia oleracea	65000	*	*hydroxylamine reductase 2, gel filtration
+MW	Pyrococcus furiosus	102000	*	*native PAGE
+MW	Pyrococcus furiosus	102600	*	*calculated from amino acid sequence
+MW	Aspergillus niger	280000	*	*gel filtration and sedimentation
+PATH	*	Metabolic pathways	*	*
+PATH	*	nitrate assimilation	*	*
+PATH	*	Nitrogen metabolism	*	*
+SA	Aspergillus niger	-999	*	*
+SA	Cucurbita pepo	-999	*	*specific activities after different purification methods
+SA	Caminibacter mediatlanticus	0.01	*	*below, purified recombinant MBP-tagged enzyme mutant W434Y, substrate hydroxylamine, oxidation, pH 7.0, 37&deg;C
+SA	Campylobacter fetus subsp. fetus	0.01	*	*below, purified recombinant MBP-tagged enzyme mutant W434Y, substrate hydroxylamine, oxidation, pH 7.0, 37&deg;C
+SA	Nautilia profundicola	0.01	*	*below, purified recombinant MBP-tagged wild-type enzyme, substrate hydroxylamine, oxidation, pH 7.0, 37&deg;C
+SA	Campylobacter curvus	0.03	*	*purified recombinant MBP-tagged wild-type enzyme, substrate hydroxylamine, oxidation, pH 7.0, 37&deg;C
+SA	Campylobacter curvus	0.04	*	*below, purified recombinant MBP-tagged enzyme mutant W434Y, substrate hydroxylamine, oxidation, pH 7.0, 37&deg;C
+SA	Campylobacter fetus subsp. fetus	0.07	*	*purified recombinant MBP-tagged wild-type enzyme, substrate hydroxylamine, oxidation, pH 7.0, 37&deg;C
+SA	Caminibacter mediatlanticus	0.1	*	*purified recombinant MBP-tagged wild-type enzyme, substrate hydroxylamine, oxidation, pH 7.0, 37&deg;C
+SA	Caminibacter mediatlanticus	1	*	*purified recombinant MBP-tagged wild-type enzyme, substrate nitrite, pH 7.0, 37&deg;C
+SA	Pseudomonas aeruginosa	2.87	*	*
+SA	Caminibacter mediatlanticus	2.9	*	*purified recombinant MBP-tagged enzyme mutant W434Y, substrate nitrite, pH 7.0, 37&deg;C
+SA	Pyrococcus furiosus	3.7	*	*purified enzyme, at 70&deg;C and pH 9.0
+SA	Nautilia profundicola	29	*	*purified recombinant MBP-tagged wild-type enzyme, substrate hydroxylamine, reduction, pH 7.0, 37&deg;C
+SA	Campylobacter curvus	68	*	*purified recombinant MBP-tagged wild-type enzyme, substrate hydroxylamine, reduction, pH 7.0, 37&deg;C
+SA	Campylobacter curvus	77	*	*purified recombinant MBP-tagged enzyme mutant W434Y, substrate hydroxylamine, reduction, pH 7.0, 37&deg;C
+SA	Escherichia coli	92	*	*at pH 7.5
+SA	Caminibacter mediatlanticus	98	*	*purified recombinant MBP-tagged enzyme mutant W434Y, substrate hydroxylamine, reduction, pH 7.0, 37&deg;C
+SA	Campylobacter fetus subsp. fetus	149	*	*purified recombinant MBP-tagged wild-type enzyme, substrate hydroxylamine, reduction, pH 7.0, 37&deg;C
+SA	Caminibacter mediatlanticus	158	*	*purified recombinant MBP-tagged wild-type enzyme, substrate hydroxylamine, reduction, pH 7.0, 37&deg;C
+SA	Campylobacter fetus subsp. fetus	225	*	*purified recombinant MBP-tagged enzyme mutant W434Y, substrate hydroxylamine, reduction, pH 7.0, 37&deg;C
+SA	Escherichia coli	458	*	*at pH 9

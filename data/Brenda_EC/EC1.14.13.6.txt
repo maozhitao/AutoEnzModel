@@ -1,0 +1,32 @@
+KCAT	Pseudomonas putida	26	orcinol	*crystalline enzyme
+KM	Pseudomonas putida	-999	more	*
+KM	Pseudomonas putida	0.026	orcinol	*
+KM	Pseudomonas putida	0.03	orcinol	*cofactor: NADH
+KM	Pseudomonas putida	0.05	orcinol	*cofactor: 3-acetylpyridine NADH
+KM	Pseudomonas putida	0.07	O2	*
+KM	Pseudomonas putida	0.085	orcinol	*cofactor: NADPH
+KM	Pseudomonas putida	0.13	NADH	*substrate: orcinol
+KM	Pseudomonas putida	0.17	3-cresol	*
+KM	Pseudomonas putida	0.17	NADH	*
+KM	Pseudomonas putida	0.19	resorcinol	*
+KM	Pseudomonas putida	0.22	resorcinol	*
+KM	Pseudomonas putida	0.65	3-acetylpyridine NADH	*substrate: orcinol
+KM	Pseudomonas putida	2.5	NADH	*substrate: resorcinol
+MW	Pseudomonas putida	60000	*	*gel filtration
+MW	Pseudomonas putida	63000	*	*gel filtration
+MW	Pseudomonas putida	65000	*	*sedimentation equilibrium
+MW	Pseudomonas putida	68000	*	*gel filtration
+MW	Pseudomonas putida	68000	*	*1 * 68000, SDS-PAGE
+MW	Pseudomonas putida	70000	*	*ultracentrifugation
+MW	Pseudomonas putida	70000	*	*1 * 70000, SDS-PAGE
+PATH	*	orcinol degradation	*	*
+SA	Aspergillus niger	-999	*	*at different time intervals
+SA	Pseudomonas putida	-999	*	*
+SA	Pseudomonas putida	2.8	*	*apoenzyme without flavin addition
+SA	Pseudomonas putida	3.5	*	*apoenzyme with addition of FMN
+SA	Pseudomonas putida	11.7	*	*
+SA	Pseudomonas putida	12.9	*	*
+SA	Pseudomonas putida	14.7	*	*apoenzyme with addition of FAD
+SA	Pseudomonas putida	18	*	*holoenzyme
+SA	Pseudomonas putida	24	*	*
+SA	Pseudomonas putida	37	*	*

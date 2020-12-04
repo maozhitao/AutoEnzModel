@@ -1,0 +1,79 @@
+KM	Petunia x hybrida	-999	more	*varying Km-values, depending on the purification procedure
+KM	Petunia x hybrida	-999	more	*Km-values of mutant enzymes
+KM	Artemisia annua	-999	more	*Michaelis-Menten kinetics
+KM	Petunia x hybrida	0.0019	2-oxoglutarate	*wild-type enzyme
+KM	Petroselinum crispum	0.005	(2S)-naringenin	*
+KM	Petunia x hybrida	0.0056	(2S)-naringenin	*
+KM	Oryza sativa	0.0057	(S)-eriodictyol	*pH 8.0, 37&deg;C
+KM	Oryza sativa	0.0063	(S)-eriodictyol	*pH 8.0, 37&deg;C
+KM	Petroselinum crispum	0.008	(2S)-eriodictyol	*
+KM	Petunia x hybrida	0.012	(2S)-eriodictyol	*
+KM	Petroselinum crispum	0.016	2-oxoglutarate	*reaction with naringenin
+KM	Petunia x hybrida	0.02	2-oxoglutarate	*reaction with naringenin
+KM	Arabidopsis thaliana	0.024	(2S)-naringenin	*25&deg;C
+KM	Petunia x hybrida	0.0256	2-oxoglutarate	*mutant enzyme S290T
+KM	Oryza sativa	0.0578	(S)-eriodictyol	*pH 8.0, 37&deg;C
+KM	Petunia x hybrida	0.08	2-oxoglutarate	*mutant enzyme S290A
+KM	Glycine max	0.087	eriodictyol	*pH 8.0, 37&deg;C
+KM	Petunia x hybrida	0.1896	2-oxoglutarate	*mutant enzyme S290V
+KM	x Ascocenda	0.207	naringenin	*pH 8.0, 45&deg;C
+KM	Artemisia annua	0.218	naringenin	*pH 8.5, 35&deg;C, recombinant His-tagged enzyme
+KM	Petunia x hybrida	1.4	2-oxoadipate	*
+MW	Petunia x hybrida	35000	*	*x * 35000 + x * 37000, two-dimensional SDS-PAGE
+MW	Oryza sativa	36800	*	*x * 36800, calculated
+MW	Petunia x hybrida	37000	*	*x * 35000 + x * 37000, two-dimensional SDS-PAGE
+MW	Oryza sativa	38700	*	*x * 38700, calculated
+MW	Petunia x hybrida	39200	*	*sedimentation equilibrium analysis
+MW	Matthiola incana	40000	*	*x * 40000, calculation from nucleotide sequence
+MW	Vitis vinifera	41000	*	*SDS-PAGE
+MW	Hololachna songarica	41350	*	*x * 41350, sequence calculation
+MW	Glycine max	42700	*	*x * 42700, calculated, x * 68000, SDS-PAGE of fusion protein with glutathione S-transferase
+MW	Oryza sativa	42700	*	*x * 42700, calculated
+MW	Hordeum vulgare	43600	*	*x * 43600, calculation from nucleotide sequence
+MW	Petroselinum crispum	48000	*	*gel filtration
+MW	Glycine max	68000	*	*x * 42700, calculated, x * 68000, SDS-PAGE of fusion protein with glutathione S-transferase
+MW	Petunia x hybrida	74000	*	*gel filtration
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	flavonoid biosynthesis	*	*
+PATH	*	Flavonoid biosynthesis	*	*
+PATH	*	flavonoid biosynthesis (in equisetum)	*	*
+PATH	*	leucodelphinidin biosynthesis	*	*
+PATH	*	leucopelargonidin and leucocyanidin biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	pinobanksin biosynthesis	*	*
+SA	Matthiola incana	-999	*	*
+SA	Petroselinum crispum	-999	*	*
+SA	Petunia x hybrida	-999	*	*
+SA	Petunia x hybrida	-999	*	*
+SA	Petunia x hybrida	-999	*	*
+SA	Prunus cerasus	-999	*	*no activity in leaves, whether with enzyme extraction protocol 1 or 2
+SA	Prunus domestica	-999	*	*no activity in ripe fruit, whether with enzyme extraction protocol 1 or 2
+SA	Rubus idaeus	-999	*	*no activity in unripe fruit, whether with enzyme extraction protocol 1 or 2
+SA	Sambucus nigra	0.0000026	*	*unripe fruit: 43 nkat/kg total protein (enzyme extraction protocol 2)
+SA	Sambucus nigra	0.0000038	*	*flower: 64 nkat/kg total protein (enzyme extraction protocol 1)
+SA	Ribes uva-crispa	0.0000079	*	*ripe fruit: 131 nkat/kg total protein (enzyme extraction protocol 2), no activity with enzyme extraction protocol 1
+SA	Ribes uva-crispa	0.000012	*	*unripe fruit: 196 nkat/kg total protein (enzyme extraction protocol 1)
+SA	Rubus plicatus	0.000012	*	*leaves: 198 nkat/kg total protein (enzyme extraction protocol 1); leaves: 198 nkat/kg total protein (enzyme extraction protocol 2)
+SA	Sambucus nigra	0.000015	*	*unripe fruit: 242 nkat/kg total protein (enzyme extraction protocol 1)
+SA	Prunus domestica	0.000019	*	*leaves: 316 nkat/kg total protein (enzyme extraction protocol 1), no activity with enzyme extraction protocol 2
+SA	Prunus avium	0.000021	*	*ripe fruit: 357 nkat/kg total protein (enzyme extraction protocol 2)
+SA	Rubus plicatus	0.000023	*	*ripe fruit: 388 nkat/kg total protein (enzyme extraction protocol 1)
+SA	Rubus plicatus	0.000026	*	*unripe fruit: 440 nkat/kg total protein (enzyme extraction protocol 2), no activity with enzyme extraction protocol 1
+SA	Rubus plicatus	0.000027	*	*ripe fruit: 443 nkat/kg total protein (enzyme extraction protocol 2)
+SA	Sambucus nigra	0.000028	*	*flower: 46 nkat/kg total protein (enzyme extraction protocol 2)
+SA	Sambucus nigra	0.000029	*	*ripe fruit: 484 nkat/kg total protein (enzyme extraction protocol 2)
+SA	Prunus avium	0.000036	*	*leaves: 606 nkat/kg total protein (enzyme extraction protocol 2)
+SA	Sambucus nigra	0.000041	*	*leaves: 690 nkat/kg total protein (enzyme extraction protocol 1), no activity with enzyme extraction protocol 2; ripe fruit: 688 nkat/kg total protein (enzyme extraction protocol 1)
+SA	Prunus avium	0.000045	*	*leaves: 758 nkat/kg total protein (enzyme extraction protocol 1)
+SA	Prunus domestica	0.00005	*	*unripe fruit: 833 nkat/kg total protein (enzyme extraction protocol 2), no activity with enzyme extraction protocol 1
+SA	Prunus avium	0.000056	*	*ripe fruit: 932 nkat/kg total protein (enzyme extraction protocol 1)
+SA	Ribes uva-crispa	0.000062	*	*unripe fruit: 1039 nkat/kg total protein (enzyme extraction protocol 2)
+SA	Rubus idaeus	0.000066	*	*leaves: 1105 nkat/kg total protein (enzyme extraction protocol 2), no activity with enzyme extraction protocol 1
+SA	Rubus idaeus	0.000092	*	*ripe fruit: 1537 nkat/kg total protein (enzyme extraction protocol 2), no activity with enzyme extraction protocol 1
+SA	Ribes uva-crispa	0.00012	*	*leaves: 1933 nkat/kg total protein (enzyme extraction protocol 2), no activity with enzyme extraction protocol 1
+SA	Prunus cerasus	0.00026	*	*unripe fruit: 4400 nkat/kg total protein (enzyme extraction protocol 2), no activity with enzyme extraction protocol 1
+SA	Prunus cerasus	0.0009	*	*ripe fruit: 15072 nkat/kg total protein (enzyme extraction protocol 1)
+SA	Prunus cerasus	0.00094	*	*ripe fruit: 15652 nkat/kg total protein (enzyme extraction protocol 2)
+SA	Camellia sinensis	0.032	*	*
+SA	Arabidopsis thaliana	25	*	*25&deg;C
+SA	Camellia sinensis	32000	*	*pH 7.0, 25&deg;C

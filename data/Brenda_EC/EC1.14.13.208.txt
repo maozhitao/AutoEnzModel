@@ -1,0 +1,9 @@
+KM	Aromatoleum evansii	0.03	benzoyl-CoA	*pH 8, 22&Acirc;&deg;C, addition of the putative ring cleaving enzyme BoxC leads to a several-fold acceleration of the initial rate and completes conversion of benzoyl-CoA. Because of this complex behaviour of the oxygenase system, the apparent Km value for benzoyl-CoA can only be estimated from the time curve of benzoyl-CoA concentration in an assay mixture that contains BoxAB and the putative ring-cleaving enzyme BoxC. This curve shows a half-maximal rate at a benzoyl-CoA concentration of 0.03 mM
+MW	Aromatoleum evansii	45883	*	*2 * 45883, component BoxA, calculated from sequence
+MW	Aromatoleum evansii	46000	*	*x + 55000 (benzoyl-CoA oxygenase component B) + x * 46000, (benzoyl-CoA oxygenase component A), BoxB functions as the oxygenase part of benzoyl-CoA oxygenase in conjunction with BoxA, the reductase component. BoxA functions as the reducing component of benzoyl-CoA oxygenase, which, upon binding of benzoyl-CoA, transfers two electrons to the ring in the course of dioxygenation, calculated from sequence
+MW	Aromatoleum evansii	46000	*	*2 * 46000 (BoxA) + 50000 (BoxB), boxA/boxB system, BoxA is a homodimeric 46 kDa iron-sulfur-flavoprotein, which acts as reductase. BoxB is a monomeric iron-protein (50000-60000 Da, gel filtration. 50000 Da, SDS-PAGE)
+MW	Aromatoleum evansii	50000	*	*2 * 50000, component BoxA, SDS-PAGE
+MW	Aromatoleum evansii	54000	*	*1 * 54000, BoxB, SDS-PAGE
+MW	Aromatoleum evansii	98000	*	*BoxA, gel filtration
+PATH	*	Benzoate degradation	*	*
+PATH	*	benzoyl-CoA degradation I (aerobic)	*	*

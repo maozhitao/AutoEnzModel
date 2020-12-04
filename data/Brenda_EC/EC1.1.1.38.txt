@@ -1,0 +1,127 @@
+KCAT	Ascaris suum	0.06	pyruvate	*in the presence of NAD+, 20 mM Mn2+
+KCAT	Ascaris suum	0.09	pyruvate	*in the absence of NAD+, 20 mM Mn2+
+KCAT	Ascaris suum	28	oxaloacetate	*in the absence of NAD+, 20 mM Mn2+
+KCAT	Ascaris suum	30	oxaloacetate	*in the presence of NAD+, 20 mM Mn2+
+KCAT	Homo sapiens	5	(S)-malate	*pH 7.4, 30&Acirc;&deg;C, recombinant mutant K57S/E59N/K73E/D102S with or without 5 mM fumarate
+KCAT	Homo sapiens	43	(S)-malate	*pH 7.4, 30&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Homo sapiens	55	(S)-malate	*pH 7.4, 30&Acirc;&deg;C, recombinant wild-type enzyme with 5 mM fumarate
+KCAT	Escherichia coli K-12	134.4	(S)-malate	*pH 7.2, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Ascaris suum	130	L-malate	*native and recombinant enzyme
+KM	Homo sapiens	-999	more	*cytosolic NADP+-dependent malic enzyme (c-NADP-ME) is neither a cooperative nor an allosteric enzyme
+KM	Ascaris suum	0.004	NAD+	*pH 9.0
+KM	Ascaris suum	0.011	NAD+	*native enzyme
+KM	Ascaris suum	0.011	NAD+	*pH 7.3
+KM	Ascaris suum	0.015	NAD+	*recombinant enzyme
+KM	Escherichia coli	0.025	NADH	*reduction of oxaloacetate
+KM	Escherichia coli W	0.046	NAD+	*in the presence of 5 mM L-aspartate
+KM	Lactobacillus plantarum	0.05	NAD+	*
+KM	Escherichia coli W	0.055	NAD+	*
+KM	Escherichia coli W	0.058	NAD+	*in the presence of 0.5 mM L-aspartate
+KM	Ascaris suum	0.06	NAD+	*at pH 6.5, 7.0 and 7.5
+KM	Escherichia coli	0.063	NAD+	*decarboxylation of L-malate
+KM	Escherichia coli W	0.071	NAD+	*nearly hyperbolic NAD+ saturation curve
+KM	Escherichia coli K-12	0.097	NAD+	*pH 7.2, 25&deg;C, recombinant enzyme
+KM	Lactobacillus plantarum	0.12	Mn2+	*
+KM	Sinorhizobium meliloti	0.142	NAD+	*
+KM	Escherichia coli W	0.19	L-malate	*in the presence of 1 mM L-aspartate, pH 7.9
+KM	Escherichia coli W	0.22	L-malate	*in the presence of 2 mM L-aspartate, pH 5.5
+KM	Escherichia coli W	0.26	L-malate	*in the absence of L-aspartate, pH 5.5
+KM	Homo sapiens	0.3	NADH	*pH 7.4, 30&deg;C, recombinant mutant K57S/E59N/K73E/D102S; pH 7.4, 30&deg;C, recombinant mutant K57S/E59N/K73E/D102S with 5 mM fumarate; pH 7.4, 30&deg;C, recombinant wild-type with 5 mM fumarate
+KM	Escherichia coli W	0.32	Mn2+	*
+KM	Eleusine indica	0.39	NAD+	*
+KM	Proteus vulgaris	0.4	L-malate	*
+KM	Escherichia coli W	0.4	L-malate	*in the absence of L-aspartate, pH 7.9
+KM	Escherichia coli W	0.4	L-malate	*
+KM	Escherichia coli K-12	0.42	(S)-malate	*pH 7.2, 25&deg;C, recombinant enzyme
+KM	Escherichia coli	0.45	L-malate	*decarboxylation of L-malate
+KM	Panicum miliaceum	0.45	NAD+	*
+KM	Digitaria sanguinalis	0.46	NAD+	*
+KM	Zea mays	0.48	NAD+	*
+KM	Megathyrsus maximus	0.49	NAD+	*
+KM	Erwinia aroidea	0.5	L-malate	*
+KM	Saccharomyces cerevisiae	0.5	NAD+	*
+KM	Eriochloa borumensis	0.51	NAD+	*
+KM	Escherichia coli W	0.58	L-malate	*in the presence of 2 mM L-aspartate, pH 8.5
+KM	Escherichia coli W	0.7	L-malate	*
+KM	Citrobacter freundii	0.8	L-malate	*
+KM	Ascaris suum	1	L-malate	*native enzyme
+KM	Escherichia coli K-12	1	L-malate	*
+KM	Ascaris suum	1.1	L-malate	*recombinant enzyme
+KM	Rattus norvegicus	1.1	L-malate	*
+KM	Ascaris suum	1.18	L-malate	*pH 7.3
+KM	Escherichia coli B	1.2	L-malate	*
+KM	Panicum miliaceum	1.34	L-malate	*
+KM	Escherichia coli W	1.4	L-malate	*in the absence of L-aspartate, pH 8.5
+KM	Homo sapiens	1.4	NADH	*pH 7.4, 30&deg;C, recombinant wild-type
+KM	Megathyrsus maximus	1.63	L-malate	*
+KM	Eleusine indica	1.76	L-malate	*
+KM	Panicum miliaceum	1.96	L-malate	*
+KM	Escherichia coli	2.1	oxaloacetate	*reduction of oxaloacetate
+KM	Digitaria sanguinalis	2.15	L-malate	*
+KM	Agrobacterium tumefaciens	2.2	L-malate	*
+KM	Zea mays	2.21	L-malate	*
+KM	Escherichia coli W	2.3	NADP+	*
+KM	Homo sapiens	3	(S)-malate	*pH 7.4, 30&deg;C, recombinant mutant K57S/E59N/K73E/D102S
+KM	Rattus norvegicus	3.1	L-malate	*in the presence of 0.5 mM ATP
+KM	Homo sapiens	3.6	(S)-malate	*pH 7.4, 30&deg;C, recombinant mutant K57S/E59N/K73E/D102S with 5 mM fumarate
+KM	Klebsiella aerogenes	4.3	L-malate	*
+KM	Homo sapiens	4.6	(S)-malate	*pH 7.4, 30&deg;C, recombinant wild-type enzyme with 5 mM fumarate
+KM	Escherichia coli	4.8	oxaloacetate	*decarboxylation of oxaloacetate
+KM	Escherichia coli W	5	oxaloacetate	*
+KM	Ascaris suum	5.2	L-malate	*pH 9.0
+KM	Rattus norvegicus	7.3	L-malate	*in the presence of 1.0 mM ATP
+KM	Lactobacillus plantarum	8	L-malate	*
+KM	Sinorhizobium meliloti	8.6	L-malate	*
+KM	Homo sapiens	15.6	(S)-malate	*pH 7.4, 30&deg;C, recombinant wild-type enzyme
+KM	Saccharomyces cerevisiae	50	L-malate	*
+MW	Escherichia coli K-12	65000	*	*monomeric recombinant His6-tagged enzyme, native PAGE
+MW	Clostridium tetanomorphum	84000	*	*gel filtration
+MW	Klebsiella aerogenes	140000	*	*gel filtration
+MW	Proteus vulgaris	180000	*	*gel filtration
+MW	Citrobacter freundii	190000	*	*gel filtration
+MW	Escherichia coli W	198000	*	*low speed sedimentation equilibrium
+MW	Erwinia aroidea	200000	*	*gel filtration
+MW	Escherichia coli B	200000	*	*gel filtration
+MW	Escherichia coli W	203000	*	*sucrose density gradient centrifugation
+MW	Escherichia coli B	220000	*	*gel filtration
+MW	Escherichia coli K-12	220000	*	*gel filtration
+MW	Escherichia coli W	220000	*	*
+MW	Klebsiella aerogenes	240000	*	*gel filtration
+MW	Escherichia coli K-12	260000	*	*tetrameric recombinant His6-tagged enzyme, native PAGE
+MW	Escherichia coli K-12	500000	*	*octameric recombinant His6-tagged enzyme, native PAGE
+MW	Agrobacterium tumefaciens	580000	*	*gel filtration
+PATH	*	anaerobic energy metabolism (invertebrates, mitochondrial)	*	*
+PATH	*	C4 photosynthetic carbon assimilation cycle, NAD-ME type	*	*
+PATH	*	chitin degradation to ethanol	*	*
+PATH	*	gluconeogenesis	*	*
+PATH	*	gluconeogenesis I	*	*
+PATH	*	L-carnitine degradation III	*	*
+PATH	*	L-malate degradation II	*	*
+PATH	*	Pyruvate metabolism	*	*
+SA	Portulaca oleracea	0.017	*	*water stress plants at daytime or at nighttime
+SA	Portulaca oleracea	0.036	*	*control plants at daytime
+SA	Escherichia coli	0.07	*	*pyruvate reduction
+SA	Sinorhizobium meliloti	0.076	*	*
+SA	Portulaca oleracea	0.107	*	*control plants at nighttime
+SA	Saccharomyces cerevisiae	0.2	*	*
+SA	Amaranthus hybridus subsp. cruentus	0.46	*	*below, extract from leaves under continuous light conditions
+SA	Sinorhizobium meliloti	0.545	*	*
+SA	Amaranthus hybridus subsp. cruentus	0.58	*	*below, leaf extract
+SA	Escherichia coli	1.7	*	*oxaloacetate reduction
+SA	Escherichia coli B	2.3	*	*
+SA	Klebsiella aerogenes	5.5	*	*
+SA	Clostridium tetanomorphum	7	*	*
+SA	Escherichia coli W	8.1	*	*
+SA	Escherichia coli K-12	9	*	*
+SA	Leuconostoc mesenteroides	17.5	*	*
+SA	Erwinia aroidea	30	*	*
+SA	Ascaris suum	32	*	*
+SA	Klebsiella aerogenes	32	*	*
+SA	Ascaris suum	35	*	*
+SA	Ascaris suum	38.5	*	*recombinant enzyme
+SA	Agrobacterium tumefaciens	65	*	*
+SA	Proteus vulgaris	70	*	*
+SA	Citrobacter freundii	93	*	*
+SA	Lactobacillus plantarum	170	*	*
+SA	Escherichia coli W	177	*	*
+SA	Lactobacillus plantarum	3900	*	*

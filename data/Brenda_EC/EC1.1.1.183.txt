@@ -1,0 +1,53 @@
+KCAT	Zingiber officinale	5	NADP+	*at pH 9.5 and 25&Acirc;&deg;C; pH 9.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Zingiber officinale	5.4	geraniol	*at pH 9.5 and 25&Acirc;&deg;C; pH 9.5, 25&Acirc;&deg;C, recombinant enzyme
+KCAT	Zingiber officinale	4.6	nerol	*at pH 9.5 and 25&Acirc;&deg;C; pH 9.5, 25&Acirc;&deg;C, recombinant enzyme
+KM	Persicaria minor	0.021	NADP+	*isoform geraniol-DH I, in 100 mM glycine-NaOH, pH 9.5, at 37&deg;C
+KM	Ocimum basilicum	0.03	geraniol	*pH 9.5
+KM	Ocimum basilicum	0.037	nerol	*pH 9.5
+KM	Citrus sp.	0.0465	geraniol	*pH 9.0
+KM	Carpoglyphus lactis	0.051	geraniol	*pH 9.0, 25&deg;C
+KM	Persicaria minor	0.0588	NADP+	*isoform geraniol-DH II, in 100 mM glycine-NaOH, pH 9.5, at 37&deg;C
+KM	Carpoglyphus lactis	0.0596	NAD+	*pH 9.0, 25&deg;C
+KM	Zingiber officinale	0.0609	geraniol	*at pH 9.5 and 25&deg;C; pH 9.5, 25&deg;C, recombinant enzyme
+KM	Citrus sp.	0.0833	geraniol	*pH 7.0
+KM	Zingiber officinale	0.0926	nerol	*at pH 9.5 and 25&deg;C; pH 9.5, 25&deg;C, recombinant enzyme
+KM	Cymbopogon flexuosus	0.1	geranial	*
+KM	Cymbopogon flexuosus	0.12	geraniol	*
+KM	Zingiber officinale	0.1424	NADP+	*at pH 9.5 and 25&deg;C; pH 9.5, 25&deg;C, recombinant enzyme
+KM	Persicaria minor	0.185	geraniol	*isoform geraniol-DH II, in 100 mM glycine-NaOH, pH 9.5, at 37&deg;C
+KM	Persicaria minor	0.4	geraniol	*isoform geraniol-DH I, in 100 mM glycine-NaOH, pH 9.5, at 37&deg;C
+KM	Persicaria minor	0.435	cinnamyl alcohol	*isoform geraniol-DH I, in 100 mM glycine-NaOH, pH 9.5, at 37&deg;C
+KM	Citrus sp.	0.454	NADP+	*pH 9.0
+KM	Persicaria minor	0.556	cinnamyl alcohol	*isoform geraniol-DH II, in 100 mM glycine-NaOH, pH 9.5, at 37&deg;C
+KM	Persicaria minor	0.714	nerol	*isoform geraniol-DH II, in 100 mM glycine-NaOH, pH 9.5, at 37&deg;C
+KM	Persicaria minor	0.741	linalool	*isoform geraniol-DH II, in 100 mM glycine-NaOH, pH 9.5, at 37&deg;C
+KM	Citrus sp.	0.83	NADP+	*pH 7.0
+KM	Persicaria minor	1.212	nerol	*isoform geraniol-DH I, in 100 mM glycine-NaOH, pH 9.5, at 37&deg;C
+KM	Persicaria minor	1.333	linalool	*isoform geraniol-DH I, in 100 mM glycine-NaOH, pH 9.5, at 37&deg;C
+KM	Persicaria minor	2.222	3,7-dimethyloct-6-en-1-ol	*isoform geraniol-DH II, in 100 mM glycine-NaOH, pH 9.5, at 37&deg;C
+KM	Cymbopogon flexuosus	8.8	NADPH	*
+KM	Persicaria minor	10	3,7-dimethyloct-6-en-1-ol	*isoform geraniol-DH I, in 100 mM glycine-NaOH, pH 9.5, at 37&deg;C
+KM	Cymbopogon flexuosus	19.2	NADP+	*
+MW	Zingiber officinale	39590	*	*
+MW	Backhousia citriodora	40870	*	*x * 41000, SDS-PAGE, x * 40870, calculated
+MW	Backhousia citriodora	41000	*	*x * 41000, SDS-PAGE, x * 40870, calculated
+MW	Carpoglyphus lactis	42800	*	*x * 42800, SDS-PAGE
+MW	Persicaria minor	56000	*	*1 * 56000 + 1 * 60000, isoform geraniol-DH II, SDS-PAGE
+MW	Persicaria minor	58000	*	*1 * 58000 + 1 * 62000, isoform geraniol-DH I, SDS-PAGE
+MW	Persicaria minor	60000	*	*1 * 56000 + 1 * 60000, isoform geraniol-DH II, SDS-PAGE
+MW	Persicaria minor	62000	*	*1 * 58000 + 1 * 62000, isoform geraniol-DH I, SDS-PAGE
+MW	Cymbopogon flexuosus	84000	*	*
+MW	Citrus sp.	92000	*	*estimation, gel filtration
+MW	Persicaria minor	100000	*	*isoform geraniol-DH I, gel filtration
+MW	Persicaria minor	120000	*	*isoform geraniol-DH II, gel filtration
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	geraniol and geranial biosynthesis	*	*
+PATH	*	Geraniol degradation	*	*
+SA	Citrus sp.	-999	*	*nerol shows 60% of the rate with geraniol, farnesol about 11% and citronellol 8%
+SA	Zingiber officinale	-999	*	*nerol shows 52.9% of the activity with geraniol, citronellol about 20.6%, 2-heptanol 10.3% and heptanol only 7.4%
+SA	Cymbopogon flexuosus	-999	*	*79.22 +/-2.76 nkat per 20 days old leaf
+SA	Persicaria minor	0.002	*	*cell free extract, in 100 mM glycine-NaOH, pH 9.5, at 37&deg;C
+SA	Persicaria minor	0.175	*	*isoform geraniol-DH I, after 116.7fold purification, in 100 mM glycine-NaOH, pH 9.5, at 37&deg;C
+SA	Citrus sp.	0.203	*	*
+SA	Persicaria minor	0.261	*	*isoform geraniol-DH II, after 173.8fold purification, in 100 mM glycine-NaOH, pH 9.5, at 37&deg;C
+SA	Carpoglyphus lactis	31	*	*purified enzyme

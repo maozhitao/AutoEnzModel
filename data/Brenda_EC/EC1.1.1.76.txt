@@ -1,0 +1,41 @@
+KCAT	Bacillus licheniformis	1222	diacetyl	*at pH 5.0 and 30&Acirc;&deg;C
+KCAT	Bacillus licheniformis	591	(R,R)-butane-2,3-diol	*at pH 10.0 and 30&Acirc;&deg;C
+KCAT	Mycobacterium sp.	6	(R,S)-acetoin	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Bacillus licheniformis	202	(2S)-acetoin	*at pH 10.0 and 30&Acirc;&deg;C
+KM	Corynebacterium glutamicum	0.07	NAD+	*pH 10.5; pH 6.0
+KM	Corynebacterium glutamicum	0.1	NADH	*pH 6.0
+KM	Corynebacterium glutamicum	0.22	(S,S)-butane-2,3-diol	*pH 10.5; pH 6.0
+KM	Corynebacterium glutamicum	0.44	L-acetoin	*pH 6.0
+KM	Bacillus licheniformis	0.47	(2S)-acetoin	*at pH 10.0 and 30&deg;C
+KM	Bacillus licheniformis	7.25	(R,R)-butane-2,3-diol	*at pH 10.0 and 30&deg;C
+KM	Mycobacterium sp.	42.2	(R,S)-acetoin	*pH 7.0, 30&deg;C
+KM	Bacillus licheniformis	72.4	diacetyl	*at pH 5.0 and 30&deg;C
+MW	Corynebacterium glutamicum	26000	*	*4 * 26000, SDS-PAGE
+MW	Corynebacterium glutamicum	26800	*	*x * 26800, SDS-PAGE
+MW	Rhodococcus erythropolis	26864	*	*2 * 26864, sequence calculation
+MW	Corynebacterium glutamicum	27107	*	*4 * 30000, SDS-PAGE, 4 * 27107, estimation from gene sequence
+MW	Corynebacterium glutamicum	30000	*	*4 * 30000, SDS-PAGE; 4 * 30000, SDS-PAGE, 4 * 27107, estimation from gene sequence
+MW	Bacillus licheniformis	30000	*	*4 * 30000, SDS-PAGE
+MW	Mycobacterium sp.	36000	*	*
+MW	Corynebacterium glutamicum	103000	*	*gel filtration
+MW	Corynebacterium glutamicum	110000	*	*gel filtration
+MW	Bacillus licheniformis	125000	*	*gel filtration
+MW	Mycobacterium sp.	150000	*	*gel filtration
+PATH	*	(S,S)-butanediol biosynthesis	*	*
+PATH	*	(S,S)-butanediol degradation	*	*
+PATH	*	acetoin degradation	*	*
+PATH	*	Butanoate metabolism	*	*
+SA	Corynebacterium glutamicum	-999	*	*highest specific activities without glucose addition to culture medium, induction with 0.25 mg/ml isopropyl-beta-thiogalactopyranosid
+SA	Corynebacterium glutamicum	-999	*	*
+SA	Corynebacterium glutamicum	0.1	*	*substrate meso-2,3-butanediol, pH 8.0, 37&deg;C
+SA	Corynebacterium glutamicum	0.44	*	*3% 2,3-butanediol as carbon source
+SA	Corynebacterium glutamicum	0.79	*	*1% glucose as carbon source
+SA	Corynebacterium glutamicum	1.51	*	*plasmid containing L-butanediol dehydrogenase gene
+SA	Corynebacterium glutamicum	2.8	*	*
+SA	Corynebacterium glutamicum	4.3	*	*substrate (2S,3S)-2,3-butanediol, pH 8.0, 37&deg;C
+SA	Corynebacterium glutamicum	17	*	*plasmid containing tac promoter and L-butanediol dehydrogenase ORF
+SA	Corynebacterium glutamicum	18.6	*	*plasmid containing meso-butanediol dehydrogenase promoter region and L-butanediol dehydrogenase ORF
+SA	Corynebacterium glutamicum	39	*	*at pH 7.4 and 30&deg;C
+SA	Rhodococcus erythropolis	269	*	*purified recombinant enzyme, (2S,3S)-2,3-butanediol oxidation, pH 9.5, 25&deg;C
+SA	Corynebacterium glutamicum	277.6	*	*
+SA	Rhodococcus erythropolis	8519	*	*purified recombinant enzyme, diacetyl reduction, pH 7.0, 30&deg;C

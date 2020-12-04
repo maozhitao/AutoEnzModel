@@ -1,0 +1,76 @@
+KCAT	Escherichia coli	11	pyruvate	*
+KCAT	Escherichia coli	12.8	pyruvate	*forward direction
+KCAT	Escherichia coli	3.8	formate	*
+KCAT	Escherichia coli	4.33	formate	*backward direction
+KM	Escherichia coli	-999	more	*steady-state kinetics of wild-type and mutant enzymes
+KM	Escherichia coli	-999	more	*kinetics and equilibrium constant for the enzyme's interaction with activating enzyme PFL-AE, the interaction is very slow and rate-limited by large conformational changes, circular dichroism study
+KM	Escherichia coli	0.0068	CoA	*
+KM	Escherichia coli	0.0068	CoA	*
+KM	Clostridium butyricum	0.012	CoA	*pyruvate
+KM	Escherichia coli	0.051	acetyl-CoA	*
+KM	Escherichia coli	0.051	acetyl-CoA	*
+KM	Clostridium butyricum	0.26	acetyl-CoA	*
+KM	Clostridium butyricum	0.6	pyruvate	*pyruvate-formate exchange
+KM	Escherichia coli	0.964	pyruvate	*pH 7.6, 30&deg;C, recombinant mutant A273C
+KM	Clostridium butyricum	1.6	pyruvate	*
+KM	Clostridium butyricum	1.6	pyruvate	*
+KM	Escherichia coli	2	pyruvate	*
+KM	Streptococcus equinus	2	pyruvate	*
+KM	Escherichia coli	2.05	pyruvate	*
+KM	Escherichia coli	2.37	pyruvate	*pH 7.6, 30&deg;C, recombinant wild-type enzyme
+KM	Streptococcus mutans	2.6	pyruvate	*
+KM	Escherichia coli	3.55	pyruvate	*pH 7.6, 30&deg;C, recombinant mutant E400I
+KM	Escherichia coli	3.6	pyruvate	*pH 7.6, 30&deg;C, recombinant mutant E336C
+KM	Clostridium butyricum	10	formate	*
+KM	Clostridium butyricum	20	formate	*pyruvate-formate exchange
+KM	Escherichia coli	24	formate	*
+KM	Escherichia coli	24	formate	*
+KM	Escherichia coli	24.5	formate	*
+MW	Escherichia coli	70000	*	*2 * 70000
+MW	Streptococcus salivarius	80000	*	*SDS-PAGE
+MW	Streptococcus sanguinis	80000	*	*SDS-PAGE
+MW	Escherichia coli	80000	*	*identification of pfl gene product
+MW	Streptococcus equinus	83000	*	*1 * 87000 + 1 * 83000, TOF-MS flight mass spectrometry, SDS-PAGE
+MW	Streptococcus equinus	83000	*	*1 * 87000 + 1 * 83000, TOF-MS flight mass spectrometry, SDS-PAGE
+MW	Clostridium pasteurianum	85000	*	*2 * 85000, homodimer, SDS-PAGE
+MW	Escherichia coli	85000	*	*2 * 85000, homodimer, SDS-PAGE
+MW	Escherichia coli	85000	*	*2 * 85000, homodimer, SDS-PAGE
+MW	Escherichia coli	85000	*	*2 * 85000, homodimer, SDS-PAGE
+MW	Escherichia coli	85000	*	*2 * 85000, homodimer, SDS-PAGE
+MW	Escherichia coli	85000	*	*2 * 85000, homodimer, SDS-PAGE
+MW	Escherichia coli	85000	*	*2 * 85000, homodimer, SDS-PAGE
+MW	Escherichia coli	85000	*	*2 * 85000, homodimer, SDS-PAGE
+MW	Escherichia coli	85120	*	*amino acid sequence calculation
+MW	Escherichia coli	85500	*	*2 * 85500, homodimer, SDS-PAGE
+MW	Streptococcus equinus	87000	*	*1 * 87000 + 1 * 83000, TOF-MS flight mass spectrometry, SDS-PAGE
+MW	Streptococcus equinus	87000	*	*1 * 87000 + 1 * 83000, TOF-MS flight mass spectrometry, SDS-PAGE
+MW	Streptococcus mutans	90000	*	*2 * 90000, SDS-PAGE
+MW	Archaeoglobus fulgidus	95000	*	*4 * 95000, structure analysis, crystal packing, solution X-ray scattering, and ultracentrifugation
+MW	Escherichia coli	140000	*	*gel filtration, sedimentation velocity
+MW	Escherichia coli	150000	*	*gel filtration
+MW	Escherichia coli	151000	*	*sedimentation equilibrium
+MW	Streptococcus mutans	170000	*	*gel filtration
+MW	Escherichia coli	170000	*	*
+MW	Escherichia coli	170000	*	*
+MW	Streptococcus equinus	180000	*	*TOF-MS flight mass spectrometry
+MW	Archaeoglobus fulgidus	297000	*	*dynamic light scattering, analytical ultracentrifugation
+PATH	*	(S)-lactate fermentation to propanoate, acetate and hydrogen	*	*
+PATH	*	Butanoate metabolism	*	*
+PATH	*	ethanol fermentation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	mixed acid fermentation	*	*
+PATH	*	Propanoate metabolism	*	*
+PATH	*	pyruvate fermentation to acetate IV	*	*
+PATH	*	pyruvate fermentation to ethanol I	*	*
+PATH	*	Pyruvate metabolism	*	*
+PATH	*	reductive monocarboxylic acid cycle	*	*
+PATH	*	superpathway of fermentation (Chlamydomonas reinhardtii)	*	*
+PATH	*	threonine metabolism	*	*
+SA	Escherichia coli	-999	*	*
+SA	Chlamydomonas reinhardtii	-999	*	*ethanol-producing fermentative metabolism in Chlamydomonas reinhardtii proposed to be initiated by pyruvate formate-lyase, heterologous expression of Chlamydomonas Pfl1 protein in pyruvate formate-lyase-deficient strain of Escherichia coli, enzmye activity under anaerobic conditions regained, Pfl1 fermentation pathway of Chlamydomonas reinhardtii under physiological condition of sulfur depletion analyzed, formate accumulation measured
+SA	Escherichia coli	-999	*	*mechanistic effect of choosing different protonation states for a substrate carboxylate group that is involved in a salt bridge with an arginine residue analyzed, modeling of arginine-bound carboxylates, computational details, neutral model and anionic model presented, extended model consists of pyruvate in a complex with methylguanidinum and methylthiyl radical, neutral carboxylic acid as a more realistic approximation to the salt bridge arrangement than a bare anionic carboxylate substituent
+SA	Streptococcus mutans	12	*	*
+SA	Escherichia coli	25	*	*
+SA	Escherichia coli	60	*	*
+SA	Escherichia coli	160	*	*

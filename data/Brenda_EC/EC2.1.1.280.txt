@@ -1,0 +1,39 @@
+KCAT	Escherichia coli	0.00017	L-selenocysteine	*pH 6, 30&deg;C, cosubstrate: S-adenosyl-L-methionine; with [methyl-14C]S-adenosyl-L-methionine, pH 6.5, 30&deg;C
+KCAT	Astragalus bisulcatus	0.0062	L-selenocysteine	*pH 6, 30&deg;C, cosubstrate: S-adenosyl-L-methionine; with [methyl-14C]S-adenosyl-L-methionine, pH 6.0, 30&deg;C
+KCAT	Astragalus bisulcatus	0.0074	DL-selenohomocysteine	*pH 6, 30&deg;C, cosubstrate: S-adenosyl-L-methionine; with [methyl-14C]S-adenosyl-L-methionine, pH 6.0, 30&deg;C
+KCAT	Escherichia coli	0.38	L-homocysteine	*with [methyl-14C]S-adenosyl-L-methionine, pH 6.5, 30&deg;C
+KCAT	Escherichia coli	0.74	DL-selenohomocysteine	*pH 6, 30&deg;C, cosubstrate: S-adenosyl-L-methionine; with [methyl-14C]S-adenosyl-L-methionine, pH 6.5, 30&deg;C
+KM	Astragalus bisulcatus	0.015	S-adenosyl-L-methionine	*pH 6.0, 30&Acirc;&deg;C
+KM	Escherichia coli	0.045	L-homocysteine	*app. Km-value with [methyl-14C]S-adenosyl-L-methionine, pH 6.5, 30&Acirc;&deg;C
+KM	Astragalus bisulcatus	0.74	L-homocysteine	*mutant enzyme A184T, wild-type enzyme is not active with L-homocysteine
+KM	Astragalus bisulcatus	0.37	L-selenocysteine	*wild-type enzyme
+KM	Astragalus bisulcatus	0.46	L-selenocysteine	*mutant enzyme A184T
+KM	Escherichia coli	0.59	L-selenocysteine	*app. Km-valuen with [methyl-14C]S-adenosyl-L-methionine, pH 6.5, 30&Acirc;&deg;C; pH 6, 30&Acirc;&deg;C, cosubstrate: S-adenosyl-L-methionine
+KM	Astragalus bisulcatus	0.7	L-selenocysteine	*pH 6.0, 30&Acirc;&deg;C
+KM	Astragalus bisulcatus	0.7	L-selenocysteine	*app. Km-value with [methyl-14C]S-adenosyl-L-methionine, pH 6.0, 30&Acirc;&deg;C; pH 6, 30&Acirc;&deg;C, cosubstrate: S-adenosyl-L-methionine
+KM	Escherichia coli	0.043	DL-selenohomocysteine	*app. Km-value with [methyl-14C]S-adenosyl-L-methionine, pH 6.5, 30&Acirc;&deg;C; pH 6, 30&Acirc;&deg;C, cosubstrate: S-adenosyl-L-methionine
+KM	Astragalus bisulcatus	0.35	DL-selenohomocysteine	*app. Km-value with [methyl-14C]S-adenosyl-L-methionine, pH 6.0, 30&Acirc;&deg;C; pH 6, 30&Acirc;&deg;C, cosubstrate: S-adenosyl-L-methionine
+KM	Astragalus bisulcatus	0.3	DL-selenocysteine	*pH 6.0, 30&Acirc;&deg;C
+MW	Escherichia coli	22500	*	*1 * 22500, calculated from sequence
+MW	Escherichia coli	33500	*	*calculated from gene sequence
+MW	Escherichia coli	34000	*	*gel filtration
+MW	Escherichia coli	35000	*	*SDS-PAGE
+MW	Astragalus bisulcatus	36700	*	*calculated from nucleotide sequence; x * 36700, calculated from sequence
+MW	Astragalus chrysochlorus	36940	*	*x * 36940, calculated from amino acid sequence
+MW	Brassica oleracea	37900	*	*calculated from protein sequence
+MW	Astragalus bisulcatus	38000	*	*gel filtration; SDS-PAGE and gel filtration on a Superdex 75 column
+MW	Astragalus chrysochlorus	40000	*	*x * 40000, SDS-PAGE
+MW	Camellia sinensis	40500	*	*x * 40500, calculated from amino acid sequence
+MW	Camellia sinensis	58900	*	*x * 58900, recombinant enzyme, SDS-PAGE
+PATH	*	seleno-amino acid detoxification and volatilization III	*	*
+PATH	*	selenocysteine biosynthesis	*	*
+SA	Astragalus bisulcatus	-999	*	*with L-S-methylmethionine, maximal conversion is 100%, pH 6.0, 30&deg;C
+SA	Brassica oleracea	0.001	*	*with 10 mM DL-homocysteine as methyl acceptor and [methyl-14C]adenosylmethionine as the methyl donor, pH 7.0 and 25&deg;C
+SA	Brassica oleracea	0.0011	*	*with 10 mM L-cysteine as methyl acceptor and [methyl-14C]adenosylmethionine as the methyl donor, pH 7.0 and 25&deg;C
+SA	Brassica oleracea	0.0018	*	*with 10 mM DL-cysteine as methyl acceptor and [methyl-14C]adenosylmethionine as the methyl donor, pH 7.0 and 25&deg;C
+SA	Brassica oleracea	0.0024	*	*with 0.5 mM L-selenocysteine as methyl acceptor and [methyl-14C]adenosylmethionine as the methyl donor, pH 7.0 and 25&deg;C
+SA	Brassica oleracea	0.0051	*	*with 0.5 mM DL-selenocysteine as methyl acceptor and [methyl-14C]adenosylmethionine as the methyl donor, pH 7.0 and 25&deg;C
+SA	Astragalus bisulcatus	0.00971	*	*
+SA	Astragalus bisulcatus	0.016	*	*with [methyl-14C]S-adenosyl-L-methionine, maximal conversion is 10%, pH 6.0, 30&deg;C
+SA	Astragalus bisulcatus	0.68	*	*with S-adenosyl-L-methionine, maximal conversion is 20-25%, pH 6.0, 30&deg;C
+SA	Astragalus bisulcatus	1.5	*	*with DL-S-methylmethionine, maximal conversion is 50%, pH 6.0, 30&deg;C

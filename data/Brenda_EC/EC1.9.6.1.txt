@@ -1,0 +1,27 @@
+KM	Paracoccus pantotrophus	0.045	nitrate	*pH 7, NapAB catalysed nitrate reduction driven by direct electron transfer from the electrode to NapAB, protein film voltammetry
+KM	Cupriavidus necator	0.12	nitrate	*pH 5.5, 37&Acirc;&deg;C
+KM	Aliivibrio fischeri	-999	more	*
+KM	Rhodobacter sphaeroides	-999	more	*steady-state kinetics during activation and inactivation of the enzyme, chronoamperometry, overview. The inactive species exists under three redox states, and the active form must exist in different redox states within the catalytic cycle
+MW	Campylobacter jejuni	16000	*	*x * 90000 + x * 16000, two-subunit complex, NapA is an 90000 Da catalytic subunit which binds a bis-molybdenum guanosine dinucleoside cofactor and a [4Fe4S] cluster. NapB is an 16000 Da electron-transfer subunit, which in other bacteria binds two c-type haems
+MW	Paracoccus pantotrophus	16000	*	*x * 16000 + x * 90000, SDS-PAGE
+MW	Paracoccus pantotrophus	16000	*	*1 * 93000 + 1 * 16000, SDS-PAGE
+MW	Escherichia coli K-12	16000	*	*1 * 90000 (NapA) + 1 * 16000 (NapB), Nap activity is lost rapidly during the separation of NapA from NapB by anion exchange chromatography, SDS-PAGE
+MW	Escherichia coli	17000	*	*1 * 17000 (NapB) + 1 * 90000 (NapA), the NapA holoenzyme associates with a di-heme c-type cytochrome redox partner (NapB). NapA and NapB proteins purify independently and not as a tight heterodimeric complex. Dissociation constants of 0.015 mM and 0.032 mM are determined for oxidized and reduced NapAB complexes, respectively
+MW	Cupriavidus necator	17000	*	*1 * 17000 + 1 * 87000, SDS-PAGE
+MW	Cupriavidus necator	18924	*	*1 * 93309 + 1 * 18924, calculated from sequence
+MW	Cupriavidus necator	87000	*	*1 * 17000 + 1 * 87000, SDS-PAGE
+MW	Campylobacter jejuni	90000	*	*x * 90000 + x * 16000, two-subunit complex, NapA is an 90000 Da catalytic subunit which binds a bis-molybdenum guanosine dinucleoside cofactor and a [4Fe4S] cluster. NapB is an 16000 Da electron-transfer subunit, which in other bacteria binds two c-type haems
+MW	Escherichia coli	90000	*	*1 * 17000 (NapB) + 1 * 90000 (NapA), the NapA holoenzyme associates with a di-heme c-type cytochrome redox partner (NapB). NapA and NapB proteins purify independently and not as a tight heterodimeric complex. Dissociation constants of 0.015 mM and 0.032 mM are determined for oxidized and reduced NapAB complexes, respectively
+MW	Paracoccus pantotrophus	90000	*	*x * 16000 + x * 90000, SDS-PAGE
+MW	Escherichia coli K-12	90000	*	*1 * 90000 (NapA) + 1 * 16000 (NapB), Nap activity is lost rapidly during the separation of NapA from NapB by anion exchange chromatography, SDS-PAGE
+MW	Cupriavidus necator	92000	*	*gel filtration
+MW	Paracoccus pantotrophus	93000	*	*1 * 93000 + 1 * 16000, SDS-PAGE
+MW	Cupriavidus necator	93309	*	*1 * 93309 + 1 * 18924, calculated from sequence
+MW	Aliivibrio fischeri	100000	*	*
+MW	Paracoccus pantotrophus	110000	*	*gel filtration
+PATH	*	Metabolic pathways	*	*
+PATH	*	nitrate reduction IV (dissimilatory)	*	*
+PATH	*	nitrate reduction X (dissimilatory, periplasmic)	*	*
+PATH	*	Nitrogen metabolism	*	*
+SA	Aliivibrio fischeri	1.484	*	*
+SA	Paracoccus pantotrophus	95	*	*

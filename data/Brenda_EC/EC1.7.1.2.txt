@@ -1,0 +1,46 @@
+KCAT	Candida nitratophila	-999	more	*above 6000
+KCAT	Glycine max	-999	more	*
+KCAT	Ankistrodesmus braunii	470	NADPH	*
+KM	Chlorella variegata	0.0145	NADPH	*
+KM	Rhodotorula glutinis	0.02	NADPH	*
+KM	Candida nitratophila	0.03	NADPH	*
+KM	Wickerhamomyces anomalus	0.045	NADPH	*
+KM	Chlorella variegata	0.0115	NADH	*
+KM	Candida nitratophila	0.017	NADH	*
+KM	Wickerhamomyces anomalus	0.1	NADH	*
+KM	Rhodotorula glutinis	0.16	NADH	*
+KM	Ankistrodesmus braunii	0.000004	FAD	*as a protector of NADH-cytochrome c reductase activity
+KM	Candida nitratophila	0.11	nitrate	*cosubstrate NADPH
+KM	Candida nitratophila	0.12	nitrate	*cofactor NADH
+KM	Rhodotorula glutinis	0.125	nitrate	*cosubstrate NADPH
+KM	Chlorella variegata	0.13	nitrate	*cofactor NADH
+KM	Chlorella variegata	0.14	nitrate	*cosubstrate NADPH
+KM	Rhodotorula glutinis	0.74	nitrate	*apparent KM
+KM	Chlamydomonas reinhardtii	-999	more	*
+KM	Hordeum vulgare	-999	more	*
+KM	Ankistrodesmus braunii	-999	more	*
+KM	Rhodotorula glutinis	-999	more	*
+MW	Rhodotorula glutinis	65000	*	*2 * 65000, SDS-PAGE
+MW	Candida nitratophila	95000	*	*4 * 95000, Candida nitratophila, SDS-PAGE
+MW	Rhodotorula glutinis	118000	*	*2 * 118000, Rhodotorula glutinis, SDS-PAGE
+MW	Rhodotorula glutinis	130000	*	*SDS-PAGE
+MW	Triticale sp.	190000	*	*SDS-PAGE
+MW	Rhodotorula glutinis	230000	*	*Rhodotorula glutinis, sucrose density gradient centrifugation, gel filtration
+MW	Candida nitratophila	365000	*	*Candida nitratophila, sedimentation equilibrium centrifugation
+MW	Ankistrodesmus braunii	460000	*	*Ankistrodesmus braunii, gel filtration, density gradient centrifugation, disc gel electrophoresis, pore gradient electrophoresis, sucrose-density gradient centrifugation
+MW	Ankistrodesmus braunii	460000	*	*Ankistrodesmus braunii, gel filtration, density gradient centrifugation, disc gel electrophoresis, pore gradient electrophoresis, sucrose-density gradient centrifugation
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Nitrogen metabolism	*	*
+SA	Triticale sp.	0.0000013	*	*crude extract, using FMNH as electron donor, in 50 mM Tris-HCl buffer, pH 7.4, at 25&Acirc;&deg;C
+SA	Triticale sp.	0.0000167	*	*crude extract, using methyl viologen as electron donor, in 0.1 mM potassium phosphate buffer, pH 7.7, at 25&Acirc;&deg;C
+SA	Triticale sp.	0.000117	*	*crude extract, using NADPH as electron donor, in 0.1 mM potassium phosphate buffer, pH 7.5, at 25&Acirc;&deg;C
+SA	Triticale sp.	0.000184	*	*crude extract, using NADH as electron donor, in 0.1 mM potassium phosphate buffer, pH 7.5, at 25&Acirc;&deg;C
+SA	Triticale sp.	0.455	*	*after 2481.9fold purification, using NADH as electron donor, in 0.1 mM potassium phosphate buffer, pH 7.5, at 25&Acirc;&deg;C
+SA	Chlorella variegata	0.718	*	*NADH-nitrate reductase
+SA	Chlorella variegata	0.766	*	*NADPH-nitrate reductase
+SA	Rhodotorula glutinis	1.3	*	*after purification
+SA	Ankistrodesmus braunii	61.25	*	*
+SA	Ankistrodesmus braunii	72	*	*
+SA	Rhodotorula glutinis	148.2	*	*
+SA	Candida nitratophila	217.4	*	*

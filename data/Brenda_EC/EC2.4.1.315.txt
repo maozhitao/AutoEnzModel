@@ -1,0 +1,18 @@
+KCAT	Mycoplasma genitalium	0.004	UDP-alpha-D-glucose	*acceptor 1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol, pH 8.0, 28&deg;C
+KCAT	Mycoplasma genitalium	0.023	1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol	*donor UDP-alpha-D-galactose, pH 8.0, 28&deg;C
+KCAT	Mycoplasma genitalium	0.03	UDP-alpha-D-galactose	*acceptor 1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol, pH 8.0, 28&deg;C
+KCAT	Mycoplasma genitalium	0.27	UDP-alpha-D-glucose	*acceptor 1,2-diacyl-sn-glycerol, pH 8.0, 28&deg;C
+KCAT	Mycoplasma genitalium	1.1	UDP-alpha-D-galactose	*acceptor 1,2-diacyl-sn-glycerol, pH 8.0, 28&deg;C
+KCAT	Mycoplasma genitalium	1.13	1,2-diacyl-sn-glycerol	*donor UDP-alpha-D-galactose, pH 8.0, 28&deg;C
+KM	Mycoplasma genitalium	0.05	UDP-alpha-D-glucose	*above 0.05, acceptor 1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol, pH 8.0, 28&deg;C
+KM	Mycoplasma genitalium	0.087	UDP-alpha-D-glucose	*acceptor 1,2-diacyl-sn-glycerol, pH 8.0, 28&deg;C
+KM	Mycoplasma genitalium	0.09	1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol	*donor UDP-alpha-D-galactose, pH 8.0, 28&deg;C
+KM	Mycoplasma genitalium	0.234	UDP-alpha-D-galactose	*acceptor 1,2-diacyl-sn-glycerol, pH 8.0, 28&deg;C
+KM	Mycoplasma genitalium	0.27	1,2-diacyl-sn-glycerol	*donor UDP-alpha-D-galactose, pH 8.0, 28&deg;C
+KM	Mycoplasma genitalium	0.479	UDP-alpha-D-galactose	*acceptor 1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol, pH 8.0, 28&deg;C
+MW	Bacillus subtilis	43600	*	*x * 43600, calculated from sequence
+MW	Staphylococcus aureus	44000	*	*x * 44000, SDS-PAGE, x * 44700, calculated
+MW	Staphylococcus aureus	44700	*	*x * 44000, SDS-PAGE, x * 44700, calculated
+PATH	*	Glycerolipid metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	type I lipoteichoic acid biosynthesis (S. aureus)	*	*

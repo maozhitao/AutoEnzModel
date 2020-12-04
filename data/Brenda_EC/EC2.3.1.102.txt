@@ -1,0 +1,24 @@
+KCAT	Escherichia coli	0.0000385	N-Methylhydroxylamine	*
+KCAT	Escherichia coli	0.0000477	N6-hydroxylysine	*
+KCAT	Escherichia coli	0.0000797	1-amino-5(hydroxyamino)pentane	*
+KCAT	Escherichia coli	0.000112	N6-Hydroxyornithine	*
+KCAT	Escherichia coli	0.00177	hydroxylamine	*
+KM	Escherichia coli	0.043	acetyl-CoA	*+ L-N6-hydroxylysine
+KM	Escherichia coli	0.055	L-N6-hydroxylysine	*
+KM	Escherichia coli	0.079	acetyl-CoA	*+ L-N5-hydroxyornithine
+KM	Escherichia coli	0.099	acetyl-CoA	*+ 1-amino-5-(hydroxyamino)pentane
+KM	Escherichia coli	0.101	acetyl-CoA	*+ N-methylhydroxylamine
+KM	Escherichia coli	0.317	L-N5-hydroxyornithine	*
+KM	Escherichia coli	0.33	1-amino-5-(hydroxyamino)pentane	*
+KM	Escherichia coli	0.396	N-Methylhydroxylamine	*
+KM	Escherichia coli	1.81	acetyl-CoA	*+ hydroxylamine
+KM	Escherichia coli	329.4	hydroxylamine	*
+MW	Escherichia coli	33000	*	*x * 33000, SDS-PAGE
+MW	Escherichia coli	33000	*	*SDS-PAGE, calculated from DNA sequence
+MW	Escherichia coli	150000	*	*gel filtration, native enzyme
+PATH	*	aerobactin biosynthesis	*	*
+PATH	*	aerobactin biosynthesis	*	*
+PATH	*	Lysine degradation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Escherichia coli	26	*	*N6-hydroxylysine

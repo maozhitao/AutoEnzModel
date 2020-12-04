@@ -1,0 +1,19 @@
+KCAT	Pseudomonas putida	2.2	NADH	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Bordetella bronchiseptica	4.2	NADH	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas putida	2.2	6-Hydroxynicotinate	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Bordetella bronchiseptica	4.2	6-Hydroxynicotinate	*pH 7.5, 25&Acirc;&deg;C
+KM	Pseudomonas putida	0.003	NADH	*pH 7.5, 25&Acirc;&deg;C
+KM	Bordetella bronchiseptica	0.006	NADH	*pH 7.5, 25&Acirc;&deg;C
+KM	Pseudomonas fluorescens	0.15	4-hydroxybenzoate	*pH 7.0, 30&Acirc;&deg;C
+KM	Bordetella bronchiseptica	0.085	6-Hydroxynicotinate	*pH 7.5, 25&Acirc;&deg;C
+KM	Pseudomonas putida	0.097	6-Hydroxynicotinate	*pH 7.5, 25&Acirc;&deg;C
+KM	Pseudomonas fluorescens	0.098	6-Hydroxynicotinate	*pH 7.0, 30&Acirc;&deg;C
+KM	Bordetella bronchiseptica	-999	more	*kinetic analysis
+KM	Pseudomonas putida	-999	more	*kinetic analysis
+MW	Pseudomonas putida	42000	*	*x * 42000, SDS-PAGE
+MW	Pseudomonas fluorescens	42886	*	*1 * 42886, including the starting methionine, calculated from sequence
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Nicotinate and nicotinamide metabolism	*	*
+PATH	*	nicotinate degradation I	*	*
+SA	Pseudomonas fluorescens	6.67	*	*

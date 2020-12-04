@@ -1,0 +1,70 @@
+KCAT	Pelomonas saccharophila	358	D-galactose	*
+KCAT	Pseudomonas fluorescens	1180	D-galactose	*
+KM	Azotobacter vinelandii	0.125	NAD+	*
+KM	Pelomonas saccharophila	0.14	NAD+	*
+KM	Pelomonas saccharophila	0.14	NAD+	*
+KM	Pseudomonas fluorescens	0.15	NAD+	*
+KM	Pseudomonas fluorescens	0.24	NAD+	*
+KM	Pseudomonas fluorescens	0.24	NAD+	*
+KM	Pseudomonas fluorescens	0.25	NAD+	*beta-galactosidase-galactose dehydrogenase fusion enzymes
+KM	Pseudomonas fluorescens	2.3	NADP+	*
+KM	Pseudomonas fluorescens	0.185	D-galactose	*pH 7.5
+KM	Pseudomonas fluorescens	0.205	D-galactose	*pH 8.0
+KM	Pseudomonas fluorescens	0.23	D-galactose	*
+KM	Pseudomonas fluorescens	0.255	D-galactose	*pH 8.5
+KM	Pseudomonas fluorescens	0.26	D-galactose	*pH 7.5, beta-galactosidase-galactose dehydrogenase fusion enzyme
+KM	Pseudomonas fluorescens	0.32	D-galactose	*pH 8.0, beta-galactosidase-galactose dehydrogenase fusion enzyme
+KM	Pseudomonas fluorescens	0.37	D-galactose	*beta-galactosidase-galactose dehydrogenase fusion enzyme, 13 amino acids as linker
+KM	Pseudomonas fluorescens	0.4	D-galactose	*beta-galactosidase-galactose dehydrogenase fusion enzyme, 9 amino acids as linker
+KM	Pseudomonas fluorescens	0.43	D-galactose	*pH 8.5, beta-galactosidase-galactose dehydrogenase fusion enzyme
+KM	Pseudomonas fluorescens	0.45	D-galactose	*beta-galactosidase-galactose dehydrogenase fusion enzyme, 3 amino acids as linker
+KM	Azotobacter vinelandii	0.5	D-galactose	*
+KM	Pseudomonas fluorescens	0.7	D-galactose	*
+KM	Pseudomonas fluorescens	0.7	D-galactose	*
+KM	Pelomonas saccharophila	1	D-galactose	*
+KM	Pelomonas saccharophila	1	D-galactose	*
+KM	Pseudomonas fluorescens	0.215	L-arabinose	*pH 7.5
+KM	Pseudomonas fluorescens	0.275	L-arabinose	*pH 8.0
+KM	Pseudomonas fluorescens	0.37	L-arabinose	*pH 8.5
+KM	Pseudomonas fluorescens	0.43	L-arabinose	*pH 7.5, beta-galactosidase-galactose dehydrogenase fusion enzyme
+KM	Pseudomonas fluorescens	0.5	L-arabinose	*pH 8.0, beta-galactosidase-galactose dehydrogenase fusion enzyme
+KM	Pseudomonas fluorescens	0.68	L-arabinose	*pH 8.5, beta-galactosidase-galactose dehydrogenase fusion enzyme
+MW	Pelomonas saccharophila	25000	*	*alpha4, 4 * 25000, SDS-PAGE
+MW	Pelomonas saccharophila	26000	*	*alpha4, 4 * 26000, 100 mM phosphate buffer, pH 7.4, 8 M urea, 100 mM 2-mercaptoethanol, sedimentation equilibrium
+MW	Pseudomonas fluorescens	32000	*	*alpha,alpha, 2 * 32000, SDS-PAGE
+MW	Pseudomonas fluorescens	34000	*	*x * 34000, SDS-PAGE
+MW	Pseudomonas fluorescens	64000	*	*gel filtration
+MW	Azotobacter vinelandii	74000	*	*gel filtration
+MW	Pelomonas saccharophila	102000	*	*gel filtration
+MW	Pelomonas saccharophila	102000	*	*
+PATH	*	D-galactose degradation II	*	*
+PATH	*	Galactose metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Sinorhizobium meliloti	0.0074	*	*substrate combination L-arabinose and D-galactose, coenzyme NADP+, cell free extracts
+SA	Rhizobium meliloti L5-30	0.008	*	*substrate succinate, coenzyme NADP+, cell free extracts
+SA	Caulobacter crescentus AE23	0.009	*	*crude extracts, cells grown on D-galactose, inducible enzyme
+SA	Rhizobium meliloti L5-30	0.012	*	*substrate succinate, coenzyme NAD+, cell free extracts
+SA	Caulobacter crescentus AE22	0.023	*	*crude extracts, cells grown on D-galactose, inducible enzyme
+SA	Caulobacter crescentus CB13	0.026	*	*crude extracts, cells grown on D-galactose, inducible enzyme
+SA	Rhizobium meliloti L5-30	0.031	*	*coenzyme NADP+, cell free extracts
+SA	Rhizobium meliloti L5-30	0.036	*	*coenzyme NAD+, cell free extracts
+SA	Pseudomonas sp.	0.06	*	*crude extracts, cells grown on sucrose
+SA	Sinorhizobium meliloti	0.071	*	*substrate combination L-arabinose and galactose, coenzyme NAD, cell free extracts
+SA	Rhizobium meliloti L5-30	0.078	*	*substrate L-arabinose, coenzyme NADP+, cell free extracts
+SA	Rhizobium meliloti L5-30	0.079	*	*substrate L-arabinose, coenzyme NAD+, cell free extracts
+SA	Pseudomonas fluorescens	0.42	*	*cell extracts
+SA	Pseudomonas fluorescens	17	*	*beta-galactosidase-galactose dehydrogenase fusion enzyme, 3 amino acids as linker
+SA	Pseudomonas fluorescens	27	*	*beta-galactosidase-galactose dehydrogenase fusion enzyme, 13 amino acids as linker
+SA	Pseudomonas fluorescens	29	*	*beta-galactosidase-galactose dehydrogenase fusion enzyme, 9 amino acids as linker
+SA	Pseudomonas fluorescens	34	*	*
+SA	Rhizobium meliloti L5-30	36	*	*
+SA	Rhizobium meliloti L5-30	76	*	*substrate L-arabinose
+SA	Pseudomonas fluorescens	76	*	*beta-galactosidase-galactose dehydrogenase fusion enzyme
+SA	Pelomonas saccharophila	202	*	*
+SA	Pelomonas saccharophila	202	*	*
+SA	Azotobacter vinelandii	260	*	*
+SA	Rhizobium meliloti L5-30	272	*	*coenzyme NADP+
+SA	Azotobacter vinelandii	390	*	*substrate L-arabinose
+SA	Pseudomonas fluorescens	849	*	*
+SA	Pseudomonas fluorescens	849	*	*
+SA	Pseudomonas fluorescens	849	*	*

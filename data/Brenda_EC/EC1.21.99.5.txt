@@ -1,0 +1,72 @@
+KCAT	Sulfurospirillum multivorans	1.5	tetrachloroethene	*titanium(III)citrate as sole electron donor
+KCAT	Sulfurospirillum multivorans	20.4	tetrachloroethene	*methyl viologen as artificial electron donor
+KM	Sulfurospirillum multivorans	-999	more	*enzyme kinetics and kinetic parameters
+KM	Dehalobacter restrictus	-999	more	*
+KM	Sulfurospirillum multivorans	-999	more	*enzyme kinetics and kinetic parameters
+KM	Desulfitobacterium sp. PCE-S	-999	more	*enzyme kinetics and kinetic parameters
+KM	Sulfurospirillum multivorans	-999	more	*enzyme kinetics and kinetic parameters
+KM	Paraclostridium bifermentans	-999	more	*enzyme kinetics and kinetic parameters
+KM	Desulfitobacterium sp. PCE-S	0.004	trichloroethene	*
+KM	Desulfitobacterium sp. PCE-S	0.01	tetrachloroethene	*
+KM	Paraclostridium bifermentans	0.012	tetrachloroethene	*
+KM	Dehalobacter restrictus	0.02	tetrachloroethene	*30&deg;C
+KM	Dehalobacter restrictus	0.024	reduced methyl viologen	*30&deg;C
+KM	Dehalobacter restrictus	0.047	trichloroethene	*30&deg;C
+KM	Shewanella sediminis	0.1	tetrachloroethene	*pH 8.0, temperature not specified in the publication
+KM	Desulfitobacterium sp.	0.105	tetrachloroethene	*pH 7.5, 37&deg;C
+KM	Desulfitobacterium sp.	0.125	hexachloroethane	*
+KM	Sulfurospirillum multivorans	0.2	tetrachloroethene	*
+KM	Sulfurospirillum multivorans	0.2	tetrachloroethene	*reduced 1.6 mM methyl viologen as electron donor
+KM	Sulfurospirillum multivorans	0.24	trichloroethene	*
+KM	Sulfurospirillum multivorans	0.24	trichloroethene	*reduced 1.6 mM methyl viologen as electron donor
+KM	Sulfurospirillum multivorans	0.25	1,1,3-trichloropropene	*reduced 1.6 mM methyl viologen as electron donor
+KM	Sulfurospirillum multivorans	0.25	trans-1,3-dichloropropene	*reduced 1.6 mM methyl viologen as electron donor
+KM	Sulfurospirillum multivorans	0.28	methyl viologen	*at a tetrachloroethene concentration of 1 mM
+KM	Sulfurospirillum multivorans	0.28	methyl viologen	*at a tetrachloroethene concentration of 1 mM
+KM	Desulfitobacterium sp. PCE-S	0.3	methyl viologen	*at a tetrachloroethene concentration of 1 mM
+KM	Desulfitobacterium sp.	0.336	1,1,2,2-tetrachloroethane	*
+KM	Desulfitobacterium sp.	0.535	1,1,2-trichloroethene	*pH 7.5, 37&deg;C
+KM	Sulfurospirillum multivorans	0.6	2,3-dichloropropene	*reduced 1.6 mM methyl viologen as electron donor
+KM	Desulfitobacterium sp.	0.6199	pentachloroethane	*
+KM	Desulfitobacterium sp.	0.773	1,1,1,2-tetrachloroethane	*
+MW	Paraclostridium bifermentans	35000	*	*2 * 35000, homodimer, SDS-PAGE
+MW	Paraclostridium bifermentans	35700	*	*2 * 35700, homodimer, MALDI-TOF/MS
+MW	Desulfitobacterium sp. PCE1	48000	*	*
+MW	Dehalococcoides sp.	50000	*	*predicted from cDNA
+MW	Dehalococcoides mccartyi	51000	*	*PAGE
+MW	Sulfurospirillum multivorans	53000	*	*SDS-PAGE, processed enzyme
+MW	Sulfurospirillum multivorans	53300	*	*x * 53300, SDS-PAGE, mature protein
+MW	uncultured bacterium	55000	*	*deduced from cDNA
+MW	Sulfurospirillum multivorans	55890	*	*amino acid sequence analysis
+MW	Sulfurospirillum multivorans	56000	*	*SDS-PAGE, unprocessed enzyme
+MW	uncultured bacterium	56000	*	*deduced from cDNA
+MW	Sulfurospirillum multivorans	57000	*	*1 * 57000, SDS-PAGE
+MW	Sulfurospirillum multivorans	57000	*	*processed enzyme, pceA' gene product, SDS-PAGE
+MW	Sulfurospirillum multivorans	58000	*	*gel filtration
+MW	Sulfurospirillum multivorans	58000	*	*gel filtration
+MW	Desulfitobacterium sp.	58000	*	*x * 58000, SDS-PAGE of mature protein
+MW	Desulfitobacterium hafniense	59000	*	*
+MW	Desulfitobacterium hafniense	59000	*	*SDS-PAGE
+MW	Dehalobacter restrictus	59430	*	*enzyme mass + cobalamin cofactor + iron-sulfur clusters, calculated from deduced amino acid sequence
+MW	Dehalobacter restrictus	60000	*	*SDS-PAGE
+MW	Dehalobacter restrictus	60000	*	*SDS-PAGE
+MW	Sulfurospirillum multivorans	61000	*	*unprocessed enzyme, expressed in Escherichia coli, SDS-PAGE
+MW	Desulfitobacterium sp. PCE-S	65000	*	*membrane proteins tend to form aggregates due to their high hydrophobicity, apparent MW of 200 kDa for the native enzyme may be a purification artifact, and the enzyme may be essentially monomeric with MW: 65000 Da in vivo, SDS-PAGE
+MW	Paraclostridium bifermentans	70000	*	*gel filtration
+MW	Dehalobacter restrictus	71000	*	*gel filtration
+MW	Desulfitobacterium sp. PCE-S	200000	*	*membrane proteins tend to form aggregates due to their high hydrophobicity, apparent MW of 200 kDa for the native enzyme may be a purification artifact, and the enzyme may be essentially monomeric with MW of 65000 Da in vivo, gel filtration
+PATH	*	Chloroalkane and chloroalkene degradation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	tetrachloroethene degradation	*	*
+SA	Sulfurospirillum multivorans	-999	*	*
+SA	Desulfitobacterium hafniense	-999	*	*
+SA	Desulfitobacterium sp. PCE1	-999	*	*
+SA	Paraclostridium bifermentans	0.086	*	*
+SA	Dehalobacter restrictus	0.33	*	*
+SA	Dehalobacter restrictus	11.9	*	*
+SA	Dehalobacter restrictus	13.6	*	*purified enzyme, 30&deg;C
+SA	Dehalococcoides mccartyi	20.5	*	*
+SA	Desulfitobacterium sp. PCE-S	39	*	*
+SA	Desulfitobacterium sp.	113.6	*	*pH 7.5, 37&deg;C
+SA	Sulfurospirillum multivorans	158.4	*	*

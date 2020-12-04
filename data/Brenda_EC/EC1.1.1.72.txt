@@ -1,0 +1,58 @@
+KCAT	Gluconobacter oxydans	2.7	NADPH	*W23A mutant protein, pH 7.0, 30&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	35.4	NADPH	*W23M mutant protein, pH 7.0, 30&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	57.2	NADPH	*wild-type protein, pH 7.0, 30&Acirc;&deg;C
+KCAT	Gluconobacter oxydans	-999	more	*24.2/sec with substrate D/L-glyceraldehyde, W23M mutant protein, pH 7.0, 30&Acirc;&deg;C; 3.2/sec with substrate D/L-glyceraldehyde, W23A mutant protein, pH 7.0, 30&Acirc;&deg;C; 52.8/sec with substrate D/L-glyceraldehyde, wild-type protein, pH 7.0, 30&Acirc;&deg;C
+KM	Gluconobacter oxydans	-999	more	*KM-value 118.0 mM with substrate DL-glyceraldehyde, W23A mutant protein, pH 7.0, 30&deg;C; KM-value 2.4 mM with substrate DL-glyceraldehyde, wild-type protein, pH 7.0, 30&deg;C; KM-value 49.4 mM with substrate DL-glyceraldehyde, W23M mutant protein, pH 7.0, 30&deg;C
+KM	Lactobacillus acidophilus	-999	more	*enzyme kinetic parameters are determined by fitting the initial rates to irreversible single substrate Michaelis-Menten models
+KM	Lactobacillus delbrueckii	-999	more	*enzyme kinetic parameters are determined by fitting the initial rates to irreversible single substrate Michaelis-Menten models
+KM	Lactobacillus plantarum	-999	more	*enzyme kinetic parameters are determined by fitting the initial rates to irreversible single substrate Michaelis-Menten models
+KM	Gluconobacter oxydans	0.0041	NADPH	*wild-type protein, pH 7.0, 30&deg;C
+KM	Gluconobacter oxydans	0.0062	NADPH	*W23A mutant protein, pH 7.0, 30&deg;C; W23M mutant protein, pH 7.0, 30&deg;C
+KM	Rattus norvegicus	0.0067	NADPH	*
+KM	Rattus norvegicus	0.0125	NADP+	*
+KM	Oryctolagus cuniculus	0.016	NADPH	*
+KM	Gluconobacter oxydans	0.02	NADP+	*oxidation, pH 9.7, 37&deg;C, Vmax: 2.1 micromol/min/mg
+KM	Neurospora crassa	0.024	NADPH	*
+KM	Rattus norvegicus	0.04	D-glyceraldehyde	*
+KM	Gluconobacter oxydans	0.04	NADPH	*reduction, pH 7.0, 30&deg;C, Vmax: 101 micromol/min/mg
+KM	Neurospora crassa	0.056	NADP+	*
+KM	Oryctolagus cuniculus	0.15	D-glyceraldehyde	*
+KM	Gluconobacter oxydans	2.69	D-glyceraldehyde	*reduction, pH 7.0, 30&deg;C, Vmax: 77.9 micromol/min/mg
+KM	Rattus norvegicus	10	glycerol	*
+KM	Neurospora crassa	11.5	D-glyceraldehyde	*
+KM	Lactobacillus delbrueckii	12.8	D-glyceraldehyde	*reverse reaction, pH 6.5, 25&deg;C, crude extract
+KM	Lactobacillus plantarum	20.2	D-glyceraldehyde	*reverse reaction, pH 6.5, 25&deg;C, crude extract
+KM	Lactobacillus acidophilus	32.3	D-glyceraldehyde	*reverse reaction, pH 6.5, 25&deg;C, crude extract
+KM	Neurospora crassa	143	glycerol	*
+KM	Oryctolagus cuniculus	186	D-glucuronate	*
+KM	Gluconobacter oxydans	193	L-arabitol	*oxidation, pH 9.7, 37&deg;C, Vmax: 8.67 micromol/min/mg
+MW	Oryctolagus cuniculus	34000	*	*gel filtration
+MW	Oryctolagus cuniculus	34000	*	*gel filtration
+MW	Aspergillus nidulans	36980	*	*calculated from amino acid sequence
+MW	Gluconobacter oxydans	37210	*	*calculated from cDNA
+MW	Gluconobacter oxydans	37213	*	*37213, calculated
+MW	Aspergillus nidulans	38000	*	*SDS-PAGE
+MW	Aspergillus niger	38000	*	*SDS-PAGE
+MW	Gluconobacter oxydans	39000	*	*SDS-PAGE
+MW	Neurospora crassa	43000	*	*x * 43000, SDS-PAGE
+MW	Neurospora crassa	160000	*	*gel filtration
+PATH	*	Glycerolipid metabolism	*	*
+SA	Aspergillus nidulans	-999	*	*comparison of activity in the wild-type and two gldB disruption strains. The presence of 1 M NaCl results in a significant increase in activity in the wild-type strain. In the gldB disruptions hardly any activity is detected.
+SA	Lactobacillus delbrueckii	0.0043	*	*cell-free enzyme extract, reverse reaction, pH 6.5, 25&deg;C
+SA	Lactobacillus plantarum	0.0049	*	*cell-free enzyme extract, reverse reaction, pH 6.5, 25&deg;C
+SA	Lactobacillus acidophilus	0.0131	*	*cell-free enzyme extract, reverse reaction, pH 6.5, 25&deg;C
+SA	Aspergillus oryzae	0.259	*	*during growth on wheat grains at water activity at the time of harvest 1.00
+SA	Aspergillus oryzae	0.517	*	*during growth on wheat grains at water activity at the time of harvest 0.97
+SA	Aspergillus oryzae	0.582	*	*during growth on wheat dough at water activity at the time of harvest 0.98
+SA	Aspergillus oryzae	1.034	*	*during growth on wheat dough at water activity at the time of harvest 0.96
+SA	Gluconobacter oxydans	4.2	*	*W23A mutant protein, NADPH as variable substrate, pH 7.0, 30&deg;C
+SA	Gluconobacter oxydans	4.9	*	*W23A mutant protein, DL-glyceraldehyde as variable substrate, pH 7.0, 30&deg;C
+SA	Oryctolagus cuniculus	5.75	*	*
+SA	Neurospora crassa	20.7	*	*
+SA	Gluconobacter oxydans	22.3	*	*glyceraldehyde, crude extract of expressing Escherichia coli, pH not specified in the publication, temperature not specified in the publication
+SA	Aspergillus nidulans	24.1	*	*
+SA	Aspergillus niger	32.5	*	*
+SA	Gluconobacter oxydans	37	*	*W23M mutant protein, DL-glyceraldehyde as variable substrate, pH 7.0, 30&deg;C
+SA	Gluconobacter oxydans	54	*	*W23M mutant protein, NADPH as variable substrate, pH 7.0, 30&deg;C
+SA	Gluconobacter oxydans	80.5	*	*wild-type protein, DL-glyceraldehyde as variable substrate, pH 7.0, 30&deg;C
+SA	Gluconobacter oxydans	87.1	*	*wild-type protein, NADPH as variable substrate, pH 7.0, 30&deg;C

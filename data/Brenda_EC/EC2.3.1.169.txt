@@ -1,0 +1,41 @@
+KCAT	Carboxydothermus hydrogenoformans	0.00012	acetyl-CoA	*pH 7.2, 25&Acirc;&deg;C, recombinant ACSChDELTAN, acetyl-CoA/CO exchange activity
+KCAT	Methanosarcina thermophila	0.0002	acetyl-CoA	*pH 7.2, 25&Acirc;&deg;C, recombinant ACSD beta, acetyl-CoA/CO exchange activity
+KCAT	Carboxydothermus hydrogenoformans	0.142	acetyl-CoA	*pH 7.2, 25&Acirc;&deg;C, recombinant ACSCh732, acetyl-CoA/CO exchange activity
+KCAT	Moorella thermoacetica	-999	more	*
+KCAT	Moorella thermoacetica	-999	more	*stopped-flow analysis of two steps within the catalytic cycle
+KM	Moorella thermoacetica	4.3	CoA	*pH 7.3, 22&Acirc;&deg;C, acetyl-CoA synthesis from methyl iodide
+KM	Carboxydothermus hydrogenoformans	0.28	acetyl-CoA	*exchange activity: C14 from the carboxyl group of acetyl-CoA with C12 from CO
+KM	Methanosarcina thermophila	0.087	CO	*pH 7.2, 25&Acirc;&deg;C, recombinant ACSD beta
+KM	Carboxydothermus hydrogenoformans	0.36	CO	*pH 7.2, 25&Acirc;&deg;C, recombinant ACSChDELTAN
+KM	Carboxydothermus hydrogenoformans	0.066	methylcorrinoid protein	*pH 7.2, 25&Acirc;&deg;C, recombinant ACSChDELTAN
+KM	Carboxydothermus hydrogenoformans	0.46	methylcorrinoid protein	*pH 7.2, 25&Acirc;&deg;C, recombinant ACSCh732
+KM	Methanosarcina thermophila	0.53	methylcorrinoid protein	*pH 7.2, 25&Acirc;&deg;C, recombinant ACSD beta
+KM	Moorella thermoacetica	14.7	CH3I	*pH 7.3, 22&Acirc;&deg;C
+KM	Carboxydothermus hydrogenoformans	-999	more	*kinetics of recombinant ACSCh732 and ACSChDELTAN for acetyl-CoA synthase activity, acetyltransferase activity, and acetyl-CoA/CO exchange activity, overview
+KM	Methanosarcina thermophila	-999	more	*kinetics of recombinant ACSD beta for acetyl-CoA synthase activity, acetyltransferase activity, and acetyl-CoA/CO exchange activity, overview
+KM	Carboxydothermus hydrogenoformans	-999	more	*kinetics, overview
+MW	Methanosarcina barkeri	19700	*	*alpha,beta,gamma,delta,epsilon, 6 * 19700 + 6 * 84500 + 6 * 63200 + 6 * 53000 + 6 * 51400, SDS-PAGE
+MW	Methanosarcina barkeri	51400	*	*alpha,beta,gamma,delta,epsilon, 6 * 19700 + 6 * 84500 + 6 * 63200 + 6 * 53000 + 6 * 51400, SDS-PAGE
+MW	Methanosarcina barkeri	53000	*	*alpha,beta,gamma,delta,epsilon, 6 * 19700 + 6 * 84500 + 6 * 63200 + 6 * 53000 + 6 * 51400, SDS-PAGE
+MW	Methanosarcina barkeri	63200	*	*alpha,beta,gamma,delta,epsilon, 6 * 19700 + 6 * 84500 + 6 * 63200 + 6 * 53000 + 6 * 51400, SDS-PAGE
+MW	Carboxydothermus hydrogenoformans	81700	*	*gel filtration
+MW	Carboxydothermus hydrogenoformans	82900	*	*1 * 82900, the enzyme exists as a monomer as well as in a 1:1 molar complex with the 73300 Da CO dehydrogenase III, SDS-PAGE
+MW	Methanosarcina barkeri	84500	*	*alpha,beta,gamma,delta,epsilon, 6 * 19700 + 6 * 84500 + 6 * 63200 + 6 * 53000 + 6 * 51400, SDS-PAGE
+MW	Moorella thermoacetica	150000	*	*
+MW	Moorella thermoacetica	150000	*	*
+MW	Moorella thermoacetica	310000	*	*
+MW	Methanosarcina barkeri	1600000	*	*gel filtration
+PATH	*	Carbon fixation pathways in prokaryotes	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	methanogenesis from acetate	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	reductive acetyl coenzyme A pathway	*	*
+PATH	*	reductive acetyl coenzyme A pathway I (homoacetogenic bacteria)	*	*
+PATH	*	reductive acetyl coenzyme A pathway II (autotrophic methanogens)	*	*
+SA	Moorella thermoacetica	-999	*	*70 mol of CO exchanged per min/mol of enzyme
+SA	Moorella thermoacetica	0.12	*	*pH 6.8, acetyl-CoA synthesis, in absence of ferredoxin II
+SA	Moorella thermoacetica	0.41	*	*pH 6.8, acetyl-CoA synthesis, in presence of 1 mM ferrous ammonium sulfate
+SA	Moorella thermoacetica	0.49	*	*pH 6.8, acetyl-CoA synthesis, in presence of ferredoxin II
+SA	Moorella thermoacetica	0.74	*	*pH 6.8, acetyl-CoA synthesis, in presence of 4 mM ATP
+SA	Moorella thermoacetica	0.8	*	*pH 6.8, acetyl-CoA synthesis, in absence of ATP and Fe2+
+SA	Moorella thermoacetica	28	*	*40&Acirc;&deg;C, CoA/acetyl-CoA exchange

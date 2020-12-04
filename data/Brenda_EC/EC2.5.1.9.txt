@@ -1,0 +1,89 @@
+KCAT	Escherichia coli	0.001	6,7-dimethyl-8-(1-D-ribityl)lumazine	*pH 6.9, 25&deg;C, recombinant mutant H102Q, steady-state conditions
+KCAT	Escherichia coli	0.00833	6,7-dimethyl-8-ribityllumazine	*per subunit
+KCAT	Bacillus subtilis	0.019	6,7-dimethyl-8-ribityllumazine	*pH 7.0, 37&deg;C
+KCAT	Arabidopsis thaliana	0.027	6,7-dimethyl-8-(1-D-ribityl)lumazine	*25&deg;C, recombinant enzyme
+KCAT	Escherichia coli	0.267	6,7-dimethyl-8-(1-D-ribityl)lumazine	*pH 6.9, 25&deg;C, recombinant wild-type enzyme, steady-state conditions
+KCAT	Bacillus subtilis	1.2	6,7-dimethyl-8-(1'-D-ribityl)lumazine	*heavy enzyme, Bacillus subtilis H94
+KCAT	Bacillus subtilis	2	6,7-dimethyl-8-(1'-D-ribityl)lumazine	*light enzyme, Bacillus subtilis H94
+KM	Saccharomyces cerevisiae	0.01	6,7-dimethyl-8-(1'-D-ribityl)lumazine	*pH 7.0
+KM	Bacillus subtilis	0.013	6,7-dimethyl-8-(1'-D-ribityl)lumazine	*heavy enzyme
+KM	Bacillus subtilis	0.014	6,7-dimethyl-8-(1'-D-ribityl)lumazine	*light enzyme
+KM	Eremothecium gossypii	0.029	6,7-dimethyl-8-(1'-D-ribityl)lumazine	*
+KM	Saccharomyces cerevisiae	0.04	6,7-dimethyl-8-(1'-D-ribityl)lumazine	*
+KM	Spinacia oleracea	0.045	6,7-dimethyl-8-(1'-D-ribityl)lumazine	*pH 7.5
+KM	Bacillus subtilis	0.13	6,7-dimethyl-8-(1'-D-ribityl)lumazine	*
+KM	Bacillus subtilis	0.13	6,7-dimethyl-8-(1'-D-ribityl)lumazine	*pH 7.0, 37&Acirc;&deg;C
+KM	Schizosaccharomyces pombe	0.0057	6,7-dimethyl-8-(1-D-ribityl)lumazine	*pH 7.2, 37&Acirc;&deg;C, recombinant enzyme
+KM	Geobacillus stearothermophilus	-999	more	*Km is temperature-dependent
+KM	Bacillus subtilis	-999	more	*sigmoidal kinetics is observed with mixtures of artifactual beta 60 capsids and alpha subunit trimers. Km value for lumazine of the lumazine synthase/riboflavin synthase complex is about 10 times larger as compared to light riboflavin synthase consisting of alpha subunits, without lumazine synthase activity
+KM	Escherichia coli	-999	more	*stopped flow and quenched flow kinetics of wild-type enzyme and mutant S41A
+KM	Escherichia coli	-999	more	*steady-state and presteady-state kinetic analysis, single turnover conditions, transient stopped flow and quenched flow kinetics measurements with the pentacyclic reaction intermediate as substrate
+KM	Arabidopsis thaliana	-999	more	*kinetics, numerical simulation, recombinant enzyme
+KM	Escherichia coli	-999	more	*presteady state kinetic analysis, single turnover conditions, transient stopped flow and quenched flow kinetics measurements of the pentacyclic reaction intermediate
+MW	Methanocaldococcus jannaschii	17500	*	*5 * 17500, recombinant enzyme; 5 * 17500, recombinant enzyme
+MW	Arabidopsis thaliana	21171	*	*3 * 21171, recombinant enzyme expressed from synthetic gene, electrospray mass spectrometry
+MW	Streptomyces davaonensis	22000	*	*x * 22000, SDS-PAGE
+MW	Bacillus subtilis	22043	*	*3 * 22043, light enzyme, calculation from amino acid sequence
+MW	Escherichia coli	23000	*	*3 * 23000
+MW	Schizosaccharomyces pombe	23000	*	*3 * 23000, sedimentation equilibrium centrifugation
+MW	Bacillus subtilis	23500	*	*60 * 16000-16200 (beta) + 3 * 23500 (alpha), heavy riboflavin synthase, X-ray studies, analytical ultracentrifugation
+MW	Bacillus subtilis	23500	*	*3 * 23500, light enzyme, SDS-PAGE, subunits not covalently linked
+MW	Bacillus subtilis	23500	*	*60 * 16000-16200 (beta) + 3 * 23500 (alpha), heavy riboflavin synthase, X-ray studies, analytical ultracentrifugation
+MW	Momordica charantia	30670	*	*x * 30670, calculated from amino acid sequence
+MW	Brucella abortus	66000	*	*
+MW	Arabidopsis thaliana	67500	*	*recombinant enzyme expressed from synthetic gene, sedimentation equilibrium centrifugation and gel filtration
+MW	Brucella abortus	69800	*	*
+MW	Saccharomyces cerevisiae	70000	*	*analytical ultracentrifugation
+MW	Bacillus subtilis	70000	*	*analytical ultracentrifugation; light enzyme
+MW	Bacillus subtilis	70000	*	*light enzyme
+MW	Escherichia coli	70000	*	*
+MW	Escherichia coli	75000	*	*
+MW	Arabidopsis thaliana	75000	*	*
+MW	Methanocaldococcus jannaschii	88300	*	*sedimentation equilibrium centrifugation, recombinant enzyme; sedimentation equilibrium centrifugation, recombinant enzyme
+MW	Bacillus subtilis	100000	*	*heavy riboflavin synthase
+MW	Bacillus subtilis	100000	*	*analytical ultracentrifugation; heavy riboflavin synthase
+MW	Bacillus subtilis	100000	*	*heavy riboflavin synthase
+MW	Bacillus subtilis	100000	*	*heavy riboflavin synthase
+MW	Geobacillus stearothermophilus	345000	*	*gel filtration
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	flavin biosynthesis	*	*
+PATH	*	flavin biosynthesis I (bacteria and plants)	*	*
+PATH	*	flavin biosynthesis II (archaea)	*	*
+PATH	*	flavin biosynthesis III (fungi)	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Riboflavin metabolism	*	*
+SA	Eremothecium gossypii	-999	*	*
+SA	Saccharomyces cerevisiae	-999	*	*
+SA	Saccharomyces cerevisiae	-999	*	*
+SA	Bacillus subtilis	-999	*	*
+SA	Eremothecium gossypii	-999	*	*
+SA	Saccharomyces cerevisiae	-999	*	*
+SA	Eremothecium ashbyi	-999	*	*
+SA	Saccharomyces cerevisiae	-999	*	*
+SA	Spinacia oleracea	-999	*	*assay method
+SA	Eremothecium ashbyi	-999	*	*
+SA	Bacillus subtilis	-999	*	*
+SA	Eremothecium ashbyi	-999	*	*various estimation methods
+SA	Spinacia oleracea	0.00025	*	*partially purified enzyme
+SA	Escherichia coli	0.0014	*	*partially purified enzyme
+SA	Methanocaldococcus jannaschii	0.002	*	*purified recombinant enzyme, in absence of divalent cations; purified recombinant enzyme, in absence of divalent cations
+SA	Escherichia coli	0.003	*	*
+SA	Geobacillus stearothermophilus	0.011	*	*purified enzyme
+SA	Methanocaldococcus jannaschii	0.011	*	*substrate 6,7-dimethyl-8-(1-D-ribityl)lumazine
+SA	Methanocaldococcus jannaschii	0.021	*	*with substrate compound Q, a dimer of the pentameric reaction intermediate
+SA	Methanocaldococcus jannaschii	0.024	*	*purified recombinant enzyme, in presence of divalent cations; purified recombinant enzyme, in presence of divalent cations
+SA	Bacillus subtilis	0.027	*	*heavy enzyme
+SA	Bacillus subtilis	0.027	*	*heavy enzyme; purified enzyme
+SA	Methanothermobacter thermautotrophicus	0.032	*	*65&deg;C; purified recombinant enzyme
+SA	Bacillus subtilis	0.033	*	*heavy enzyme
+SA	Methanothermobacter thermautotrophicus	0.045	*	*65&deg;C; purified enzyme
+SA	Saccharomyces cerevisiae	0.052	*	*purified enzyme
+SA	Eremothecium ashbyi	0.16	*	*purified enzyme
+SA	Eremothecium gossypii	0.266	*	*purified enzyme
+SA	Bacillus subtilis	0.5	*	*light enzyme
+SA	Bacillus subtilis	0.833	*	*light enzyme
+SA	Eremothecium ashbyi	1.2	*	*partially purified enzyme
+SA	Schizosaccharomyces pombe	27	*	*purified recombinant mutant C48S
+SA	Schizosaccharomyces pombe	158	*	*purified recombinant wild-type enzyme
+SA	Schizosaccharomyces pombe	179	*	*purified recombinant mutant S146C
+SA	Schizosaccharomyces pombe	183	*	*purified recombinant mutant S146A

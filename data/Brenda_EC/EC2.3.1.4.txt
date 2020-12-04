@@ -1,0 +1,71 @@
+KCAT	Aspergillus fumigatus	0.12	D-glucosamine 6-phosphate	*mutant V125R
+KCAT	Aspergillus fumigatus	0.34	D-glucosamine 6-phosphate	*mutant G183E
+KCAT	Aspergillus fumigatus	1.34	D-glucosamine 6-phosphate	*mutant E185Y
+KCAT	Aspergillus fumigatus	1.7	D-glucosamine 6-phosphate	*mutant Y189R
+KCAT	Homo sapiens	9	D-glucosamine 6-phosphate	*wild-type
+KCAT	Homo sapiens	9.7	D-glucosamine 6-phosphate	*mutant E156A
+KCAT	Homo sapiens	19.3	D-glucosamine 6-phosphate	*mutant E156D
+KCAT	Homo sapiens	22.1	D-glucosamine 6-phosphate	*wild-type
+KCAT	Aspergillus fumigatus	38	D-glucosamine 6-phosphate	*wild-type
+KCAT	Aspergillus fumigatus	0.076	glucosamine 6-phosphate	*mutant Y174F
+KCAT	Aspergillus fumigatus	38	glucosamine 6-phosphate	*wild-type
+KM	Rattus norvegicus	0.012	acetyl-CoA	*
+KM	Homo sapiens	0.026	acetyl-CoA	*wild-type
+KM	Aspergillus fumigatus	0.03	D-glucosamine 6-phosphate	*mutant E185Y
+KM	Arabidopsis thaliana	0.033	acetyl-CoA	*pH 7.5, 30&deg;C
+KM	Blastocladiella emersonii	0.038	coenzyme A	*
+KM	Aspergillus fumigatus	0.04	acetyl-CoA	*mutant E185Y; wild-type
+KM	Mus musculus	0.04	D-glucosamine 6-phosphate	*recombinant enzyme
+KM	Aspergillus fumigatus	0.056	D-glucosamine 6-phosphate	*mutant G183E; mutant Y189R
+KM	Rattus norvegicus	0.06	D-glucosamine 6-phosphate	*
+KM	Aspergillus fumigatus	0.071	D-glucosamine 6-phosphate	*wild-type
+KM	Aspergillus fumigatus	0.071	glucosamine 6-phosphate	*
+KM	Aspergillus fumigatus	0.086	acetyl-CoA	*mutant Y189R
+KM	Homo sapiens	0.097	D-glucosamine 6-phosphate	*wild-type
+KM	Aspergillus fumigatus	0.1	acetyl-CoA	*mutant G183E
+KM	Mus musculus	0.12	acetyl-CoA	*recombinant enzyme
+KM	Oryza sativa	0.145	D-glucosamine 6-phosphate	*pH 7.5, 30&deg;C
+KM	Homo sapiens	0.157	acetyl-CoA	*isoenzyme 1
+KM	Homo sapiens	0.175	D-glucosamine 6-phosphate	*mutant E156D
+KM	Oryza sativa	0.18	acetyl-CoA	*
+KM	Homo sapiens	0.187	acetyl-CoA	*isoenzyme 2
+KM	Aspergillus fumigatus	0.2	acetyl-CoA	*mutant V125R
+KM	Homo sapiens	0.2	D-glucosamine 6-phosphate	*wild-type
+KM	Arabidopsis thaliana	0.231	D-glucosamine 6-phosphate	*pH 7.5, 30&deg;C
+KM	Blastocladiella emersonii	0.24	D-glucosamine 6-phosphate	*
+KM	Ovis aries	0.25	acetyl-CoA	*
+KM	Homo sapiens	0.28	acetyl-CoA	*isoenzyme 3
+KM	Aedes aegypti	0.3	D-glucosamine-6-phosphate	*
+KM	Ovis aries	0.45	D-glucosamine 6-phosphate	*
+KM	Neurospora crassa	0.5	acetyl-CoA	*
+KM	Aedes aegypti	0.5	acetyl-CoA	*
+KM	Aspergillus fumigatus	0.6	D-glucosamine 6-phosphate	*mutant V125R
+KM	Neurospora crassa	0.7	D-glucosamine 6-phosphate	*
+KM	Vigna radiata var. radiata	0.7	D-glucosamine 6-phosphate	*acetyl-CoA
+KM	Neurospora crassa	0.78	acetyl-CoA	*
+KM	Neurospora crassa	0.78	D-glucosamine 6-phosphate	*
+KM	Homo sapiens	1.2	D-glucosamine 6-phosphate	*mutant E156A
+KM	Vigna radiata var. radiata	1.51	D-glucosamine 6-phosphate	*
+KM	Homo sapiens	3	D-glucosamine 6-phosphate	*isoenzymes 2 and 3
+KM	Homo sapiens	7.1	D-glucosamine 6-phosphate	*isoenzyme 1
+MW	Arabidopsis thaliana	19200	*	*2 * 19200, calculated, 2 * 20000, SDS-PAGE
+MW	Arabidopsis thaliana	20000	*	*2 * 19200, calculated, 2 * 20000, SDS-PAGE
+MW	Mus musculus	21000	*	*x * 21000, SDS-PAGE, immunoblotting, deduced from nucleotide sequence
+MW	Sus scrofa	24000	*	*
+MW	Homo sapiens	25000	*	*2 * 25000, SDS-PAGE
+MW	Arabidopsis thaliana	40300	*	*gel filtration
+MW	Lactobacillus casei	52000	*	*x * 52000, SDS-PAGE
+MW	Mycobacterium tuberculosis	54100	*	*SDS-PAGE
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	UDP-N-acetyl-D-galactosamine biosynthesis II	*	*
+PATH	*	UDP-N-acetyl-D-glucosamine biosynthesis II	*	*
+SA	Neurospora crassa	-999	*	*assay method
+SA	Homo sapiens	0.00447	*	*isoenzymes 1 and 2
+SA	Ovis aries	0.0054	*	*
+SA	Homo sapiens	0.0379	*	*isoenzyme 3
+SA	Blastocladiella emersonii	2.41	*	*
+SA	Neurospora crassa	11.7	*	*
+SA	Neurospora crassa	12.21	*	*
+SA	Homo sapiens	25	*	*
+SA	Aspergillus fumigatus	107	*	*

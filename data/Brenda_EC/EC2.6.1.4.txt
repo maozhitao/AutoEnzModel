@@ -1,0 +1,49 @@
+KCAT	Rhodopseudomonas palustris	46.8	L-glutamate	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Oryza sativa Japonica Group	144.9	L-glutamate	*cosubstrate glyoxylate, pH 7.6, 30&Acirc;&deg;C
+KCAT	Rhodopseudomonas palustris	48.2	glyoxylate	*pH 7.5, 30&Acirc;&deg;C
+KCAT	Oryza sativa Japonica Group	132.9	L-alanine	*cosubstrate glyoxylate, pH 7.6, 30&Acirc;&deg;C
+KCAT	Oryza sativa Japonica Group	140.6	L-alanine	*cosubstrate 2-oxoglutarate, pH 7.6, 30&Acirc;&deg;C
+KM	Oryza sativa Japonica Group	0.21	glyoxylate	*cosubstrate L-glutamate, pH 7.6, 30&deg;C
+KM	Oryza sativa Japonica Group	0.32	glyoxylate	*cosubstrate L-alanine, pH 7.6, 30&deg;C
+KM	Oryza sativa Japonica Group	0.55	2-oxoglutarate	*cosubstrate L-alanine, pH 7.6, 30&deg;C
+KM	Homo sapiens	0.75	glyoxylate	*pH 7.4, 37&deg;C, cosubstrate: L-glutamate
+KM	Homo sapiens	0.81	glyoxylate	*pH 7.4, 37&deg;C, cosubstrate: L-alanine
+KM	Hydrogenobacter thermophilus	1.2	L-glutamate	*pH and temperature not specified in the publication
+KM	Oryza sativa Japonica Group	1.57	L-glutamate	*cosubstrate glyoxylate, pH 7.6, 30&deg;C
+KM	Homo sapiens	2	glutamate	*pH 7.7, 37&deg;C
+KM	Homo sapiens	2	glyoxylate	*pH 7.7, 37&deg;C
+KM	Oryza sativa Japonica Group	2.37	L-alanine	*cosubstrate glyoxylate, pH 7.6, 30&deg;C
+KM	Spinacia oleracea	2.75	glutamate	*pH 7.0, 25&deg;C
+KM	Lactobacillus plantarum	2.75	glutamate	*pH 8.0, 35-37&deg;C
+KM	Oryza sativa Japonica Group	2.96	L-alanine	*cosubstrate 2-oxoglutarate, pH 7.6, 30&deg;C
+KM	Rhodopseudomonas palustris	3.75	glyoxylate	*pH 7.5, 30&deg;C
+KM	Rattus norvegicus	4.6	glutamate	*pH 7.3
+KM	Homo sapiens	5.5	glyoxylate	*pH 7.4, 37&deg;C, cosubstrate: L-glutamate
+KM	Rhodopseudomonas palustris	6.2	L-glutamate	*pH 7.5, 30&deg;C
+KM	Spinacia oleracea	6.25	glyoxylate	*pH 7.0, 25&deg;C
+KM	Lactobacillus plantarum	6.25	glyoxylate	*pH 8.0, 35-37&deg;C
+KM	Hydrogenobacter thermophilus	6.5	glyoxylate	*pH and temperature not specified in the publication
+KM	Rattus norvegicus	8.3	glyoxylate	*pH 7.3
+MW	Lactobacillus plantarum	37000	*	*gel filtration
+MW	Rhodopseudomonas palustris	42000	*	*1 * 42000, SDS-PAGE
+MW	Hydrogenobacter thermophilus	42000	*	*SDS-PAGE
+MW	Rhodopseudomonas palustris	45500	*	*gel filtration
+MW	Zea mays	50000	*	*5 isoforms, gel filtration
+MW	Oryza sativa Japonica Group	54000	*	*4 * 54000, SDS-PAGE
+MW	Homo sapiens	57000	*	*recombinant enzyme
+MW	Hydrogenobacter thermophilus	62000	*	*gel filtration, 1.5fold larger than single peptide mass, indicating that enzyme is a monomer or homodimer
+MW	Oryza sativa Japonica Group	240000	*	*PAGE
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	glycine metabolism	*	*
+PATH	*	Glycine, serine and threonine metabolism	*	*
+PATH	*	Glyoxylate and dicarboxylate metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	photorespiration	*	*
+SA	Rattus norvegicus	0.13	*	*partially purified enzyme
+SA	Homo sapiens	0.185	*	*purified enzyme
+SA	Homo sapiens	1.5	*	*pH 7.4, 25&deg;C, L-glutamate (1 mM) + glyoxylate
+SA	Homo sapiens	2.1	*	*pH 7.4, 25&deg;C, L-alanine (10 mM) + glyoxylate
+SA	Spinacia oleracea	2.4	*	*peroxisomes
+SA	Homo sapiens	2.5	*	*pH 7.4, 25&deg;C, L-glutamate (10 mM) + glyoxylate
+SA	Rhodopseudomonas palustris	3.25	*	*purified enzyme
+SA	Homo sapiens	87	*	*pH 7.5, 25&deg;C, L-alanine + 2-oxoglutarate

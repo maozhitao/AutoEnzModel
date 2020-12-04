@@ -1,0 +1,40 @@
+KCAT	Acinetobacter calcoaceticus	3	3-chlorobenzoate	*pH 7, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	4.2	2-Methylbenzoate	*pH 7, 25&deg;C
+KCAT	Pseudomonas putida	4.4	benzoate	*at pH 6.8 temperature not specified in the publication
+KCAT	Acinetobacter calcoaceticus	7	3-methylbenzoate	*pH 7, 25&deg;C
+KCAT	Acinetobacter calcoaceticus	8.6	benzoate	*pH 7, 25&deg;C
+KCAT	Pseudomonas putida	367	benzoate	*in the presence of saturating amounts of NADH-cytochrome c reductase
+KM	Pseudomonas putida	0.0048	NADH	*
+KM	Pseudomonas putida	0.0043	O2	*
+KM	Pseudomonas putida	0.0039	benzoate	*
+KM	Rhodococcus ruber	0.00558	benzoate	*at pH 8.5 and 25&Acirc;&deg;C
+KM	Acinetobacter calcoaceticus	0.026	benzoate	*pH 7, 25&Acirc;&deg;C
+KM	Acinetobacter calcoaceticus	0.113	3-chlorobenzoate	*pH 7, 25&Acirc;&deg;C
+KM	Acinetobacter calcoaceticus	0.089	3-methylbenzoate	*pH 7, 25&Acirc;&deg;C
+KM	Acinetobacter calcoaceticus	1.401	2-Methylbenzoate	*pH 7, 25&Acirc;&deg;C
+KM	Pseudomonas putida	0.026	NADH-cytochrome c reductase component	*
+MW	Pseudomonas putida	19000	*	*alpha3,beta3, 3 * 19000 + 3 * 49000, oxygenase component, SDS-PAGE
+MW	Pseudomonas putida	20000	*	*alpha3,beta3, 3 * 20000 + 3 * 50000, oxygenase component of the enzyme system, SDS-PAGE
+MW	Pseudomonas putida	37500	*	*NADH-cytochrome c component
+MW	Pseudomonas putida	38000	*	*1 * 38000, reductase component of the enzyme system
+MW	Pseudomonas putida	38000	*	*reductase component
+MW	Pseudomonas putida	49000	*	*alpha3,beta3, 3 * 19000 + 3 * 49000, oxygenase component, SDS-PAGE
+MW	Pseudomonas putida	50000	*	*alpha3,beta3, 3 * 20000 + 3 * 50000, oxygenase component of the enzyme system, SDS-PAGE
+MW	Pseudomonas putida	51500	*	*alpha-subunit BenA, calculated from amino acid sequence
+MW	Acinetobacter calcoaceticus	52300	*	*calculated from the deduced amino acid sequence, alpha subunit
+MW	Pseudomonas putida	195000	*	*oxygenase component, sedimentation analysis; sedimentation analysis
+MW	Pseudomonas putida	201000	*	*sedimentation equilibrium
+MW	Pseudomonas putida	204000	*	*SDS-PAGE
+MW	Pseudomonas putida	270000	*	*oxygenase component, gel filtration
+MW	Pseudomonas putida	273000	*	*oxygenase component, sedimentation equilibrium
+MW	Pseudomonas putida	280000	*	*oxygenase component, native PAGE
+PATH	*	Benzoate degradation	*	*
+PATH	*	benzoate degradation I (aerobic)	*	*
+PATH	*	Fluorobenzoate degradation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Pseudomonas putida	-999	*	*The recombinant bacteria shows a BZDO activity of 1.2 mmol benzoate per gram cell dry weight, while Pseudomonas putida KTSY01 shows a BZDO activity of only 0.09 mmol.
+SA	Pseudomonas putida	1.36	*	*benzoate oxygenase
+SA	Pseudomonas putida	4.9	*	*
+SA	Acinetobacter calcoaceticus	5	*	*pH 7, 25&Acirc;&deg;C, with 3-methylbenzoate as substrate
+SA	Pseudomonas putida	790	*	*benzoate reductase, reduction of K3Fe(CN)6

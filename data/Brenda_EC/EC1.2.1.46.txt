@@ -1,0 +1,73 @@
+KCAT	Pseudomonas putida	0.136	formaldehyde	*enzyme immobilized on MPS-4, pH 7.0, 22&Acirc;&deg;
+KCAT	Pseudomonas putida	0.177	formaldehyde	*enzyme immobilized on phenyl-functionalized MPS-4, pH 7.0, 22&Acirc;&deg;
+KCAT	Pseudomonas putida	0.247	formaldehyde	*enzyme immobilized on methyl-functionalized MPS-4, pH 7.0, 22&Acirc;&deg;
+KCAT	Pseudomonas putida	0.48	formaldehyde	*pH 7.0, 22&Acirc;&deg;C, free enzyme
+KM	Homo sapiens	0.0033	NAD+	*reduction of NAD+, formaldehyde dehydrogenase
+KM	Homo sapiens	0.0144	NAD+	*reduction of NAD+, R368L mutant
+KM	Pseudomonas putida	0.056	NAD+	*
+KM	Homo sapiens	0.116	NAD+	*reduction of NAD+, E67L mutant
+KM	Pseudomonas putida	0.35	NAD+	*+ formaldehyde
+KM	Arthrobacter sp.	0.45	NAD+	*
+KM	Pseudomonas putida	0.5	NAD+	*
+KM	Homo sapiens	0.002	NADH	*oxidation of NADH, formaldehyde dehydrogenase
+KM	Homo sapiens	0.011	NADH	*oxidation of NADH, R368L mutant
+KM	Pseudomonas putida	5.9	acetaldehyde	*
+KM	Pseudomonas putida	0.067	formaldehyde	*
+KM	Arthrobacter sp.	0.074	formaldehyde	*
+KM	Pseudomonas putida	0.09	formaldehyde	*
+KM	Ogataea angusta	0.18	formaldehyde	*KM value of the used FdDH in solution from the wild strains
+KM	Pseudomonas putida	0.2	formaldehyde	*
+KM	Pseudomonas putida	0.438	formaldehyde	*enzyme immobilized on phenyl-functionalized MPS-4, pH 7.0, 22&Acirc;&deg;
+KM	Pseudomonas putida	0.926	formaldehyde	*pH 7.0, 22&Acirc;&deg;C, free enzyme
+KM	Pseudomonas putida	2.84	formaldehyde	*enzyme immobilized on MPS-4, pH 7.0, 22&Acirc;&deg;
+KM	Pseudomonas putida	10.6	formaldehyde	*enzyme immobilized on methyl-functionalized MPS-4, pH 7.0, 22&Acirc;&deg;
+KM	Ogataea angusta	119.9	formaldehyde	*immobilized enzyme in a bioactive layer on the transducer surface, apparent Michaelis-Menten constant derived from the formaldehyde calibration curves is 120 mM with a linear detection range for formaldehyde up to 20 mM
+KM	Pseudomonas putida	5.5	benzyl alcohol	*
+KM	Pseudomonas putida	47	propionaldehyde	*
+KM	Pseudomonas putida	10.6	n-butanol	*
+KM	Pseudomonas putida	50	n-Propanol	*
+KM	Homo sapiens	0.0048	S-nitrosoglutathione	*reduction of S-nitrosoglutathione, formaldehyde dehydrogenase
+KM	Homo sapiens	0.16	S-nitrosoglutathione	*reduction of S-nitrosoglutathione, R368L mutant
+KM	Pseudomonas putida	6.2	Isobutyraldehyde	*
+KM	Pseudomonas putida	4	n-Hexanol	*
+KM	Pseudomonas putida	6.5	n-Pentanol	*
+KM	Homo sapiens	0.0017	S-hydroxymethylglutathione	*oxidation of S-hydroxymethylglutathione, formaldehyde dehydrogenase
+KM	Homo sapiens	0.038	S-hydroxymethylglutathione	*oxidation of S-hydroxymethylglutathione, R368L mutant
+KM	Homo sapiens	2.65	S-hydroxymethylglutathione	*oxidation of S-hydroxymethylglutathione, E67L mutant
+KM	Pseudomonas putida	30	isobutanol	*
+KM	Pseudomonas putida	4.2	Isopentanol	*
+KM	Pseudomonas putida	100	aryl alcohol	*
+KM	Pseudomonas putida	-999	more	*Km for NAD+ with various aldehydes and alcohols
+KM	Pseudomonas aeruginosa	-999	more	*bi-substrate kinetics modelling
+MW	Ogataea angusta	40000	*	*2 * 40000, SDS-PAGE
+MW	Pseudomonas putida	42000	*	*4 * 42000, recombinant protein, expressed in Escherichia coli, SDS-PAGE, calculation from gene sequence
+MW	Pseudomonas putida	42000	*	*4 * 42000
+MW	Arthrobacter sp.	43500	*	*gel filtration
+MW	Arthrobacter sp.	48000	*	*1 * 48000, SDS-PAGE
+MW	Methylococcus capsulatus	63000	*	*4 * 63000, ESI-MS
+MW	Pseudomonas putida	75000	*	*2 * 75000, SDS-PAGE
+MW	Pseudomonas putida	150000	*	*gel filtration
+MW	Pseudomonas putida	150000	*	*recombinant protein, expressed in E. coli, gel filtration
+MW	Pseudomonas aeruginosa	150000	*	*recombinant His-tagged enzyme, gel filtration
+MW	Pseudomonas putida	170000	*	*
+MW	Pseudomonas putida	250000	*	*gel filtration
+MW	Methylococcus capsulatus	250000	*	*gel filtration
+PATH	*	Chloroalkane and chloroalkene degradation	*	*
+PATH	*	formaldehyde oxidation IV (thiol-independent)	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Methane metabolism	*	*
+PATH	*	methanol oxidation to carbon dioxide	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Arthrobacter sp.	-999	*	*
+SA	Pseudomonas putida	-999	*	*
+SA	Pseudomonas putida	-999	*	*
+SA	Ogataea angusta	4.5	*	*the stable recombinant strain Tf 11-6 in cell-free extract
+SA	Ogataea angusta	7	*	*FdDH specific activity in cell-free extract of Tf 11-6, cultivated in methanol medium supplemented with 10 mM formaldehyde
+SA	Pseudomonas putida	8.3	*	*
+SA	Pseudomonas aeruginosa	9.87	*	*purified recombinant His-tagged enzyme, pH 7.5, 37&deg;C
+SA	Ogataea angusta	12	*	*at 20&deg;C
+SA	Ogataea angusta	16.9	*	*
+SA	Ogataea angusta	17	*	*3.8fold purified enzyme at 25&deg;C
+SA	Pseudomonas putida	24.1	*	*recombinant protein, expressed in Escherichia coli
+SA	Ogataea angusta	27	*	*3.8fold purified enzyme at 37&deg;C
+SA	Methylococcus capsulatus	234	*	*

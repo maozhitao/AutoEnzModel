@@ -1,0 +1,34 @@
+KM	Euonymus alatus	0.002	UDP-glucose	*pH 7.5, 30&Acirc;&deg;C, cosubstrate kaempferol
+KM	Paederia scandens	0.01539	UDP-glucose	*pH 7.5, cosubstrate kaempferol
+KM	Nicotiana tabacum	0.0432	UDP-glucose	*pH 8.0, 30&Acirc;&deg;C, recombinant enzyme
+KM	Beta vulgaris	0.0024	quercetin	*UGT71F1
+KM	Beta vulgaris	0.011	quercetin	*UGT73A4
+KM	Glebionis segetum	0.049	quercetin	*pH 8.3, 25&Acirc;&deg;C
+KM	Nicotiana tabacum	0.0065	kaempferol	*pH 8.0, 30&Acirc;&deg;C, recombinant enzyme
+KM	Paederia scandens	0.00769	kaempferol	*pH 7.5
+KM	Euonymus alatus	0.0111	kaempferol	*pH 7.5, 30&Acirc;&deg;C
+KM	Glebionis segetum	0.029	kaempferol	*pH 7.8, 25&Acirc;&deg;C
+KM	Glebionis segetum	0.084	luteolin	*pH 8.1, 25&Acirc;&deg;C
+KM	Glebionis segetum	0.067	myricetin	*pH 8.1, 25&Acirc;&deg;C
+KM	Beta vulgaris	0.0192	apigenin	*UGT73A4
+KM	Beta vulgaris	0.0268	apigenin	*UGT71F1
+KM	Glebionis segetum	0.078	apigenin	*pH 7.7, 25&Acirc;&deg;C
+KM	Glebionis segetum	0.073	naringenin	*pH 6.9, 25&Acirc;&deg;C
+KM	Glebionis segetum	0.071	eriodictyol	*pH 7.5, 25&Acirc;&deg;C
+KM	Nicotiana tabacum	0.0236	3-hydroxycoumarin	*pH 8.0, 30&Acirc;&deg;C, recombinant enzyme
+KM	Beta vulgaris	0.029	betanidin	*UGT71F1
+KM	Glebionis segetum	0.032	gossypetin	*pH 6.9, 25&Acirc;&deg;C
+MW	Paederia scandens	43000	*	*gel filtration
+MW	Euonymus alatus	48000	*	*gel filtration
+MW	Beta vulgaris	54070	*	*calculated from sequence, UGT73A4
+MW	Beta vulgaris	54390	*	*calculated from sequence, UGT71F1
+PATH	*	eupatolitin 3-O-glucoside biosynthesis	*	*
+PATH	*	gossypetin metabolism	*	*
+PATH	*	kaempferol glycoside biosynthesis (Arabidopsis)	*	*
+PATH	*	quercetin glucoside biosynthesis (Allium)	*	*
+PATH	*	quercetin glycoside biosynthesis (Arabidopsis)	*	*
+SA	Glebionis segetum	-999	*	*specific activities for the 7-O-glucosylation reaction with several substrates, cv. Stern des Orients: 3times higher specific activity with gossypetin than with quercetin as substrate
+SA	Nicotiana tabacum	-999	*	*
+SA	Vitis labrusca	0.00015	*	*in vivo, pH and temperature not specified in the publication
+SA	Paederia scandens	1.63	*	*pH 7.5
+SA	Euonymus alatus	1.76	*	*pH 7.5, 30&deg;C, kaempferol as substrate

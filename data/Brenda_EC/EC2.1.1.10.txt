@@ -1,0 +1,47 @@
+KCAT	Homo sapiens	-999	more	*similar turnover number like betaine-homocysteine methyltransferase (BHMT, EC 2.1.1.5)
+KCAT	Brassica oleracea	0.0375	DL-homocysteine	*
+KCAT	Escherichia coli	0.38	L-homocysteine	*pH 6, 30&deg;C, cosubstrate: S-adenosyl-L-methionine
+KM	Arabidopsis thaliana	0.018	L-homocysteine	*pH 7.5, 30&deg;C, cosubstrate: S-adenosyl-L-methionine
+KM	Arabidopsis thaliana	0.027	L-homocysteine	*pH 7.5, 25&deg;C, cosubstrate: S-adenosyl-L-methionine
+KM	Arabidopsis thaliana	0.029	S-methyl-L-methionine	*pH 7.5, 30&deg;C
+KM	Arabidopsis thaliana	0.03	L-homocysteine	*pH 7.5, 25&deg;C, cosubstrate: S-methyl-L-methionine
+KM	Arabidopsis thaliana	0.035	L-homocysteine	*pH 7.5, 30&deg;C, cosubstrate: S-methyl-L-methionine
+KM	Escherichia coli	0.045	L-homocysteine	*pH 6, 30&deg;C, cosubstrate: S-adenosyl-L-methionine
+KM	Arabidopsis thaliana	0.05	S-methyl-L-methionine	*pH 7.5, 30&deg;C
+KM	Arabidopsis thaliana	0.067	L-homocysteine	*pH 7.5, 30&deg;C, cosubstrate: S-adenosyl-L-methionine
+KM	Brassica oleracea	0.072	DL-homocysteine	*
+KM	Arabidopsis thaliana	0.077	L-homocysteine	*pH 7.5, 30&deg;C, cosubstrate: S-methyl-L-methionine
+KM	Arabidopsis thaliana	0.225	S-adenosyl-L-methionine	*pH 7.5, 30&deg;C
+KM	Arabidopsis thaliana	0.335	S-methyl-L-methionine	*pH 7.5, 25&deg;C
+KM	Homo sapiens	0.94	S-methyl-L-methionine	*final concentrations of S-methyl-L-methionine ranging from 0.1 mM to 9 mM, lower value than obtained for BHMT (EC 2.1.1.5)
+KM	Arabidopsis thaliana	1.76	S-adenosyl-L-methionine	*pH 7.5, 25&deg;C
+KM	Arabidopsis thaliana	1.95	S-adenosyl-L-methionine	*pH 7.5, 30&deg;C
+MW	Saccharomyces cerevisiae	30000	*	*from sedimentation coefficient
+MW	Escherichia coli	32500	*	*1 * 32500, calculated from sequence
+MW	Escherichia coli	34000	*	*gel filtration
+MW	Escherichia coli	34490	*	*1 * 34490, calculated, 1 * 35000, SDS-PAGE
+MW	Escherichia coli	35000	*	*1 * 35000, SDS-PAGE
+MW	Escherichia coli	35000	*	*gel filtration
+MW	Brassica oleracea	35400	*	*calculated from amino acid sequence
+MW	Arabidopsis thaliana	36000	*	*gel filtration; gel filtration
+MW	Arabidopsis thaliana	36400	*	*1 * 36400, calculated from sequence
+MW	Homo sapiens	40000	*	*SDS-PAGE, 73% sequence identity with the 45 kDa BHMT protein (EC 2.1.1.5)
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Cysteine and methionine metabolism	*	*
+PATH	*	L-methionine salvage from L-homocysteine	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	methionine metabolism	*	*
+PATH	*	S-methyl-L-methionine cycle	*	*
+SA	Homo sapiens	-999	*	*structural comparison and enzymatic properties of purified human betaine-homocysteine methyltransferase (BHMT, EC 2.1.1.5) and human betaine-homocysteine methyltransferase-2 (BHMT-2) determined, methylation capacities of homocysteine analyzed, S-adenosyl-L-methionine-dependent methylation of homocysteine predicted mostly occurs via BHMT-2 in vivo
+SA	Rattus norvegicus	0.0008	*	*kidney, S-methyl-L-methionine as methyl donor
+SA	Brassica oleracea	0.0009	*	*using L-selenocysteine as substrate
+SA	Brassica oleracea	0.0017	*	*using DL-selenocysteine as substrate
+SA	Rattus norvegicus	0.0022	*	*liver, S-adenosyl-L-methionine as methyl donor
+SA	Brassica oleracea	0.0054	*	*using L-cysteine as substrate
+SA	Rattus norvegicus	0.0087	*	*liver, S-methyl-L-methionine as methyl donor
+SA	Escherichia coli	0.012	*	*S-methyl-L-methionine as methyl donor
+SA	Saccharomyces cerevisiae	0.014	*	*S-methyl-L-methionine as methyl donor
+SA	Brassica oleracea	0.0147	*	*using DL-cysteine as substrate
+SA	Klebsiella aerogenes	0.017	*	*S-methyl-L-methionine as methyl donor
+SA	Brassica oleracea	0.0936	*	*using DL-homocysteine as substrate
+SA	Saccharomyces cerevisiae	1.37	*	*purified enzyme, S-adenosyl-L-methionine as methyl donor

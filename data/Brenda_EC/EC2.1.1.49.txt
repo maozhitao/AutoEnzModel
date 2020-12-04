@@ -1,0 +1,52 @@
+KCAT	Oryctolagus cuniculus	0.0333	aniline	*transferase A, pH 7.6
+KCAT	Oryctolagus cuniculus	0.0333	desmethylimipramine	*transferase B, pH 8.5
+KCAT	Oryctolagus cuniculus	0.0833	imidazole	*transferase A, pH 8.5
+KCAT	Oryctolagus cuniculus	0.1	pyrazole	*transferase B, pH 7.6
+KCAT	Oryctolagus cuniculus	0.117	S-adenosyl-L-methionine	*transferase B, pH 8.5
+KCAT	Oryctolagus cuniculus	0.167	imidazole	*transferase B, pH 8.5
+KCAT	Oryctolagus cuniculus	0.2	S-adenosyl-L-methionine	*transferase A, pH 8.5
+KCAT	Oryctolagus cuniculus	0.233	desmethylimipramine	*transferase A, pH 8.5
+KCAT	Oryctolagus cuniculus	0.25	pyrazole	*transferase A, pH 7.6
+KCAT	Oryctolagus cuniculus	0.367	aniline	*transferase B, pH 7.6
+KCAT	Oryctolagus cuniculus	0.4	tryptamine	*transferase A, pH 8.5
+KCAT	Oryctolagus cuniculus	0.45	tryptamine	*transferase B, pH 8.5
+KCAT	Oryctolagus cuniculus	0.667	7,8-dichloro-1,2,3,4-tetrahydroisoquinoline	*transferase A, pH 7.6
+KCAT	Oryctolagus cuniculus	3.67	7,8-dichloro-1,2,3,4-tetrahydroisoquinoline	*transferase B, pH 7.6
+KM	Oryctolagus cuniculus	0.01	7,8-dichloro-1,2,3,4-tetrahydroisoquinoline	*transferase A, pH 7.6
+KM	Oryctolagus cuniculus	0.015	S-adenosyl-L-methionine	*1 mM tryptamine as methyl acceptor, pH 8.5
+KM	Oryctolagus cuniculus	0.12	tryptamine	*transferase B, pH 8.5
+KM	Oryctolagus cuniculus	0.2	imidazole	*transferase A, pH 8.5
+KM	Oryctolagus cuniculus	0.24	desmethylimipramine	*transferase B, pH 8.5
+KM	Oryctolagus cuniculus	0.3	desmethylimipramine	*transferase A, pH 8.5
+KM	Oryctolagus cuniculus	0.3	tryptamine	*transferase A, pH 8.5
+KM	Oryctolagus cuniculus	1.5	pyrazole	*transferase A, pH 7.6
+KM	Oryctolagus cuniculus	2	7,8-dichloro-1,2,3,4-tetrahydroisoquinoline	*transferase B, pH 7.6
+KM	Oryctolagus cuniculus	3.2	pyrazole	*transferase B, pH 7.6
+KM	Oryctolagus cuniculus	5.1	imidazole	*transferase B, pH 8.5
+KM	Rattus norvegicus	6.25	beta-phenylethylamine	*5-methyltetrahydrofolate as methyl donor
+KM	Oryctolagus cuniculus	7.6	aniline	*transferase A, pH 7.6
+KM	Oryctolagus cuniculus	7.8	aniline	*transferase B, pH 7.6
+KM	Rattus norvegicus	8.3	tryptamine	*5-methyltetrahydrofolate as methyl donor
+KM	Rattus norvegicus	28.3	tryptamine	*mitochondrial enzyme, cholestatic liver, S-adenosyl-L-methionine
+KM	Rattus norvegicus	32.5	tryptamine	*mitochondrial enzyme, control liver, S-adenosyl-L-methionine
+KM	Rattus norvegicus	34.1	tryptamine	*microsomal enzyme, cholestatic liver, S-adenosyl-L-methionine
+KM	Rattus norvegicus	35.6	tryptamine	*microsomal enzyme, control liver, S-adenosyl-L-methionine
+MW	Oryctolagus cuniculus	-999	*	*amino acid composition of transferase A
+MW	Oryctolagus cuniculus	30000	*	*gel filtration
+PATH	*	beta-alanine betaine biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Tryptophan metabolism	*	*
+SA	Rattus norvegicus	-999	*	*specific activities of serum, control and cholestatic liver in cytosolic, mitochondrial and microsomal preparations for 0.5, 1, 2, 3, 7, 14, 28 and 42 days after common bile duct ligation, activities of mitochondrial and microsomal enzyme in cholestatic liver and of serum enzyme increase after common bile duct ligation, Vmax-values
+SA	Rattus norvegicus	0.00000038	*	*beta-phenylethylamine + S-adenosyl-L-methionine
+SA	Rattus norvegicus	0.00000118	*	*tryptamine + S-adenosyl-L-methionine
+SA	Bos taurus	0.0000012	*	*N-methyltransferase A, (-)-(S)-isosalsoline
+SA	Bos taurus	0.0000021	*	*N-methyltransferase A, (-)-(S)-salsolidine
+SA	Bos taurus	0.0000033	*	*N-methyltransferase A, (+)-(R)-isosalsoline
+SA	Rattus norvegicus	0.000065	*	*beta-phenylethylamine + 5-methyltetrahydrofolate
+SA	Oryctolagus cuniculus	0.000068	*	*N-methyltransferase A, aniline
+SA	Rattus norvegicus	0.000198	*	*tryptamine + 5-methyltetrahydrofolate
+SA	Oryctolagus cuniculus	0.00022	*	*N-methyltransferase B, desmethylimipramine
+SA	Oryctolagus cuniculus	0.00026	*	*N-methyltransferase A, desmethylimipramine
+SA	Oryctolagus cuniculus	0.00044	*	*N-methyltransferase A, tryptamine
+SA	Oryctolagus cuniculus	0.00127	*	*N-methyltransferase B, aniline
+SA	Oryctolagus cuniculus	0.0031	*	*N-methyltransferase B, tryptamine

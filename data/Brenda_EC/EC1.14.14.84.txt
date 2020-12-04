@@ -1,0 +1,12 @@
+KCAT	Pseudomonas putida	-999	more	*overview: values for cytochrome LIN P-450 with various synthetic substrates
+KCAT	Pseudomonas putida	2	NADH	*substrate-stimulated NADH oxidation using excess amounts of P-450 and FAD component of the enzyme
+KCAT	Pseudomonas putida	32	NADH	*substrate-stimulated NADH oxidation using excess amounts of iron-sulfur and FAD component of the enzyme
+KCAT	Pseudomonas putida	43	NADH	*substrate-stimulated NADH oxidation using excess amounts of iron sulfur and P-450 component of the enzyme
+MW	Pseudomonas putida	-999	*	*multi-component enzyme consisting of LIN-reductase, Fe2-S2-redoxin and cytochrome LIN-P450. MW of the reductase: 43700 Da, analytical data from amino acid composition and prosthetic group quantification, 45000 Da, gel filtration. MW of Fe2-S2-redoxin: 11000 Da, gel filtration, 12800 Da, analytical data from amino acid composition and prosthetic group quantification. MW of cytochrome LIN-P450: 44800 Da, analytical data from amino acid composition and prosthetic group quantification, 45000 Da, gel filtration
+MW	Pseudomonas putida	43700	*	*1 * 44000, SDS-PAGE, 1 * 43700, about, sequence calculation
+MW	Pseudomonas putida	44000	*	*1 * 44000, SDS-PAGE, 1 * 43700, about, sequence calculation
+MW	Pseudomonas putida	45000	*	*gel filtration
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Monoterpenoid biosynthesis	*	*
+SA	Pseudomonas putida	0.0042	*	*reductase
+SA	Pseudomonas putida	0.014	*	*purified enzyme, pH 7.4, temperature not specified in the publication

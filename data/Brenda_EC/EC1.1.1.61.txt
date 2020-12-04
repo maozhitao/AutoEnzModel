@@ -1,0 +1,32 @@
+KCAT	Porphyromonas gingivalis	1329	succinate semialdehyde	*with NADH as cosubstrate, at pH 8.0 and 37&deg;C
+KM	Clostridium kluyveri	0.67	NAD+	*
+KM	Clostridium kluyveri	0.15	NADH	*
+KM	Porphyromonas gingivalis	0.41	NADH	*with NADH as cosubstrate, at pH 8.0 and 37&Acirc;&deg;C
+KM	Cupriavidus necator	14	ethanol	*pH 8.5, 23&Acirc;&deg;C
+KM	Escherichia coli	9	methylglyoxal	*; in 100 mM Tris-HCl buffer (pH 8.8), at 37&Acirc;&deg;C
+KM	Porphyromonas gingivalis	0.15	succinate semialdehyde	*with NADH as cosubstrate, at pH 8.0 and 37&Acirc;&deg;C
+KM	Clostridium kluyveri	0.56	Succinic semialdehyde	*
+KM	Escherichia coli	4.3	Succinic semialdehyde	*; in 100 mM MOPS-KOH buffer (pH 7.2), at 37&Acirc;&deg;C
+KM	Escherichia coli	102	4-hydroxybutyrate	*
+KM	Clostridium kluyveri	0.055	4-hydroxybutanoate	*
+KM	Cupriavidus necator	2.19	gamma-hydroxybutyrate	*pH 8.5, 23&Acirc;&deg;C
+KM	Escherichia coli	102	gamma-hydroxybutyrate	*in 100 mM Tris-HCl buffer (pH 8.8), at 37&Acirc;&deg;C
+KM	Escherichia coli	1	3-hydroxypropane sulfonate	*; in 100 mM Tris-HCl buffer (pH 8.8), at 37&Acirc;&deg;C
+MW	Arabidopsis thaliana	30300	*	*calculated from predicted amino acid sequence
+MW	Escherichia coli	31154	*	*4 * 31154, calculated from amino acid sequence
+MW	Porphyromonas gingivalis	37000	*	*1 * 37000, SDS-PAGE
+MW	Cupriavidus necator	40500	*	*calculated from the predicted amino acid sequence of the native enzyme
+MW	Clostridium kluyveri	41600	*	*2 * 41600, SDS-PAGE
+MW	Porphyromonas gingivalis	42000	*	*gel filtration
+MW	Cupriavidus necator	66000	*	*fusion protein, SDS-PAGE, calculated mass
+MW	Clostridium kluyveri	86000	*	*gel filtration
+MW	Escherichia coli	143000	*	*gel filtration; gel filtration
+PATH	*	4-aminobutanoate degradation V	*	*
+PATH	*	Butanoate metabolism	*	*
+PATH	*	CO2 fixation in Crenarchaeota	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	succinate fermentation to butanoate	*	*
+SA	Escherichia coli	0.062	*	*substrate: gamma-hydroxybutyrate
+SA	Escherichia coli	0.067	*	*substrate: methylglyoxal
+SA	Escherichia coli	0.2	*	*substrate: succinic semialdehyde
+SA	Escherichia coli	9	*	*substrate: 3-hydroxypropane sulfonate

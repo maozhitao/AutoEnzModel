@@ -1,0 +1,52 @@
+KCAT	Methanohalophilus portucalensis	0.44	sarcosine	*pH 7.2, 37&Acirc;&deg;C
+KCAT	Galdieria sulphuraria	1.07	sarcosine	*
+KCAT	Galdieria sulphuraria	1.4	N,N-dimethylglycine	*
+KCAT	Methanohalophilus portucalensis	2.68	N,N-dimethylglycine	*pH 7.2, 37&Acirc;&deg;C
+KM	Galdieria sulphuraria	0.144	S-adenosyl-L-methionine	*cosubstrate: sarcosine
+KM	Galdieria sulphuraria	0.15	S-adenosyl-L-methionine	*cosubstrate: N,N-dimethylglycine
+KM	Halorhodospira halochloris	0.16	S-adenosyl-L-methionine	*recombinant enzyme, pH 7.4, 37&deg;C, with glycine
+KM	Aphanothece halophytica	0.18	S-adenosyl-L-methionine	*pH 8.8, 37&deg;C, recombinant wild-type enzyme, with dimethylglycine
+KM	Halorhodospira halochloris	0.21	S-adenosyl-L-methionine	*recombinant enzyme, pH 7.4, 37&deg;C, with sarcosine
+KM	Methanohalophilus portucalensis	0.21	S-adenosyl-L-methionine	*cosubstrate sarcosine, pH 7.2, 37&deg;C
+KM	Aphanothece halophytica	0.25	S-adenosyl-L-methionine	*pH 8.8, 37&deg;C, recombinant mutant P171Q, with dimethylglycine
+KM	Aphanothece halophytica	0.5	dimethylglycine	*pH 8.8, 37&deg;C, recombinant wild-type enzyme
+KM	Methanohalophilus portucalensis	0.5	S-adenosyl-L-methionine	*pH 7.3, 37&deg;C, recombinant enzyme, with sarcosine
+KM	Methanohalophilus portucalensis	0.59	S-adenosyl-L-methionine	*cosubstrate N,N-dimethylglycine, pH 7.2, 37&deg;C
+KM	Aphanothece halophytica	0.6	S-adenosyl-L-methionine	*pH 8.8, 37&deg;C, recombinant wild-type enzyme, with sarcosine
+KM	Methanohalophilus portucalensis	0.79	S-adenosyl-L-methionine	*pH 7.3, 37&deg;C, recombinant enzyme, with N,N-dimethylglycine
+KM	Aphanothece halophytica	0.8	sarcosine	*pH 8.8, 37&deg;C, recombinant wild-type enzyme
+KM	Galdieria sulphuraria	2	sarcosine	*
+KM	Methanohalophilus portucalensis	2.29	sarcosine	*pH 7.2, 37&deg;C
+KM	Methanohalophilus portucalensis	2.29	sarcosine	*pH 7.3, 37&deg;C, recombinant enzyme
+KM	Galdieria sulphuraria	2.8	N,N-dimethylglycine	*
+KM	Methanohalophilus portucalensis	3.76	N,N-dimethylglycine	*pH 7.2, 37&deg;C
+KM	Methanohalophilus portucalensis	3.76	N,N-dimethylglycine	*pH 7.3, 37&deg;C, recombinant enzyme
+KM	Halorhodospira halochloris	4.9	dimethylglycine	*recombinant enzyme, pH 7.4, 37&deg;C, with S-adenosyl-L-methionine
+KM	Halorhodospira halochloris	6.1	sarcosine	*recombinant enzyme, pH 7.4, 37&deg;C, with S-adenosyl-L-methionine
+KM	Aphanothece halophytica	7.5	dimethylglycine	*pH 8.8, 37&deg;C, recombinant mutant P171Q
+MW	Halorhodospira halochloris	25000	*	*gel filtration
+MW	Myxococcus xanthus	27900	*	*x * 27900, about, sequence calculation
+MW	Aphanothece halophytica	29000	*	*recombinant enzyme, gel filtration
+MW	Methanohalophilus portucalensis	30690	*	*2 * 30690, sequence calculation, 2 * 38000, SDS-PAGE
+MW	Aphanothece halophytica	31000	*	*1 * 31000, recombinant enzyme, SDS-PAGE
+MW	Halorhodospira halochloris	32000	*	*1 * 36000, recombinant enzyme, SDS-PAGE, 1 * 32000, about, amino acid sequence calculation
+MW	Actinopolyspora halophila	32000	*	*gel filtration
+MW	Methanohalophilus portucalensis	33000	*	*gel fitlration
+MW	Galdieria sulphuraria	34000	*	*2 * 34000, denaturing PAGE
+MW	Halorhodospira halochloris	36000	*	*1 * 36000, recombinant enzyme, SDS-PAGE, 1 * 32000, about, amino acid sequence calculation
+MW	Methanohalophilus portucalensis	38000	*	*2 * 30690, sequence calculation, 2 * 38000, SDS-PAGE
+MW	Galdieria sulphuraria	67700	*	*gel filtration
+PATH	*	glycine betaine biosynthesis	*	*
+PATH	*	Glycine, serine and threonine metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Halorhodospira halochloris	-999	*	*
+SA	Halorhodospira halochloris	0.23	*	*activity with sarcosine and S-adenosyl-L-methionine in crude cell extracts
+SA	Actinopolyspora halophila	0.34	*	*activity with sarcosine and S-adenosyl-L-methionine in crude cell extracts
+SA	Actinopolyspora halophila	0.36	*	*activity with sarcosine and S-adenosyl-L-methionine, purified enzyme
+SA	Halorhodospira halochloris	0.68	*	*purified recombinant enzyme, substrate sarcosine
+SA	Methanohalophilus portucalensis	0.71	*	*pH 7.2, 37&Acirc;&deg;C, sarcosine N-methyltransferase activity
+SA	Actinopolyspora halophila	0.93	*	*activity with N,N-dimethylglycine and S-adenosyl-L-methionine in crude cell extracts
+SA	Actinopolyspora halophila	1	*	*activity with N,N-dimethylglycine and S-adenosyl-L-methionine, purified enzyme
+SA	Halorhodospira halochloris	2.6	*	*activity with N,N-dimethylglycine and S-adenosyl-L-methionine in crude cell extracts
+SA	Methanohalophilus portucalensis	3	*	*pH 7.2, 37&Acirc;&deg;C, N,N-dimethylglycine N-methyltransferase activity
+SA	Halorhodospira halochloris	3.4	*	*purified recombinant enzyme, substrate dimethylglycine

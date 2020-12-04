@@ -1,0 +1,63 @@
+KCAT	Escherichia coli	0.0038	ATP	*mutant D6A
+KCAT	Escherichia coli	0.13	ATP	*mutant D233A
+KCAT	Saccharomyces cerevisiae	0.5	ATP	*pH 6.5, 30&Acirc;&deg;C
+KCAT	Thermotoga maritima	24	ATP	*37&Acirc;&deg;C, pH 7.5
+KCAT	Thermotoga maritima	83	ATP	*60&Acirc;&deg;C, pH 7.5
+KCAT	Escherichia coli	237	xylitol	*wild type enzyme
+KCAT	Saccharomyces cerevisiae	0.64	D-xylulose	*pH 6.5, 30&Acirc;&deg;C
+KCAT	Thermotoga maritima	26	D-xylulose	*37&Acirc;&deg;C, pH 7.5
+KCAT	Homo sapiens	35	D-xylulose	*in 50 mM NH4HCO3, pH 8.0, 10% (v/v) D2O, 10 mM MgCl2 at 25&Acirc;&deg;C
+KCAT	Thermotoga maritima	78	D-xylulose	*60&Acirc;&deg;C, pH 7.5
+KCAT	Escherichia coli	255	D-xylulose	*wild type enzyme
+KCAT	Escherichia coli	6600	D-xylulose	*37&Acirc;&deg;C, pH 8.0
+KCAT	Escherichia coli	235	D-ribulose	*wild type enzyme
+KCAT	Escherichia coli	105	D-arabitol	*wild type enzyme
+KCAT	Thermotoga maritima	8.77	(Polyphosphate)n	*37&Acirc;&deg;C, pH 7.5
+KM	Thermotoga maritima	0.14	ATP	*37&Acirc;&deg;C, pH 7.5
+KM	Scheffersomyces stipitis	0.28	ATP	*
+KM	Mucor circinelloides	0.51	ATP	*pH 7.4, 30&Acirc;&deg;C
+KM	Thermotoga maritima	0.7	ATP	*60&Acirc;&deg;C, pH 7.5
+KM	Saccharomyces cerevisiae	1.55	ATP	*pH 6.5, 30&Acirc;&deg;C
+KM	Escherichia coli	8.2	ATP	*mutant D233A
+KM	Saccharomyces cerevisiae	0.28	ADP	*pH 6.5, 30&Acirc;&deg;C
+KM	Parageobacillus caldoxylosilyticus	0.16	MgATP2-	*pH 8.0, 25&Acirc;&deg;C
+KM	Escherichia coli	127	xylitol	*wild type enzyme
+KM	Saccharomyces cerevisiae	1.3	D-xylulose 5-phosphate	*pH 6.5, 30&Acirc;&deg;C
+KM	Homo sapiens	0.024	D-xylulose	*in 50 mM NH4HCO3, pH 8.0, 10% (v/v) D2O, 10 mM MgCl2 at 25&Acirc;&deg;C
+KM	Thermotoga maritima	0.22	D-xylulose	*37&Acirc;&deg;C, pH 7.5
+KM	Escherichia coli	0.29	D-xylulose	*wild type enzyme
+KM	Mucor circinelloides	0.29	D-xylulose	*pH 7.4, 30&Acirc;&deg;C
+KM	Escherichia coli	0.3	D-xylulose	*37&Acirc;&deg;C, pH 8.0
+KM	Saccharomyces cerevisiae	0.31	D-xylulose	*pH 6.5, 30&Acirc;&deg;C
+KM	Scheffersomyces stipitis	0.52	D-xylulose	*
+KM	Klebsiella aerogenes	0.8	D-xylulose	*
+KM	Thermotoga maritima	1.24	D-xylulose	*60&Acirc;&deg;C, pH 7.5
+KM	Escherichia coli	14	D-ribulose	*wild type enzyme
+KM	Escherichia coli	141	D-arabitol	*wild type enzyme
+KM	Thermotoga maritima	17	(Polyphosphate)n	*37&Acirc;&deg;C, pH 7.5
+KM	Parageobacillus caldoxylosilyticus	0.09	xylulose	*pH 8.0, 25&Acirc;&deg;C
+KM	Escherichia coli	-999	more	*radiometric system for measurement of enzyme activity in crude cell extracts
+MW	Escherichia coli	42000	*	*x * 42000, SDS-PAGE
+MW	Klebsiella pneumoniae	51783	*	*x * 51783, calculation from nucleotide sequence
+MW	Klebsiella aerogenes	54000	*	*2 * 54000, SDS-PAGE
+MW	Parageobacillus caldoxylosilyticus	54000	*	*2 * 54000, SDS-PAGE
+MW	Escherichia coli	55000	*	*2 * 55000, dynamic light scattering
+MW	Bacillus coagulans	56000	*	*
+MW	Mucor circinelloides	57600	*	*
+MW	Homo sapiens	58400	*	*x * 58400, calculated from amino acid sequence
+MW	Thermotoga maritima	60000	*	*SDS-PAGE
+MW	Arabidopsis thaliana	61830	*	*calculated from amino acid sequence
+MW	Mucor circinelloides	65100	*	*gel filtration
+MW	Saccharomyces cerevisiae	68000	*	*SDS-PAGE
+MW	Candida maltosa	68890	*	*calculated from amino acid sequence
+MW	Scheffersomyces stipitis	71000	*	*2 * 71000, SDS-PAGE
+MW	Parageobacillus caldoxylosilyticus	110000	*	*gel filtration
+MW	Klebsiella aerogenes	110000	*	*gel filtration
+MW	Escherichia coli	110000	*	*dynamic light scattering
+MW	Scheffersomyces stipitis	120000	*	*gel filtration
+PATH	*	D-arabitol degradation	*	*
+PATH	*	D-xylose degradation I	*	*
+PATH	*	degradation of sugar alcohols	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pentose and glucuronate interconversions	*	*
+PATH	*	xylitol degradation	*	*

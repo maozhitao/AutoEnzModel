@@ -1,0 +1,49 @@
+KCAT	Bacillus cereus	1.5	NADPH	*with FMN, pH 7.2, 37&Acirc;&deg;C
+KCAT	Vibrio harveyi	5.2	NADPH	*mutant enzyme N134A, in 50 mM phosphate buffer, pH 7.0, at 22&Acirc;&deg;C
+KCAT	Vibrio harveyi	9.2	NADPH	*mutant enzyme R133A, in 50 mM phosphate buffer, pH 7.0, at 22&Acirc;&deg;C
+KCAT	Vibrio harveyi	19.2	NADPH	*mutant enzyme R225A, in 50 mM phosphate buffer, pH 7.0, at 22&Acirc;&deg;C
+KCAT	Vibrio harveyi	23.8	NADPH	*wild type enzyme, in 50 mM phosphate buffer, pH 7.0, at 22&Acirc;&deg;C
+KCAT	Vibrio harveyi	34	NADPH	*pH 7.0, 23&Acirc;&deg;C
+KM	Vibrio harveyi	-999	more	*the kinetic mechanism of FRP is changed to a sequential pattern with a Km(FMN) of 0.003 mM and a Km(NADPH) of 0.02 mM in a luciferase-coupled assay measuring light emission
+KM	Escherichia coli	-999	more	*steady-state kinetic analysis of wild-type and mutant enzymes, kinetics of FMN binding, overview
+KM	Escherichia coli	0.000054	FMN	*pH 7.9, 30&deg;C
+KM	Vibrio harveyi	0.0005	FMN	*pH 6.8, 23&deg;C
+KM	Escherichia coli	0.0027	FAD	*pH 7.9, 30&deg;C
+KM	Vibrio harveyi	0.003	NADPH	*pH 7.0, 23&deg;C, enzyme derivative reconstituted from apoenzyme and 2-thioFMN
+KM	Vibrio harveyi	0.005	FMN	*pH 7.0, 23&deg;C, native enzyme
+KM	Vibrio harveyi	0.007	2-thioFMN	*pH 7.0, 23&deg;C, enzyme derivative reconstituted from apoenzyme and 2-thioFMN
+KM	Vibrio harveyi	0.008	FMN	*pH 7.0, 23&deg;C, single-enzyme spectrophotometric assay monitoring the NADPH oxidation
+KM	Vibrio harveyi	0.009	NADPH	*wild type enzyme, in 50 mM phosphate buffer, pH 7.0, at 22&deg;C
+KM	Vibrio harveyi	0.01	NADPH	*mutant enzyme R225A, in 50 mM phosphate buffer, pH 7.0, at 22&deg;C
+KM	Vibrio harveyi	0.011	NADPH	*pH 7.0, 23&deg;C, native enzyme
+KM	Vibrio harveyi	0.014	FMN	*pH 7.0, 23&deg;C, spectrometric assay
+KM	Vibrio harveyi	0.016	NADPH	*mutant enzyme R133A, in 50 mM phosphate buffer, pH 7.0, at 22&deg;C
+KM	Vibrio harveyi	0.018	FMN	*pH 5.6, 23&deg;C, spectrometric assay
+KM	Vibrio harveyi	0.019	FAD	*pH 7.0, 23&deg;C, native enzyme
+KM	Vibrio harveyi	0.02	NADPH	*pH 5.6, 23&deg;C, spectrometric assay
+KM	Vibrio harveyi	0.02	NADPH	*pH 7.0, 23&deg;C, single-enzyme spectrophotometric assay monitoring the NADPH oxidation
+KM	Vibrio harveyi	0.025	riboflavin	*pH 7.0, 23&deg;C, native enzyme
+KM	Vibrio harveyi	0.034	NADPH	*mutant enzyme N134A, in 50 mM phosphate buffer, pH 7.0, at 22&deg;C
+KM	Vibrio harveyi	0.04	NADPH	*pH 7.0, 23&deg;C; pH 7.0, 23&deg;C, spectrometric assay
+KM	Escherichia coli	0.046	NADPH	*pH 7.9, 30&deg;C, 0.003 mM FMN
+KM	Bacillus cereus	0.2	NADPH	*with FMN, pH 7.2, 37&deg;C
+KM	Escherichia coli	0.5555	NADH	*pH 7.9, 30&deg;C, 0.0005 mM FMN
+MW	Escherichia coli	-999	*	*formation of a stable complex between the flavin mononucleotide (FMN) reductase (SsuE) and monooxygenase (SsuD) of the alkanesulfonate monooxygenase system. The stoichiometry for protein-protein interactions is proposed to involve a 1:1 monomeric association of SsuE with SsuD. Interactions between the two proteins do not lead to overall conformational changes in protein structure
+MW	Escherichia coli	23700	*	*2 * 23700, calculated from sequence
+MW	Escherichia coli	25400	*	*2 * 25400, SDS-PAGE
+MW	Vibrio harveyi	26312	*	*1 * 26312, calculated from sequence
+MW	Vibrio harveyi	28000	*	*1 * 28000, SDS-PAGE
+MW	Vibrio harveyi	40000	*	*gel filtration
+MW	Vibrio harveyi	40000	*	*gel filtration
+MW	Escherichia coli	40900	*	*dimeric SsueE in presence of flavin, analytical ultracentrifugation
+MW	Escherichia coli	58400	*	*gel filtration
+MW	Bacillus cereus	60000	*	*recombinant His-tagged enzyme, gel filtration
+MW	Vibrio harveyi	63000	*	*sucrose density gradient centrifugation
+MW	Escherichia coli	73100	*	*tetrameric SsuE enzyme in the absence of flavin, analytical ultracentrifugation
+PATH	*	bacterial bioluminescence	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Riboflavin metabolism	*	*
+PATH	*	two-component alkanesulfonate monooxygenase	*	*
+SA	Vibrio harveyi	1.85	*	*pH 6.8, 23&deg;C
+SA	Vibrio harveyi	51	*	*pH 7.0, 23&deg;C
+SA	Vibrio harveyi	88.4	*	*23&deg;C, pH not specified in the publication

@@ -1,0 +1,43 @@
+KCAT	Dehalococcoides mccartyi	3.9	3-phospho-D-glycerate	*pH 7.5, 30&deg;C, recombinant holoenzyme
+KCAT	Dehalococcoides mccartyi	3.9	GDP-mannose	*pH 7.5, 30&deg;C, recombinant holoenzyme
+KM	Thermus thermophilus	0.13	3-phospho-D-glycerate	*pH 8.0, 80&deg;C, recombinant enzyme
+KM	Thermus thermophilus	0.13	3-phospho-D-glycerate	*pH 7.0, 80-90&deg;C
+KM	Thermus thermophilus	0.13	3-phospho-D-glycerate	*pH 7.6, 70&deg;C
+KM	Pyrococcus horikoshii	0.14	3-phospho-D-glycerate	*
+KM	Pyrococcus horikoshii	0.14	3-phospho-D-glycerate	*pH 6.4-7.4, 90&deg;C
+KM	Pyrococcus horikoshii	0.17	GDPmannose	*
+KM	Pyrococcus horikoshii	0.17	GDP-mannose	*pH 6.4-7.4, 90&deg;C
+KM	Rubrobacter xylanophilus	0.26	GDP-mannose	*wild-type
+KM	Rubrobacter xylanophilus	0.26	GDP-mannose	*pH 7.0-8.0, 70-75&deg;C
+KM	Thermus thermophilus	0.33	GDP-alpha-D-mannose	*pH 7.6, 70&deg;C
+KM	Thermus thermophilus	0.33	GDP-mannose	*pH 8.0, 80&deg;C, recombinant enzyme
+KM	Thermus thermophilus	0.33	GDP-mannose	*pH 7.0, 80-90&deg;C
+KM	Rubrobacter xylanophilus	0.34	3-phospho-D-glycerate	*wild-type, with GDP-mannose
+KM	Rubrobacter xylanophilus	0.34	3-phospho-D-glycerate	*pH 7.0-8.0, 70-75&deg;C
+KM	Rubrobacter xylanophilus	0.49	GDP-mannose	*A164S/A208S/F211Y mutant
+KM	Rhodothermus marinus	0.5	GDP-mannose	*pH 7.5, 80&deg;C
+KM	Rhodothermus marinus	0.63	3-phospho-D-glycerate	*pH 7.5, 80&deg;C
+KM	Dehalococcoides mccartyi	0.7	GDP-mannose	*pH 7.5, 30&deg;C, recombinant holoenzyme
+KM	Rubrobacter xylanophilus	0.81	3-phospho-D-glycerate	*A164S/A208S/F211Y mutant, with GDP-mannose
+KM	Rubrobacter xylanophilus	1.21	GDP-glucose	*pH 7.0-8.0, 70-75&deg;C
+KM	Dehalococcoides mccartyi	2.18	3-phospho-D-glycerate	*pH 7.5, 30&deg;C, recombinant holoenzyme
+MW	Rubrobacter xylanophilus	43000	*	*recombinant fusion protein, determined by SDS-PAGE
+MW	Thermus thermophilus	43600	*	*x * 43600, SDS-PAGE
+MW	Thermus thermophilus	43600	*	*calculated from sequence
+MW	Thermus thermophilus	44000	*	*x * 44000, recombinant enzyme, SDS-PAGE
+MW	Palaeococcus ferrophilus	44264	*	*x * 44264, calculated from sequence
+MW	Palaeococcus ferrophilus	44300	*	*x * 44300, SDS-PAGE
+MW	Rhodothermus marinus	45584	*	*x * 48795, isozyme 1, mass spectrometry, x * 45584, isozyme 2, mass spectrometry
+MW	Rhodothermus marinus	48795	*	*x * 48795, isozyme 1, mass spectrometry, x * 45584, isozyme 2, mass spectrometry
+MW	Dehalococcoides mccartyi	50000	*	*x * 78000, recombinant bifunctional holoenzyme, SDS-PAGE, x * 50000, about, recombinant mannosyl-3-phosphoglycerate synthase domain, SDS-PAGE
+MW	Dehalococcoides mccartyi	78000	*	*x * 78000, recombinant bifunctional holoenzyme, SDS-PAGE, x * 50000, about, recombinant mannosyl-3-phosphoglycerate synthase domain, SDS-PAGE
+MW	Rubrobacter xylanophilus	95000	*	*determined by gel filtration, suggesting that it is dimeric in solution
+PATH	*	Fructose and mannose metabolism	*	*
+PATH	*	mannosylglycerate biosynthesis	*	*
+PATH	*	mannosylglycerate biosynthesis I	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Rubrobacter xylanophilus	0.0232	*	*with GDP-mannose as a substrate
+SA	Thermus thermophilus HB27	0.4	*	*with Zn2+ as a cofactor
+SA	Thermus thermophilus HB27	5.3	*	*when 20 mM Mg2+ is added in combination with Zn2+ (300 microM), the MpgS specific activity recovered substantially
+SA	Thermus thermophilus HB27	45	*	*with Mg2+ as a cofactor
+SA	Rhodothermus marinus	156	*	*purified enzyme lacking the 30 amino acids of the C-terminus

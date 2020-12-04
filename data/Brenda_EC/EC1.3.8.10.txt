@@ -1,0 +1,15 @@
+KM	Syntrophus aciditrophicus	0.005	cyclohex-1-ene-1-carbonyl-CoA	*Km less than 0.005 mM, at pH 7.0 and 30&Acirc;&deg;C
+KM	Geobacter metallireducens	0.031	cyclohex-1-ene-1-carbonyl-CoA	*pH 6.8, 30&Acirc;&deg;C
+KM	Syntrophus aciditrophicus	0.019	cyclohex-1,5-diene-1-carbonyl-CoA	*at pH 7.0 and 30&Acirc;&deg;C
+KM	Geobacter metallireducens	0.085	cyclohex-1,5-diene-1-carbonyl-CoA	*pH 6.8, 30&Acirc;&deg;C
+MW	Syntrophus aciditrophicus	150000	*	*gel filtration
+PATH	*	Benzoate degradation	*	*
+PATH	*	benzoate fermentation (to acetate and cyclohexane carboxylate)	*	*
+PATH	*	benzoyl-CoA degradation	*	*
+PATH	*	benzoyl-CoA degradation III (anaerobic)	*	*
+PATH	*	crotonate fermentation (to acetate and cyclohexane carboxylate)	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Geobacter metallireducens	1	*	*substrate cyclohex-1,5-diene-1-carbonyl-CoA, pH 6.8, 30&Acirc;&deg;C
+SA	Syntrophus aciditrophicus	2.1	*	*using (E)-2-cyclohex-1,5-diene-1-carbonyl-CoA as substrate, at pH 7.0 and 30&Acirc;&deg;C
+SA	Geobacter metallireducens	2.3	*	*substrate cyclohex-1-ene-1-carbonyl-CoA, pH 6.8, 30&Acirc;&deg;C
+SA	Syntrophus aciditrophicus	9.5	*	*using cyclohex-1-ene-1-carbonyl-CoA as substrate, at pH 7.0 and 30&Acirc;&deg;C

@@ -1,0 +1,59 @@
+KCAT	Providencia alcalifaciens	10	ribitol	*at pH 10.0 and 35&deg;C
+KCAT	Klebsiella aerogenes	28	L-arabitol	*
+KCAT	Klebsiella aerogenes	36	xylitol	*
+KCAT	Klebsiella aerogenes	299	ribitol	*
+KM	Gluconobacter oxydans	0.02	NADH	*pH 9.5, 25&deg;C
+KM	Providencia alcalifaciens	0.042	NAD+	*at pH 10.0 and 35&deg;C
+KM	Rhodobacter sphaeroides	0.077	NAD+	*pH 9, 30&deg;C
+KM	Gluconobacter oxydans	0.08	NAD+	*pH 9.5, 25&deg;C
+KM	Klebsiella aerogenes	0.1	NAD+	*pH 11
+KM	Klebsiella aerogenes	0.16	NAD+	*at pH 11.0 and 25&deg;C
+KM	Gluconobacter oxydans	0.8	D-ribulose	*pH 9.5, 25&deg;C
+KM	Gluconobacter oxydans	0.8	L-xylulose	*pH 9.5, 25&deg;C
+KM	Rhodobacter sphaeroides	1.1	D-ribulose	*pH 9, 30&deg;C
+KM	Gluconobacter oxydans	1.2	ribitol	*pH 9.5, 25&deg;C
+KM	Gluconobacter oxydans	1.5	L-ribulose	*pH 9.5, 25&deg;C
+KM	Pantoea agglomerans	2.36	NAD+	*pH 9, 30&deg;C
+KM	Klebsiella aerogenes	5	ribitol	*pH 11
+KM	Rhodobacter sphaeroides	6.3	ribitol	*pH 9, 30&deg;C
+KM	Klebsiella aerogenes	8	ribitol	*pH 7
+KM	Klebsiella aerogenes	10.3	ribitol	*at pH 11.0 and 25&deg;C
+KM	Rhodobacter sphaeroides	12.5	D-xylulose	*pH 9, 30&deg;C
+KM	Providencia alcalifaciens	13.9	ribitol	*at pH 10.0 and 35&deg;C
+KM	Pantoea agglomerans	32.2	ribitol	*pH 9, 30&deg;C
+KM	Rhodobacter sphaeroides	77	xylitol	*pH 9, 30&deg;C
+KM	Pantoea agglomerans	84.2	L-arabitol	*pH 9, 30&deg;C
+KM	Pantoea agglomerans	107	allitol	*pH 9, 30&deg;C
+KM	Klebsiella aerogenes	147	L-arabitol	*pH 7
+KM	Pantoea agglomerans	178	L-sorbitol	*pH 9, 30&deg;C
+KM	Pantoea agglomerans	233	L-mannitol	*pH 9, 30&deg;C
+KM	Pantoea agglomerans	273	xylitol	*pH 9, 30&deg;C
+KM	Klebsiella aerogenes	579	xylitol	*pH 7
+KM	Klebsiella aerogenes	1000	xylitol	*pH 11
+MW	Klebsiella aerogenes	25000	*	*4 * 25000, wild type enzyme, SDS-PAGE
+MW	Rhodobacter sphaeroides	25000	*	*2 * 25000, SDS-PAGE
+MW	Pantoea agglomerans	25000	*	*4 * 25000, SDS-PAGE
+MW	Gluconobacter oxydans	25000	*	*4 * 25000, SDS-PAGE
+MW	Providencia alcalifaciens	25000	*	*4 * 25000, SDS-PAGE
+MW	Klebsiella aerogenes	25800	*	*
+MW	Providencia alcalifaciens	26650	*	*
+MW	Klebsiella aerogenes	27000	*	*4 * 27000, wild type enzyme, SDS-PAGE
+MW	Rhodobacter sphaeroides	50000	*	*gel filtration
+MW	Pantoea agglomerans	92000	*	*gel filtration
+MW	Klebsiella aerogenes	100000	*	*wild type, gel filtration
+MW	Gluconobacter oxydans	100000	*	*gel filtration
+MW	Providencia alcalifaciens	104000	*	*gel filtration
+MW	Klebsiella aerogenes	110000	*	*gel filtration
+PATH	*	degradation of sugar alcohols	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pentose and glucuronate interconversions	*	*
+PATH	*	ribitol degradation	*	*
+SA	Klebsiella aerogenes	43.6	*	*ribitol dehydrogenase B
+SA	Klebsiella aerogenes	50	*	*for ribitol in crude extract
+SA	Klebsiella aerogenes	50	*	*for L-arabitol in crude extract
+SA	Rhodobacter sphaeroides	59	*	*
+SA	Klebsiella aerogenes	83	*	*wild type enzyme
+SA	Klebsiella aerogenes	90.5	*	*
+SA	Pantoea agglomerans	144	*	*
+SA	Klebsiella aerogenes	270	*	*for xylitol in crude extract
+SA	Klebsiella aerogenes	23000	*	*after crystallization

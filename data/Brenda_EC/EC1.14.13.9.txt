@@ -1,0 +1,87 @@
+KCAT	Cytophaga hutchinsonii	0.6	5-bromo-L-kynurenine	*pH and temperature not specified in the publication
+KCAT	Cytophaga hutchinsonii	0.8	5-chloro-L-kynurenine	*pH and temperature not specified in the publication
+KCAT	Aedes aegypti	0.85	NADH	*recombinant enzyme, pH 7.5, 37&deg;C
+KCAT	Pseudomonas fluorescens	1.3	kynurenine	*recombinant enzyme, pH 7.5, 5&deg;C
+KCAT	Aedes aegypti	1.88	L-kynurenine	*recombinant enzyme, pH 7.5, 37&deg;C
+KCAT	Cytophaga hutchinsonii	2	L-kynurenine	*pH and temperature not specified in the publication
+KCAT	Aedes aegypti	2.03	NADPH	*recombinant enzyme, pH 7.5, 37&deg;C
+KCAT	Pseudomonas fluorescens	4.9	kynurenine	*recombinant enzyme, pH 7.5, 25&deg;C
+KM	Aedes aegypti	-999	more	*kinetics
+KM	Pseudomonas fluorescens	-999	more	*steady-state kinetics and ligand perturbation of flavin fluorescence, overview
+KM	Rattus norvegicus	0.00012	FAD	*
+KM	Rattus norvegicus	0.0003	FAD	*
+KM	Cytophaga hutchinsonii	0.002	5-chloro-L-kynurenine	*pH and temperature not specified in the publication
+KM	Cytophaga hutchinsonii	0.0045	5-bromo-L-kynurenine	*pH and temperature not specified in the publication
+KM	Homo sapiens	0.0068	NADPH	*pH 7, 37&deg;C, full length 6His-tagged enzyme
+KM	Pseudomonas fluorescens	0.0085	NADPH	*recombinant enzyme, pH 7.5, 5&deg;C
+KM	Homo sapiens	0.0087	NADPH	*pH 7, 37&deg;C, full length 12His-tagged enzyme, FLAG tag removed during affinity purification
+KM	Pseudomonas fluorescens	0.012	kynurenine	*recombinant enzyme, pH 7.5, 5&deg;C
+KM	Homo sapiens	0.014	kynurenine	*liver lysate, pH 7.4, 25&deg;C
+KM	Saccharomyces cerevisiae	0.016	NADPH	*under aerobic conditions
+KM	Meriones unguiculatus	0.0164	L-kynurenine	*
+KM	Saccharomyces cerevisiae	0.017	NADPH	*under unaerobic conditions
+KM	Rattus norvegicus	0.023	NADPH	*
+KM	Rattus norvegicus	0.025	kynurenine	*
+KM	Pseudomonas fluorescens	0.034	O2	*recombinant enzyme, pH 7.5, 5&deg;C
+KM	Saccharomyces cerevisiae	0.04	L-kynurenine	*under aerobic conditions
+KM	Saccharomyces cerevisiae	0.045	L-kynurenine	*under unaerobic conditions
+KM	Pseudomonas fluorescens	0.053	kynurenine	*recombinant enzyme, pH 7.5, 25&deg;C
+KM	Cytophaga hutchinsonii	0.067	L-kynurenine	*pH and temperature not specified in the publication
+KM	Pseudomonas fluorescens	0.071	O2	*recombinant enzyme, pH 7.5, 25&deg;C
+KM	Pseudomonas fluorescens	0.091	NADPH	*recombinant enzyme, pH 7.5, 25&deg;C
+KM	Homo sapiens	0.1486	L-kynurenine	*pH 7, 37&deg;C, full length 6His-tagged enzyme
+KM	Ephestia kuehniella	0.15	NADPH	*
+KM	Homo sapiens	0.153	L-kynurenine	*pH 7, 37&deg;C, full length 12His-tagged enzyme, FLAG tag removed during affinity purification
+KM	Ephestia kuehniella	0.33	kynurenine	*
+KM	Aedes aegypti	0.82	NADPH	*recombinant enzyme, pH 7.5, 37&deg;C
+KM	Aedes aegypti	0.89	L-kynurenine	*recombinant enzyme, pH 7.5, 37&deg;C
+KM	Aedes aegypti	5.17	NADH	*recombinant enzyme, pH 7.5, 37&deg;C
+MW	Sus scrofa	49000	*	*SDS-PAGE
+MW	Pseudomonas fluorescens	50000	*	*x * 50000, recombinant enzyme, SDS-PAGE
+MW	Aedes aegypti	54000	*	*x * 54000, recombinant soluble enzyme not counting the His-tag, SDS-PAGE
+MW	Rattus norvegicus	55000	*	*SDS-PAGE
+MW	Rattus norvegicus	55760	*	*calculated from primary sequence
+MW	Homo sapiens	55760	*	*calculated from primary sequence
+MW	Anopheles stephensi	60000	*	*x * 60000, recombinant enzyme, SDS-PAGE
+MW	Homo sapiens	60386	*	*calculated from sequence
+MW	Homo sapiens	62136	*	*native mass spectrum analysis
+MW	Rattus norvegicus	160000	*	*2 * 160000 in 0.2% Triton-X100, SDS-PAGE
+MW	Rattus norvegicus	200000	*	*or more, gel filtration, SDS-PAGE
+MW	Rattus norvegicus	345000	*	*gel filtration
+PATH	*	3-hydroxy-4-methyl-anthranilate biosynthesis I	*	*
+PATH	*	3-hydroxy-4-methyl-anthranilate biosynthesis II	*	*
+PATH	*	L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	*	*
+PATH	*	L-tryptophan degradation XI (mammalian, via kynurenine)	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Tryptophan metabolism	*	*
+PATH	*	tryptophan metabolism	*	*
+SA	Rattus norvegicus	-999	*	*20000000 cpm per micromole
+SA	Rattus norvegicus	-999	*	*specific activities of apoenzyme and holoenzyme with different electron acceptors
+SA	Saccharomyces cerevisiae	-999	*	*enzyme activity at different temperatures in different strains
+SA	Saccharomyces cerevisiae	-999	*	*enzyme activity with different cofactors and under anaerobic conditions
+SA	Homo sapiens	-999	*	*
+SA	Macaca mulatta	-999	*	*
+SA	Meriones unguiculatus	-999	*	*specific activity in various organs
+SA	Mus musculus	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Rattus norvegicus	-999	*	*specific activity in organs of rats with experimental allergic encephalopathy
+SA	Mus musculus	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Rattus norvegicus	0.000012	*	*liver of 2-3 months-old rats
+SA	Oryctolagus cuniculus	0.0004	*	*activity in kidney
+SA	Oryctolagus cuniculus	0.0005	*	*kidney
+SA	Oryctolagus cuniculus	0.001	*	*liver
+SA	Oryctolagus cuniculus	0.001	*	*activity in liver
+SA	Cavia porcellus	0.0015	*	*activity in liver and in kidney
+SA	Rattus norvegicus	0.0022	*	*liver
+SA	Mus musculus	0.0025	*	*liver
+SA	Rattus norvegicus	0.0025	*	*kidney
+SA	Mus musculus	0.004	*	*kidney
+SA	Rattus norvegicus	0.028	*	*NADPH oxidase activity
+SA	Rattus norvegicus	0.073	*	*
+SA	Anopheles stephensi	0.095	*	*recombinant enzyme in crude Sf9 cell lysate
+SA	Rattus norvegicus	0.139	*	*
+SA	Anopheles stephensi	0.866	*	*purified recombinant enzyme
+SA	Rattus norvegicus	2	*	*fusion protein with glutathione-S-transferase
+SA	Pseudomonas fluorescens	3.15	*	*purified recombinant enzyme
+SA	Rattus norvegicus	47	*	*native

@@ -1,0 +1,50 @@
+KCAT	Aspergillus niger	7.11	NADPH	*with D-galacturonate as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22&Acirc;&deg;C
+KCAT	Aspergillus niger	4.98	NADH	*with D-galacturonate as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22&Acirc;&deg;C
+KCAT	Euglena gracilis	0.06	D-xylose	*in 50 mM Tris-HCl (pH 7.2), at 25&Acirc;&deg;C
+KCAT	Aspergillus niger	0.13	D-glucuronate	*with NADH as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22&Acirc;&deg;C
+KCAT	Euglena gracilis	0.19	D-glucuronate	*in 50 mM Tris-HCl (pH 7.2), at 25&Acirc;&deg;C
+KCAT	Aspergillus niger	3.11	D-glucuronate	*with NADPH as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22&Acirc;&deg;C
+KCAT	Euglena gracilis	0.19	D-galacturonate	*in 50 mM Tris-HCl (pH 7.2), at 25&Acirc;&deg;C
+KCAT	Aspergillus niger	5.45	D-galacturonate	*with NADH as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22&Acirc;&deg;C
+KCAT	Aspergillus niger	6.88	D-galacturonate	*with NADPH as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22&Acirc;&deg;C
+KCAT	Aspergillus niger	0.08	L-galactonate	*with NAD+ as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22&Acirc;&deg;C
+KCAT	Aspergillus niger	0.16	L-galactonate	*with NADP+ as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22&Acirc;&deg;C
+KM	Trichoderma reesei	0.001	NADP+	*in 100 mM sodium phosphate (pH 7.0), at 22&deg;C
+KM	Trichoderma reesei	0.03	NADPH	*in 100 mM sodium phosphate (pH 7.0), at 22&deg;C
+KM	Aspergillus niger	0.036	NADPH	*with D-galacturonate as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22&deg;C
+KM	Euglena gracilis	0.0625	NADPH	*in 50 mM Tris-HCl (pH 7.2), at 25&deg;C
+KM	Botrytis cinerea	0.12	D-glucuronate	*isoform GAR1, 10 mM sodium phosphate, pH 7.0, at 22&deg;C
+KM	Aspergillus niger	0.175	D-galacturonate	*with NADPH as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22&deg;C
+KM	Aspergillus niger	0.326	NADH	*with D-galacturonate as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22&deg;C
+KM	Botrytis cinerea	1	D-glucuronate	*isoform GAR2, 10 mM sodium phosphate, pH 7.0, at 22&deg;C
+KM	Botrytis cinerea	1.4	D-galacturonate	*isoform GAR2, 10 mM sodium phosphate, pH 7.0, at 22&deg;C
+KM	Botrytis cinerea	2.5	D-galacturonate	*isoform GAR1, 10 mM sodium phosphate, pH 7.0, at 22&deg;C
+KM	Euglena gracilis	3.79	D-galacturonate	*in 50 mM Tris-HCl (pH 7.2), at 25&deg;C
+KM	Trichoderma reesei	4	L-galactonate	*in 100 mM sodium phosphate (pH 7.0), at 22&deg;C
+KM	Euglena gracilis	4.67	D-glucuronate	*in 50 mM Tris-HCl (pH 7.2), at 25&deg;C
+KM	Trichoderma reesei	6	D-galacturonate	*in 100 mM sodium phosphate (pH 7.0), at 22&deg;C
+KM	Trichoderma reesei	6	DL-glyceraldehyde	*in 100 mM sodium phosphate (pH 7.0), at 22&deg;C
+KM	Aspergillus niger	7.11	D-galacturonate	*with NADH as cosubstrate, in 10 mM sodium phosphate, at pH 7.2 and 22&deg;C
+KM	Euglena gracilis	8.48	D-xylose	*in 50 mM Tris-HCl (pH 7.2), at 25&deg;C
+KM	Trichoderma reesei	11	D-glucuronic acid	*in 100 mM sodium phosphate (pH 7.0), at 22&deg;C
+MW	Botrytis cinerea	36900	*	*x * 36900, isoform GAR1, calculated from amino acid sequence
+MW	Euglena gracilis	38000	*	*1 * 38000, SDS-PAGE
+MW	Euglena gracilis	39000	*	*gel filtration
+MW	Trichoderma reesei	40000	*	*x * 40000, SDS-PAGE
+MW	Aspergillus niger	44000	*	*x * 44000, His6-tagged enzyme, SDS-PAGE
+MW	Botrytis cinerea	49200	*	*x * 49200, isoform GAR2, calculated from amino acid sequence
+PATH	*	Ascorbate and aldarate metabolism	*	*
+PATH	*	ascorbate metabolism	*	*
+PATH	*	D-galacturonate degradation III	*	*
+PATH	*	degradation of sugar acids	*	*
+PATH	*	L-ascorbate biosynthesis V	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pentose and glucuronate interconversions	*	*
+SA	Euglena gracilis	0.00422	*	*crude extract, at pH 7.2 and at 25&deg;C
+SA	Aspergillus niger	0.12	*	*with NAD+ and L-galactonate as substrates, in 10 mM sodium phosphate, at pH 7.2 and 22&deg;C
+SA	Aspergillus niger	0.17	*	*with NADH and D-glucuronate as substrates, in 10 mM sodium phosphate, at pH 7.2 and 22&deg;C
+SA	Aspergillus niger	0.21	*	*with NADP+ and L-galactonate as substrates, in 10 mM sodium phosphate, at pH 7.2 and 22&deg;C
+SA	Euglena gracilis	0.671	*	*after 159fold purification, at pH 7.2 and at 25&deg;C
+SA	Aspergillus niger	3.9	*	*with NADPH and D-glucuronate as substrates, in 10 mM sodium phosphate, at pH 7.2 and 22&deg;C
+SA	Aspergillus niger	6.9	*	*with NADH and D-galacturonate as substrates, in 10 mM sodium phosphate, at pH 7.2 and 22&deg;C
+SA	Aspergillus niger	8.7	*	*with NADPH and D-galacturonate as substrates, in 10 mM sodium phosphate, at pH 7.2 and 22&deg;C

@@ -1,0 +1,26 @@
+KM	Picrophilus torridus	-999	NAD+	*the precise determination of the Km for NAD+ is not possible, as it is impossible to reach saturation of the enzyme
+KM	Thermoplasma volcanium	0.14	NADP+	*pH 6.5, 55&deg;C, wild-type enzyme; pH 6.5, 55&deg;C, wild-type enzyme or mutant enzyme T277F; with D-glucose as cosubstrate, at pH 6.5 and 35&deg;C
+KM	Picrophilus torridus	1.12	NADP+	*pH 6.5, 55&deg;C, cosubstrate: D-glucose
+KM	Picrophilus torridus	4.5	D-galactose	*pH 6.5, 55&deg;C, cosubstrate: NADP+
+KM	Thermoplasma volcanium	7.1	D-glucopyranose	*pH 6.5, 55&deg;C, wild-type enzyme
+KM	Thermoplasma volcanium	7.1	D-glucose	*with NADP+ as cosubstrate, at pH 6.5 and 35&deg;C
+KM	Thermoplasma volcanium	8.7	D-galactopyranose	*pH 6.5, 55&deg;C, wild-type enzyme
+KM	Thermoplasma volcanium	8.7	D-galactose	*with NADP+ as cosubstrate, at pH 6.5 and 35&deg;C
+KM	Picrophilus torridus	10	D-glucose	*pH 6.5, 55&deg;C, cosubstrate: NADP+
+MW	Picrophilus torridus	40462	*	*4 * 40462, calculated from sequence
+MW	Picrophilus torridus	40500	*	*4 * 40500, SDS-PAGE
+MW	Thermoplasma volcanium	41311	*	*4 * 41311, calculated from sequence
+MW	Thermoplasma volcanium	42000	*	*4 * 42000, SDS-PAGE
+MW	Thermoplasma volcanium	158000	*	*gel filtration
+MW	Picrophilus torridus	160000	*	*gel filtration
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Entner Doudoroff pathway	*	*
+PATH	*	Entner-Doudoroff pathway II (non-phosphorylative)	*	*
+PATH	*	Entner-Doudoroff pathway III (semi-phosphorylative)	*	*
+PATH	*	Galactose metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pentose phosphate pathway	*	*
+SA	Thermoplasma volcanium	58	*	*pH 6.5, 55&Acirc;&deg;C, D-glucose oxidation, T277F mutant
+SA	Picrophilus torridus	252	*	*pH 6.5, 55&Acirc;&deg;C, NADP+ (cosubstrate: D-glucose)
+SA	Thermoplasma volcanium	356	*	*pH 6.5, 55&Acirc;&deg;C, D-glucose oxidation, V93N mutant; pH 6.5, 55&Acirc;&deg;C, mutant enzyme V93N
+SA	Thermoplasma volcanium	498	*	*pH 6.5, 55&Acirc;&deg;C, D-glucose oxidation, wild-type enzyme; pH 6.5, 55&Acirc;&deg;C, wild-type enzyme

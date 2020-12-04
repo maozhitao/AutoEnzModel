@@ -1,0 +1,86 @@
+KCAT	Rhodospirillum rubrum	0.02	oxidized acetylpyridine adenine dinucleotide	*kcat for recombinant domain III in the presence of saturating amounts of domain I, reduction of acetylpyridine adenine dinucleotide by NADPH
+KCAT	Rhodospirillum rubrum	1.44	oxidized acetylpyridine adenine dinucleotide	*kcat for recombinant domain I in the presence of saturating amounts of domain III, reduction of acetylpyridine adenine dinucleotide by NADPH
+KM	Bos taurus	0.0017	NADP+	*cosubstrate NADH
+KM	Escherichia coli	0.003	NADH	*enzyme co-reconstituted with bacteriorhodopsin, in the light
+KM	Bos taurus	0.0065	NADP+	*energy-linked reaction
+KM	Bos taurus	0.009	NADH	*
+KM	Bos taurus	0.009	NADH	*nonenergy-linked reaction
+KM	Bos taurus	0.01	NADH	*cosubstrate NADP+
+KM	Escherichia coli	0.012	thio-NADP+	*enzyme co-reconstituted with bacteriorhodopsin, in the dark
+KM	Bos taurus	0.0126	NADH	*energy-linked reaction
+KM	Escherichia coli	0.013	thio-NADP+	*enzyme co-reconstituted with bacteriorhodopsin, in the light
+KM	Escherichia coli	0.014	NADPH	*
+KM	Rhodospirillum rubrum	0.015	NADPH	*Y235N and Y235F mutants of domain I
+KM	Escherichia coli	0.019	NADH	*enzyme co-reconstituted with bacteriorhodopsin, in the dark
+KM	Bos taurus	0.02	NADPH	*
+KM	Bos taurus	0.02	NADPH	*cosubstrate NAD+
+KM	Bos taurus	0.02	NADPH	*energy-linked reaction; nonenergy-linked reaction
+KM	Escherichia coli	0.028	acetylpyridine adenine dinucleotide	*
+KM	Bos taurus	0.028	NAD+	*
+KM	Bos taurus	0.028	NAD+	*nonenergy-linked reaction
+KM	Bos taurus	0.029	NADPH	*+ acetylpyridine adenine dinucleotide
+KM	Rhodospirillum rubrum	0.03	NADPH	*wild-type domain I
+KM	Bos taurus	0.04	NADP+	*
+KM	Bos taurus	0.04	NADP+	*nonenergy-linked reaction
+KM	Bos taurus	0.0435	NAD+	*energy-linked reaction
+KM	Rhodospirillum rubrum	0.06	oxidized acetylpyridine adenine dinucleotide	*wild-type domain I
+KM	Escherichia coli	0.063	NADH	*enzyme co-reconstituted with bacteriorhodopsin, in the presence of the uncoupler carbonyl cyanide m-chloro-phenylhydrazone
+KM	Escherichia coli	0.063	thio-NADP+	*enzyme co-reconstituted with bacteriorhodopsin, in the presence of the uncoupler carbonyl cyanide m-chloro-phenylhydrazone
+KM	Bos taurus	0.125	NAD+	*cosubstrate NADPH
+KM	Bos taurus	0.166	acetylpyridine adenine dinucleotide	*cosubstrate NADPH
+KM	Rhodospirillum rubrum	0.6	oxidized acetylpyridine adenine dinucleotide	*Y235F mutant of domain I
+KM	Rhodospirillum rubrum	0.8	oxidized acetylpyridine adenine dinucleotide	*Y235N mutant of domain I
+KM	Bos taurus	2.6	NMNH	*reduction of thio-NADP+ in energized submitochondrial particles
+KM	Bos taurus	3.4	NMNH	*reduction of thio-NADP+ in non energized submitochondrial particles
+MW	Rhodobacter sphaeroides	6784	*	*x * 6784, soluble component, amino acid analysis
+MW	Entamoeba histolytica	28000	*	*dIII fragement, SDS-PAGE
+MW	Entamoeba histolytica	40000	*	*dI fragement, SDS-PAGE
+MW	Escherichia coli	47000	*	*alpha2,beta2, 2 * 50000 + 2 * 47000
+MW	Escherichia coli	48667	*	*alpha2,beta2, 2 * 53906 + 2 * 48667, calculation from nucleotide sequence
+MW	Escherichia coli	50000	*	*alpha2,beta2, 2 * 50000 + 2 * 47000
+MW	Escherichia coli	53906	*	*alpha2,beta2, 2 * 53906 + 2 * 48667, calculation from nucleotide sequence
+MW	Klebsiella pneumoniae	54000	*	*x * 54000, immunoblot with antibodies against beef heart enzyme
+MW	Entamoeba histolytica	66000	*	*2 * 66000, SDS-PAGE
+MW	Bos taurus	97000	*	*x * 97000, SDS-PAGE
+MW	Bos taurus	109065	*	*2 * 109065, monomer is composed of three domains: a 430 residue long N-terminal hydrophilic domain called dI, a 400 residue long central hydrophobic domain that intercalates into the membrane called dII, and a 200 residue long C-terminal hydrophilic domain called dIII
+MW	Bos taurus	109212	*	*2 * 109212, calculated from cDNA sequence
+MW	Bos taurus	110000	*	*2 * 110000, SDS-PAGE
+MW	Rattus norvegicus	110000	*	*2 * 110000, SDS-PAGE
+MW	Homo sapiens	110000	*	*SDS-PAGE
+MW	Rattus norvegicus	111500	*	*2 * 111500, SDS-PAGE
+MW	Bos taurus	115000	*	*2 * 115000, SDS-PAGE
+MW	Bos taurus	120000	*	*2 * 120000, SDS-PAGE
+MW	Bos taurus	120000	*	*2 * 120000, SDS-PAGE
+MW	Entamoeba histolytica	120000	*	*above 120000 Da, SDS-PAGE
+MW	Entamoeba histolytica	155000	*	*gel filtration
+MW	Entamoeba histolytica	155000	*	*gel filtration of a mixture of the two domains
+MW	Mammalia	196000	*	*
+MW	Bos taurus	206000	*	*cross-linking of purified enzyme with 10.9 mM dimethyl suberimidate dihydrochloride
+MW	Bos taurus	210000	*	*
+MW	Bos taurus	210000	*	*SDS-PAGE after cross-linking with bifunctional reagents dimethyl adipimidate, dimethyl pimelimidate, dimethyl suberimidate and dithiobis(succinimidyl propionate)
+MW	Bos taurus	250000	*	*
+MW	Bos taurus	278000	*	*radiation inactivation, hydrodynamic properties
+PATH	*	Metabolic pathways	*	*
+PATH	*	NAD metabolism	*	*
+PATH	*	NAD/NADH phosphorylation and dephosphorylation	*	*
+PATH	*	Nicotinate and nicotinamide metabolism	*	*
+SA	Rhodobacter sphaeroides	-999	*	*no activity detected with the insertion mutants
+SA	Escherichia coli	0.044	*	*activity in membranes of strain AB1450
+SA	Bos taurus	0.19	*	*reduction of acetylpyridine adenine dinucleotide by NADPH
+SA	Klebsiella pneumoniae	0.26	*	*activity in inside-out membrane vesicles at pH 7.4, presence of an uncoupler i.e. carbonylcyanide-m-chlorophylhydrazone results in 2fold stimulation
+SA	Rattus norvegicus	2.6	*	*partially purified enzyme
+SA	Bos taurus	4.4	*	*
+SA	Bos taurus	4.4	*	*
+SA	Bos taurus	4.4	*	*
+SA	Bos taurus	7	*	*
+SA	Bos taurus	7	*	*
+SA	Escherichia coli	10	*	*
+SA	Escherichia coli	12	*	*
+SA	Escherichia coli	13.6	*	*partially purified enzyme, assay in the presence of Escherichia coli phospholipids
+SA	Bos taurus	14.2	*	*
+SA	Bos taurus	14.2	*	*reduction of acetylpyridine adenine dinucleotide
+SA	Bos taurus	16.2	*	*
+SA	Bos taurus	24.6	*	*reduction of 3-acetylpyridine adenine dinucleotide
+SA	Bos taurus	35.6	*	*reduction of 3-acetylpyridine adenine dinucleotide
+SA	Rhodobacter sphaeroides	50.8	*	*native enzyme with acetylpyridine-NAD+ a n NADPH as substrates, pH 7.0
+SA	Bos taurus	62.3	*	*

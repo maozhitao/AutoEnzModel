@@ -1,0 +1,55 @@
+KCAT	Burkholderia cepacia	6.35	Hydroxyquinol	*
+KCAT	Streptomyces rochei	11.4	Hydroxyquinol	*
+KCAT	Pimelobacter simplex	29	Benzene-1,2,4-triol	*
+KCAT	Streptomyces rochei	72.3	6-chlorohydroxyquinol	*
+KM	Sporotrichum pulverulentum	0.000035	Hydroxyquinol	*
+KM	Pimelobacter simplex	0.0012	Benzene-1,2,4-triol	*
+KM	Cutaneotrichosporon cutaneum	0.0057	Hydroxyquinol	*
+KM	Burkholderia cepacia	0.007	Hydroxyquinol	*
+KM	Streptomyces rochei	0.02	Hydroxyquinol	*
+KM	Streptomyces rochei	0.06	6-chlorohydroxyquinol	*
+MW	Streptomyces rochei	31000	*	*2 * 31000, SDS-PAGE
+MW	Pseudomonas sp.	33000	*	*x * 33000, about, sequence calculation
+MW	Rhodococcus opacus	33200	*	*x * 33200, deduced from nucleotide sequence
+MW	Azotobacter sp.	34250	*	*2 * 34250, SDS-PAGE
+MW	Pseudomonas sp.	34800	*	*estimated from SDS-PAGE
+MW	Burkholderia cepacia	36000	*	*2 * 36000, SDS-PAGE
+MW	Arthrobacter sp.	36000	*	*? * 36000, SDS-PAGE
+MW	Cutaneotrichosporon cutaneum	38200	*	*alpha 1 * 39600 + beta 1 * 38200, SDS-PAGE
+MW	Cutaneotrichosporon cutaneum	39600	*	*alpha 1 * 39600 + beta 1 * 38200, SDS-PAGE
+MW	Pseudarthrobacter chlorophenolicus A6	40000	*	*recombinant CphA-1
+MW	Pseudarthrobacter chlorophenolicus A6	42000	*	*recombinant CphA-2
+MW	Azotobacter sp.	58000	*	*gel filtration
+MW	Streptomyces rochei	61000	*	*gel filtration
+MW	Pimelobacter simplex	65000	*	*
+MW	Burkholderia cepacia	68000	*	*gel filtration
+MW	Arthrobacter sp.	79000	*	*gel filtration
+MW	Cutaneotrichosporon cutaneum	93000	*	*gel filtration
+PATH	*	2,4,5-trichlorophenoxyacetate degradation	*	*
+PATH	*	4-aminophenol degradation	*	*
+PATH	*	4-nitrophenol degradation II	*	*
+PATH	*	Benzoate degradation	*	*
+PATH	*	Chlorocyclohexane and chlorobenzene degradation	*	*
+PATH	*	gamma-resorcylate degradation I	*	*
+PATH	*	gamma-resorcylate degradation II	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	resorcinol degradation	*	*
+PATH	*	resorcinol degradation	*	*
+SA	Azotobacter sp.	-999	*	*
+SA	Arthrobacter sp.	-999	*	*
+SA	Pseudarthrobacter chlorophenolicus A6	-999	*	*cell extracts from 4-chlorophenol-grown cells deplete hydoxyquinol from the medium with an activity of 96 microM/min/mg protein. No depletion of hydroxyquinol is measured in extracts of Succinate-grown cells.; cell extracts from 4-chlorophenol-grown cells deplete hydoxyquinol from the medium with an activity of 96 microM/min/mg protein. No depletion of hydroxyquinol is measured in extracts of Succinate-grown cells.; Cph-2 remove hydroxyquinol: CphA-2 = 3.0 microM/min/mg. CphA-2 show some activity with catechol: CphA-2 = 0.15 microM/min/mg.; CphA-1 remove hydroxyquinol: CphA-1 = 16 microM/min/mg. CphA-1 show some activity with catechol: CphA-1 = 0.67 microM/min/mg.
+SA	Cutaneotrichosporon cutaneum	0.226	*	*
+SA	Pseudomonas sp.	0.37	*	*substrate hydroxyquinol
+SA	Pseudomonas sp.	0.45	*	*substrate catechol
+SA	Pseudarthrobacter chlorophenolicus	5.5	*	*recombinant enzyme, crude enzyme extract, substrate 4-chlorocatechol, pH 7.5, 25&deg;C
+SA	Azotobacter sp.	7.06	*	*reactivated with 0.01 mM Fe2+
+SA	Pseudomonas sp.	9.3	*	*purified recombinant His-tagged enzyme, pH 5.0, 45&deg;C
+SA	Pseudarthrobacter chlorophenolicus	15.3	*	*recombinant enzyme, crude enzyme extract, substrate hydroxyquinol, pH 7.5, 25&deg;C
+SA	Streptomyces rochei	27	*	*
+SA	Cutaneotrichosporon cutaneum	140	*	*
+SA	Pseudarthrobacter chlorophenolicus	284.6	*	*51.7fold purified enzyme, with 4-chlorocatechol as substrate, at pH 7.5 and 25&deg;C; purified recombinant enzyme, substrate 4-chlorocatechol, pH 7.5, 25&deg;C
+SA	Pseudarthrobacter chlorophenolicus	391	*	*62.5fold purified enzyme, with catechol as substrate, at pH 7.5 and 25&deg;C; purified recombinant enzyme, substrate catechol , pH 7.5, 25&deg;C
+SA	Pseudarthrobacter chlorophenolicus	479.5	*	*purified recombinant enzyme, substrate 3-methylcatechol, pH 7.5, 25&deg;C
+SA	Pseudarthrobacter chlorophenolicus	479.6	*	*65.2fold purified enzyme, with 3-methylcatechol as substrate, at pH 7.5 and 25&deg;C
+SA	Pseudarthrobacter chlorophenolicus	795.6	*	*52fold purified enzyme, with hydroxyquinol as substrate, at pH 7.5 and 25&deg;C; purified recombinant enzyme, substrate hydroxyquinol, pH 7.5, 25&deg;C

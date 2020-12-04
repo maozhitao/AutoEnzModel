@@ -1,0 +1,55 @@
+KCAT	Malus domestica	0.74	glyoxylate	*pH 9.0, 25&deg;C
+KCAT	Malus domestica	0.8	pyruvate	*pH 9.0, 25&deg;C
+KCAT	Malus domestica	0.84	4-aminobutanoate	*cosubstrate pyruvate, pH 9.0, 25&deg;C
+KCAT	Malus domestica	1	4-aminobutanoate	*cosubstrate glyoxylate, pH 9.0, 25&deg;C
+KCAT	Arabidopsis thaliana	6.9	4-aminobutanoate	*forward reaction with glyoxylate, pH 9.0, 30&deg;C
+KCAT	Arabidopsis thaliana	9.7	glyoxylate	*forward reaction with 4-aminobutanoate, pH 9.0, 30&deg;C
+KCAT	Arabidopsis thaliana	10.6	4-aminobutanoate	*forward reaction with pyruvate, pH 9.0, 30&deg;C
+KCAT	Arabidopsis thaliana	10.6	pyruvate	*forward reaction with 4-aminobutanoate, pH 9.0, 30&deg;C
+KCAT	Arabidopsis thaliana	10.8	succinate semialdehyde	*reverse reaction with L-alanine, pH 9.0, 30&deg;C
+KCAT	Arabidopsis thaliana	12.1	glyoxylate	*reverse reaction with L-alanine, pH 9.0, 30&deg;C
+KCAT	Arabidopsis thaliana	14.1	L-alanine	*reverse reaction with glyoxylate, pH 9.0, 30&deg;C
+KCAT	Arabidopsis thaliana	15.4	L-alanine	*reverse reaction with succinate semialdehyde, pH 9.0, 30&deg;C
+KM	Arabidopsis thaliana	-999	more	*Michaelis-Menten kinetic analysis, overview
+KM	Arabidopsis thaliana	0.014	succinate semialdehyde	*reverse reaction with L-alanine, pH 9.0, 30&deg;C
+KM	Malus domestica	0.017	glyoxylate	*pH 9.0, 25&deg;C
+KM	Malus domestica	0.019	pyruvate	*pH 9.0, 25&deg;C
+KM	Malus domestica	0.077	4-aminobutanoate	*cosubstrate pyruvate, pH 9.0, 25&deg;C
+KM	Malus domestica	0.1	4-aminobutanoate	*cosubstrate glyoxylate, pH 9.0, 25&deg;C
+KM	Arabidopsis thaliana	0.11	glyoxylate	*forward reaction with 4-aminobutanoate, pH 9.0, 30&deg;C
+KM	Arabidopsis thaliana	0.14	glyoxylate	*reverse reaction with L-alanine, pH 9.0, 30&deg;C
+KM	Arabidopsis thaliana	0.14	pyruvate	*forward reaction with 4-aminobutanoate, pH 9.0, 30&deg;C
+KM	Arabidopsis thaliana	0.18	4-aminobutanoate	*forward reaction with glyoxylate, pH 9.0, 30&deg;C
+KM	Nicotiana tabacum	0.24	pyruvate	*pH 8.2, temperature not specified in the publication
+KM	Arabidopsis thaliana	0.34	4-aminobutanoate	*forward reaction with pyruvate, pH 9.0, 30&deg;C
+KM	Nicotiana tabacum	1.2	4-aminobutanoate	*pH 8.2, temperature not specified in the publication
+KM	Arabidopsis thaliana	2.2	L-alanine	*reverse reaction with glyoxylate, pH 9.0, 30&deg;C
+KM	Arabidopsis thaliana	2.4	L-alanine	*reverse reaction with succinate semialdehyde, pH 9.0, 30&deg;C
+MW	Arabidopsis thaliana	53400	*	*x * 57500, recombinant full-length GABA-T, SDS-PAGE, x * 53400, recombinant truncated GABA-T, SDS-PAGE
+MW	Arabidopsis thaliana	55000	*	*x * 55000
+MW	Nicotiana tabacum	55000	*	*x * 55000
+MW	Brassica napus	55000	*	*x * 55000, calculated; x * 55000, calculated; x * 55000, calculated
+MW	Arabidopsis thaliana	57500	*	*x * 57500, recombinant full-length GABA-T, SDS-PAGE, x * 53400, recombinant truncated GABA-T, SDS-PAGE
+PATH	*	4-aminobutanoate degradation IV	*	*
+PATH	*	Alanine, aspartate and glutamate metabolism	*	*
+PATH	*	Butanoate metabolism	*	*
+PATH	*	L-glutamate degradation IV	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Arabidopsis thaliana	-999	*	*native GABA-T activity in cell-free extracts of Arabidopsis thaliana ecotype Columbia and corresponding knockout mutant, overview; native GABA-T activity in cell-free extracts of Arabidopsis thaliana ecotype Wassilewskija and corresponding knockout mutant, overview
+SA	Arabidopsis thaliana	0.0004	*	*crude enzyme extract, substrate pyruvate, pH 9.0, 30&deg;C
+SA	Oryza sativa	0.0005	*	*substrate glyoxylate, pH 9.0, 30&deg;C
+SA	Oryza sativa	0.0013	*	*substrate pyruvate, pH 9.0, 30&deg;C
+SA	Solanum lycopersicum	0.0183	*	*purified recombinant isozyme GABA-T2, with pyruvate as substrate, pH 9.0, 30&deg;C
+SA	Solanum lycopersicum	0.0209	*	*purified recombinant isozyme GABA-T2, with glyoxylate as substrate, pH 9.0, 30&deg;C
+SA	Oryza sativa	0.052	*	*substrate pyruvate, pH 9.0, 30&deg;C
+SA	Oryza sativa	0.066	*	*substrate glyoxylate, pH 9.0, 30&deg;C
+SA	Oryza sativa	0.069	*	*substrate glyoxylate, pH 9.0, 30&deg;C
+SA	Nicotiana tabacum	0.17	*	*purified enzyme, pH 8.2, temperature not specified in the publication
+SA	Solanum lycopersicum	0.179	*	*purified recombinant isozyme GABA-T3, with glyoxylate as substrate, pH 9.0, 30&deg;C
+SA	Solanum lycopersicum	0.207	*	*purified recombinant isozyme GABA-T3, with pyruvate as substrate, pH 9.0, 30&deg;C
+SA	Oryza sativa	0.207	*	*substrate pyruvate, pH 9.0, 30&deg;C
+SA	Solanum lycopersicum	3.5	*	*purified recombinant isozyme GABA-T1, with glyoxylate as substrate, pH 9.0, 30&deg;C
+SA	Arabidopsis thaliana	3.53	*	*purified recombinant full-length enzyme, substrate pyruvate, pH 9.0, 30&deg;C
+SA	Solanum lycopersicum	5.79	*	*purified recombinant isozyme GABA-T1, with pyruvate as substrate, pH 9.0, 30&deg;C
+SA	Arabidopsis thaliana	7.54	*	*purified recombinant truncated enzyme, substrate pyruvate, pH 9.0, 30&deg;C

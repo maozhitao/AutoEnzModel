@@ -1,0 +1,72 @@
+KM	Pseudomonas sp.	0.04	NAD+	*
+KM	Burkholderia cepacia	0.2	NAD+	*
+KM	Pseudomonas sp.	0.5	NAD+	*
+KM	Candida boidinii	0.013	NADP+	*
+KM	Burkholderia cepacia	0.02	NADP+	*enzyme active with NAD+ and NADP+-specific enzyme
+KM	Pseudomonas sp.	0.02	NADP+	*
+KM	Zea mays	0.023	NADP+	*7.5 mM MgCl2
+KM	Candida tropicalis	0.028	NADP+	*
+KM	Zea mays	0.0422	NADP+	*
+KM	Zea mays	0.25	NADP+	*0.01 mM NADPH
+KM	Strongylocentrotus purpuratus	0.014	6-phospho-D-gluconate	*homogenates
+KM	Burkholderia cepacia	0.02	6-phospho-D-gluconate	*isoform specific for NADP+ and isoform active with NAD+, with NADP+ as cofactor
+KM	Burkholderia cepacia	0.02	6-phospho-D-gluconate	*
+KM	Burkholderia cepacia	0.04	6-phospho-D-gluconate	*isoform specific for NADP+, with NADP+ as cofactor, 5 mM ATP, glucose grown bacteria; isoform specific for NADP+, with NADP+ as cofactor, glucose grown bacteria
+KM	Candida tropicalis	0.094	6-phospho-D-gluconate	*
+KM	Pseudomonas sp.	0.1	6-phospho-D-gluconate	*
+KM	Strongylocentrotus purpuratus	0.107	6-phospho-D-gluconate	*permeabilized cells
+KM	Zea mays	0.14	6-phospho-D-gluconate	*7.5 mM MgCl2
+KM	Zea mays	0.15	6-phospho-D-gluconate	*1 mM MnCl2
+KM	Burkholderia cepacia	0.2	6-phospho-D-gluconate	*isoform active with NAD+, NADP+ as cofactor, glucose grown bacteria
+KM	Burkholderia cepacia	0.2	6-phospho-D-gluconate	*
+KM	Burkholderia cepacia	0.3	6-phospho-D-gluconate	*enzyme active with NAD+ or NADP+
+KM	Zea mays	0.32	6-phospho-D-gluconate	*
+KM	Zea mays	0.39	6-phospho-D-gluconate	*0.01 mM NADPH
+KM	Burkholderia cepacia	0.7	6-phospho-D-gluconate	*isoform active with NAD as cofactor and isoform specific for NADP as cofactor, glucose grown bacteria
+KM	Burkholderia cepacia	0.7	6-phospho-D-gluconate	*
+KM	Burkholderia cepacia	1	6-phospho-D-gluconate	*0.005 M GTP
+KM	Burkholderia cepacia	2	6-phospho-D-gluconate	*isoform active with NAD+ as cofactor, 5 mM ATP, glucose grown bacteria
+KM	Pseudomonas fluorescens	0.38	2-keto-6-phospho-D-gluconate	*with NADPH as coenzyme
+KM	Pseudomonas fluorescens	0.66	2-keto-6-phospho-D-gluconate	*with NADH as coenzyme
+MW	Burkholderia cepacia	40000	*	*2 * 40000, enzyme active with NAD+
+MW	Ovis aries	47000	*	*2 * 47000, SDS-PAGE
+MW	Lytechinus pictus	52000	*	*
+MW	Strongylocentrotus purpuratus	52000	*	*
+MW	Pseudomonas sp.	55000	*	*4 * 55000, SDS-PAGE
+MW	Zea mays	55000	*	*SDS-PAGE
+MW	Rattus norvegicus	56000	*	*2 * 56000, SDS-PAGE
+MW	Neurospora crassa	57000	*	*2 * 57000
+MW	Glaesserella parasuis	58000	*	*x * 58000, SDS-PAGE
+MW	Burkholderia cepacia	60000	*	*2 * 60000, enzyme specific for NADP+
+MW	Burkholderia cepacia	82000	*	*enzyme active with NAD+, sucrose density gradient sedimentation
+MW	Burkholderia cepacia	84000	*	*enzyme active with NAD+, gel filtration
+MW	Ovis aries	92000	*	*PAGE
+MW	Ovis aries	94000	*	*sedimention-equilibrium measurement by the meniscus-depletion method, initial protein concentration 0.2 mg/ml
+MW	Ovis aries	95000	*	*gel filtration
+MW	Ovis aries	98000	*	*sedimention-equilibrium measurement by the meniscus-depletion method, initial protein concentration 0.4 mg/ml
+MW	Cyberlindnera jadinii	100000	*	*
+MW	Rattus norvegicus	102000	*	*
+MW	Neurospora crassa	110000	*	*NADP+-specific enzyme
+MW	Candida boidinii	110000	*	*
+MW	Rattus norvegicus	110000	*	*gel filtration
+MW	Burkholderia cepacia	120000	*	*NADP+-specific enzyme, gel filtration
+MW	Burkholderia cepacia	123000	*	*NADP+-specific enzyme, sucrose density gradient sedimentation
+MW	Ovis aries	129000	*	*short-column equilibrium sedimentation
+MW	Pseudomonas sp.	220000	*	*gel filtration
+PATH	*	glucose degradation (oxidative)	*	*
+PATH	*	Glutathione metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Pentose phosphate pathway	*	*
+SA	Rattus norvegicus	-999	*	*the homogenate has a specific activity of 0.05 EU/mg, after 484fold purification the specific activity is 25 EU/mg
+SA	Candida tropicalis	0.119	*	*
+SA	Zea mays	20.8	*	*
+SA	Lytechinus pictus	24	*	*
+SA	Strongylocentrotus purpuratus	24	*	*
+SA	Burkholderia cepacia	34	*	*NADP+ as cofactor
+SA	Candida boidinii	39.7	*	*
+SA	Burkholderia cepacia	42.3	*	*NAD+ as cofactor
+SA	Pseudomonas sp.	56.4	*	*
+SA	Pseudomonas fluorescens	98.6	*	*
+SA	Burkholderia cepacia	102	*	*coenzyme NAD+
+SA	Burkholderia cepacia	141	*	*coenzyme NADP+

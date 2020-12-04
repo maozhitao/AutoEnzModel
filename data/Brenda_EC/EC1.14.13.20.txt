@@ -1,0 +1,39 @@
+KCAT	Acinetobacter sp.	6.83	2,4-Dichlorophenol	*
+KM	Soil bacterium	0.006	NADPH	*pH 7.5, 25&Acirc;&deg;C
+KM	Proteobacteria	0.024	NADPH	*
+KM	Cupriavidus necator	0.048	NADPH	*+ 2,4-dichlorophenol
+KM	Acinetobacter sp.	0.083	NADPH	*
+KM	Burkholderia cepacia	0.1	NADPH	*
+KM	Proteobacteria	0.042	NADH	*
+KM	Cupriavidus necator	0.3	NADH	*+ 2,4-dichlorophenol
+KM	Acinetobacter sp.	0.057	O2	*
+KM	Cupriavidus necator	0.002	2,4-Dichlorophenol	*cosubstrate NADPH
+KM	Proteobacteria	0.003	2,4-Dichlorophenol	*
+KM	Acinetobacter sp.	0.004	2,4-Dichlorophenol	*cosubstrate NADPH
+KM	Cupriavidus necator	0.004	2,4-Dichlorophenol	*cosubstrate NADH
+KM	Soil bacterium	0.005	2,4-Dichlorophenol	*pH 7.5, 25&Acirc;&deg;C
+KM	Burkholderia cepacia	0.014	2,4-Dichlorophenol	*
+KM	Cupriavidus necator	-999	more	*kinetics
+MW	Cupriavidus necator	45000	*	*alpha2beta2, 2 * 67000 + 2 * 45000, SDS-PAGE
+MW	Acinetobacter sp.	63000	*	*alpha4, 4 * 63000, SDS-PAGE
+MW	Proteobacteria	64000	*	*alpha4, 4 * 64000, SDS-PAGE
+MW	Cupriavidus necator	66000	*	*alpha4, 4 * 66000, SDS-PAGE
+MW	Cupriavidus necator	67000	*	*alpha2beta2, 2 * 67000 + 2 * 45000, SDS-PAGE
+MW	Burkholderia cepacia	69000	*	*alpha4, 4 * 69000, SDS-PAGE
+MW	Cupriavidus necator	224000	*	*ultracentrifugation
+MW	Acinetobacter sp.	240000	*	*gel filtration
+MW	Cupriavidus necator	245000	*	*gel filtration
+MW	Proteobacteria	256000	*	*gel filtration, gradient PAGE
+MW	Burkholderia cepacia	275000	*	*gel filtration and ultracentrifugation
+PATH	*	2,4-dichlorophenoxyacetate degradation	*	*
+PATH	*	4-chloro-2-methylphenoxyacetate degradation	*	*
+PATH	*	Chlorocyclohexane and chlorobenzene degradation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Cupriavidus necator	-999	*	*in vivo degradation activities, overview
+SA	Cupriavidus necator	1.14	*	*
+SA	Acinetobacter sp.	1.46	*	*
+SA	Cupriavidus necator	1.48	*	*
+SA	Proteobacteria	1.8	*	*without FAD
+SA	Burkholderia cepacia	1.9	*	*
+SA	Proteobacteria	2.4	*	*

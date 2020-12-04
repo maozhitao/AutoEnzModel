@@ -1,0 +1,52 @@
+KCAT	Pseudomonas mendocina	0.013	nitrobenzene	*wild-type, pH 7.5, 4&deg;C
+KCAT	Pseudomonas mendocina	0.034	nitrobenzene	*mutant T201A, pH 7.5, 4&deg;C
+KCAT	Pseudomonas mendocina	0.075	chlorobenzene	*wild-type, pH 7.5, 4&deg;C
+KCAT	Pseudomonas mendocina	0.087	chlorobenzene	*mutant T201A, pH 7.5, 4&deg;C
+KCAT	Pseudomonas mendocina	0.1	Benzene	*wild-type, pH 7.5, 4&deg;C
+KCAT	Pseudomonas mendocina	0.16	anisole	*wild-type, pH 7.5, 4&deg;C
+KCAT	Pseudomonas mendocina	0.21	Toluene	*wild-type, pH 7.5, 4&deg;C
+KCAT	Pseudomonas mendocina	0.23	anisole	*mutant T201A, pH 7.5, 4&deg;C
+KCAT	Pseudomonas mendocina	0.23	Toluene	*mutant T201A, pH 7.5, 4&deg;C
+KCAT	Pseudomonas mendocina	0.31	Benzene	*mutant T201A, pH 7.5, 4&deg;C
+KCAT	Pseudomonas mendocina	0.35	norcarane	*mutant T201S, pH 7.5, 25&deg;C
+KCAT	Pseudomonas mendocina	0.4	norcarane	*mutant T201A, pH 7.5, 25&deg;C
+KCAT	Pseudomonas mendocina	0.46	norcarane	*mutant T201L, pH 7.5, 25&deg;C
+KCAT	Pseudomonas mendocina	0.49	norcarane	*wild-type, pH 7.5, 25&deg;C
+KCAT	Pseudomonas mendocina	0.6	Toluene	*mutant T201G, pH 7.5, 25&deg;C
+KCAT	Pseudomonas mendocina	1	Toluene	*mutant T201A, pH 7.5, 25&deg;C
+KCAT	Pseudomonas mendocina	1.2	Toluene	*mutant T201S, pH 7.5, 25&deg;C
+KCAT	Pseudomonas mendocina	1.3	Toluene	*wild-type, pH 7.5, 25&deg;C
+KCAT	Pseudomonas mendocina	1.9	Toluene	*mutant T201L, pH 7.5, 25&deg;C; mutant T201S, pH 7.5, 25&deg;C
+KCAT	Pseudomonas mendocina	2.3	Toluene	*mutant T201A, pH 7.5, 25&deg;C; wild-type, pH 7.5, 25&deg;C
+KCAT	Pseudomonas mendocina	2.8	Toluene	*mutant DELTAN7, pH 7.5, 25&deg;C
+KCAT	Pseudomonas mendocina	3.1	Toluene	*mutant DELTAN10, pH 7.5, 25&deg;C
+KCAT	Pseudomonas mendocina	3.3	Toluene	*wild-type, pH 7.5, 25&deg;C
+KCAT	Pseudomonas mendocina	3.4	Toluene	*mutant DELTAN4, pH 7.5, 25&deg;C
+KM	Pseudomonas mendocina	0.0023	Toluene	*mutant DELTAN4, pH 7.5, 25&deg;C
+KM	Pseudomonas mendocina	0.0032	Toluene	*mutant DELTAN10, pH 7.5, 25&deg;C
+KM	Pseudomonas mendocina	0.005	Toluene	*wild-type, pH 7.5, 25&deg;C
+KM	Pseudomonas mendocina	0.0053	Toluene	*mutant DELTAN7, pH 7.5, 25&deg;C
+KM	Pseudomonas mendocina	0.006	Toluene	*mutant T201A, pH 7.5, 25&deg;C; mutant T201S, pH 7.5, 25&deg;C
+KM	Pseudomonas mendocina	0.007	Toluene	*wild-type, pH 7.5, 25&deg;C
+KM	Pseudomonas mendocina	0.009	Toluene	*mutant T201G, pH 7.5, 25&deg;C
+KM	Pseudomonas mendocina	0.011	methyl 4-tolyl sulfide	*whole-cell assay, 25&deg;C, pH not specified in the publication
+KM	Burkholderia cepacia	0.068	methyl 4-tolyl sulfide	*whole-cell assay, 25&deg;C, pH not specified in the publication
+KM	Pseudomonas mendocina	0.115	methyl phenyl sulfide	*whole-cell assay, 25&deg;C, pH not specified in the publication
+KM	Burkholderia cepacia	0.129	methyl phenyl sulfide	*whole-cell assay, 25&deg;C, pH not specified in the publication
+MW	Pseudomonas mendocina	9600	*	*
+MW	Pseudomonas mendocina	11600	*	*
+MW	Pseudomonas mendocina	35000	*	*
+MW	Pseudomonas mendocina	37000	*	*
+MW	Pseudomonas mendocina	55000	*	*
+MW	Pseudomonas mendocina	220000	*	*diiron hydrolase T4moH, gel filtration
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Toluene degradation	*	*
+PATH	*	toluene degradation to 2-hydroxypentadienoate (via 4-methylcatechol)	*	*
+PATH	*	toluene degradation to 4-methylphenol	*	*
+SA	Burkholderia cepacia	0.5	*	*substrate methyl 4-tolyl sulfide, whole-cell assay, 25&Acirc;&deg;C, pH not specified in the publication
+SA	Pseudomonas mendocina	0.5	*	*substrate methyl 4-tolyl sulfide, whole-cell assay, 25&Acirc;&deg;C, pH not specified in the publication
+SA	Burkholderia cepacia	1.6	*	*substrate methyl phenyl sulfide, whole-cell assay, 25&Acirc;&deg;C, pH not specified in the publication
+SA	Pseudomonas mendocina	1.6	*	*substrate methyl phenyl sulfide, whole-cell assay, 25&Acirc;&deg;C, pH not specified in the publication
+SA	Pseudomonas mendocina	1250	*	*pH 7.5, 25&Acirc;&deg;C
+SA	Pseudomonas mendocina	23890	*	*pH 7.5, 25&Acirc;&deg;C

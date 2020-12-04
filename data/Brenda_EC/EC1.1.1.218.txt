@@ -1,0 +1,67 @@
+KCAT	Oryctolagus cuniculus	0.004	NAD+	*pH 7.4, 25&deg;C
+KCAT	Oryctolagus cuniculus	0.067	trans-naphthalene dihydrodiol	*pH 7.4, 25&deg;C
+KCAT	Oryctolagus cuniculus	0.49	morphine	*pH 7.4, 25&deg;C
+KM	Oryctolagus cuniculus	-999	more	*Michaelis-Menten kinetics
+KM	Mesocricetus auratus	0.002	5alpha-androstan-17beta-ol-3-one	*similar values of other 17beta-hydroxysteroids
+KM	Cavia porcellus	0.0022	NADH	*
+KM	Cavia porcellus	0.0065	NADPH	*
+KM	Mesocricetus auratus	0.009	testosterone	*cosubstrate NAD+
+KM	Cavia porcellus	0.015	nalorphine	*cosubstrate NAD+
+KM	Oryctolagus cuniculus	0.02	NAD+	*pH 7.4, 25&deg;C
+KM	Oryctolagus cuniculus	0.027	trans-naphthalene dihydrodiol	*pH 7.4, 25&deg;C
+KM	Cavia porcellus	0.033	codeine	*with NADP+
+KM	Oryctolagus cuniculus	0.033	NADH	*pH 7.4, 25&deg;C
+KM	Pseudomonas putida	0.044	codeine	*with NADP+
+KM	Cavia porcellus	0.044	normorphine	*cosubstrate NAD+
+KM	Cavia porcellus	0.048	nalorphine	*cosubstrate NADP+
+KM	Oryctolagus cuniculus	0.07	codeine	*with NAD+
+KM	Cavia porcellus	0.079	codeine	*with NAD+
+KM	Oryctolagus cuniculus	0.12	1-Indanol	*cosubstrate NAD+
+KM	Pseudomonas putida	0.12	codeinone	*cosubstrate NADPH
+KM	Cavia porcellus	0.12	morphine	*cosubstrate NAD+
+KM	Cavia porcellus	0.15	normorphine	*cosubstrate NADP+
+KM	Cavia porcellus	0.27	naloxone	*cosubstrate NADPH
+KM	Pseudomonas putida	0.35	NADP+	*
+KM	Oryctolagus cuniculus	0.39	Dihydrocodeine	*cosubstrate NAD+
+KM	Cavia porcellus	0.4	ethylmorphine	*cosubstrate NAD+
+KM	Cavia porcellus	0.44	naloxone	*cosubstrate NADH
+KM	Pseudomonas putida	0.45	codeine	*cosubstrate NADP+
+KM	Pseudomonas putida	0.46	morphine	*cosubstrate NADP+
+KM	Cavia porcellus	0.49	morphine	*cosubstrate NADP+
+KM	Oryctolagus cuniculus	0.52	morphine	*pH 7.4, 25&deg;C
+KM	Oryctolagus cuniculus	0.54	cyclohexene-2-ol	*cosubstrate NAD+
+KM	Cavia porcellus	0.54	Dihydrocodeine	*cosubstrate NAD+
+KM	Pseudomonas putida	0.54	morphine	*cosubstrate NADP+
+KM	Oryctolagus cuniculus	0.64	normorphine	*cosubstrate NAD+
+KM	Oryctolagus cuniculus	0.72	morphine	*cosubstrate NAD+
+KM	Oryctolagus cuniculus	0.92	3-hydroxyhexobarbital	*cosubstrate NAD+
+KM	Mesocricetus auratus	1.25	morphine	*cosubstrate NAD+
+KM	Oryctolagus cuniculus	1.48	ethylmorphine	*cosubstrate NAD+
+KM	Cavia porcellus	1.54	ethylmorphine	*cosubstrate NADP+
+KM	Oryctolagus cuniculus	1.75	benzenedihydrodiol	*cosubstrate NAD+
+KM	Cavia porcellus	2.11	Dihydrocodeine	*cosubstrate NADP+
+KM	Rattus norvegicus	2.9	morphine	*cosubstrate NAD+, in the male adult rats
+KM	Pseudomonas putida	2.91	Dihydrocodeine	*cosubstrate NADP+
+KM	Rattus norvegicus	3.3	morphine	*cosubstrate NAD+, in the female adult rats
+KM	Homo sapiens	5.5	morphine	*
+MW	Cavia porcellus	29000	*	*gel filtration
+MW	Pseudomonas putida	31000	*	*denatured enzyme, SDS-PAGE
+MW	Oryctolagus cuniculus	31000	*	*native enzyme, gel filtration
+MW	Pseudomonas putida	31990	*	*based on sequence data
+MW	Pseudomonas putida	32000	*	*native enzyme, gel filtration
+MW	Mesocricetus auratus	32000	*	*native enzyme, gel filtration
+MW	Pseudomonas putida	32000	*	*elecrospray mass spectrometer
+MW	Oryctolagus cuniculus	36000	*	*denatured enzyme, SDS-PAGE
+MW	Oryctolagus cuniculus	38000	*	*1 * 38000, SDS-PAGE
+MW	Mesocricetus auratus	38000	*	*denatured enzyme, SDS-PAGE
+MW	Pseudomonas putida	310000	*	*1 * 310000, SDS-PAGE
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Isoquinoline alkaloid biosynthesis	*	*
+PATH	*	morphine biosynthesis	*	*
+SA	Pseudomonas putida	0.08	*	*morphine, NADP+
+SA	Mesocricetus auratus	0.21	*	*morphine, NAD+
+SA	Oryctolagus cuniculus	0.43	*	*morphine, NAD+
+SA	Cavia porcellus	0.53	*	*morphine, NAD+
+SA	Cavia porcellus	0.86	*	*morphine, NADP+
+SA	Cavia porcellus	0.9	*	*naloxone, NADPH
+SA	Pseudomonas putida	2.67	*	*morphine, NADP+

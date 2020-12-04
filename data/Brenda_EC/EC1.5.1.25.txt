@@ -1,0 +1,26 @@
+KCAT	Homo sapiens	0.2	S-(2-aminoethyl)-L-cysteine ketimine	*pH 7.2, 37&deg;C
+KCAT	Homo sapiens	1.7	DELTA2-thiazoline-2-carboxylate	*pH 7.2, 37&deg;C
+KCAT	Homo sapiens	4.4	DELTA1-piperideine 2-carboxylate	*pH 7.2, 37&deg;C
+KCAT	Homo sapiens	6.6	DELTA1-pyrrolidine 2-carboxylate	*pH 7.2, 37&deg;C
+KM	Bos taurus	0.015	NADH	*reaction with DELTA1-piperidine 2-carboxylate
+KM	Sus scrofa	0.027	NADH	*reaction with S-aminoethylcysteine ketimine
+KM	Bos taurus	0.26	NADH	*reaction with DELTA1-piperidine 2-carboxylate
+KM	Sus scrofa	3	Cystathionine ketimine	*reaction with NADH
+KM	Bos taurus	10	Cystathionine ketimine	*reaction with NADPH
+KM	Sus scrofa	0.47	Lanthionine ketimine	*reaction with NADH
+KM	Bos taurus	1.17	Lanthionine ketimine	*reaction with NADPH
+KM	Sus scrofa	0.077	S-Aminoethylcysteine ketimine	*
+KM	Bos taurus	0.24	S-Aminoethylcysteine ketimine	*reaction with NADH
+KM	Bos taurus	0.33	DELTA1-Piperidine 2-carboxylate	*reaction with DELTA1-piperidine-2-carboxylate
+KM	Homo sapiens	0.013	DELTA1-piperideine 2-carboxylate	*pH 7.2, 37&Acirc;&deg;C
+KM	Homo sapiens	0.028	S-(2-aminoethyl)-L-cysteine ketimine	*pH 7.2, 37&Acirc;&deg;C
+KM	Homo sapiens	0.045	DELTA1-pyrrolidine 2-carboxylate	*pH 7.2, 37&Acirc;&deg;C
+KM	Homo sapiens	0.021	DELTA2-thiazoline-2-carboxylate	*pH 7.2, 37&Acirc;&deg;C
+KM	Homo sapiens	-999	more	*Michaelis-Menten kinetics
+MW	Bos taurus	45000	*	*2 * 45000, SDS-PAGE
+MW	Sus scrofa	73000	*	*gel filtration
+MW	Sus scrofa	76000	*	*non-denaturing PAGE
+MW	Bos taurus	100000	*	*non-denaturing PAGE
+SA	Homo sapiens	-999	*	*highly purified recombinantly expressed human CRYM possesses substantial ketimine reductase activity
+SA	Sus scrofa	16.3	*	*
+SA	Bos taurus	16.6	*	*

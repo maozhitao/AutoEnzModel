@@ -1,0 +1,52 @@
+KCAT	Bacillus subtilis	0.149	3'-phosphoadenylyl sulfate	*recombinant enzyme, pH 8.0, with thioredoxin 1
+KCAT	Bacillus subtilis	0.335	3'-phosphoadenylyl sulfate	*recombinant enzyme, pH 8.0, with glutaredoxin 1
+KCAT	Bacillus subtilis	0.172	3'-phosphoadenylyl-sulfate	*recombinant enzyme, pH 8.0, with thioredoxin 1
+KCAT	Bacillus subtilis	0.382	3'-phosphoadenylyl-sulfate	*recombinant enzyme, pH 8.0, with glutaredoxin 1
+KCAT	Escherichia coli	3.5	3'-phosphoadenylyl-sulfate	*pH 9.2-9.3, 35&Acirc;&deg;C
+KCAT	Bacillus subtilis	0.174	thioredoxin 1	*recombinant enzyme, pH 8.0, with substrate 3'-adenylyl-sulfate
+KCAT	Bacillus subtilis	0.219	thioredoxin 1	*recombinant enzyme, pH 8.0, with substrate 3'-phosphoadenylyl-sulfate
+KCAT	Bacillus subtilis	0.146	glutaredoxin 1	*recombinant enzyme, pH 8.0, with substrate 3'-adenylyl-sulfate
+KCAT	Bacillus subtilis	0.421	glutaredoxin 1	*recombinant enzyme, pH 8.0, with substrate 3'-phosphoadenylyl-sulfate
+KM	Escherichia coli	-999	more	*kinetics
+KM	Saccharomyces cerevisiae	0.0006	thioredoxin from Saccharomyces cerevisiae	*
+KM	Saccharomyces cerevisiae	0.0014	thioredoxin from Escherichia coli	*
+KM	Bacillus subtilis	0.0064	3'-phosphoadenylyl-sulfate	*recombinant enzyme, pH 8.0, with thioredoxin 1
+KM	Escherichia coli	0.0072	glutaredoxin mutant 1C14S	*pH 8.0
+KM	Escherichia coli	0.01	5-Phosphoadenosine 3-phosphosulfate	*
+KM	Pseudomonas aeruginosa	0.01	thioredoxin I	*wild type enzyme, at 20&deg;C in 10 mM phosphate buffer (pH 7.5) containing 100 mM Na2SO4
+KM	Bacillus subtilis	0.0107	3'-phosphoadenylyl-sulfate	*recombinant enzyme, pH 8.0, with glutaredoxin 1
+KM	Escherichia coli	0.0137	thioredoxin 1	*pH 8.0
+KM	Escherichia coli	0.0137	thioredoxin Trx1	*pH 8.0, temperature not specified in the publication
+KM	Escherichia coli	0.0149	glutaredoxin 1	*pH 8.0
+KM	Escherichia coli	0.0149	glutaredoxin Grx1	*pH 8.0, temperature not specified in the publication
+KM	Escherichia coli	0.0178	thioredoxin TrxH3	*pH 8.0, temperature not specified in the publication
+KM	Saccharomyces cerevisiae	0.019	5-Phosphoadenosine 3-phosphosulfate	*with thioredoxin from Saccharomyces cerevisiae as cosubstrate
+KM	Saccharomyces cerevisiae	0.021	5-Phosphoadenosine 3-phosphosulfate	*with thioredoxin from E. coli as cosubstrate
+KM	Escherichia coli	0.0225	3'-phosphoadenylyl-sulfate	*with cofactors Trx1, Trx2, or Grx1, pH 8.0
+KM	Bacillus subtilis	0.0225	glutaredoxin 1	*recombinant enzyme, pH 8.0, with substrate 3'-adenylyl-sulfate
+KM	Escherichia coli	0.023	reduced thioredoxin	*
+KM	Escherichia coli	0.0261	thioredoxin TrxH4	*pH 8.0, temperature not specified in the publication
+KM	Bacillus subtilis	0.0287	3'-phosphoadenylyl sulfate	*recombinant enzyme, pH 8.0, with thioredoxin 1
+KM	Escherichia coli	0.0342	thioredoxin 2	*pH 8.0
+KM	Escherichia coli	0.0342	thioredoxin Trx2	*pH 8.0, temperature not specified in the publication
+KM	Escherichia coli	0.0431	thioredoxin TrxH2	*pH 8.0, temperature not specified in the publication
+KM	Bacillus subtilis	0.0543	thioredoxin 1	*recombinant enzyme, pH 8.0, with substrate 3'-adenylyl-sulfate
+KM	Escherichia coli	0.059	thioredoxin TrxH1	*pH 8.0, temperature not specified in the publication
+KM	Bacillus subtilis	0.0606	glutaredoxin 1	*recombinant enzyme, pH 8.0, with substrate 3'-phosphoadenylyl-sulfate
+KM	Escherichia coli	0.0637	glutaredoxin Grx	*pH 8.0, temperature not specified in the publication
+KM	Bacillus subtilis	0.0675	thioredoxin 1	*recombinant enzyme, pH 8.0, with substrate 3'-phosphoadenylyl-sulfate
+KM	Escherichia coli	0.0681	thioredoxin hTrx1	*pH 8.0, temperature not specified in the publication
+KM	Bacillus subtilis	0.1054	3'-phosphoadenylyl sulfate	*recombinant enzyme, pH 8.0, with glutaredoxin 1
+MW	Synechococcus sp.	22635	*	*x * 22635, calculation from nucleotide sequence
+MW	Bacillus subtilis	27000	*	*2 * 27000, SDS-PAGE
+MW	Escherichia coli	27927	*	*2 * 27927, calculation from nucleotide sequence
+MW	Escherichia coli	44000	*	*reduction of the enzyme by dithiothreitol results in a shift of the apparent MW to 62000 without formation of an enzyme-thioredoxin complex, HPLC gel filtration
+PATH	*	assimilatory sulfate reduction I	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	sulfate reduction	*	*
+PATH	*	Sulfur metabolism	*	*
+SA	Escherichia coli	-999	*	*cofactor specificity
+SA	Bacillus subtilis	-999	*	*
+SA	Saccharomyces cerevisiae	44.13	*	*
+SA	Escherichia coli	99	*	*

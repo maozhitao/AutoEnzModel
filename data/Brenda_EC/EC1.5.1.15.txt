@@ -1,0 +1,174 @@
+KCAT	Acetobacterium woodii	1.58	L-5,10-methenyltetrahydrofolate	*
+KCAT	Acetobacterium woodii	1.63	L-5,10-methylenetetrahydrofolate	*
+KM	Methanosarcina barkeri	-999	5,10-methylenetetrahydrofolate	*pH 6.0, 37&deg;C, the Km-value for 5,10-methylenetetrahydrofolate in the presence of 2.7 mM NAD+ is below 0.005 mM
+KM	Homo sapiens	0.0046	L-5,10-methylenetetrahydrofolate	*
+KM	Homo sapiens	0.005	L-5,10-methylenetetrahydrofolate	*
+KM	Spodoptera frugiperda	0.013	NAD+	*
+KM	Mus musculus	0.019	L-5,10-methylenetetrahydrofolate	*
+KM	Mus musculus	0.019	L-5,10-methylenetetrahydrofolate	*
+KM	Spodoptera frugiperda	0.03	methenyltetrahydrofolate	*
+KM	Saccharomyces cerevisiae	0.06	L-5,10-methylenetetrahydrofolate	*
+KM	Clostridium formicaceticum	0.066	L-5,10-methylenetetrahydrofolate	*
+KM	Homo sapiens	0.096	methenyltetrahydrofolate	*
+KM	Mus musculus	0.111	NAD+	*
+KM	Mus musculus	0.111	NAD+	*
+KM	Homo sapiens	0.132	NAD+	*
+KM	Mus musculus	0.15	5,10-methenyltetrahydrofolate	*
+KM	Methanosarcina barkeri	0.15	NAD+	*pH 6.0, 37&deg;C
+KM	Mus musculus	0.155	5,10-methenyltetrahydrofolate	*
+KM	Mus musculus	0.17	phosphate	*
+KM	Mus musculus	0.17	phosphate	*
+KM	Homo sapiens	0.171	Mg2+	*
+KM	Homo sapiens	0.18	Mg2+	*
+KM	Homo sapiens	0.19	phosphate	*
+KM	Homo sapiens	0.202	NAD+	*wild-type, pH 7.3
+KM	Mus musculus	0.25	Mg2+	*
+KM	Mus musculus	0.25	Mg2+	*
+KM	Homo sapiens	0.255	NADP+	*mutant R198S, pH 7.3
+KM	Acetobacterium woodii	0.26	L-5,10-methylenetetrahydrofolate	*
+KM	Homo sapiens	0.352	NADP+	*wild-type, pH 7.3
+KM	Homo sapiens	0.503	NADP+	*mutant D133S, pH 7.3
+KM	Homo sapiens	0.58	NADP+	*mutant D133N, pH 7.3
+KM	Homo sapiens	0.689	NADP+	*mutant D190N, pH 7.3
+KM	Clostridium formicaceticum	0.79	NAD+	*
+KM	Mus musculus	0.793	arsenate	*
+KM	Homo sapiens	0.918	NAD+	*mutant R198K, pH 7.3
+KM	Acetobacterium woodii	1	5,10-methenyltetrahydrofolate	*
+KM	Saccharomyces cerevisiae	1.6	NAD+	*
+KM	Homo sapiens	1.99	NAD+	*mutant D133N, pH 7.3
+KM	Acetobacterium woodii	2	NADH	*
+KM	Homo sapiens	2.12	NADP+	*mutant R198K, pH 7.3
+KM	Homo sapiens	2.17	NAD+	*mutant D133S, pH 7.3
+KM	Homo sapiens	2.5	NAD+	*
+KM	Homo sapiens	3.88	NAD+	*mutant D190N, pH 7.3
+KM	Acetobacterium woodii	4	NAD+	*
+MW	Acetobacterium woodii	26300	*	*2 * 26300, amino acid analysis
+MW	Acetobacterium woodii	26900	*	*2 * 26900, SDS-PAGE
+MW	Methanosarcina barkeri	31000	*	*x * 31000, SDS-PAGE
+MW	Clostridium formicaceticum	32000	*	*SDS-PAGE
+MW	Saccharomyces cerevisiae	33000	*	*SDS-PAGE
+MW	Saccharomyces cerevisiae	33000	*	*
+MW	Mus musculus	34000	*	*SDS-PAGE
+MW	Homo sapiens	34000	*	*
+MW	Mus musculus	34000	*	*SDS-PAGE
+MW	Mus musculus	34000	*	*anti-NAD-dehydrogenase antiserum
+MW	Mus musculus	34000	*	*
+MW	Mus musculus	34000	*	*2 * 34000, native bifunctional enzyme, associated with cyclohydrolase, SDS-PAGE
+MW	Homo sapiens	34000	*	*
+MW	Mus musculus	34000	*	*
+MW	Homo sapiens	34000	*	*
+MW	Mus musculus	34000	*	*
+MW	Saccharomyces cerevisiae	36000	*	*
+MW	Saccharomyces cerevisiae	36125	*	*2 * 36125, electrospray ionization-mass spectrometry
+MW	Homo sapiens	37000	*	*
+MW	Acetobacterium woodii	55000	*	*purified enzyme, gel filtration
+MW	Acetobacterium woodii	58000	*	*gel filtration
+MW	Clostridium formicaceticum	60000	*	*sedimentation equilibrium centrifugation
+MW	Saccharomyces cerevisiae	64000	*	*gel filtration
+MW	Saccharomyces cerevisiae	64000	*	*gel filtration
+MW	Mus musculus	68000	*	*cross-linking with bis(sulfosuccinimidyl)suberate
+MW	Acetobacterium woodii	69000	*	*gel filtration
+MW	Methanosarcina barkeri	318700	*	*x * 318700, calculated from sequence
+PATH	*	folate transformations I	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	One carbon pool by folate	*	*
+SA	Mus musculus	0.0001	*	*C-57/Bl, bone marrow and whole adrenal, CD-1, adrenal
+SA	Bos taurus	0.0002	*	*adrenal cortex
+SA	Mus musculus	0.0002	*	*CD-1, spleen
+SA	Homo sapiens	0.0003	*	*cell line MRC-5; HEP-G2 tumor in nude mice
+SA	Rattus norvegicus	0.0003	*	*RLE cells and RLE cells virus J5 v-myc oncogene-transformed
+SA	Mus musculus	0.0004	*	*spleen
+SA	Mus musculus	0.0004	*	*CD-1, bone marrow
+SA	Homo sapiens	0.0005	*	*human liver tumor
+SA	Mus musculus	0.0005	*	*colon 38 solid tumor
+SA	Rattus norvegicus	0.0006	*	*RLE cells, virus 3611.MSV v-raf oncogene-transformed
+SA	Mus musculus	0.0007	*	*thymus
+SA	Mesocricetus auratus	0.00076	*	*fibroblasts, syrian hamster embryo
+SA	Mus musculus	0.0011	*	*Swiss, bone marrow
+SA	Rattus norvegicus	0.0012	*	*fetal rat
+SA	Homo sapiens	0.0012	*	*cell line Hl-60
+SA	Rattus norvegicus	0.0012	*	*RLE cells, spontaneous oncogene transformed
+SA	Rattus norvegicus	0.0014	*	*adrenal medulla
+SA	Homo sapiens	0.0015	*	*cell line HEP-2
+SA	Rattus norvegicus	0.0015	*	*RLE cells, aflatoxin oncogene-transformed
+SA	Mus musculus	0.0017	*	*cell line B-16 solid tumor
+SA	Rattus norvegicus	0.002	*	*RLE cells, virus pRNR16 v-Ha-ras oncogene-transformed
+SA	Rattus norvegicus	0.0021	*	*RLE cells, virus J2 v-raf/v-myc oncogene-transformed
+SA	Homo sapiens	0.0024	*	*cell line M4, human cutaneous melanoma
+SA	Homo sapiens	0.0027	*	*cell line MCF-7, 100% confluent
+SA	Homo sapiens	0.0028	*	*cell line KB
+SA	Cricetulus griseus	0.003	*	*cell line LR-73, chinese hamster ovary
+SA	Homo sapiens	0.0031	*	*cell line K562, human chronic myeolcytic leukemia
+SA	Homo sapiens	0.0033	*	*cell line TL3, EBV-transformed
+SA	Mus musculus	0.0034	*	*bone marrow
+SA	Homo sapiens	0.0035	*	*cell line MCF-7, 50% confluent
+SA	Mus musculus	0.0039	*	*cell line 3T3, mouse embryo
+SA	Mus musculus	0.0039	*	*cell line P-388 in vitro
+SA	Homo sapiens	0.004	*	*cell line CCRF-CEM
+SA	Cricetus cricetus	0.0042	*	*hamster embryo fibroblast, Polyoma virus transformed
+SA	Homo sapiens	0.0042	*	*cell line HCT-8R, human intestinal carcinoma
+SA	Mus musculus	0.0042	*	*L-cells, Reovirus infected
+SA	Mus musculus	0.0042	*	*cell line Y1
+SA	Mus musculus	0.0045	*	*cell line CHO
+SA	Homo sapiens	0.0046	*	*cell line TL4, EBV-transformed
+SA	Homo sapiens	0.0047	*	*cell line MG-63, human osteosarcoma
+SA	Homo sapiens	0.0049	*	*cell line BeWo, human choriocarcinoma
+SA	Cricetulus griseus	0.005	*	*cell line TR-3, transformed
+SA	Homo sapiens	0.005	*	*cell line Raji, Burkitt lymphoma
+SA	Mus musculus	0.005	*	*Ehrlich ascites
+SA	Rattus norvegicus	0.0052	*	*adrenal cortex
+SA	Homo sapiens	0.0055	*	*cell line MNNG/HOS, human osteosarcoma
+SA	Mus musculus	0.0055	*	*cell line P815, murine mastocytoma
+SA	Rattus norvegicus	0.0058	*	*whole adrenal
+SA	Mus musculus	0.0059	*	*cell line P815, ascites in vivo
+SA	Homo sapiens	0.0063	*	*cell line MOLT-4
+SA	Mus musculus	0.0063	*	*cell line B-16 in vitro
+SA	Mus musculus	0.0066	*	*cell line EL4, ascites in vivo
+SA	Mus musculus	0.0068	*	*L-cells, murine fibroblast
+SA	Homo sapiens	0.0069	*	*cell line MCF-7, human breast carcinoma
+SA	Mus musculus	0.0071	*	*cell line P-388 leukemia ip
+SA	Homo sapiens	0.0078	*	*cell line CCRF-CEM, human leukemia
+SA	Mus musculus	0.0089	*	*Ehrlich ascites, ascites in vivo
+SA	Mus musculus	0.0094	*	*cell line EL4, murine T-cell lymphoma
+SA	Mus musculus	0.0097	*	*cell line YAC, murine lymphoma (Moloney virus-induced)
+SA	Mus musculus	0.0105	*	*cell line 3T3-SV40, SV40 transformed
+SA	Mus musculus	0.02	*	*Ehrlich ascites, murine mastocytoma
+SA	Homo sapiens	0.024	*	*mutant D190E, cosubstrate NAD+, pH 7.3
+SA	Homo sapiens	0.156	*	*mutant R198A, cosubstrate NADP+, pH 7.3
+SA	Homo sapiens	0.16	*	*mutant D133A, cosubstrate NADP+, pH 7.3
+SA	Homo sapiens	0.17	*	*mutant R198A, cosubstrate NAD+, pH 7.3
+SA	Homo sapiens	0.207	*	*mutant R198S, cosubstrate NAD+, pH 7.3
+SA	Homo sapiens	0.392	*	*mutant D133A, cosubstrate NAD+, pH 7.3
+SA	Methanosarcina barkeri	1	*	*pH 6.0, 37&deg;C, purified enzyme, recombinant
+SA	Homo sapiens	1.01	*	*mutant D133S, cosubstrate NADP+, pH 7.3
+SA	Homo sapiens	1.24	*	*mutant R198K, cosubstrate NADP+, pH 7.3
+SA	Homo sapiens	1.54	*	*mutant R198S, cosubstrate NADP+, pH 7.3
+SA	Homo sapiens	2	*	*wild-type, cosubstrate NAD+, pH 7.3
+SA	Homo sapiens	2.4	*	*cutaneous melanoma
+SA	Homo sapiens	2.4	*	*mutant D133N, cosubstrate NADP+, pH 7.3
+SA	Mus musculus	2.7	*	*fibroblast
+SA	Homo sapiens	2.92	*	*wild-type, cosubstrate NADP+, pH 7.3
+SA	Mus musculus	3.4	*	*embryo fibroblast
+SA	Homo sapiens	3.64	*	*mutant D190N, cosubstrate NAD+, pH 7.3
+SA	Homo sapiens	3.96	*	*mutant D190N, cosubstrate NADP+, pH 7.3
+SA	Homo sapiens	3.99	*	*mutant D133S, cosubstrate NAD+, pH 7.3
+SA	Homo sapiens	4.6	*	*mutant D133N, cosubstrate NAD+, pH 7.3
+SA	Homo sapiens	4.7	*	*osteosarcoma
+SA	Methanosarcina barkeri	5	*	*pH 6.0, 37&deg;C, extract from Escherichia coli cells carrying the expression vector
+SA	Saccharomyces cerevisiae	5.38	*	*
+SA	Saccharomyces cerevisiae	5.4	*	*
+SA	Mus musculus	5.5	*	*mastocytoma
+SA	Homo sapiens	6.9	*	*breast carcinoma
+SA	Homo sapiens	7.8	*	*leukemia
+SA	Homo sapiens	8.9	*	*adenocarcinoma
+SA	Mus musculus	9.4	*	*T-cell lymphoma
+SA	Mus musculus	9.7	*	*lymphoma
+SA	Homo sapiens	12.6	*	*mutant R198K, cosubstrate NAD+, pH 7.3
+SA	Mus musculus	12.9	*	*embryonal carcinoma
+SA	Saccharomyces cerevisiae	27	*	*
+SA	Mus musculus	31.9	*	*
+SA	Mus musculus	38	*	*
+SA	Homo sapiens	40	*	*
+SA	Spodoptera frugiperda	43	*	*
+SA	Acetobacterium woodii	670	*	*
+SA	Clostridium formicaceticum	1400	*	*

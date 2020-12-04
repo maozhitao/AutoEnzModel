@@ -1,0 +1,165 @@
+KCAT	Sporomusa sphaeroides	0.683	H2	*
+KCAT	Clostridium acetobutylicum	133	H2	*using ferredoxin CAC0587 as electron carrier, at 35&deg;C
+KCAT	Clostridium acetobutylicum	454	H2	*using methyl viologen as electron carrier, at 35&deg;C
+KCAT	Clostridium acetobutylicum	483	H2	*using flavodoxin CAC0587 as electron carrier, at 35&deg;C
+KM	Clostridium acetobutylicum	0.000033	H2	*using ferredoxin CAC0587 as electron carrier, at 35&deg;C
+KM	Clostridium acetobutylicum	0.000088	H2	*using flavodoxin CAC0587 as electron carrier, at 35&deg;C
+KM	Alvikia littoralis	0.00068	Ferredoxin	*
+KM	Methanosarcina barkeri	0.001	Ferredoxin	*
+KM	Caldanaerobacter subterraneus subsp. tengcongensis	0.003	reduced ferredoxin	*70&deg;C
+KM	Methanosarcina barkeri	0.005	H2	*
+KM	Methanosarcina barkeri	0.005	H2	*
+KM	Methanosarcina barkeri	0.0075	reduced ferredoxin	*
+KM	Chlamydomonas reinhardtii	0.01	Ferredoxin	*hydrogen evolution
+KM	Caldanaerobacter subterraneus subsp. tengcongensis	0.015	oxidized ferredoxin	*70&deg;C
+KM	Clostridium acetobutylicum	0.016	H2	*using methyl viologen as electron carrier, at 35&deg;C
+KM	Pyrococcus furiosus	0.017	NADP+	*
+KM	Chlamydomonas reinhardtii	0.035	Ferredoxin	*
+KM	Clostridium pasteurianum	0.05	Ferredoxin	*hydrogen evolution, hydrogenase I
+KM	Clostridium pasteurianum	0.051	reduced ferredoxin	*hydrogen evolution
+KM	Pyrococcus furiosus	0.07	NADH	*
+KM	Pyrococcus furiosus	0.07	NADPH	*
+KM	Pyrococcus furiosus	0.125	NAD+	*
+KM	Clostridium pasteurianum	0.13	Ferredoxin	*hydrogen evolution, hydrogenase II
+KM	Clostridium pasteurianum	0.18	methylene blue	*hydrogen oxidation, hydrogenase I
+KM	Pyrococcus furiosus	0.2	sulfur	*
+KM	Clostridium pasteurianum	0.31	methyl viologen	*hydrogen evolution, hydrogenase II
+KM	Sporomusa sphaeroides	0.341	H2	*
+KM	Clostridium pasteurianum	0.4	methylene blue	*hydrogen oxidation, hydrogenase II
+KM	Alvikia littoralis	0.5	methyl viologen	*
+KM	Enterobacter cloacae	0.57	reduced methyl viologen	*
+KM	Enterobacter cloacae	0.72	reduced ferredoxin	*
+KM	Tetradesmus obliquus	0.8	methyl viologen	*
+KM	Chlamydomonas reinhardtii	0.83	methyl viologen	*
+KM	Pyrococcus furiosus	1	methyl viologen	*at 120 kPa H2
+KM	Pyrococcus furiosus	1.25	reduced methyl viologen	*
+KM	Megasphaera elsdenii	5	benzyl viologen	*
+KM	Clostridium pasteurianum	5	methyl viologen	*hydrogen oxidation, hydrogenase I
+KM	Methanosarcina barkeri	5.6	H2	*
+KM	Megasphaera elsdenii	5.7	benzyl viologen	*hydrogen oxidation
+KM	Clostridium pasteurianum	5.7	methyl viologen	*hydrogen oxidation, hydrogenase II
+KM	Clostridium pasteurianum	6.25	methyl viologen	*hydrogen evolution, hydrogenase I
+KM	Clostridium pasteurianum	6.25	reduced methyl viologen	*hydrogen evolution
+KM	Megasphaera elsdenii	171	methyl viologen	*hydrogen oxidation
+MW	Desulfovibrio desulfuricans	14000	*	*1 * 46100 + 1 * 14000, calculated from amino acid sequence
+MW	Caldanaerobacter subterraneus subsp. tengcongensis	14700	*	*x * 69000 + x * 40000, + x * 32000, + x * 17000 + x + 14100 + x * 14700, SDS-PAGE
+MW	Caldanaerobacter subterraneus subsp. tengcongensis	17000	*	*x * 69000 + x * 40000, + x * 32000, + x * 17000 + x + 14100 + x * 14700, SDS-PAGE
+MW	Pyrococcus furiosus	18284	*	*x * 18284, calculated from sequence
+MW	Tetraselmis sp. KSN-2002	19000	*	*1 * 19000 + 1 * 70000, SDS-PAGE
+MW	Pyrococcus furiosus	20000	*	*alpha, beta, 1 * 40000 + 1 * 20000, SDS-PAGE
+MW	Pyrococcus furiosus	20184	*	*x * 20184, calculated from sequence
+MW	Pyrococcus furiosus	24000	*	*alpha, beta, gamma, 2 * 46000 + 2 * 27000 + 2 * 24000, SDS-PAGE
+MW	Pyrococcus furiosus	24000	*	*alpha, beta, gamma, delta, 2 * 52000 + 2 * 39000 + 2 * 30000 + 2 * 24000, SDS-PAGE
+MW	Desulfomicrobium baculatum	26000	*	*1 * 49000 + 1 * 26000, SDS-PAGE
+MW	Pyrococcus furiosus	27000	*	*alpha, beta, gamma, 2 * 46000 + 2 * 27000 + 2 * 24000, SDS-PAGE
+MW	Pyrococcus furiosus	30000	*	*alpha, beta, gamma, delta, 2 * 52000 + 2 * 39000 + 2 * 30000 + 2 * 24000, SDS-PAGE
+MW	Clostridium pasteurianum	30000	*	*2 * 30000, hydrogenase I, SDS-PAGE
+MW	Caldanaerobacter subterraneus subsp. tengcongensis	32000	*	*x * 69000 + x * 40000, + x * 32000, + x * 17000 + x + 14100 + x * 14700, SDS-PAGE
+MW	Desulfovibrio vulgaris	32300	*	*1 * 66400 + 1 * 32300, SDS-PAGE
+MW	Acidithiobacillus ferrooxidans	34000	*	*1 * 64000 + 1 * 34000, SDS-PAGE
+MW	Methanosarcina barkeri	35000	*	*alpha, beta, 1 * 57000 + 1 * 35000, SDS-PAGE
+MW	Sporomusa sphaeroides	37000	*	*1 * 65000 + 1 * 37000, SDS-PAGE
+MW	Pyrococcus furiosus	39000	*	*alpha, beta, gamma, delta, 2 * 52000 + 2 * 39000 + 2 * 30000 + 2 * 24000, SDS-PAGE
+MW	Pyrococcus furiosus	40000	*	*alpha, beta, 1 * 40000 + 1 * 20000, SDS-PAGE
+MW	Caldanaerobacter subterraneus subsp. tengcongensis	40000	*	*x * 69000 + x * 40000, + x * 32000, + x * 17000 + x + 14100 + x * 14700, SDS-PAGE
+MW	Tetradesmus obliquus	44000	*	*1 * 44000, SDS-PAGE
+MW	Tetradesmus obliquus	44500	*	*gel filtration and SDS-PAGE
+MW	Tetradesmus obliquus	44600	*	*calculated from amino acid sequence
+MW	Chlamydomonas reinhardtii	45000	*	*gel filtration
+MW	Chlorella fusca	45100	*	*calculated from amino acid sequence
+MW	Chlorococcum submarinum	45300	*	*calculated from amino acid sequence
+MW	Chlamydomonas moewusii	45400	*	*calculated from amino acid sequence
+MW	Pyrococcus furiosus	46000	*	*alpha, beta, gamma, 2 * 46000 + 2 * 27000 + 2 * 24000, SDS-PAGE
+MW	Desulfovibrio desulfuricans	46100	*	*1 * 46100 + 1 * 14000, calculated from amino acid sequence
+MW	Chlamydomonas reinhardtii	47300	*	*isozyme HydA2, calculated from amino acid sequence
+MW	Chlamydomonas reinhardtii	47500	*	*SDS-PAGE
+MW	Chlamydomonas reinhardtii	47500	*	*isozyme HydA1, calculated from amino acid sequence
+MW	Pyrococcus furiosus	47934	*	*x * 47934, calculated from sequence
+MW	Chlamydomonas reinhardtii	48000	*	*SDS- and native PAGE
+MW	Chlamydomonas reinhardtii	48000	*	*isozyme HydA1, SDS-PAGE
+MW	Desulfomicrobium baculatum	49000	*	*1 * 49000 + 1 * 26000, SDS-PAGE
+MW	Megasphaera elsdenii	49000	*	*gel filtration
+MW	Enterobacter cloacae	50000	*	*gel filtration
+MW	Enterobacter cloacae	50800	*	*1 * 50000, gel filtration and SDS-PAGE, 1 * 50800, mass spectrometry
+MW	Pyrococcus furiosus	52000	*	*alpha, beta, gamma, delta, 2 * 52000 + 2 * 39000 + 2 * 30000 + 2 * 24000, SDS-PAGE
+MW	Megasphaera elsdenii	52000	*	*SDS-PAGE
+MW	Clostridium pasteurianum	53000	*	*hydrogenase II, SDS-PAGE
+MW	Clostridium pasteurianum	53000	*	*hydrogenase II, SDS-PAGE
+MW	Megasphaera elsdenii	53600	*	*calculated from amino acid sequence
+MW	Alvikia littoralis	55000	*	*SDS-PAGE
+MW	Clostridium pasteurianum	55000	*	*gel filtration
+MW	Alvikia littoralis	57000	*	*gel filtration
+MW	Methanosarcina barkeri	57000	*	*alpha, beta, 1 * 57000 + 1 * 35000, SDS-PAGE
+MW	Clostridium pasteurianum	60000	*	*gel filtration, hydrogenase I
+MW	Clostridium pasteurianum	60500	*	*SDS-PAGE
+MW	Clostridium pasteurianum	63800	*	*calculated from amino acid sequence
+MW	Acidithiobacillus ferrooxidans	64000	*	*1 * 64000 + 1 * 34000, SDS-PAGE
+MW	Clostridium acetobutylicum	64300	*	*calculated from amino acid sequence
+MW	Sporomusa sphaeroides	65000	*	*1 * 65000 + 1 * 37000, SDS-PAGE
+MW	Desulfovibrio vulgaris	66400	*	*1 * 66400 + 1 * 32300, SDS-PAGE
+MW	Caldanaerobacter subterraneus subsp. tengcongensis	69000	*	*x * 69000 + x * 40000, + x * 32000, + x * 17000 + x + 14100 + x * 14700, SDS-PAGE
+MW	Tetraselmis sp. KSN-2002	70000	*	*1 * 19000 + 1 * 70000, SDS-PAGE
+MW	Pyrococcus furiosus	85000	*	*gel filtration, engineered minimal catalytically active 4-subunit subcomplex of respiratory membrane-bound hydrogenase
+MW	Tetraselmis sp. KSN-2002	89000	*	*SDS-PAGE
+MW	Methanosarcina barkeri	98000	*	*gel filtration
+MW	Acidithiobacillus ferrooxidans	100000	*	*native PAGE
+MW	Methanococcus maripaludis	110000	*	*native Ehb complex, gel filtration
+MW	Sporomusa sphaeroides	122000	*	*native PAGE
+MW	Sporomusa sphaeroides	130000	*	*gel filtration
+MW	Pyrococcus furiosus	185000	*	*gel filtration
+MW	Pyrococcus furiosus	310000	*	*gel filtration
+MW	Pyrococcus furiosus	320000	*	*gel filtration
+MW	Methanococcus maripaludis	360000	*	*Ehb complex, calculated from amino acid sequence
+PATH	*	hydrogen production	*	*
+PATH	*	hydrogen production III	*	*
+PATH	*	hydrogen production VI	*	*
+PATH	*	hydrogen production VIII	*	*
+PATH	*	L-glutamate degradation VII (to butanoate)	*	*
+PATH	*	superpathway of fermentation (Chlamydomonas reinhardtii)	*	*
+SA	Pyrococcus furiosus	0.004	*	*hydrogen oxidation, benzyl viologen as electron acceptor
+SA	Pyrococcus furiosus	0.02	*	*hydrogen production, oxidized ferredoxin as electron donor, hydrogenase II
+SA	Tetraselmis sp. KSN-2002	0.107	*	*crude extract
+SA	Pyrococcus furiosus	0.2	*	*sulfur reduction, hydrogenase II
+SA	Enterobacter cloacae	0.26	*	*crude extract
+SA	Methanosarcina barkeri	0.69	*	*hydrogen oxidation, methylene blue as electron acceptor
+SA	Pyrococcus furiosus	0.98	*	*hydrogen production, sodium dithionite as electron donor, hydrogenase II
+SA	Clostridium pasteurianum	3.5	*	*hydrogen production, methyl viologen as electron donor, hydrogenase II
+SA	Clostridium pasteurianum	5	*	*hydrogen evolution
+SA	Acidithiobacillus ferrooxidans	6.02	*	*hydrogen oxidation, methylene blue as electron acceptor
+SA	Methanosarcina barkeri	7.8	*	*hydrogen oxidation, phenosafranine as electron acceptor
+SA	Pyrococcus furiosus	9.4	*	*hydrogen evolution, reduced methyl viologen as electron donor
+SA	Pyrococcus furiosus	11	*	*hydrogen oxidation, methyl viologen as electron acceptor, hydrogenase II
+SA	Clostridium pasteurianum	11	*	*hydrogen production, methylene blue as electron donor, hydrogenase I
+SA	Sporomusa sphaeroides	19.8	*	*hydrogen oxidation, benzyl viologen as electron acceptor
+SA	Clostridium acetobutylicum	28	*	*recombinant, purified enzyme
+SA	Caldanaerobacter subterraneus subsp. tengcongensis	38.5	*	*reduction of metronidiazole
+SA	Pyrococcus furiosus	40	*	*hydrogen production, methyl viologen as electron donor, hydrogenase II
+SA	Methanosarcina barkeri	45	*	*hydrogen production, methyl viologen as electron donor
+SA	Methanosarcina barkeri	50	*	*hydrogen oxidation, ferredoxin as electron acceptor
+SA	Tetraselmis sp. KSN-2002	50	*	*after 467.2fold purification
+SA	Methanosarcina barkeri	53	*	*hydrogen oxidation, methyl viologen as electron acceptor
+SA	Clostridium pasteurianum	61	*	*hydrogen oxidation, methylene blue as electron acceptor, hydrogenase I
+SA	Alvikia littoralis	75.7	*	*hydrogen evolution, reduced methyl viologen as electron donor
+SA	Desulfovibrio vulgaris	89	*	*hydrogen production, methyl viologen as electron donor
+SA	Methanosarcina barkeri	90	*	*hydrogen evolution, ferredoxin as electron donor
+SA	Clostridium pasteurianum	94	*	*hydrogen mediated selenite reduction
+SA	Methanosarcina barkeri	96	*	*hydrogen oxidation, benzyl viologen as electron acceptor
+SA	Clostridium pasteurianum	98.6	*	*hydrogen oxidation, methyl viologen as electron acceptor
+SA	Methanosarcina barkeri	120	*	*hydrogen oxidation, methyl viologen as electron acceptor
+SA	Cupriavidus necator	121	*	*hydrogen oxidation
+SA	Methanosarcina barkeri	123	*	*hydrogen oxidation, methylene blue as electron acceptor
+SA	Pyrococcus furiosus	131	*	*hydrogen oxidation, benzyl viologen as electron acceptor, hydrogenase II
+SA	Desulfovibrio vulgaris	174	*	*hydrogen oxidation, benzyl viologen as electron acceptor
+SA	Methanosarcina barkeri	210	*	*hydrogen oxidation, benzyl viologen as electron acceptor
+SA	Enterobacter cloacae	335	*	*1284fold purified enzyme
+SA	Caldanaerobacter subterraneus subsp. tengcongensis	391	*	*reduction of methyl viologen
+SA	Clostridium pasteurianum	400	*	*hydrogen oxidation, methyl viologen as electron acceptor
+SA	Megasphaera elsdenii	510	*	*reaction with methyl viologen
+SA	Tetradesmus obliquus	700	*	*hydrogen evolution
+SA	Chlamydomonas reinhardtii	935	*	*hydrogen production, reduced methyl viologen as electron donor
+SA	Caldanaerobacter subterraneus subsp. tengcongensis	1260	*	*oxidation of methyl viologen
+SA	Megasphaera elsdenii	1470	*	*after addition of 1 M NaCl, reaction with methyl viologen
+SA	Chlamydomonas reinhardtii	1800	*	*hydrogen production, ferredoxin as electron donor
+SA	Clostridium pasteurianum	2998	*	*hydrogen oxidation, methylene blue as electron acceptor, hydrogenase II
+SA	Clostridium pasteurianum	4000	*	*hydrogen evolution, ferredoxin and 1 mM methyl viologen as electron donors
+SA	Clostridium pasteurianum	17600	*	*hydrogen oxidation, methylene blue as electron acceptor, hydrogenase II

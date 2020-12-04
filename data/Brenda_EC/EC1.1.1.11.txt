@@ -1,0 +1,69 @@
+KCAT	Gluconobacter oxydans	13.4	ribitol	*; pH 8.5, 25&deg;C
+KCAT	Gluconobacter oxydans	16.3	glycerol	*; pH 8.5, 25&deg;C
+KCAT	Gluconobacter oxydans	19.7	D-sorbitol	*; pH 8.5, 25&deg;C
+KCAT	Gluconobacter oxydans	35.3	D-mannitol	*; pH 8.5, 25&deg;C
+KCAT	Gluconobacter oxydans	177.2	xylitol	*; pH 8.5, 25&deg;C
+KCAT	Gluconobacter oxydans	876	D-arabinitol	*pH 8.5, 25&deg;C
+KCAT	Gluconobacter oxydans	876	D-arabitol	*
+KM	Klebsiella aerogenes	0.036	NADH	*
+KM	Klebsiella aerogenes	0.036	NADH	*
+KM	Klebsiella aerogenes	0.04	NAD+	*
+KM	Candida tropicalis	0.12	NAD+	*
+KM	Scheffersomyces stipitis	0.2	NAD+	*
+KM	Klebsiella aerogenes	1.14	D-xylulose	*
+KM	Klebsiella aerogenes	2	D-xylulose	*
+KM	Klebsiella aerogenes	3.5	D-arabinitol	*
+KM	Gluconobacter oxydans	4.5	D-arabinitol	*pH 8.5, 25&deg;C
+KM	Gluconobacter oxydans	4.5	D-arabitol	*
+KM	Klebsiella aerogenes	6.1	D-mannitol	*
+KM	Gluconobacter oxydans	18.5	xylitol	*
+KM	Klebsiella aerogenes	20	D-arabinitol	*
+KM	Scheffersomyces stipitis	20	D-arabinitol	*
+KM	Candida tropicalis	39.8	D-arabinitol	*
+KM	Klebsiella aerogenes	70	D-mannitol	*
+KM	Gluconobacter oxydans	78.5	D-mannitol	*; pH 8.5, 25&deg;C
+KM	Gluconobacter oxydans	127.3	D-sorbitol	*; pH 8.5, 25&deg;C
+KM	Gluconobacter oxydans	133.6	glycerol	*; pH 8.5, 25&deg;C
+KM	Gluconobacter oxydans	177.2	xylitol	*pH 8.5, 25&deg;C
+KM	Gluconobacter oxydans	242.8	ribitol	*; pH 8.5, 25&deg;C
+MW	Gluconobacter oxydans	28000	*	*4 * 28500, calculated, 4 * 28000, SDS-PAGE
+MW	Gluconobacter oxydans	28500	*	*4 * 28500, calculated, 4 * 28000, SDS-PAGE; native aArDH, 2 * 28500, SDS-PAGE; recombinant aArDH, 2 * 28500, SDS-PAGE
+MW	Scheffersomyces stipitis	30000	*	*4 * 30000, calculated from gene sequence and molecular weight of native enzyme
+MW	Candida albicans	30643	*	*x * 30643, calculated from gene sequence
+MW	Candida tropicalis	30748	*	*x * 30748, gene sequence
+MW	Candida tropicalis	31000	*	*x * 31000, SDS-PAGE
+MW	Candida tropicalis	31000	*	*x * 31000, SDS-PAGE
+MW	Klebsiella aerogenes	43000	*	*gel filtration, ultracentrifugation
+MW	Klebsiella aerogenes	44000	*	*sedimentation equilibrium
+MW	Klebsiella aerogenes	46000	*	*calculated from amino acid composition
+MW	Klebsiella aerogenes	46500	*	*1 * 46500, SDS-PAGE
+MW	Scheffersomyces stipitis	110000	*	*native gradient PAGE
+MW	Gluconobacter oxydans	140000	*	*gel filtration
+PATH	*	D-arabitol degradation	*	*
+PATH	*	degradation of sugar alcohols	*	*
+PATH	*	Fructose and mannose metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Pentose and glucuronate interconversions	*	*
+SA	Klebsiella aerogenes	-999	*	*grown on medium with D-arabinitol, specific activity of crude cell extract: 1.13-3.47
+SA	Gluconobacter oxydans	0.14	*	*crude extract
+SA	Candida albicans	0.17	*	*lysates of Escherichia coli, transformed with enzyme gene
+SA	Scheffersomyces stipitis	0.2	*	*D-xylulose, of recombinant protein
+SA	Candida albicans	0.37	*	*lysates of Saccharomyces cerevisiae, transformed with enzyme gene
+SA	Gluconobacter oxydans	0.55	*	*recombinant aArDH with meso-erythritol as substrate
+SA	Scheffersomyces stipitis	0.78	*	*
+SA	Gluconobacter oxydans	0.87	*	*recombinant aArDH with ethanol as substrate
+SA	Gluconobacter oxydans	1.5	*	*recombinant aArDH with ribitol as substrate
+SA	Gluconobacter oxydans	2.1	*	*recombinant aArDH with glycerol as substrate
+SA	Gluconobacter oxydans	2.5	*	*recombinant aArDH with D-fructose as substrate
+SA	Gluconobacter oxydans	2.8	*	*recombinant aArDH with D-sorbitol as substrate
+SA	Gluconobacter oxydans	4.2	*	*recombinant aArDH with D-mannitol as substrate
+SA	Klebsiella aerogenes	7.5	*	*
+SA	Gluconobacter oxydans	12.6	*	*recombinant aArDH with xylitol as substrate
+SA	Gluconobacter oxydans	16.4	*	*recombinant aArDH with D-xylulose as substrate
+SA	Gluconobacter oxydans	16.66	*	*119fold purified enzyme
+SA	Klebsiella aerogenes	37.1	*	*
+SA	Klebsiella aerogenes	56	*	*
+SA	Scheffersomyces stipitis	68.25	*	*D-arabinitol, of recombinant protein
+SA	Gluconobacter oxydans	68.5	*	*pH 8.5, 25&deg;C; recombinant aArDH with 100 mM D-arabitol as substrate
+SA	Candida tropicalis	96	*	*
+SA	Candida tropicalis	187	*	*of recombinant protein

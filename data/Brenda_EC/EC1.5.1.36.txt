@@ -1,0 +1,63 @@
+KCAT	Corynebacterium crenatum	0.0247	NADH	*with FMN, pH 7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Corynebacterium crenatum	0.0357	NADH	*with FAD, pH 7.5, 30&Acirc;&deg;C, recombinant enzyme
+KCAT	Escherichia coli	40	NADH	*recombinant enzyme Fre, pH 7.0, 37&Acirc;&deg;C
+KCAT	Acinetobacter baylyi	64	NADH	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme, with FAD
+KCAT	Escherichia coli	178	NADH	*recombinant enzyme HpaC, pH 7.0, 30&Acirc;&deg;C
+KCAT	Escherichia coli	40	FAD	*recombinant enzyme Fre, pH 7.0, 37&Acirc;&deg;C
+KCAT	Acinetobacter baylyi	56	FAD	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme, with NADH
+KCAT	Escherichia coli	178	FAD	*recombinant enzyme HpaC, pH 7.0, 30&Acirc;&deg;C
+KCAT	Photobacterium leiognathi	1.7	FMN	*at 4&Acirc;&deg;C in 50 mM Tris-Cl buffer, pH 8.0
+KCAT	Acinetobacter baylyi	7.8	FMN	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme, with NADH
+KCAT	Acinetobacter baylyi	21	riboflavin	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme, with NADH
+KM	Pseudomonas putida	0.008	NADH	*pH 7.2, 37&Acirc;&deg;C
+KM	Corynebacterium crenatum	0.0084	NADH	*with FMN, pH 7.5, 30&Acirc;&deg;C, recombinant enzyme
+KM	Corynebacterium crenatum	0.0141	NADH	*with FAD, pH 7.5, 30&Acirc;&deg;C, recombinant enzyme
+KM	Photobacterium leiognathi	0.015	NADH	*at 4&Acirc;&deg;C in 50 mM Tris-Cl buffer, pH 8.0
+KM	Acinetobacter baylyi	0.024	NADH	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme, with FAD
+KM	Escherichia coli	0.04	NADH	*pH and temperature not specified in the publication
+KM	Escherichia coli W	0.04	NADH	*pH 7.8, 22&Acirc;&deg;C, the value is obtained with FMN as electron acceptor
+KM	Escherichia coli	0.076	NADH	*recombinant enzyme HpaC, pH 7.0, 30&Acirc;&deg;C
+KM	Mycolicibacterium goodii	0.0779	NADH	*purified enzyme, at pH 7.0 and 55&Acirc;&deg;C
+KM	Escherichia coli	0.183	NADH	*recombinant enzyme Fre, pH 7.0, 37&Acirc;&deg;C
+KM	Escherichia coli	0.0008	FAD	*recombinant enzyme Fre, pH 7.0, 37&Acirc;&deg;C
+KM	Escherichia coli	0.003	FAD	*recombinant enzyme HpaC, pH 7.0, 30&Acirc;&deg;C
+KM	Escherichia coli	0.0031	FAD	*pH and temperature not specified in the publication
+KM	Escherichia coli W	0.0031	FAD	*pH 7.8, 22&Acirc;&deg;C, the value is obtained with NADH as the electron donor
+KM	Acinetobacter baylyi	0.0044	FAD	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme, with NADH
+KM	Pseudomonas putida	0.056	FAD	*pH 7.2, 37&Acirc;&deg;C
+KM	Escherichia coli	0.0021	FMN	*pH and temperature not specified in the publication
+KM	Escherichia coli W	0.0021	FMN	*pH 7.8, 22&Acirc;&deg;C, the value is obtained with NADH as the electron donor
+KM	Photobacterium leiognathi	0.0027	FMN	*at 4&Acirc;&deg;C in 50 mM Tris-Cl buffer, pH 8.0
+KM	Acinetobacter baylyi	0.0055	FMN	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme, with NADH
+KM	Mycolicibacterium goodii	0.0066	FMN	*purified enzyme, at pH 7.0 and 55&Acirc;&deg;C
+KM	Lactobacillus johnsonii	0.03	FMN	*pH 7.0, 37&Acirc;&deg;C
+KM	Escherichia coli	0.0026	riboflavin	*pH and temperature not specified in the publication
+KM	Escherichia coli W	0.0026	riboflavin	*pH 7.8, 22&Acirc;&deg;C, the value is obtained with NADH as the electron donor
+KM	Acinetobacter baylyi	0.011	riboflavin	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme, with NADH
+KM	Escherichia coli	-999	more	*kinetics, binding studies of HpaC and HpaB
+KM	Acinetobacter baylyi	-999	more	*Michaelis-Menten kinetics
+KM	Paracoccus denitrificans	-999	more	*bi-substrate kinetic analysis, stopped-flow kinetic measurements, detailed overview
+MW	Mycolicibacterium goodii	16989	*	*2 * 16989, calculated from amino acid sequence
+MW	Mycolicibacterium goodii	17000	*	*2 * 17000, SDS-PAGE
+MW	Pseudomonas putida	18000	*	*SDS-PAGE
+MW	Escherichia coli W	18522	*	*2 * 18522, small component of the 4-hydroxyphenylacetate 3-monooxygenase, calculated from sequence
+MW	Escherichia coli	18600	*	*2 * 18600, HpaC, the recombinant small component of the 4-hydroxyphenylacetate 3-monooxygenase is a homodimer, calculated from sequence
+MW	Escherichia coli W	18679	*	*2 * 18679, calculated from sequence
+MW	Pseudomonas aeruginosa	19400	*	*x * 19400, calculated from amino acid sequence
+MW	Escherichia coli	20000	*	*2 * 20000, HpaC, the recombinant small component of the 4-hydroxyphenylacetate 3-monooxygenase is a homodimer, SDS-PAGE
+MW	Escherichia coli W	20000	*	*2 * 20000, SDS-PAGE
+MW	Mycolicibacterium goodii	39000	*	*gel filtration
+MW	Clostridium scindens	210000	*	*non-denaturing PAGE
+MW	Clostridium scindens	210000	*	*gel filtration
+PATH	*	Metabolic pathways	*	*
+PATH	*	Riboflavin metabolism	*	*
+SA	Escherichia coli	-999	*	*activity in a coupled assay of HpaB and HpaC
+SA	Lactobacillus johnsonii	0.2	*	*crude cell extract, about, with FAD, or FMN, or riboflavin, and NADH, pH 7.0, 37&Acirc;&deg;C
+SA	Escherichia coli	0.318	*	*strain W-KO, recombinant enzyme Fre, growth on 4-hydroxyphenylacetate as carbon source
+SA	Mycolicibacterium goodii	0.6	*	*using riboflavin and NADPH as substrates, at pH 7.0 and 55&Acirc;&deg;C
+SA	Mycolicibacterium goodii	0.8	*	*using FAD and NADPH as substrates, at pH 7.0 and 55&Acirc;&deg;C
+SA	Mycolicibacterium goodii	1.3	*	*using FMN and NADPH as substrates, at pH 7.0 and 55&Acirc;&deg;C
+SA	Escherichia coli	25.1	*	*strain W-KO, recombinant enzyme HpaC, growth on 4-hydroxyphenylacetate as carbon source
+SA	Mycolicibacterium goodii	36	*	*using riboflavin and NADH as substrates, at pH 7.0 and 55&Acirc;&deg;C
+SA	Mycolicibacterium goodii	189	*	*using FAD and NADH as substrates, at pH 7.0 and 55&Acirc;&deg;C
+SA	Mycolicibacterium goodii	617	*	*using FMN and NADH as substrates, at pH 7.0 and 55&Acirc;&deg;C

@@ -1,0 +1,70 @@
+KM	Solanum tuberosum	-999	more	*kinetics with lysophospholipid substrates
+KM	Homo sapiens	-999	more	*steady-state kinetics and kinetic mechanism, overview. Kinetic parameters for ATP-induced activation of 5-LOX
+KM	Homo sapiens	-999	more	*Michaelis-Menten steady-state kinetics, kinetic isotope effect of 5-LOX, detailed overview. The reaction of 5-LOX with unlabeled arachidonate generates products from hydrogen abstraction at C7 (95% 5-HETE) with minor products derived from abstraction at C10 (5% 8-HETE). With 7,7-d2-arachidonate the selectivity remains skewed towards C7 hydrogen abstraction (59%) compared to C10 hydrogen abstraction products (41% 8-HETE), but the selectivity is significantly reduced compared to unlabeled arachidonate. 5-LOX exhibits isotope sensitive branching, shift in regiospecificity induced by deuterium-labeling. Dependence of the steady-state velocity on arachidonate concentration follows Michaelis-Menten kinetics up to 0.04-0.05 mM, effects of temperature and viscosity
+KM	Solanum tuberosum	0.002	1-linoleoyl lysophosphatidic acid	*pH 6.3, 25&deg;C
+KM	Solanum tuberosum	0.003	1-linoleoyl lysophosphatidylcholine	*pH 6.3, 25&deg;C
+KM	Solanum tuberosum	0.004	linoleic acid	*pH 6.3, 25&deg;C
+KM	Homo sapiens	0.0051	arachidonate	*reaction mixture contains 1 mM DTT, 1 mM ATP, 2 mM CaCl2, and 0.01 mM indomethacin in phosphate buffered saline, at 37&deg;C
+KM	Homo sapiens	0.0093	7,7-d2-arachidonate	*pH 7.5, 25&deg;C, HPLC analysis, 8-HETE formation
+KM	Homo sapiens	0.01144	7,7-d2-arachidonate	*pH 7.5, 25&deg;C, UV-Vis spectrophotometric analysis
+KM	Homo sapiens	0.012	arachidonic acid	*
+KM	Cavia porcellus	0.013	5,8,11,14,17-eicosapentaenoic acid	*
+KM	Homo sapiens	0.014	(5S,6E,8Z,11Z,14Z)-5-hydroperoxyicosa-6,8,11,14-tetraenoate	*pH 7.5, 21&deg;C, recombinant enzyme
+KM	Glycine max	0.015	arachidonic acid	*
+KM	Rattus norvegicus	0.017	arachidonic acid	*
+KM	Homo sapiens	0.019	(5S,6E,8Z,11Z,14Z)-5-hydroperoxyicosa-6,8,11,14-tetraenoate	*pH 7.5, 21&deg;C, recombinant enzyme, with 0.2 mM ATP
+KM	Homo sapiens	0.019	arachidonate	*pH 7.5, 21&deg;C, recombinant enzyme
+KM	Cavia porcellus	0.019	arachidonic acid	*
+KM	Mus musculus	0.02	arachidonate	*wild-type, pH and temperature not specified in the publication
+KM	Hordeum vulgare	0.022	arachidonic acid	*
+KM	Homo sapiens	0.0223	arachidonate	*pH 7.5, 25&deg;C, UV-Vis spectrophotometric analysis
+KM	Rattus norvegicus	0.024	5,8,11,14,17-eicosapentaenoic acid	*
+KM	Rattus norvegicus	0.0258	arachidonic acid	*
+KM	Homo sapiens	0.0285	arachidonate	*pH 7.5, 25&deg;C, HPLC analysis, 8-HETE formation
+KM	Solanum tuberosum	0.03	arachidonic acid	*
+KM	Rattus norvegicus	0.032	5,8,11-eicosatrienoic acid	*
+KM	Solanum tuberosum	0.033	arachidonic acid	*
+KM	Solanum tuberosum	0.038	arachidonic acid	*
+KM	Solanum tuberosum	0.039	linoleic acid	*
+KM	Glycine max	0.039	linoleic acid	*
+KM	Solanum tuberosum	0.05	bishomo-gamma-linolenic acid	*
+KM	Homo sapiens	0.053	arachidonate	*pH 7.5, 21&deg;C, recombinant enzyme, with 0.2 mM ATP
+KM	Mus musculus	0.06	arachidonate	*mutant DELTA1-114, pH and temperature not specified in the publication
+KM	Cavia porcellus	0.09	8,11,14-eicosatrienoic acid	*
+KM	Rattus norvegicus	0.182	arachidonic acid	*
+KM	Solanum tuberosum	0.2	linoleic acid	*
+MW	Homo sapiens	13800	*	*isolated enzyme PLAT domain, gel filtration
+MW	Solanum tuberosum	35000	*	*x * 35000, enzyme form L2, SDS-PAGE
+MW	Mus musculus	50000	*	*gel filtration
+MW	Sus scrofa	72000	*	*x * 72000, SDS-PAGE
+MW	Sus scrofa	72000	*	*x * 72000, SDS-PAGE
+MW	Sus scrofa	72000	*	*x * 72000, SDS-PAGE
+MW	Rattus norvegicus	73000	*	*x * 73000, SDS-PAGE
+MW	Mus musculus	75000	*	*x * 75000, SDS-PAGE
+MW	Homo sapiens	78000	*	*SDS-PAGE
+MW	Homo sapiens	80000	*	*x * 80000, SDS-PAGE
+MW	Tulipa hybrid cultivar	83000	*	*x * 83000, upon storage degraded into a lower molecular mass protein of 36000 Da, SDS-PAGE
+MW	Solanum tuberosum	85000	*	*enzyme form L1 and L2, gel filtration
+MW	Solanum tuberosum	92000	*	*x * 92000, SDS-PAGE
+PATH	*	15-epi-lipoxin biosynthesis	*	*
+PATH	*	anandamide lipoxygenation	*	*
+PATH	*	Arachidonic acid metabolism	*	*
+PATH	*	arachidonic acid metabolism	*	*
+PATH	*	aspirin triggered resolvin D biosynthesis	*	*
+PATH	*	aspirin triggered resolvin E biosynthesis	*	*
+PATH	*	leukotriene biosynthesis	*	*
+PATH	*	lipoxin biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	resolvin D biosynthesis	*	*
+SA	Solanum tuberosum	-999	*	*assay methods
+SA	Homo sapiens	-999	*	*
+SA	Mus musculus	-999	*	*
+SA	Homo sapiens	-999	*	*
+SA	Homo sapiens	0.006	*	*
+SA	Cavia porcellus	0.0069	*	*
+SA	Sus scrofa	1	*	*
+SA	Tulipa hybrid cultivar	5.2	*	*
+SA	Solanum tuberosum	5.7	*	*enzyme form L2
+SA	Solanum tuberosum	13.7	*	*enzyme form L1
+SA	Solanum tuberosum	21.9	*	*commercial prearation
+SA	Solanum tuberosum	147	*	*

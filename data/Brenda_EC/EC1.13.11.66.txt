@@ -1,0 +1,50 @@
+KCAT	Sphingobium chlorophenolicum	1.4	O2	*cosubstrate 2,6-dimethylhydroquinone, pH 7.0, 23&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	1.6	O2	*cosubstrate 2-chloro-6-methylhydroquinone, 1,2-cleavage, pH 7.0, 23&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	1.8	O2	*cosubstrate 2-chloro-6-methylhydroquinone, 1,6-cleavage, pH 7.0, 23&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	2.2	O2	*cosubstrate 2,6-dibromohydroquinone, pH 7.0, 23&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	4.8	O2	*cosubstrate 2,6-dichlorohydroquinone, pH 7.0, 23&Acirc;&deg;C
+KCAT	Pseudomonas fluorescens	2.1	hydroquinone	*pH 7.0, 25&Acirc;&deg;C
+KCAT	Sphingomonas sp.	13.5	hydroquinone	*pH 7.0, 25&Acirc;&deg;C; pH 7.0, 25&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	3.05	2,6-dichlorohydroquinone	*pH 7.0, 23&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	2.1	2,6-dichloro-p-hydroquinone	*pH 6.7, 22&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	1.61	2,6-dibromohydroquinone	*pH 7.0, 23&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	1.25	2,6-dimethylhydroquinone	*pH 7.0, 23&Acirc;&deg;C
+KCAT	Sphingobium chlorophenolicum	2.41	2-chloro-6-methylhydroquinone	*pH 7.0, 23&Acirc;&deg;C
+KM	Sphingobium chlorophenolicum	0.0013	2,6-dibromohydroquinone	*pH 7.0, 23&deg;C
+KM	Sphingomonas sp.	0.0022	hydroquinone	*pH 7.0, 25&deg;C; pH 7.0, 25&deg;C
+KM	Sphingobium chlorophenolicum	0.0032	2,6-dichlorohydroquinone	*pH 7.0, 23&deg;C
+KM	Sphingobium chlorophenolicum	0.0044	2-chloro-6-methylhydroquinone	*pH 7.0, 23&deg;C
+KM	Sphingobium chlorophenolicum	0.0085	bromohydroquinone	*pH 7.0, 23&deg;C
+KM	Sphingobium chlorophenolicum	0.01	chlorohydroquinone	*pH 7.0, 23&deg;C
+KM	Sphingobium chlorophenolicum	0.0135	2,6-dichloro-p-hydroquinone	*pH 6.7, 22&deg;C
+KM	Sphingobium chlorophenolicum	0.021	O2	*cosubstrate 2-chloro-6-methylhydroquinone, 1,2-cleavage, pH 7.0, 23&deg;C
+KM	Pseudomonas fluorescens	0.037	hydroquinone	*pH 7.0, 25&deg;C
+KM	Sphingobium chlorophenolicum	0.041	methylhydroquinone	*pH 7.0, 23&deg;C
+KM	Sphingobium chlorophenolicum	0.055	2,6-dimethylhydroquinone	*pH 7.0, 23&deg;C
+KM	Sphingobium chlorophenolicum	0.07	O2	*cosubstrate 2,6-dimethylhydroquinone, pH 7.0, 23&deg;C
+KM	Sphingobium chlorophenolicum	0.12	O2	*cosubstrate 2,6-dibromohydroquinone, pH 7.0, 23&deg;C
+KM	Sphingobium chlorophenolicum	0.19	O2	*cosubstrate 2,6-dichlorohydroquinone, pH 7.0, 23&deg;C
+KM	Lactococcus lactis	0.2	2-methylhydroquinone	*pH 6.4, 30&deg;C, recombinant enzyme
+KM	Cupriavidus necator	0.255	hydroquinone	*pH 7.4, temperature not specified in the publication
+KM	Sphingobium chlorophenolicum	0.26	O2	*cosubstrate 2-chloro-6-methylhydroquinone, 1,6-cleavage, pH 7.0, 23&deg;C
+MW	Pseudomonas fluorescens	17800	*	*2 * 17800, alpha-subunit, + 2 * 38300, beta-subunit
+MW	Pseudomonas sp.	18000	*	*SDS-PAGE
+MW	Sphingomonas sp.	19000	*	*2 * 38000, large subunit, + 2 * 19000, small subunit; 2 * 38000, large subunit, + 2 * 19000, small subunit
+MW	Pseudomonas putida	19000	*	*x * 19000, subunit PnpC1
+MW	Cupriavidus necator	34000	*	*x * 34000, SDS-PAGE
+MW	Sphingomonas paucimobilis	36000	*	*x * 36000, SDS-PAGE
+MW	Sphingobium chlorophenolicum	36522	*	*x * 36522, electrospray LC-MS
+MW	Sphingomonas sp.	38000	*	*2 * 38000, large subunit, + 2 * 19000, small subunit; 2 * 38000, large subunit, + 2 * 19000, small subunit
+MW	Pseudomonas putida	38000	*	*x * 38000, subunit PnpC2
+MW	Pseudomonas fluorescens	38300	*	*2 * 17800, alpha-subunit, + 2 * 38300, beta-subunit
+MW	Pseudomonas fluorescens	112000	*	*gel filtration
+MW	Sphingomonas sp.	120000	*	*gel filtration; gel filtration
+PATH	*	4-hydroxyacetophenone degradation	*	*
+PATH	*	4-nitrophenol degradation I	*	*
+PATH	*	Chlorocyclohexane and chlorobenzene degradation	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Sphingomonas paucimobilis	0.27	*	*crude extract, substrate hydroquinone, pH 7.0, 37&deg;C
+SA	Sphingomonas paucimobilis	0.88	*	*crude extract, substrate 2-chlorohydroquinone, pH 7.0, 37&deg;C
+SA	Cupriavidus necator	3.1	*	*pH 7.4, temperature not specified in the publication
+SA	Pseudomonas fluorescens	5.89	*	*pH 7.0, 25&deg;C
+SA	Sphingomonas sp.	6.1	*	*pH 7.0, 25&deg;C; pH 7.0, 25&deg;C

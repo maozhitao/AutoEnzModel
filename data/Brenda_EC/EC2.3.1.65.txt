@@ -1,0 +1,56 @@
+KCAT	Bos taurus	-999	more	*higher kcat for glycine than for taurine
+KCAT	Bos taurus	-999	more	*higher kcat for glycine than for taurine
+KM	Bos taurus	-999	more	*
+KM	Bos taurus	-999	more	*
+KM	Rattus norvegicus	-999	more	*
+KM	Bos taurus	0.0072	choloyl-CoA	*
+KM	Homo sapiens	0.05	choloyl-CoA	*+ 60 mM glycine
+KM	Homo sapiens	0.087	choloyl-CoA	*+ 40 mM taurine
+KM	Homo sapiens	0.6	taurine	*
+KM	Rattus norvegicus	0.8	taurine	*
+KM	Rattus norvegicus	0.8	aminomethanesulfonate	*+ 0.05 mM deoxycholoyl-CoA
+KM	Rattus norvegicus	0.8	taurine	*+ 0.05 mM deoxycholoyl-CoA
+KM	Rattus norvegicus	0.83	taurine	*rats fed with cellulose
+KM	Homo sapiens	1	taurine	*37&deg;C, pH 8.4
+KM	Rattus norvegicus	1.02	taurine	*rats fed with pectin
+KM	Mus musculus	1.9	taurine	*recombinant enzyme, expressed in Escherichia coli
+KM	Homo sapiens	2	2-fluoro-beta-alanine	*37&deg;C, pH 8.4
+KM	Homo sapiens	2	aminomethanesulfonic acid	*37&deg;C, pH 8.4
+KM	Rattus norvegicus	2	taurine	*
+KM	Homo sapiens	3.2	glycine	*
+KM	Rattus norvegicus	4.4	glycine	*
+KM	Homo sapiens	5	glycine	*37&deg;C, pH 8.4
+KM	Bos taurus	6.7	taurine	*
+KM	Bos taurus	8.8	glycine	*
+KM	Rattus norvegicus	31	glycine	*+ 0.05 mM deoxycholoyl-CoA
+KM	Rattus norvegicus	35	glycine	*
+KM	Rattus norvegicus	38	glycine	*rats fed with cellulose
+KM	Rattus norvegicus	40	glycine	*rats fed with pectin
+KM	Rattus norvegicus	175	beta-Alanine	*
+MW	Bos taurus	-999	*	*amino acid composition
+MW	Mus musculus	45000	*	*x * 46525, calculated from the amino acid sequence, x * 45000, recombinant enzyme, SDS-PAGE
+MW	Canis lupus familiaris	45700	*	*gel filtration
+MW	Mus musculus	46525	*	*x * 46525, calculated from the amino acid sequence, x * 45000, recombinant enzyme, SDS-PAGE
+MW	Bos taurus	47000	*	*gel filtration
+MW	Homo sapiens	50000	*	*x * 50000, SDS-PAGE
+MW	Bos taurus	50900	*	*1 * 50900, SDS-PAGE
+MW	Homo sapiens	52000	*	*2 * 52000, SDS-PAGE
+MW	Gallus gallus	63000	*	*
+MW	Homo sapiens	100000	*	*gel filtration
+MW	Homo sapiens	118000	*	*sucrose density gradient centrifugation
+PATH	*	bile acid biosynthesis, neutral pathway	*	*
+PATH	*	bile acid biosynthesis, neutral pathway	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Primary bile acid biosynthesis	*	*
+PATH	*	Taurine and hypotaurine metabolism	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Canis lupus familiaris	0.0027	*	*
+SA	Homo sapiens	0.0635	*	*activity measured with taurine as substrate
+SA	Homo sapiens	0.42	*	*taurine
+SA	Homo sapiens	0.43	*	*glycine
+SA	Homo sapiens	1.041	*	*activity with choloyl-CoA anf glycine as substrates
+SA	Rattus norvegicus	1.99	*	*taurine
+SA	Rattus norvegicus	3.88	*	*glycine
+SA	Bos taurus	35.2	*	*taurine
+SA	Bos taurus	43	*	*glycine
+SA	Bos taurus	46.9	*	*glycine

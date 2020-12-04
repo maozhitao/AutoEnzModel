@@ -1,0 +1,25 @@
+KCAT	Senecio vernalis	0.0032	putrescine	*+ spermidine
+KM	Eupatorium cannabinum	0.003	NAD+	*NAD+ functions as an enzyme-bound redoxsystem that is reduced in the first and reoxidized in the second part of the overall reaction. It functions as a coenzyme and not a cosubstrate
+KM	Eupatorium cannabinum	0.012	spermidine	*at 0.1 mM putrescine
+KM	Eupatorium cannabinum	0.0135	putrescine	*in the absence of spermidine
+KM	Eupatorium cannabinum	0.015	putrescine	*at 0.1 mM spermidine
+KM	Senecio vernalis	-999	more	*
+MW	Senecio vernalis	40700	*	*4 * 40700, calculation from sequence of cDNA
+MW	Senecio vulgaris	40740	*	*4 * 40740, calculation from sequence of cDNA
+MW	Senecio vernalis	41000	*	*x * 41000, SDS-PAGE
+MW	Distimake quinquefolius	41300	*	*
+MW	Ipomoea alba	41500	*	*
+MW	Ipomoea meyeri	41500	*	*
+MW	Ipomoea hederifolia	41600	*	*x * 41600, about, sequence calculation
+MW	Ipomoea neei	41600	*	*x * 41600, about, sequence calculation
+MW	Senecio vernalis	44500	*	*4 * 44500, SDS-PAGE
+MW	Senecio vulgaris	45000	*	*4 * 45000, SDS-PAGE
+MW	Senecio vernalis	174000	*	*gel filtration
+PATH	*	homospermidine biosynthesis	*	*
+SA	Eupatorium cannabinum	0.0006	*	*
+SA	Eupatorium cannabinum	0.047	*	*
+SA	Ipomoea alba	0.047	*	*purified recombinant enzyme, pH and temperature not specified in the publication
+SA	Ipomoea neei	0.062	*	*purified recombinant enzyme, pH and temperature not specified in the publication
+SA	Ipomoea hederifolia	0.136	*	*purified recombinant enzyme, pH and temperature not specified in the publication
+SA	Distimake quinquefolius	0.138	*	*purified recombinant enzyme, pH and temperature not specified in the publication
+SA	Ipomoea meyeri	0.138	*	*purified recombinant enzyme, pH and temperature not specified in the publication

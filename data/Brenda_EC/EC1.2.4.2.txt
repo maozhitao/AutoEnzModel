@@ -1,0 +1,70 @@
+KCAT	Escherichia coli	-999	more	*
+KCAT	Komagataeibacter xylinus	-999	more	*
+KM	Sus scrofa	0.013	2-oxoglutarate	*
+KM	Neurospora crassa	0.07	2-oxoglutarate	*in presence of 0.0045 mM Ca2+
+KM	Brevibacterium flavum	0.076	2-oxoglutarate	*2-oxoglutarate dehydrogenase complex
+KM	Brevibacterium flavum	0.08	2-oxoglutarate	*2-oxoglutarate dehydrogenase complex
+KM	Escherichia coli	0.1	2-oxoglutarate	*
+KM	Brassica oleracea	0.116	2-oxoglutarate	*pH 7.0
+KM	Sus scrofa	0.117	2-oxoglutarate	*
+KM	Corynebacterium glutamicum	0.13	2-oxoglutarate	*in 50 mM TES (pH 7.7), 10 mM MgCl2, 3 mM L-cysteine, 2 mM NAD+, 0.9 mM thiamine diphosphate, 0.05 mM chlorpromazine, and 1.5 mM 2-oxoglutarate, temperature not specified in the publication
+KM	Saccharomyces cerevisiae	0.15	2-oxoglutarate	*
+KM	Azotobacter vinelandii	0.15	2-oxoglutarate	*
+KM	Acinetobacter sp.	0.27	2-oxoglutarate	*in presence of 0.2 mM AMP
+KM	Aspergillus niger	0.4	2-oxoglutarate	*
+KM	Acinetobacter sp.	0.43	2-oxoglutarate	*in presence of 0.2 M ADP
+KM	Neurospora crassa	0.47	2-oxoglutarate	*in presence of 0.0225 mM Ca2+
+KM	Brassica oleracea	0.564	2-oxoglutarate	*pH 7.4
+KM	Neurospora crassa	0.58	2-oxoglutarate	*in presence of 0.0023 mM Ca2+
+KM	Neurospora crassa	0.75	2-oxoglutarate	*in presence of 0.07 mM Ca2+
+KM	Neurospora crassa	0.8	2-oxoglutarate	*without Ca2+
+KM	Neurospora crassa	0.84	2-oxoglutarate	*in presence of 0.0012 mM Ca2+
+KM	Dictyostelium discoideum	1	2-oxoglutarate	*
+KM	Acinetobacter sp.	2.5	2-oxoglutarate	*in absence of added nucleotide
+KM	Homo sapiens	4	2-oxoglutarate	*
+KM	Escherichia coli	-999	more	*
+KM	Azotobacter vinelandii	-999	more	*two substrate-binding modes are revealed at different degrees of saturation of the enzyme with 2-oxoglutarate. At low substrate concentrations, 0.001-0.01 mM, the binding mainly depends on the interaction of the enzyme with the substrate carbonyl groups. At 0.1-1 mM the relative contribution of the 2-oxo group in the binding increases
+KM	Bos taurus	-999	more	*kinetic study, reaction of 2-oxoglutarate dehydrogenase complex
+MW	Escherichia coli	-999	*	*2400000 Da is the MW of the 2-oxoglutarate dehydrogenase complex
+MW	Brevibacterium flavum	-999	*	*7000000 Da is the MW of the 2-oxoglutarate dehydrogenase complex, gel filtration
+MW	Komagataeibacter xylinus	-999	*	*2600000 Da is the MW of the 2-oxoglutarate dehydrogenase complex, calculation from sedimentation and diffusion data
+MW	Sus scrofa	-999	*	*2700000 is the MW of the 2-oxoglutarate dehydrogenase complex, gel filtration; 2800000 Da is the MW of the 2-oxoglutarate dehydrogenase complex, calculation from sedimentation and diffusion data
+MW	Escherichia coli	-999	*	*2470000 Da is the MW of the 2-oxoglutarate dehydrogenase complex, sucrose density gradient centrifugation
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	30000	*	*x * 110000, about, E1o component, sequence calculation, x * 30000, recombinant N-terminal catalytic domain, SDS-PAGE
+MW	Rattus norvegicus	50000	*	*SDS-PAGE
+MW	Homo sapiens	52000	*	*x * 52000, E2, SDS-PAGE
+MW	Neurospora crassa	52900	*	*x * 52900, 2-oxoglutarate dehydrogenase subunit E1, SDS-PAGE
+MW	Komagataeibacter xylinus	100000	*	*4 * 100000, active 2-oxoglutarate dehydrogenase component, SDS-PAGE
+MW	Azotobacter vinelandii	103000	*	*x * 103000, 2-oxoglutarate dehydrogenase subunit, SDS-PAGE
+MW	Azotobacter vinelandii	103000	*	*x * 103000, 2-oxoglutarate dehydrogenase subunit, SDS-PAGE
+MW	Escherichia coli	104805	*	*x * 104805, 2-oxoglutarate dehydrogenase subunit, calculation from nucleotide sequence
+MW	Solanum tuberosum	105000	*	*x * 105000, SDS-PAGE
+MW	Azotobacter vinelandii	105687	*	*x * 105687, 2-oxoglutarate dehydrogenase subunit, calculation from nucleotide sequence
+MW	Bacillus subtilis	110000	*	*x * 110000, SDS-PAGE
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	110000	*	*x * 110000, about, E1o component, sequence calculation, x * 30000, recombinant N-terminal catalytic domain, SDS-PAGE
+MW	Rattus norvegicus	117400	*	*calculated from amino acid sequence
+MW	Corynebacterium glutamicum	140000	*	*OdhA, the E1 subunit of ODH
+MW	Escherichia coli	190000	*	*2-oxoglutarate dehydrogenase component, equilibrium sedimentation
+MW	Escherichia coli	210000	*	*2 * 105000, SDS-PAGE
+MW	Komagataeibacter xylinus	360000	*	*active 2-oxoglutarate dehydrogenase component, gel filtration
+PATH	*	2-oxoglutarate decarboxylation to succinyl-CoA	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Citrate cycle (TCA cycle)	*	*
+PATH	*	citric acid cycle	*	*
+PATH	*	Lysine degradation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Tryptophan metabolism	*	*
+PATH	*	vitamin B1 metabolism	*	*
+SA	Dictyostelium discoideum	-999	*	*specific activity of the 2-oxoglutarate dehydrogenase complex
+SA	Neurospora crassa	-999	*	*specific activity of the 2-oxoglutarate dehydrogenase complex
+SA	Escherichia coli	-999	*	*specific activity of the 2-oxoglutarate dehydrogenase complex
+SA	Komagataeibacter xylinus	-999	*	*specific activity of the 2-oxoglutarate dehydrogenase complex
+SA	Saccharomyces cerevisiae	-999	*	*specific activity of the 2-oxoglutarate dehydrogenase complex
+SA	Solanum tuberosum	-999	*	*specific activity of the 2-oxoglutarate dehydrogenase complex
+SA	Azotobacter vinelandii	-999	*	*specific activity of the 2-oxoglutarate dehydrogenase complex
+SA	Cavia porcellus	-999	*	*activity under different conditions in synaptosomes
+SA	Sus scrofa	-999	*	*
+SA	Bos taurus	0.1	*	*
+SA	Bos taurus	0.2	*	*
+SA	Rattus norvegicus	0.7	*	*

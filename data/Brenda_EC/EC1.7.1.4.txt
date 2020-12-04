@@ -1,0 +1,58 @@
+KCAT	Neurospora crassa	130	NO2-	*
+KM	Neurospora crassa	0.015	NADPH	*
+KM	Derxia gummosa	0.0063	NADH	*+ NO2-
+KM	Azotobacter chroococcum	0.015	NADH	*
+KM	Escherichia coli	0.016	NADH	*in presence of 1 mM NAD+ and 2 mM NO2-
+KM	Derxia gummosa	0.15	NADH	*+ hydroxylamine
+KM	Neurospora crassa	0.00002	FAD	*
+KM	Candida nitratophila	0.000045	FAD	*
+KM	Neurospora crassa	0.0001	FAD	*
+KM	Neurospora crassa	0.05	FAD	*
+KM	Neurospora crassa	0.05	FMN	*
+KM	Neurospora crassa	2.5	hydroxylamine	*
+KM	Escherichia coli	5.3	hydroxylamine	*
+KM	Derxia gummosa	5.3	hydroxylamine	*
+KM	Candida nitratophila	0.019	nitrite	*
+KM	Derxia gummosa	0.0048	NO2-	*
+KM	Escherichia coli	0.005	NO2-	*
+KM	Azotobacter chroococcum	0.0055	NO2-	*
+KM	Neurospora crassa	0.0075	NO2-	*
+KM	Neurospora crassa	0.01	NO2-	*cosubstrate NADPH or NADH
+KM	Neurospora crassa	0.1	NO2-	*
+KM	Escherichia coli	0.4	NO2-	*
+KM	Neurospora crassa	0.8	NO2-	*+ dithionite
+MW	Azotobacter chroococcum	67000	*	*sucrose density gradient centrifugation
+MW	Escherichia coli	88000	*	*2 * 88000, SDS-PAGE
+MW	Neurospora crassa	140000	*	*2 * 140000, SDS-PAGE
+MW	Escherichia coli	190000	*	*glycerol density gradient centrifugation
+MW	Neurospora crassa	289400	*	*deduced from amino acid composition
+MW	Neurospora crassa	290000	*	*gel filtration, sucrose density gradient centrifugation
+PATH	*	alkylnitronates degradation	*	*
+PATH	*	nitrate reduction V (assimilatory)	*	*
+PATH	*	Nitrogen metabolism	*	*
+PATH	*	non-pathway related	*	*
+SA	Rhizobium etli	0.0000205	*	*after 96 h incubation under anaerobic conditions, in a medium amended with nitrite
+SA	Rhizobium etli	0.000508	*	*after 96 h incubation under anaerobic conditions, in a medium amended without nitrite
+SA	Neurospora crassa	0.0523	*	*
+SA	Bradyrhizobium sp.	0.06	*	*activity under aerobic conditions in presence of NH4+
+SA	Staphylococcus carnosus	0.065	*	*activity in cells grown anaerobically in the presence of 20 mM NO2-
+SA	Staphylococcus carnosus	0.079	*	*activity in cells grown anaerobically in the presence of 20 mM NO3-
+SA	Bradyrhizobium sp.	0.1	*	*activity under aerobic conditions
+SA	Bradyrhizobium sp.	0.13	*	*activity under anaerobic conditions in presence of NH4+
+SA	Escherichia coli	0.18	*	*
+SA	Bradyrhizobium sp.	0.18	*	*activity under anaerobic conditions
+SA	Staphylococcus carnosus	0.35	*	*activity in cytosolic extracts
+SA	Derxia gummosa	0.422	*	*reduction of NO2-
+SA	Staphylococcus carnosus	0.504	*	*activity in cytosolic extracts from cells grown anaerobically with 1 mM nitrite
+SA	Neurospora crassa	0.52	*	*NADH + NO2-
+SA	Neurospora crassa	0.73	*	*NADPH + NO2-
+SA	Derxia gummosa	0.868	*	*reduction of hydroxylamine
+SA	Bacillus subtilis	14.6	*	*activity in extracts from aerobic grown cells
+SA	Escherichia coli	16.7	*	*
+SA	Neurospora crassa	26.9	*	*
+SA	Bacillus subtilis	33.4	*	*activity in extracts from anaerobic grown cells
+SA	Cyberlindnera jadinii	1800	*	*activity in crude extracts of cells grown in the presence of 50 mM urea
+SA	Cyberlindnera jadinii	5900	*	*activity in crude extracts of cells grown in the presence of 50 mM glutamine
+SA	Cyberlindnera jadinii	17300	*	*activity in crude extracts of cells grown in the presence of 50 mM ammonium sulfate
+SA	Cyberlindnera jadinii	24000	*	*activity in crude extracts of cells grown in the presence of 50 mM asparagine
+SA	Cyberlindnera jadinii	60000	*	*activity in crude extracts of cells grown in the presence of 50 mM potassium nitrate

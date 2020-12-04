@@ -1,0 +1,20 @@
+KM	Persephonella marina	6.8	UDP-glucose	*pH 6.5, 70&Acirc;&deg;C
+KM	Petrotoga mobilis	0.9	D-glycerate	*pH 6.7, 60&Acirc;&deg;C, native enzyme
+KM	Petrotoga mobilis	1.9	D-glycerate	*pH 6.7, 70&Acirc;&deg;C, native enzyme
+KM	Persephonella marina	2.2	D-glycerate	*pH 6.5, 70&Acirc;&deg;C
+KM	Petrotoga mobilis	3.4	D-glycerate	*pH 6.7, 60&Acirc;&deg;C, recombinant enzyme
+KM	Persephonella marina	1.5	ADP-glucose	*pH 6.5, 70&Acirc;&deg;C
+KM	Petrotoga mobilis	2	ADP-glucose	*pH 6.7, 70&Acirc;&deg;C, native enzyme
+KM	Petrotoga mobilis	2.9	ADP-glucose	*pH 6.7, 60&Acirc;&deg;C, native enzyme
+KM	Petrotoga mobilis	9.3	ADP-glucose	*pH 6.7, 60&Acirc;&deg;C, recombinant enzyme
+KM	Persephonella marina	7.1	GDP-glucose	*pH 6.5, 70&Acirc;&deg;C
+MW	Petrotoga mobilis	43700	*	*4 * 43700, calculated from sequence
+MW	Persephonella marina	48000	*	*4 * 48000, SDS-PAGE
+MW	Persephonella marina	48400	*	*4 * 48400, calculated from sequence
+MW	Petrotoga mobilis	170000	*	*gel filtration
+MW	Persephonella marina	210000	*	*gel filtration
+PATH	*	glucosylglycerate biosynthesis II	*	*
+PATH	*	mannosylglucosylglycerate biosynthesis II	*	*
+SA	Persephonella marina	27.4	*	*pH 6.5, 70&Acirc;&deg;C, substrate: GDP-glucose
+SA	Persephonella marina	47	*	*pH 6.5, 70&Acirc;&deg;C, substrate: UDP-glucose
+SA	Persephonella marina	284.3	*	*pH 6.5, 70&Acirc;&deg;C, substrate: ADP-glucose

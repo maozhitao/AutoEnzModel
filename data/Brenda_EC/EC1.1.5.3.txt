@@ -1,0 +1,59 @@
+KCAT	Escherichia coli	33.3	glycerol 3-phosphate	*
+KM	Vibrio alginolyticus	0.55	ferricyanide	*
+KM	Sus scrofa	0.076	2,6-dichlorophenolindophenol	*
+KM	Sus scrofa	0.125	2,6-dichlorophenolindophenol	*
+KM	Vibrio alginolyticus	0.13	phenazine methosulfate	*
+KM	Escherichia coli	0.1	glycerol 3-phosphate	*in absence of exogenous FMN
+KM	Escherichia coli	0.339	glycerol 3-phosphate	*in presence of exogenous FMN
+KM	Rattus norvegicus	0.4	glycerol 3-phosphate	*enzyme from testis and pancreatic islets, in presence of saturating concentrations of free Ca2+
+KM	Rattus norvegicus	2.5	glycerol 3-phosphate	*enzyme from pancreatic islets, in absence of free calcium
+KM	Rattus norvegicus	3.2	glycerol 3-phosphate	*enzyme from testis in absence of free calcium
+KM	Sus scrofa	0.013	coenzyme Q1	*
+KM	Sus scrofa	0.052	coenzyme Q1	*
+KM	Sus scrofa	0.125	coenzyme Q0	*
+KM	Escherichia coli	0.8	DL-glycerol 3-phosphate	*
+KM	Escherichia coli	1.9	DL-glycerol 3-phosphate	*with phenazine methosulfate coupled with 3-(4,5-dimethylthiazolyl-2)-2,5-diphenyltetrazolium bromide as electron acceptor
+KM	Escherichia coli	10.2	DL-glycerol 3-phosphate	*with ferricyanide as electron acceptor
+KM	Sus scrofa	0.05	coenzyme Q10	*
+KM	Sus scrofa	0.11	coenzyme Q6	*
+KM	Sus scrofa	0.023	coenzyme Q2	*
+KM	Cyberlindnera jadinii	5.17	DL-alpha-glycerophosphate	*
+KM	Vibrio alginolyticus	3.7	L-3-glycerophosphate	*with ferricyanide as electron acceptor
+KM	Vibrio alginolyticus	4.02	L-3-glycerophosphate	*with phenazine methosulfate as electron acceptor
+KM	Sus scrofa	6.2	L-3-glycerophosphate	*with coenzyme Q10 as electron acceptor
+KM	Sus scrofa	10	L-3-glycerophosphate	*with 2,6-dichloroindophenol, phenazine methosulfate, coenzyme Q0, coenzyme Q1, coenzyme Q2 or coenzyme Q6 as electron acceptor
+KM	Rattus norvegicus	-999	more	*
+KM	Rattus norvegicus	-999	more	*
+KM	Mus musculus	-999	more	*the calcium-sensitive EF-hand domain of the enzyme lowers the Km for glycerol 3-phosphate as physiological levels of free calcium rise
+KM	Rattus norvegicus	-999	more	*the calcium-sensitive EF-hand domain of the enzyme lowers the Km for glycerol 3-phosphate as physiological levels of free calcium rise
+MW	Escherichia coli	35000	*	*2 * 35000, SDS-PAGE
+MW	Escherichia coli	43000	*	*1 * 43000 + 1 * 62000, SDS-PAGE
+MW	Escherichia coli	58000	*	*2 * 58000, SDS-PAGE
+MW	Escherichia coli	62000	*	*1 * 43000 + 1 * 62000, SDS-PAGE
+MW	Arabidopsis thaliana	68000	*	*x * 68000, SDS-PAGE
+MW	Rattus norvegicus	74000	*	*
+MW	Sus scrofa	75000	*	*x * 75000, SDS-PAGE
+MW	Escherichia coli	80000	*	*gel filtration
+MW	Mus musculus	80000	*	*SDS-PAGE
+MW	Escherichia coli	93500	*	*equilibrium sedimentation
+MW	Giardia intestinalis	119000	*	*
+MW	Giardia intestinalis	120000	*	*x * 120000, SDS-PAGE
+MW	Escherichia coli	130000	*	*gel filtration
+MW	Vibrio alginolyticus	300000	*	*gel filtration
+MW	Cyberlindnera jadinii	520000	*	*non-denaturing PAGE
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	degradation of sugar alcohols	*	*
+PATH	*	glycerol degradation I	*	*
+PATH	*	glycerol-3-phosphate shuttle	*	*
+PATH	*	glycerol-3-phosphate to cytochrome bo oxidase electron transfer	*	*
+PATH	*	glycerol-3-phosphate to fumarate electron transfer	*	*
+PATH	*	glycerol-3-phosphate to hydrogen peroxide electron transport	*	*
+PATH	*	glycerophosphodiester degradation	*	*
+PATH	*	Glycerophospholipid metabolism	*	*
+PATH	*	nitrate reduction IX (dissimilatory)	*	*
+PATH	*	nitrate reduction X (dissimilatory, periplasmic)	*	*
+SA	Vibrio alginolyticus	-999	*	*
+SA	Escherichia coli	-999	*	*
+SA	Sus scrofa	1.15	*	*
+SA	Sus scrofa	1.15	*	*
+SA	Sus scrofa	2.9	*	*

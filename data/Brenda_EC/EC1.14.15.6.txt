@@ -1,0 +1,71 @@
+KCAT	Bos taurus	0.05	cholesterol	*
+KCAT	Bos taurus	0.05	cholesterol	*
+KCAT	Bos taurus	0.1	cholesterol	*in the presence of 0.45% cyclodextrin
+KCAT	Bos taurus	0.248	cholesterol	*in the presence of 4.5% cyclodextrin
+KCAT	Bos taurus	0.417	cholesterol	*by large unilamellar vesicles
+KCAT	Bos taurus	0.328	vitamin D3	*in the presence of 0.45% cyclodextrin
+KCAT	Bos taurus	1.6	vitamin D3	*in the presence of 4.5% cyclodextrin
+KCAT	Bos taurus	0.123	20-hydroxyvitamin D3	*in the presence of 0.45% cyclodextrin
+KCAT	Bos taurus	-999	more	*for small unilamellar vesicles 5fold lower
+KCAT	Bos taurus	-999	more	*in 0.45% cyclodextrin, the kcat of cholesterol is 6.1 mol/min/mol P450scc, the kcat of vitamin D2 is 2.28 mol/min/mol P450scc, the kcat of 20-hydroxyvitamin D2 is 2.47 mol/min/mol P450scc and the kcat of 17,20-dihydroxyvitamin D2 is 0.33 mol/min/mol P450scc. In phosphatidylcholine vesicles, the kcat of cholesterol is 46 mol/min/mol P450scc, the kcat of vitamin D2 is 5.62 mol/min/mol P450scc, the kcat of 20-hydroxyvitamin D2 is 1.99 mol/min/mol P450scc and the kcat of 17,20-dihydroxyvitamin D2 is 0.21 mol/min/mol P450scc
+KM	Homo sapiens	-999	more	*decrease in concentration of adrenodoxin reductase causes a decrease in Km-values for cholesterol and adrenodoxin, in mitochondria, cholesterol is near-saturating for enzyme activity due to low and rate-limiting concentration of adrenodoxin reductase present
+KM	Bos taurus	0.0003	Cholesterol sulfate	*mitochondrial
+KM	Bos taurus	0.0004	adrenodoxin	*free
+KM	Bos taurus	0.0005	cholesterol	*mitochondrial
+KM	Bos taurus	0.00056	adrenodoxin	*+/-0.00004, complex between adrenodoxin and adrenodoxin reductase
+KM	Bos taurus	0.0012	adrenodoxin	*
+KM	Bos taurus	0.002	cholesterol	*low concentration, both vesicle types
+KM	Bos taurus	0.0091	cholesterol	*in 0.45% cyclodextrin
+KM	Bos taurus	0.0091	cholesterol	*in the presence of 0.45% cyclodextrin
+KM	Bos taurus	0.012	20alpha-hydroxycholesterol	*
+KM	Bos taurus	0.012	20-hydroxyvitamin D2	*in 0.45% cyclodextrin
+KM	Bos taurus	0.0165	cholesterol	*cytosolic
+KM	Bos taurus	0.0175	vitamin D2	*in 0.45% cyclodextrin
+KM	Bos taurus	0.0181	17,20-dihydroxyvitamin D2	*in 0.45% cyclodextrin
+KM	Bos taurus	0.0232	Cholesterol sulfate	*cytosolic
+KM	Bos taurus	0.0296	vitamin D3	*in the presence of 0.45% cyclodextrin
+KM	Bos taurus	0.067	20-hydroxyvitamin D3	*in the presence of 0.45% cyclodextrin
+KM	Bos taurus	0.164	cholesterol	*
+KM	Bos taurus	0.19	cholesterol	*
+KM	Bos taurus	0.3	cholesterol	*large unilamellar vesicles, second type of reaction
+KM	Bos taurus	0.39	cholesterol	*
+KM	Bos taurus	1.18	cholesterol	*in the presence of 4.5% cyclodextrin
+KM	Bos taurus	3.67	vitamin D3	*in the presence of 4.5% cyclodextrin
+MW	Homo sapiens	32000	*	*truncated form, Western blot analysis
+MW	Mus musculus	32000	*	*truncated form, Western blot analysis
+MW	Bos taurus	46000	*	*x * 60000, SDS-PAGE, molecular weights of bovine P-450 reported: 1 * 46000 and x * 53000
+MW	Bos taurus	46000	*	*4 * 46000, sedimentation equilibrium analysis after guanidine treatment and SDS-PAGE
+MW	Bos taurus	46000	*	*2,4,6,8 * 48000, SDS-PAGE, corpus luteum. x * 46000, x * 60000, x * 53000, x * 52000-53000 adrenal mitochondria
+MW	Bos taurus	48000	*	*2,4,6,8 * 48000, SDS-PAGE, corpus luteum. x * 46000, x * 60000, x * 53000, x * 52000-53000 adrenal mitochondria
+MW	Mytilus galloprovincialis	51400	*	*x * 51400, SDS-PAGE
+MW	Bos taurus	52000	*	*16 * 53000, sedimentation equilibrium performed in 6 M guanidine after heating, 16 * 52000, SDS-PAGE. Can also exist in forms of 4 and 8 subunits after treatment with 100 mM potassium phosphate buffer, 7.6, with molecular weights of 200000 and 470000, respectively
+MW	Bos taurus	52000	*	*x * 52000, SDS-PAGE
+MW	Capra aegagrus	52000	*	*x * 52000, SDS-PAGE
+MW	Sus scrofa	52000	*	*x * 52000, SDS-PAGE
+MW	Bos taurus	53000	*	*x * 60000, SDS-PAGE, molecular weights of bovine P-450 reported: 1 * 46000 and x * 53000
+MW	Bos taurus	53000	*	*2,4,6,8 * 48000, SDS-PAGE, corpus luteum. x * 46000, x * 60000, x * 53000, x * 52000-53000 adrenal mitochondria
+MW	Bos taurus	53000	*	*16 * 53000, sedimentation equilibrium performed in 6 M guanidine after heating, 16 * 52000, SDS-PAGE. Can also exist in forms of 4 and 8 subunits after treatment with 100 mM potassium phosphate buffer, 7.6, with molecular weights of 200000 and 470000, respectively
+MW	Homo sapiens	55000	*	*full-length form, Western blot analysis
+MW	Mus musculus	55000	*	*full-length form, Western blot analysis
+MW	Anguilla japonica	59000	*	*x * 59000, recombinant His-tagged enzyme, SDS-PAGE
+MW	Bos taurus	60000	*	*x * 60000, SDS-PAGE, molecular weights of bovine P-450 reported: 1 * 46000 and x * 53000
+MW	Bos taurus	60000	*	*2,4,6,8 * 48000, SDS-PAGE, corpus luteum. x * 46000, x * 60000, x * 53000, x * 52000-53000 adrenal mitochondria
+MW	Bos taurus	97000	*	*sedimentation equilibrium
+MW	Bos taurus	100000	*	*native-PAGE, incomplete enzyme or molecular environmental conditions not optimal
+MW	Bos taurus	120000	*	*x * 120000, fusion protein of enzyme plus adrenodoxin reductase plus adrenodoxin
+MW	Homo sapiens	120000	*	*x * 120000, fusion protein of enzyme plus adrenodoxin reductase plus adrenodoxin
+MW	Bos taurus	200000	*	*sedimentation equilibrium analysis
+MW	Bos taurus	200000	*	*native-PAGE, lowest single unit with high enzymatic activity
+MW	Bos taurus	200000	*	*sedimentation equilibrium performed in 100 mM potassium phosphate buffer, pH 7.6
+MW	Bos taurus	220000	*	*corpus luteum
+MW	Bos taurus	225000	*	*sedimentation equilibrium
+MW	Bos taurus	400000	*	*native-PAGE
+MW	Bos taurus	415000	*	*sedimentation equilibrium
+MW	Bos taurus	470000	*	*sedimentation equilibrium performed in 100 mM potassium phosphate buffer, pH 7.6
+MW	Bos taurus	800000	*	*exclusion chromatography
+MW	Bos taurus	850000	*	*sedimentation equilibrium analysis
+MW	Bos taurus	850000	*	*adrenal mitochondria
+MW	Bos taurus	850000	*	*
+PATH	*	androgen and estrogen metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Steroid hormone biosynthesis	*	*

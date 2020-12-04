@@ -1,0 +1,42 @@
+KCAT	Mycobacterium tuberculosis	0.0077	2,6-dimethyl-1,4-benzoquinone	*pH 7.5, 25&deg;C, NADPH
+KCAT	Mycobacterium tuberculosis	0.0077	NADPH	*pH 7.5, 25&deg;C, with 2,6-dimethyl-1,4-benzoquinone
+KCAT	Mycobacterium tuberculosis	0.0079	5-hydroxy-1,4-naphthoquinone	*pH 7.5, 25&deg;C, NADPH
+KCAT	Mycobacterium tuberculosis	0.0079	NADPH	*pH 7.5, 25&deg;C, with 5-hydroxy-1,4-naphthoquinone
+KCAT	Mycobacterium tuberculosis	0.0087	NAD(P)H	*pH 7.5, 25&deg;C, with thio-NAD+
+KCAT	Mycobacterium tuberculosis	0.0087	thio-NAD+	*pH 7.5, 25&deg;C, NAD(P)H
+KCAT	Mycobacterium tuberculosis	2.5	5-hydroxy-1,4-naphthoquinone	*pH 7.5, 25&deg;C, NADH
+KCAT	Mycobacterium tuberculosis	2.5	NADH	*pH 7.5, 25&deg;C, with 5-hydroxy-1,4-naphthoquinone
+KCAT	Mycobacterium tuberculosis	2.8	2,6-dimethyl-1,4-benzoquinone	*pH 7.5, 25&deg;C, NADH
+KCAT	Mycobacterium tuberculosis	2.8	NADH	*pH 7.5, 25&deg;C, with 2,6-dimethyl-1,4-benzoquinone
+KCAT	Mycobacterium tuberculosis	3.6	NADH	*pH 7.5, 25&deg;C, with thio-NAD+
+KCAT	Mycobacterium tuberculosis	3.6	thio-NAD+	*pH 7.5, 25&deg;C, NADH
+KM	Mycobacterium tuberculosis	-999	more	*steady-state kinetics, ping-pong kinetic mechanism with NAD(P)H and 2,6-dimethyl-1,4-benzoquinone or 5-hydroxy-1,4-naphthoquinone
+KM	Mycobacterium tuberculosis	0.00039	5-hydroxy-1,4-naphthoquinone	*pH 7.5, 25&deg;C, NADPH
+KM	Mycobacterium tuberculosis	0.00044	NADPH	*pH 7.5, 25&deg;C, with 5-hydroxy-1,4-naphthoquinone
+KM	Mycobacterium tuberculosis	0.00053	NADPH	*pH 7.5, 25&deg;C, with 2,6-dimethyl-1,4-benzoquinone
+KM	Mycobacterium tuberculosis	0.0016	2,6-dimethyl-1,4-benzoquinone	*pH 7.5, 25&deg;C, NADPH
+KM	Pisum sativum	0.002	NADPH	*
+KM	Mycobacterium tuberculosis	0.0054	thio-NAD+	*pH 7.5, 25&deg;C, with NADH
+KM	Mycobacterium tuberculosis	0.0055	5-hydroxy-1,4-naphthoquinone	*pH 7.5, 25&deg;C, NADH
+KM	Mycobacterium tuberculosis	0.011	2,6-dimethyl-1,4-benzoquinone	*pH 7.5, 25&deg;C, NADH
+KM	Mycobacterium tuberculosis	0.018	thio-NAD+	*pH 7.5, 25&deg;C, with NADPH
+KM	Mycobacterium tuberculosis	0.028	NADH	*pH 7.5, 25&deg;C, with 5-hydroxy-1,4-naphthoquinone
+KM	Mycobacterium tuberculosis	0.036	NADH	*pH 7.5, 25&deg;C, with 2,6-dimethyl-1,4-benzoquinone
+KM	Bacillus megaterium	0.65	pantethine 4',4''-diphosphate	*
+KM	Methanosarcina acetivorans	2.2	coenzyme M	*pH 6.8, 50&deg;C
+KM	Methanosarcina acetivorans	4.1	coenzyme A	*pH 6.8, 50&deg;C
+KM	Bacillus megaterium	7.4	CoA-SS-CoA	*
+KM	Methanosarcina acetivorans	8.9	glutathione disulfide	*pH 6.8, 50&deg;C
+MW	Methanosarcina acetivorans	12000	*	*gel filtration
+MW	Mycobacterium tuberculosis	14000	*	*2 * 14000, SDS-PAGE
+MW	Homo sapiens	16400	*	*2 * 16400, SDS-PAGE
+MW	Pyrococcus horikoshii	16500	*	*x * 16500, calculatzd from sequence
+MW	Saccharolobus solfataricus	25000	*	*SDS-PAGE
+MW	Pyrococcus furiosus	25649	*	*x * 25649, electrospray mass spectrometry
+MW	Pyrococcus furiosus	26000	*	*x * 26000, SDS-PAGE
+MW	Mycobacterium tuberculosis	29000	*	*gel filtration
+MW	Homo sapiens	34900	*	*gel filtration
+MW	Bacillus megaterium	55000	*	*2 * 55000, SDS-PAGE
+MW	Bacillus megaterium	122000	*	*gel filtration
+SA	Pisum sativum	-999	*	*
+SA	Mycobacterium tuberculosis	-999	*	*cell extract: 1.56 U/mg, after purification: 8.17 U/mg, one unit is defined as the amount of protein that produces an increase in 0.1 OD in 1 min at 650 nm

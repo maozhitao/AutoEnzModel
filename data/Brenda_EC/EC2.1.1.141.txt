@@ -1,0 +1,25 @@
+KCAT	Populus trichocarpa	0.003	benzoate	*wild type enzyme, at pH 6.5 and 30&deg;C
+KCAT	Populus trichocarpa	0.013	jasmonate	*wild type enzyme, at pH 6.5 and 30&deg;C
+KCAT	Populus trichocarpa	0.015	jasmonate	*mutant enzyme N361S, at pH 6.5 and 30&deg;C
+KCAT	Populus trichocarpa	0.028	benzoate	*mutant enzyme N361S, at pH 6.5 and 30&deg;C
+KCAT	Arabidopsis thaliana	25	jasmonate	*pH 7.5, 20&deg;C
+KCAT	Arabidopsis thaliana	70	S-adenosyl-L-methionine	*pH 7.5, 20&deg;C
+KM	Arabidopsis thaliana	0.0063	S-adenosyl-L-methionine	*pH 7.5, 20&deg;C
+KM	Brassica rapa subsp. oleifera	0.0064	S-adenosyl-L-methionine	*
+KM	Fragaria vesca	0.0223	jasmonate	*at pH 5.5 and 30&deg;C
+KM	Fragaria x ananassa	0.0223	jasmonate	*at pH 5.5 and 30&deg;C
+KM	Arabidopsis thaliana	0.0385	jasmonate	*pH 7.5, 20&deg;C
+KM	Populus trichocarpa	0.0631	benzoate	*mutant enzyme N361S, at pH 6.5 and 30&deg;C
+KM	Populus trichocarpa	0.175	jasmonate	*wild type enzyme, at pH 6.5 and 30&deg;C
+KM	Populus trichocarpa	0.31	jasmonate	*mutant enzyme N361S, at pH 6.5 and 30&deg;C
+KM	Populus trichocarpa	0.341	benzoate	*wild type enzyme, at pH 6.5 and 30&deg;C
+KM	Brassica rapa subsp. oleifera	0.38	jasmonate	*
+MW	Brassica rapa subsp. oleifera	44000	*	*as fusion protein with GST
+PATH	*	alpha-Linolenic acid metabolism	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Fragaria vesca	0.11	*	*with benzoate as substrate, at pH 5.5 and 30&deg;C
+SA	Fragaria x ananassa	0.11	*	*with benzoate as substrate, at pH 5.5 and 30&deg;C
+SA	Fragaria vesca	0.18	*	*with salicylate as substrate, at pH 5.5 and 30&deg;C
+SA	Fragaria x ananassa	0.18	*	*with salicylate as substrate, at pH 5.5 and 30&deg;C
+SA	Fragaria vesca	7	*	*with jasmonate as substrate, at pH 5.5 and 30&deg;C
+SA	Fragaria x ananassa	7	*	*with jasmonate as substrate, at pH 5.5 and 30&deg;C

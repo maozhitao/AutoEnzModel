@@ -1,0 +1,41 @@
+KCAT	Mycobacterium tuberculosis	0.012	isopentenyl diphosphate	*in 50 mM sodium phosphate (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	1.1	isopentenyl diphosphate	*at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Mycobacterium tuberculosis	0.085	dimethylallyl diphosphate	*in 50 mM sodium phosphate (pH 7.0), at 37&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	1.1	dimethylallyl diphosphate	*at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Picea abies	1.4	dimethylallyl diphosphate	*
+KCAT	Corynebacterium glutamicum	0.4	farnesyl diphosphate	*at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	0.1	geranyl diphosphate	*at pH 7.5 and 30&Acirc;&deg;C
+KM	Phaedon cochleariae	0.00084	isopentenyl diphosphate	*fixed substrate dimethylallyl diphosphate (0.05 mM), pH and temperature not specified in the publication, metal cofactor: Co2+
+KM	Corynebacterium glutamicum	0.008	isopentenyl diphosphate	*at pH 7.5 and 30&Acirc;&deg;C
+KM	Phaedon cochleariae	0.0118	isopentenyl diphosphate	*fixed substrate dimethylallyl diphosphate (0.05 mM), pH and temperature not specified in the publication, metal cofactor: Mg2+
+KM	Mycobacterium tuberculosis	0.163	isopentenyl diphosphate	*in 50 mM sodium phosphate (pH 7.0), at 37&Acirc;&deg;C
+KM	Corynebacterium glutamicum	0.008	dimethylallyl diphosphate	*at pH 7.5 and 30&Acirc;&deg;C
+KM	Phaedon cochleariae	0.0116	dimethylallyl diphosphate	*fixed substrate isopentenyl diphosphate (0.015 mM), pH and temperature not specified in the publication, metal cofactor: Co2+
+KM	Mycobacterium tuberculosis	0.058	dimethylallyl diphosphate	*in 50 mM sodium phosphate (pH 7.0), at 37&Acirc;&deg;C
+KM	Picea abies	0.39	dimethylallyl diphosphate	*
+KM	Phaedon cochleariae	1.103	dimethylallyl diphosphate	*fixed substrate isopentenyl diphosphate (0.015 mM), pH and temperature not specified in the publication, metal cofactor: Mg2+
+KM	Corynebacterium glutamicum	0.02	farnesyl diphosphate	*at pH 7.5 and 30&Acirc;&deg;C
+KM	Corynebacterium glutamicum	0.008	geranyl diphosphate	*at pH 7.5 and 30&Acirc;&deg;C
+MW	Catharanthus roseus	38000	*	*x * 38000, SDS-PAGE
+MW	Corynebacterium glutamicum	39600	*	*
+MW	Picea abies	40000	*	*x * 40000, SDS-PAGE of recombinant protein
+MW	Phaedon cochleariae	45800	*	*2 * 45800, the enzyme is always present as a dimer regardless of the added cofactor, in the case of Mg2+, the dimeric protein possesses the largest volume (93800 Da), most likely due to a more relaxed conformation. With Co2+, the enzyme seems to have a more compact conformation (87600 Da), which may be responsible for the change in product spectrum calculated from sequence
+MW	Dendroctonus ponderosae	49400	*	*
+MW	Phaedon cochleariae	87600	*	*enzyme-Co2+ complex, gel filtration
+MW	Phaedon cochleariae	93800	*	*enzyme-Mg2+ complex, gel filtration
+MW	Corynebacterium glutamicum	158000	*	*gel filtration
+PATH	*	(3R)-linalool biosynthesis	*	*
+PATH	*	(3S)-linalool biosynthesis	*	*
+PATH	*	all-trans-farnesol biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	bisabolene biosynthesis (engineered)	*	*
+PATH	*	geranyl diphosphate biosynthesis	*	*
+PATH	*	ipsdienol biosynthesis	*	*
+PATH	*	isoprenoid biosynthesis	*	*
+PATH	*	linalool biosynthesis I	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	mono-trans, poly-cis decaprenyl phosphate biosynthesis	*	*
+PATH	*	stellatic acid biosynthesis	*	*
+PATH	*	Terpenoid backbone biosynthesis	*	*
+PATH	*	trans, trans-farnesyl diphosphate biosynthesis	*	*
+PATH	*	viridicatumtoxin biosynthesis	*	*

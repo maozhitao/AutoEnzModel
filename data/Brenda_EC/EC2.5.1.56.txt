@@ -1,0 +1,54 @@
+KCAT	Campylobacter jejuni	0.8	N-pentanoyl-D-mannosamine	*pH 8.0, 37&deg;C
+KCAT	Neisseria meningitidis	0.83	N-acetyl-D-mannosamine	*the reaction mixture contains 1 mM MgCl2 in 50 mM Tris-acetate buffer, pH 7.5, at 37&deg;C
+KCAT	Campylobacter jejuni	3.5	N-butanoyl-D-mannosamine	*pH 8.0, 37&deg;C
+KCAT	Moritella viscosa	3.72	N-acetyl-D-mannosamine	*pH 7.3, 30&deg;C, recombinant enzyme
+KCAT	Moritella viscosa	3.75	phosphoenolpyruvate	*pH 7.3, 30&deg;C, recombinant enzyme
+KCAT	Campylobacter jejuni	11.8	N-propanoyl-D-mannosamine	*pH 8.0, 37&deg;C
+KCAT	Campylobacter jejuni	19	phosphoenolpyruvate	*pH 8.0, 37&deg;C
+KCAT	Campylobacter jejuni	19.9	N-acetyl-D-mannosamine	*pH 8.0, 37&deg;C
+KM	Escherichia coli	0.04	phosphoenolpyruvate	*pH 8.2, 37&Acirc;&deg;C
+KM	Neisseria meningitidis	0.042	phosphoenolpyruvate	*
+KM	Escherichia coli	0.042	phosphoenolpyruvate	*pH 8.2, 37&Acirc;&deg;C
+KM	Neisseria meningitidis	0.157	phosphoenolpyruvate	*37&Acirc;&deg;C, 100 mM Tris-HCl buffer, pH 7.0, 1 mM MnCl2, 50 microM to 1 mM phosphoenolpyruvate, His-tagged enzyme, purine nucleoside phosphorylase, 200 mircoM 2-amino-6-mercapto-7-methylpurine ribonucleoside
+KM	Moritella viscosa	0.8	phosphoenolpyruvate	*pH 7.3, 30&Acirc;&deg;C, recombinant enzyme
+KM	Campylobacter jejuni	7.3	phosphoenolpyruvate	*pH 8.0, 37&Acirc;&deg;C
+KM	Escherichia coli	5.6	N-acetyl-D-mannosamine	*pH 8.2, 37&Acirc;&deg;C
+KM	Neisseria meningitidis	6.25	N-acetyl-D-mannosamine	*
+KM	Escherichia coli	6.25	N-acetyl-D-mannosamine	*pH 8.2, 37&Acirc;&deg;C
+KM	Neisseria meningitidis	11.6	N-acetyl-D-mannosamine	*the reaction mixture contains 1 mM MgCl2 in 50 mM Tris-acetate buffer, pH 7.5, at 37&Acirc;&deg;C
+KM	Campylobacter jejuni	17.6	N-acetyl-D-mannosamine	*pH 8.0, 37&Acirc;&deg;C
+KM	Moritella viscosa	18	N-acetyl-D-mannosamine	*pH 7.3, 30&Acirc;&deg;C, recombinant enzyme
+KM	Campylobacter jejuni	5.5	N-propanoyl-D-mannosamine	*pH 8.0, 37&Acirc;&deg;C
+KM	Campylobacter jejuni	15	N-butanoyl-D-mannosamine	*pH 8.0, 37&Acirc;&deg;C
+KM	Campylobacter jejuni	31.1	N-pentanoyl-D-mannosamine	*pH 8.0, 37&Acirc;&deg;C
+KM	Neisseria meningitidis	-999	more	*coupled assay to monitor enzyme kinetics
+KM	Moritella viscosa	-999	more	*Michaelis-Menten kinetics, overview
+KM	Neisseria meningitidis	-999	more	*kinetic analysis of wild-ype and mutant enzymes, no kinetic activity can be observed for mutant G272Term with phosphoenolpyruvate, binding constants for wild-type, overview
+MW	Moritella viscosa	38000	*	*
+MW	Neisseria meningitidis	38629	*	*1 * 38629, calculated from amino acid sequence
+MW	Neisseria meningitidis	38630	*	*calculated from amino acid sequence
+MW	Neisseria meningitidis	38649	*	*1 * 38649, ESI-MS
+MW	Neisseria meningitidis	38650	*	*ESI-MS
+MW	Streptococcus agalactiae	38987	*	*2 * 38987, electrospray ionisation mass spectrometry
+MW	Neisseria meningitidis	39000	*	*2 * 39000, SDS-PAGE
+MW	Escherichia coli	40538	*	*4 * 40538, LC-MS analysis
+MW	Idiomarina loihiensis	41000	*	*
+MW	Campylobacter jejuni	43300	*	*x * 43300, His-tagged recombinant enzyme, MALDI-TOF MS
+MW	Idiomarina loihiensis	45000	*	*
+MW	Escherichia coli	52000	*	*2 * 52000, SDS-PAGE
+MW	Moritella viscosa	74000	*	*recombinant enzyme, gel filtration
+MW	Streptococcus agalactiae	78000	*	*gel filtration
+MW	Neisseria meningitidis	78000	*	*SDS-PAGE
+MW	Idiomarina loihiensis	95000	*	*gel filtration
+MW	Escherichia coli	106000	*	*gel filtration
+MW	Escherichia coli	135000	*	*recombinant protein containing a hexahistidine tag at the N-terminus, gel filtration
+MW	Escherichia coli	160000	*	*ESI-MS
+MW	Streptococcus agalactiae	160000	*	*ESI-MS
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*
+PATH	*	CMP-N-acetylneuraminate biosynthesis II (bacteria)	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	metabolism of amino sugars and derivatives	*	*
+SA	Escherichia coli	0.000416	*	*
+SA	Neisseria meningitidis	0.06	*	*
+SA	Campylobacter jejuni	1.018	*	*pH 8.0, 37&deg;C
+SA	Escherichia coli	487	*	*

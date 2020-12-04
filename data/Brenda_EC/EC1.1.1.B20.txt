@@ -1,0 +1,39 @@
+KCAT	Serratia marcescens	1.02	(2S,3S)-2,3-butanediol	*pH 5.0, 40&deg;C
+KCAT	Serratia marcescens	6.2	meso-2,3-butanediol	*pH 5.0, 40&deg;C
+KCAT	Serratia marcescens	11.5	diacetyl	*pH 8.0, 40&deg;C
+KCAT	Serratia marcescens	19.7	(3R)-acetoin	*pH 8.0, 40&deg;C
+KM	Bacillus subtilis	-999	more	*thermodynamics
+KM	Klebsiella aerogenes	-999	more	*thermodynamics
+KM	Klebsiella pneumoniae	0.05	NADH	*pH 8.0-9.0, 35&deg;C, recombinant enzyme
+KM	Corynebacterium glutamicum	0.052	(2S,3S)-2,3-butanediol	*pH 10.5, 30&deg;C, recombinant enzyme
+KM	Corynebacterium glutamicum	0.23	acetoin	*racemic (R/S)-acetoin, pH 7.0, 30&deg;C, recombinant enzyme
+KM	Klebsiella pneumoniae	0.65	(3R)-acetoin	*pH 8.0-9.0, 35&deg;C, recombinant enzyme
+KM	Klebsiella pneumoniae	0.66	NAD+	*pH 8.0-9.0, 35&deg;C, recombinant enzyme
+KM	Serratia marcescens	0.97	(3R)-acetoin	*pH 8.0, 40&deg;C
+KM	Corynebacterium glutamicum	1.49	(R)-acetoin	*pH 7.0, 30&deg;C, recombinant enzyme
+KM	Corynebacterium glutamicum	2	meso-2,3-butanediol	*pH 8.0, 37&deg;C
+KM	Corynebacterium glutamicum	2.01	meso-2,3-butanediol	*pH 10.5, 30&deg;C, recombinant enzyme
+KM	Serratia marcescens	3.3	diacetyl	*pH 8.0, 40&deg;C
+KM	Serratia marcescens	4.1	meso-2,3-butanediol	*pH 5.0, 40&deg;C
+KM	Klebsiella pneumoniae	6	4-methyl-2-pentanone	*pH 8.0-9.0, 35&deg;C, recombinant enzyme
+KM	Klebsiella pneumoniae	13	meso-2,3-butanediol	*pH 8.0-9.0, 35&deg;C, recombinant enzyme
+KM	Serratia marcescens	31.2	(2S,3S)-2,3-butanediol	*pH 5.0, 40&deg;C
+SA	Corynebacterium glutamicum	0.3	*	*recombinant Escherichia coli strain BL21(DE3) expressing wild-type BDH, pH 7.0, 30&deg;C
+SA	Corynebacterium glutamicum	1.1	*	*mutant N146F, substrate (2S,3S)-2,3-butanediol, pH 8.0, 37&deg;C
+SA	Serratia sp.	2.17	*	*crude extracet of Escherichia coli cells expressing the enzyme from plasmid pET-mbdh-nox-vgb, pH 8.0, 22&deg;C
+SA	Klebsiella aerogenes	2.37	*	*purified recombinant enzyme, pH 7.6, 37&deg;C, substrates meso-2,3-butanediol and NADP+
+SA	Serratia sp.	2.47	*	*crude extracet of Escherichia coli cells expressing the enzyme from plasmid pET-mbdh-nox, pH 8.0, 22&deg;C
+SA	Corynebacterium glutamicum	2.9	*	*mutant Q140I/N146F/W190H, substrate (2S,3S)-2,3-butanediol, pH 8.0, 37&deg;C
+SA	Klebsiella aerogenes	2.9	*	*purified recombinant enzyme, pH 7.6, 37&deg;C, substrates acetoin and NADPH
+SA	Corynebacterium glutamicum	3.1	*	*mutant Q140I/N146F, substrate (2,3S)-2,3-butanediol, pH 8.0, 37&deg;C
+SA	Serratia sp.	3.32	*	*crude extracet of Escherichia coli cells expressing the enzyme from plasmid pET-mbdh, pH 8.0, 22&deg;C
+SA	Corynebacterium glutamicum	4.5	*	*mutant Q140I/N146F, substrate meso-2,3-butanediol, pH 8.0, 37&deg;C
+SA	Corynebacterium glutamicum	5.5	*	*wild-type, substrate (2S,3S)-2,3-butanediol, pH 8.0, 37&deg;C
+SA	uncultured bacterium	7.14	*	*crude recombinant enzyme, pH 7.0, 37&deg;C
+SA	Corynebacterium glutamicum	19.4	*	*mutant N146F, substrate meso-2,3-butanediol, pH 8.0, 37&deg;C
+SA	Klebsiella pneumoniae	21	*	*purified reconstituted, recombinant enzyme, reduction of 4-methyl-2-pentanone, pH 8.0, 35&deg;C
+SA	Klebsiella pneumoniae	66	*	*purified reconstituted, recombinant enzyme, oxidation of meso-2,3-butanediol, pH 8.0, 35&deg;C
+SA	Klebsiella aerogenes	119.55	*	*purified recombinant enzyme, pH 7.6, 37&deg;C, substrates meso-2,3-butanediol and NAD+
+SA	Corynebacterium glutamicum	177	*	*wild-type, substrate meso-2,3-butanediol, pH 8.0, 37&deg;C
+SA	Klebsiella pneumoniae	218	*	*purified reconstituted, recombinant enzyme, reduction of acetoin, pH 8.0, 35&deg;C
+SA	Klebsiella aerogenes	461.67	*	*purified recombinant enzyme, pH 7.6, 37&deg;C, substrates acetoin and NADH

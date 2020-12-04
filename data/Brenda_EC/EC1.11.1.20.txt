@@ -1,0 +1,31 @@
+KCAT	Mus musculus	0.1	H2O2	*in 0.1 M KPB (pH 7.0), at 24&Acirc;&deg;C; pH 7.0, 24&Acirc;&deg;C
+KCAT	Mus musculus	0.001	thioredoxin	*in 0.1 M KPB (pH 7.0), at 24&Acirc;&deg;C
+KCAT	Mus musculus	0.25	prostaglandin H2	*in 0.1 M KPB (pH 7.0), at 24&Acirc;&deg;C
+KCAT	Mus musculus	0.09	tert-butyl hydroperoxide	*pH 7.0, 24&Acirc;&deg;C
+KCAT	Mus musculus	0.1	cumene hydroperoxide	*in 0.1 M KPB (pH 7.0), at 24&Acirc;&deg;C; pH 7.0, 24&Acirc;&deg;C
+KCAT	Mus musculus	0.09	t-butyl hydroperoxide	*in 0.1 M KPB (pH 7.0), at 24&Acirc;&deg;C
+KCAT	Mus musculus	0.09	prostamide H2	*in 0.1 M KPB (pH 7.0), at 24&Acirc;&deg;C
+KCAT	Mus musculus	0.25	(5Z,9alpha,11alpha,13E,15S)-9,11-epidioxy-15-hydroxy-prosta-5,13-dienoate	*pH 7.0, 24&Acirc;&deg;C, i.e. prostaglandin H2
+KCAT	Mus musculus	0.09	(5Z)-N-(2-hydroxyethyl)-7-[(1R,4S,5R,6R)-6-[(1E,3S)-3-hydroxyoct-1-en-1-yl]-2,3-dioxabicyclo[2.2.1]hept-5-yl]hept-5-enamide	*pH 7.0, 24&Acirc;&deg;C, i.e. prostamide H2
+KM	Mus musculus	0.001	thioredoxin	*pH 7.0, 24&deg;C
+KM	Mus musculus	0.0069	(5Z,9alpha,11alpha,13E,15S)-9,11-epidioxy-15-hydroxy-prosta-5,13-dienoate	*pH 7.0, 24&deg;C, i.e. prostaglandin H2
+KM	Mus musculus	0.0069	H2O2	*in 0.1 M KPB (pH 7.0), at 24&deg;C
+KM	Mus musculus	0.0069	prostaglandin H2	*in 0.1 M KPB (pH 7.0), at 24&deg;C
+KM	Sus scrofa	0.007	(5Z,9alpha,11alpha,13E,15S)-9,11-epidioxy-15-hydroxy-prosta-5,13-dienoate	*i.e. prostaglandin H2, pH 7.0, 24&deg;C
+KM	Mus musculus	0.0076	(5Z)-N-(2-hydroxyethyl)-7-[(1R,4S,5R,6R)-6-[(1E,3S)-3-hydroxyoct-1-en-1-yl]-2,3-dioxabicyclo[2.2.1]hept-5-yl]hept-5-enamide	*pH 7.0, 24&deg;C, i.e. prostamide H2
+KM	Mus musculus	0.0076	prostamide H2	*in 0.1 M KPB (pH 7.0), at 24&deg;C
+KM	Sus scrofa	0.014	(5Z)-N-(2-hydroxyethyl)-7-[(1R,4S,5R,6R)-6-[(1E,3S)-3-hydroxyoct-1-en-1-yl]-2,3-dioxabicyclo[2.2.1]hept-5-yl]hept-5-enamide	*i.e. prostamide H2, pH 7.0, 24&deg;C
+KM	Mus musculus	0.026	cumene hydroperoxide	*in 0.1 M KPB (pH 7.0), at 24&deg;C; pH 7.0, 24&deg;C
+KM	Mus musculus	0.4	t-butyl hydroperoxide	*in 0.1 M KPB (pH 7.0), at 24&deg;C
+KM	Mus musculus	0.4	tert-butyl hydroperoxide	*pH 7.0, 24&deg;C
+KM	Mus musculus	1.6	H2O2	*pH 7.0, 24&deg;C
+MW	Mus musculus	20000	*	*SDS-PAGE
+MW	Sus scrofa	20000	*	*x * 20000, SDS-PAGE
+MW	Mus musculus	21670	*	*calculated from amino acid sequence
+PATH	*	Arachidonic acid metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Sus scrofa	0.053	*	*prostamine F synthase activity, pH 7.0, 24&deg;C
+SA	Sus scrofa	0.062	*	*prostaglandin F synthase activity, pH 7.0, 24&deg;C
+SA	Mus musculus	0.25	*	*prostamine F synthase activity, pH 7.0, 24&deg;C; substrate: tert-butyl hydroperoxide, pH 7.0, 24&deg;C
+SA	Mus musculus	0.28	*	*substrate: cumene hydroperoxide, pH 7.0, 24&deg;C; substrate: H2O2, pH 7.0, 24&deg;C
+SA	Mus musculus	0.69	*	*prostaglandin F synthase activity, pH 7.0, 24&deg;C

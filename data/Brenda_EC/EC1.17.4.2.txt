@@ -1,0 +1,70 @@
+KCAT	Lactobacillus leichmannii	0.0145	ATP	*
+KCAT	Lactobacillus leichmannii	0.00367	CTP	*
+KCAT	Lactobacillus leichmannii	0.0183	CTP	*
+KCAT	Lactobacillus leichmannii	0.0233	CTP	*
+KCAT	Lactobacillus leichmannii	0.03	CTP	*
+KCAT	Lactobacillus leichmannii	0.0158	UTP	*
+KM	Lactobacillus leichmannii	0.0003	adenosylcobalamin	*presence of 1.0 mM CTP and 1 mM dATP
+KM	Lactobacillus leichmannii	0.00045	adenosylcobalamin	*presence of 0.1 mM CTP and 1 mM dATP
+KM	Lactobacillus leichmannii	0.0055	adenosylcobalamin	*presence of 2 mM CTP without activator
+KM	Kitasatospora aureofaciens	0.01	CTP	*immobilized enzyme
+KM	Kitasatospora aureofaciens	0.01	UTP	*immobilized enzyme
+KM	Kitasatospora aureofaciens	0.015	ATP	*immobilized enzyme
+KM	Lactobacillus leichmannii	0.017	dGTP	*
+KM	Anabaena sp.	0.02	CTP	*presence of 0.05 mM dATP
+KM	Lactobacillus leichmannii	0.06	adenosylcobalamin	*
+KM	Kitasatospora aureofaciens	0.07	ATP	*in presence of effector dGTP
+KM	Kitasatospora aureofaciens	0.08	ADP	*in presence of effector dGTP
+KM	Kitasatospora aureofaciens	0.085	CTP	*presence of effector dATP
+KM	Euglena gracilis	0.09	CTP	*in presence of dATP
+KM	Kitasatospora aureofaciens	0.09	GTP	*immobilized enzyme
+KM	Kitasatospora aureofaciens	0.11	CDP	*presence of effector dATP
+KM	Lactobacillus leichmannii	0.13	CTP	*presence of 1 mM dATP
+KM	Euglena gracilis	0.15	CTP	*in presence of dTTP
+KM	Lactobacillus leichmannii	0.22	ATP	*presence of 1 mM dGTP
+KM	Euglena gracilis	0.25	ATP	*in presence of dTTP
+KM	Thermus sp.	0.29	GTP	*at 37&deg;C
+KM	Thermus sp.	0.32	CTP	*at 37&deg;C
+KM	Euglena gracilis	0.44	ATP	*
+KM	Thermus sp.	0.99	GTP	*at 70&deg;C
+KM	Thermus sp.	1	ATP	*at 70&deg;C
+KM	Thermus sp.	1.4	CTP	*at 70&deg;C
+KM	Lactobacillus leichmannii	1.7	CTP	*
+KM	Lactobacillus leichmannii	2.3	ATP	*
+KM	Lactobacillus leichmannii	9.5	CTP	*without ATP
+MW	Anabaena sp.	50000	*	*1 * 50000, SDS-PAGE
+MW	Lactobacillus leichmannii	69300	*	*enzyme in 6 M guanidine-HCl, 0.1 M dithiothreitol, equilibrium ultracentrifugation
+MW	Anabaena sp.	72000	*	*gel filtration
+MW	Lactobacillus leichmannii	72500	*	*native enzyme in 0.1 M glycine buffer, pH 9.1, equilibrium ultracentrifugation
+MW	Lactobacillus leichmannii	72600	*	*maleated enzyme in 0.05 M phosphate buffer, equilibrium ultracentrifugation
+MW	Lactobacillus leichmannii	74500	*	*enzyme in 6 M guanidine-HCl, 0.1 M dithiothreitol, heated for 20 min at 60&deg;C, equilibrium ultracentrifugation
+MW	Lactobacillus leichmannii	75300	*	*native enzyme in 0.05 M phosphate buffer, pH 7.0, sedimentation equilibrium method
+MW	Lactobacillus leichmannii	76000	*	*gel filtration
+MW	Lactobacillus leichmannii	76000	*	*
+MW	Lactobacillus leichmannii	76000	*	*
+MW	Lactobacillus leichmannii	76000	*	*
+MW	Lactobacillus leichmannii	78400	*	*SDS-PAGE
+MW	Thermus sp.	80000	*	*gel filtration
+MW	Lactobacillus leichmannii	81800	*	*MALDI-TOF mass spectrometry
+MW	Lactobacillus leichmannii	81850	*	*predicted molecular weight based on the predicted amino acid sequence from the sequenced gene
+MW	Lactobacillus leichmannii	82000	*	*
+MW	Pyrococcus furiosus	90000	*	*
+MW	Thermotoga maritima	90000	*	*gel filtraton
+MW	Euglena gracilis	100000	*	*4 * 100000, SDS-PAGE
+MW	Thermoplasma acidophilum	100000	*	*size exclusion chromatography, SDS-PAGE
+MW	Deinococcus radiodurans	107000	*	*deduced amino acid sequence
+MW	Lactobacillus leichmannii	110000	*	*sedimentation equilibrium analysis
+MW	Euglena gracilis	140000	*	*
+MW	Escherichia coli	240000	*	*
+MW	Escherichia coli	240000	*	*
+MW	Euglena gracilis	440000	*	*gel filtration
+PATH	*	Metabolic pathways	*	*
+PATH	*	Purine metabolism	*	*
+PATH	*	purine metabolism	*	*
+PATH	*	Pyrimidine metabolism	*	*
+SA	Thermoplasma acidophilum	0.0018	*	*
+SA	Euglena gracilis	0.167	*	*
+SA	Lactobacillus leichmannii	2.82	*	*
+SA	Lactobacillus leichmannii	16	*	*
+SA	Anabaena sp.	77.25	*	*
+SA	Lactobacillus leichmannii	576	*	*

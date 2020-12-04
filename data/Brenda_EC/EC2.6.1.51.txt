@@ -1,0 +1,67 @@
+KCAT	Drosophila melanogaster	113	glyoxylate	*
+KCAT	Drosophila melanogaster	131	alanine	*
+KM	Oncorhynchus mykiss	0.21	pyruvate	*pH 8.4-9.2, 15&Acirc;&deg;C
+KM	Rattus norvegicus	0.48	pyruvate	*pH 7.4, 37&Acirc;&deg;C
+KM	Rattus norvegicus	1	pyruvate	*pH 8.0, 37&Acirc;&deg;C, serine as amino donor
+KM	Rattus norvegicus	1.1	pyruvate	*pH 8.0, 30&Acirc;&deg;C, native and recombinant enzyme
+KM	Mus musculus	1.2	pyruvate	*pH 8.0, 37&Acirc;&deg;C, serine as amino donor
+KM	Felis catus	1.6	pyruvate	*pH 8.0, 37&Acirc;&deg;C, serine as amino donor
+KM	Canis lupus familiaris	1.7	pyruvate	*pH 8.0, 37&Acirc;&deg;C, serine as amino donor
+KM	Phaseolus vulgaris	38	pyruvate	*pH 8.0, 30&Acirc;&deg;C
+KM	Drosophila melanogaster	51	pyruvate	*pH 7.0, 50&Acirc;&deg;C, recombinant enzyme
+KM	Oncorhynchus mykiss	8.1	L-serine	*pH 8.4-9.2, 15&Acirc;&deg;C, Km increases with rising temperature, remains constant over the range 5-30&Acirc;&deg;C
+KM	Rattus norvegicus	0.01	glyoxylate	*pH 7.4, 37&Acirc;&deg;C
+KM	Rattus norvegicus	0.0246	glyoxylate	*pH 8.0, 30&Acirc;&deg;C, native enzyme
+KM	Rattus norvegicus	0.0336	glyoxylate	*pH 8.0, 30&Acirc;&deg;C, recombinant enzyme
+KM	Drosophila melanogaster	64	glyoxylate	*pH 7.0, 50&Acirc;&deg;C, recombinant enzyme
+KM	Oncorhynchus mykiss	2.2	L-alanine	*pH 8.4-9.2, 15&Acirc;&deg;C
+KM	Oncorhynchus mykiss	4	Hydroxypyruvate	*pH 8.4-9.2, 15&Acirc;&deg;C
+KM	Drosophila melanogaster	149	alanine	*pH 7.0, 50&Acirc;&deg;C, recombinant enzyme
+KM	Phaseolus vulgaris	0.39	serine	*pH 8.0, 30&Acirc;&deg;C
+KM	Canis lupus familiaris	8	serine	*pH 8.0, 37&Acirc;&deg;C, pyruvate as amino acceptor
+KM	Felis catus	10	serine	*pH 8.0, 37&Acirc;&deg;C, pyruvate as amino acceptor
+KM	Rattus norvegicus	16	serine	*pH 8.0, 37&Acirc;&deg;C, pyruvate as amino acceptor
+KM	Mus musculus	18	serine	*pH 8.0, 37&Acirc;&deg;C, pyruvate as amino acceptor
+KM	Drosophila melanogaster	256	serine	*pH 7.0, 50&Acirc;&deg;C, recombinant enzyme
+MW	Rattus norvegicus	38000	*	*2 * 38000, SDS-PAGE
+MW	Rattus norvegicus	43000	*	*2 * 43000, recombinant enzyme, SDS-PAGE
+MW	Rattus norvegicus	43000	*	*2 * 43000, SDS-PAGE
+MW	Rattus norvegicus	43000	*	*2 * 43000, SDS-PAGE
+MW	Rattus norvegicus	44400	*	*2 * 44400, recombinant enzyme, SDS-PAGE
+MW	Canis lupus familiaris	73000	*	*sucrose density gradient centrifugation
+MW	Felis catus	73000	*	*sucrose density gradient centrifugation
+MW	Mus musculus	73000	*	*sucrose density gradient centrifugation
+MW	Rattus norvegicus	73000	*	*sucrose density gradient centrifugation
+MW	Rattus norvegicus	73000	*	*gel filtration
+MW	Canis lupus familiaris	75000	*	*gel filtration
+MW	Felis catus	75000	*	*gel filtration
+MW	Mus musculus	75000	*	*gel filtration
+MW	Rattus norvegicus	75000	*	*gel filtration
+MW	Rattus norvegicus	75000	*	*sucrose density gradient centrifugation
+MW	Rattus norvegicus	80000	*	*gel filtration
+PATH	*	Glycine, serine and threonine metabolism	*	*
+PATH	*	L-serine biosynthesis II	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	serine metabolism	*	*
+SA	Rattus norvegicus	2.02	*	*alanine-hydroxypyruvate transamination
+SA	Mus musculus	2.23	*	*alanine-hydroxypyruvate transamination
+SA	Rattus norvegicus	3.47	*	*serine-pyruvate aminotransferase activity
+SA	Mus musculus	3.58	*	*serine-pyruvate transamination
+SA	Rattus norvegicus	4.08	*	*serine-pyruvate transamination
+SA	Rattus norvegicus	4.62	*	*recombinant enzyme
+SA	Rattus norvegicus	5.41	*	*recombinant enzyme
+SA	Pisum sativum	8.2	*	*source leaf, age 10 days
+SA	Pisum sativum	8.3	*	*source apical meristem, age 16 days
+SA	Pisum sativum	8.5	*	*source apical meristem, age 15 days; source leaf, age 11 days
+SA	Pisum sativum	8.6	*	*source apical meristem, age 13 days
+SA	Pisum sativum	8.8	*	*source leaf, age 13 days
+SA	Pisum sativum	9.4	*	*source apical meristem, age 10 days
+SA	Pisum sativum	9.5	*	*source apical meristem, age 11 days
+SA	Pisum sativum	11.1	*	*source leaf, age 16 days
+SA	Canis lupus familiaris	13	*	*serine-pyruvate transamination
+SA	Pisum sativum	13.1	*	*source leaf, age 15 days
+SA	Canis lupus familiaris	13.12	*	*
+SA	Felis catus	14	*	*serine-pyruvate transamination
+SA	Felis catus	16.63	*	*alanine-hydroxypyruvate transamination
+SA	Rattus norvegicus	25.7	*	*histidine-pyruvate aminotransferase activity
+SA	Canis lupus familiaris	31.38	*	*alanine-hydroxypyruvate transamination

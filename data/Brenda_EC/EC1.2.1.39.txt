@@ -1,0 +1,56 @@
+KCAT	Escherichia coli	3.5	NAD+	*pH 7.5, cosubstrate: propionaldehyde
+KCAT	Escherichia coli	20.17	NAD+	*pH 7.5, cosubstrate: propionaldehyde
+KCAT	Aromatoleum aromaticum	53	NAD+	*pH 8.5, 28&Acirc;&deg;C
+KCAT	Escherichia coli	9	NADP+	*pH 7.5, cosubstrate: propionaldehyde
+KCAT	Aromatoleum aromaticum	63	NADP+	*pH 8.5, 28&Acirc;&deg;C
+KCAT	Escherichia coli	14.5	acetaldehyde	*pH 7.5
+KCAT	Escherichia coli	0.16	benzaldehyde	*pH 7.5
+KCAT	Escherichia coli	20.8	propionaldehyde	*pH 7.5
+KCAT	Escherichia coli	21.8	hexanal	*pH 7.5
+KCAT	Escherichia coli	96.8	phenylacetaldehyde	*pH 7.5
+KCAT	Escherichia coli	26.7	Heptanal	*pH 7.5
+KM	Pseudomonas putida	-999	more	*kinetic analysis
+KM	Aromatoleum aromaticum	-999	more	*kinetic analysis, overview. The enzyme shows cooperative kinetics toward substrate phenylacetaldehyde and considerable substrate inhibition
+KM	Brevibacterium sp.	0.00124	phenylacetaldehyde	*
+KM	Escherichia coli	0.004	4-hydroxyphenylacetaldehyde	*
+KM	Escherichia coli	0.0056	hexanal	*pH 7.5
+KM	Escherichia coli	0.006	3,4-dihydroxyphenylacetaldehyde	*
+KM	Escherichia coli	0.0066	Heptanal	*pH 7.5
+KM	Escherichia coli	0.007	phenylacetaldehyde	*
+KM	Escherichia coli	0.008	benzaldehyde	*pH 7.5
+KM	Escherichia coli	0.0116	phenylacetaldehyde	*pH 7.5
+KM	Aromatoleum aromaticum	0.018	NAD+	*pH 8.5, 28&deg;C
+KM	Aromatoleum aromaticum	0.025	NADP+	*pH 8.5, 28&deg;C
+KM	Escherichia coli	0.035	NAD+	*pH 7.5, cosubstrate: propionaldehyde
+KM	Pseudomonas putida	0.0487	NAD+	*pH 8.5, 25&deg;C
+KM	Achromobacter eurydice	0.07	NAD+	*
+KM	Escherichia coli	0.07	propionaldehyde	*pH 7.5
+KM	Brevibacterium sp.	0.116	NAD+	*
+KM	Escherichia coli	0.22	NADP+	*pH 7.5, cosubstrate: propionaldehyde
+KM	Escherichia coli	2.15	acetaldehyde	*pH 7.5
+MW	Pseudomonas putida	53290	*	*; calculated
+MW	Escherichia coli	53700	*	*2 * 53700, calculation from nucleotide sequence
+MW	Escherichia coli	54000	*	*x * 54000, SDS-PAGE
+MW	Escherichia coli	55000	*	*2 * 55000, SDS-PAGE
+MW	Brevibacterium sp.	61000	*	*4 * 61000, SDS-PAGE
+MW	Escherichia coli	115000	*	*
+MW	Escherichia coli	210700	*	*gel filtration
+MW	Brevibacterium sp.	219000	*	*gel filtration
+MW	Pseudomonas putida	227000	*	*recombinant His-tagged enzyme, gel filtration
+PATH	*	L-phenylalanine degradation II (anaerobic)	*	*
+PATH	*	L-phenylalanine degradation IV (mammalian, via side chain)	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Phenylalanine metabolism	*	*
+PATH	*	phenylalanine metabolism	*	*
+PATH	*	phenylethylamine degradation I	*	*
+PATH	*	phenylethylamine degradation II	*	*
+PATH	*	styrene degradation	*	*
+PATH	*	Styrene degradation	*	*
+SA	Pseudomonas putida	-999	*	*Analysis of phenylacetaldehyde dehydrogenase activity in cell-free extracts reveals that although enzymatic activity decreases in the peaE knocked-out mutant (20% with respect to the control), good phenylacetaldehyde dehydrogenase activity is present. Another aldehyde dehydrogenase(s) exist(s) that could replace the role played by PeaE
+SA	Aromatoleum aromaticum	0.102	*	*purified native enzyme, with cofactor NADP+, pH 8.5, 28&Acirc;&deg;C
+SA	Aromatoleum aromaticum	0.21	*	*purified recombinant Strep-tagged enzyme, pH 8.5, 28&Acirc;&deg;C
+SA	Brevibacterium sp.	0.261	*	*cell-free extract
+SA	Brevibacterium sp.	4.16	*	*15.9fold purified enzyme
+SA	Achromobacter eurydice	19	*	*
+SA	Escherichia coli	41	*	*

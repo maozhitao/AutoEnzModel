@@ -1,0 +1,83 @@
+KCAT	Glycine max	8.4	glutathione	*30&Acirc;&deg;C, pH 8.5
+KCAT	Glycine max	10.1	dithiothreitol	*30&Acirc;&deg;C, pH 8.5
+KCAT	Physcomitrella patens	0.176	adenosine 5'-phosphosulfate	*
+KCAT	Physcomitrella patens	0.00075	3'-phosphoadenosine 5'-phosphosulfate	*
+KCAT	Mycobacterium tuberculosis	0.153	5'-adenylylsulfate	*assay conditions: APS reductase (0.00021 mM), PK (8.4 units/ml), LDH (18.0 units/ml), adenylate kinase (10 units/ml), thioredoxin (0.0373 mM), MgCl2 (3.0 mM), DTT (2.0 mM), ATP (1.0 mM), PEP (1.0 mM), EDTA (1.0 mM), GSH (5.0 mM), NADH (0.030 mM), and Hepes (50 mM, pH 8.0), at 25&Acirc;&deg;C
+KCAT	Catharanthus roseus	2.1	5'-adenylylsulfate	*with glutathione as reductant
+KCAT	Catharanthus roseus	3.4	5'-adenylylsulfate	*with DTT as reductant
+KCAT	Lemna minor	56	5'-adenylylsulfate	*
+KCAT	Mycobacterium tuberculosis	0.012	3'-phosphoadenosine-5'-phosphosulfate	*assay conditions: APS reductase (0.0009 mM), EST (0.10 unit/ml), thioredoxin (0.037 mM), MgCl2 (3.0 mM), DTT (2.0 mM), pNPS (10 mM), GSH (5.0 mM), and Hepes (50 mM, pH 8.0), at 25&Acirc;&deg;C
+KCAT	Glycine max	8.4	5'-adenylyl sulfate	*30&Acirc;&deg;C, pH 8.5, cosubstrate: dithiothreitol
+KCAT	Glycine max	11.3	5'-adenylyl sulfate	*30&Acirc;&deg;C, pH 8.5, cosubstrate: glutathione
+KM	Ulva intestinalis	0.0002	glutathione	*
+KM	Glycine max	0.495	glutathione	*30&Acirc;&deg;C, pH 8.5
+KM	Arabidopsis thaliana	0.6	glutathione	*holoenzyme APR1p with substrate 5'-adenylyl sulfate, pH 8.5, 30&Acirc;&deg;C
+KM	Arabidopsis thaliana	1.12	glutathione	*about, holoenzyme APR1p and C-domain with substrates hydroxyethyldisulfide, or cystine, pH 8.0, 24&Acirc;&deg;C
+KM	Arabidopsis thaliana	1.15	glutathione	*about, holoenzyme APR1p and C-domain with substrate dehydroascorbate, pH 6.9, 24&Acirc;&deg;C
+KM	Ulva intestinalis	1.39	glutathione	*with 5'-adenylylsulfate as substrate
+KM	Catharanthus roseus	3	glutathione	*with 5'-adenylylsulfate as substrate
+KM	Lemna minor	16.8	glutathione	*with 0.04 mM adenylylsulfate
+KM	Glycine max	0.595	dithiothreitol	*30&Acirc;&deg;C, pH 8.5
+KM	Catharanthus roseus	0.4	DTT	*with 5'-adenylylsulfate as substrate
+KM	Physcomitrella patens	0.05	adenosine 5'-phosphosulfate	*
+KM	Physcomitrella patens	0.02	3'-phosphoadenosine 5'-phosphosulfate	*
+KM	Mycobacterium tuberculosis	0.00057	5'-adenylylsulfate	*assay conditions: APS reductase (0.00021 mM), PK (8.4 units/ml), LDH (18.0 units/ml), adenylate kinase (10 units/ml), thioredoxin (0.0373 mM), MgCl2 (3.0 mM), DTT (2.0 mM), ATP (1.0 mM), PEP (1.0 mM), EDTA (1.0 mM), GSH (5.0 mM), NADH (0.030 mM), and Hepes (50 mM, pH 8.0), at 25&Acirc;&deg;C
+KM	Catharanthus roseus	0.0025	5'-adenylylsulfate	*with glutathione as reductant
+KM	Pseudomonas aeruginosa	0.0033	5'-adenylylsulfate	*in the presence of 0.001 mM thioredoxin
+KM	Catharanthus roseus	0.0038	5'-adenylylsulfate	*with DTT as reductant
+KM	Pseudomonas aeruginosa	0.0052	5'-adenylylsulfate	*in the presence of 0.01 mM thioredoxin
+KM	Ulva intestinalis	0.0065	5'-adenylylsulfate	*with glutathione as reductant
+KM	Lemna minor	0.0065	5'-adenylylsulfate	*with 10 mM glutathione as reductant
+KM	Lemna minor	0.0122	5'-adenylylsulfate	*with 40 mM glutathione as reductant
+KM	Mycobacterium tuberculosis	0.031	3'-phosphoadenosine-5'-phosphosulfate	*assay conditions: APS reductase (0.0009 mM), EST (0.10 unit/ml), thioredoxin (0.037 mM), MgCl2 (3.0 mM), DTT (2.0 mM), pNPS (10 mM), GSH (5.0 mM), and Hepes (50 mM, pH 8.0), at 25&Acirc;&deg;C
+KM	Ulva intestinalis	0.011	5'-adenylyl sulfate	*
+KM	Glycine max	0.0112	5'-adenylyl sulfate	*30&Acirc;&deg;C, pH 8.5, cosubstrate: dithiothreitol
+KM	Glycine max	0.0174	5'-adenylyl sulfate	*30&Acirc;&deg;C, pH 8.5, cosubstrate: glutathione
+MW	Archaeoglobus fulgidus	20000	*	*2 * 75000 + 2 * 20000
+MW	Pseudomonas aeruginosa	29000	*	*x * 29000, recombinant enzyme, SDS-PAGE
+MW	Physcomitrella patens	32000	*	*x * 32000, SDS-PAGE
+MW	Arabidopsis thaliana	43000	*	*mature protein without chloroplast transit peptide, calculated from cDNA sequence
+MW	Lemna minor	43000	*	*SDS-PAGE
+MW	Lemna minor	43640	*	*calculated from cDNA sequence
+MW	Catharanthus roseus	45000	*	*mature protein without chloroplast transit peptide, calculated from cDNA sequence
+MW	Arabidopsis thaliana	45600	*	*clone APR2, calculated from cDNA sequence
+MW	Ulva intestinalis	45700	*	*mature protein without chloroplast transit peptide, calculated from cDNA sequence
+MW	Glycine max	46000	*	*2 * 46000, SDS-PAGE
+MW	Arabidopsis thaliana	47300	*	*clone APR3, calculated from cDNA sequence
+MW	Physcomitrella patens	50000	*	*x * 50000, recombinant His-tagged PpAPR, SDS-PAGE
+MW	Arabidopsis thaliana	50450	*	*clone Prh-43, calculated from cDNA sequence
+MW	Arabidopsis thaliana	50500	*	*clone Prh-26, calculated from cDNA sequence
+MW	Arabidopsis thaliana	50800	*	*clone APR1, calculated from cDNA sequence
+MW	Arabidopsis thaliana	51300	*	*clone Prh-19, calculated from cDNA sequence
+MW	Catharanthus roseus	51390	*	*calculated from cDNA sequence
+MW	Archaeoglobus fulgidus	75000	*	*2 * 75000 + 2 * 20000
+MW	Lemna minor	91300	*	*estimation by gel filtration with Superose 12
+PATH	*	assimilatory sulfate reduction II	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	selenate reduction	*	*
+PATH	*	sulfate reduction	*	*
+PATH	*	Sulfur metabolism	*	*
+SA	Arabidopsis thaliana	-999	*	*
+SA	Arabidopsis thaliana	0.000002	*	*with 3'-phosphoadenosine 5'-phosphosulfate as substrate and 5 mM DTT, recombinant protein expressed in Escherichia coli
+SA	Arabidopsis thaliana	0.000007	*	*with 3'-phosphoadenosine 5'-phosphosulfate as substrate and 5 mM DTT, recombinant protein expressed in Escherichia coli
+SA	Arabidopsis thaliana	0.00022	*	*with 5'-adenylylsulfate as substrate and 5 mM DTT, recombinant protein expressed in Escherichia coli
+SA	Heterocapsa triquetra	0.0005	*	*crude cell lysate
+SA	Arabidopsis thaliana	0.00059	*	*with 5'-adenylylsulfate as substrate and 5 mM DTT, recombinant protein expressed in Escherichia coli
+SA	Arabidopsis thaliana	0.00077	*	*wild-type plants
+SA	Brassica juncea	0.001	*	*crude cell lysate from young leaves
+SA	Arabidopsis thaliana	0.0013	*	*crude cell lysate from young leaves
+SA	Arabidopsis thaliana	0.0023	*	*transgenic plants with the recombinant Pseudomonas aeruginosa enzyme utilizing thioredoxin
+SA	Pseudomonas aeruginosa	0.0023	*	*recombinant enzyme in transgenic Arabidopsis thaliana plants, cofactor thioredoxin
+SA	Ulva intestinalis	0.004	*	*crude cell lysate
+SA	Arabidopsis thaliana	0.013	*	*after purification of His-tagged protein with Nickel-affinity chromatography
+SA	Lemna minor	0.02	*	*crude extract, plants treated with 10 mM NH4Cl
+SA	Ulva intestinalis	0.04	*	*purified recombinant enzyme
+SA	Dunaliella salina	0.05	*	*crude cell lysate
+SA	Thalassiosira oceanica	0.08	*	*crude cell lysate
+SA	Isochrysis galbana	0.1	*	*
+SA	Ulva intestinalis	0.1	*	*crude cell lysate
+SA	Emiliania huxleyi	0.1	*	*crude cell lysate
+SA	Tetraselmis sp.	0.1	*	*crude cell lysate
+SA	Conticribra weissflogii	0.2	*	*crude cell lysate
+SA	Glycine max	0.207	*	*

@@ -1,0 +1,40 @@
+KCAT	Pyrococcus furiosus	258	NADPH	*pH 8, 80&Acirc;&deg;C, cosubstrate: benzyl viologen
+KCAT	Pyrococcus furiosus	341	NADPH	*pH 8.0, 80&Acirc;&deg;C, cosubstrate: benzyl viologen
+KCAT	Pyrococcus furiosus	354	NADH	*pH 8.0, 80&Acirc;&deg;C, cosubstrate: benzyl viologen
+KCAT	Pyrococcus furiosus	498	NADH	*pH 8, 80&Acirc;&deg;C, cosubstrate: benzyl viologen
+KCAT	Pyrococcus furiosus	1236	Oxidized benzyl viologen	*pH 8, 80&Acirc;&deg;C, cosubstrate: NADH
+KCAT	Entamoeba histolytica	3	oxidized Clostridium pasteurianum rubredoxin	*with NADH as cosubstrate, at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Entamoeba histolytica	9.6	oxidized Pyrococcus furiosus rubredoxin	*with NADPH as cosubstrate, at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Entamoeba histolytica	13.9	oxidized Clostridium pasteurianum rubredoxin	*with NADPH as cosubstrate, at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Entamoeba histolytica	69.4	oxidized Pyrococcus furiosus rubredoxin	*with NADH as cosubstrate, at pH 7.0 and 30&Acirc;&deg;C
+KCAT	Pyrococcus furiosus	221	oxidized rubredoxin	*pH 8.0, 25&Acirc;&deg;C, cosubstrate NADPH
+KCAT	Pyrococcus furiosus	350	oxidized rubredoxin	*pH 8, 23&Acirc;&deg;C, cosubstrate: NADPH
+KCAT	Pyrococcus furiosus	8980	oxidized rubredoxin	*pH 8, 80&Acirc;&deg;C, cosubstrate: NADPH
+KCAT	Pyrococcus furiosus	15000	oxidized rubredoxin	*pH 8.0, 80&Acirc;&deg;C, cosubstrate NADPH
+KM	Pyrococcus furiosus	0.0016	oxidized rubredoxin	*pH 8, 23&deg;C, cosubstrate: NADPH
+KM	Entamoeba histolytica	0.0028	oxidized Clostridium pasteurianum rubredoxin	*with NADPH as cosubstrate, at pH 7.0 and 30&deg;C
+KM	Entamoeba histolytica	0.0032	oxidized Pyrococcus furiosus rubredoxin	*with NADPH as cosubstrate, at pH 7.0 and 30&deg;C
+KM	Entamoeba histolytica	0.0043	oxidized Clostridium pasteurianum rubredoxin	*with NADH as cosubstrate, at pH 7.0 and 30&deg;C
+KM	Pyrococcus furiosus	0.005	NADPH	*
+KM	Pyrococcus furiosus	0.005	NADPH	*pH 8.0, 80&deg;C, cosubstrate benzyl viologen
+KM	Entamoeba histolytica	0.0052	oxidized Pyrococcus furiosus rubredoxin	*with NADH as cosubstrate, at pH 7.0 and 30&deg;C
+KM	Pyrococcus furiosus	0.0095	rubredoxin	*25&deg;C
+KM	Pyrococcus furiosus	0.01	oxidized rubredoxin	*pH 8.0, 80&deg;C, cosubstrate NADPH
+KM	Pyrococcus furiosus	0.034	NADH	*
+KM	Pyrococcus furiosus	0.034	NADH	*pH 8.0, 80&deg;C, cosubstrate benzyl viologen
+KM	Pyrococcus furiosus	0.037	oxidized rubredoxin	*pH 8, 80&deg;C, cosubstrate: NADPH
+KM	Pyrococcus furiosus	0.048	NADPH	*pH 8, 80&deg;C, cosubstrate: benzyl viologen
+KM	Pyrococcus furiosus	0.05	oxidized rubredoxin	*pH 8.0, 80&deg;C, cosubstrate: NADPH
+KM	Pyrococcus furiosus	0.05	rubredoxin	*80&deg;C
+KM	Pyrococcus furiosus	0.18	NADH	*pH 8, 80&deg;C, cosubstrate: benzyl viologen
+KM	Pyrococcus furiosus	5.5	Oxidized benzyl viologen	*pH 8, 80&deg;C, cosubstrate: NADH
+MW	Pyrococcus furiosus	39900	*	*x * 39900, calculated from sequence
+MW	Pyrococcus furiosus	40000	*	*x * 40000, SDS-PAGE
+MW	Entamoeba histolytica	41000	*	*gel filtration
+MW	Pyrococcus furiosus	45000	*	*gel filtration
+MW	Pyrococcus furiosus	45000	*	*1 * 45000, SDS-PAGE
+MW	Pyrococcus furiosus	51000	*	*gel filtration
+PATH	*	Fatty acid degradation	*	*
+PATH	*	non-pathway related	*	*
+SA	Pyrococcus furiosus	1000	*	*
+SA	Pyrococcus furiosus	20000	*	*pH 8.0, 80&deg;C

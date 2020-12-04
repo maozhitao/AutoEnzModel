@@ -1,0 +1,84 @@
+KCAT	Sus scrofa	0.0000019	N-hydroxy-benzenecarboximidamide	*at 37&deg;C
+KCAT	Rattus norvegicus	0.35	stearoyl-CoA	*25&deg;C
+KCAT	Rattus norvegicus	0.35	stearoyl-CoA	*fatty acyl-CoA substrates with chain length of 14-19 carbon atoms show similar turnover number of about 22
+KCAT	Spinacia oleracea	0.5	stearoyl-acyl-carrier protein	*
+KM	Fusarium oxysporum	0.038	NADPH	*
+KM	Mycolicibacterium phlei	0.8	NADPH	*
+KM	Bos taurus	0.003	NADH	*
+KM	Fusarium oxysporum	0.089	NADH	*
+KM	Mycolicibacterium phlei	0.001	FAD	*
+KM	Mycolicibacterium phlei	0.0025	FMN	*
+KM	Sus scrofa	0.0033	stearoyl-CoA	*
+KM	Rattus norvegicus	0.0105	stearoyl-CoA	*in 150 mM KCl, 40 mM NaF, 100 mM sodium phosphate buffer, pH 7.4, at 37&Acirc;&deg;C
+KM	Bos taurus	0.025	stearoyl-CoA	*
+KM	Plasmodium falciparum	0.0566	stearoyl-CoA	*in 0.1 M potassium phosphate buffer pH 7.2, at 37&Acirc;&deg;C
+KM	Rattus norvegicus	-999	more	*substrates with 14-19 carbon fatty acyl chains show similar Km values of 0.0045-0.005 mM
+MW	Mus musculus	-999	*	*SCD protein undetectable in 24 microg/day leptin-treated ob/ob mice with or without exogenous insulin treatment
+MW	Rattus norvegicus	26500	*	*gel filtration
+MW	Rattus norvegicus	27000	*	*1 * 27000, SDS-PAGE
+MW	Cyprinus carpio	33000	*	*
+MW	Gallus gallus	33600	*	*x * 33600, SDS-PAGE
+MW	Gallus gallus	33600	*	*x * 33600, SDS-PAGE
+MW	Cyprinus carpio	33650	*	*x * 33650, calculated
+MW	Cyprinus carpio	33800	*	*x * 33800 for cold treated carp, SDS-PAGE
+MW	Helianthus annuus	35000	*	*x * 35000, SDS-PAGE
+MW	Homo sapiens	37000	*	*Western Blot using an antibody against SCD1
+MW	Mus musculus	37000	*	*SDS-PAGE
+MW	Rattus norvegicus	37000	*	*SDS-PAGE
+MW	Spinacia oleracea	40000	*	*homodimer, 2 * 40000
+MW	Mesocricetus auratus	40000	*	*x * 40000, recombinant enzyme, SDS-PAGE
+MW	Mus musculus	41000	*	*Myc or HA epitope tagged proteins expressed in HeLa cells, immunoblot using anti-Myc and ant-HA antibodies
+MW	Sus scrofa	41000	*	*SDS-PAGE
+MW	Pseudoalteromonas sp.	43400	*	*calculated from amino acid sequence
+MW	Picea glauca	43700	*	*x * 43700, calculated
+MW	Rattus norvegicus	53000	*	*x * 53000, disc-gel electrophoresis
+MW	Rattus norvegicus	53000	*	*x * 53000
+MW	Rattus norvegicus	55000	*	*x * 55000
+MW	Homo sapiens	58000	*	*hSCD1 fused to GFP, immunoblot with anti-GFP antibody; hSCD 5 fused to GFP, immunoblot with anti-GFP antibody
+MW	Mycobacterium tuberculosis	75000	*	*x * 75000, about, recombinant untagged enzyme, SDS-PAGE
+MW	Plasmodium falciparum	114000	*	*calculated from amino acid sequence
+PATH	*	Biosynthesis of unsaturated fatty acids	*	*
+PATH	*	lipid metabolism	*	*
+PATH	*	oleate biosynthesis II (animals and fungi)	*	*
+PATH	*	sorgoleone biosynthesis	*	*
+SA	Fusarium oxysporum	-999	*	*enzyme activity is highest in microsomes from cells grown at 37&deg;C and lowest in cells grown at 15&deg;C
+SA	Rattus norvegicus	-999	*	*maximal activity at a concentration of 0.03 mM stearoyl-CoA
+SA	Cyprinus carpio	-999	*	*cold induces an 8 to 10fold increase in specific activity
+SA	Homo sapiens	-999	*	*14C-labeled steaoryl-CoA as substrate, microsomal fraction, similar desaturase activity of hSCD5 and GFP-hSCD5, thin layer chromatography; 14C-labeled stearoyl-CoA as substrate, microsomal fraction, similar desaturase activity of hSCD1 and GFP-hSCD1, thin layer chromatography
+SA	Homo sapiens	-999	*	*incubation of A-549 cells with 25 microM C6-ceramide for 6 h and 24 h leads to a 45% and 25% decrease in enzyme activity; induction of apoptosis with 40 microM etoposide leads to a 20% decrease in enzyme activity in SV40-transformed WI38 fibroblasts compared to normal WI38 fibroblasts, which are resistant to etoposide-induced apoptosis; SV40-transformed WI38 fibroblasts exhibit a 2.2fold higher enzyme activity compared to normal WI38 cells
+SA	Sus scrofa	-999	*	*a reduced protein diet significantly increases protein expression and activity in muscle but not in subcutaneous adipose tissue
+SA	Homo sapiens	-999	*	*mean SCD1 enzyme activity is 2.1fold higher in muscle microsomes prepared from obese compred to lean donors, microsomal preparations from rectus abdominus muscle
+SA	Mus musculus	-999	*	*10fold suppression in 24 microg/day leptin-treated ob/ob mice with or without exogenous insulin treatment
+SA	Mus musculus	-999	*	*fasting reduces hepatic SCD1 protein expression and activity, and refeeding a high-carbohydrate or a high-sucrose diet increases both
+SA	Rattus norvegicus	-999	*	*Sprague-Dawley rats are food restricted at 50% of their spontaneous food intake for 2 weeks and than are refeeded, enzyme activity is significantly elevated at the end of 2 weeks of semistarvation, +72%, and remains higher on day 7 of refeeding, +44%
+SA	Bos taurus	-999	*	*enzyme activities of 33 to 39 nmol/g tissue/7 min in subcutaneous adipose tissue, 61 to 89 nmol/g tissue/7 min in interfascicular adipose tissue, 118 to 141 nmol/g tissue/7 min in duodenal mucosal cells and 9 to 21 nmol/g tissue/7 min in liver of Angus steers fed with whole cottonseed or grain source, respectively; enzyme activity in interfascicular adipose tissue ranges from 14.4 to 23.9, in subcutaneous adipose tissue from 32.5 to 44.4, in duodenal mucosal cells from 4.34 to 5.29 and in liver from 0.342 to 0.786 nmol/mg protein/7 min under diets based on corn, flaxseed, sorghum or whole cotton seed, respectively; enzyme activity in interfascicular and subcutaneous adipose tissues, or in duodendal mucosal cells and liver is not affected by diets based on corn, flaxseed, sorghum or whole cottonseed; SCD enzyme activities in interfascicular and subcutaneous adipose tissue, duodenal mucosal cells and liver are not affected by dietary whole cottonseed or grain source
+SA	Bos taurus	-999	*	*Angus and Wagyu steers consuming high-roughage diets exhibit large differences in adipose tissue fatty acid composition, but there are no differences in terminal measures of SCD activity or gene expression; higher enzyme activity in subcutaneous adipose tissue from long-fed than in short-fed steers
+SA	Mus musculus	-999	*	*40% increase in enzyme activity in hepatic microsomes in tristearin-fed compared with trioleate-fed mice
+SA	Mus musculus	-999	*	*antisense oligodeoxynucleotide-mediated inhibition SCD1 in C57BL/6J mice results in resistance to high-fat diet-induced obesity and hepatic steatosis, also lower levels of postprandial glucose and insulin, increased oxygen consumption, increased physical activity and reduced lipogenic gene expression
+SA	Mus musculus	-999	*	*enzyme activity increased by HF feeding and decreased after treatment with Scd1 sequence-specific antisense oligodeoxynucleotide compared with animals treated with scrambled antisense oligodeoxynucleotide
+SA	Rattus norvegicus	-999	*	*enzyme activity decreases by 50% in the liver after treatment with Scd1 sequence-specific antisense oligodeoxynucleotide compared with animals treated with scrambled antisense oligodeoxynucleotide
+SA	Bos taurus	-999	*	*administering CoEDTA, ytterbium acetate and chromium-mordanted straw decrease in milk cis-9 10:1/10:0, cis-9 12:1/12:0, cis-9 14:1/14:0, cis-9 16:1/16:0, cis-9 17:1/17:0, cis-9 18:1/18:0 and cis-9,trans-11 conjugated linoleic acid/trans-11 18:1 concentration rations of 44.6,52.7, 58.7, 36.8, 37.2, 44.3 and 43.0%, cowsare fed with incremental levels of fish oil
+SA	Rattus norvegicus	-999	*	*long-term glucose oversupply induces rapid increase in SCD expression and enzyme activity; short time (3 weeks) of sucrose feeding decreases mRNA level and enzyme activity, whereas long term (6 months) of sucrose feeding increases enzyme activity and mRNA level
+SA	Sus scrofa	-999	*	*a reduced protein diet increases enzyme activity
+SA	Gallus gallus	-999	*	*enzyme activity is reduced by feeding 2.5% and 5% conjugated linoleic acid
+SA	Homo sapiens	-999	*	*
+SA	Bos taurus	-999	*	*enzyme activity and fatty acid composition in response to different feeding conditions, overview, stearoyl-CoA desaturase activity in the s.c. adipose from the tail-head region do not differ among corn oil supplementation levels. Similarly, SCD mRNA level do not differ among oilsupplementation levels
+SA	Homo sapiens	-999	*	*fatty acid compositions in presence and absence of inhibitors
+SA	Homo sapiens	-999	*	*indirect measurement of SCD activity by plasma palmitoleic acid content determination of 138 samples, plasma triglycerides and fatty acid compositions, overview
+SA	Homo sapiens	-999	*	*
+SA	Mus musculus	0.0002	*	*129S6/SvEvTac mice under low-fat diet, liver microsomes, stearoyl-CoA as substrate
+SA	Picea glauca	0.0002375	*	*
+SA	Bos taurus	0.0004	*	*
+SA	Mus musculus	0.0004	*	*129S6/SvEvTac mice under high-fat diet, liver microsomes, stearoyl-CoA as substrate
+SA	Fusarium oxysporum	0.00044	*	*enzyme of cells grown at 37&deg;C
+SA	Sus scrofa	0.0009	*	*
+SA	Mus musculus	0.0011	*	*C57Bl/B6 mice under low-fat diet, liver microsomes, stearoyl-CoA as substrate
+SA	Mus musculus	0.0016	*	*C57Bl/B6 mice under high-fat diet, liver microsomes, stearoyl-CoA as substrate
+SA	Rattus norvegicus	0.0023	*	*fed microsomes
+SA	Rattus norvegicus	0.0079	*	*induced microsomes
+SA	Rattus norvegicus	0.0315	*	*
+SA	Gallus gallus	0.1	*	*
+SA	Gallus gallus	0.11	*	*
+SA	Rattus norvegicus	0.24	*	*
+SA	Rattus norvegicus	0.325	*	*
+SA	Arabidopsis sp.	0.8	*	*

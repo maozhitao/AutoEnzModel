@@ -1,0 +1,146 @@
+KCAT	Cupriavidus necator	2	ferrocyanide	*pH 8.0, wild-type enzyme complex including HoxI, with NADPH
+KCAT	Cupriavidus necator	2	NADPH	*pH 8.0, wild-type enzyme complex including HoxI, with ferrocyanide
+KCAT	Cupriavidus necator	70	H2	*pH 8.0, HoxI deletion mutant enzyme, with oxidized benzyl viologen
+KCAT	Cupriavidus necator	70	Oxidized benzyl viologen	*pH 8.0, HoxI deletion mutant enzyme, with H2
+KCAT	Cupriavidus necator	109	H2	*pH 8.0, HoxI deletion mutant enzyme, with NAD+
+KCAT	Cupriavidus necator	109	NAD+	*pH 8.0, HoxI deletion mutant enzyme, with H2
+KCAT	Cupriavidus necator	120	H2	*pH 8.0, wild-type enzyme complex including HoxI, with oxidized benzyl viologen
+KCAT	Cupriavidus necator	120	Oxidized benzyl viologen	*pH 8.0, wild-type enzyme complex including HoxI, with H2
+KCAT	Cupriavidus necator	143	H2	*pH 8.0, wild-type enzyme complex including HoxI, with NAD+
+KCAT	Cupriavidus necator	143	NAD+	*pH 8.0, wild-type enzyme complex including HoxI, with H2
+KCAT	Cupriavidus necator	171	ferrocyanide	*pH 8.0, HoxI deletion mutant enzyme, with NADH
+KCAT	Cupriavidus necator	171	NADH	*pH 8.0, HoxI deletion mutant enzyme, with ferrocyanide; reaction with K3Fe(CN)6, tetrameric enzyme form
+KCAT	Cupriavidus necator	212	H2	*
+KCAT	Cupriavidus necator	222	ferrocyanide	*pH 8.0, wild-type enzyme complex including HoxI, with NADH
+KCAT	Cupriavidus necator	222	NADH	*pH 8.0, wild-type enzyme complex including HoxI, with ferrocyanide; reaction with K3Fe(CN)6, hexameric enzyme form
+KCAT	Cupriavidus necator	284	ferrocyanide	*pH 8.0, HoxI deletion mutant enzyme, with H2
+KCAT	Cupriavidus necator	284	H2	*pH 8.0, HoxI deletion mutant enzyme, with ferrocyanide
+KCAT	Cupriavidus necator	372	ferrocyanide	*pH 8.0, wild-type enzyme complex including HoxI, with H2
+KCAT	Cupriavidus necator	372	H2	*pH 8.0, wild-type enzyme complex including HoxI, with ferrocyanide
+KM	Cupriavidus necator	-999	more	*
+KM	Thermotoga maritima	0.00025	reduced ferredoxin	*pH and temperature not specified in the publication
+KM	Gloeocapsa alpicola	0.0007	NADPH	*30&deg;C, pH 7.0
+KM	Gloeocapsa alpicola	0.0023	NADH	*30&deg;C, pH 7.0
+KM	Gloeocapsa alpicola	0.0035	NAD+	*30&deg;C, pH 8.5
+KM	Cupriavidus necator	0.013	NADH	*electron acceptor resazurine
+KM	Caldanaerobacter subterraneus subsp. tengcongensis	0.017	NADH	*70&deg;C
+KM	Cupriavidus necator	0.028	resazurin	*
+KM	Gloeocapsa alpicola	0.0306	reduced methyl viologen	*30&deg;C, pH 7.0
+KM	Cupriavidus necator	0.037	H2	*
+KM	Gloeocapsa alpicola	0.0375	oxidized methyl viologen	*30&deg;C, pH 8.5
+KM	Cupriavidus necator	0.04	NADH	*electron acceptor benzyl viologen
+KM	Cupriavidus necator	0.042	NADH	*electron acceptor methyl viologen
+KM	Rhodococcus opacus	0.05	methyl viologen	*at pH 9.4
+KM	Cupriavidus necator	0.054	NADH	*electron acceptor ferricyanide
+KM	Cupriavidus necator	0.056	NADH	*pH 8.0, temperature not specified in the publication; pH 8.0, temperature not specified in the publication
+KM	Gloeocapsa alpicola	0.0578	Oxidized benzyl viologen	*30&deg;C, pH 8.5
+KM	Cupriavidus necator	0.06	NADH	*electron acceptor 2,6-dichlorophenolindophenol
+KM	Rhodococcus opacus	0.063	H2	*
+KM	Cupriavidus necator	0.07	NADH	*electron acceptor methylene blue
+KM	Synechocystis sp.	0.089	reduced methyl viologen	*pH 6.3, 60&deg;C
+KM	Caldanaerobacter subterraneus subsp. tengcongensis	0.09	NAD+	*70&deg;C
+KM	Cupriavidus necator	0.123	NAD+	*
+KM	Rhodococcus opacus	0.123	NAD+	*
+KM	Hydrogenomonas sp.	0.13	NAD+	*
+KM	Rhodococcus opacus	0.15	NAD+	*
+KM	Hydrogenomonas sp.	0.19	H2	*
+KM	Cupriavidus necator	0.197	NAD+	*pH 8.0, temperature not specified in the publication; pH 8.0, temperature not specified in the publication
+KM	Cupriavidus necator	0.25	methylene blue	*
+KM	Rhodococcus opacus	0.38	FAD	*
+KM	Cupriavidus necator	0.44	2,6-dichlorophenolindophenol	*
+KM	Rhodococcus opacus	0.44	methylene blue	*
+KM	Cupriavidus necator	0.45	ferricyanide	*
+KM	Cupriavidus necator	0.56	NAD+	*
+KM	Rhodococcus opacus	0.9	methyl viologen	*at pH 8.0
+KM	Rhodococcus opacus	4	ferricyanide	*
+KM	Cupriavidus necator	4.1	benzyl viologen	*
+KM	Cupriavidus necator	5.9	methyl viologen	*
+MW	Caldanaerobacter subterraneus subsp. tengcongensis	14000	*	*1 * 65000 + 1 * 64000 + 1 * 20000 + 1 * 14000, SDS-PAGE
+MW	Synechocystis sp.	18000	*	*x * 18000, HoxE, SDS-PAGE, x * 21000, recombinant HIs-tagged HoxE, SDS-PAGE
+MW	Caldanaerobacter subterraneus subsp. tengcongensis	20000	*	*1 * 65000 + 1 * 64000 + 1 * 20000 + 1 * 14000, SDS-PAGE
+MW	Synechocystis sp.	21000	*	*x * 18000, HoxE, SDS-PAGE, x * 21000, recombinant HIs-tagged HoxE, SDS-PAGE
+MW	Cupriavidus necator	23000	*	*1 * 67000 + 1 * 55000 + 1 * 26000 + 1 * 23000
+MW	Cupriavidus necator	26000	*	*x * 63000 + x * 30000 + x * 26000 + x * 56000, SDS-PAGE, deduced from nucleotide sequence
+MW	Cupriavidus necator	26000	*	*1 * 67000 + 1 * 55000 + 1 * 26000 + 1 * 23000
+MW	Rhodococcus opacus	27000	*	*1 * 64000 + 1 * 56000 + 1 * 31000 + 1 * 27000, native hydrogenase dissociates into two subunit dimers of 64000 Da and 1 * 31000 Da, and of 56000 Da and 27000 Da respectively, SDS-PAGE
+MW	Cupriavidus necator	30000	*	*x * 63000 + x * 30000 + x * 26000 + x * 56000, SDS-PAGE, deduced from nucleotide sequence
+MW	Rhodococcus opacus	31000	*	*1 * 64000 + 1 * 56000 + 1 * 31000 + 1 * 27000, native hydrogenase dissociates into two subunit dimers of 64000 Da and 1 * 31000 Da, and of 56000 Da and 27000 Da respectively, SDS-PAGE
+MW	Cupriavidus necator	55000	*	*1 * 67000 + 1 * 55000 + 1 * 26000 + 1 * 23000
+MW	Cupriavidus necator	56000	*	*x * 63000 + x * 30000 + x * 26000 + x * 56000, SDS-PAGE, deduced from nucleotide sequence
+MW	Rhodococcus opacus	56000	*	*1 * 64000 + 1 * 56000 + 1 * 31000 + 1 * 27000, native hydrogenase dissociates into two subunit dimers of 64000 Da and 1 * 31000 Da, and of 56000 Da and 27000 Da respectively, SDS-PAGE
+MW	Cupriavidus necator	63000	*	*x * 63000 + x * 30000 + x * 26000 + x * 56000, SDS-PAGE, deduced from nucleotide sequence
+MW	Rhodococcus opacus	64000	*	*1 * 64000 + 1 * 56000 + 1 * 31000 + 1 * 27000, native hydrogenase dissociates into two subunit dimers of 64000 Da and 1 * 31000 Da, and of 56000 Da and 27000 Da respectively, SDS-PAGE
+MW	Caldanaerobacter subterraneus subsp. tengcongensis	64000	*	*1 * 65000 + 1 * 64000 + 1 * 20000 + 1 * 14000, SDS-PAGE
+MW	Caldanaerobacter subterraneus subsp. tengcongensis	65000	*	*1 * 65000 + 1 * 64000 + 1 * 20000 + 1 * 14000, SDS-PAGE
+MW	Cupriavidus necator	67000	*	*1 * 67000 + 1 * 55000 + 1 * 26000 + 1 * 23000
+MW	Thermococcus stetteri	106000	*	*non-denaturing PAGE
+MW	Caldanaerobacter subterraneus subsp. tengcongensis	162500	*	*amino acid sequence calculation
+MW	Rhodococcus opacus	178000	*	*sucrose density gradient centrifugation
+MW	Rhodococcus opacus	200000	*	*gel filtration
+MW	Cupriavidus necator	204500	*	*gel filtration
+MW	Cupriavidus necator	206000	*	*sucrose density gradient centrifugation
+MW	Synechocystis sp.	375000	*	*native dimeric assembly of the pentameric enzyme complex, gel filtration
+PATH	*	hydrogen oxidation II (aerobic, NAD)	*	*
+PATH	*	hydrogen production	*	*
+PATH	*	hydrogen production II	*	*
+SA	Thiocapsa roseopersicina	-999	*	*determination of H2 production rates in vivo
+SA	Methylococcus capsulatus	-999	*	*hydrogen-driven methane monooxygenase activity in the soluble periplasmic fraction, overview
+SA	Frankia sp.	-999	*	*no H2 producing activity in several strains grown without nitrogen and nickel, overview
+SA	Frankia sp. R43	-999	*	*H2-uptake activity at different conditions
+SA	Cupriavidus necator	-999	*	*
+SA	Cupriavidus necator	-999	*	*
+SA	Cupriavidus necator	-999	*	*
+SA	Methylococcus capsulatus	0.0006	*	*soluble periplasmic fraction, hydrogen producing activity with electron donor reduced methylene blue
+SA	Frankia sp. R43	0.0006	*	*cell culture in nitrogen-enriched medium, anaerobic conditions, H2 production using reduced methyl viologen as electron donor
+SA	Methylococcus capsulatus	0.0017	*	*soluble periplasmic fraction, hydrogen producing activity with electron acceptor oxidized methyl viologen
+SA	Frankia sp. R43	0.0018	*	*cell culture in nitrogen-limited medium, anaerobic conditions, H2 production using reduced methyl viologen as electron donor
+SA	Methylococcus capsulatus	0.0029	*	*soluble periplasmic fraction, hydrogen producing activity with electron donor NADH
+SA	Methylococcus capsulatus	0.006	*	*soluble periplasmic fraction, hydrogen producing activity with electron donor reduced benzyl viologen
+SA	Methylococcus capsulatus	0.0095	*	*soluble periplasmic fraction, hydrogen producing activity with electron acceptor oxidized benzyl viologen
+SA	Methylococcus capsulatus	0.0113	*	*soluble periplasmic fraction, hydrogen producing activity with electron donor reduced methyl viologen
+SA	Methylococcus capsulatus	0.0175	*	*soluble periplasmic fraction, hydrogen producing activity with electron acceptor oxidized methylene blue
+SA	Methylococcus capsulatus	0.0255	*	*soluble periplasmic fraction, hydrogen producing activity with electron acceptor NAD+
+SA	Frankia sp.	0.035	*	*H2 producing activity, strain R43 grown without nitrogen and nickel, from host plant Compotonia cunninghamiana, with reduced methyl viologen as electron donor
+SA	Synechocystis sp.	0.076	*	*crude extract, pH and temperature not specified in the publication
+SA	Frankia sp.	0.11	*	*H2 producing activity, strain UGL011101 grown without nitrogen and nickel, from host plant Alnus incana, with reduced methyl viologen as electron donor
+SA	Frankia sp.	0.3	*	*H2 producing activity, strain HFPCcI3 grown without nitrogen and nickel, from host plant Compotonia cunninghamiana, with reduced methyl viologen as electron donor
+SA	Cupriavidus necator	0.6	*	*reaction with NADPH and ferrocyanide, purified wild-type enzyme complex including HoxI, no reaction with the HoxI deletion mutant
+SA	Caldanaerobacter subterraneus subsp. tengcongensis	0.6	*	*H2-evolution in vivo, fermenter-grown cells
+SA	Rhodococcus opacus	1.7	*	*recombinant enzyme expressed in Ralstonia eutropha
+SA	Frankia sp.	4.91	*	*H2 producing activity, strain UGL140102 grown without nitrogen and nickel, from host plant Hippophae rhamnoides, with reduced methyl viologen as electron donor
+SA	Caldanaerobacter subterraneus subsp. tengcongensis	5	*	*purified enzyme, H2 consumption
+SA	Cupriavidus necator	5.6	*	*strain Cd2/01, electron acceptor NAD+
+SA	Achromobacter denitrificans	7.7	*	*electron acceptor NAD+
+SA	Gloeocapsa alpicola	9.8	*	*
+SA	Caldanaerobacter subterraneus subsp. tengcongensis	10	*	*purified enzyme, H2 production
+SA	Synechocystis sp.	15	*	*native purified enzyme complex from strain PCC 6301, hydrogen-forming activity, cofactor reduced methyl viologen
+SA	Cupriavidus necator	17	*	*activity of different batches with NAD+ and H2
+SA	Cupriavidus necator	25.2	*	*reaction with H2 and benzyl viologen, purified HoxI deletion mutant enzyme
+SA	Cupriavidus necator	30	*	*purified enzyme, forward reaction under aerobic conditions with NAD+
+SA	Cupriavidus necator	30	*	*
+SA	Achromobacter ruhlandii	34	*	*electron acceptor NAD+
+SA	Cupriavidus necator	35.1	*	*reaction with H2 and benzyl viologen, purified wild-type enzyme complex including HoxI
+SA	Hydrogenomonas sp.	36.5	*	*
+SA	Cupriavidus necator	38	*	*strain H16, electron acceptor NAD+
+SA	Cupriavidus necator	39	*	*reaction with H2 and NAD+, purified HoxI deletion mutant enzyme
+SA	Cupriavidus necator	41.9	*	*reaction with H2 and NAD+, purified wild-type enzyme complex including HoxI
+SA	Rhodococcus opacus	45	*	*
+SA	Cupriavidus necator	54.46	*	*
+SA	Cupriavidus necator	57	*	*
+SA	Cupriavidus necator	61.6	*	*reaction with NADH and ferrocyanide, purified HoxI deletion mutant enzyme
+SA	Cupriavidus necator	64.9	*	*reaction with NADH and ferrocyanide, purified wild-type enzyme complex including HoxI
+SA	Synechocystis sp.	67	*	*native purified enzyme complex from strain PCC 6803, hydrogen-forming activity, cofactor reduced methyl viologen
+SA	Rhodococcus opacus	72	*	*electron acceptor NAD+
+SA	Cupriavidus necator	85	*	*electron acceptor NAD+
+SA	Synechocystis sp.	87.78	*	*after 1155old purification, pH and temperature not specified in the publication
+SA	Cupriavidus necator	100	*	*electron acceptor benzyl viologen
+SA	Cupriavidus necator	102.1	*	*reaction with H2 and ferrocyanide, purified HoxI deletion mutant enzyme
+SA	Rhodococcus opacus	103	*	*
+SA	Cupriavidus necator	108.8	*	*reaction with H2 and ferrocyanide, purified wild-type enzyme complex including HoxI
+SA	Cupriavidus necator	125	*	*activity of different batches with NADH and ferricyanide
+SA	Cupriavidus necator	230	*	*recombinant protein, pH 8.0, temperature not specified in the publication
+SA	Thermococcus stetteri	430	*	*pH 6.0, 40&Acirc;&deg;C, measured by hydrogen uptake with methyl viologen as electron acceptor
+SA	Cupriavidus necator	1263	*	*activity of different batches with benzyl viologen and H2
+SA	Caldanaerobacter subterraneus subsp. tengcongensis	1300	*	*purified enzyme, with substrates oxidized benzyl viologen and NADH
+SA	Caldanaerobacter subterraneus subsp. tengcongensis	1700	*	*purified enzyme, both reaction directions with substrates oxidized/reduced methyl viologen and H2/H+
+SA	Cupriavidus necator	2030	*	*purified hydrogenase, at 30&Acirc;&deg;C

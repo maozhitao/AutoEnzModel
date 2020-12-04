@@ -1,0 +1,68 @@
+KCAT	Corynebacterium glutamicum	43.7	NAD+	*30&Acirc;&deg;C, pH 7.5
+KCAT	Corynebacterium glutamicum	61.1	NAD+	*30&Acirc;&deg;C, pH 7.5
+KCAT	Corynebacterium glutamicum	205.8	NAD+	*30&Acirc;&deg;C, pH 10.0-10.5, cosubstrate: shikimate
+KCAT	Corynebacterium glutamicum	223.1	NAD+	*30&Acirc;&deg;C, pH 9.0-9.5, cosubstrate: quinate
+KCAT	Corynebacterium glutamicum	30.1	shikimate	*30&Acirc;&deg;C, pH 7.5
+KCAT	Corynebacterium glutamicum	85.2	shikimate	*pH 10.0, 30&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	214.1	shikimate	*30&Acirc;&deg;C, pH 10.0-10.5
+KCAT	Corynebacterium glutamicum	50.8	L-quinate	*30&Acirc;&deg;C, pH 7.5
+KCAT	Corynebacterium glutamicum	61.9	L-quinate	*pH 9.0, 30&Acirc;&deg;C
+KCAT	Corynebacterium glutamicum	104.9	L-quinate	*30&Acirc;&deg;C, pH 9.0-9.5
+KM	Pinus taeda	0.005	NADPH	*
+KM	Pinus taeda	0.007	NADP+	*
+KM	Vigna radiata var. radiata	0.009	NADH	*
+KM	Aspergillus niger	0.031	NAD+	*
+KM	Vigna radiata var. radiata	0.047	3-dehydroquinate	*
+KM	Vigna radiata var. radiata	0.05	NAD+	*
+KM	Vigna radiata var. radiata	0.12	NADPH	*
+KM	Corynebacterium glutamicum	0.13	NAD+	*30&deg;C, pH 7.5
+KM	Aspergillus niger	0.26	NAD+	*+ quinate
+KM	Corynebacterium glutamicum	0.28	NAD+	*30&deg;C, pH 9.0-9.5, cosubstrate: quinate
+KM	Actinidia deliciosa	0.3	quinic acid	*purification step Q1 HiTrapQ, cofactor NAD+; purification step Q2 HiTrapQ, cofactor NADP+
+KM	Neurospora crassa	0.32	quinate	*
+KM	Aspergillus niger	0.32	quinate	*
+KM	Vigna radiata var. radiata	0.37	quinate	*
+KM	Aspergillus niger	0.42	NAD+	*+ shikimate
+KM	Vigna radiata var. radiata	0.45	3-dehydroquinate	*
+KM	Corynebacterium glutamicum	0.46	NAD+	*30&deg;C, pH 10.0-10.5, cosubstrate: shikimate
+KM	Actinidia deliciosa	0.5	quinic acid	*purification step Q1 HiTrapQ, cofactor NADP+
+KM	Vigna radiata var. radiata	0.7	NADP+	*
+KM	Actinidia deliciosa	0.8	quinic acid	*purification step unbound to HiTrapQ, cofactor NADP+
+KM	Corynebacterium glutamicum	0.87	NAD+	*30&deg;C, pH 7.5
+KM	Pinus taeda	1	dehydroquinate	*
+KM	Neurospora crassa	1.18	shikimate	*
+KM	Corynebacterium glutamicum	1.6	L-quinate	*30&deg;C, pH 7.5
+KM	Actinidia deliciosa	1.9	quinic acid	*purification step Q2 HiTrapQ, cofactor NAD+
+KM	Corynebacterium glutamicum	2.4	L-quinate	*30&deg;C, pH 9.0-9.5
+KM	Vigna radiata var. radiata	3	quinate	*
+KM	Pinus taeda	3.6	quinate	*
+KM	Aspergillus niger	6.25	quinate	*
+KM	Corynebacterium glutamicum	10.2	L-quinate	*pH 9.0, 30&deg;C
+KM	Corynebacterium glutamicum	10.2	shikimate	*30&deg;C, pH 7.5
+KM	Actinidia deliciosa	10.9	quinic acid	*purification step unbound to HiTrapQ, cofactor NAD+
+KM	Aspergillus niger	11.5	shikimate	*
+KM	Corynebacterium glutamicum	46.6	shikimate	*pH 10.0, 30&deg;C
+KM	Corynebacterium glutamicum	53.9	shikimate	*30&deg;C, pH 10.0-10.5
+MW	Daucus carota	-999	*	*transfer of carrot enzyme from dark to light conditions shifts MW from 42000 Da to 110000 Da, probably due to association of a regulatory subunit which may be a calciprotein
+MW	Aspergillus niger	23000	*	*gel filtration
+MW	Pinus taeda	35000	*	*gel filtration
+MW	Daucus carota	40000	*	*1 * 40000 + 1 * 60000-63000, SDS-PAGE
+MW	Neurospora crassa	41000	*	*1 * 41000, SDS-PAGE in presence of urea or electrophoresis in presence of cetyltrimethyl ammonium bromide
+MW	Neurospora crassa	42000	*	*sucrose density gradient centrifugation
+MW	Vigna radiata var. radiata	55000	*	*3 * 55000, SDS-PAGE
+MW	Daucus carota	110000	*	*gel filtration
+MW	Vigna radiata var. radiata	160000	*	*gel filtration
+PATH	*	Metabolic pathways	*	*
+PATH	*	Phenylalanine, tyrosine and tryptophan biosynthesis	*	*
+PATH	*	shikimate degradation II	*	*
+SA	Pinus sylvestris	-999	*	*activity in infection-resistant hypocotyls remains constant, enzyme activity in hypocotyls susceptible to infection decreases about 50%
+SA	Actinidia arguta	-999	*	*quinate dehydrogenase activity is highest early in fruit development abd declines in older fruit
+SA	Actinidia chinensis	-999	*	*quinate dehydrogenase activity is highest early in fruit development abd declines in older fruit
+SA	Actinidia deliciosa	-999	*	*quinate dehydrogenase activity is highest early in fruit development and declines in older fruit
+SA	Klebsiella aerogenes	2.15	*	*
+SA	Vigna radiata var. radiata	29.99	*	*
+SA	Neurospora crassa	86.87	*	*
+SA	Pinus taeda	3453	*	*
+SA	Streptomyces sp.	3700	*	*
+SA	Pseudonocardia sp.	3700	*	*
+SA	Rhodococcus rhodochrous	4800	*	*

@@ -1,0 +1,28 @@
+KCAT	Clostridioides difficile	3	NADH	*pH 7.5, temperature not specified in the publication
+KCAT	Clostridioides difficile	2	butyryl-CoA	*pH 7.5, temperature not specified in the publication
+KCAT	Clostridioides difficile	19	crotonyl-CoA	*pH 7.5, temperature not specified in the publication
+KCAT	Clostridioides difficile	37	Ferredoxin	*pH 7.5, temperature not specified in the publication
+KM	Clostridioides difficile	0.002	Ferredoxin	*pH 7.5, temperature not specified in the publication
+KM	Clostridioides difficile	0.0025	crotonyl-CoA	*pH 7.5, temperature not specified in the publication
+KM	Bos taurus	0.0033	trans-crotonyl-CoA	*in 200 mM potassium phosphate buffer, pH 6.8, at 26&deg;C
+KM	Bos taurus	0.00364	NADPH	*in 200 mM potassium phosphate buffer, pH 6.8, at 26&deg;C
+KM	Clostridioides difficile	0.01	butyryl-CoA	*pH 7.5, temperature not specified in the publication
+KM	Streptomyces collinus	0.015	NADPH	*in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 1 mM dithioerythritol and 10% (v/v) glycerol, at 30&deg;C
+KM	Streptomyces collinus	0.018	crotonyl-CoA	*in 50 mM potassium phosphate, pH 7.5, 1 mM EDTA, 1 mM dithioerythritol and 10% (v/v) glycerol, at 30&deg;C
+KM	Clostridioides difficile	0.145	NADH	*pH 7.5, temperature not specified in the publication
+MW	Streptomyces collinus	48000	*	*2 * 48000, SDS-PAGE
+MW	Streptomyces collinus	49400	*	*2 * 49400, calculated from amino acid sequence
+MW	Streptomyces collinus	85000	*	*native protein, gel filtration
+MW	Clostridioides difficile	110000	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Butanoate metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Streptomyces collinus	0.0008	*	*native enzyme, pH and temperature not specified in the publication
+SA	Streptomyces collinus	0.00091	*	*native enzyme from crude extract, pH 7.5 at 30&deg;C
+SA	Bos taurus	0.0061	*	*crude extract, pH 6.8, at 26&deg;C
+SA	Streptomyces collinus	0.0156	*	*recombinant enzyme, pH and temperature not specified in the publication
+SA	Bos taurus	0.0501	*	*after 11.2fold purification, pH 6.8, at 26&deg;C
+SA	Streptomyces collinus	0.333	*	*recombinant enzyme from crude extract, pH 7.5 at 30&deg;C
+SA	Streptomyces collinus	2.889	*	*native enzyme after 3068fold purification, pH 7.5 at 30&deg;C
+SA	Streptomyces collinus	3.316	*	*recombinant enzyme after 10fold purification, pH 7.5 at 30&deg;C

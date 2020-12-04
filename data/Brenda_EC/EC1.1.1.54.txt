@@ -1,0 +1,42 @@
+KCAT	Nicotiana tabacum	2.8	(S)-pulegone	*recombinant enzyme, pH 7.0, 35&deg;C
+KCAT	Nicotiana tabacum	3.3	(R)-pulegone	*recombinant enzyme, pH 7.0, 35&deg;C
+KM	Pseudomonas putida	0.007	3-chloro-2-buten-1-ol	*
+KM	Pseudomonas putida	0.007	benzyl alcohol	*
+KM	Pseudomonas putida	0.011	3-aminobenzyl alcohol	*
+KM	Pseudomonas putida	0.012	(R)-(+)-perillyl alcohol	*
+KM	Nicotiana tabacum	0.025	(R)-pulegone	*native enzyme, pH 7.0, 35&deg;C
+KM	Pseudomonas putida	0.036	cinnamyl alcohol	*
+KM	Pseudomonas putida	0.04	3-methyl-2-buten-1-ol	*
+KM	Escherichia coli	0.04	NADP+	*
+KM	Pseudomonas putida	0.044	2-Buten-1-ol	*
+KM	Pseudomonas putida	0.064	NAD+	*with 3-methyl-2-buten-1-ol
+KM	Pseudomonas putida	0.118	NAD+	*with benzyl alcohol
+KM	Pseudomonas putida	0.27	3-methyl-1-butanol	*
+KM	Pseudomonas putida	1.1	1-butanol	*
+KM	Nicotiana tabacum	1.4	(R)-pulegone	*recombinant enzyme, pH 7.0, 35&deg;C
+KM	Pseudomonas putida	1.7	3-methyl-3-buten-1-ol	*
+KM	Escherichia coli	5	allyl-alcohol	*
+KM	Nicotiana tabacum	8.3	(S)-pulegone	*recombinant enzyme, pH 7.0, 35&deg;C
+MW	Nicotiana tabacum	36300	*	*2 * 36300, SDS-PAGE, native mass by gel filtration
+MW	Nicotiana tabacum	37000	*	*2 * 37000, SDS-PAGE and amino acid sequence analysis
+MW	Pseudomonas putida	37700	*	*4 * 37700, SDS-PAGE
+MW	Nicotiana tabacum	38482	*	*2 * 38482, recombinant protein, MALDI TOF-MS, native mass by gel filtration
+MW	Nicotiana tabacum	38487	*	*2 * 38487, recombinant protein, calculated from the deduced amino acid sequence, native mass by gel filtration
+MW	Nicotiana tabacum	74000	*	*gel filtration
+MW	Nicotiana tabacum	74000	*	*gel filtration
+MW	Pseudomonas putida	151000	*	*gel filtration
+PATH	*	detoxification of reactive carbonyls in chloroplasts	*	*
+SA	Escherichia coli	-999	*	*about 70,1 unit of enzyme activity defined as amount of enzyme which causes a change in optical density of 0.001 per minute
+SA	Pseudomonas putida	0.05	*	*purified enzyme, substrate 1-butanol
+SA	Pseudomonas putida	0.08	*	*purified enzyme, substrate 3-methyl-3-buten-1-ol
+SA	Nicotiana tabacum	0.11	*	*
+SA	Pseudomonas putida	0.2	*	*purified enzyme, substrate 3-methyl-1-butanol
+SA	Pseudomonas putida	3.7	*	*purified enzyme, substrate cinnamyl alcohol
+SA	Pseudomonas putida	4.6	*	*purified enzyme, substrate 2-buten-1-ol
+SA	Pseudomonas putida	7.7	*	*purified enzyme, substrate 3-methyl-2-buten-1-ol
+SA	Pseudomonas putida	8.8	*	*purified enzyme, substrate (R)-(+)-perillyl alcohol
+SA	Pseudomonas putida	16	*	*purified enzyme, substrate 3-chlor-2-buten-1-ol
+SA	Pseudomonas putida	19.3	*	*purified enzyme, in glycine buffer pH 9.4
+SA	Pseudomonas putida	22	*	*purified enzyme, substrate benzyl alcohol
+SA	Pseudomonas putida	38	*	*purified enzyme, substrate aromatic 3-aminobenzyl alcohol
+SA	Pseudomonas putida	38.8	*	*purified enzyme, in bis-Tris-propane-hydrazine buffer pH 9.4

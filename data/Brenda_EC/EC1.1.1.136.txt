@@ -1,0 +1,27 @@
+KCAT	Escherichia coli	0.97	UDP-N-acetyl-D-glucosamine	*pH 8, 37&deg;C
+KCAT	Escherichia coli	1.41	NAD+	*pH 8, 37&deg;C
+KCAT	Salmonella enterica subsp. enterica serovar Typhi	15.5	NAD+	*pH 7.5, 25&deg;C, recombinant enzyme
+KCAT	Salmonella enterica subsp. enterica serovar Typhi	15.5	UDP-N-acetyl-D-glucosamine	*pH 7.5, 25&deg;C, recombinant enzyme
+KM	Pseudomonas aeruginosa	-999	more	*positive cooperativity with respect to substrate binding, Hill coefficient 1.8
+KM	Salmonella enterica subsp. enterica serovar Typhi	0.077	UDP-N-acetyl-D-glucosamine	*pH 7.5, 25&deg;C, recombinant enzyme
+KM	Salmonella enterica subsp. enterica serovar Typhi	0.276	NAD+	*pH 7.5, 25&deg;C, recombinant enzyme
+KM	Micrococcus luteus	0.28	UDP-N-acetyl-D-glucosamine	*
+KM	Alcaligenes sp.	0.5	UDP-N-acetyl-D-glucosamine	*
+KM	Escherichia coli	0.84	UDP-N-acetyl-D-glucosamine	*pH 8, 37&deg;C
+KM	Micrococcus luteus	1.43	NAD+	*
+KM	Alcaligenes sp.	1.5	NAD+	*
+KM	Escherichia coli	4.16	NAD+	*pH 8, 37&deg;C
+MW	Bacillus cereus	47000	*	*x * 47000, SDS-PAGE
+MW	Salmonella enterica subsp. enterica serovar Typhi	47675	*	*3 * 47675, subunit amino acid sequence calculation
+MW	Pseudomonas aeruginosa	50300	*	*3 * 50300, SDS-PAGE
+MW	Escherichia coli	50500	*	*calculated from cDNA
+MW	Escherichia coli	51500	*	*SDS-PAGE, His-tagged gnaA
+MW	Salmonella enterica subsp. enterica serovar Typhi	120500	*	*recombinant enzyme, gel filtration
+MW	Pseudomonas aeruginosa	153000	*	*dynamic light scattering
+MW	Pseudomonas aeruginosa	162000	*	*gel filtration
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-mannuronate biosynthesis	*	*
+PATH	*	UDP-N-acetyl-alpha-D-galactosaminuronate biosynthesis	*	*
+SA	Salmonella enterica subsp. enterica serovar Typhi	-999	*	*
+SA	Micrococcus luteus	41	*	*

@@ -1,0 +1,18 @@
+KCAT	Bacteroides thetaiotaomicron	22	4-O-beta-N-acetyl-D-glucosaminyl-N-acetyl-D-glucosamine	*pH 5.5, 30&deg;C
+KCAT	Bacteroides thetaiotaomicron	22	N,N'-diacetylchitobiose	*pH 5.5, 30&deg;C, synthetic reaction
+KCAT	Bacteroides thetaiotaomicron	25	alpha-D-mannose 1-phosphate	*pH 5.5, 30&deg;C; pH 5.5, 30&deg;C, cosubstrate: N-acetyl-D-glucosamine, synthetic reaction
+KCAT	Bacteroides thetaiotaomicron	37	N-acetyl-D-glucosamine	*pH 5.5, 30&deg;C; pH 5.5, 30&deg;C, synthetic reaction
+KCAT	Bacteroides thetaiotaomicron	240	4-O-beta-D-mannopyranosyl-N-acetyl-D-glucosamine	*pH 5.5, 30&deg;C, cosubstrate: phosphate, phosphorolytic reaction
+KCAT	Bacteroides thetaiotaomicron	240	phosphate	*pH 5.5, 30&deg;C, cosubstrate: 4-O-beta-D-mannopyranosyl-N-acetyl-D-glucosamine, phosphorolytic reaction
+KM	Bacteroides thetaiotaomicron	0.6	phosphate	*pH 5.5, 30&deg;C, cosubstrate: 4-O-beta-D-mannopyranosyl-N-acetyl-D-glucosamine, phosphorolytic reaction
+KM	Bacteroides thetaiotaomicron	2.1	4-O-beta-D-mannopyranosyl-N-acetyl-D-glucosamine	*pH 5.5, 30&deg;C, cosubstrate: phosphate, phosphorolytic reaction
+KM	Bacteroides thetaiotaomicron	2.6	alpha-D-mannose 1-phosphate	*pH 5.5, 30&deg;C; pH 5.5, 30&deg;C, cosubstrate: N-acetyl-D-glucosamine, synthetic reaction
+KM	Bacteroides thetaiotaomicron	2.7	4-O-beta-N-acetyl-D-glucosaminyl-N-acetyl-D-glucosamine	*pH 5.5, 30&deg;C
+KM	Bacteroides thetaiotaomicron	3.8	N-acetyl-D-glucosamine	*pH 5.5, 30&deg;C; pH 5.5, 30&deg;C, synthetic reaction
+KM	Bacteroides thetaiotaomicron	27	N,N'-diacetylchitobiose	*pH 5.5, 30&deg;C, synthetic reaction
+MW	Bacteroides thetaiotaomicron	35000	*	*4 * 35000, SDS-PAGE; 4 * 35000, SDS-PAGE, 4 * 37823, amino acid sequence
+MW	Bacteroides thetaiotaomicron	37823	*	*4 * 35000, SDS-PAGE, 4 * 37823, amino acid sequence; 4 * 37823, calculated from sequence
+MW	Bacteroides thetaiotaomicron	147000	*	*gel filtration; gel filtration
+PATH	*	beta-1,4-D-mannosyl-N-acetyl-D-glucosamine degradation	*	*
+SA	Bacteroides thetaiotaomicron	30	*	*pH 5.5, 30&deg;C, substrate: N,N'-diacetylchitobiose
+SA	Bacteroides thetaiotaomicron	258	*	*pH 5.5, 30&deg;C, substrate: N-acetyl-D-glucosamine

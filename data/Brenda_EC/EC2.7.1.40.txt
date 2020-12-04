@@ -1,0 +1,654 @@
+KCAT	Thermofilum pendens	-999	more	*the kinetic mechanism is random order with a rapid equilibrium
+KCAT	Thermofilum pendens	0.16	ADP	*pH 6.0, 45&deg;C, in presence of Mg2+
+KCAT	Thermofilum pendens	0.2	ADP	*pH 6.0, 45&deg;C, in presence of Mn2+
+KCAT	Thermofilum pendens	0.38	phosphoenolpyruvate	*pH 6.0, 45&deg;C, in presence of Mg2+
+KCAT	Thermofilum pendens	1	phosphoenolpyruvate	*pH 6.0, 45&deg;C, in presence of Mn2+
+KCAT	Saccharomyces cerevisiae	1.97	phosphoenolpyruvate	*mutant enzyme T298A, activated be Tl+ and Mn2+
+KCAT	Homo sapiens	3.2	phosphoenolpyruvate	*wild type enzyme, in the absence of K+, in 50 mM Mes-Tris, pH 6.0, at 25&deg;C
+KCAT	Saccharomyces cerevisiae	12.1	phosphoenolpyruvate	*pH 6.2, mutant enzyme T298C, Mn2+-activated
+KCAT	Saccharomyces cerevisiae	12.2	phosphoenolpyruvate	*mutant enzyme T298C, activated be Tl+ and Mn2+
+KCAT	Saccharomyces cerevisiae	13.9	phosphoenolpyruvate	*pH 6.2, mutant enzyme T298C, Mn2+- and fructose 1,6-bisphosphate activated
+KCAT	Saccharomyces cerevisiae	21.5	phosphoenolpyruvate	*mutant enzyme T298S, activated be Tl+ and Mn2+
+KCAT	Saccharolobus solfataricus	39.67	phosphoenolpyruvate	*50&deg;C, pH not specified in the publication
+KCAT	Saccharolobus solfataricus	40.06	ADP	*50&deg;C, pH not specified in the publication
+KCAT	Saccharomyces cerevisiae	41.3	phosphoenolpyruvate	*pH 6.2, mutant enzyme T298C, Mg2+- and fructose 1,6-bisphosphate activated
+KCAT	Toxoplasma gondii	47.6	ADP	*PykII, in 100 mM Tris-HCl,pH 8.5, at 37&deg;C
+KCAT	Saccharolobus solfataricus	50.12	phosphoenolpyruvate	*65&deg;C, pH not specified in the publication
+KCAT	Saccharolobus solfataricus	52.85	ADP	*65&deg;C, pH not specified in the publication
+KCAT	Saccharomyces cerevisiae	58.4	phosphoenolpyruvate	*pH 6.2, wild-type enzyme, Mn2+-activated
+KCAT	Saccharolobus solfataricus	58.4	phosphoenolpyruvate	*70&deg;C, pH not specified in the publication
+KCAT	Saccharolobus solfataricus	58.78	ADP	*70&deg;C, pH not specified in the publication
+KCAT	Saccharomyces cerevisiae	66	phosphoenolpyruvate	*pH 6.2, wild-type enzyme, Mn2+- and fructose 1,6-bisphosphate activated
+KCAT	Saccharolobus solfataricus	73.04	phosphoenolpyruvate	*80&deg;C, pH not specified in the publication
+KCAT	Saccharolobus solfataricus	80.29	ADP	*80&deg;C, pH not specified in the publication
+KCAT	Toxoplasma gondii	110	GDP	*PykII, in 100 mM Tris-HCl,pH 8.5, at 37&deg;C
+KCAT	Toxoplasma gondii	131	IDP	*PykII, in 100 mM Tris-HCl,pH 8.5, at 37&deg;C
+KCAT	Homo sapiens	161	phosphoenolpyruvate	*mutant enzyme E117K, in the absence of K+, in 50 mM Mes-Tris, pH 6.0, at 25&deg;C
+KCAT	Saccharomyces cerevisiae	226	phosphoenolpyruvate	*pH 6.2, wild-type enzyme, Mg2+ and fructose 1,6-bisphosphate activated
+KCAT	Saccharomyces cerevisiae	232	phosphoenolpyruvate	*pH 6.2, wild-type enzyme, Mg2+-activated
+KCAT	Homo sapiens	1182	phosphoenolpyruvate	*wild type enzyme, in the presence of K+, in 50 mM Mes-Tris, pH 6.0, at 25&deg;C
+KCAT	Geobacillus stearothermophilus	1736	phosphoenolpyruvate	*mutant enzyme C9S/C268S, in the presence of 0.1 mM ribose 5'-phosphate, in 50 mM imidazole-HCl buffer, pH 7.2, 50 mM KCl, 7 mM MgCl2, 0.12 mM NADH, 0.02 mg/ml lactate dehydrogenase, 2 mM PEP, and 4 mM ADP, at 30&deg;C
+KCAT	Geobacillus stearothermophilus	3204	phosphoenolpyruvate	*wild type enzyme, in the presence of 0.1 mM ribose 5'-phosphate, in 50 mM imidazole-HCl buffer, pH 7.2, 50 mM KCl, 7 mM MgCl2, 0.12 mM NADH, 0.02 mg/ml lactate dehydrogenase, 2 mM PEP, and 4 mM ADP, at 30&deg;C
+KM	Trypanosoma brucei	-999	more	*kinetic study
+KM	Entodinium sp.	-999	more	*kinetic properties
+KM	Leishmania major	-999	more	*kinetic study
+KM	Sus scrofa	-999	more	*kinetic study
+KM	Platichthys flesus	-999	more	*kinetic properties; kinetic study
+KM	Patella caerulea	-999	more	*kinetic properties
+KM	Tenebrio molitor	-999	more	*kinetic properties compared to pyruvate kinase from other insects
+KM	Mytilus galloprovincialis	-999	more	*alteration of kinetic properties by purification
+KM	Trypanosoma brucei	-999	more	*kinetic properties; pH-dependence
+KM	Oncorhynchus kisutch	-999	more	*kinetic properties
+KM	Saccharomyces cerevisiae	-999	more	*kinetic parameters
+KM	Homo sapiens	-999	more	*allosteric pattern dissappears at pH 5.9
+KM	Homo sapiens	-999	more	*allosteric enzyme; kinetic properties; kinetic properties of phosphorylated and dephosphorylated kinases
+KM	Mus musculus	-999	more	*kinetic parameters
+KM	Rattus norvegicus	-999	more	*kinetic parameters
+KM	Busycotypus canaliculatum	-999	more	*kinetic properties
+KM	Busycotypus canaliculatum	-999	more	*kinetic parameters
+KM	Ricinus communis	-999	more	*kinetic parameters
+KM	Saccharomyces cerevisiae	-999	more	*kinetic parameters
+KM	Spinacia oleracea	-999	more	*kinetic parameters
+KM	Parachlorella kessleri	-999	more	*kinetic properties; kinetic properties of different MW-forms of Chlorella kinase
+KM	Amylomyces rouxii	-999	more	*kinetics overview
+KM	Antarctic fish	-999	more	*kinetics overview
+KM	Azotobacter vinelandii	-999	more	*kinetics overview
+KM	Bacillus subtilis	-999	more	*kinetics overview
+KM	Brevibacterium flavum	-999	more	*kinetics overview
+KM	Cobitidae	-999	more	*kinetics overview
+KM	Coprinopsis lagopus	-999	more	*kinetics overview
+KM	Escherichia coli	-999	more	*kinetics overview
+KM	Euglena gracilis	-999	more	*kinetics overview
+KM	Halothiobacillus neapolitanus	-999	more	*kinetics overview
+KM	Komagataeibacter xylinus	-999	more	*kinetics overview
+KM	Mus musculus	-999	more	*kinetic parameters; kinetics overview
+KM	Oncorhynchus mykiss	-999	more	*kinetics overview
+KM	Oryctolagus cuniculus	-999	more	*kinetics overview
+KM	Ostreidae	-999	more	*kinetics overview
+KM	Paralithodes camtschaticus	-999	more	*kinetics overview
+KM	Rana pipiens	-999	more	*kinetics overview
+KM	Rattus norvegicus	-999	more	*kinetic parameters; kinetics overview
+KM	Saccharomyces cerevisiae	-999	more	*kinetic parameters; kinetics overview
+KM	Saccharomyces pastorianus	-999	more	*kinetics overview
+KM	Sus scrofa	-999	more	*kinetics overview
+KM	Trypanosoma brucei	-999	more	*kinetics overview
+KM	Trypanoplasma borreli	-999	more	*kinetic parameters
+KM	Mycolicibacterium smegmatis	-999	more	*kinetic parameters
+KM	Streptococcus mutans	-999	more	*kinetic parameters
+KM	Thermoplasma acidophilum	-999	more	*kinetic parameters
+KM	Brassica napus	-999	more	*hyperbolic saturation kinetics for phosphoenolpyruvate, ADP, Mg2+, K+
+KM	Brassica napus	-999	more	*assay and kinetics overview
+KM	Brassica rapa subsp. oleifera	-999	more	*assay and kinetics overview
+KM	Cynodon dactylon	-999	more	*assay and kinetics overview
+KM	Monoraphidium minutum	-999	more	*assay and kinetics overview
+KM	Ricinus communis	-999	more	*assay and kinetics overview
+KM	Spinacia oleracea	-999	more	*assay and kinetics overview
+KM	Schizosaccharomyces pombe	-999	more	*
+KM	Lethenteron camtschaticum	-999	more	*
+KM	Amaranthus sp.	-999	more	*coupled assay for leaf crude extracts
+KM	Cynodon dactylon	-999	more	*coupled assay for leaf crude extracts
+KM	Digitaria sanguinalis	-999	more	*coupled assay for leaf crude extracts
+KM	Setaria verticillata	-999	more	*coupled assay for leaf crude extracts
+KM	Sorghum halepense	-999	more	*coupled assay for leaf crude extracts
+KM	Escherichia coli	-999	more	*influence of fructose 1,6-bisphosphate on kinetics
+KM	Tenebrio molitor	-999	more	*Km value of the enzyme towards phosphoenolpyruvate is higher in the pupae stage than in the rest developmental stages although the same enzyme type appears to be present throughout the life span of the insect. Starvation results to activation of the enzyme by increasing the Km value in the two feeding stages, namely larvae and adult, while injury has the opposite effect
+KM	Leishmania donovani	-999	more	*in the presence of the effector fructose 2,6-bisphosphate the enzyme displays a hyperbolic saturation curve, whereas in the absence of fructose 2,6-bisphosphate the curve is sigmoid. The phosphoenolpyruvate concentration for S0.5 in presence of fructose 2,6-bisphosphate is 0.08 mM, and 1.16 mM in absence, with a concomitant increase in Vmax from 492.1 U/mg in absence to 506.99 U/mg in presence of fructose 2,6-bisphosphate. For ADP, a Km of 0.32 mM has been calculated
+KM	Leishmania mexicana	-999	more	*S0.5 value of phosphoenolpyruvate is 1.06 mM for wild-type, 1.3 mM for mutant E451W
+KM	Staphylococcus aureus	-999	more	*steady-state kinetics of recombinant wild-type and truncated PKin the absence or presence of 1 mM AMP as a function of phosphoenolpyruvate
+KM	Homo sapiens	-999	more	*phosphoenolpyruvate affinity is sensitive to the nature of the side chain at position 436
+KM	Brassica juncea	-999	more	*kinetics, in presence of saturated substrate concentration, the enzyme exhibits hyperbolic kinetics for both ADP and PEP
+KM	Thermofilum pendens	-999	more	*the kinetic mechanism is random order with a rapid equilibrium
+KM	Homo sapiens	0.0003	phosphoenolpyruvate	*Y235F mutant, Vmax = 0.6 micromol/min/mg
+KM	Homo sapiens	0.0018	phosphoenolpyruvate	*Y235A mutant, Vmax = 1.1 micromol/min/mg; Y235S mutant, Vmax = 1.2 micromol/min/mg
+KM	Homo sapiens	0.0019	phosphoenolpyruvate	*wild-type, Vmax = 3.8 micromol/min/mg
+KM	Sus scrofa	0.02	phosphoenolpyruvate	*solubilized enzyme
+KM	Sus scrofa	0.02	phosphoenolpyruvate	*bound enzyme
+KM	Saccharomyces cerevisiae	0.021	phosphoenolpyruvate	*pH 6.2, wild-type enzyme, Mn2+- and fructose 1,6-bisphosphate activated
+KM	Meganyctiphanes norvegica	0.024	phosphoenolpyruvate	*15&deg;, pH 7.0, isoform PK I, in winter
+KM	Sparus aurata	0.025	pyruvate	*25&deg;C, sample taken in June
+KM	Streptococcus mutans	0.026	GDP	*pH 7.5
+KM	Ricinus communis	0.03	ADP	*25&deg;C, pH 7.9
+KM	Monoraphidium minutum	0.03	ADP	*PKc-isozyme
+KM	Meganyctiphanes norvegica	0.033	phosphoenolpyruvate	*15&deg;, pH 7.0, isoform PK I, in summer
+KM	Ricinus communis	0.033	phosphoenolpyruvate	*pH 7.5, 30&deg;C
+KM	Ricinus communis	0.037	MgADP-	*pH 7.5, 30&deg;C
+KM	Bos taurus	0.04	phosphoenolpyruvate	*
+KM	Sus scrofa	0.04	phosphoenolpyruvate	*
+KM	Periplaneta americana	0.04	phosphoenolpyruvate	*
+KM	Tenebrio molitor	0.04	phosphoenolpyruvate	*in the presence of fructose 1,6-diphosphate
+KM	Nautilus pompilius	0.04	phosphoenolpyruvate	*
+KM	Canis lupus familiaris	0.04	phosphoenolpyruvate	*
+KM	Metacarcinus magister	0.04	phosphoenolpyruvate	*in the presence of fructose 1,6-diphosphate
+KM	Busycotypus canaliculatum	0.04	phosphoenolpyruvate	*in the absence of fructose 1,6-diphosphate; in the presence of fructose 1,6-diphosphate; pH 7.0, 20&deg;C
+KM	Ricinus communis	0.04	phosphoenolpyruvate	*25&deg;C, pH 7.9; 2 isozymes with different kinetic mechanisms
+KM	Mycolicibacterium smegmatis	0.04	phosphoenolpyruvate	*
+KM	Streptococcus mutans	0.04	phosphoenolpyruvate	*pH 7.5
+KM	Thermoplasma acidophilum	0.04	phosphoenolpyruvate	*
+KM	Saccharomyces cerevisiae	0.045	phosphoenolpyruvate	*pH 6.2, wild-type enzyme, Mn2+-activated
+KM	Ricinus communis	0.046	ADP	*at pH 7.4
+KM	Ricinus communis	0.046	phosphoenolpyruvate	*at pH 7.4
+KM	Cicer arietinum	0.049	IDP	*cosubstrate phosphoenolpyruvate
+KM	Cardium tuberculatum	0.049	IDP	*cosubstrate phosphoenolpyruvate
+KM	Pelophylax ridibundus	0.049	IDP	*cosubstrate phosphoenolpyruvate
+KM	Metacarcinus magister	0.049	IDP	*cosubstrate phosphoenolpyruvate
+KM	Saccharomyces cerevisiae	0.049	IDP	*cosubstrate phosphoenolpyruvate
+KM	Rattus norvegicus	0.049	IDP	*cosubstrate phosphoenolpyruvate
+KM	Ricinus communis	0.049	IDP	*25&deg;C, pH 7.9; cosubstrate phosphoenolpyruvate
+KM	Monoraphidium minutum	0.049	IDP	*cosubstrate phosphoenolpyruvate; isozyme PKc
+KM	Streptococcus mutans	0.049	IDP	*
+KM	Vigna radiata	0.05	phosphoenolpyruvate	*30&deg;C, pH 8.5
+KM	Rattus norvegicus	0.05	phosphoenolpyruvate	*
+KM	Brassica napus	0.052	phosphoenolpyruvate	*24&deg;C, pH 8.0
+KM	Toxoplasma gondii	0.0544	GDP	*PykII, in 100 mM Tris-HCl,pH 8.5, at 37&deg;C
+KM	Ricinus communis	0.055	ADP	*at pH 7.4, in the presence of 10 mM glutamate
+KM	Sparus aurata	0.055	pyruvate	*25&deg;C, sample taken in January
+KM	Takifugu rubripes	0.059	phosphoenolpyruvate	*activated by fructose D-1,6-bisphosphate
+KM	Cynodon dactylon	0.064	phosphoenolpyruvate	*
+KM	Saccharomyces cerevisiae	0.066	phosphoenolpyruvate	*pH 6.2, mutant enzyme T298C, Mn2+- and fructose 1,6-bisphosphate activated
+KM	Saccharolobus solfataricus	0.069	ADP	*70&deg;C, pH not specified in the publication
+KM	Rattus norvegicus	0.07	phosphoenolpyruvate	*apparent value
+KM	Oryctolagus cuniculus	0.073	phosphoenolpyruvate	*recombinant enzyme, at pH 7.4 and 37&deg;C
+KM	Brassica napus	0.075	ADP	*pH 6.8, 24&deg;C
+KM	Oryctolagus cuniculus	0.076	phosphoenolpyruvate	*native enzyme, at pH 7.4 and 37&deg;C
+KM	Rattus norvegicus	0.082	ADP	*L-type isozyme, pH 7.4, 37&deg;C
+KM	Rattus norvegicus	0.082	ADP	*pH 7.1, 37&deg;C
+KM	Trypanosoma brucei	0.082	ADP	*pH 7.4, 25&deg;C
+KM	Ricinus communis	0.082	phosphoenolpyruvate	*at pH 6.4
+KM	Ricinus communis	0.087	MgADP-	*pH 6.5, 30&deg;C
+KM	Ricinus communis	0.089	phosphoenolpyruvate	*pH 6.5, 30&deg;C
+KM	Ricinus communis	0.09	ADP	*at pH 6.4
+KM	Vigna radiata	0.09	phosphoenolpyruvate	*30&deg;C, pH 7.5
+KM	Thermofilum pendens	0.092	ADP	*pH 6.0, 45&deg;C, recombinant enzyme with His6 tag
+KM	Ricinus communis	0.093	phosphoenolpyruvate	*at pH 7.4, in the presence of 10 mM glutamate
+KM	Saccharolobus solfataricus	0.093	phosphoenolpyruvate	*70&deg;C, pH not specified in the publication
+KM	Brassica juncea	0.0965	ADP	*pH 7.0, 25&deg;C
+KM	Lactococcus lactis	0.098	GDP	*
+KM	Trypanosoma brucei	0.098	GDP	*pH 7.4, 25&deg;C
+KM	Trypanosoma brucei	0.098	GDP	*pH 7.5, 25&deg;C
+KM	Musa cavendishii	0.098	phosphoenolpyruvate	*hyperbolic saturation kinetics, pH 6.9, 25&deg;C
+KM	Saccharomyces cerevisiae	0.099	phosphoenolpyruvate	*pH 6.2, 30&deg;C
+KM	Brassica rapa subsp. oleifera	0.1	phosphoenolpyruvate	*pH 6.8, 30&deg;C
+KM	Homo sapiens	0.1	phosphoenolpyruvate	*in the presence of D-fructose 1,6-bisphosphate
+KM	Ricinus communis	0.101	ADP	*at pH 6.4, in the presence of 10 mM glutamate
+KM	Brassica rapa subsp. oleifera	0.11	ADP	*pH 6.8, 30&deg;C
+KM	Selenomonas ruminantium	0.11	phosphoenolpyruvate	*allosteric enzyme, pH 7.0
+KM	Homo sapiens	0.112	phosphoenolpyruvate	*mutant C436M, pH not specified in the publication, 30&deg;C
+KM	Saccharolobus solfataricus	0.113	ADP	*80&deg;C, pH not specified in the publication
+KM	Geobacillus stearothermophilus	0.113	phosphoenolpyruvate	*mutant enzyme C9S/C268S, in the presence of 0.1 mM ribose 5'-phosphate, in 50 mM imidazole-HCl buffer, pH 7.2, 50 mM KCl, 7 mM MgCl2, 0.12 mM NADH, 0.02 mg/ml lactate dehydrogenase, 2 mM PEP, and 4 mM ADP, at 30&deg;C
+KM	Saccharolobus solfataricus	0.115	phosphoenolpyruvate	*65&deg;C, pH not specified in the publication
+KM	Toxoplasma gondii	0.116	phosphoenolpyruvate	*PykII, in 100 mM Tris-HCl,pH 8.5, at 37&deg;C
+KM	Ricinus communis	0.12	ADP	*cosubstrate UDP, isozyme PKc, 25&deg;C, pH 7.9
+KM	Rhodotorula toruloides	0.12	ADP	*
+KM	Musa cavendishii	0.12	ADP	*hyperbolic saturation kinetics, pH 6.9, 25&deg;C
+KM	Plasmodium falciparum	0.12	ADP	*
+KM	Brassica napus	0.12	phosphoenolpyruvate	*pH 6.8, 24&deg;C
+KM	Vigna radiata	0.12	phosphoenolpyruvate	*30&deg;C, pH 6.5
+KM	Homo sapiens	0.13	phosphoenolpyruvate	*wild type enzyme, in the presence of K+, in 50 mM Mes-Tris, pH 6.0, at 25&deg;C
+KM	Saccharolobus solfataricus	0.137	ADP	*65&deg;C, pH not specified in the publication
+KM	Brassica napus	0.14	ADP	*pH 8.0, 24&deg;C
+KM	Thermofilum pendens	0.14	ADP	*pH 6.0, 45&deg;C, recombinant enzyme without His6 tag
+KM	Chlamydomonas reinhardtii	0.15	phosphoenolpyruvate	*
+KM	Entodinium sp.	0.15	phosphoenolpyruvate	*enzyme form I
+KM	Ricinus communis	0.15	phosphoenolpyruvate	*at pH 6.4, in the presence of 10 mM glutamate
+KM	Zymomonas mobilis	0.16	ADP	*pH 6.5, 25&deg;C
+KM	Cicer arietinum	0.16	ADP	*
+KM	Tenebrio molitor	0.16	ADP	*
+KM	Salmonella enterica subsp. enterica serovar Typhimurium	0.16	ADP	*isozyme II, 30&deg;C, pH 6.8
+KM	Saccharomyces cerevisiae	0.16	ADP	*pH 6.2, 30&deg;C
+KM	Vigna radiata	0.16	ADP	*30&deg;C, pH 8.5
+KM	Saccharolobus solfataricus	0.164	ADP	*50&deg;C, pH not specified in the publication
+KM	Vigna radiata	0.17	ADP	*30&deg;C, pH 7.5
+KM	Homo sapiens	0.17	phosphoenolpyruvate	*pH 8.0, 32&deg;C, activation by 2 mM D-fructose-1,6-bisphosphate
+KM	Brassica juncea	0.1785	phosphoenolpyruvate	*pH 7.0, 25&deg;C
+KM	Chlamydomonas reinhardtii	0.18	phosphoenolpyruvate	*cosubstrate ADP
+KM	Bos taurus	0.18	phosphoenolpyruvate	*cosubstrate ADP; L-type isozyme, 25&deg;C, pH 7.0
+KM	Rattus norvegicus	0.18	phosphoenolpyruvate	*pH 7.4, 37&deg;C
+KM	Monoraphidium minutum	0.18	phosphoenolpyruvate	*isozyme PKp
+KM	Meganyctiphanes norvegica	0.181	phosphoenolpyruvate	*15&deg;, pH 7.0, isoform PK II, in summer
+KM	Geobacillus stearothermophilus	0.186	phosphoenolpyruvate	*wild type enzyme, in the presence of 0.1 mM ribose 5'-phosphate, in 50 mM imidazole-HCl buffer, pH 7.2, 50 mM KCl, 7 mM MgCl2, 0.12 mM NADH, 0.02 mg/ml lactate dehydrogenase, 2 mM PEP, and 4 mM ADP, at 30&deg;C
+KM	Plasmodium falciparum	0.19	phosphoenolpyruvate	*
+KM	Toxoplasma gondii	0.193	IDP	*PykII, in 100 mM Tris-HCl,pH 8.5, at 37&deg;C
+KM	Meganyctiphanes norvegica	0.193	phosphoenolpyruvate	*15&deg;, pH 7.0, isoform PK II, in winter
+KM	Bos taurus	0.2	ADP	*
+KM	Entodinium sp.	0.2	ADP	*enzyme form I
+KM	Sus scrofa	0.2	ADP	*
+KM	Cardium tuberculatum	0.2	ADP	*
+KM	Periplaneta americana	0.2	ADP	*
+KM	Nautilus pompilius	0.2	ADP	*
+KM	Bos taurus	0.2	ADP	*M-type isozyme, 25&deg;C, pH 7.0
+KM	Busycotypus canaliculatum	0.2	ADP	*pH 7.0, 20&deg;C
+KM	Ricinus communis	0.2	ADP	*25&deg;C, pH 7.9; PKp-isozyme
+KM	Monoraphidium minutum	0.2	ADP	*PKp-isozyme
+KM	Salmonella enterica subsp. enterica serovar Typhimurium	0.2	ADP	*30&deg;C, pH 6.8; enzyme form I
+KM	Bacillus licheniformis	0.2	phosphoenolpyruvate	*pH 7.1, 30&deg;C, in the presence of Mg2+, 7fold lower in the presence of Mn2+
+KM	Entamoeba histolytica	0.21	phosphoenolpyruvate	*26&deg;C
+KM	Leishmania mexicana	0.214	ADP	*mutant E451W, pH 7.5; wild-type, pH 7.5
+KM	Streptococcus mutans	0.22	phosphoenolpyruvate	*in the presence of glucose 6-phosphate, at pH 7.5
+KM	Tenebrio molitor	0.22	phosphoenolpyruvate	*enzyme from larva
+KM	Saccharolobus solfataricus	0.225	phosphoenolpyruvate	*50&deg;C, pH not specified in the publication
+KM	Cynodon dactylon	0.235	ADP	*
+KM	Vigna radiata	0.24	ADP	*30&deg;C, pH 6.5
+KM	Selenomonas ruminantium	0.24	ADP	*allosteric enzyme, pH 7.0
+KM	Homo sapiens	0.24	ADP	*pH 8.0, 32&deg;C, activation by 2 mM D-fructose-1,6-bisphosphate
+KM	Homo sapiens	0.24	phosphoenolpyruvate	*mutant enzyme E117K, in the absence of K+, in 50 mM Mes-Tris, pH 6.0, at 25&deg;C
+KM	Homo sapiens	0.24	phosphoenolpyruvate	*wild-type enzyme, pH not specified in the publication, 30&deg;C
+KM	Saccharomyces cerevisiae	0.242	phosphoenolpyruvate	*pH 6.2, mutant enzyme T298C, Mn2+-activated
+KM	Ricinus communis	0.25	GDP	*IDP, isozyme PKc, 25&deg;C, pH 7.9
+KM	Streptococcus mutans	0.25	GDP	*UDP, at pH 7.5
+KM	Tenebrio molitor	0.26	phosphoenolpyruvate	*enzyme from adult
+KM	Saccharolobus solfataricus	0.26	phosphoenolpyruvate	*80&deg;C, pH not specified in the publication
+KM	Rattus norvegicus	0.27	phosphoenolpyruvate	*in the absence of the high-affinity IgE receptor FcepsilonRI
+KM	Rattus norvegicus	0.3	phosphoenolpyruvate	*L-type, pH 7.4, 37&deg;C
+KM	Takifugu rubripes	0.3	ADP	*pH 7.4
+KM	Lethenteron camtschaticum	0.31	ADP	*pH 7.4, 30&deg;C
+KM	Saccharomyces cerevisiae	0.31	phosphoenolpyruvate	*pH 6.2, wild-type enzyme, Mg2+ and fructose 1,6-bisphosphate activated
+KM	Homo sapiens	0.34	ADP	*pH 8.0, 32&deg;C
+KM	Homo sapiens	0.345	phosphoenolpyruvate	*mutant C436H, pH not specified in the publication, 30&deg;C
+KM	Selenomonas ruminantium	0.35	ATP	*allosteric enzyme, pH 7.0
+KM	Tenebrio molitor	0.35	phosphoenolpyruvate	*
+KM	Oryctolagus cuniculus	0.357	ADP	*native enzyme, at pH 7.4 and 37&deg;C
+KM	Oryctolagus cuniculus	0.365	ADP	*recombinant enzyme, at pH 7.4 and 37&deg;C
+KM	Homo sapiens	0.372	phosphoenolpyruvate	*mutant C436A, pH not specified in the publication, 30&deg;C
+KM	Streptococcus mutans	0.39	ADP	*in the presence of glucose 6-phosphate, pH 7.5
+KM	Pigeon	0.4	phosphoenolpyruvate	*
+KM	Rattus norvegicus	0.4	phosphoenolpyruvate	*M2-type isozyme, pH 7.4, 37&deg;C
+KM	Rattus norvegicus	0.4	phosphoenolpyruvate	*pH 7.4, 37&deg;C
+KM	Rhodotorula toruloides	0.4	phosphoenolpyruvate	*
+KM	Pigeon	0.4	ADP	*
+KM	Rattus norvegicus	0.4	ADP	*R-type isozyme, pH 7.4, 37&deg;C
+KM	Rattus norvegicus	0.4	ADP	*pH 7.4, 37&deg;C
+KM	Lethenteron camtschaticum	0.41	phosphoenolpyruvate	*pH 7.4, 30&deg;C
+KM	Trypanosoma brucei	0.41	UDP	*pH 7.4, 25&deg;C
+KM	Synechococcus sp.	0.45	phosphoenolpyruvate	*allosteric enzyme, pH 7.5, 24&deg;C
+KM	Sus scrofa	0.46	ADP	*solubilized enzyme
+KM	Selenomonas ruminantium	0.48	pyruvate	*allosteric enzyme, pH 7.0
+KM	Sus scrofa	0.52	ADP	*bound enzyme
+KM	Synechococcus sp.	0.54	phosphoenolpyruvate	*allosteric enzyme, pH 7.0, 24&deg;C
+KM	Homo sapiens	0.552	phosphoenolpyruvate	*mutant S12D, pH not specified in the publication, 30&deg;C
+KM	Rattus norvegicus	0.59	phosphoenolpyruvate	*in the presence of the high-affinity IgE receptor FcepsilonRI
+KM	Sus scrofa	0.6	ADP	*at 25&deg;C
+KM	Archaeoglobus fulgidus	0.6	ADP	*50&deg;C, pH not specified in the publication
+KM	Tenebrio molitor	0.6	phosphoenolpyruvate	*enzyme from pupae
+KM	Homo sapiens	0.61	phosphoenolpyruvate	*wild type enzyme, in the absence of K+, in 50 mM Mes-Tris, pH 6.0, at 25&deg;C
+KM	Rattus norvegicus	0.67	GDP	*pH 7.1, 37&deg;C
+KM	Bacillus licheniformis	0.7	ADP	*in the presence of Mg2+, pH 7.1, 30&deg;C
+KM	Thermoproteus tenax	0.7	ADP	*50&deg;C, pH 7.0
+KM	Homo sapiens	0.703	phosphoenolpyruvate	*mutant C436N, pH not specified in the publication, 30&deg;C
+KM	Spinacia oleracea	0.72	UDP	*pH 7.1, 25&deg;C
+KM	Homo sapiens	0.768	phosphoenolpyruvate	*mutant C436T, pH not specified in the publication, 30&deg;C
+KM	Homo sapiens	0.802	phosphoenolpyruvate	*mutant C436S, pH not specified in the publication, 30&deg;C
+KM	Homo sapiens	0.804	phosphoenolpyruvate	*mutant C436D, pH not specified in the publication, 30&deg;C
+KM	Rattus norvegicus	0.83	ADP	*in the presence of ATP, pH 7.4, 37&deg;C
+KM	Tenebrio molitor	0.88	phosphoenolpyruvate	*in the presence of alanine
+KM	Homo sapiens	0.9	phosphoenolpyruvate	*
+KM	Pelophylax ridibundus	0.98	ADP	*
+KM	Rattus norvegicus	0.98	ADP	*M1-type isozyme, pH 7.4, 37&deg;C
+KM	Rattus norvegicus	1.05	ADP	*apparent value
+KM	Entamoeba histolytica	1.05	phosphoenolpyruvate	*26&deg;C
+KM	Spinacia oleracea	1.1	GDP	*pH 7.1, 25&deg;C
+KM	Sus scrofa	1.1	phosphoenolpyruvate	*at 25&deg;C
+KM	Saccharomyces cerevisiae	1.18	phosphoenolpyruvate	*pH 6.2, wild-type enzyme, Mg2+-activated
+KM	Rattus norvegicus	1.25	UDP	*pH 7.1, 37&deg;C
+KM	Rattus norvegicus	1.3	ADP	*
+KM	Takifugu rubripes	1.3	phosphoenolpyruvate	*pH 7.4
+KM	Rattus norvegicus	1.4	ADP	*M2-type isozyme, pH 7.4, 37&deg;C
+KM	Rattus norvegicus	1.4	phosphoenolpyruvate	*R-type isozyme, pH 7.4, 37&deg;C
+KM	Homo sapiens	1.5	phosphoenolpyruvate	*in the absence of activator
+KM	Homo sapiens	2	ADP	*mutant enzyme E117K, in the absence of K+, in 50 mM Mes-Tris, pH 6.0, at 25&deg;C
+KM	Homo sapiens	2.1	phosphoenolpyruvate	*pH 8.0, 32&deg;C
+KM	Ricinus communis	2.2	GDP	*isozyme PKp, 25&deg;C, pH 7.9
+KM	Homo sapiens	2.3	ADP	*wild type enzyme, in the presence of K+, in 50 mM Mes-Tris, pH 6.0, at 25&deg;C
+KM	Ricinus communis	2.4	UDP	*isozyme PKp, 25&deg;C, pH 7.9
+KM	Trypanosoma brucei	2.53	CDP	*pH 7.4, 25&deg;C
+KM	Archaeoglobus fulgidus	3.3	phosphoenolpyruvate	*50&deg;C, pH not specified in the publication
+KM	Ricinus communis	4	IDP	*isozyme PKp, 25&deg;C, pH 7.9
+KM	Saccharomyces cerevisiae	4.43	phosphoenolpyruvate	*pH 6.2, mutant enzyme T298C, Mg2+- and fructose 1,6-bisphosphate activated
+KM	Spinacia oleracea	6.8	CDP	*isozyme PKII, pH 7.1, 25&deg;C
+KM	Toxoplasma gondii	7.99	ADP	*PykII, in 100 mM Tris-HCl,pH 8.5, at 37&deg;C
+KM	Spinacia oleracea	9	CDP	*isozyme PKI, pH 7.1, 25&deg;C
+KM	Homo sapiens	14.1	ADP	*wild type enzyme, in the absence of K+, in 50 mM Mes-Tris, pH 6.0, at 25&deg;Cin 50 mM Mes-Tris, pH 6.0, at 25&deg;C
+MW	Homo sapiens	-999	*	*structure of liver and erythrocyte L-type kinases seems to be identical with an additional fragment present in erythrocytic enzyme
+MW	Felis catus	-999	*	*3-dimensional structure of cat M-type isozyme
+MW	Mus musculus	-999	*	*amino acid composition
+MW	Parachlorella kessleri	-999	*	*in vitro addition of substrates leads to higher MW enzyme species with MW of 730000, 1050000 and 1400000
+MW	Amylomyces rouxii	-999	*	*overview
+MW	Antarctic fish	-999	*	*overview
+MW	Azotobacter vinelandii	-999	*	*overview
+MW	Bacillus subtilis	-999	*	*overview
+MW	Brevibacterium flavum	-999	*	*overview
+MW	Cobitidae	-999	*	*overview
+MW	Coprinopsis lagopus	-999	*	*overview
+MW	Escherichia coli	-999	*	*overview
+MW	Euglena gracilis	-999	*	*overview
+MW	Halothiobacillus neapolitanus	-999	*	*overview
+MW	Komagataeibacter xylinus	-999	*	*overview
+MW	Mus musculus	-999	*	*overview
+MW	Oncorhynchus mykiss	-999	*	*overview
+MW	Oryctolagus cuniculus	-999	*	*overview
+MW	Ostreidae	-999	*	*overview
+MW	Paralithodes camtschaticus	-999	*	*overview
+MW	Rana pipiens	-999	*	*overview
+MW	Rattus norvegicus	-999	*	*overview
+MW	Saccharomyces cerevisiae	-999	*	*overview
+MW	Saccharomyces pastorianus	-999	*	*overview
+MW	Sus scrofa	-999	*	*overview
+MW	Trypanosoma brucei	-999	*	*overview
+MW	Trypanoplasma borreli	-999	*	*comparison of amino acid sequences
+MW	Aspergillus nidulans	-999	*	*amino acid composition
+MW	Schizosaccharomyces pombe	-999	*	*
+MW	Geobacillus stearothermophilus	-999	*	*amino acid composition
+MW	Homo sapiens	-999	*	*molecular weight fractions I and II are 135000 Da and 260000 Da in normal breast tissue and 72000 Da and 250000 Da in tumor breast tissue
+MW	Streptococcus mutans	44000	*	*4 * 44000, SDS-PAGE
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	47000	*	*4 * 47000, isozyme II, SDS-PAGE
+MW	Pyrobaculum aerophilum	48000	*	*4 * 48000, SDS-PAGE
+MW	Thermoproteus tenax	49000	*	*4 * 49000, SDS-PAGE
+MW	Archaeoglobus fulgidus	49000	*	*4 * 49000, SDS-PAGE
+MW	Kinixys erosa	49680	*	*4 * 49680
+MW	Saccharolobus solfataricus	49800	*	*x * 50000, SDS-PAGE, x * 49800, calculated
+MW	Cynodon dactylon	50000	*	*4 * 50000, SDS-PAGE
+MW	Saccharolobus solfataricus	50000	*	*x * 50000, SDS-PAGE, x * 49800, calculated
+MW	Yersinia enterocolitica	50500	*	*4 * 50500, PykF, SDS-PAGE, circular dichroism spectroscopy, and gel filtration, 4 * 51500, PykA, SDS-PAGE, circular dichroism spectroscopy, and gel filtration
+MW	Escherichia coli	51000	*	*4 * 51000, isozyme PK I, SDS-PAGE
+MW	Aeropyrum pernix	51000	*	*4 * 51000, SDS-PAGE
+MW	Thermotoga maritima	51000	*	*4 * 51000, native enzyme, SDS-PAGE
+MW	Selenomonas ruminantium	51300	*	*4 * 51300, SDS-PAGE
+MW	Zymomonas mobilis	51400	*	*calculated from amino acid sequence
+MW	Yersinia enterocolitica	51500	*	*4 * 50500, PykF, SDS-PAGE, circular dichroism spectroscopy, and gel filtration, 4 * 51500, PykA, SDS-PAGE, circular dichroism spectroscopy, and gel filtration
+MW	Bos taurus	52000	*	*4 * 52000, L-type isozyme
+MW	Staphylococcus aureus	53100	*	*4 * 65100, about, full-length enzyme, sequence calculation, 4 * 53100, about, C-terminally truncated enzyme mutant, sequence calculation
+MW	Chlamydia trachomatis	53500	*	*x * 53500, SDS-PAGE
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	54000	*	*4 * 54000, isozyme I, SDS-PAGE
+MW	Saccharomyces cerevisiae	54000	*	*SDS-PAGE
+MW	Mucor racemosus	54400	*	*4 * 54400, isozyme PK1, SDS-PAGE
+MW	Leishmania donovani	54400	*	*x * 54400, calculated
+MW	Brassica rapa subsp. oleifera	55000	*	*x * 55000 + 4-x * 57000, SDS-PAGE
+MW	Microbispora rosea subsp. aerata	55000	*	*x * 55000, SDS-PAGE
+MW	Eimeria tenella	55000	*	*SDS-PAGE
+MW	Schizosaccharomyces pombe	55400	*	*2 * 55400, SDS-PAGE, predominantly a dimer, but also some tetramer
+MW	Escherichia coli	56000	*	*4 * 56000, isozyme PK II, SDS-PAGE
+MW	Ricinus communis	56000	*	*x * 56000 + x * 57000, SDS-PAGE
+MW	Brassica napus	56000	*	*4 * 56000, SDS-PAGE
+MW	Ricinus communis	56000	*	*2 * 56000 + 2 * 57000, SDS-PAGE
+MW	Thermotoga maritima	56000	*	*4 * 56000, recombinant enzyme, SDS-PAGE
+MW	Glycine max	56000	*	*4 * 56000, gel filtration
+MW	Ricinus communis	56000	*	*4 * 56000, gel filtration
+MW	Zymomonas mobilis	57000	*	*2 * 57000, SDS-PAGE
+MW	Chlamydomonas reinhardtii	57000	*	*4 * 57000, SDS-PAGE
+MW	Bos taurus	57000	*	*x * 57000, SDS-PAGE
+MW	Rattus norvegicus	57000	*	*x * 57000, SDS-PAGE
+MW	Ricinus communis	57000	*	*x * 56000 + x * 57000, SDS-PAGE
+MW	Monoraphidium minutum	57000	*	*10 * 57000, isozyme PK2, SDS-PAGE
+MW	Musa cavendishii	57000	*	*4 * 57000, SDS-PAGE
+MW	Brassica rapa subsp. oleifera	57000	*	*x * 55000 + 4-x * 57000, SDS-PAGE
+MW	Toxoplasma gondii	57000	*	*4 * 57000, SDS-PAGE
+MW	Ricinus communis	57000	*	*2 * 56000 + 2 * 57000, SDS-PAGE
+MW	Takifugu rubripes	57000	*	*4 * 57000, SDS-PAGE
+MW	Arabidopsis thaliana	57000	*	*4 * 60000 + 4 * 57000, gel filtration
+MW	Eimeria tenella	57590	*	*calculated from amino acid sequence
+MW	Rattus norvegicus	57800	*	*gel filtration
+MW	Oryctolagus cuniculus	57900	*	*native enzyme, MALDI-TOF mass spectrometry
+MW	Homo sapiens	57900	*	*calculated from amino acid sequence
+MW	Brochothrix thermosphacta	58000	*	*4 * 58000, SDS-PAGE
+MW	Concholepas concholepas	58000	*	*4 * 58000, SDS-PAGE
+MW	Mucor racemosus	58000	*	*4 * 58000, SDS-PAGE, isozyme PK5
+MW	Brassica napus	58000	*	*3 * 58000 + 3 64000, SDS-PAGE
+MW	Equus caballus	58000	*	*x * 58000, calculated
+MW	Homo sapiens	58000	*	*most of the protein recognized by the anti-M2-PK antibodies runs at 58000 Da, SDS-PAGE
+MW	Homo sapiens	58000	*	*SDS-PAGE
+MW	Oryctolagus cuniculus	58000	*	*recombinant enzyme, gel filtration
+MW	Solanum tuberosum	58000	*	*x * 58000, SDS-PAGE
+MW	Mus musculus	58600	*	*4 * 58600, M4-type isozyme, SDS-PAGE
+MW	Sus scrofa	59000	*	*4 * 59000, SDS-PAGE
+MW	Leishmania major	59000	*	*x * 59000
+MW	Lethenteron camtschaticum	59000	*	*4 * 59000, SDS-PAGE
+MW	Oryctolagus cuniculus	59000	*	*native enzyme, gel filtration
+MW	Mus musculus	59500	*	*4 * 59500, K4-type isozyme, SDS-PAGE
+MW	Homo sapiens	60000	*	*2 * 60000 + 2 * 57000-58000, most important of the 'aged' isozymes, PKR2, SDS-PAGE, derived from erythroblast homotetramer by partial proteolysis and transformation into various active heterotetrameric forms with two partially proteolyzed subunits; 4 * 60000, L-type isozyme, SDS-PAGE
+MW	Sus scrofa	60000	*	*4 * 60000, SDS-PAGE, M1 isozyme
+MW	Arabidopsis thaliana	60000	*	*4 * 60000 + 4 * 57000, gel filtration
+MW	Sus scrofa	60000	*	*SDS-PAGE
+MW	Homo sapiens	60000	*	*x * 60000, SDS-PAGE
+MW	Bacillus licheniformis	61940	*	*x * 61940, deduced from gene sequence
+MW	Sus scrofa	62000	*	*4 * 62000, liver enzyme, SDS-PAGE
+MW	Homo sapiens	62000	*	*4 * 62000, SDS-PAGE
+MW	Mus musculus	62000	*	*SDS-PAGE
+MW	Bacillus sp. (in: Bacteria)	62200	*	*calculated from amino acid sequence
+MW	Sporosarcina psychrophila	62570	*	*x * 62570, deduced from gene sequence
+MW	Sus scrofa	63000	*	*4 * 63000, SDS-PAGE
+MW	Busycotypus canaliculatum	64400	*	*4 * 64400, PK-aerobic, SDS-PAGE
+MW	Sus scrofa	64500	*	*SDS-PAGE, subunit
+MW	Aspergillus nidulans	65000	*	*4 * 65000, SDS-PAGE
+MW	Staphylococcus aureus	65100	*	*4 * 65100, about, full-length enzyme, sequence calculation, 4 * 53100, about, C-terminally truncated enzyme mutant, sequence calculation
+MW	Dictyostelium discoideum	66000	*	*4 * 66000, tetrameric in low ionic strength buffer
+MW	Synechococcus sp.	66000	*	*4 * 66000, SDS-PAGE
+MW	Canis lupus familiaris	69900	*	*4 * 69900
+MW	Cardium tuberculatum	70000	*	*4 * 70000
+MW	Busycotypus canaliculatum	71000	*	*4 * 71000, PK-aerobic, SDS-PAGE
+MW	Busycotypus canaliculatum	72600	*	*4 * 72600, PK-anoxic, SDS-PAGE
+MW	Halobacterium salinarum	73000	*	*4 * 73000, SDS-PAGE
+MW	Toxoplasma gondii	77000	*	*purified recombinant protein
+MW	Plasmodium falciparum	80000	*	*4 * 80000, SDS-PAGE
+MW	Homo sapiens	80000	*	*M2-PK-SUMO-1 conjugate, SDS-PAGE
+MW	Escherichia coli	100000	*	*sucrose density gradient centrifugation
+MW	Schizosaccharomyces pombe	100000	*	*gel filtration
+MW	Zymomonas mobilis	115000	*	*gel filtration
+MW	Schizosaccharomyces pombe	120000	*	*analytical ultracentrifugation
+MW	Pigeon	152000	*	*gel filtration
+MW	Streptococcus mutans	180000	*	*gel filtration
+MW	Leishmania major	181000	*	*
+MW	Saccharomyces pastorianus	190000	*	*
+MW	Escherichia coli	190000	*	*isozyme PK II
+MW	Rhodotorula toruloides	190000	*	*gel filtration
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	190000	*	*isozyme PKII, gel filtration
+MW	Thermotoga maritima	190000	*	*recombinant enzyme, gel filtration
+MW	Thermotoga maritima	194000	*	*native enzyme, gel filtration
+MW	Homo sapiens	195000	*	*gel filtration
+MW	Escherichia coli	195000	*	*
+MW	Cicer arietinum	200000	*	*gel filtration
+MW	Thermoproteus tenax	200000	*	*PAGE
+MW	Selenomonas ruminantium	200000	*	*gel filtration
+MW	Cynodon dactylon	200000	*	*gel filtration
+MW	Archaeoglobus fulgidus	203000	*	*gel filtration
+MW	Escherichia coli	203000	*	*calculated from amino acid sequence
+MW	Pyrobaculum aerophilum	205000	*	*gel filtration
+MW	Aeropyrum pernix	207000	*	*gel filtration
+MW	Saccharomyces cerevisiae	209400	*	*sedimentation equilibrium method
+MW	Platichthys flesus	210000	*	*PK II, sucrose density gradient centrifugation
+MW	Monoraphidium minutum	210000	*	*1 * 210000, isozyme PKp, SDS-PAGE
+MW	Brassica rapa subsp. oleifera	214000	*	*gel filtration
+MW	Bos taurus	215000	*	*L-type isozyme
+MW	Staphylococcus aureus	215000	*	*His-tagged C-terminally truncated enzyme mutant, gel filtration
+MW	Mucor racemosus	216000	*	*isozyme PK1, PAGE
+MW	Toxoplasma gondii	220000	*	*gel filtration
+MW	Mus musculus	220000	*	*M4-type isozyme, glycerol density gradient sedimentation
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	220000	*	*isozyme PKII, gel filtration
+MW	Bacillus licheniformis	220000	*	*gel filtration
+MW	Chlamydomonas reinhardtii	224000	*	*native molecular mass
+MW	Rattus norvegicus	224000	*	*gel filtration
+MW	Escherichia coli	225000	*	*isozyme PK I
+MW	Homo sapiens	225500	*	*sedimentation equilibrium method
+MW	Mus musculus	225500	*	*M4-type isozyme, PAGE
+MW	Mucor racemosus	227000	*	*average MW of all 5 isoforms, PAGE
+MW	Concholepas concholepas	230000	*	*
+MW	Bos taurus	230000	*	*M-type isozyme
+MW	Mus musculus	230000	*	*K4-type isozyme, glycerol density gradient sedimentation, PAGE
+MW	Sus scrofa	230000	*	*sucrose density gradient centrifugation, M1 isozyme
+MW	Takifugu rubripes	230000	*	*gel filtration
+MW	Glycine max	230000	*	*gel filtration
+MW	Ricinus communis	230000	*	*gel filtration
+MW	Mycolicibacterium smegmatis	230700	*	*gel filtration
+MW	Lethenteron camtschaticum	232000	*	*gel filtration
+MW	Busycotypus canaliculatum	232600	*	*PK-anoxic, gel filtration
+MW	Concholepas concholepas	234000	*	*gel filtration
+MW	Periplaneta americana	235000	*	*
+MW	Lactococcus lactis	235000	*	*equilibrium sedimentation
+MW	Monoraphidium minutum	235000	*	*isozyme PKp, FPLC gel filtration
+MW	Sus scrofa	237000	*	*sucrose density gradient centrifugation
+MW	Busycotypus canaliculatum	237500	*	*PK-aerobic, gel filtration
+MW	Patella caerulea	238000	*	*native MW
+MW	Mus musculus	238000	*	*K4-type isozyme, gel filtration
+MW	Mucor racemosus	239000	*	*isozyme PK5, PAGE
+MW	Rattus norvegicus	240000	*	*gel filtration
+MW	Ricinus communis	240000	*	*gel filtration
+MW	Monoraphidium minutum	240000	*	*isozyme PK1
+MW	Musa cavendishii	240000	*	*gel filtration
+MW	Homo sapiens	240000	*	*gel filtration
+MW	Geobacillus stearothermophilus	242000	*	*sedimentation analysis
+MW	Sus scrofa	250000	*	*gel filtration
+MW	Oryctolagus cuniculus	250000	*	*muscle
+MW	Rattus norvegicus	250000	*	*
+MW	Sus scrofa	250000	*	*
+MW	Geobacillus stearothermophilus	250000	*	*gel filtration
+MW	Thermoplasma acidophilum	250000	*	*PAGE
+MW	Selenomonas ruminantium	250000	*	*gel filtration
+MW	Staphylococcus aureus	250000	*	*His-tagged full-length enzyme, gel filtration
+MW	Sus scrofa	265000	*	*liver, gel filtration
+MW	Trypanosoma brucei	270000	*	*gel filtration
+MW	Microbispora rosea subsp. aerata	270000	*	*gel filtration
+MW	Synechococcus sp.	280000	*	*gel filtration
+MW	Cardium tuberculatum	282000	*	*gel filtration
+MW	Busycotypus canaliculatum	286000	*	*PK-aerobic, gel filtration
+MW	Busycotypus canaliculatum	299800	*	*PK-anoxic, gel filtration
+MW	Platichthys flesus	300000	*	*PK I, gel filtration
+MW	Mytilus galloprovincialis	300000	*	*gel filtration
+MW	Halobacterium salinarum	300000	*	*gel filtration
+MW	Ricinus communis	305000	*	*gel filtration
+MW	Brassica napus	380000	*	*gel filtration
+MW	Parachlorella kessleri	400000	*	*growing and resting cells, FPLC gel filtration
+MW	Arabidopsis thaliana	463000	*	*gel filtration
+MW	Arabidopsis thaliana	476000	*	*gel filtration
+MW	Parachlorella kessleri	580000	*	*resting cells, FPLC gel filtration
+MW	Monoraphidium minutum	590000	*	*isozyme PK1
+MW	Platichthys flesus	2000000	*	*PK I
+PATH	*	1-butanol autotrophic biosynthesis (engineered)	*	*
+PATH	*	anaerobic energy metabolism (invertebrates, cytosol)	*	*
+PATH	*	Bifidobacterium shunt	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	C4 and CAM-carbon fixation	*	*
+PATH	*	Entner-Doudoroff pathway I	*	*
+PATH	*	Entner-Doudoroff pathway II (non-phosphorylative)	*	*
+PATH	*	Entner-Doudoroff pathway III (semi-phosphorylative)	*	*
+PATH	*	gluconeogenesis II (Methanobacterium thermoautotrophicum)	*	*
+PATH	*	glycerol degradation to butanol	*	*
+PATH	*	glycolysis	*	*
+PATH	*	Glycolysis / Gluconeogenesis	*	*
+PATH	*	glycolysis I (from glucose 6-phosphate)	*	*
+PATH	*	glycolysis II (from fructose 6-phosphate)	*	*
+PATH	*	glycolysis III (from glucose)	*	*
+PATH	*	glycolysis IV (plant cytosol)	*	*
+PATH	*	glycolysis V (Pyrococcus)	*	*
+PATH	*	heterolactic fermentation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	mixed acid fermentation	*	*
+PATH	*	photosynthetic 3-hydroxybutanoate biosynthesis (engineered)	*	*
+PATH	*	Purine metabolism	*	*
+PATH	*	Pyruvate metabolism	*	*
+PATH	*	Rubisco shunt	*	*
+PATH	*	superpathway of glucose and xylose degradation	*	*
+SA	Chaenocephalus aceratus	-999	*	*
+SA	Chlamydomonas reinhardtii	-999	*	*
+SA	Bos taurus	-999	*	*
+SA	Pigeon	-999	*	*
+SA	Patella caerulea	-999	*	*
+SA	Cardium tuberculatum	-999	*	*
+SA	Anguilla rostrata	-999	*	*
+SA	Concholepas concholepas	-999	*	*
+SA	Rana pipiens	-999	*	*
+SA	Homo sapiens	-999	*	*
+SA	Bos taurus	-999	*	*
+SA	Lactococcus lactis	-999	*	*
+SA	Escherichia coli	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Busycotypus canaliculatum	-999	*	*
+SA	Busycotypus canaliculatum	-999	*	*
+SA	Ricinus communis	-999	*	*
+SA	Saccharomyces cerevisiae	-999	*	*
+SA	Spinacia oleracea	-999	*	*
+SA	Amylomyces rouxii	-999	*	*
+SA	Antarctic fish	-999	*	*
+SA	Azotobacter vinelandii	-999	*	*
+SA	Bacillus subtilis	-999	*	*
+SA	Brevibacterium flavum	-999	*	*
+SA	Cobitidae	-999	*	*
+SA	Coprinopsis lagopus	-999	*	*
+SA	Escherichia coli	-999	*	*
+SA	Euglena gracilis	-999	*	*
+SA	Halothiobacillus neapolitanus	-999	*	*
+SA	Komagataeibacter xylinus	-999	*	*
+SA	Oncorhynchus mykiss	-999	*	*
+SA	Oryctolagus cuniculus	-999	*	*
+SA	Ostreidae	-999	*	*
+SA	Paralithodes camtschaticus	-999	*	*
+SA	Rana pipiens	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Saccharomyces cerevisiae	-999	*	*
+SA	Saccharomyces pastorianus	-999	*	*
+SA	Schistocerca gregaria	-999	*	*
+SA	Sus scrofa	-999	*	*
+SA	Trypanosoma brucei	-999	*	*
+SA	Monoraphidium minutum	-999	*	*
+SA	Trypanosoma brucei	-999	*	*
+SA	Aspergillus nidulans	-999	*	*
+SA	Mucor racemosus	-999	*	*
+SA	Halobacterium salinarum	-999	*	*
+SA	Rhodotorula toruloides	-999	*	*
+SA	Salmonella enterica subsp. enterica serovar Typhimurium	-999	*	*
+SA	Streptococcus mutans	-999	*	*
+SA	Homo sapiens	-999	*	*
+SA	Geobacillus stearothermophilus	-999	*	*555 units/mg, wild type enzyme, at 30&Acirc;&deg;C
+SA	Thermoanaerobacterium saccharolyticum	0.001	*	*below, wild-type strain DSM133, pH 7.5, 55&Acirc;&deg;C
+SA	Methanococcus maripaludis	0.004	*	*pH 7.5, 37&Acirc;&deg;C, activity in undialyzed cell extracts
+SA	Homo sapiens	0.02	*	*in the absence of K+
+SA	Archaeoglobus fulgidus	0.028	*	*50&Acirc;&deg;C, pH not specified in the publication, enzyme from lactate-grown cells
+SA	Ricinus communis	0.039	*	*clarified extract
+SA	Moniliella megachiliensis	0.05	*	*
+SA	Sus scrofa	0.12	*	*sperm homogenate
+SA	Archaeoglobus fulgidus	0.13	*	*50&Acirc;&deg;C, pH not specified in the publication, enzyme from starch-grown cells
+SA	Thermoanaerobacterium saccharolyticum	0.14	*	*mutant strain YD01, pH 7.5, 55&Acirc;&deg;C
+SA	Thermoanaerobacterium saccharolyticum	0.52	*	*mutant strain DS8, pH 7.5, 55&Acirc;&deg;C
+SA	Thermoanaerobacterium saccharolyticum	0.84	*	*mutant strain YD02, pH 7.5, 55&Acirc;&deg;C
+SA	Solanum tuberosum	1.33	*	*crude extract, at pH 7.0 and 37&Acirc;&deg;C
+SA	Tenebrio molitor	9.69	*	*
+SA	Solanum tuberosum	34.76	*	*after 26.14fold purification, at pH 7.0 and 37&Acirc;&deg;C
+SA	Brassica napus	51	*	*pH 6.8, 24&Acirc;&deg;C
+SA	Ricinus communis	51	*	*pH 6.5, 30&Acirc;&deg;C
+SA	Musa cavendishii	59	*	*pH 6.9, 25&Acirc;&deg;C
+SA	Leishmania donovani	68.2	*	*mutant H480Q, pH 7.2, 25&Acirc;&deg;C
+SA	Ricinus communis	73.1	*	*after 1874fold purification
+SA	Yersinia enterocolitica	85	*	*purified recombinant PykA, pH 7.5, 30&Acirc;&deg;C
+SA	Leishmania donovani	98	*	*mutant K453L/H480Q, pH 7.2, 25&Acirc;&deg;C
+SA	Yersinia enterocolitica	108	*	*purified recombinant PykF, pH 7.5, 30&Acirc;&deg;C
+SA	Sus scrofa	116.7	*	*after 972fold purification
+SA	Leishmania donovani	156.9	*	*mutant K453L, pH 7.2, 25&Acirc;&deg;C
+SA	Bacillus licheniformis	175	*	*30&Acirc;&deg;C
+SA	Leishmania donovani	178.1	*	*wild-type, pH 7.2, 25&Acirc;&deg;C
+SA	Sus scrofa	191	*	*pH 7.4, 22&Acirc;&deg;C
+SA	Thermoplasma acidophilum	201	*	*pH 7.5, 60&Acirc;&deg;C
+SA	Sporosarcina psychrophila	202	*	*30&Acirc;&deg;C
+SA	Ricinus communis	203	*	*pH 6.9, 30&Acirc;&deg;C
+SA	Bacillus licheniformis	210	*	*pH 7.1, 30&Acirc;&deg;C
+SA	Monoraphidium minutum	218	*	*isozyme PKp
+SA	Mycolicibacterium smegmatis	220	*	*
+SA	Bos taurus	233	*	*25&Acirc;&deg;C, pH 7.0, M-type isozyme from neck muscle
+SA	Saccharomyces cerevisiae	250	*	*
+SA	Homo sapiens	250	*	*in the presence of K+
+SA	Zymomonas mobilis	280	*	*
+SA	Rattus norvegicus	307	*	*pH 7.4, 37&Acirc;&deg;C, R-type isozyme
+SA	Thermotoga maritima	320	*	*
+SA	Homo sapiens	330	*	*pH 8.0, 30&Acirc;&deg;C, erythrocyte enzyme
+SA	Geobacillus stearothermophilus	333	*	*pH 7.2, 30&Acirc;&deg;C
+SA	Saccharomyces cerevisiae	340	*	*pH 6.2, 30&Acirc;&deg;C
+SA	Busycotypus canaliculatum	368	*	*isozyme PK-aerobic, pH 7.0, 20&Acirc;&deg;C
+SA	Rattus norvegicus	380	*	*M1-type isozyme, pH 7.4, 37&Acirc;&deg;C
+SA	Mus musculus	380	*	*M-type isozyme
+SA	Mus musculus	397.5	*	*K-type isozyme
+SA	Homo sapiens	420	*	*liver enzyme, pH 8.0, 30&Acirc;&deg;C
+SA	Rattus norvegicus	520	*	*M2-type isozyme, 25&Acirc;&deg;C, pH 7.4
+SA	Rattus norvegicus	593	*	*pH 7.4, 37&Acirc;&deg;C
+SA	Brassica juncea	690.7	*	*partially purified cytosolic isozyme, pH 7.0, 25&Acirc;&deg;C
+SA	Rattus norvegicus	770	*	*M2-type isozyme, 37&Acirc;&deg;C, pH 7.4
+SA	Rattus norvegicus	780	*	*M1-type isozyme, 37&Acirc;&deg;C, pH 7.4
+SA	Archaeoglobus fulgidus	1000	*	*80&Acirc;&deg;C
+SA	Rattus norvegicus	1341	*	*pH 7.1, 37&Acirc;&deg;C
+SA	Mucor racemosus	1685	*	*isozyme PK5, pH 6.5, 30&Acirc;&deg;C

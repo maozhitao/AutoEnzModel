@@ -1,0 +1,78 @@
+KCAT	Acidianus ambivalens	0.1	sulfur	*pH 7.2, 65&deg;C, reductase reaction (formation of sulfite plus thiosulfate)
+KCAT	Acidianus ambivalens	2.2	sulfur	*pH 7.2, 65&deg;C, oxygenase reaction (formation of hydrogen sulfide)
+KM	Acidianus ambivalens	2	sulfur	*pH 7.2, 65&Acirc;&deg;C, oxygenase reaction (formation of hydrogen sulfide)
+KM	Acidianus ambivalens	13	sulfur	*pH 7.2, 65&Acirc;&deg;C, reductase reaction (formation of sulphite plus thiosulfate)
+MW	Acidianus tengchongensis	35000	*	*SDS-PAGE
+MW	Acidianus sp.	35000	*	*SDS-PAGE
+MW	Sulfobacillus acidophilus	35000	*	*x * 35000, SDS-PAGE
+MW	Acidianus tengchongensis	35173	*	*x * 35173, calculated from sequence
+MW	Acidianus ambivalens	35317	*	*16 * 35317, calculated from sor gene code
+MW	Acidianus ambivalens	35320	*	*calculated from sequencing the sor gene
+MW	Acidianus ambivalens	35320	*	*calculated from sor gene code
+MW	Acidianus ambivalens	36000	*	*24 * 36000, SDS-PAGE
+MW	Acidianus ambivalens	36000	*	*24 * 36000, ball-shaped assembly with a central hollow core probably consisting of 24 subunits in a 432 symmetry, the subunits form homodimers as the building blocks of the holoenzyme, SDS-PAGE
+MW	Aquifex aeolicus	37674	*	*16 * 37674, calculated from nucleotide sequence
+MW	Aquifex aeolicus	38000	*	*16 * 38000, SDS-PAGE
+MW	Acidianus ambivalens	40000	*	*x * 40000, SDS-PAGE
+MW	Acidianus ambivalens	40000	*	*14 * 40000, SDS-PAGE
+MW	Acidianus ambivalens	550000	*	*gel filtration
+MW	Thioalkalivibrio paradoxus	556000	*	*gel filtration, recombinant enzyme
+MW	Acidianus ambivalens	560000	*	*gel filtration
+MW	Aquifex aeolicus	602000	*	*nondenaturing native gel electrophoresis
+MW	Aquifex aeolicus	602000	*	*gel filtration, recombinant enzyme
+MW	Acidianus ambivalens	732000	*	*non-denaturing PAGE
+MW	Acidianus ambivalens	871000	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	sulfate reduction	*	*
+PATH	*	sulfur disproportionation II (aerobic)	*	*
+PATH	*	Sulfur metabolism	*	*
+SA	Acidianus tengchongensis	-999	*	*0.3% activity with 1 mM Fe3+ compared to activity without any treatment; 0% activity with 0.2 mM 2.2'-dipyridyl compared to activity without any treatment; 17.8% activity with 1.0 mM 8-hydroxyquinoline compared to activity without any treatment; 199.4% activity with 10 mM 2.2'-dipyridyl after ultrafiltration compared to activity without any treatment, the SOR activity recovers after removal (washing/untrafiltration) of the excessive iron; 21.1% activity with 0.04 mM 2.2'-dipyridyl compared to activity without any treatment; 239.7% activity with 10 mM 4,5-dihydroxy-meta-benzenedisulfonic acid after ultrafiltration compared to activity without any treatment, the SOR activity recovers after removal (washing and ultrafiltration) of the excessive iron; 31.5% activity with 1 mM Fe2+ compared to activity without any treatment; 44% activity with 0.1 mM 8-hydroxyquinoline compared to activity without any treatment; 52.8% activity with 1.0 mM 4,5-dihydroxy-meta-benzenedisulfonic acid compared to activity without any treatment; 55% activity with 0.1 mM 4,5-dihydroxy-meta-benzenedisulfonic acid compared to activity without any treatment
+SA	Thioalkalivibrio paradoxus	-999	*	*recombinant Thioalkalivibrio paradoxus SOR has a very low reductase activity and H2S production
+SA	Acidianus ambivalens	0.02	*	*mutant C101S, U/mg, reductase reaction
+SA	Acidianus ambivalens	0.03	*	*mutant E114D, U/mg, reductase reaction
+SA	Thioalkalivibrio paradoxus	0.03	*	*purified recombinant enzyme, pH 9.0, 80&Acirc;&deg;C, reductase activity
+SA	Acidianus tengchongensis	0.04	*	*mutant C104S, formation of sulfite plus thiosulfate, 70&Acirc;&deg;C
+SA	Sulfobacillus thermosulfidooxidans	0.05	*	*crude enzyme extract, sulfur reductase activity, pH 7.5, 75&Acirc;&deg;C; crude enzyme extract, sulfur reductase activity, pH 7.5, 75&Acirc;&deg;C
+SA	Acidianus tengchongensis	0.074	*	*wild type in cellular lysate, formation of sulfite plus thiosulfate, 70&Acirc;&deg;C
+SA	Acidianus tengchongensis	0.08	*	*mutant C101S, formation of sulfite plus thiosulfate, 70&Acirc;&deg;C
+SA	Acidianus tengchongensis	0.1078	*	*wild type in supernatant, formation of sulfite plus thiosulfate, 70&Acirc;&deg;C
+SA	Acidianus ambivalens	0.11	*	*mutant E114D, U/mg, oxygenase reaction
+SA	Acidianus ambivalens	0.12	*	*mutant C101S, U/mg, oxygenase reaction
+SA	Sulfobacillus acidophilus	0.21	*	*wild-type enzyme in absence of GSH, pH 8.0, 80&Acirc;&deg;C
+SA	Sulfobacillus thermosulfidooxidans	0.22	*	*crude enzyme extract, sulfur oxygenase activity, pH 7.5, 75&Acirc;&deg;C; crude enzyme extract, sulfur oxygenase activity, pH 7.5, 75&Acirc;&deg;C
+SA	Acidianus ambivalens	0.23	*	*mutant C104A, U/mg, reductase reaction
+SA	Acidianus ambivalens	0.43	*	*mutant C101A, U/mg, reductase reaction
+SA	Acidianus tengchongensis	0.476	*	*wild type in pellet, formation of sulfite plus thiosulfate, 70&Acirc;&deg;C
+SA	Acidianus ambivalens	0.5	*	*cytoplasm, pH 7.4, 85&Acirc;&deg;C, sulfur reduction
+SA	Acidianus ambivalens	0.6	*	*mutant C104S, U/mg, reductase reaction
+SA	Acidianus ambivalens	0.64	*	*mutant C101/104A, U/mg, reductase reaction
+SA	Acidianus ambivalens	1.12	*	*mutant C101/104A, U/mg, oxygenase reaction
+SA	Acidianus ambivalens	1.17	*	*mutant C101/104S, U/mg, reductase reaction
+SA	Acidianus ambivalens	1.35	*	*mutant C104A, U/mg, oxygenase reaction
+SA	Acidianus ambivalens	1.47	*	*mutant C101, U/mg, oxygenase reaction
+SA	Sulfobacillus acidophilus	1.75	*	*mutant C101S, pH 8.0, 80&Acirc;&deg;C
+SA	Acidianus ambivalens	1.89	*	*cytoplasm, pH 7.4, 85&Acirc;&deg;C, sulfur oxidation
+SA	Acidianus ambivalens	2.28	*	*mutant C104S, U/mg, oxygenase reaction
+SA	Acidianus ambivalens	2.29	*	*mutant C101/104S, U/mg, oxygenase reaction
+SA	Sulfobacillus acidophilus	3.28	*	*mutant H90A, pH 8.0, 80&Acirc;&deg;C
+SA	Sulfobacillus acidophilus	3.47	*	*mutant H86A, pH 8.0, 80&Acirc;&deg;C
+SA	Acidianus ambivalens	4.19	*	*wild type, U/mg, reductase reaction
+SA	Acidianus tengchongensis	4.85	*	*wild type, formation of sulfite plus thiosulfate, 70&Acirc;&deg;C
+SA	Aquifex aeolicus	5	*	*
+SA	Sulfobacillus acidophilus	5.46	*	*mutant E114A, pH 8.0, 80&Acirc;&deg;C
+SA	Sulfobacillus acidophilus	8.09	*	*mutant C104S, pH 8.0, 80&Acirc;&deg;C
+SA	Acidianus ambivalens	10.6	*	*pH 7.4, 85&Acirc;&deg;C
+SA	Acidianus ambivalens	10.6	*	*pH 7.4, 85&Acirc;&deg;C, formation of sulfite
+SA	Acidianus ambivalens	11.52	*	*wild type, U/mg, oxygenase reaction
+SA	Sulfobacillus acidophilus	17.17	*	*wild-type enzyme in presence of GSH, pH 8.0, 80&Acirc;&deg;C
+SA	Acidianus sp.	186.7	*	*formation of sulfite and thiosulfate
+SA	Thioalkalivibrio paradoxus	308	*	*purified recombinant enzyme, pH 9.0, 80&Acirc;&deg;C, thiosulfate- and sulfite-producing oxygenase activity
+SA	Acidianus tengchongensis	3100	*	*wild type, cell lysate, 65&Acirc;&deg;C, 20 mM Tris-HCl, pH 8.0, formation of H2S
+SA	Acidianus tengchongensis	3300	*	*wild type, cell lysate treated at 75&Acirc;&deg;C for 15 min, 65&Acirc;&deg;C, 20 mM Tris-HCl, pH 8.0, formation of H2S
+SA	Acidianus tengchongensis	6300	*	*Escherichia coli HB101, cell lysate, 65&Acirc;&deg;C, 20 mM Tris-HCl, pH 8.0, formation of H2S
+SA	Acidianus tengchongensis	28600	*	*wild type, cell lysate, 65&Acirc;&deg;C, 20 mM Tris-HCl, pH 8.0, formation of thiosulfate and sulfite
+SA	Acidianus tengchongensis	29700	*	*wild type, cell lysate treated at 75&Acirc;&deg;C for 15 min, 65&Acirc;&deg;C, 20 mM Tris-HCl, pH 8.0, formation of thiosulfate and sulfite
+SA	Acidianus tengchongensis	45200	*	*Escherichia coli HB101, cell lysate treated at 75&Acirc;&deg;C for 15 min, 65&Acirc;&deg;C, 20 mM Tris-HCl, pH 8.0, formation of H2S
+SA	Acidianus tengchongensis	75000	*	*Escherichia coli HB101, cell lysate, 65&Acirc;&deg;C, 20 mM Tris-HCl, pH 8.0, formation of thiosulfate and sulfite
+SA	Acidianus tengchongensis	753000	*	*Escherichia coli HB101, cell lysate treated at 75&Acirc;&deg;C for 15 min, 65&Acirc;&deg;C, 20 mM Tris-HCl, pH 8.0, formation of thiosulfate and sulfite

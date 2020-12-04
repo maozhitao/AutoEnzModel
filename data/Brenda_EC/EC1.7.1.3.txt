@@ -1,0 +1,85 @@
+KCAT	Neurospora crassa	18	NADPH	*R920D/R932S double mutant
+KCAT	Neurospora crassa	180	NADPH	*S920D mutant
+KCAT	Ogataea angusta	215	NADPH	*
+KCAT	Neurospora crassa	275	NADH	*R932S mutant
+KCAT	Neurospora crassa	290	NADH	*wild type
+KCAT	Neurospora crassa	450	NADPH	*R932S mutant
+KCAT	Neurospora crassa	590	NADH	*R920D/R932S double mutant
+KCAT	Ogataea angusta	618	ferricyanide	*
+KCAT	Neurospora crassa	1400	NADPH	*wild type
+KCAT	Neurospora crassa	1700	NADH	*S920D mutant
+KM	Aspergillus nidulans	0.009	NADPH	*+ nitrate, pH 6.5 and + cytochrome c, pH 7.5
+KM	Aspergillus nidulans	0.01	NADPH	*+ nitrate, pH 7.5
+KM	Neurospora crassa	0.013	NADPH	*wild type
+KM	Aspergillus nidulans	0.015	NADPH	*+ cytochrome c, pH 8.5
+KM	Neurospora crassa	0.022	NADPH	*
+KM	Aspergillus nidulans	0.045	NADPH	*+ nitrate
+KM	Neurospora crassa	0.25	NADPH	*R932S mutant; S920D mutant
+KM	Neurospora crassa	4.2	NADPH	*S920D/R932S double mutant
+KM	Neurospora crassa	0.4	NADH	*S920D mutant
+KM	Neurospora crassa	2.3	NADH	*S920D/R932S double mutant
+KM	Neurospora crassa	2.6	NADH	*R932S mutant
+KM	Neurospora crassa	3	NADH	*wild type
+KM	Aspergillus nidulans	0.024	cytochrome c	*cosubstrate NADPH, pH 8.5
+KM	Aspergillus nidulans	0.029	cytochrome c	*cosubstrate NADPH, pH 7.5
+KM	Aspergillus nidulans	2.5	FADH2	*+ nitrate
+KM	Funaria hygrometrica	0.012	nitrate	*
+KM	Aspergillus nidulans	0.06	nitrate	*cosubstrate NADPH, pH 7.5
+KM	Aspergillus nidulans	0.08	nitrate	*cosubstrate NADPH, pH 6.5
+KM	Aspergillus nidulans	0.2	nitrate	*cosubstrate NADPH
+KM	Neurospora crassa	0.25	nitrate	*recombinant holo-enzyme, pH 7.5, temperature not specified in the publication
+KM	Neurospora crassa	0.29	nitrate	*
+KM	Neurospora crassa	0.29	nitrate	*pH 7.2, temperature not specified in the publication
+KM	Aspergillus nidulans	3	FMNH2	*+ nitrate
+KM	Neurospora crassa	-999	more	*Michaelis-Menten kinetics, holo-enzyme
+MW	Neurospora crassa	-999	*	*gel filtration and analytical ultracentrifugation
+MW	Aspergillus nidulans	38000	*	*2 * 59000 + 2 * 38000, SDS-PAGE, after heat-treatment all polypeptide chains are 59 kDa
+MW	Aspergillus nidulans	59000	*	*2 * 59000 + 2 * 38000, SDS-PAGE, after heat-treatment all polypeptide chains are 59 kDa
+MW	Aspergillus nidulans	91000	*	*2 * 91000, homodimer, SDS-PAGE, smaller bands are caused by proteolytic cleavage
+MW	Ogataea angusta	102000	*	*2 * 102000
+MW	Neurospora crassa	115000	*	*1 * 130000 + 1 * 115000, SDS-PAGE, homodimer of 2 * 150000 suggested
+MW	Funaria hygrometrica	116000	*	*4 * 116000
+MW	Neurospora crassa	130000	*	*1 * 130000 + 1 * 115000, SDS-PAGE, homodimer of 2 * 150000 suggested
+MW	Neurospora crassa	132000	*	*2 * 97000: nit-3 enzyme, 2 * 132000, wild-type
+MW	Neurospora crassa	145000	*	*monodimer, 2 * 145000
+MW	Neurospora crassa	150000	*	*1 * 130000 + 1 * 115000, SDS-PAGE, homodimer of 2 * 150000 suggested
+MW	Aspergillus nidulans	180000	*	*sucrose density gradient, gel-filtration
+MW	Aspergillus nidulans	180000	*	*gel filtration, sucrose density gradient
+MW	Aspergillus nidulans	180000	*	*
+MW	Aspergillus nidulans	197000	*	*gel filtration
+MW	Neurospora crassa	204000	*	*nit-3 enzyme, gel filtration
+MW	Ogataea angusta	204000	*	*
+MW	Fusarium oxysporum	214000	*	*gel filtration
+MW	Neurospora crassa	230000	*	*sucrose density gradient, gel filtration
+MW	Neurospora crassa	235000	*	*sucrose density gradient centrifugation, gel filtration
+MW	Neurospora crassa	272000	*	*wild-type, gel filtration
+MW	Neurospora crassa	290000	*	*
+MW	Funaria hygrometrica	450000	*	*native gel electrophoresis
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	nitrate reduction V (assimilatory)	*	*
+PATH	*	Nitrogen metabolism	*	*
+SA	Neurospora crassa	-999	*	*
+SA	Neurospora crassa	-999	*	*one unit is defined as that amount of enzyme which results in the formation of 0.000001 mM of nitrite
+SA	Tilia platyphyllos	0.0014	*	*root
+SA	Tilia platyphyllos	0.003	*	*ectomycchorizae
+SA	Aspergillus nidulans	0.004	*	*various temperature-sensitive mutants
+SA	Aspergillus nidulans	0.012	*	*wild-type enzyme, anaerobic conditions, presence of ammonium
+SA	Aspergillus nidulans	0.013	*	*wild-type enzyme, aerobic conditions, presence of nitrate
+SA	Aspergillus nidulans	0.018	*	*wild-type enzyme, anaerobic conditions, presence of nitrate
+SA	Aspergillus nidulans	0.019	*	*wild-type enzyme, anaerobic conditions, presence of nitrate and ammonium
+SA	Bradyrhizobium sp.	0.02	*	*activity under aerobic conditions in presence of NH4+
+SA	Neurospora crassa	0.063	*	*nit-1 mutant
+SA	Aspergillus nidulans	0.074	*	*wild type
+SA	Bradyrhizobium sp.	0.1	*	*activity under aerobic conditions
+SA	Bradyrhizobium sp.	0.3	*	*activity under anaerobic conditions
+SA	Bradyrhizobium sp.	0.37	*	*activity under anaerobic conditions in presence of NH4+
+SA	Neurospora crassa	1.24	*	*wild-type
+SA	Neurospora crassa	1.24	*	*pH 7.2, temperature not specified in the publication
+SA	Aspergillus nidulans	2.5	*	*
+SA	Aspergillus nidulans	4	*	*at different stages of purification
+SA	Neurospora crassa	4.32	*	*purified recombinant holo-enzyme, substrate nitrate, pH 7.5, temperature not specified in the publication
+SA	Neurospora crassa	8.55	*	*
+SA	Aspergillus nidulans	15.5	*	*
+SA	Aspergillus nidulans	16	*	*
+SA	Fusarium oxysporum	177.1	*	*purified native enzyme, substrate nitrate, pH 7.2, 37&Acirc;&deg;C

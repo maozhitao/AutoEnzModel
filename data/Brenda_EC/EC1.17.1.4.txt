@@ -1,0 +1,384 @@
+KCAT	Veillonella atypica	0.1	Salicylaldehyde	*electron acceptor: oxygen
+KCAT	Homo sapiens	0.33	hypoxanthine	*mutant R881M, pH 8.5, 25&deg;C
+KCAT	Delftia acidovorans	0.4	xanthine	*coexpression of genes xdhAB, conditions of low aeration, pH 7.8, 25&deg;C; coexpression of genes xdhAB, conditions of low aeration, pH 7.8, 25&deg;C
+KCAT	Veillonella atypica	0.7	purine	*electron acceptor: oxygen
+KCAT	Veillonella atypica	0.717	cytochrome c	*cosubstrate xanthine
+KCAT	Veillonella atypica	0.75	hypoxanthine	*electron acceptor: oxygen
+KCAT	Veillonella atypica	0.8	oxygen	*cosubstrate xanthine
+KCAT	Homo sapiens	0.99	xanthine	*wild-type, pH 8.5, 25&deg;C
+KCAT	Homo sapiens	1.35	xanthine	*mutant E803V, pH 8.5, 25&deg;C
+KCAT	Veillonella atypica	2.5	xanthine	*electron acceptor: oxygen
+KCAT	Rhodobacter capsulatus	4.4	xanthine	*mutant E232A, pH 7.8, 25&deg;C
+KCAT	Veillonella atypica	5.67	dichloroindophenol	*cosubstrate xanthine
+KCAT	Bos taurus	6.33	xanthine	*electron acceptor: NAD+
+KCAT	Veillonella atypica	9.55	Nitro blue tetrazolium	*cosubstrate xanthine
+KCAT	Drosophila melanogaster	12.2	xanthine	*electron acceptor: NAD+
+KCAT	Bos taurus	15	xanthine	*electron acceptor: oxygen
+KCAT	Drosophila melanogaster	17.1	NADH	*activation of mutant G1011E activity after preincubation with phenazine methosulfate and cytochrome c, electron acceptor: methylene blue
+KCAT	Veillonella atypica	18.2	ferricyanide	*cosubstrate xanthine
+KCAT	Homo sapiens	18.33	xanthine	*wild-type, pH 8.5, 25&deg;C
+KCAT	Rhodobacter capsulatus	19	NAD+	*pH 8.5, 40&deg;C, Split166 mutant
+KCAT	Veillonella atypica	20.2	Ferredoxin	*cosubstrate xanthine
+KCAT	Rhodobacter capsulatus	22	xanthine	*pH 8.5, 40&deg;C, Split166 mutant
+KCAT	Drosophila melanogaster	22.8	xanthine	*mutant E89K, electron acceptor: NAD+
+KCAT	Drosophila melanogaster	24.9	xanthine	*electron acceptor: NAD+
+KCAT	Acinetobacter baumannii	25	xanthine	*pH and temperature not specified in the publication
+KCAT	Delftia acidovorans	27	xanthine	*coexpression of genes xdhAB, conditions of high aeration, pH 7.8, 25&deg;C; coexpression of genes xdhAB, conditions of high aeration, pH 7.8, 25&deg;C
+KCAT	Drosophila melanogaster	29	NADH	*activation of mutant G1011E activity after preincubation with ferricyanide, electron acceptor: methylene blue
+KCAT	Homo sapiens	30	hypoxanthine	*wild-type, pH 8.5, 25&deg;C
+KCAT	Drosophila melanogaster	31	xanthine	*recombinant enzyme, electron acceptor: phenazine methosulfate-cytochrome c
+KCAT	Rhodobacter capsulatus	31.6	xanthine	*pH 7.8, 25&deg;C, mutant Q102G, with DCIP
+KCAT	Rhodobacter capsulatus	34.3	xanthine	*pH 7.8, 25&deg;C, mutant Q102A, with DCIP
+KCAT	Rhodobacter capsulatus	39.5	xanthine	*pH 7.8, 25&deg;C, mutant Q102A, with NAD+
+KCAT	Rhodobacter capsulatus	40.6	xanthine	*pH 7.8, 25&deg;C, mutant Q102G, with NAD+
+KCAT	Escherichia coli	41	benzaldehyde	*mutant R440K, pH 5.5, 22&deg;C
+KCAT	Escherichia coli	48.7	benzaldehyde	*mutant R440H, pH 5.5, 22&deg;C
+KCAT	Rhodobacter capsulatus	66.1	xanthine	*pH 7.8, 25&deg;C, wild-type enzyme, with DCIP
+KCAT	Rhodobacter capsulatus	77.5	xanthine	*pH 7.8, 25&deg;C, wild-type enzyme, with NAD+
+KCAT	Escherichia coli	80.5	benzaldehyde	*mutant R440K, pH 5.0, 22&deg;C
+KCAT	Delftia acidovorans	86	xanthine	*coexpression of genes xdhABC, conditions of low aeration, pH 7.8, 25&deg;C; coexpression of genes xdhABC, conditions of low aeration, pH 7.8, 25&deg;C
+KCAT	Rhodobacter capsulatus	93	xanthine	*pH 8.5, 40&deg;C, wild-type enzyme
+KCAT	Rhodobacter capsulatus	108	xanthine	*wild-type, pH 7.8, 25&deg;C
+KCAT	Rhodobacter capsulatus	111	NAD+	*pH 8.5, 40&deg;C, wild-type enzyme
+KCAT	Delftia acidovorans	118	xanthine	*coexpression of genes xdhABC, conditions of high aeration, pH 7.8, 25&deg;C; coexpression of genes xdhABC, conditions of high aeration, pH 7.8, 25&deg;C
+KCAT	Delftia acidovorans	120	xanthine	*electron acceptor: NAD+
+KCAT	Escherichia coli	150	benzaldehyde	*mutant R440H, pH 5.0, 22&deg;C; wild-type, pH 5.5, 22&deg;C
+KCAT	Rhodobacter capsulatus	191	NAD+	*pH 8.5, 40&deg;C, Split178 mutant
+KCAT	Rhodobacter capsulatus	200	xanthine	*pH 8.5, 40&deg;C, Split178 mutant
+KCAT	Escherichia coli	217	benzaldehyde	*wild-type, pH 5.0, 22&deg;C
+KCAT	Escherichia coli	293	benzaldehyde	*mutant R440H, pH 4.5, 22&deg;C
+KCAT	Escherichia coli	307	benzaldehyde	*mutant R440K, pH 4.0, 22&deg;C
+KCAT	Escherichia coli	325	benzaldehyde	*mutant R440K, pH 4.5, 22&deg;C
+KCAT	Escherichia coli	404	benzaldehyde	*mutant R440H, pH 4.0, 22&deg;C
+KCAT	Escherichia coli	486	benzaldehyde	*wild-type, pH 4.5, 22&deg;C
+KCAT	Escherichia coli	1097	benzaldehyde	*wild-type, pH 4.0, 22&deg;C
+KM	Sus scrofa	-999	?	*KM (mM) (cyanoacetylhydrazone 2-formylquinoxaline-1,4-dioxide) (pH 7.4, 37&deg;C), wild-type: 0.0582, mutant G47A: 0.06568, mutant N352A: 0.0601, mutant S360P: 0.09353, mutant R427E: 0.02086, mutant D430H: 0.06468, mutant D431A: 0.06129, mutant S1227A: 0.148, mutant K1230A: 0.162
+KM	Rhodobacter capsulatus	-999	more	*rapid reaction kinetic parameters for substrates xanthine, 2-thioxanthine, 6-thioxanthine, 1-methylxanthine, 2-hydroxy-6-methylpurine, and 2,6-diaminopurine, in wild-type and mutants R310K and R310M
+KM	Fusarium verticillioides	-999	more	*Km-value is 0.0025 mg/ml xanthine
+KM	Gallus gallus	-999	more	*Km-value is 0.0025 mg/ml xanthine
+KM	Microsporum canis	-999	more	*Km-value is 0.0025 mg/ml xanthine
+KM	Penicillium chrysogenum	-999	more	*Km-value is 0.0025 mg/ml xanthine
+KM	Serratia marcescens	-999	more	*Km-value is 0.0025 mg/ml xanthine
+KM	Staphylococcus aureus	-999	more	*Km-value is 0.0025 mg/ml xanthine
+KM	Trichoderma viride	-999	more	*Km-value is 0.0025 mg/ml xanthine
+KM	Rhodobacter capsulatus	-999	more	*2-position hydroxylation is crucial for 8-position hydroxylation. Stopped-flow studies indicate that the rate-limiting step of the reductive half-reaction is not electron transfer from the xanthine substrate to the molybdenum center, but product release
+KM	Homo sapiens	-999	more	*kinetics in presence and absence of cellular retinol binding proteins, apo-CRBP and apo-CRABP, overview
+KM	Rhodobacter capsulatus	-999	more	*Michaelis-Menten steady-state kinetics, overview
+KM	Rattus norvegicus	-999	more	*steady-state kinetics of DTT-treated and untreated C-terminally truncated enzyme mutant
+KM	Rhodobacter capsulatus	-999	more	*steady-state kinetics and reductive half-reaction, stopped flow kinetics, kinetic analysis of wild-type and mutant xanthine dehydrogenases, overview. kred, the limiting rate constant for reduction at high [xanthine], is significantly compromised in the mutant variant E232Q, a result that is inconsistent with Glu232 being neutral in the active site of the wild-type enzyme. The ionized Glu232 of wild-type enzyme plays an important role in catalysis by discriminating against the monoanionic form of substrate, effectively increasing the pKa of the substrate by two pH units and ensuring that at physiological pH the neutral form of the substrate predominates in the Michaelis complex. The product release is principally rate-limiting in catalysis. The disparity in rate constants for the chemical step of the reaction and product release is not as great in the bacterial enzyme as compared with the vertebrate forms. The faster turnover observed with the bacterial enzyme isdue to a faster rate constant for product release than is seen with the vertebrate enzyme
+KM	Bos taurus	0.0003	xanthine	*electron acceptor: NAD+
+KM	Drosophila melanogaster	0.00083	methylene blue	*electron donor: 2-amino-4-hydroxy-pterine
+KM	Bos taurus	0.001	2-amino-4-hydroxypterin	*
+KM	Rattus sp.	0.0017	xanthine	*dehydrogenase type D, absence of NAD+
+KM	Colias eurytheme	0.0018	Xanthopterin	*cosubstrate: NAD+
+KM	Rattus sp.	0.002	xanthine	*oxidase type O, absence of NAD+
+KM	Bos taurus	0.00215	xanthine	*pH 7.2, 25&deg;C
+KM	Ovis aries	0.00219	NAD+	*pH 7.2, 25&deg;C
+KM	Neurospora crassa	0.0022	NAD+	*oxidation of 2-amino-4-hydroxy-pterin
+KM	Homo sapiens	0.00252	NAD+	*pH 7.2, 25&deg;C
+KM	Rattus sp.	0.0026	xanthine	*cosubstrate NAD+
+KM	Bos taurus	0.00274	NAD+	*pH 7.2, 25&deg;C
+KM	Drosophila melanogaster	0.0033	NAD+	*electron donor: 2-amino-4-hydroxypterine
+KM	Neurospora crassa	0.0035	2-amino-4-hydroxypterin	*
+KM	Drosophila melanogaster	0.004	2-amino-4-hydroxypterin	*pH 7.0, electron acceptor: methylene blue
+KM	Triticum aestivum	0.0041	hypoxanthine	*electron acceptor: NAD+
+KM	Capra hircus	0.00412	NAD+	*pH 7.2, 25&deg;C
+KM	Gottschalkia purinilytica	0.0045	xanthine	*electron acceptor: 2,6-dichlorophenolindophenol
+KM	Glycine max	0.005	xanthine	*at pH 7.5, ping-pong-reaction mechanism, strongly pH-dependent
+KM	Rattus norvegicus	0.0052	NAD+	*DTT-treated C-terminally truncated enzyme mutant, pH 7.8, 25&deg;C
+KM	Triticum aestivum	0.0056	phenazine methosulfate	*electron donor: xanthine
+KM	Triticum aestivum	0.0057	NADH	*electron acceptor: nitroblue tetrazolium
+KM	Drosophila melanogaster	0.006	NAD+	*electron donor: pterin
+KM	Colias eurytheme	0.0061	2-amino-4-hydroxypterin	*body preparation, cosubstrate: NAD+
+KM	Glycine max	0.0063	NADH	*at pH 7.0, Tris-maleate buffer
+KM	Capra hircus	0.00633	xanthine	*pH 7.2, 25&deg;C
+KM	Bos taurus	0.0067	NAD+	*electron donor: xanthine
+KM	Drosophila melanogaster	0.0071	2-amino-4-hydroxypterin	*pH 8.0, electron acceptor: methylene blue
+KM	Colias eurytheme	0.0071	adenine	*cosubstrate: NAD+
+KM	Ovis aries	0.00714	xanthine	*pH 7.2, 25&deg;C
+KM	Colias eurytheme	0.0072	2-amino-4-hydroxypterin	*wing preparation, co substrate: NAD+
+KM	Triticum aestivum	0.0075	hypoxanthine	*electron acceptor: nitroblue tetrazolium
+KM	Homo sapiens	0.00774	xanthine	*pH 7.2, 25&deg;C
+KM	Triticum aestivum	0.0082	xanthine	*electron acceptor: NAD+
+KM	Neurospora crassa	0.0082	xanthine	*xanthine dehydrogenase activity
+KM	Triticum aestivum	0.0086	xanthine	*electron acceptor: nitroblue tetrazolium
+KM	Homo sapiens	0.0088	hypoxanthine	*wild-type, pH 8.5, 25&deg;C
+KM	Homo sapiens	0.0088	xanthine	*wild-type, pH 8.5, 25&deg;C
+KM	Drosophila melanogaster	0.009	NADH	*electron acceptor: 2,6-dichlorophenolindophenol
+KM	Drosophila melanogaster	0.011	2-amino-4-hydroxypterin	*increased Km in the presence of pyridoxal
+KM	Glycine max	0.011	NADH	*at pH 8.0, Tris-maleate buffer
+KM	Triticum aestivum	0.0113	nitroblue tetrazolium	*electron donor: xanthine
+KM	Bos taurus	0.012	xanthine	*electron acceptor: oxygen
+KM	Glycine max	0.0125	NAD+	*xanthine oxidation at pH 7.5
+KM	Streptomyces cyanogenus	0.015	guanine	*
+KM	Veillonella atypica	0.017	xanthine	*electron acceptor: ferricyanide
+KM	Gallus gallus	0.017	xanthine	*pH 7.9, increasing Km with increasing pH
+KM	Pisum sativum	0.017	xanthine	*pH 8.5
+KM	Pisum sativum	0.018	hypoxanthine	*pH 8.5
+KM	Drosophila melanogaster	0.018	xanthine	*electron acceptor: NAD+, 30&deg;C
+KM	Colias eurytheme	0.0182	purine	*cosubstrate: NAD+
+KM	Gallus gallus	0.019	NAD+	*pH 7.9, pH dependence, increasing Km with increasing pH
+KM	Drosophila melanogaster	0.02	hypoxanthine	*cosubstrate: NAD+
+KM	Glycine max	0.02	NAD+	*at pH 7.5, hypoxanthine oxidation
+KM	Drosophila melanogaster	0.02	thio-NAD+	*cosubstrate: hypoxanthine
+KM	Neurospora crassa	0.021	2,6-dichloroindophenol	*diaphorase activity
+KM	Glycine max	0.021	3-acetylpyridine-adenine dinucleotide	*xanthine oxidation
+KM	Neurospora crassa	0.021	hypoxanthine	*xanthine dehydrogenase activity
+KM	Sus scrofa	0.0213	xanthine	*pH 7.4, 37&deg;C, mutant D430H, Vmax (micromol/min/mg): 7.47
+KM	Sus scrofa	0.02169	xanthine	*pH 7.4, 37&deg;C, wild-type, Vmax (micromol/min/mg): 7.74
+KM	Sus scrofa	0.02172	xanthine	*pH 7.4, 37&deg;C, mutant D431A, Vmax (micromol/min/mg): 8.52
+KM	Sus scrofa	0.02227	xanthine	*pH 7.4, 37&deg;C, mutant N352A, Vmax (micromol/min/mg): 7.69
+KM	Rhodobacter capsulatus	0.0227	xanthine	*pH 7.8, 25&deg;C, mutant Q102G, with NAD+
+KM	Sus scrofa	0.02324	xanthine	*pH 7.4, 37&deg;C, mutant R427E, Vmax (micromol/min/mg): 7.75
+KM	Drosophila melanogaster	0.0236	xanthine	*cosubstrate: NAD+
+KM	Drosophila melanogaster	0.024	xanthine	*ping-pong reaction mechanism
+KM	Sus scrofa	0.02413	xanthine	*pH 7.4, 37&deg;C, mutant G47A, Vmax (micromol/min/mg): 7.91
+KM	Drosophila melanogaster	0.025	NAD+	*electron donor: xanthine
+KM	Drosophila melanogaster	0.025	NAD+	*cosubstrate: hypoxanthine
+KM	Pisum sativum	0.025	NAD+	*pH 8.5
+KM	Colias eurytheme	0.0258	4-hydroxypyrazolo(3,4-d)pyrimidine	*cosubstrate: NAD+
+KM	Neurospora crassa	0.028	NAD+	*xanthine dehydrogenase activity
+KM	Drosophila melanogaster	0.029	xanthine	*electron acceptors: phenazine methosulfate/cytochrome c
+KM	Rhodobacter capsulatus	0.0293	xanthine	*pH 7.8, 25&deg;C, mutant Q102A, with NAD+
+KM	Drosophila melanogaster	0.032	xanthine	*electron acceptor: NAD+
+KM	Rhodobacter capsulatus	0.0325	xanthine	*
+KM	Rhodobacter capsulatus	0.0328	NAD+	*pH 7.8, 25&deg;C, wild-type enzyme
+KM	Drosophila melanogaster	0.033	NAD+	*increased Km for mutant G353D, electron acceptor: pterin
+KM	Gallus gallus	0.035	xanthine	*immobilized enzyme preparation, pH 7.9, pH dependence, minimum Km at pH 8.1, increasing values below and above
+KM	Rhodobacter capsulatus	0.036	NAD+	*pH 8.5, 40&deg;C, Split166 mutant; pH 8.5, 40&deg;C, Split178 mutant
+KM	Drosophila melanogaster	0.036	xanthine	*increased Km in the presence of pyridoxal at 30&deg;C
+KM	Rhodobacter capsulatus	0.0373	NAD+	*pH 7.8, 25&deg;C, mutant Q102G
+KM	Eubacterium barkeri	0.038	NADP+	*electron donor: hypoxanthine
+KM	Sus scrofa	0.039	xanthine	*pH 7.4, 37&deg;C, mutant K1230A, Vmax (micromol/min/mg): 4.02
+KM	Pseudomonas putida	0.04	hypoxanthine	*
+KM	Drosophila melanogaster	0.04	NAD+	*ping-pong reaction mechanism
+KM	Drosophila melanogaster	0.04	xanthine	*electron acceptor: NAD+, 50&deg;C
+KM	Rhodobacter capsulatus	0.0402	NAD+	*pH 7.8, 25&deg;C, mutant Q102A
+KM	Rhodobacter capsulatus	0.044	NAD+	*pH 8.5, 40&deg;C, wild-type enzyme
+KM	Rhodobacter capsulatus	0.0442	xanthine	*pH 7.8, 25&deg;C, wild-type enzyme, with NAD+
+KM	Colias eurytheme	0.0451	hypoxanthine	*co substrate: NAD+
+KM	Glycine max	0.047	hypoxanthine	*measured in the pH range from 6 to 8.9, pH-independent Km
+KM	Drosophila melanogaster	0.048	NADH	*increased Km for mutant G353D, electron acceptor: 2,6-dichlorophenolindophenol
+KM	Sus scrofa	0.0508	xanthine	*pH 7.4, 37&deg;C, mutant S1227A, Vmax (micromol/min/mg): 3.94
+KM	Pseudomonas putida	0.052	NAD+	*
+KM	Rhodobacter capsulatus	0.0525	hypoxanthine	*
+KM	Gallus gallus	0.054	NAD+	*immobilized enzyme preparation, pH 7.9, pH dependence, minimum Km at pH 8.1, increasing values below and above
+KM	Streptomyces cyanogenus	0.055	hypoxanthine	*
+KM	Rhodobacter capsulatus	0.055	xanthine	*pH 8.5, 40&deg;C, Split178 mutant
+KM	Drosophila melanogaster	0.059	xanthine	*increased Km in the presence of pyridoxal at 50&deg;C
+KM	Escherichia coli	0.06	benzaldehyde	*mutant R440H, pH 5.5, 22&deg;C
+KM	Colias eurytheme	0.061	xanthine	*wing preparation, cosubstrate: NAD+
+KM	Rhodobacter capsulatus	0.0612	NAD+	*
+KM	Pseudomonas putida	0.064	xanthine	*
+KM	Rhodobacter capsulatus	0.064	xanthine	*wild-type, pH 7.8, 25&deg;C
+KM	Sus scrofa	0.06428	xanthine	*pH 7.4, 37&deg;C, mutant S360P, Vmax (micromol/min/mg): 2.83
+KM	Colias eurytheme	0.0647	xanthine	*body preparation, cosubstrate: NAD+
+KM	Delftia acidovorans	0.066	xanthine	*electron acceptor: NAD+
+KM	Delftia acidovorans	0.066	xanthine	*coexpression of genes xdhAB, conditions of high aeration, pH 7.8, 25&deg;C; coexpression of genes xdhAB, conditions of high aeration, pH 7.8, 25&deg;C
+KM	Eubacterium barkeri	0.067	xanthine	*electron acceptor: NADP+
+KM	Delftia acidovorans	0.067	xanthine	*coexpression of genes xdhAB, conditions of low aeration, pH 7.8, 25&deg;C; coexpression of genes xdhAB, conditions of low aeration, pH 7.8, 25&deg;C
+KM	Rhodobacter capsulatus	0.068	xanthine	*pH 8.5, 40&deg;C, wild-type enzyme
+KM	Delftia acidovorans	0.07	xanthine	*cosubstrate; NAD+
+KM	Homo sapiens	0.072	hypoxanthine	*mutant R881M, pH 8.5, 25&deg;C
+KM	Homo sapiens	0.072	xanthine	*mutant E803V, pH 8.5, 25&deg;C
+KM	Rhodobacter capsulatus	0.0809	DCPIP	*pH 7.8, 25&deg;C, mutants Q102A and Q102G
+KM	Rhodobacter capsulatus	0.0823	DCPIP	*pH 7.8, 25&deg;C, wild-type enzyme
+KM	Delftia acidovorans	0.085	xanthine	*coexpression of genes xdhABC, conditions of high aeration, pH 7.8, 25&deg;C; coexpression of genes xdhABC, conditions of high aeration, pH 7.8, 25&deg;C
+KM	Rhodobacter capsulatus	0.096	xanthine	*pH 8.5, 40&deg;C, Split166 mutant
+KM	Delftia acidovorans	0.1	NAD+	*coexpression of genes xdhABC, conditions of high aeration, pH 7.8, 25&deg;C; coexpression of genes xdhABC, conditions of high aeration, pH 7.8, 25&deg;C
+KM	Glycine max	0.102	3-acetylpyridine adenine dinucleotide+	*NADH oxidation
+KM	Rhodobacter capsulatus	0.103	NAD+	*wild-type, pH 7.8, 25&deg;C
+KM	Colias eurytheme	0.1065	NAD+	*cosubstrate: hypoxanthine
+KM	Streptomyces cyanogenus	0.11	NAD+	*
+KM	Delftia acidovorans	0.113	NAD+	*coexpression of genes xdhABC, conditions of low aeration, pH 7.8, 25&deg;C; coexpression of genes xdhABC, conditions of low aeration, pH 7.8, 25&deg;C
+KM	Delftia acidovorans	0.12	NAD+	*cosubstrate: xanthine
+KM	Colias eurytheme	0.124	NAD+	*cosubstrate: xanthine
+KM	Escherichia coli	0.129	benzaldehyde	*wild-type, pH 5.5, 22&deg;C
+KM	Delftia acidovorans	0.148	NAD+	*coexpression of genes xdhAB, conditions of high aeration, pH 7.8, 25&deg;C; coexpression of genes xdhAB, conditions of high aeration, pH 7.8, 25&deg;C
+KM	Streptomyces cyanogenus	0.15	xanthine	*
+KM	Delftia acidovorans	0.156	NAD+	*coexpression of genes xdhAB, conditions of low aeration, pH 7.8, 25&deg;C; coexpression of genes xdhAB, conditions of low aeration, pH 7.8, 25&deg;C
+KM	Escherichia coli	0.159	benzaldehyde	*wild-type, pH 5.0, 22&deg;C
+KM	Delftia acidovorans	0.16	NAD+	*cosubstrate: hypoxanthine
+KM	Delftia acidovorans	0.16	NAD+	*electron donor: xanthine
+KM	Rhodobacter capsulatus	0.163	xanthine	*mutant E232A, pH 7.8, 25&deg;C
+KM	Triticum aestivum	0.171	NAD+	*electron donor: xanthine
+KM	Escherichia coli	0.204	benzaldehyde	*mutant R440K, pH 5.5, 22&deg;C
+KM	Eubacterium barkeri	0.21	hypoxanthine	*electron acceptor: NADP+
+KM	Escherichia coli	0.288	benzaldehyde	*mutant R440H, pH 5.0, 22&deg;C
+KM	Delftia acidovorans	0.29	hypoxanthine	*cosubstrate: NAD+
+KM	Escherichia coli	0.307	benzaldehyde	*wild-type, pH 4.5, 22&deg;C
+KM	Escherichia coli	0.361	benzaldehyde	*mutant R440K, pH 5.0, 22&deg;C
+KM	Escherichia coli	0.396	benzaldehyde	*mutant R440H, pH 4.5, 22&deg;C
+KM	Gottschalkia acidurici	0.44	methyl viologen	*electron donor: xanthine
+KM	Gottschalkia purinilytica	0.5	hypoxanthine	*electron acceptor: 2,6-dichlorophenolindophenol
+KM	Escherichia coli	0.514	benzaldehyde	*mutant R440H, pH 4.0, 22&deg;C
+KM	Escherichia coli	0.52	benzaldehyde	*mutant R440K, pH 4.5, 22&deg;C
+KM	Escherichia coli	0.659	benzaldehyde	*wild-type, pH 4.0, 22&deg;C
+KM	Gottschalkia purinilytica	1	4-hydroxypyrazolo(3,4-d)pyrimidine	*electron acceptor: 2,6-dichlorophenolindophenol; i.e. allopurinol
+KM	Gottschalkia acidurici	1.35	xanthine	*electron acceptor: methyl viologen
+KM	Escherichia coli	1.517	benzaldehyde	*mutant R440K, pH 4.0, 22&deg;C
+KM	Neurospora crassa	6	NADH	*diaphorase activity
+KM	Delftia acidovorans	80.09	xanthine	*coexpression of genes xdhABC, conditions of low aeration, pH 7.8, 25&deg;C; coexpression of genes xdhABC, conditions of low aeration, pH 7.8, 25&deg;C
+MW	Gottschalkia purinilytica	16000	*	*alpha4, 4 * 80000 + beta4, 4 * 35000 + gamma4, 4 * 16000, SDS-PAGE
+MW	Eubacterium barkeri	17500	*	*tetramer of alpha/beta/gamma-protomers, alpha4, 4 * 81300 + beta4, 4 * 30000 + gamma4, 4 * 17500, SDS-PAGE
+MW	Veillonella atypica	18400	*	*1 * 82400 + 1 * 28500 + 1 * 18400, SDS-PAGE
+MW	Gottschalkia acidurici	26000	*	*1 * 110000 + 1 * 83000 + 1 * 56000 + 1 * 53000 + 1 * 26000, SDS-PAGE
+MW	Veillonella atypica	28500	*	*1 * 82400 + 1 * 28500 + 1 * 18400, SDS-PAGE
+MW	Eubacterium barkeri	30000	*	*tetramer of alpha/beta/gamma-protomers, alpha4, 4 * 81300 + beta4, 4 * 30000 + gamma4, 4 * 17500, SDS-PAGE
+MW	Gottschalkia purinilytica	35000	*	*alpha4, 4 * 80000 + beta4, 4 * 35000 + gamma4, 4 * 16000, SDS-PAGE
+MW	Pseudomonas putida	46000	*	*x * 92000 + x * 46000, SDS-PAGE
+MW	Pseudomonas putida	46238	*	*2 * 91041 + 2 * 46238, MALDI-TOF mass spectrometry
+MW	Pseudomonas putida	51000	*	*2 * 94000 + 2 * 51000, SDS-PAGE
+MW	Gottschalkia acidurici	53000	*	*1 * 110000 + 1 * 83000 + 1 * 56000 + 1 * 53000 + 1 * 26000, SDS-PAGE
+MW	Pseudomonas synxantha	54000	*	*x * 54000 + x * 76000, SDS-PAGE
+MW	Gottschalkia acidurici	56000	*	*1 * 110000 + 1 * 83000 + 1 * 56000 + 1 * 53000 + 1 * 26000, SDS-PAGE
+MW	Pisum sativum	59000	*	*x * 59000, SDS-PAGE
+MW	Delftia acidovorans	60000	*	*alpha1, x * 90000 + beta1, x * 60000, SDS-PAGE
+MW	Delftia acidovorans	63000	*	*2 * 81000 + 2 * 63000, SDS-PAGE
+MW	Streptomyces cyanogenus	67000	*	*2 * 67000, SDS-PAGE
+MW	Pseudomonas putida	72000	*	*x * 72000, SDS-PAGE
+MW	Pseudomonas synxantha	76000	*	*x * 54000 + x * 76000, SDS-PAGE
+MW	Gottschalkia purinilytica	80000	*	*alpha4, 4 * 80000 + beta4, 4 * 35000 + gamma4, 4 * 16000, SDS-PAGE
+MW	Delftia acidovorans	81000	*	*2 * 81000 + 2 * 63000, SDS-PAGE
+MW	Eubacterium barkeri	81300	*	*tetramer of alpha/beta/gamma-protomers, alpha4, 4 * 81300 + beta4, 4 * 30000 + gamma4, 4 * 17500, SDS-PAGE
+MW	Veillonella atypica	82400	*	*1 * 82400 + 1 * 28500 + 1 * 18400, SDS-PAGE
+MW	Gottschalkia acidurici	83000	*	*1 * 110000 + 1 * 83000 + 1 * 56000 + 1 * 53000 + 1 * 26000, SDS-PAGE
+MW	Rhodobacter capsulatus	84200	*	*4 * 84200, SDS-PAGE
+MW	Rattus sp.	90000	*	*x * 140000, SDS-PAGE, trypsin-treated: x * 90000, SDS-PAGE, conversion of dehydrogenase to oxidase activity
+MW	Delftia acidovorans	90000	*	*alpha1, x * 90000 + beta1, x * 60000, SDS-PAGE
+MW	Pseudomonas putida	91041	*	*2 * 91041 + 2 * 46238, MALDI-TOF mass spectrometry
+MW	Pseudomonas putida	92000	*	*x * 92000 + x * 46000, SDS-PAGE
+MW	Pseudomonas putida	94000	*	*2 * 94000 + 2 * 51000, SDS-PAGE
+MW	Gottschalkia acidurici	110000	*	*1 * 110000 + 1 * 83000 + 1 * 56000 + 1 * 53000 + 1 * 26000, SDS-PAGE
+MW	Streptomyces cyanogenus	125000	*	*gel filtration, sedimentation equilibrium analysis
+MW	Enterobacter cloacae	128000	*	*
+MW	Veillonella atypica	129000	*	*native PAGE
+MW	Drosophila melanogaster	130000	*	*1 * 130000 + 1 * 140000, SDS-PAGE
+MW	Gallus gallus	135000	*	*alpha1, 1 * 155000 + beta1, 1 * 135000, SDS-PAGE
+MW	Rattus sp.	140000	*	*x * 140000, SDS-PAGE, trypsin-treated: x * 90000, SDS-PAGE, conversion of dehydrogenase to oxidase activity
+MW	Drosophila melanogaster	140000	*	*1 * 130000 + 1 * 140000, SDS-PAGE
+MW	Glycine max	141000	*	*2 * 141000, SDS-PAGE
+MW	Bos taurus	145000	*	*2 * 145000, data from crystallization
+MW	Bos taurus	145000	*	*2 * 145000, data from crystallization
+MW	Camelus dromedarius	145300	*	*x * 145300, SDS-PAGE
+MW	Homo sapiens	147782	*	*x * 147782, calculation from sequence of cDNA
+MW	Homo sapiens	148000	*	*x * 148000, MALDI-TOF
+MW	Bos taurus	148300	*	*x * 148300, MALDI-TOF
+MW	Mus musculus	150000	*	*x * 150000, SDS-PAGE
+MW	Rattus sp.	150000	*	*x * 150000, SDS-urea -PAGE
+MW	Rattus sp.	150000	*	*x * 150000, SDS-urea -PAGE
+MW	Drosophila melanogaster	150000	*	*x * 150000, SDS-phosphate gel electrophoresis
+MW	Arabidopsis thaliana	150000	*	*2 * 150000, SDS-PAGE
+MW	Ovis aries	150000	*	*x * 150000, SDS-PAGE
+MW	Pisum sativum	150000	*	*2 * 150000, SDS-PAGE
+MW	Sus scrofa	150000	*	*
+MW	Gallus gallus	155000	*	*alpha1, 1 * 155000 + beta1, 1 * 135000, SDS-PAGE
+MW	Neurospora crassa	155000	*	*2 * 155000, SDS-PAGE
+MW	Arthrobacter luteolus	160000	*	*
+MW	Escherichia coli	160000	*	*
+MW	Gottschalkia acidurici	224000	*	*gel filtration
+MW	Colias eurytheme	230000	*	*gel filtration
+MW	Veillonella atypica	250000	*	*sucrose density gradient centrifugation
+MW	Pseudomonas putida	255000	*	*sucrose density gradient centrifugation, gel filtration
+MW	Arabidopsis thaliana	270000	*	*gel filtration
+MW	Rhodobacter capsulatus	270000	*	*
+MW	Delftia acidovorans	275000	*	*gel filtration
+MW	Glycine max	285000	*	*native PAGE
+MW	Delftia acidovorans	287000	*	*gel filtration
+MW	Bos taurus	290000	*	*
+MW	Bos taurus	290000	*	*
+MW	Pisum sativum	290000	*	*PAGE
+MW	Acinetobacter baumannii	290000	*	*
+MW	Bos taurus	290000	*	*
+MW	Rattus sp.	300000	*	*non-denaturating disc gel electrophoresis
+MW	Gallus gallus	300000	*	*native gel electrophoresis
+MW	Gallus gallus	300000	*	*sedimentation equilibrium measurements
+MW	Drosophila melanogaster	300000	*	*gel filtration
+MW	Pisum sativum	300000	*	*gel filtration
+MW	Glycine max	325000	*	*gel filtration
+MW	Rhodobacter capsulatus	345000	*	*gel filtration
+MW	Pseudomonas putida	350000	*	*gel filtration
+MW	Triticum aestivum	350000	*	*native PAGE
+MW	Neurospora crassa	357000	*	*sucrose density gradient centrifugation
+MW	Gottschalkia purinilytica	529000	*	*gel filtration
+MW	Eubacterium barkeri	530000	*	*gel filtration
+MW	Pseudomonas synxantha	540000	*	*gel filtration
+MW	Pseudomonas putida	580000	*	*SDS-PAGE
+PATH	*	adenosine nucleotides degradation I	*	*
+PATH	*	adenosine nucleotides degradation II	*	*
+PATH	*	caffeine degradation III (bacteria, via demethylation)	*	*
+PATH	*	guanosine nucleotides degradation I	*	*
+PATH	*	guanosine nucleotides degradation II	*	*
+PATH	*	guanosine nucleotides degradation III	*	*
+PATH	*	inosine 5'-phosphate degradation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	Purine metabolism	*	*
+PATH	*	purine metabolism	*	*
+PATH	*	purine nucleobases degradation I (anaerobic)	*	*
+PATH	*	purine nucleobases degradation II (anaerobic)	*	*
+PATH	*	theophylline degradation	*	*
+SA	Camelus dromedarius	-999	*	*enzymic activity is only detectable after resulfuration of purified enzyme
+SA	Gallus gallus	-999	*	*tissue-dependent enzyme activity, overview
+SA	Rattus norvegicus	-999	*	*serum uric acid levels in healthy and hypeuricemic rats, overview
+SA	Camelus dromedarius	0.0011	*	*substrate pterin, 22&deg;C, pH 8.3
+SA	Camelus dromedarius	0.013	*	*substrate xanthine, 22&deg;C, pH 8.3
+SA	Arabidopsis thaliana	0.044	*	*purified recombinant enzyme, substrate xanthine, pH 8.0
+SA	Homo sapiens	0.06	*	*substrate xanthine, pH 7.2, 25&deg;C
+SA	Veillonella atypica	0.08	*	*
+SA	Neurospora crassa	0.152	*	*
+SA	Bos taurus	0.16	*	*xanthine oxidase activity
+SA	Ovis aries	0.21	*	*substrate NAD+, pH 7.2, 25&deg;C
+SA	Fusarium verticillioides	0.22	*	*pH 7.5, 37&deg;C
+SA	Gallus gallus	0.22	*	*pH 7.5, 37&deg;C
+SA	Microsporum canis	0.22	*	*pH 7.5, 37&deg;C
+SA	Penicillium chrysogenum	0.22	*	*pH 7.5, 37&deg;C
+SA	Serratia marcescens	0.22	*	*pH 7.5, 37&deg;C
+SA	Staphylococcus aureus	0.22	*	*pH 7.5, 37&deg;C
+SA	Trichoderma viride	0.22	*	*pH 7.5, 37&deg;C
+SA	Triticum aestivum	0.23	*	*xanthine-NAD+ assay
+SA	Bos taurus	0.25	*	*substrate NAD+, pH 7.2, 25&deg;C
+SA	Capra hircus	0.27	*	*substrate NAD+, pH 7.2, 25&deg;C; substrate xanthine, pH 7.2, 25&deg;C
+SA	Homo sapiens	0.29	*	*substrate NAD+, pH 7.2, 25&deg;C
+SA	Drosophila melanogaster	0.54	*	*
+SA	Arabidopsis thaliana	0.65	*	*purified recombinant enzyme, pH 8.0, 25&deg;C
+SA	Ovis aries	0.69	*	*substrate xanthine, pH 7.2, 25&deg;C
+SA	Arabidopsis thaliana	0.702	*	*purified recombinant enzyme, substrate NADH, pH 6.6
+SA	Pseudomonas putida	0.9	*	*crude extract
+SA	Pisum sativum	1.17	*	*pH 8.5
+SA	Bos taurus	1.56	*	*xanthine dehydrogenase activity
+SA	Arabidopsis thaliana	1.712	*	*purified recombinant enzyme, in presence of sulfide/dithionite
+SA	Drosophila melanogaster	1.8	*	*
+SA	Bos taurus	1.8	*	*purified native enzyme, pH and temperature not specified in the publication
+SA	Bos taurus	1.83	*	*substrate xanthine, pH 7.2, 25&deg;C
+SA	Glycine max	2.4	*	*
+SA	Rattus sp.	2.47	*	*
+SA	Gottschalkia purinilytica	2.6	*	*xanthine-2,6-dichlorophenolindophenol assay
+SA	Gottschalkia acidurici	2.8	*	*highest activity if growth medium contains urate and is supplemented with 0.0001 mM selenite and 0.0001 mM tungstate
+SA	Clostridium cylindrosporum	3.7	*	*highest activity if growth medium contains urate and is supplemented with 0.0001 mM selenite and 0.0001 mM molybdate
+SA	Chlamydomonas reinhardtii	5.69	*	*
+SA	Delftia acidovorans	6.58	*	*pH 7.8, 25&deg;C, expression of xdhAB genes
+SA	Escherichia coli	7	*	*purified recombinant enzyme, pH and temperature not specified in the publication
+SA	Enterobacter cloacae	7.5	*	*purified native enzyme, pH and temperature not specified in the publication
+SA	Arthrobacter luteolus	10	*	*purified native enzyme, pH and temperature not specified in the publication
+SA	Streptomyces cyanogenus	10.6	*	*
+SA	Gallus gallus	17.5	*	*pancreas enzyme with allopurinol at 50 mg/kg body weight
+SA	Rhodobacter capsulatus	17.5	*	*purified enzyme, pH and temperature not specified in the publication
+SA	Gallus gallus	17.8	*	*pancreas enzyme
+SA	Pseudomonas synxantha	20	*	*
+SA	Gallus gallus	25.2	*	*intestine enzyme with allopurinol at 50 mg/kg body weight
+SA	Gallus gallus	26.6	*	*intestine enzyme
+SA	Pseudomonas putida	26.7	*	*hypoxanthine-NAD+ assay
+SA	Acinetobacter baumannii	29.1	*	*purified recombinant enzyme, pH and temperature not specified in the publication
+SA	Gallus gallus	29.5	*	*kidney enzyme with allopurinol at 50 mg/kg body weight
+SA	Pseudomonas putida	35.2	*	*after 39.1fold purification
+SA	Rhodobacter capsulatus	35.9	*	*
+SA	Gallus gallus	49.9	*	*kidney enzyme
+SA	Delftia acidovorans	50	*	*
+SA	Veillonella atypica	72.56	*	*xanthine-ferricyanide assay
+SA	Delftia acidovorans	80	*	*pH 7.8, 25&deg;C, expression of xdhABC genes
+SA	Pseudomonas putida	80.2	*	*
+SA	Pseudomonas putida	163	*	*ferricyanide-linked activity
+SA	Eubacterium barkeri	164	*	*hypoxanthine-NADP+-assay
+SA	Gottschalkia acidurici	385	*	*
+SA	Drosophila melanogaster	1328	*	*

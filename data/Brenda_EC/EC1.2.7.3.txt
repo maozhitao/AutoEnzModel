@@ -1,0 +1,58 @@
+KCAT	Thauera aromatica	17	2-oxoglutarate	*pH 7.8, 30&deg;C
+KM	Hydrogenobacter thermophilus	0.026	CoA	*pH 7.8, 70&Acirc;&deg;C, recombinant For
+KM	Thermococcus litoralis	0.04	CoA	*pH 8.4, 80&Acirc;&deg;C
+KM	Hydrogenobacter thermophilus	0.08	CoA	*pH 7.6, 70&Acirc;&deg;C
+KM	Hydrogenobacter thermophilus	0.08	CoA	*pH 7.8, 70&Acirc;&deg;C, recombinant Kor
+KM	Thauera aromatica	0.29	CoA	*pH 7.8, 30&Acirc;&deg;C
+KM	Thauera aromatica	0.11	2-oxoglutarate	*pH 7.8, 30&Acirc;&deg;C
+KM	Thermococcus litoralis	0.25	2-oxoglutarate	*pH 8.4, 80&Acirc;&deg;C
+KM	Hydrogenobacter thermophilus	1.4	2-oxoglutarate	*pH 7.8, 70&Acirc;&deg;C, recombinant Kor
+KM	Hydrogenobacter thermophilus	1.42	2-oxoglutarate	*pH 7.6, 70&Acirc;&deg;C
+KM	Chlorobium vibrioforme f. thiosulfatophilum	2.6	2-oxoglutarate	*pH and temperature not specified in the publication
+KM	Hydrogenobacter thermophilus	2.9	2-oxoglutarate	*pH 7.8, 70&Acirc;&deg;C, recombinant For
+KM	Chlorobium vibrioforme f. thiosulfatophilum	0.25	succinyl-CoA	*pH and temperature not specified in the publication
+KM	Hydrogenobacter thermophilus	0.00055	reduced ferredoxin	*isozyme Kor, in 10 mM MOPS, pH 6.8, at 70&Acirc;&deg;C
+KM	Hydrogenobacter thermophilus	0.0025	reduced ferredoxin	*isozyme For, in 10 mM MOPS, pH 6.8, at 70&Acirc;&deg;C
+KM	Thermococcus litoralis	0.008	oxidized ferredoxin	*pH 8.4, 80&Acirc;&deg;C, ferredoxin from Pyrococcus furiosus
+KM	Thauera aromatica	0.01	oxidized ferredoxin	*pH 7.8, 30&Acirc;&deg;C
+MW	Thermococcus litoralis	10000	*	*2 * 43000 + 2 * 29000 + 2 * 23000 + 2 * 10000, alpha2-beta2-gamma2-delta2, SDS-PAGE
+MW	Helicobacter pylori	10000	*	*1 * 10000 + 1 * 43000 + 1 * 33000 + 1 * 24000
+MW	Thermococcus litoralis	23000	*	*2 * 43000 + 2 * 29000 + 2 * 23000 + 2 * 10000, alpha2-beta2-gamma2-delta2, SDS-PAGE
+MW	Helicobacter pylori	24000	*	*1 * 10000 + 1 * 43000 + 1 * 33000 + 1 * 24000
+MW	Thermococcus litoralis	29000	*	*2 * 43000 + 2 * 29000 + 2 * 23000 + 2 * 10000, alpha2-beta2-gamma2-delta2, SDS-PAGE
+MW	Hydrogenobacter thermophilus	32678	*	*x * 67673 (subunit alpha) + x * 32678 (subunit beta), calculated from sequence
+MW	Hydrogenobacter thermophilus	33000	*	*x * 68000 (alpha-subunit) + x * 33000 (beta-subunit), SDS-PAGE
+MW	Helicobacter pylori	33000	*	*1 * 10000 + 1 * 43000 + 1 * 33000 + 1 * 24000
+MW	Thauera aromatica	34000	*	*2 * 66000 + 2 * 34000, alpha2-beta2, SDS-PAGE
+MW	Hydrogenobacter thermophilus	35000	*	*1 * 70000 + 1 * 35000, alphabeta, SDS-PAGE
+MW	Thermococcus litoralis	43000	*	*2 * 43000 + 2 * 29000 + 2 * 23000 + 2 * 10000, alpha2-beta2-gamma2-delta2, SDS-PAGE
+MW	Helicobacter pylori	43000	*	*1 * 10000 + 1 * 43000 + 1 * 33000 + 1 * 24000
+MW	Thauera aromatica	66000	*	*2 * 66000 + 2 * 34000, alpha2-beta2, SDS-PAGE
+MW	Hydrogenobacter thermophilus	67673	*	*x * 67673 (subunit alpha) + x * 32678 (subunit beta), calculated from sequence
+MW	Hydrogenobacter thermophilus	68000	*	*x * 68000 (alpha-subunit) + x * 33000 (beta-subunit), SDS-PAGE
+MW	Hydrogenobacter thermophilus	70000	*	*1 * 70000 + 1 * 35000, alphabeta, SDS-PAGE
+MW	Hydrogenobacter thermophilus	105000	*	*gel filtration
+MW	Thauera aromatica	200000	*	*gel filtration
+MW	Thermococcus litoralis	210000	*	*native PAGE
+MW	Chlorobium vibrioforme f. thiosulfatophilum	220000	*	*sucrose density gradient sedimentation
+MW	Hydrogenobacter thermophilus	230000	*	*recombinant For, gel filtration
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Carbon fixation pathways in prokaryotes	*	*
+PATH	*	Citrate cycle (TCA cycle)	*	*
+PATH	*	citric acid cycle	*	*
+PATH	*	incomplete reductive TCA cycle	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	reductive TCA cycle I	*	*
+PATH	*	reductive TCA cycle II	*	*
+PATH	*	TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)	*	*
+PATH	*	TCA cycle VI (Helicobacter)	*	*
+SA	Hydrogenobacter thermophilus	-999	*	*the specific activity of For is approximately one-tenth of that of Kor
+SA	Thermococcus litoralis	0.15	*	*crude extract, pH 8.4, 80&deg;C
+SA	Hydrogenobacter thermophilus	0.68	*	*70&deg;C, pH not specified in the publication
+SA	Chlorobium vibrioforme f. thiosulfatophilum	1.25	*	*pH and temperature not specified in the publication
+SA	Hydrogenobacter thermophilus	3.34	*	*70&deg;C, pH not specified in the publication, recombinant enzyme, oxidative decarboxylation of 2-oxoglutarate
+SA	Thauera aromatica	4.8	*	*pH 7.8, 30&deg;C
+SA	Hydrogenobacter thermophilus	18	*	*pH 7.6, 70&deg;C
+SA	Thermococcus litoralis	22.3	*	*pH 8.4, 80&deg;C, purified enzyme
+SA	Hydrogenobacter thermophilus	35.2	*	*pH 7.8, 70&deg;C, recombinant Kor

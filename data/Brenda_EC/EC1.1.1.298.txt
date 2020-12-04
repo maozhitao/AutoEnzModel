@@ -1,0 +1,31 @@
+KCAT	Metallosphaera sedula	115	NADPH	*pH 7.4, 65&Acirc;&deg;C
+KCAT	Bacillus cereus	0.21	3-hydroxypropionate	*pH 8.5, 37&Acirc;&deg;C; pH 8.5, 37&Acirc;&deg;C, recombinant enzyme
+KCAT	Metallosphaera sedula	115	malonate semialdehyde	*pH 7.4, 65&Acirc;&deg;C
+KCAT	Bacillus cereus	0.21	3-hydroxypropanoate	*pH 8.5, 37&Acirc;&deg;C
+KM	Bacillus cereus	-999	more	*steady-state kinetic analysis, overview; steady-state kinetics, overview
+KM	Metallosphaera sedula	0.07	malonate semialdehyde	*pH 7.4, 65&deg;C
+KM	Metallosphaera sedula	0.07	NADPH	*pH 7.4, 65&deg;C
+KM	Bacillus cereus	0.25	NADP+	*pH 8.5, 37&deg;C; pH 8.5, 37&deg;C, recombinant enzyme
+KM	Bacillus cereus	2.4	NAD+	*pH 8.5, 37&deg;C; pH 8.5, 37&deg;C, recombinant enzyme
+KM	Bacillus cereus	16.8	3-hydroxypropanoate	*pH 8.5, 37&deg;C
+KM	Bacillus cereus	16.8	3-hydroxypropionate	*pH 8.5, 37&deg;C; pH 8.5, 37&deg;C, recombinant enzyme
+MW	Bacillus cereus	32000	*	*x * 32000, recombinant enzyme, SDS-PAGE; x * 32000, SDS-PAGE
+MW	Metallosphaera sedula	33000	*	*3 * 33000, SDS-PAGE
+MW	Metallosphaera sedula	105000	*	*gel filtration
+MW	Chloroflexus aurantiacus	145000	*	*2 * 145000, SDS-PAGE
+MW	Chloroflexus aurantiacus	300000	*	*gel filtration
+PATH	*	3-hydroxypropanoate cycle	*	*
+PATH	*	3-hydroxypropanoate/4-hydroxybutanate cycle	*	*
+PATH	*	Carbon fixation pathways in prokaryotes	*	*
+PATH	*	CO2 fixation in Crenarchaeota	*	*
+PATH	*	glyoxylate assimilation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+PATH	*	uracil degradation III	*	*
+SA	Chloroflexus aurantiacus	0.002	*	*substrate 3-hydroxypropionate, pH 9.0, 45&deg;C
+SA	Chloroflexus aurantiacus	0.04	*	*substrate malonate-semialdehyde, pH 9.0, 45&deg;C
+SA	Metallosphaera sedula	1.5	*	*65&deg;C
+SA	Bacillus cereus	8.7	*	*pH 8.5, 37&deg;C
+SA	Bacillus cereus	8.8	*	*purified recombinant enzyme, pH 8.5, 37&deg;C
+SA	Chloroflexus aurantiacus	10	*	*purified recombinant enzyme, pH 7.8, 55&deg;C
+SA	Metallosphaera sedula	200	*	*pH 7.4, 65&deg;C, heterologously expressed enzyme

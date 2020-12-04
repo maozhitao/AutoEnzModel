@@ -1,0 +1,46 @@
+KCAT	Bacillus anthracis	0.3	NADPH	*mutant enzyme Y425F, at 25&Acirc;&deg;C
+KCAT	Bacillus anthracis	2	NADPH	*25&Acirc;&deg;C, wild-type enzyme; wild type enzyme, at 25&Acirc;&deg;C
+KCAT	Bacillus anthracis	5	NADPH	*mutant enzyme Y367F, at 25&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	7.2	NADPH	*75&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	7.2	NADPH	*at 50&Acirc;&deg;C and pH 8.1 in 1 M Tris buffer
+KCAT	Pyrococcus horikoshii	8.1	NADPH	*at 50&Acirc;&deg;C and pH 8.1 in 1 M Tris buffer
+KCAT	Bacillus anthracis	0.9	NADH	*25&Acirc;&deg;C, mutant enzyme Y25F; mutant enzyme Y425F, at 25&Acirc;&deg;C
+KCAT	Bacillus anthracis	7	NADH	*25&Acirc;&deg;C, mutant enzyme Y367F; mutant enzyme Y367F, at 25&Acirc;&deg;C
+KCAT	Bacillus anthracis	27	NADH	*25&Acirc;&deg;C, wild-type enzyme; wild type enzyme, at 25&Acirc;&deg;C
+KCAT	Bacillus anthracis	0.3	CoA-disulfide	*25&Acirc;&deg;C, mutant enzyme Y25F. Cosubstrate: NADH
+KCAT	Pyrococcus horikoshii	1.11	CoA-disulfide	*pH 8.1, 50&Acirc;&deg;C, cofactor: NADH
+KCAT	Pyrococcus horikoshii	1.5	CoA-disulfide	*pH 8.1, 50&Acirc;&deg;C, cofactor: NADPH
+KCAT	Staphylococcus aureus	3.17	CoA-disulfide	*25&Acirc;&deg;C, pH 7.8
+KCAT	Bacillus anthracis	5	CoA-disulfide	*25&Acirc;&deg;C, mutant enzyme Y367F. Cosubstrate: NADH
+KCAT	Staphylococcus aureus	27	CoA-disulfide	*wild type enzyme, at 23&Acirc;&deg;C, pH not specified in the publication
+KCAT	Staphylococcus aureus	1.2	methyl methanethiolsulfonate	*mutant enzyme Y419F, at 23&Acirc;&deg;C, pH not specified in the publication
+KCAT	Staphylococcus aureus	6.4	methyl methanethiolsulfonate	*wild type enzyme, at 23&Acirc;&deg;C, pH not specified in the publication
+KCAT	Staphylococcus aureus	10.4	methyl methanethiolsulfonate	*mutant enzyme Y361F, at 23&Acirc;&deg;C, pH not specified in the publication
+KCAT	Staphylococcus aureus	4.3	CoA-methyl disulfide	*25&Acirc;&deg;C, pH 7.8
+KCAT	Staphylococcus aureus	2.7	CoA-ethyl disulfide	*25&Acirc;&deg;C, pH 7.8
+KCAT	Staphylococcus aureus	0.95	CoA-sec-butyl disulfide	*25&Acirc;&deg;C, pH 7.8
+KM	Bacillus anthracis	0.003	NADPH	*25&Acirc;&deg;C, wild-type enzyme
+KM	Bacillus anthracis	0.006	NADPH	*wild type enzyme, at 25&Acirc;&deg;C
+KM	Pyrococcus horikoshii	0.009	NADPH	*at 50&Acirc;&deg;C and pH 8.1 in 1 M Tris buffer
+KM	Pyrococcus horikoshii	0.073	NADPH	*at 50&Acirc;&deg;C and pH 8.1 in 1 M Tris buffer
+KM	Bacillus anthracis	0.001	NADH	*25&Acirc;&deg;C, wild-type enzyme
+KM	Bacillus anthracis	0.002	NADH	*wild type enzyme, at 25&Acirc;&deg;C
+KM	Bacillus anthracis	0.002	CoA-disulfide	*25&Acirc;&deg;C, wild-type enzyme. Cosubstrate: NADH
+KM	Staphylococcus aureus	0.003	CoA-disulfide	*wild type enzyme, at 23&Acirc;&deg;C, pH not specified in the publication
+KM	Bacillus anthracis	0.006	CoA-disulfide	*25&Acirc;&deg;C, wild-type enzyme, cosubstrate: NADPH
+KM	Staphylococcus aureus	0.006	CoA-disulfide	*25&Acirc;&deg;C, pH 7.8
+KM	Pyrococcus horikoshii	0.0205	CoA-disulfide	*pH 8.1, 50&Acirc;&deg;C, cofactor: NADH
+KM	Pyrococcus horikoshii	0.0562	CoA-disulfide	*pH 8.1, 50&Acirc;&deg;C, cofactor: NADPH
+KM	Staphylococcus aureus	0.047	methyl methanethiolsulfonate	*mutant enzyme Y361F, at 23&Acirc;&deg;C, pH not specified in the publication
+KM	Staphylococcus aureus	0.078	methyl methanethiolsulfonate	*wild type enzyme, at 23&Acirc;&deg;C, pH not specified in the publication
+KM	Staphylococcus aureus	0.575	methyl methanethiolsulfonate	*mutant enzyme Y419F, at 23&Acirc;&deg;C, pH not specified in the publication
+KM	Staphylococcus aureus	0.008	CoA-methyl disulfide	*25&Acirc;&deg;C, pH 7.8
+KM	Staphylococcus aureus	0.005	CoA-ethyl disulfide	*25&Acirc;&deg;C, pH 7.8
+KM	Staphylococcus aureus	0.004	CoA-sec-butyl disulfide	*25&Acirc;&deg;C, pH 7.8
+MW	Borreliella burgdorferi	50000	*	*SDS-PAGE
+MW	Staphylococcus aureus	51000	*	*2 * 51000, X-ray crystallography
+PATH	*	non-pathway related	*	*
+SA	Borreliella burgdorferi	-999	*	*no activity against oxidized glutathione and thioredoxin
+SA	Borreliella burgdorferi	0.38	*	*using NADPH, aerobic conditions, at 25&Acirc;&deg;C
+SA	Borreliella burgdorferi	16.9	*	*using NADH, aerobic conditions, at 25&Acirc;&deg;C
+SA	Borreliella burgdorferi	26.7	*	*using NADH, anaerobic conditions, at 25&Acirc;&deg;C

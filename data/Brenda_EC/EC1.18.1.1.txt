@@ -1,0 +1,21 @@
+KCAT	Desulfovibrio gigas	8.42	Desulfovibrio gigas rubredoxin	*
+KM	Acinetobacter calcoaceticus	0.0025	2,6-dichloroindophenol	*
+KM	Acinetobacter calcoaceticus	0.055	Fe(CN)63-	*
+KM	Acinetobacter calcoaceticus	0.11	NADH	*reaction with 2,6-dichloroindophenol or Fe(CN)63-
+KM	Alcanivorax borkumensis	1.6	NADH	*pH 8.0, 45&deg;C
+MW	Desulfovibrio gigas	27000	*	*x * 27000 + x * 32000, SDS-PAGE
+MW	Desulfovibrio gigas	32000	*	*x * 27000 + x * 32000, SDS-PAGE
+MW	Clostridium acetobutylicum	38000	*	*gel filtration
+MW	Clostridium acetobutylicum	41000	*	*1 * 41000, SDS-PAGE
+MW	Alcanivorax borkumensis	41000	*	*x * 41000, calculated and SDS-PAGE
+MW	Pseudomonas oleovorans	50500	*	*1 * 50500, SDS-PAGE
+MW	Pseudomonas oleovorans	55300	*	*calculation from sedimenation and diffusion measurement
+PATH	*	Fatty acid degradation	*	*
+PATH	*	octane oxidation	*	*
+PATH	*	octane oxidation	*	*
+SA	Desulfovibrio gigas	-999	*	*
+SA	Desulfovibrio gigas	12	*	*
+SA	Clostridium acetobutylicum	46	*	*rubredoxin-dependent reduction of cytochrome c
+SA	Pseudomonas oleovorans	82	*	*rubredoxin-dependent reduction of cytochrome c
+SA	Pseudomonas oleovorans	86	*	*rubredoxin-dependent reduction of cytochrome c
+SA	Alcanivorax borkumensis	11500	*	*pH 8.0, 45&Acirc;&deg;C

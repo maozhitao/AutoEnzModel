@@ -1,0 +1,51 @@
+KCAT	Pyrococcus horikoshii	1.7	ADP	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Thermotoga maritima	11.1	ADP	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	1.5	UDP	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Thermotoga maritima	7.1	UDP	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	1.7	GDP	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Thermotoga maritima	9.7	GDP	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	0.53	UDP-alpha-D-glucose	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Thermotoga maritima	25	UDP-alpha-D-glucose	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	1.2	alpha,alpha-trehalose	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	0.54	GDP-alpha-D-glucose	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Thermotoga maritima	34	GDP-alpha-D-glucose	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Pyrococcus horikoshii	0.44	ADP-alpha-D-glucose	*pH 6.0, 60&Acirc;&deg;C
+KCAT	Thermotoga maritima	20	ADP-alpha-D-glucose	*pH 6.0, 60&Acirc;&deg;C
+KM	Thermoproteus tenax	0.23	UDP-glucose	*in 50 mM HEPES/KOH (pH 7.0), with 20 mM MgCl2, at 70&deg;C
+KM	Rubrobacter xylanophilus	0.8	ADP-glucose	*recombinant enzyme, at 60&deg;C
+KM	Thermococcus litoralis	1.14	ADP-glucose	*90&deg;C, pH 6.5
+KM	Rubrobacter xylanophilus	1.3	D-glucose	*recombinant enzyme, at 60&deg;C
+KM	Thermotoga maritima	1.7	GDP-alpha-D-glucose	*pH 6.0, 60&deg;C
+KM	Thermotoga maritima	1.7	UDP-alpha-D-glucose	*pH 6.0, 60&deg;C
+KM	Pyrococcus horikoshii	2.08	GDP-alpha-D-glucose	*pH 6.0, 60&deg;C
+KM	Thermotoga maritima	2.3	ADP-alpha-D-glucose	*pH 6.0, 60&deg;C
+KM	Pyrococcus horikoshii	2.46	UDP-alpha-D-glucose	*pH 6.0, 60&deg;C
+KM	Pyrococcus horikoshii	3.2	ADP-alpha-D-glucose	*pH 6.0, 60&deg;C
+KM	Thermoproteus tenax	3.57	D-glucose	*in 50 mM HEPES/KOH (pH 7.0), with 20 mM MgCl2, at 70&deg;C
+KM	Pyrococcus horikoshii	4.6	D-glucose	*pH 7.0, 37&deg;C
+KM	Thermococcus litoralis	6.2	D-glucose	*90&deg;C, pH 6.5
+KM	Rubrobacter xylanophilus	6.8	ADP	*recombinant enzyme, at 60&deg;C
+KM	Thermococcus litoralis	11.5	alpha,alpha-1,1-trehalose	*90&deg;C, pH 6.5
+KM	Pyrococcus horikoshii	12.7	D-galactose	*pH 7.0, 37&deg;C
+KM	Pyrococcus horikoshii	14.19	ADP	*pH 6.0, 60&deg;C
+KM	Pyrococcus horikoshii	23.77	GDP	*pH 6.0, 60&deg;C
+KM	Pyrococcus horikoshii	25.24	alpha,alpha-trehalose	*pH 6.0, 60&deg;C
+KM	Pyrococcus horikoshii	29.54	UDP	*pH 6.0, 60&deg;C
+KM	Thermotoga maritima	40	ADP	*pH 6.0, 60&deg;C
+KM	Thermotoga maritima	54	GDP	*pH 6.0, 60&deg;C
+KM	Thermotoga maritima	71	UDP	*pH 6.0, 60&deg;C
+KM	Rubrobacter xylanophilus	82	alpha,alpha-1,1-trehalose	*recombinant enzyme, at 60&deg;C
+MW	Thermoproteus tenax	44400	*	*subunit, calculated from amino acid sequence
+MW	Rubrobacter xylanophilus	46700	*	*calculated from amino acid sequence
+MW	Thermoproteus tenax	47000	*	*subunit, SDS-PAGE
+MW	Thermotoga maritima	47000	*	*SDS-PAGE
+MW	Thermococcus litoralis	48000	*	*2 * 48146, calculated, 2 * 48000, SDS-PAGE
+MW	Thermococcus litoralis	48146	*	*2 * 48146, calculated, 2 * 48000, SDS-PAGE
+MW	Pyrococcus horikoshii	48197	*	*x * 48197, calculated, x * 49871, MALDI-TOF mass spectrometry of recombinant His-tagged protein
+MW	Pyrococcus horikoshii	49871	*	*x * 48197, calculated, x * 49871, MALDI-TOF mass spectrometry of recombinant His-tagged protein
+MW	Thermoproteus tenax	100000	*	*native enzyme, gel filtration
+MW	Thermococcus litoralis	104000	*	*PAGE
+PATH	*	Metabolic pathways	*	*
+PATH	*	metabolism of disaccharids	*	*
+PATH	*	Starch and sucrose metabolism	*	*
+PATH	*	trehalose biosynthesis VI	*	*
